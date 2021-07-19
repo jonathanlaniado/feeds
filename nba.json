@@ -3,5 +3,15 @@
     "title": "r/nba",
     "home_page_url": "https://jonathanlaniado.com",
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/nba.json",
-    "items": []
+    "items": [
+        {
+            "id": "on8enf",
+            "url": "https://www.reddit.com/r/nba/comments/on8enf/some_nba_photographer_caught_my_reaction_to_the/",
+            "title": "Some NBA photographer caught my reaction to the Giannis dunk at Game 5. Bucks in 6!",
+            "content_text": "[https://i.imgur.com/Kmiq9A3.jpg](https://i.imgur.com/Kmiq9A3.jpg)\n\nAs seen on the official NBA twitter! I laughed pretty hard when I saw they captured that moment perfectly: [https://twitter.com/NBA/status/1416797412790767624](https://twitter.com/NBA/status/1416797412790767624)",
+            "authors": [
+                "VitaliBoost"
+            ]
+        }
+    ]
 }
