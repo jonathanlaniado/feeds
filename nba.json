@@ -3,5 +3,15 @@
     "title": "r/nba",
     "home_page_url": "https://jonathanlaniado.com",
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/nba.json",
-    "items": []
+    "items": [
+        {
+            "id": "omyt3n",
+            "url": "https://sixerswire.usatoday.com/2021/07/16/bradley-beal-wizards-exposed-sixers-star-ben-simmons-poor-foul-shooting/",
+            "title": "Beal says Wizards exposed Ben Simmons: \u201cWe kind of exposed the move of fouling Ben putting him on the line a few times. Granted, I think in our series he actually made a few...Ben was more or less aggressive in our series, the first couple games, and then it kind of died down and trickled down.\u201d",
+            "content_text": "",
+            "authors": [
+                "efranklin13"
+            ]
+        }
+    ]
 }
