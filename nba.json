@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/nba.json",
     "items": [
         {
+            "id": "on50th",
+            "url": "https://streamable.com/5b9zyd",
+            "title": "[Highlight] Keldon Johnson with the Slam off the pass from Lillard",
+            "content_text": "",
+            "authors": [
+                "1248163264128"
+            ]
+        },
+        {
             "id": "on57tk",
             "url": "https://streamable.com/hv5li4",
             "title": "[Highlight] Zach Lavine absorbs the contact and drives in for the two-handed slam",
