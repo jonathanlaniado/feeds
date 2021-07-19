@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/apple.json",
     "items": [
         {
+            "id": "onko80",
+            "url": "https://appleinsider.com/articles/21/07/19/apple-releases-tvos-147-to-the-public-with-minor-fixes-and-improvements",
+            "title": "Apple releases tvOS 14.7 to the public with minor fixes and improvements",
+            "content_text": "",
+            "authors": [
+                "spearson0"
+            ]
+        },
+        {
             "id": "onkkvs",
             "url": "https://www.macrumors.com/2021/07/19/apple-seeds-macos-big-sur-11-5-rc-2/",
             "title": "Apple Seeds Second Release Candidate Version of macOS Big Sur 11.5 to Developers",
