@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/macapps.json",
     "items": [
         {
+            "id": "ojjfm2",
+            "url": "https://appleinsider.com/articles/21/07/13/setapp-announces-yac-partnership-with-fifteen-app-collection",
+            "title": "Setapp announces Yac partnership with fifteen app Collection.",
+            "content_text": "",
+            "authors": [
+                "RenegadeUK"
+            ]
+        },
+        {
             "id": "olyth3",
             "url": "https://www.reddit.com/r/macapps/comments/olyth3/what_apps_do_you_use_for_file_organization/",
             "title": "What app/s do you use for file organization?",
