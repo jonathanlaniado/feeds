@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/nba.json",
     "items": [
         {
+            "id": "on2jvb",
+            "url": "https://www.reddit.com/r/nba/comments/on2jvb/game_thread_usa_v_spain_exhibition/",
+            "title": "GAME THREAD: USA v Spain (Exhibition)",
+            "content_text": "Las Vegas, Nevada\n\nTime: 9PM ET\n\nTV: NBCSN\n\n[Stream](https://www.twitch.tv/nba)\n\n[Box score](https://www.usab.com/news-events/live-stats/2021/mnt/7-18-21-usa-vs-esp-box.aspx)",
+            "authors": [
+                "NBA_MOD"
+            ]
+        },
+        {
             "id": "on2lzh",
             "url": "https://www.reddit.com/r/nba/comments/on2lzh/do_you_only_watch_basketball/",
             "title": "Do you only watch basketball?",
