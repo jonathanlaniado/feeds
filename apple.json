@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/apple.json",
     "items": [
         {
+            "id": "onidgz",
+            "url": "https://www.reddit.com/r/apple/comments/onidgz/apple_releases_iosipad_os_147_and_watchos_76/",
+            "title": "Apple releases iOS/iPad OS 14.7, and watchOS 7.6",
+            "content_text": "",
+            "authors": [
+                "exjr_"
+            ]
+        },
+        {
             "id": "onhm4g",
             "url": "https://www.macrumors.com/2021/07/19/apple-online-store-whats-new-july-2021/",
             "title": "Apple Adds New Products to Online Store, Including Linksys Velop Wi-Fi 6 Mesh Routers With HomeKit Support",
