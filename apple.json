@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/apple.json",
     "items": [
         {
+            "id": "ong53f",
+            "url": "https://www.macrumors.com/2021/07/19/apple-warns-against-hydrogen-peroxide-cleaners/",
+            "title": "Apple Warns Against Using Hydrogen Peroxide Disinfectants on Products",
+            "content_text": "",
+            "authors": [
+                "Bandyliuk"
+            ]
+        },
+        {
             "id": "ongfvy",
             "url": "https://liuwill.notion.site/The-story-of-how-I-lost-my-wallet-on-the-subway-at-5am-and-got-it-back-the-next-day-f62fdcee6dd94605a4f9ef9736a72f03",
             "title": "The story of how I lost my wallet on the subway at 5am and got it back the next day with Airtags",
