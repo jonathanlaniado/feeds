@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/nba.json",
     "items": [
         {
+            "id": "onm0kb",
+            "url": "https://eu.jsonline.com/story/sports/nba/bucks/2021/07/19/deer-district-expand-tens-thousands-expected-tuesday/8018585002/",
+            "title": "Bucks expanding Deer District, expecting nearly 50,000 people downtown Tuesday",
+            "content_text": "",
+            "authors": [
+                "Deer_Noises"
+            ]
+        },
+        {
             "id": "onkgii",
             "url": "https://www.reddit.com/r/nba/comments/onkgii/joel_embiid_i_feel_like_i_took_a_huge_step_this/",
             "title": "[Joel Embiid] \u201cI feel like I took a huge step this year. There\u2019s so much more I can do, and I can be so much better. Whether it\u2019s my body - I felt like this year was the biggest year of my career, just taking care of my body...I progressed a lot this year, and next year I\u2019m going to be even better.\u201d",
