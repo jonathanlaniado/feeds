@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/nba.json",
     "items": [
         {
+            "id": "onheat",
+            "url": "https://www.reddit.com/r/nba/comments/onheat/the_athletic_steve_kerr_gives_a_promising_update/",
+            "title": "[The Athletic] Steve Kerr gives a promising update on Klay Thompson\u2019s rehab: \"There\u2019s a big step with the Achilles when you can actually start running again. It\u2019s a huge psychological boost. \u2026 He\u2019s at that point.\"",
+            "content_text": "Source: https://theathletic.com/2707239/2021/07/19/steve-kerr-details-the-kenny-atkinson-hire-warriors-coaching-changes-and-gives-a-klay-thompson-update/\n\n> The return of Klay Thompson is still the most influential storyline of the summer. The expectation remains that he will likely miss the start of the season, as he eases back into action. But the latest update sounds promising.\n\n> Not full contact yet. But starting to really get movement on the court. He\u2019s still aways away from actually playing basketball in a 5-on-5 setting. But there\u2019s a big step with the Achilles when you can actually start running again. It\u2019s a huge psychological boost. The rest of the body gets going, you start feeling the soreness and aches and pains that actually feel good when you\u2019ve been out for a while. He\u2019s at that point.",
+            "authors": [
+                "nonbiasednbafan"
+            ]
+        },
+        {
             "id": "ond8eh",
             "url": "https://www.reddit.com/r/nba/comments/ond8eh/how_has_your_opinion_of_budenholzer_changed_since/",
             "title": "How has your opinion of Budenholzer changed since the Bucks have went 3-0 in the last 3 games?",
