@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/nba.json",
     "items": [
         {
+            "id": "onbtua",
+            "url": "https://basketnews.com/news-152968-wild-free-agency-stories-jordan-to-estudiantes-and-dirks-mystery.html",
+            "title": "During the 1998-99 lockout, Michael Jordan almost had a deal with Estudiantes Madrid. There was a bonus included \u2013 private golf lessons with Severiano Ballesteros, a legendary Spanish golfer. Basically, MJ was supposed to play golf from Monday to Friday and then some basketball on weekends.",
+            "content_text": "",
+            "authors": [
+                "agniusin"
+            ]
+        },
+        {
             "id": "ondt42",
             "url": "https://www.reddit.com/r/nba/comments/ondt42/the_athletic_sources_say_theres_an_expectation/",
             "title": "[The Athletic] Sources say there\u2019s an expectation that at least one of [Eric Bledsoe or Steven Adams] will be on the move this offseason. If the Pelicans find a home for Adams into a team\u2019s cap space, and then stretch Bledsoe. That opens up approximately $30 million in cap space for New Orleans.",
