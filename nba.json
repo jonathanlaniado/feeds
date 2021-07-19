@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/nba.json",
     "items": [
         {
+            "id": "one25l",
+            "url": "https://www.jsonline.com/story/sports/nba/bucks/2021/07/19/milwaukee-bucks-decide-mike-budenholzers-future-after-nba-finals/8007706002/",
+            "title": "[Milwaukee Journal Sentinel] Milwaukee Bucks to address head coach Mike Budenholzer\u2019s future after NBA Finals",
+            "content_text": "",
+            "authors": [
+                "adamb10"
+            ]
+        },
+        {
             "id": "onjbwx",
             "url": "https://www.reddit.com/r/nba/comments/onjbwx/rohlin_giannis_on_lebron_james_being_courtside/",
             "title": "[Rohlin] Giannis on LeBron James being courtside for Game 5: \u201cFirst time he was in the Finals was 2007, I wasn\u2019t playing basketball. That\u2019s crazy to think about.\u201d",
