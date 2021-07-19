@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/apple.json",
     "items": [
         {
+            "id": "onkqt3",
+            "url": "https://www.macrumors.com/2021/07/19/apple-music-spatial-audio-lossless-india-launch/",
+            "title": "Apple Music Spatial Audio and Lossless Quality Rolling Out in India",
+            "content_text": "",
+            "authors": [
+                "spearson0"
+            ]
+        },
+        {
             "id": "onko80",
             "url": "https://appleinsider.com/articles/21/07/19/apple-releases-tvos-147-to-the-public-with-minor-fixes-and-improvements",
             "title": "Apple releases tvOS 14.7 to the public with minor fixes and improvements",
