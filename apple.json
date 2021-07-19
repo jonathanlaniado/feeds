@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/apple.json",
     "items": [
         {
+            "id": "onix2n",
+            "url": "https://www.amnesty.org/en/latest/news/2021/07/pegasus-project-apple-iphones-compromised-by-nso-spyware/",
+            "title": "Pegasus Project: Apple iPhones compromised by NSO spyware",
+            "content_text": "",
+            "authors": [
+                "bhodrolok"
+            ]
+        },
+        {
             "id": "onilxm",
             "url": "https://9to5mac.com/2021/07/19/airpods-magsafe-battery-pack-iphone-12/",
             "title": "MagSafe Battery Pack charges the AirPods too",
