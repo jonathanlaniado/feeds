@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/macapps.json",
     "items": [
         {
+            "id": "ohp0zs",
+            "url": "https://github.com/staniel359/muffon",
+            "title": "muffon - Desktop music browser",
+            "content_text": "",
+            "authors": [
+                "staniel359"
+            ]
+        },
+        {
             "id": "ojjfm2",
             "url": "https://appleinsider.com/articles/21/07/13/setapp-announces-yac-partnership-with-fifteen-app-collection",
             "title": "Setapp announces Yac partnership with fifteen app Collection.",
