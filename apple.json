@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/apple.json",
     "items": [
         {
+            "id": "onkkvs",
+            "url": "https://www.macrumors.com/2021/07/19/apple-seeds-macos-big-sur-11-5-rc-2/",
+            "title": "Apple Seeds Second Release Candidate Version of macOS Big Sur 11.5 to Developers",
+            "content_text": "",
+            "authors": [
+                "spearson0"
+            ]
+        },
+        {
             "id": "onkiot",
             "url": "https://www.macrumors.com/2021/07/19/apple-releases-homepod-14-7-software/",
             "title": "Apple Releases HomePod 14.7 Software With Support for Managing Timers From the Home App",
