@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/apple.json",
     "items": [
         {
+            "id": "onig0u",
+            "url": "https://twitter.com/appleswupdates/status/1417169765433499651?s=21",
+            "title": "AppleSWUpdates: iOS 14.7 (18G68) has been released. #iOS #iOS147",
+            "content_text": "",
+            "authors": [
+                "youcantseeshawn30"
+            ]
+        },
+        {
             "id": "onidgz",
             "url": "https://www.reddit.com/r/apple/comments/onidgz/apple_releases_iosipad_os_147_and_watchos_76/",
             "title": "Apple releases iOS/iPad OS 14.7, and watchOS 7.6",
