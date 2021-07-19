@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/nba.json",
     "items": [
         {
+            "id": "on2isj",
+            "url": "https://nypost.com/2021/07/18/team-usa-basketball-never-made-julius-randle-an-offer/amp/",
+            "title": "Team USA never made Knicks\u2019 Julius Randle an offer",
+            "content_text": "",
+            "authors": [
+                "ReturnOfAKidNamedTae"
+            ]
+        },
+        {
             "id": "on2jvb",
             "url": "https://www.reddit.com/r/nba/comments/on2jvb/game_thread_usa_v_spain_exhibition/",
             "title": "GAME THREAD: USA v Spain (Exhibition)",
