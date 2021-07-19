@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/apple.json",
     "items": [
         {
+            "id": "onkiot",
+            "url": "https://www.macrumors.com/2021/07/19/apple-releases-homepod-14-7-software/",
+            "title": "Apple Releases HomePod 14.7 Software With Support for Managing Timers From the Home App",
+            "content_text": "",
+            "authors": [
+                "spearson0"
+            ]
+        },
+        {
             "id": "onj3xm",
             "url": "https://www.reddit.com/r/apple/comments/onj3xm/why_i_cant_switch_to_apple_music_from_spotify/",
             "title": "Why I can't switch to Apple Music from Spotify",
