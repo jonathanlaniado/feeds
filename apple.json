@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/apple.json",
     "items": [
         {
+            "id": "onilxm",
+            "url": "https://9to5mac.com/2021/07/19/airpods-magsafe-battery-pack-iphone-12/",
+            "title": "MagSafe Battery Pack charges the AirPods too",
+            "content_text": "",
+            "authors": [
+                "mvrketing"
+            ]
+        },
+        {
             "id": "onig0u",
             "url": "https://twitter.com/appleswupdates/status/1417169765433499651?s=21",
             "title": "AppleSWUpdates: iOS 14.7 (18G68) has been released. #iOS #iOS147",
