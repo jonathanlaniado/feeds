@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/apple.json",
     "items": [
         {
+            "id": "onhk2a",
+            "url": "https://blogs.nvidia.com/blog/2021/07/19/geforce-rtx-arm-gdc/",
+            "title": "Arm Is RTX ON! World\u2019s Most Widely Used CPU Architecture Meets Real-Time Ray Tracing, DLSS",
+            "content_text": "",
+            "authors": [
+                "aotdsyndrome"
+            ]
+        },
+        {
             "id": "onhjb1",
             "url": "https://blogs.nvidia.com/blog/2021/07/19/geforce-rtx-arm-gdc/",
             "title": "Nvidia announces RTX, DLSS available for ARM. Future potential for Macs?",
