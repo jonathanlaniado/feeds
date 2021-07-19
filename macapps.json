@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/macapps.json",
     "items": [
         {
+            "id": "ocshkb",
+            "url": "https://achuthhadnoor.gumroad.com/l/moa_app",
+            "title": "Show battery percentage and get notified at custom levels in mac menubar",
+            "content_text": "",
+            "authors": [
+                "achuth123"
+            ]
+        },
+        {
             "id": "ohp0zs",
             "url": "https://github.com/staniel359/muffon",
             "title": "muffon - Desktop music browser",
