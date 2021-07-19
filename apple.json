@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/apple.json",
     "items": [
         {
+            "id": "onnf20",
+            "url": "https://www.reddit.com/r/apple/comments/onnf20/research_kit_competitors/",
+            "title": "Research Kit Competitors",
+            "content_text": "Hi does anyone know of any research kit competitors out there?",
+            "authors": [
+                "the_sammich_man"
+            ]
+        },
+        {
             "id": "onmwsw",
             "url": "https://9to5mac.com/2021/07/19/how-to-make-custom-apple-watch-complications-health-data/",
             "title": "How to show live health data on Apple Watch",
