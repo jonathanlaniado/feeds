@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/apple.json",
     "items": [
         {
+            "id": "onmwsw",
+            "url": "https://9to5mac.com/2021/07/19/how-to-make-custom-apple-watch-complications-health-data/",
+            "title": "How to show live health data on Apple Watch",
+            "content_text": "",
+            "authors": [
+                "n0skeuomorphism"
+            ]
+        },
+        {
             "id": "onlbjs",
             "url": "https://www.reddit.com/r/apple/comments/onlbjs/the_other_side_of_righttorepair_why_not_getting/",
             "title": "The other side of \u201cright-to-repair\u201d Why not getting your batteries replaced is serving you?",
