@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/nyknicks.json",
     "items": [
         {
+            "id": "onngl6",
+            "url": "https://twitter.com/sny_knicks/status/1417167103493296132?s=21",
+            "title": "As recently as last month, Knicks have talked internally about the possibility of holding enough cap space this summer for 2022 FA class. - Ian Begley",
+            "content_text": "",
+            "authors": [
+                "LouisFuton"
+            ]
+        },
+        {
             "id": "onpw8y",
             "url": "https://www.reddit.com/r/NYKnicks/comments/onpw8y/a_different_new_orleans_trade/",
             "title": "A different new Orleans trade",
