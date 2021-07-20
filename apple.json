@@ -8,6 +8,21 @@
     "favicon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
     "items": [
         {
+            "id": "onzq8x",
+            "url": "/r/apple/comments/onzq8x/your_iphone_left_behind_feature_coming_to_the/",
+            "external_url": "https://gadgetsandwearables.com/2021/07/20/your-iphone-left-behind-apple-watch/",
+            "title": "\"Your iPhone left behind\" feature coming to the Apple Watch",
+            "content_html": "<p>See the linked content on <a href='https://gadgetsandwearables.com/2021/07/20/your-iphone-left-behind-apple-watch/'>gadgetsandwearables.com</a>.</p>",
+            "date_published": "2021-07-20T10:54:30+00:00",
+            "authors": [
+                {
+                    "name": "Maslakovic",
+                    "url": "https://www.reddit.com/user/Maslakovic",
+                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_11_EA0027.png"
+                }
+            ]
+        },
+        {
             "id": "oo0v06",
             "url": "/r/apple/comments/oo0v06/apple_plans_underscreen_sensors_to_include_both/",
             "external_url": "https://appleinsider.com/articles/21/07/20/apple-plans-under-screen-sensors-to-include-both-touch-id-and-face-id",
