@@ -1,0 +1,10 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "r/nba",
+    "description": "A subreddit dedicated to NBA news and discussion.",
+    "home_page_url": "https://reddit.com",
+    "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/nba.json",
+    "icon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
+    "favicon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
+    "items": []
+}
