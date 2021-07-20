@@ -8,6 +8,21 @@
     "favicon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
     "items": [
         {
+            "id": "ond5xv",
+            "url": "/r/apple/comments/ond5xv/how_does_apple_technology_hold_up_against_nso/",
+            "external_url": "https://www.theguardian.com/news/2021/jul/19/how-does-apple-technology-hold-up-against-nso-spyware",
+            "title": "How does Apple technology hold up against NSO spyware? | Apple",
+            "content_html": "<p>See the linked content on <a href='https://www.theguardian.com/news/2021/jul/19/how-does-apple-technology-hold-up-against-nso-spyware'>www.theguardian.com</a>.</p>",
+            "date_published": "2021-07-19T12:34:54+00:00",
+            "authors": [
+                {
+                    "name": "moin3",
+                    "url": "https://www.reddit.com/user/moin3",
+                    "avatar": "https://styles.redditmedia.com/t5_2jmf45/styles/profileIcon_snoo3c92a88a-2a8a-4681-b6d8-60bd2041e2f1-headshot.png"
+                }
+            ]
+        },
+        {
             "id": "ondjrl",
             "url": "/r/apple/comments/ondjrl/how_apple_has_supercharged_app_launching_in_ios/",
             "external_url": "https://www.macworld.com/article/351300/ios-15-macos-12-monterey-apps-launch-speed-ram.html",
