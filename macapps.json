@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/macapps.json",
     "items": [
         {
+            "id": "onxtiw",
+            "url": "https://fanfan.rambo.codes",
+            "title": "FanFan \u2014 With its state of the art Fan Simulation Engine, FanFan can bring back that soothing sound of computer fans to your M1 Mac.",
+            "content_text": "",
+            "authors": [
+                "yepdigitaluk"
+            ]
+        },
+        {
             "id": "onkauo",
             "url": "https://www.macobserver.com/cool-stuff-found/monodraw-for-mac-editor/",
             "title": "Monodraw\u2019 is a Multi-Purpose Mac ASCII Editor",
