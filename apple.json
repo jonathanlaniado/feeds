@@ -8,6 +8,21 @@
     "favicon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
     "items": [
         {
+            "id": "oksjxr",
+            "url": "/r/apple/comments/oksjxr/latest_ios_15_and_watchos_8_beta_lets_users/",
+            "external_url": "https://www.macrumors.com/2021/07/15/ios-15-watchos-8-beta-software-updates-storage/",
+            "title": "Latest iOS 15 and watchOS 8 Beta Lets Users Install Software Updates with Less Available Storage",
+            "content_html": "<p>See the linked content on <a href='https://www.macrumors.com/2021/07/15/ios-15-watchos-8-beta-software-updates-storage/'>www.macrumors.com</a>.</p>",
+            "date_published": "2021-07-15T13:12:08+00:00",
+            "authors": [
+                {
+                    "name": "spearson0",
+                    "url": "https://www.reddit.com/user/spearson0",
+                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_01_FFB000.png"
+                }
+            ]
+        },
+        {
             "id": "okt0oj",
             "url": "/r/apple/comments/okt0oj/tsmc_arizona_plant_will_start_mass_production_in/",
             "external_url": "https://9to5mac.com/2021/07/15/tsmc-arizona-plant-2024/",
