@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/nyknicks.json",
     "items": [
         {
+            "id": "ombi1f",
+            "url": "https://www.youtube.com/watch?v=-fCeF_3SwOM&feature=youtu.be",
+            "title": "20 minutes of Julius Randle three-pointers",
+            "content_text": "",
+            "authors": [
+                "thestache23"
+            ]
+        },
+        {
             "id": "omeasv",
             "url": "https://twitter.com/shamscharania/status/1416525083657392128?s=21",
             "title": "[Shams] Sources: Great news for potential first-round NBA pick Jared Butler of Baylor: The NBA\u2019s fitness-to-play panel has medically cleared Butler to play in the NBA.",
