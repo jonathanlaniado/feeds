@@ -1,0 +1,17 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "r/t5_2ul7u",
+    "description": "This is a subreddit based around sharing awesome, usually minimal and single-purpose websites and webtools. \n\nAlso, note to self: If this subreddit gets huge, awesome, if it does not, I will simply use it to back up my bookmarks! << top kek\n\nSure, I'm dissapointed you guys removed my post, I was keen to hear what people on the Internet thought of it. But it mainly saddens me to see beauty constrained by such tyranny",
+    "home_page_url": "https://reddit.com",
+    "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/t5_2ul7u.json",
+    "icon": "https://b.thumbs.redditmedia.com/k7fHE51fuhbYJRT2e9s1rXIp2ZtA7ks-cNFvQuNbfcE.png",
+    "favicon": "https://b.thumbs.redditmedia.com/k7fHE51fuhbYJRT2e9s1rXIp2ZtA7ks-cNFvQuNbfcE.png",
+    "items": [
+        {
+            "id": "0",
+            "url": "https://www.reddit.com/r/t5_2ul7u",
+            "title": "r/t5_2ul7u has been launched!",
+            "content_html": "<p>This feed will be populated as posts match the given criteria.</p>"
+        }
+    ]
+}
