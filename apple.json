@@ -8,6 +8,21 @@
     "favicon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
     "items": [
         {
+            "id": "onko80",
+            "url": "/r/apple/comments/onko80/apple_releases_tvos_147_to_the_public_with_minor/",
+            "external_url": "https://appleinsider.com/articles/21/07/19/apple-releases-tvos-147-to-the-public-with-minor-fixes-and-improvements",
+            "title": "Apple releases tvOS 14.7 to the public with minor fixes and improvements",
+            "content_html": "<p>See the linked content on <a href='https://appleinsider.com/articles/21/07/19/apple-releases-tvos-147-to-the-public-with-minor-fixes-and-improvements'>appleinsider.com</a>.</p>",
+            "date_published": "2021-07-19T18:58:41+00:00",
+            "authors": [
+                {
+                    "name": "spearson0",
+                    "url": "https://www.reddit.com/user/spearson0",
+                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_01_FFB000.png"
+                }
+            ]
+        },
+        {
             "id": "onkqt3",
             "url": "/r/apple/comments/onkqt3/apple_music_spatial_audio_and_lossless_quality/",
             "external_url": "https://www.macrumors.com/2021/07/19/apple-music-spatial-audio-lossless-india-launch/",
