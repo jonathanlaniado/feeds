@@ -8,6 +8,21 @@
     "favicon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
     "items": [
         {
+            "id": "oo0v06",
+            "url": "/r/apple/comments/oo0v06/apple_plans_underscreen_sensors_to_include_both/",
+            "external_url": "https://appleinsider.com/articles/21/07/20/apple-plans-under-screen-sensors-to-include-both-touch-id-and-face-id",
+            "title": "Apple plans under-screen sensors to include both Touch ID and Face ID",
+            "content_html": "<p>See the linked content on <a href='https://appleinsider.com/articles/21/07/20/apple-plans-under-screen-sensors-to-include-both-touch-id-and-face-id'>appleinsider.com</a>.</p>",
+            "date_published": "2021-07-20T12:14:13+00:00",
+            "authors": [
+                {
+                    "name": "benh999",
+                    "url": "https://www.reddit.com/user/benh999",
+                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_15_FFD635.png"
+                }
+            ]
+        },
+        {
             "id": "oo1jog",
             "url": "/r/apple/comments/oo1jog/exclusive_apple_planning_redesigned_ipad_mini/",
             "external_url": "https://9to5mac.com/2021/07/20/new-ipad-mini-exclusive-a15-processor-usb-c/",
