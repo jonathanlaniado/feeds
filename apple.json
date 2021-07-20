@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/apple.json",
     "items": [
         {
+            "id": "oo1u08",
+            "url": "https://www.reddit.com/r/apple/comments/oo1u08/anti_trust_uk/",
+            "title": "Anti Trust UK?",
+            "content_text": "What are your thoughts on this new Anti Trust law in the UK for tech companies and how could it affect Apple? They could potentially have some issues with the App Store, default apps and a few other things. The UK government can take over apples decisions if they\u2019re not in the best interest of the consumer?\n\nhttps://9to5mac.com/2021/07/20/new-antitrust-powers-apple-uk/",
+            "authors": [
+                "davidhepworth_"
+            ]
+        },
+        {
             "id": "oo1o4z",
             "url": "https://9to5mac.com/2021/07/20/iphone-doesnt-unlock-your-apple-watch/",
             "title": "iPhone doesn\u2019t unlock your Apple Watch after updating to iOS 14.7? It\u2019s not just you\u2026",
