@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "onidgz",
+            "url": "/r/apple/comments/onidgz/apple_releases_iosipad_os_147_and_watchos_76/",
+            "external_url": "https://www.reddit.com/r/apple/comments/onidgz/apple_releases_iosipad_os_147_and_watchos_76/",
+            "title": "Apple releases iOS/iPad OS 14.7, and watchOS 7.6",
+            "content_html": "<p>iOS/iPadOS:</p>\n<blockquote>\n<p>iOS 14.7 includes the following improvements and bug fixes for your \u200ciPhone\u200c:</p>\n</blockquote>\n<ul>\n<li>MagSafe Battery Pack support for iPhone 12, iPhone 12 mini, iPhone 12 Pro and iPhone 12 Pro Max</li>\n<li>Apple Card Family adds the option to combine credit limits and share one co-owned account with an existing Apple Card user</li>\n<li>Air quality information is now available in Weather and Maps for Canada, France, Italy, Netherlands, South Korea, and Spain</li>\n<li>Podcasts library allows you to choose to see all shows or only followed shows</li>\n<li>Share playlist menu option missing in Apple Music</li>\n<li>Dolby Atmos and Apple Music lossless audio playback may unexpectedly stop</li>\n<li>Battery service message that may have disappeared after reboot on some iPhone 11 models is restored</li>\n<li>Braille displays could show invalid information while composing Mail messages</li>\n</ul>\n<p>__</p>\n<p>watchOS:</p>\n<p>watchOS 7.6 brings ECG and Irregular Heart Rhythm Notifications to <a href=\"https://www.apple.com/watchos/feature-availability/#branded-ecg\">30 New Regions</a></p>",
+            "date_published": "2021-07-19T17:07:40+00:00",
+            "authors": [
+                {
+                    "name": "exjr_",
+                    "url": "https://www.reddit.com/user/exjr_",
+                    "avatar": "https://styles.redditmedia.com/t5_3kjan/styles/profileIcon_e9udqz6vezq01.jpg"
+                }
+            ]
+        },
+        {
             "id": "onilxm",
             "url": "/r/apple/comments/onilxm/magsafe_battery_pack_charges_the_airpods_too/",
             "external_url": "https://9to5mac.com/2021/07/19/airpods-magsafe-battery-pack-iphone-12/",
