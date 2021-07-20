@@ -8,6 +8,21 @@
     "favicon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
     "items": [
         {
+            "id": "okt0oj",
+            "url": "/r/apple/comments/okt0oj/tsmc_arizona_plant_will_start_mass_production_in/",
+            "external_url": "https://9to5mac.com/2021/07/15/tsmc-arizona-plant-2024/",
+            "title": "TSMC Arizona plant will start mass production in 2024; Apple chips likely",
+            "content_html": "<p>See the linked content on <a href='https://9to5mac.com/2021/07/15/tsmc-arizona-plant-2024/'>9to5mac.com</a>.</p>",
+            "date_published": "2021-07-15T13:38:28+00:00",
+            "authors": [
+                {
+                    "name": "Sorin61",
+                    "url": "https://www.reddit.com/user/Sorin61",
+                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_03_EA0027.png"
+                }
+            ]
+        },
+        {
             "id": "okw4ye",
             "url": "/r/apple/comments/okw4ye/spain_consumer_protection_organization_accuses/",
             "external_url": "https://9to5mac.com/2021/07/15/spain-consumer-protection-organization-accuses-apple-of-slowing-down-newer-iphones-after-ios-14-5-update/",
