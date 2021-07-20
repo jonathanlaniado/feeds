@@ -8,6 +8,21 @@
     "favicon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
     "items": [
         {
+            "id": "oljikb",
+            "url": "/r/apple/comments/oljikb/us_customs_seizing_record_numbers_of_counterfeit/",
+            "external_url": "https://www.macrumors.com/2021/07/16/airpods-drive-surge-in-counterfeit-headphones/",
+            "title": "U.S. Customs Seizing Record Numbers of Counterfeit Wireless Headphones Since AirPods Pro Launched",
+            "content_html": "<p>See the linked content on <a href='https://www.macrumors.com/2021/07/16/airpods-drive-surge-in-counterfeit-headphones/'>www.macrumors.com</a>.</p>",
+            "date_published": "2021-07-16T15:47:28+00:00",
+            "authors": [
+                {
+                    "name": "spearson0",
+                    "url": "https://www.reddit.com/user/spearson0",
+                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_01_FFB000.png"
+                }
+            ]
+        },
+        {
             "id": "oljj4d",
             "url": "/r/apple/comments/oljj4d/iphone_12_depreciates_less_than_iphone_11_study/",
             "external_url": "https://www.macrumors.com/2021/07/16/iphone-12-depreciates-less-than-iphone-11/",
