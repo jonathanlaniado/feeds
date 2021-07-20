@@ -8,6 +8,21 @@
     "favicon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
     "items": [
         {
+            "id": "oklif0",
+            "url": "/r/apple/comments/oklif0/apple_arcade_facing_more_competition_as_netflix/",
+            "external_url": "https://www.macrumors.com/2021/07/14/netflix-plans-video-game-expansion/",
+            "title": "Apple Arcade Facing More Competition as Netflix Plans Expansion Into Video Games",
+            "content_html": "<p>See the linked content on <a href='https://www.macrumors.com/2021/07/14/netflix-plans-video-game-expansion/'>www.macrumors.com</a>.</p>",
+            "date_published": "2021-07-15T04:38:15+00:00",
+            "authors": [
+                {
+                    "name": "itsInnerMe",
+                    "url": "https://www.reddit.com/user/itsInnerMe",
+                    "avatar": "https://styles.redditmedia.com/t5_2lrpsy/styles/profileIcon_snoo5aa0f862-b01b-4dc5-b369-af680f01386b-headshot.png"
+                }
+            ]
+        },
+        {
             "id": "okffce",
             "url": "/r/apple/comments/okffce/great_experience_with_the_airpods_pro_service/",
             "external_url": "https://www.reddit.com/r/apple/comments/okffce/great_experience_with_the_airpods_pro_service/",
