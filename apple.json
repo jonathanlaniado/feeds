@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/apple.json",
     "items": [
         {
+            "id": "onwugv",
+            "url": "https://finance.yahoo.com/news/apple-postpone-return-office-covid-033432565.html",
+            "title": "Apple Delays Office Return by At Least a Month as Covid Spikes",
+            "content_text": "",
+            "authors": [
+                "Aggressive_Project"
+            ]
+        },
+        {
             "id": "onwpwz",
             "url": "https://www.zdnet.com/article/ifixit-ceo-names-and-shames-tech-giants-for-right-to-repair-obstruction/#ftag=RSSbaffb68",
             "title": "iFixit CEO names and shames tech giants for right to repair obstruction - iFixit chief Kyle Wiens claims Apple, Samsung, and Microsoft are monopolising the supply chain and designing products to prevent users from being able to easily repair them.",
