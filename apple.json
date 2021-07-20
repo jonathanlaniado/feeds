@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/apple.json",
     "items": [
         {
+            "id": "ontoks",
+            "url": "https://www.realmicentral.com/2021/07/20/apple-employees-re-issued-an-internal-letter-requesting-that-they-continue-to-work-remotely/",
+            "title": "Apple employees re-issued an internal letter requesting that they continue to work remotely",
+            "content_text": "",
+            "authors": [
+                "Ok-Okra3917"
+            ]
+        },
+        {
             "id": "onnf20",
             "url": "https://www.reddit.com/r/apple/comments/onnf20/research_kit_competitors/",
             "title": "Research Kit Competitors",
