@@ -8,6 +8,21 @@
     "favicon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
     "items": [
         {
+            "id": "omvtes",
+            "url": "/r/apple/comments/omvtes/apple_plans_larger_finance_push_but_its_credit/",
+            "external_url": "https://www.bloomberg.com/news/newsletters/2021-07-18/apple-card-with-goldman-sachs-some-faces-credit-limit-application-concerns-kr9i83nh",
+            "title": "Apple Plans Larger Finance Push, But Its Credit Card Still Needs Work",
+            "content_html": "<p>See the linked content on <a href='https://www.bloomberg.com/news/newsletters/2021-07-18/apple-card-with-goldman-sachs-some-faces-credit-limit-application-concerns-kr9i83nh'>www.bloomberg.com</a>.</p>",
+            "date_published": "2021-07-18T18:04:37+00:00",
+            "authors": [
+                {
+                    "name": "iMacmatician",
+                    "url": "https://www.reddit.com/user/iMacmatician",
+                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_12_008985.png"
+                }
+            ]
+        },
+        {
             "id": "omvy59",
             "url": "/r/apple/comments/omvy59/the_perils_of_m1_ownership/",
             "external_url": "https://eclecticlight.co/2021/07/18/last-week-on-my-mac-the-perils-of-m1-ownership/",
