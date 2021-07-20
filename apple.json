@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/apple.json",
     "items": [
         {
+            "id": "oo0v06",
+            "url": "https://appleinsider.com/articles/21/07/20/apple-plans-under-screen-sensors-to-include-both-touch-id-and-face-id",
+            "title": "Apple plans under-screen sensors to include both Touch ID and Face ID",
+            "content_text": "",
+            "authors": [
+                "benh999"
+            ]
+        },
+        {
             "id": "oo0qnq",
             "url": "https://www.bbc.com/news/technology-57763037",
             "title": "Apple founder Steve Wozniak backs right-to-repair movement",
