@@ -6,5 +6,21 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/macapps.json",
     "icon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
-    "items": []
+    "items": [
+        {
+            "id": "ohp0zs",
+            "url": "/r/macapps/comments/ohp0zs/muffon_desktop_music_browser/",
+            "external_url": "https://github.com/staniel359/muffon",
+            "title": "muffon - Desktop music browser",
+            "content_html": "<p>See the linked content on <a href='https://github.com/staniel359/muffon'>github.com</a>.</p>",
+            "date_published": "2021-07-10T19:21:16+00:00",
+            "authors": [
+                {
+                    "name": "staniel359",
+                    "url": "https://www.reddit.com/user/staniel359",
+                    "avatar": "https://styles.redditmedia.com/t5_24fhxg/styles/profileIcon_qs2rwaxtidm31.jpg"
+                }
+            ]
+        }
+    ]
 }
