@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/apple.json",
     "items": [
         {
+            "id": "onypsb",
+            "url": "https://youtu.be/jxHgAr0gYC8",
+            "title": "MagSafe battery Shake Test",
+            "content_text": "",
+            "authors": [
+                "ivoryisbadmkay"
+            ]
+        },
+        {
             "id": "onyfci",
             "url": "https://youtu.be/8w46ZdKhSNU",
             "title": "MagSafe Battery Unboxing",
