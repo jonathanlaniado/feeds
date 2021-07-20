@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/apple.json",
     "items": [
         {
+            "id": "oo1o4z",
+            "url": "https://9to5mac.com/2021/07/20/iphone-doesnt-unlock-your-apple-watch/",
+            "title": "iPhone doesn\u2019t unlock your Apple Watch after updating to iOS 14.7? It\u2019s not just you\u2026",
+            "content_text": "",
+            "authors": [
+                "Bandyliuk"
+            ]
+        },
+        {
             "id": "oo1jog",
             "url": "https://9to5mac.com/2021/07/20/new-ipad-mini-exclusive-a15-processor-usb-c/",
             "title": "Exclusive: Apple planning redesigned iPad mini with A15 processor, USB-C port, more",
