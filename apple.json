@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/apple.json",
     "items": [
         {
+            "id": "oo1jog",
+            "url": "https://9to5mac.com/2021/07/20/new-ipad-mini-exclusive-a15-processor-usb-c/",
+            "title": "Exclusive: Apple planning redesigned iPad mini with A15 processor, USB-C port, more",
+            "content_text": "",
+            "authors": [
+                "drgnslyr91"
+            ]
+        },
+        {
             "id": "oo0v06",
             "url": "https://appleinsider.com/articles/21/07/20/apple-plans-under-screen-sensors-to-include-both-touch-id-and-face-id",
             "title": "Apple plans under-screen sensors to include both Touch ID and Face ID",
