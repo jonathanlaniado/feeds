@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/apple.json",
     "items": [
         {
+            "id": "onvzhe",
+            "url": "https://m.weibo.cn/detail/4661008804876280",
+            "title": "MagSafe battery pack only wirelessly charges at 5W; takes half an hour to charge an iPhone 12 Pro Max for 4%. (Chinese Weibo link)",
+            "content_text": "",
+            "authors": [
+                "eggimage"
+            ]
+        },
+        {
             "id": "onvxx1",
             "url": "https://www.amnesty.org/en/latest/news/2021/07/pegasus-project-apple-iphones-compromised-by-nso-spyware/",
             "title": "Pegasus Project: Apple iPhones compromised by NSO spyware",
