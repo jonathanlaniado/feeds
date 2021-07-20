@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/nyknicks.json",
     "items": [
         {
+            "id": "olnlua",
+            "url": "https://twitter.com/aaronjfentress/status/1416094549277954049?s=21",
+            "title": "Aaron J. Fentress: An NBA source has told The Oregonian/OregonLive that Portland Trail Blazers guard Damian Lillard has no plans to request a trade.",
+            "content_text": "",
+            "authors": [
+                "HJ2K43"
+            ]
+        },
+        {
             "id": "olnrs6",
             "url": "https://www.reddit.com/r/NYKnicks/comments/olnrs6/im_a_simple_knicks_fan/",
             "title": "I'm a simple Knicks Fan",
