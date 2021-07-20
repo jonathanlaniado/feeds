@@ -8,6 +8,21 @@
     "favicon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
     "items": [
         {
+            "id": "ondv9u",
+            "url": "/r/apple/comments/ondv9u/despite_the_hype_iphone_security_no_match_for_nso/",
+            "external_url": "https://www.washingtonpost.com/technology/2021/07/19/apple-iphone-nso/",
+            "title": "Despite the hype, iPhone security no match for NSO spyware",
+            "content_html": "<p>See the linked content on <a href='https://www.washingtonpost.com/technology/2021/07/19/apple-iphone-nso/'>www.washingtonpost.com</a>.</p>",
+            "date_published": "2021-07-19T13:17:25+00:00",
+            "authors": [
+                {
+                    "name": "Interactive_CD-ROM",
+                    "url": "https://www.reddit.com/user/Interactive_CD-ROM",
+                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_11_0DD3BB.png"
+                }
+            ]
+        },
+        {
             "id": "one55b",
             "url": "/r/apple/comments/one55b/ios_and_android_activations_now_split_evenly_in/",
             "external_url": "https://www.macrumors.com/2021/07/19/ios-and-android-activations-now-split-evenly-in-the-u-s-research-shows/",
