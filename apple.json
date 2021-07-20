@@ -8,6 +8,21 @@
     "favicon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
     "items": [
         {
+            "id": "olfnpu",
+            "url": "/r/apple/comments/olfnpu/how_apples_rumored_apple_pay_later_could_prove/",
+            "external_url": "https://appleinsider.com/articles/21/07/16/how-apples-rumored-apple-pay-later-could-prove-lucrative",
+            "title": "How Apple's rumored 'Apple Pay Later' could prove lucrative",
+            "content_html": "<p>See the linked content on <a href='https://appleinsider.com/articles/21/07/16/how-apples-rumored-apple-pay-later-could-prove-lucrative'>appleinsider.com</a>.</p>",
+            "date_published": "2021-07-16T12:13:26+00:00",
+            "authors": [
+                {
+                    "name": "Ok-Okra3917",
+                    "url": "https://www.reddit.com/user/Ok-Okra3917",
+                    "avatar": "https://styles.redditmedia.com/t5_4a3ms2/styles/profileIcon_snoo98b1a11f-5da6-4005-90f5-a3469f73784a-headshot.png"
+                }
+            ]
+        },
+        {
             "id": "olfzpc",
             "url": "/r/apple/comments/olfzpc/india_withdraws_demand_for_apple_imessage/",
             "external_url": "https://disruptive.asia/india-withdraws-demand-for-apple-imessage-compliance/?utm_source=nyoooz&utm_medium=post",
