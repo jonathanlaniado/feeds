@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "om2au9",
+            "url": "/r/apple/comments/om2au9/suggestion_apple_should_add_control_of_keynote/",
+            "external_url": "https://www.reddit.com/r/apple/comments/om2au9/suggestion_apple_should_add_control_of_keynote/",
+            "title": "Suggestion: Apple should add control of Keynote slides through Apple Watch gestures.",
+            "content_html": "<p>The new accessibility features demonstrate significant work on gesture recognition. Apple should harness this for seemingly invisible control of Keynote \u2014 a double-tap of finger and thumb, for instance, could advance slides.</p>",
+            "date_published": "2021-07-17T11:16:10+00:00",
+            "authors": [
+                {
+                    "name": "paulloewen",
+                    "url": "https://www.reddit.com/user/paulloewen",
+                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_08_C18D42.png"
+                }
+            ]
+        },
+        {
             "id": "ombh0m",
             "url": "/r/apple/comments/ombh0m/meet_wifidemon_ios_wifi_rce_0day_vulnerability/",
             "external_url": "https://blog.zecops.com/research/meet-wifidemon-ios-wifi-rce-0-day-vulnerability-and-a-zero-click-vulnerability-that-was-silently-patched/",
