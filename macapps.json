@@ -8,6 +8,21 @@
     "favicon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
     "items": [
         {
+            "id": "ocshkb",
+            "url": "/r/macapps/comments/ocshkb/show_battery_percentage_and_get_notified_at/",
+            "external_url": "https://achuthhadnoor.gumroad.com/l/moa_app",
+            "title": "Show battery percentage and get notified at custom levels in mac menubar",
+            "content_html": "<p>See the linked content on <a href='https://achuthhadnoor.gumroad.com/l/moa_app'>achuthhadnoor.gumroad.com</a>.</p>",
+            "date_published": "2021-07-03T06:21:53+00:00",
+            "authors": [
+                {
+                    "name": "achuth123",
+                    "url": "https://www.reddit.com/user/achuth123",
+                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_11_25B79F.png"
+                }
+            ]
+        },
+        {
             "id": "o6s55b",
             "url": "/r/macapps/comments/o6s55b/q_about_affinity_designer_and_photo/",
             "external_url": "https://www.reddit.com/r/macapps/comments/o6s55b/q_about_affinity_designer_and_photo/",
