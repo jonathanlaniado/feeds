@@ -8,6 +8,21 @@
     "favicon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
     "items": [
         {
+            "id": "ondjrl",
+            "url": "/r/apple/comments/ondjrl/how_apple_has_supercharged_app_launching_in_ios/",
+            "external_url": "https://www.macworld.com/article/351300/ios-15-macos-12-monterey-apps-launch-speed-ram.html",
+            "title": "How Apple has supercharged app launching in iOS 15 and macOS Monterey",
+            "content_html": "<p>See the linked content on <a href='https://www.macworld.com/article/351300/ios-15-macos-12-monterey-apps-launch-speed-ram.html'>www.macworld.com</a>.</p>",
+            "date_published": "2021-07-19T12:59:34+00:00",
+            "authors": [
+                {
+                    "name": "tecialist",
+                    "url": "https://www.reddit.com/user/tecialist",
+                    "avatar": "https://styles.redditmedia.com/t5_cex4c/styles/profileIcon_6aa0xlfmcrp21.jpg"
+                }
+            ]
+        },
+        {
             "id": "ondv9u",
             "url": "/r/apple/comments/ondv9u/despite_the_hype_iphone_security_no_match_for_nso/",
             "external_url": "https://www.washingtonpost.com/technology/2021/07/19/apple-iphone-nso/",
