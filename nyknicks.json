@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/nyknicks.json",
     "items": [
         {
+            "id": "om2vyh",
+            "url": "https://www.reddit.com/r/NYKnicks/comments/om2vyh/daily_discussion_thread_july_17/",
+            "title": "Daily Discussion Thread - (July 17)",
+            "content_text": "Daily discussion thread for Knicks fans.",
+            "authors": [
+                "nyknicks-automod"
+            ]
+        },
+        {
             "id": "om5x0x",
             "url": "https://nypost.com/2021/07/17/espns-fran-fraschilla-breaks-down-knicks-collin-sexton-nba-draft-possibilities/",
             "title": "Frischilla\u2019s Two Cents on Prospects, Knicks Fits",
