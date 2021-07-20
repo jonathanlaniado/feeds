@@ -6,5 +6,21 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/frugalmalefashion.json",
     "icon": "https://styles.redditmedia.com/t5_2s8e9/styles/communityIcon_76rcynst3uu21.png",
     "favicon": "https://styles.redditmedia.com/t5_2s8e9/styles/communityIcon_76rcynst3uu21.png",
-    "items": []
+    "items": [
+        {
+            "id": "oo1vnq",
+            "url": "/r/frugalmalefashion/comments/oo1vnq/koio_summerr_sale_up_to_60_off/",
+            "external_url": "https://www.reddit.com/r/frugalmalefashion/comments/oo1vnq/koio_summerr_sale_up_to_60_off/",
+            "title": "KOIO: Summerr Sale - Up to 60% off",
+            "content_html": "<p><a href=\"https://www.koio.co/collections/summer-sale-mens\">https://www.koio.co/collections/summer-sale-mens</a></p>\n<p>Limited selection but a pretty decent deal.</p>",
+            "date_published": "2021-07-20T13:19:07+00:00",
+            "authors": [
+                {
+                    "name": "TomatoVsPotato",
+                    "url": "https://www.reddit.com/user/TomatoVsPotato",
+                    "avatar": "https://styles.redditmedia.com/t5_293l00/styles/profileIcon_snoo6ab4f081-3414-49ce-9bcb-d12e7fe058be-headshot.png"
+                }
+            ]
+        }
+    ]
 }
