@@ -1,0 +1,10 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "r/gamedeals",
+    "description": "A community for sharing and discussing game deals.  Never pay full price again.",
+    "home_page_url": "https://reddit.com",
+    "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/gamedeals.json",
+    "icon": "https://styles.redditmedia.com/t5_2qwx3/styles/communityIcon_n3y6x4zozxp01.png",
+    "favicon": "https://styles.redditmedia.com/t5_2qwx3/styles/communityIcon_n3y6x4zozxp01.png",
+    "items": []
+}
