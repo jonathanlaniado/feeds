@@ -6,5 +6,21 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/macos.json",
     "icon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
-    "items": []
+    "items": [
+        {
+            "id": "onqawg",
+            "url": "/r/MacOS/comments/onqawg/til_you_can_customize_what_preference_panes_show/",
+            "external_url": "https://i.redd.it/3mg16045b9c71.png",
+            "title": "TIL You can customize what preference panes show up in System Preferences",
+            "content_html": "<p>See the linked content on <a href='https://i.redd.it/3mg16045b9c71.png'>i.redd.it</a>.</p>",
+            "date_published": "2021-07-19T23:48:41+00:00",
+            "authors": [
+                {
+                    "name": "unbeatable_101",
+                    "url": "https://www.reddit.com/user/unbeatable_101",
+                    "avatar": "https://styles.redditmedia.com/t5_10agvs/styles/profileIcon_fls75rj52g671.jpg"
+                }
+            ]
+        }
+    ]
 }
