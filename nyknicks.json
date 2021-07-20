@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/nyknicks.json",
     "items": [
         {
+            "id": "olfgfc",
+            "url": "https://www.reddit.com/r/NYKnicks/comments/olfgfc/daily_discussion_thread_july_16/",
+            "title": "Daily Discussion Thread - (July 16)",
+            "content_text": "Daily discussion thread for Knicks fans.",
+            "authors": [
+                "nyknicks-automod"
+            ]
+        },
+        {
             "id": "olhhbs",
             "url": "https://twitter.com/TrueHoop/status/1416031164100489231",
             "title": "[Henry Abbott]: Source: Blazers star Damian Lillard to request trade in the days to come.",
