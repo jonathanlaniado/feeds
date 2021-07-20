@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/nyknicks.json",
     "items": [
         {
+            "id": "oncmqe",
+            "url": "https://www.reddit.com/r/NYKnicks/comments/oncmqe/daily_discussion_thread_july_19/",
+            "title": "Daily Discussion Thread - (July 19)",
+            "content_text": "Daily discussion thread for Knicks fans.",
+            "authors": [
+                "nyknicks-automod"
+            ]
+        },
+        {
             "id": "ongczx",
             "url": "https://youtu.be/XpktlG_sjYA",
             "title": "Do You Remember the Antonio McDyess/Knicks era? How Good was he in his Prime?",
