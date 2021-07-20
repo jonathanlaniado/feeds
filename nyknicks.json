@@ -8,6 +8,21 @@
     "favicon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
     "items": [
         {
+            "id": "oncmqe",
+            "url": "/r/NYKnicks/comments/oncmqe/daily_discussion_thread_july_19/",
+            "external_url": "https://www.reddit.com/r/NYKnicks/comments/oncmqe/daily_discussion_thread_july_19/",
+            "title": "Daily Discussion Thread - (July 19)",
+            "content_html": "<p>Daily discussion thread for Knicks fans.</p>",
+            "date_published": "2021-07-19T12:00:21+00:00",
+            "authors": [
+                {
+                    "name": "nyknicks-automod",
+                    "url": "https://www.reddit.com/user/nyknicks-automod",
+                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_11_FFD635.png"
+                }
+            ]
+        },
+        {
             "id": "ongczx",
             "url": "/r/NYKnicks/comments/ongczx/do_you_remember_the_antonio_mcdyessknicks_era_how/",
             "external_url": "https://youtu.be/XpktlG_sjYA",
