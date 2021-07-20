@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/apple.json",
     "items": [
         {
+            "id": "onu0o0",
+            "url": "https://twitter.com/markgurman/status/1417324211853422592",
+            "title": "Apple postpones employee return to offices from early September to October at the earliest due to COVID.",
+            "content_text": "",
+            "authors": [
+                "minimaxir"
+            ]
+        },
+        {
             "id": "ontoks",
             "url": "https://www.realmicentral.com/2021/07/20/apple-employees-re-issued-an-internal-letter-requesting-that-they-continue-to-work-remotely/",
             "title": "Apple employees re-issued an internal letter requesting that they continue to work remotely",
