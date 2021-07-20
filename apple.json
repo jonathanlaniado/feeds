@@ -8,6 +8,21 @@
     "favicon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
     "items": [
         {
+            "id": "onltq5",
+            "url": "/r/apple/comments/onltq5/wouldnt_rumours_about_the_m1x_chip_make_it_one_of/",
+            "external_url": "https://www.reddit.com/r/apple/comments/onltq5/wouldnt_rumours_about_the_m1x_chip_make_it_one_of/",
+            "title": "Wouldn't rumours about the M1X chip make it one of the most powerful GPUs on the market?",
+            "content_html": "<p>There's been a lot of rumours that a new 16\" and first-ever 14\" MacBook Pro will be released in the third or fourth quarter of the year [<a href=\"https://www.macrumors.com/guide/14-inch-macbook-pro/\">1</a>, <a href=\"https://www.tomsguide.com/news/macbook-pro-14-inch-2021-release-date-price-news-and-leaks\">2</a>, <a href=\"https://www.macworld.co.uk/news/14-inch-macbook-pro-3787300/\">3</a>, <a href=\"https://appleinsider.com/inside/14-inch-macbook-pro\">4</a>, <a href=\"https://www.trustedreviews.com/news/apple-macbook-pro-2021-release-date-price-specs-and-design-4112058\">5</a>].</p>\n<p>Apart from the rumoured 1080p webcam, the return of HDMI and other ports and a new design, one feature seems especially interesting - the new M1X chip. Especially the fact that the new chip will supposedly have either 16 or 32 GPU cores compared to the current 8 cores in the M1 chip.</p>\n<p>The current M1 GPU is often compared to an Nvidia GTX 1650 (Mobile) in terms of performance. Based on the fact that the new M1X GPU will have either 2x or 4x the cores of the M1 GPU, I assume that we can expect it to be either 2x or 4x faster.</p>\n<p>If it would be 2x faster, that would make it equivalent to an Nvidia RTX 3060 (Mobile). However, the 32-core version assumed to be 4x faster than the current 8-core GPU would be equivalent to an RTX 3070-Ti (Desktop) while being 30% faster than RTX 3080 (Mobile). I picked the equivalents based on the data from UserBenchmark [<a href=\"https://gpu.userbenchmark.com/Compare/Nvidia-GTX-1650-Mobile-vs-Nvidia-RTX-3060-Laptop/m775280vsm1452971\">1</a>, <a href=\"https://gpu.userbenchmark.com/Compare/Nvidia-GTX-1650-Mobile-vs-Nvidia-RTX-3070-Ti/m775280vs4116\">2</a>, <a href=\"https://gpu.userbenchmark.com/Compare/Nvidia-RTX-3080-Laptop-vs-Nvidia-RTX-3070-Ti/m1443565vs4116\">3</a>].</p>\n<p>Do you think it's possible for the upcoming M1X integrated GPU to be comparable in performance to current high-end dedicated GPUs?</p>",
+            "date_published": "2021-07-19T19:55:20+00:00",
+            "authors": [
+                {
+                    "name": "janekb04",
+                    "url": "https://www.reddit.com/user/janekb04",
+                    "avatar": "https://styles.redditmedia.com/t5_3owsaw/styles/profileIcon_e2jich10c3a61.png"
+                }
+            ]
+        },
+        {
             "id": "onsdop",
             "url": "/r/apple/comments/onsdop/battery_pack_arrived/",
             "external_url": "https://www.reddit.com/r/apple/comments/onsdop/battery_pack_arrived/",
