@@ -6,5 +6,21 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/nba.json",
     "icon": "https://styles.redditmedia.com/t5_2qo4s/styles/communityIcon_1podsfdai4301.png",
     "favicon": "https://styles.redditmedia.com/t5_2qo4s/styles/communityIcon_1podsfdai4301.png",
-    "items": []
+    "items": [
+        {
+            "id": "onwsgt",
+            "url": "/r/nba/comments/onwsgt/what_team_does_lauri_markkanen_play_for_next/",
+            "external_url": "https://www.reddit.com/r/nba/comments/onwsgt/what_team_does_lauri_markkanen_play_for_next/",
+            "title": "What team does Lauri Markkanen play for next season?",
+            "content_html": "<p>I think it is highly unlikely Lauri is a Chicago Bull next season and most likely walks this summer. But what team would pay for him and what kind of contract should/would he get?</p>\n<p>Also to add onto this, does anyone still have hope Markkanen can figure it out and become a really good player. I remember he had a ton of hype after his rookie season with comparisons to Dirk.</p>",
+            "date_published": "2021-07-20T06:49:27+00:00",
+            "authors": [
+                {
+                    "name": "DejounteSweatshirt",
+                    "url": "https://www.reddit.com/user/DejounteSweatshirt",
+                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_14_C18D42.png"
+                }
+            ]
+        }
+    ]
 }
