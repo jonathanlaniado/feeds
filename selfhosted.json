@@ -1,0 +1,10 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "r/selfhosted",
+    "description": "A place to share alternatives to popular online services that can be self-hosted without giving up privacy or locking you into a service you don't control.",
+    "home_page_url": "https://reddit.com",
+    "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/selfhosted.json",
+    "icon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
+    "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
+    "items": []
+}
