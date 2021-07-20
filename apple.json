@@ -8,6 +8,21 @@
     "favicon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
     "items": [
         {
+            "id": "onkiot",
+            "url": "/r/apple/comments/onkiot/apple_releases_homepod_147_software_with_support/",
+            "external_url": "https://www.macrumors.com/2021/07/19/apple-releases-homepod-14-7-software/",
+            "title": "Apple Releases HomePod 14.7 Software With Support for Managing Timers From the Home App",
+            "content_html": "<p>See the linked content on <a href='https://www.macrumors.com/2021/07/19/apple-releases-homepod-14-7-software/'>www.macrumors.com</a>.</p>",
+            "date_published": "2021-07-19T18:51:08+00:00",
+            "authors": [
+                {
+                    "name": "spearson0",
+                    "url": "https://www.reddit.com/user/spearson0",
+                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_01_FFB000.png"
+                }
+            ]
+        },
+        {
             "id": "onkkvs",
             "url": "/r/apple/comments/onkkvs/apple_seeds_second_release_candidate_version_of/",
             "external_url": "https://www.macrumors.com/2021/07/19/apple-seeds-macos-big-sur-11-5-rc-2/",
