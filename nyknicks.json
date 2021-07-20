@@ -3,6 +3,22 @@
     "title": "r/nyknicks",
     "home_page_url": "https://jonathanlaniado.com",
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/nyknicks.json",
-    "items": [],
+    "items": [
+        {
+            "id": "oo1znw",
+            "url": "/r/NYKnicks/comments/oo1znw/this_right_here_is_a_21_year_old_who_averaged_176/",
+            "external_url": "https://i.redd.it/wb15kxt3ddc71.jpg",
+            "title": "This right here is a 21 year old who averaged 17.6 Points, made the playoffs and genuinely loves the city of New York and it\u2019s fans. Do we really get rid of him for some 30+ year old free agent?",
+            "content_html": "",
+            "date_published": "2021-07-20T13:25:57+00:00",
+            "authors": [
+                {
+                    "name": "RRIYAD",
+                    "url": "https://www.reddit.com/user/RRIYAD",
+                    "avatar": "https://styles.redditmedia.com/t5_223bck/styles/profileIcon_ocu8d68cmsb71.jpg?width=256&height=256&crop=256:256,smart&s=9afb06a499e6366318338213c46aa01fc40b42db"
+                }
+            ]
+        }
+    ],
     "description": "Reddit's home of the New York Knicks"
 }
