@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/nyknicks.json",
     "items": [
         {
+            "id": "olisgj",
+            "url": "https://mobile.twitter.com/theathletic/status/1416046211325329413?s=21",
+            "title": "[The Athletic] The Knicks are looking to package their two first-round picks to move up in the draft, possibly into the mid-lottery, sources tell @talkhoops",
+            "content_text": "",
+            "authors": [
+                "kaptainkru"
+            ]
+        },
+        {
             "id": "olj004",
             "url": "https://www.reddit.com/r/NYKnicks/comments/olj004/stay_the_course/",
             "title": "Stay the course",
