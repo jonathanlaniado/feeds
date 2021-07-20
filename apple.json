@@ -8,6 +8,21 @@
     "favicon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
     "items": [
         {
+            "id": "olmovr",
+            "url": "/r/apple/comments/olmovr/apple_releases_second_public_beta_of_macos_12/",
+            "external_url": "https://www.macrumors.com/2021/07/16/apple-releases-macos-monterey-public-beta-2/",
+            "title": "Apple Releases Second Public Beta of macOS 12 Monterey",
+            "content_html": "<p>See the linked content on <a href='https://www.macrumors.com/2021/07/16/apple-releases-macos-monterey-public-beta-2/'>www.macrumors.com</a>.</p>",
+            "date_published": "2021-07-16T18:19:51+00:00",
+            "authors": [
+                {
+                    "name": "spearson0",
+                    "url": "https://www.reddit.com/user/spearson0",
+                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_01_FFB000.png"
+                }
+            ]
+        },
+        {
             "id": "ollruf",
             "url": "/r/apple/comments/ollruf/are_the_apple_airpods_max_overpriced_what_are/",
             "external_url": "https://www.reddit.com/r/apple/comments/ollruf/are_the_apple_airpods_max_overpriced_what_are/",
