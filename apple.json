@@ -8,6 +8,21 @@
     "favicon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
     "items": [
         {
+            "id": "one55b",
+            "url": "/r/apple/comments/one55b/ios_and_android_activations_now_split_evenly_in/",
+            "external_url": "https://www.macrumors.com/2021/07/19/ios-and-android-activations-now-split-evenly-in-the-u-s-research-shows/",
+            "title": "iOS and Android Activations Now Split Evenly in the U.S., Research Shows",
+            "content_html": "<p>See the linked content on <a href='https://www.macrumors.com/2021/07/19/ios-and-android-activations-now-split-evenly-in-the-u-s-research-shows/'>www.macrumors.com</a>.</p>",
+            "date_published": "2021-07-19T13:33:38+00:00",
+            "authors": [
+                {
+                    "name": "Jimbuub",
+                    "url": "https://www.reddit.com/user/Jimbuub",
+                    "avatar": "https://styles.redditmedia.com/t5_43dihg/styles/profileIcon_snoo7f326cef-8c05-45c9-8a86-624dba28e1b4-headshot.png"
+                }
+            ]
+        },
+        {
             "id": "ong53f",
             "url": "/r/apple/comments/ong53f/apple_warns_against_using_hydrogen_peroxide/",
             "external_url": "https://www.macrumors.com/2021/07/19/apple-warns-against-hydrogen-peroxide-cleaners/",
