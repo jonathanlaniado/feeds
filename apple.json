@@ -8,6 +8,21 @@
     "favicon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
     "items": [
         {
+            "id": "omyrda",
+            "url": "/r/apple/comments/omyrda/guilherme_rambo_developer_if_youre_a_fan_of_fans/",
+            "external_url": "https://fanfan.rambo.codes",
+            "title": "Guilherme Rambo, Developer: If you're a fan of fans, this app is for you! With its state of the art Fan Simulation Engine (patent pending), FanFan can bring back that soothing sound of computer fans to your Apple Silicon Mac.",
+            "content_html": "<p>See the linked content on <a href='https://fanfan.rambo.codes'>fanfan.rambo.codes</a>.</p>",
+            "date_published": "2021-07-18T20:33:56+00:00",
+            "authors": [
+                {
+                    "name": "KeepYourSleevesDown",
+                    "url": "https://www.reddit.com/user/KeepYourSleevesDown",
+                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_10_FFD635.png"
+                }
+            ]
+        },
+        {
             "id": "omz3lr",
             "url": "/r/apple/comments/omz3lr/was_jobs_really_a_minimalist/",
             "external_url": "https://www.reddit.com/r/apple/comments/omz3lr/was_jobs_really_a_minimalist/",
