@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/nyknicks.json",
     "items": [
         {
+            "id": "olmarm",
+            "url": "https://i.redd.it/9hee0auj6mb71.jpg",
+            "title": "How to appropriately judge trade rumors",
+            "content_text": "",
+            "authors": [
+                "CantShootCantDribble"
+            ]
+        },
+        {
             "id": "olmms6",
             "url": "https://twitter.com/bleacherreport/status/1416079601021988870?s=21",
             "title": "Bleacher Report on Twitter: JaVale McGee and Kelvin Johnson will join 12-man Team USA roster for the Tokyo Olympics per @ShamsCharania",
