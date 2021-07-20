@@ -8,6 +8,21 @@
     "favicon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
     "items": [
         {
+            "id": "ombh0m",
+            "url": "/r/apple/comments/ombh0m/meet_wifidemon_ios_wifi_rce_0day_vulnerability/",
+            "external_url": "https://blog.zecops.com/research/meet-wifidemon-ios-wifi-rce-0-day-vulnerability-and-a-zero-click-vulnerability-that-was-silently-patched/",
+            "title": "Meet WiFiDemon - iOS WiFi RCE 0-Day Vulnerability, and a Zero-Click Vulnerability That was Silently Patched",
+            "content_html": "<p>See the linked content on <a href='https://blog.zecops.com/research/meet-wifidemon-ios-wifi-rce-0-day-vulnerability-and-a-zero-click-vulnerability-that-was-silently-patched/'>blog.zecops.com</a>.</p>",
+            "date_published": "2021-07-17T19:56:23+00:00",
+            "authors": [
+                {
+                    "name": "makapuu",
+                    "url": "https://www.reddit.com/user/makapuu",
+                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_03_FF66AC.png"
+                }
+            ]
+        },
+        {
             "id": "omk2k5",
             "url": "/r/apple/comments/omk2k5/best_macs_of_all_time_anyone_else_miss/",
             "external_url": "https://www.reddit.com/r/apple/comments/omk2k5/best_macs_of_all_time_anyone_else_miss/",
