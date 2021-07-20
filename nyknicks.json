@@ -8,6 +8,21 @@
     "favicon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
     "items": [
         {
+            "id": "oo0njk",
+            "url": "/r/NYKnicks/comments/oo0njk/daily_discussion_thread_july_20/",
+            "external_url": "https://www.reddit.com/r/NYKnicks/comments/oo0njk/daily_discussion_thread_july_20/",
+            "title": "Daily Discussion Thread - (July 20)",
+            "content_html": "<p>Daily discussion thread for Knicks fans.</p>",
+            "date_published": "2021-07-20T12:00:12+00:00",
+            "authors": [
+                {
+                    "name": "nyknicks-automod",
+                    "url": "https://www.reddit.com/user/nyknicks-automod",
+                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_11_FFD635.png"
+                }
+            ]
+        },
+        {
             "id": "oo190y",
             "url": "/r/NYKnicks/comments/oo190y/macri_according_to_a_league_source_the_knicks/",
             "external_url": "https://twitter.com/JCMacriNBA/status/1417462158422642697",
