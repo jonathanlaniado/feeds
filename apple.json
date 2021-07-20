@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/apple.json",
     "items": [
         {
+            "id": "oo0qnq",
+            "url": "https://www.bbc.com/news/technology-57763037",
+            "title": "Apple founder Steve Wozniak backs right-to-repair movement",
+            "content_text": "",
+            "authors": [
+                "c-fox"
+            ]
+        },
+        {
             "id": "onzrz6",
             "url": "https://www.youtube.com/watch?v=eJeg3b0AoKs",
             "title": "Apple MagSafe Battery Unboxing and First Impressions",
