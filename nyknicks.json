@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/nyknicks.json",
     "items": [
         {
+            "id": "omp7sr",
+            "url": "https://www.reddit.com/r/NYKnicks/comments/omp7sr/daily_discussion_thread_july_18/",
+            "title": "Daily Discussion Thread - (July 18)",
+            "content_text": "Daily discussion thread for Knicks fans.",
+            "authors": [
+                "nyknicks-automod"
+            ]
+        },
+        {
             "id": "omqt97",
             "url": "https://www.reddit.com/r/NYKnicks/comments/omqt97/dejounte_murray_or_derrick_white/",
             "title": "Dejounte Murray or Derrick White?",
