@@ -8,6 +8,21 @@
     "favicon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
     "items": [
         {
+            "id": "ol6jia",
+            "url": "/r/apple/comments/ol6jia/seriously_the_ios_photos_app_need_a_longdued/",
+            "external_url": "https://www.reddit.com/r/apple/comments/ol6jia/seriously_the_ios_photos_app_need_a_longdued/",
+            "title": "Seriously, the ios Photos App need a long-dued upgrade.",
+            "content_html": "<p>Users should be given more control on organising and syncing Photos.</p>\n<p>With iCloud I am confident it is slightly better, but for users who want to manually sort and back up their photos or people who have work related/ confidentiality photos, some functions are expected from a flagship app. </p>\n<ol>\n<li>There is no password locked album/ roll - There is a hide function but that isn't gonna help when Apple Care or a third party shop to look into your private photos. A vault is needed.</li>\n<li>There is no way to sort Photos on the Fly or simply tagging. If I wanted to tag a bunch of Photos tagged \"send to Mary\" or \u201cmy cousin\u2019s cat\u201d for instance, I can't; and at this point even if I could, or if I took the time to move them into an album,.. (cont\u2019d in the next point)</li>\n<li>When importing to Mac's Photos App, the downloaded photos get dates moved around, and also ALL photos will will also lose all status other than the metadata, such as album, favourites, faces and names statuses. </li>\n</ol>\n<p>Considering it is Apple's own photo app, and that they had iTunes as a blueprint, how could this be so lacking?</p>\n<p>There are other nuisances such as imported photos from the mac cant be organised or edited on ios, and on that point the file structure in Photos apps are historically always been closed and aweful - Library size can be more than 2x to 4x that of the original photos because of the thumbnails and edit versions.</p>\n<p>Does Apple have a plan to sort this out? It has been 14 years since the first iPhone now.</p>",
+            "date_published": "2021-07-16T01:23:09+00:00",
+            "authors": [
+                {
+                    "name": "kkias",
+                    "url": "https://www.reddit.com/user/kkias",
+                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_09_A5A4A4.png"
+                }
+            ]
+        },
+        {
             "id": "olm6rh",
             "url": "/r/apple/comments/olm6rh/apple_seeds_second_public_betas_of_ios_15_ipados/",
             "external_url": "https://www.macrumors.com/2021/07/16/apple-seeds-ios-15-public-beta-2/amp/",
