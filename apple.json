@@ -8,6 +8,21 @@
     "favicon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
     "items": [
         {
+            "id": "oo1o4z",
+            "url": "/r/apple/comments/oo1o4z/iphone_doesnt_unlock_your_apple_watch_after/",
+            "external_url": "https://9to5mac.com/2021/07/20/iphone-doesnt-unlock-your-apple-watch/",
+            "title": "iPhone doesn\u2019t unlock your Apple Watch after updating to iOS 14.7? It\u2019s not just you\u2026",
+            "content_html": "<p>See the linked content on <a href='https://9to5mac.com/2021/07/20/iphone-doesnt-unlock-your-apple-watch/'>9to5mac.com</a>.</p>",
+            "date_published": "2021-07-20T13:06:09+00:00",
+            "authors": [
+                {
+                    "name": "Bandyliuk",
+                    "url": "https://www.reddit.com/user/Bandyliuk",
+                    "avatar": "https://styles.redditmedia.com/t5_28u092/styles/profileIcon_snoo499441d2-7f3b-4278-8b51-7d01a7503e05-headshot.png"
+                }
+            ]
+        },
+        {
             "id": "oo3hhc",
             "url": "/r/apple/comments/oo3hhc/adobe_updates_premiere_pro_to_run_natively_on_m1/",
             "external_url": "https://www.macrumors.com/2021/07/20/premiere-pro-native-apple-silicon-support/",
