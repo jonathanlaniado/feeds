@@ -6,5 +6,21 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/nyknicks.json",
     "icon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
     "favicon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
-    "items": []
+    "items": [
+        {
+            "id": "oo2yhk",
+            "url": "/r/NYKnicks/comments/oo2yhk/mail_call_keep_the_kids/",
+            "external_url": "https://i.redd.it/6rktjfhnmdc71.jpg",
+            "title": "Mail call! Keep the kids!",
+            "content_html": "https://i.redd.it/6rktjfhnmdc71.jpg",
+            "date_published": "2021-07-20T14:19:27+00:00",
+            "authors": [
+                {
+                    "name": "Jaynjbones",
+                    "url": "https://www.reddit.com/user/Jaynjbones",
+                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_09_008985.png"
+                }
+            ]
+        }
+    ]
 }
