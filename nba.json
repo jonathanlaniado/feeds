@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/nba.json",
     "items": [
         {
+            "id": "onrrs5",
+            "url": "https://twitter.com/shamscharania/status/1417291834028699667",
+            "title": "[Charania] Oregon guard Chris Duarte \u2014 a projected top-20 pick \u2014 has received an invite to the 2021 NBA Draft Green Room at Barclays Center, sources tell @TheAthletic @Stadium.",
+            "content_text": "",
+            "authors": [
+                "curryybacon"
+            ]
+        },
+        {
             "id": "onsfvv",
             "url": "https://www.reddit.com/r/nba/comments/onsfvv/the_league_has_such_a_bright_future_11_allstars/",
             "title": "The league has such a bright future. 11 All-Stars this year were age 26 or under.",
