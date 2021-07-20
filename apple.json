@@ -8,6 +8,21 @@
     "favicon": "https://raw.githubusercontent.com/jonathanlaniado/images/master/slack/reddit.png",
     "items": [
         {
+            "id": "ong53f",
+            "url": "/r/apple/comments/ong53f/apple_warns_against_using_hydrogen_peroxide/",
+            "external_url": "https://www.macrumors.com/2021/07/19/apple-warns-against-hydrogen-peroxide-cleaners/",
+            "title": "Apple Warns Against Using Hydrogen Peroxide Disinfectants on Products",
+            "content_html": "<p>See the linked content on <a href='https://www.macrumors.com/2021/07/19/apple-warns-against-hydrogen-peroxide-cleaners/'>www.macrumors.com</a>.</p>",
+            "date_published": "2021-07-19T15:19:20+00:00",
+            "authors": [
+                {
+                    "name": "Bandyliuk",
+                    "url": "https://www.reddit.com/user/Bandyliuk",
+                    "avatar": "https://styles.redditmedia.com/t5_28u092/styles/profileIcon_snoo499441d2-7f3b-4278-8b51-7d01a7503e05-headshot.png"
+                }
+            ]
+        },
+        {
             "id": "ondx5j",
             "url": "/r/apple/comments/ondx5j/a_case_for_touch_id_in_2021/",
             "external_url": "https://www.reddit.com/r/apple/comments/ondx5j/a_case_for_touch_id_in_2021/",
