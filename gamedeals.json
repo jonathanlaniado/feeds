@@ -6,5 +6,21 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/gamedeals.json",
     "icon": "https://styles.redditmedia.com/t5_2qwx3/styles/communityIcon_n3y6x4zozxp01.png",
     "favicon": "https://styles.redditmedia.com/t5_2qwx3/styles/communityIcon_n3y6x4zozxp01.png",
-    "items": []
+    "items": [
+        {
+            "id": "onhybb",
+            "url": "/r/GameDeals/comments/onhybb/steam_superflight_07475_off/",
+            "external_url": "https://store.steampowered.com/app/732430/Superflight/",
+            "title": "[Steam] Superflight ($0.74/75% off)",
+            "content_html": "<p>See the linked content on <a href='https://store.steampowered.com/app/732430/Superflight/'>store.steampowered.com</a>.</p>",
+            "date_published": "2021-07-19T16:48:03+00:00",
+            "authors": [
+                {
+                    "name": "Gunrun",
+                    "url": "https://www.reddit.com/user/Gunrun",
+                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_04_008985.png"
+                }
+            ]
+        }
+    ]
 }
