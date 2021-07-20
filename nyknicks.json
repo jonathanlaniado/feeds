@@ -5,6 +5,15 @@
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/nyknicks.json",
     "items": [
         {
+            "id": "olmms6",
+            "url": "https://twitter.com/bleacherreport/status/1416079601021988870?s=21",
+            "title": "Bleacher Report on Twitter: JaVale McGee and Kelvin Johnson will join 12-man Team USA roster for the Tokyo Olympics per @ShamsCharania",
+            "content_text": "",
+            "authors": [
+                "DrCaptivate"
+            ]
+        },
+        {
             "id": "oln8yg",
             "url": "/r/nba/comments/olk32n/haynes_damian_lillard_everybody_in_this/",
             "title": "Dames press conference announcement at around 4 pm ET",
