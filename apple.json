@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "oougah",
+            "url": "/r/apple/comments/oougah/apple_releases_macos_big_sur_115_and_ipados_147/",
+            "external_url": "https://www.reddit.com/r/apple/comments/oougah/apple_releases_macos_big_sur_115_and_ipados_147/",
+            "title": "Apple releases macOS Big Sur 11.5 and iPadOS 14.7 (for real this time)!",
+            "content_html": "<p>iPadOS: </p>\n<blockquote>\n<p>iPadOS 14.7 includes the following improvements and bug fixes for your iPad:</p>\n</blockquote>\n<ul>\n<li>Apple Card family adds the option to combine credit limits and share one co-owned account with an existing Apple Card user</li>\n<li>Home app adds the ability to manage timers on HomePod</li>\n<li>Podcasts library allows you to choose to see all shows or only followed shows</li>\n<li>Share Playlist menu option missing in Apple Music</li>\n<li>Dolby Atmos and Apple Music lossless audio playback may unexpectedly stop</li>\n<li>Braille displays could show invalid information while composing Mail messages</li>\n<li>Audio may skip when using USB-C to 3.5 mm headphone jack adapters with iPad</li>\n</ul>\n<hr />\n<p>macOS: </p>\n<p>macOS Big Sur 11.5 includes the following improvements for Mac:</p>\n<ul>\n<li>Podcasts Library tab allows you to choose to see all shows or only followed shows</li>\n</ul>\n<p>This release also fixes the following issues:</p>\n<ul>\n<li>Music may not update play count and last played date in your library</li>\n<li>Smart cards may not work when logging into Mac computers with the M1 chip</li>\n</ul>",
+            "date_published": "2021-07-21T17:17:06+00:00",
+            "authors": [
+                {
+                    "name": "exjr_",
+                    "url": "https://www.reddit.com/user/exjr_",
+                    "avatar": "https://styles.redditmedia.com/t5_3kjan/styles/profileIcon_e9udqz6vezq01.jpg"
+                }
+            ]
+        },
+        {
             "id": "ooq9o0",
             "url": "/r/apple/comments/ooq9o0/wedbush_reiterates_1tb_iphone_13_claim_keynote/",
             "external_url": "https://9to5mac.com/2021/07/21/1tb-iphone-13-claim-reiterated/",
