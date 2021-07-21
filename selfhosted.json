@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "onzkes",
+            "url": "/r/selfhosted/comments/onzkes/selfhosted_photo_library_comparison_of_different/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/onzkes/selfhosted_photo_library_comparison_of_different/",
+            "title": "Selfhosted Photo Library: comparison of different options?",
+            "content_html": "<p>I found a few topics about this, but when everybody is recommending their own self hosted option there is a lot of work to determine which features they have.</p>\n<p>I really want to export my iCloud Photo Library to a self hosted solution, but I have no idea which one. I tried Synology Photos but it lacks .xmp file import, so it will be a ton of work to edit all times and locations properly. What is out there?</p>\n<p>&#x200B;</p>\n<p><strong>Synology Photos</strong> this would be an easy option as it comes with DSM7.</p>\n<p><em>Pros:</em> simple, pretty good interface, iOS apps, smart albums, face tagging, hevc and heif import</p>\n<p><em>Cons:</em> no .xmp file import, no auto import folder, no batch editing (location).</p>",
+            "date_published": "2021-07-20T10:41:18+00:00",
+            "authors": [
+                {
+                    "name": "iAmRenzo",
+                    "url": "https://www.reddit.com/user/iAmRenzo",
+                    "avatar": "https://styles.redditmedia.com/t5_demma/styles/profileIcon_snooe44cd27d-19ed-4021-98b5-454a621e6691-headshot.png"
+                }
+            ]
+        },
+        {
             "id": "oo81ja",
             "url": "/r/selfhosted/comments/oo81ja/ive_conquered_selfhosted_email_and_you_can_too/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/oo81ja/ive_conquered_selfhosted_email_and_you_can_too/",
