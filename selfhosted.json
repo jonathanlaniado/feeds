@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "opzvr3",
+            "url": "/r/selfhosted/comments/opzvr3/creating_my_first_secure_network/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/opzvr3/creating_my_first_secure_network/",
+            "title": "Creating my first secure network",
+            "content_html": "<p>Hello people of r/selfhosted. I've been building my up my own homelab the past year or so. It  recently struck me that my network has limited security and that a few  of my machines have stuff saved that people rely on being there. So I feel kind of an obligation to set up as secure a network as possible.   So I came here wondering if any of you guys have any tips/suggestions or  just pointers to a place where I can get more information?</p>\n<p>I  have a server running proxmox and several other computers where I could  set up dedicated security tools etc... I just don't know where to start  looking.</p>",
+            "date_published": "2021-07-23T10:49:08+00:00",
+            "authors": [
+                {
+                    "name": "EC-user",
+                    "url": "https://www.reddit.com/user/EC-user",
+                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_17_7E53C1.png"
+                }
+            ]
+        },
+        {
             "id": "oq4e5l",
             "url": "/r/selfhosted/comments/oq4e5l/i_made_a_little_php_app_to_wake_my_main_desktop/",
             "external_url": "https://i.redd.it/ju35sjagazc71.png",
