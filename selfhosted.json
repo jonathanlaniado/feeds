@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "opgyga",
+            "url": "/r/selfhosted/comments/opgyga/any_self_hosted_alexas_or_similar/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/opgyga/any_self_hosted_alexas_or_similar/",
+            "title": "Any self hosted Alexa's or similar?",
+            "content_html": "<p>I've been playing around with Mycroft, but I'm unsure how viable they are long term.  Anyone have experience with any other solutions?</p>\n<p>EDIT:  For sake of coming back to it.  Looks like I'm going to try Almond, or Rhasspy</p>\n<p>EDIT2:  Its a shame the top comment thread here got hijacked by people with defeatist attitudes.  Nice try Amazon.</p>",
+            "date_published": "2021-07-22T16:07:47+00:00",
+            "authors": [
+                {
+                    "name": "krakah293",
+                    "url": "https://www.reddit.com/user/krakah293",
+                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_15_EA0027.png"
+                }
+            ]
+        },
+        {
             "id": "ooyvwu",
             "url": "/r/selfhosted/comments/ooyvwu/need_to_blow_off_some_steam_bye_nextcloud/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/ooyvwu/need_to_blow_off_some_steam_bye_nextcloud/",
