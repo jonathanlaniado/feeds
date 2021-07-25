@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "or0lsk",
+            "url": "/r/selfhosted/comments/or0lsk/open_audio_server_turns_any_computer_into_a/",
+            "external_url": "https://github.com/openaudioserver/open-audio-server",
+            "title": "Open Audio Server turns any computer into a Synology \"Audio Station\" with DS Audio apps, web browser interface, remote playback, radio and playlists! (author)",
+            "content_html": "<p>See the linked content on <a href='https://github.com/openaudioserver/open-audio-server'>github.com</a>.</p>",
+            "date_published": "2021-07-24T23:31:17+00:00",
+            "authors": [
+                {
+                    "name": "openaudioserver",
+                    "url": "https://www.reddit.com/user/openaudioserver",
+                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_17_7193FF.png"
+                }
+            ]
+        },
+        {
             "id": "oqtsf3",
             "url": "/r/selfhosted/comments/oqtsf3/why_self_hosting_is_important/",
             "external_url": "https://dataswamp.org/~solene/2021-07-23-why-selfhosting-is-important.html",
