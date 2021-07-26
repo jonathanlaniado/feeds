@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "os0ab4",
+            "url": "/r/PleX/comments/os0ab4/overnight_power_outage_corrupted_my_plex_database/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/os0ab4/overnight_power_outage_corrupted_my_plex_database/",
+            "title": "Overnight Power Outage Corrupted My Plex Database... This fixed It For Me",
+            "content_html": "<p>Lost power around 4 AM. Would love to have a UPS, but I can't afford one right now. At any rate, Plex kept crashing. Checked the console, and kept seeing: Plex Cannot Begin Transaction: Database is Locked. Ouch. One of the first Google results for that issue is this:</p>\n<p><a href=\"https://support.plex.tv/articles/repair-a-corrupted-database/\">https://support.plex.tv/articles/repair-a-corrupted-database/</a></p>\n<p>Following these instructions fixed my problem. Hopefully, if someone else finds themselves in this situation, it'll help. Have a great one Plex people!</p>\n<p>EDIT: Thanks to whoever gave me an award, I think that's my first! Much appreciated!</p>",
+            "date_published": "2021-07-26T14:52:08+00:00",
+            "authors": [
+                {
+                    "name": "flapjack_fiasco",
+                    "url": "https://www.reddit.com/user/flapjack_fiasco",
+                    "avatar": "https://styles.redditmedia.com/t5_226ysh/styles/profileIcon_vqfo2w7ze8e51.jpg"
+                }
+            ]
+        },
+        {
             "id": "or9w0i",
             "url": "/r/PleX/comments/or9w0i/feature_suggestions_customizable_skip_duration_or/",
             "external_url": "https://forums.plex.tv/t/please-give-plex-apps-the-ability-to-customize-the-skip-back-duration-length-mod-skip-forward/117240",
