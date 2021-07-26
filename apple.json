@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "ordm2a",
+            "url": "/r/apple/comments/ordm2a/ive_made_an_app_that_only_shows_good_news_i_call/",
+            "external_url": "https://www.reddit.com/r/apple/comments/ordm2a/ive_made_an_app_that_only_shows_good_news_i_call/",
+            "title": "I\u2019ve made an app that only shows good news. I call it Good News 4 U.",
+            "content_html": "<p>A few months ago I was looking for an app that can show me only happy / not depressing news. I found a few, but all of them require expensive subscriptions.</p>\n<p>So I\u2019ve decided to make a Free App that hopefully will help people smile and restore hope in humanity.</p>\n<p>Also, this project is my sandbox to explore Apple SDKs I don\u2019t usually have the opportunity to try at work, like Widgets that I will soon be releasing in v1.1</p>\n<p>All feedback and suggestions are more than welcome. I hope you enjoy it.</p>\n<p>Good News 4 U \nhttps://apps.apple.com/app/good-news-4-u/id1574080534</p>",
+            "date_published": "2021-07-25T15:29:22+00:00",
+            "authors": [
+                {
+                    "name": "appstoreburner",
+                    "url": "https://www.reddit.com/user/appstoreburner",
+                    "avatar": "https://styles.redditmedia.com/t5_7skpi/styles/profileIcon_snoobbd3b50d-1a83-4c36-a4c7-0d881cf02c86-headshot.png"
+                }
+            ]
+        },
+        {
             "id": "orcc97",
             "url": "/r/apple/comments/orcc97/gurman_face_id_on_the_mac_coming_within_a_couple/",
             "external_url": "https://www.macrumors.com/2021/07/25/face-id-for-mac-couple-of-years/",
