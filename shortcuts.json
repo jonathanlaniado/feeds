@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "osmmmt",
+            "url": "/r/shortcuts/comments/osmmmt/is_there_a_way_to_break_up_a_numeric_value/",
+            "external_url": "https://www.reddit.com/r/shortcuts/comments/osmmmt/is_there_a_way_to_break_up_a_numeric_value/",
+            "title": "Is there a way to break up a numeric value?",
+            "content_html": "<p>Open in: <a href='https://reddit.com/r/shortcuts/comments/osmmmt/is_there_a_way_to_break_up_a_numeric_value/'>Reddit</a> | <a href='apollo://https%3A//reddit.com/r/shortcuts/comments/osmmmt/is_there_a_way_to_break_up_a_numeric_value/'>Apollo</a></p> <div><p>So I wanted to prank my friend by creating a shortcut so whenever he says he\u2019ll be back in 5 minutes or so I can open a shortcut that asks for how many seconds he\u2019s gone and then it takes that number and sends individual messages like 1, 2, 3, 4\u2026 etc,. But I have no idea how I can break up a number into those individuals values</p></div>",
+            "date_published": "2021-07-27T13:16:17+00:00",
+            "authors": [
+                {
+                    "name": "CarpetHuman",
+                    "url": "https://www.reddit.com/user/CarpetHuman",
+                    "avatar": "https://styles.redditmedia.com/t5_3ytklh/styles/profileIcon_snoo6a04a693-3e7c-4438-8640-0aa725e89fca-headshot.png"
+                }
+            ]
+        },
+        {
             "id": "osn3nb",
             "url": "/r/shortcuts/comments/osn3nb/how_do_i_make_a_shortcut_tell_my_homepod_mini_to/",
             "external_url": "https://www.reddit.com/r/shortcuts/comments/osn3nb/how_do_i_make_a_shortcut_tell_my_homepod_mini_to/",
