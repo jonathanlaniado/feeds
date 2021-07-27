@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "osqok8",
+            "url": "/r/apple/comments/osqok8/psa_iphone_batteries_are_only_rated_by_apple_to/",
+            "external_url": "https://www.reddit.com/r/apple/comments/osqok8/psa_iphone_batteries_are_only_rated_by_apple_to/",
+            "title": "PSA: iPhone batteries are only rated by Apple to stay above 80% health in the first 500 cycles",
+            "content_html": "<p>Hi everyone, I\u2019ve seen a lot of questions online lately from people about their iPhone\u2019s battery health and whether their batteries are wearing unusually fast. iPhone 12 owners are asking things like \u201cI\u2019ve only had my phone for 10 months and battery health is already down to 90%, is that normal or do I have a defective battery?\u201d</p>\n<p>Apple has two main support pages about this listed here:</p>\n<p><a href=\"https://support.apple.com/en-us/HT208387\">https://support.apple.com/en-us/HT208387</a></p>\n<p><a href=\"https://support.apple.com/en-us/HT208387\">https://support.apple.com/en-us/HT208387</a></p>\n<p>Specifically, unlike Mac, iPad, and Apple Watch batteries that are rated to 1000 cycles, the iPhone\u2019s battery is \u201cdesigned to retain up to 80% of its original capacity at 500 complete charge cycles when operating under normal conditions.\u201d</p>\n<p>That means that if wear happens relatively linearly, you should expect to be down to 90% health after 250 cycles. Assuming you cycle your battery about once a day, then a brand new iPhone 12 bought at launch should, according to Apple\u2019s typical expectations, be worn down \\~10% already, as it has been 277 days since iPhone 12\u2019s launch day.</p>\n<p>Of course, it is frustrating that because of this, your phone has an expected 1.5 year lifespan before possibly needing a battery service on a battery that is not easily replaced.</p>\n<p>The batteries can wear more quickly due to more frequent charge cycles, and especially due to heat. They also wear more rapidly when they\u2019re more frequently pushed to 100% charge. So some suggestions for prolonging battery life include:</p>\n<p>- Avoid wireless charging as it does generate additional heat (this does go against using MagSafe, but it could over time save you a few health percentage points).</p>\n<p>- Try to avoid getting your phone too hot with regular use.</p>\n<p>- Use the features that prevent charging past 80% until the morning, and also always try to keep your battery level above 20%.</p>\n<p>But ultimately the point is, I think we\u2019re used to built in batteries having a longer cycle rating than modern iPhones seem to have. It\u2019s unfortunate, and I don\u2019t know why the iPhone batteries rate worse than other products, but the answer to the question of \u201cis 90% expected at this time\u201d appears, from Apple\u2019s perspective, to be yes.</p>",
+            "date_published": "2021-07-27T16:55:51+00:00",
+            "authors": [
+                {
+                    "name": "makapuu",
+                    "url": "https://www.reddit.com/user/makapuu",
+                    "avatar": "https://styles.redditmedia.com/t5_1ycw0h/styles/profileIcon_snoofe2202e8-b0c3-43c9-bda2-47d9cd1cf541-headshot.png"
+                }
+            ]
+        },
+        {
             "id": "oskzaa",
             "url": "/r/apple/comments/oskzaa/time_to_update_your_iphone_as_apple_fixes/",
             "external_url": "https://www.zdnet.com/article/time-to-update-your-iphone-as-apple-fixes-actively-exploited-zero-day-flaw/",
