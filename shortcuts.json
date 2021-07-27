@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "osw039",
+            "url": "/r/shortcuts/comments/osw039/qr_code_to_run_shortcut_with_variable/",
+            "external_url": "https://www.reddit.com/r/shortcuts/comments/osw039/qr_code_to_run_shortcut_with_variable/",
+            "title": "QR Code to run shortcut with variable",
+            "content_html": "<p>Open in: <a href='https://reddit.com/r/shortcuts/comments/osw039/qr_code_to_run_shortcut_with_variable/'>Reddit</a> | <a href='apollo://https://reddit.com/r/shortcuts/comments/osw039/qr_code_to_run_shortcut_with_variable/'>Apollo</a></p> <div><p>Just thought I'd share this for folks who might be interested. </p>\n<p>You can launch a shortcut and pass a variable using the following format: workflow://run-workflow?name=HelloWorld&amp;input=01234</p>\n<p>Here is an example of a QR code that will launch a shortcut called, \"HelloWorld\" and pass the variable, \"01234\" to the shortcut input: <a href=\"https://api.qrserver.com/v1/create-qr-code/?size=150x150&amp;data=workflow://run-workflow?name=HelloWorld%26input=01234\">https://api.qrserver.com/v1/create-qr-code/?size=150x150&amp;data=workflow://run-workflow?name=HelloWorld%26input=01234</a></p></div>",
+            "date_published": "2021-07-27T21:46:35+00:00",
+            "authors": [
+                {
+                    "name": "HelloWorld_502",
+                    "url": "https://www.reddit.com/user/HelloWorld_502",
+                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_05_4856A3.png"
+                }
+            ]
+        },
+        {
             "id": "osxaib",
             "url": "/r/shortcuts/comments/osxaib/can_i_use_shortcuts_to_transfer_airpods_audio/",
             "external_url": "https://www.reddit.com/r/shortcuts/comments/osxaib/can_i_use_shortcuts_to_transfer_airpods_audio/",
