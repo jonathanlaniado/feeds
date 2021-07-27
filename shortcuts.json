@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "osn3nb",
+            "url": "/r/shortcuts/comments/osn3nb/how_do_i_make_a_shortcut_tell_my_homepod_mini_to/",
+            "external_url": "https://www.reddit.com/r/shortcuts/comments/osn3nb/how_do_i_make_a_shortcut_tell_my_homepod_mini_to/",
+            "title": "How do I make a shortcut tell my HomePod Mini to tell me todays weather?",
+            "content_html": "<p>Open in: <a href='https://reddit.com/r/shortcuts/comments/osn3nb/how_do_i_make_a_shortcut_tell_my_homepod_mini_to/'>Reddit</a> | <a href='apollo://https%3A//reddit.com/r/shortcuts/comments/osn3nb/how_do_i_make_a_shortcut_tell_my_homepod_mini_to/'>Apollo</a></p> <div><p>When I wake up I run a shortcut I made to set lights, DND and some other stuff. Then I ask, \"Hey Siri how's the weather today?\" to my HomePod.</p>\n<p>She then tells me the temperature, current condition, high, low, so basically all the useful information.  </p>\n<p>But when I go into the shortcut app I can't figure out how to get that information. I either get Hourly Weather which results in 12 lines of text or just temperature and condition. Or Daily Weather with the same useless information. </p>\n<p>On top of that I can't figure out how to run the shortcut from my phone and get the audio to play out the HomePod</p></div>",
+            "date_published": "2021-07-27T13:43:53+00:00",
+            "authors": [
+                {
+                    "name": "BMANN2",
+                    "url": "https://www.reddit.com/user/BMANN2",
+                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_06_46A508.png"
+                }
+            ]
+        },
+        {
             "id": "osocr4",
             "url": "/r/shortcuts/comments/osocr4/crude_ai_in_shortcuts_menace/",
             "external_url": "https://www.reddit.com/r/shortcuts/comments/osocr4/crude_ai_in_shortcuts_menace/",
