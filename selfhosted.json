@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "osuola",
+            "url": "/r/selfhosted/comments/osuola/a_word_of_caution_about_that_unique_top_level/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/osuola/a_word_of_caution_about_that_unique_top_level/",
+            "title": "A word of caution about that unique top level domain",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/osuola/a_word_of_caution_about_that_unique_top_level/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/osuola/a_word_of_caution_about_that_unique_top_level/'>Apollo</a></caption> <div><p>Though my last name is not all that common (ranks in the 7000-8000 in world popularity), it is by no means rare. That is why I was super stoked when I picked up lastname.family top level domain... It was something that I can use, keep, give to my kids and pass on....</p>\n<p>I have been attempting to migrate everything to it and ditch Gmail which I have had for ~17 years.  This is where the largest problem has arisen.</p>\n<p><strong>Many companies computer systems do not yet accept a .family email address</strong></p>\n<p>So far I have been forced to keep in my old email on file with several larger banks, utility companies and some web services.  I am only on day 1 and I have seen about a 25% rejection rate.  Not good.  </p>\n<p>I can only hope over time this will be corrected.</p></div>",
+            "date_published": "2021-07-27T20:36:50+00:00",
+            "authors": [
+                {
+                    "name": "yellowfin35",
+                    "url": "https://www.reddit.com/user/yellowfin35",
+                    "avatar": "https://styles.redditmedia.com/t5_1xubg9/styles/profileIcon_snoof1e78854-673a-4154-b5b9-957559b75cea-headshot.png"
+                }
+            ]
+        },
+        {
             "id": "oskfpd",
             "url": "/r/selfhosted/comments/oskfpd/go_set_up_goaccess_on_the_access_logs_of_your/",
             "external_url": "https://i.redd.it/j6ec4ctdiqd71.png",
