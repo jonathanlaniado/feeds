@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "ov3nfp",
+            "url": "/r/selfhosted/comments/ov3nfp/how_do_you_guys_backup/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/ov3nfp/how_do_you_guys_backup/",
+            "title": "How do you guys backup?",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/ov3nfp/how_do_you_guys_backup/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/ov3nfp/how_do_you_guys_backup/'>Apollo</a></caption> <div><p>Do you run your backup software (duplicati / duplicacy / kopia) as a cron job? Or as a docker container? Also do you backup all the servers in a cluster or just the app data (say from containers). I have a clustered self-hosted setup with one NAS unit and NFS shared on all the devices and am a bit confused about setting up my backup software. Also if you have multiple NAS units, do you run two different jobs, one for each ?</p>\n<p>EDIT: Sorry for any confusion, I'm talking about backing up self-hosted data (like nextcloud, photoprism, jellyfin, and other container data)</p></div>",
+            "date_published": "2021-07-31T08:38:09+00:00",
+            "authors": [
+                {
+                    "name": "NerdyTux",
+                    "url": "https://www.reddit.com/user/NerdyTux",
+                    "avatar": "https://styles.redditmedia.com/t5_27qwyp/styles/profileIcon_snoo45b1e62b-afa1-40a2-b892-6041f139d16d-headshot.png"
+                }
+            ]
+        },
+        {
             "id": "ouh0le",
             "url": "/r/selfhosted/comments/ouh0le/uptime_kuma_selfhosted_monitoring_tool_like/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/ouh0le/uptime_kuma_selfhosted_monitoring_tool_like/",
