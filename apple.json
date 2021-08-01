@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "ovmjru",
+            "url": "/r/apple/comments/ovmjru/i_built_an_app_to_create_repeatable_checklists_to/",
+            "external_url": "https://www.reddit.com/r/apple/comments/ovmjru/i_built_an_app_to_create_repeatable_checklists_to/",
+            "title": "I built an app to create repeatable checklists to help with ADHD",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/apple/comments/ovmjru/i_built_an_app_to_create_repeatable_checklists_to/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/ovmjru/i_built_an_app_to_create_repeatable_checklists_to/'>Apollo</a></caption> <div><p>Hi Guys,</p>\n<p>I'm Spencer and recently built <a href=\"https://checkyourlist.app/\">CheckYourList</a> to help with my ADHD. The app is on iPhone, iPad and WatchOS (with MacOS coming soon). It handles syncing and storing data all through your iCloud account.</p>\n<p>The app lets you create repeatable checklists. It's great for packing lists, daily routines, cleaning lists and things that you need to take with you constantly. The reason it is different to apps like Apple reminders is once you complete a checklist you can uncheck every item so it is ready to go next time.</p>\n<p>I built the app because I found myself forgetting things more and more after the birth of my son. For example, dropping him at daycare and then going to the gym, required so many things. I felt overwhelmed and would take ages to leave the house as I searched around looking for what I needed. I wanted a solution, I built this app to help.</p>\n<p>I'm constantly iterating the app, I am currently working on the ability to keep a history of checklists you have completed so you can check you did things (like taking medication every morning). If anyone has any ideas for features they would like to see let me know :)</p>\n<p>You can find more information on the app and follow its development here: <a href=\"https://checkyourlist.app/\">https://checkyourlist.app/</a></p>\n<p>You can see the app in the app store here: <a href=\"https://apps.apple.com/au/app/checkyourlist/id1571623264\">https://apps.apple.com/au/app/checkyourlist/id1571623264</a></p></div>",
+            "date_published": "2021-08-01T05:37:18+00:00",
+            "authors": [
+                {
+                    "name": "swalden123",
+                    "url": "https://www.reddit.com/user/swalden123",
+                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_01_EA0027.png"
+                }
+            ]
+        },
+        {
             "id": "ovu1f2",
             "url": "/r/apple/comments/ovu1f2/gurman_apple_silicon_roadmap_includes_new_mac_pro/",
             "external_url": "https://9to5mac.com/2021/08/01/apple-silicon-roadmap-gurman-mac-pro/",
