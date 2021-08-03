@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "owkonr",
+            "url": "/r/selfhosted/comments/owkonr/selfhosted_google_keep_alternative/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/owkonr/selfhosted_google_keep_alternative/",
+            "title": "Self-hosted Google keep alternative",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/owkonr/selfhosted_google_keep_alternative/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/owkonr/selfhosted_google_keep_alternative/'>Apollo</a></caption> <div><p>Before I begin I want you to know that I've spent weeks and weeks trying to find an alternative for Google keep. Yes I've looked on Reddit Yes I've looked on Google Yes I've looked on GitHub.</p>\n<p>Please for the love of God help me.</p>\n<p>The requirements are basically a Google keep clone but I just want my data stored on my own server, no one else's.</p>\n<ol>\n<li>\n<p>The ability to add multiple photos to a note (turtl and other apps allow only 1 or glitch out when trying to add more than 1) </p>\n</li>\n<li>\n<p>A search bar</p>\n</li>\n<li>\n<p>Mobile app</p>\n</li>\n<li>\n<p>it would be cool to be able to add small videos I can reference without having to download it Everytime though this isn't a must</p>\n</li>\n</ol>\n<p>Please help. Willing to give a $25 dollar gift card to whoever offers up a working solution.</p>\n<p>Edit: Joplin seems to be the clear choice \n1. Can be self hosted\n2. Stores pictures (multiple) and VIDEOS\n3. Mobile App\n4. And a search bar. </p>\n<p>The only con is that you have to select the note to see the pictures and videos. Not too bad.</p>\n<p>Will be following NextCloud very VERY closely.</p></div>",
+            "date_published": "2021-08-02T18:31:05+00:00",
+            "authors": [
+                {
+                    "name": "vagrantmuse",
+                    "url": "https://www.reddit.com/user/vagrantmuse",
+                    "avatar": "https://styles.redditmedia.com/t5_l76gd/styles/profileIcon_snoo196a27ad-2569-4ea1-9da0-525a12fc7950-headshot.png"
+                }
+            ]
+        },
+        {
             "id": "owfc0j",
             "url": "/r/selfhosted/comments/owfc0j/adhocratie_an_open_collaboration_platform/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/owfc0j/adhocratie_an_open_collaboration_platform/",
