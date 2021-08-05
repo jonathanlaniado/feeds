@@ -1,0 +1,17 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "r/softwarr",
+    "description": "Listing and discussion of software in the Plex/Emby/Kodi/Jellyfin ecosystems. This includes software such as Sonarr, Radarr, Lidarr, useful scripts, etc.\n\n\n\n\nTools include anything for automating the discovery, download, processing and tracking of movies, TV shows, music, books, comics, or other media.",
+    "home_page_url": "https://reddit.com",
+    "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/softwarr.json",
+    "icon": "",
+    "favicon": "",
+    "items": [
+        {
+            "id": "0",
+            "url": "https://www.reddit.com/r/softwarr",
+            "title": "r/softwarr has been launched!",
+            "content_html": "<p>This feed will be populated as posts match the given criteria.</p>"
+        }
+    ]
+}
