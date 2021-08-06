@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "oz9ae8",
+            "url": "/r/apple/comments/oz9ae8/due_to_apples_privacy_lapse_im_suddenly/",
+            "external_url": "https://www.reddit.com/r/apple/comments/oz9ae8/due_to_apples_privacy_lapse_im_suddenly/",
+            "title": "Due to Apple\u2019s privacy lapse, I\u2019m suddenly rethinking my stance on HomeKit and smart home tech, in general",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/apple/comments/oz9ae8/due_to_apples_privacy_lapse_im_suddenly/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/oz9ae8/due_to_apples_privacy_lapse_im_suddenly/'>Apollo</a></caption> <div><p>Apple has decided that if the moral justification is great enough, they\u2019re willing to sacrifice their users\u2019 privacy and security. So where are the limits?</p>\n<p>What\u2019s to stop Apple from implementing \u201cprivate and secure\u201d measures in HomeKit, for the greater good? </p>\n<p>Will they develop ML algorithms to monitor all HomeKit camera feeds for any, potentially criminal, activity? These algorithms could have a very high threshold of security, only flagging your recordings if they reach a certain threshold of likely criminality. Then an Apple employee could review the footage personally, before sending it to authorities. </p>\n<p>If you\u2019re not doing anything wrong, there\u2019s nothing to worry about, right? </p>\n<p>What about smart door locks? Why shouldn\u2019t Apple develop a program to grant law enforcement agencies digital keys to people\u2019s homes, in certain situations? Maybe you fall and your Apple Watch calls emergency services, who can get in your house, without having to break your door down. There\u2019s no harm in that, right? </p>\n<p>Once encryption, along with measures to protect user privacy and security, are subject to whatever moral principles Apple has decided are more important \u2014 suddenly these protections mean nothing. They\u2019re a secure vault from the front, but the back is nothing more than cardboard, held on with office tape.</p>\n<p>Edit: It just occurred to me that in the exact same update that\u2019s going to introduce this  new, on device, CSAM hash comparison, for iCloud users \u2014 Apple is also introducing unlimited HomeKit security camera storage, for paid iCloud subscribers.</p></div>",
+            "date_published": "2021-08-06T15:46:24+00:00",
+            "authors": [
+                {
+                    "name": "Dogmatron",
+                    "url": "https://www.reddit.com/user/Dogmatron"
+                }
+            ]
+        },
+        {
             "id": "oz7mcy",
             "url": "/r/apple/comments/oz7mcy/in_internal_memo_apple_addresses_concerns_around/",
             "external_url": "https://9to5mac.com/2021/08/06/apple-internal-memo-icloud-photo-scanning-concerns/",
