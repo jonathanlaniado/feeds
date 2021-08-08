@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "p0epqm",
+            "url": "/r/apple/comments/p0epqm/how_other_governments_can_abuse_csam/",
+            "external_url": "https://www.reddit.com/r/apple/comments/p0epqm/how_other_governments_can_abuse_csam/",
+            "title": "How other governments can abuse CSAM",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/apple/comments/p0epqm/how_other_governments_can_abuse_csam/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/p0epqm/how_other_governments_can_abuse_csam/'>Apollo</a></caption> <div><p>After reading on the technical details of this technology, here are a few examples that worries me:</p>\n<ol>\n<li>\n<p>China can add a bunch of pictures of Tianamen square massacre in its database of hashes to be screened by Apple. Whoever has that picture on their phone will be detected and reported (if they forget to turn off iCloud which is on by default). This gives government even more powerful tools than having access to all your iCloud photos, because they will be alerted if there\u2019s a match. Normally I don\u2019t think government will look into all citizens\u2019 photo</p>\n</li>\n<li>\n<p>This technology can extend to audio files or documents on your phone. Apple can say they don\u2019t read or hear the document, just generate a hash signature of them.</p>\n</li>\n<li>\n<p>Apple said it can only see photos if it passes a certain matching threshold but this threshold is controlled solely by Apple. If it decides to lower the threshold to zero, all photos will become visible to them. This is a backdoor to bypass encryption and will surely be exploited.</p>\n</li>\n<li>\n<p>Hashes of known illegal images are stored on devices. So it a device get hacked or jailbroken, someone can technically modify this list.</p>\n</li>\n<li>\n<p>Ambiguity of jurisdiction: if this is applicable to the U.S., then who are subject to this law? Is it based on the device serial number (sold in US market), or based on iCloud details registration, or location of the phone, or user nationality? If a Russian visits the U.S. with a matching photo, will he be reported? This can create a lot of confusion</p>\n</li>\n<li>\n<p>Most importantly, this creates a precedence. Knowing Apple can do this, government will surely ask for more. </p>\n</li>\n</ol>\n<p>Please share your thoughts or let me know if my understanding is incorrect</p></div>",
+            "date_published": "2021-08-08T13:33:00+00:00",
+            "authors": [
+                {
+                    "name": "bowlofsunlight",
+                    "url": "https://www.reddit.com/user/bowlofsunlight"
+                }
+            ]
+        },
+        {
             "id": "p0b3e6",
             "url": "/r/apple/comments/p0b3e6/apple_has_updated_the_wording_around_photos_on/",
             "external_url": "https://www.reddit.com/r/apple/comments/p0b3e6/apple_has_updated_the_wording_around_photos_on/",
