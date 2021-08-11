@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "p1rzm3",
+            "url": "/r/selfhosted/comments/p1rzm3/selfhosted_alternative_to_streamable/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/p1rzm3/selfhosted_alternative_to_streamable/",
+            "title": "Self-hosted alternative to Streamable",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/p1rzm3/selfhosted_alternative_to_streamable/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/p1rzm3/selfhosted_alternative_to_streamable/'>Apollo</a></caption> <div><p>Hello everyone! Thought I would share this github repository that I've been using for a few months now. It's called \"Clipface\" and it was created by a fellow named Hubro. It runs in a docker container and is an amazing replacement to Streamable.</p>\n<p>Streamable has a free tier, but they lower the quality on embed streams and delete the videos after a certain amount of time.</p>\n<p>Clipface can embed your video into things like Discord just like Streamable which make it a great replacement for people trying to share gaming clips with their friends. You can also lock your Clipface from public access and generate a \"public URL\" for each video which generates a token by hashing the file's name and your password (this way you can change your password and instantly make all public URL's usless if you need to).</p>\n<p>I host my Clipface on a VPS I use for hosting websites/web servers since my internet speeds at home are not capable of streaming video up and it works great. Hubro was going to add a number of features including file uploading in browser, but he hasn't updated the repository in 2 months so I was hoping if I could bring some attention to Clipface he may be encouraged to continue development. I currently upload files using Filezilla, but you could probably use Syncthing and just drag the videos to a folder on your LAN and then have them sync to your clips folder on your VPS.</p>\n<p>Here is the GitHub repository: <a href=\"https://github.com/Hubro/clipface\">https://github.com/Hubro/clipface</a></p></div>",
+            "date_published": "2021-08-10T15:53:19+00:00",
+            "authors": [
+                {
+                    "name": "Snnackss",
+                    "url": "https://www.reddit.com/user/Snnackss"
+                }
+            ]
+        },
+        {
             "id": "p1fikz",
             "url": "/r/selfhosted/comments/p1fikz/selfhosted_open_source_alternative_to_githubgitlab/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/p1fikz/selfhosted_open_source_alternative_to_githubgitlab/",
