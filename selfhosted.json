@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "p3mbvp",
+            "url": "/r/selfhosted/comments/p3mbvp/i_made_yet_another_selfhosted_url_shortener_blink/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/p3mbvp/i_made_yet_another_selfhosted_url_shortener_blink/",
+            "title": "I made yet another self-hosted URL shortener! [Blink] [no but really, there's reasons for there to be yet another URL shortener, hear me out]",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/p3mbvp/i_made_yet_another_selfhosted_url_shortener_blink/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/p3mbvp/i_made_yet_another_selfhosted_url_shortener_blink/'>Apollo</a></caption> <div><p>I just released <a href=\"https://github.com/JaneJeon/blink\">a self-hosted URL shortener</a> for the 1.0 release! The <a href=\"https://docs.blink.rest\">docs</a> include screenshots and <em>very</em> detailed guides to self-hosting it (and it is distributed both as a source code bundle and as a Docker container, with instructions for both).</p>\n<p>Its features include:</p>\n<ul>\n<li>Built-in SSO integration via OIDC</li>\n<li>User management &amp; access control</li>\n<li>Relies on the CDN to offload basically all of the server load from the shortener and make the server architecture extremely simple</li>\n</ul>\n<p>As for why this exists, I may have started writing this when I was frustrated with Kutt v1, but procrastination delayed the development until Kutt v2 came out and addressed some of the pain points (e.g. using neo4j for god's sake).</p>\n<p>Still, I felt like there's enough <em>architectural</em> differentiators that other link shorteners can't easily replicate - such as the built-in support for SSO, or the decision to <em>decouple</em> the analytics from the link shortening in order to drastically simplify the hosting of the server and the ability to plug in whichever analytics you'd like.</p>\n<p>Over the coming months, I plan on adding things like:</p>\n<ul>\n<li>Settings (integrated w/ access control)</li>\n<li>Automatically detecting &amp; alerting on dead links</li>\n<li>Busting CDN cache automatically</li>\n<li>Audit logs</li>\n<li>API tokens and API integrations in general</li>\n<li>more advanced URL normalization (e.g. removing AMP and trackers, checking the canonical link)</li>\n<li>etc.</li>\n</ul>\n<p>Thanks!</p></div>",
+            "date_published": "2021-08-13T14:59:02+00:00",
+            "authors": [
+                {
+                    "name": "thepotatochronicles",
+                    "url": "https://www.reddit.com/user/thepotatochronicles"
+                }
+            ]
+        },
+        {
             "id": "p37uyb",
             "url": "/r/selfhosted/comments/p37uyb/trackmyfish_update/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/p37uyb/trackmyfish_update/",
