@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "p4jw47",
+            "url": "/r/macapps/comments/p4jw47/so_native_alternatives_to_1password/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/p4jw47/so_native_alternatives_to_1password/",
+            "title": "So\u2026 native alternatives to 1Password?",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/p4jw47/so_native_alternatives_to_1password/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/p4jw47/so_native_alternatives_to_1password/'>Apollo</a></caption> <div><p>Hello everyone. Many of you will have read about 1P going electron in v8.</p>\n<p>I tried downloading a few password managers, but before installing them I took a look inside their packages and found out they were electron too, or contained other frameworks like electron.</p>\n<p>So, are there no native password managers anymore? </p>\n<p>Bonus question: do you think the mess with 1P might affect the password management market in a positive way? (I.e. more native apps / forgo electron, etc)</p></div>",
+            "date_published": "2021-08-15T00:57:58+00:00",
+            "authors": [
+                {
+                    "name": "efthymisgr",
+                    "url": "https://www.reddit.com/user/efthymisgr"
+                }
+            ]
+        },
+        {
             "id": "p4aaus",
             "url": "/r/macapps/comments/p4aaus/free_window_management_app_works_on_m1_too/",
             "external_url": "https://i.redd.it/m8fg8gkzfch71.jpg",
