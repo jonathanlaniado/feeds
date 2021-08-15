@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "p4v22w",
+            "url": "/r/selfhosted/comments/p4v22w/crowsnest_automatically_keep_local_git/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/p4v22w/crowsnest_automatically_keep_local_git/",
+            "title": "CrowsNest - automatically keep local Git repositories up to date with their remotes",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/p4v22w/crowsnest_automatically_keep_local_git/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/p4v22w/crowsnest_automatically_keep_local_git/'>Apollo</a></caption> <div><p>I've been working on this project recently to help me keep my config files and static website content synced between my development machine and my server that runs a few selfhosted things, I thought it might be useful to some of you!</p>\n<p>It's essentially <a href=\"https://github.com/containrrr/watchtower\">Watchtower</a> for Git repos, you just set it up and it will keep your local repositories up to date with their remotes, so for example, I run it on my server and now I never have to SSH in to update configs and things like that.</p>\n<p><a href=\"https://github.com/psidex/CrowsNest\">Here's the GitHub repo</a> for the project, the readme contains all the info including instructions for running it normally or through Docker.</p>\n<p>Any feedback would be appreciated :)</p></div>",
+            "date_published": "2021-08-15T15:00:59+00:00",
+            "authors": [
+                {
+                    "name": "thatguywiththatname2",
+                    "url": "https://www.reddit.com/user/thatguywiththatname2"
+                }
+            ]
+        },
+        {
             "id": "p435in",
             "url": "/r/selfhosted/comments/p435in/paperlessng_installation_suggestions_best/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/p435in/paperlessng_installation_suggestions_best/",
