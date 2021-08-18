@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "p6s1br",
+            "url": "/r/selfhosted/comments/p6s1br/kasm_a_simple_docker_powered_vdi_solution/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/p6s1br/kasm_a_simple_docker_powered_vdi_solution/",
+            "title": "KASM: A simple Docker powered VDI solution",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/p6s1br/kasm_a_simple_docker_powered_vdi_solution/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/p6s1br/kasm_a_simple_docker_powered_vdi_solution/'>Apollo</a></caption> <div><p>I've been running Kasm for a while now but only recently started pulling it apart and creating my own images. This post shows what I've been up to and includes a link to an older post to set it up. Being docker based its not a new learning curve for most stuff.</p>\n<p><a href=\"https://tech.davidfield.co.uk/looking-at-kasm-again/\">https://tech.davidfield.co.uk/looking-at-kasm-again/</a></p></div>",
+            "date_published": "2021-08-18T14:16:54+00:00",
+            "authors": [
+                {
+                    "name": "mightywomble",
+                    "url": "https://www.reddit.com/user/mightywomble"
+                }
+            ]
+        },
+        {
             "id": "p67t6f",
             "url": "/r/selfhosted/comments/p67t6f/i_came_in_to_this_world_blind_and_because_of_this/",
             "external_url": "https://docs.pivpn.io/faq/",
