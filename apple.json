@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "p9o9xq",
+            "url": "/r/apple/comments/p9o9xq/m1_running_linux_gui_on_bare_metal_without/",
+            "external_url": "https://twitter.com/alyssarzg/status/1429579145827127296",
+            "title": "M1 running Linux GUI on bare metal without acceleration (Asahi Linux project)",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/apple/comments/p9o9xq/m1_running_linux_gui_on_bare_metal_without/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/p9o9xq/m1_running_linux_gui_on_bare_metal_without/'>Apollo</a></caption><div><br></div><blockquote class=\"twitter-tweet\" align=\"center\"><p lang=\"en\" dir=\"ltr\">LLVMPipe, my shoddy display controller, and hours of <a href=\"https://twitter.com/svenpeter42?ref_src=twsrc%5Etfw\">@svenpeter42</a>&#39;s patience presents....<br><br>GNOME Shell on the Apple M1, bare metal.<br><br>No, it&#39;s not GPU accelerated. Yes, I&#39;m sending this tweet from it. <a href=\"https://t.co/P4YuPEnbvp\">pic.twitter.com/P4YuPEnbvp</a></p>&mdash; Alyssa Rosenzweig (@alyssarzg) <a href=\"https://twitter.com/alyssarzg/status/1429579145827127296?ref_src=twsrc%5Etfw\">August 22, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+            "date_published": "2021-08-23T00:13:30+00:00",
+            "authors": [
+                {
+                    "name": "FlatAds",
+                    "url": "https://www.reddit.com/user/FlatAds"
+                }
+            ]
+        },
+        {
             "id": "p970st",
             "url": "/r/apple/comments/p970st/after_another_meeting_between_apple_and_google/",
             "external_url": "https://twitter.com/jowens510/status/1428417681351348224",
@@ -1421,21 +1435,6 @@
                     "name": "spearson0",
                     "url": "https://www.reddit.com/user/spearson0",
                     "avatar": "https://www.redditstatic.com/avatars/avatar_default_01_FFB000.png"
-                }
-            ]
-        },
-        {
-            "id": "otjkxd",
-            "url": "/r/apple/comments/otjkxd/apple_closing_down_internal_slack_channels_where/",
-            "external_url": "https://www.cultofmac.com/748775/apple-closing-down-internal-slack-channels-where-employees-debate-remote-work/",
-            "title": "Apple closing down internal Slack channels where employees debate remote work",
-            "content_html": "<caption>Open in: <a href='https://www.cultofmac.com/748775/apple-closing-down-internal-slack-channels-where-employees-debate-remote-work/'>www.cultofmac.com</a> | <a href='https://reddit.com/r/apple/comments/otjkxd/apple_closing_down_internal_slack_channels_where/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/otjkxd/apple_closing_down_internal_slack_channels_where/'>Apollo</a></caption>",
-            "date_published": "2021-07-28T21:34:00+00:00",
-            "authors": [
-                {
-                    "name": "zangah_",
-                    "url": "https://www.reddit.com/user/zangah_",
-                    "avatar": "https://styles.redditmedia.com/t5_j8bxe/styles/profileIcon_snoo0864e809-b5f4-4ba0-b4f7-c3c41951aa4c-headshot.png"
                 }
             ]
         }
