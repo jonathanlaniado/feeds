@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "paqapf",
+            "url": "/r/apple/comments/paqapf/one_year_of_leaving_a_macbook_pro_connected_to/",
+            "external_url": "https://www.reddit.com/r/apple/comments/paqapf/one_year_of_leaving_a_macbook_pro_connected_to/",
+            "title": "One Year of Leaving a MacBook Pro Connected to Power",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/apple/comments/paqapf/one_year_of_leaving_a_macbook_pro_connected_to/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/paqapf/one_year_of_leaving_a_macbook_pro_connected_to/'>Apollo</a></caption> <div><p>Hello r/Apple</p>\n<p>One year ago, I purchased the top model Intel MacBook Pro (\u201c2.0GHz Intel Core i5 Quad-Core Processor with Intel Iris Plus Graphics, 1TB Storage\u201d). However, I had a pressing question. Given that the pandemic was still ongoing, and I was doing Zoom University, <strong>was it okay to just leave my laptop plugged into the charger all the time?</strong> After all, I rarely left home, it was treated more like a desktop than a laptop.</p>\n<p>Apple has a wealth of <a href=\"https://www.apple.com/batteries/maximizing-performance/\">support documents</a> on battery life and longevity. They go to great lengths to explain charge cycles and whatnot. However, nowhere on the website does Apple address the issue of leaving a laptop plugged in v. cycling the battery over a long period of time. I mean it\u2019s a niche situation to begin with, but I still wanted answers.</p>\n<p>I next tried a simple Google search, but there is so much contradictory information online. Some say it\u2019s perfectly okay, others say it degrades the battery because batteries don\u2019t like being kept at a full charge. Some say it\u2019s okay, but that you should cycle the battery once a month, while others remark that batteries don\u2019t have a \u201cmemory\u201d and so that practice is unnecessary. Some say keeping it on the charger is best for batteries because that will result in fewer cycles\u2014plus, the battery \u201ctrickle charges\u201d anyway. Still, others counter that leaving Macs plugged in all the time degrades the battery because of heat.</p>\n<p>Thoroughly confused, I reached out to Apple support via chat. Support said that whether or not to keep a laptop plugged in was a \u201cpersonal preference.\u201d I asked if it even mattered because when a Mac is plugged into power it runs off AC power, and she confirmed this but clarified that the battery still drains anyway?</p>\n<p>With no clear answer, I sent an email to Tim Cook with hopes that the executive office could direct me to someone with the right answer. T2 support or a battery engineer or something. I know what you\u2019re thinking, \u201cwho cares?\u201d I mean I wasn\u2019t expecting my battery to be and behave like it was factory new a year or two later. I just wanted confirmation, <em>from Apple</em>, that such a practice was safe, and that it wouldn\u2019t totally destroy my battery so I could rely on it when I could eventually start taking my new Mac out and about again. Anyway, no one responded to that email.</p>\n<p>Now it\u2019s been a year. With a few exceptions such as travel, my MacBook Pro has been plugged into power daily, 24/7, whether I\u2019m actively using it or not. I also seldom shut it down, just put it to sleep, though I do most of my work on an iPad. With a year of this behavior, how do the battery stats look?</p>\n<p>Charge Information:</p>\n<p>Charge Remaining (mAh): 4405</p>\n<p>Fully Charged:    Yes</p>\n<p>Charging: No</p>\n<p>Full Charge Capacity (mAh): 4502</p>\n<p>Health Information:</p>\n<p>Cycle Count: 43</p>\n<p>Condition: Normal</p>\n<p>Battery Installed: Yes</p>\n<p>Amperage (mA): 0</p>\n<p>Voltage (mV): 12558</p>\n<p>Less than 100 mAh down and only 43 cycles in one year. Like I said, I wasn\u2019t expecting a brand new battery. My only concern was whether performance would be severely degrading by basically never cycling the battery. A year later we have our answer: No.</p>\n<p><strong>TL;DR:</strong> Leaving your Mac laptop connected to power all the time is perfectly safe, and won\u2019t negatively degrade battery life.</p></div>",
+            "date_published": "2021-08-24T16:04:53+00:00",
+            "authors": [
+                {
+                    "name": "AlbinoAlex",
+                    "url": "https://www.reddit.com/user/AlbinoAlex"
+                }
+            ]
+        },
+        {
             "id": "pagw5q",
             "url": "/r/apple/comments/pagw5q/on_this_day_a_decade_ago_steve_jobs_steps_down_as/",
             "external_url": "https://www.apple.com/newsroom/2011/08/24Steve-Jobs-Resigns-as-CEO-of-Apple",
@@ -1414,21 +1428,6 @@
                     "name": "Snoop8ball",
                     "url": "https://www.reddit.com/user/Snoop8ball",
                     "avatar": "https://styles.redditmedia.com/t5_15i99w/styles/profileIcon_v1wwz570vv461.jpeg"
-                }
-            ]
-        },
-        {
-            "id": "ou53po",
-            "url": "/r/apple/comments/ou53po/2014_blackberry_can_detect_an_apple_airtag/",
-            "external_url": "https://www.iphoneincanada.ca/news/blackberry-classic-works-with-apple-airtag/",
-            "title": "2014 BlackBerry Can Detect an Apple AirTag",
-            "content_html": "<caption>Open in: <a href='https://www.iphoneincanada.ca/news/blackberry-classic-works-with-apple-airtag/'>www.iphoneincanada.ca</a> | <a href='https://reddit.com/r/apple/comments/ou53po/2014_blackberry_can_detect_an_apple_airtag/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/ou53po/2014_blackberry_can_detect_an_apple_airtag/'>Apollo</a></caption>",
-            "date_published": "2021-07-29T20:02:23+00:00",
-            "authors": [
-                {
-                    "name": "Will_It_Work89",
-                    "url": "https://www.reddit.com/user/Will_It_Work89",
-                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_16_008985.png"
                 }
             ]
         }
