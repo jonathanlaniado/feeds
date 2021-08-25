@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "pb2faq",
+            "url": "/r/selfhosted/comments/pb2faq/selfhosting_firefox_in_docker_behind_nginx/",
+            "external_url": "https://i.redd.it/dklutism4fj71.png",
+            "title": "selfhosting firefox in docker behind nginx reverse proxy with authorization so that I and wife could quickly use another computer relatively privately. Concerns and tips are appreciated in comments. link to docker container in comments.",
+            "content_html": "<caption>Open in: <a href='https://i.redd.it/dklutism4fj71.png'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/pb2faq/selfhosting_firefox_in_docker_behind_nginx/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pb2faq/selfhosting_firefox_in_docker_behind_nginx/'>Apollo</a></caption>",
+            "date_published": "2021-08-25T02:51:13+00:00",
+            "authors": [
+                {
+                    "name": "thehotshotpilot",
+                    "url": "https://www.reddit.com/user/thehotshotpilot"
+                }
+            ]
+        },
+        {
             "id": "pami0n",
             "url": "/r/selfhosted/comments/pami0n/this_is_my_homer_dashboard/",
             "external_url": "https://www.reddit.com/gallery/pami0n",
