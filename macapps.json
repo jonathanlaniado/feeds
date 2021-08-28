@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "pcikft",
+            "url": "/r/macapps/comments/pcikft/google_drive_alternatives/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/pcikft/google_drive_alternatives/",
+            "title": "Google Drive Alternatives?",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/pcikft/google_drive_alternatives/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/pcikft/google_drive_alternatives/'>Apollo</a></caption> <div><p>Google seems to have junked its Backup and Sync app and replaced it with a new Google Drive app. It has some damn annoying behaviours - puts three different shortcuts in the Finder sidebar (something called localhost, google drive, and my drive) and deleting these shortcuts is useless coz they come back everytime the app restarts. And the drive folder itself no longer works like a normal native folder - you can't go up one folder level with cmd + up arrow for example. In short it feels like a mess compared to the old app.</p>\n<p>Are there other third-party apps that I can use to mount google drive as a local folder and sync files?</p></div>",
+            "date_published": "2021-08-27T07:28:40+00:00",
+            "authors": [
+                {
+                    "name": "nyetto",
+                    "url": "https://www.reddit.com/user/nyetto"
+                }
+            ]
+        },
+        {
             "id": "pbxuy9",
             "url": "/r/macapps/comments/pbxuy9/sioyek_pdf_viewer_designed_for_reading_research/",
             "external_url": "https://github.com/ahrm/sioyek/",
