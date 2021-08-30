@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "pe3x02",
+            "url": "/r/selfhosted/comments/pe3x02/starting_to_think_that_self_hosting_isnt_worth_it/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/pe3x02/starting_to_think_that_self_hosting_isnt_worth_it/",
+            "title": "Starting to think that self hosting isn't worth it",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/pe3x02/starting_to_think_that_self_hosting_isnt_worth_it/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pe3x02/starting_to_think_that_self_hosting_isnt_worth_it/'>Apollo</a></caption> <div><p>I've been self hosting for probably 5 years now. Recently I have been losing data because of crashes that just completely ruin Docker's setup. Each time this happens I scramble to figure out how to get my data back, taking far too many hours. I do have a backup solution but there is always some sort of server/Docker setup that needs to be discovered and worked through.</p>\n<p>Now, I'm  a uni student. My weeks and weekends are sporadic and always full. If my server goes down I can't just wait to get off at 5 and fix it that afternoon. It'll be down for a week or more as I find ways to get around my own services just to use basic things like my calendar (which I rely on very much).</p>\n<p>I'm still interested in self hosting and I'm glad I learned the things I learned, but it is becoming too much.</p></div>",
+            "date_published": "2021-08-29T21:14:43+00:00",
+            "authors": [
+                {
+                    "name": "caprinaeAegagrus",
+                    "url": "https://www.reddit.com/user/caprinaeAegagrus"
+                }
+            ]
+        },
+        {
             "id": "pdc0my",
             "url": "/r/selfhosted/comments/pdc0my/chat_system_like_discord_on_a_private_network/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/pdc0my/chat_system_like_discord_on_a_private_network/",
