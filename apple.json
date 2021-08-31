@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "pelrps",
+            "url": "/r/apple/comments/pelrps/apple_cares_about_privacy_unless_you_work_at_apple/",
+            "external_url": "https://www.theverge.com/22648265/apple-employee-privacy-icloud-id",
+            "title": "Apple cares about privacy, unless you work at Apple",
+            "content_html": "<caption>Open in: <a href='https://www.theverge.com/22648265/apple-employee-privacy-icloud-id'>www.theverge.com</a> | <a href='https://reddit.com/r/apple/comments/pelrps/apple_cares_about_privacy_unless_you_work_at_apple/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/pelrps/apple_cares_about_privacy_unless_you_work_at_apple/'>Apollo</a></caption>",
+            "date_published": "2021-08-30T16:37:45+00:00",
+            "authors": [
+                {
+                    "name": "BrazoDeMercedes",
+                    "url": "https://www.reddit.com/user/BrazoDeMercedes"
+                }
+            ]
+        },
+        {
             "id": "pelndl",
             "url": "/r/apple/comments/pelndl/apple_acquires_classical_music_streaming_service/",
             "external_url": "https://www.apple.com/newsroom/2021/08/apple-acquires-classical-music-streaming-service-primephonic/",
@@ -1392,21 +1406,6 @@
                     "name": "WhoIsHappy2",
                     "url": "https://www.reddit.com/user/WhoIsHappy2",
                     "avatar": "https://styles.redditmedia.com/t5_25dibt/styles/profileIcon_snood512aad6-1102-492f-845c-4d7b54bfc0b3-headshot.png"
-                }
-            ]
-        },
-        {
-            "id": "ox4utk",
-            "url": "/r/apple/comments/ox4utk/apple_introduces_new_highend_graphics_options_for/",
-            "external_url": "https://www.macrumors.com/2021/08/03/mac-pro-w6800x-w6900x-graphics/",
-            "title": "Apple Introduces New High-End Graphics Options for Mac Pro",
-            "content_html": "<caption>Open in: <a href='https://www.macrumors.com/2021/08/03/mac-pro-w6800x-w6900x-graphics/'>www.macrumors.com</a> | <a href='https://reddit.com/r/apple/comments/ox4utk/apple_introduces_new_highend_graphics_options_for/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/ox4utk/apple_introduces_new_highend_graphics_options_for/'>Apollo</a></caption>",
-            "date_published": "2021-08-03T14:40:25+00:00",
-            "authors": [
-                {
-                    "name": "zangah_",
-                    "url": "https://www.reddit.com/user/zangah_",
-                    "avatar": "https://styles.redditmedia.com/t5_j8bxe/styles/profileIcon_snoo0864e809-b5f4-4ba0-b4f7-c3c41951aa4c-headshot.png"
                 }
             ]
         }
