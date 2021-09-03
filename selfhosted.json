@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "ph7xpl",
+            "url": "/r/selfhosted/comments/ph7xpl/vpn_client_in_a_thin_docker_container_for/",
+            "external_url": "https://github.com/qdm12/gluetun",
+            "title": "VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN, DNS over TLS, with a few proxy servers built-in.",
+            "content_html": "<caption>Open in: <a href='https://github.com/qdm12/gluetun'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/ph7xpl/vpn_client_in_a_thin_docker_container_for/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/ph7xpl/vpn_client_in_a_thin_docker_container_for/'>Apollo</a></caption>",
+            "date_published": "2021-09-03T15:54:08+00:00",
+            "authors": [
+                {
+                    "name": "binaryfor",
+                    "url": "https://www.reddit.com/user/binaryfor"
+                }
+            ]
+        },
+        {
             "id": "pgla9z",
             "url": "/r/selfhosted/comments/pgla9z/meet_the_selfhosters_taking_back_the_internet_one/",
             "external_url": "https://www.vice.com/en/article/pkb4ng/meet-the-self-hosters-taking-back-the-internet-one-server-at-a-time",
