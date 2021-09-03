@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "pgpy91",
+            "url": "/r/MacOS/comments/pgpy91/the_m1_mac_is_phenomenal_programmers_perspective/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/pgpy91/the_m1_mac_is_phenomenal_programmers_perspective/",
+            "title": "The M1 Mac is phenomenal (programmer's perspective)",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/MacOS/comments/pgpy91/the_m1_mac_is_phenomenal_programmers_perspective/'>Reddit</a> | <a href='apollo://reddit.com/r/MacOS/comments/pgpy91/the_m1_mac_is_phenomenal_programmers_perspective/'>Apollo</a></caption> <div><p>I know I'm just preaching to the choir a this point, but I figured I might as well add my take here too.</p>\n<p>I've programmed for a while and used Linux exclusively for the last 10 years for personal computing. I haven't had any real complaints, but over time I've been tired of having something break and trying to figure out how to fix it. This information has been great for my career, but especially now that I'm established I'm really tired of it.</p>\n<p>A few months ago I picked up an iPhone and wondered how it could be on the other side. I've used a Mac for work for a while now and while it's adequate, it gets really hot and loud very fast. The slightest tasks make the cores go into a frenzy.</p>\n<p>I'd heard good things about the M1 Mac, but didn't believe the hype. My girlfriend picked up a MacBook Air with an M1 processor recently and it was so good I honestly couldn't believe the experience. I decided to get one myself just a few days ago and it's honestly spectacular.</p>\n<p>I use it docked 99% of the time and the performance is just incredible. It finishes tasks almost as fast or in some cases faster than my desktop. In my spare time I write Rust (the programming language, which is a very compute heavy task) and it compiles crates so fast sometimes I think it's lying to me. Faster than my desktop for projects with fewer crates and sometimes even with many crates.</p>\n<p>In general the experience has been seamless for developer tasks. All of the software I would expect to work works and even things that aren't compiled for ARM are still really fast.</p>\n<p>This is the FANLESS MacBook Air too! My $4000 MacBook Pro for work barely competes on compute tasks.</p>\n<p>All in all, this was definitely a good purchase and good on Apple for making a computer with a processor that totally outclasses anything in its price point. And in the case of my desktop, using 1/10th of the power.</p>\n<p>For programmers (and obviously for regular folks too) I can't recommend it enough. This will certainly last quite a while for me.</p>\n<p>On another note, anyone buying an old Thinkpad?</p></div>",
+            "date_published": "2021-09-02T20:23:48+00:00",
+            "authors": [
+                {
+                    "name": "darrieng",
+                    "url": "https://www.reddit.com/user/darrieng"
+                }
+            ]
+        },
+        {
             "id": "pfe6m2",
             "url": "/r/MacOS/comments/pfe6m2/i_recently_finished_making_a_macos_big_sur_app/",
             "external_url": "https://v.redd.it/moe7v53y5rk71",
