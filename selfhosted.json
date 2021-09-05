@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "piarcj",
+            "url": "/r/selfhosted/comments/piarcj/selfhosted_parental_control/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/piarcj/selfhosted_parental_control/",
+            "title": "Self-hosted Parental control",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/piarcj/selfhosted_parental_control/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/piarcj/selfhosted_parental_control/'>Apollo</a></caption> <div><p>I\u2019ve got 2 small boys, who watch Youtube, Netflix, etc on TV and tablet. Currently I setup my router so the TV has only access to internet in certain timeslots. </p>\n<p>What I would like to achieve however is more complex:</p>\n<ul>\n<li>filtering, so we can allow Netflix certain periods without allowing Youtube (Youtube can be a mind draining rabbit hole, while Netflix/Disney is okayish)</li>\n<li>easy enable/disable. I\u2019m thinking for rewards: they clean up room, I go on my phone to a web interface and allow Youtube for 1 hour</li>\n<li>tracking of actual screen time, hopefully on all devices combined</li>\n<li>combined PiHole and \u201cstandard\u201d parental controls so evil internet stays outside</li>\n</ul>\n<p>Is there something out there which does this? If not maybe I\u2019ll try to make it myself, so you can also add more suggestions :-).</p></div>",
+            "date_published": "2021-09-05T10:33:31+00:00",
+            "authors": [
+                {
+                    "name": "L299792458",
+                    "url": "https://www.reddit.com/user/L299792458"
+                }
+            ]
+        },
+        {
             "id": "phsh37",
             "url": "/r/selfhosted/comments/phsh37/opensource_timezone_converter/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/phsh37/opensource_timezone_converter/",
