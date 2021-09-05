@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "phsh37",
+            "url": "/r/selfhosted/comments/phsh37/opensource_timezone_converter/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/phsh37/opensource_timezone_converter/",
+            "title": "Open-source Timezone Converter?",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/phsh37/opensource_timezone_converter/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/phsh37/opensource_timezone_converter/'>Apollo</a></caption> <div><p>Anyone know of a self-hosted tool that can be used to help clarify timezones?</p>\n<p>My job involves lots of international calls, between different regions with different timezones. I also live in a place that doesn't do daylight savings time, while often calling places that <strong>do</strong> observe it...  making regular meetings (weekly/monthly) complicated by the fact the hour can just end up changing for someone randomly throughout the year.</p>\n<p>Planning and organizing those calls has been a nightmare... especially when there are several participants from different timezones who all need to attend \ud83e\udd2f\ud83d\ude35The workflow I've come up with is to use timeanddate.com`s timezone converter</p>\n<p>You set a time/date, chose the timezones you want listed, and then copy and paste the link.</p>\n<p>Example:</p>\n<p><a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20210504T170000&amp;p1=55&amp;p2=210&amp;p3=250&amp;p4=136&amp;p5=107&amp;p6=240\">https://www.timeanddate.com/worldclock/converter.html?iso=20210504T170000&amp;p1=55&amp;p2=210&amp;p3=250&amp;p4=136&amp;p5=107&amp;p6=240</a></p>\n<p>Three problems:</p>\n<ol>\n<li><strong>The link looks awful.</strong> I mean... look at it. I can throw it through a link shortener, but I'm usually too lazy.</li>\n<li><strong>Branding and visual noise</strong>. Lot's going on in that page; I'd like it simpler, to just to the one job I've asked of it.</li>\n<li><strong>3rd party; not self-hosted.</strong> As many of you, I've grown to distrust code I can't control. I'd love a software setup/workflow that I know I can make work, even in the off chance <a href=\"https://timeanddate.com\">timeanddate.com</a> gets rid of this feature.</li>\n</ol>\n<p>&#x200B;</p>\n<p>All that to say, anyone know of a tool that would do a job like this? I've searched around, but haven't found anything myself.</p>\n<p>All ideas/recommendations welcome.</p>\n<p>Cheers  </p>\n<p>----  </p>\n<p>Edit: see <a href=\"https://www.youtube.com/watch?v=-5wpm-gesOY\">Tom Scott's</a> video for the pain I'm trying to avoid lol</p></div>",
+            "date_published": "2021-09-04T14:24:45+00:00",
+            "authors": [
+                {
+                    "name": "BigBeardNoFap",
+                    "url": "https://www.reddit.com/user/BigBeardNoFap"
+                }
+            ]
+        },
+        {
             "id": "ph7xpl",
             "url": "/r/selfhosted/comments/ph7xpl/vpn_client_in_a_thin_docker_container_for/",
             "external_url": "https://github.com/qdm12/gluetun",
