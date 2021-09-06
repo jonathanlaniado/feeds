@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "pilyt2",
+            "url": "/r/macapps/comments/pilyt2/i_built_raivo_otp_a_native_lightweight_and/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/pilyt2/i_built_raivo_otp_a_native_lightweight_and/",
+            "title": "I built Raivo OTP \uf8ff. A native, lightweight and open-source one-time-password (2FA/MFA) app built for MacOS and iOS.",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/pilyt2/i_built_raivo_otp_a_native_lightweight_and/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/pilyt2/i_built_raivo_otp_a_native_lightweight_and/'>Apollo</a></caption> <div><p>If you are annoyed by the user experience of apps such as the Google/Microsoft Authenticator (just like me) then you may find this useful!</p>\n<p>In my spare time I developed an 2FA/MFA app that contains the following features:</p>\n<ul>\n<li>Backup/sync (T/H)OTPs to iCloud automagically (across your Apple devices)</li>\n<li>Add custom issuer icons for your OTPs</li>\n<li>Show the current and previous token</li>\n<li>Optional FaceID or TouchID unlock</li>\n<li>Export passwords as encrypted ZIP archives</li>\n<li>Copy tapped tokens to all of your MacOS devices</li>\n</ul>\n<p>Raivo OTP is a native, lightweight, open-source and non-commercial one-time password app that was initially developed for iOS. With the new MacOS app (which I launched today), you can automagically and securely receive one-time passwords that you tapped in Raivo for iOS.</p>\n<p><strong>Source-code:</strong> https://github.com/raivo-otp</p>\n<p><strong>App Store for iOS:</strong> https://apps.apple.com/us/app/raivo-otp/id1459042137#?platform=iphone</p>\n<p><strong>App Store for MacOS:</strong> https://apps.apple.com/us/app/raivo-otp/id1498497896</p>\n<p>I would love to get feedback on the design, user experience and just anything actually. If you want to you can open a feature request on GitHub and I'll try my very best to work on a solution!</p>\n<p><a href=\"https://preview.redd.it/elrrmxgd7rl71.png?width=2880&amp;format=png&amp;auto=webp&amp;s=9e0d13fcc48f5f608f41369fe9554fb740d693ee\">Raivo OTP for MacOS</a></p>\n<p><a href=\"https://preview.redd.it/7eijmx3k7rl71.png?width=1024&amp;format=png&amp;auto=webp&amp;s=eaee19a9afd520e14e0cace984e8d4d6b218bd35\">Raivo OTP for iOS</a></p></div>",
+            "date_published": "2021-09-05T21:39:32+00:00",
+            "authors": [
+                {
+                    "name": "e87d4ea889",
+                    "url": "https://www.reddit.com/user/e87d4ea889"
+                }
+            ]
+        },
+        {
             "id": "ph2dks",
             "url": "/r/macapps/comments/ph2dks/setapp_is_it_worth_it/",
             "external_url": "https://www.reddit.com/r/macapps/comments/ph2dks/setapp_is_it_worth_it/",
