@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "pkctso",
+            "url": "/r/selfhosted/comments/pkctso/private_frontend_for_reddit_written_in_rust/",
+            "external_url": "https://github.com/spikecodes/libreddit",
+            "title": "Private front-end for Reddit written in Rust",
+            "content_html": "<caption>Open in: <a href='https://github.com/spikecodes/libreddit'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/pkctso/private_frontend_for_reddit_written_in_rust/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pkctso/private_frontend_for_reddit_written_in_rust/'>Apollo</a></caption>",
+            "date_published": "2021-09-08T15:31:40+00:00",
+            "authors": [
+                {
+                    "name": "binaryfor",
+                    "url": "https://www.reddit.com/user/binaryfor"
+                }
+            ]
+        },
+        {
             "id": "pk6nyo",
             "url": "/r/selfhosted/comments/pk6nyo/what_more_to_host_suggestions_welcome/",
             "external_url": "https://www.reddit.com/gallery/pk6nyo",
