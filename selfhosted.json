@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "pm1jb5",
+            "url": "/r/selfhosted/comments/pm1jb5/metube_web_gui_for_youtubedl/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/pm1jb5/metube_web_gui_for_youtubedl/",
+            "title": "MeTube - Web GUI for youtube-dl",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/pm1jb5/metube_web_gui_for_youtubedl/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pm1jb5/metube_web_gui_for_youtubedl/'>Apollo</a></caption> <div><p>Really nice and useful! You can insert the URLs (not only YouTube) and download the video/audio</p>\n<p><a href=\"https://github.com/alexta69/metube\">https://github.com/alexta69/metube</a></p></div>",
+            "date_published": "2021-09-11T05:35:15+00:00",
+            "authors": [
+                {
+                    "name": "br0kenpipe",
+                    "url": "https://www.reddit.com/user/br0kenpipe"
+                }
+            ]
+        },
+        {
             "id": "plr5x2",
             "url": "/r/selfhosted/comments/plr5x2/i_dont_understand_homeserver_security/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/plr5x2/i_dont_understand_homeserver_security/",
