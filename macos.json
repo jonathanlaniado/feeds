@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "plqvng",
+            "url": "/r/MacOS/comments/plqvng/tip_useful_macos_dock_shortcuts/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/plqvng/tip_useful_macos_dock_shortcuts/",
+            "title": "Tip: useful macOS Dock shortcuts",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/MacOS/comments/plqvng/tip_useful_macos_dock_shortcuts/'>Reddit</a> | <a href='apollo://reddit.com/r/MacOS/comments/plqvng/tip_useful_macos_dock_shortcuts/'>Apollo</a></caption> <div><p>Just discovered some cool Dock shortcuts. Thought someone might find these useful.</p>\n<ul>\n<li><strong>Option + Click</strong> on app in Dock will hide the app's window (just like clicking an open app in Taskbar on Windows hides it).</li>\n<li><strong>Command + Click:</strong> opens the app's location in Finder.</li>\n<li><strong>Command + Option + Click:</strong> hides all windows except this app.</li>\n<li><strong>Control + Click:</strong> shows menu (same as right click).</li>\n<li><strong>Option + Right click</strong> (same as Option + Control + Click): shows menu with Force Quit option.</li>\n<li><strong>Option + Command + D:</strong> hides/shows Dock (when in fullscreen mode you can use Control + F3 instead).</li>\n<li><strong>Hold Control + Shift</strong> and move cursor over apps in Dock to use magnifying glass effect.</li>\n</ul>\n<p>Bonus Tip: the (right click) menu of Launchpad/Settings/Finder apps in Dock has numerous quick access options. Launchpad's menu looks very much like Windows XP era Start menu with a vertical list of all apps.</p></div>",
+            "date_published": "2021-09-10T18:36:14+00:00",
+            "authors": [
+                {
+                    "name": "_ZenPanda",
+                    "url": "https://www.reddit.com/user/_ZenPanda"
+                }
+            ]
+        },
+        {
             "id": "plc4i9",
             "url": "/r/MacOS/comments/plc4i9/anyone_else_find_the_inconsistency_with_the_title/",
             "external_url": "https://i.redd.it/brs5efqh6lm71.png",
