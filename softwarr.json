@@ -8,6 +8,20 @@
     "favicon": "",
     "items": [
         {
+            "id": "plpml5",
+            "url": "/r/Softwarr/comments/plpml5/nefarious_web_application_for_automatically/",
+            "external_url": "https://www.reddit.com/r/Softwarr/comments/plpml5/nefarious_web_application_for_automatically/",
+            "title": "nefarious: Web application for automatically downloading TV & Movies",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/Softwarr/comments/plpml5/nefarious_web_application_for_automatically/'>Reddit</a> | <a href='apollo://reddit.com/r/Softwarr/comments/plpml5/nefarious_web_application_for_automatically/'>Apollo</a></caption> <div><p><a href=\"https://github.com/lardbit/nefarious/\">https://github.com/lardbit/nefarious/</a></p>\n<p>I developed nefarious, an open source web application for automatically downloading movies and tv shows.  My inspiration was to have a single application to download movies &amp; tv while providing a more simplified user experience.  I was using radarr/sonarr but I wanted a unified experience (and nefarious is less demanding, hardware-wise).</p>\n<p>I'm looking for users for feedback and anyone willing to contribute as well.  (It's built on python/django/typescript/angular).</p>\n<p>&#x200B;</p>\n<p>Features:</p>\n<ul>\n<li>Search and discover TV &amp; Movies (by popularity, genres, year etc)</li>\n<li>Auto download TV &amp; Movies</li>\n<li>Find similar and recommended TV &amp; Movies (via The Movie Database &amp; Rotten Tomatoes)</li>\n<li>Manually search and download Jackett's torrent results</li>\n<li>Supports blacklisting torrent results (i.e, permanently avoid a bad/fake torrent)</li>\n<li>Supports quality profiles (i.e only download <em>1080p</em> Movies and <em>720p</em> TV)</li>\n<li>Supports whether to download media with hardcoded subtitles or not</li>\n<li>Supports user defined keywords to filter results (i.e, ignore \"x265\", \"hevc\" codecs)</li>\n<li>Monitor transmission results &amp; status from within the app</li>\n<li>Self/auto updating application, so you're always up-to-date</li>\n<li>Supports multiple users and permission groups (i.e, admin users and regular users)</li>\n<li>Responsive Design (looks great on desktops, tablets and small devices like phones)</li>\n<li>Includes movie trailers</li>\n<li>Automatically renames media</li>\n<li>Supports multiple languages (TMDB supports internationalized Titles, Descriptions and Poster artwork)</li>\n<li>Webhook support (i.e, can post to Slack, Telegram etc when media downloads)</li>\n<li>Imports existing libraries</li>\n<li>VPN integration (optional)</li>\n<li>Auto download subtitles</li>\n</ul>\n<p>&#x200B;</p>\n<p>https://preview.redd.it/niyg4xxhnpm71.png?width=835&amp;format=png&amp;auto=webp&amp;s=8f1512efbcc382dd67102f154ac6f6da8f82e680</p></div>",
+            "date_published": "2021-09-10T17:29:32+00:00",
+            "authors": [
+                {
+                    "name": "lardbit",
+                    "url": "https://www.reddit.com/user/lardbit"
+                }
+            ]
+        },
+        {
             "id": "pl4tgg",
             "url": "/r/Softwarr/comments/pl4tgg/github_kiranshiladoplarr_a_better_arr_request_bot/",
             "external_url": "https://github.com/kiranshila/Doplarr",
