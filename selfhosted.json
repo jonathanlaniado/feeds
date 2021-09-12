@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "pmj07b",
+            "url": "/r/selfhosted/comments/pmj07b/introducing_tube_archivist_your_self_hosted/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/pmj07b/introducing_tube_archivist_your_self_hosted/",
+            "title": "Introducing Tube Archivist, your self hosted Youtube media server",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/pmj07b/introducing_tube_archivist_your_self_hosted/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pmj07b/introducing_tube_archivist_your_self_hosted/'>Apollo</a></caption> <div><p>I have been working on a solution to organize and index my ever growing downloaded youtube archive. <strong>Tube Archivist</strong> let\u2019s you subscribe to your favourite channels, download videos (using the popular youtube-dl fork <a href=\"https://github.com/yt-dlp/yt-dlp\">yt-dlp</a>) and index your archive to make your collection searchable and streamable from any device in your network.</p>\n<p>This is still very early stages, and there are many more features planned, but I\u2019d be very interested to know if that is something that people are interested in here. If you\u2019d like to give it a try, details and docker installation instructions are provided in the github repository, I\u2019m very open for feedback.</p>\n<p><a href=\"https://github.com/bbilly1/tubearchivist\">https://github.com/bbilly1/tubearchivist</a></p></div>",
+            "date_published": "2021-09-12T00:52:40+00:00",
+            "authors": [
+                {
+                    "name": "bbilly1",
+                    "url": "https://www.reddit.com/user/bbilly1"
+                }
+            ]
+        },
+        {
             "id": "pmcpug",
             "url": "/r/selfhosted/comments/pmcpug/rapidbay_selfhosted_torrent_video_streaming/",
             "external_url": "https://github.com/hauxir/rapidbay",
