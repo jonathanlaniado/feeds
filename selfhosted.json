@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "pmcpug",
+            "url": "/r/selfhosted/comments/pmcpug/rapidbay_selfhosted_torrent_video_streaming/",
+            "external_url": "https://github.com/hauxir/rapidbay",
+            "title": "Rapidbay - Self-hosted torrent video streaming service compatible with Chromecast and AppleTV deployable in the cloud",
+            "content_html": "<caption>Open in: <a href='https://github.com/hauxir/rapidbay'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/pmcpug/rapidbay_selfhosted_torrent_video_streaming/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pmcpug/rapidbay_selfhosted_torrent_video_streaming/'>Apollo</a></caption>",
+            "date_published": "2021-09-11T18:29:41+00:00",
+            "authors": [
+                {
+                    "name": "hauxir",
+                    "url": "https://www.reddit.com/user/hauxir"
+                }
+            ]
+        },
+        {
             "id": "pm1jb5",
             "url": "/r/selfhosted/comments/pm1jb5/metube_web_gui_for_youtubedl/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/pm1jb5/metube_web_gui_for_youtubedl/",
