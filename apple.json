@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "pnjlpb",
+            "url": "/r/apple/comments/pnjlpb/ios_148_and_ipados_148_released/",
+            "external_url": "https://www.reddit.com/r/apple/comments/pnjlpb/ios_148_and_ipados_148_released/",
+            "title": "iOS 14.8 and iPadOS 14.8 released",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/apple/comments/pnjlpb/ios_148_and_ipados_148_released/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/pnjlpb/ios_148_and_ipados_148_released/'>Apollo</a></caption> <div><p>From IPSW.me</p>\n<p>https://ipsw.me/14.8</p>\n<p>Edit:\nNotes are light on this one.\nRumour has it this update will allow patching of iOS without full upgrades to iOS 15. </p>\n<p><em>This update provides important security updates and is recommended for all users.\nFor information on the security content of Apple software updates, please visit this website:\nhttps://support.apple.com/kb/HT201222</em></p></div>",
+            "date_published": "2021-09-13T17:02:24+00:00",
+            "authors": [
+                {
+                    "name": "GL17CH",
+                    "url": "https://www.reddit.com/user/GL17CH"
+                }
+            ]
+        },
+        {
             "id": "pmylsu",
             "url": "/r/apple/comments/pmylsu/epic_has_appealed_fridays_ruling_in_the_epic_v/",
             "external_url": "https://www.theverge.com/2021/9/12/22670269/epic-files-appeal-fortnite-legal-battle",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "KeepYourSleevesDown",
                     "url": "https://www.reddit.com/user/KeepYourSleevesDown"
-                }
-            ]
-        },
-        {
-            "id": "p1aqkw",
-            "url": "/r/apple/comments/p1aqkw/apple_keeps_shutting_down_employeerun_surveys_on/",
-            "external_url": "https://www.theverge.com/2021/8/9/22609687/apple-pay-equity-employee-surveys-protected-activity",
-            "title": "Apple keeps shutting down employee-run surveys on pay equity \u2014 and labor lawyers say it\u2019s illegal",
-            "content_html": "<caption>Open in: <a href='https://www.theverge.com/2021/8/9/22609687/apple-pay-equity-employee-surveys-protected-activity'>www.theverge.com</a> | <a href='https://reddit.com/r/apple/comments/p1aqkw/apple_keeps_shutting_down_employeerun_surveys_on/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/p1aqkw/apple_keeps_shutting_down_employeerun_surveys_on/'>Apollo</a></caption>",
-            "date_published": "2021-08-09T21:17:25+00:00",
-            "authors": [
-                {
-                    "name": "post_break",
-                    "url": "https://www.reddit.com/user/post_break"
                 }
             ]
         }
