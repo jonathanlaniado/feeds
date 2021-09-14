@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "pnpurj",
+            "url": "/r/apple/comments/pnpurj/microsoft_says_windows_on_arm_will_not_support/",
+            "external_url": "https://appleinsider.com/articles/21/09/13/microsoft-says-windows-on-arm-will-not-support-apple-m1-macs",
+            "title": "Microsoft says Windows on ARM will not support Apple M1 Macs",
+            "content_html": "<caption>Open in: <a href='https://appleinsider.com/articles/21/09/13/microsoft-says-windows-on-arm-will-not-support-apple-m1-macs'>appleinsider.com</a> | <a href='https://reddit.com/r/apple/comments/pnpurj/microsoft_says_windows_on_arm_will_not_support/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/pnpurj/microsoft_says_windows_on_arm_will_not_support/'>Apollo</a></caption>",
+            "date_published": "2021-09-13T22:22:02+00:00",
+            "authors": [
+                {
+                    "name": "blind_system",
+                    "url": "https://www.reddit.com/user/blind_system"
+                }
+            ]
+        },
+        {
             "id": "pnjlpb",
             "url": "/r/apple/comments/pnjlpb/ios_148_and_ipados_148_released/",
             "external_url": "https://www.reddit.com/r/apple/comments/pnjlpb/ios_148_and_ipados_148_released/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "aquaception",
                     "url": "https://www.reddit.com/user/aquaception"
-                }
-            ]
-        },
-        {
-            "id": "p10lu1",
-            "url": "/r/apple/comments/p10lu1/patrick_breyer_the_end_of_the_privacy_of_digital/",
-            "external_url": "https://www.patrick-breyer.de/en/posts/message-screening/",
-            "title": "Patrick Breyer: The End of the Privacy of Digital Correspondence. The EU decided to let providers search all private chats, messages, and emails automatically for suspicious content \u2013 generally and indiscriminately [\u2026] [T]he European Parliament adopted the chatcontrol regulation on 6 July 2021.",
-            "content_html": "<caption>Open in: <a href='https://www.patrick-breyer.de/en/posts/message-screening/'>www.patrick-breyer.de</a> | <a href='https://reddit.com/r/apple/comments/p10lu1/patrick_breyer_the_end_of_the_privacy_of_digital/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/p10lu1/patrick_breyer_the_end_of_the_privacy_of_digital/'>Apollo</a></caption>",
-            "date_published": "2021-08-09T12:37:23+00:00",
-            "authors": [
-                {
-                    "name": "KeepYourSleevesDown",
-                    "url": "https://www.reddit.com/user/KeepYourSleevesDown"
                 }
             ]
         }
