@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "po7miu",
+            "url": "/r/apple/comments/po7miu/apple_says_apple_watch_series_7_is_compatible/",
+            "external_url": "https://9to5mac.com/2021/09/14/apple-says-apple-watch-series-7-is-compatible-with-all-previous-bands/",
+            "title": "Apple says Apple Watch Series 7 is compatible with all previous bands",
+            "content_html": "<caption>Open in: <a href='https://9to5mac.com/2021/09/14/apple-says-apple-watch-series-7-is-compatible-with-all-previous-bands/'>9to5mac.com</a> | <a href='https://reddit.com/r/apple/comments/po7miu/apple_says_apple_watch_series_7_is_compatible/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/po7miu/apple_says_apple_watch_series_7_is_compatible/'>Apollo</a></caption>",
+            "date_published": "2021-09-14T17:39:59+00:00",
+            "authors": [
+                {
+                    "name": "walktall",
+                    "url": "https://www.reddit.com/user/walktall"
+                }
+            ]
+        },
+        {
             "id": "po7o14",
             "url": "/r/apple/comments/po7o14/apple_announces_iphone_13_and_iphone_13_mini_with/",
             "external_url": "https://www.macrumors.com/2021/09/14/iphone-13-iphone-13-mini-smaller-notch-announced/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "post_break",
                     "url": "https://www.reddit.com/user/post_break"
-                }
-            ]
-        },
-        {
-            "id": "p2dyrn",
-            "url": "/r/apple/comments/p2dyrn/apples_imessage_is_secure_unless_you_have_icloud/",
-            "external_url": "https://www.reddit.com/r/apple/comments/p2dyrn/apples_imessage_is_secure_unless_you_have_icloud/",
-            "title": "Apple\u2019s iMessage Is Secure \u2026 Unless You Have iCloud Enabled",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/apple/comments/p2dyrn/apples_imessage_is_secure_unless_you_have_icloud/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/p2dyrn/apples_imessage_is_secure_unless_you_have_icloud/'>Apollo</a></caption> <div><p>Here's a RECENT  how to configure iMessage so Apple does not have a copy of your encryption keys, unfortunately the only way to do so is to disable iCloud back-ups. interesting read. </p>\n<p><a href=\"https://www.howtogeek.com/710509/apples-imessage-is-secure\">https://www.howtogeek.com/710509/apples-imessage-is-secure</a>...-unless-you-have-icloud-enabled/</p></div>",
-            "date_published": "2021-08-11T14:18:13+00:00",
-            "authors": [
-                {
-                    "name": "lordgallen",
-                    "url": "https://www.reddit.com/user/lordgallen"
                 }
             ]
         }
