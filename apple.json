@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "pornyk",
+            "url": "/r/apple/comments/pornyk/people_are_missing_or_ignoring_the_purpose_of_the/",
+            "external_url": "https://www.reddit.com/r/apple/comments/pornyk/people_are_missing_or_ignoring_the_purpose_of_the/",
+            "title": "People are missing (or ignoring) the purpose of the diagonal camera layout on the iPhone 13",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/apple/comments/pornyk/people_are_missing_or_ignoring_the_purpose_of_the/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/pornyk/people_are_missing_or_ignoring_the_purpose_of_the/'>Apollo</a></caption> <div><p>I've already seen so many memes about the new camera layout of the iPhone 13. Sure there may be a secondary marketing purpose to make it look different, but there's a legitimate, functional reason why the change was made. </p>\n<p>The lens at the bottom of the 13/13 Mini camera module now includes <strong><em>sensor shift image optical stabilization</em></strong>, previously introduced on the 12 Pro. <a href=\"https://youtu.be/YcFyafNFNjs?t=367\">If you watch the press video on the iPhone 13 they show a cross-section of the camera module where this is demonstrated.</a> This sensor is what allows the iPhone to take better photos in the dark because it can move to accommodate the subtle movements of your hand/arm. </p>\n<p>If the lens layout was the same as before there would literally be no room to put this sensor without shifting the whole camera module closer to the middle of the phone.</p></div>",
+            "date_published": "2021-09-15T14:52:05+00:00",
+            "authors": [
+                {
+                    "name": "SkyGuy182",
+                    "url": "https://www.reddit.com/user/SkyGuy182"
+                }
+            ]
+        },
+        {
             "id": "possft",
             "url": "/r/apple/comments/possft/iphone_13_models_have_the_same_amount_of_ram_as/",
             "external_url": "https://www.macrumors.com/2021/09/15/how-much-ram-in-iphone-13/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "shepstl",
                     "url": "https://www.reddit.com/user/shepstl"
-                }
-            ]
-        },
-        {
-            "id": "p3m9ql",
-            "url": "/r/apple/comments/p3m9ql/apples_software_chief_explains_misunderstood/",
-            "external_url": "https://www.wsj.com/video/series/joanna-stern-personal-technology/apples-software-chief-explains-misunderstood-iphone-child-protection-features-exclusive/573D76B3-5ACF-4C87-ACE1-E99CECEFA82C",
-            "title": "Apple\u2019s Software Chief Explains \u2018Misunderstood\u2019 iPhone Child-Protection Features",
-            "content_html": "<caption>Open in: <a href='https://www.wsj.com/video/series/joanna-stern-personal-technology/apples-software-chief-explains-misunderstood-iphone-child-protection-features-exclusive/573D76B3-5ACF-4C87-ACE1-E99CECEFA82C'>www.wsj.com</a> | <a href='https://reddit.com/r/apple/comments/p3m9ql/apples_software_chief_explains_misunderstood/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/p3m9ql/apples_software_chief_explains_misunderstood/'>Apollo</a></caption>",
-            "date_published": "2021-08-13T14:57:44+00:00",
-            "authors": [
-                {
-                    "name": "exjr_",
-                    "url": "https://www.reddit.com/user/exjr_"
                 }
             ]
         }
