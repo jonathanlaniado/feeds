@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "prg4mm",
+            "url": "/r/macapps/comments/prg4mm/mackeeper_reminder_if_you_have_this_on_your_mac/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/prg4mm/mackeeper_reminder_if_you_have_this_on_your_mac/",
+            "title": "MacKeeper reminder: if you have this on your Mac, it's the cause of many of its problems.",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/prg4mm/mackeeper_reminder_if_you_have_this_on_your_mac/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/prg4mm/mackeeper_reminder_if_you_have_this_on_your_mac/'>Apollo</a></caption> <div><p>I can't believe people are still falling for this app, but a friend contacted me last night, asking why their fairly new Mac was doing odd things. When we zoomed and did a screenshare this morning, I did a global search and sure enough, MacKeeper was on it. </p>\n<p>MacWorld has a dated (2018) but still useful set of instructions on how to uninstall this pugnacious useless app: <br />\n<a href=\"https://www.macworld.com/article/224718/how-to-uninstall-mackeeper-from-your-mac.html\">https://www.macworld.com/article/224718/how-to-uninstall-mackeeper-from-your-mac.html</a>  </p>\n<p>That should still work for most systems. If not, just do a command-F search for any file containing \"mackeeper\" and you should be able to get rid of it.</p></div>",
+            "date_published": "2021-09-19T20:45:44+00:00",
+            "authors": [
+                {
+                    "name": "operablesocks",
+                    "url": "https://www.reddit.com/user/operablesocks"
+                }
+            ]
+        },
+        {
             "id": "pr3vp7",
             "url": "/r/macapps/comments/pr3vp7/mela_a_simple_elegant_and_modern_recipe_manager/",
             "external_url": "https://mela.recipes/",
