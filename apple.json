@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "ps21sc",
+            "url": "/r/apple/comments/ps21sc/ios_15_icloud_private_relay_vulnerability/",
+            "external_url": "https://fingerprintjs.com/blog/ios15-icloud-private-relay-vulnerability/",
+            "title": "iOS 15 iCloud Private Relay Vulnerability Identified",
+            "content_html": "<caption>Open in: <a href='https://fingerprintjs.com/blog/ios15-icloud-private-relay-vulnerability/'>fingerprintjs.com</a> | <a href='https://reddit.com/r/apple/comments/ps21sc/ios_15_icloud_private_relay_vulnerability/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/ps21sc/ios_15_icloud_private_relay_vulnerability/'>Apollo</a></caption>",
+            "date_published": "2021-09-20T19:36:28+00:00",
+            "authors": [
+                {
+                    "name": "iamvalentin",
+                    "url": "https://www.reddit.com/user/iamvalentin"
+                }
+            ]
+        },
+        {
             "id": "prx8ai",
             "url": "/r/apple/comments/prx8ai/kuo_apple_delays_underdisplay_touch_id_for_iphone/",
             "external_url": "https://9to5mac.com/2021/09/20/kuo-apple-delays-under-display-touch-id-for-iphone-to-2023-foldable-iphone-to-2024/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "benh999",
                     "url": "https://www.reddit.com/user/benh999"
-                }
-            ]
-        },
-        {
-            "id": "pcq9l9",
-            "url": "/r/apple/comments/pcq9l9/developers_arent_impressed_with_apples_app_store/",
-            "external_url": "https://www.macworld.com/article/354291/developers-arent-impressed-with-apples-app-store-changes.html",
-            "title": "Developers aren't impressed with Apple's App Store changes",
-            "content_html": "<caption>Open in: <a href='https://www.macworld.com/article/354291/developers-arent-impressed-with-apples-app-store-changes.html'>www.macworld.com</a> | <a href='https://reddit.com/r/apple/comments/pcq9l9/developers_arent_impressed_with_apples_app_store/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/pcq9l9/developers_arent_impressed_with_apples_app_store/'>Apollo</a></caption>",
-            "date_published": "2021-08-27T16:03:29+00:00",
-            "authors": [
-                {
-                    "name": "egocentric-video",
-                    "url": "https://www.reddit.com/user/egocentric-video"
                 }
             ]
         }
