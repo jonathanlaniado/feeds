@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "pt3z4x",
+            "url": "/r/selfhosted/comments/pt3z4x/intrusion_detection_software/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/pt3z4x/intrusion_detection_software/",
+            "title": "Intrusion detection software?",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/pt3z4x/intrusion_detection_software/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pt3z4x/intrusion_detection_software/'>Apollo</a></caption> <div><p>I run Nextcloud on a commercial VPS. It is hardened with fail2ban, ssh key login only, while the NC itself has 2FA and brute force protection plugins. </p>\n<p>Is there any simple way to detect if there is an intrusion? What logs would be most informative to review?</p>\n<p>On a podcast (Darknet Diaries - excellent btw), I heard an ad for a software runs on servers and monitors for intrusion activity - a bit like a canary in a mine. It seems like a pricey corporate solution, but it made me wonder if any FOSS package existed that did something similar.</p>\n<p>Thanks for any guidance.</p></div>",
+            "date_published": "2021-09-22T09:40:03+00:00",
+            "authors": [
+                {
+                    "name": "jakethepeg111",
+                    "url": "https://www.reddit.com/user/jakethepeg111"
+                }
+            ]
+        },
+        {
             "id": "psgupy",
             "url": "/r/selfhosted/comments/psgupy/github_gnurbooksing_webbased_epub_indexer/",
             "external_url": "https://github.com/gnur/booksing",
@@ -1414,21 +1428,6 @@
                     "name": "Offbeatalchemy",
                     "url": "https://www.reddit.com/user/Offbeatalchemy",
                     "avatar": "https://www.redditstatic.com/avatars/avatar_default_02_7193FF.png"
-                }
-            ]
-        },
-        {
-            "id": "on735p",
-            "url": "/r/selfhosted/comments/on735p/i_recently_discovered_kanboard_a_free_open_source/",
-            "external_url": "https://github.com/kanboard/kanboard",
-            "title": "I recently discovered Kanboard - a free, open source project management app.",
-            "content_html": "<p>See the linked content on <a href='https://github.com/kanboard/kanboard'>github.com</a>.</p>",
-            "date_published": "2021-07-19T04:48:08+00:00",
-            "authors": [
-                {
-                    "name": "ThatGuy_ZA",
-                    "url": "https://www.reddit.com/user/ThatGuy_ZA",
-                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_01_46D160.png"
                 }
             ]
         }
