@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "pu7szp",
+            "url": "/r/apple/comments/pu7szp/disclosure_of_three_0day_ios_vulnerabilities_and/",
+            "external_url": "https://habr.com/post/579714/",
+            "title": "Disclosure of three 0-day iOS vulnerabilities and critique of Apple Security Bounty program",
+            "content_html": "<caption>Open in: <a href='https://habr.com/post/579714/'>habr.com</a> | <a href='https://reddit.com/r/apple/comments/pu7szp/disclosure_of_three_0day_ios_vulnerabilities_and/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/pu7szp/disclosure_of_three_0day_ios_vulnerabilities_and/'>Apollo</a></caption>",
+            "date_published": "2021-09-23T23:50:46+00:00",
+            "authors": [
+                {
+                    "name": "illusionofchaos",
+                    "url": "https://www.reddit.com/user/illusionofchaos"
+                }
+            ]
+        },
+        {
             "id": "ptzpn7",
             "url": "/r/apple/comments/ptzpn7/apple_releases_ios_1255_update_for_older_iphones/",
             "external_url": "https://www.macrumors.com/2021/09/23/apple-releases-ios-12-5-5-update/amp/#click=https://t.co/urnZr6Khtu",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "TheEvilGhost",
                     "url": "https://www.reddit.com/user/TheEvilGhost"
-                }
-            ]
-        },
-        {
-            "id": "pg9phy",
-            "url": "/r/apple/comments/pg9phy/apple_wallet_limits_users_to_one_touch_id_finger/",
-            "external_url": "https://appleinsider.com/articles/21/09/02/apple-wallet-limits-users-to-one-touch-id-finger-profile-when-authenticating-state-ids",
-            "title": "Apple Wallet limits users to one Touch ID finger profile when authenticating state IDs",
-            "content_html": "<caption>Open in: <a href='https://appleinsider.com/articles/21/09/02/apple-wallet-limits-users-to-one-touch-id-finger-profile-when-authenticating-state-ids'>appleinsider.com</a> | <a href='https://reddit.com/r/apple/comments/pg9phy/apple_wallet_limits_users_to_one_touch_id_finger/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/pg9phy/apple_wallet_limits_users_to_one_touch_id_finger/'>Apollo</a></caption>",
-            "date_published": "2021-09-02T03:26:59+00:00",
-            "authors": [
-                {
-                    "name": "Platano_RD",
-                    "url": "https://www.reddit.com/user/Platano_RD"
                 }
             ]
         }
