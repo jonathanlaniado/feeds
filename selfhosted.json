@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "ptpg5l",
+            "url": "/r/selfhosted/comments/ptpg5l/viewtube_is_an_alternative_youtube_frontend/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/ptpg5l/viewtube_is_an_alternative_youtube_frontend/",
+            "title": "ViewTube is an alternative YouTube frontend.",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/ptpg5l/viewtube_is_an_alternative_youtube_frontend/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/ptpg5l/viewtube_is_an_alternative_youtube_frontend/'>Apollo</a></caption> <div><p><a href=\"https://github.com/ViewTube/viewtube-vue\">https://github.com/ViewTube/viewtube-vue</a></p>\n<p><a href=\"https://dev.viewtube.io\">https://dev.viewtube.io</a></p>\n<ul>\n<li>Integrated SponsorBlock support</li>\n<li>Watch videos without ads or tracking</li>\n<li>Built from the ground up to be mobile and desktop friendly</li>\n<li>Dark and light themes</li>\n<li>Touch friendly video player with gestures</li>\n<li>Supports loop, speed, autoplay and volume</li>\n<li>Create an account separately from Youtube</li>\n<li>Read comments</li>\n<li>Search for videos</li>\n<li>Watch playlists</li>\n<li>Subscribe to channels and see their latest uploads</li>\n<li>Receive push notifications for subscribed channels</li>\n</ul>\n<p>It's built using Nuxt.js and Nest.</p>\n<p>NB: Not my project</p></div>",
+            "date_published": "2021-09-23T06:45:07+00:00",
+            "authors": [
+                {
+                    "name": "mishab_mizzunet",
+                    "url": "https://www.reddit.com/user/mishab_mizzunet"
+                }
+            ]
+        },
+        {
             "id": "pttx1v",
             "url": "/r/selfhosted/comments/pttx1v/snippet_box_selfhosted_and_open_source_code/",
             "external_url": "https://v.redd.it/1bzhflohv8p71",
@@ -1411,21 +1425,6 @@
                     "name": "krakah293",
                     "url": "https://www.reddit.com/user/krakah293",
                     "avatar": "https://www.redditstatic.com/avatars/avatar_default_15_EA0027.png"
-                }
-            ]
-        },
-        {
-            "id": "ooyvwu",
-            "url": "/r/selfhosted/comments/ooyvwu/need_to_blow_off_some_steam_bye_nextcloud/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/ooyvwu/need_to_blow_off_some_steam_bye_nextcloud/",
-            "title": "Need to blow off some steam - Bye Nextcloud",
-            "content_html": "<p>I am selfhosting since 3 years: mailcow, a blog via ghost, vaultwarden, a whole mediaserver (plex, sonarr, ...), searx, photoprism, papermerge, etc</p>\n<p>But the only thing that keeps crashing is Nextcloud. Each upgrade is a hassle, libreoffice/onlyoffice work sometimes and then randomly it stops. Even worse is right now I gave up on all nextcloud features, except for cospend. Still suddenly it stops working. I tried the linuxserver and the official image and both have always issues. I know selfhosting is work, but Nextcloud is the most unreliable piece of software I ever hosted and I am done fixing it.</p>\n<p>&#x200B;</p>\n<p>Hence I am wondering, is this only for me the case? I keep seeing many people loving their nextcloud instance, but maybe people in my situation never had the chance to talk about it? As an administrator I think it's quite embarrassing that I had to reinstall an application over 8 times...</p>\n<p>&#x200B;</p>\n<p>Sorry if this is too hateful, WAF is getting quite low if the cospend projects keep getting lost. Switching now to just selfhost the native Ihatemoney project.</p>",
-            "date_published": "2021-07-21T20:58:25+00:00",
-            "authors": [
-                {
-                    "name": "fabsau",
-                    "url": "https://www.reddit.com/user/fabsau",
-                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_16_FF585B.png"
                 }
             ]
         }
