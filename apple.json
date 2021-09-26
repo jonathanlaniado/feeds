@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "pvnkdg",
+            "url": "/r/apple/comments/pvnkdg/quickscan_is_in_v4_my_100_free_ios_scanner_with/",
+            "external_url": "https://www.reddit.com/r/apple/comments/pvnkdg/quickscan_is_in_v4_my_100_free_ios_scanner_with/",
+            "title": "QuickScan is in v4! - My 100% free iOS scanner with OCR (text recognition) received HUGE updates since its launch. Still no ads, no data collection, no iap. It feels better than ever and I can't wait for you to try it.",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/apple/comments/pvnkdg/quickscan_is_in_v4_my_100_free_ios_scanner_with/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/pvnkdg/quickscan_is_in_v4_my_100_free_ios_scanner_with/'>Apollo</a></caption> <div><p>Around one year ago, I was on this exact same subreddit talking about QuickScan v2, my free iOS scanner (with OCR) created during the first lockdown, to help people who cannot afford the right tools to study/work from home.</p>\n<p>I received so many positive feedbacks and encouragements, that I actually continued to update the app.</p>\n<p>Today I'm here to talk about my last months of work, on the v4, which now feels incredible. I even believe that it could compete with the expensive scanner apps out there. But you'll be the judge of that. Anyway, it's still free, without any ads and without any data collection. Everything happens on your device.</p>\n<p>The <strong>key features</strong> are:</p>\n<ul>\n<li>Scan with your camera (with automatic edges detection and automatic angle correction)</li>\n<li>Import existing PDF (from Files) or existing photos (from Camera Roll). You can even combine them (also with scans) into one document. You can also reorder the pages with a nicely animated Drag &amp; Drop.</li>\n<li><strong>Scan history</strong>: the app keeps (on device) a list of your previous scans such that they remain available for whenever you need them.</li>\n<li><strong>Recognize text (OCR)</strong> on anything (scans / photos / PDF)</li>\n<li><strong>Integrate the recognized text into the exported PDF</strong> such that it becomes searchable (search/select/copy &amp; paste). Yes!!</li>\n<li>Export to .TXT (text), .JPG (images), or to searchable .PDF (as detailed previously)</li>\n<li><strong>Automatic file naming</strong>: configure a pattern with date/time/text that suits your needs, and your scans will be named accordingly</li>\n<li>Apply filters (colors, grayscale, B&amp;W, size, compression) on images and instantly preview the output file size</li>\n<li>Preview the OCR results and copy them to the pasteboard</li>\n<li>Configure a <strong>default save location</strong>, such that when you export the scan, it directly saves it in the configured folder</li>\n<li>Configure the PDF print size (A4, US Letter, ...)</li>\n<li>Shortcut on the homescreen app icon to immediately initiate a scan</li>\n<li>Everything happens locally, on your device. No server. Your data is safe and your privacy matters.</li>\n</ul>\n<p>I hope you like the app, and that it will continue to reach the people in-need for a free scanner for their studies/work/whatever. The in-app purchase is a simple tip jar, for the people who can afford to support the project \u263a\ufe0f.</p>\n<p>Your feedback is VERY welcome, I'd love to continue improving the app based on your amazing suggestions.</p>\n<p><a href=\"https://apps.apple.com/app/id1513790291\">Link to QuickScan v4 on the App Store</a></p>\n<p>Thank you!</p></div>",
+            "date_published": "2021-09-26T05:26:09+00:00",
+            "authors": [
+                {
+                    "name": "yellow8_",
+                    "url": "https://www.reddit.com/user/yellow8_"
+                }
+            ]
+        },
+        {
             "id": "pv8ac9",
             "url": "/r/apple/comments/pv8ac9/iphone_13_pro_battery_life_wow/",
             "external_url": "https://www.reddit.com/r/apple/comments/pv8ac9/iphone_13_pro_battery_life_wow/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Phooboos",
                     "url": "https://www.reddit.com/user/Phooboos"
-                }
-            ]
-        },
-        {
-            "id": "pj3aj0",
-            "url": "/r/apple/comments/pj3aj0/iphone_13_a15_chip_performance_continues/",
-            "external_url": "https://appleinsider.com/articles/21/09/06/iphone-13-a15-chip-performance-continues-dominance-over-android-rivals",
-            "title": "'iPhone 13' A15 chip performance continues dominance over Android rivals",
-            "content_html": "<caption>Open in: <a href='https://appleinsider.com/articles/21/09/06/iphone-13-a15-chip-performance-continues-dominance-over-android-rivals'>appleinsider.com</a> | <a href='https://reddit.com/r/apple/comments/pj3aj0/iphone_13_a15_chip_performance_continues/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/pj3aj0/iphone_13_a15_chip_performance_continues/'>Apollo</a></caption>",
-            "date_published": "2021-09-06T16:53:05+00:00",
-            "authors": [
-                {
-                    "name": "Sorin61",
-                    "url": "https://www.reddit.com/user/Sorin61"
                 }
             ]
         }
