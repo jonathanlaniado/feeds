@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "pvh930",
+            "url": "/r/selfhosted/comments/pvh930/photoprism_huge_update_today_including_face/",
+            "external_url": "https://docs.photoprism.org/release-notes/",
+            "title": "PhotoPrism - Huge update today, including face detection! Check out the release notes",
+            "content_html": "<caption>Open in: <a href='https://docs.photoprism.org/release-notes/'>docs.photoprism.org</a> | <a href='https://reddit.com/r/selfhosted/comments/pvh930/photoprism_huge_update_today_including_face/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pvh930/photoprism_huge_update_today_including_face/'>Apollo</a></caption>",
+            "date_published": "2021-09-25T22:42:44+00:00",
+            "authors": [
+                {
+                    "name": "DeutscheAutoteknik",
+                    "url": "https://www.reddit.com/user/DeutscheAutoteknik"
+                }
+            ]
+        },
+        {
             "id": "pufhs0",
             "url": "/r/selfhosted/comments/pufhs0/beginner_guide_how_to_secure_your_selfhosted/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/pufhs0/beginner_guide_how_to_secure_your_selfhosted/",
@@ -1408,21 +1422,6 @@
                     "name": "CosineTau",
                     "url": "https://www.reddit.com/user/CosineTau",
                     "avatar": "https://www.redditstatic.com/avatars/avatar_default_14_D4E815.png"
-                }
-            ]
-        },
-        {
-            "id": "opzvr3",
-            "url": "/r/selfhosted/comments/opzvr3/creating_my_first_secure_network/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/opzvr3/creating_my_first_secure_network/",
-            "title": "Creating my first secure network",
-            "content_html": "<p>Hello people of r/selfhosted. I've been building my up my own homelab the past year or so. It  recently struck me that my network has limited security and that a few  of my machines have stuff saved that people rely on being there. So I feel kind of an obligation to set up as secure a network as possible.   So I came here wondering if any of you guys have any tips/suggestions or  just pointers to a place where I can get more information?</p>\n<p>I  have a server running proxmox and several other computers where I could  set up dedicated security tools etc... I just don't know where to start  looking.</p>",
-            "date_published": "2021-07-23T10:49:08+00:00",
-            "authors": [
-                {
-                    "name": "EC-user",
-                    "url": "https://www.reddit.com/user/EC-user",
-                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_17_7E53C1.png"
                 }
             ]
         }
