@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "pvvi83",
+            "url": "/r/apple/comments/pvvi83/googles_amp_pageslinks_are_outrageously_annoying/",
+            "external_url": "https://www.reddit.com/r/apple/comments/pvvi83/googles_amp_pageslinks_are_outrageously_annoying/",
+            "title": "Google's AMP pages/links are outrageously annoying, so with iOS 15 I built a way to block them entirely with an app called Amplosion. It's 33% off for Reddit today, is open source, and as a bonus includes has a Tamagotchi dog that lives in the Settings screen.",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/apple/comments/pvvi83/googles_amp_pageslinks_are_outrageously_annoying/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/pvvi83/googles_amp_pageslinks_are_outrageously_annoying/'>Apollo</a></caption> <div><p>Download link: https://itunes.apple.com/app/id1585734696</p>\n<p>Hey r/Apple,</p>\n<p>I'm that guy that builds Apollo for Reddit, and a very common request has been to block those annoying AMP links. Until now that's been very tricky with just the link to go off of, but with iOS 15 Apple added Safari extensions which allow you to do more with intercepting these pages directly, so I built an app/extension to block AMP pages.</p>\n<p>I'm calling it Amplosion. It's private, with everything happening on-device and it's <a href=\"https://github.com/christianselig/Amplosion\">open source</a> to prove it. And today for Reddit, I knocked 33% off the already low price to make it just $2.</p>\n<p>For some extra fun, it includes a Tamagotchi style dog named that lives in the Settings screen for you to play with. His name is Lord Waffles and he's very cute. \ud83d\udc36</p>\n<h1>AMP pages? Huh?</h1>\n<p>For the uninitiated, AMP pages are a project Google makes where they basically re-host the webpage with the claimed goal of trying to make it load faster.</p>\n<p>The reality is that it often creates an inconsistent, or <a href=\"https://i.imgur.com/gPIhe7x.mp4\">often outright broken experience</a>, that then mangles the URL for sharing with people by making it three times as long with a bunch of Google junk added. It also adds more ways <a href=\"https://i.imgur.com/wbCQXoV.png\">for Google to track you</a>.</p>\n<p>Here's another <a href=\"https://daringfireball.net/linked/2017/01/17/schreiber-amp\">article by Daring Fireball</a> on AMP's annoyingness.</p>\n<h1>Delightful</h1>\n<p>Blocking AMP pages from your life is very delightful in and of itself, but I wanted the app to go above and beyond to be even more delightful. </p>\n<ul>\n<li>A beautiful 3D flip counter at the top that counts how many AMP articles it's blocked</li>\n<li>Can show you a breakdown of how many times it's activated for specific sites</li>\n<li>Customizable, allowing you to enable AMP for specific websites if you so choose</li>\n<li>As mentioned, everything happens on-device and is open source for transparency</li>\n<li>In addition to having a loving dog, it has a short story about his adventures with his friend who is a turtle</li>\n<li>Awesome widgets, so you can see your total Amplosions on your home screen (or the status of Lord Waffles)</li>\n<li>Gorgeous, included <a href=\"https://i.imgur.com/xdMm6As.png\">customizable home screen icons</a> by Matthew Skiles</li>\n<li>No ads, subscriptions, in-app purchases, or funny business. Just pay $2 and enjoy it all. :)</li>\n</ul>\n<p>I really, really hope you like the app. It's been such a breath of fresh air to be using for the last few months and I'd love any feedback/input you have. I'll hang around here as long as you want if you have any questions so feel free to AMA me as well haha.</p>\n<p>Download link: https://itunes.apple.com/app/id1585734696</p></div>",
+            "date_published": "2021-09-26T15:00:44+00:00",
+            "authors": [
+                {
+                    "name": "iamthatis",
+                    "url": "https://www.reddit.com/user/iamthatis"
+                }
+            ]
+        },
+        {
             "id": "pvnkdg",
             "url": "/r/apple/comments/pvnkdg/quickscan_is_in_v4_my_100_free_ios_scanner_with/",
             "external_url": "https://www.reddit.com/r/apple/comments/pvnkdg/quickscan_is_in_v4_my_100_free_ios_scanner_with/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "OpeningFeed",
                     "url": "https://www.reddit.com/user/OpeningFeed"
-                }
-            ]
-        },
-        {
-            "id": "pjq0dv",
-            "url": "/r/apple/comments/pjq0dv/apple_event_announced_for_september_14_2021/",
-            "external_url": "https://twitter.com/imyke/status/1435272358898638848",
-            "title": "Apple event announced for September 14, 2021",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/apple/comments/pjq0dv/apple_event_announced_for_september_14_2021/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/pjq0dv/apple_event_announced_for_september_14_2021/'>Apollo</a></caption><div><br></div><blockquote class=\"twitter-tweet\" align=\"center\"><p lang=\"en\" dir=\"ltr\">Here we go again <a href=\"https://t.co/vD5uPAGJ0r\">pic.twitter.com/vD5uPAGJ0r</a></p>&mdash; Myke Hurley (@imyke) <a href=\"https://twitter.com/imyke/status/1435272358898638848?ref_src=twsrc%5Etfw\">September 7, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
-            "date_published": "2021-09-07T16:03:46+00:00",
-            "authors": [
-                {
-                    "name": "Phooboos",
-                    "url": "https://www.reddit.com/user/Phooboos"
                 }
             ]
         }
