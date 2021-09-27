@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "pwb9s2",
+            "url": "/r/selfhosted/comments/pwb9s2/the_easiest_way_to_create_a_secure_vpn_with/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/pwb9s2/the_easiest_way_to_create_a_secure_vpn_with/",
+            "title": "The easiest way to create a secure VPN with Wiretrustee and Wireguard",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/pwb9s2/the_easiest_way_to_create_a_secure_vpn_with/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pwb9s2/the_easiest_way_to_create_a_secure_vpn_with/'>Apollo</a></caption> <div><p>Hey folks,</p>\n<p>It has been a while since my <a href=\"https://www.reddit.com/r/selfhosted/comments/nyym5f/wiretrustee_a_selfhosted_wireguard_management_tool/\">last post</a> about Wiretrustee.</p>\n<p>Today I'm happy to announce a new <a href=\"https://github.com/wiretrustee/wiretrustee/releases\">beta release</a>. </p>\n<p>As before Wiretrustee is an opensource (BSD-3 license) and a self-hosted VPN platform built around Wireguard :) </p>\n<p>Since the last major release, Wiretrustee has changed a lot in an effort to make it easy to create and manage secure private networks. </p>\n<p>Any feedback is very welcome and important to us - we will be using it for our future roadmap so feel free to comment.</p>\n<p>So what are the changes? Below are the major ones, please read on.  </p>\n<p><strong>Updated documentation and tutorials</strong><br />\nI welcome you to our documentation part of the repo where you can find self-hosting, quick start guides, and a couple of explanatory videos. (Documentation is still a work in progress).</p>\n<p><a href=\"https://github.com/wiretrustee/wiretrustee/blob/main/docs/README.md\">https://github.com/wiretrustee/wiretrustee/blob/main/docs/README.md</a></p>\n<p><strong>Multiplatform support</strong></p>\n<p>Wiretrustee works on Linux, macOS, and Windows. It also runs on arm devices like RaspberryPi.<br />\nOn Linux, Wiretrustee will use the kernel Wireguard module if available.</p>\n<p>Mobile apps are planned for the future. </p>\n<p><strong>Wiretrustee got a Management Service</strong></p>\n<p>A service that stores network metadata and distributes network changes to peers. </p>\n<p>So, the part when you had to manually configure peers (add-peer command) and remember IPs is now automatic. Whenever a new peer joins the network all other peers will receive an update and connect to it!  </p>\n<p>Additionally, Management Service supports SSL with an automatic Let's Encrypt certificate generation or a custom certificate from a file.</p>\n<p><strong>Wiretrustee got a Management UI Dashboard</strong></p>\n<p>A couple of screenshots first :)  </p>\n<p><a href=\"https://preview.redd.it/kjqnzr2ifzp71.png?width=667&amp;format=png&amp;auto=webp&amp;s=598f0cb0a4dc6ac3c16ff74b9a2199c9fa35ad94\">Login screen</a></p>\n<p><a href=\"https://preview.redd.it/yjx818uvezp71.png?width=1316&amp;format=png&amp;auto=webp&amp;s=270f899d96a6c9887522477c3f4a5764fbcedc43\">Peers list screen </a></p>\n<p>The dashboard displays a list of peers, setup keys, and helps to manage your network. It also features a social login and auto Let's Encrypt certificate. </p>\n<p>User management is the only part that can't be self-hosted. We decided to use the Auth0 service to \"outsource\" the user management part due to the fact that usually, it takes quite an effort to make it right and secure.</p>\n<p>The dashboard is an open-source single-page app written in React JS<br />\n<a href=\"https://github.com/wiretrustee/wiretrustee-dashboard\">https://github.com/wiretrustee/wiretrustee-dashboard</a></p>\n<p><strong>An upgraded relaying</strong></p>\n<p>Wiretrustee uses <a href=\"https://github.com/coturn/coturn\">TURN</a> to relay traffic in case a direct peer-to-peer connection isn't possible (happens with carrier-grade NATs). </p>\n<p>We've added a feature to secure access to the TURN relay with secret-based time-limited credentials. The Management Service periodically generates a token that can be used by peers to access TURN. Old tokens are expiring after TTL.  </p>\n<p><strong>P.S.</strong> <br />\nI hope you read it till the end :) Let me know what you think!</p></div>",
+            "date_published": "2021-09-27T06:20:34+00:00",
+            "authors": [
+                {
+                    "name": "wiretrustee",
+                    "url": "https://www.reddit.com/user/wiretrustee"
+                }
+            ]
+        },
+        {
             "id": "pwh1wx",
             "url": "/r/selfhosted/comments/pwh1wx/from_not_knowing_docker_back_in_2019_to/",
             "external_url": "https://i.redd.it/slv2vwrvr1q71.png",
@@ -1405,21 +1419,6 @@
                     "name": "arey_abhishek",
                     "url": "https://www.reddit.com/user/arey_abhishek",
                     "avatar": "https://www.redditstatic.com/avatars/avatar_default_02_EA0027.png"
-                }
-            ]
-        },
-        {
-            "id": "oravno",
-            "url": "/r/selfhosted/comments/oravno/a_beginners_guide_to_selfhosting_am_i_missing/",
-            "external_url": "https://cyberhost.uk/getting-started/",
-            "title": "A Beginners Guide to Self-Hosting. Am I missing anything?",
-            "content_html": "<p>See the linked content on <a href='https://cyberhost.uk/getting-started/'>cyberhost.uk</a>.</p>",
-            "date_published": "2021-07-25T12:43:12+00:00",
-            "authors": [
-                {
-                    "name": "cyberhost-uk",
-                    "url": "https://www.reddit.com/user/cyberhost-uk",
-                    "avatar": "https://styles.redditmedia.com/t5_3oppor/styles/profileIcon_rvkik5fd1z961.png"
                 }
             ]
         }
