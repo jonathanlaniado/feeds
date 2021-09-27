@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "pwh1wx",
+            "url": "/r/selfhosted/comments/pwh1wx/from_not_knowing_docker_back_in_2019_to/",
+            "external_url": "https://i.redd.it/slv2vwrvr1q71.png",
+            "title": "From not knowing docker back in 2019 to selfhosting a 6 node Kubernetes cluster and going completely gafam free in 2021 ! Quite proud of myself !",
+            "content_html": "<caption>Open in: <a href='https://i.redd.it/slv2vwrvr1q71.png'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/pwh1wx/from_not_knowing_docker_back_in_2019_to/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pwh1wx/from_not_knowing_docker_back_in_2019_to/'>Apollo</a></caption>",
+            "date_published": "2021-09-27T13:27:27+00:00",
+            "authors": [
+                {
+                    "name": "SirSirae",
+                    "url": "https://www.reddit.com/user/SirSirae"
+                }
+            ]
+        },
+        {
             "id": "pv3sa5",
             "url": "/r/selfhosted/comments/pv3sa5/how_do_you_use_gotify/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/pv3sa5/how_do_you_use_gotify/",
@@ -1406,21 +1420,6 @@
                     "name": "cyberhost-uk",
                     "url": "https://www.reddit.com/user/cyberhost-uk",
                     "avatar": "https://styles.redditmedia.com/t5_3oppor/styles/profileIcon_rvkik5fd1z961.png"
-                }
-            ]
-        },
-        {
-            "id": "or0lsk",
-            "url": "/r/selfhosted/comments/or0lsk/open_audio_server_turns_any_computer_into_a/",
-            "external_url": "https://github.com/openaudioserver/open-audio-server",
-            "title": "Open Audio Server turns any computer into a Synology \"Audio Station\" with DS Audio apps, web browser interface, remote playback, radio and playlists! (author)",
-            "content_html": "<p>See the linked content on <a href='https://github.com/openaudioserver/open-audio-server'>github.com</a>.</p>",
-            "date_published": "2021-07-24T23:31:17+00:00",
-            "authors": [
-                {
-                    "name": "openaudioserver",
-                    "url": "https://www.reddit.com/user/openaudioserver",
-                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_17_7193FF.png"
                 }
             ]
         }
