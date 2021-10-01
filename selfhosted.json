@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "pyr77q",
+            "url": "/r/selfhosted/comments/pyr77q/firezone_an_opensource_wireguardbased_alternative/",
+            "external_url": "https://github.com/firezone/firezone",
+            "title": "Firezone, an open-source WireGuard-based alternative to OpenVPN",
+            "content_html": "<caption>Open in: <a href='https://github.com/firezone/firezone'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/pyr77q/firezone_an_opensource_wireguardbased_alternative/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pyr77q/firezone_an_opensource_wireguardbased_alternative/'>Apollo</a></caption>",
+            "date_published": "2021-09-30T19:39:26+00:00",
+            "authors": [
+                {
+                    "name": "binaryfor",
+                    "url": "https://www.reddit.com/user/binaryfor"
+                }
+            ]
+        },
+        {
             "id": "pxvi8y",
             "url": "/r/selfhosted/comments/pxvi8y/revolt_promising_selfhosted_discord_alternative/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/pxvi8y/revolt_promising_selfhosted_discord_alternative/",
@@ -1402,21 +1416,6 @@
                     "name": "yellowfin35",
                     "url": "https://www.reddit.com/user/yellowfin35",
                     "avatar": "https://styles.redditmedia.com/t5_1xubg9/styles/profileIcon_snoof1e78854-673a-4154-b5b9-957559b75cea-headshot.png"
-                }
-            ]
-        },
-        {
-            "id": "oskfpd",
-            "url": "/r/selfhosted/comments/oskfpd/go_set_up_goaccess_on_the_access_logs_of_your/",
-            "external_url": "https://i.redd.it/j6ec4ctdiqd71.png",
-            "title": "Go set up \"GoAccess\" on the access logs of your main reverse proxy. You wont regret seeing those juicy stats :)",
-            "content_html": "<p>See the linked content on <a href='https://i.redd.it/j6ec4ctdiqd71.png'>i.redd.it</a>.</p>",
-            "date_published": "2021-07-27T10:44:20+00:00",
-            "authors": [
-                {
-                    "name": "Alfagun74",
-                    "url": "https://www.reddit.com/user/Alfagun74",
-                    "avatar": "https://styles.redditmedia.com/t5_1dyzj6/styles/profileIcon_qax5wk5qjal61.png"
                 }
             ]
         }
