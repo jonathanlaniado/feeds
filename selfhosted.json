@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "pz2vbz",
+            "url": "/r/selfhosted/comments/pz2vbz/docker_compose_v2_released/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/pz2vbz/docker_compose_v2_released/",
+            "title": "Docker Compose v2 released",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/pz2vbz/docker_compose_v2_released/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pz2vbz/docker_compose_v2_released/'>Apollo</a></caption> <div><p>Hi all,</p>\n<p>docker-compose v2 has been released as a complete rewrite in Go.</p>\n<p>Apparently it works a bit differently than v1, but i was able to update, shutdown and restart all containers/images via my \"old\" compose files.</p>\n<p>docker-compose is available again as executable binary file, which you can download from the releases page:</p>\n<p>&#x200B;</p>\n<p><a href=\"https://github.com/docker/compose\">https://github.com/docker/compose</a></p></div>",
+            "date_published": "2021-10-01T07:20:49+00:00",
+            "authors": [
+                {
+                    "name": "br0kenpipe",
+                    "url": "https://www.reddit.com/user/br0kenpipe"
+                }
+            ]
+        },
+        {
             "id": "pzd32x",
             "url": "/r/selfhosted/comments/pzd32x/after_a_couple_of_months_of_tinkering_and_coding/",
             "external_url": "https://www.reddit.com/gallery/pzd32x",
@@ -1400,21 +1414,6 @@
                     "name": "jjasghar",
                     "url": "https://www.reddit.com/user/jjasghar",
                     "avatar": "https://styles.redditmedia.com/t5_3leyj/styles/profileIcon_snoocb3109b2-5f87-4ba2-af35-aa9a6a7c5c5a-headshot.png"
-                }
-            ]
-        },
-        {
-            "id": "ot85ce",
-            "url": "/r/selfhosted/comments/ot85ce/i_love_this_community/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/ot85ce/i_love_this_community/",
-            "title": "I love this community",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/ot85ce/i_love_this_community/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/ot85ce/i_love_this_community/'>Apollo</a></caption> <div><p>I know this is kind of meta but i just wanted to take a minute and say thank you to all of you for being such a great community. I even think this is my favorite subreddit because you guys are so helpful and welcoming to anyone with interest in hosting a server. I've never experienced any negativity asking for help here, find out new and interesting stuff every day and am happy to share my experiences here too. So thanks to each and every one of you and thanks to our 4 mods for keeping this place clean for all 132k of us.</p>\n<p>Love you guys! \u2665</p>\n<p>So now that I've said that, back to trial-and-error-fixing this goddamn Dockerfile \\^\\^</p>\n<p>EDIT: Thank you so much for the awards guys!!</p></div>",
-            "date_published": "2021-07-28T11:38:24+00:00",
-            "authors": [
-                {
-                    "name": "Alfagun74",
-                    "url": "https://www.reddit.com/user/Alfagun74",
-                    "avatar": "https://styles.redditmedia.com/t5_1dyzj6/styles/profileIcon_qax5wk5qjal61.png"
                 }
             ]
         }
