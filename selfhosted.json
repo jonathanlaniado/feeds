@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "q1wobo",
+            "url": "/r/selfhosted/comments/q1wobo/how_many_of_you_use_ssh_to_manage_your_server/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/q1wobo/how_many_of_you_use_ssh_to_manage_your_server/",
+            "title": "How many of you use SSH to manage your server?",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/q1wobo/how_many_of_you_use_ssh_to_manage_your_server/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/q1wobo/how_many_of_you_use_ssh_to_manage_your_server/'>Apollo</a></caption> <div><p>I'm wondering how many of you regularly SSH into your machine to manage it. If you do, what did you set up to access the machine from the public internet. Or do you only use SSH from your local network?</p>\n<p>In the past I've used DynDNS and am currently using Tailscale. But I'm wondering about other solutions. Tor maybe?</p>\n<p>Or is using SSH quite uncommon?</p></div>",
+            "date_published": "2021-10-05T13:44:18+00:00",
+            "authors": [
+                {
+                    "name": "mindshards",
+                    "url": "https://www.reddit.com/user/mindshards"
+                }
+            ]
+        },
+        {
             "id": "q1bu9o",
             "url": "/r/selfhosted/comments/q1bu9o/today_is_a_glorious_day_for_selfhosters/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/q1bu9o/today_is_a_glorious_day_for_selfhosters/",
@@ -1396,21 +1410,6 @@
                     "name": "it-obey",
                     "url": "https://www.reddit.com/user/it-obey",
                     "avatar": "https://www.redditstatic.com/avatars/avatar_default_02_FFB000.png"
-                }
-            ]
-        },
-        {
-            "id": "ov3nfp",
-            "url": "/r/selfhosted/comments/ov3nfp/how_do_you_guys_backup/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/ov3nfp/how_do_you_guys_backup/",
-            "title": "How do you guys backup?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/ov3nfp/how_do_you_guys_backup/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/ov3nfp/how_do_you_guys_backup/'>Apollo</a></caption> <div><p>Do you run your backup software (duplicati / duplicacy / kopia) as a cron job? Or as a docker container? Also do you backup all the servers in a cluster or just the app data (say from containers). I have a clustered self-hosted setup with one NAS unit and NFS shared on all the devices and am a bit confused about setting up my backup software. Also if you have multiple NAS units, do you run two different jobs, one for each ?</p>\n<p>EDIT: Sorry for any confusion, I'm talking about backing up self-hosted data (like nextcloud, photoprism, jellyfin, and other container data)</p></div>",
-            "date_published": "2021-07-31T08:38:09+00:00",
-            "authors": [
-                {
-                    "name": "NerdyTux",
-                    "url": "https://www.reddit.com/user/NerdyTux",
-                    "avatar": "https://styles.redditmedia.com/t5_27qwyp/styles/profileIcon_snoo45b1e62b-afa1-40a2-b892-6041f139d16d-headshot.png"
                 }
             ]
         }
