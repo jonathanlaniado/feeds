@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "q2jnk6",
+            "url": "/r/selfhosted/comments/q2jnk6/what_are_your_guys_reasons_for_self_hosting/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/q2jnk6/what_are_your_guys_reasons_for_self_hosting/",
+            "title": "What are your guy's reasons for self hosting? Particularly cloud services.",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/q2jnk6/what_are_your_guys_reasons_for_self_hosting/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/q2jnk6/what_are_your_guys_reasons_for_self_hosting/'>Apollo</a></caption> <div><p>Like I'm here, I host things. I think it's cool, I love computers and Linux and figuring shit out. I'm addicted to problem solving stuff just to do it. </p>\n<p>Why do you guys do it though? Why use NextCloud over Google? Privacy? Fun? </p>\n<p>Just trying to create an open ended discussion.</p></div>",
+            "date_published": "2021-10-06T12:43:19+00:00",
+            "authors": [
+                {
+                    "name": "ItsTimeForAnAlt",
+                    "url": "https://www.reddit.com/user/ItsTimeForAnAlt"
+                }
+            ]
+        },
+        {
             "id": "q1wobo",
             "url": "/r/selfhosted/comments/q1wobo/how_many_of_you_use_ssh_to_manage_your_server/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/q1wobo/how_many_of_you_use_ssh_to_manage_your_server/",
@@ -1395,21 +1409,6 @@
                     "name": "Cyvexx",
                     "url": "https://www.reddit.com/user/Cyvexx",
                     "avatar": "https://styles.redditmedia.com/t5_439k15/styles/profileIcon_w7u9o6cpkim61.jpg"
-                }
-            ]
-        },
-        {
-            "id": "ovr45o",
-            "url": "/r/selfhosted/comments/ovr45o/smart_home_dashboard_with_inkplate_10/",
-            "external_url": "https://www.reddit.com/gallery/ovr146",
-            "title": "Smart Home Dashboard with Inkplate 10",
-            "content_html": "<caption>Open in: <a href='https://www.reddit.com/gallery/ovr146'>www.reddit.com</a> | <a href='https://reddit.com/r/selfhosted/comments/ovr45o/smart_home_dashboard_with_inkplate_10/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/ovr45o/smart_home_dashboard_with_inkplate_10/'>Apollo</a></caption>",
-            "date_published": "2021-08-01T12:18:59+00:00",
-            "authors": [
-                {
-                    "name": "it-obey",
-                    "url": "https://www.reddit.com/user/it-obey",
-                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_02_FFB000.png"
                 }
             ]
         }
