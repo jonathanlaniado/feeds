@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "q3frhs",
+            "url": "/r/selfhosted/comments/q3frhs/a_word_of_appreciation_for_flame/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/q3frhs/a_word_of_appreciation_for_flame/",
+            "title": "A word of appreciation for Flame (https://github.com/pawelmalak/flame) - After trying Heimdall, Homer, and Dashy I finally settled on Flame for ease of configuration, speed, and light-weightness.",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/q3frhs/a_word_of_appreciation_for_flame/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/q3frhs/a_word_of_appreciation_for_flame/'>Apollo</a></caption> <div><p>https://github.com/pawelmalak/flame\nIt's fast, lightweight, looks great and it's very easy to configure (no fooling around with configuration files and/or YAML crap). I'll finally stop managing the shortcuts to my self-hosted apps via my browser favorites. </p>\n<p>Dashy was a close second, btw.</p></div>",
+            "date_published": "2021-10-07T18:47:17+00:00",
+            "authors": [
+                {
+                    "name": "ruimikemau",
+                    "url": "https://www.reddit.com/user/ruimikemau"
+                }
+            ]
+        },
+        {
             "id": "q2jnk6",
             "url": "/r/selfhosted/comments/q2jnk6/what_are_your_guys_reasons_for_self_hosting/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/q2jnk6/what_are_your_guys_reasons_for_self_hosting/",
@@ -1394,21 +1408,6 @@
                     "name": "Any-Transportation62",
                     "url": "https://www.reddit.com/user/Any-Transportation62",
                     "avatar": "https://styles.redditmedia.com/t5_2wrkhr/styles/profileIcon_sdnrai0ypze71.png"
-                }
-            ]
-        },
-        {
-            "id": "owa9do",
-            "url": "/r/selfhosted/comments/owa9do/any_selfhostable_password_managers_worth_using/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/owa9do/any_selfhostable_password_managers_worth_using/",
-            "title": "Any self-hostable password managers worth using?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/owa9do/any_selfhostable_password_managers_worth_using/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/owa9do/any_selfhostable_password_managers_worth_using/'>Apollo</a></caption> <div><p>I've used keepassXC for the better part of a year and it's wonderful. I just don't like that I have to have the file with me every time I want to sign into my accounts, plus this creates issues with having multiple devices that need access to the accounts. Is there any password manager software similar to keepass that also has a self-hostable option? I'd also like to host it for a few friends so they can stop using free cloud-based password managers like lastpass. I feel like I saw somewhere that keepass has something like this but I can't for the life of me figure out where to start setting it up, server or client-side.</p>\n<p>My requirements are as follows:</p>\n<ul>\n<li>Internet-enabled Server Software (Windows preferable but linux won't be an issue)</li>\n<li>Android, Windows, and IOS Client applications</li>\n<li>(optional but not required) Linux and MacOS client applications</li>\n<li>similar functionality to keepassXC (password generator, commented items, etc.)</li>\n<li>open-source</li>\n</ul></div>",
-            "date_published": "2021-08-02T08:17:17+00:00",
-            "authors": [
-                {
-                    "name": "Cyvexx",
-                    "url": "https://www.reddit.com/user/Cyvexx",
-                    "avatar": "https://styles.redditmedia.com/t5_439k15/styles/profileIcon_w7u9o6cpkim61.jpg"
                 }
             ]
         }
