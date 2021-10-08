@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "q3napl",
+            "url": "/r/selfhosted/comments/q3napl/monica_a_crm_to_manage_friends_and_family/",
+            "external_url": "https://github.com/monicahq/monica",
+            "title": "Monica - A CRM to manage friends and family",
+            "content_html": "<caption>Open in: <a href='https://github.com/monicahq/monica'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/q3napl/monica_a_crm_to_manage_friends_and_family/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/q3napl/monica_a_crm_to_manage_friends_and_family/'>Apollo</a></caption>",
+            "date_published": "2021-10-08T01:20:27+00:00",
+            "authors": [
+                {
+                    "name": "binaryfor",
+                    "url": "https://www.reddit.com/user/binaryfor"
+                }
+            ]
+        },
+        {
             "id": "q3frhs",
             "url": "/r/selfhosted/comments/q3frhs/a_word_of_appreciation_for_flame/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/q3frhs/a_word_of_appreciation_for_flame/",
@@ -1393,21 +1407,6 @@
                     "name": "vagrantmuse",
                     "url": "https://www.reddit.com/user/vagrantmuse",
                     "avatar": "https://styles.redditmedia.com/t5_l76gd/styles/profileIcon_snoo196a27ad-2569-4ea1-9da0-525a12fc7950-headshot.png"
-                }
-            ]
-        },
-        {
-            "id": "owfc0j",
-            "url": "/r/selfhosted/comments/owfc0j/adhocratie_an_open_collaboration_platform/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/owfc0j/adhocratie_an_open_collaboration_platform/",
-            "title": "Adhocratie \u2500 An open collaboration platform",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/owfc0j/adhocratie_an_open_collaboration_platform/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/owfc0j/adhocratie_an_open_collaboration_platform/'>Apollo</a></caption> <div><p>Hi everybody,</p>\n<p>This is Adhocratie, the Open alternative to microsoft teams. Check it out.</p>\n<p><a href=\"https://adhocratie.com/\">https://adhocratie.com/</a></p>\n<p><a href=\"https://medium.com/@ishak.belahmar/adhocratie-an-open-collaboration-platform-4b27f79a386\">https://medium.com/@ishak.belahmar/adhocratie-an-open-collaboration-platform-4b27f79a386</a></p></div>",
-            "date_published": "2021-08-02T14:11:43+00:00",
-            "authors": [
-                {
-                    "name": "Any-Transportation62",
-                    "url": "https://www.reddit.com/user/Any-Transportation62",
-                    "avatar": "https://styles.redditmedia.com/t5_2wrkhr/styles/profileIcon_sdnrai0ypze71.png"
                 }
             ]
         }
