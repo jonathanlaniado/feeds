@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "q4lbi4",
+            "url": "/r/selfhosted/comments/q4lbi4/friendly_reminder_about_backups/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/q4lbi4/friendly_reminder_about_backups/",
+            "title": "Friendly reminder about backups",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/q4lbi4/friendly_reminder_about_backups/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/q4lbi4/friendly_reminder_about_backups/'>Apollo</a></caption> <div><p>You do not have a single backup until you have successfully restored data from it.</p>\n<p>Today I tried cloning my postgresql database from a docker container to another with a tar file containing all data. I had issues with preparing the data (file owner, group etc) for the new container. I decided to not bother with tar/zip based backup and I went with pg_dump and pg_restore instead. This made me realize that I was potentially without a backup all this time even though I thought I had multiple \"snapshots\".</p></div>",
+            "date_published": "2021-10-09T13:26:30+00:00",
+            "authors": [
+                {
+                    "name": "ZZacny",
+                    "url": "https://www.reddit.com/user/ZZacny"
+                }
+            ]
+        },
+        {
             "id": "q46tsq",
             "url": "/r/selfhosted/comments/q46tsq/setting_up_cloudflare_argo_access_on_a_raspberry/",
             "external_url": "https://erdaltoprak.com/setting-up-cloudflare-argo-and-access-on-a-raspberry-pi",
@@ -1391,21 +1405,6 @@
                     "name": "modem7junior",
                     "url": "https://www.reddit.com/user/modem7junior",
                     "avatar": "https://www.redditstatic.com/avatars/avatar_default_15_FF585B.png"
-                }
-            ]
-        },
-        {
-            "id": "oxbqfa",
-            "url": "/r/selfhosted/comments/oxbqfa/new_wireguardnt_shatters_throughput_ceilings_on/",
-            "external_url": "https://arstechnica.com/gadgets/2021/08/wireguard-goes-fully-windows-native-with-experimental-wireguardnt-driver/",
-            "title": "New WireGuardNT shatters throughput ceilings on Windows | Ars Technica",
-            "content_html": "<caption>Open in: <a href='https://arstechnica.com/gadgets/2021/08/wireguard-goes-fully-windows-native-with-experimental-wireguardnt-driver/'>arstechnica.com</a> | <a href='https://reddit.com/r/selfhosted/comments/oxbqfa/new_wireguardnt_shatters_throughput_ceilings_on/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/oxbqfa/new_wireguardnt_shatters_throughput_ceilings_on/'>Apollo</a></caption>",
-            "date_published": "2021-08-03T20:07:37+00:00",
-            "authors": [
-                {
-                    "name": "tgp1994",
-                    "url": "https://www.reddit.com/user/tgp1994",
-                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_16_4856A3.png"
                 }
             ]
         }
