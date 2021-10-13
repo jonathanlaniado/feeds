@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "q6r3sv",
+            "url": "/r/selfhosted/comments/q6r3sv/reintroducing_opentogethertube_an_open_source_and/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/q6r3sv/reintroducing_opentogethertube_an_open_source_and/",
+            "title": "Re-introducing OpenTogetherTube, an open source and self-hosted website that lets you watch videos with your friends easily.",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/q6r3sv/reintroducing_opentogethertube_an_open_source_and/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/q6r3sv/reintroducing_opentogethertube_an_open_source_and/'>Apollo</a></caption> <div><p>OpenTogetherTube lets you watch videos with your friends as easily as possible. It's 100% free, open source, and self hostable.</p>\n<p>Last time I posted about OTT, y'all heavily requested docker images. I'm happy to announce that docker is now the easiest way to deploy your own instance of OTT! In other news, OTT has gone through major architecture changes, which has enabled tons of new features. </p>\n<p>OTT has support for videos from:</p>\n<ul>\n<li>Youtube</li>\n<li>Vimeo</li>\n<li>Dailymotion</li>\n<li><em>(New)</em> Reddit videos</li>\n<li><em>(New)</em> Tubitv</li>\n<li><em>(New)</em> HLS streamed videos (.m3u8)</li>\n<li>Direct .mp4 videos (and any other formats I can derive the duration of the video from)</li>\n</ul>\n<p>Notable features:</p>\n<ul>\n<li><em>(New)</em> Uses Sponsorblock data to skip known sponsored segments or self promotion in youtube videos.</li>\n<li><em>(New)</em> \"Play now\" button, push the current video onto the top of the queue and start playing a different video. Useful when you have a long queue but you want to watch something right away.</li>\n<li><em>(New)</em> Loop mode, loop the entire video queue</li>\n<li><em>(New)</em> DJ mode, loop one video and switch to any other video manually. Useful for D&amp;D campaigns!</li>\n<li>Custom room URLs, useful for regular returning users</li>\n<li>Room permissions, restrict who can do what</li>\n<li>Vote mode to let everyone vote on what to watch next</li>\n<li>Playlist copying, lets you set up a youtube playlist and add all the videos to the queue</li>\n<li>No ads!</li>\n<li>Web API is easily accessible for scripting and other automation.</li>\n<li>Completely functional when inside of an iframe. Free to embed in other applications.</li>\n</ul>\n<p>I'm looking for feedback on deploying in a self hosted environment, and UI/UX. Any help in this area would be greatly appreciated! Thanks for taking the time to check it out.</p>\n<p>Website: <a href=\"https://opentogethertube.com\">opentogethertube.com</a></p>\n<p>GitHub: <a href=\"https://github.com/dyc3/opentogethertube\">https://github.com/dyc3/opentogethertube</a></p></div>",
+            "date_published": "2021-10-12T17:20:39+00:00",
+            "authors": [
+                {
+                    "name": "rollthedyc3",
+                    "url": "https://www.reddit.com/user/rollthedyc3"
+                }
+            ]
+        },
+        {
             "id": "q604dg",
             "url": "/r/selfhosted/comments/q604dg/geographical_distribution_of_bruteforce_attacks/",
             "external_url": "https://i.redd.it/x0soqzovous71.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "robinshen",
                     "url": "https://www.reddit.com/user/robinshen"
-                }
-            ]
-        },
-        {
-            "id": "p0y7da",
-            "url": "/r/selfhosted/comments/p0y7da/selfhosted_alternative_to_trakttv/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/p0y7da/selfhosted_alternative_to_trakttv/",
-            "title": "Selfhosted alternative to Trakt.tv",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/p0y7da/selfhosted_alternative_to_trakttv/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/p0y7da/selfhosted_alternative_to_trakttv/'>Apollo</a></caption> <div><p>Hey guys,</p>\n<p>is there a selfhosted alternative to <a href=\"https://trakt.tv\">trakt.tv</a>?<br />\nDont wanna use <a href=\"https://trakt.tv\">trakt.tv</a> because of privacy concerns and prefer self hosted services.</p>\n<p>Regards</p></div>",
-            "date_published": "2021-08-09T09:41:54+00:00",
-            "authors": [
-                {
-                    "name": "RyperX",
-                    "url": "https://www.reddit.com/user/RyperX"
                 }
             ]
         }
