@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "q9ftii",
+            "url": "/r/apple/comments/q9ftii/a_nice_touch_from_windows_11_that_id_love_to_see/",
+            "external_url": "https://www.reddit.com/r/apple/comments/q9ftii/a_nice_touch_from_windows_11_that_id_love_to_see/",
+            "title": "A nice touch from Windows 11 that I'd love to see on Apple products",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/apple/comments/q9ftii/a_nice_touch_from_windows_11_that_id_love_to_see/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/q9ftii/a_nice_touch_from_windows_11_that_id_love_to_see/'>Apollo</a></caption> <div><p>I use a Windows PC occasionally and one small new thing from Windows 11 that I've really appreciated and would love to see make its way to macOS and iOS is that Windows 11 uses different default system sounds for Dark and Light Modes. Light Mode sounds are brighter and louder, whereas Dark Mode sounds are subdued. It's a small but nice touch!</p>\n<p>Sounds could use some love in general on iOS, we've been stuck with the same alert and ringer tones for eons it seems.</p></div>",
+            "date_published": "2021-10-16T16:53:54+00:00",
+            "authors": [
+                {
+                    "name": "TheJadedSF",
+                    "url": "https://www.reddit.com/user/TheJadedSF"
+                }
+            ]
+        },
+        {
             "id": "q9df6t",
             "url": "/r/apple/comments/q9df6t/macbook_pro_display_with_notch_shown_in_alleged/",
             "external_url": "https://www.macrumors.com/2021/10/16/macbook-pro-notch-alleged-photo/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Z1Woedric",
                     "url": "https://www.reddit.com/user/Z1Woedric"
-                }
-            ]
-        },
-        {
-            "id": "psm0bh",
-            "url": "/r/apple/comments/psm0bh/apple_will_let_iphone_13_pro_users_disable_auto/",
-            "external_url": "https://www.macrumors.com/2021/09/21/iphone-13-pro-macro-auto-camera-switching/",
-            "title": "Apple Will Let iPhone 13 Pro Users Disable Auto Switching to Ultra Wide Lens for Macro Photography Later This Fall",
-            "content_html": "<caption>Open in: <a href='https://www.macrumors.com/2021/09/21/iphone-13-pro-macro-auto-camera-switching/'>www.macrumors.com</a> | <a href='https://reddit.com/r/apple/comments/psm0bh/apple_will_let_iphone_13_pro_users_disable_auto/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/psm0bh/apple_will_let_iphone_13_pro_users_disable_auto/'>Apollo</a></caption>",
-            "date_published": "2021-09-21T16:14:08+00:00",
-            "authors": [
-                {
-                    "name": "tomnavratil",
-                    "url": "https://www.reddit.com/user/tomnavratil"
                 }
             ]
         }
