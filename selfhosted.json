@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "q8xvmc",
+            "url": "/r/selfhosted/comments/q8xvmc/my_homeserver_setup_running_on_an_rpi_4b_8gb/",
+            "external_url": "https://i.redd.it/by2ioudxlot71.png",
+            "title": "My Homeserver setup running on an RPI 4B (8GB) | Please leave suggestions for any other services I could self-host in the comments!",
+            "content_html": "<caption>Open in: <a href='https://i.redd.it/by2ioudxlot71.png'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/q8xvmc/my_homeserver_setup_running_on_an_rpi_4b_8gb/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/q8xvmc/my_homeserver_setup_running_on_an_rpi_4b_8gb/'>Apollo</a></caption>",
+            "date_published": "2021-10-15T21:25:43+00:00",
+            "authors": [
+                {
+                    "name": "Walker_21390",
+                    "url": "https://www.reddit.com/user/Walker_21390"
+                }
+            ]
+        },
+        {
             "id": "q86u4g",
             "url": "/r/selfhosted/comments/q86u4g/no_docker_docker/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/q86u4g/no_docker_docker/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "thepotatochronicles",
                     "url": "https://www.reddit.com/user/thepotatochronicles"
-                }
-            ]
-        },
-        {
-            "id": "p37uyb",
-            "url": "/r/selfhosted/comments/p37uyb/trackmyfish_update/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/p37uyb/trackmyfish_update/",
-            "title": "TrackMyFish Update",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/p37uyb/trackmyfish_update/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/p37uyb/trackmyfish_update/'>Apollo</a></caption> <div><p>It has been a little while since I <a href=\"https://www.reddit.com/r/selfhosted/comments/ovz9xd/trackmyfish_has_now_been_dockerized_and_is/\">last posted</a> about <a href=\"https://github.com/TrackMyFish/TrackMyFish\">TrackMyFish</a> so I thought I'd give an update of what's new.</p>\n<p>The last time I posted it was just a simple fish-tracking app; you couldn't do much other than adding/deleting and seeing your fish in a table. </p>\n<h2>What's new?</h2>\n<ul>\n<li>\n<p>You can now record your Tank Statistics (Ammonia, pH, Nitrite, Nitrate etc), and see an automatically populated graph. </p>\n</li>\n<li>\n<p>You can share your fish with other TrackMyFish users! I'm excited about this addition; if you're running TrackMyFish, and know somebody else who is, you can hit the <code>ShareFish</code> button, on the Fish tracking page, send them the hash, and they'll be able to go to the Hash-Decoder page, enter your hash, click <code>Submit</code> and they'll see what fish you have! </p>\n</li>\n<li>\n<p>Small tweaks in all the repos to make the deployment process easier.</p>\n</li>\n</ul>\n<h2>Why isn't it V1 yet?</h2>\n<p>I still need to <a href=\"https://github.com/TrackMyFish/TrackMyFish/issues/7\">add tests</a>. It's high on my priority list, I've just been trying to add the features mentioned above as I needed them for my fish tank. </p>\n<p>Once that's done, it will become V1.</p>\n<h2>Feedback</h2>\n<p>Docker tells me the main repo has had 69 pulls. I don't believe that's just me. If you're using TrackMyFish and have any feedback, feel free to reach out. </p>\n<p>If you're thinking of using it, feel free to leave a comment as I'd be interested to hear peoples experiences.</p></div>",
-            "date_published": "2021-08-12T20:14:32+00:00",
-            "authors": [
-                {
-                    "name": "DaddyDeveloper",
-                    "url": "https://www.reddit.com/user/DaddyDeveloper"
                 }
             ]
         }
