@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "qa3tkm",
+            "url": "/r/apple/comments/qa3tkm/apples_software_quality_is_degrading/",
+            "external_url": "https://www.reddit.com/r/apple/comments/qa3tkm/apples_software_quality_is_degrading/",
+            "title": "Apple\u2019s software quality is degrading.",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/apple/comments/qa3tkm/apples_software_quality_is_degrading/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/qa3tkm/apples_software_quality_is_degrading/'>Apollo</a></caption> <div><p>Apple has lately been delivering very unpolished software especially iOS and iPadOS. It is far from what Apple used to be like. The final version of software has so major bugs that I am astonished at how even they released it. The first and major one is notifications, they literally overlap one another. You can see a part of notification from an app and can\u2019t interact with it cause it\u2019s literally half overlapped with other app\u2019s notification. Mind you I am on iOS 15.0.2 and on my iPad on iPadOS 15.0.2. </p>\n<p>Now another major bug is COPYING a file in Flies App. I use an iPhone 12 Pro Max and a 9.7 inch iPad Pro. On both of these when I copy something of a large file. The Files App will crash and refuse to even open until I restart my phone. Even the Keyboard is laggy at times, it has click delays. Meaning the duration between I tap a letter and it getting registered is significantly noticeable and slow. </p>\n<p>Now Apple is even hiding that when it has been reported zero-day or zero-click bugs and also not crediting the bug finder.</p>\n<p>Overall I feel like Apple is not what it used to be. I personally feel like, Apple is not fixing things at all rather they are just trying to push weird updates and new features and leaving them buggy as well and then moving on to building another new feature. </p>\n<p>Please leave your views and opinions in the comments.</p></div>",
+            "date_published": "2021-10-17T17:53:17+00:00",
+            "authors": [
+                {
+                    "name": "zqmlk",
+                    "url": "https://www.reddit.com/user/zqmlk"
+                }
+            ]
+        },
+        {
             "id": "q9x89l",
             "url": "/r/apple/comments/q9x89l/predictions_tournament/",
             "external_url": "https://reddit.com/r/apple/predictions?tournament=tnmt-f91b4167-a7b6-43c3-bd9a-46c57d52760d",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "im_sauravsinha",
                     "url": "https://www.reddit.com/user/im_sauravsinha"
-                }
-            ]
-        },
-        {
-            "id": "psruee",
-            "url": "/r/apple/comments/psruee/ios_15_removes_do_not_disturb_option_that/",
-            "external_url": "https://www.macrumors.com/2021/09/21/ios-15-do-not-disturb-feature-removed/",
-            "title": "iOS 15 Removes Do Not Disturb Option That Silenced Notifications Only When iPhone Was Locked",
-            "content_html": "<caption>Open in: <a href='https://www.macrumors.com/2021/09/21/ios-15-do-not-disturb-feature-removed/'>www.macrumors.com</a> | <a href='https://reddit.com/r/apple/comments/psruee/ios_15_removes_do_not_disturb_option_that/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/psruee/ios_15_removes_do_not_disturb_option_that/'>Apollo</a></caption>",
-            "date_published": "2021-09-21T20:55:58+00:00",
-            "authors": [
-                {
-                    "name": "BigPurpleMoth",
-                    "url": "https://www.reddit.com/user/BigPurpleMoth"
                 }
             ]
         }
