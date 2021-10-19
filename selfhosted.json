@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "qb7cgz",
+            "url": "/r/selfhosted/comments/qb7cgz/mvp_launch_of_lldap_a_light_ldap_server_for_user/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/qb7cgz/mvp_launch_of_lldap_a_light_ldap_server_for_user/",
+            "title": "MVP Launch of LLDAP, a light LDAP server for user management!",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/qb7cgz/mvp_launch_of_lldap_a_light_ldap_server_for_user/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/qb7cgz/mvp_launch_of_lldap_a_light_ldap_server_for_user/'>Apollo</a></caption> <div><p>Hi everyone!</p>\n<p>After posting <a href=\"https://www.reddit.com/r/selfhosted/comments/nxb6id/are_you_interested_in_a_free_ldap_alternative_to/\">a while ago</a> asking if people were interested in a simple, light LDAP server to manage their users, I got an overwhelming YES! from the community! That was encouraging, so I got coding, and here I am a few months later with an MVP launch of the product: <a href=\"https://github.com/nitnelave/lldap\">https://github.com/nitnelave/lldap</a></p>\n<p>&#x200B;</p>\n<p>It's a simple user management webapp (SPA) with users and groups, that comes with a basic read-only LDAP server. That means you can plug in your Jellyfin, your Nextcloud, your Authelia or even your Keycloak and they will use this as the source of truth for your users!</p>\n<p><a href=\"https://preview.redd.it/v0cs0qxd8du71.png?width=1320&amp;format=png&amp;auto=webp&amp;s=4612e976f29210ed88cba7cf4ad8cea859803c54\">Screenshot of the user management page</a></p>\n<p>&#x200B;</p>\n<p>Note that this is a Minimum Viable Product, and as such it implements only the very basic features. The roadmap can be found here: <a href=\"https://github.com/nitnelave/lldap/projects/2\">https://github.com/nitnelave/lldap/projects/2</a>, starting with allowing a password change through LDAP to reset the passwords via Authelia/Keycloak/other and allowing a password reset through email (currently only the admin can change your password if you forgot it).</p>\n<p>If you find any bugs, feel free to <a href=\"https://github.com/nitnelave/lldap/issues\">create an issue</a> on GitHub.</p>\n<p>You can install it via <a href=\"https://hub.docker.com/repository/docker/nitnelave/lldap\">docker</a> (easiest) or run it directly from source, the instructions are in the README.</p>\n<p>Feel free to join us on <a href=\"https://discord.gg/h5PEdRMNyP\">Discord</a>, and follow me on <a href=\"https://twitter.com/nitnelave1\">Twitter</a> for updates on the project!</p>\n<p>For those who already tried the server before the MVP release: &gt;!The password hashing scheme was slightly changed to speed up logging in, which has the unfortunate consequence that all passwords are now invalid, including the admin one. Either delete the DB (`rm users.db` or using SQlite, delete the admin user `DELETE FROM users WHERE id = \"admin\";`).!&lt;</p></div>",
+            "date_published": "2021-10-19T08:45:12+00:00",
+            "authors": [
+                {
+                    "name": "nitnelave",
+                    "url": "https://www.reddit.com/user/nitnelave"
+                }
+            ]
+        },
+        {
             "id": "q9zltd",
             "url": "/r/selfhosted/comments/q9zltd/praise_for_tubearchivist_now_with_embedded/",
             "external_url": "https://v.redd.it/zcekjof0r0u71",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "thatguywiththatname2",
                     "url": "https://www.reddit.com/user/thatguywiththatname2"
-                }
-            ]
-        },
-        {
-            "id": "p435in",
-            "url": "/r/selfhosted/comments/p435in/paperlessng_installation_suggestions_best/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/p435in/paperlessng_installation_suggestions_best/",
-            "title": "Paperless-ng, installation: suggestions, best practices... Best config tips to start as a pro!",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/p435in/paperlessng_installation_suggestions_best/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/p435in/paperlessng_installation_suggestions_best/'>Apollo</a></caption> <div><p>Hi selfhosters,\nI m going to install, via docker, paperless-ng... It seems the best one and the more used tool here for paper documents management.\nNow, are there suggestions, best practices, tips... For starting and organizing docs? I am interestes in both a) parameters or other things doable at install-config time and b) other things that you do using the software at runtime, for example naming pdfs in some good way, create - if possible - a preset collection of tags etc.\nSo just post advices and tips so I and hopefully others can start to use it at its max performance!\nThanks!!!</p></div>",
-            "date_published": "2021-08-14T06:49:47+00:00",
-            "authors": [
-                {
-                    "name": "wireless82",
-                    "url": "https://www.reddit.com/user/wireless82"
                 }
             ]
         }
