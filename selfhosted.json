@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "qf29y0",
+            "url": "/r/selfhosted/comments/qf29y0/pi_k8s_this_is_my_pi48gb_powered_hosted_platform/",
+            "external_url": "https://i.redd.it/0hvqsfwc0hv71.jpg",
+            "title": "Pi k8s! This is my pi4-8gb powered hosted platform. 8 pi4s for kubeadm k8s cluster, and one for a not so 'nas' share. I use gitlab runners with helmfile to manage my applications. Running over a year and finally passed the CKA with most of my practice on this plus work clusters. AMA welcome!",
+            "content_html": "<caption>Open in: <a href='https://i.redd.it/0hvqsfwc0hv71.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/qf29y0/pi_k8s_this_is_my_pi48gb_powered_hosted_platform/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/qf29y0/pi_k8s_this_is_my_pi48gb_powered_hosted_platform/'>Apollo</a></caption>",
+            "date_published": "2021-10-24T22:00:10+00:00",
+            "authors": [
+                {
+                    "name": "thecubiclejockey",
+                    "url": "https://www.reddit.com/user/thecubiclejockey"
+                }
+            ]
+        },
+        {
             "id": "qdigvy",
             "url": "/r/selfhosted/comments/qdigvy/supabase_the_open_source_firebase_alternative/",
             "external_url": "https://supabase.io/docs/guides/hosting/overview",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "madiele",
                     "url": "https://www.reddit.com/user/madiele"
-                }
-            ]
-        },
-        {
-            "id": "p5h3l7",
-            "url": "/r/selfhosted/comments/p5h3l7/what_selfhosted_toolsapps_do_your_family_find_the/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/p5h3l7/what_selfhosted_toolsapps_do_your_family_find_the/",
-            "title": "What selfhosted tools/apps do your family find the most useful?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/p5h3l7/what_selfhosted_toolsapps_do_your_family_find_the/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/p5h3l7/what_selfhosted_toolsapps_do_your_family_find_the/'>Apollo</a></caption> <div><p>Title says it all. I'm curious - what selfhosted tools, applications, etc do your family members find to be the most useful? We all have our technical selfhosted things like Gitea, Grafana, databases, etc, but I'm curious as to what useful services everyone is running for less technical friends and family. I'm hoping that this serves as a resource for those who want to help friends and family make the switch to selfhosted replacements for commonly used applications and services.</p></div>",
-            "date_published": "2021-08-16T14:25:36+00:00",
-            "authors": [
-                {
-                    "name": "culody",
-                    "url": "https://www.reddit.com/user/culody"
                 }
             ]
         }
