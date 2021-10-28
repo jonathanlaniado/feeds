@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "qgx879",
+            "url": "/r/selfhosted/comments/qgx879/selfhosting_survey/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/qgx879/selfhosting_survey/",
+            "title": "Self-Hosting Survey",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/qgx879/selfhosting_survey/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/qgx879/selfhosting_survey/'>Apollo</a></caption> <div><p>Hi r/selfhosted,</p>\n<p>My name is Floris Breggeman and I'm currently doing my Master thesis on making self-hosting more accessible.\nI aim to do this by making a Linux distro that essentially automates home server management.\nTo find out what kind of systems need to be supported, I would like to know what you are running.</p>\n<p>In order to do so, <a href=\"https://utwentebs.eu.qualtrics.com/jfe/form/SV_0TfuixqfejppxSm\">I've prepared a survey</a>. This survey should take approximately 15 minutes to complete, and all results will be stored anonymously.</p>\n<p>Of course, I'll share the (processed) results back to this subreddit!</p></div>",
+            "date_published": "2021-10-27T13:54:58+00:00",
+            "authors": [
+                {
+                    "name": "SelfHostingAutomated",
+                    "url": "https://www.reddit.com/user/SelfHostingAutomated"
+                }
+            ]
+        },
+        {
             "id": "qfgy2c",
             "url": "/r/selfhosted/comments/qfgy2c/we_just_launched_pibox_a_storage_server_that/",
             "external_url": "https://www.kickstarter.com/projects/pastudan/pibox-a-modular-raspberry-pi-storage-server",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "mightywomble",
                     "url": "https://www.reddit.com/user/mightywomble"
-                }
-            ]
-        },
-        {
-            "id": "p67t6f",
-            "url": "/r/selfhosted/comments/p67t6f/i_came_in_to_this_world_blind_and_because_of_this/",
-            "external_url": "https://docs.pivpn.io/faq/",
-            "title": "I came in to this world blind and because of this FAQ I can now see. Seriously, huge kudos to the creators of the PiVPN FAQ. Made it basically all the way to the end and then had a massive \"ooooh I get it\" moment.",
-            "content_html": "<caption>Open in: <a href='https://docs.pivpn.io/faq/'>docs.pivpn.io</a> | <a href='https://reddit.com/r/selfhosted/comments/p67t6f/i_came_in_to_this_world_blind_and_because_of_this/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/p67t6f/i_came_in_to_this_world_blind_and_because_of_this/'>Apollo</a></caption>",
-            "date_published": "2021-08-17T16:54:29+00:00",
-            "authors": [
-                {
-                    "name": "Sagerian",
-                    "url": "https://www.reddit.com/user/Sagerian"
                 }
             ]
         }
