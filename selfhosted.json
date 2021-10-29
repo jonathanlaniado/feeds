@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "qi8r7d",
+            "url": "/r/selfhosted/comments/qi8r7d/opensource_is_eating_the_world_exfirebase/",
+            "external_url": "https://hazardlights.net/2021/10/26/our-investment-in-appwrite/",
+            "title": "Open-source is eating the world: Ex-Firebase investor co-leads a $10m seed round for the open-source alternative",
+            "content_html": "<caption>Open in: <a href='https://hazardlights.net/2021/10/26/our-investment-in-appwrite/'>hazardlights.net</a> | <a href='https://reddit.com/r/selfhosted/comments/qi8r7d/opensource_is_eating_the_world_exfirebase/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/qi8r7d/opensource_is_eating_the_world_exfirebase/'>Apollo</a></caption>",
+            "date_published": "2021-10-29T09:16:16+00:00",
+            "authors": [
+                {
+                    "name": "thecouchdev",
+                    "url": "https://www.reddit.com/user/thecouchdev"
+                }
+            ]
+        },
+        {
             "id": "qhqx2m",
             "url": "/r/selfhosted/comments/qhqx2m/3_weeks_ago_i_knew_nothing_about_docker_or/",
             "external_url": "https://i.redd.it/bllxluvwx7w71.jpg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "_sayem",
                     "url": "https://www.reddit.com/user/_sayem"
-                }
-            ]
-        },
-        {
-            "id": "p7cwny",
-            "url": "/r/selfhosted/comments/p7cwny/what_do_you_guys_use_to_aggregate_logs_from/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/p7cwny/what_do_you_guys_use_to_aggregate_logs_from/",
-            "title": "What do you guys use to aggregate logs from multiple servers and services and to analyze them.",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/p7cwny/what_do_you_guys_use_to_aggregate_logs_from/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/p7cwny/what_do_you_guys_use_to_aggregate_logs_from/'>Apollo</a></caption> <div><p>I have multiple VPSs and Raspberry pis hosting multiple services. I want to aggregate logs from all servers (syslogs, fail2ban logs, authentication logs for different services etc.)</p>\n<p>I was using loggly but looking for something self hosted. ELK/Elasticsearch/splunk seems too bulky for the use case.</p>\n<p>Is there any light application to aggregate and filter logs with ui and docker container.</p></div>",
-            "date_published": "2021-08-19T11:22:57+00:00",
-            "authors": [
-                {
-                    "name": "us3rnam3_not_found",
-                    "url": "https://www.reddit.com/user/us3rnam3_not_found"
                 }
             ]
         }
