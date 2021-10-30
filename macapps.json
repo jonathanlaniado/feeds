@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "qiv7n1",
+            "url": "/r/macapps/comments/qiv7n1/dear_developers_is_it_worth_it_to_sell_an_app_on/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/qiv7n1/dear_developers_is_it_worth_it_to_sell_an_app_on/",
+            "title": "Dear Developers, is it worth it to sell an app on the Mac App Store or is it better to just use keys and roll one's own?",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/qiv7n1/dear_developers_is_it_worth_it_to_sell_an_app_on/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/qiv7n1/dear_developers_is_it_worth_it_to_sell_an_app_on/'>Apollo</a></caption> <div><p>I've noticed a lot of nice macOS apps like Nova, Sketch, CleanShot, etc. sell through their own platforms (I know Panic sells Transmit on the App Store).</p>\n<p>Is this because of the cut or freedom from the sandbox? What gives? Does it sort of just depend on the situation? If you have any experience selling on the Mac App Store what's it like?</p></div>",
+            "date_published": "2021-10-30T05:59:33+00:00",
+            "authors": [
+                {
+                    "name": "hiddensemicolon",
+                    "url": "https://www.reddit.com/user/hiddensemicolon"
+                }
+            ]
+        },
+        {
             "id": "qih9z0",
             "url": "/r/macapps/comments/qih9z0/cleanshot_20_off/",
             "external_url": "https://www.reddit.com/r/macapps/comments/qih9z0/cleanshot_20_off/",
@@ -1410,21 +1424,6 @@
                     "name": "RenegadeUK",
                     "url": "https://www.reddit.com/user/RenegadeUK",
                     "avatar": "https://www.redditstatic.com/avatars/avatar_default_04_FF585B.png"
-                }
-            ]
-        },
-        {
-            "id": "olyth3",
-            "url": "/r/macapps/comments/olyth3/what_apps_do_you_use_for_file_organization/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/olyth3/what_apps_do_you_use_for_file_organization/",
-            "title": "What app/s do you use for file organization?",
-            "content_html": "<p>I'm currently archiving some files to a new hard drive and would want to know if there are apps that can make digital organization easy and smooth. Especially in creating folders with different names all at once.  </p>\n<p>Thanks in advance!</p>",
-            "date_published": "2021-07-17T06:16:25+00:00",
-            "authors": [
-                {
-                    "name": "krabf",
-                    "url": "https://www.reddit.com/user/krabf",
-                    "avatar": "https://styles.redditmedia.com/t5_hdnca/styles/profileIcon_oc2tggztqpz51.png"
                 }
             ]
         }
