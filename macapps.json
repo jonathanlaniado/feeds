@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "qk3uui",
+            "url": "/r/macapps/comments/qk3uui/i_hate_it_when_an_app_has_icloud_sync_as_a/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/qk3uui/i_hate_it_when_an_app_has_icloud_sync_as_a/",
+            "title": "I hate it when an app has iCloud Sync as a premium subscription feature",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/qk3uui/i_hate_it_when_an_app_has_icloud_sync_as_a/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/qk3uui/i_hate_it_when_an_app_has_icloud_sync_as_a/'>Apollo</a></caption> <div><p>I honestly don't understand this. I already have a subscription to iCloud. MY iCloud sync doesn't cost you anything, it costs ME.</p>\n<p>App devs, please stop charging a subscription to sync with my iCloud. If you have to charge for it at all, please make it a one time purchase for the work you put in to implement the feature.</p>\n<p>The latest app to grind my gears over this is Copy EM mobile app. It is disheartening.</p></div>",
+            "date_published": "2021-11-01T01:54:38+00:00",
+            "authors": [
+                {
+                    "name": "Abnull",
+                    "url": "https://www.reddit.com/user/Abnull"
+                }
+            ]
+        },
+        {
             "id": "qj8v71",
             "url": "/r/macapps/comments/qj8v71/path_finder_10_sale_15_was_36/",
             "external_url": "https://bundlehunt.com/single-deal/pathfinder-macos/?ap_id=ap_id",
@@ -1408,21 +1422,6 @@
                     "name": "flyingcloud11",
                     "url": "https://www.reddit.com/user/flyingcloud11",
                     "avatar": "https://styles.redditmedia.com/t5_3mh1e/styles/profileIcon_snoo25a0dc79-8a0f-4d09-bea5-1bddbcb550e8-headshot.png"
-                }
-            ]
-        },
-        {
-            "id": "ohp0zs",
-            "url": "/r/macapps/comments/ohp0zs/muffon_desktop_music_browser/",
-            "external_url": "https://github.com/staniel359/muffon",
-            "title": "muffon - Desktop music browser",
-            "content_html": "<p>See the linked content on <a href='https://github.com/staniel359/muffon'>github.com</a>.</p>",
-            "date_published": "2021-07-10T19:21:16+00:00",
-            "authors": [
-                {
-                    "name": "staniel359",
-                    "url": "https://www.reddit.com/user/staniel359",
-                    "avatar": "https://styles.redditmedia.com/t5_24fhxg/styles/profileIcon_qs2rwaxtidm31.jpg"
                 }
             ]
         }
