@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "qlaeop",
+            "url": "/r/selfhosted/comments/qlaeop/my_homer_setup_made_with_a_raspberry_pi_4_show_me/",
+            "external_url": "https://i.redd.it/vf64jv0w38x71.png",
+            "title": "My homer setup made with a Raspberry Pi 4, Show me yours! :P",
+            "content_html": "<caption>Open in: <a href='https://i.redd.it/vf64jv0w38x71.png'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/qlaeop/my_homer_setup_made_with_a_raspberry_pi_4_show_me/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/qlaeop/my_homer_setup_made_with_a_raspberry_pi_4_show_me/'>Apollo</a></caption>",
+            "date_published": "2021-11-02T18:13:00+00:00",
+            "authors": [
+                {
+                    "name": "mr_r0b0t_x",
+                    "url": "https://www.reddit.com/user/mr_r0b0t_x"
+                }
+            ]
+        },
+        {
             "id": "qke0jk",
             "url": "/r/selfhosted/comments/qke0jk/ynab_like_budgeting_tool/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/qke0jk/ynab_like_budgeting_tool/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "SirSirae",
                     "url": "https://www.reddit.com/user/SirSirae"
-                }
-            ]
-        },
-        {
-            "id": "p8ohun",
-            "url": "/r/selfhosted/comments/p8ohun/what_to_consider_when_making_my_home_server_public/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/p8ohun/what_to_consider_when_making_my_home_server_public/",
-            "title": "What to consider when making my home server public?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/p8ohun/what_to_consider_when_making_my_home_server_public/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/p8ohun/what_to_consider_when_making_my_home_server_public/'>Apollo</a></caption> <div><p>I'm running services, such as Plex, KeeWeb, Paperless etc. in containers on my RaspberryPi, that I would like to access outside my home network. Furthermore I set up a NFS share on the RaspberryPi, which I would like to access as well.</p>\n<p>If I'm not missleading and since I run multiple services, I will need a Reverse Proxy (likely Caddy), instead of port forwarding, so that I can map a service to a url.</p>\n<ol>\n<li>As I don't have a static ip address (and my ISP doesn't provide the option to obtain one), how do I make sure that the custom domain I use , will always map to the dynamic ip address, that my ISP assigned to me?</li>\n<li>How do I prevent unauthorized access? Can/Should a Reverse Proxy do this as well? How would it work?</li>\n<li>How do I prevent DDOS attacks etc.?</li>\n<li>Anything else I should take into consideration?</li>\n</ol>\n<p>Edit: Thank you all for the superb replies! I'll be home later and read through all of them. Looks like I'll be setting up a VPN instead of of a Reverse Proxy.</p></div>",
-            "date_published": "2021-08-21T09:27:48+00:00",
-            "authors": [
-                {
-                    "name": "CerealBit",
-                    "url": "https://www.reddit.com/user/CerealBit"
                 }
             ]
         }
