@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "qlun3m",
+            "url": "/r/selfhosted/comments/qlun3m/dashboard_wednesday_switched_from_homer_to_flame/",
+            "external_url": "https://i.redd.it/6stn0jpqvdx71.png",
+            "title": "Dashboard Wednesday - Switched from Homer to Flame!",
+            "content_html": "<caption>Open in: <a href='https://i.redd.it/6stn0jpqvdx71.png'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/qlun3m/dashboard_wednesday_switched_from_homer_to_flame/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/qlun3m/dashboard_wednesday_switched_from_homer_to_flame/'>Apollo</a></caption>",
+            "date_published": "2021-11-03T13:37:34+00:00",
+            "authors": [
+                {
+                    "name": "smarthomepursuits",
+                    "url": "https://www.reddit.com/user/smarthomepursuits"
+                }
+            ]
+        },
+        {
             "id": "qlaeop",
             "url": "/r/selfhosted/comments/qlaeop/my_homer_setup_made_with_a_raspberry_pi_4_show_me/",
             "external_url": "https://i.redd.it/vf64jv0w38x71.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "mooshicat",
                     "url": "https://www.reddit.com/user/mooshicat"
-                }
-            ]
-        },
-        {
-            "id": "p9ibgk",
-            "url": "/r/selfhosted/comments/p9ibgk/gotta_love_kuma_thank_you_kind_stranger_making_it/",
-            "external_url": "https://i.redd.it/lf6ibbbdgyi71.png",
-            "title": "Gotta love Kuma, thank you kind stranger making it !",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/lf6ibbbdgyi71.png'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/p9ibgk/gotta_love_kuma_thank_you_kind_stranger_making_it/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/p9ibgk/gotta_love_kuma_thank_you_kind_stranger_making_it/'>Apollo</a></caption>",
-            "date_published": "2021-08-22T18:47:51+00:00",
-            "authors": [
-                {
-                    "name": "SirSirae",
-                    "url": "https://www.reddit.com/user/SirSirae"
                 }
             ]
         }
