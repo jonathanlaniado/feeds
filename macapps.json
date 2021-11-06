@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "qnzvns",
+            "url": "/r/macapps/comments/qnzvns/raycast_v_alfred/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/qnzvns/raycast_v_alfred/",
+            "title": "Raycast v Alfred",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/qnzvns/raycast_v_alfred/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/qnzvns/raycast_v_alfred/'>Apollo</a></caption> <div><p>Hey guys</p>\n<p>I\u2019m an Alfred Powerpack user of about five years standing. </p>\n<p>I\u2019m happy with it. I use it primary to launch applications, some basic macros and file navigation. I\u2019m sure I don\u2019t use it anywhere near its full capacity, but it\u2019s a tidy little app. </p>\n<p>I see a lot of love on here for Raycast. </p>\n<p>Can anyone (who\u2019s used both) give me a balanced view on whether Raycast offers anything Alfred doesn\u2019t?</p>\n<p>Thanks!</p></div>",
+            "date_published": "2021-11-06T13:07:52+00:00",
+            "authors": [
+                {
+                    "name": "DIYerUk",
+                    "url": "https://www.reddit.com/user/DIYerUk"
+                }
+            ]
+        },
+        {
             "id": "qnftk0",
             "url": "/r/macapps/comments/qnftk0/always_liked_the_design_style_of_ilife_11/",
             "external_url": "https://i.redd.it/qaq5j1a18tx71.jpg",
@@ -1401,21 +1415,6 @@
                     "name": "gotanycrisps",
                     "url": "https://www.reddit.com/user/gotanycrisps",
                     "avatar": "https://www.redditstatic.com/avatars/avatar_default_11_C18D42.png"
-                }
-            ]
-        },
-        {
-            "id": "oq936r",
-            "url": "/r/macapps/comments/oq936r/symbar_quick_access_to_sf_symbols_from_your_menu/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/oq936r/symbar_quick_access_to_sf_symbols_from_your_menu/",
-            "title": "Symbar - Quick access to SF Symbols from your menu bar",
-            "content_html": "<p>Hi all,</p>\n<p>I'm an iOS developer and began working on my first app for macOS, <a href=\"https://apps.apple.com/us/app/symbar/id1577268085?mt=12\">Symbar</a>, just a few weeks ago. This little tool helps developers and designers quickly access Apple's catalog of SF Symbols straight from their menu bar. Just click on a symbol to copy its name for use in code or designs. </p>\n<p>This is my first foray into building apps for the Mac, so I hope that any developers or designers here find it useful. Plus, it's free for a limited time.</p>\n<p><a href=\"https://preview.redd.it/qodj71i9f0d71.png?width=2078&amp;format=png&amp;auto=webp&amp;s=5db4ee40b9a76ae93bfe5bb3ebaec477ae88666e\">Symbar screenshot</a></p>\n<p><a href=\"https://apps.apple.com/us/app/symbar/id1577268085?mt=12\">https://apps.apple.com/us/app/symbar/id1577268085?mt=12</a></p>\n<p>Disclosure: I built this app from scratch and am sharing it here for others who may find it useful.</p>",
-            "date_published": "2021-07-23T19:02:03+00:00",
-            "authors": [
-                {
-                    "name": "SpamSencer",
-                    "url": "https://www.reddit.com/user/SpamSencer",
-                    "avatar": "https://styles.redditmedia.com/t5_3nhar/styles/profileIcon_snoo8ee50d06-f77c-4ea4-a954-95922a952d34-headshot.png"
                 }
             ]
         }
