@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "qop64i",
+            "url": "/r/macapps/comments/qop64i/dropshare_received_major_update_now_supports_15/",
+            "external_url": "https://dropshare.app",
+            "title": "Dropshare received major update, now supports 15+ storage providers",
+            "content_html": "<caption>Open in: <a href='https://dropshare.app'>dropshare.app</a> | <a href='https://reddit.com/r/macapps/comments/qop64i/dropshare_received_major_update_now_supports_15/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/qop64i/dropshare_received_major_update_now_supports_15/'>Apollo</a></caption>",
+            "date_published": "2021-11-07T14:03:49+00:00",
+            "authors": [
+                {
+                    "name": "force4",
+                    "url": "https://www.reddit.com/user/force4"
+                }
+            ]
+        },
+        {
             "id": "qnzvns",
             "url": "/r/macapps/comments/qnzvns/raycast_v_alfred/",
             "external_url": "https://www.reddit.com/r/macapps/comments/qnzvns/raycast_v_alfred/",
@@ -1400,21 +1414,6 @@
                     "name": "rubenespanyol",
                     "url": "https://www.reddit.com/user/rubenespanyol",
                     "avatar": "https://styles.redditmedia.com/t5_2rokyt/styles/profileIcon_q1hza4woh6551.jpg"
-                }
-            ]
-        },
-        {
-            "id": "opfdst",
-            "url": "/r/macapps/comments/opfdst/clipboard_app_for_regularly_used_text/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/opfdst/clipboard_app_for_regularly_used_text/",
-            "title": "Clipboard app for regularly used text",
-            "content_html": "<p>Hi, I'm looking for an app that allows me to have access to regularly used text / links / verbiage that I can pull and re-use easily. I do a lot of promotional posts and re-use lots of sentences or things like addresses or web links. Most clipboards I see keep recently used text only so if it's something I don't use for a while it drops off the list. Any ideas at all?</p>",
-            "date_published": "2021-07-22T14:52:15+00:00",
-            "authors": [
-                {
-                    "name": "gotanycrisps",
-                    "url": "https://www.reddit.com/user/gotanycrisps",
-                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_11_C18D42.png"
                 }
             ]
         }
