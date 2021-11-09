@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "qq1udj",
+            "url": "/r/apple/comments/qq1udj/disk_utility_now_has_full_features_for_managing/",
+            "external_url": "https://eclecticlight.co/2021/11/09/disk-utility-now-has-full-features-for-managing-snapshots/",
+            "title": "Disk Utility now has full features for managing snapshots",
+            "content_html": "<caption>Open in: <a href='https://eclecticlight.co/2021/11/09/disk-utility-now-has-full-features-for-managing-snapshots/'>eclecticlight.co</a> | <a href='https://reddit.com/r/apple/comments/qq1udj/disk_utility_now_has_full_features_for_managing/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/qq1udj/disk_utility_now_has_full_features_for_managing/'>Apollo</a></caption>",
+            "date_published": "2021-11-09T11:39:30+00:00",
+            "authors": [
+                {
+                    "name": "Hrhnick",
+                    "url": "https://www.reddit.com/user/Hrhnick"
+                }
+            ]
+        },
+        {
             "id": "qpnenh",
             "url": "/r/apple/comments/qpnenh/apple_will_accept_app_updates_during_the_holidays/",
             "external_url": "https://www.theverge.com/2021/11/8/22770763/apple-app-store-connect-holidays-open",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Effective-Dig9660",
                     "url": "https://www.reddit.com/user/Effective-Dig9660"
-                }
-            ]
-        },
-        {
-            "id": "q9ftii",
-            "url": "/r/apple/comments/q9ftii/a_nice_touch_from_windows_11_that_id_love_to_see/",
-            "external_url": "https://www.reddit.com/r/apple/comments/q9ftii/a_nice_touch_from_windows_11_that_id_love_to_see/",
-            "title": "A nice touch from Windows 11 that I'd love to see on Apple products",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/apple/comments/q9ftii/a_nice_touch_from_windows_11_that_id_love_to_see/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/q9ftii/a_nice_touch_from_windows_11_that_id_love_to_see/'>Apollo</a></caption> <div><p>I use a Windows PC occasionally and one small new thing from Windows 11 that I've really appreciated and would love to see make its way to macOS and iOS is that Windows 11 uses different default system sounds for Dark and Light Modes. Light Mode sounds are brighter and louder, whereas Dark Mode sounds are subdued. It's a small but nice touch!</p>\n<p>Sounds could use some love in general on iOS, we've been stuck with the same alert and ringer tones for eons it seems.</p></div>",
-            "date_published": "2021-10-16T16:53:54+00:00",
-            "authors": [
-                {
-                    "name": "TheJadedSF",
-                    "url": "https://www.reddit.com/user/TheJadedSF"
                 }
             ]
         }
