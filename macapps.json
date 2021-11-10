@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "qr208f",
+            "url": "/r/macapps/comments/qr208f/alternative_to_grammarly_languagetool/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/qr208f/alternative_to_grammarly_languagetool/",
+            "title": "Alternative to Grammarly: LanguageTool",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/qr208f/alternative_to_grammarly_languagetool/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/qr208f/alternative_to_grammarly_languagetool/'>Apollo</a></caption> <div><p>Grammarly is an absolute memory hog on Safari, due to which Safari's performance takes a hit. Then I discovered an extension called <a href=\"https://apps.apple.com/pk/app/languagetool-grammar-checker/id1534275760?mt=12\">LanguageTool</a> through Reddit. As the name suggests, it checks your grammar and spelling. I have been using it for around 30 minutes and I can already see a difference in Safari's performance. It's not a memory hog and takes minimal RAM (it's using around 10 MB currently as compared to Grammarly's 150+ MB).</p>\n<p>As for the premium features, LanguageTool does offer them, but I did not explore them as I also never bought Grammarly premium; I only use the basic features which is more than enough for me. I highly recommend to anyone using Grammarly to try out LanguageTool.</p></div>",
+            "date_published": "2021-11-10T19:24:12+00:00",
+            "authors": [
+                {
+                    "name": "umair_zubair123",
+                    "url": "https://www.reddit.com/user/umair_zubair123"
+                }
+            ]
+        },
+        {
             "id": "qq3zae",
             "url": "/r/macapps/comments/qq3zae/best_email_app_to_utilize_gmail_labels/",
             "external_url": "https://www.reddit.com/r/macapps/comments/qq3zae/best_email_app_to_utilize_gmail_labels/",
@@ -1394,21 +1408,6 @@
                     "name": "rubenespanyol",
                     "url": "https://www.reddit.com/user/rubenespanyol",
                     "avatar": "https://styles.redditmedia.com/t5_2rokyt/styles/profileIcon_q1hza4woh6551.jpg"
-                }
-            ]
-        },
-        {
-            "id": "ovdlrm",
-            "url": "/r/macapps/comments/ovdlrm/i_made_a_microsoft_teams_companion_app/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/ovdlrm/i_made_a_microsoft_teams_companion_app/",
-            "title": "I made a Microsoft Teams companion app",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/ovdlrm/i_made_a_microsoft_teams_companion_app/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/ovdlrm/i_made_a_microsoft_teams_companion_app/'>Apollo</a></caption> <div><p>I made <a href=\"https://teamite.sengi.co.za/\">Teamite</a>, an app that sits in your menubar and lets you view your Teams schedule from anywhere. The app works alongside Teams to help improve your productivity.</p>\n<p>It's available from <a href=\"https://teamite.sengi.co.za/\">https://teamite.sengi.co.za/</a>. You can use discount code <strong>macapps</strong> for 50% off.</p>\n<p>I created the app initially as a fun side project and for my own benefit, but I've decided to try make something of it. I use it every day and it's changed the way I work. I can track when my team is busy, follow Microsoft Project Planner (.mpp) tasks way easier, and I can quickly glance at my schedule without losing track of my work.</p>\n<p>My favourite feature lets you create groups to view all of your coworkers' schedules/availability from one place. The teams aren't linked to any actual teams or channels so you have total control of what they're named and who is included. You can also view your detailed event information from this screen so you know what you've got going on at the same time as someone else is free.</p>\n<p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/hmap6z1nple71.png?width=1280&amp;format=png&amp;auto=webp&amp;s=d00a06a87e1c4864a323abc9063e95e74129d921\">Schedules view</a></p>\n<p>You can view your schedule in a <em>week view</em> similar to the Teams calendar. One of the nicest features is it shows you how much time you have between meetings to get things done:</p>\n<p><a href=\"https://preview.redd.it/al28xvbople71.png?width=890&amp;format=png&amp;auto=webp&amp;s=d81485a37e6513ddfb5101f8201acae63f4a3804\">See time between events</a></p>\n<p>The app also has a feature to view Microsoft Project Planner .mpp files in a gantt chart, and limit it to only the people you are interested in, and sort it in chronological order for easier task tracking. This has been hugely useful for following work projects with thousands of tasks that I'm not at all involved in.</p>\n<p>Please give it a try and I hope you like it :)</p>\n<p><a href=\"https://teamite.sengi.co.za/\">https://teamite.sengi.co.za/</a></p></div>",
-            "date_published": "2021-07-31T19:41:46+00:00",
-            "authors": [
-                {
-                    "name": "EvansMatthew97",
-                    "url": "https://www.reddit.com/user/EvansMatthew97",
-                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_13_7E53C1.png"
                 }
             ]
         }
