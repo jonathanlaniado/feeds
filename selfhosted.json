@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "qq8y37",
+            "url": "/r/selfhosted/comments/qq8y37/highschoolers_looking_for_an_alternative_to/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/qq8y37/highschoolers_looking_for_an_alternative_to/",
+            "title": "Highschoolers looking for an alternative to Facebook/Instagram?",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/qq8y37/highschoolers_looking_for_an_alternative_to/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/qq8y37/highschoolers_looking_for_an_alternative_to/'>Apollo</a></caption> <div><p>Is there a software that lets you create a \"mini Facebook/Instagram\" between friends?</p>\n<p>Our teacher had us watch a documentary on Cambridge Analytica and now a bunch of us want to switch to something not as evil. I don't mean to sound dramatic lmao but this company is trash.</p>\n<p>Literally just want to create a mini fb/ig between friends and family that's safe from random weirdos spying on us. If it could encrypt chats too that would be amazing.</p>\n<p>Please help and thank you guys so much!!!</p></div>",
+            "date_published": "2021-11-09T17:40:39+00:00",
+            "authors": [
+                {
+                    "name": "ohgodohheck777",
+                    "url": "https://www.reddit.com/user/ohgodohheck777"
+                }
+            ]
+        },
+        {
             "id": "qpct1s",
             "url": "/r/selfhosted/comments/qpct1s/another_unlimitedgdrivebacked_fullydockerised/",
             "external_url": "https://github.com/Makeshift/Marauder",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "varbhat",
                     "url": "https://www.reddit.com/user/varbhat"
-                }
-            ]
-        },
-        {
-            "id": "pb2faq",
-            "url": "/r/selfhosted/comments/pb2faq/selfhosting_firefox_in_docker_behind_nginx/",
-            "external_url": "https://i.redd.it/dklutism4fj71.png",
-            "title": "selfhosting firefox in docker behind nginx reverse proxy with authorization so that I and wife could quickly use another computer relatively privately. Concerns and tips are appreciated in comments. link to docker container in comments.",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/dklutism4fj71.png'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/pb2faq/selfhosting_firefox_in_docker_behind_nginx/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pb2faq/selfhosting_firefox_in_docker_behind_nginx/'>Apollo</a></caption>",
-            "date_published": "2021-08-25T02:51:13+00:00",
-            "authors": [
-                {
-                    "name": "thehotshotpilot",
-                    "url": "https://www.reddit.com/user/thehotshotpilot"
                 }
             ]
         }
