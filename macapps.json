@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "qsdfd3",
+            "url": "/r/macapps/comments/qsdfd3/openin_210_50_discount_overall_free_for_macos/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/qsdfd3/openin_210_50_discount_overall_free_for_macos/",
+            "title": "OpenIn 2.1.0 - 50% discount overall, free for macOS Catalina",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/qsdfd3/openin_210_50_discount_overall_free_for_macos/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/qsdfd3/openin_210_50_discount_overall_free_for_macos/'>Apollo</a></caption> <div><p>I have started working on <a href=\"https://loshadki.app/openin/\">OpenIn vNext</a>, and decided that next major update of OpenIn is not going to support macOS Catalina. I am indie developer, just cannot have ability to test and support 2 versions behind. Also it is getting pretty hard to get access to older versions of macOS with M1.</p>\n<p>But I am not going to leave macOS Catalina users, for them I have provided a free version that is available from our <a href=\"https://loshadki.app/openin/#is-openin-available-on-macos-catalina-1015x\">website</a>. It is the last currently available version of OpenIn on app store (with just one fix for numeric keyboard).</p>\n<p>I am going to open a beta testing for OpenIn vNext soon, if you are interested, please subscribe to our newsletter (at the bottom of the page https://loshadki.app). I do not share emails with anybody, and send only announcements (probably sent 2-3 emails this year). One important detail about beta testing, it is going to be available via TestFlight for macOS, so you have to be on Monterey to participate. </p>\n<p>And the last thing, app is for $1.99 (instead of $4.99), Pro features are 2.99 (instead of $4.99) until November 30 (early Black Friday, Cyber Monday deal).</p>\n<p>Enjoy! Feedback and suggestions are always welcome! Work has started!</p></div>",
+            "date_published": "2021-11-12T15:20:16+00:00",
+            "authors": [
+                {
+                    "name": "outcoldman",
+                    "url": "https://www.reddit.com/user/outcoldman"
+                }
+            ]
+        },
+        {
             "id": "qrzk95",
             "url": "/r/macapps/comments/qrzk95/shellhistory_50_off_early_black_friday_deal_until/",
             "external_url": "https://www.reddit.com/r/macapps/comments/qrzk95/shellhistory_50_off_early_black_friday_deal_until/",
@@ -1390,21 +1404,6 @@
                 {
                     "name": "Prestigious-Draw5374",
                     "url": "https://www.reddit.com/user/Prestigious-Draw5374"
-                }
-            ]
-        },
-        {
-            "id": "oy9u7o",
-            "url": "/r/macapps/comments/oy9u7o/free_fugit_a_gorgeous_desktop_digital_clock/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/oy9u7o/free_fugit_a_gorgeous_desktop_digital_clock/",
-            "title": "[Free] Fugit - A gorgeous desktop digital clock",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/oy9u7o/free_fugit_a_gorgeous_desktop_digital_clock/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/oy9u7o/free_fugit_a_gorgeous_desktop_digital_clock/'>Apollo</a></caption> <div><p>Hello,</p>\n<p>Fugit is my latest lockdown project and my first Mac App Store app.</p>\n<p>I wanted to make something simple that would match the look and feel of any system.</p>\n<p>I hide my menu bar when presenting, so I needed a floating clock and couldn't find one I liked.</p>\n<p><a href=\"https://apps.apple.com/us/app/fugit/id1577870027\">https://apps.apple.com/us/app/fugit/id1577870027</a></p>\n<p>I would love some good App Store reviews, quite hard to gain traction :)</p>\n<p>Let me know if you have any ideas.</p>\n<p><a href=\"https://preview.redd.it/d0ns8ev7sgf71.jpg?width=1280&amp;format=pjpg&amp;auto=webp&amp;s=9de2693824316ffd9f4ab0fee5ad47eba3f322b5\">Light Mode</a></p>\n<p><a href=\"https://preview.redd.it/81metcgesgf71.jpg?width=2880&amp;format=pjpg&amp;auto=webp&amp;s=caf340b874162659e16edf576c4abecccb5277f8\">iMac Desktops</a></p></div>",
-            "date_published": "2021-08-05T04:10:15+00:00",
-            "authors": [
-                {
-                    "name": "Moonmonkey3",
-                    "url": "https://www.reddit.com/user/Moonmonkey3",
-                    "avatar": "https://styles.redditmedia.com/t5_dn916/styles/profileIcon_snoobc316f21-5bb1-4c56-ad44-2bf3172ce5a3-headshot.png"
                 }
             ]
         }
