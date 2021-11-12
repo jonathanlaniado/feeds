@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "qrzk95",
+            "url": "/r/macapps/comments/qrzk95/shellhistory_50_off_early_black_friday_deal_until/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/qrzk95/shellhistory_50_off_early_black_friday_deal_until/",
+            "title": "ShellHistory - 50% off (early Black Friday deal, until CyberMonday)",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/qrzk95/shellhistory_50_off_early_black_friday_deal_until/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/qrzk95/shellhistory_50_off_early_black_friday_deal_until/'>Apollo</a></caption> <div><p>I just published version 1.1.0 with some usability updates, and changed the price to 5.99 (original price is 11.99) until Nov 30.</p>\n<p>If you have not tried ShellHistory yet, you can download the free trial from our website https://loshadki.app/shellhistory/</p>\n<p>It is very handy tool to store your whole Shell History in an indexed database (yes, you can actually run a real full text index), backup and synchronize your history between multiple Macs using your iCloud account. </p>\n<p>New features in 1.1.0:</p>\n<ul>\n<li>Ability to add command to a new notebook from the context menu</li>\n<li>Drag and drop commands from history to notebooks</li>\n<li>Version command to shhist</li>\n<li>Add context menu to notebook list (rename, delete)</li>\n<li>UX improvements for Notebooks (when text is too long, buttons should not move the text on hover)</li>\n<li>Sort notebooks case insensetive</li>\n<li>macOS 12: specific improvements (focus on textfields, when they appear, focus on search bar)</li>\n<li>macOS 12: allow to use markdown in the notebook notes</li>\n</ul>\n<p>Enjoy!</p>\n<blockquote>\n<p>P.S. I also starting to work on the next version of OpenIn!</p>\n</blockquote></div>",
+            "date_published": "2021-11-12T00:55:10+00:00",
+            "authors": [
+                {
+                    "name": "outcoldman",
+                    "url": "https://www.reddit.com/user/outcoldman"
+                }
+            ]
+        },
+        {
             "id": "qrkl0f",
             "url": "/r/macapps/comments/qrkl0f/black_friday_deal_owlocr_50_off_until_december_3rd/",
             "external_url": "http://owlocr.com",
@@ -1391,21 +1405,6 @@
                     "name": "Moonmonkey3",
                     "url": "https://www.reddit.com/user/Moonmonkey3",
                     "avatar": "https://styles.redditmedia.com/t5_dn916/styles/profileIcon_snoobc316f21-5bb1-4c56-ad44-2bf3172ce5a3-headshot.png"
-                }
-            ]
-        },
-        {
-            "id": "oxaanr",
-            "url": "/r/macapps/comments/oxaanr/today_ive_released_usage_for_mac_the_new_modern/",
-            "external_url": "https://apps.apple.com/app/usage-system-activity-monitor/id1561788435",
-            "title": "Today I've released Usage for Mac! The new, modern and customizable system activity monitor. Check it out \ud83d\ude09",
-            "content_html": "<caption>Open in: <a href='https://apps.apple.com/app/usage-system-activity-monitor/id1561788435'>apps.apple.com</a> | <a href='https://reddit.com/r/macapps/comments/oxaanr/today_ive_released_usage_for_mac_the_new_modern/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/oxaanr/today_ive_released_usage_for_mac_the_new_modern/'>Apollo</a></caption>",
-            "date_published": "2021-08-03T18:59:45+00:00",
-            "authors": [
-                {
-                    "name": "Endore8",
-                    "url": "https://www.reddit.com/user/Endore8",
-                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_18_545452.png"
                 }
             ]
         }
