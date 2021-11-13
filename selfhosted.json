@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "qsl7am",
+            "url": "/r/selfhosted/comments/qsl7am/gitea_drone/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/qsl7am/gitea_drone/",
+            "title": "Gitea + Drone = \u2764",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/qsl7am/gitea_drone/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/qsl7am/gitea_drone/'>Apollo</a></caption> <div><p>Few weeks ago i started writing my masters thesis and i was looking for a selfhosted VCS to keep all my LaTeX files and images etc. After doing some research i found a couple of people on this sub recommending <a href=\"https://gitea.io/en-us/\">Gitea</a> + <a href=\"https://www.drone.io/\">Drone</a> as an lightweight alternative to Gitlab.</p>\n<p>Tried it out and it works perfectly fine. When i tag a commit, Drone will compile my thesis into a PDF and automatically create a release in Gitea. Supper happy with this solution. Can just recommend the Gitea + Drone combination to anyone looking for a smaller alternative to Gitlab.</p>\n<p>&#x200B;</p>\n<p>https://preview.redd.it/e8ybuicpd8z71.png?width=1152&amp;format=png&amp;auto=webp&amp;s=eab2ec0b59fe975af8a071a61a1a7355782a3363</p>\n<p>Thats it, thanks for the recommendation and have a nice day :)</p></div>",
+            "date_published": "2021-11-12T21:22:14+00:00",
+            "authors": [
+                {
+                    "name": "A1689-zD1",
+                    "url": "https://www.reddit.com/user/A1689-zD1"
+                }
+            ]
+        },
+        {
             "id": "qqzp9s",
             "url": "/r/selfhosted/comments/qqzp9s/reminder_to_do_some_docker_maintenance/",
             "external_url": "https://i.imgur.com/HTLL99Y.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "tsunamino",
                     "url": "https://www.reddit.com/user/tsunamino"
-                }
-            ]
-        },
-        {
-            "id": "pc1uvd",
-            "url": "/r/selfhosted/comments/pc1uvd/notonlyfans_an_open_source_selfhosted_digital/",
-            "external_url": "https://github.com/easychen/not-only-fans",
-            "title": "not-only-fans, an open source, self-hosted digital content subscription platform like onlyfans.com with cryptocurrency payment",
-            "content_html": "<caption>Open in: <a href='https://github.com/easychen/not-only-fans'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/pc1uvd/notonlyfans_an_open_source_selfhosted_digital/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pc1uvd/notonlyfans_an_open_source_selfhosted_digital/'>Apollo</a></caption>",
-            "date_published": "2021-08-26T15:31:06+00:00",
-            "authors": [
-                {
-                    "name": "binaryfor",
-                    "url": "https://www.reddit.com/user/binaryfor"
                 }
             ]
         }
