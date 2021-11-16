@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "quyt3x",
+            "url": "/r/selfhosted/comments/quyt3x/appflowy_is_an_opensource_alternative_to_notion/",
+            "external_url": "https://github.com/AppFlowy-IO/appflowy",
+            "title": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
+            "content_html": "<caption>Open in: <a href='https://github.com/AppFlowy-IO/appflowy'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/quyt3x/appflowy_is_an_opensource_alternative_to_notion/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/quyt3x/appflowy_is_an_opensource_alternative_to_notion/'>Apollo</a></caption>",
+            "date_published": "2021-11-16T03:55:55+00:00",
+            "authors": [
+                {
+                    "name": "binaryfor",
+                    "url": "https://www.reddit.com/user/binaryfor"
+                }
+            ]
+        },
+        {
             "id": "quhc4f",
             "url": "/r/selfhosted/comments/quhc4f/hi_almost_6_months_ago_i_published_first_version/",
             "external_url": "https://v.redd.it/l12zhh2larz71",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "aeonlamb",
                     "url": "https://www.reddit.com/user/aeonlamb"
-                }
-            ]
-        },
-        {
-            "id": "pdf18k",
-            "url": "/r/selfhosted/comments/pdf18k/document_management_ocr_processes_and_my_love_for/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/pdf18k/document_management_ocr_processes_and_my_love_for/",
-            "title": "Document management, OCR processes, and my love for ScanServer-js.",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/pdf18k/document_management_ocr_processes_and_my_love_for/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pdf18k/document_management_ocr_processes_and_my_love_for/'>Apollo</a></caption> <div><p>I've just been down quite the rabbit hole these past few weeks after de-Googling my phone - I broke my document management process and had to find an alternative.  With the advice of other lovely folk scattered about these forums, I've now settled on a, better, workflow and feel the need to share.</p>\n<p>Hopefully it'll help someone else in the same boat.</p>\n<p>I've been using <a href=\"https://swiftscan.app/\">SwiftScan</a> for years (back when it had a different name) as it allowed me to \"scan\" my documents and mail from my phone, OCR them, then upload straight into Nexcloud.  Done.   But I lost the ability to use the OCR functionality as I was unable to activate my purchases Pro features without a Google Play account.</p>\n<p>I've since found a better workflow;  In <em>reverse</em> order...</p>\n<h1>Management</h1>\n<p><a href=\"https://github.com/jonaswinkler/paperless-ng\">Paperless-ng</a> is fan-bloody-tastic!  I'm using the LinuxServer.io docker image and it's working a treat.  All my new scans are dumped in here for better-than-I'm-used-to OCR goodness.  I can tag my documents instead of battling with folders in Nextcloud.</p>\n<p><em>Top tip:  put any custom config variables (such as custom file naming) in the docker-compose file under \"environment\".</em></p>\n<h1>PDF cleaning</h1>\n<p>But, I've since found out that my <em>existing</em> OCR'd PDFs have a janked-up OCR layer that Paperless-ng does NOT like - the text content is saved in a single column of characters.  Not Paperless-ng's fault, just something to do with the way SwiftScan has saved the files.</p>\n<p>So, after a LOT of hunting, I've eventually settled on <a href=\"https://www.pdfshaper.com/\">PDF Shaper Free for Windows</a>.  The free version still allows exporting <em>all</em> images from a PDF.  Then I convert all those images back into a fresh, clean PDF (no dirty OCR).  This gets dumped in Paperless-ng and job's a good'un.</p>\n<p><em>Top tip:  experiment with the DPI setting for image exports to get the size/quality you want, as the DPI can be ignored in the import process.</em></p>\n<h1>Scanning</h1>\n<p>I can still scan using SwiftScan, but I've gone back to a dedicated document scanner as without the Pro functionality, the results are a little... primitive.</p>\n<p>I've had an old all-in-one HP USB printer/scanner hooked up to a Raspberry Pi for a few years running CUPS.  Network printing has been great via this method.  But the scanner portion has sat unused ever since.  Until, now....  WHY DID NOBODY TELL ME ABOUT <a href=\"https://github.com/sbs20/scanservjs\">SCANSERV-JS</a>?!  My word this is incredible! It does for scanning what CUPS does for printing, and with a beautiful Web UI.</p>\n<p>I slapped the single-line installer into the Pi, closed my eyes, crossed my fingers, then came back after a cup of tea.  I'm now getting decent scans (the phone scans were working OK, but I'd forgotten how much better a dedicated scanner is) with all the options I'd expect and can download the file to drop in Paperless-ng.  It even does OCR (which I've not tested) if you want to forget Paperless-ng entirely.</p>\n<p><strong>Cheers</strong></p>\n<p>I am a very, very happy camper again, with a self-hosted, easy workflow for my scanned documents and mail.</p>\n<p>Thanks to all that have helped me this month.  I hope someone else gets use from the above notes.</p>\n<p><em>ninja-edit:  Corrected Scan</em><strong><em>Server</em></strong> <em>to Scan</em><strong><em>Serv</em></strong>, but the error in the title will now haunt me until the end of days.</p></div>",
-            "date_published": "2021-08-28T18:21:32+00:00",
-            "authors": [
-                {
-                    "name": "FluffyMumbles",
-                    "url": "https://www.reddit.com/user/FluffyMumbles"
                 }
             ]
         }
