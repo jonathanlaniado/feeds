@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "qw7mqg",
+            "url": "/r/PleX/comments/qw7mqg/its_almost_2022_why_is_the_default_setting_for/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/qw7mqg/its_almost_2022_why_is_the_default_setting_for/",
+            "title": "Its almost 2022. Why is the default setting for clients to stream in 720p? Every single admin here has had experience reaching out to poeple and annoying them to change their settings.",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/PleX/comments/qw7mqg/its_almost_2022_why_is_the_default_setting_for/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/qw7mqg/its_almost_2022_why_is_the_default_setting_for/'>Apollo</a></caption> <div><p>Im 100% sure everyone here has reached out to someone, gave them guide on how to change default settings, gotten an \"ok ill do it\", just for the client to continue to watch in 720p.</p>\n<p>Why is this still a thing? My CPU is strong enough to serve dozens of original quality streams, as is my network. Why isn't the default for clients to be using the original quality, with it only lowering if their network can't handle it?</p>\n<p>Clients should be assumed to be lazy and do not want to fiddle with settings. I don't want my clients to have an inferior experience. I don't want them to tell me \"i tried plex , but the quality wasnt good so I went back to Netflix\".</p>\n<p>And you can't keep reaching out to people, because they think its creepy that you're always seeing what they watch.</p>\n<p>edit: Please don't comment saying you desire your clients to have a 720p limit. You can set whatever arbitrary limit you want already through the server settings. Im just asking for the ability to also set a default value for clients (that they can freely change to whatever they want)</p></div>",
+            "date_published": "2021-11-17T20:01:58+00:00",
+            "authors": [
+                {
+                    "name": "MumeiNoName",
+                    "url": "https://www.reddit.com/user/MumeiNoName"
+                }
+            ]
+        },
+        {
             "id": "qvx9go",
             "url": "/r/PleX/comments/qvx9go/wait_plex_has_themes_now/",
             "external_url": "https://i.redd.it/mfrdd1hh55081.jpg",
