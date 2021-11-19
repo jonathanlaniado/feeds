@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "qxeki4",
+            "url": "/r/PleX/comments/qxeki4/made_myself_a_plex_dashboard/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/qxeki4/made_myself_a_plex_dashboard/",
+            "title": "Made myself a Plex Dashboard!",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/PleX/comments/qxeki4/made_myself_a_plex_dashboard/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/qxeki4/made_myself_a_plex_dashboard/'>Apollo</a></caption> <div><p>Hey guys!</p>\n<p>So, I was getting sick of having 12,000,000 tabs open while trying to remember all the ports attached to it, so decided to do something about it, and made this: <a href=\"https://i.imgur.com/0jwmyyt.png\">My Plex dashboard!</a></p>\n<p>It lets me access all the *arrs, Plex, Tautulli, Calibre, and a few other programs that would each normally take up a tab within the dashboard, which is awesome. </p>\n<p>The homepage is nice and simple with constantly updating RAM and CPU usage, as well as the amount of free HDD space I have, current download/upload speeds, and library stats. It also tells me about streams and bandwith too! </p>\n<p>Beneath that are my various queues, and beneath that is a little way to see the status of each service I'm running - a green light means it's all good and working properly!</p>\n<p>Lastly I have some average speedtest data (yay for slow Australian internet :( ), and the calendar so I know when things are coming out!</p>\n<p>It was definitely very satisfying getting it all working together, so I hope you like it too!</p>\n<p>Does anyone else have their own dashboards they want to share? Now that it's all done, I want to add more stuff, but can't think of anything else to add :P!</p></div>",
+            "date_published": "2021-11-19T11:48:26+00:00",
+            "authors": [
+                {
+                    "name": "Opaquer",
+                    "url": "https://www.reddit.com/user/Opaquer"
+                }
+            ]
+        },
+        {
             "id": "qw7mqg",
             "url": "/r/PleX/comments/qw7mqg/its_almost_2022_why_is_the_default_setting_for/",
             "external_url": "https://www.reddit.com/r/PleX/comments/qw7mqg/its_almost_2022_why_is_the_default_setting_for/",
