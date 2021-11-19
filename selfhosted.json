@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "qxlsm9",
+            "url": "/r/selfhosted/comments/qxlsm9/my_open_source_notification_android_app_and/",
+            "external_url": "https://i.redd.it/1vhgtt29dl081.jpg",
+            "title": "My open source notification Android app and server can now be fully self-hosted",
+            "content_html": "<caption>Open in: <a href='https://i.redd.it/1vhgtt29dl081.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/qxlsm9/my_open_source_notification_android_app_and/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/qxlsm9/my_open_source_notification_android_app_and/'>Apollo</a></caption>",
+            "date_published": "2021-11-19T18:01:28+00:00",
+            "authors": [
+                {
+                    "name": "binwiederhier",
+                    "url": "https://www.reddit.com/user/binwiederhier"
+                }
+            ]
+        },
+        {
             "id": "qwylqm",
             "url": "/r/selfhosted/comments/qwylqm/ive_made_unigraph_a_localselfhosted_foss_personal/",
             "external_url": "https://unigraph.dev",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "viktorstrate",
                     "url": "https://www.reddit.com/user/viktorstrate"
-                }
-            ]
-        },
-        {
-            "id": "peasct",
-            "url": "/r/selfhosted/comments/peasct/loving_paperlessng/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/peasct/loving_paperlessng/",
-            "title": "Loving paperless-ng",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/peasct/loving_paperlessng/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/peasct/loving_paperlessng/'>Apollo</a></caption> <div><p>Recently the apartment building I live in burned down, (everyone made it out safely, no major injuries).  I had started using paperless a few months prior, but didn't really get into the swing of it.  Well, after it burned down I went to the soaking wet filing cabinet and rescued as many of my documents as I can. </p>\n<p>I got paperless-ng setup again at my new place and just finished scanning in the existing documents (so I can get the smoke smell out of the house).  Over 1k documents and it isn't slowing down yet.</p>\n<p>The auto feature for tagging/correspondents/doc type is really good.  I love not having to create a rule for everything, it just learns as it goes.</p>\n<p>So shoutout to paperless, it really makes things work nicely.  And going forward it will make it nice and clean, sad that it took a fire to kick it into gear, but at least it's there now.</p>\n<p>What do you guys use for document storage/a paperless-like environment?</p></div>",
-            "date_published": "2021-08-30T04:18:00+00:00",
-            "authors": [
-                {
-                    "name": "Madh2orat",
-                    "url": "https://www.reddit.com/user/Madh2orat"
                 }
             ]
         }
