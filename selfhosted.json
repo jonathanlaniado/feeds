@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "qwylqm",
+            "url": "/r/selfhosted/comments/qwylqm/ive_made_unigraph_a_localselfhosted_foss_personal/",
+            "external_url": "https://unigraph.dev",
+            "title": "I've made Unigraph, a local/self-hosted FOSS personal knowledge graph, notetaking app, and personal search engine that connects with your existing workflow (demo & access in link)",
+            "content_html": "<caption>Open in: <a href='https://unigraph.dev'>unigraph.dev</a> | <a href='https://reddit.com/r/selfhosted/comments/qwylqm/ive_made_unigraph_a_localselfhosted_foss_personal/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/qwylqm/ive_made_unigraph_a_localselfhosted_foss_personal/'>Apollo</a></caption>",
+            "date_published": "2021-11-18T20:19:19+00:00",
+            "authors": [
+                {
+                    "name": "Remarkable_Rock_4506",
+                    "url": "https://www.reddit.com/user/Remarkable_Rock_4506"
+                }
+            ]
+        },
+        {
             "id": "qvw8g5",
             "url": "/r/selfhosted/comments/qvw8g5/powershell_script_to_automatically_ssh_into/",
             "external_url": "https://v.redd.it/zkxzc8yps4081",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Madh2orat",
                     "url": "https://www.reddit.com/user/Madh2orat"
-                }
-            ]
-        },
-        {
-            "id": "pekujj",
-            "url": "/r/selfhosted/comments/pekujj/three_claps_for_zfs/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/pekujj/three_claps_for_zfs/",
-            "title": "Three claps for zfs",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/pekujj/three_claps_for_zfs/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pekujj/three_claps_for_zfs/'>Apollo</a></caption> <div><p>I have been using old workstations as my home servers for many years now because they can be found from local businesses for very cheap when they get new machines (many are switching to all laptops, but I have some connections that work with GIS, CAD, or similar that need beefier workstations). My current one is a Dell Precision T5610 (2x Xeon E5-2620 v2) which is great in every way except for SATA3 ports. In order to accommodate my data drives I picked up a cheapish PCI-E 4-port SATA controller, created a couple zfs pools (2 separate mirrors) and it had been running great for months.</p>\n<p>Then one morning I launch Miniflutt (my Miniflux app of choice) and my connection times out. I ssh into the server and it's still up, but upon further inspection, none of my data drives connected to the PCI-E controller are showing. I check that it's in the PCI-E slot firmly and try a couple other things but the SATA controller appears to be dead.</p>\n<p>Fast forward a couple days and a new, hopefully better quality, SATA controller arrives. I plug in the drives and boot up, and one of my pools has already been restored. The other has an SSD for bonus caching and its mount point wasn't empty (I assumed some cached files remained since the SSD is plugged into the motherboard). So I move the files in the mount point, re-import the pool, and bam we're back in business with no data loss.</p>\n<p>So I just wanted to give a shoutout to zfs for how easy it makes dealing with RAID drives. It has simple commands that are easy to remember, takes care of changing device paths automatically, and makes migrating to new machines trivial. I also don't have any friends that are nerdy enough in real life to talk about these things with, so I appreciate all you internet strangers who get me.</p></div>",
-            "date_published": "2021-08-30T15:53:33+00:00",
-            "authors": [
-                {
-                    "name": "jhot_",
-                    "url": "https://www.reddit.com/user/jhot_"
                 }
             ]
         }
