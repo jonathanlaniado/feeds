@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "qyt91s",
+            "url": "/r/selfhosted/comments/qyt91s/why_so_many_downvotes/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/qyt91s/why_so_many_downvotes/",
+            "title": "Why so many downvotes ?!",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/qyt91s/why_so_many_downvotes/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/qyt91s/why_so_many_downvotes/'>Apollo</a></caption> <div><p>Unless one comes with the latest revolutionary github project, posts are systematically downvoted here.</p>\n<p>There is no place for begginers, unsecure newcomers and curious people around here.</p>\n<p>To be honest, this is one of the less welcoming community I've came across on Reddit.</p>\n<p>So, as somebody that had to learn everything from scratch, among the dozens of people I've met here, I'd like to thank the 5 people that were actually willing to enlighten me and share actual information with me.</p>\n<p>Sorry for interrupting, you can now go back to downvoting without any comment.</p></div>",
+            "date_published": "2021-11-21T11:39:13+00:00",
+            "authors": [
+                {
+                    "name": "Tiritibambix",
+                    "url": "https://www.reddit.com/user/Tiritibambix"
+                }
+            ]
+        },
+        {
             "id": "qy9ffr",
             "url": "/r/selfhosted/comments/qy9ffr/what_are_your_top_5_self_hosted_software_that_you/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/qy9ffr/what_are_your_top_5_self_hosted_software_that_you/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "TheOriginalSuperman",
                     "url": "https://www.reddit.com/user/TheOriginalSuperman"
-                }
-            ]
-        },
-        {
-            "id": "pf47ew",
-            "url": "/r/selfhosted/comments/pf47ew/i_wanted_to_create_a_simplistic_minimalist_crypto/",
-            "external_url": "https://i.redd.it/n4m1kvlilok71.png",
-            "title": "I wanted to create a simplistic, minimalist crypto market web app to self-host, looking for contribution! Source & Demo in comments",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/n4m1kvlilok71.png'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/pf47ew/i_wanted_to_create_a_simplistic_minimalist_crypto/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pf47ew/i_wanted_to_create_a_simplistic_minimalist_crypto/'>Apollo</a></caption>",
-            "date_published": "2021-08-31T11:48:06+00:00",
-            "authors": [
-                {
-                    "name": "hesavillain",
-                    "url": "https://www.reddit.com/user/hesavillain"
                 }
             ]
         }
