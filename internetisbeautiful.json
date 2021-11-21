@@ -8,6 +8,20 @@
     "favicon": "https://b.thumbs.redditmedia.com/k7fHE51fuhbYJRT2e9s1rXIp2ZtA7ks-cNFvQuNbfcE.png",
     "items": [
         {
+            "id": "qyq9ej",
+            "url": "/r/InternetIsBeautiful/comments/qyq9ej/i_made_a_website_that_lets_you_make_your_own_high/",
+            "external_url": "https://map-it-up.netlify.app/",
+            "title": "I made a website that lets you make your own high definition maps",
+            "content_html": "<caption>Open in: <a href='https://map-it-up.netlify.app/'>map-it-up.netlify.app</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/qyq9ej/i_made_a_website_that_lets_you_make_your_own_high/'>Reddit</a> | <a href='apollo://reddit.com/r/InternetIsBeautiful/comments/qyq9ej/i_made_a_website_that_lets_you_make_your_own_high/'>Apollo</a></caption>",
+            "date_published": "2021-11-21T08:00:21+00:00",
+            "authors": [
+                {
+                    "name": "Nearby-Concept1914",
+                    "url": "https://www.reddit.com/user/Nearby-Concept1914"
+                }
+            ]
+        },
+        {
             "id": "qxlkxf",
             "url": "/r/InternetIsBeautiful/comments/qxlkxf/i_built_a_free_opensource_resume_scanner_no/",
             "external_url": "https://referd.ai/resumescanner",
@@ -1400,21 +1414,6 @@
                     "name": "speedyjumper",
                     "url": "https://www.reddit.com/user/speedyjumper",
                     "avatar": "https://styles.redditmedia.com/t5_7hzea/styles/profileIcon_snoof209abc4-c3d3-487f-bf6f-df788135790d-headshot.png"
-                }
-            ]
-        },
-        {
-            "id": "oti5ym",
-            "url": "/r/InternetIsBeautiful/comments/oti5ym/most_desk_jobs_require_you_to_use_a_spreadsheet/",
-            "external_url": "https://sheethacks.com/",
-            "title": "Most desk jobs require you to use a spreadsheet, so I created a site to help people learn Excel and Google Sheets spreadsheet skills. I hand-selected the top 500 resources I could find and made them easy to search and filter.",
-            "content_html": "<caption>Open in: <a href='https://sheethacks.com/'>sheethacks.com</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/oti5ym/most_desk_jobs_require_you_to_use_a_spreadsheet/'>Reddit</a> | <a href='apollo://reddit.com/r/InternetIsBeautiful/comments/oti5ym/most_desk_jobs_require_you_to_use_a_spreadsheet/'>Apollo</a></caption>",
-            "date_published": "2021-07-28T20:23:05+00:00",
-            "authors": [
-                {
-                    "name": "khanarree",
-                    "url": "https://www.reddit.com/user/khanarree",
-                    "avatar": "https://www.redditstatic.com/avatars/avatar_default_16_008985.png"
                 }
             ]
         }
