@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "r0uplf",
+            "url": "/r/macapps/comments/r0uplf/a_definitive_pdf_reader_comparison/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/r0uplf/a_definitive_pdf_reader_comparison/",
+            "title": "A Definitive PDF Reader Comparison",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/r0uplf/a_definitive_pdf_reader_comparison/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/r0uplf/a_definitive_pdf_reader_comparison/'>Apollo</a></caption> <div><p>As a graphic designer who switched from the Adobe suite to Affinity a year ago, I've become increasingly interested in the best PDF reader/editor that is not subscription-based. The frustration is that there are so many apps out there, and many of them are garbage. Like buying a mattress, it seems like every review out there is incomplete or paid for by one of them. So I decided to install all the serious PDF readers/editors I could find and spend half the day looking for the best option. Hope this helps someone, as I've seen plenty of posts looking in the past. </p>\n<p><a href=\"https://docs.google.com/spreadsheets/d/1pCt75tHayO_QJO2swREcZEgAFEhrm9-3pnDogh5kpRM\">PDF Reader Comparison Spreadsheet</a></p>\n<p>I don't claim perfection, so if I missed something, please let me know and I'll correct it. I'm not affiliated with any of these in any way whatsoever.</p></div>",
+            "date_published": "2021-11-24T03:03:16+00:00",
+            "authors": [
+                {
+                    "name": "Mstormer",
+                    "url": "https://www.reddit.com/user/Mstormer"
+                }
+            ]
+        },
+        {
             "id": "r0d4q5",
             "url": "/r/macapps/comments/r0d4q5/pixelmator_pro_50_off_sale/",
             "external_url": "https://www.reddit.com/r/macapps/comments/r0d4q5/pixelmator_pro_50_off_sale/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "stabletiger",
                     "url": "https://www.reddit.com/user/stabletiger"
-                }
-            ]
-        },
-        {
-            "id": "p273p3",
-            "url": "/r/macapps/comments/p273p3/macos_after_months_of_development_ive_finally/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/p273p3/macos_after_months_of_development_ive_finally/",
-            "title": "[macOs] After months of development, I've finally launched my app Beaconly, for macOs. Data aggregation - display of of statues, tasks, and information inside your mac menu app.",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/p273p3/macos_after_months_of_development_ive_finally/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/p273p3/macos_after_months_of_development_ive_finally/'>Apollo</a></caption> <div><p>App Store Link: <a href=\"https://apps.apple.com/us/app/beaconly/id1520138793\">https://apps.apple.com/us/app/beaconly/id1520138793</a></p>\n<p>The app itself, <strong>does not:</strong></p>\n<ul>\n<li>track anything</li>\n<li>no ads</li>\n<li>no IAP's</li>\n</ul>\n<p>The app allows you to connect to countless Cloud Status services, such as AWS, Azure, Atlassian, Google Cloud Computing, and display their status inside the mac os menu bar. There are also extensions (400+) for Jira Tickets, Asana Issues, Trello Cards, Github, BitBucket, Confluence, Crypto currencies tickers, and countless other useful extensions you can add and use.</p>\n<p>Some of the use cases can be seen here: <a href=\"https://beaconly.app/use-cases\">https://beaconly.app/use-cases</a></p>\n<p>There is a free version, and then 1.99$ subscription for unlocking unlimited items, and later on other features that will come in next couple versions (graphing, SSO logins, more combustibility to name a few)</p>\n<p>Happy to give out first 10 users with feedback 12 months full versions.</p>\n<p>https://i.redd.it/hfoklqnb5og71.gif</p>\n<p>Let me know your thoughts, and here are some App Store screenshots from the appstore:</p>\n<p>https://preview.redd.it/b87bo3dp4og71.png?width=2560&amp;format=png&amp;auto=webp&amp;s=3bb379d24d3b68b4618bab93e251656599c0581f</p>\n<p>https://preview.redd.it/tmvkl3dp4og71.png?width=2560&amp;format=png&amp;auto=webp&amp;s=2a05a5ad152b75dd0a598ae26bbedcbcc7f4786a</p></div>",
-            "date_published": "2021-08-11T05:59:29+00:00",
-            "authors": [
-                {
-                    "name": "latorante",
-                    "url": "https://www.reddit.com/user/latorante"
                 }
             ]
         }
