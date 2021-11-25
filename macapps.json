@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "r1llz7",
+            "url": "/r/macapps/comments/r1llz7/discord_canary_is_now_m1_native/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/r1llz7/discord_canary_is_now_m1_native/",
+            "title": "Discord Canary is now M1 native!",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/r1llz7/discord_canary_is_now_m1_native/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/r1llz7/discord_canary_is_now_m1_native/'>Apollo</a></caption> <div><p><a href=\"https://discord.com/api/download/canary?platform=osx\">https://discord.com/api/download/canary?platform=osx</a> &lt;- direct download link</p></div>",
+            "date_published": "2021-11-25T02:25:39+00:00",
+            "authors": [
+                {
+                    "name": "Pwnz_r",
+                    "url": "https://www.reddit.com/user/Pwnz_r"
+                }
+            ]
+        },
+        {
             "id": "r1ccbn",
             "url": "/r/macapps/comments/r1ccbn/dato_menu_bar_calendar_time_zones_50_off_sale/",
             "external_url": "https://apps.apple.com/app/id1470584107",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Falcondor07",
                     "url": "https://www.reddit.com/user/Falcondor07"
-                }
-            ]
-        },
-        {
-            "id": "p370ys",
-            "url": "/r/macapps/comments/p370ys/looking_for_equivalent_or_alternative_app_to/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/p370ys/looking_for_equivalent_or_alternative_app_to/",
-            "title": "Looking for equivalent or alternative app to windows apps",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/p370ys/looking_for_equivalent_or_alternative_app_to/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/p370ys/looking_for_equivalent_or_alternative_app_to/'>Apollo</a></caption> <div><p>Hi all, </p>\n<p>I just picked up a nice 2017 MacBook pro 13 inch and getting a little more familiar with macOS. </p>\n<p>I've been Primarily been a windows user, but I'm setting up and using this MacBook pro so I'm looking for equivalent or alternative app to windows apps I used. Although I realize some may just be completely irrelevant. </p>\n<p>Here the list </p>\n<ol>\n<li>\n<p>MPC-HC media player I used to play videos and anime. I always have vlc as a backup but I hate vlc personally. Or is this possible to run with WINE? </p>\n</li>\n<li>\n<p>Microsoft message analyzer or wireshark equivalent (I know has been retired now from Microsoft)</p>\n</li>\n<li>\n<p>7zip and winrar replacement for Mac </p>\n</li>\n<li>\n<p>Imgburn and ultraiso </p>\n</li>\n<li>\n<p>Media coder equivalent </p>\n</li>\n<li>\n<p>Jv16 power tools equivalent </p>\n</li>\n<li>\n<p>Tweak now power pack</p>\n</li>\n<li>\n<p>Revo uninstaller </p>\n</li>\n</ol>\n<p>Thanks :)</p></div>",
-            "date_published": "2021-08-12T19:32:02+00:00",
-            "authors": [
-                {
-                    "name": "bjones7296",
-                    "url": "https://www.reddit.com/user/bjones7296"
                 }
             ]
         }
