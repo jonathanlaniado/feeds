@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "r3hg25",
+            "url": "/r/macapps/comments/r3hg25/wireshark_360_released_with_apple_silicon_support/",
+            "external_url": "https://www.wireshark.org/news/20211122.html",
+            "title": "Wireshark 3.6.0 Released with Apple Silicon support",
+            "content_html": "<caption>Open in: <a href='https://www.wireshark.org/news/20211122.html'>www.wireshark.org</a> | <a href='https://reddit.com/r/macapps/comments/r3hg25/wireshark_360_released_with_apple_silicon_support/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/r3hg25/wireshark_360_released_with_apple_silicon_support/'>Apollo</a></caption>",
+            "date_published": "2021-11-27T16:49:15+00:00",
+            "authors": [
+                {
+                    "name": "brainplot",
+                    "url": "https://www.reddit.com/user/brainplot"
+                }
+            ]
+        },
+        {
             "id": "r36axf",
             "url": "/r/macapps/comments/r36axf/cleanshot_x_30_off_is_it_worth_it/",
             "external_url": "https://www.reddit.com/r/macapps/comments/r36axf/cleanshot_x_30_off_is_it_worth_it/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "GeorgeeB0i",
                     "url": "https://www.reddit.com/user/GeorgeeB0i"
-                }
-            ]
-        },
-        {
-            "id": "p9yave",
-            "url": "/r/macapps/comments/p9yave/best_free_ftp_app_for_mac/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/p9yave/best_free_ftp_app_for_mac/",
-            "title": "Best free ftp app for Mac?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/p9yave/best_free_ftp_app_for_mac/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/p9yave/best_free_ftp_app_for_mac/'>Apollo</a></caption> <div><p>I need an ftp pp for Mac, where is the best place to grab one for free please?</p></div>",
-            "date_published": "2021-08-23T11:57:31+00:00",
-            "authors": [
-                {
-                    "name": "phillyttt",
-                    "url": "https://www.reddit.com/user/phillyttt"
                 }
             ]
         }
