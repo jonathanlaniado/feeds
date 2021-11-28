@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "r3g19x",
+            "url": "/r/selfhosted/comments/r3g19x/domain_giveaway_for_someone_who_needs_it/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/r3g19x/domain_giveaway_for_someone_who_needs_it/",
+            "title": "Domain giveaway for someone who needs it",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/r3g19x/domain_giveaway_for_someone_who_needs_it/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/r3g19x/domain_giveaway_for_someone_who_needs_it/'>Apollo</a></caption> <div><p>I have the domain <a href=\"https://pressedent.com\">pressedent.com</a>, which I no longer need. I would like to give it to someone who would like to get started with self hosting outside their network. Please tell me what you will use it for (comment) , and I will pick a random winner with redditraffler this Wednesday. You will need a Namecheap account to receive the domain, and it expires April 8, 2022.</p></div>",
+            "date_published": "2021-11-27T15:40:05+00:00",
+            "authors": [
+                {
+                    "name": "lukelinux",
+                    "url": "https://www.reddit.com/user/lukelinux"
+                }
+            ]
+        },
+        {
             "id": "r24tcv",
             "url": "/r/selfhosted/comments/r24tcv/host_your_own_stratum_1_ntp_network_time_protocol/",
             "external_url": "https://austinsnerdythings.com/2021/09/29/millisecond-accurate-chrony-ntp-with-a-usb-gps-for-12-usd/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "binaryfor",
                     "url": "https://www.reddit.com/user/binaryfor"
-                }
-            ]
-        },
-        {
-            "id": "pgla9z",
-            "url": "/r/selfhosted/comments/pgla9z/meet_the_selfhosters_taking_back_the_internet_one/",
-            "external_url": "https://www.vice.com/en/article/pkb4ng/meet-the-self-hosters-taking-back-the-internet-one-server-at-a-time",
-            "title": "Meet the Self-Hosters, Taking Back the Internet One Server at a Time - Motherboard",
-            "content_html": "<caption>Open in: <a href='https://www.vice.com/en/article/pkb4ng/meet-the-self-hosters-taking-back-the-internet-one-server-at-a-time'>www.vice.com</a> | <a href='https://reddit.com/r/selfhosted/comments/pgla9z/meet_the_selfhosters_taking_back_the_internet_one/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pgla9z/meet_the_selfhosters_taking_back_the_internet_one/'>Apollo</a></caption>",
-            "date_published": "2021-09-02T16:26:59+00:00",
-            "authors": [
-                {
-                    "name": "spice--must--flow",
-                    "url": "https://www.reddit.com/user/spice--must--flow"
                 }
             ]
         }
