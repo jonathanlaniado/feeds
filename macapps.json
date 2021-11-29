@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "r4317m",
+            "url": "/r/macapps/comments/r4317m/best_mac_software_for_pdf_editing_student/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/r4317m/best_mac_software_for_pdf_editing_student/",
+            "title": "Best Mac software for pdf editing? (Student)",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/r4317m/best_mac_software_for_pdf_editing_student/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/r4317m/best_mac_software_for_pdf_editing_student/'>Apollo</a></caption> <div><p>Which software can you recommend for 2021? (Editing pdf, and summarise essays)</p></div>",
+            "date_published": "2021-11-28T12:14:01+00:00",
+            "authors": [
+                {
+                    "name": "g1ha09",
+                    "url": "https://www.reddit.com/user/g1ha09"
+                }
+            ]
+        },
+        {
             "id": "r3kjsz",
             "url": "/r/macapps/comments/r3kjsz/another_list_of_macos_software_you_might_not_know/",
             "external_url": "https://www.reddit.com/r/macapps/comments/r3kjsz/another_list_of_macos_software_you_might_not_know/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "highergraphic",
                     "url": "https://www.reddit.com/user/highergraphic"
-                }
-            ]
-        },
-        {
-            "id": "pap0lk",
-            "url": "/r/macapps/comments/pap0lk/password_managers/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/pap0lk/password_managers/",
-            "title": "Password managers.",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/pap0lk/password_managers/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/pap0lk/password_managers/'>Apollo</a></caption> <div><p>I've been using 1password7 for years and I'm certainly not going to 8 for various reasons. So I'm looking for a pasword manager but am very confused. Here is what it needs to do:</p>\n<ol>\n<li>NO subscription service. It doesn't have to be free, but I don't like the feeling of my passwords being held hostage forcing me to monthly payments to keep access.</li>\n<li>Sharing of the database through iCloud would be ideal. Certainly NO hosting by the developer. I trust Apple to keep their servers secure and online more then a small - comparatively - developer.</li>\n<li>It should run on OSX and iOS and be as lightweight as possible. I don't need to have a mini-app or browser plugins. It shouldn't launch at startup either. Keep it simple.</li>\n<li>It should be usable without an active internet connection.</li>\n<li>A search function that works and some form of tagging system maybe.</li>\n<li>It should have a password generator of some form.</li>\n<li>It would be nice if it were able to use TouchID on the mac and FaceID on iOS.</li>\n<li>M1 support would be great, but that's stretching it a bit I'm afraid.</li>\n<li>I don't need checking of leaked paswords by the developers. That's a feature which leaks too much information IMHO. </li>\n</ol>\n<p>So far the only 2 I know of which ticks most boxes is EnPass and Secrets. I'm leaning towards secrets because it look simple and lightweight.</p>\n<p>Any options I overlooked? or any insights?</p></div>",
-            "date_published": "2021-08-24T14:58:12+00:00",
-            "authors": [
-                {
-                    "name": "littlegreenalien",
-                    "url": "https://www.reddit.com/user/littlegreenalien"
                 }
             ]
         }
