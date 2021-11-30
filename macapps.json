@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "r51jg6",
+            "url": "/r/macapps/comments/r51jg6/introducing_endurance_the_easiest_way_to_run_cpu/",
+            "external_url": "https://www.tunabellysoftware.com/cpu_stress_test/",
+            "title": "Introducing Endurance - the easiest way to run CPU stress tests & battery life benchmarks",
+            "content_html": "<caption>Open in: <a href='https://www.tunabellysoftware.com/cpu_stress_test/'>www.tunabellysoftware.com</a> | <a href='https://reddit.com/r/macapps/comments/r51jg6/introducing_endurance_the_easiest_way_to_run_cpu/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/r51jg6/introducing_endurance_the_easiest_way_to_run_cpu/'>Apollo</a></caption>",
+            "date_published": "2021-11-29T18:00:08+00:00",
+            "authors": [
+                {
+                    "name": "tunabelly_software",
+                    "url": "https://www.reddit.com/user/tunabelly_software"
+                }
+            ]
+        },
+        {
             "id": "r4ujtx",
             "url": "/r/macapps/comments/r4ujtx/turntable_for_mac_free_promo_codes_giveaway_9/",
             "external_url": "https://www.reddit.com/r/macapps/comments/r4ujtx/turntable_for_mac_free_promo_codes_giveaway_9/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "phenomenoning",
                     "url": "https://www.reddit.com/user/phenomenoning"
-                }
-            ]
-        },
-        {
-            "id": "pd3dix",
-            "url": "/r/macapps/comments/pd3dix/peek_v2_the_ultimate_quick_look_extension_jump/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/pd3dix/peek_v2_the_ultimate_quick_look_extension_jump/",
-            "title": "Peek v2 - The Ultimate Quick Look Extension - Jump, Find, .ePDFs, & more",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/pd3dix/peek_v2_the_ultimate_quick_look_extension_jump/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/pd3dix/peek_v2_the_ultimate_quick_look_extension_jump/'>Apollo</a></caption> <div><p>The game? We just changed it. Again.</p>\n<p>This time Peek works with .ePDF documents (renamed PDF documents) aided by a new Quick Action (did I hear someone in the back say dark mode .ePDF previews?), has go to line/page functionality, &amp; will search your Quick Look previews. \ud83e\udd2f Oh, &amp; Peek is a heck of a lot safer--only requiring \"Accessibility\" access to intercept keyboard shortcuts.</p>\n<p><strong>Now just 0.99\u00a2.</strong></p>\n<p>Feast your eyes on the magic that is--hang around till the end to see what Peek does to PDFs \ud83d\udc40:\nhttps://youtube.com/watch?v=wOwKoGLIOSg</p>\n<p>As always, an up-to-date list of the hundreds of supported file extensions is available at <a href=\"https://bigzlabs.com/peek\">https://bigzlabs.com/peek</a> &amp; Peek is available for purchase at a respectable Mac App Store near you.</p>\n<p>When a Quick Look isn't enough, take a Peek. (\u261e \u0361\u00b0 \u035c\u0296 \u0361\u00b0)\u261e</p>\n<p>P.S. Peek will also render your postscript documents (.ps, .ps1, .ps2, .ps3).</p></div>",
-            "date_published": "2021-08-28T04:39:21+00:00",
-            "authors": [
-                {
-                    "name": "bigzlabs",
-                    "url": "https://www.reddit.com/user/bigzlabs"
                 }
             ]
         }
