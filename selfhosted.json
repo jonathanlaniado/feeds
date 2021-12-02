@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "r6mvf6",
+            "url": "/r/selfhosted/comments/r6mvf6/lazydocker_the_lazier_way_to_manage_everything/",
+            "external_url": "https://github.com/jesseduffield/lazydocker",
+            "title": "lazydocker - The lazier way to manage everything docker",
+            "content_html": "<caption>Open in: <a href='https://github.com/jesseduffield/lazydocker'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/r6mvf6/lazydocker_the_lazier_way_to_manage_everything/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/r6mvf6/lazydocker_the_lazier_way_to_manage_everything/'>Apollo</a></caption>",
+            "date_published": "2021-12-01T19:26:38+00:00",
+            "authors": [
+                {
+                    "name": "Drehmini",
+                    "url": "https://www.reddit.com/user/Drehmini"
+                }
+            ]
+        },
+        {
             "id": "r5tosf",
             "url": "/r/selfhosted/comments/r5tosf/nextcloud_23_is_now_available_with_better/",
             "external_url": "https://nextcloud.com/de/blog/nextcloud-hub-2-brings-major-overhaul-introducing-nextcloud-office-p2p-backup-and-more/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "SirSirae",
                     "url": "https://www.reddit.com/user/SirSirae"
-                }
-            ]
-        },
-        {
-            "id": "pii2or",
-            "url": "/r/selfhosted/comments/pii2or/vikunja_0180_is_released/",
-            "external_url": "https://vikunja.io/blog/2021/09/whats-new-in-vikunja-0.18.0/",
-            "title": "Vikunja 0.18.0 is released!",
-            "content_html": "<caption>Open in: <a href='https://vikunja.io/blog/2021/09/whats-new-in-vikunja-0.18.0/'>vikunja.io</a> | <a href='https://reddit.com/r/selfhosted/comments/pii2or/vikunja_0180_is_released/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pii2or/vikunja_0180_is_released/'>Apollo</a></caption>",
-            "date_published": "2021-09-05T18:08:58+00:00",
-            "authors": [
-                {
-                    "name": "kolaente",
-                    "url": "https://www.reddit.com/user/kolaente"
                 }
             ]
         }
