@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "r7w3tl",
+            "url": "/r/apple/comments/r7w3tl/bilingual_iphone_users_how_do_you_handle_siri/",
+            "external_url": "https://www.reddit.com/r/apple/comments/r7w3tl/bilingual_iphone_users_how_do_you_handle_siri/",
+            "title": "Bilingual iPhone users, how do you handle Siri only being set to one language at a time?",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/apple/comments/r7w3tl/bilingual_iphone_users_how_do_you_handle_siri/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/r7w3tl/bilingual_iphone_users_how_do_you_handle_siri/'>Apollo</a></caption> <div><p>I\u2019m Swedish and fluent in both Swedish and English. Siri handles English better, and some features are only available when set to English. </p>\n<p>So I set it to English. Now I can play songs on Spotify with English titles, and I can control my smart home. Then someone texts me in Swedish and Siri starts reading it, and you can\u2019t understand a word. Nor can I respond in Swedish. </p>\n<p>So I set Siri to Swedish. Now the calendar reads stuff correctly, texts are read correctly\u2026 until someone texts me in English. And I can\u2019t play any Spotify songs unless they have Swedish titles.</p>\n<p>And so it goes\u2026</p>\n<p>I remember using googles voice assistant and it switched between languages depending on what language you spoke in.</p>\n<p>How come Siri doesn\u2019t? And how do you handle it?</p></div>",
+            "date_published": "2021-12-03T10:21:52+00:00",
+            "authors": [
+                {
+                    "name": "MrOaiki",
+                    "url": "https://www.reddit.com/user/MrOaiki"
+                }
+            ]
+        },
+        {
             "id": "r7d6ug",
             "url": "/r/apple/comments/r7d6ug/apples_frontline_employees_are_struggling_to/",
             "external_url": "https://www.theverge.com/c/22807871/apple-frontline-employees-retail-customer-service-pandemic",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "KinnerNevada",
                     "url": "https://www.reddit.com/user/KinnerNevada"
-                }
-            ]
-        },
-        {
-            "id": "qfogld",
-            "url": "/r/apple/comments/qfogld/the_m1max_is_the_fastest_gpu_we_have_ever/",
-            "external_url": "https://twitter.com/andysomerfield/status/1452623920721448963",
-            "title": "The #M1Max is the fastest GPU we have ever measured in the @affinitybyserif Photo benchmark. It outperforms the W6900X - a $6000, 300W desktop part - because it has immense compute performance, immense on-chip bandwidth and immediate transfer of data on and off the GPU (UMA)",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/apple/comments/qfogld/the_m1max_is_the_fastest_gpu_we_have_ever/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/qfogld/the_m1max_is_the_fastest_gpu_we_have_ever/'>Apollo</a></caption><div><br></div><blockquote class=\"twitter-tweet\" align=\"center\"><p lang=\"en\" dir=\"ltr\">The <a href=\"https://twitter.com/hashtag/M1Max?src=hash&amp;ref_src=twsrc%5Etfw\">#M1Max</a> is the fastest GPU we have ever measured in the <a href=\"https://twitter.com/affinitybyserif?ref_src=twsrc%5Etfw\">@affinitybyserif</a> Photo benchmark. It outperforms the W6900X - a $6000, 300W desktop part - because it has immense compute performance, immense on-chip bandwidth and immediate transfer of data on and off the GPU (UMA). <a href=\"https://t.co/iPg3L56y2u\">pic.twitter.com/iPg3L56y2u</a></p>&mdash; Andy Somerfield (@andysomerfield) <a href=\"https://twitter.com/andysomerfield/status/1452623920721448963?ref_src=twsrc%5Etfw\">October 25, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
-            "date_published": "2021-10-25T19:33:33+00:00",
-            "authors": [
-                {
-                    "name": "Drew_Pinsky",
-                    "url": "https://www.reddit.com/user/Drew_Pinsky"
                 }
             ]
         }
