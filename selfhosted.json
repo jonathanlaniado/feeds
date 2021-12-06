@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "ra4pcv",
+            "url": "/r/selfhosted/comments/ra4pcv/github_hosted_statuspage_statsigiostatuspage_a/",
+            "external_url": "https://github.com/statsig-io/statuspage",
+            "title": "Github hosted statuspage! statsig-io/statuspage: A simple, zero-dependency, pure js/html status page based on GitHub Pages and Actions.",
+            "content_html": "<caption>Open in: <a href='https://github.com/statsig-io/statuspage'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/ra4pcv/github_hosted_statuspage_statsigiostatuspage_a/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/ra4pcv/github_hosted_statuspage_statsigiostatuspage_a/'>Apollo</a></caption>",
+            "date_published": "2021-12-06T10:58:00+00:00",
+            "authors": [
+                {
+                    "name": "Kuuchuu",
+                    "url": "https://www.reddit.com/user/Kuuchuu"
+                }
+            ]
+        },
+        {
             "id": "r9jlku",
             "url": "/r/selfhosted/comments/r9jlku/a_self_hosted_virtual_browser_that_runs_in_docker/",
             "external_url": "https://github.com/m1k1o/neko",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Madryn",
                     "url": "https://www.reddit.com/user/Madryn"
-                }
-            ]
-        },
-        {
-            "id": "pjoi7j",
-            "url": "/r/selfhosted/comments/pjoi7j/am_i_doing_this_right/",
-            "external_url": "https://i.redd.it/2g9zfb0dg3m71.png",
-            "title": "Am I doing this right ?",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/2g9zfb0dg3m71.png'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/pjoi7j/am_i_doing_this_right/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pjoi7j/am_i_doing_this_right/'>Apollo</a></caption>",
-            "date_published": "2021-09-07T14:48:07+00:00",
-            "authors": [
-                {
-                    "name": "SirSirae",
-                    "url": "https://www.reddit.com/user/SirSirae"
                 }
             ]
         }
