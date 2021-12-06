@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "raares",
+            "url": "/r/macapps/comments/raares/new_version_of_deck_flashcard_20_is_here_checkout/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/raares/new_version_of_deck_flashcard_20_is_here_checkout/",
+            "title": "New Version of Deck Flashcard 2.0 is here checkout what's new",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/raares/new_version_of_deck_flashcard_20_is_here_checkout/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/raares/new_version_of_deck_flashcard_20_is_here_checkout/'>Apollo</a></caption> <div><p>Introducing Version 2.0 of Deck</p>\n<p>\u2022 New swipe action button in sidebar.</p>\n<p>\u2022 Search Bar implemented across all the views.</p>\n<p>\u2022 New keyboard shortcut added for the creation of new card.</p>\n<p>\u2022 General UI tweak's .</p>\n<p>\u2022 Native support for iOS 15, iPadOS 15 and macOS 12 Monterey.</p>\n<p>\u2022 Added support for new iPhone 13, new MacBook and new iPad Mini 6th Gen.</p>\n<p>Improvements</p>\n<p>\u2022 Fix iCloud Sync.</p>\n<p>\u2022 Fix editing tag doesn't show tag name.</p>\n<p>\u2022 Deleting tag doesn't delete from deck.</p>\n<p>\u2022 General UI fixes.</p>\n<p>Checkout the app link \ud83d\udc47</p>\n<p><a href=\"https://apps.apple.com/us/app/deck-flashcard-learning-app/id1545176753\">https://apps.apple.com/us/app/deck-flashcard-learning-app/id1545176753</a></p>\n<p>Checkout tutorial videos playlist for Deck App \ud83d\udc47</p>\n<p><a href=\"https://www.youtube.com/playlist?list=PLCIcO7PSDvJiR10F37MK3fjxQjjgJtpQH\">https://www.youtube.com/playlist?list=PLCIcO7PSDvJiR10F37MK3fjxQjjgJtpQH</a></p>\n<p>&#x200B;</p>\n<p>https://preview.redd.it/s6dtl21q3y381.jpg?width=2880&amp;format=pjpg&amp;auto=webp&amp;s=0a54c14831010e9aaa111d271cd842baafd7ca59</p>\n<p>https://preview.redd.it/lv5sgvkq3y381.jpg?width=2880&amp;format=pjpg&amp;auto=webp&amp;s=332f32e818e31acc1402ccbffc9080481a582165</p>\n<p>https://preview.redd.it/jf1gs0xq3y381.jpg?width=2880&amp;format=pjpg&amp;auto=webp&amp;s=4800cf00b087e4ec5fddefd71511f1979539f71b</p></div>",
+            "date_published": "2021-12-06T16:08:55+00:00",
+            "authors": [
+                {
+                    "name": "HaarisIqubal",
+                    "url": "https://www.reddit.com/user/HaarisIqubal"
+                }
+            ]
+        },
+        {
             "id": "r9s9yb",
             "url": "/r/macapps/comments/r9s9yb/paw_native_macos_api_client_similar_to_postman/",
             "external_url": "https://paw.cloud/redeem/vWd706vfEOwQL8OLJ2rPlnAxhNNdWXWc",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "esspress0",
                     "url": "https://www.reddit.com/user/esspress0"
-                }
-            ]
-        },
-        {
-            "id": "pq508v",
-            "url": "/r/macapps/comments/pq508v/shortcut_keeper_save_the_keyboard_shortcuts_you/",
-            "external_url": "https://shortcutkeeper.com/",
-            "title": "Shortcut Keeper: Save the keyboard shortcuts you want to remember",
-            "content_html": "<caption>Open in: <a href='https://shortcutkeeper.com/'>shortcutkeeper.com</a> | <a href='https://reddit.com/r/macapps/comments/pq508v/shortcut_keeper_save_the_keyboard_shortcuts_you/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/pq508v/shortcut_keeper_save_the_keyboard_shortcuts_you/'>Apollo</a></caption>",
-            "date_published": "2021-09-17T17:46:45+00:00",
-            "authors": [
-                {
-                    "name": "whiplashoo21",
-                    "url": "https://www.reddit.com/user/whiplashoo21"
                 }
             ]
         }
