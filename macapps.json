@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "rafc98",
+            "url": "/r/macapps/comments/rafc98/one_app_for_mouse_settings/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/rafc98/one_app_for_mouse_settings/",
+            "title": "One app for mouse settings!",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/rafc98/one_app_for_mouse_settings/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/rafc98/one_app_for_mouse_settings/'>Apollo</a></caption> <div><p>Hi! I\u2019m wondering if there\u2019s ONE app for all things mice-related. Right now im using Steelseries Exact Mouse to get rid of acceleration, and Smoothscroll to get  smooth scrolling. Is there an app which includes both features? Thanks!</p></div>",
+            "date_published": "2021-12-06T19:23:14+00:00",
+            "authors": [
+                {
+                    "name": "2viciouss",
+                    "url": "https://www.reddit.com/user/2viciouss"
+                }
+            ]
+        },
+        {
             "id": "raares",
             "url": "/r/macapps/comments/raares/new_version_of_deck_flashcard_20_is_here_checkout/",
             "external_url": "https://www.reddit.com/r/macapps/comments/raares/new_version_of_deck_flashcard_20_is_here_checkout/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "deeeepwaves",
                     "url": "https://www.reddit.com/user/deeeepwaves"
-                }
-            ]
-        },
-        {
-            "id": "pqmls8",
-            "url": "/r/macapps/comments/pqmls8/should_i_purchase_an_app_from_the_mac_appstore_or/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/pqmls8/should_i_purchase_an_app_from_the_mac_appstore_or/",
-            "title": "Should I purchase an app from the Mac AppStore or the developers website?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/pqmls8/should_i_purchase_an_app_from_the_mac_appstore_or/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/pqmls8/should_i_purchase_an_app_from_the_mac_appstore_or/'>Apollo</a></caption> <div><p>I would like to buy a Mac app. The app is available from both the Mac AppStore and directly from the developers website. Through the AppStore the app costs $16 after tax. Through the developer website it will cost $9. This app requires the ability to record your app screen. </p>\n<p>Is there any security benefit to purchasing via the AppStore that justifies the $7 different or should I be buying directly though the developer site? </p>\n<p>Thanks</p>\n<p>Note: the app in question is <a href=\"https://www.textsniper.app\">Text Sniper</a>, and prices are in CAD.</p></div>",
-            "date_published": "2021-09-18T13:38:31+00:00",
-            "authors": [
-                {
-                    "name": "esspress0",
-                    "url": "https://www.reddit.com/user/esspress0"
                 }
             ]
         }
