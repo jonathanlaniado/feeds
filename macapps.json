@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "rd732u",
+            "url": "/r/macapps/comments/rd732u/equinox_create_dynamic_wallpapers/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/rd732u/equinox_create_dynamic_wallpapers/",
+            "title": "Equinox: Create dynamic wallpapers",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/rd732u/equinox_create_dynamic_wallpapers/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/rd732u/equinox_create_dynamic_wallpapers/'>Apollo</a></caption> <div><p>Hi guys!</p>\n<p>Recently I developed an app for creating dynamic wallpapers. The goal of my app is to give the users ability to create macOS dynamic wallpapers without a lot of hard work. Also, it's free and open-source!</p>\n<p>https://preview.redd.it/p6evucolfp481.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=03d654922c532ef7cdb06dc5063b56abf2d6b57f</p>\n<p><a href=\"https://equinoxmac.com/\">https://equinoxmac.com/</a><br />\n<a href=\"https://github.com/rlxone/Equinox\">https://github.com/rlxone/Equinox</a></p></div>",
+            "date_published": "2021-12-10T11:58:29+00:00",
+            "authors": [
+                {
+                    "name": "getoutofdesign",
+                    "url": "https://www.reddit.com/user/getoutofdesign"
+                }
+            ]
+        },
+        {
             "id": "rd3lgx",
             "url": "/r/macapps/comments/rd3lgx/best_mac_apps_of_the_year_2021/",
             "external_url": "https://www.reddit.com/r/macapps/comments/rd3lgx/best_mac_apps_of_the_year_2021/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "gerasim_sergey",
                     "url": "https://www.reddit.com/user/gerasim_sergey"
-                }
-            ]
-        },
-        {
-            "id": "puigku",
-            "url": "/r/macapps/comments/puigku/app_concept_im_building_an_app_for_macs_one_click/",
-            "external_url": "https://i.redd.it/to5xxira0gp71.jpg",
-            "title": "App Concept : I'm building an app for Macs. One click system info dashboard. How many of you want it? What else would you like to see in it?",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/to5xxira0gp71.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/macapps/comments/puigku/app_concept_im_building_an_app_for_macs_one_click/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/puigku/app_concept_im_building_an_app_for_macs_one_click/'>Apollo</a></caption>",
-            "date_published": "2021-09-24T12:13:16+00:00",
-            "authors": [
-                {
-                    "name": "anandmallaya",
-                    "url": "https://www.reddit.com/user/anandmallaya"
                 }
             ]
         }
