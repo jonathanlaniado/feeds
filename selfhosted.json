@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "rem2vf",
+            "url": "/r/selfhosted/comments/rem2vf/crowdsec_is_now_able_to_detect_and_mitigate_log4j/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/rem2vf/crowdsec_is_now_able_to_detect_and_mitigate_log4j/",
+            "title": "CrowdSec is now able to detect and mitigate log4j CVE-2021-44228",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/rem2vf/crowdsec_is_now_able_to_detect_and_mitigate_log4j/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/rem2vf/crowdsec_is_now_able_to_detect_and_mitigate_log4j/'>Apollo</a></caption> <div><p><a href=\"https://crowdsec.net/\">CrowdSec</a> is free, open source crowdsourced threat intelligence capable to detect and mitigate various attacks against a service. See it as a modern version of fail2ban where information on attacks and attackers are shared (anonymously!) among users.Another difference is that CrowdSec is capable to detect various advanced kinds of resource abuse duch as L7 DDoS, credit card stuffing, scalping, data exfiltration and more. And as of <a href=\"https://hub.crowdsec.net/author/crowdsecurity/configurations/apache_log4j2_cve-2021-44228\">yesterday</a> CrowdSec can also detect attempts to exploit <a href=\"https://nvd.nist.gov/vuln/detail/CVE-2021-44228\">CVE-2021-44228</a> and block them.</p>\n<p>For existing users it's easy to deploy via <code>cscli</code>:</p>\n<ol>\n<li><code>cscli hub update</code></li>\n<li><code>cscli scenarios install crowdsecurity/apache_log4j2_cve-2021-44228</code></li>\n<li><code>systemctl reload crowdsec.service</code></li>\n</ol></div>",
+            "date_published": "2021-12-12T10:07:46+00:00",
+            "authors": [
+                {
+                    "name": "klausagnoletti",
+                    "url": "https://www.reddit.com/user/klausagnoletti"
+                }
+            ]
+        },
+        {
             "id": "re5wc2",
             "url": "/r/selfhosted/comments/re5wc2/sonixd_cross_platform_desktop_client_for_subsonic/",
             "external_url": "https://github.com/jeffvli/sonixd",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Walker_21390",
                     "url": "https://www.reddit.com/user/Walker_21390"
-                }
-            ]
-        },
-        {
-            "id": "pmj07b",
-            "url": "/r/selfhosted/comments/pmj07b/introducing_tube_archivist_your_self_hosted/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/pmj07b/introducing_tube_archivist_your_self_hosted/",
-            "title": "Introducing Tube Archivist, your self hosted Youtube media server",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/pmj07b/introducing_tube_archivist_your_self_hosted/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pmj07b/introducing_tube_archivist_your_self_hosted/'>Apollo</a></caption> <div><p>I have been working on a solution to organize and index my ever growing downloaded youtube archive. <strong>Tube Archivist</strong> let\u2019s you subscribe to your favourite channels, download videos (using the popular youtube-dl fork <a href=\"https://github.com/yt-dlp/yt-dlp\">yt-dlp</a>) and index your archive to make your collection searchable and streamable from any device in your network.</p>\n<p>This is still very early stages, and there are many more features planned, but I\u2019d be very interested to know if that is something that people are interested in here. If you\u2019d like to give it a try, details and docker installation instructions are provided in the github repository, I\u2019m very open for feedback.</p>\n<p><a href=\"https://github.com/bbilly1/tubearchivist\">https://github.com/bbilly1/tubearchivist</a></p></div>",
-            "date_published": "2021-09-12T00:52:40+00:00",
-            "authors": [
-                {
-                    "name": "bbilly1",
-                    "url": "https://www.reddit.com/user/bbilly1"
                 }
             ]
         }
