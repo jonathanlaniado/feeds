@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "rerfxj",
+            "url": "/r/macapps/comments/rerfxj/i_need_your_help_for_to_hack_the_ultimate/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/rerfxj/i_need_your_help_for_to_hack_the_ultimate/",
+            "title": "I Need Your Help for to Hack the Ultimate Productivity Workflow",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/rerfxj/i_need_your_help_for_to_hack_the_ultimate/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/rerfxj/i_need_your_help_for_to_hack_the_ultimate/'>Apollo</a></caption> <div><p>Hi all,</p>\n<p>I'm trying to create a knowledge management workflow system and was hoping to crowd source ideas from you all. <strong>The ultimate goal from this entire workflow is to apply what I am learning in any domain (e.g. how to be more productive, how to sleep better at night, how to repair a sink drain, how to learn meta skills, etc.)</strong></p>\n<p><strong>What I want from my workflow is the following:</strong> </p>\n<p><strong>1) To read information (whether in my PDF/EPUB library, online articles or even podcasts!),</strong> </p>\n<p><strong>2) To capture the relevant information (by annotating/highlighting, commenting on specific words) and;</strong></p>\n<p><strong>3) To transform these insights and information into long-term storage so I can action them, by building long-term linkages and concepts together and for long-term storage.</strong> </p>\n<p>Here's some questions I have based on the above workflow:</p>\n<ol>\n<li>I have a ton of ebooks already in both PDF and ePub formats. I don't care about Kindle or Kobo Bookstore functionality. I want to be able to read my books that I have on my iPad and annotate them (underline, make notes on the margins, etc) and then have that somehow sync to OneNote. Is there a solution for this? I'm not sure if a dedicated app like PDF Expert is the way to go, or some other cloud app solution?  Other apps I've looked into in this space are Highlighter, Flexcil, Marginnotes, Liquidtext. (Will these allow annotations in both PDFs and EPUBs? Or only PDFs? There's too many apps in this space but not sure if they will do what I'm looking for which is to be able to take my thoughts from the books I'm reading and then bringing them into a knowledge database (which for now is in OneNote). </li>\n<li>I also read alot of articles on the web (like on Medium, Reddit posts, Quora, etc) and want to capture other people's great insights and thoughts into my OneNote system. I've read good things about ReadWise, but a few problems are that its not free, and it doesnt have integration with OneNote. Are there other tools out there that can allow you to pull your insights from articles and enable you to import them into OneNote?</li>\n<li>Related to the knowledge management system itself, my current knowledge management system is within OneNote. OneNote doesnt have bidirectional link capability like RoamResearch or Obsidian, nor is it as flashy as Notion is, but its free, cross platform, allows multiple people to use at the same time, and syncs really well across my devices so it sort of works for now until I can find a better alternative. Apps like Roam are either pricy, or in beta like Obsidian (which means they likely will have costs in the future). I would much rather either go self-hosted for free, or find an alternative to OneNote. I have read that Microsoft Loop may be a Notion alternative and may integrate with OneNote natively. Has anyone had a beta test of Microsoft Loop and if so, how does it function? Also I'm aware it may not be free, but if it is free as part of the Office 365 package it may be an appealing prospect.</li>\n</ol>\n<p>If you have ideas on my workflow above and think there are ways to do it better <strong>please, please</strong> let me know. <strong>I've spent months</strong> looking for something that will work effectively. And I've been sort of lost, there's so many apps and services out there, different fragmented ecosystems, little interoperability between systems, its a mess.  I know there is paid solutions like Readwise and Notion that can do some of this, but hoping there is really good alternatives. </p>\n<p>I also fear being \"locked in\" to any kind of ecosystem with proprietary databases. So far with OneNote I know my data is text format, so although it would be a pain to copy the text from every OneNote tab I have, atleast I know I can do it. </p>\n<p>Thank you so much for your help reading this and for your time. Eternally grateful for your advice,</p></div>",
+            "date_published": "2021-12-12T15:37:53+00:00",
+            "authors": [
+                {
+                    "name": "Glenn-T",
+                    "url": "https://www.reddit.com/user/Glenn-T"
+                }
+            ]
+        },
+        {
             "id": "rd732u",
             "url": "/r/macapps/comments/rd732u/equinox_create_dynamic_wallpapers/",
             "external_url": "https://www.reddit.com/r/macapps/comments/rd732u/equinox_create_dynamic_wallpapers/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "BestButtons",
                     "url": "https://www.reddit.com/user/BestButtons"
-                }
-            ]
-        },
-        {
-            "id": "pv59vj",
-            "url": "/r/macapps/comments/pv59vj/dockplus_free_alternative_to_hypperdock_dockmate/",
-            "external_url": "https://youtube.com/watch?v=mgMf3-kjmmM&feature=share",
-            "title": "DockPlus Free alternative to HypperDock, DockMate, DockView and DockAltTab",
-            "content_html": "<caption>Open in: <a href='https://youtube.com/watch?v=mgMf3-kjmmM&feature=share'>youtube.com</a> | <a href='https://reddit.com/r/macapps/comments/pv59vj/dockplus_free_alternative_to_hypperdock_dockmate/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/pv59vj/dockplus_free_alternative_to_hypperdock_dockmate/'>Apollo</a></caption>",
-            "date_published": "2021-09-25T11:50:16+00:00",
-            "authors": [
-                {
-                    "name": "gerasim_sergey",
-                    "url": "https://www.reddit.com/user/gerasim_sergey"
                 }
             ]
         }
