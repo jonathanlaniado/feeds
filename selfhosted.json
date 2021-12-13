@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "resode",
+            "url": "/r/selfhosted/comments/resode/pfsenseemby_and_synologyugh_im_so_confused/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/resode/pfsenseemby_and_synologyugh_im_so_confused/",
+            "title": "pfsense+emby and synology........ugh i'm so confused",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/resode/pfsenseemby_and_synologyugh_im_so_confused/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/resode/pfsenseemby_and_synologyugh_im_so_confused/'>Apollo</a></caption> <div><p>hey guys so i am new to networking and just starting out. I have emby running on a synology nas and everything is running on a dell optiplex running pfsense. </p>\n<p>So i am Trying to set a domain name for my emby so when i am at work i don't have to five my {wan} out. I have a domain and i even ran it on cloud flare. But everytime i put the domain in emby wont let me conect.</p>\n<p>I think i have the port forwarding working on the pfsense (i looked up enough vids on it i would hope). and i have the domain running i just cant figure out the communication between the domain and emby.</p></div>",
+            "date_published": "2021-12-12T16:38:42+00:00",
+            "authors": [
+                {
+                    "name": "Blankvoid1",
+                    "url": "https://www.reddit.com/user/Blankvoid1"
+                }
+            ]
+        },
+        {
             "id": "reuzfu",
             "url": "/r/selfhosted/comments/reuzfu/need_help_invoice_ninja_not_operating_out_of_disk/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/reuzfu/need_help_invoice_ninja_not_operating_out_of_disk/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "XxNerdAtHeartxX",
                     "url": "https://www.reddit.com/user/XxNerdAtHeartxX"
-                }
-            ]
-        },
-        {
-            "id": "prgv0r",
-            "url": "/r/selfhosted/comments/prgv0r/why_is_azure_so_hard_to_use/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/prgv0r/why_is_azure_so_hard_to_use/",
-            "title": "Why is Azure so hard to use?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/prgv0r/why_is_azure_so_hard_to_use/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/prgv0r/why_is_azure_so_hard_to_use/'>Apollo</a></caption> <div><p>No IPv6 by default\uff0cto enable IPv6 you need to upgrade to Standard SKU\uff0cwhich is $90 per year.</p>\n<p>1:1 NAT, no direct access to public network interface.</p>\n<p>Block port 25, can't even email myself system message.</p>\n<p>Block ICMP, can't even ping myself or traceroute.</p>\n<p>Only 5GB data per month.</p>\n<p>P6 SSD only have 50 MB/s transfer rate.</p>\n<p>Why do I need to creating 7 separate resources (Virtual network, Network Watcher, Network interface, Network security group, Public IP address, Disk, Virtual machine) just to run a Linux VM?</p>\n<p>Azure Database for PostgreSQL has a bug preventing from creating it in Private access (VNet Integration), you have to put it in public access and whitelist your IP (which is dynamic so you have to change it from time to time).</p>\n<p>Want name resolution for VNet resources? Another $90 per year.</p>\n<p>What to inspect log and usage history? You can to download Microsoft Azure Storage Explorer, but after that you only saw a bunch of json rubbish and you need to pay for graphic representation.</p>\n<p>Not to mention it has the most complicated yet useless, slowest management portal I have ever see, delete a network interface will cost you literal 5 minutes.</p>\n<p>Why is Azure so hard to use?</p></div>",
-            "date_published": "2021-09-19T21:25:05+00:00",
-            "authors": [
-                {
-                    "name": "handwhore",
-                    "url": "https://www.reddit.com/user/handwhore"
                 }
             ]
         }
