@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "renqhu",
+            "url": "/r/selfhosted/comments/renqhu/troddit_selfhosted_reddit_client_with_login/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/renqhu/troddit_selfhosted_reddit_client_with_login/",
+            "title": "troddit - selfhosted reddit client with login",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/renqhu/troddit_selfhosted_reddit_client_with_login/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/renqhu/troddit_selfhosted_reddit_client_with_login/'>Apollo</a></caption> <div><p>Repo: https://github.com/burhan-syed/troddit   </p>\n<p>Demo:<br />\n<a href=\"https://troddit.com\">https://troddit.com</a>  </p>\n<p>Original announcement in webdev: https://www.reddit.com/r/webdev/comments/re6276/i_made_a_frontend_for_reddit_with_logins_and_a/</p></div>",
+            "date_published": "2021-12-12T12:05:38+00:00",
+            "authors": [
+                {
+                    "name": "trevber",
+                    "url": "https://www.reddit.com/user/trevber"
+                }
+            ]
+        },
+        {
             "id": "rentup",
             "url": "/r/selfhosted/comments/rentup/automated_document_organization_visual_impairment/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/rentup/automated_document_organization_visual_impairment/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "mishab_mizzunet",
                     "url": "https://www.reddit.com/user/mishab_mizzunet"
-                }
-            ]
-        },
-        {
-            "id": "pttx1v",
-            "url": "/r/selfhosted/comments/pttx1v/snippet_box_selfhosted_and_open_source_code/",
-            "external_url": "https://v.redd.it/1bzhflohv8p71",
-            "title": "Snippet Box - selfhosted and open source code snippet manager with built-in support for Markdown documentation",
-            "content_html": "<caption>Open in: <a href='https://v.redd.it/1bzhflohv8p71'>v.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/pttx1v/snippet_box_selfhosted_and_open_source_code/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pttx1v/snippet_box_selfhosted_and_open_source_code/'>Apollo</a></caption>",
-            "date_published": "2021-09-23T12:16:16+00:00",
-            "authors": [
-                {
-                    "name": "S_E_V_I",
-                    "url": "https://www.reddit.com/user/S_E_V_I"
                 }
             ]
         }
