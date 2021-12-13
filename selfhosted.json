@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "rfc94o",
+            "url": "/r/selfhosted/comments/rfc94o/looking_for_something_like_okta/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/rfc94o/looking_for_something_like_okta/",
+            "title": "Looking for something like Okta",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/rfc94o/looking_for_something_like_okta/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/rfc94o/looking_for_something_like_okta/'>Apollo</a></caption> <div><p>Hey all!</p>\n<p>I am looking for something that is very similar to what Okta offers (<a href=\"https://www.okta.com/products/single-sign-on/\">https://www.okta.com/</a>).</p>\n<p>More specifically the SSO and Identity management part.<br />\nIn addition to that the application should be able to provide users with a dashboard of all the other services that are connected to the central user store (sorta like a landing page, see <a href=\"https://www.okta.com/sites/default/files/styles/1640w_scaled/public/media/image/2021-01/sso_1_dashboard.png?itok=afIKSrU8\">here</a>).</p>\n<p>So far I have looked into using Keycloak (not sure if it features the needed dashboard) or Cloudron (which sadly is too expensive).</p>\n<p>Looking forward to your ideas/suggestions! :)</p></div>",
+            "date_published": "2021-12-13T09:53:21+00:00",
+            "authors": [
+                {
+                    "name": "The_cheese_owl",
+                    "url": "https://www.reddit.com/user/The_cheese_owl"
+                }
+            ]
+        },
+        {
             "id": "rf6bp0",
             "url": "/r/selfhosted/comments/rf6bp0/is_there_any_music_streaming_software_with/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/rf6bp0/is_there_any_music_streaming_software_with/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "techforca",
                     "url": "https://www.reddit.com/user/techforca"
-                }
-            ]
-        },
-        {
-            "id": "pvh930",
-            "url": "/r/selfhosted/comments/pvh930/photoprism_huge_update_today_including_face/",
-            "external_url": "https://docs.photoprism.org/release-notes/",
-            "title": "PhotoPrism - Huge update today, including face detection! Check out the release notes",
-            "content_html": "<caption>Open in: <a href='https://docs.photoprism.org/release-notes/'>docs.photoprism.org</a> | <a href='https://reddit.com/r/selfhosted/comments/pvh930/photoprism_huge_update_today_including_face/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pvh930/photoprism_huge_update_today_including_face/'>Apollo</a></caption>",
-            "date_published": "2021-09-25T22:42:44+00:00",
-            "authors": [
-                {
-                    "name": "DeutscheAutoteknik",
-                    "url": "https://www.reddit.com/user/DeutscheAutoteknik"
                 }
             ]
         }
