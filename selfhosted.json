@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "rf1nsc",
+            "url": "/r/selfhosted/comments/rf1nsc/log4j2_runtime_exploitability_attack_path/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/rf1nsc/log4j2_runtime_exploitability_attack_path/",
+            "title": "Log4j2- Runtime Exploitability & Attack Path Mitigation with ThreatMapper",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/rf1nsc/log4j2_runtime_exploitability_attack_path/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/rf1nsc/log4j2_runtime_exploitability_attack_path/'>Apollo</a></caption> <div><p>&#x200B;</p>\n<p>Check your actual exposure based on network traffic and connections. </p>\n<p><a href=\"https://deepfence.io/cve-2021-44228-log4j2-exploitability-and-attack-path-mitigation-with-threatmapper/\">https://deepfence.io/cve-2021-44228-log4j2-exploitability-and-attack-path-mitigation-with-threatmapper/</a></p></div>",
+            "date_published": "2021-12-12T23:48:44+00:00",
+            "authors": [
+                {
+                    "name": "Medium-Sandwich-3193",
+                    "url": "https://www.reddit.com/user/Medium-Sandwich-3193"
+                }
+            ]
+        },
+        {
             "id": "rf3dgm",
             "url": "/r/selfhosted/comments/rf3dgm/paprelessng_scanner_suggestions/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/rf3dgm/paprelessng_scanner_suggestions/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "abhilesh7",
                     "url": "https://www.reddit.com/user/abhilesh7"
-                }
-            ]
-        },
-        {
-            "id": "pnz5zy",
-            "url": "/r/selfhosted/comments/pnz5zy/sso_for_all_the_services/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/pnz5zy/sso_for_all_the_services/",
-            "title": "SSO for all the services?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/pnz5zy/sso_for_all_the_services/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pnz5zy/sso_for_all_the_services/'>Apollo</a></caption> <div><p>I'm falling down the Self Hosted rabbit hole :-)</p>\n<p>I started with a Synology NAS quite a while ago and am now at the point where some but not all of the builtin services are not enough for me anymore. One of the things that will most likely remain for foreseeable future is Synology Photos and Drive. I'm replacing practically everything else with other, mainly dockerized apps.</p>\n<p>As this is happening I'm becoming more and more aware that keeping track of all the different logins is a serious PITA, not to mention a big potential security risk. And on top of that it makes the whole thing less wife-friendly...</p>\n<p>So, how could I go about having a single account for all the services? Is this even doable in a reasonable way? I would actually even consider using a Google account, but as far as I know (I may very well be wrong) this can't be done if you don't have a Google Workspace account.</p>\n<p>My requirements/wishes are:</p>\n<ul>\n<li>\n<p>one account for all the home services</p>\n</li>\n<li>\n<p>2FA support</p>\n</li>\n<li>\n<p>transparent login. You login to one service and are authenticated by all (optional)</p>\n</li>\n</ul>\n<p>Some of the services I'm running: Synology, Plex, *arr stuff, Ngingx proxy manager, Home Assistant, Linksys Velop, Portainer,...</p></div>",
-            "date_published": "2021-09-14T09:07:18+00:00",
-            "authors": [
-                {
-                    "name": "_hellraiser_",
-                    "url": "https://www.reddit.com/user/_hellraiser_"
                 }
             ]
         }
