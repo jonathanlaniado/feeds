@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "rf4vlm",
+            "url": "/r/selfhosted/comments/rf4vlm/opensource_alternative_to_segment_customer_data/",
+            "external_url": "https://github.com/rudderlabs/rudder-server",
+            "title": "Open-Source alternative to Segment, customer data platform. Sync data from multiple sources.",
+            "content_html": "<caption>Open in: <a href='https://github.com/rudderlabs/rudder-server'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/rf4vlm/opensource_alternative_to_segment_customer_data/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/rf4vlm/opensource_alternative_to_segment_customer_data/'>Apollo</a></caption>",
+            "date_published": "2021-12-13T02:31:49+00:00",
+            "authors": [
+                {
+                    "name": "ephemeral404",
+                    "url": "https://www.reddit.com/user/ephemeral404"
+                }
+            ]
+        },
+        {
             "id": "rf7jau",
             "url": "/r/selfhosted/comments/rf7jau/any_android_subsonic_client_which_supports/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/rf7jau/any_android_subsonic_client_which_supports/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "TheGreatestCapybara",
                     "url": "https://www.reddit.com/user/TheGreatestCapybara"
-                }
-            ]
-        },
-        {
-            "id": "pnedn2",
-            "url": "/r/selfhosted/comments/pnedn2/vice_article_meet_the_selfhosters_taking_back_the/",
-            "external_url": "https://www.vice.com/en/article/pkb4ng/meet-the-self-hosters-taking-back-the-internet-one-server-at-a-time",
-            "title": "Vice Article: Meet the Self-Hosters, Taking Back the Internet One Server at a Time",
-            "content_html": "<caption>Open in: <a href='https://www.vice.com/en/article/pkb4ng/meet-the-self-hosters-taking-back-the-internet-one-server-at-a-time'>www.vice.com</a> | <a href='https://reddit.com/r/selfhosted/comments/pnedn2/vice_article_meet_the_selfhosters_taking_back_the/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pnedn2/vice_article_meet_the_selfhosters_taking_back_the/'>Apollo</a></caption>",
-            "date_published": "2021-09-13T12:27:51+00:00",
-            "authors": [
-                {
-                    "name": "hypercyanate",
-                    "url": "https://www.reddit.com/user/hypercyanate"
                 }
             ]
         }
