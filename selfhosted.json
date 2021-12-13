@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "rf65qo",
+            "url": "/r/selfhosted/comments/rf65qo/what_to_config_now_to_be_able_to_troubleshoot/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/rf65qo/what_to_config_now_to_be_able_to_troubleshoot/",
+            "title": "What to config NOW to be able to troubleshoot later",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/rf65qo/what_to_config_now_to_be_able_to_troubleshoot/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/rf65qo/what_to_config_now_to_be_able_to_troubleshoot/'>Apollo</a></caption> <div><p>Now and then I receive email alerts from my VPS host such as \"Alert - outbound traffic rate above xxx\", or cpu, or memory, etc. When I go through logs for the timeframe, I never really find anything suspicious, but I guess that is because I haven't told Linux to watch the right things.</p>\n<p>So, what tools, or log options should I enable that would give me a clue what causes these spikes? This is a VPS hosted Ubuntu 18.04 running Apache and MariaDB, some Wordpress blogs/podcasts, and a few docker containers hosting Discord bots and an icecast stream. Pretty basic stuff.</p>\n<p>I really appreciate any advice, links, concepts to reviewing these types of incidents. Thanks!</p></div>",
+            "date_published": "2021-12-13T03:38:11+00:00",
+            "authors": [
+                {
+                    "name": "choochusnotme",
+                    "url": "https://www.reddit.com/user/choochusnotme"
+                }
+            ]
+        },
+        {
             "id": "rekfko",
             "url": "/r/selfhosted/comments/rekfko/how_do_you_view_your_logs_effectively/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/rekfko/how_do_you_view_your_logs_effectively/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "muchTasty",
                     "url": "https://www.reddit.com/user/muchTasty"
-                }
-            ]
-        },
-        {
-            "id": "pu5cco",
-            "url": "/r/selfhosted/comments/pu5cco/protect_your_shit_i_just_managed_to_get_into_the/",
-            "external_url": "https://i.redd.it/8z8szi8vnbp71.jpg",
-            "title": "Protect your shit. I just managed to get into the admin panel of someone's Pihole via their open ports.",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/8z8szi8vnbp71.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/pu5cco/protect_your_shit_i_just_managed_to_get_into_the/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pu5cco/protect_your_shit_i_just_managed_to_get_into_the/'>Apollo</a></caption>",
-            "date_published": "2021-09-23T21:37:17+00:00",
-            "authors": [
-                {
-                    "name": "throwlog",
-                    "url": "https://www.reddit.com/user/throwlog"
                 }
             ]
         }
