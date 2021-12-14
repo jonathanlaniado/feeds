@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "rfn6lr",
+            "url": "/r/apple/comments/rfn6lr/apple_officially_delays_macos_monterey_universal/",
+            "external_url": "https://www.macrumors.com/2021/12/13/apple-delays-universal-control/",
+            "title": "Apple Officially Delays macOS Monterey Universal Control Until Spring",
+            "content_html": "<caption>Open in: <a href='https://www.macrumors.com/2021/12/13/apple-delays-universal-control/'>www.macrumors.com</a> | <a href='https://reddit.com/r/apple/comments/rfn6lr/apple_officially_delays_macos_monterey_universal/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/rfn6lr/apple_officially_delays_macos_monterey_universal/'>Apollo</a></caption>",
+            "date_published": "2021-12-13T19:00:16+00:00",
+            "authors": [
+                {
+                    "name": "MrNudeGuy",
+                    "url": "https://www.reddit.com/user/MrNudeGuy"
+                }
+            ]
+        },
+        {
             "id": "rfi7zy",
             "url": "/r/apple/comments/rfi7zy/tdil_apple_has_a_site_to_show_you_exactly_how/",
             "external_url": "https://machinelearning.apple.com/research/hey-siri",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Patarokun",
                     "url": "https://www.reddit.com/user/Patarokun"
-                }
-            ]
-        },
-        {
-            "id": "qiygwt",
-            "url": "/r/apple/comments/qiygwt/new_1416_macbook_pros_have_slower_80211ac_wifi/",
-            "external_url": "https://support.apple.com/en-gb/guide/deployment/dep2ac3e3b51/web",
-            "title": "New 14/16\" MacBook Pros have slower 802.11ac WiFi than 15.4\"/16\" Intel MacBook Pros",
-            "content_html": "<caption>Open in: <a href='https://support.apple.com/en-gb/guide/deployment/dep2ac3e3b51/web'>support.apple.com</a> | <a href='https://reddit.com/r/apple/comments/qiygwt/new_1416_macbook_pros_have_slower_80211ac_wifi/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/qiygwt/new_1416_macbook_pros_have_slower_80211ac_wifi/'>Apollo</a></caption>",
-            "date_published": "2021-10-30T10:07:47+00:00",
-            "authors": [
-                {
-                    "name": "00DEADBEEF",
-                    "url": "https://www.reddit.com/user/00DEADBEEF"
                 }
             ]
         }
