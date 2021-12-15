@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "rh19ai",
+            "url": "/r/macapps/comments/rh19ai/stopthemadness_hush_or_hyperweb_for_safari/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/rh19ai/stopthemadness_hush_or_hyperweb_for_safari/",
+            "title": "StopTheMadness, Hush or Hyperweb for Safari?",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/rh19ai/stopthemadness_hush_or_hyperweb_for_safari/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/rh19ai/stopthemadness_hush_or_hyperweb_for_safari/'>Apollo</a></caption> <div><p>Hello,</p>\n<p>I was wondering if the following Safari extensions can be used alongside one another, or are they essentially doing the same thing?</p>\n<p><a href=\"https://apps.apple.com/us/app/stopthemadness-mobile/id1583082931\">StopTheMadness</a>, <a href=\"https://apps.apple.com/gb/app/hush-nag-blocker/id1544743900\">Hush</a>, <a href=\"https://hyperweb.app/\">Hyperweb</a>.</p>\n<p>I read their description but I am uncertain whether they can be used alongside each other or one or two of them is enough \ud83e\udd28. They seem to do sorta the same things, overlapping each other, yet there are functionalities listed in one that are absent in the other.</p>\n<p>Also, even if they do roughly the same things, is there one that is preferred among the three?</p>\n<p>I have seen recommended all of them on different sites, yet no concrete advice on which covers the most or does the best work.</p>\n<p>I know there is a subreddit dedicated specifically for Safari, but I wanted to ask here as well, since it has more members and hopefully some of you already have experience with some of these extensions.</p>\n<p>Thanks for any feedback.</p></div>",
+            "date_published": "2021-12-15T15:12:23+00:00",
+            "authors": [
+                {
+                    "name": "kak8gm",
+                    "url": "https://www.reddit.com/user/kak8gm"
+                }
+            ]
+        },
+        {
             "id": "rgccx1",
             "url": "/r/macapps/comments/rgccx1/why_your_external_monitor_looks_awful_on_armbased/",
             "external_url": "https://www.theregister.com/2021/12/03/apple_m1_drivers/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "dahydl",
                     "url": "https://www.reddit.com/user/dahydl"
-                }
-            ]
-        },
-        {
-            "id": "pyhdnx",
-            "url": "/r/macapps/comments/pyhdnx/customsearch_use_any_search_engine_easily_from/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/pyhdnx/customsearch_use_any_search_engine_easily_from/",
-            "title": "CustomSearch: Use any search engine easily from Safari",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/pyhdnx/customsearch_use_any_search_engine_easily_from/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/pyhdnx/customsearch_use_any_search_engine_easily_from/'>Apollo</a></caption> <div><p>Hi!</p>\n<p>I just developed a new Safari extension that allows you to select any search engine and use it natively in Safari form the address bar. </p>\n<p>For me, the only thing that I was not liking from Safari as a browser was the inability to use Brave Search or Kagi. So I researched the new APIs and made this available.</p>\n<p>Just select your preferred one and use it like you would do for Google.</p>\n<p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/c415uutrfmq71.png?width=1280&amp;format=png&amp;auto=webp&amp;s=daff4af65050edf3e8f96b197f290fb3881cbe89\">Representation of version 1.1</a></p>\n<p><a href=\"https://apps.apple.com/in/app/custom-search-engine/id1588019370\">https://apps.apple.com/in/app/custom-search-engine/id1588019370</a></p>\n<p>&#x200B;</p>\n<p>Hope it helps someone else!</p></div>",
-            "date_published": "2021-09-30T10:57:04+00:00",
-            "authors": [
-                {
-                    "name": "mcebrianeriond",
-                    "url": "https://www.reddit.com/user/mcebrianeriond"
                 }
             ]
         }
