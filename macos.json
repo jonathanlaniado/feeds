@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "rgep8m",
+            "url": "/r/MacOS/comments/rgep8m/i_made_a_custom_spotify_icon_to_match_with_macos/",
+            "external_url": "https://i.redd.it/a1w2i5ny3k581.jpg",
+            "title": "I made a custom spotify icon to match with MacOS",
+            "content_html": "<caption>Open in: <a href='https://i.redd.it/a1w2i5ny3k581.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/MacOS/comments/rgep8m/i_made_a_custom_spotify_icon_to_match_with_macos/'>Reddit</a> | <a href='apollo://reddit.com/r/MacOS/comments/rgep8m/i_made_a_custom_spotify_icon_to_match_with_macos/'>Apollo</a></caption>",
+            "date_published": "2021-12-14T19:07:04+00:00",
+            "authors": [
+                {
+                    "name": "Sixstringerman",
+                    "url": "https://www.reddit.com/user/Sixstringerman"
+                }
+            ]
+        },
+        {
             "id": "rg4f2c",
             "url": "/r/MacOS/comments/rg4f2c/its_been_years_and_apple_on_monterey_still_uses/",
             "external_url": "https://i.redd.it/zxi10e07fh581.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "maplecat98",
                     "url": "https://www.reddit.com/user/maplecat98"
-                }
-            ]
-        },
-        {
-            "id": "ozb8b4",
-            "url": "/r/MacOS/comments/ozb8b4/is_anyone_else_somewhat_annoyed_by_the_new_macos/",
-            "external_url": "https://www.reddit.com/r/MacOS/comments/ozb8b4/is_anyone_else_somewhat_annoyed_by_the_new_macos/",
-            "title": "Is anyone else (somewhat) annoyed by the new MacOS notifications style which started from Big Sur?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/MacOS/comments/ozb8b4/is_anyone_else_somewhat_annoyed_by_the_new_macos/'>Reddit</a> | <a href='apollo://reddit.com/r/MacOS/comments/ozb8b4/is_anyone_else_somewhat_annoyed_by_the_new_macos/'>Apollo</a></caption> <div><ul>\n<li>It takes 2 clicks to dismiss a notifications, where it used to take one.</li>\n<li>Close (x) is very easy to miss and click on the notification itself accidentally. Which often results unintentional application launches like calendar, facetime etc</li>\n<li>That tiny close (x) only appears upon mouse hover (which is for esthetic reason, I get it), but now dismissing a notification requires more attention then before. Earlier I could dismiss one with the corner of my eyes. Not any more!</li>\n</ul>\n<p>I get it, these are small complains and probably over time I'll get used to it more. Also probably thats why no one talks about them.</p>\n<p>All I wanted to know, am I the only one who is bothered by these?</p>\n<p>&#x200B;</p>\n<p>https://preview.redd.it/zr5a7hanurf71.jpg?width=1320&amp;format=pjpg&amp;auto=webp&amp;s=ecb53c3ec9be7599689e644c8b509a622580f05a</p></div>",
-            "date_published": "2021-08-06T17:23:01+00:00",
-            "authors": [
-                {
-                    "name": "Cronus_Echo",
-                    "url": "https://www.reddit.com/user/Cronus_Echo"
                 }
             ]
         }
