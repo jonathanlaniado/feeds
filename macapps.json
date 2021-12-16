@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "rhh71y",
+            "url": "/r/macapps/comments/rhh71y/qfindify_menubar_app_to_search_for_texts_inside/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/rhh71y/qfindify_menubar_app_to_search_for_texts_inside/",
+            "title": "QFindify: Menubar App to search for texts inside your images",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/rhh71y/qfindify_menubar_app_to_search_for_texts_inside/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/rhh71y/qfindify_menubar_app_to_search_for_texts_inside/'>Apollo</a></caption> <div><p>Hey guys, I've made a Mac app for a feature I was hoping apple would have added to macOS this year, or even on Big Sur, but they seem to not be going for it. It's the ability to search your images directly for texts within them.<br />\nThe app is called <a href=\"https://apps.apple.com/ca/app/qfindify/id1598790473?mt=12\">QFindify</a>, it's available on the <a href=\"https://apps.apple.com/ca/app/qfindify/id1598790473?mt=12\">AppStore</a>, and it's a menubar app where you can drag/drop or import images and perform searches for words to narrow down to the images that contains those words.</p>\n<p>This is personally very useful if you have a lot of screenshots or folder full of images but you don't really have a way to quickly identify the images that have specific words,  for example \"lecture Biology Sociology wednesday\".<br />\nWhat makes QFindify different from similar apps is that all processing is done locally on your Mac rather than connecting to external online servers, thus all your data stay where they belong, on your mac.<br />\nThere's an image preview panel allowing to view the images as you scroll through your search results and at any moment, open the image directly. You can toggle to keep the app afloat so your can directly drag and drop batches of images or import from a panel.</p>\n<p>The app is free to download and completely free to use all the features I've mentioned above.<br />\nBut there is a one time IAP of 1.99 if you need additional enhancements and a bit more advanced capability.<br />\nSome Advanced Mode features are:<br />\n- advanced filtering options of: ANY/ALL/NONE/EXACT and Regex/pattern matching<br />\n- Save all the images meeting your search into a single unified PDF and open it<br />\n- Create and save all the images matching your search into a New Folder<br />\n- Completely detach the app from the Menubar and float above all other apps<br />\n- Other options to fine tune performance: adjust recognition level, language correction, optimize for specific language, limit to perform to CPU/GPU, etc.</p>\n<p>There is an update coming within next few days of: Near instantaneous live search results without you having to press enter key and some animation stabilities.<br />\nThis is my first app ever after jumping into programming back in 2018, so I would love to hear any feedbacks you guys have and especially let me know if you notice any bugs/glitches you want me to fix up on.</p></div>",
+            "date_published": "2021-12-16T03:22:20+00:00",
+            "authors": [
+                {
+                    "name": "Barbelleatsdumbbell",
+                    "url": "https://www.reddit.com/user/Barbelleatsdumbbell"
+                }
+            ]
+        },
+        {
             "id": "rh19ai",
             "url": "/r/macapps/comments/rh19ai/stopthemadness_hush_or_hyperweb_for_safari/",
             "external_url": "https://www.reddit.com/r/macapps/comments/rh19ai/stopthemadness_hush_or_hyperweb_for_safari/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "rhanas",
                     "url": "https://www.reddit.com/user/rhanas"
-                }
-            ]
-        },
-        {
-            "id": "pyldbx",
-            "url": "/r/macapps/comments/pyldbx/so_i_was_busy_over_the_summer_and_just_published/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/pyldbx/so_i_was_busy_over_the_summer_and_just_published/",
-            "title": "So, I was busy over the summer and just published my first app on the App Store\ud83c\udf89",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/pyldbx/so_i_was_busy_over_the_summer_and_just_published/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/pyldbx/so_i_was_busy_over_the_summer_and_just_published/'>Apollo</a></caption> <div><p>Meet LinkBin: <a href=\"https://apps.apple.com/at/app/linkbin/id1584335419\">https://apps.apple.com/us/app/linkbin/id1584335419</a></p>\n<p>Save links in seconds via the share extension on iOS or a Safari extension on macOS and get back to them later. Just that, plus a few extras, like a big collection of app icons and Shortcuts support</p>\n<p>iOS 15, iPadOS 15 and macOS Monterey features + Widgets are coming during the next few weeks, stay tuned\ud83d\ude03 Also, hit me up with feature requests and bug reports</p></div>",
-            "date_published": "2021-09-30T14:50:52+00:00",
-            "authors": [
-                {
-                    "name": "dahydl",
-                    "url": "https://www.reddit.com/user/dahydl"
                 }
             ]
         }
