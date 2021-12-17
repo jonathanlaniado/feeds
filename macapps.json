@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "rifmgv",
+            "url": "/r/macapps/comments/rifmgv/looking_for_a_barcode_reader_and_cataloger/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/rifmgv/looking_for_a_barcode_reader_and_cataloger/",
+            "title": "Looking for a barcode reader and cataloger.",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/rifmgv/looking_for_a_barcode_reader_and_cataloger/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/rifmgv/looking_for_a_barcode_reader_and_cataloger/'>Apollo</a></caption> <div><p>A few years ago I scanned our CD and DVD collections into a database using a barcode reader that was a mac app. You held the barcode of the item up to the mac's FaceTime camera. The barcode would then be read and the info about the item displayed in a format that you could copy-and-paste into a database. It was an incredibly easy and intuitive operation and I cataloged hundreds of items in a couple of afternoons. Now, I need to use it again and have no idea which app it was. Any ideas?</p></div>",
+            "date_published": "2021-12-17T11:41:18+00:00",
+            "authors": [
+                {
+                    "name": "TGMcGonigle",
+                    "url": "https://www.reddit.com/user/TGMcGonigle"
+                }
+            ]
+        },
+        {
             "id": "ri6wo1",
             "url": "/r/macapps/comments/ri6wo1/does_the_pro_apps_education_bundle_work_after_you/",
             "external_url": "https://www.reddit.com/r/macapps/comments/ri6wo1/does_the_pro_apps_education_bundle_work_after_you/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "m1mbp",
                     "url": "https://www.reddit.com/user/m1mbp"
-                }
-            ]
-        },
-        {
-            "id": "pz3ae9",
-            "url": "/r/macapps/comments/pz3ae9/a_ruler_for_your_touch_bar_tell_me_what_you_think/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/pz3ae9/a_ruler_for_your_touch_bar_tell_me_what_you_think/",
-            "title": "A ruler for your Touch Bar! (Tell me what you think of it!)",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/pz3ae9/a_ruler_for_your_touch_bar_tell_me_what_you_think/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/pz3ae9/a_ruler_for_your_touch_bar_tell_me_what_you_think/'>Apollo</a></caption> <div><p>I spent a few weeks working on an app called \"TouchRuler\", a ruler for your Touch Bar (and display).</p>\n<p>I made it originally as a tool I could use to quickly measure real-world items on the fly, and then I decided to work on it a little more and post it on the Mac App Store!</p>\n<p>I worked on the automatic calibration function for much longer than you would assume, trying to get the Touch Bar &amp; display versions as accurate as I could get based on my physical ruler.</p>\n<p>I added the ability to calibrate your screen, add a theme, and more things (such as new units &amp; a vertical option) which I plan to add if I get time to update it. Most of the gimmick is the themes, and Touch Bar support.</p>\n<p>Tell me what you think! I hope you all like it. I have 10 free download codes below :)</p>\n<p>App Store link: <a href=\"https://apps.apple.com/au/app/touchruler/id1581679817?mt=12\">https://apps.apple.com/au/app/touchruler/id1581679817?mt=12</a></p></div>",
-            "date_published": "2021-10-01T07:54:41+00:00",
-            "authors": [
-                {
-                    "name": "DavidGamingHDR",
-                    "url": "https://www.reddit.com/user/DavidGamingHDR"
                 }
             ]
         }
