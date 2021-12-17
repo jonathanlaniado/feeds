@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "riocee",
+            "url": "/r/apple/comments/riocee/notchmeister_lets_you_decorate_the_notch_on_your/",
+            "external_url": "https://www.macrumors.com/2021/12/17/notchmeister-decorate-macbook-pro-notch/",
+            "title": "'Notchmeister' Lets You Decorate the Notch on Your MacBook Pro",
+            "content_html": "<caption>Open in: <a href='https://www.macrumors.com/2021/12/17/notchmeister-decorate-macbook-pro-notch/'>www.macrumors.com</a> | <a href='https://reddit.com/r/apple/comments/riocee/notchmeister_lets_you_decorate_the_notch_on_your/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/riocee/notchmeister_lets_you_decorate_the_notch_on_your/'>Apollo</a></caption>",
+            "date_published": "2021-12-17T19:02:05+00:00",
+            "authors": [
+                {
+                    "name": "Stock412",
+                    "url": "https://www.reddit.com/user/Stock412"
+                }
+            ]
+        },
+        {
             "id": "rifzs6",
             "url": "/r/apple/comments/rifzs6/apple_helps_asahi_linux_developers_by_adding_raw/",
             "external_url": "https://twitter.com/marcan42/status/1471799568807636994",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "WillsMomIsFit",
                     "url": "https://www.reddit.com/user/WillsMomIsFit"
-                }
-            ]
-        },
-        {
-            "id": "qjyzzx",
-            "url": "/r/apple/comments/qjyzzx/mobiletechreview_16_macbook_pro_m1_pro_m1_max/",
-            "external_url": "https://youtu.be/FmH1HgDhrWI",
-            "title": "[MobileTechReview] 16\u201d MacBook Pro (M1 Pro & M1 Max) Review 2021",
-            "content_html": "<caption>Open in: <a href='https://youtu.be/FmH1HgDhrWI'>youtu.be</a> | <a href='https://reddit.com/r/apple/comments/qjyzzx/mobiletechreview_16_macbook_pro_m1_pro_m1_max/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/qjyzzx/mobiletechreview_16_macbook_pro_m1_pro_m1_max/'>Apollo</a></caption>",
-            "date_published": "2021-10-31T21:19:14+00:00",
-            "authors": [
-                {
-                    "name": "nuclear_wynter",
-                    "url": "https://www.reddit.com/user/nuclear_wynter"
                 }
             ]
         }
