@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "rj2hfz",
+            "url": "/r/selfhosted/comments/rj2hfz/how_to_be_an_idiot/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/rj2hfz/how_to_be_an_idiot/",
+            "title": "How to be an idiot",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/rj2hfz/how_to_be_an_idiot/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/rj2hfz/how_to_be_an_idiot/'>Apollo</a></caption> <div><p>I've been running a linux-based VPS for some years; it has hosted my blog (which this year I've been too busy and exhausted to maintain), Nextcloud for file management, and a few other things.   A few years ago I decided to experiment with docker, so I had separate containers for all my services.  </p>\n<p>Now, Nextcloud allows upgrades by one one version number at a time.  So if you want to upgrade from say version 20 to the current version 23 you have to go in steps: first upgrade to 21, then to 22, finally to 23.  I knew this, and have made several successful upgrades in the past.  But what did I do this time?  Tried to upgrade over 2 version numbers, thus breaking my installation.  I thought this might be a nice opportunity to re-install from scratch both Nextcloud and the reverse proxy Traefik, which provides security certificates from LetsEncrypt.   This turned out to be a non-trivial problem, as Traefik has undergone significant changes, and the old config file which I had was incompatible with the new version.  </p>\n<p>Well, if I was going to change all of this - why not upgrade the operating system itself, from Ubuntu 18.04 to 20.04 (both LTS)?  And so I set about doing that, something I've also done before (at least twice in fact).  But this time, after the system went into reboot to complete the upgrade, I couldn't access it again.  I tried to stop and start it from the tools provide by the hosting service, with no luck.  I contacted the admin of the hosting service, who told me that \"Its Grub is broken. That's why you can't stop/start it as it's deep in a failed Grub boot.\"  He recommended a re-image, unless I wanted him to see if he could fix it for me (for which I'd no doubt have to pay for his sys admin time).  </p>\n<p>A re-image would of course destroy everything and replace my system with a new, empty system.  In fact this might not be a bad thing, as I've accumulated all manner of junk over the years; things I've tried out and discarded.  (I used to run <a href=\"https://wordpress.org\">wordpress.org</a>, for example, until maintaining a reasonable level of security was getting troublesome.)</p>\n<p>Anyway, thanks to my hard-won skill (ha!) as a sys admin, I have gone from a working, usable VPS to one that is completely broken.  Go me!</p></div>",
+            "date_published": "2021-12-18T07:46:02+00:00",
+            "authors": [
+                {
+                    "name": "amca01",
+                    "url": "https://www.reddit.com/user/amca01"
+                }
+            ]
+        },
+        {
             "id": "ri0ssx",
             "url": "/r/selfhosted/comments/ri0ssx/is_this_normal_for_wd_to_send_out_drives_with_no/",
             "external_url": "https://i.redd.it/wdpcgnqq3z581.jpg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "FuckingEndMeLol",
                     "url": "https://www.reddit.com/user/FuckingEndMeLol"
-                }
-            ]
-        },
-        {
-            "id": "pxbwuu",
-            "url": "/r/selfhosted/comments/pxbwuu/psa_fail2ban_remote_code_execution_via_mail_action/",
-            "external_url": "https://research.securitum.com/fail2ban-remote-code-execution/",
-            "title": "[PSA] fail2ban: remote code execution via mail action",
-            "content_html": "<caption>Open in: <a href='https://research.securitum.com/fail2ban-remote-code-execution/'>research.securitum.com</a> | <a href='https://reddit.com/r/selfhosted/comments/pxbwuu/psa_fail2ban_remote_code_execution_via_mail_action/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pxbwuu/psa_fail2ban_remote_code_execution_via_mail_action/'>Apollo</a></caption>",
-            "date_published": "2021-09-28T17:55:58+00:00",
-            "authors": [
-                {
-                    "name": "vestingz",
-                    "url": "https://www.reddit.com/user/vestingz"
                 }
             ]
         }
