@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "rjwodw",
+            "url": "/r/selfhosted/comments/rjwodw/visualizing_differential_backups_with_rdiffweb/",
+            "external_url": "https://i.redd.it/y8j2va633i681.png",
+            "title": "Visualizing differential backups with rdiffweb",
+            "content_html": "<caption>Open in: <a href='https://i.redd.it/y8j2va633i681.png'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/rjwodw/visualizing_differential_backups_with_rdiffweb/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/rjwodw/visualizing_differential_backups_with_rdiffweb/'>Apollo</a></caption>",
+            "date_published": "2021-12-19T13:22:56+00:00",
+            "authors": [
+                {
+                    "name": "utopiah",
+                    "url": "https://www.reddit.com/user/utopiah"
+                }
+            ]
+        },
+        {
             "id": "rj2hfz",
             "url": "/r/selfhosted/comments/rj2hfz/how_to_be_an_idiot/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/rj2hfz/how_to_be_an_idiot/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "binaryfor",
                     "url": "https://www.reddit.com/user/binaryfor"
-                }
-            ]
-        },
-        {
-            "id": "pxvi8y",
-            "url": "/r/selfhosted/comments/pxvi8y/revolt_promising_selfhosted_discord_alternative/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/pxvi8y/revolt_promising_selfhosted_discord_alternative/",
-            "title": "Revolt. promising selfhosted Discord alternative",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/pxvi8y/revolt_promising_selfhosted_discord_alternative/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/pxvi8y/revolt_promising_selfhosted_discord_alternative/'>Apollo</a></caption> <div><p>Disclaimer, I am in no way shape or form affiliated with the Revolt development team.</p>\n<p>I didn't really see anyone mention Revolt on this subreddit in the past so I figured I'd give it a shoutout here.</p>\n<p>Revolt seems to aim to be a clone (Don't mean this in a bad way) of Discord. Currently it doesn't seem to have private DM's. But voice works and the UI looks <em>very</em> similar.</p>\n<p>Check it out on <a href=\"https://revolt.chat\">https://revolt.chat</a></p>\n<p>Their Github: <a href=\"https://github.com/revoltchat\">https://github.com/revoltchat</a></p>\n<p>Forgot to add that they have a docker image which you can selfhost. I'll report back in a few hours when I have time to mess around with it. It's also still in public beta, some things are a bit buggy. But nonetheless it's really damn impressive how close it is to Discord so far.</p></div>",
-            "date_published": "2021-09-29T13:34:23+00:00",
-            "authors": [
-                {
-                    "name": "FuckingEndMeLol",
-                    "url": "https://www.reddit.com/user/FuckingEndMeLol"
                 }
             ]
         }
