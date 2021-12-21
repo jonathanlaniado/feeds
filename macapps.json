@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "rlbexn",
+            "url": "/r/macapps/comments/rlbexn/apple_photos_alternative/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/rlbexn/apple_photos_alternative/",
+            "title": "Apple Photos alternative",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/rlbexn/apple_photos_alternative/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/rlbexn/apple_photos_alternative/'>Apollo</a></caption> <div><p>Just wondering if there is any alternative to the Apple Photos app that supports other cloud storage other than iCloud?</p>\n<p>I\u2019m looking for something that looks and feels like a native app, and works on iOS.</p>\n<p>Thanks</p></div>",
+            "date_published": "2021-12-21T09:58:09+00:00",
+            "authors": [
+                {
+                    "name": "unkwn07",
+                    "url": "https://www.reddit.com/user/unkwn07"
+                }
+            ]
+        },
+        {
             "id": "rk40w6",
             "url": "/r/macapps/comments/rk40w6/introducing_colorslurp_33_the_best_color_picker/",
             "external_url": "https://i.redd.it/5ihnh5xbyj681.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Grep2grok",
                     "url": "https://www.reddit.com/user/Grep2grok"
-                }
-            ]
-        },
-        {
-            "id": "q41xms",
-            "url": "/r/macapps/comments/q41xms/textexpander_alternative/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/q41xms/textexpander_alternative/",
-            "title": "TextExpander alternative?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/q41xms/textexpander_alternative/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/q41xms/textexpander_alternative/'>Apollo</a></caption> <div><p>Can anyone recommend any good alternative(s) to TextExpander? I\u2019m sure it works well, but a subscription (and a rather expensive one at that) seems excessive for a utility.</p></div>",
-            "date_published": "2021-10-08T17:01:23+00:00",
-            "authors": [
-                {
-                    "name": "EpiphanicSyncronica",
-                    "url": "https://www.reddit.com/user/EpiphanicSyncronica"
                 }
             ]
         }
