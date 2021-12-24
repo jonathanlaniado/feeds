@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "rn1mk1",
+            "url": "/r/MacOS/comments/rn1mk1/i_developed_a_highly_customizable_open_source/",
+            "external_url": "https://i.redd.it/kgo8wt1czb781.png",
+            "title": "I developed a highly customizable open source status bar replacement in C",
+            "content_html": "<caption>Open in: <a href='https://i.redd.it/kgo8wt1czb781.png'>i.redd.it</a> | <a href='https://reddit.com/r/MacOS/comments/rn1mk1/i_developed_a_highly_customizable_open_source/'>Reddit</a> | <a href='apollo://reddit.com/r/MacOS/comments/rn1mk1/i_developed_a_highly_customizable_open_source/'>Apollo</a></caption>",
+            "date_published": "2021-12-23T18:12:00+00:00",
+            "authors": [
+                {
+                    "name": "AdmiralBrainlag",
+                    "url": "https://www.reddit.com/user/AdmiralBrainlag"
+                }
+            ]
+        },
+        {
             "id": "rm4av6",
             "url": "/r/MacOS/comments/rm4av6/til_pressing_option_in_macos_opensave_panel_shows/",
             "external_url": "https://i.redd.it/xipsvi6l83781.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Electronic-Crew2115",
                     "url": "https://www.reddit.com/user/Electronic-Crew2115"
-                }
-            ]
-        },
-        {
-            "id": "p2rrec",
-            "url": "/r/MacOS/comments/p2rrec/anyone_feel_like_the_quality_of_macos_releases/",
-            "external_url": "https://www.reddit.com/r/MacOS/comments/p2rrec/anyone_feel_like_the_quality_of_macos_releases/",
-            "title": "Anyone feel like the quality of macOS releases has seriously gone down hill recently?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/MacOS/comments/p2rrec/anyone_feel_like_the_quality_of_macos_releases/'>Reddit</a> | <a href='apollo://reddit.com/r/MacOS/comments/p2rrec/anyone_feel_like_the_quality_of_macos_releases/'>Apollo</a></caption> <div><p>I've noticed that on the newer releases (such as Catalina &amp; Big Sur) that system performance has been worse, such as having to wait forever for Spotlight to perform simple addition, macOS system processes using an absurd amount of system resources, to design decisions that do not make sense (like notifications on Big Sur &amp; Monterey)</p>\n<p>I daily drove a macOS High Sierra &amp; Mojave install for years through multiple hardware changes, whereas I've had to reinstall Catalina &amp; Big Sur 3 times in less than a year. I'd downgrade  to Mojave (I mean, \"Upgrading to an older, more familiar experience\") if I could, but due to newer hardware obviously not supporting OSes (even on hardware which is, lets say, only Apple branded because of a sticker.)</p>\n<p>Of course, the bad performance could just be a fluke, however I have heard reports of performance being bad on other people's machines too.</p></div>",
-            "date_published": "2021-08-12T03:40:07+00:00",
-            "authors": [
-                {
-                    "name": "LMGN",
-                    "url": "https://www.reddit.com/user/LMGN"
                 }
             ]
         }
