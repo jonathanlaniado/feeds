@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "rp0hyn",
+            "url": "/r/MacOS/comments/rp0hyn/created_a_tool_to_change_between_darklight_mode/",
+            "external_url": "https://v.redd.it/5is4j7ey0x781",
+            "title": "Created a tool to change between dark/light mode depending on the ambient light intensity",
+            "content_html": "<caption>Open in: <a href='https://v.redd.it/5is4j7ey0x781'>v.redd.it</a> | <a href='https://reddit.com/r/MacOS/comments/rp0hyn/created_a_tool_to_change_between_darklight_mode/'>Reddit</a> | <a href='apollo://reddit.com/r/MacOS/comments/rp0hyn/created_a_tool_to_change_between_darklight_mode/'>Apollo</a></caption>",
+            "date_published": "2021-12-26T16:42:12+00:00",
+            "authors": [
+                {
+                    "name": "rushedcar",
+                    "url": "https://www.reddit.com/user/rushedcar"
+                }
+            ]
+        },
+        {
             "id": "rojv47",
             "url": "/r/MacOS/comments/rojv47/idk_if_you_guys_know_rectangle_an_app_for_windows/",
             "external_url": "https://rectangleapp.com",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "StevenGuan",
                     "url": "https://www.reddit.com/user/StevenGuan"
-                }
-            ]
-        },
-        {
-            "id": "p439i8",
-            "url": "/r/MacOS/comments/p439i8/love_the_new_builtin_captcha_solver_in_monterey/",
-            "external_url": "https://v.redd.it/7tqemn6gt9h71",
-            "title": "Love the new built-in CAPTCHA solver in Monterey - Live Text",
-            "content_html": "<caption>Open in: <a href='https://v.redd.it/7tqemn6gt9h71'>v.redd.it</a> | <a href='https://reddit.com/r/MacOS/comments/p439i8/love_the_new_builtin_captcha_solver_in_monterey/'>Reddit</a> | <a href='apollo://reddit.com/r/MacOS/comments/p439i8/love_the_new_builtin_captcha_solver_in_monterey/'>Apollo</a></caption>",
-            "date_published": "2021-08-14T06:59:29+00:00",
-            "authors": [
-                {
-                    "name": "Torelafes",
-                    "url": "https://www.reddit.com/user/Torelafes"
                 }
             ]
         }
