@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "rvws8j",
+            "url": "/r/selfhosted/comments/rvws8j/from_selfhosted_project_to_yc_company/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/rvws8j/from_selfhosted_project_to_yc_company/",
+            "title": "From Self-Hosted Project to YC Company",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/rvws8j/from_selfhosted_project_to_yc_company/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/rvws8j/from_selfhosted_project_to_yc_company/'>Apollo</a></caption> <div><p>Hi /r/SelfHosted,</p>\n<p>We just wanted to share this bit of good news. I'm a co-founder at Gravitl, creators of the <a href=\"https://github.com/gravitl/netmaker\">Netmaker project</a>. Earlier this year, we released Netmaker as a self-hosted project for private networking over WireGuard. This was one of the first communities to support the project, and we've had the honor of working with some of you closely. Today, we're announcing we're now a Y Combinator company. We wanted to say thanks to you all. It started here, and we couldn't have done it without you.</p></div>",
+            "date_published": "2022-01-04T15:20:17+00:00",
+            "authors": [
+                {
+                    "name": "mesh_enthusiast",
+                    "url": "https://www.reddit.com/user/mesh_enthusiast"
+                }
+            ]
+        },
+        {
             "id": "rv92y1",
             "url": "/r/selfhosted/comments/rv92y1/just_a_public_reminder_dont_copypaste_commands/",
             "external_url": "https://www.bleepingcomputer.com/news/security/dont-copy-paste-commands-from-webpages-you-can-get-hacked/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ItsTimeForAnAlt",
                     "url": "https://www.reddit.com/user/ItsTimeForAnAlt"
-                }
-            ]
-        },
-        {
-            "id": "q1wobo",
-            "url": "/r/selfhosted/comments/q1wobo/how_many_of_you_use_ssh_to_manage_your_server/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/q1wobo/how_many_of_you_use_ssh_to_manage_your_server/",
-            "title": "How many of you use SSH to manage your server?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/q1wobo/how_many_of_you_use_ssh_to_manage_your_server/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/q1wobo/how_many_of_you_use_ssh_to_manage_your_server/'>Apollo</a></caption> <div><p>I'm wondering how many of you regularly SSH into your machine to manage it. If you do, what did you set up to access the machine from the public internet. Or do you only use SSH from your local network?</p>\n<p>In the past I've used DynDNS and am currently using Tailscale. But I'm wondering about other solutions. Tor maybe?</p>\n<p>Or is using SSH quite uncommon?</p></div>",
-            "date_published": "2021-10-05T13:44:18+00:00",
-            "authors": [
-                {
-                    "name": "mindshards",
-                    "url": "https://www.reddit.com/user/mindshards"
                 }
             ]
         }
