@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "rxjfhx",
+            "url": "/r/selfhosted/comments/rxjfhx/after_1_year_of_hard_work_my_new_ultimate_web/",
+            "external_url": "https://v.redd.it/e1uelcaan3a81",
+            "title": "After 1 YEAR of hard work my NEW Ultimate Web Desktop Environment is ready for launch!!!!!",
+            "content_html": "<caption>Open in: <a href='https://v.redd.it/e1uelcaan3a81'>v.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/rxjfhx/after_1_year_of_hard_work_my_new_ultimate_web/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/rxjfhx/after_1_year_of_hard_work_my_new_ultimate_web/'>Apollo</a></caption>",
+            "date_published": "2022-01-06T17:06:45+00:00",
+            "authors": [
+                {
+                    "name": "DustinBrett",
+                    "url": "https://www.reddit.com/user/DustinBrett"
+                }
+            ]
+        },
+        {
             "id": "rwyevp",
             "url": "/r/selfhosted/comments/rwyevp/this_is_my_dashboard_after_a_month_of_this_my/",
             "external_url": "https://i.redd.it/g6x7un5a2y981.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "binaryfor",
                     "url": "https://www.reddit.com/user/binaryfor"
-                }
-            ]
-        },
-        {
-            "id": "q3frhs",
-            "url": "/r/selfhosted/comments/q3frhs/a_word_of_appreciation_for_flame/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/q3frhs/a_word_of_appreciation_for_flame/",
-            "title": "A word of appreciation for Flame (https://github.com/pawelmalak/flame) - After trying Heimdall, Homer, and Dashy I finally settled on Flame for ease of configuration, speed, and light-weightness.",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/q3frhs/a_word_of_appreciation_for_flame/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/q3frhs/a_word_of_appreciation_for_flame/'>Apollo</a></caption> <div><p>https://github.com/pawelmalak/flame\nIt's fast, lightweight, looks great and it's very easy to configure (no fooling around with configuration files and/or YAML crap). I'll finally stop managing the shortcuts to my self-hosted apps via my browser favorites. </p>\n<p>Dashy was a close second, btw.</p></div>",
-            "date_published": "2021-10-07T18:47:17+00:00",
-            "authors": [
-                {
-                    "name": "ruimikemau",
-                    "url": "https://www.reddit.com/user/ruimikemau"
                 }
             ]
         }
