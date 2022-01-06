@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "rwyevp",
+            "url": "/r/selfhosted/comments/rwyevp/this_is_my_dashboard_after_a_month_of_this_my/",
+            "external_url": "https://i.redd.it/g6x7un5a2y981.png",
+            "title": "This is my dashboard after a month of this my selfhosting journey. It's was a very fun month and I learned a tons of new things :)",
+            "content_html": "<caption>Open in: <a href='https://i.redd.it/g6x7un5a2y981.png'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/rwyevp/this_is_my_dashboard_after_a_month_of_this_my/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/rwyevp/this_is_my_dashboard_after_a_month_of_this_my/'>Apollo</a></caption>",
+            "date_published": "2022-01-05T22:21:17+00:00",
+            "authors": [
+                {
+                    "name": "throwaway-429",
+                    "url": "https://www.reddit.com/user/throwaway-429"
+                }
+            ]
+        },
+        {
             "id": "rvws8j",
             "url": "/r/selfhosted/comments/rvws8j/from_selfhosted_project_to_yc_company/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/rvws8j/from_selfhosted_project_to_yc_company/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ruimikemau",
                     "url": "https://www.reddit.com/user/ruimikemau"
-                }
-            ]
-        },
-        {
-            "id": "q2jnk6",
-            "url": "/r/selfhosted/comments/q2jnk6/what_are_your_guys_reasons_for_self_hosting/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/q2jnk6/what_are_your_guys_reasons_for_self_hosting/",
-            "title": "What are your guy's reasons for self hosting? Particularly cloud services.",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/q2jnk6/what_are_your_guys_reasons_for_self_hosting/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/q2jnk6/what_are_your_guys_reasons_for_self_hosting/'>Apollo</a></caption> <div><p>Like I'm here, I host things. I think it's cool, I love computers and Linux and figuring shit out. I'm addicted to problem solving stuff just to do it. </p>\n<p>Why do you guys do it though? Why use NextCloud over Google? Privacy? Fun? </p>\n<p>Just trying to create an open ended discussion.</p></div>",
-            "date_published": "2021-10-06T12:43:19+00:00",
-            "authors": [
-                {
-                    "name": "ItsTimeForAnAlt",
-                    "url": "https://www.reddit.com/user/ItsTimeForAnAlt"
                 }
             ]
         }
