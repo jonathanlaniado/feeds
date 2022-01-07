@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "ry3m3i",
+            "url": "/r/macapps/comments/ry3m3i/air_quality_at_a_peek_for_mac/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/ry3m3i/air_quality_at_a_peek_for_mac/",
+            "title": "Air quality at a peek for Mac",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/ry3m3i/air_quality_at_a_peek_for_mac/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/ry3m3i/air_quality_at_a_peek_for_mac/'>Apollo</a></caption> <div><p>Hey, you! \ud83d\udc4b<br />\nI made this. If you are concerned with bad air quality. This might be for you.<br />\nApp Store:<br />\n<a href=\"https://apps.apple.com/app/neat-air/id1602405823\">https://apps.apple.com/app/neat-air/id1602405823</a></p>\n<p>Web:<br />\n<a href=\"https://neatair.app\">https://neatair.app</a></p>\n<p>Product Hunt:<br />\n<a href=\"https://www.producthunt.com/posts/neat-air\">https://www.producthunt.com/posts/neat-air</a></p></div>",
+            "date_published": "2022-01-07T09:31:37+00:00",
+            "authors": [
+                {
+                    "name": "tedsomething",
+                    "url": "https://www.reddit.com/user/tedsomething"
+                }
+            ]
+        },
+        {
             "id": "rxv82m",
             "url": "/r/macapps/comments/rxv82m/good_diaryjournal_app_with_no_subscription/",
             "external_url": "https://www.reddit.com/r/macapps/comments/rxv82m/good_diaryjournal_app_with_no_subscription/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "cmsj",
                     "url": "https://www.reddit.com/user/cmsj"
-                }
-            ]
-        },
-        {
-            "id": "q9wpkw",
-            "url": "/r/macapps/comments/q9wpkw/photo_collage_macos_app_please_give_feedback/",
-            "external_url": "https://www.reddit.com/gallery/q9wpkw",
-            "title": "Photo Collage MacOS App, please give feedback",
-            "content_html": "<caption>Open in: <a href='https://www.reddit.com/gallery/q9wpkw'>www.reddit.com</a> | <a href='https://reddit.com/r/macapps/comments/q9wpkw/photo_collage_macos_app_please_give_feedback/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/q9wpkw/photo_collage_macos_app_please_give_feedback/'>Apollo</a></caption>",
-            "date_published": "2021-10-17T11:11:14+00:00",
-            "authors": [
-                {
-                    "name": "pixobe",
-                    "url": "https://www.reddit.com/user/pixobe"
                 }
             ]
         }
