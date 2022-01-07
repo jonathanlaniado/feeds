@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "rxv82m",
+            "url": "/r/macapps/comments/rxv82m/good_diaryjournal_app_with_no_subscription/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/rxv82m/good_diaryjournal_app_with_no_subscription/",
+            "title": "Good diary/journal app with no subscription",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/rxv82m/good_diaryjournal_app_with_no_subscription/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/rxv82m/good_diaryjournal_app_with_no_subscription/'>Apollo</a></caption> <div><p>Basically what the famous day one does, but without subscription necessary. What are your best picks?</p></div>",
+            "date_published": "2022-01-07T01:45:23+00:00",
+            "authors": [
+                {
+                    "name": "KafkaDatura",
+                    "url": "https://www.reddit.com/user/KafkaDatura"
+                }
+            ]
+        },
+        {
             "id": "rxnobc",
             "url": "/r/macapps/comments/rxnobc/discord_ptb_is_now_m1_native/",
             "external_url": "https://www.reddit.com/r/macapps/comments/rxnobc/discord_ptb_is_now_m1_native/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "pixobe",
                     "url": "https://www.reddit.com/user/pixobe"
-                }
-            ]
-        },
-        {
-            "id": "q8v78r",
-            "url": "/r/macapps/comments/q8v78r/yoink_vs_dropover/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/q8v78r/yoink_vs_dropover/",
-            "title": "Yoink vs Dropover",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/q8v78r/yoink_vs_dropover/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/q8v78r/yoink_vs_dropover/'>Apollo</a></caption> <div><p>Hey all,</p>\n<p>Ive been a long time user of Unclutter and started to look for a shelf app for drag and drop since the Files panel there really does not feel like it\u2019s supposed to be used that way.</p>\n<p>So I\u2019ve been looking for a shelf app and discovered a few options and narrowed it down to Yoink and Dropover. </p>\n<p>Yoink seems more feature rich (maybe?), more frequently updated, more responsive developer and has cross platform support for the price but there\u2019s something nice about Dropover\u2019s more limited feature set and cloud upload features. I also liked Dropover\u2019s shake cursor feature but it appears like Yoink doesn\u2019t have that. (Could it be replicated using BetterTouchTool maybe?)</p>\n<p>So which is better in your opinion for dragging files, pictures into a temporary shelf? I know ultimately it\u2019s \u201cwhat works best for you\u201d but I\u2019m curious to see what people are using.</p>\n<p>Only seeking opinions for these two apps, no \u201cdon\u2019t see the point of these apps\u201d types posts please.</p>\n<p>Thanks in advance!</p></div>",
-            "date_published": "2021-10-15T19:07:47+00:00",
-            "authors": [
-                {
-                    "name": "TheRealBushwhack",
-                    "url": "https://www.reddit.com/user/TheRealBushwhack"
                 }
             ]
         }
