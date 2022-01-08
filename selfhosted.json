@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "ryw7xp",
+            "url": "/r/selfhosted/comments/ryw7xp/gitea_is_about_to_get_federation_support/",
+            "external_url": "https://social.gitea.io/@gitea/107576791626052697",
+            "title": "Gitea is about to get federation support",
+            "content_html": "<caption>Open in: <a href='https://social.gitea.io/@gitea/107576791626052697'>social.gitea.io</a> | <a href='https://reddit.com/r/selfhosted/comments/ryw7xp/gitea_is_about_to_get_federation_support/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/ryw7xp/gitea_is_about_to_get_federation_support/'>Apollo</a></caption>",
+            "date_published": "2022-01-08T09:39:26+00:00",
+            "authors": [
+                {
+                    "name": "Sarcism",
+                    "url": "https://www.reddit.com/user/Sarcism"
+                }
+            ]
+        },
+        {
             "id": "ry7ba3",
             "url": "/r/selfhosted/comments/ry7ba3/a_nice_list_of_arrrr_plex_etc_apps_and_sites/",
             "external_url": "https://github.com/Igglybuff/awesome-piracy",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ZZacny",
                     "url": "https://www.reddit.com/user/ZZacny"
-                }
-            ]
-        },
-        {
-            "id": "q46tsq",
-            "url": "/r/selfhosted/comments/q46tsq/setting_up_cloudflare_argo_access_on_a_raspberry/",
-            "external_url": "https://erdaltoprak.com/setting-up-cloudflare-argo-and-access-on-a-raspberry-pi",
-            "title": "Setting up Cloudflare Argo & Access on a Raspberry Pi",
-            "content_html": "<caption>Open in: <a href='https://erdaltoprak.com/setting-up-cloudflare-argo-and-access-on-a-raspberry-pi'>erdaltoprak.com</a> | <a href='https://reddit.com/r/selfhosted/comments/q46tsq/setting_up_cloudflare_argo_access_on_a_raspberry/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/q46tsq/setting_up_cloudflare_argo_access_on_a_raspberry/'>Apollo</a></caption>",
-            "date_published": "2021-10-08T21:05:10+00:00",
-            "authors": [
-                {
-                    "name": "erdaltoprak",
-                    "url": "https://www.reddit.com/user/erdaltoprak"
                 }
             ]
         }
