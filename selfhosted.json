@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "ry7ba3",
+            "url": "/r/selfhosted/comments/ry7ba3/a_nice_list_of_arrrr_plex_etc_apps_and_sites/",
+            "external_url": "https://github.com/Igglybuff/awesome-piracy",
+            "title": "A nice list of arrrr plex etc apps and sites",
+            "content_html": "<caption>Open in: <a href='https://github.com/Igglybuff/awesome-piracy'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/ry7ba3/a_nice_list_of_arrrr_plex_etc_apps_and_sites/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/ry7ba3/a_nice_list_of_arrrr_plex_etc_apps_and_sites/'>Apollo</a></caption>",
+            "date_published": "2022-01-07T13:25:44+00:00",
+            "authors": [
+                {
+                    "name": "Code_slave",
+                    "url": "https://www.reddit.com/user/Code_slave"
+                }
+            ]
+        },
+        {
             "id": "rxjfhx",
             "url": "/r/selfhosted/comments/rxjfhx/after_1_year_of_hard_work_my_new_ultimate_web/",
             "external_url": "https://v.redd.it/e1uelcaan3a81",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "erdaltoprak",
                     "url": "https://www.reddit.com/user/erdaltoprak"
-                }
-            ]
-        },
-        {
-            "id": "q3napl",
-            "url": "/r/selfhosted/comments/q3napl/monica_a_crm_to_manage_friends_and_family/",
-            "external_url": "https://github.com/monicahq/monica",
-            "title": "Monica - A CRM to manage friends and family",
-            "content_html": "<caption>Open in: <a href='https://github.com/monicahq/monica'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/q3napl/monica_a_crm_to_manage_friends_and_family/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/q3napl/monica_a_crm_to_manage_friends_and_family/'>Apollo</a></caption>",
-            "date_published": "2021-10-08T01:20:27+00:00",
-            "authors": [
-                {
-                    "name": "binaryfor",
-                    "url": "https://www.reddit.com/user/binaryfor"
                 }
             ]
         }
