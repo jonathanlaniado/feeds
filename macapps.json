@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "s2nlql",
+            "url": "/r/macapps/comments/s2nlql/modern_time_for_macos/",
+            "external_url": "https://i.redd.it/78vyceji5db81.png",
+            "title": "Modern Time for macOS",
+            "content_html": "<caption>Open in: <a href='https://i.redd.it/78vyceji5db81.png'>i.redd.it</a> | <a href='https://reddit.com/r/macapps/comments/s2nlql/modern_time_for_macos/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/s2nlql/modern_time_for_macos/'>Apollo</a></caption>",
+            "date_published": "2022-01-13T02:08:46+00:00",
+            "authors": [
+                {
+                    "name": "wills_wire",
+                    "url": "https://www.reddit.com/user/wills_wire"
+                }
+            ]
+        },
+        {
             "id": "s1oad8",
             "url": "/r/macapps/comments/s1oad8/best_open_source_mac_apps/",
             "external_url": "https://www.reddit.com/r/macapps/comments/s1oad8/best_open_source_mac_apps/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "brianmedia",
                     "url": "https://www.reddit.com/user/brianmedia"
-                }
-            ]
-        },
-        {
-            "id": "qhs764",
-            "url": "/r/macapps/comments/qhs764/welcome_new_apple_silicon_users_check_out_my_tiny/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/qhs764/welcome_new_apple_silicon_users_check_out_my_tiny/",
-            "title": "Welcome new Apple Silicon users! Check out my (tiny) menu bar app that displays if a running application is optimized for ARM",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/qhs764/welcome_new_apple_silicon_users_check_out_my_tiny/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/qhs764/welcome_new_apple_silicon_users_check_out_my_tiny/'>Apollo</a></caption> <div><p>Hi everybody! When I purchased my M1 MacBook Pro last year, I found myself constantly checking the activity monitor to see if my apps were actually optimized for Apple Silicon or if they were being translated through Rosetta 2. I created a little application that sits up in the menu bar and displays this information at a glance! </p>\n<p>Some people found it useful last year so I thought I would post it for all the new MacBook Pro owners joining us. More and more applications are being optimized which is great for us Apple silicon users. </p>\n<p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/dgifmc9688w71.png?width=618&amp;format=png&amp;auto=webp&amp;s=dba323092711759d73e47e776690fc1d5c6d2de6\">Silicon Info in action</a></p>\n<p>Of course, it is free and open source (check out the code on <a href=\"https://github.com/billycastelli/Silicon-Info\">Github</a>!).</p>\n<p>I've also uploaded it to the Mac App Store, you can download it here: <a href=\"https://apps.apple.com/us/app/silicon-info/id1542271266\">https://apps.apple.com/us/app/silicon-info/id1542271266</a></p>\n<p>Hope this helps!</p></div>",
-            "date_published": "2021-10-28T17:35:22+00:00",
-            "authors": [
-                {
-                    "name": "castelli-dev",
-                    "url": "https://www.reddit.com/user/castelli-dev"
                 }
             ]
         }
