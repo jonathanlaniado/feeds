@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "s3rkcs",
+            "url": "/r/selfhosted/comments/s3rkcs/sergiomarotconetworksegmentationcheatsheet_best/",
+            "external_url": "https://github.com/sergiomarotco/Network-segmentation-cheat-sheet",
+            "title": "sergiomarotco/Network-segmentation-cheat-sheet: Best practices for segmentation of the corporate network of any company",
+            "content_html": "<caption>Open in: <a href='https://github.com/sergiomarotco/Network-segmentation-cheat-sheet'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/s3rkcs/sergiomarotconetworksegmentationcheatsheet_best/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/s3rkcs/sergiomarotconetworksegmentationcheatsheet_best/'>Apollo</a></caption>",
+            "date_published": "2022-01-14T12:47:30+00:00",
+            "authors": [
+                {
+                    "name": "EsixDuChiha",
+                    "url": "https://www.reddit.com/user/EsixDuChiha"
+                }
+            ]
+        },
+        {
             "id": "s2yu4i",
             "url": "/r/selfhosted/comments/s2yu4i/the_incredibly_complex_process_of_becoming_your/",
             "external_url": "https://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html?m=1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "rollthedyc3",
                     "url": "https://www.reddit.com/user/rollthedyc3"
-                }
-            ]
-        },
-        {
-            "id": "q604dg",
-            "url": "/r/selfhosted/comments/q604dg/geographical_distribution_of_bruteforce_attacks/",
-            "external_url": "https://i.redd.it/x0soqzovous71.png",
-            "title": "Geographical distribution of brute-force attacks on one of my servers during the first week of October \u2013 88644 attempts from 739 sources.",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/x0soqzovous71.png'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/q604dg/geographical_distribution_of_bruteforce_attacks/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/q604dg/geographical_distribution_of_bruteforce_attacks/'>Apollo</a></caption>",
-            "date_published": "2021-10-11T16:49:15+00:00",
-            "authors": [
-                {
-                    "name": "ddeeppiixx",
-                    "url": "https://www.reddit.com/user/ddeeppiixx"
                 }
             ]
         }
