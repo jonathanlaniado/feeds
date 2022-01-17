@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "s59e0r",
+            "url": "/r/MacOS/comments/s59e0r/bug_in_safari_15_leaks_your_browsing_activity_in/",
+            "external_url": "https://fingerprintjs.com/blog/indexeddb-api-browser-vulnerability-safari-15/",
+            "title": "Bug in Safari 15 leaks your browsing activity in real time",
+            "content_html": "<caption>Open in: <a href='https://fingerprintjs.com/blog/indexeddb-api-browser-vulnerability-safari-15/'>fingerprintjs.com</a> | <a href='https://reddit.com/r/MacOS/comments/s59e0r/bug_in_safari_15_leaks_your_browsing_activity_in/'>Reddit</a> | <a href='apollo://reddit.com/r/MacOS/comments/s59e0r/bug_in_safari_15_leaks_your_browsing_activity_in/'>Apollo</a></caption>",
+            "date_published": "2022-01-16T10:49:03+00:00",
+            "authors": [
+                {
+                    "name": "LisaMck041",
+                    "url": "https://www.reddit.com/user/LisaMck041"
+                }
+            ]
+        },
+        {
             "id": "s2vtue",
             "url": "/r/MacOS/comments/s2vtue/finally_found_the_best_media_player/",
             "external_url": "https://www.reddit.com/r/MacOS/comments/s2vtue/finally_found_the_best_media_player/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "nothingexclusive",
                     "url": "https://www.reddit.com/user/nothingexclusive"
-                }
-            ]
-        },
-        {
-            "id": "pd9oth",
-            "url": "/r/MacOS/comments/pd9oth/mac_os_9_with_classilla/",
-            "external_url": "https://i.redd.it/ottil8q0o3k71.jpg",
-            "title": "Mac os 9 with classilla",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/ottil8q0o3k71.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/MacOS/comments/pd9oth/mac_os_9_with_classilla/'>Reddit</a> | <a href='apollo://reddit.com/r/MacOS/comments/pd9oth/mac_os_9_with_classilla/'>Apollo</a></caption>",
-            "date_published": "2021-08-28T13:22:45+00:00",
-            "authors": [
-                {
-                    "name": "TheLineShow",
-                    "url": "https://www.reddit.com/user/TheLineShow"
                 }
             ]
         }
