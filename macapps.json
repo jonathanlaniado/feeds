@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "s8o1u9",
+            "url": "/r/macapps/comments/s8o1u9/my_10_favorite_mac_apps_i_use_every_day_what_are/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/s8o1u9/my_10_favorite_mac_apps_i_use_every_day_what_are/",
+            "title": "My 10 favorite Mac apps I use every day. What are yours?",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/s8o1u9/my_10_favorite_mac_apps_i_use_every_day_what_are/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/s8o1u9/my_10_favorite_mac_apps_i_use_every_day_what_are/'>Apollo</a></caption> <div><p>In no particular order:</p>\n<ol>\n<li>BetterTouchTool (specifically, I love moving the trackpad cursor to the 4 screen corners to activate shortcuts (toggle on and off dark mode, toggle on and off DND, toggle hide and show only menubar icons to the left of BTT icon, and launch Authy, my 2FA app)</li>\n<li>TickTick (the only app I've been able to get my wife to use for a shared grocery list. Love that I can share the list with her even though she's not a premium user)</li>\n<li><a href=\"https://Sync.com\">Sync.com</a> app. End-to-end encrypted Cloud app and has been flawless for me, far more reliable than any other Cloud-based app and uses icon overlays to confirm files are saved. It also allows for storing files locally.</li>\n<li>Fantastical. Been using for years and it seems every few months I discover new functions. Currently using different calendar sets for various accounts, so my calendar isn't always a cluttered mess.</li>\n<li>WeatherBug. It lives in my menubar and constantly shows the temp and any precipitation wherever I'm at. Simple but reliable.</li>\n<li>Irvue. It gives me a different awesome desktop image every hour, although you can set it to change as often as you want.</li>\n<li>WhatsApp, Messenger, Signal, Telegram, etc. for desktop. I never have to reach for my phone anymore to check/respond to a message.</li>\n<li>Pulse SMS. It is basically iMessage for Android. Allows me to text from my Android number on my Mac. Beautiful UI, works flawlessly.</li>\n<li>Brave browser. Yeah, it's a browser, but has no ads, unless you turn them on, built on Chromium without the battery drain, and much much faster, almost as fast as Safari, but indistinguishably slower. Also, they pay me in crypto to use the browser. Made about $150 the last 2 years. Kinda cool.</li>\n<li>TopNotch. Hides the menubar notch. I think BTT does this too, but TopNotch is simple and clean.</li>\n</ol>\n<p>I use a lot of Apple stock apps too, but I love the ones above.</p>\n<p>EDIT: Can't stop at 10. I also love Airmail and 1Password. Spark is a cool email client too, but I mostly love Airmail for it's customizations.</p></div>",
+            "date_published": "2022-01-20T17:22:39+00:00",
+            "authors": [
+                {
+                    "name": "Trying_To_Be_My_Best",
+                    "url": "https://www.reddit.com/user/Trying_To_Be_My_Best"
+                }
+            ]
+        },
+        {
             "id": "s7tadm",
             "url": "/r/macapps/comments/s7tadm/version_800_of_the_notenik_mac_app_just_released/",
             "external_url": "/r/notenik/comments/s72i33/version_800_of_the_notenik_mac_app_just_released/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Johnkree",
                     "url": "https://www.reddit.com/user/Johnkree"
-                }
-            ]
-        },
-        {
-            "id": "qluhgj",
-            "url": "/r/macapps/comments/qluhgj/sioyek_pdf_viewer_designed_for_reading_research/",
-            "external_url": "https://github.com/ahrm/sioyek",
-            "title": "Sioyek - PDF viewer designed for reading research papers and technical books [1.0.0 Release]",
-            "content_html": "<caption>Open in: <a href='https://github.com/ahrm/sioyek'>github.com</a> | <a href='https://reddit.com/r/macapps/comments/qluhgj/sioyek_pdf_viewer_designed_for_reading_research/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/qluhgj/sioyek_pdf_viewer_designed_for_reading_research/'>Apollo</a></caption>",
-            "date_published": "2021-11-03T13:29:38+00:00",
-            "authors": [
-                {
-                    "name": "highergraphic",
-                    "url": "https://www.reddit.com/user/highergraphic"
                 }
             ]
         }
