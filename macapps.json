@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "s9f390",
+            "url": "/r/macapps/comments/s9f390/i_created_an_app_to_hide_sensitive_information/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/s9f390/i_created_an_app_to_hide_sensitive_information/",
+            "title": "I created an app to hide sensitive information while screen share.",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/s9f390/i_created_an_app_to_hide_sensitive_information/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/s9f390/i_created_an_app_to_hide_sensitive_information/'>Apollo</a></caption> <div><p>Hi everyone \ud83d\udc4b let me tell you a story, Back 1 year ago I made a <a href=\"https://blurweb.app\">blurweb.app</a>  as a way to hide sensitive information while I screen share while making <a href=\"https://youtube.com/sanskartiwari\">youtube videos</a></p>\n<p>Blurweb app worked well but because it is a browser extension it was limited to hiding stuff on the web, after multiple requests I finally decided to launch a desktop app with the same purpose.</p>\n<p>The result is <a href=\"https://blurscreen.app\">blurscreen.app</a> which helps you hide sensitive info on the screen with a single click.</p>\n<p>The plan is to improve the app making it better to solve the issue of hiding sensitive info while screen sharing.</p>\n<p>I will really appreciate if you check out the demo video I made on the <a href=\"https://www.blurscreen.app/\">homepage</a> and let me know if you find it helpful in the comments</p></div>",
+            "date_published": "2022-01-21T16:49:09+00:00",
+            "authors": [
+                {
+                    "name": "theindianappguy",
+                    "url": "https://www.reddit.com/user/theindianappguy"
+                }
+            ]
+        },
+        {
             "id": "s99q7r",
             "url": "/r/macapps/comments/s99q7r/trex_copy_the_uncopyable/",
             "external_url": "https://www.reddit.com/r/macapps/comments/s99q7r/trex_copy_the_uncopyable/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "mrskeetskeeter",
                     "url": "https://www.reddit.com/user/mrskeetskeeter"
-                }
-            ]
-        },
-        {
-            "id": "qmcdhe",
-            "url": "/r/macapps/comments/qmcdhe/i_am_curious_do_you_guys_use_iwork/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/qmcdhe/i_am_curious_do_you_guys_use_iwork/",
-            "title": "I am curious do you guys use iWork?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/qmcdhe/i_am_curious_do_you_guys_use_iwork/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/qmcdhe/i_am_curious_do_you_guys_use_iwork/'>Apollo</a></caption> <div><p>I am a student so I also have Office for free. I have office too but I also downloaded iWork yesterday for fun. I only do personal stuff and sometimes group projects. I really like how uncomplex iWork is however its definitely not as feature rich.</p></div>",
-            "date_published": "2021-11-04T04:03:07+00:00",
-            "authors": [
-                {
-                    "name": "MrVegetableMan",
-                    "url": "https://www.reddit.com/user/MrVegetableMan"
                 }
             ]
         }
