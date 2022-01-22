@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "sa3jg3",
+            "url": "/r/macapps/comments/sa3jg3/jukebox_view_the_currently_playing_song_in_the/",
+            "external_url": "https://github.com/Jaysce/Jukebox",
+            "title": "Jukebox - View the currently playing song in the menu bar",
+            "content_html": "<caption>Open in: <a href='https://github.com/Jaysce/Jukebox'>github.com</a> | <a href='https://reddit.com/r/macapps/comments/sa3jg3/jukebox_view_the_currently_playing_song_in_the/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/sa3jg3/jukebox_view_the_currently_playing_song_in_the/'>Apollo</a></caption>",
+            "date_published": "2022-01-22T14:22:05+00:00",
+            "authors": [
+                {
+                    "name": "Jaysce_",
+                    "url": "https://www.reddit.com/user/Jaysce_"
+                }
+            ]
+        },
+        {
             "id": "s9f390",
             "url": "/r/macapps/comments/s9f390/i_created_an_app_to_hide_sensitive_information/",
             "external_url": "https://www.reddit.com/r/macapps/comments/s9f390/i_created_an_app_to_hide_sensitive_information/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "tachoknight",
                     "url": "https://www.reddit.com/user/tachoknight"
-                }
-            ]
-        },
-        {
-            "id": "qmojr1",
-            "url": "/r/macapps/comments/qmojr1/are_there_any_good_workspace_switchers/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/qmojr1/are_there_any_good_workspace_switchers/",
-            "title": "Are there any good workspace switchers?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/qmojr1/are_there_any_good_workspace_switchers/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/qmojr1/are_there_any_good_workspace_switchers/'>Apollo</a></caption> <div><p>I've been using <a href=\"https://www.reddit.com/r/macapps/comments/krkkeu/spaceman_view_spaces_virtual_desktops_in_the_menu/\">Spaceman</a> for a few months, its a menubar app that gives feedback on which space you are currently using.  Are there any small apps that let you see which space you are on and lets you switch to it via drop down menu?  There seem to be precious few workspace managers for us Mac users.</p></div>",
-            "date_published": "2021-11-04T16:32:31+00:00",
-            "authors": [
-                {
-                    "name": "mrskeetskeeter",
-                    "url": "https://www.reddit.com/user/mrskeetskeeter"
                 }
             ]
         }
