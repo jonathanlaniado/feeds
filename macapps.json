@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "sbpjd0",
+            "url": "/r/macapps/comments/sbpjd0/photo_management_apps/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/sbpjd0/photo_management_apps/",
+            "title": "Photo management apps",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/sbpjd0/photo_management_apps/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/sbpjd0/photo_management_apps/'>Apollo</a></caption> <div><p>I'm looking for something that manages photo libraries better than Apple's Photos.  The primary goal is organizing, updating/changing metadata, and adding notes/tags to the photos.  Minor photo editing (e.g., ability to crop) and duplicate detection would be nice, I don't mind paying, as long as it's not a subscription.</p>\n<p>I've heard about Lyn and PowerPhotos, both of which are on my list to examine more closely.  Are there others I should look at?</p></div>",
+            "date_published": "2022-01-24T16:06:02+00:00",
+            "authors": [
+                {
+                    "name": "CherryPark_1973",
+                    "url": "https://www.reddit.com/user/CherryPark_1973"
+                }
+            ]
+        },
+        {
             "id": "sat03p",
             "url": "/r/macapps/comments/sat03p/orion_is_a_web_browser_based_on_safari_that/",
             "external_url": "https://browser.kagi.com",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "replaciconapp",
                     "url": "https://www.reddit.com/user/replaciconapp"
-                }
-            ]
-        },
-        {
-            "id": "qop64i",
-            "url": "/r/macapps/comments/qop64i/dropshare_received_major_update_now_supports_15/",
-            "external_url": "https://dropshare.app",
-            "title": "Dropshare received major update, now supports 15+ storage providers",
-            "content_html": "<caption>Open in: <a href='https://dropshare.app'>dropshare.app</a> | <a href='https://reddit.com/r/macapps/comments/qop64i/dropshare_received_major_update_now_supports_15/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/qop64i/dropshare_received_major_update_now_supports_15/'>Apollo</a></caption>",
-            "date_published": "2021-11-07T14:03:49+00:00",
-            "authors": [
-                {
-                    "name": "force4",
-                    "url": "https://www.reddit.com/user/force4"
                 }
             ]
         }
