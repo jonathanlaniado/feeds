@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "sc8r7d",
+            "url": "/r/selfhosted/comments/sc8r7d/awesome_github_list_of_opensource_alternatives_to/",
+            "external_url": "https://github.com/RunaCapital/awesome-oss-alternatives",
+            "title": "Awesome GitHub list of open-source alternatives to well-known SaaS products",
+            "content_html": "<caption>Open in: <a href='https://github.com/RunaCapital/awesome-oss-alternatives'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/sc8r7d/awesome_github_list_of_opensource_alternatives_to/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/sc8r7d/awesome_github_list_of_opensource_alternatives_to/'>Apollo</a></caption>",
+            "date_published": "2022-01-25T08:14:45+00:00",
+            "authors": [
+                {
+                    "name": "rich_",
+                    "url": "https://www.reddit.com/user/rich_"
+                }
+            ]
+        },
+        {
             "id": "sbkl5z",
             "url": "/r/selfhosted/comments/sbkl5z/what_are_the_top_3_most_useful_things_that_you/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/sbkl5z/what_are_the_top_3_most_useful_things_that_you/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "nitnelave",
                     "url": "https://www.reddit.com/user/nitnelave"
-                }
-            ]
-        },
-        {
-            "id": "q9zltd",
-            "url": "/r/selfhosted/comments/q9zltd/praise_for_tubearchivist_now_with_embedded/",
-            "external_url": "https://v.redd.it/zcekjof0r0u71",
-            "title": "Praise for TubeArchivist - Now with Embedded Thumbnails!",
-            "content_html": "<caption>Open in: <a href='https://v.redd.it/zcekjof0r0u71'>v.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/q9zltd/praise_for_tubearchivist_now_with_embedded/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/q9zltd/praise_for_tubearchivist_now_with_embedded/'>Apollo</a></caption>",
-            "date_published": "2021-10-17T14:19:15+00:00",
-            "authors": [
-                {
-                    "name": "nashosted",
-                    "url": "https://www.reddit.com/user/nashosted"
                 }
             ]
         }
