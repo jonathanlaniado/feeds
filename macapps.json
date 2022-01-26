@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "scx3nf",
+            "url": "/r/macapps/comments/scx3nf/will_users_of_readdlespark_and_macpawsetapp_be/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/scx3nf/will_users_of_readdlespark_and_macpawsetapp_be/",
+            "title": "Will **USERS** of Readdle/Spark and MacPaw/Setapp be affected if Russia invades Ukraine?",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/scx3nf/will_users_of_readdlespark_and_macpawsetapp_be/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/scx3nf/will_users_of_readdlespark_and_macpawsetapp_be/'>Apollo</a></caption> <div><p>NOTE: THIS IS <strong>NOT</strong> A POST ABOUT POLITICS OR INTERNATIONAL RELATIONS. IT IS A QUESTION ABOUT EFFECTS\u2014IF ANY\u2014ON SOFTWARE <strong>USERS</strong>.</p>\n<p><a href=\"https://techukraine.org/portfolio/readdle-we-wake-up-to-change-lives/\">Readdle</a> (Spark, PDF Expert, etc.) and <a href=\"https://www.ukraineitnow.com/company/macpaw/\">MacPaw</a> (Setapp, Clean My Mac, etc.) are both <a href=\"https://techcrunch.com/2018/10/12/readdles-denys-zhadanov-to-talk-about-bootstrapping-at-disrupt-berlin/\">Ukrainian</a> <a href=\"https://macpaw.com/about\">companies</a>.</p>\n<p>The current saber-rattling has me wondering whether or not users of these products might be affected if Russia invades Ukraine, and if so, how.</p>\n<p>If the answer is yes, Spark might be of particular concern, given that AFAIK Readdle retains the encryption keys for emails stored and automatically processed on their servers so they can provide Spark\u2019s special features to users.</p>\n<p>Where are those servers located? If they\u2019re outside Ukraine, do any personnel in Ukraine have access to the encryption keys? If so, they could almost certainly be forced by local authorities\u2014or occupying forces\u2014to provide access to the encrypted data.</p>\n<p>It may be, of course, that user data and encryption keys are only stored in user\u2019s own countries or regions\u2014in the US or the EU, for example.</p>\n<p>But which is it?</p>\n<p>And even if users\u2019 confidential data wouldn\u2019t be at risk, would service be disrupted? Would Setapp users, for example, still be able to download apps?</p>\n<p>I\u2019d be particularly interested in seeing any verifiable FACTS anyone might have about this, backed up by sources.</p>\n<p>Once again, please avoid getting into which country or countries are to blame for the current crisis. I\u2019m only trying to find out information about these corporations and possible effects\u2014if any\u2014on the users of their apps.</p></div>",
+            "date_published": "2022-01-26T04:19:09+00:00",
+            "authors": [
+                {
+                    "name": "EpiphanicSyncronica",
+                    "url": "https://www.reddit.com/user/EpiphanicSyncronica"
+                }
+            ]
+        },
+        {
             "id": "sbpjd0",
             "url": "/r/macapps/comments/sbpjd0/photo_management_apps/",
             "external_url": "https://www.reddit.com/r/macapps/comments/sbpjd0/photo_management_apps/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "sindresorhus",
                     "url": "https://www.reddit.com/user/sindresorhus"
-                }
-            ]
-        },
-        {
-            "id": "qp6o5u",
-            "url": "/r/macapps/comments/qp6o5u/replacicon_find_and_replace_app_icons_to_match/",
-            "external_url": "https://replacicon.app",
-            "title": "Replacicon: find and replace app icons to match macOS Big Sur and Monterey",
-            "content_html": "<caption>Open in: <a href='https://replacicon.app'>replacicon.app</a> | <a href='https://reddit.com/r/macapps/comments/qp6o5u/replacicon_find_and_replace_app_icons_to_match/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/qp6o5u/replacicon_find_and_replace_app_icons_to_match/'>Apollo</a></caption>",
-            "date_published": "2021-11-08T05:13:21+00:00",
-            "authors": [
-                {
-                    "name": "replaciconapp",
-                    "url": "https://www.reddit.com/user/replaciconapp"
                 }
             ]
         }
