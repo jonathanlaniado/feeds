@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "sgovi2",
+            "url": "/r/macapps/comments/sgovi2/losslesscut_a_cross_platform_gui_tool_for/",
+            "external_url": "https://github.com/mifi/lossless-cut",
+            "title": "lossless-cut - a cross platform GUI tool for lossless trimming/cutting of videos",
+            "content_html": "<caption>Open in: <a href='https://github.com/mifi/lossless-cut'>github.com</a> | <a href='https://reddit.com/r/macapps/comments/sgovi2/losslesscut_a_cross_platform_gui_tool_for/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/sgovi2/losslesscut_a_cross_platform_gui_tool_for/'>Apollo</a></caption>",
+            "date_published": "2022-01-31T01:40:46+00:00",
+            "authors": [
+                {
+                    "name": "binaryfor",
+                    "url": "https://www.reddit.com/user/binaryfor"
+                }
+            ]
+        },
+        {
             "id": "sd8l7k",
             "url": "/r/macapps/comments/sd8l7k/the_new_cmd_tab_switcher_with_bookmarks_on_board/",
             "external_url": "https://www.reddit.com/r/macapps/comments/sd8l7k/the_new_cmd_tab_switcher_with_bookmarks_on_board/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "sam_rowlands",
                     "url": "https://www.reddit.com/user/sam_rowlands"
-                }
-            ]
-        },
-        {
-            "id": "qp6c4d",
-            "url": "/r/macapps/comments/qp6c4d/pingr_your_internet_speed_in_your_macs_menu_bar/",
-            "external_url": "https://getpingr.app/",
-            "title": "Pingr - Your internet speed in your Mac's menu bar",
-            "content_html": "<caption>Open in: <a href='https://getpingr.app/'>getpingr.app</a> | <a href='https://reddit.com/r/macapps/comments/qp6c4d/pingr_your_internet_speed_in_your_macs_menu_bar/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/qp6c4d/pingr_your_internet_speed_in_your_macs_menu_bar/'>Apollo</a></caption>",
-            "date_published": "2021-11-08T04:51:41+00:00",
-            "authors": [
-                {
-                    "name": "spunions",
-                    "url": "https://www.reddit.com/user/spunions"
                 }
             ]
         }
