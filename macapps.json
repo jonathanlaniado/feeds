@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "shxyj9",
+            "url": "/r/macapps/comments/shxyj9/so_2022_raycast_vs_alfred_whats_your_take/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/shxyj9/so_2022_raycast_vs_alfred_whats_your_take/",
+            "title": "So, 2022, Raycast vs. Alfred. What's your take?",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/shxyj9/so_2022_raycast_vs_alfred_whats_your_take/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/shxyj9/so_2022_raycast_vs_alfred_whats_your_take/'>Apollo</a></caption> <div><p>A couple of weeks ago, I discovered Raycast, and without exaggerating - it changed my life. I don't work in the tech industry, but I spend most of my day in front of the computer, and here and there, I do some coding (sometimes as a hobby and occasionally work-related). My use case is mainly PDFs and working with files, reading, writing - overall relatively on simple use(I rarely use GitHub and other development tools, but I might become more engaged in the future).</p>\n<p>Amazed by how much a tool can change my workflow, I decided to research some other tools and got sucked into productivity optimization tools' (obsessive) world. While reading about the subject, I discovered other similar tools: Alfred, LaunchBar, Command E, and others.</p>\n<p>As part of my obsession, I tried googling to figure out which tool is better (it mainly came to Alfred vs. Raycast). Still, there isn't any clear-cut answer, and I haven't managed to come across too much information from the last months (Raycast is relatively a new player in this market).</p>\n<p>It does seem that the audience is somewhat preferring Alfred because of three main reasons:</p>\n<ol>\n<li>Some say it's faster.</li>\n<li>Its community is older, with more extensions/workflows, etc.</li>\n<li>Many users suspect that Raycast will become a freemium product to return the investment, and there will be some subscription model.</li>\n</ol>\n<p>The best thing to do is try Alfred myself and decide (and perhaps I will). Still, the reason for this post is I put a lot of effort into customizing Raycast, and since this is quite an intense period for me, I don't want to spend a lot of extra time testing Alfred at the moment (even though it's an addiction, I know).</p>\n<p>TLDR; Now, after Racycast has matured a bit since its release, what do you guys think? Is Alfred significantly faster? Is one of the tools more intuitive than the other for you? If so, why?</p>\n<p>Even to those of you that prefer Raycast over Alfred, do you estimate that the competition would cause Alfred to improve significantly now?</p></div>",
+            "date_published": "2022-02-01T15:43:54+00:00",
+            "authors": [
+                {
+                    "name": "bayesrocks",
+                    "url": "https://www.reddit.com/user/bayesrocks"
+                }
+            ]
+        },
+        {
             "id": "shkwgq",
             "url": "/r/macapps/comments/shkwgq/looking_for_an_app_that_may_save_windows/",
             "external_url": "https://www.reddit.com/r/macapps/comments/shkwgq/looking_for_an_app_that_may_save_windows/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "umair_zubair123",
                     "url": "https://www.reddit.com/user/umair_zubair123"
-                }
-            ]
-        },
-        {
-            "id": "qq3zae",
-            "url": "/r/macapps/comments/qq3zae/best_email_app_to_utilize_gmail_labels/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/qq3zae/best_email_app_to_utilize_gmail_labels/",
-            "title": "Best email app to utilize gmail labels?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/qq3zae/best_email_app_to_utilize_gmail_labels/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/qq3zae/best_email_app_to_utilize_gmail_labels/'>Apollo</a></caption> <div><p>I'm currently using Superhuman, which lets me put key labels on different screens. But otherwise the app is lacking lots of features, and it's expensive. Spark only shows labels on the mac, and you can't view just one label at a time. Postbox doesn't have snooze or an ios app. What app should I try next??</p>\n<p>Tags would be ok too - either tags or labels. Thanks!</p></div>",
-            "date_published": "2021-11-09T13:44:26+00:00",
-            "authors": [
-                {
-                    "name": "kdern",
-                    "url": "https://www.reddit.com/user/kdern"
                 }
             ]
         }
