@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "sgy96t",
+            "url": "/r/selfhosted/comments/sgy96t/psa_linux_516_has_major_regression_in_btrfs/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/sgy96t/psa_linux_516_has_major_regression_in_btrfs/",
+            "title": "PSA: Linux 5.16 has major regression in btrfs causing extreme IO load",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/sgy96t/psa_linux_516_has_major_regression_in_btrfs/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/sgy96t/psa_linux_516_has_major_regression_in_btrfs/'>Apollo</a></caption> <div><p>Linux 5.16 saw some changes in the btrfs defragmentation code which introduced a regression that causes extreme write IO (and associated single-core 100% CPU load by a kernel thread named <code>btrfs-cleaner</code>). Apparently it's defragmenting in an infinite loop.</p>\n<p>It's affecting volumes mounted with <code>-o ssd,autodefrag</code>, which is the default in ~~most~~ some distributions (Manjaro, openSUSE installed with Calamares installer's defaults before 8 Dec 2021, possibly others). Check your <code>/etc/fstab</code>, if it doesn't have <code>autodefrag</code> on lines with <code>btrfs</code>, you're all right.</p>\n<p>This has the potential to wear out an SSD in a matter of weeks: on my Samsung PM981 Polaris 512GB this lead to 188 TB of writes in 10 days or so. That's several years of endurance gone. 370 full drive overwrites.</p>\n<p>The workaround is to disable autodefrag until this is resolved: <code>mount -o remount,noautodefrag /</code> and change <code>autodefrag</code> to <code>noautodefrag</code> in your <code>/etc/fstab</code>.</p>\n<p>Relevant linux mailing list thread: https://lore.kernel.org/linux-btrfs/CAEwRaO4y3PPPUdwYjNDoB9m9CLzfd3DFFk2iK1X6OyyEWG5-mg@mail.gmail.com/</p></div>",
+            "date_published": "2022-01-31T10:33:15+00:00",
+            "authors": [
+                {
+                    "name": "TueOct5",
+                    "url": "https://www.reddit.com/user/TueOct5"
+                }
+            ]
+        },
+        {
             "id": "sflrlc",
             "url": "/r/selfhosted/comments/sflrlc/selfhosting_security_guide_for_your_homelab_by/",
             "external_url": "https://www.youtube.com/watch?v=Cs8yOmTJNYQ",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "thecubiclejockey",
                     "url": "https://www.reddit.com/user/thecubiclejockey"
-                }
-            ]
-        },
-        {
-            "id": "qdigvy",
-            "url": "/r/selfhosted/comments/qdigvy/supabase_the_open_source_firebase_alternative/",
-            "external_url": "https://supabase.io/docs/guides/hosting/overview",
-            "title": "Supabase - the open source Firebase alternative (using Postgres)",
-            "content_html": "<caption>Open in: <a href='https://supabase.io/docs/guides/hosting/overview'>supabase.io</a> | <a href='https://reddit.com/r/selfhosted/comments/qdigvy/supabase_the_open_source_firebase_alternative/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/qdigvy/supabase_the_open_source_firebase_alternative/'>Apollo</a></caption>",
-            "date_published": "2021-10-22T14:46:04+00:00",
-            "authors": [
-                {
-                    "name": "kiwicopple",
-                    "url": "https://www.reddit.com/user/kiwicopple"
                 }
             ]
         }
