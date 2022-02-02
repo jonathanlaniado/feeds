@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "sioj2k",
+            "url": "/r/macapps/comments/sioj2k/comprehensive_list_of_free_not_necessarily_open/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/sioj2k/comprehensive_list_of_free_not_necessarily_open/",
+            "title": "Comprehensive list of free (not necessarily open source)?",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/sioj2k/comprehensive_list_of_free_not_necessarily_open/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/sioj2k/comprehensive_list_of_free_not_necessarily_open/'>Apollo</a></caption> <div><p>There have been some great posts on open source Mac apps and I applaud the Mac community for having so many of these but what about free apps that aren't open source? </p>\n<p>Just because you can't see the source or build it yourself doesn't mean the software is dangerous or useless.</p>\n<p>Thanks.</p></div>",
+            "date_published": "2022-02-02T13:20:26+00:00",
+            "authors": [
+                {
+                    "name": "mrbungle100",
+                    "url": "https://www.reddit.com/user/mrbungle100"
+                }
+            ]
+        },
+        {
             "id": "si4zmf",
             "url": "/r/macapps/comments/si4zmf/what_are_some_good_opensource_mac_apps_you_cant/",
             "external_url": "https://www.reddit.com/r/macapps/comments/si4zmf/what_are_some_good_opensource_mac_apps_you_cant/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ittrut",
                     "url": "https://www.reddit.com/user/ittrut"
-                }
-            ]
-        },
-        {
-            "id": "qr4yol",
-            "url": "/r/macapps/comments/qr4yol/what_are_your_favorite_productivity_apps/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/qr4yol/what_are_your_favorite_productivity_apps/",
-            "title": "What are your favorite productivity apps?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/qr4yol/what_are_your_favorite_productivity_apps/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/qr4yol/what_are_your_favorite_productivity_apps/'>Apollo</a></caption> <div><p>I'm just trying to wrap my head around the new Monterey shortcuts functions and found out about the powerpack functions of Alfred, Hazel and Keyboard Maestro, which I haven't heard about at all till now. </p>\n<p>So I was wondering, what are your favorite productivity apps? What apps help your workflow so much that you don't want to work without them anymore?</p></div>",
-            "date_published": "2021-11-10T21:41:53+00:00",
-            "authors": [
-                {
-                    "name": "Johnkree",
-                    "url": "https://www.reddit.com/user/Johnkree"
                 }
             ]
         }
