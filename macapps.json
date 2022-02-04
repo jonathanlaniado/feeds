@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "skk1eq",
+            "url": "/r/macapps/comments/skk1eq/linked_14x_your_free_and_opensource_daily_journal/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/skk1eq/linked_14x_your_free_and_opensource_daily_journal/",
+            "title": "linked 1.4.x - your free and opensource daily journal app",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/skk1eq/linked_14x_your_free_and_opensource_daily_journal/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/skk1eq/linked_14x_your_free_and_opensource_daily_journal/'>Apollo</a></caption> <div><p>Hi everyone!</p>\n<p>Meet linked, a daily journal app I started almost over a year ago! You basically have sticky notes and a calendar combined to be able to write down anything for every day. The idea back then was to create a tool in which I can write down my thoughts and forget about them until I need them again.</p>\n<p><strong>\ud83d\udd0e  new search feature</strong></p>\n<p>Just a few days ago I released v1.4.x, which now includes a search feature - so that I can find things that I've noted a while ago. The search works completely offline and maintains its search index on your device - so there is nothing that spies on your data.</p>\n<p><strong>\ud83d\udccdcustom file location</strong></p>\n<p>Another long-desired feature was implemented, which is the custom file location - which allows you to sync your data by putting linked's data path into your dropbox/drive or other cloud storage provider.</p>\n<p><strong>\ud83d\uddde better updates</strong></p>\n<p>Also new, the app now checks for updates every 24h or if you want, every 7 days. Before you had to restart the app and it would tell you wether there is an update or not as well as not being able to deny an update.</p>\n<p><strong>\ud83d\udc40 tldr</strong></p>\n<p>New linked version released, adds search and custom file location - allows you to do daily journaling - it is when notes meet a calendar.</p>\n<p><a href=\"https://github.com/lostdesign/linked\">https://github.com/lostdesign/linked</a></p></div>",
+            "date_published": "2022-02-04T18:07:54+00:00",
+            "authors": [
+                {
+                    "name": "lostpx",
+                    "url": "https://www.reddit.com/user/lostpx"
+                }
+            ]
+        },
+        {
             "id": "skan35",
             "url": "/r/macapps/comments/skan35/looking_glass_apple_music_remote_promo_codes/",
             "external_url": "https://www.reddit.com/r/macapps/comments/skan35/looking_glass_apple_music_remote_promo_codes/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "nielsmouthaan",
                     "url": "https://www.reddit.com/user/nielsmouthaan"
-                }
-            ]
-        },
-        {
-            "id": "qsdfd3",
-            "url": "/r/macapps/comments/qsdfd3/openin_210_50_discount_overall_free_for_macos/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/qsdfd3/openin_210_50_discount_overall_free_for_macos/",
-            "title": "OpenIn 2.1.0 - 50% discount overall, free for macOS Catalina",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/qsdfd3/openin_210_50_discount_overall_free_for_macos/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/qsdfd3/openin_210_50_discount_overall_free_for_macos/'>Apollo</a></caption> <div><p>I have started working on <a href=\"https://loshadki.app/openin/\">OpenIn vNext</a>, and decided that next major update of OpenIn is not going to support macOS Catalina. I am indie developer, just cannot have ability to test and support 2 versions behind. Also it is getting pretty hard to get access to older versions of macOS with M1.</p>\n<p>But I am not going to leave macOS Catalina users, for them I have provided a free version that is available from our <a href=\"https://loshadki.app/openin/#is-openin-available-on-macos-catalina-1015x\">website</a>. It is the last currently available version of OpenIn on app store (with just one fix for numeric keyboard).</p>\n<p>I am going to open a beta testing for OpenIn vNext soon, if you are interested, please subscribe to our newsletter (at the bottom of the page https://loshadki.app). I do not share emails with anybody, and send only announcements (probably sent 2-3 emails this year). One important detail about beta testing, it is going to be available via TestFlight for macOS, so you have to be on Monterey to participate. </p>\n<p>And the last thing, app is for $1.99 (instead of $4.99), Pro features are 2.99 (instead of $4.99) until November 30 (early Black Friday, Cyber Monday deal).</p>\n<p>Enjoy! Feedback and suggestions are always welcome! Work has started!</p></div>",
-            "date_published": "2021-11-12T15:20:16+00:00",
-            "authors": [
-                {
-                    "name": "outcoldman",
-                    "url": "https://www.reddit.com/user/outcoldman"
                 }
             ]
         }
