@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "smuss1",
+            "url": "/r/apple/comments/smuss1/ios_154_makes_shortcut_automations_way_less/",
+            "external_url": "https://www.theverge.com/2022/2/7/22921682/ios-15-4-beta-shortcut-automations-annoying-notifications-disable",
+            "title": "iOS 15.4 makes Shortcut automations way less annoying to use",
+            "content_html": "<caption>Open in: <a href='https://www.theverge.com/2022/2/7/22921682/ios-15-4-beta-shortcut-automations-annoying-notifications-disable'>www.theverge.com</a> | <a href='https://reddit.com/r/apple/comments/smuss1/ios_154_makes_shortcut_automations_way_less/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/smuss1/ios_154_makes_shortcut_automations_way_less/'>Apollo</a></caption>",
+            "date_published": "2022-02-07T16:51:49+00:00",
+            "authors": [
+                {
+                    "name": "miso25",
+                    "url": "https://www.reddit.com/user/miso25"
+                }
+            ]
+        },
+        {
             "id": "slqwtz",
             "url": "/r/apple/comments/slqwtz/angry_spouse_throws_imac_out_of_window_kills/",
             "external_url": "https://www.imore.com/angry-spouse-throws-imac-out-window-kills-pigeon",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "IndefiniteHypoaction",
                     "url": "https://www.reddit.com/user/IndefiniteHypoaction"
-                }
-            ]
-        },
-        {
-            "id": "r5qc1l",
-            "url": "/r/apple/comments/r5qc1l/translucent_airpods_and_29w_power_adapter/",
-            "external_url": "https://www.macrumors.com/2021/11/30/translucent-airpods-and-29w-adapter-prototypes/",
-            "title": "Translucent AirPods and 29W Power Adapter Prototypes Surface in Photos",
-            "content_html": "<caption>Open in: <a href='https://www.macrumors.com/2021/11/30/translucent-airpods-and-29w-adapter-prototypes/'>www.macrumors.com</a> | <a href='https://reddit.com/r/apple/comments/r5qc1l/translucent_airpods_and_29w_power_adapter/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/r5qc1l/translucent_airpods_and_29w_power_adapter/'>Apollo</a></caption>",
-            "date_published": "2021-11-30T15:56:55+00:00",
-            "authors": [
-                {
-                    "name": "Sorin61",
-                    "url": "https://www.reddit.com/user/Sorin61"
                 }
             ]
         }
