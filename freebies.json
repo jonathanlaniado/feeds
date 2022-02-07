@@ -1,0 +1,17 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "r/freebies",
+    "description": "We love free stuff! Free pointless fun stuff, free shirts, free food, free stickers, free events, free magazines, and anything else free. As long as it's 100% free, it belongs here.",
+    "home_page_url": "https://reddit.com",
+    "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/freebies.json",
+    "icon": "https://styles.redditmedia.com/t5_2qi1v/styles/communityIcon_i7wcgy3dwbs41.jpg",
+    "favicon": "https://styles.redditmedia.com/t5_2qi1v/styles/communityIcon_i7wcgy3dwbs41.jpg",
+    "items": [
+        {
+            "id": "0",
+            "url": "https://www.reddit.com/r/freebies",
+            "title": "r/freebies has been launched!",
+            "content_html": "<p>This feed will be populated as posts match the given criteria.</p>"
+        }
+    ]
+}
