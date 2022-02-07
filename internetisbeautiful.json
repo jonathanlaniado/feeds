@@ -8,6 +8,20 @@
     "favicon": "https://b.thumbs.redditmedia.com/k7fHE51fuhbYJRT2e9s1rXIp2ZtA7ks-cNFvQuNbfcE.png",
     "items": [
         {
+            "id": "smtu9p",
+            "url": "/r/InternetIsBeautiful/comments/smtu9p/i_made_the_super_fungible_token_a_website_where/",
+            "external_url": "https://superfungibletoken.com",
+            "title": "I made the Super Fungible Token, a website where anyone can funge the content of a non-fungible token.",
+            "content_html": "<caption>Open in: <a href='https://superfungibletoken.com'>superfungibletoken.com</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/smtu9p/i_made_the_super_fungible_token_a_website_where/'>Reddit</a> | <a href='apollo://reddit.com/r/InternetIsBeautiful/comments/smtu9p/i_made_the_super_fungible_token_a_website_where/'>Apollo</a></caption>",
+            "date_published": "2022-02-07T16:11:39+00:00",
+            "authors": [
+                {
+                    "name": "wttdotm",
+                    "url": "https://www.reddit.com/user/wttdotm"
+                }
+            ]
+        },
+        {
             "id": "sl3az9",
             "url": "/r/InternetIsBeautiful/comments/sl3az9/repair_guides_for_anything_you_can_find/",
             "external_url": "https://www.ifixit.com/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "asanefeed",
                     "url": "https://www.reddit.com/user/asanefeed"
-                }
-            ]
-        },
-        {
-            "id": "pquagq",
-            "url": "/r/InternetIsBeautiful/comments/pquagq/ipodjs_classic_ipod_interface_for_spotify_or/",
-            "external_url": "https://tannerv.com/ipod/",
-            "title": "iPod.js - Classic iPod interface for Spotify or Apple music library",
-            "content_html": "<caption>Open in: <a href='https://tannerv.com/ipod/'>tannerv.com</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/pquagq/ipodjs_classic_ipod_interface_for_spotify_or/'>Reddit</a> | <a href='apollo://reddit.com/r/InternetIsBeautiful/comments/pquagq/ipodjs_classic_ipod_interface_for_spotify_or/'>Apollo</a></caption>",
-            "date_published": "2021-09-18T20:53:20+00:00",
-            "authors": [
-                {
-                    "name": "yumetoyume",
-                    "url": "https://www.reddit.com/user/yumetoyume"
                 }
             ]
         }
