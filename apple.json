@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "snh06k",
+            "url": "/r/apple/comments/snh06k/nvidia_acquisition_of_arm_officially_terminated/",
+            "external_url": "https://m.gsmarena.com/new_arm_ceo_steps_in_as_nvidia_acquisition_is_officially_terminated-news-53062.php",
+            "title": "Nvidia acquisition of Arm officially terminated, chip-designer's CEO steps down",
+            "content_html": "<caption>Open in: <a href='https://m.gsmarena.com/new_arm_ceo_steps_in_as_nvidia_acquisition_is_officially_terminated-news-53062.php'>m.gsmarena.com</a> | <a href='https://reddit.com/r/apple/comments/snh06k/nvidia_acquisition_of_arm_officially_terminated/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/snh06k/nvidia_acquisition_of_arm_officially_terminated/'>Apollo</a></caption>",
+            "date_published": "2022-02-08T10:24:05+00:00",
+            "authors": [
+                {
+                    "name": "nizasiwale",
+                    "url": "https://www.reddit.com/user/nizasiwale"
+                }
+            ]
+        },
+        {
             "id": "smuss1",
             "url": "/r/apple/comments/smuss1/ios_154_makes_shortcut_automations_way_less/",
             "external_url": "https://www.theverge.com/2022/2/7/22921682/ios-15-4-beta-shortcut-automations-annoying-notifications-disable",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "spartanwolff",
                     "url": "https://www.reddit.com/user/spartanwolff"
-                }
-            ]
-        },
-        {
-            "id": "r5whkc",
-            "url": "/r/apple/comments/r5whkc/new_foia_document_outlines_fbi_access_to_popular/",
-            "external_url": "https://propertyofthepeople.org/document-detail/?doc-id=21114562",
-            "title": "New FOIA document outlines FBI access to popular encrypted messaging apps, including iMessage",
-            "content_html": "<caption>Open in: <a href='https://propertyofthepeople.org/document-detail/?doc-id=21114562'>propertyofthepeople.org</a> | <a href='https://reddit.com/r/apple/comments/r5whkc/new_foia_document_outlines_fbi_access_to_popular/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/r5whkc/new_foia_document_outlines_fbi_access_to_popular/'>Apollo</a></caption>",
-            "date_published": "2021-11-30T20:24:07+00:00",
-            "authors": [
-                {
-                    "name": "IndefiniteHypoaction",
-                    "url": "https://www.reddit.com/user/IndefiniteHypoaction"
                 }
             ]
         }
