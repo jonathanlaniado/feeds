@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "sokruh",
+            "url": "/r/apple/comments/sokruh/craig_federighi_on_mixed_reality_i_dont_know/",
+            "external_url": "https://www.youtube.com/watch?v=SB2bLnLkvbM",
+            "title": "Craig Federighi on mixed reality: \"I don\u2019t know anything about what you\u2019re talking about.\"",
+            "content_html": "<caption>Open in: <a href='https://www.youtube.com/watch?v=SB2bLnLkvbM'>www.youtube.com</a> | <a href='https://reddit.com/r/apple/comments/sokruh/craig_federighi_on_mixed_reality_i_dont_know/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/sokruh/craig_federighi_on_mixed_reality_i_dont_know/'>Apollo</a></caption>",
+            "date_published": "2022-02-09T18:47:07+00:00",
+            "authors": [
+                {
+                    "name": "Fjdjajajak",
+                    "url": "https://www.reddit.com/user/Fjdjajajak"
+                }
+            ]
+        },
+        {
             "id": "snsq2e",
             "url": "/r/apple/comments/snsq2e/psa_clean_your_friggin_airpods_before_bringing/",
             "external_url": "https://www.reddit.com/r/apple/comments/snsq2e/psa_clean_your_friggin_airpods_before_bringing/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "hummuschips",
                     "url": "https://www.reddit.com/user/hummuschips"
-                }
-            ]
-        },
-        {
-            "id": "r7w3tl",
-            "url": "/r/apple/comments/r7w3tl/bilingual_iphone_users_how_do_you_handle_siri/",
-            "external_url": "https://www.reddit.com/r/apple/comments/r7w3tl/bilingual_iphone_users_how_do_you_handle_siri/",
-            "title": "Bilingual iPhone users, how do you handle Siri only being set to one language at a time?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/apple/comments/r7w3tl/bilingual_iphone_users_how_do_you_handle_siri/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/r7w3tl/bilingual_iphone_users_how_do_you_handle_siri/'>Apollo</a></caption> <div><p>I\u2019m Swedish and fluent in both Swedish and English. Siri handles English better, and some features are only available when set to English. </p>\n<p>So I set it to English. Now I can play songs on Spotify with English titles, and I can control my smart home. Then someone texts me in Swedish and Siri starts reading it, and you can\u2019t understand a word. Nor can I respond in Swedish. </p>\n<p>So I set Siri to Swedish. Now the calendar reads stuff correctly, texts are read correctly\u2026 until someone texts me in English. And I can\u2019t play any Spotify songs unless they have Swedish titles.</p>\n<p>And so it goes\u2026</p>\n<p>I remember using googles voice assistant and it switched between languages depending on what language you spoke in.</p>\n<p>How come Siri doesn\u2019t? And how do you handle it?</p></div>",
-            "date_published": "2021-12-03T10:21:52+00:00",
-            "authors": [
-                {
-                    "name": "MrOaiki",
-                    "url": "https://www.reddit.com/user/MrOaiki"
                 }
             ]
         }
