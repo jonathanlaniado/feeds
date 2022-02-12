@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "sq79tv",
+            "url": "/r/apple/comments/sq79tv/iphone_13_is_significantly_faster_than_samsungs/",
+            "external_url": "https://www.macrumors.com/2022/02/11/samsung-galaxy-s22-vs-iphone-13-benchmark/",
+            "title": "iPhone 13 is Significantly Faster Than Samsung's New Galaxy S22 in Benchmarks",
+            "content_html": "<caption>Open in: <a href='https://www.macrumors.com/2022/02/11/samsung-galaxy-s22-vs-iphone-13-benchmark/'>www.macrumors.com</a> | <a href='https://reddit.com/r/apple/comments/sq79tv/iphone_13_is_significantly_faster_than_samsungs/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/sq79tv/iphone_13_is_significantly_faster_than_samsungs/'>Apollo</a></caption>",
+            "date_published": "2022-02-11T19:20:44+00:00",
+            "authors": [
+                {
+                    "name": "eighty__six",
+                    "url": "https://www.reddit.com/user/eighty__six"
+                }
+            ]
+        },
+        {
             "id": "sq210f",
             "url": "/r/apple/comments/sq210f/mac_users_report_zoom_using_their_microphone/",
             "external_url": "https://www.theregister.com/2022/02/10/zoom_mac_microphone/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Unicorn_Spacesuit",
                     "url": "https://www.reddit.com/user/Unicorn_Spacesuit"
-                }
-            ]
-        },
-        {
-            "id": "r8rk9x",
-            "url": "/r/apple/comments/r8rk9x/psa_windows_11_works_on_bootcamp_with_an/",
-            "external_url": "https://github.com/coofcookie/Windows11Upgrade",
-            "title": "PSA: Windows 11 works on Bootcamp with an installer that bypasses Microsofts requirements",
-            "content_html": "<caption>Open in: <a href='https://github.com/coofcookie/Windows11Upgrade'>github.com</a> | <a href='https://reddit.com/r/apple/comments/r8rk9x/psa_windows_11_works_on_bootcamp_with_an/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/r8rk9x/psa_windows_11_works_on_bootcamp_with_an/'>Apollo</a></caption>",
-            "date_published": "2021-12-04T15:08:43+00:00",
-            "authors": [
-                {
-                    "name": "creamlordcum",
-                    "url": "https://www.reddit.com/user/creamlordcum"
                 }
             ]
         }
