@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "styctv",
+            "url": "/r/apple/comments/styctv/google_plans_privacy_change_similar_to_apples/",
+            "external_url": "https://www.cnbc.com/2022/02/16/google-plans-android-privacy-change-similar-to-apples.html",
+            "title": "Google plans privacy change similar to Apple\u2019s, which wiped $230 billion off Facebook\u2019s market cap",
+            "content_html": "<caption>Open in: <a href='https://www.cnbc.com/2022/02/16/google-plans-android-privacy-change-similar-to-apples.html'>www.cnbc.com</a> | <a href='https://reddit.com/r/apple/comments/styctv/google_plans_privacy_change_similar_to_apples/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/styctv/google_plans_privacy_change_similar_to_apples/'>Apollo</a></caption>",
+            "date_published": "2022-02-16T15:18:00+00:00",
+            "authors": [
+                {
+                    "name": "Dragonlance12",
+                    "url": "https://www.reddit.com/user/Dragonlance12"
+                }
+            ]
+        },
+        {
             "id": "stw9f8",
             "url": "/r/apple/comments/stw9f8/youtube_again_extends_its_ios_pictureinpicture/",
             "external_url": "https://www.imore.com/youtube-again-extends-its-ios-picture-picture-test-phase-now-ends-march-14",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Guilty_Commission_79",
                     "url": "https://www.reddit.com/user/Guilty_Commission_79"
-                }
-            ]
-        },
-        {
-            "id": "rbykuz",
-            "url": "/r/apple/comments/rbykuz/hidden_photos_should_have_face_id_even_after/",
-            "external_url": "https://www.reddit.com/r/apple/comments/rbykuz/hidden_photos_should_have_face_id_even_after/",
-            "title": "Hidden Photos should have face ID even after phone unlock.",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/apple/comments/rbykuz/hidden_photos_should_have_face_id_even_after/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/rbykuz/hidden_photos_should_have_face_id_even_after/'>Apollo</a></caption> <div><p>This would be a great feature for when people have to take their devices to service centers/apple stores. </p>\n<p>Thoughts?</p></div>",
-            "date_published": "2021-12-08T19:11:29+00:00",
-            "authors": [
-                {
-                    "name": "GameM8FeedRepeat",
-                    "url": "https://www.reddit.com/user/GameM8FeedRepeat"
                 }
             ]
         }
