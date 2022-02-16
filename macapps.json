@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "stf1bd",
+            "url": "/r/macapps/comments/stf1bd/a_beautiful_list_of_beautiful_apps/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/stf1bd/a_beautiful_list_of_beautiful_apps/",
+            "title": "A Beautiful List of Beautiful Apps",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/stf1bd/a_beautiful_list_of_beautiful_apps/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/stf1bd/a_beautiful_list_of_beautiful_apps/'>Apollo</a></caption> <div><p>I thought I would sort out my list of apps, ready for a clean-install on my Mac. And while doing it, I thought I'd make things look fancy in Craft, and share them with this awesome sub. Enjoy!</p>\n<p><a href=\"https://www.craft.do/s/MWYZalJDOFTUjA\">https://www.craft.do/s/MWYZalJDOFTUjA</a></p></div>",
+            "date_published": "2022-02-15T22:18:37+00:00",
+            "authors": [
+                {
+                    "name": "scribblenik",
+                    "url": "https://www.reddit.com/user/scribblenik"
+                }
+            ]
+        },
+        {
             "id": "st61i3",
             "url": "/r/macapps/comments/st61i3/productvity_close_all_apps_in_one_click/",
             "external_url": "https://www.arun.is/blog/automator-quit-all/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "i3li11",
                     "url": "https://www.reddit.com/user/i3li11"
-                }
-            ]
-        },
-        {
-            "id": "r0uplf",
-            "url": "/r/macapps/comments/r0uplf/a_definitive_pdf_reader_comparison/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/r0uplf/a_definitive_pdf_reader_comparison/",
-            "title": "A Definitive PDF Reader Comparison",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/r0uplf/a_definitive_pdf_reader_comparison/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/r0uplf/a_definitive_pdf_reader_comparison/'>Apollo</a></caption> <div><p>As a graphic designer who switched from the Adobe suite to Affinity a year ago, I've become increasingly interested in the best PDF reader/editor that is not subscription-based. The frustration is that there are so many apps out there, and many of them are garbage. Like buying a mattress, it seems like every review out there is incomplete or paid for by one of them. So I decided to install all the serious PDF readers/editors I could find and spend half the day looking for the best option. Hope this helps someone, as I've seen plenty of posts looking in the past. </p>\n<p><a href=\"https://docs.google.com/spreadsheets/d/1pCt75tHayO_QJO2swREcZEgAFEhrm9-3pnDogh5kpRM\">PDF Reader Comparison Spreadsheet</a></p>\n<p>I don't claim perfection, so if I missed something, please let me know and I'll correct it. I'm not affiliated with any of these in any way whatsoever.</p></div>",
-            "date_published": "2021-11-24T03:03:16+00:00",
-            "authors": [
-                {
-                    "name": "Mstormer",
-                    "url": "https://www.reddit.com/user/Mstormer"
                 }
             ]
         }
