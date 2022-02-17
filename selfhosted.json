@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "su6tv3",
+            "url": "/r/selfhosted/comments/su6tv3/grist_free_open_source_alternative_to_airtable/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/su6tv3/grist_free_open_source_alternative_to_airtable/",
+            "title": "Grist - Free open source alternative to Airtable and Google Sheets. A relational spreadsheet UI to SQLite database with customizable layouts, data linking, and Python formulas.",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/su6tv3/grist_free_open_source_alternative_to_airtable/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/su6tv3/grist_free_open_source_alternative_to_airtable/'>Apollo</a></caption> <div><p>Wanted to share what we've been working on at Grist. GitHub Link: <a href=\"https://github.com/gristlabs/grist-core#readme\">https://github.com/gristlabs/grist-core#readme</a>  </p>\n<p>Key features:  </p>\n<ul>\n<li>Full\u00a0<a href=\"https://support.getgrist.com/formulas/#python\">Python syntax is supported</a>, and the standard library.</li>\n<li>Many\u00a0<a href=\"https://support.getgrist.com/functions/\">Excel functions</a>\u00a0also available.</li>\n<li>A portable, self-contained format based on SQLite.</li>\n<li>Integration options include\u00a0<a href=\"https://support.getgrist.com/api/\">REST API</a>,\u00a0<a href=\"https://docs.n8n.io/nodes/n8n-nodes-base.grist/\">n8n</a>, and support from similar\u00a0<a href=\"https://support.getgrist.com/integrators/\">integrators</a>.</li>\n<li>Can create custom views of data with custom widgets, hosted externally.</li>\n<li>If you setup SSO logins, access control options can be granular, granting users access to\u00a0<a href=\"https://support.getgrist.com/access-rules/\">individual rows, columns, and tables</a> based on values in cells and user attributes, such as login email.  </li>\n</ul>\n<p>Current grist-core version is 0.7.4.</p></div>",
+            "date_published": "2022-02-16T21:23:49+00:00",
+            "authors": [
+                {
+                    "name": "anaisconce",
+                    "url": "https://www.reddit.com/user/anaisconce"
+                }
+            ]
+        },
+        {
             "id": "smuf49",
             "url": "/r/selfhosted/comments/smuf49/snapdrop_a_dead_simple_selfhostable_way_to/",
             "external_url": "https://github.com/RobinLinus/snapdrop",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "goose_ws",
                     "url": "https://www.reddit.com/user/goose_ws"
-                }
-            ]
-        },
-        {
-            "id": "qi8r7d",
-            "url": "/r/selfhosted/comments/qi8r7d/opensource_is_eating_the_world_exfirebase/",
-            "external_url": "https://hazardlights.net/2021/10/26/our-investment-in-appwrite/",
-            "title": "Open-source is eating the world: Ex-Firebase investor co-leads a $10m seed round for the open-source alternative",
-            "content_html": "<caption>Open in: <a href='https://hazardlights.net/2021/10/26/our-investment-in-appwrite/'>hazardlights.net</a> | <a href='https://reddit.com/r/selfhosted/comments/qi8r7d/opensource_is_eating_the_world_exfirebase/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/qi8r7d/opensource_is_eating_the_world_exfirebase/'>Apollo</a></caption>",
-            "date_published": "2021-10-29T09:16:16+00:00",
-            "authors": [
-                {
-                    "name": "thecouchdev",
-                    "url": "https://www.reddit.com/user/thecouchdev"
                 }
             ]
         }
