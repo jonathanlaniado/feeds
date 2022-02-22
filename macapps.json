@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "syj6bw",
+            "url": "/r/macapps/comments/syj6bw/penc_trackpadoriented_window_manager_for_macos/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/syj6bw/penc_trackpadoriented_window_manager_for_macos/",
+            "title": "Penc - Trackpad-oriented window manager for macOS",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/syj6bw/penc_trackpadoriented_window_manager_for_macos/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/syj6bw/penc_trackpadoriented_window_manager_for_macos/'>Apollo</a></caption> <div><p><a href=\"https://github.com/dgurkaynak/Penc\">https://github.com/dgurkaynak/Penc</a></p>\n<p>I discovered this app a couple of months ago and, after having extensively used it, I think more people should know about it.</p>\n<p>It is basically a window manager app for macOS but instead of complicated keyboard shortcuts, Penc is primarily designed towards trackpad usage. You activate it by double-pressing a modifier key and keeping it held down (you can adjust the sensitivity and duration). This will show an overlay of all your current windows with their name and window size. Moving the mouse over an application will highlight said app with a blue border letting you know you are controlling its window. At this point you just swipe with two fingers (with your other hand since you are still holding down the modifier key) in the direction of your preference and it\u2019ll dock it there. The neat thing is you can also use the arrow keys to perform the same actions. Double-clicking on a window will maximize it and you can than use the pinch gesture to scale the window to your liking (also just in one direction). Right clicking a window will minimize it.</p>\n<p>This has honestly changed how I interact with my computer. It doesn't have the same amount of window placements as other window managers but it is so quick and easy without needing to remember the blob of keyboard shortcuts.</p></div>",
+            "date_published": "2022-02-22T09:13:36+00:00",
+            "authors": [
+                {
+                    "name": "ArchitectNaut",
+                    "url": "https://www.reddit.com/user/ArchitectNaut"
+                }
+            ]
+        },
+        {
             "id": "sxuxqx",
             "url": "/r/macapps/comments/sxuxqx/i_made_a_menu_bar_app_that_saves_all_your_windows/",
             "external_url": "https://v.redd.it/qnbxjfpz57j81",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "DansGearAddiction",
                     "url": "https://www.reddit.com/user/DansGearAddiction"
-                }
-            ]
-        },
-        {
-            "id": "r1qzpw",
-            "url": "/r/macapps/comments/r1qzpw/github_waydabberbetterdummy_software_dummy/",
-            "external_url": "https://github.com/waydabber/BetterDummy",
-            "title": "GitHub - waydabber/BetterDummy: Software Dummy Display Adapter for Apple Silicon/Intel Macs to Have Custom HiDPI Resolutions.",
-            "content_html": "<caption>Open in: <a href='https://github.com/waydabber/BetterDummy'>github.com</a> | <a href='https://reddit.com/r/macapps/comments/r1qzpw/github_waydabberbetterdummy_software_dummy/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/r1qzpw/github_waydabberbetterdummy_software_dummy/'>Apollo</a></caption>",
-            "date_published": "2021-11-25T07:26:08+00:00",
-            "authors": [
-                {
-                    "name": "davidmorelo",
-                    "url": "https://www.reddit.com/user/davidmorelo"
                 }
             ]
         }
