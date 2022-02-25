@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "t0sp9o",
+            "url": "/r/macapps/comments/t0sp9o/shout_out_to_wipr/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/t0sp9o/shout_out_to_wipr/",
+            "title": "Shout Out to Wipr!",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/t0sp9o/shout_out_to_wipr/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/t0sp9o/shout_out_to_wipr/'>Apollo</a></caption> <div><p>I have tried out numerous AdBlocker apps......Adguard, 1Blocker, Adblock and several more......and Wipr turned out to be the best of the bunch. Lightweight on system resources, small footprint, easy to set up and very effective including stopping YouTube ads. Nice job Team Wipr. I left you a generous donation!</p></div>",
+            "date_published": "2022-02-25T02:41:45+00:00",
+            "authors": [
+                {
+                    "name": "lionbites",
+                    "url": "https://www.reddit.com/user/lionbites"
+                }
+            ]
+        },
+        {
             "id": "t0gf9a",
             "url": "/r/macapps/comments/t0gf9a/a_stealth_airtag_clone_that_bypasses_all_of/",
             "external_url": "https://github.com/positive-security/find-you",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "brainplot",
                     "url": "https://www.reddit.com/user/brainplot"
-                }
-            ]
-        },
-        {
-            "id": "r36axf",
-            "url": "/r/macapps/comments/r36axf/cleanshot_x_30_off_is_it_worth_it/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/r36axf/cleanshot_x_30_off_is_it_worth_it/",
-            "title": "CleanShot X 30% off (Is it worth it?)",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/r36axf/cleanshot_x_30_off_is_it_worth_it/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/r36axf/cleanshot_x_30_off_is_it_worth_it/'>Apollo</a></caption> <div><p>Was thinking about buying CleanShot X a while back but I use Lightshot which is quite laggy on macOS works great on Windows though. Is there any screenshot tool better, free or paid? Just want to know before I purchase.</p></div>",
-            "date_published": "2021-11-27T05:27:02+00:00",
-            "authors": [
-                {
-                    "name": "be_matthew",
-                    "url": "https://www.reddit.com/user/be_matthew"
                 }
             ]
         }
