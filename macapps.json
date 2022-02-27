@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "t2jkq1",
+            "url": "/r/macapps/comments/t2jkq1/first_own_macbook_any_must_have_apps/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/t2jkq1/first_own_macbook_any_must_have_apps/",
+            "title": "First own Macbook, any \u201dmust have apps\u201c?",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/t2jkq1/first_own_macbook_any_must_have_apps/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/t2jkq1/first_own_macbook_any_must_have_apps/'>Apollo</a></caption> <div><p>Hey</p>\n<p>So I got my first Macbook yesterday. It\u2019s a 16\u201c M1 Pro base model. Are there any apps I need?</p>\n<p>I mostly want to use it for content creation and graphical work, as I\u2019m currently in an design school. \nI also plan to use it for at least about 5 years. </p>\n<p>Greetings \neinhaufenpizza</p></div>",
+            "date_published": "2022-02-27T08:21:04+00:00",
+            "authors": [
+                {
+                    "name": "einhaufenpizza",
+                    "url": "https://www.reddit.com/user/einhaufenpizza"
+                }
+            ]
+        },
+        {
             "id": "t0sp9o",
             "url": "/r/macapps/comments/t0sp9o/shout_out_to_wipr/",
             "external_url": "https://www.reddit.com/r/macapps/comments/t0sp9o/shout_out_to_wipr/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "mightywomble",
                     "url": "https://www.reddit.com/user/mightywomble"
-                }
-            ]
-        },
-        {
-            "id": "r3hg25",
-            "url": "/r/macapps/comments/r3hg25/wireshark_360_released_with_apple_silicon_support/",
-            "external_url": "https://www.wireshark.org/news/20211122.html",
-            "title": "Wireshark 3.6.0 Released with Apple Silicon support",
-            "content_html": "<caption>Open in: <a href='https://www.wireshark.org/news/20211122.html'>www.wireshark.org</a> | <a href='https://reddit.com/r/macapps/comments/r3hg25/wireshark_360_released_with_apple_silicon_support/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/r3hg25/wireshark_360_released_with_apple_silicon_support/'>Apollo</a></caption>",
-            "date_published": "2021-11-27T16:49:15+00:00",
-            "authors": [
-                {
-                    "name": "brainplot",
-                    "url": "https://www.reddit.com/user/brainplot"
                 }
             ]
         }
