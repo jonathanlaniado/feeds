@@ -8,6 +8,20 @@
     "favicon": "https://b.thumbs.redditmedia.com/k7fHE51fuhbYJRT2e9s1rXIp2ZtA7ks-cNFvQuNbfcE.png",
     "items": [
         {
+            "id": "t44z8f",
+            "url": "/r/InternetIsBeautiful/comments/t44z8f/if_twittercom_is_replaced_with_nitternet_in_links/",
+            "external_url": "https://nitter.net/",
+            "title": "If \"twitter.com\" is replaced with \"nitter.net\" in links, you can read without login constraints",
+            "content_html": "<caption>Open in: <a href='https://nitter.net/'>nitter.net</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/t44z8f/if_twittercom_is_replaced_with_nitternet_in_links/'>Reddit</a> | <a href='apollo://reddit.com/r/InternetIsBeautiful/comments/t44z8f/if_twittercom_is_replaced_with_nitternet_in_links/'>Apollo</a></caption>",
+            "date_published": "2022-03-01T10:32:10+00:00",
+            "authors": [
+                {
+                    "name": "Wolfframm",
+                    "url": "https://www.reddit.com/user/Wolfframm"
+                }
+            ]
+        },
+        {
             "id": "t3emmc",
             "url": "/r/InternetIsBeautiful/comments/t3emmc/foldinghome_is_a_nonprofit_project_that_aims_to/",
             "external_url": "https://stats.foldingathome.org/team",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "stabby-cicada",
                     "url": "https://www.reddit.com/user/stabby-cicada"
-                }
-            ]
-        },
-        {
-            "id": "q35dxa",
-            "url": "/r/InternetIsBeautiful/comments/q35dxa/learn_about_thinking_errors_that_can_be_damaging/",
-            "external_url": "https://ddlamm.itch.io/thinking-errors",
-            "title": "Learn about thinking errors that can be damaging to mental health (each playthrough gives unique scenario)",
-            "content_html": "<caption>Open in: <a href='https://ddlamm.itch.io/thinking-errors'>ddlamm.itch.io</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/q35dxa/learn_about_thinking_errors_that_can_be_damaging/'>Reddit</a> | <a href='apollo://reddit.com/r/InternetIsBeautiful/comments/q35dxa/learn_about_thinking_errors_that_can_be_damaging/'>Apollo</a></caption>",
-            "date_published": "2021-10-07T09:33:18+00:00",
-            "authors": [
-                {
-                    "name": "nekoike",
-                    "url": "https://www.reddit.com/user/nekoike"
                 }
             ]
         }
