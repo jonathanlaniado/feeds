@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "tbk8i8",
+            "url": "/r/macapps/comments/tbk8i8/mirror_your_ipad_or_iphone_screen_on_the_mac_over/",
+            "external_url": "https://apps.apple.com/app/screen-mirror-over-usb/id1612180624?mt=12",
+            "title": "Mirror your iPad or iPhone screen on the Mac over USB. Just plug in the iPhone or iPad into the Mac and the phone screen will be displayed in a window. It's a free app. Use KeyPad (another Mac App I wrote) to control the device with your Mac mouse and keyboard.",
+            "content_html": "<caption>Open in: <a href='https://apps.apple.com/app/screen-mirror-over-usb/id1612180624?mt=12'>apps.apple.com</a> | <a href='https://reddit.com/r/macapps/comments/tbk8i8/mirror_your_ipad_or_iphone_screen_on_the_mac_over/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/tbk8i8/mirror_your_ipad_or_iphone_screen_on_the_mac_over/'>Apollo</a></caption>",
+            "date_published": "2022-03-11T06:57:34+00:00",
+            "authors": [
+                {
+                    "name": "toolbunch",
+                    "url": "https://www.reddit.com/user/toolbunch"
+                }
+            ]
+        },
+        {
             "id": "tauo1z",
             "url": "/r/macapps/comments/tauo1z/adguards_responses_to_allegations/",
             "external_url": "https://www.reddit.com/r/macapps/comments/tauo1z/adguards_responses_to_allegations/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "vacmeup",
                     "url": "https://www.reddit.com/user/vacmeup"
-                }
-            ]
-        },
-        {
-            "id": "r5ro7q",
-            "url": "/r/macapps/comments/r5ro7q/speediness_check_your_internet_speed_and_ping/",
-            "external_url": "https://apps.apple.com/app/id1596706466",
-            "title": "Speediness \u2014 Check your internet speed and ping",
-            "content_html": "<caption>Open in: <a href='https://apps.apple.com/app/id1596706466'>apps.apple.com</a> | <a href='https://reddit.com/r/macapps/comments/r5ro7q/speediness_check_your_internet_speed_and_ping/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/r5ro7q/speediness_check_your_internet_speed_and_ping/'>Apollo</a></caption>",
-            "date_published": "2021-11-30T16:56:11+00:00",
-            "authors": [
-                {
-                    "name": "sindresorhus",
-                    "url": "https://www.reddit.com/user/sindresorhus"
                 }
             ]
         }
