@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "tbcuf0",
+            "url": "/r/selfhosted/comments/tbcuf0/announcing_first_release_of_paperlessngx_the/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/tbcuf0/announcing_first_release_of_paperlessngx_the/",
+            "title": "Announcing first release of Paperless-ngx, the community-supported successor to Paperless-ng",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/tbcuf0/announcing_first_release_of_paperlessngx_the/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/tbcuf0/announcing_first_release_of_paperlessngx_the/'>Apollo</a></caption> <div><p>Aloha self-hosters, home-labbers and FOSS-lovers\u2014we are happy to announce the first release of <strong>Paperless-ngx</strong> a successor to the awesome DMS <strong>Paperless-ng</strong>. Migrating from -ng is as easy as pointing your docker image to the new location ( <code>ghcr.io/paperless-ngx/paperless-ngx:latest</code> ) and re-creating (<em>reminder: backup first</em>). </p>\n<p><strong>Paperless-ngx</strong> is focused on being community-driven, this release alone has contributions from over 50 (!) people with over 250 commits since the old repository and includes new features, bug fixes and security updates. If you're interested, please check it out (there's a demo now too) and if you're willing to contribute we'd love to have you, we are already working on more features for the next release!</p>\n<p><a href=\"https://github.com/paperless-ngx/paperless-ngx\">https://github.com/paperless-ngx/paperless-ngx</a></p>\n<p>&#x200B;</p>\n<p><em>More info for the curious:</em></p>\n<p>As many of you know \"Paperless-ng\" was a very popular fork of the  document management system \"Paperless\". The initial author of -ng, Jonas Winkler, <a href=\"https://www.reddit.com/r/selfhosted/comments/k28247/paperlessng_is_here_almost/\">created an amazing project</a> that was <a href=\"https://github.com/the-paperless-project/paperless/commit/9b0063c9731f7c5f65b1852cb8caff97f5e40ba4\">eventually designated</a> as the 'official' successor. He maintained a furious development pace for some time but as of this post hasn't been heard from in months. A group of folks dedicated to the software (myself included) decided to try and revive the project and hopefully set it up for a long future. Yes, a similar thing happened with the original Paperless, we are hoping to avoid some of the same mistakes. See <a href=\"https://github.com/jonaswinkler/paperless-ng/issues/1632\">jonaswinkler/paperless-ng#</a><a href=\"https://github.com/jonaswinkler/paperless-ng/issues/1599\">1599</a>, <a href=\"https://github.com/jonaswinkler/paperless-ng/issues/1632\">jonaswinkler/paperless-ng#1632</a> and historically <a href=\"https://github.com/the-paperless-project/paperless/issues/711\">the-paperless-project/paperless#711</a> if you are curious for more about all of this.</p>\n<p>&#x200B;</p>\n<p><em>FYI</em>:</p>\n<p>I'm <code>@shamoon</code> on Github, have contributed heavily to -ng and now -ngx so yes I'm biased! I don't speak for the group as a whole.</p></div>",
+            "date_published": "2022-03-10T23:59:49+00:00",
+            "authors": [
+                {
+                    "name": "nikonratm",
+                    "url": "https://www.reddit.com/user/nikonratm"
+                }
+            ]
+        },
+        {
             "id": "t8oj4a",
             "url": "/r/selfhosted/comments/t8oj4a/a_vulnerability_in_the_linux_kernel_since_58/",
             "external_url": "https://dirtypipe.cm4all.com/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "fiveSE7EN",
                     "url": "https://www.reddit.com/user/fiveSE7EN"
-                }
-            ]
-        },
-        {
-            "id": "qqv0qq",
-            "url": "/r/selfhosted/comments/qqv0qq/snippet_box_organize_your_code_snippets/",
-            "external_url": "https://i.redd.it/4ztercltxry71.png",
-            "title": "Snippet Box - organize your code snippets!",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/4ztercltxry71.png'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/qqv0qq/snippet_box_organize_your_code_snippets/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/qqv0qq/snippet_box_organize_your_code_snippets/'>Apollo</a></caption>",
-            "date_published": "2021-11-10T13:58:09+00:00",
-            "authors": [
-                {
-                    "name": "smarthomepursuits",
-                    "url": "https://www.reddit.com/user/smarthomepursuits"
                 }
             ]
         }
