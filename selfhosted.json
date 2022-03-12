@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "tc0p0u",
+            "url": "/r/selfhosted/comments/tc0p0u/say_hello_to_the_brand_new_ntfysh_web_app_push/",
+            "external_url": "https://i.redd.it/fkaoh3lxotm81.png",
+            "title": "Say hello to the brand new ntfy.sh web app \ud83e\udd73 \ud83c\udf89 -- push notifications via PUT/POST to browser or phone",
+            "content_html": "<caption>Open in: <a href='https://i.redd.it/fkaoh3lxotm81.png'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/tc0p0u/say_hello_to_the_brand_new_ntfysh_web_app_push/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/tc0p0u/say_hello_to_the_brand_new_ntfysh_web_app_push/'>Apollo</a></caption>",
+            "date_published": "2022-03-11T21:33:12+00:00",
+            "authors": [
+                {
+                    "name": "binwiederhier",
+                    "url": "https://www.reddit.com/user/binwiederhier"
+                }
+            ]
+        },
+        {
             "id": "tbcuf0",
             "url": "/r/selfhosted/comments/tbcuf0/announcing_first_release_of_paperlessngx_the/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/tbcuf0/announcing_first_release_of_paperlessngx_the/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "A1689-zD1",
                     "url": "https://www.reddit.com/user/A1689-zD1"
-                }
-            ]
-        },
-        {
-            "id": "qqzp9s",
-            "url": "/r/selfhosted/comments/qqzp9s/reminder_to_do_some_docker_maintenance/",
-            "external_url": "https://i.imgur.com/HTLL99Y.png",
-            "title": "Reminder to do some docker maintenance",
-            "content_html": "<caption>Open in: <a href='https://i.imgur.com/HTLL99Y.png'>i.imgur.com</a> | <a href='https://reddit.com/r/selfhosted/comments/qqzp9s/reminder_to_do_some_docker_maintenance/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/qqzp9s/reminder_to_do_some_docker_maintenance/'>Apollo</a></caption>",
-            "date_published": "2021-11-10T17:38:20+00:00",
-            "authors": [
-                {
-                    "name": "fiveSE7EN",
-                    "url": "https://www.reddit.com/user/fiveSE7EN"
                 }
             ]
         }
