@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "tdgsc0",
+            "url": "/r/macapps/comments/tdgsc0/i_just_released_version_10_of_my_transmission/",
+            "external_url": "http://jdiggity.me/mission/",
+            "title": "I just released version 1.0 of my transmission remote app for macOS! If you have a seedbox with transmission I'd really appreciate you checking it out and giving feedback. It's open source too!",
+            "content_html": "<caption>Open in: <a href='http://jdiggity.me/mission/'>jdiggity.me</a> | <a href='https://reddit.com/r/macapps/comments/tdgsc0/i_just_released_version_10_of_my_transmission/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/tdgsc0/i_just_released_version_10_of_my_transmission/'>Apollo</a></caption>",
+            "date_published": "2022-03-13T21:17:57+00:00",
+            "authors": [
+                {
+                    "name": "plays2",
+                    "url": "https://www.reddit.com/user/plays2"
+                }
+            ]
+        },
+        {
             "id": "tbk8i8",
             "url": "/r/macapps/comments/tbk8i8/mirror_your_ipad_or_iphone_screen_on_the_mac_over/",
             "external_url": "https://apps.apple.com/app/screen-mirror-over-usb/id1612180624?mt=12",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Artur_exe",
                     "url": "https://www.reddit.com/user/Artur_exe"
-                }
-            ]
-        },
-        {
-            "id": "r6ncyv",
-            "url": "/r/macapps/comments/r6ncyv/clipboard_manager_recommendations/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/r6ncyv/clipboard_manager_recommendations/",
-            "title": "Clipboard Manager recommendations",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/r6ncyv/clipboard_manager_recommendations/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/r6ncyv/clipboard_manager_recommendations/'>Apollo</a></caption> <div><p>Looking for a free Clipboard Manager that is lightweight and looks native app, since surprisingly macOS doesn't ship with.</p>\n<p>Any recommendations, would be great, thanks!</p></div>",
-            "date_published": "2021-12-01T19:48:19+00:00",
-            "authors": [
-                {
-                    "name": "vacmeup",
-                    "url": "https://www.reddit.com/user/vacmeup"
                 }
             ]
         }
