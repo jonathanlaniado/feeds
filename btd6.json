@@ -1,0 +1,17 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "r/btd6",
+    "description": "For discussion of Bloons TD 6 by Ninja Kiwi with Ninja Kiwi!",
+    "home_page_url": "https://reddit.com",
+    "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/btd6.json",
+    "icon": "https://styles.redditmedia.com/t5_3k11a/styles/communityIcon_chsu9k1ino361.png",
+    "favicon": "https://styles.redditmedia.com/t5_3k11a/styles/communityIcon_chsu9k1ino361.png",
+    "items": [
+        {
+            "id": "0",
+            "url": "https://www.reddit.com/r/btd6",
+            "title": "r/btd6 has been launched!",
+            "content_html": "<p>This feed will be populated as posts match the given criteria.</p>"
+        }
+    ]
+}
