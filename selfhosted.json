@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "tfjivo",
+            "url": "/r/selfhosted/comments/tfjivo/survey_results/",
+            "external_url": "https://i.redd.it/8jac4pt7frn81.png",
+            "title": "Survey Results",
+            "content_html": "<caption>Open in: <a href='https://i.redd.it/8jac4pt7frn81.png'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/tfjivo/survey_results/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/tfjivo/survey_results/'>Apollo</a></caption>",
+            "date_published": "2022-03-16T14:57:11+00:00",
+            "authors": [
+                {
+                    "name": "SelfHostingAutomated",
+                    "url": "https://www.reddit.com/user/SelfHostingAutomated"
+                }
+            ]
+        },
+        {
             "id": "tcsed1",
             "url": "/r/selfhosted/comments/tcsed1/40_of_the_best_opensource_tools_to_build_your/",
             "external_url": "https://blog.scaleway.com/40-open-source-projects/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "S_E_V_I",
                     "url": "https://www.reddit.com/user/S_E_V_I"
-                }
-            ]
-        },
-        {
-            "id": "qtnxbq",
-            "url": "/r/selfhosted/comments/qtnxbq/what_is_a_selfhosting_killer_app/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/qtnxbq/what_is_a_selfhosting_killer_app/",
-            "title": "What is a self-hosting \u201ckiller app\u201d?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/qtnxbq/what_is_a_selfhosting_killer_app/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/qtnxbq/what_is_a_selfhosting_killer_app/'>Apollo</a></caption> <div><p>For me, it has been my blog and my sister\u2019s portfolio (both Ghost CMS) - yes, I know I can pay them $9/mo (x2) for the privilege, but just being able to spin it up and have it under my server for free, not to mention control (caching, compression, etc) is such a godsend!</p>\n<p>I think another self-hosting \u201ckiller app\u201d for me would be vaultwarden (haven\u2019t gotten around to hosting yet).</p>\n<p>When I have literally 10+ containers just to support the infra (docker mgmt, backups, monitoring, notifications, sso, sso proxy, reverse proxy, etc), I think it really helps to focus on what brings me value by self hosting it that really doesn\u2019t compare otherwise (e.g. in the case of Ghost it was so much more valuable to host it myself, but for task lists or something like that Todoist is just so much more valuable for me to half-ass it with some self-hosted solution).</p>\n<p>So what is <em>your</em> \u201ckiller app\u201d that you self-host?</p></div>",
-            "date_published": "2021-11-14T11:27:09+00:00",
-            "authors": [
-                {
-                    "name": "thepotatochronicles",
-                    "url": "https://www.reddit.com/user/thepotatochronicles"
                 }
             ]
         }
