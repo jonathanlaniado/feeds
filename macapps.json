@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "tfsdbw",
+            "url": "/r/macapps/comments/tfsdbw/nova_is_50_off_for_a_limit_time/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/tfsdbw/nova_is_50_off_for_a_limit_time/",
+            "title": "Nova is 50% off for a limit time",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/tfsdbw/nova_is_50_off_for_a_limit_time/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/tfsdbw/nova_is_50_off_for_a_limit_time/'>Apollo</a></caption> <div><p>Nova is now 49$ for a limit time, for those who need it.</p>\n<p>https://nova.app</p></div>",
+            "date_published": "2022-03-16T20:30:14+00:00",
+            "authors": [
+                {
+                    "name": "isolt-ast",
+                    "url": "https://www.reddit.com/user/isolt-ast"
+                }
+            ]
+        },
+        {
             "id": "tdgsc0",
             "url": "/r/macapps/comments/tdgsc0/i_just_released_version_10_of_my_transmission/",
             "external_url": "http://jdiggity.me/mission/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "outcoldman",
                     "url": "https://www.reddit.com/user/outcoldman"
-                }
-            ]
-        },
-        {
-            "id": "r71ma7",
-            "url": "/r/macapps/comments/r71ma7/whats_the_best_macbook_app_for_customizing/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/r71ma7/whats_the_best_macbook_app_for_customizing/",
-            "title": "What's the best macbook app for customizing keyboard shortcuts in 2021?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/r71ma7/whats_the_best_macbook_app_for_customizing/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/r71ma7/whats_the_best_macbook_app_for_customizing/'>Apollo</a></caption> <div><p>I'm looking into Karabiner Elements but was wondering if there is a simpler (and better supported) alternative.</p>\n<p>I'm moving from windows to mac and there are just some shortcuts that I can not live with. Everything else is awesome.</p></div>",
-            "date_published": "2021-12-02T07:09:42+00:00",
-            "authors": [
-                {
-                    "name": "Artur_exe",
-                    "url": "https://www.reddit.com/user/Artur_exe"
                 }
             ]
         }
