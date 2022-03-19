@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "thkb8z",
+            "url": "/r/selfhosted/comments/thkb8z/opensource_alternative_apps_directory/",
+            "external_url": "https://www.producthunt.com/posts/open-source-alternative-to",
+            "title": "Open-source alternative apps directory",
+            "content_html": "<caption>Open in: <a href='https://www.producthunt.com/posts/open-source-alternative-to'>www.producthunt.com</a> | <a href='https://reddit.com/r/selfhosted/comments/thkb8z/opensource_alternative_apps_directory/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/thkb8z/opensource_alternative_apps_directory/'>Apollo</a></caption>",
+            "date_published": "2022-03-19T01:21:30+00:00",
+            "authors": [
+                {
+                    "name": "marceldarvas",
+                    "url": "https://www.reddit.com/user/marceldarvas"
+                }
+            ]
+        },
+        {
             "id": "tguvo1",
             "url": "/r/selfhosted/comments/tguvo1/real_hidden_gems_when_it_comes_to_self_hosting/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/tguvo1/real_hidden_gems_when_it_comes_to_self_hosting/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "CodeByKyle",
                     "url": "https://www.reddit.com/user/CodeByKyle"
-                }
-            ]
-        },
-        {
-            "id": "qvw7q4",
-            "url": "/r/selfhosted/comments/qvw7q4/budibase_an_opensource_low_code_platform_for/",
-            "external_url": "https://budibase.com/",
-            "title": "Budibase - An open-source low code platform for creating business apps (alternative to PowerApps, Mendix, Retool) is now out of beta. Connect to SQL/NoSQL and build apps in minutes. Deploy via K8s, Docker, Digital Ocean.",
-            "content_html": "<caption>Open in: <a href='https://budibase.com/'>budibase.com</a> | <a href='https://reddit.com/r/selfhosted/comments/qvw7q4/budibase_an_opensource_low_code_platform_for/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/qvw7q4/budibase_an_opensource_low_code_platform_for/'>Apollo</a></caption>",
-            "date_published": "2021-11-17T10:15:44+00:00",
-            "authors": [
-                {
-                    "name": "jo_ranamo",
-                    "url": "https://www.reddit.com/user/jo_ranamo"
                 }
             ]
         }
