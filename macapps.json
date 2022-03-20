@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "tiho24",
+            "url": "/r/macapps/comments/tiho24/new_app_release_peachy_kaomoji_input_for_mac_free/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/tiho24/new_app_release_peachy_kaomoji_input_for_mac_free/",
+            "title": "New app release: Peachy - Kaomoji input for Mac (free & open source!)",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/tiho24/new_app_release_peachy_kaomoji_input_for_mac_free/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/tiho24/new_app_release_peachy_kaomoji_input_for_mac_free/'>Apollo</a></caption> <div><p>Hi there, I've just launched a new toy app Peachy: <a href=\"https://itsmeichigo.io/peachy/\">https://itsmeichigo.io/peachy/</a></p>\n<p>Basically you can enter kaomoji to any Mac app by typing a trigger key following a keyword like what you can do on Slack or Discord:</p>\n<p>&#x200B;</p>\n<p><a href=\"https://i.redd.it/dua31pc9gio81.gif\">Peachy Demo</a></p>\n<p>The app is also open source here: <a href=\"https://github.com/itsmeichigo/peachy\">https://github.com/itsmeichigo/peachy</a></p>\n<p>Check it out and let me know what you think!</p></div>",
+            "date_published": "2022-03-20T09:52:37+00:00",
+            "authors": [
+                {
+                    "name": "ichigorollin",
+                    "url": "https://www.reddit.com/user/ichigorollin"
+                }
+            ]
+        },
+        {
             "id": "tgxtnu",
             "url": "/r/macapps/comments/tgxtnu/is_amphetamine_still_the_best_app_to_prevent_sleep/",
             "external_url": "https://www.reddit.com/r/macapps/comments/tgxtnu/is_amphetamine_still_the_best_app_to_prevent_sleep/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Prestigious-Draw5374",
                     "url": "https://www.reddit.com/user/Prestigious-Draw5374"
-                }
-            ]
-        },
-        {
-            "id": "r82do4",
-            "url": "/r/macapps/comments/r82do4/mac_streaks_499_free_highly_customizable_habit/",
-            "external_url": "https://apps.apple.com/app/id1493327990",
-            "title": "\u200e[Mac] [Streaks] [$4.99-> Free] [Highly customizable habit tracker]",
-            "content_html": "<caption>Open in: <a href='https://apps.apple.com/app/id1493327990'>apps.apple.com</a> | <a href='https://reddit.com/r/macapps/comments/r82do4/mac_streaks_499_free_highly_customizable_habit/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/r82do4/mac_streaks_499_free_highly_customizable_habit/'>Apollo</a></caption>",
-            "date_published": "2021-12-03T16:02:35+00:00",
-            "authors": [
-                {
-                    "name": "iiSa3ody",
-                    "url": "https://www.reddit.com/user/iiSa3ody"
                 }
             ]
         }
