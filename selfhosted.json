@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "tij8ay",
+            "url": "/r/selfhosted/comments/tij8ay/whats_your_this_saves_me_money_because_i_dont/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/tij8ay/whats_your_this_saves_me_money_because_i_dont/",
+            "title": "What's your \"This saves me money because I don't have to subscribe to X\" self-hosted list?",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/tij8ay/whats_your_this_saves_me_money_because_i_dont/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/tij8ay/whats_your_this_saves_me_money_because_i_dont/'>Apollo</a></caption> <div><p>Right now a big chunk of the world is seeing insane increases in the cost of living, with energy prices having doubled in some places, and are set to more than double again later this year.</p>\n<p>Obviously this puts a bit of a strain on deciding to keep home server(s) switched on if its all just hobby stuff.</p>\n<p>So it got me wondering if people had swiched to any self-hosted services that meant they could then cancel a subscription.</p>\n<p>For example, I ditched Spotify in favour of Navidrome recently, saving \u00a310/mo.</p>\n<p><strong>What paid services have you been able to ditch and replace with a self-hosted option?</strong></p>\n<p>Edit to add: Mostly interested in what <strong>NON-PIRACY</strong> things you're using here.</p></div>",
+            "date_published": "2022-03-20T11:41:12+00:00",
+            "authors": [
+                {
+                    "name": "TellMe2GetOffReddit-",
+                    "url": "https://www.reddit.com/user/TellMe2GetOffReddit-"
+                }
+            ]
+        },
+        {
             "id": "thkb8z",
             "url": "/r/selfhosted/comments/thkb8z/opensource_alternative_apps_directory/",
             "external_url": "https://www.producthunt.com/posts/open-source-alternative-to",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Remarkable_Rock_4506",
                     "url": "https://www.reddit.com/user/Remarkable_Rock_4506"
-                }
-            ]
-        },
-        {
-            "id": "qvw8g5",
-            "url": "/r/selfhosted/comments/qvw8g5/powershell_script_to_automatically_ssh_into/",
-            "external_url": "https://v.redd.it/zkxzc8yps4081",
-            "title": "Powershell script to automatically ssh into multiple servers and layout the panels",
-            "content_html": "<caption>Open in: <a href='https://v.redd.it/zkxzc8yps4081'>v.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/qvw8g5/powershell_script_to_automatically_ssh_into/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/qvw8g5/powershell_script_to_automatically_ssh_into/'>Apollo</a></caption>",
-            "date_published": "2021-11-17T10:17:13+00:00",
-            "authors": [
-                {
-                    "name": "CodeByKyle",
-                    "url": "https://www.reddit.com/user/CodeByKyle"
                 }
             ]
         }
