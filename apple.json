@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "tkbpih",
+            "url": "/r/apple/comments/tkbpih/ifixit_on_twitter_we_got_two_base_model_mac/",
+            "external_url": "https://twitter.com/iFixit/status/1506360427755712512",
+            "title": "iFixit on Twitter: \"We got two base model Mac Studio units to accept each other\u2019s drives, so storage swaps are possible! Both drives in one unit isn\u2019t working just yet\u2026wish us luck.\"",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/apple/comments/tkbpih/ifixit_on_twitter_we_got_two_base_model_mac/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/tkbpih/ifixit_on_twitter_we_got_two_base_model_mac/'>Apollo</a></caption><div><br></div><blockquote class=\"twitter-tweet\" align=\"center\"><p lang=\"en\" dir=\"ltr\">We got two base model Mac Studio units to accept each other\u2019s drives, so storage swaps are possible! Both drives in one unit isn\u2019t working just yet\u2026wish us luck. <a href=\"https://t.co/i2wcbppluf\">pic.twitter.com/i2wcbppluf</a></p>&mdash; iFixit (@iFixit) <a href=\"https://twitter.com/iFixit/status/1506360427755712512?ref_src=twsrc%5Etfw\">March 22, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+            "date_published": "2022-03-22T20:02:30+00:00",
+            "authors": [
+                {
+                    "name": "ToAllTheLost",
+                    "url": "https://www.reddit.com/user/ToAllTheLost"
+                }
+            ]
+        },
+        {
             "id": "tjh5gy",
             "url": "/r/apple/comments/tjh5gy/apple_store_systems_are_down_and_theyre_literally/",
             "external_url": "https://twitter.com/michael_billig/status/1505955228171993089?s=20&t=2Cxkm5bmiUfmSMo19APPFQ",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "egocentric-video",
                     "url": "https://www.reddit.com/user/egocentric-video"
-                }
-            ]
-        },
-        {
-            "id": "s2v4fi",
-            "url": "/r/apple/comments/s2v4fi/dropbox_finally_supports_m1_macs_natively_with/",
-            "external_url": "https://www.theverge.com/2022/1/13/22881547/dropbox-beta-m1-mac-support-macos",
-            "title": "Dropbox finally supports M1 Macs natively with new beta",
-            "content_html": "<caption>Open in: <a href='https://www.theverge.com/2022/1/13/22881547/dropbox-beta-m1-mac-support-macos'>www.theverge.com</a> | <a href='https://reddit.com/r/apple/comments/s2v4fi/dropbox_finally_supports_m1_macs_natively_with/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/s2v4fi/dropbox_finally_supports_m1_macs_natively_with/'>Apollo</a></caption>",
-            "date_published": "2022-01-13T09:02:40+00:00",
-            "authors": [
-                {
-                    "name": "ICumCoffee",
-                    "url": "https://www.reddit.com/user/ICumCoffee"
                 }
             ]
         }
