@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "tkvw33",
+            "url": "/r/PleX/comments/tkvw33/no_idea_how_this_would_be_implemented_but_is/",
+            "external_url": "https://i.imgur.com/KHwbuRN.gifv",
+            "title": "No idea how this would be implemented, but is anyone a little interested in animated posters/backgrounds on Plex?",
+            "content_html": "<caption>Open in: <a href='https://i.imgur.com/KHwbuRN.gifv'>i.imgur.com</a> | <a href='https://reddit.com/r/PleX/comments/tkvw33/no_idea_how_this_would_be_implemented_but_is/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/tkvw33/no_idea_how_this_would_be_implemented_but_is/'>Apollo</a></caption>",
+            "date_published": "2022-03-23T15:01:19+00:00",
+            "authors": [
+                {
+                    "name": "J_Valente",
+                    "url": "https://www.reddit.com/user/J_Valente"
+                }
+            ]
+        },
+        {
             "id": "tk7ndr",
             "url": "/r/PleX/comments/tk7ndr/unoptimized_pms_on_apple_m1_ultra_transcoding_6/",
             "external_url": "https://i.redd.it/9z3jfwtuuyo81.png",
@@ -1392,21 +1406,6 @@
                     "name": "NeonKnight52",
                     "url": "https://www.reddit.com/user/NeonKnight52",
                     "avatar": "https://www.redditstatic.com/avatars/avatar_default_02_545452.png"
-                }
-            ]
-        },
-        {
-            "id": "ov7sr1",
-            "url": "/r/PleX/comments/ov7sr1/the_apple_tv_4k_2021_destroys_nvidia_shield_pro/",
-            "external_url": "https://www.youtube.com/watch?v=0rpQBzeECV8",
-            "title": "The Apple TV 4k 2021 destroys Nvidia Shield Pro for thumbnail loading speed",
-            "content_html": "<caption>Open in: <a href='https://www.youtube.com/watch?v=0rpQBzeECV8'>www.youtube.com</a> | <a href='https://reddit.com/r/PleX/comments/ov7sr1/the_apple_tv_4k_2021_destroys_nvidia_shield_pro/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/ov7sr1/the_apple_tv_4k_2021_destroys_nvidia_shield_pro/'>Apollo</a></caption>",
-            "date_published": "2021-07-31T14:09:11+00:00",
-            "authors": [
-                {
-                    "name": "Mr_Chaos_Theory",
-                    "url": "https://www.reddit.com/user/Mr_Chaos_Theory",
-                    "avatar": "https://styles.redditmedia.com/t5_168kvs/styles/profileIcon_snoo5a068043-571b-43f2-88ee-2b5484d821fb-headshot.png"
                 }
             ]
         }
