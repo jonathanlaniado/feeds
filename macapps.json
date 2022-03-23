@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "tkg8g4",
+            "url": "/r/macapps/comments/tkg8g4/idestyle_autocomplete_for_macos_terminal/",
+            "external_url": "https://v.redd.it/0q4xnsvrr0p81",
+            "title": "IDE-style autocomplete for MacOS terminal",
+            "content_html": "<caption>Open in: <a href='https://v.redd.it/0q4xnsvrr0p81'>v.redd.it</a> | <a href='https://reddit.com/r/macapps/comments/tkg8g4/idestyle_autocomplete_for_macos_terminal/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/tkg8g4/idestyle_autocomplete_for_macos_terminal/'>Apollo</a></caption>",
+            "date_published": "2022-03-22T23:27:43+00:00",
+            "authors": [
+                {
+                    "name": "brendanfalk",
+                    "url": "https://www.reddit.com/user/brendanfalk"
+                }
+            ]
+        },
+        {
             "id": "tkdocr",
             "url": "/r/macapps/comments/tkdocr/discord_full_release_is_finally_optimized_for/",
             "external_url": "https://i.redd.it/9aj9tbdp60p81.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Shyne-on",
                     "url": "https://www.reddit.com/user/Shyne-on"
-                }
-            ]
-        },
-        {
-            "id": "r929gv",
-            "url": "/r/macapps/comments/r929gv/fresh_cards_20_is_out_now_for_macos_revamped_ui/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/r929gv/fresh_cards_20_is_out_now_for_macos_revamped_ui/",
-            "title": "Fresh Cards 2.0 is out now for macOS - revamped UI for more review options",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/r929gv/fresh_cards_20_is_out_now_for_macos_revamped_ui/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/r929gv/fresh_cards_20_is_out_now_for_macos_revamped_ui/'>Apollo</a></caption> <div><p>I've super excited to announce that Fresh Cards for macOS has been updated to 2.0 and has some great new features to make it even easier to review flashcards.</p>\n<p>You can purchase the app from the Mac App Store here: <a href=\"https://apps.apple.com/us/app/fresh-cards/id1523398835\">https://apps.apple.com/us/app/fresh-cards/id1523398835</a></p>\n<p>I released version 1.0 about a year ago and posted here, but since then I've made many tweaks to the UI. I recently made a very big change to the UI to give you more flexibility in reviewing your cards.</p>\n<p>I got a lot of feedback that people wanted to review outside of the regular spaced repetition schedule. This new version updates the UI so you get a WYSIWYG playlist for card review. The playlist is sorted based on your review history and current review mode. You can sort by due date, scheduled by spaced repetition; by last review, for cram-style review; or even by difficulty.</p>\n<p>The app syncs with iCloud and can be used on iOS as well. One-time purchase, no subscriptions!</p>\n<p>More details here as well: <a href=\"https://www.ussherpress.com/freshcards/\">https://www.ussherpress.com/freshcards/</a></p></div>",
-            "date_published": "2021-12-04T23:38:32+00:00",
-            "authors": [
-                {
-                    "name": "ussherpress",
-                    "url": "https://www.reddit.com/user/ussherpress"
                 }
             ]
         }
