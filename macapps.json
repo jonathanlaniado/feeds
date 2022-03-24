@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "tlr9yx",
+            "url": "/r/macapps/comments/tlr9yx/i_released_a_fully_native_and_open_source_todo/",
+            "external_url": "https://aayush9029.github.io/Medo/",
+            "title": "I released a fully native and open source to-do list app. It also floats and stuff!",
+            "content_html": "<caption>Open in: <a href='https://aayush9029.github.io/Medo/'>aayush9029.github.io</a> | <a href='https://reddit.com/r/macapps/comments/tlr9yx/i_released_a_fully_native_and_open_source_todo/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/tlr9yx/i_released_a_fully_native_and_open_source_todo/'>Apollo</a></caption>",
+            "date_published": "2022-03-24T01:17:11+00:00",
+            "authors": [
+                {
+                    "name": "69shaolin69",
+                    "url": "https://www.reddit.com/user/69shaolin69"
+                }
+            ]
+        },
+        {
             "id": "tkg8g4",
             "url": "/r/macapps/comments/tkg8g4/idestyle_autocomplete_for_macos_terminal/",
             "external_url": "https://v.redd.it/0q4xnsvrr0p81",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "mbirth",
                     "url": "https://www.reddit.com/user/mbirth"
-                }
-            ]
-        },
-        {
-            "id": "r9dp3f",
-            "url": "/r/macapps/comments/r9dp3f/some_time_ago_i_made_a_bash_script_that_allowed/",
-            "external_url": "https://i.redd.it/f547j0xyim381.jpg",
-            "title": "Some time ago I made a bash script that allowed to change the favorite icons of Safari, and you guys seemed to like it. Now it\u2019s a stand alone app and way easier to run/use (also it\u2019s a beta and I\u2019d like a bit of feedback) you can find it on GitHub: https://github.com/shy-neon/favtool",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/f547j0xyim381.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/macapps/comments/r9dp3f/some_time_ago_i_made_a_bash_script_that_allowed/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/r9dp3f/some_time_ago_i_made_a_bash_script_that_allowed/'>Apollo</a></caption>",
-            "date_published": "2021-12-05T11:19:34+00:00",
-            "authors": [
-                {
-                    "name": "Shyne-on",
-                    "url": "https://www.reddit.com/user/Shyne-on"
                 }
             ]
         }
