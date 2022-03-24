@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "tmolui",
+            "url": "/r/apple/comments/tmolui/apple_is_working_on_a_hardware_subscription/",
+            "external_url": "https://www.bloomberg.com/news/articles/2022-03-24/apple-aapl-is-working-on-a-hardware-subscription-service-for-iphones?sref=9hGJlFio",
+            "title": "Apple Is Working on a Hardware Subscription Service for iPhones",
+            "content_html": "<caption>Open in: <a href='https://www.bloomberg.com/news/articles/2022-03-24/apple-aapl-is-working-on-a-hardware-subscription-service-for-iphones?sref=9hGJlFio'>www.bloomberg.com</a> | <a href='https://reddit.com/r/apple/comments/tmolui/apple_is_working_on_a_hardware_subscription/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/tmolui/apple_is_working_on_a_hardware_subscription/'>Apollo</a></caption>",
+            "date_published": "2022-03-24T17:12:05+00:00",
+            "authors": [
+                {
+                    "name": "aaronp613",
+                    "url": "https://www.reddit.com/user/aaronp613"
+                }
+            ]
+        },
+        {
             "id": "tkvxoo",
             "url": "/r/apple/comments/tkvxoo/apple_launches_the_first_drivers_license_and/",
             "external_url": "https://www.apple.com/newsroom/2022/03/apple-launches-the-first-drivers-license-and-state-id-in-wallet-with-arizona/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "iMacmatician",
                     "url": "https://www.reddit.com/user/iMacmatician"
-                }
-            ]
-        },
-        {
-            "id": "s4tcj4",
-            "url": "/r/apple/comments/s4tcj4/apple_reportedly_requires_employees_to_get/",
-            "external_url": "https://www.engadget.com/apple-covid-19-vaccine-booster-shot-requirement-190809021.html",
-            "title": "Apple reportedly requires employees to get COVID-19 vaccine booster shots",
-            "content_html": "<caption>Open in: <a href='https://www.engadget.com/apple-covid-19-vaccine-booster-shot-requirement-190809021.html'>www.engadget.com</a> | <a href='https://reddit.com/r/apple/comments/s4tcj4/apple_reportedly_requires_employees_to_get/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/s4tcj4/apple_reportedly_requires_employees_to_get/'>Apollo</a></caption>",
-            "date_published": "2022-01-15T20:25:41+00:00",
-            "authors": [
-                {
-                    "name": "post_break",
-                    "url": "https://www.reddit.com/user/post_break"
                 }
             ]
         }
