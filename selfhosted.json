@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "tp0nqg",
+            "url": "/r/selfhosted/comments/tp0nqg/cloudflare_has_added_a_web_gui_for_controlling/",
+            "external_url": "https://blog.cloudflare.com/ridiculously-easy-to-use-tunnels/",
+            "title": "Cloudflare has added a web GUI for controlling Cloudflare Tunnels",
+            "content_html": "<caption>Open in: <a href='https://blog.cloudflare.com/ridiculously-easy-to-use-tunnels/'>blog.cloudflare.com</a> | <a href='https://reddit.com/r/selfhosted/comments/tp0nqg/cloudflare_has_added_a_web_gui_for_controlling/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/tp0nqg/cloudflare_has_added_a_web_gui_for_controlling/'>Apollo</a></caption>",
+            "date_published": "2022-03-26T19:16:59+00:00",
+            "authors": [
+                {
+                    "name": "anderspitman",
+                    "url": "https://www.reddit.com/user/anderspitman"
+                }
+            ]
+        },
+        {
             "id": "tm3pof",
             "url": "/r/selfhosted/comments/tm3pof/a_self_hosted_and_open_source_alternative_to/",
             "external_url": "https://i.redd.it/91558kpyfbp81.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "nicklasgellner",
                     "url": "https://www.reddit.com/user/nicklasgellner"
-                }
-            ]
-        },
-        {
-            "id": "qyt91s",
-            "url": "/r/selfhosted/comments/qyt91s/why_so_many_downvotes/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/qyt91s/why_so_many_downvotes/",
-            "title": "Why so many downvotes ?!",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/qyt91s/why_so_many_downvotes/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/qyt91s/why_so_many_downvotes/'>Apollo</a></caption> <div><p>Unless one comes with the latest revolutionary github project, posts are systematically downvoted here.</p>\n<p>There is no place for begginers, unsecure newcomers and curious people around here.</p>\n<p>To be honest, this is one of the less welcoming community I've came across on Reddit.</p>\n<p>So, as somebody that had to learn everything from scratch, among the dozens of people I've met here, I'd like to thank the 5 people that were actually willing to enlighten me and share actual information with me.</p>\n<p>Sorry for interrupting, you can now go back to downvoting without any comment.</p></div>",
-            "date_published": "2021-11-21T11:39:13+00:00",
-            "authors": [
-                {
-                    "name": "Tiritibambix",
-                    "url": "https://www.reddit.com/user/Tiritibambix"
                 }
             ]
         }
