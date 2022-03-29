@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "tqle9o",
+            "url": "/r/apple/comments/tqle9o/so_far_asahi_linux_users_have_managed_to_find/",
+            "external_url": "https://twitter.com/marcan42/status/1508544412754022403?s=12&t=OP5SQfexqX_1ToFkEr5Vrg",
+            "title": "So far Asahi Linux users have managed to find bugs in all of diskutil, Disk Utility (well, we knew that one was very broken), bless (at least two), as well as uncovered the existence of relatively widespread APFS corruption. We're calling *our* software alpha but\u2026",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/apple/comments/tqle9o/so_far_asahi_linux_users_have_managed_to_find/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/tqle9o/so_far_asahi_linux_users_have_managed_to_find/'>Apollo</a></caption><div><br></div><blockquote class=\"twitter-tweet\" align=\"center\"><p lang=\"en\" dir=\"ltr\">So far Asahi Linux users have managed to find bugs in all of diskutil, Disk Utility (well, we knew that one was very broken), bless (at least two), as well as uncovered the existence of relatively widespread APFS corruption.<br><br>We&#39;re calling *our* software alpha but... \ud83d\ude43</p>&mdash; Hector Martin (@marcan42) <a href=\"https://twitter.com/marcan42/status/1508544412754022403?ref_src=twsrc%5Etfw\">March 28, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+            "date_published": "2022-03-28T22:43:16+00:00",
+            "authors": [
+                {
+                    "name": "blind_system",
+                    "url": "https://www.reddit.com/user/blind_system"
+                }
+            ]
+        },
+        {
             "id": "tq0cvv",
             "url": "/r/apple/comments/tq0cvv/apple_is_first_streamer_to_win_best_picture_oscar/",
             "external_url": "https://variety.com/2022/film/news/apple-best-picture-oscar-coda-1235213717/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "badatmathdave",
                     "url": "https://www.reddit.com/user/badatmathdave"
-                }
-            ]
-        },
-        {
-            "id": "s7w39s",
-            "url": "/r/apple/comments/s7w39s/apple_says_it_never_intended_ios_14_security/",
-            "external_url": "https://arstechnica.com/gadgets/2022/01/apple-ends-security-updates-for-ios-14-pushes-users-to-install-ios-15-instead/",
-            "title": "Apple says it never intended iOS 14 security updates to last forever",
-            "content_html": "<caption>Open in: <a href='https://arstechnica.com/gadgets/2022/01/apple-ends-security-updates-for-ios-14-pushes-users-to-install-ios-15-instead/'>arstechnica.com</a> | <a href='https://reddit.com/r/apple/comments/s7w39s/apple_says_it_never_intended_ios_14_security/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/s7w39s/apple_says_it_never_intended_ios_14_security/'>Apollo</a></caption>",
-            "date_published": "2022-01-19T17:58:24+00:00",
-            "authors": [
-                {
-                    "name": "AnimeAlt44",
-                    "url": "https://www.reddit.com/user/AnimeAlt44"
                 }
             ]
         }
