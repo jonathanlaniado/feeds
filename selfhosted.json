@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "ts7t5d",
+            "url": "/r/selfhosted/comments/ts7t5d/so_this_has_been_my_week_so_far/",
+            "external_url": "https://i.redd.it/b5dg062tfhq81.jpg",
+            "title": "So this has been my week so far!!",
+            "content_html": "<caption>Open in: <a href='https://i.redd.it/b5dg062tfhq81.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/ts7t5d/so_this_has_been_my_week_so_far/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/ts7t5d/so_this_has_been_my_week_so_far/'>Apollo</a></caption>",
+            "date_published": "2022-03-30T14:34:16+00:00",
+            "authors": [
+                {
+                    "name": "no-mad",
+                    "url": "https://www.reddit.com/user/no-mad"
+                }
+            ]
+        },
+        {
             "id": "tqjpey",
             "url": "/r/selfhosted/comments/tqjpey/immich_selfhosted_backup_photosvideos_from_your/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/tqjpey/immich_selfhosted_backup_photosvideos_from_your/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "justin_kasmweb",
                     "url": "https://www.reddit.com/user/justin_kasmweb"
-                }
-            ]
-        },
-        {
-            "id": "qzupqu",
-            "url": "/r/selfhosted/comments/qzupqu/authentik_is_the_easy_single_sign_on_tool_we_all/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/qzupqu/authentik_is_the_easy_single_sign_on_tool_we_all/",
-            "title": "Authentik is the easy Single Sign On tool we all need!",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/qzupqu/authentik_is_the_easy_single_sign_on_tool_we_all/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/qzupqu/authentik_is_the_easy_single_sign_on_tool_we_all/'>Apollo</a></caption> <div><p>After dabbling with <a href=\"https://github.com/greenpau/caddy-auth-portal\">Caddy's auth-portal</a>, nginx <a href=\"https://github.com/vouch/vouch-proxy\">Vouch proxy</a>, Keycloak and Authelia I found <a href=\"https://goauthentik.io/\">Authentik</a>.</p>\n<p>It has an integrated reverse proxy so no need to for Caddy, nginx or Treafik when using this. Just point ports 80 and 443 to Authentik an let Authentik proxy it to your internal applications.</p>\n<p>I run it with docker compose and a single .env file, documentation is awesome and straight out of the box it just works. Learning all the nomenclature is a bit of a learning curve but the wiki is great. After 48 hours I feel like I just scratched the surface of all possibilities, It's highly customizable.</p>\n<p><strong>Screenshots:</strong></p>\n<p><a href=\"https://preview.redd.it/7ttx48s4f7181.png?width=1734&amp;format=png&amp;auto=webp&amp;s=89138704dd567e9850331740838fc2cec99f3df7\">Applications</a></p>\n<p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/074ym5aef7181.png?width=1333&amp;format=png&amp;auto=webp&amp;s=643057d4b2b4b5c9164d2e2f6767f002bec50e7f\">Proxy Provider for Sonarr</a></p>\n<p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/9gkn8xutf7181.png?width=1212&amp;format=png&amp;auto=webp&amp;s=0d217f3dbb442e1f2afcf81eb3cb291bb7d5ca35\">Default login screen with the Sonarr application. Will redirect automatically to Sonarr after login. </a></p>\n<p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/n1xsf23eg7181.png?width=1273&amp;format=png&amp;auto=webp&amp;s=ea0e2d228c31de741bc68291d683ab9a0292a2bd\">When reaching Authentik directly instead of a specific application it shows this dashboard. </a></p></div>",
-            "date_published": "2021-11-22T20:18:42+00:00",
-            "authors": [
-                {
-                    "name": "FunDeckHermit",
-                    "url": "https://www.reddit.com/user/FunDeckHermit"
                 }
             ]
         }
