@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "trf7tk",
+            "url": "/r/PleX/comments/trf7tk/plex_flagged_as_pirating_software_by_isp_and/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/trf7tk/plex_flagged_as_pirating_software_by_isp_and/",
+            "title": "Plex flagged as pirating software by ISP and being throttled on user end",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/PleX/comments/trf7tk/plex_flagged_as_pirating_software_by_isp_and/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/trf7tk/plex_flagged_as_pirating_software_by_isp_and/'>Apollo</a></caption> <div><p>So after about a year ish now of one of my users complaining about \"Plex is so slow\" or  \"Plex is garbage\", I finally have an answer.\nSo some back story here; I have about half a dozen users that all rarely ever have an issue across a number of ISPs in Canada. Then about a year ago one of my friends said nothing works anymore. I went through all kinds of trouble shooting and even drove over to his house one time and got it working by cranking the quality way down (480p). He said after a while even that had to stop and buffer though so he gave up and just bought Netflix. Fast forward to a month ago, I set up my girlfriend on Plex but she has the same issues. I then realise they are the only ones on the same ISP. I reach out to a buddy whose partner just so happens to be high level at that ISP. And just last week they got back to me saying they have flagged it as pirating software and anything being sent through that will be throttled way down because of this.\nI'm getting them to set up a VPN to be able to use Plex. Just thought I would let people on here know that if Plex gets flagged and throttled by more and more ISPs this could be an issue for more.</p>\n<p>The ISP is Bell MTS</p>\n<p>Edit: Thanks guys, I'll try to switch the Port tonight and report back if that works!</p></div>",
+            "date_published": "2022-03-29T19:25:45+00:00",
+            "authors": [
+                {
+                    "name": "Micky350",
+                    "url": "https://www.reddit.com/user/Micky350"
+                }
+            ]
+        },
+        {
             "id": "tpqv4l",
             "url": "/r/PleX/comments/tpqv4l/the_top_gear_cinematic_universe_tgcu/",
             "external_url": "https://i.imgur.com/VgIZaKE.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MrPicklesIsAGoodBoy",
                     "url": "https://www.reddit.com/user/MrPicklesIsAGoodBoy"
-                }
-            ]
-        },
-        {
-            "id": "p0sfvn",
-            "url": "/r/PleX/comments/p0sfvn/issues_connecting_to_plex_down_again/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/p0sfvn/issues_connecting_to_plex_down_again/",
-            "title": "Issues connecting to plex. Down again?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/PleX/comments/p0sfvn/issues_connecting_to_plex_down_again/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/p0sfvn/issues_connecting_to_plex_down_again/'>Apollo</a></caption> <div><p>Loading is very sloowwwwwwwwwwwwwwww.  Anyone else experiencing this.  Rarely loads.</p></div>",
-            "date_published": "2021-08-09T02:30:16+00:00",
-            "authors": [
-                {
-                    "name": "kingsphan",
-                    "url": "https://www.reddit.com/user/kingsphan"
                 }
             ]
         }
