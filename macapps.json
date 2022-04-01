@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "ttj89y",
+            "url": "/r/macapps/comments/ttj89y/i_made_a_menubar_app_to_copy_text_off_anything/",
+            "external_url": "https://v.redd.it/rbhs3oc7suq81",
+            "title": "I made a menubar app to copy text off anything and apply transformations",
+            "content_html": "<caption>Open in: <a href='https://v.redd.it/rbhs3oc7suq81'>v.redd.it</a> | <a href='https://reddit.com/r/macapps/comments/ttj89y/i_made_a_menubar_app_to_copy_text_off_anything/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/ttj89y/i_made_a_menubar_app_to_copy_text_off_anything/'>Apollo</a></caption>",
+            "date_published": "2022-04-01T05:29:37+00:00",
+            "authors": [
+                {
+                    "name": "Barbelleatsdumbbell",
+                    "url": "https://www.reddit.com/user/Barbelleatsdumbbell"
+                }
+            ]
+        },
+        {
             "id": "tqvhpu",
             "url": "/r/macapps/comments/tqvhpu/huehouse_extract_color_from_ipad_screen_now_with/",
             "external_url": "https://v.redd.it/uzhj2o4seaq81",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "cherpake",
                     "url": "https://www.reddit.com/user/cherpake"
-                }
-            ]
-        },
-        {
-            "id": "rb9xyo",
-            "url": "/r/macapps/comments/rb9xyo/is_there_an_importable_list_of_rules_for_little/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/rb9xyo/is_there_an_importable_list_of_rules_for_little/",
-            "title": "Is there an importable list of rules for Little Snitch to block common advert websites/apis for all programs?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/rb9xyo/is_there_an_importable_list_of_rules_for_little/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/rb9xyo/is_there_an_importable_list_of_rules_for_little/'>Apollo</a></caption> <div><p>In the little snitch app you can easily create block rules for 'All programs' which will block specific traffic from all running apps/processes for a specified host.</p>\n<p>I remember back in my windows days that I've had similar list which redirected common ad host names to 127.0.0.0 (localhost) so that the adds didn't show even in programs like Skype. The list was very extensive and worked just like ad-blocker but on the OS level rather than the browser. </p>\n<p>This made me think that it would be great if such list existed for Little Snitch. Have you guys seen anything like this?</p></div>",
-            "date_published": "2021-12-07T21:25:50+00:00",
-            "authors": [
-                {
-                    "name": "AdamMarczakIO",
-                    "url": "https://www.reddit.com/user/AdamMarczakIO"
                 }
             ]
         }
