@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "twjtwk",
+            "url": "/r/selfhosted/comments/twjtwk/most_overrated_and_most_underrated_selfhosted/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/twjtwk/most_overrated_and_most_underrated_selfhosted/",
+            "title": "Most overrated and most underrated selfhosted software, in your opinion?",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/twjtwk/most_overrated_and_most_underrated_selfhosted/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/twjtwk/most_overrated_and_most_underrated_selfhosted/'>Apollo</a></caption> <div><p>I'll start:</p>\n<p><strong><em>Underrated</em></strong>: AdGuardHome, Caddy, Gerbera, OpenBooks, Glances, SSHwifty, dnscrypt-proxy.</p>\n<p><strong><em>Overrated</em></strong>: Guacamole, Pi-Hole, Nextcloud (still unsure on this last one).</p></div>",
+            "date_published": "2022-04-05T01:59:30+00:00",
+            "authors": [
+                {
+                    "name": "ZelenskyyInPandoraPp",
+                    "url": "https://www.reddit.com/user/ZelenskyyInPandoraPp"
+                }
+            ]
+        },
+        {
             "id": "tulwnc",
             "url": "/r/selfhosted/comments/tulwnc/vpn_replacement_cloudflare_tunnel_ive_created_an/",
             "external_url": "https://www.sakowi.cz/blog/cloudflared-docker-compose-tutorial",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MzCWzL",
                     "url": "https://www.reddit.com/user/MzCWzL"
-                }
-            ]
-        },
-        {
-            "id": "r1tqhh",
-            "url": "/r/selfhosted/comments/r1tqhh/openbudgeteer_a_budgeting_app_based_on_the_bucket/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/r1tqhh/openbudgeteer_a_budgeting_app_based_on_the_bucket/",
-            "title": "OpenBudgeteer - A budgeting app based on the Bucket Budgeting Principle",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/r1tqhh/openbudgeteer_a_budgeting_app_based_on_the_bucket/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/r1tqhh/openbudgeteer_a_budgeting_app_based_on_the_bucket/'>Apollo</a></caption> <div><p>Hello community,</p>\n<p>I wanted to share my project OpenBudgeteer that I use for my financial planning. The concept is based on the Bucket Budgeting Principle.</p>\n<p>The concept in short: Instead of categories you have multiple \"Buckets\" where you distribute your income. Your expenses are then consuming the money which is available in the respective Bucket.</p>\n<p>For quite a long time I used <a href=\"https://www.budgetwithbuckets.com\">Buckets App</a> but I was not really happy with historical data visualization and missing bucket versioning. So I started making my own app and added things that I wanted for my own use cases.</p>\n<p>I shared the project on <a href=\"https://github.com/TheAxelander/OpenBudgeteer\">Github</a> in case someone is also interested in it and/or wants to give some feedback.</p>\n<p>OpenBudgeteer is available as <a href=\"https://hub.docker.com/r/axelander/openbudgeteer\">Docker Container</a> and requires MySql or Sqlite as database.</p>\n<p>https://preview.redd.it/dhre56k0xp181.png?width=1668&amp;format=png&amp;auto=webp&amp;s=e568a385360112fa844f6208958d7845061ac7a3</p></div>",
-            "date_published": "2021-11-25T10:31:53+00:00",
-            "authors": [
-                {
-                    "name": "The_Axelander",
-                    "url": "https://www.reddit.com/user/The_Axelander"
                 }
             ]
         }
