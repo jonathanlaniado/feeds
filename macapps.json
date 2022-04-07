@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "ty9610",
+            "url": "/r/macapps/comments/ty9610/a_new_nice_little_app_folder_peek_put_folders_in/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/ty9610/a_new_nice_little_app_folder_peek_put_folders_in/",
+            "title": "A new nice little app: Folder Peek - put folders in menu bar",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/ty9610/a_new_nice_little_app_folder_peek_put_folders_in/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/ty9610/a_new_nice_little_app_folder_peek_put_folders_in/'>Apollo</a></caption> <div><p>Hi!</p>\n<p>I just stumbled upon a new free little app you guys may like: <a href=\"https://apps.apple.com/de/app/folder-peek/id1615988943?mt=12\">Folder Peek</a></p>\n<p>It allows you to put folders in your menu bar for quick access.</p></div>",
+            "date_published": "2022-04-07T09:25:02+00:00",
+            "authors": [
+                {
+                    "name": "MJFox1978",
+                    "url": "https://www.reddit.com/user/MJFox1978"
+                }
+            ]
+        },
+        {
             "id": "ty1mkx",
             "url": "/r/macapps/comments/ty1mkx/sad_news_for_deliveries_fans/",
             "external_url": "https://www.reddit.com/r/macapps/comments/ty1mkx/sad_news_for_deliveries_fans/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Glenn-T",
                     "url": "https://www.reddit.com/user/Glenn-T"
-                }
-            ]
-        },
-        {
-            "id": "rd732u",
-            "url": "/r/macapps/comments/rd732u/equinox_create_dynamic_wallpapers/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/rd732u/equinox_create_dynamic_wallpapers/",
-            "title": "Equinox: Create dynamic wallpapers",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/rd732u/equinox_create_dynamic_wallpapers/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/rd732u/equinox_create_dynamic_wallpapers/'>Apollo</a></caption> <div><p>Hi guys!</p>\n<p>Recently I developed an app for creating dynamic wallpapers. The goal of my app is to give the users ability to create macOS dynamic wallpapers without a lot of hard work. Also, it's free and open-source!</p>\n<p>https://preview.redd.it/p6evucolfp481.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=03d654922c532ef7cdb06dc5063b56abf2d6b57f</p>\n<p><a href=\"https://equinoxmac.com/\">https://equinoxmac.com/</a><br />\n<a href=\"https://github.com/rlxone/Equinox\">https://github.com/rlxone/Equinox</a></p></div>",
-            "date_published": "2021-12-10T11:58:29+00:00",
-            "authors": [
-                {
-                    "name": "getoutofdesign",
-                    "url": "https://www.reddit.com/user/getoutofdesign"
                 }
             ]
         }
