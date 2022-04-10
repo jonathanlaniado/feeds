@@ -8,6 +8,20 @@
     "favicon": "",
     "items": [
         {
+            "id": "u0crcc",
+            "url": "/r/Softwarr/comments/u0crcc/transcoderr_a_tdarr_alternative_which_uses_a/",
+            "external_url": "https://github.com/drkno/transcoderr",
+            "title": "Transcoderr- A tdarr alternative which uses a webhook to convert files after Sonarr/Radarr downloads it",
+            "content_html": "<caption>Open in: <a href='https://github.com/drkno/transcoderr'>github.com</a> | <a href='https://reddit.com/r/Softwarr/comments/u0crcc/transcoderr_a_tdarr_alternative_which_uses_a/'>Reddit</a> | <a href='apollo://reddit.com/r/Softwarr/comments/u0crcc/transcoderr_a_tdarr_alternative_which_uses_a/'>Apollo</a></caption>",
+            "date_published": "2022-04-10T07:40:16+00:00",
+            "authors": [
+                {
+                    "name": "Redbullsnation",
+                    "url": "https://www.reddit.com/user/Redbullsnation"
+                }
+            ]
+        },
+        {
             "id": "try200",
             "url": "/r/Softwarr/comments/try200/sonarr_youtubedl_a_companion_tool_for_sonarr_to/",
             "external_url": "https://github.com/whatdaybob/sonarr_youtubedl",
