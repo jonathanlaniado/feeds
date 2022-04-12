@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "u1tq2p",
+            "url": "/r/macapps/comments/u1tq2p/i_made_a_new_tweak_to_almighty_to_highlight/",
+            "external_url": "https://v.redd.it/tvyfm7z112t81",
+            "title": "I made a new tweak to Almighty to highlight active app window",
+            "content_html": "<caption>Open in: <a href='https://v.redd.it/tvyfm7z112t81'>v.redd.it</a> | <a href='https://reddit.com/r/macapps/comments/u1tq2p/i_made_a_new_tweak_to_almighty_to_highlight/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/u1tq2p/i_made_a_new_tweak_to_almighty_to_highlight/'>Apollo</a></caption>",
+            "date_published": "2022-04-12T07:58:12+00:00",
+            "authors": [
+                {
+                    "name": "onmyway133",
+                    "url": "https://www.reddit.com/user/onmyway133"
+                }
+            ]
+        },
+        {
             "id": "u1dlb2",
             "url": "/r/macapps/comments/u1dlb2/i_made_an_easing_curve_editor_for_macos/",
             "external_url": "https://v.redd.it/wn89y7dguxs81",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "idoknowsomething",
                     "url": "https://www.reddit.com/user/idoknowsomething"
-                }
-            ]
-        },
-        {
-            "id": "rfmxok",
-            "url": "/r/macapps/comments/rfmxok/only_switch_allinone_settings_on_a_status_bar/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/rfmxok/only_switch_allinone_settings_on_a_status_bar/",
-            "title": "Only Switch, all-in-one settings on a status bar button",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/rfmxok/only_switch_allinone_settings_on_a_status_bar/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/rfmxok/only_switch_allinone_settings_on_a_status_bar/'>Apollo</a></caption> <div><p>I don\u2019t like the notch, so I developed an app to hide it. Besides, I found that the menu bar is smaller than before, especially for 14'', it can\u2019t show status icons enough. I integrated other functions into it to figure it out. It looks fun. If you also face these problems, try it.</p>\n<p><a href=\"https://github.com/jacklandrin/OnlySwitch?fbclid=IwAR1Pgpv9gp2rcjPRGPxrCWwWSezAwtRkwz6B3Ec7gL8X5D3whPu3iYMP2e4\">https://github.com/jacklandrin/OnlySwitch</a></p>\n<p>&#x200B;</p>\n<p>https://preview.redd.it/xmyj0pmrvc581.png?width=1160&amp;format=png&amp;auto=webp&amp;s=c73762888a826585062921763db163330e70ab7c</p></div>",
-            "date_published": "2021-12-13T18:49:14+00:00",
-            "authors": [
-                {
-                    "name": "jacklandrin",
-                    "url": "https://www.reddit.com/user/jacklandrin"
                 }
             ]
         }
