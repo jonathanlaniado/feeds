@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "u26fgz",
+            "url": "/r/selfhosted/comments/u26fgz/fuck_doordash_fuck_ubereats_im_launching_my_own/",
+            "external_url": "/r/antiwork/comments/u21nio/fuck_doordash_fuck_ubereats_im_launching_my_own/",
+            "title": "Fuck Doordash. Fuck UberEats. I'm launching my own open-source non-profit food delivery platform.",
+            "content_html": "<caption>Open in: <a href='/r/antiwork/comments/u21nio/fuck_doordash_fuck_ubereats_im_launching_my_own/'></a> | <a href='https://reddit.com/r/selfhosted/comments/u26fgz/fuck_doordash_fuck_ubereats_im_launching_my_own/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/u26fgz/fuck_doordash_fuck_ubereats_im_launching_my_own/'>Apollo</a></caption>",
+            "date_published": "2022-04-12T18:51:56+00:00",
+            "authors": [
+                {
+                    "name": "Zelgoot",
+                    "url": "https://www.reddit.com/user/Zelgoot"
+                }
+            ]
+        },
+        {
             "id": "u16p4u",
             "url": "/r/selfhosted/comments/u16p4u/tooljet_v1110_now_supports_appwrite_baserow/",
             "external_url": "https://github.com/ToolJet/ToolJet/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "s87d",
                     "url": "https://www.reddit.com/user/s87d"
-                }
-            ]
-        },
-        {
-            "id": "r3um6h",
-            "url": "/r/selfhosted/comments/r3um6h/lets_create_an_overview_of_selfhostable_music/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/r3um6h/lets_create_an_overview_of_selfhostable_music/",
-            "title": "Let's create an overview of selfhostable music servers!",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/r3um6h/lets_create_an_overview_of_selfhostable_music/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/r3um6h/lets_create_an_overview_of_selfhostable_music/'>Apollo</a></caption> <div><p>Ever since <a href=\"https://www.reddit.com/u/Bill_Buttersr\">u/Bill_Buttersr</a> created the <a href=\"https://www.reddit.com/r/selfhosted/comments/pz9dpb/lets_make_a_definitive_guide_to_the_subtle/\">first post</a> we cleaned and added a couple of services. It is still work in progress, but it's useable for the info that's already there, and I wanted to share it with you guys!</p>\n<p>Here's the link to the github repo <a href=\"https://github.com/basings/selfhosted-music-overview\">https://github.com/basings/selfhosted-music-overview</a></p>\n<p>Please let us know if you think that it is useful for you. If you find something that's wrong, please feel free to open an issue. In case you think it's complete rubbish, let us know as well, and we'll try to make it better.</p>\n<p>Edit: thx for all the comments and issues and PRs, I'll try to answer everyone and add info to the site and work on the PRs but family comes first right now :)</p></div>",
-            "date_published": "2021-11-28T03:24:10+00:00",
-            "authors": [
-                {
-                    "name": "magnus_the_great",
-                    "url": "https://www.reddit.com/user/magnus_the_great"
                 }
             ]
         }
