@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "u2jv1m",
+            "url": "/r/macapps/comments/u2jv1m/i_made_a_free_website_called_osswiki_to_list_free/",
+            "external_url": "https://www.oss.wiki/",
+            "title": "I made a free website called Oss.wiki to list free and open source Mac apps",
+            "content_html": "<caption>Open in: <a href='https://www.oss.wiki/'>www.oss.wiki</a> | <a href='https://reddit.com/r/macapps/comments/u2jv1m/i_made_a_free_website_called_osswiki_to_list_free/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/u2jv1m/i_made_a_free_website_called_osswiki_to_list_free/'>Apollo</a></caption>",
+            "date_published": "2022-04-13T06:21:33+00:00",
+            "authors": [
+                {
+                    "name": "onmyway133",
+                    "url": "https://www.reddit.com/user/onmyway133"
+                }
+            ]
+        },
+        {
             "id": "u1tq2p",
             "url": "/r/macapps/comments/u1tq2p/i_made_a_new_tweak_to_almighty_to_highlight/",
             "external_url": "https://v.redd.it/tvyfm7z112t81",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "EpiphanicSyncronica",
                     "url": "https://www.reddit.com/user/EpiphanicSyncronica"
-                }
-            ]
-        },
-        {
-            "id": "rfy2i5",
-            "url": "/r/macapps/comments/rfy2i5/question_from_a_developer_what_do_you_want_from_a/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/rfy2i5/question_from_a_developer_what_do_you_want_from_a/",
-            "title": "Question from a developer: What do you want from a bookmark/link manager app?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/rfy2i5/question_from_a_developer_what_do_you_want_from_a/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/rfy2i5/question_from_a_developer_what_do_you_want_from_a/'>Apollo</a></caption> <div><p>I\u2019m working on a bookmarking app for macOS which is equipped with lots of features I collected from all over the Internet.</p>\n<p>But I don't think I've added all the features. I somehow want to scare off people with features they don't need.</p>\n<p>The app can also act as a read-it-later app as I think every app that can save likes is a read-it-later app. Due to the technical issues I don't want to tackle, <strong>it does not and will not support offline reading like Instapaper or Pocket. So highlighting text of all sorts is also off the table.</strong></p>\n<p>Other than that, what do you want from an app like this?</p>\n<p>Currently this app has these features:</p>\n<p>- Quick Find to easy access your bookmarks.</p>\n<p>- Browser extension to save current web page (Safari, Chrome, Firefox, Edge).</p>\n<p>- CloudKit sync. All data are stored in your iCloud.</p>\n<p>- Import bookmarks exported from browsers.</p>\n<p>- Export bookmarks to HTML or JSON.</p>\n<p>- Management with tags.</p>\n<p>- Smart Lists (save searches).</p>\n<p>- Archive URL to PDF or Web Archive.</p>\n<p>- Set preferred browser for each URL.</p>\n<p>- Shortcuts support for macOS 12 and URL Scheme.</p>\n<p>- Share menu.</p>\n<p>- Copy as Markdown or HTML.</p>\n<p>- Trash.</p>\n<p>- Quick Link.</p>\n<p>- List view and card view.</p>\n<p>- Native Mac app experience.</p>\n<p>&#x200B;</p>\n<p>Planning:</p>\n<p>- iOS version with feature parity.</p>\n<p>- Easy way to share your links with people.</p>\n<p>&#x200B;</p>\n<p>Post note:</p>\n<p>I'm aware of many other apps such as Raindrop, Pinboard, GoodLinks, Pocket, Instapaper, Matter, Abyss, Cubox and many more small ones.</p>\n<p>I've done a lot of research. The biggest difference/advantage of my app is that it is a modern native Mac app, built with Appkit with support up to macOS 11.0.</p>\n<p>&#x200B;</p>\n<p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/aevaik2eeg581.png?width=2130&amp;format=png&amp;auto=webp&amp;s=4c7b5d4c9b8b838c1a44878137296eca1414a925\">Main Window</a></p>\n<p><a href=\"https://preview.redd.it/2usshi70dg581.png?width=1270&amp;format=png&amp;auto=webp&amp;s=36737bfe29b4269e6ac06ab785009e1245992e0f\">Quick Find to search with keyboard shortcut</a></p>\n<p><a href=\"https://preview.redd.it/skmtwtuzcg581.png?width=1422&amp;format=png&amp;auto=webp&amp;s=21042dee5f0674c50443ef774a812e4073187988\">Quick Save to save current page directly</a></p></div>",
-            "date_published": "2021-12-14T03:30:59+00:00",
-            "authors": [
-                {
-                    "name": "idoknowsomething",
-                    "url": "https://www.reddit.com/user/idoknowsomething"
                 }
             ]
         }
