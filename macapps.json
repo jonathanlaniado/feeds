@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "u4axuh",
+            "url": "/r/macapps/comments/u4axuh/bloomberg_apple_now_testing_thirdparty_apps_with/",
+            "external_url": "https://9to5mac.com/2022/04/14/bloomberg-apple-now-testing-third-party-apps-with-at-least-nine-new-m2-macs/",
+            "title": "Bloomberg: Apple now testing third-party apps with at least nine new M2 Macs",
+            "content_html": "<caption>Open in: <a href='https://9to5mac.com/2022/04/14/bloomberg-apple-now-testing-third-party-apps-with-at-least-nine-new-m2-macs/'>9to5mac.com</a> | <a href='https://reddit.com/r/macapps/comments/u4axuh/bloomberg_apple_now_testing_thirdparty_apps_with/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/u4axuh/bloomberg_apple_now_testing_thirdparty_apps_with/'>Apollo</a></caption>",
+            "date_published": "2022-04-15T15:45:48+00:00",
+            "authors": [
+                {
+                    "name": "EpiphanicSyncronica",
+                    "url": "https://www.reddit.com/user/EpiphanicSyncronica"
+                }
+            ]
+        },
+        {
             "id": "u3shz5",
             "url": "/r/macapps/comments/u3shz5/free_i_made_a_small_wrapper_for_the_ocrmypdf/",
             "external_url": "https://github.com/ezgranet/macocr/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Barbelleatsdumbbell",
                     "url": "https://www.reddit.com/user/Barbelleatsdumbbell"
-                }
-            ]
-        },
-        {
-            "id": "rh19ai",
-            "url": "/r/macapps/comments/rh19ai/stopthemadness_hush_or_hyperweb_for_safari/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/rh19ai/stopthemadness_hush_or_hyperweb_for_safari/",
-            "title": "StopTheMadness, Hush or Hyperweb for Safari?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/rh19ai/stopthemadness_hush_or_hyperweb_for_safari/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/rh19ai/stopthemadness_hush_or_hyperweb_for_safari/'>Apollo</a></caption> <div><p>Hello,</p>\n<p>I was wondering if the following Safari extensions can be used alongside one another, or are they essentially doing the same thing?</p>\n<p><a href=\"https://apps.apple.com/us/app/stopthemadness-mobile/id1583082931\">StopTheMadness</a>, <a href=\"https://apps.apple.com/gb/app/hush-nag-blocker/id1544743900\">Hush</a>, <a href=\"https://hyperweb.app/\">Hyperweb</a>.</p>\n<p>I read their description but I am uncertain whether they can be used alongside each other or one or two of them is enough \ud83e\udd28. They seem to do sorta the same things, overlapping each other, yet there are functionalities listed in one that are absent in the other.</p>\n<p>Also, even if they do roughly the same things, is there one that is preferred among the three?</p>\n<p>I have seen recommended all of them on different sites, yet no concrete advice on which covers the most or does the best work.</p>\n<p>I know there is a subreddit dedicated specifically for Safari, but I wanted to ask here as well, since it has more members and hopefully some of you already have experience with some of these extensions.</p>\n<p>Thanks for any feedback.</p></div>",
-            "date_published": "2021-12-15T15:12:23+00:00",
-            "authors": [
-                {
-                    "name": "kak8gm",
-                    "url": "https://www.reddit.com/user/kak8gm"
                 }
             ]
         }
