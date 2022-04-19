@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "u75ja4",
+            "url": "/r/macapps/comments/u75ja4/alfred_user_intrigued_by_raycast_need_advice/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/u75ja4/alfred_user_intrigued_by_raycast_need_advice/",
+            "title": "Alfred user, intrigued by Raycast. Need advice",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/u75ja4/alfred_user_intrigued_by_raycast_need_advice/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/u75ja4/alfred_user_intrigued_by_raycast_need_advice/'>Apollo</a></caption> <div><p>Recently read on here that Raycast isn't considered as safe due to it's plugins not being \"sandboxed\". As someone who knows little to no code- I can't review the plugins myself. How big of an issue is this when using Raycast?</p></div>",
+            "date_published": "2022-04-19T13:45:35+00:00",
+            "authors": [
+                {
+                    "name": "ashleyalyssa",
+                    "url": "https://www.reddit.com/user/ashleyalyssa"
+                }
+            ]
+        },
+        {
             "id": "u5xktn",
             "url": "/r/macapps/comments/u5xktn/mac_apps_that_you_have_been_using_for_long_time/",
             "external_url": "https://www.reddit.com/r/macapps/comments/u5xktn/mac_apps_that_you_have_been_using_for_long_time/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "pavel_r",
                     "url": "https://www.reddit.com/user/pavel_r"
-                }
-            ]
-        },
-        {
-            "id": "riq51s",
-            "url": "/r/macapps/comments/riq51s/torrent_clients_for_mac/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/riq51s/torrent_clients_for_mac/",
-            "title": "Torrent Clients for Mac",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/riq51s/torrent_clients_for_mac/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/riq51s/torrent_clients_for_mac/'>Apollo</a></caption> <div><p>What are the best torrent clients for M1 Macs?</p></div>",
-            "date_published": "2021-12-17T20:29:53+00:00",
-            "authors": [
-                {
-                    "name": "rick_____--",
-                    "url": "https://www.reddit.com/user/rick_____--"
                 }
             ]
         }
