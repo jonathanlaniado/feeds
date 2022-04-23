@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "ua1hap",
+            "url": "/r/selfhosted/comments/ua1hap/reminder_that_if_you_use_a_dashboard_that_youre/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/ua1hap/reminder_that_if_you_use_a_dashboard_that_youre/",
+            "title": "Reminder that if you use a dashboard that you're allowing internet access to, set a password.",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/ua1hap/reminder_that_if_you_use_a_dashboard_that_youre/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/ua1hap/reminder_that_if_you_use_a_dashboard_that_youre/'>Apollo</a></caption> <div><p>I just spent a little time searching around for unsecure Heimdall's. There's a lot. This is an example of what I was able to do on more than one of them. </p>\n<p>So I found an unsecured Heimdall that had actually been setup fairly well for personal use, but the owner was using the fancy enhanced buttons. So I opened up the application list and went into edit. </p>\n<p>This guy was running AdGuard Home and AdGuard Home requires you provide your username and password to use the enhanced features. The username was plain text and Heimdall isn't the most secure so if you inspect element on the password field and change the type to text, you can see the data entered.</p>\n<p>So now I have his username and password. People tend to reuse these.</p>\n<p>He was also running Sonarr/Radarr so I gave those a go, they were actually password protected, I put in the username and password I just got and boom, I was in them too.</p>\n<p>I opened up his indexer list and could see he was using a bunch of usenet indexers. Now I couldn't get the username and passwords for these directly, but I did have the API keys. And I could find the sites quite easilly and already knew his username and password so could give those a shot. Turns out that worked for a couple of them.</p>\n<p>I could also see his download client was NZBGet. That also stores username and password. They matched what I already had, but if they were different I would have had them too.</p>\n<p>I hop over to his NZBGet and from here I can see his download servers. They also store username and password (note here, sabNZB does NOT allow you to view the stored password, but NZBGet does).</p>\n<p>So now I go to the site for one of his servers and what do you know, same username and password combo. From here I could see our guys email address. Bet he reused the password...</p>\n<p>He did.</p>\n<p>Oh, he was also running Portainer as an enhanced app on Heimdall. Portainer requires username/password for that feature. So now I'm in his Portainer.</p>\n<p>If you're worrying, I did nothing with all this information. Well that's not true, I did add the classic 1995 movie \"Hackers\" to his Radarr.</p>\n<p>And then sent him an anonymous email explaining what I had done and left a note directly on his Heimdall in case he missed the email.</p>\n<p>So in conclussion, make sure your shit is secure and don't reuse passwords.</p></div>",
+            "date_published": "2022-04-23T09:16:55+00:00",
+            "authors": [
+                {
+                    "name": "SecureYourSht",
+                    "url": "https://www.reddit.com/user/SecureYourSht"
+                }
+            ]
+        },
+        {
             "id": "u883yz",
             "url": "/r/selfhosted/comments/u883yz/mistborn_wireguard_nextcloud_syncthing_rocket/",
             "external_url": "https://gitlab.com/cyber5k/mistborn",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "VviFMCgY",
                     "url": "https://www.reddit.com/user/VviFMCgY"
-                }
-            ]
-        },
-        {
-            "id": "r8kbmz",
-            "url": "/r/selfhosted/comments/r8kbmz/not_a_typical_post_but_i_hope_it_made_you_laugh/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/r8kbmz/not_a_typical_post_but_i_hope_it_made_you_laugh/",
-            "title": "Not A typical Post but I hope it made you laugh",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/r8kbmz/not_a_typical_post_but_i_hope_it_made_you_laugh/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/r8kbmz/not_a_typical_post_but_i_hope_it_made_you_laugh/'>Apollo</a></caption> <div><p>While I Was Browsing Github I Stumbled Upon This Repo. Thought You Like It</p>\n<p>Based on a <em>true story</em>:</p>\n<blockquote>\n<p>xxx: OK, so, our build engineer has left for another company. The dude was literally living inside the terminal. You know, that type of a guy who loves Vim, creates diagrams in Dot and writes wiki-posts in Markdown... If something - anything - requires more than 90 seconds of his time, he writes a script to automate that.  </p>\n<p>xxx: So we're sitting here, looking through his, uhm, \"legacy\"  </p>\n<p>xxx: You're gonna love this  </p>\n<p>xxx: <strong>smack-my-bitch-up.sh</strong> - sends a text message \"late at work\" to his wife (apparently). Automatically picks reasons from an array of strings, randomly. Runs inside a cron-job. The job fires if there are active SSH-sessions on the server after 9pm with his login.  </p>\n<p>xxx: <strong>kumar-asshole.sh</strong> - scans the inbox for emails from \"Kumar\" (a DBA at our clients). Looks for keywords like \"help\", \"trouble\", \"sorry\" etc. If keywords are found - the script SSHes into the clients server and rolls back the staging database to the latest backup. Then sends a reply \"no worries mate, be careful next time\".  </p>\n<p>xxx: <strong>hangover.sh</strong> - another cron-job that is set to specific dates. Sends automated emails like \"not feeling well/gonna work from home\" etc. Adds a random \"reason\" from another predefined array of strings. Fires if there are no interactive sessions on the server at 8:45am.  </p>\n<p>xxx: (and the oscar goes to) <strong>fucking-coffee.sh</strong> - this one waits exactly 17 seconds (!), then opens a telnet session to our coffee-machine (we had no frikin idea the coffee machine is on the network, runs linux and has a TCP socket up and running) and sends something like sys brew. Turns out this thing starts brewing a mid-sized half-caf latte and waits another 24 (!) seconds before pouring it into a cup. The timing is exactly how long it takes to walk to the machine from the dudes desk.  </p>\n<p>xxx: holy sh*t I'm keeping those</p>\n</blockquote>\n<p>&#x200B;</p>\n<p>The Link To This Repo Is <a href=\"https://github.com/NARKOZ/hacker-scripts\">Here</a>.</p>\n<p>You Can ALSO FIND THESE SCRIPTS THERE</p>\n<p>HOPE IT MADE YOU LAUGH.</p></div>",
-            "date_published": "2021-12-04T07:25:47+00:00",
-            "authors": [
-                {
-                    "name": "DadOfLucifer",
-                    "url": "https://www.reddit.com/user/DadOfLucifer"
                 }
             ]
         }
