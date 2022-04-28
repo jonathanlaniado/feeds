@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "udur74",
+            "url": "/r/apple/comments/udur74/tsmc_clarifies_apples_ultrafusion_chiptochip/",
+            "external_url": "https://www.tomshardware.com/news/tsmc-clarifies-apple-ultrafusion-chip-to-chip-interconnect",
+            "title": "TSMC Clarifies Apple's UltraFusion Chip-to-Chip Interconnect",
+            "content_html": "<caption>Open in: <a href='https://www.tomshardware.com/news/tsmc-clarifies-apple-ultrafusion-chip-to-chip-interconnect'>www.tomshardware.com</a> | <a href='https://reddit.com/r/apple/comments/udur74/tsmc_clarifies_apples_ultrafusion_chiptochip/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/udur74/tsmc_clarifies_apples_ultrafusion_chiptochip/'>Apollo</a></caption>",
+            "date_published": "2022-04-28T13:15:48+00:00",
+            "authors": [
+                {
+                    "name": "benh999",
+                    "url": "https://www.reddit.com/user/benh999"
+                }
+            ]
+        },
+        {
             "id": "ud20o9",
             "url": "/r/apple/comments/ud20o9/apples_self_service_repair_now_available/",
             "external_url": "https://www.apple.com/newsroom/2022/04/apples-self-service-repair-now-available/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "eighty__six",
                     "url": "https://www.reddit.com/user/eighty__six"
-                }
-            ]
-        },
-        {
-            "id": "sq210f",
-            "url": "/r/apple/comments/sq210f/mac_users_report_zoom_using_their_microphone/",
-            "external_url": "https://www.theregister.com/2022/02/10/zoom_mac_microphone/",
-            "title": "Mac users report Zoom using their microphone outside calls",
-            "content_html": "<caption>Open in: <a href='https://www.theregister.com/2022/02/10/zoom_mac_microphone/'>www.theregister.com</a> | <a href='https://reddit.com/r/apple/comments/sq210f/mac_users_report_zoom_using_their_microphone/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/sq210f/mac_users_report_zoom_using_their_microphone/'>Apollo</a></caption>",
-            "date_published": "2022-02-11T15:29:43+00:00",
-            "authors": [
-                {
-                    "name": "KeponeFactory",
-                    "url": "https://www.reddit.com/user/KeponeFactory"
                 }
             ]
         }
