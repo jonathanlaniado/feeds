@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "ug1f9f",
+            "url": "/r/PleX/comments/ug1f9f/increase_default_stream_quality_to_1080p/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/ug1f9f/increase_default_stream_quality_to_1080p/",
+            "title": "Increase default stream quality to 1080p",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/PleX/comments/ug1f9f/increase_default_stream_quality_to_1080p/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/ug1f9f/increase_default_stream_quality_to_1080p/'>Apollo</a></caption> <div><p>Seriously, just do it already.</p>\n<p>The 720p 2 Mbit/s was set probably like a decade ago and it's now 2022, what's stopping you?</p>\n<p><a href=\"https://forums.plex.tv/t/default-all-clients-to-max-internet-streaming/440641/1003\">Years of frustration</a> fixed by changing one line of code.</p>\n<p>\"Hey, please change your resolution in the settings\" \"How do I do that?\" Every single time.</p>\n<p>Just change it.</p></div>",
+            "date_published": "2022-05-01T14:47:18+00:00",
+            "authors": [
+                {
+                    "name": "Simon_787",
+                    "url": "https://www.reddit.com/user/Simon_787"
+                }
+            ]
+        },
+        {
             "id": "uemhfa",
             "url": "/r/PleX/comments/uemhfa/cant_unsee/",
             "external_url": "https://i.imgur.com/PMFjslw.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MumeiNoName",
                     "url": "https://www.reddit.com/user/MumeiNoName"
-                }
-            ]
-        },
-        {
-            "id": "qvx9go",
-            "url": "/r/PleX/comments/qvx9go/wait_plex_has_themes_now/",
-            "external_url": "https://i.redd.it/mfrdd1hh55081.jpg",
-            "title": "Wait... Plex has themes now?",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/mfrdd1hh55081.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/PleX/comments/qvx9go/wait_plex_has_themes_now/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/qvx9go/wait_plex_has_themes_now/'>Apollo</a></caption>",
-            "date_published": "2021-11-17T11:28:16+00:00",
-            "authors": [
-                {
-                    "name": "mike392",
-                    "url": "https://www.reddit.com/user/mike392"
                 }
             ]
         }
