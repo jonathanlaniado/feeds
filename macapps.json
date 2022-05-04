@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "uhnqvx",
+            "url": "/r/macapps/comments/uhnqvx/1password_8/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/uhnqvx/1password_8/",
+            "title": "1Password 8",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/uhnqvx/1password_8/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/uhnqvx/1password_8/'>Apollo</a></caption> <div><p>It dropped for Mac today. It's super clean. Has anyone else gone and updated it yet?</p></div>",
+            "date_published": "2022-05-03T19:24:39+00:00",
+            "authors": [
+                {
+                    "name": "MacSources",
+                    "url": "https://www.reddit.com/user/MacSources"
+                }
+            ]
+        },
+        {
             "id": "ugxxs1",
             "url": "/r/macapps/comments/ugxxs1/is_there_a_website_that_lists_only_native_macos/",
             "external_url": "https://www.reddit.com/r/macapps/comments/ugxxs1/is_there_a_website_that_lists_only_native_macos/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Pwnz_r",
                     "url": "https://www.reddit.com/user/Pwnz_r"
-                }
-            ]
-        },
-        {
-            "id": "ru5k18",
-            "url": "/r/macapps/comments/ru5k18/mac_app_lighweight_powerful_image_photo_viewer/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/ru5k18/mac_app_lighweight_powerful_image_photo_viewer/",
-            "title": "Mac App: Lighweight powerful Image / Photo Viewer",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/ru5k18/mac_app_lighweight_powerful_image_photo_viewer/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/ru5k18/mac_app_lighweight_powerful_image_photo_viewer/'>Apollo</a></caption> <div><p>I am looking for a lightweight app so when I open a picture I can move to the previous / next picture (in  that folder) with arrows.</p>\n<p>I can not do that with default Mac app <strong>Preview</strong> - first you have to select images you want to view and then you can browse / preview them in bigger size with keyboard arrow.</p>\n<p>The only app I have found is <strong>qView</strong> <a href=\"https://interversehq.com/qview/\">https://interversehq.com/qview/</a></p>\n<p>Any tips for a different lightweight yet (in features) powerful mac app? TY</p></div>",
-            "date_published": "2022-01-02T08:42:07+00:00",
-            "authors": [
-                {
-                    "name": "8in4ry",
-                    "url": "https://www.reddit.com/user/8in4ry"
                 }
             ]
         }
