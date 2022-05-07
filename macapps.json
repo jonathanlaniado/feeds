@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "ujudwi",
+            "url": "/r/macapps/comments/ujudwi/use_your_mac_only_using_keyboard/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/ujudwi/use_your_mac_only_using_keyboard/",
+            "title": "Use your Mac only using Keyboard",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/ujudwi/use_your_mac_only_using_keyboard/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/ujudwi/use_your_mac_only_using_keyboard/'>Apollo</a></caption> <div><ol>\n<li>Vimac (free) - Never use your mouse/trackpad again</li>\n<li>rcmd - Instant app switching</li>\n<li>Context - Slightly slower but more precise App switching compared to rcmd</li>\n</ol>\n<p>Bonus: Vimium, Alfred, Keyboard Maestro, QMK keyboard</p></div>",
+            "date_published": "2022-05-06T18:50:10+00:00",
+            "authors": [
+                {
+                    "name": "kjlsadfjlna",
+                    "url": "https://www.reddit.com/user/kjlsadfjlna"
+                }
+            ]
+        },
+        {
             "id": "uiro93",
             "url": "/r/macapps/comments/uiro93/i_build_an_app_to_blur_anything_on_my_mac_screen/",
             "external_url": "https://www.blurscreen.app",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "carpedavid",
                     "url": "https://www.reddit.com/user/carpedavid"
-                }
-            ]
-        },
-        {
-            "id": "ry3m3i",
-            "url": "/r/macapps/comments/ry3m3i/air_quality_at_a_peek_for_mac/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/ry3m3i/air_quality_at_a_peek_for_mac/",
-            "title": "Air quality at a peek for Mac",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/ry3m3i/air_quality_at_a_peek_for_mac/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/ry3m3i/air_quality_at_a_peek_for_mac/'>Apollo</a></caption> <div><p>Hey, you! \ud83d\udc4b<br />\nI made this. If you are concerned with bad air quality. This might be for you.<br />\nApp Store:<br />\n<a href=\"https://apps.apple.com/app/neat-air/id1602405823\">https://apps.apple.com/app/neat-air/id1602405823</a></p>\n<p>Web:<br />\n<a href=\"https://neatair.app\">https://neatair.app</a></p>\n<p>Product Hunt:<br />\n<a href=\"https://www.producthunt.com/posts/neat-air\">https://www.producthunt.com/posts/neat-air</a></p></div>",
-            "date_published": "2022-01-07T09:31:37+00:00",
-            "authors": [
-                {
-                    "name": "tedsomething",
-                    "url": "https://www.reddit.com/user/tedsomething"
                 }
             ]
         }
