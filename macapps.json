@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "uq26fz",
+            "url": "/r/macapps/comments/uq26fz/are_we_becoming_hostages_of_inapp_purchases/",
+            "external_url": "/r/apps/comments/upakwv/are_we_becoming_hostages_of_inapp_purchases/",
+            "title": "Are we becoming \u201chostages\u201d of In-App Purchases?",
+            "content_html": "<caption>Open in: <a href='/r/apps/comments/upakwv/are_we_becoming_hostages_of_inapp_purchases/'></a> | <a href='https://reddit.com/r/macapps/comments/uq26fz/are_we_becoming_hostages_of_inapp_purchases/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/uq26fz/are_we_becoming_hostages_of_inapp_purchases/'>Apollo</a></caption>",
+            "date_published": "2022-05-15T09:08:31+00:00",
+            "authors": [
+                {
+                    "name": "rodrigoferrari",
+                    "url": "https://www.reddit.com/user/rodrigoferrari"
+                }
+            ]
+        },
+        {
             "id": "uolaot",
             "url": "/r/macapps/comments/uolaot/just_released_new_version_of_big_weather_now_with/",
             "external_url": "https://i.redd.it/zkvdexo1r6z81.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "rkstk",
                     "url": "https://www.reddit.com/user/rkstk"
-                }
-            ]
-        },
-        {
-            "id": "s0evsu",
-            "url": "/r/macapps/comments/s0evsu/owlocr_5_macos_text_recognition_app_is_adding_cli/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/s0evsu/owlocr_5_macos_text_recognition_app_is_adding_cli/",
-            "title": "OwlOCR 5 - macOS text recognition app is adding CLI support and running -30% off release sale!",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/s0evsu/owlocr_5_macos_text_recognition_app_is_adding_cli/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/s0evsu/owlocr_5_macos_text_recognition_app_is_adding_cli/'>Apollo</a></caption> <div><p>Hey all!</p>\n<p>I started working on OwlOCR as indie project almost two years ago and it\u2019s gone through multiple iterations primarily based on feedback from the thousands of great users, thank you all for that. I know there's a few awesome users that jumped on board from this very subreddit!</p>\n<p>OwlOCR 5 addresses a need that has been raised by its power-users multiple times over the last two years - the possibility to script OwlOCR and integrate it to different workflows! For this purpose a command line interface is provided, so it should be very accommodating to different tools. During OwlOCR 5 beta test period and after that users have already integrated it to their Alfred and Hazel workflows and I\u2019m really excited to see where all it\u2019s going to go in the future.</p>\n<p>In addition OwlOCR 5 carries all the previous iterations features like opening QR coded URLs easily, capturing any text of the screen, converting images or scans to searchable PDFs and more.</p>\n<p>OwlOCR 5 is a free upgrade to all current customers as all previous iterations have been as well. The app has a generous free tier, an automatic 3 week trial of the Premium tier and to celebrate launch the lifetime license will be -30% until 12th January!</p>\n<p>It is also launching on Product Hunt right now, so if you're a Product Hunt users, will be happy to get some love on that forum as well!</p>\n<p>Product Hunt: <a href=\"https://www.producthunt.com/posts/owlocr-5\">https://www.producthunt.com/posts/owlocr-5</a></p>\n<p>Homepage: <a href=\"https://owlocr.com/\">https://owlocr.com</a></p>\n<p>Mac App Store: <a href=\"https://apps.apple.com/us/app/owlocr-screenshot-to-text/id1499181666\">https://apps.apple.com/us/app/owlocr-screenshot-to-text/id1499181666</a></p></div>",
-            "date_published": "2022-01-10T08:07:53+00:00",
-            "authors": [
-                {
-                    "name": "ittrut",
-                    "url": "https://www.reddit.com/user/ittrut"
                 }
             ]
         }
