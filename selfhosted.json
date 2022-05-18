@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "urfcim",
+            "url": "/r/selfhosted/comments/urfcim/did_google_just_change_its_mind_about_ending_the/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/urfcim/did_google_just_change_its_mind_about_ending_the/",
+            "title": "Did Google just change it\u2019s mind about ending the G Suite legacy free edition?",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/urfcim/did_google_just_change_its_mind_about_ending_the/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/urfcim/did_google_just_change_its_mind_about_ending_the/'>Apollo</a></caption> <div><p>The <a href=\"https://support.google.com/a/answer/60217?hl=en\">support page for \u2018Upgrade from G Suite legacy free edition\u2019</a> now states:</p>\n<p><strong>What if I use G Suite legacy free edition for personal use?</strong>\nIf you\u2019re using the G Suite legacy free edition for non-commercial purposes, you can opt out of the transition to Google Workspace by clicking here (requires a super administrator account) or going to the Google Admin console. You can continue using your custom domain with Gmail, retain access to no-cost Google services such as Google Drive and Google Meet, and keep your purchases and data.</p></div>",
+            "date_published": "2022-05-17T05:29:20+00:00",
+            "authors": [
+                {
+                    "name": "adullage",
+                    "url": "https://www.reddit.com/user/adullage"
+                }
+            ]
+        },
+        {
             "id": "unjhi3",
             "url": "/r/selfhosted/comments/unjhi3/finally_finished_reinstalling_my_entire_raspberry/",
             "external_url": "https://i.redd.it/hjov1503swy81.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Upset_Raccoon4942",
                     "url": "https://www.reddit.com/user/Upset_Raccoon4942"
-                }
-            ]
-        },
-        {
-            "id": "rd1wzo",
-            "url": "/r/selfhosted/comments/rd1wzo/librecaptcha_110_released/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/rd1wzo/librecaptcha_110_released/",
-            "title": "LibreCaptcha 1.1.0 released",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/rd1wzo/librecaptcha_110_released/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/rd1wzo/librecaptcha_110_released/'>Apollo</a></caption> <div><p>LibreCaptcha is a self-hostable, privacy respecting CAPTCHA server. The core server maintains a database of CAPTCHA challenges, provides an HTTP API, and comes with sample CAPTCHA generators.</p>\n<p>Release notes are <a href=\"https://github.com/librecaptcha/lc-core/releases/tag/v1.1.0\">here</a></p></div>",
-            "date_published": "2021-12-10T06:05:10+00:00",
-            "authors": [
-                {
-                    "name": "hrjet",
-                    "url": "https://www.reddit.com/user/hrjet"
                 }
             ]
         }
