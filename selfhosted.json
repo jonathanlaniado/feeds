@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "usi7a5",
+            "url": "/r/selfhosted/comments/usi7a5/an_opensource_conversational_apps_builder_that/",
+            "external_url": "https://v.redd.it/fz9goe65s9091",
+            "title": "An Open-Source conversational apps builder that you can self-host. (Alternative to Landbot, Typeform, Jotform)",
+            "content_html": "<caption>Open in: <a href='https://v.redd.it/fz9goe65s9091'>v.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/usi7a5/an_opensource_conversational_apps_builder_that/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/usi7a5/an_opensource_conversational_apps_builder_that/'>Apollo</a></caption>",
+            "date_published": "2022-05-18T17:31:58+00:00",
+            "authors": [
+                {
+                    "name": "baptisteArnaud",
+                    "url": "https://www.reddit.com/user/baptisteArnaud"
+                }
+            ]
+        },
+        {
             "id": "us9pyu",
             "url": "/r/selfhosted/comments/us9pyu/a_selfhosted_and_opensource_alternative_to/",
             "external_url": "https://i.redd.it/je6tg2jnw3091.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "SlaveZelda",
                     "url": "https://www.reddit.com/user/SlaveZelda"
-                }
-            ]
-        },
-        {
-            "id": "rdjox0",
-            "url": "/r/selfhosted/comments/rdjox0/just_making_sure_this_has_been_posted_here_paper/",
-            "external_url": "https://www.lunasec.io/docs/blog/log4j-zero-day/",
-            "title": "Just making sure this has been posted here. Paper and Minecraft servers are just some of the many vulnerable servers out there.",
-            "content_html": "<caption>Open in: <a href='https://www.lunasec.io/docs/blog/log4j-zero-day/'>www.lunasec.io</a> | <a href='https://reddit.com/r/selfhosted/comments/rdjox0/just_making_sure_this_has_been_posted_here_paper/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/rdjox0/just_making_sure_this_has_been_posted_here_paper/'>Apollo</a></caption>",
-            "date_published": "2021-12-10T21:53:33+00:00",
-            "authors": [
-                {
-                    "name": "SigmaSixShooter",
-                    "url": "https://www.reddit.com/user/SigmaSixShooter"
                 }
             ]
         }
