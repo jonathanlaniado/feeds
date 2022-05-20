@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "uu54v5",
+            "url": "/r/macapps/comments/uu54v5/whats_an_app_that_you_use_regularly_but_it_feels/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/uu54v5/whats_an_app_that_you_use_regularly_but_it_feels/",
+            "title": "What's an app that you use regularly but it feels like you're the only person who knows about it?",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/uu54v5/whats_an_app_that_you_use_regularly_but_it_feels/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/uu54v5/whats_an_app_that_you_use_regularly_but_it_feels/'>Apollo</a></caption> <div><p>For me it's hyperdock. One of the first app I got when I switched from windows to mac.</p></div>",
+            "date_published": "2022-05-20T19:01:07+00:00",
+            "authors": [
+                {
+                    "name": "Barbelleatsdumbbell",
+                    "url": "https://www.reddit.com/user/Barbelleatsdumbbell"
+                }
+            ]
+        },
+        {
             "id": "urwzma",
             "url": "/r/macapps/comments/urwzma/crate_file_storage_for_musicians/",
             "external_url": "https://www.reddit.com/r/macapps/comments/urwzma/crate_file_storage_for_musicians/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Fede_Rama",
                     "url": "https://www.reddit.com/user/Fede_Rama"
-                }
-            ]
-        },
-        {
-            "id": "s5h7gb",
-            "url": "/r/macapps/comments/s5h7gb/mac_mouse_fix_2_featuring_nativefeeling_gestures/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/s5h7gb/mac_mouse_fix_2_featuring_nativefeeling_gestures/",
-            "title": "Mac Mouse Fix 2 - Featuring native-feeling gestures that let you navigate macOS just like a trackpad. Use the best-in-class remapping UI to customize your mouse in a way that's more powerful, yet easier to use than the competition. It's also still 100% free, lightweight, and easy to use.",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/s5h7gb/mac_mouse_fix_2_featuring_nativefeeling_gestures/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/s5h7gb/mac_mouse_fix_2_featuring_nativefeeling_gestures/'>Apollo</a></caption> <div><p>Hey there, I'm Noah!</p>\n<p>Over the last year I've been working on some awesome new features for Mac Mouse Fix in my free time. Now Mac Mouse Fix 2 is finally here! It's 100% free and open source. It's unobtrusive and light weight. And it's super easy to use while still giving you tons power for your workflow. If you use a third party mouse I think you'll love it!</p>\n<p>&#x200B;</p>\n<p><a href=\"https://mousefix.org\">Download</a> | <a href=\"https://github.com/noah-nuebling/mac-mouse-fix\">GitHub</a></p>\n<p>&#x200B;</p>\n<p>Here's the full changelog:</p>\n<h2>Mouse Gestures done right.</h2>\n<p><strong>Click</strong> a Mouse Button <strong>and Drag</strong> in different directions to enter <strong>Mission Control</strong>, <strong>move between Spaces</strong>, or see <strong>all windows of the current app</strong> - all using just a single Button!</p>\n<p>Mac Mouse Fix Gestures feel much more <strong>fluid and responsive</strong> than any other driver on the market. This is possible because Mac Mouse Fix can precisely emulate the output of Apple's Trackpad driver.</p>\n<p>https://reddit.com/link/s5h7gb/video/x7du5jij93c81/player</p>\n<h2>With great power comes great ... ease of use!</h2>\n<p>With the new <strong>Action Table</strong>, you can set up your Mouse exactly how you want it - in seconds.</p>\n<p>Move the pointer into the \"+\" field, then simply show Mac Mouse Fix the clicks and drags that you want to assign a new Action to.</p>\n<p><a href=\"https://reddit.com/link/s5h7gb/video/8s1e0ntk93c81/player\">Adding an Action for Double-Clicking the Middle Mouse Button is super simple.</a></p>\n<h2>A major boost to your productivity.</h2>\n<p>Mouse Gestures, together with the new Action Table allow you to get <strong>7x more functionality out of a single Button</strong> compared to conventional mouse drivers. All while being so simple and intuitive that you'll actually use all those features.</p>\n<p>This way anyone can leverage the convenient navigation options that make macOS so powerful - from any mouse. Even the simplest ones.</p>\n<p>For example, with the default configuration, you can use all these Actions using <strong>just the Middle Mouse Button</strong>:</p>\n<ul>\n<li>Mission Control</li>\n<li>Move Left a Space</li>\n<li>Move Right a Space</li>\n<li>App Expos\u00e9</li>\n<li>Show Desktop</li>\n<li>Launchpad</li>\n<li>Look Up</li>\n</ul>\n<p>And this is right out of the box. Without even tapping into the endless, yet easy-to-use customization options.</p>\n<h1>Other Features</h1>\n<ul>\n<li>Go <strong>Back and Forward</strong> in Safari and other apps just like on Windows.</li>\n<li><strong>Zoom in and out</strong> by holding Command (\u2318) while scrolling. Works just like pinch-to-zoom on a trackpad.</li>\n<li>Experience a refined, friction based <strong>smooth scrolling</strong> algorithm, that strikes a great balance between fluidity and control. And also change the <strong>scrolling direction</strong> of your mouse independently from your trackpad.</li>\n<li>Use <strong>Keyboard Shortcuts</strong> right from your mouse to get even more flexibility for your workflow.</li>\n<li>You can remap to <strong>any key on your keyboard</strong>. Even function keys that are only found on Apple keyboards like 'Play-Pause', 'Increase Display Brightness', etc.</li>\n<li>And more!</li>\n</ul>\n<p>---</p>\n<p>Mac Mouse Fix started out as a little hobby project to teach myself programming. But due to your support and encouragement, my goal is now to create the <strong>Best Mouse Driver Ever</strong>. With Mac Mouse Fix 2 we came quite a bit closer to that goal. Thank you! \ud83d\ude80\ud83d\ude80\ud83d\ude80 :)</p></div>",
-            "date_published": "2022-01-16T17:50:44+00:00",
-            "authors": [
-                {
-                    "name": "RevolutionaryCredit2",
-                    "url": "https://www.reddit.com/user/RevolutionaryCredit2"
                 }
             ]
         }
