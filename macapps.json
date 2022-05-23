@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "uvmg98",
+            "url": "/r/macapps/comments/uvmg98/what_are_the_musthave_apps_for_mac_in_2022/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/uvmg98/what_are_the_musthave_apps_for_mac_in_2022/",
+            "title": "What are the must-have apps for Mac in 2022?",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/uvmg98/what_are_the_musthave_apps_for_mac_in_2022/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/uvmg98/what_are_the_musthave_apps_for_mac_in_2022/'>Apollo</a></caption> <div><p>What do you find yourself installing on a new Mac first? What are your must-have apps and why do you like them? Also if you have an app you want really bad but haven't bought yet what is it?</p></div>",
+            "date_published": "2022-05-22T22:58:07+00:00",
+            "authors": [
+                {
+                    "name": "nickccal",
+                    "url": "https://www.reddit.com/user/nickccal"
+                }
+            ]
+        },
+        {
             "id": "uu54v5",
             "url": "/r/macapps/comments/uu54v5/whats_an_app_that_you_use_regularly_but_it_feels/",
             "external_url": "https://www.reddit.com/r/macapps/comments/uu54v5/whats_an_app_that_you_use_regularly_but_it_feels/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ItseKeisari",
                     "url": "https://www.reddit.com/user/ItseKeisari"
-                }
-            ]
-        },
-        {
-            "id": "s6fia5",
-            "url": "/r/macapps/comments/s6fia5/multiple_stopwatches_app_i_was_searching_for_a/",
-            "external_url": "https://github.com/0xfederama/stopwatches",
-            "title": "[Multiple Stopwatches App] I was searching for a multiple stopwatches app, in order to log the time I spent on a project, but I couldn't find it. So, I made it myself in SwiftUI (my first project). It's really simple and light, and if you are searching for an app like this, check it out!",
-            "content_html": "<caption>Open in: <a href='https://github.com/0xfederama/stopwatches'>github.com</a> | <a href='https://reddit.com/r/macapps/comments/s6fia5/multiple_stopwatches_app_i_was_searching_for_a/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/s6fia5/multiple_stopwatches_app_i_was_searching_for_a/'>Apollo</a></caption>",
-            "date_published": "2022-01-17T21:31:59+00:00",
-            "authors": [
-                {
-                    "name": "Fede_Rama",
-                    "url": "https://www.reddit.com/user/Fede_Rama"
                 }
             ]
         }
