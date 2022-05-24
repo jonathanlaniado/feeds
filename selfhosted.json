@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "uw706t",
+            "url": "/r/selfhosted/comments/uw706t/vaultwarden_1250_released_with_greatly_improved/",
+            "external_url": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.25.0",
+            "title": "Vaultwarden 1.25.0 released with greatly improved synchronization speed",
+            "content_html": "<caption>Open in: <a href='https://github.com/dani-garcia/vaultwarden/releases/tag/1.25.0'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/uw706t/vaultwarden_1250_released_with_greatly_improved/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/uw706t/vaultwarden_1250_released_with_greatly_improved/'>Apollo</a></caption>",
+            "date_published": "2022-05-23T18:34:41+00:00",
+            "authors": [
+                {
+                    "name": "Sarcism",
+                    "url": "https://www.reddit.com/user/Sarcism"
+                }
+            ]
+        },
+        {
             "id": "uvlvmm",
             "url": "/r/selfhosted/comments/uvlvmm/immich_selfhosted_backup_photosvideos_from_your/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/uvlvmm/immich_selfhosted_backup_photosvideos_from_your/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "sixtyfifth_snow",
                     "url": "https://www.reddit.com/user/sixtyfifth_snow"
-                }
-            ]
-        },
-        {
-            "id": "rem2vf",
-            "url": "/r/selfhosted/comments/rem2vf/crowdsec_is_now_able_to_detect_and_mitigate_log4j/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/rem2vf/crowdsec_is_now_able_to_detect_and_mitigate_log4j/",
-            "title": "CrowdSec is now able to detect and mitigate log4j CVE-2021-44228",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/rem2vf/crowdsec_is_now_able_to_detect_and_mitigate_log4j/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/rem2vf/crowdsec_is_now_able_to_detect_and_mitigate_log4j/'>Apollo</a></caption> <div><p><a href=\"https://crowdsec.net/\">CrowdSec</a> is free, open source crowdsourced threat intelligence capable to detect and mitigate various attacks against a service. See it as a modern version of fail2ban where information on attacks and attackers are shared (anonymously!) among users.Another difference is that CrowdSec is capable to detect various advanced kinds of resource abuse duch as L7 DDoS, credit card stuffing, scalping, data exfiltration and more. And as of <a href=\"https://hub.crowdsec.net/author/crowdsecurity/configurations/apache_log4j2_cve-2021-44228\">yesterday</a> CrowdSec can also detect attempts to exploit <a href=\"https://nvd.nist.gov/vuln/detail/CVE-2021-44228\">CVE-2021-44228</a> and block them.</p>\n<p>For existing users it's easy to deploy via <code>cscli</code>:</p>\n<ol>\n<li><code>cscli hub update</code></li>\n<li><code>cscli scenarios install crowdsecurity/apache_log4j2_cve-2021-44228</code></li>\n<li><code>systemctl reload crowdsec.service</code></li>\n</ol></div>",
-            "date_published": "2021-12-12T10:07:46+00:00",
-            "authors": [
-                {
-                    "name": "klausagnoletti",
-                    "url": "https://www.reddit.com/user/klausagnoletti"
                 }
             ]
         }
