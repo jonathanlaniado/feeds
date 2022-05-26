@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "uya4yq",
+            "url": "/r/PleX/comments/uya4yq/plex_finally_has_a_linux_desktop_player/",
+            "external_url": "https://www.howtogeek.com/807755/plex-finally-has-a-linux-desktop-player/",
+            "title": "Plex finally has a Linux desktop player!",
+            "content_html": "<caption>Open in: <a href='https://www.howtogeek.com/807755/plex-finally-has-a-linux-desktop-player/'>www.howtogeek.com</a> | <a href='https://reddit.com/r/PleX/comments/uya4yq/plex_finally_has_a_linux_desktop_player/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/uya4yq/plex_finally_has_a_linux_desktop_player/'>Apollo</a></caption>",
+            "date_published": "2022-05-26T15:26:30+00:00",
+            "authors": [
+                {
+                    "name": "flotwig",
+                    "url": "https://www.reddit.com/user/flotwig"
+                }
+            ]
+        },
+        {
             "id": "uw0mrb",
             "url": "/r/PleX/comments/uw0mrb/lifetime_plex_pass_is_20_off_this_week/",
             "external_url": "https://www.reddit.com/r/PleX/comments/uw0mrb/lifetime_plex_pass_is_20_off_this_week/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "TrappaTroopa",
                     "url": "https://www.reddit.com/user/TrappaTroopa"
-                }
-            ]
-        },
-        {
-            "id": "r0bfig",
-            "url": "/r/PleX/comments/r0bfig/plex_pass_lifetime_offer_25_off/",
-            "external_url": "https://www.plex.tv/black-friday/",
-            "title": "Plex Pass Lifetime Offer - 25% off",
-            "content_html": "<caption>Open in: <a href='https://www.plex.tv/black-friday/'>www.plex.tv</a> | <a href='https://reddit.com/r/PleX/comments/r0bfig/plex_pass_lifetime_offer_25_off/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/r0bfig/plex_pass_lifetime_offer_25_off/'>Apollo</a></caption>",
-            "date_published": "2021-11-23T11:44:05+00:00",
-            "authors": [
-                {
-                    "name": "carlinhush",
-                    "url": "https://www.reddit.com/user/carlinhush"
                 }
             ]
         }
