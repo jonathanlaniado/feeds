@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "v3e2o3",
+            "url": "/r/macapps/comments/v3e2o3/alfred_5_coming_soon/",
+            "external_url": "https://www.alfredapp.com/blog/announcements/alfred-5-early-access-coming-soon/",
+            "title": "Alfred 5 Coming Soon!",
+            "content_html": "<caption>Open in: <a href='https://www.alfredapp.com/blog/announcements/alfred-5-early-access-coming-soon/'>www.alfredapp.com</a> | <a href='https://reddit.com/r/macapps/comments/v3e2o3/alfred_5_coming_soon/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/v3e2o3/alfred_5_coming_soon/'>Apollo</a></caption>",
+            "date_published": "2022-06-02T17:25:43+00:00",
+            "authors": [
+                {
+                    "name": "MetalAndFaces",
+                    "url": "https://www.reddit.com/user/MetalAndFaces"
+                }
+            ]
+        },
+        {
             "id": "v340dl",
             "url": "/r/macapps/comments/v340dl/orion_browser_goes_public_beta/",
             "external_url": "https://blog.kagi.com/kagi-orion-public-beta",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ComprehensiveToaster",
                     "url": "https://www.reddit.com/user/ComprehensiveToaster"
-                }
-            ]
-        },
-        {
-            "id": "sait97",
-            "url": "/r/macapps/comments/sait97/10_little_known_mac_customization_tips_and_apps/",
-            "external_url": "https://www.youtube.com/watch?v=sxvz3dzIUbk",
-            "title": "10 Little Known Mac Customization Tips and Apps (Change System Icons!)",
-            "content_html": "<caption>Open in: <a href='https://www.youtube.com/watch?v=sxvz3dzIUbk'>www.youtube.com</a> | <a href='https://reddit.com/r/macapps/comments/sait97/10_little_known_mac_customization_tips_and_apps/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/sait97/10_little_known_mac_customization_tips_and_apps/'>Apollo</a></caption>",
-            "date_published": "2022-01-23T02:25:25+00:00",
-            "authors": [
-                {
-                    "name": "desktopJM",
-                    "url": "https://www.reddit.com/user/desktopJM"
                 }
             ]
         }
