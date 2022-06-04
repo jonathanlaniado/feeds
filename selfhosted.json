@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "v405lz",
+            "url": "/r/selfhosted/comments/v405lz/self_hosted_roundup_8/",
+            "external_url": "https://noted.lol/self-hosted-roundup-8/",
+            "title": "Self Hosted Roundup #8",
+            "content_html": "<caption>Open in: <a href='https://noted.lol/self-hosted-roundup-8/'>noted.lol</a> | <a href='https://reddit.com/r/selfhosted/comments/v405lz/self_hosted_roundup_8/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/v405lz/self_hosted_roundup_8/'>Apollo</a></caption>",
+            "date_published": "2022-06-03T14:05:14+00:00",
+            "authors": [
+                {
+                    "name": "nashosted",
+                    "url": "https://www.reddit.com/user/nashosted"
+                }
+            ]
+        },
+        {
             "id": "v35fi2",
             "url": "/r/selfhosted/comments/v35fi2/whoogle_a_selfhosted_adfree_privacyrespecting/",
             "external_url": "https://github.com/benbusby/whoogle-search",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "markv9401",
                     "url": "https://www.reddit.com/user/markv9401"
-                }
-            ]
-        },
-        {
-            "id": "rf1nsc",
-            "url": "/r/selfhosted/comments/rf1nsc/log4j2_runtime_exploitability_attack_path/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/rf1nsc/log4j2_runtime_exploitability_attack_path/",
-            "title": "Log4j2- Runtime Exploitability & Attack Path Mitigation with ThreatMapper",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/rf1nsc/log4j2_runtime_exploitability_attack_path/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/rf1nsc/log4j2_runtime_exploitability_attack_path/'>Apollo</a></caption> <div><p>&#x200B;</p>\n<p>Check your actual exposure based on network traffic and connections. </p>\n<p><a href=\"https://deepfence.io/cve-2021-44228-log4j2-exploitability-and-attack-path-mitigation-with-threatmapper/\">https://deepfence.io/cve-2021-44228-log4j2-exploitability-and-attack-path-mitigation-with-threatmapper/</a></p></div>",
-            "date_published": "2021-12-12T23:48:44+00:00",
-            "authors": [
-                {
-                    "name": "Medium-Sandwich-3193",
-                    "url": "https://www.reddit.com/user/Medium-Sandwich-3193"
                 }
             ]
         }
