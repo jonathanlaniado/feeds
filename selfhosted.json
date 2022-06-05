@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "v5c09q",
+            "url": "/r/selfhosted/comments/v5c09q/make_sure_to_prune_unused_docker_images_lads/",
+            "external_url": "https://i.redd.it/bz33dwpgms391.png",
+            "title": "Make sure to prune unused docker images lads, especially if you're running watchtower.",
+            "content_html": "<caption>Open in: <a href='https://i.redd.it/bz33dwpgms391.png'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/v5c09q/make_sure_to_prune_unused_docker_images_lads/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/v5c09q/make_sure_to_prune_unused_docker_images_lads/'>Apollo</a></caption>",
+            "date_published": "2022-06-05T12:06:39+00:00",
+            "authors": [
+                {
+                    "name": "SirEggington",
+                    "url": "https://www.reddit.com/user/SirEggington"
+                }
+            ]
+        },
+        {
             "id": "v405lz",
             "url": "/r/selfhosted/comments/v405lz/self_hosted_roundup_8/",
             "external_url": "https://noted.lol/self-hosted-roundup-8/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "TheProffalken",
                     "url": "https://www.reddit.com/user/TheProffalken"
-                }
-            ]
-        },
-        {
-            "id": "rexvem",
-            "url": "/r/selfhosted/comments/rexvem/grafana_loki_vs_kibana_elk/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/rexvem/grafana_loki_vs_kibana_elk/",
-            "title": "(Grafana) Loki vs Kibana (ELK)",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/rexvem/grafana_loki_vs_kibana_elk/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/rexvem/grafana_loki_vs_kibana_elk/'>Apollo</a></caption> <div><p>Hey,</p>\n<p>So I really wish I could move away from ELK because it's suuuuuper heavy. It includes so much stuff, albeit great, that I don't need or ever use.</p>\n<p>Graylog seemed to be way lighter but it didn't seem stable and hassle free. It kept breaking with unattended updates (meaning no f**#&amp; given just docker-compose pull &amp;&amp; up -d --force-recreate), and when it broke I losts all parser etc. had to pull up from zero, create/import groks pipelines etc.. And honestly, Kibana just looks prettier? Oh.. and yeah, stupid little thing, but in Graylog I cannot reorder columns?! In Kibana I can.</p>\n<p>I tried Grafana + Loki + Promtail. They were such a breeze, extremely lightweight and wile they did work, they are admittedly for different purposes. I didn't seem to be able to handle logs as easily as I could with Graylog or Kibana. Like no pretty columns, easy search etc. Although this might've been my lack of experience with Grafana - please do tell me so as this seems a lovely alternative.</p>\n<p>&#x200B;</p>\n<p>So is there anything else I can do or try to move away from ELK? Can you create a very basic Kibana-like dashboard in Grafana/Loki? Like add the columns, reorder them, etc? Nothing special but I just couldn't make it work? I either had raw logs and search or columns and all pretty (labels as columns transformation) but no search bar :(</p></div>",
-            "date_published": "2021-12-12T20:45:29+00:00",
-            "authors": [
-                {
-                    "name": "markv9401",
-                    "url": "https://www.reddit.com/user/markv9401"
                 }
             ]
         }
