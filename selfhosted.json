@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "v71e1u",
+            "url": "/r/selfhosted/comments/v71e1u/umbrel_a_beautiful_os_for_selfhosting_on_a/",
+            "external_url": "https://v.redd.it/142mcvv7c8491",
+            "title": "Umbrel \u2014 A beautiful OS for self-hosting on a Raspberry Pi or any Linux machine",
+            "content_html": "<caption>Open in: <a href='https://v.redd.it/142mcvv7c8491'>v.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/v71e1u/umbrel_a_beautiful_os_for_selfhosting_on_a/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/v71e1u/umbrel_a_beautiful_os_for_selfhosting_on_a/'>Apollo</a></caption>",
+            "date_published": "2022-06-07T17:00:13+00:00",
+            "authors": [
+                {
+                    "name": "mayankdotch",
+                    "url": "https://www.reddit.com/user/mayankdotch"
+                }
+            ]
+        },
+        {
             "id": "v5c09q",
             "url": "/r/selfhosted/comments/v5c09q/make_sure_to_prune_unused_docker_images_lads/",
             "external_url": "https://i.redd.it/bz33dwpgms391.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Tamariniak",
                     "url": "https://www.reddit.com/user/Tamariniak"
-                }
-            ]
-        },
-        {
-            "id": "rexdqe",
-            "url": "/r/selfhosted/comments/rexdqe/alternative_printer_daemon_to_cups/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/rexdqe/alternative_printer_daemon_to_cups/",
-            "title": "Alternative printer daemon to CUPS",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/rexdqe/alternative_printer_daemon_to_cups/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/rexdqe/alternative_printer_daemon_to_cups/'>Apollo</a></caption> <div><p>Hey folks.</p>\n<p>Cups is an utter pain in the proverbials to configure across VLANs etc to share printers, is there a good alternative that I can use on Linux that also uses the Gutenprint drivers?</p>\n<p>I've got a Canon Pixma 4200 printer which after just under 10 years has finally given up the ghost as far as the WiFi is concerned so now I need a new way to share it.</p>\n<p>I *could* install and configure Cups to share the printer across the network, but before I do so I'm wondering if there's a more \"user friendly\" option.</p>\n<p>All my servers run Arch Linux (with the exception of my overloaded home assistant pi 3B+) if that makes a difference?</p></div>",
-            "date_published": "2021-12-12T20:21:45+00:00",
-            "authors": [
-                {
-                    "name": "TheProffalken",
-                    "url": "https://www.reddit.com/user/TheProffalken"
                 }
             ]
         }
