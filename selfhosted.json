@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "v7o5pd",
+            "url": "/r/selfhosted/comments/v7o5pd/were_optimizing_our_docker_image_and_were_pretty/",
+            "external_url": "https://i.redd.it/e2kvpo512e491.png",
+            "title": "We're optimizing our Docker image and we're pretty happy with how it's going: 3.37GB > 1.13GB. Next stop, a single Docker image Budibase deployment \ud83d\ude80",
+            "content_html": "<caption>Open in: <a href='https://i.redd.it/e2kvpo512e491.png'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/v7o5pd/were_optimizing_our_docker_image_and_were_pretty/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/v7o5pd/were_optimizing_our_docker_image_and_were_pretty/'>Apollo</a></caption>",
+            "date_published": "2022-06-08T12:11:52+00:00",
+            "authors": [
+                {
+                    "name": "jo_ranamo",
+                    "url": "https://www.reddit.com/user/jo_ranamo"
+                }
+            ]
+        },
+        {
             "id": "v71e1u",
             "url": "/r/selfhosted/comments/v71e1u/umbrel_a_beautiful_os_for_selfhosting_on_a/",
             "external_url": "https://v.redd.it/142mcvv7c8491",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "mancostation",
                     "url": "https://www.reddit.com/user/mancostation"
-                }
-            ]
-        },
-        {
-            "id": "revsle",
-            "url": "/r/selfhosted/comments/revsle/have_i_been_pwned_through_log4shell/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/revsle/have_i_been_pwned_through_log4shell/",
-            "title": "Have I been pwned through log4shell?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/revsle/have_i_been_pwned_through_log4shell/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/revsle/have_i_been_pwned_through_log4shell/'>Apollo</a></caption> <div><p>I have an OMV server with Plex, Bitwarden (Vaultwarden), Nextcloud, Minecraft and Nginx Proxy Manager running in Docker containers. Out of those, Nextcloud and Bitwarden are open to the internet (going through NPM and then proxied through CloudFlare). The rest are only accessible locally or via an OpenVPN server that\u2019s running on my router.</p>\n<p>Throughout this night, I got about 8 emails from the server\u2019s system monitoring about system resources being succeeded. This wasn\u2019t the first time I got an email like this, as I\u2019m running ZFS which keeps taking up over half of my RAM, and Minecraft and Nextcloud can take up the rest once all of my devices connect to autosync photos. I have never gotten so many at once though, except from when I misconfigured Duplicati and it did some weird stuff (I don\u2019t use it anymore).</p>\n<p>I have since taken the Minecraft container offline and derouted the Cloudflare connections to be safe(ish). Unfortunately I only know enough about the front end to build the server, but not nearly enough to know whether I could have been a victim of log4shell. Do you think this is cause for concern?</p></div>",
-            "date_published": "2021-12-12T19:06:23+00:00",
-            "authors": [
-                {
-                    "name": "Tamariniak",
-                    "url": "https://www.reddit.com/user/Tamariniak"
                 }
             ]
         }
