@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "v91i63",
+            "url": "/r/macapps/comments/v91i63/what_are_your_favorite_hidden_gem_mac_apps/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/v91i63/what_are_your_favorite_hidden_gem_mac_apps/",
+            "title": "What are your favorite hidden gem Mac apps?",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/v91i63/what_are_your_favorite_hidden_gem_mac_apps/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/v91i63/what_are_your_favorite_hidden_gem_mac_apps/'>Apollo</a></caption> <div><p>Mine are:</p>\n<ol>\n<li><a href=\"https://tracesof.net/uebersicht/\">\u00dcbersicht</a> (free): desktop widgets</li>\n<li><a href=\"https://www.trankynam.com/xtrafinder/\">XtraFinder</a> ($4.99 with unlimited trial): Finder on steroids </li>\n<li><a href=\"https://www.apptorium.com/sidenotes\">SideNotes</a> ($19.99): a convenient note-taking app</li>\n<li><a href=\"https://pilotmoon.com/popclip/\">PopClip</a> ($14.99): a text select pop-up window </li>\n<li><a href=\"https://beamer-app.com/\">Beamer</a> ($19.95):  lets you stream from a Mac </li>\n<li><a href=\"https://www.publicspace.net/ABetterFinderRename/\">A Better Finder Rename</a> (\u20ac24.95): a powerful bulk rename tool </li>\n<li><a href=\"https://www.stclairsoft.com/AppTamer/\">App Tamer</a> ($14.95): control how much CPU apps consume</li>\n<li><a href=\"https://plentycom.jp/en/cursorsense/\">CursorSense</a> ($9.99): tweak cursor movement on a per-device basis </li>\n<li><a href=\"https://obsidian.md/\">Obsidian</a> (free for personal use): a knowledge management app </li>\n<li><a href=\"https://imageoptim.com/\">ImageOptim</a> (free): open source image optimizer </li>\n<li><a href=\"https://appmakes.io/paletro\">Paletro</a> ($6.99): command palette for any macOS application</li>\n<li><a href=\"https://www.houdah.com/houdahSpot/?lang=en\">HoudahSpot 6</a> ($34): powerful file search app</li>\n<li><a href=\"https://apps.apple.com/us/app/quickshade/id931571202?mt=12\">QuickShade</a> (free): creates a dark display overlay </li>\n<li><a href=\"https://hazeover.com/\">HazeOver</a> ($4.99): helps you focus on a single window</li>\n<li><a href=\"https://github.com/will-stone/browserosaurus\">Browserosaurus</a> (free): open a link in a specific browser</li>\n<li><a href=\"https://apps.apple.com/app/wipr/id1320666476\">Wipr</a> ($1.99): ad-blocker for Safari</li>\n<li><a href=\"https://motrix.app/\">Motrix</a> (free): download manager</li>\n<li><a href=\"https://www.rogueamoeba.com/airfoil/\">Airfoil</a> ($43): send audio from any app to all kinds of devices</li>\n<li><a href=\"https://www.titanium-software.fr/en/onyx.html\">OnyX</a> (free): macOS maintenance and configuration utility </li>\n<li><a href=\"https://github.com/dmarcotte/easy-move-resize\">Easy Move+Resize</a> (free): comfortably move and resize application windows</li>\n</ol>\n<p>You can see their screenshots and read their full descriptions in <a href=\"https://morelowrites.medium.com/20-hidden-gem-mac-apps-that-will-change-your-life-bonus-3b6e4500afb6\">my recent blog post</a>.</p></div>",
+            "date_published": "2022-06-10T06:39:55+00:00",
+            "authors": [
+                {
+                    "name": "davidmorelo",
+                    "url": "https://www.reddit.com/user/davidmorelo"
+                }
+            ]
+        },
+        {
             "id": "v7lgrx",
             "url": "/r/macapps/comments/v7lgrx/app_fair_a_gui_interface_for_the_homebrew_casks/",
             "external_url": "https://appfair.app",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "palmspot",
                     "url": "https://www.reddit.com/user/palmspot"
-                }
-            ]
-        },
-        {
-            "id": "scx3nf",
-            "url": "/r/macapps/comments/scx3nf/will_users_of_readdlespark_and_macpawsetapp_be/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/scx3nf/will_users_of_readdlespark_and_macpawsetapp_be/",
-            "title": "Will **USERS** of Readdle/Spark and MacPaw/Setapp be affected if Russia invades Ukraine?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/scx3nf/will_users_of_readdlespark_and_macpawsetapp_be/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/scx3nf/will_users_of_readdlespark_and_macpawsetapp_be/'>Apollo</a></caption> <div><p>NOTE: THIS IS <strong>NOT</strong> A POST ABOUT POLITICS OR INTERNATIONAL RELATIONS. IT IS A QUESTION ABOUT EFFECTS\u2014IF ANY\u2014ON SOFTWARE <strong>USERS</strong>.</p>\n<p><a href=\"https://techukraine.org/portfolio/readdle-we-wake-up-to-change-lives/\">Readdle</a> (Spark, PDF Expert, etc.) and <a href=\"https://www.ukraineitnow.com/company/macpaw/\">MacPaw</a> (Setapp, Clean My Mac, etc.) are both <a href=\"https://techcrunch.com/2018/10/12/readdles-denys-zhadanov-to-talk-about-bootstrapping-at-disrupt-berlin/\">Ukrainian</a> <a href=\"https://macpaw.com/about\">companies</a>.</p>\n<p>The current saber-rattling has me wondering whether or not users of these products might be affected if Russia invades Ukraine, and if so, how.</p>\n<p>If the answer is yes, Spark might be of particular concern, given that AFAIK Readdle retains the encryption keys for emails stored and automatically processed on their servers so they can provide Spark\u2019s special features to users.</p>\n<p>Where are those servers located? If they\u2019re outside Ukraine, do any personnel in Ukraine have access to the encryption keys? If so, they could almost certainly be forced by local authorities\u2014or occupying forces\u2014to provide access to the encrypted data.</p>\n<p>It may be, of course, that user data and encryption keys are only stored in user\u2019s own countries or regions\u2014in the US or the EU, for example.</p>\n<p>But which is it?</p>\n<p>And even if users\u2019 confidential data wouldn\u2019t be at risk, would service be disrupted? Would Setapp users, for example, still be able to download apps?</p>\n<p>I\u2019d be particularly interested in seeing any verifiable FACTS anyone might have about this, backed up by sources.</p>\n<p>Once again, please avoid getting into which country or countries are to blame for the current crisis. I\u2019m only trying to find out information about these corporations and possible effects\u2014if any\u2014on the users of their apps.</p></div>",
-            "date_published": "2022-01-26T04:19:09+00:00",
-            "authors": [
-                {
-                    "name": "EpiphanicSyncronica",
-                    "url": "https://www.reddit.com/user/EpiphanicSyncronica"
                 }
             ]
         }
