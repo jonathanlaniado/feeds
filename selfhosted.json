@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "v98fjq",
+            "url": "/r/selfhosted/comments/v98fjq/self_hosted_roundup_9/",
+            "external_url": "https://noted.lol/self-hosted-roundup-9/",
+            "title": "Self Hosted Roundup #9",
+            "content_html": "<caption>Open in: <a href='https://noted.lol/self-hosted-roundup-9/'>noted.lol</a> | <a href='https://reddit.com/r/selfhosted/comments/v98fjq/self_hosted_roundup_9/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/v98fjq/self_hosted_roundup_9/'>Apollo</a></caption>",
+            "date_published": "2022-06-10T14:01:09+00:00",
+            "authors": [
+                {
+                    "name": "nashosted",
+                    "url": "https://www.reddit.com/user/nashosted"
+                }
+            ]
+        },
+        {
             "id": "v8s8sz",
             "url": "/r/selfhosted/comments/v8s8sz/rick_morty_creator_should_have_selfhosted/",
             "external_url": "https://mobile.twitter.com/JustinRoiland/status/1534670496402268160",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Blankvoid1",
                     "url": "https://www.reddit.com/user/Blankvoid1"
-                }
-            ]
-        },
-        {
-            "id": "reuzfu",
-            "url": "/r/selfhosted/comments/reuzfu/need_help_invoice_ninja_not_operating_out_of_disk/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/reuzfu/need_help_invoice_ninja_not_operating_out_of_disk/",
-            "title": "Need help. Invoice Ninja not operating. Out of disk space error. Massive Laravel.log file. :/",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/reuzfu/need_help_invoice_ninja_not_operating_out_of_disk/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/reuzfu/need_help_invoice_ninja_not_operating_out_of_disk/'>Apollo</a></caption> <div><p>I went to login to my self-hosted invoice ninja instance this morning and I get a blank white screen. I started doing some digging and I get an error about being out of disk space. Without going too deep into the rabbit hole of a potential hard drive issue in my vm, I discovered that my laravel.log file is 22Gb. I have no idea why it\u2019s this large. </p>\n<p>First question: can I safely delete the log file? Or is there a better way to quickly solve this?</p>\n<p>Second question: how do I prevent this from happening again? Is there some setting with laravel to tail the logs at a certain point?</p>\n<p>Thanks!</p></div>",
-            "date_published": "2021-12-12T18:28:29+00:00",
-            "authors": [
-                {
-                    "name": "lukeh182",
-                    "url": "https://www.reddit.com/user/lukeh182"
                 }
             ]
         }
