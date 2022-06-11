@@ -8,6 +8,20 @@
     "favicon": "https://b.thumbs.redditmedia.com/k7fHE51fuhbYJRT2e9s1rXIp2ZtA7ks-cNFvQuNbfcE.png",
     "items": [
         {
+            "id": "v9alil",
+            "url": "/r/InternetIsBeautiful/comments/v9alil/ublacklist_block_specific_sites_from_appearing_in/",
+            "external_url": "https://github.com/iorate/ublacklist",
+            "title": "uBlacklist \u2013 Block specific sites from appearing in Google search results",
+            "content_html": "<caption>Open in: <a href='https://github.com/iorate/ublacklist'>github.com</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/v9alil/ublacklist_block_specific_sites_from_appearing_in/'>Reddit</a> | <a href='apollo://reddit.com/r/InternetIsBeautiful/comments/v9alil/ublacklist_block_specific_sites_from_appearing_in/'>Apollo</a></caption>",
+            "date_published": "2022-06-10T15:42:50+00:00",
+            "authors": [
+                {
+                    "name": "binaryfor",
+                    "url": "https://www.reddit.com/user/binaryfor"
+                }
+            ]
+        },
+        {
             "id": "v8kuw9",
             "url": "/r/InternetIsBeautiful/comments/v8kuw9/danish_researchers_present_a_browser_extension_to/",
             "external_url": "https://cs.au.dk/news-events/consent-o-matic",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "blabs0",
                     "url": "https://www.reddit.com/user/blabs0"
-                }
-            ]
-        },
-        {
-            "id": "rdgpnd",
-            "url": "/r/InternetIsBeautiful/comments/rdgpnd/i_made_a_website_that_gives_gift_suggestions/",
-            "external_url": "https://www.wtfdotheywant.com/",
-            "title": "I made a website that gives gift suggestions based on hypothetical questions about their personality + your personal relationship to them",
-            "content_html": "<caption>Open in: <a href='https://www.wtfdotheywant.com/'>www.wtfdotheywant.com</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/rdgpnd/i_made_a_website_that_gives_gift_suggestions/'>Reddit</a> | <a href='apollo://reddit.com/r/InternetIsBeautiful/comments/rdgpnd/i_made_a_website_that_gives_gift_suggestions/'>Apollo</a></caption>",
-            "date_published": "2021-12-10T19:40:33+00:00",
-            "authors": [
-                {
-                    "name": "soadogs",
-                    "url": "https://www.reddit.com/user/soadogs"
                 }
             ]
         }
