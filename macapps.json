@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "vbm7tg",
+            "url": "/r/macapps/comments/vbm7tg/telik_macos_app_to_track_youtube_channels_and/",
+            "external_url": "https://github.com/agentcooper/Telik",
+            "title": "Telik - macOS app to track YouTube channels and playlists (free and open source)",
+            "content_html": "<caption>Open in: <a href='https://github.com/agentcooper/Telik'>github.com</a> | <a href='https://reddit.com/r/macapps/comments/vbm7tg/telik_macos_app_to_track_youtube_channels_and/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/vbm7tg/telik_macos_app_to_track_youtube_channels_and/'>Apollo</a></caption>",
+            "date_published": "2022-06-13T20:56:20+00:00",
+            "authors": [
+                {
+                    "name": "evilagentcooper",
+                    "url": "https://www.reddit.com/user/evilagentcooper"
+                }
+            ]
+        },
+        {
             "id": "vbbq23",
             "url": "/r/macapps/comments/vbbq23/ia_writer_6_update_tomorrow_tue_june_14th_1400_cet/",
             "external_url": "https://twitter.com/iawriter/status/1534858939996962816?s=21&t=1a8zTB88svVwe1eizM_O3w",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "mrbungle100",
                     "url": "https://www.reddit.com/user/mrbungle100"
-                }
-            ]
-        },
-        {
-            "id": "si4zmf",
-            "url": "/r/macapps/comments/si4zmf/what_are_some_good_opensource_mac_apps_you_cant/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/si4zmf/what_are_some_good_opensource_mac_apps_you_cant/",
-            "title": "What are some good open-source Mac apps you can't live without?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/si4zmf/what_are_some_good_opensource_mac_apps_you_cant/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/si4zmf/what_are_some_good_opensource_mac_apps_you_cant/'>Apollo</a></caption> <div><p>Hi, I think a question of this kind has appeared before. As both open source contributor and Mac users myself, I have tried many open sources apps and there are a few I find quite essential. Therefore I have curated <a href=\"https://oss.wiki/\">https://oss.wiki/</a> to easily find and filter apps based on tech stack and topic.  </p>\n<p>A few apps I can't live without are:</p>\n<p>- Rectangle: window manager </p>\n<p>- Pika: color picker </p>\n<p>- Kap: screen recorder</p>\n<p>- Insomnia: Rest API testing </p>\n<p>- Itsycal: calendar </p>\n<p>- iTerm2: terminal</p>\n<p>&#x200B;</p>\n<p>Would love to get to know more apps and I would love to add them to the list to spread the words</p></div>",
-            "date_published": "2022-02-01T20:40:28+00:00",
-            "authors": [
-                {
-                    "name": "onmyway133",
-                    "url": "https://www.reddit.com/user/onmyway133"
                 }
             ]
         }
