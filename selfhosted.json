@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "vdzvxi",
+            "url": "/r/selfhosted/comments/vdzvxi/ntfy_is_finally_coming_to_ios_with_full/",
+            "external_url": "https://www.reddit.com/gallery/vdzvxi",
+            "title": "ntfy is finally coming to iOS \ud83e\udd73 (with full self-hosted support) & ntfy server with Matrix/UnifiedPush gateway support released -- ntfy lets you send push notifications to your phone or desktop via a simple REST API",
+            "content_html": "<caption>Open in: <a href='https://www.reddit.com/gallery/vdzvxi'>www.reddit.com</a> | <a href='https://reddit.com/r/selfhosted/comments/vdzvxi/ntfy_is_finally_coming_to_ios_with_full/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/vdzvxi/ntfy_is_finally_coming_to_ios_with_full/'>Apollo</a></caption>",
+            "date_published": "2022-06-17T00:15:11+00:00",
+            "authors": [
+                {
+                    "name": "binwiederhier",
+                    "url": "https://www.reddit.com/user/binwiederhier"
+                }
+            ]
+        },
+        {
             "id": "v9t62l",
             "url": "/r/selfhosted/comments/v9t62l/after_over_a_year_of_development_jellyfin_1080/",
             "external_url": "/r/jellyfin/comments/v9nxk1/jellyfin_1080_has_been_released/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "AshDarren",
                     "url": "https://www.reddit.com/user/AshDarren"
-                }
-            ]
-        },
-        {
-            "id": "rese91",
-            "url": "/r/selfhosted/comments/rese91/tool_for_url_collections/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/rese91/tool_for_url_collections/",
-            "title": "Tool For URL Collections",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/rese91/tool_for_url_collections/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/rese91/tool_for_url_collections/'>Apollo</a></caption> <div><p>Heyo /r/selfhosted,</p>\n<p>I'm looking for a tool where I can store URLs with tags and a description, proffered web based. The reason is that I use a Discord channel for \"useful\" URLs where I store them at the moment, which isn't a good solution and I want it, ofc, to be self-hosted. </p>\n<p>I already looked into the <a href=\"https://github.com/awesome-selfhosted/awesome-selfhosted\">Awesome-Selfhosted</a> list but haven't found a solution so far.</p>\n<p>So, any recommendations?</p></div>",
-            "date_published": "2021-12-12T16:25:12+00:00",
-            "authors": [
-                {
-                    "name": "uJbAP8",
-                    "url": "https://www.reddit.com/user/uJbAP8"
                 }
             ]
         }
