@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "veycdb",
+            "url": "/r/macapps/comments/veycdb/calendars_by_readdle_comes_to_mac/",
+            "external_url": "https://www.theverge.com/2022/6/17/23172880/readdle-calendars-app-mac-iphone-ipad-sync",
+            "title": "Calendars by Readdle comes to Mac",
+            "content_html": "<caption>Open in: <a href='https://www.theverge.com/2022/6/17/23172880/readdle-calendars-app-mac-iphone-ipad-sync'>www.theverge.com</a> | <a href='https://reddit.com/r/macapps/comments/veycdb/calendars_by_readdle_comes_to_mac/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/veycdb/calendars_by_readdle_comes_to_mac/'>Apollo</a></caption>",
+            "date_published": "2022-06-18T04:31:46+00:00",
+            "authors": [
+                {
+                    "name": "Viktor_Fury",
+                    "url": "https://www.reddit.com/user/Viktor_Fury"
+                }
+            ]
+        },
+        {
             "id": "vdfvic",
             "url": "/r/macapps/comments/vdfvic/promo_codes_looking_glass_menu_bar_remote_and/",
             "external_url": "https://www.reddit.com/r/macapps/comments/vdfvic/promo_codes_looking_glass_menu_bar_remote_and/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "lostpx",
                     "url": "https://www.reddit.com/user/lostpx"
-                }
-            ]
-        },
-        {
-            "id": "skan35",
-            "url": "/r/macapps/comments/skan35/looking_glass_apple_music_remote_promo_codes/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/skan35/looking_glass_apple_music_remote_promo_codes/",
-            "title": "Looking Glass - Apple Music Remote [Promo Codes]",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/skan35/looking_glass_apple_music_remote_promo_codes/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/skan35/looking_glass_apple_music_remote_promo_codes/'>Apollo</a></caption> <div><h1><a href=\"https://apple.co/34v7ohY\">Looking Glass</a> - Music Remote</h1>\n<p>Like many, I didn't really enjoy using the Music app on macOS, and I wanted a faster way to play my library, checking the current playing track and adding it to the library or to a playlist. With Monterey some new APIs made this possible in a simpler way, so I've decided to update one of my older pet projects with these new features. </p>\n<p><a href=\"https://apple.co/34v7ohY\">Looking Glass</a> is a simple menu bar app coupled with an optional now playing window that aims to ease your interaction with the <em>Music</em> app (and avoid using it as much as possible). </p>\n<p>Unfortunately since we are still depending on the original Music app, we also inherit its bugs; on the plus side we will get for free the improvements Apple will hopefully make in next macOS releases. Anyway, the app works well enough for me, just bear in mind it might not be 100% perfect all the time. If you have issues, restarting it or Music may help.</p>\n<blockquote>\n<p>The app is also compatible with Big Sur, but features such as adding tracks to library and playlists only work on Monterey.</p>\n</blockquote>\n<h2>Features</h2>\n<h3>Library search</h3>\n<p><a href=\"https://imgur.com/RjzAL3P\">Demo</a></p>\n<p>You can type to search for tracks, albums, artists and playlists in your library, and click on the menu item that appears to start playing immediately. </p>\n<blockquote>\n<p>You have to type <em>at least three characters</em> to activate the search.\nOn some older macOS releases I've noticed that you also have to <em>hover the search</em> field to type, otherwise the menu gets closed. Maybe it was a bug, since on Monterey you can start typing as soon as you open the menu.</p>\n</blockquote>\n<h3>Current track details</h3>\n<p><a href=\"https://imgur.com/GY8klD5\">Demo</a></p>\n<p>Another very neat feature are the three <em>now playing</em> menu items:</p>\n<ol>\n<li><strong>Track</strong> brings you to the context of the currently playing track, such as the album or the playlist you've played it from</li>\n<li><strong>Artist</strong> brings you to the artist page</li>\n<li><strong>Album</strong> opens the album page</li>\n</ol>\n<blockquote>\n<p>The latter two are available from macOS 12+ only</p>\n</blockquote>\n<h3>Add to Library</h3>\n<p><a href=\"https://imgur.com/ogkrpR6\">Demo</a></p>\n<p>I've combined this feature into the \u2764\ufe0f button, so you can quickly love a track and add it to your library.  You can enable this option in the <em>Preferences</em> panel.</p>\n<h3>Rating and Add to Playlist</h3>\n<p><a href=\"https://imgur.com/OvipKE6\">Demo</a></p>\n<p>With the <em>Rate and add...</em> menu you can quickly add tracks to a playlist and rate the current track. The first couple of playlist also have an associated keyboard shortcut, so that you can pick them without using the pointer.</p>\n<h3>Preferences</h3>\n<p><a href=\"https://imgur.com/BHhOx0U\">Screenshot</a></p>\n<p>With the <em>Preferences</em> panel you can customize the title displayed in the menu bar, its maximum width, the keyboard shortcuts and some behavior settings. There's also an <em>About</em> panel with version and contact informations.</p>\n<h3>Keyboard shortcuts</h3>\n<p><a href=\"https://imgur.com/X6JS95o\">Screenshot</a></p>\n<p>You can customize several global hotkeys, or leave them blank if you prefer. This is the setup I use with my mechanical keyboard.</p>\n<h3>Mini Player</h3>\n<p><a href=\"https://imgur.com/maTGJXR\">Screenshot</a></p>\n<p>The mini player provides the album cover of the current track and keyboard shortcuts:</p>\n<p>|Key|Action|\n|---|---|\n|<strong>s</strong> or <strong>space</strong>|Toggle playback|\n|<strong>a</strong> or <strong>\u2192</strong>|Jump to next track|\n|<strong>d</strong> or <strong>\u2190</strong>|Jump to previous track|\n|<strong>w</strong>|Show Music window|\n|<strong>r</strong>|Reveal current track|\n|<strong>l</strong>|Love current track|</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://apple.co/34v7ohY\">App Store</a></li>\n<li><a href=\"https://www.producthunt.com/posts/looking-glass\">Product Hunt page</a></li>\n<li><a href=\"https://www.macstories.net/reviews/managing-music-from-your-macs-menu-bar/\">MacStories article</a></li>\n</ul>\n<p>If you like the app, I'd be glad if you could give a nice review!</p>\n<h3>Promo codes</h3>\n<p>AARFLY9YMKP7\nKA3FT6HKK7LF\nTERX7NPFTR9F\nM3EL7J6AWXHK\nKEKE4LE36L7R\n34TRJNKPMEPE\n9YRLL9AREW94\nMP3XKM7TJ4NK\nAAF3PEXHYA7W\nHK6JR34AWT3W\n6YW7X4WFHAAH\nM97FL94H4LXH\nJETEPN676XAH\nMMFEWTWW346R\nFFX9FE3YYRJX\nHHAXKJA9KNKN\nYPNERHT9P6W7\nKFTFXMANRPFR\n34EFXAKK333W\nXNHEM94M9R47</p></div>",
-            "date_published": "2022-02-04T11:01:13+00:00",
-            "authors": [
-                {
-                    "name": "eighty__six",
-                    "url": "https://www.reddit.com/user/eighty__six"
                 }
             ]
         }
