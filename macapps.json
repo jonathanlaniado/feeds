@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "vfws2v",
+            "url": "/r/macapps/comments/vfws2v/timezone_manager/",
+            "external_url": "http://app.shapetime.ai",
+            "title": "Timezone manager",
+            "content_html": "<caption>Open in: <a href='http://app.shapetime.ai'>app.shapetime.ai</a> | <a href='https://reddit.com/r/macapps/comments/vfws2v/timezone_manager/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/vfws2v/timezone_manager/'>Apollo</a></caption>",
+            "date_published": "2022-06-19T14:48:00+00:00",
+            "authors": [
+                {
+                    "name": "dennyshess",
+                    "url": "https://www.reddit.com/user/dennyshess"
+                }
+            ]
+        },
+        {
             "id": "veycdb",
             "url": "/r/macapps/comments/veycdb/calendars_by_readdle_comes_to_mac/",
             "external_url": "https://www.theverge.com/2022/6/17/23172880/readdle-calendars-app-mac-iphone-ipad-sync",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "lgcyan",
                     "url": "https://www.reddit.com/user/lgcyan"
-                }
-            ]
-        },
-        {
-            "id": "skk1eq",
-            "url": "/r/macapps/comments/skk1eq/linked_14x_your_free_and_opensource_daily_journal/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/skk1eq/linked_14x_your_free_and_opensource_daily_journal/",
-            "title": "linked 1.4.x - your free and opensource daily journal app",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/skk1eq/linked_14x_your_free_and_opensource_daily_journal/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/skk1eq/linked_14x_your_free_and_opensource_daily_journal/'>Apollo</a></caption> <div><p>Hi everyone!</p>\n<p>Meet linked, a daily journal app I started almost over a year ago! You basically have sticky notes and a calendar combined to be able to write down anything for every day. The idea back then was to create a tool in which I can write down my thoughts and forget about them until I need them again.</p>\n<p><strong>\ud83d\udd0e  new search feature</strong></p>\n<p>Just a few days ago I released v1.4.x, which now includes a search feature - so that I can find things that I've noted a while ago. The search works completely offline and maintains its search index on your device - so there is nothing that spies on your data.</p>\n<p><strong>\ud83d\udccdcustom file location</strong></p>\n<p>Another long-desired feature was implemented, which is the custom file location - which allows you to sync your data by putting linked's data path into your dropbox/drive or other cloud storage provider.</p>\n<p><strong>\ud83d\uddde better updates</strong></p>\n<p>Also new, the app now checks for updates every 24h or if you want, every 7 days. Before you had to restart the app and it would tell you wether there is an update or not as well as not being able to deny an update.</p>\n<p><strong>\ud83d\udc40 tldr</strong></p>\n<p>New linked version released, adds search and custom file location - allows you to do daily journaling - it is when notes meet a calendar.</p>\n<p><a href=\"https://github.com/lostdesign/linked\">https://github.com/lostdesign/linked</a></p></div>",
-            "date_published": "2022-02-04T18:07:54+00:00",
-            "authors": [
-                {
-                    "name": "lostpx",
-                    "url": "https://www.reddit.com/user/lostpx"
                 }
             ]
         }
