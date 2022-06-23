@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "vidnju",
+            "url": "/r/apple/comments/vidnju/ios_16_and_macos_ventura_combat_email_spoofing/",
+            "external_url": "https://www.macrumors.com/2022/06/22/ios-16-mail-app-supports-bimi-brand-logos/",
+            "title": "iOS 16 and macOS Ventura Combat Email Spoofing With Support for Verified Brand Logos in Mail App",
+            "content_html": "<caption>Open in: <a href='https://www.macrumors.com/2022/06/22/ios-16-mail-app-supports-bimi-brand-logos/'>www.macrumors.com</a> | <a href='https://reddit.com/r/apple/comments/vidnju/ios_16_and_macos_ventura_combat_email_spoofing/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/vidnju/ios_16_and_macos_ventura_combat_email_spoofing/'>Apollo</a></caption>",
+            "date_published": "2022-06-22T19:45:31+00:00",
+            "authors": [
+                {
+                    "name": "spearson0",
+                    "url": "https://www.reddit.com/user/spearson0"
+                }
+            ]
+        },
+        {
             "id": "vhg1at",
             "url": "/r/apple/comments/vhg1at/mark_gurman_on_twitter_the_annual_apple_back_to/",
             "external_url": "https://twitter.com/markgurman/status/1539265868265271296",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "zangah_",
                     "url": "https://www.reddit.com/user/zangah_"
-                }
-            ]
-        },
-        {
-            "id": "tpkhaw",
-            "url": "/r/apple/comments/tpkhaw/gurman_ipad_pro_with_m2_chip_and_magsafe_charging/",
-            "external_url": "https://www.macrumors.com/2022/03/27/gurman-ipad-pro-with-m2-to-launch-in-fall-2022/",
-            "title": "Gurman: iPad Pro With 'M2' Chip and MagSafe Charging Likely to Launch in Fall 2022",
-            "content_html": "<caption>Open in: <a href='https://www.macrumors.com/2022/03/27/gurman-ipad-pro-with-m2-to-launch-in-fall-2022/'>www.macrumors.com</a> | <a href='https://reddit.com/r/apple/comments/tpkhaw/gurman_ipad_pro_with_m2_chip_and_magsafe_charging/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/tpkhaw/gurman_ipad_pro_with_m2_chip_and_magsafe_charging/'>Apollo</a></caption>",
-            "date_published": "2022-03-27T13:57:23+00:00",
-            "authors": [
-                {
-                    "name": "iMacmatician",
-                    "url": "https://www.reddit.com/user/iMacmatician"
                 }
             ]
         }
