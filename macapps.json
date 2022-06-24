@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "vjk8wd",
+            "url": "/r/macapps/comments/vjk8wd/i_created_bartranslate_a_handy_free_menu_bar/",
+            "external_url": "https://github.com/ThijmenDam/BarTranslate",
+            "title": "I created BarTranslate, a handy (free) menu bar translator widget for MacOS. Now open source!",
+            "content_html": "<caption>Open in: <a href='https://github.com/ThijmenDam/BarTranslate'>github.com</a> | <a href='https://reddit.com/r/macapps/comments/vjk8wd/i_created_bartranslate_a_handy_free_menu_bar/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/vjk8wd/i_created_bartranslate_a_handy_free_menu_bar/'>Apollo</a></caption>",
+            "date_published": "2022-06-24T09:17:22+00:00",
+            "authors": [
+                {
+                    "name": "Thijmenn",
+                    "url": "https://www.reddit.com/user/Thijmenn"
+                }
+            ]
+        },
+        {
             "id": "vi6g1c",
             "url": "/r/macapps/comments/vi6g1c/bettertouchtool_users_what_are_your_game_changer/",
             "external_url": "https://www.reddit.com/r/macapps/comments/vi6g1c/bettertouchtool_users_what_are_your_game_changer/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "scribblenik",
                     "url": "https://www.reddit.com/user/scribblenik"
-                }
-            ]
-        },
-        {
-            "id": "st61i3",
-            "url": "/r/macapps/comments/st61i3/productvity_close_all_apps_in_one_click/",
-            "external_url": "https://www.arun.is/blog/automator-quit-all/",
-            "title": "[Productvity] Close all apps in one click",
-            "content_html": "<caption>Open in: <a href='https://www.arun.is/blog/automator-quit-all/'>www.arun.is</a> | <a href='https://reddit.com/r/macapps/comments/st61i3/productvity_close_all_apps_in_one_click/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/st61i3/productvity_close_all_apps_in_one_click/'>Apollo</a></caption>",
-            "date_published": "2022-02-15T15:53:45+00:00",
-            "authors": [
-                {
-                    "name": "ddrmaxgt37",
-                    "url": "https://www.reddit.com/user/ddrmaxgt37"
                 }
             ]
         }
