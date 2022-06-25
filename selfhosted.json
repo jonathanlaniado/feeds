@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "vjp1e9",
+            "url": "/r/selfhosted/comments/vjp1e9/self_hosted_roundup_11/",
+            "external_url": "https://noted.lol/self-hosted-roundup-11/",
+            "title": "Self hosted Roundup #11",
+            "content_html": "<caption>Open in: <a href='https://noted.lol/self-hosted-roundup-11/'>noted.lol</a> | <a href='https://reddit.com/r/selfhosted/comments/vjp1e9/self_hosted_roundup_11/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/vjp1e9/self_hosted_roundup_11/'>Apollo</a></caption>",
+            "date_published": "2022-06-24T13:55:58+00:00",
+            "authors": [
+                {
+                    "name": "nashosted",
+                    "url": "https://www.reddit.com/user/nashosted"
+                }
+            ]
+        },
+        {
             "id": "vg3du0",
             "url": "/r/selfhosted/comments/vg3du0/if_you_just_bought_a_new_domain_name_do_not/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/vg3du0/if_you_just_bought_a_new_domain_name_do_not/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "robinshen",
                     "url": "https://www.reddit.com/user/robinshen"
-                }
-            ]
-        },
-        {
-            "id": "reov6x",
-            "url": "/r/selfhosted/comments/reov6x/log4j_exploit_explained_for_dummies/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/reov6x/log4j_exploit_explained_for_dummies/",
-            "title": "Log4j exploit explained for dummies",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/reov6x/log4j_exploit_explained_for_dummies/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/reov6x/log4j_exploit_explained_for_dummies/'>Apollo</a></caption> <div><p>Hey, I read a lot about it these days, but don't really understand how an internal logging library could affect the security of my self-hosted stuff.</p>\n<p>Only thing I could understand is that it is about systems which the attacker has access to in order to produce some content which is then logged.</p>\n<p>But is there any risk as long as only password protected services are exposed to the internet?</p></div>",
-            "date_published": "2021-12-12T13:18:10+00:00",
-            "authors": [
-                {
-                    "name": "Wayne_Cares",
-                    "url": "https://www.reddit.com/user/Wayne_Cares"
                 }
             ]
         }
