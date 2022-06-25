@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "vjrsqx",
+            "url": "/r/macapps/comments/vjrsqx/how_to_use_raycast_and_how_it_compares_to/",
+            "external_url": "https://www.theverge.com/23170431/raycast-how-to-macos-search-extensions-alfred-spotlight?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+            "title": "How to use Raycast and how it compares to Spotlight and Alfred \u2014 The Verge",
+            "content_html": "<caption>Open in: <a href='https://www.theverge.com/23170431/raycast-how-to-macos-search-extensions-alfred-spotlight?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter'>www.theverge.com</a> | <a href='https://reddit.com/r/macapps/comments/vjrsqx/how_to_use_raycast_and_how_it_compares_to/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/vjrsqx/how_to_use_raycast_and_how_it_compares_to/'>Apollo</a></caption>",
+            "date_published": "2022-06-24T16:02:46+00:00",
+            "authors": [
+                {
+                    "name": "tabchas",
+                    "url": "https://www.reddit.com/user/tabchas"
+                }
+            ]
+        },
+        {
             "id": "vjtyfk",
             "url": "/r/macapps/comments/vjtyfk/topdrop_a_fast_and_stylish_way_to_level_up_your/",
             "external_url": "https://v.redd.it/ufwys1gavl791",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "binaryfor",
                     "url": "https://www.reddit.com/user/binaryfor"
-                }
-            ]
-        },
-        {
-            "id": "svo126",
-            "url": "/r/macapps/comments/svo126/mos_awesome_utility_for_external_mouse_users/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/svo126/mos_awesome_utility_for_external_mouse_users/",
-            "title": "Mos: awesome utility for external mouse users!",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/svo126/mos_awesome_utility_for_external_mouse_users/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/svo126/mos_awesome_utility_for_external_mouse_users/'>Apollo</a></caption> <div><p>Hi!</p>\n<p>I just wanted to share with you an awesome app I recently found, which is by the way opensource (what gives it a little plus \\^\\^). If you are a non-trackpad and/or non-magic mouse user like me, you might be used to a rough scroll effect in every single app, and that does not look well. This is where <a href=\"https://mos.caldis.me\">Mos</a> comes, it enables you to get that smoother scroll effect you can expect from a magic mouse or a trackpad; that's a game changer in my opinion. </p>\n<p>That's it, you don't even have to buy a magic mouse or a trackpad ;)</p></div>",
-            "date_published": "2022-02-18T17:52:41+00:00",
-            "authors": [
-                {
-                    "name": "paulit--",
-                    "url": "https://www.reddit.com/user/paulit--"
                 }
             ]
         }
