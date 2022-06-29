@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "vneb01",
+            "url": "/r/macapps/comments/vneb01/native_mac_telegram_client/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/vneb01/native_mac_telegram_client/",
+            "title": "Native Mac Telegram client?",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/vneb01/native_mac_telegram_client/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/vneb01/native_mac_telegram_client/'>Apollo</a></caption> <div><p>Hello,\nI am looking for a native (no Chromium, QT or otherwise) Telegram client. I am blind and I use VoiceOver to operate the system, and the official Telegram client is not accessible. Any alternatives?</p></div>",
+            "date_published": "2022-06-29T12:10:06+00:00",
+            "authors": [
+                {
+                    "name": "Nuno_Nuno",
+                    "url": "https://www.reddit.com/user/Nuno_Nuno"
+                }
+            ]
+        },
+        {
             "id": "vmja5m",
             "url": "/r/macapps/comments/vmja5m/alfred_5_early_access_now_available/",
             "external_url": "/r/Alfred/comments/vmj9za/alfred_5_early_access_now_available/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "kvlq",
                     "url": "https://www.reddit.com/user/kvlq"
-                }
-            ]
-        },
-        {
-            "id": "syj6bw",
-            "url": "/r/macapps/comments/syj6bw/penc_trackpadoriented_window_manager_for_macos/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/syj6bw/penc_trackpadoriented_window_manager_for_macos/",
-            "title": "Penc - Trackpad-oriented window manager for macOS",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/syj6bw/penc_trackpadoriented_window_manager_for_macos/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/syj6bw/penc_trackpadoriented_window_manager_for_macos/'>Apollo</a></caption> <div><p><a href=\"https://github.com/dgurkaynak/Penc\">https://github.com/dgurkaynak/Penc</a></p>\n<p>I discovered this app a couple of months ago and, after having extensively used it, I think more people should know about it.</p>\n<p>It is basically a window manager app for macOS but instead of complicated keyboard shortcuts, Penc is primarily designed towards trackpad usage. You activate it by double-pressing a modifier key and keeping it held down (you can adjust the sensitivity and duration). This will show an overlay of all your current windows with their name and window size. Moving the mouse over an application will highlight said app with a blue border letting you know you are controlling its window. At this point you just swipe with two fingers (with your other hand since you are still holding down the modifier key) in the direction of your preference and it\u2019ll dock it there. The neat thing is you can also use the arrow keys to perform the same actions. Double-clicking on a window will maximize it and you can than use the pinch gesture to scale the window to your liking (also just in one direction). Right clicking a window will minimize it.</p>\n<p>This has honestly changed how I interact with my computer. It doesn't have the same amount of window placements as other window managers but it is so quick and easy without needing to remember the blob of keyboard shortcuts.</p></div>",
-            "date_published": "2022-02-22T09:13:36+00:00",
-            "authors": [
-                {
-                    "name": "ArchitectNaut",
-                    "url": "https://www.reddit.com/user/ArchitectNaut"
                 }
             ]
         }
