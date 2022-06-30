@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "vnuudz",
+            "url": "/r/apple/comments/vnuudz/m2_macbook_air_to_release_715/",
+            "external_url": "https://www.macrumors.com/2022/06/29/macbook-air-m2-available-friday-july-15/",
+            "title": "M2 MacBook Air to release 7/15",
+            "content_html": "<caption>Open in: <a href='https://www.macrumors.com/2022/06/29/macbook-air-m2-available-friday-july-15/'>www.macrumors.com</a> | <a href='https://reddit.com/r/apple/comments/vnuudz/m2_macbook_air_to_release_715/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/vnuudz/m2_macbook_air_to_release_715/'>Apollo</a></caption>",
+            "date_published": "2022-06-30T00:32:33+00:00",
+            "authors": [
+                {
+                    "name": "amcclain87",
+                    "url": "https://www.reddit.com/user/amcclain87"
+                }
+            ]
+        },
+        {
             "id": "vnc83k",
             "url": "/r/apple/comments/vnc83k/fcc_commissioner_calls_for_apple_google_to_ban/",
             "external_url": "https://appleinsider.com/articles/22/06/28/fcc-commissioner-calls-for-apple-google-to-ban-tiktok",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "DanTheMan827",
                     "url": "https://www.reddit.com/user/DanTheMan827"
-                }
-            ]
-        },
-        {
-            "id": "txlapl",
-            "url": "/r/apple/comments/txlapl/zeroday_vulnerabilities_remain_unpatched_in_big/",
-            "external_url": "https://appleinsider.com/articles/22/04/06/apple-hasnt-patched-critical-vulnerabilities-in-macos-big-sur-catalina",
-            "title": "Zero-Day vulnerabilities remain unpatched in Big Sur & Catalina systems, 1 week after Monterey fix",
-            "content_html": "<caption>Open in: <a href='https://appleinsider.com/articles/22/04/06/apple-hasnt-patched-critical-vulnerabilities-in-macos-big-sur-catalina'>appleinsider.com</a> | <a href='https://reddit.com/r/apple/comments/txlapl/zeroday_vulnerabilities_remain_unpatched_in_big/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/txlapl/zeroday_vulnerabilities_remain_unpatched_in_big/'>Apollo</a></caption>",
-            "date_published": "2022-04-06T12:43:01+00:00",
-            "authors": [
-                {
-                    "name": "PartialObs",
-                    "url": "https://www.reddit.com/user/PartialObs"
                 }
             ]
         }
