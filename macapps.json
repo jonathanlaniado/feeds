@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "vnkics",
+            "url": "/r/macapps/comments/vnkics/servercat_a_nice_and_useful_app_to_monitorrun/",
+            "external_url": "http://giuliomagnifico.blog/networking/2022/06/28/ServerCat-monitor-your-servers.html",
+            "title": "ServerCat, a nice and useful app to monitor/run commands on your servers",
+            "content_html": "<caption>Open in: <a href='http://giuliomagnifico.blog/networking/2022/06/28/ServerCat-monitor-your-servers.html'>giuliomagnifico.blog</a> | <a href='https://reddit.com/r/macapps/comments/vnkics/servercat_a_nice_and_useful_app_to_monitorrun/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/vnkics/servercat_a_nice_and_useful_app_to_monitorrun/'>Apollo</a></caption>",
+            "date_published": "2022-06-29T16:56:58+00:00",
+            "authors": [
+                {
+                    "name": "giuliomagnifico",
+                    "url": "https://www.reddit.com/user/giuliomagnifico"
+                }
+            ]
+        },
+        {
             "id": "vneb01",
             "url": "/r/macapps/comments/vneb01/native_mac_telegram_client/",
             "external_url": "https://www.reddit.com/r/macapps/comments/vneb01/native_mac_telegram_client/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "3unjee",
                     "url": "https://www.reddit.com/user/3unjee"
-                }
-            ]
-        },
-        {
-            "id": "syzri5",
-            "url": "/r/macapps/comments/syzri5/logioptions_now_supports_apple_silicon/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/syzri5/logioptions_now_supports_apple_silicon/",
-            "title": "LogiOptions+ now supports Apple Silicon",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/syzri5/logioptions_now_supports_apple_silicon/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/syzri5/logioptions_now_supports_apple_silicon/'>Apollo</a></caption> <div><p>Finally, after more than an year, version 0.90 of the Logi Option+ beta brings support to the M1, M1 Pro, and M1 Max chips.</p>\n<p>&#x200B;</p>\n<p><a href=\"https://support.logi.com/hc/en-us/articles/4414487657623-Download-Signature-M750L\">LogiOptions+</a></p></div>",
-            "date_published": "2022-02-22T22:04:44+00:00",
-            "authors": [
-                {
-                    "name": "kvlq",
-                    "url": "https://www.reddit.com/user/kvlq"
                 }
             ]
         }
