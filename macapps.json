@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "vqrpv2",
+            "url": "/r/macapps/comments/vqrpv2/velja_browser_picker/",
+            "external_url": "https://apps.apple.com/app/id1607635845",
+            "title": "Velja \u2014 Browser picker",
+            "content_html": "<caption>Open in: <a href='https://apps.apple.com/app/id1607635845'>apps.apple.com</a> | <a href='https://reddit.com/r/macapps/comments/vqrpv2/velja_browser_picker/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/vqrpv2/velja_browser_picker/'>Apollo</a></caption>",
+            "date_published": "2022-07-03T21:37:01+00:00",
+            "authors": [
+                {
+                    "name": "sindresorhus",
+                    "url": "https://www.reddit.com/user/sindresorhus"
+                }
+            ]
+        },
+        {
             "id": "vp4677",
             "url": "/r/macapps/comments/vp4677/after_kindavim_that_adds_vim_moves_to_any_ui/",
             "external_url": "https://www.youtube.com/watch?v=-N6VwfQGrCU",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "einhaufenpizza",
                     "url": "https://www.reddit.com/user/einhaufenpizza"
-                }
-            ]
-        },
-        {
-            "id": "t0sp9o",
-            "url": "/r/macapps/comments/t0sp9o/shout_out_to_wipr/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/t0sp9o/shout_out_to_wipr/",
-            "title": "Shout Out to Wipr!",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/t0sp9o/shout_out_to_wipr/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/t0sp9o/shout_out_to_wipr/'>Apollo</a></caption> <div><p>I have tried out numerous AdBlocker apps......Adguard, 1Blocker, Adblock and several more......and Wipr turned out to be the best of the bunch. Lightweight on system resources, small footprint, easy to set up and very effective including stopping YouTube ads. Nice job Team Wipr. I left you a generous donation!</p></div>",
-            "date_published": "2022-02-25T02:41:45+00:00",
-            "authors": [
-                {
-                    "name": "lionbites",
-                    "url": "https://www.reddit.com/user/lionbites"
                 }
             ]
         }
