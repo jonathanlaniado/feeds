@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "vsxklf",
+            "url": "/r/selfhosted/comments/vsxklf/im_finally_one_of_you_guys_thanks_for_helping_get/",
+            "external_url": "https://i.redd.it/k3j75gycwz991.png",
+            "title": "I'm finally one of you guys! Thanks for helping get this far. Pi4 -> Proxmox Journey. See comments",
+            "content_html": "<caption>Open in: <a href='https://i.redd.it/k3j75gycwz991.png'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/vsxklf/im_finally_one_of_you_guys_thanks_for_helping_get/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/vsxklf/im_finally_one_of_you_guys_thanks_for_helping_get/'>Apollo</a></caption>",
+            "date_published": "2022-07-06T18:59:20+00:00",
+            "authors": [
+                {
+                    "name": "useless_mlungu",
+                    "url": "https://www.reddit.com/user/useless_mlungu"
+                }
+            ]
+        },
+        {
             "id": "vsjkq1",
             "url": "/r/selfhosted/comments/vsjkq1/orb_the_free_and_open_source_web_desktop/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/vsjkq1/orb_the_free_and_open_source_web_desktop/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "choochusnotme",
                     "url": "https://www.reddit.com/user/choochusnotme"
-                }
-            ]
-        },
-        {
-            "id": "rekfko",
-            "url": "/r/selfhosted/comments/rekfko/how_do_you_view_your_logs_effectively/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/rekfko/how_do_you_view_your_logs_effectively/",
-            "title": "How do you view your logs effectively ?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/rekfko/how_do_you_view_your_logs_effectively/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/rekfko/how_do_you_view_your_logs_effectively/'>Apollo</a></caption> <div><p>Hi, <br />\nI need to view the logs (web, docker, ssh, syslog) of 5-6 machines at the same time. </p>\n<p>Lots of people use Graylog or ELK, but they require a lot of resources, and I wonder if there aren't some lightweight and simple solutions. </p>\n<p>(I'm even thinking of downloading logs with Ansible and visualise with a Python scrapper)</p></div>",
-            "date_published": "2021-12-12T08:10:12+00:00",
-            "authors": [
-                {
-                    "name": "TheBidouilleur",
-                    "url": "https://www.reddit.com/user/TheBidouilleur"
                 }
             ]
         }
