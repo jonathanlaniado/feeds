@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "vtx7m0",
+            "url": "/r/macapps/comments/vtx7m0/i_just_found_biscuit_and_i_love_it_an_opensource/",
+            "external_url": "https://eatbiscuit.com",
+            "title": "I just found Biscuit and I love it: an open-source, free, M1 native, alternative to Shift. A method of using webpages as apps.",
+            "content_html": "<caption>Open in: <a href='https://eatbiscuit.com'>eatbiscuit.com</a> | <a href='https://reddit.com/r/macapps/comments/vtx7m0/i_just_found_biscuit_and_i_love_it_an_opensource/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/vtx7m0/i_just_found_biscuit_and_i_love_it_an_opensource/'>Apollo</a></caption>",
+            "date_published": "2022-07-08T00:18:19+00:00",
+            "authors": [
+                {
+                    "name": "fourstringstu",
+                    "url": "https://www.reddit.com/user/fourstringstu"
+                }
+            ]
+        },
+        {
             "id": "vtg03p",
             "url": "/r/macapps/comments/vtg03p/introducing_noise_alerts_an_app_for_people_who/",
             "external_url": "https://www.reddit.com/r/macapps/comments/vtg03p/introducing_noise_alerts_an_app_for_people_who/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Hrhnick",
                     "url": "https://www.reddit.com/user/Hrhnick"
-                }
-            ]
-        },
-        {
-            "id": "t9jmlm",
-            "url": "/r/macapps/comments/t9jmlm/fundraising_support_ukraine_with_unclutter/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/t9jmlm/fundraising_support_ukraine_with_unclutter/",
-            "title": "Fundraising: support Ukraine \ud83c\uddfa\ud83c\udde6 with Unclutter",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/t9jmlm/fundraising_support_ukraine_with_unclutter/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/t9jmlm/fundraising_support_ukraine_with_unclutter/'>Apollo</a></caption> <div><p>My name is Eugene, Unclutter CEO.<br />\nWe are in Ukraine. And we are at war. The war we never wanted.</p>\n<p>The situation is bad, a lot of people are left with no homes, food, water or warm shelter.</p>\n<p>We're launching a <strong>fundraising campaign</strong> to help our people and contribute to our victory:<br />\n<a href=\"https://unclutterapp.com/help-ukraine\">https://unclutterapp.com/help-ukraine</a></p>\n<p>The idea is simple: we offer our \"Unclutter for Mac\" application at the price of your choice, starting at $10 (half the regular price). But in fact, it more like an easy-to-use way of donation.</p>\n<p>All revenue will be transferred to Ukrainian charity funds (National Bank of Ukraine\u2019s official account for supporting Ukrainian Army, Humanitarian Fund of Ministry of Social Politics), as well as to volunteers who we personally know and trust.</p>\n<p>We call on you to stand with Ukraine!<br />\n<strong>Your help will save lives.</strong></p>\n<p>Thank you!<br />\nEugene.</p></div>",
-            "date_published": "2022-03-08T15:45:38+00:00",
-            "authors": [
-                {
-                    "name": "Unclutterapp",
-                    "url": "https://www.reddit.com/user/Unclutterapp"
                 }
             ]
         }
