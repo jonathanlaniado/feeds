@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "vv7jsd",
+            "url": "/r/selfhosted/comments/vv7jsd/40_opensource_projects_to_build_your_startup_from/",
+            "external_url": "https://blog.scaleway.com/40-open-source-projects/",
+            "title": "40+ open-source projects to build your startup from project management to infrastructure",
+            "content_html": "<caption>Open in: <a href='https://blog.scaleway.com/40-open-source-projects/'>blog.scaleway.com</a> | <a href='https://reddit.com/r/selfhosted/comments/vv7jsd/40_opensource_projects_to_build_your_startup_from/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/vv7jsd/40_opensource_projects_to_build_your_startup_from/'>Apollo</a></caption>",
+            "date_published": "2022-07-09T18:11:41+00:00",
+            "authors": [
+                {
+                    "name": "hanaa42",
+                    "url": "https://www.reddit.com/user/hanaa42"
+                }
+            ]
+        },
+        {
             "id": "vtdzlc",
             "url": "/r/selfhosted/comments/vtdzlc/a_modern_homeserver_guide_from_a_to_z_hardware/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/vtdzlc/a_modern_homeserver_guide_from_a_to_z_hardware/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "The_cheese_owl",
                     "url": "https://www.reddit.com/user/The_cheese_owl"
-                }
-            ]
-        },
-        {
-            "id": "rf6bp0",
-            "url": "/r/selfhosted/comments/rf6bp0/is_there_any_music_streaming_software_with/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/rf6bp0/is_there_any_music_streaming_software_with/",
-            "title": "Is there any music streaming software with integrations (Spotify, Bandcamp, Youtube music) + playing from local?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/rf6bp0/is_there_any_music_streaming_software_with/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/rf6bp0/is_there_any_music_streaming_software_with/'>Apollo</a></caption> <div><p>Hello there!</p>\n<p>I'm looking from software for streaming music over my local network. Basically i want two things:</p>\n<ol>\n<li>Stream lossless music from local storage</li>\n<li>Discover new music on Spotify, Bandcamp, and maybe Youtube music</li>\n<li>Web OR desktop client (for listening music from other computers in network) and android client</li>\n</ol>\n<p>I tried Mopidy, it's good but installation/configuration process is kinda challenging and plus i had some issues with Mopidy-Local and Youtube-music extensions and... overall my user experience wasn't really good. Also i tried Volumio, it has integrations and clean UI, but you can't stream music with it (at least that's what i know). But installation process is easy, pretty much 'out of the box'. Would be nice to have something similar to Volumio with streaming functionality.</p>\n<p>To summarize, i'm looking for Mopidy(Volumio)-like software (self-hosted, streaming, integrations).</p></div>",
-            "date_published": "2021-12-13T03:46:59+00:00",
-            "authors": [
-                {
-                    "name": "vadim-vadim",
-                    "url": "https://www.reddit.com/user/vadim-vadim"
                 }
             ]
         }
