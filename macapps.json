@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "vwrxk5",
+            "url": "/r/macapps/comments/vwrxk5/i_just_launched_keytrails_an_input_monitoring_app/",
+            "external_url": "https://apps.apple.com/us/app/keytrails/id1632266803?mt=12",
+            "title": "I just launched KeyTrails - an input monitoring app to visualize your keypresses on-screen with style!",
+            "content_html": "<caption>Open in: <a href='https://apps.apple.com/us/app/keytrails/id1632266803?mt=12'>apps.apple.com</a> | <a href='https://reddit.com/r/macapps/comments/vwrxk5/i_just_launched_keytrails_an_input_monitoring_app/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/vwrxk5/i_just_launched_keytrails_an_input_monitoring_app/'>Apollo</a></caption>",
+            "date_published": "2022-07-11T20:16:27+00:00",
+            "authors": [
+                {
+                    "name": "Killforthecoke",
+                    "url": "https://www.reddit.com/user/Killforthecoke"
+                }
+            ]
+        },
+        {
             "id": "vwf629",
             "url": "/r/macapps/comments/vwf629/type_with_slack_style_emoji_alias_and_expand_into/",
             "external_url": "https://twitter.com/GetAlmighty/status/1546439768774512640",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "toolbunch",
                     "url": "https://www.reddit.com/user/toolbunch"
-                }
-            ]
-        },
-        {
-            "id": "tauo1z",
-            "url": "/r/macapps/comments/tauo1z/adguards_responses_to_allegations/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/tauo1z/adguards_responses_to_allegations/",
-            "title": "Adguard\u2019s responses to allegations",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/tauo1z/adguards_responses_to_allegations/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/tauo1z/adguards_responses_to_allegations/'>Apollo</a></caption> <div><p>Since there are multiple threads here panicking about Adguard\u2019s Russian connections, it only seems fair to create a post with their answers to cut through the chaff. Especially since those answers go a long way to allay fears.</p>\n<p><a href=\"https://reddit.com/r/Adguard/comments/tal21m/official_response_from_adguard_to_setapp/\">Official Response to Setapp</a></p>\n<p><a href=\"https://twitter.com/AdGuard/status/1497215889883738118\">Twitter condemning the war</a></p>\n<p>Their product is superior to all other ad blockers out there and will continue to use it. Silence would have been deafening here, but they have reached out. I guess we\u2019ll have to wait and see what Setapp\u2019s response will be.</p></div>",
-            "date_published": "2022-03-10T09:03:11+00:00",
-            "authors": [
-                {
-                    "name": "spafey",
-                    "url": "https://www.reddit.com/user/spafey"
                 }
             ]
         }
