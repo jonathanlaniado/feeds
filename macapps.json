@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "vz5osg",
+            "url": "/r/macapps/comments/vz5osg/alfred_5_is_here/",
+            "external_url": "https://www.alfredapp.com/blog/announcements/alfred-5-is-here/",
+            "title": "Alfred 5 is Here!",
+            "content_html": "<caption>Open in: <a href='https://www.alfredapp.com/blog/announcements/alfred-5-is-here/'>www.alfredapp.com</a> | <a href='https://reddit.com/r/macapps/comments/vz5osg/alfred_5_is_here/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/vz5osg/alfred_5_is_here/'>Apollo</a></caption>",
+            "date_published": "2022-07-14T20:35:15+00:00",
+            "authors": [
+                {
+                    "name": "tabchas",
+                    "url": "https://www.reddit.com/user/tabchas"
+                }
+            ]
+        },
+        {
             "id": "vyj30t",
             "url": "/r/macapps/comments/vyj30t/i_made_a_receipt_management_app/",
             "external_url": "https://www.reddit.com/r/macapps/comments/vyj30t/i_made_a_receipt_management_app/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "isolt-ast",
                     "url": "https://www.reddit.com/user/isolt-ast"
-                }
-            ]
-        },
-        {
-            "id": "tdgsc0",
-            "url": "/r/macapps/comments/tdgsc0/i_just_released_version_10_of_my_transmission/",
-            "external_url": "http://jdiggity.me/mission/",
-            "title": "I just released version 1.0 of my transmission remote app for macOS! If you have a seedbox with transmission I'd really appreciate you checking it out and giving feedback. It's open source too!",
-            "content_html": "<caption>Open in: <a href='http://jdiggity.me/mission/'>jdiggity.me</a> | <a href='https://reddit.com/r/macapps/comments/tdgsc0/i_just_released_version_10_of_my_transmission/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/tdgsc0/i_just_released_version_10_of_my_transmission/'>Apollo</a></caption>",
-            "date_published": "2022-03-13T21:17:57+00:00",
-            "authors": [
-                {
-                    "name": "plays2",
-                    "url": "https://www.reddit.com/user/plays2"
                 }
             ]
         }
