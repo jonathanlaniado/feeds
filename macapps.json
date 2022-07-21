@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "w4dt98",
+            "url": "/r/macapps/comments/w4dt98/airshot_is_now_temporarily_free/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/w4dt98/airshot_is_now_temporarily_free/",
+            "title": "AirShot is now temporarily free",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/w4dt98/airshot_is_now_temporarily_free/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/w4dt98/airshot_is_now_temporarily_free/'>Apollo</a></caption> <div><p>TLDR; AirShot is an application that automatically sets an aerial image as your desktop wallpaper, based on your current location or a random location. You can download the app for free until the end of July!</p>\n<p>Almost a year ago I gave 20 copies away. Now, to celebrate the first anniversary, you can download the application for free until the end of July! Me being the developer of the application I would love to hear any form of feedback! </p>\n<p>More information and the download link: <a href=\"https://apps.apple.com/us/app/airshot-dynamic-wallpaper/id1578021511\">https://apps.apple.com/us/app/airshot-dynamic-wallpaper/id1578021511</a></p>\n<p>I hope you enjoy the application!</p></div>",
+            "date_published": "2022-07-21T11:02:28+00:00",
+            "authors": [
+                {
+                    "name": "dhtim",
+                    "url": "https://www.reddit.com/user/dhtim"
+                }
+            ]
+        },
+        {
             "id": "w2tw52",
             "url": "/r/macapps/comments/w2tw52/raycast_gets_an_updated_look_and_feel_new_icon/",
             "external_url": "https://www.raycast.com/blog/a-fresh-look-and-feel",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ichigorollin",
                     "url": "https://www.reddit.com/user/ichigorollin"
-                }
-            ]
-        },
-        {
-            "id": "tgxtnu",
-            "url": "/r/macapps/comments/tgxtnu/is_amphetamine_still_the_best_app_to_prevent_sleep/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/tgxtnu/is_amphetamine_still_the_best_app_to_prevent_sleep/",
-            "title": "Is Amphetamine still the best app to prevent sleep?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/tgxtnu/is_amphetamine_still_the_best_app_to_prevent_sleep/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/tgxtnu/is_amphetamine_still_the_best_app_to_prevent_sleep/'>Apollo</a></caption> <div><p>Quite often I need to keep my screen awake when doing other stuff. Is Amphetamine still one of the best or is there a new great app? I could just modify the setting in system preferences but i feel like i would forget to change it back.</p></div>",
-            "date_published": "2022-03-18T09:57:14+00:00",
-            "authors": [
-                {
-                    "name": "ItseKeisari",
-                    "url": "https://www.reddit.com/user/ItseKeisari"
                 }
             ]
         }
