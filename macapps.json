@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "w5tern",
+            "url": "/r/macapps/comments/w5tern/shortcatapp_to_ditch_your_mouse/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/w5tern/shortcatapp_to_ditch_your_mouse/",
+            "title": "Shortcat.app to ditch your mouse",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/w5tern/shortcatapp_to_ditch_your_mouse/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/w5tern/shortcatapp_to_ditch_your_mouse/'>Apollo</a></caption> <div><p>https://shortcat.app/\nhttps://twitter.com/shortcatapp</p>\n<p>(I'm not the dev, just thought this deserved some love here)</p>\n<p><strong>Description</strong>: (from the site) </p>\n<h2>Click with the keyboard</h2>\n<p>\"Hate needing to move your hand off the keyboard for that pesky button? Shortcat enables you to access UI elements with just a few keystrokes, so you can stay in the flow.</p>\n<p>Supports clicking, right clicking, double clicking, and clicking with modifiers.\"</p>\n<hr />\n<p>The integration is really smooth and gives you varied options depending on how you want to hit your target. I just started using it so I can't fairly compare pros and cons to other apps like <a href=\"https://homerow.app\">Homerow</a> or Ryan Hansen's <a href=\"https://superkey.app/\">Superkey</a> (and I'm keeping an eye on the development of <a href=\"https://wooshy.app/\">Wooshy</a>), but it's honestly just plain fun and comfortable to use.</p>\n<p>Didn't see a post for this here so I thought y'all should know and add it to your awesome-apps list.</p></div>",
+            "date_published": "2022-07-23T03:18:24+00:00",
+            "authors": [
+                {
+                    "name": "Thrashymakhus",
+                    "url": "https://www.reddit.com/user/Thrashymakhus"
+                }
+            ]
+        },
+        {
             "id": "w4dt98",
             "url": "/r/macapps/comments/w4dt98/airshot_is_now_temporarily_free/",
             "external_url": "https://www.reddit.com/r/macapps/comments/w4dt98/airshot_is_now_temporarily_free/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Killforthecoke",
                     "url": "https://www.reddit.com/user/Killforthecoke"
-                }
-            ]
-        },
-        {
-            "id": "tiho24",
-            "url": "/r/macapps/comments/tiho24/new_app_release_peachy_kaomoji_input_for_mac_free/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/tiho24/new_app_release_peachy_kaomoji_input_for_mac_free/",
-            "title": "New app release: Peachy - Kaomoji input for Mac (free & open source!)",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/tiho24/new_app_release_peachy_kaomoji_input_for_mac_free/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/tiho24/new_app_release_peachy_kaomoji_input_for_mac_free/'>Apollo</a></caption> <div><p>Hi there, I've just launched a new toy app Peachy: <a href=\"https://itsmeichigo.io/peachy/\">https://itsmeichigo.io/peachy/</a></p>\n<p>Basically you can enter kaomoji to any Mac app by typing a trigger key following a keyword like what you can do on Slack or Discord:</p>\n<p>&#x200B;</p>\n<p><a href=\"https://i.redd.it/dua31pc9gio81.gif\">Peachy Demo</a></p>\n<p>The app is also open source here: <a href=\"https://github.com/itsmeichigo/peachy\">https://github.com/itsmeichigo/peachy</a></p>\n<p>Check it out and let me know what you think!</p></div>",
-            "date_published": "2022-03-20T09:52:37+00:00",
-            "authors": [
-                {
-                    "name": "ichigorollin",
-                    "url": "https://www.reddit.com/user/ichigorollin"
                 }
             ]
         }
