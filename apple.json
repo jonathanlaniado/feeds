@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "w6xcmh",
+            "url": "/r/apple/comments/w6xcmh/apple_silicon_is_an_inconvenient_truth/",
+            "external_url": "https://daringfireball.net/linked/2022/07/23/apple-silicon-inconvenient-truth",
+            "title": "Apple Silicon Is An Inconvenient Truth",
+            "content_html": "<caption>Open in: <a href='https://daringfireball.net/linked/2022/07/23/apple-silicon-inconvenient-truth'>daringfireball.net</a> | <a href='https://reddit.com/r/apple/comments/w6xcmh/apple_silicon_is_an_inconvenient_truth/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/w6xcmh/apple_silicon_is_an_inconvenient_truth/'>Apollo</a></caption>",
+            "date_published": "2022-07-24T14:50:27+00:00",
+            "authors": [
+                {
+                    "name": "scrmedia",
+                    "url": "https://www.reddit.com/user/scrmedia"
+                }
+            ]
+        },
+        {
             "id": "w5kb2k",
             "url": "/r/apple/comments/w5kb2k/m2_macbook_air_throttling_is_being_vastly/",
             "external_url": "https://forums.macrumors.com/threads/m2-macbook-air-throttling-is-being-vastly-over-exaggerated.2352165/",
@@ -1386,20 +1400,6 @@
             "title": "50% of Customers Purchasing a Mac in Q2 2022 Were New Mac Users",
             "content_html": "<caption>Open in: <a href='https://www.macrumors.com/2022/04/28/mac-users-q2-2022-new-to-mac/'>www.macrumors.com</a> | <a href='https://reddit.com/r/apple/comments/ueheyp/50_of_customers_purchasing_a_mac_in_q2_2022_were/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/ueheyp/50_of_customers_purchasing_a_mac_in_q2_2022_were/'>Apollo</a></caption>",
             "date_published": "2022-04-29T08:37:37+00:00",
-            "authors": [
-                {
-                    "name": "benh999",
-                    "url": "https://www.reddit.com/user/benh999"
-                }
-            ]
-        },
-        {
-            "id": "udur74",
-            "url": "/r/apple/comments/udur74/tsmc_clarifies_apples_ultrafusion_chiptochip/",
-            "external_url": "https://www.tomshardware.com/news/tsmc-clarifies-apple-ultrafusion-chip-to-chip-interconnect",
-            "title": "TSMC Clarifies Apple's UltraFusion Chip-to-Chip Interconnect",
-            "content_html": "<caption>Open in: <a href='https://www.tomshardware.com/news/tsmc-clarifies-apple-ultrafusion-chip-to-chip-interconnect'>www.tomshardware.com</a> | <a href='https://reddit.com/r/apple/comments/udur74/tsmc_clarifies_apples_ultrafusion_chiptochip/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/udur74/tsmc_clarifies_apples_ultrafusion_chiptochip/'>Apollo</a></caption>",
-            "date_published": "2022-04-28T13:15:48+00:00",
             "authors": [
                 {
                     "name": "benh999",
