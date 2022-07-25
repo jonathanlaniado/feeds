@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "w7v97e",
+            "url": "/r/macapps/comments/w7v97e/we_got_featured_by_9to5mac_today_a_way_to/",
+            "external_url": "https://9to5mac.com/2022/07/25/remotion-spotify-mac-shareplay/",
+            "title": "We got featured by 9to5mac today: A way to synchronize Spotify.app in real time, plus voice chat",
+            "content_html": "<caption>Open in: <a href='https://9to5mac.com/2022/07/25/remotion-spotify-mac-shareplay/'>9to5mac.com</a> | <a href='https://reddit.com/r/macapps/comments/w7v97e/we_got_featured_by_9to5mac_today_a_way_to/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/w7v97e/we_got_featured_by_9to5mac_today_a_way_to/'>Apollo</a></caption>",
+            "date_published": "2022-07-25T17:44:12+00:00",
+            "authors": [
+                {
+                    "name": "embirico",
+                    "url": "https://www.reddit.com/user/embirico"
+                }
+            ]
+        },
+        {
             "id": "w7lvvv",
             "url": "/r/macapps/comments/w7lvvv/whats_the_proper_way_to_uninstall_software/",
             "external_url": "https://www.reddit.com/r/macapps/comments/w7lvvv/whats_the_proper_way_to_uninstall_software/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "mecs91",
                     "url": "https://www.reddit.com/user/mecs91"
-                }
-            ]
-        },
-        {
-            "id": "tlr9yx",
-            "url": "/r/macapps/comments/tlr9yx/i_released_a_fully_native_and_open_source_todo/",
-            "external_url": "https://aayush9029.github.io/Medo/",
-            "title": "I released a fully native and open source to-do list app. It also floats and stuff!",
-            "content_html": "<caption>Open in: <a href='https://aayush9029.github.io/Medo/'>aayush9029.github.io</a> | <a href='https://reddit.com/r/macapps/comments/tlr9yx/i_released_a_fully_native_and_open_source_todo/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/tlr9yx/i_released_a_fully_native_and_open_source_todo/'>Apollo</a></caption>",
-            "date_published": "2022-03-24T01:17:11+00:00",
-            "authors": [
-                {
-                    "name": "69shaolin69",
-                    "url": "https://www.reddit.com/user/69shaolin69"
                 }
             ]
         }
