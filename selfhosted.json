@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "w89tgh",
+            "url": "/r/selfhosted/comments/w89tgh/manticore_a_faster_alternative_to_elasticsearch/",
+            "external_url": "https://manticoresearch.com/blog/manticore-alternative-to-elasticsearch/",
+            "title": "Manticore: a faster alternative to Elasticsearch in C++ with a 21-year history",
+            "content_html": "<caption>Open in: <a href='https://manticoresearch.com/blog/manticore-alternative-to-elasticsearch/'>manticoresearch.com</a> | <a href='https://reddit.com/r/selfhosted/comments/w89tgh/manticore_a_faster_alternative_to_elasticsearch/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/w89tgh/manticore_a_faster_alternative_to_elasticsearch/'>Apollo</a></caption>",
+            "date_published": "2022-07-26T04:12:37+00:00",
+            "authors": [
+                {
+                    "name": "snikolaev",
+                    "url": "https://www.reddit.com/user/snikolaev"
+                }
+            ]
+        },
+        {
             "id": "w2ukqy",
             "url": "/r/selfhosted/comments/w2ukqy/dronedb_hub_a_versatile_open_source_modern_aerial/",
             "external_url": "https://v.redd.it/qukx4twhbjc91",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "amca01",
                     "url": "https://www.reddit.com/user/amca01"
-                }
-            ]
-        },
-        {
-            "id": "ri0ssx",
-            "url": "/r/selfhosted/comments/ri0ssx/is_this_normal_for_wd_to_send_out_drives_with_no/",
-            "external_url": "https://i.redd.it/wdpcgnqq3z581.jpg",
-            "title": "is this normal for WD to send out drives with no type or protection? Would you trust these?",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/wdpcgnqq3z581.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/ri0ssx/is_this_normal_for_wd_to_send_out_drives_with_no/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/ri0ssx/is_this_normal_for_wd_to_send_out_drives_with_no/'>Apollo</a></caption>",
-            "date_published": "2021-12-16T21:32:33+00:00",
-            "authors": [
-                {
-                    "name": "inkredible973",
-                    "url": "https://www.reddit.com/user/inkredible973"
                 }
             ]
         }
