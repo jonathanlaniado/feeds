@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "w9o7g4",
+            "url": "/r/selfhosted/comments/w9o7g4/immich_highperformance_selfhosted_backup/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/w9o7g4/immich_highperformance_selfhosted_backup/",
+            "title": "Immich - High-performance self-hosted backup photos/videos from your mobile phone (kinda like a Google Photos replacement) - Progress update July 27th, 2022. The album feature on the web is here \ud83c\udf89",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/w9o7g4/immich_highperformance_selfhosted_backup/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/w9o7g4/immich_highperformance_selfhosted_backup/'>Apollo</a></caption> <div><p>Hi all,</p>\n<p>Alex here, and I am back with another progress update on Immich (v1.19).</p>\n<p>Summer is hot and dangerous, and I hope you guys are all staying cool and ready for some exciting news! \ud83c\udf89</p>\n<h2>Two big updates</h2>\n<ul>\n<li>We fully support Immich to run on Raspberry Pi 4 now! - Thanks to the recent change to TensorFlow for NodeJs, the library can now be built on the arm64 platform!</li>\n<li>We added the album feature to the web, you can now expect the same album (shared album) functions and the UI\u2019s flow similar to Google Photos. The next release will port this feature to the mobile app to compliment the existing shared album feature.</li>\n</ul>\n<p><a href=\"https://preview.redd.it/et9uavzqz5e91.png?width=3830&amp;format=png&amp;auto=webp&amp;s=a7b6d36478ba4d8b30d0b1185e545aded1a082f0\">Albums and Shared Albums</a></p>\n<p>&#x200B;</p>\n<h2>Other improvements</h2>\n<ul>\n<li>We moved all the thumbnail generation processes to the server - this greatly improves the mobile app's backup process. It is not just fast\u2026 but <em>blazing</em> fast now! (Check out the embedded video below)</li>\n</ul>\n<p><a href=\"https://reddit.com/link/w9o7g4/video/bq7ra69xz5e91/player\">Test upload on the local network - using 5Ghz WIFI band</a></p>\n<p>&#x200B;</p>\n<ul>\n<li>We add i18n support to the mobile app. The mobile app is now translated to German, Danish, Italian, Spanish, French, Japanese, Polish and Finnish. If your phone is set to those languages and regions, the app will automatically be translated to those languages.</li>\n<li>The REST API on the server now follows the OpenAPI Spec, and we can generate SDK for other programming languages. This will be the stepping stone for additional integration and perhaps a plugin system for the future. The web uses Typescript SDK, and the mobile app uses Dart SDK. It is a pleasure to develop without manually writing HTTP requests for all the interactions with the server. \ud83d\ude42</li>\n</ul>\n<p>Our Discord server (<a href=\"https://discord.gg/D8JsnBEuKb\">https://discord.gg/D8JsnBEuKb</a>) has been a very fun and welcoming place, and I love the community and the users engaged in testing and using the app. I believe your questions and feedback are the only way to improve the application. I encourage you to stop by to hang out or when you have questions or feedback for Immich.</p>\n<p>I want to borrow this opportunity to thank all the contributors (<a href=\"https://github.com/zackpollard\">Zach</a>, <a href=\"https://github.com/matthinc\">Mathias</a>, <a href=\"https://github.com/jbaez\">Jaime</a>, <a href=\"https://github.com/bo0tzz\">boOtzz</a>, <a href=\"https://github.com/zoodyy\">Fynn</a>, and many more) and the community for the ongoing support and feedback for Immich. I cannot do this all without you guys.</p>\n<p>If you find the project helpful and help you in some ways, you can support the project\u00a0<a href=\"https://github.com/sponsors/alextran1502?frequency=one-time&amp;sponsor=alextran1502\">one time</a> or\u00a0<a href=\"https://github.com/sponsors/alextran1502\">monthly</a> from Github Sponsor.</p>\n<p>You can access the\u00a0<a href=\"https://github.com/alextran1502/immich\">project repository here on Github</a> <a href=\"https://github.com/alextran1502/immich\">https://github.com/alextran1502/immich</a></p>\n<p>Cheers! Until next time!</p>\n<p>Alex \ud83c\udf7b</p></div>",
+            "date_published": "2022-07-27T19:52:47+00:00",
+            "authors": [
+                {
+                    "name": "altran1502",
+                    "url": "https://www.reddit.com/user/altran1502"
+                }
+            ]
+        },
+        {
             "id": "w89tgh",
             "url": "/r/selfhosted/comments/w89tgh/manticore_a_faster_alternative_to_elasticsearch/",
             "external_url": "https://manticoresearch.com/blog/manticore-alternative-to-elasticsearch/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "utopiah",
                     "url": "https://www.reddit.com/user/utopiah"
-                }
-            ]
-        },
-        {
-            "id": "rj2hfz",
-            "url": "/r/selfhosted/comments/rj2hfz/how_to_be_an_idiot/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/rj2hfz/how_to_be_an_idiot/",
-            "title": "How to be an idiot",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/rj2hfz/how_to_be_an_idiot/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/rj2hfz/how_to_be_an_idiot/'>Apollo</a></caption> <div><p>I've been running a linux-based VPS for some years; it has hosted my blog (which this year I've been too busy and exhausted to maintain), Nextcloud for file management, and a few other things.   A few years ago I decided to experiment with docker, so I had separate containers for all my services.  </p>\n<p>Now, Nextcloud allows upgrades by one one version number at a time.  So if you want to upgrade from say version 20 to the current version 23 you have to go in steps: first upgrade to 21, then to 22, finally to 23.  I knew this, and have made several successful upgrades in the past.  But what did I do this time?  Tried to upgrade over 2 version numbers, thus breaking my installation.  I thought this might be a nice opportunity to re-install from scratch both Nextcloud and the reverse proxy Traefik, which provides security certificates from LetsEncrypt.   This turned out to be a non-trivial problem, as Traefik has undergone significant changes, and the old config file which I had was incompatible with the new version.  </p>\n<p>Well, if I was going to change all of this - why not upgrade the operating system itself, from Ubuntu 18.04 to 20.04 (both LTS)?  And so I set about doing that, something I've also done before (at least twice in fact).  But this time, after the system went into reboot to complete the upgrade, I couldn't access it again.  I tried to stop and start it from the tools provide by the hosting service, with no luck.  I contacted the admin of the hosting service, who told me that \"Its Grub is broken. That's why you can't stop/start it as it's deep in a failed Grub boot.\"  He recommended a re-image, unless I wanted him to see if he could fix it for me (for which I'd no doubt have to pay for his sys admin time).  </p>\n<p>A re-image would of course destroy everything and replace my system with a new, empty system.  In fact this might not be a bad thing, as I've accumulated all manner of junk over the years; things I've tried out and discarded.  (I used to run <a href=\"https://wordpress.org\">wordpress.org</a>, for example, until maintaining a reasonable level of security was getting troublesome.)</p>\n<p>Anyway, thanks to my hard-won skill (ha!) as a sys admin, I have gone from a working, usable VPS to one that is completely broken.  Go me!</p></div>",
-            "date_published": "2021-12-18T07:46:02+00:00",
-            "authors": [
-                {
-                    "name": "amca01",
-                    "url": "https://www.reddit.com/user/amca01"
                 }
             ]
         }
