@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "wbn140",
+            "url": "/r/macapps/comments/wbn140/i_created_a_simple_app_that_lets_you_change_the/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/wbn140/i_created_a_simple_app_that_lets_you_change_the/",
+            "title": "I created a simple app that lets you change the number of rows and columns in your launchpad!",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/wbn140/i_created_a_simple_app_that_lets_you_change_the/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/wbn140/i_created_a_simple_app_that_lets_you_change_the/'>Apollo</a></caption> <div><p>Hi there!</p>\n<p>I was surprised there wasn't a way to change the rows and columns in your launchpad without running some terminal commands, so I made a quick app called Launchpad Customizer that makes that process a bit easier!</p>\n<p>You can download it for free here (LaunchpadCustomizer.zip): <a href=\"https://github.com/Jeidoban/Launchpad-Customizer/releases/tag/v1.0.0\">https://github.com/Jeidoban/Launchpad-Customizer/releases/tag/v1.0.0</a></p>\n<p>Here's the GitHub repo as well: <a href=\"https://github.com/Jeidoban/Launchpad-Customizer\">https://github.com/Jeidoban/Launchpad-Customizer</a></p>\n<p>Let me know what you guys think!</p></div>",
+            "date_published": "2022-07-30T02:57:48+00:00",
+            "authors": [
+                {
+                    "name": "pizzaisprettyneato",
+                    "url": "https://www.reddit.com/user/pizzaisprettyneato"
+                }
+            ]
+        },
+        {
             "id": "wa16ec",
             "url": "/r/macapps/comments/wa16ec/what_app_is_this/",
             "external_url": "https://i.redd.it/nw9c683rw8e91.jpg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "v-mohan",
                     "url": "https://www.reddit.com/user/v-mohan"
-                }
-            ]
-        },
-        {
-            "id": "tn6hu0",
-            "url": "/r/macapps/comments/tn6hu0/timeow_an_opensource_menu_bar_app_that_displays/",
-            "external_url": "https://github.com/f-person/timeow-mac/",
-            "title": "Timeow \u2013 an open-source menu bar app that displays how long you've been actively using your computer. It is configurable, and keeps track of active sessions and breaks",
-            "content_html": "<caption>Open in: <a href='https://github.com/f-person/timeow-mac/'>github.com</a> | <a href='https://reddit.com/r/macapps/comments/tn6hu0/timeow_an_opensource_menu_bar_app_that_displays/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/tn6hu0/timeow_an_opensource_menu_bar_app_that_displays/'>Apollo</a></caption>",
-            "date_published": "2022-03-24T21:50:34+00:00",
-            "authors": [
-                {
-                    "name": "fperson_",
-                    "url": "https://www.reddit.com/user/fperson_"
                 }
             ]
         }
