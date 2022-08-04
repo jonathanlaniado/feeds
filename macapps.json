@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "wg1il6",
+            "url": "/r/macapps/comments/wg1il6/tower_9_for_mac_has_just_been_released/",
+            "external_url": "https://www.git-tower.com/blog/tower-mac-9/",
+            "title": "Tower 9 for Mac has just been released",
+            "content_html": "<caption>Open in: <a href='https://www.git-tower.com/blog/tower-mac-9/'>www.git-tower.com</a> | <a href='https://reddit.com/r/macapps/comments/wg1il6/tower_9_for_mac_has_just_been_released/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/wg1il6/tower_9_for_mac_has_just_been_released/'>Apollo</a></caption>",
+            "date_published": "2022-08-04T13:38:38+00:00",
+            "authors": [
+                {
+                    "name": "the_bammer",
+                    "url": "https://www.reddit.com/user/the_bammer"
+                }
+            ]
+        },
+        {
             "id": "wfawdb",
             "url": "/r/macapps/comments/wfawdb/accidentally_found_a_free_app_to_sort_launchpad/",
             "external_url": "https://www.reddit.com/r/macapps/comments/wfawdb/accidentally_found_a_free_app_to_sort_launchpad/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ba_likes_bananas",
                     "url": "https://www.reddit.com/user/ba_likes_bananas"
-                }
-            ]
-        },
-        {
-            "id": "tvymdf",
-            "url": "/r/macapps/comments/tvymdf/a_minimalistic_and_stylish_i_hope_focus_timer_ive/",
-            "external_url": "https://i.redd.it/1560yggbnhr81.png",
-            "title": "A minimalistic and stylish (I hope ;) ) focus timer I've made is now available on all Macs, not only M1s. Free to try. No ads. No subscriptions.",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/1560yggbnhr81.png'>i.redd.it</a> | <a href='https://reddit.com/r/macapps/comments/tvymdf/a_minimalistic_and_stylish_i_hope_focus_timer_ive/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/tvymdf/a_minimalistic_and_stylish_i_hope_focus_timer_ive/'>Apollo</a></caption>",
-            "date_published": "2022-04-04T10:22:24+00:00",
-            "authors": [
-                {
-                    "name": "LaunchedBulb",
-                    "url": "https://www.reddit.com/user/LaunchedBulb"
                 }
             ]
         }
