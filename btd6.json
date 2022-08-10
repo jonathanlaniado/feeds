@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3k11a/styles/communityIcon_chsu9k1ino361.png",
     "items": [
         {
+            "id": "wlbwm2",
+            "url": "/r/btd6/comments/wlbwm2/bloons_td_6_update_notes_version_321/",
+            "external_url": "https://www.reddit.com/r/btd6/comments/wlbwm2/bloons_td_6_update_notes_version_321/",
+            "title": "Bloons TD 6 - Update Notes! Version 32.1",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/btd6/comments/wlbwm2/bloons_td_6_update_notes_version_321/'>Reddit</a> | <a href='apollo://reddit.com/r/btd6/comments/wlbwm2/bloons_td_6_update_notes_version_321/'>Apollo</a></caption> <div><p>https://preview.redd.it/wwjpkrydyyg91.png?width=350&amp;format=png&amp;auto=webp&amp;s=b48720413b9969a8dbc652694e6018e8a0f5ea59</p>\n<h1>Update: Bloons TD 6 v32.1... GO - Update Notes!</h1>\n<h1>Fixes</h1>\n<ul>\n<li>Resolved a number of issues with Contested Territory  ticket assignment and generation</li>\n<li>Resolved an issue where Teams Roster page was not showing player point earnings</li>\n<li>Resolved an issue where the Master Builder\u2019s Sentry ability would not snap placement to your next tap on mobile</li>\n<li>Resolved an error when attempting to re-capture a tile with no surrounding tiles in CT</li>\n<li>Updated UI around member removal / promotions on team pages</li>\n<li>Resolved a rare crash on rejecting a team invite</li>\n<li>Resolved UI alignment issues on certain screen resolutions around CT</li>\n<li>A number of optimizations &amp; fixes made to team messages </li>\n<li>Prevented some team browser errors from popping up multiple times in a row</li>\n<li>Resolved an issue where Ice towers buffed by the Camo Flogged Relic would not freeze camo bloons</li>\n<li>My Teams button should now read \"Teams\" if not in a team</li>\n<li>Engineer's 032 Cleansing Foam slow no longer stacks on a single target</li>\n<li>Resolved an issue where CT Teammate's score was not loaded correctly when restarting/checkpoint loading a point before their score was set</li>\n<li>\"Tile Degraded\" should no longer show when a teammate sets a better score on a tile in CT</li>\n<li>x5x Ultraboost ability limited to 3 uses per round</li>\n<li>150 Absolute Zero ability no longer applies an excessively strong permafrost effect</li>\n<li>Resolved an issue where \"Team mate set better score\" would show in the background behind victory screen in CT</li>\n<li>Resolved an issue with Boss checkpoint costs being pulled down causing T5 boss checkpoint to be free</li>\n<li>Resolved art issues with the x3x Druid vine attack</li>\n<li>Resolved an issue with selecting more than 4 relics in CT</li>\n<li>Resolved a number of incorrect damage type issues</li>\n<li>Resolved an issue preventing Quick Join teams from working correctly</li>\n<li>Resolved a game crash that could occur when exiting from CT</li>\n<li>Fixed a number of locs issues</li>\n<li>Resolved an issue where full teams would still display at the top of the team browser list</li>\n<li>Closed Teams are now called \u201cinvite only teams\u201d</li>\n<li>Resolved some pixel line errors that could occur on team emblems on certain resolutions</li>\n<li>Resolved a number of leaderboard load issues</li>\n<li>Resolved a number of issues with Team Browser filter search results</li>\n<li>Resolved a number of edge cases crashes related to UI / HUD updates</li>\n<li>Resolved a number of \u2018missing background\u2019 scenarios</li>\n</ul></div>",
+            "date_published": "2022-08-10T23:17:13+00:00",
+            "authors": [
+                {
+                    "name": "NoSneezePlz",
+                    "url": "https://www.reddit.com/user/NoSneezePlz"
+                }
+            ]
+        },
+        {
             "id": "wfnm5s",
             "url": "/r/btd6/comments/wfnm5s/bloons_td_6_update_notes_version_320/",
             "external_url": "https://www.reddit.com/r/btd6/comments/wfnm5s/bloons_td_6_update_notes_version_320/",
