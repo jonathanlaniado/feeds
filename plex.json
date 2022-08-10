@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "wkzn8i",
+            "url": "/r/PleX/comments/wkzn8i/my_friends_kept_watching_movies_in_low_quality/",
+            "external_url": "https://i.imgur.com/3uz7viB.jpg",
+            "title": "My friends kept watching movies in low quality for no reason, which kept making my small CPU hurt, which kept making me annoyed... So, I decided to code a \"Transcoding Police\" Telegram bot which exposes criminals as soon as it detects someone is watching with transcoding. Problem solved! (:",
+            "content_html": "<caption>Open in: <a href='https://i.imgur.com/3uz7viB.jpg'>i.imgur.com</a> | <a href='https://reddit.com/r/PleX/comments/wkzn8i/my_friends_kept_watching_movies_in_low_quality/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/wkzn8i/my_friends_kept_watching_movies_in_low_quality/'>Apollo</a></caption>",
+            "date_published": "2022-08-10T15:00:17+00:00",
+            "authors": [
+                {
+                    "name": "Laiteuxxx",
+                    "url": "https://www.reddit.com/user/Laiteuxxx"
+                }
+            ]
+        },
+        {
             "id": "wjmd40",
             "url": "/r/PleX/comments/wjmd40/i_never_noticed_the_plexamp_speed_limits/",
             "external_url": "https://i.redd.it/moy7tw97hkg91.jpg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Stone_Monarch",
                     "url": "https://www.reddit.com/user/Stone_Monarch"
-                }
-            ]
-        },
-        {
-            "id": "rb7o9g",
-            "url": "/r/PleX/comments/rb7o9g/psa_consider_your_routers_temperature_when/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/rb7o9g/psa_consider_your_routers_temperature_when/",
-            "title": "PSA: Consider your router's temperature when troubleshooting buffering issues over the internet",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/PleX/comments/rb7o9g/psa_consider_your_routers_temperature_when/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/rb7o9g/psa_consider_your_routers_temperature_when/'>Apollo</a></caption> <div><p>I have been battling constant buffering with Plex to my home from an Internet hosted Plex Server I run. After spending considerable money on new plex players (from a Flagship Samsung TV, to breaking down and buying an nVidia Shield Pro), and rebuilding and reconfiguring my Plex server, nothing significantly improved the issue.</p>\n<p>Just the other day, I was trying my hand at this again and while watching the live system monitoring on my router noticed that it would spike to 80-90Mbps during streaming, then drop to 10Mbps for at least a minute, and then spike to 80 again and playback would resume.Something clicked and I put my hand on the router and it was HOT. So I got a CPU fan with a thermostat controller and set it up to blow over the router when the probe (on the bottom of the router) exceeded 32C and turn off when it cooled to 30C. I can now stream even the highest bitrate 4K HDR videos in my collection for hours on end, only occasionally experiencing a short buffering blip!</p>\n<p>&#x200B;</p>\n<p>Edit since there are a few sour patch dorks replying: I have a Unifi USG-3P router, that also runs a VPN tunnel to my colocation network (plex streams outside of the tunnel) so it does have more processing going on than the supported configuration. It also is sitting on top of a hot Cisco fanless L3 switch, so there's more factors than just bad hardware. The moral of the story, is make sure your router has good ventilation where ever it is, and augment it with a fan if necessary.<br />\nIt's not a crappy Netgear router, but it also relies on passive cooling from the ambient air so this can still be useful for other residential routers people likely have.</p></div>",
-            "date_published": "2021-12-07T19:43:43+00:00",
-            "authors": [
-                {
-                    "name": "ACiDGRiM",
-                    "url": "https://www.reddit.com/user/ACiDGRiM"
                 }
             ]
         }
