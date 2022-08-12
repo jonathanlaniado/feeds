@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "wlz3gv",
+            "url": "/r/selfhosted/comments/wlz3gv/back_to_school_self_hosted_edition/",
+            "external_url": "https://noted.lol/back-to-school-self-hosted-edition/",
+            "title": "Back to School - Self Hosted Edition",
+            "content_html": "<caption>Open in: <a href='https://noted.lol/back-to-school-self-hosted-edition/'>noted.lol</a> | <a href='https://reddit.com/r/selfhosted/comments/wlz3gv/back_to_school_self_hosted_edition/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/wlz3gv/back_to_school_self_hosted_edition/'>Apollo</a></caption>",
+            "date_published": "2022-08-11T18:52:57+00:00",
+            "authors": [
+                {
+                    "name": "nashosted",
+                    "url": "https://www.reddit.com/user/nashosted"
+                }
+            ]
+        },
+        {
             "id": "wl2br4",
             "url": "/r/selfhosted/comments/wl2br4/7_months_of_selfhosting_with_my_raspberrypi_more/",
             "external_url": "https://i.redd.it/47eryezt0xg91.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "TobiasS_098613",
                     "url": "https://www.reddit.com/user/TobiasS_098613"
-                }
-            ]
-        },
-        {
-            "id": "rr9k8b",
-            "url": "/r/selfhosted/comments/rr9k8b/selfhoster_quick_bits_how_linux_permissions_work/",
-            "external_url": "https://wise.wtf/posts/beginner-bits-linux-permissions/",
-            "title": "Selfhoster quick bits: how Linux permissions work. Or... how to not use 777 for everything!",
-            "content_html": "<caption>Open in: <a href='https://wise.wtf/posts/beginner-bits-linux-permissions/'>wise.wtf</a> | <a href='https://reddit.com/r/selfhosted/comments/rr9k8b/selfhoster_quick_bits_how_linux_permissions_work/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/rr9k8b/selfhoster_quick_bits_how_linux_permissions_work/'>Apollo</a></caption>",
-            "date_published": "2021-12-29T14:36:37+00:00",
-            "authors": [
-                {
-                    "name": "WiseComics",
-                    "url": "https://www.reddit.com/user/WiseComics"
                 }
             ]
         }
