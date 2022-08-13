@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "wnbi5t",
+            "url": "/r/apple/comments/wnbi5t/the_zoom_installer_let_a_researcher_hack_his_way/",
+            "external_url": "https://www.theverge.com/2022/8/12/23303411/zoom-defcon-root-access-privilege-escalation-hack-patrick-wardle",
+            "title": "The Zoom installer let a researcher hack his way to root access on macOS",
+            "content_html": "<caption>Open in: <a href='https://www.theverge.com/2022/8/12/23303411/zoom-defcon-root-access-privilege-escalation-hack-patrick-wardle'>www.theverge.com</a> | <a href='https://reddit.com/r/apple/comments/wnbi5t/the_zoom_installer_let_a_researcher_hack_his_way/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/wnbi5t/the_zoom_installer_let_a_researcher_hack_his_way/'>Apollo</a></caption>",
+            "date_published": "2022-08-13T10:39:59+00:00",
+            "authors": [
+                {
+                    "name": "bartturner",
+                    "url": "https://www.reddit.com/user/bartturner"
+                }
+            ]
+        },
+        {
             "id": "wltm35",
             "url": "/r/apple/comments/wltm35/telegram_ceo_claims_apple_is_delaying_update_that/",
             "external_url": "https://appleinsider.com/articles/22/08/11/telegram-ceo-claims-apple-is-delaying-update-that-will-revolutionize-messaging",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ste0845cufc",
                     "url": "https://www.reddit.com/user/ste0845cufc"
-                }
-            ]
-        },
-        {
-            "id": "umm6g5",
-            "url": "/r/apple/comments/umm6g5/the_music_lives_on/",
-            "external_url": "https://www.apple.com/newsroom/2022/05/the-music-lives-on/",
-            "title": "The music lives on",
-            "content_html": "<caption>Open in: <a href='https://www.apple.com/newsroom/2022/05/the-music-lives-on/'>www.apple.com</a> | <a href='https://reddit.com/r/apple/comments/umm6g5/the_music_lives_on/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/umm6g5/the_music_lives_on/'>Apollo</a></caption>",
-            "date_published": "2022-05-10T16:06:32+00:00",
-            "authors": [
-                {
-                    "name": "bryanboateng",
-                    "url": "https://www.reddit.com/user/bryanboateng"
                 }
             ]
         }
