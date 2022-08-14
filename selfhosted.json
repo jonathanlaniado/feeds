@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "wnozz1",
+            "url": "/r/selfhosted/comments/wnozz1/immich_is_fucking_awesome_and_everyone_needs_to/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/wnozz1/immich_is_fucking_awesome_and_everyone_needs_to/",
+            "title": "Immich is fucking awesome and everyone needs to know it.",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/wnozz1/immich_is_fucking_awesome_and_everyone_needs_to/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/wnozz1/immich_is_fucking_awesome_and_everyone_needs_to/'>Apollo</a></caption> <div><p>Do you want a Google Photos alternative? Well... too bad, but my dude, I just threw 400 images with 7 6gb video files at this thing and it didn't flinch...and it is all from the app store to the play store to docker... with the small exception of docker, 99.999% FOSS.</p>\n<p>No setting up a webdav, no random paid app bullshit. All free, all fast, clean and reliable. Yes, we see you in the back in the Apple shirt, even on iPhone.</p>\n<p>The UI is simple, clean, fast, straightforward but has the data you need.</p>\n<p>But the play store says 100 downloads. For this app to have only 100+ downloads is a crime. Photoprism might be closer to a full featured gallery but this is a reliable, utilitarian backup app for photos. The Syncthing of photos, if I may be so bold.</p>\n<p>So yeah, name-dropping Immich. It's great. 10/10.</p></div>",
+            "date_published": "2022-08-13T21:22:37+00:00",
+            "authors": [
+                {
+                    "name": "FartsMusically",
+                    "url": "https://www.reddit.com/user/FartsMusically"
+                }
+            ]
+        },
+        {
             "id": "wlz3gv",
             "url": "/r/selfhosted/comments/wlz3gv/back_to_school_self_hosted_edition/",
             "external_url": "https://noted.lol/back-to-school-self-hosted-edition/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Upset_Raccoon4942",
                     "url": "https://www.reddit.com/user/Upset_Raccoon4942"
-                }
-            ]
-        },
-        {
-            "id": "rrz3nr",
-            "url": "/r/selfhosted/comments/rrz3nr/a_lesson_i_learnt_today_about_disk_space_and/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/rrz3nr/a_lesson_i_learnt_today_about_disk_space_and/",
-            "title": "A lesson I learnt today about disk space and important applications",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/rrz3nr/a_lesson_i_learnt_today_about_disk_space_and/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/rrz3nr/a_lesson_i_learnt_today_about_disk_space_and/'>Apollo</a></caption> <div><p>Make sure you have enough disk space for all your services, and in particular your most important like Vaultwarden.</p>\n<p>My docker node storage filled up to 100% over night, in the morning I tried to login to the Bitwarden extention and i got the message <code>Username or password incorrect</code> so I tried again, and again. Nothing, so I launched the Bitwarden desktop app. Once started I got logged out with a message along the lines of <code>your password has been changed.</code> I absolutely shit my pants. I powered on my laptop, disabled network connection and logged in to the cached vault, exported all my credentials to json and enabled network. <strong>Boom</strong>, i was instantly logged out of the desktop app.</p>\n<p>I then proceeded to grab my ssh creds from the exported  vault and login to the server, just to be greeted with <code>/dev/sda1 99%</code>, that is when I unsterstood\ud83d\udca1. I logged in to the container and checked out the logging; <code>logging error: No space left on device (os error 28)Error performing logging.</code>.</p>\n<p>TL:DR don't run out of diskspace like me</p></div>",
-            "date_published": "2021-12-30T10:54:32+00:00",
-            "authors": [
-                {
-                    "name": "TobiasS_098613",
-                    "url": "https://www.reddit.com/user/TobiasS_098613"
                 }
             ]
         }
