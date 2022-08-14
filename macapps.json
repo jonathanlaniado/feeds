@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "wnvm4h",
+            "url": "/r/macapps/comments/wnvm4h/i_launched_my_first_mac_app/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/wnvm4h/i_launched_my_first_mac_app/",
+            "title": "I launched my first Mac app!",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/wnvm4h/i_launched_my_first_mac_app/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/wnvm4h/i_launched_my_first_mac_app/'>Apollo</a></caption> <div><p>Hey, r/macapps \ud83d\udc4b</p>\n<p>&#x200B;</p>\n<p>I built a window management software for Mac, You know, Window management on Mac is messy, I know there are some software that try to solve this problem, But none of them satisfied me, so I tried to develop Wins App in the Apple way, The following are features of Wins\ud83d\udc47\ud83c\udffb</p>\n<ol>\n<li>Great Animations</li>\n</ol>\n<p>Animations is the soul of a software</p>\n<ol>\n<li>Quick Split Window</li>\n</ol>\n<p>Drag the window to the edge of the screen to split a window</p>\n<ol>\n<li>Floating Split Window</li>\n</ol>\n<p>Drag to see the floating split window and drag on to quick split</p>\n<ol>\n<li>Dark Mode</li>\n</ol>\n<p>Perfect look in both Dark and Light modes</p>\n<ol>\n<li>System Level Integration</li>\n</ol>\n<p>No need for a separate window, dock or menu bar. Wins is integrated directly into System Preferences, providing a pure user experience</p>\n<ol>\n<li>High Efficiency</li>\n</ol>\n<p>Memory usage is less than 30MB, CPU usage is less than 10% and in most cases it about 0.1%</p>\n<ol>\n<li>Native M1 and Intel</li>\n</ol>\n<p>It runs perfectly on Apple silicon and Intel chips</p>\n<p>&#x200B;</p>\n<p><strong>Comparing similar software</strong></p>\n<p>||Wins|Rectangle|Magnet|\n|:-|:-|:-|:-|\n|<strong>Animation</strong>|<strong>Better</strong>|-|-|\n|<strong>Floating Split Window</strong>|<strong>Yes</strong>|No|No|\n|<strong>System Level Integration</strong>|<strong>Yes</strong>|No(A separate window or menu bar)|No(A separate window or menu bar)|\n|<strong>High Efficiency</strong>|<strong>Better</strong>|-|-|</p>\n<p>I am so excited to share my first App with the Reddit Community and offer a 25% discount specifically for Reddit.</p>\n<p>off coupon:  <strong>reddit2022</strong></p>\n<p>You can see more at <a href=\"https://wins.cool/\">https://wins.cool</a> (full intro video)</p>\n<p>&#x200B;</p>\n<p><a href=\"https://reddit.com/link/wnvm4h/video/bykalg9welh91/player\">Introducing Wins</a></p></div>",
+            "date_published": "2022-08-14T02:49:28+00:00",
+            "authors": [
+                {
+                    "name": "Eggsblue",
+                    "url": "https://www.reddit.com/user/Eggsblue"
+                }
+            ]
+        },
+        {
             "id": "wksmi3",
             "url": "/r/macapps/comments/wksmi3/where_do_you_store_good_to_have_links_and_stuff/",
             "external_url": "https://www.reddit.com/r/macapps/comments/wksmi3/where_do_you_store_good_to_have_links_and_stuff/",
@@ -1386,20 +1400,6 @@
             "title": "Which app you found lately that you can\u2019t live without it since?",
             "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/tzyr48/which_app_you_found_lately_that_you_cant_live/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/tzyr48/which_app_you_found_lately_that_you_cant_live/'>Apollo</a></caption> <div><p>for me it is <a href=\"https://www.lightpillar.com/mosaic.html\">Mosaic</a></p></div>",
             "date_published": "2022-04-09T18:06:14+00:00",
-            "authors": [
-                {
-                    "name": "MJFox1978",
-                    "url": "https://www.reddit.com/user/MJFox1978"
-                }
-            ]
-        },
-        {
-            "id": "ty9610",
-            "url": "/r/macapps/comments/ty9610/a_new_nice_little_app_folder_peek_put_folders_in/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/ty9610/a_new_nice_little_app_folder_peek_put_folders_in/",
-            "title": "A new nice little app: Folder Peek - put folders in menu bar",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/ty9610/a_new_nice_little_app_folder_peek_put_folders_in/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/ty9610/a_new_nice_little_app_folder_peek_put_folders_in/'>Apollo</a></caption> <div><p>Hi!</p>\n<p>I just stumbled upon a new free little app you guys may like: <a href=\"https://apps.apple.com/de/app/folder-peek/id1615988943?mt=12\">Folder Peek</a></p>\n<p>It allows you to put folders in your menu bar for quick access.</p></div>",
-            "date_published": "2022-04-07T09:25:02+00:00",
             "authors": [
                 {
                     "name": "MJFox1978",
