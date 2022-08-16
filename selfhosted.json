@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "wp0uy5",
+            "url": "/r/selfhosted/comments/wp0uy5/tailscale_changes_its_android_app_to_support_the/",
+            "external_url": "https://github.com/tailscale/tailscale-android/pull/45",
+            "title": "Tailscale changes its Android app to support the open source Headscale server",
+            "content_html": "<caption>Open in: <a href='https://github.com/tailscale/tailscale-android/pull/45'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/wp0uy5/tailscale_changes_its_android_app_to_support_the/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/wp0uy5/tailscale_changes_its_android_app_to_support_the/'>Apollo</a></caption>",
+            "date_published": "2022-08-15T14:18:44+00:00",
+            "authors": [
+                {
+                    "name": "jmtamere",
+                    "url": "https://www.reddit.com/user/jmtamere"
+                }
+            ]
+        },
+        {
             "id": "wnozz1",
             "url": "/r/selfhosted/comments/wnozz1/immich_is_fucking_awesome_and_everyone_needs_to/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/wnozz1/immich_is_fucking_awesome_and_everyone_needs_to/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Bystander1256",
                     "url": "https://www.reddit.com/user/Bystander1256"
-                }
-            ]
-        },
-        {
-            "id": "rsupgo",
-            "url": "/r/selfhosted/comments/rsupgo/this_is_not_the_right_way_to_cool_your_raspberry/",
-            "external_url": "https://i.redd.it/0j1k0vv9yv881.jpg",
-            "title": "This is not the right way to cool your Raspberry Pi but it works.",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/0j1k0vv9yv881.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/rsupgo/this_is_not_the_right_way_to_cool_your_raspberry/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/rsupgo/this_is_not_the_right_way_to_cool_your_raspberry/'>Apollo</a></caption>",
-            "date_published": "2021-12-31T14:10:40+00:00",
-            "authors": [
-                {
-                    "name": "Upset_Raccoon4942",
-                    "url": "https://www.reddit.com/user/Upset_Raccoon4942"
                 }
             ]
         }
