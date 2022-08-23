@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "wv9rk2",
+            "url": "/r/macapps/comments/wv9rk2/app_cleaner_the_proper_way_to_delete_apps_on_mac/",
+            "external_url": "https://youtu.be/bhb2XQ1TY7c",
+            "title": "App Cleaner - The Proper Way to Delete Apps on Mac",
+            "content_html": "<caption>Open in: <a href='https://youtu.be/bhb2XQ1TY7c'>youtu.be</a> | <a href='https://reddit.com/r/macapps/comments/wv9rk2/app_cleaner_the_proper_way_to_delete_apps_on_mac/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/wv9rk2/app_cleaner_the_proper_way_to_delete_apps_on_mac/'>Apollo</a></caption>",
+            "date_published": "2022-08-23T00:16:46+00:00",
+            "authors": [
+                {
+                    "name": "desktopJM",
+                    "url": "https://www.reddit.com/user/desktopJM"
+                }
+            ]
+        },
+        {
             "id": "wrk13w",
             "url": "/r/macapps/comments/wrk13w/pixelmator_photo_switching_to_a_subscription/",
             "external_url": "https://www.pixelmator.com/blog/2022/08/18/why-pixelmator-photo-is-switching-to-subscription-pricing-and-a-sneak-peek-at-pixelmator-photo-for-mac/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "EpiphanicSyncronica",
                     "url": "https://www.reddit.com/user/EpiphanicSyncronica"
-                }
-            ]
-        },
-        {
-            "id": "u3shz5",
-            "url": "/r/macapps/comments/u3shz5/free_i_made_a_small_wrapper_for_the_ocrmypdf/",
-            "external_url": "https://github.com/ezgranet/macocr/",
-            "title": "(Free) I made a small wrapper for the OCRmyPDF command utility, which can OCR PDFs (and nothing else)!",
-            "content_html": "<caption>Open in: <a href='https://github.com/ezgranet/macocr/'>github.com</a> | <a href='https://reddit.com/r/macapps/comments/u3shz5/free_i_made_a_small_wrapper_for_the_ocrmypdf/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/u3shz5/free_i_made_a_small_wrapper_for_the_ocrmypdf/'>Apollo</a></caption>",
-            "date_published": "2022-04-14T21:57:28+00:00",
-            "authors": [
-                {
-                    "name": "ezgranet",
-                    "url": "https://www.reddit.com/user/ezgranet"
                 }
             ]
         }
