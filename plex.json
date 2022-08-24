@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "wwb8uy",
+            "url": "/r/PleX/comments/wwb8uy/plex_breached_were_passwords_encrypted_or_hashed/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/wwb8uy/plex_breached_were_passwords_encrypted_or_hashed/",
+            "title": "Plex breached; Were passwords encrypted or hashed?",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/PleX/comments/wwb8uy/plex_breached_were_passwords_encrypted_or_hashed/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/wwb8uy/plex_breached_were_passwords_encrypted_or_hashed/'>Apollo</a></caption> <div><p>So I got this email just now:</p>\n<blockquote>\n<p>Yesterday, we discovered suspicious activity on one of our databases. We immediately began an investigation and it does appear that a third-party was able to access a limited subset of data that includes emails, usernames, and encrypted passwords. Even though all account passwords that could have been accessed were hashed and secured in accordance with best practices, out of an abundance of caution we are requiring all Plex accounts to have their password reset.</p>\n</blockquote>\n<p>So were these passwords encrypted, in which case they could be decrypted if the adversary got the key, or hashed? Hashed passwords leaking would be much less of an issue.</p>\n<p>Edit: Encryption and hashing is <strong>not</strong> the same thing.</p>\n<p>Edit2: Passwords were hashed with salt, not encrypted (<a href=\"https://www.reddit.com/r/PleX/comments/wwb8uy/plex_breached_were_passwords_encrypted_or_hashed/ilkbawb/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf&amp;context=3\">see this comment</a>)</p>\n<p>Edit3: Just for clarity this is the best case scenario. It\u2019s difficult to reverse hashed passwords unless they are very simple. Plex got the word out quickly so we have plenty of time to change our passwords. Kudos!</p>\n<p>This is why you never reuse password, use a password manager and enable 2fa wherever you can. :)</p></div>",
+            "date_published": "2022-08-24T05:45:47+00:00",
+            "authors": [
+                {
+                    "name": "kjarkr",
+                    "url": "https://www.reddit.com/user/kjarkr"
+                }
+            ]
+        },
+        {
             "id": "wsjptc",
             "url": "/r/PleX/comments/wsjptc/plex_finally_adds_support_to_multiple_editions/",
             "external_url": "https://i.imgur.com/8MXQhwY.jpg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "goodorca",
                     "url": "https://www.reddit.com/user/goodorca"
-                }
-            ]
-        },
-        {
-            "id": "rc9wyk",
-            "url": "/r/PleX/comments/rc9wyk/i_added_my_favorite_file_on_my_entire_plex_server/",
-            "external_url": "https://i.redd.it/mpu73l965g481.png",
-            "title": "I added my favorite file on my entire plex server today",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/mpu73l965g481.png'>i.redd.it</a> | <a href='https://reddit.com/r/PleX/comments/rc9wyk/i_added_my_favorite_file_on_my_entire_plex_server/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/rc9wyk/i_added_my_favorite_file_on_my_entire_plex_server/'>Apollo</a></caption>",
-            "date_published": "2021-12-09T04:44:32+00:00",
-            "authors": [
-                {
-                    "name": "ExecutiveCactus",
-                    "url": "https://www.reddit.com/user/ExecutiveCactus"
                 }
             ]
         }
