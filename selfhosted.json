@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "wwdu6o",
+            "url": "/r/selfhosted/comments/wwdu6o/plex_with_a_potential_data_breach_notice/",
+            "external_url": "https://news.ycombinator.com/item?id=32575350",
+            "title": "Plex with a potential data breach notice",
+            "content_html": "<caption>Open in: <a href='https://news.ycombinator.com/item?id=32575350'>news.ycombinator.com</a> | <a href='https://reddit.com/r/selfhosted/comments/wwdu6o/plex_with_a_potential_data_breach_notice/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/wwdu6o/plex_with_a_potential_data_breach_notice/'>Apollo</a></caption>",
+            "date_published": "2022-08-24T08:23:08+00:00",
+            "authors": [
+                {
+                    "name": "dugite-code",
+                    "url": "https://www.reddit.com/user/dugite-code"
+                }
+            ]
+        },
+        {
             "id": "wuz68s",
             "url": "/r/selfhosted/comments/wuz68s/headway_selfhostable_maps_stack_powered_by/",
             "external_url": "https://github.com/headwaymaps/headway",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "LordErasmus",
                     "url": "https://www.reddit.com/user/LordErasmus"
-                }
-            ]
-        },
-        {
-            "id": "s0bf1d",
-            "url": "/r/selfhosted/comments/s0bf1d/m2_sata_expansion_anyone_use_something_like_this/",
-            "external_url": "https://i.imgur.com/OnOrGxn.jpg",
-            "title": "M.2 SATA Expansion, Anyone use something like this?",
-            "content_html": "<caption>Open in: <a href='https://i.imgur.com/OnOrGxn.jpg'>i.imgur.com</a> | <a href='https://reddit.com/r/selfhosted/comments/s0bf1d/m2_sata_expansion_anyone_use_something_like_this/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/s0bf1d/m2_sata_expansion_anyone_use_something_like_this/'>Apollo</a></caption>",
-            "date_published": "2022-01-10T04:48:23+00:00",
-            "authors": [
-                {
-                    "name": "AuthorYess",
-                    "url": "https://www.reddit.com/user/AuthorYess"
                 }
             ]
         }
