@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "x2i1mu",
+            "url": "/r/selfhosted/comments/x2i1mu/been_trying_out_some_animated_pixel_art/",
+            "external_url": "https://v.redd.it/7ip2yacrr2l91",
+            "title": "Been trying out some animated Pixel Art backgrounds. This is my favorite so far. Artist: Bryan Heemskerk",
+            "content_html": "<caption>Open in: <a href='https://v.redd.it/7ip2yacrr2l91'>v.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/x2i1mu/been_trying_out_some_animated_pixel_art/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/x2i1mu/been_trying_out_some_animated_pixel_art/'>Apollo</a></caption>",
+            "date_published": "2022-08-31T16:32:13+00:00",
+            "authors": [
+                {
+                    "name": "DancesWithGerbils",
+                    "url": "https://www.reddit.com/user/DancesWithGerbils"
+                }
+            ]
+        },
+        {
             "id": "x1dymw",
             "url": "/r/selfhosted/comments/x1dymw/my_new_tv_custom_plate_inspired_by_a_fellow/",
             "external_url": "https://i.imgur.com/mrN67TE.jpg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MzCWzL",
                     "url": "https://www.reddit.com/user/MzCWzL"
-                }
-            ]
-        },
-        {
-            "id": "s27r0f",
-            "url": "/r/selfhosted/comments/s27r0f/for_anyone_starting_to_selfhost_be_careful_about/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/s27r0f/for_anyone_starting_to_selfhost_be_careful_about/",
-            "title": "For anyone starting to self-host, be careful about completely idotic documentation from vendors.",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/s27r0f/for_anyone_starting_to_selfhost_be_careful_about/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/s27r0f/for_anyone_starting_to_selfhost_be_careful_about/'>Apollo</a></caption> <div><p>When you are hosting your own content, you are responsible for it's integrity and availability. You most likely do not live alone in your home and must be careful about documentation provided by IOT or appliance vendors.</p>\n<p>This is an example of official nintendo documentation to port forward towards your nintendo device.</p>\n<p>https://en-americas-support.nintendo.com/app/answers/detail/a_id/22272/~/how-to-set-up-a-routers-port-forwarding-for-a-nintendo-switch-console</p>\n<p>\"Within the port range, enter the starting port and the ending port to forward. For the Nintendo Switch console, this is port\u00a01 through 65535.\"</p>\n<p>\"Enter the IP address you found on the network device, but add 20 to the last section of digits, and then select\u00a0OK.</p>\n<p>As an example, if your computer's IP address display as 192.168.2.5, enter 192.168.2.25\u00a0on the Nintendo Switch.\"</p>\n<p>Always wait and ask yourself.  \"Does this make sense?\" Before following online documentation. This example is pretty outrageous but quite often you can encounter very shady \"quick fix\" online.</p></div>",
-            "date_published": "2022-01-12T14:36:59+00:00",
-            "authors": [
-                {
-                    "name": "Aminder45",
-                    "url": "https://www.reddit.com/user/Aminder45"
                 }
             ]
         }
