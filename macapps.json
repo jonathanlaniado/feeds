@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "x472nm",
+            "url": "/r/macapps/comments/x472nm/orbital_easily_launch_and_switch_between_your_mac/",
+            "external_url": "https://getorbitl.app",
+            "title": "Orbital - Easily launch and switch between your Mac apps with an orbiting dock",
+            "content_html": "<caption>Open in: <a href='https://getorbitl.app'>getorbitl.app</a> | <a href='https://reddit.com/r/macapps/comments/x472nm/orbital_easily_launch_and_switch_between_your_mac/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/x472nm/orbital_easily_launch_and_switch_between_your_mac/'>Apollo</a></caption>",
+            "date_published": "2022-09-02T17:16:15+00:00",
+            "authors": [
+                {
+                    "name": "woofos",
+                    "url": "https://www.reddit.com/user/woofos"
+                }
+            ]
+        },
+        {
             "id": "x1lwef",
             "url": "/r/macapps/comments/x1lwef/sioyek_15_pdf_viewer_for_reading_research_papers/",
             "external_url": "https://github.com/ahrm/sioyek/releases/tag/v1.5.0",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "CatTech_hk",
                     "url": "https://www.reddit.com/user/CatTech_hk"
-                }
-            ]
-        },
-        {
-            "id": "u75ja4",
-            "url": "/r/macapps/comments/u75ja4/alfred_user_intrigued_by_raycast_need_advice/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/u75ja4/alfred_user_intrigued_by_raycast_need_advice/",
-            "title": "Alfred user, intrigued by Raycast. Need advice",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/u75ja4/alfred_user_intrigued_by_raycast_need_advice/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/u75ja4/alfred_user_intrigued_by_raycast_need_advice/'>Apollo</a></caption> <div><p>Recently read on here that Raycast isn't considered as safe due to it's plugins not being \"sandboxed\". As someone who knows little to no code- I can't review the plugins myself. How big of an issue is this when using Raycast?</p></div>",
-            "date_published": "2022-04-19T13:45:35+00:00",
-            "authors": [
-                {
-                    "name": "ashleyalyssa",
-                    "url": "https://www.reddit.com/user/ashleyalyssa"
                 }
             ]
         }
