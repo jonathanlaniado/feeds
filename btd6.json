@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3k11a/styles/communityIcon_chsu9k1ino361.png",
     "items": [
         {
+            "id": "x65qwe",
+            "url": "/r/btd6/comments/x65qwe/bloons_td_6_update_notes_version_323/",
+            "external_url": "https://www.reddit.com/r/btd6/comments/x65qwe/bloons_td_6_update_notes_version_323/",
+            "title": "Bloons TD 6 - Update Notes! Version 32.3",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/btd6/comments/x65qwe/bloons_td_6_update_notes_version_323/'>Reddit</a> | <a href='apollo://reddit.com/r/btd6/comments/x65qwe/bloons_td_6_update_notes_version_323/'>Apollo</a></caption> <div><p>https://preview.redd.it/7zufbczllyl91.png?width=350&amp;format=png&amp;auto=webp&amp;s=65e95ff856d5383634da1b3e543fbbcec8daeea5</p>\n<h1>Update: Bloons TD 6 v32.3 - Update Notes!</h1>\n<p>Additional links to most recent update notes - <a href=\"https://www.reddit.com/r/btd6/comments/wvfy1y/bloons_td_6_update_notes_version_322/\">Update 32.2</a> - <a href=\"https://www.reddit.com/r/btd6/comments/wlbwm2/bloons_td_6_update_notes_version_321/\">Update 32.1</a> - <a href=\"https://www.reddit.com/r/btd6/comments/wfnm5s/bloons_td_6_update_notes_version_320/\">Update 32.0</a></p>\n<h1>Changes</h1>\n<ul>\n<li>Resolved an issue with the El Dorado relic not applying correctly</li>\n<li>Resolved an issue in CT where players could be sent back 2 checkpoints instead of 1 if they tried to return home after continuing</li>\n<li>Resolved a game crash that could occur when attempting to join an existing team via Quick Join</li>\n<li>Resolved an issue with 502 Bomb Shooter not correctly recieving bonus frag ceramic damage</li>\n<li>Resolved an issue where 205 boomerang crosspath reduced the pierce of the xx5 explosion</li>\n<li>Resolved an issue with CT Banner Tile income showing incorrectly</li>\n<li>Added individual Player Ecos to CT Team Roster</li>\n<li>Resolved an issue with friends button sometimes being clickable when they should not be</li>\n<li>Teams that you are not allowed to join currently will now correctly have their join buttons grayed out</li>\n<li>Searching for a team code should now show the team if it exists regardless of filters</li>\n<li>Resolved some minor errors with Team Messages</li>\n<li>Resolved an iOS crash with too much information when viewing global CT leaderboard</li>\n<li>Resolved some CT map lockup button issues</li>\n<li>Resolved Nexus Creator codes being case-sensitive when they shouldn't be</li>\n<li>Added Teams screen \"invite member\" option to insert player friend codes for invites</li>\n<li>Resolved some locs issues with Team Tickets</li>\n<li>Resolved some minor UI issues with messenger popups related to Teams menus</li>\n<li>Added more messaging to why some options around teams are not available when you are not in a team</li>\n<li>Resolved rare cases with incorrect team member count displays</li>\n<li>Resolved a Minor display inconsistency in CT</li>\n<li>Resolved an issue where Team buttons always display \"Teams\" rather than \"My Team\" at first when the game is launched</li>\n<li>Team Browser should no longer list the teams of friends that have not accepted your friend request in the Friend\u2019s Team\u2019s search</li>\n<li>Added \u2018Hide Team Code\u2019 option to the Teams menu</li>\n<li>Navigating into a teams UI and out should now resume from correct page/tab </li>\n<li>Resolved some niche case crashes &amp; softlocks</li>\n</ul></div>",
+            "date_published": "2022-09-05T03:29:17+00:00",
+            "authors": [
+                {
+                    "name": "NoSneezePlz",
+                    "url": "https://www.reddit.com/user/NoSneezePlz"
+                }
+            ]
+        },
+        {
             "id": "wvfy1y",
             "url": "/r/btd6/comments/wvfy1y/bloons_td_6_update_notes_version_322/",
             "external_url": "https://www.reddit.com/r/btd6/comments/wvfy1y/bloons_td_6_update_notes_version_322/",
