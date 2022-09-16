@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "xfhpa2",
+            "url": "/r/macapps/comments/xfhpa2/switchcenter_nextgen_osx_windows_control/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/xfhpa2/switchcenter_nextgen_osx_windows_control/",
+            "title": "SwitchCenter - Next-gen OSX Windows Control",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/xfhpa2/switchcenter_nextgen_osx_windows_control/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/xfhpa2/switchcenter_nextgen_osx_windows_control/'>Apollo</a></caption> <div><p>Hello all! </p>\n<p><a href=\"https://switchcenter.app\">SwitchCenter</a> is a macOS native app that aims to enhance the window management experience. It features predictable and efficient window switching, window controls, widgets, and more.</p>\n<p>You can download it for free from <a href=\"https://switchcenter.app\">https://switchcenter.app</a>.</p></div>",
+            "date_published": "2022-09-16T04:39:28+00:00",
+            "authors": [
+                {
+                    "name": "offbeatport",
+                    "url": "https://www.reddit.com/user/offbeatport"
+                }
+            ]
+        },
+        {
             "id": "xdr50g",
             "url": "/r/macapps/comments/xdr50g/every_app_i_use_in_my_productivity_workflow/",
             "external_url": "https://i.redd.it/x3a1utuitqn91.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Lekowski",
                     "url": "https://www.reddit.com/user/Lekowski"
-                }
-            ]
-        },
-        {
-            "id": "u8nz60",
-            "url": "/r/macapps/comments/u8nz60/usage_activity_monitor_for_apple_devices_2022/",
-            "external_url": "https://macsources.com/usage-activity-monitor-for-apple-devices-review/",
-            "title": "Usage Activity Monitor for Apple Devices 2022 REVIEW",
-            "content_html": "<caption>Open in: <a href='https://macsources.com/usage-activity-monitor-for-apple-devices-review/'>macsources.com</a> | <a href='https://reddit.com/r/macapps/comments/u8nz60/usage_activity_monitor_for_apple_devices_2022/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/u8nz60/usage_activity_monitor_for_apple_devices_2022/'>Apollo</a></caption>",
-            "date_published": "2022-04-21T13:43:20+00:00",
-            "authors": [
-                {
-                    "name": "MacSources",
-                    "url": "https://www.reddit.com/user/MacSources"
                 }
             ]
         }
