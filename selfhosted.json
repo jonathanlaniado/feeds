@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "xfxpay",
+            "url": "/r/selfhosted/comments/xfxpay/cloudflare_ditches_nginx_for_inhouse_rustwritten/",
+            "external_url": "https://www.phoronix.com/news/CloudFlare-Pingora-No-Nginx",
+            "title": "Cloudflare Ditches Nginx For In-House, Rust-Written Pingora",
+            "content_html": "<caption>Open in: <a href='https://www.phoronix.com/news/CloudFlare-Pingora-No-Nginx'>www.phoronix.com</a> | <a href='https://reddit.com/r/selfhosted/comments/xfxpay/cloudflare_ditches_nginx_for_inhouse_rustwritten/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/xfxpay/cloudflare_ditches_nginx_for_inhouse_rustwritten/'>Apollo</a></caption>",
+            "date_published": "2022-09-16T17:36:20+00:00",
+            "authors": [
+                {
+                    "name": "Koto137",
+                    "url": "https://www.reddit.com/user/Koto137"
+                }
+            ]
+        },
+        {
             "id": "x7fnzg",
             "url": "/r/selfhosted/comments/x7fnzg/here_is_another_immichs_progress_update_and/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/x7fnzg/here_is_another_immichs_progress_update_and/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "dushyantahuja",
                     "url": "https://www.reddit.com/user/dushyantahuja"
-                }
-            ]
-        },
-        {
-            "id": "s4camg",
-            "url": "/r/selfhosted/comments/s4camg/if_youre_selfhosting_a_service_that_is_exposed_to/",
-            "external_url": "https://arvind.io/posts/using-fail2ban-to-protect-exposed-services/",
-            "title": "If you're self-hosting a service that is exposed to the internet, I wrote a Fail2ban guide to help you protect it",
-            "content_html": "<caption>Open in: <a href='https://arvind.io/posts/using-fail2ban-to-protect-exposed-services/'>arvind.io</a> | <a href='https://reddit.com/r/selfhosted/comments/s4camg/if_youre_selfhosting_a_service_that_is_exposed_to/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/s4camg/if_youre_selfhosting_a_service_that_is_exposed_to/'>Apollo</a></caption>",
-            "date_published": "2022-01-15T04:56:17+00:00",
-            "authors": [
-                {
-                    "name": "TheEnKrypt",
-                    "url": "https://www.reddit.com/user/TheEnKrypt"
                 }
             ]
         }
