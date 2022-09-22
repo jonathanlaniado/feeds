@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "xk4nzk",
+            "url": "/r/selfhosted/comments/xk4nzk/open_source_wireguardbased_mesh_with_sso_login/",
+            "external_url": "https://i.redd.it/p6n694hkp7p91.gif",
+            "title": "Open Source WireGuard-based Mesh with SSO Login",
+            "content_html": "<caption>Open in: <a href='https://i.redd.it/p6n694hkp7p91.gif'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/xk4nzk/open_source_wireguardbased_mesh_with_sso_login/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/xk4nzk/open_source_wireguardbased_mesh_with_sso_login/'>Apollo</a></caption>",
+            "date_published": "2022-09-21T13:16:33+00:00",
+            "authors": [
+                {
+                    "name": "wiretrustee",
+                    "url": "https://www.reddit.com/user/wiretrustee"
+                }
+            ]
+        },
+        {
             "id": "xj9rx7",
             "url": "/r/selfhosted/comments/xj9rx7/introducing_fasten_a_selfhosted_personal/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/xj9rx7/introducing_fasten_a_selfhosted_personal/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Centaurefox",
                     "url": "https://www.reddit.com/user/Centaurefox"
-                }
-            ]
-        },
-        {
-            "id": "s5jylf",
-            "url": "/r/selfhosted/comments/s5jylf/my_open_source_notification_android_app_and/",
-            "external_url": "https://v.redd.it/mltu87nbu3c81",
-            "title": "My open source notification Android app and server is now a UnifiedPush distributor, and can be used to send images and other files to your phone. You can also publish via e-mail, or notify yourself via e-mail. And thanks to open source, it now consumes only about 1% of battery for the entire day.",
-            "content_html": "<caption>Open in: <a href='https://v.redd.it/mltu87nbu3c81'>v.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/s5jylf/my_open_source_notification_android_app_and/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/s5jylf/my_open_source_notification_android_app_and/'>Apollo</a></caption>",
-            "date_published": "2022-01-16T19:54:16+00:00",
-            "authors": [
-                {
-                    "name": "binwiederhier",
-                    "url": "https://www.reddit.com/user/binwiederhier"
                 }
             ]
         }
