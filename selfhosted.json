@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "xlkcbq",
+            "url": "/r/selfhosted/comments/xlkcbq/iranprotests_signal_is_blocked_in_iran_you_can/",
+            "external_url": "https://www.reddit.com/r/technology/comments/xlhe0k/iranprotests_signal_is_blocked_in_iran_you_can/",
+            "title": "#IranProtests: Signal is blocked in Iran. You can help people in Iran reconnect to Signal by hosting a proxy server.",
+            "content_html": "<caption>Open in: <a href='https://www.reddit.com/r/technology/comments/xlhe0k/iranprotests_signal_is_blocked_in_iran_you_can/'>www.reddit.com</a> | <a href='https://reddit.com/r/selfhosted/comments/xlkcbq/iranprotests_signal_is_blocked_in_iran_you_can/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/xlkcbq/iranprotests_signal_is_blocked_in_iran_you_can/'>Apollo</a></caption>",
+            "date_published": "2022-09-23T02:00:42+00:00",
+            "authors": [
+                {
+                    "name": "Znomon",
+                    "url": "https://www.reddit.com/user/Znomon"
+                }
+            ]
+        },
+        {
             "id": "xk4nzk",
             "url": "/r/selfhosted/comments/xk4nzk/open_source_wireguardbased_mesh_with_sso_login/",
             "external_url": "https://i.redd.it/p6n694hkp7p91.gif",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "binaryfor",
                     "url": "https://www.reddit.com/user/binaryfor"
-                }
-            ]
-        },
-        {
-            "id": "s634au",
-            "url": "/r/selfhosted/comments/s634au/complete_guide_with_examples_to_selfhosting_using/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/s634au/complete_guide_with_examples_to_selfhosting_using/",
-            "title": "Complete guide with examples to selfhosting using docker. Traefik v2, Bitwarden, Wireguard+Pihole, Synapse+Elements, Jellyfin, Nextcloud, Backups, etc.",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/s634au/complete_guide_with_examples_to_selfhosting_using/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/s634au/complete_guide_with_examples_to_selfhosting_using/'>Apollo</a></caption> <div><p>I have been selfhosting for quite a while now and have been using docker for the past few years. So far it's been working great, and I thought I would share how I am using docker to easily selfhost my favorites services.</p>\n<p>Quite a few services are explained in this guide :</p>\n<ul>\n<li>Traefik as reverse proxy and SSL manager, it is the core of this infrastructure, arguably the most detailled example</li>\n<li>Bitwarden, Wirehole, Synapse+Element, Nextcloud, Jellyfin,... A multitude of services to selfhost, feel free to choose your favorites</li>\n<li>Backups with a tested custom bash script </li>\n<li>Update with watchtower</li>\n<li>Notifications messages with a selfhosted gotify !</li>\n</ul>\n<p><a href=\"https://github.com/BaptisteBdn/docker-selfhosted-apps\">Link to the Github guide</a></p>\n<p>This guide is filled with examples and almost all services are ready to use, with the most difficult one being Traefik as you have to add your DNS provider configuration.\nA simple <code>git clone</code>, as well as modifying the <code>.env</code> should be enough to get you started on your selfhosting journey.</p>\n<p>The only thing not using docker is the backup strategy as it is uses custom bash scripts, I have been using it for a few months to upload my encrypted backups to AWS, and it has been working great. The backup restoration process has also been tested a few times.</p>\n<p>I tried to include as many references as I could and to include security as well, as it can be easily overlooked when selfhosting.</p>\n<p>This guide can be useful for beginners as well as experienced selfhosters looking to migrate to docker, or if you are just interested in seeing how docker works.</p></div>",
-            "date_published": "2022-01-17T12:38:22+00:00",
-            "authors": [
-                {
-                    "name": "Centaurefox",
-                    "url": "https://www.reddit.com/user/Centaurefox"
                 }
             ]
         }
