@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "xulvpu",
+            "url": "/r/macapps/comments/xulvpu/hyperkey_is_now_free/",
+            "external_url": "https://hyperkey.app",
+            "title": "Hyperkey is now free",
+            "content_html": "<caption>Open in: <a href='https://hyperkey.app'>hyperkey.app</a> | <a href='https://reddit.com/r/macapps/comments/xulvpu/hyperkey_is_now_free/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/xulvpu/hyperkey_is_now_free/'>Apollo</a></caption>",
+            "date_published": "2022-10-03T15:03:17+00:00",
+            "authors": [
+                {
+                    "name": "rxhanson",
+                    "url": "https://www.reddit.com/user/rxhanson"
+                }
+            ]
+        },
+        {
             "id": "xugzm4",
             "url": "/r/macapps/comments/xugzm4/bear_20_private_beta_coming_out_this_week/",
             "external_url": "https://beta.bear.app/t/something-fuzzy-this-way-comes/3072",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "unix15e8",
                     "url": "https://www.reddit.com/user/unix15e8"
-                }
-            ]
-        },
-        {
-            "id": "ujudwi",
-            "url": "/r/macapps/comments/ujudwi/use_your_mac_only_using_keyboard/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/ujudwi/use_your_mac_only_using_keyboard/",
-            "title": "Use your Mac only using Keyboard",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/ujudwi/use_your_mac_only_using_keyboard/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/ujudwi/use_your_mac_only_using_keyboard/'>Apollo</a></caption> <div><ol>\n<li>Vimac (free) - Never use your mouse/trackpad again</li>\n<li>rcmd - Instant app switching</li>\n<li>Context - Slightly slower but more precise App switching compared to rcmd</li>\n</ol>\n<p>Bonus: Vimium, Alfred, Keyboard Maestro, QMK keyboard</p></div>",
-            "date_published": "2022-05-06T18:50:10+00:00",
-            "authors": [
-                {
-                    "name": "kjlsadfjlna",
-                    "url": "https://www.reddit.com/user/kjlsadfjlna"
                 }
             ]
         }
