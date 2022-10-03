@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "xtnclv",
+            "url": "/r/selfhosted/comments/xtnclv/announcing_nextcloud_hub_3_brand_new_design_and/",
+            "external_url": "https://nextcloud.com/blog/announcing-nextcloud-hub-3-brand-new-design-and-photos-2-0-with-editor-and-ai/",
+            "title": "Announcing Nextcloud Hub 3 \u2013 Brand New Design and Photos 2.0 with Editor and AI",
+            "content_html": "<caption>Open in: <a href='https://nextcloud.com/blog/announcing-nextcloud-hub-3-brand-new-design-and-photos-2-0-with-editor-and-ai/'>nextcloud.com</a> | <a href='https://reddit.com/r/selfhosted/comments/xtnclv/announcing_nextcloud_hub_3_brand_new_design_and/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/xtnclv/announcing_nextcloud_hub_3_brand_new_design_and/'>Apollo</a></caption>",
+            "date_published": "2022-10-02T12:16:30+00:00",
+            "authors": [
+                {
+                    "name": "ankitrgadiya",
+                    "url": "https://www.reddit.com/user/ankitrgadiya"
+                }
+            ]
+        },
+        {
             "id": "xs771z",
             "url": "/r/selfhosted/comments/xs771z/kinda_struggling_with_dovecot_but_its_really_not/",
             "external_url": "https://i.redd.it/mrj4c8ei61r91.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "rich_",
                     "url": "https://www.reddit.com/user/rich_"
-                }
-            ]
-        },
-        {
-            "id": "sbkl5z",
-            "url": "/r/selfhosted/comments/sbkl5z/what_are_the_top_3_most_useful_things_that_you/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/sbkl5z/what_are_the_top_3_most_useful_things_that_you/",
-            "title": "What are the top 3 most useful things that you have hosted over the years?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/sbkl5z/what_are_the_top_3_most_useful_things_that_you/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/sbkl5z/what_are_the_top_3_most_useful_things_that_you/'>Apollo</a></caption> <div><p>Inspired by this post from 2 years ago (https://www.reddit.com/r/selfhosted/comments/d2qpw9/what_is_the_top_3_most_useful_thing_youve_self/): what are the most useful things that you have hosted?</p></div>",
-            "date_published": "2022-01-24T11:57:48+00:00",
-            "authors": [
-                {
-                    "name": "Neo-Bubba",
-                    "url": "https://www.reddit.com/user/Neo-Bubba"
                 }
             ]
         }
