@@ -8,6 +8,20 @@
     "favicon": "",
     "items": [
         {
+            "id": "v7t3fx",
+            "url": "/r/Softwarr/comments/v7t3fx/bazarr_downloading_subs_with_ads_in_them/",
+            "external_url": "https://www.reddit.com/r/Softwarr/comments/v7t3fx/bazarr_downloading_subs_with_ads_in_them/",
+            "title": "Bazarr downloading subs with ad's in them",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/Softwarr/comments/v7t3fx/bazarr_downloading_subs_with_ads_in_them/'>Reddit</a> | <a href='apollo://reddit.com/r/Softwarr/comments/v7t3fx/bazarr_downloading_subs_with_ads_in_them/'>Apollo</a></caption> <div><p>Lately (probably the last 3-4 movies with forced subs that I've watched), the subs have all had a popup somewhere during the movie that says something about the Illuminati and then a URL, and it stays up for probably 60-90 seconds or more. Its super annoying. </p>\n<p>Anybody using Bazarr know how I can filter these out? I've just added \"illuminati\" to the \"must not contain\" field in the language profile, so will see if that helps but I doubt it.</p>\n<p>For example The Northman forced subs with a score of 87.5% from OpenSubtitles.org had this.</p></div>",
+            "date_published": "2022-06-08T16:04:56+00:00",
+            "authors": [
+                {
+                    "name": "woodford86",
+                    "url": "https://www.reddit.com/user/woodford86"
+                }
+            ]
+        },
+        {
             "id": "x41pj0",
             "url": "/r/Softwarr/comments/x41pj0/kavita_plex_for_reading_an_update/",
             "external_url": "/r/HomeServer/comments/x41p2u/kavita_plex_for_reading_an_update/",
