@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "xvg0cp",
+            "url": "/r/macapps/comments/xvg0cp/popular_email_client_spark_gets_major_redesign/",
+            "external_url": "https://www.macrumors.com/2022/10/04/spark-email-mac-redesign/",
+            "title": "Popular Email Client Spark Gets Major Redesign For Mac, Moves to Subscription Model",
+            "content_html": "<caption>Open in: <a href='https://www.macrumors.com/2022/10/04/spark-email-mac-redesign/'>www.macrumors.com</a> | <a href='https://reddit.com/r/macapps/comments/xvg0cp/popular_email_client_spark_gets_major_redesign/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/xvg0cp/popular_email_client_spark_gets_major_redesign/'>Apollo</a></caption>",
+            "date_published": "2022-10-04T14:05:37+00:00",
+            "authors": [
+                {
+                    "name": "Acceptable-Stage7888",
+                    "url": "https://www.reddit.com/user/Acceptable-Stage7888"
+                }
+            ]
+        },
+        {
             "id": "xulvpu",
             "url": "/r/macapps/comments/xulvpu/hyperkey_is_now_free/",
             "external_url": "https://hyperkey.app",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "nickccal",
                     "url": "https://www.reddit.com/user/nickccal"
-                }
-            ]
-        },
-        {
-            "id": "ul6kue",
-            "url": "/r/macapps/comments/ul6kue/tomatobar_free_and_native_pomodoro_timer_for/",
-            "external_url": "https://github.com/ivoronin/TomatoBar",
-            "title": "TomatoBar: free and native Pomodoro timer for macOS menu bar written in Swift",
-            "content_html": "<caption>Open in: <a href='https://github.com/ivoronin/TomatoBar'>github.com</a> | <a href='https://reddit.com/r/macapps/comments/ul6kue/tomatobar_free_and_native_pomodoro_timer_for/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/ul6kue/tomatobar_free_and_native_pomodoro_timer_for/'>Apollo</a></caption>",
-            "date_published": "2022-05-08T17:24:26+00:00",
-            "authors": [
-                {
-                    "name": "unix15e8",
-                    "url": "https://www.reddit.com/user/unix15e8"
                 }
             ]
         }
