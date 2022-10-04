@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "xvgfao",
+            "url": "/r/PleX/comments/xvgfao/anyone_else_just_use_plex_normally/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/xvgfao/anyone_else_just_use_plex_normally/",
+            "title": "Anyone else just use plex normally?",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/PleX/comments/xvgfao/anyone_else_just_use_plex_normally/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/xvgfao/anyone_else_just_use_plex_normally/'>Apollo</a></caption> <div><p>I have a decade old gaming laptop with a couple external hard drives attached as my media server tucked away in the basement. </p>\n<p>A few friends and family members have access and use it every now and then. I don't think I'm netflix, I don't refer to anyone as my \"users\", I don't keep tabs on them or care about transcoding or whatever they're watching.</p>\n<p>The people that are obsessed with this stuff, what do your \"users\" say when you dm them immediately as they start watching something demanding them to mess with settings? Genuinely curious.</p></div>",
+            "date_published": "2022-10-04T14:22:31+00:00",
+            "authors": [
+                {
+                    "name": "shit_buster",
+                    "url": "https://www.reddit.com/user/shit_buster"
+                }
+            ]
+        },
+        {
             "id": "xpjvox",
             "url": "/r/PleX/comments/xpjvox/movie_title_will_not_load_just_says_waiting/",
             "external_url": "https://i.redd.it/0fvg77sn6fq91.png",
@@ -1386,20 +1400,6 @@
             "title": "Merry Christmas - Plex Automated Pre-roll v2 with GUI is now available!",
             "content_html": "<caption>Open in: <a href='https://i.redd.it/qbquhs2fiy681.png'>i.redd.it</a> | <a href='https://reddit.com/r/PleX/comments/rlnllz/merry_christmas_plex_automated_preroll_v2_with/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/rlnllz/merry_christmas_plex_automated_preroll_v2_with/'>Apollo</a></caption>",
             "date_published": "2021-12-21T20:37:09+00:00",
-            "authors": [
-                {
-                    "name": "PCgaming4ever",
-                    "url": "https://www.reddit.com/user/PCgaming4ever"
-                }
-            ]
-        },
-        {
-            "id": "rkvn4w",
-            "url": "/r/PleX/comments/rkvn4w/coming_soon_automated_plex_pre_rolls_v2_with_gui/",
-            "external_url": "https://i.redd.it/4rqscmp76r681.jpg",
-            "title": "Coming soon - Automated Plex Pre Rolls v2 with GUI!",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/4rqscmp76r681.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/PleX/comments/rkvn4w/coming_soon_automated_plex_pre_rolls_v2_with_gui/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/rkvn4w/coming_soon_automated_plex_pre_rolls_v2_with_gui/'>Apollo</a></caption>",
-            "date_published": "2021-12-20T19:56:16+00:00",
             "authors": [
                 {
                     "name": "PCgaming4ever",
