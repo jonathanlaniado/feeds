@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "xwfp82",
+            "url": "/r/macapps/comments/xwfp82/share_your_hyperkey_setup/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/xwfp82/share_your_hyperkey_setup/",
+            "title": "Share your Hyperkey setup!",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/xwfp82/share_your_hyperkey_setup/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/xwfp82/share_your_hyperkey_setup/'>Apollo</a></caption> <div><p>After seeing <a href=\"https://reddit.com/r/macapps/comments/xulvpu/hyperkey_is_now_free/\">the news that Hyperkey has gone free</a>, I figured I\u2019d try it out. I\u2019m new to the app and would love to hear how people map their Caps Lock key before I decide how to use it myself.</p>\n<p>For those that don\u2019t know, Hyperkey lets you turn your Caps Lock key into an extra modifier key for your Mac (think \u2318 + C for copy; with Hyperkey you could have Caps Lock + C mapped to a different action).</p>\n<p>How are you using Hyperkey?</p></div>",
+            "date_published": "2022-10-05T16:47:32+00:00",
+            "authors": [
+                {
+                    "name": "jackjohnbrown",
+                    "url": "https://www.reddit.com/user/jackjohnbrown"
+                }
+            ]
+        },
+        {
             "id": "xvg0cp",
             "url": "/r/macapps/comments/xvg0cp/popular_email_client_spark_gets_major_redesign/",
             "external_url": "https://www.macrumors.com/2022/10/04/spark-email-mac-redesign/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "swingsetken",
                     "url": "https://www.reddit.com/user/swingsetken"
-                }
-            ]
-        },
-        {
-            "id": "ulujeg",
-            "url": "/r/macapps/comments/ulujeg/things_3_for_ios_and_mac_is_one_of_my_most_used/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/ulujeg/things_3_for_ios_and_mac_is_one_of_my_most_used/",
-            "title": "Things 3 for iOS and Mac, is one of my most used apps.",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/ulujeg/things_3_for_ios_and_mac_is_one_of_my_most_used/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/ulujeg/things_3_for_ios_and_mac_is_one_of_my_most_used/'>Apollo</a></caption> <div><p>I use Things 3 daily, and in fact, I would go crazy without this app keeping me in check. Do any of you use it? If not, what are you using? </p>\n<p><a href=\"https://macsources.com/things-for-mac-and-ios-2022-review/\">https://macsources.com/things-for-mac-and-ios-2022-review/</a></p></div>",
-            "date_published": "2022-05-09T16:02:11+00:00",
-            "authors": [
-                {
-                    "name": "nickccal",
-                    "url": "https://www.reddit.com/user/nickccal"
                 }
             ]
         }
