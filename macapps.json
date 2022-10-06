@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "xwiqu0",
+            "url": "/r/macapps/comments/xwiqu0/rules_and_exensions_for_mailapp/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/xwiqu0/rules_and_exensions_for_mailapp/",
+            "title": "Rules and Exensions for Mail.app",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/xwiqu0/rules_and_exensions_for_mailapp/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/xwiqu0/rules_and_exensions_for_mailapp/'>Apollo</a></caption> <div><p>With Spark changing into a subscription model, I (and many others in this sub) have decided to switch back to the free native mail.app. So, I was wondering what rules and extensions you have installed that help you with your workflow.</p></div>",
+            "date_published": "2022-10-05T18:45:08+00:00",
+            "authors": [
+                {
+                    "name": "fograd",
+                    "url": "https://www.reddit.com/user/fograd"
+                }
+            ]
+        },
+        {
             "id": "xwfp82",
             "url": "/r/macapps/comments/xwfp82/share_your_hyperkey_setup/",
             "external_url": "https://www.reddit.com/r/macapps/comments/xwfp82/share_your_hyperkey_setup/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "PaganTuna",
                     "url": "https://www.reddit.com/user/PaganTuna"
-                }
-            ]
-        },
-        {
-            "id": "uncjbw",
-            "url": "/r/macapps/comments/uncjbw/introducing_widgetwall_desktop_widgets_for_your/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/uncjbw/introducing_widgetwall_desktop_widgets_for_your/",
-            "title": "Introducing WidgetWall, desktop widgets for your Mac.",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/uncjbw/introducing_widgetwall_desktop_widgets_for_your/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/uncjbw/introducing_widgetwall_desktop_widgets_for_your/'>Apollo</a></caption> <div><p>Hello! My friends and I made an app that will probably be replaced by a future version of macOS someday, but it was too exciting not to do.</p>\n<p>This was all done after work over many months. In retrospect it\u2019s wild how much time goes into something like this. </p>\n<p>It\u2019s not perfect yet and we have a long list of things we want to improve, but we thought it\u2019d be a good time to get it out in the world and iterate based on feedback. </p>\n<p>It will also be available on Setapp starting later today or tomorrow, I\u2019m told.</p>\n<p>Fingers crossed \ud83e\udd1e\ud83e\udd1e it\u2019s not immediately obsolete by the upcoming WWDC announcements. \ud83d\ude2c Wouldn\u2019t surprise me. It was a lot of fun to make either way so I\u2019d still have done it again if that happens. That\u2019s probably not true, but we had fun nonetheless.</p>\n<p>Anyway, let me know if you have any questions or anything. We would like to involve everyone in future widget decisions and general making things better but still debating the best place to field lots of feedback. Maybe a subreddit? (Edit: And thus r/WidgetWall was born)</p>\n<p>I actually have to go to real work right now so it might be a while til I can respond, but I\u2019m excited to share this. Hope you like it! Thanks! -Ken</p>\n<p>https://amicoapps.com/app/widgetwall/</p>\n<p>Edit: Ok, a subscription model was a bad idea. Thank you for the feedback, it's helpful and we'll learn from it and make a better app from it.</p>\n<p>I also realize I did a disservice to my friends that built this with me when I presented the app like I did above, in a way where it might get replaced by Apple. I said that because I really feel like it's an app that should be a part of macOS. It feels very native and at home with it to me. So I am bracing myself for it to be replaced by something official because it feels like something official. I emphasized that a little too much and probably instilled concern in people considering trying it out though. But it doesn't exist yet, and maybe it won't ever. I don't know. It should. But it doesn't yet, so we have this you could use for now until it does.</p>\n<p>If anyone needs any really deep holes dug, I'm your guy.</p></div>",
-            "date_published": "2022-05-11T15:32:39+00:00",
-            "authors": [
-                {
-                    "name": "swingsetken",
-                    "url": "https://www.reddit.com/user/swingsetken"
                 }
             ]
         }
