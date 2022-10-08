@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "xyo6o1",
+            "url": "/r/macapps/comments/xyo6o1/raycast_equivalent_of_alfreds_universal_actions/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/xyo6o1/raycast_equivalent_of_alfreds_universal_actions/",
+            "title": "Raycast equivalent of Alfred's Universal Actions",
+            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/xyo6o1/raycast_equivalent_of_alfreds_universal_actions/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/xyo6o1/raycast_equivalent_of_alfreds_universal_actions/'>Apollo</a></caption> <div><p>Hi! I have been a user of Alfred for quite a long time and I installed Raycast the other day, out of curiosity. I find it quite cool and there are some interesting ideas in the app. I'm a web developer so the ability of quickly building extensions using React is quite great for me. The only thing I'm missing, though, and that is quite the dealbreaker is Universal Actions. The ability to select something as context and then start Alfred to act upon that context is really useful. Is there anything similar to that in Raycast?</p>\n<p>&#x200B;</p>\n<p>Thx!</p></div>",
+            "date_published": "2022-10-08T09:16:32+00:00",
+            "authors": [
+                {
+                    "name": "mortadelo",
+                    "url": "https://www.reddit.com/user/mortadelo"
+                }
+            ]
+        },
+        {
             "id": "xx295j",
             "url": "/r/macapps/comments/xx295j/the_spark_v3_macos_issues/",
             "external_url": "https://www.reddit.com/r/macapps/comments/xx295j/the_spark_v3_macos_issues/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "rodrigoferrari",
                     "url": "https://www.reddit.com/user/rodrigoferrari"
-                }
-            ]
-        },
-        {
-            "id": "uolaot",
-            "url": "/r/macapps/comments/uolaot/just_released_new_version_of_big_weather_now_with/",
-            "external_url": "https://i.redd.it/zkvdexo1r6z81.png",
-            "title": "Just released new version of Big Weather, now with most features FREE!",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/zkvdexo1r6z81.png'>i.redd.it</a> | <a href='https://reddit.com/r/macapps/comments/uolaot/just_released_new_version_of_big_weather_now_with/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/uolaot/just_released_new_version_of_big_weather_now_with/'>Apollo</a></caption>",
-            "date_published": "2022-05-13T06:16:38+00:00",
-            "authors": [
-                {
-                    "name": "ittrut",
-                    "url": "https://www.reddit.com/user/ittrut"
                 }
             ]
         }
