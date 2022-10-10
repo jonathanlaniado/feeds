@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "xzhazl",
+            "url": "/r/selfhosted/comments/xzhazl/selfhost_an_automated_jellyfin_media_streaming/",
+            "external_url": "https://zerodya.net/self-host-jellyfin-media-streaming-stack/",
+            "title": "Self-host an automated Jellyfin media streaming stack",
+            "content_html": "<caption>Open in: <a href='https://zerodya.net/self-host-jellyfin-media-streaming-stack/'>zerodya.net</a> | <a href='https://reddit.com/r/selfhosted/comments/xzhazl/selfhost_an_automated_jellyfin_media_streaming/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/xzhazl/selfhost_an_automated_jellyfin_media_streaming/'>Apollo</a></caption>",
+            "date_published": "2022-10-09T09:26:10+00:00",
+            "authors": [
+                {
+                    "name": "Zerodya",
+                    "url": "https://www.reddit.com/user/Zerodya"
+                }
+            ]
+        },
+        {
             "id": "xyvyh6",
             "url": "/r/selfhosted/comments/xyvyh6/a_definitive_guide_for_nginx_lets_encrypt_and_all/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/xyvyh6/a_definitive_guide_for_nginx_lets_encrypt_and_all/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "TueOct5",
                     "url": "https://www.reddit.com/user/TueOct5"
-                }
-            ]
-        },
-        {
-            "id": "sflrlc",
-            "url": "/r/selfhosted/comments/sflrlc/selfhosting_security_guide_for_your_homelab_by/",
-            "external_url": "https://www.youtube.com/watch?v=Cs8yOmTJNYQ",
-            "title": "Self-Hosting Security Guide for your HomeLab by TechnoTim",
-            "content_html": "<caption>Open in: <a href='https://www.youtube.com/watch?v=Cs8yOmTJNYQ'>www.youtube.com</a> | <a href='https://reddit.com/r/selfhosted/comments/sflrlc/selfhosting_security_guide_for_your_homelab_by/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/sflrlc/selfhosting_security_guide_for_your_homelab_by/'>Apollo</a></caption>",
-            "date_published": "2022-01-29T16:34:30+00:00",
-            "authors": [
-                {
-                    "name": "mikkel1156",
-                    "url": "https://www.reddit.com/user/mikkel1156"
                 }
             ]
         }
