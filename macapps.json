@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "y6ohnf",
+            "url": "/r/macapps/comments/y6ohnf/freescaler_a_free_and_open_source_tool_used_to/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/y6ohnf/freescaler_a_free_and_open_source_tool_used_to/",
+            "title": "FreeScaler: a free and open source tool used to upscale low-res images using advanced AI models, available on the Mac App Store",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/y6ohnf/freescaler_a_free_and_open_source_tool_used_to/'>Reddit</a></caption><div><br></div><div><p>Hi, we've just released our first open source project for macOS: FreeScaler. It's simple app used to upscale low-res images using AI models. It's a free and open source Cocoa/Swift app, runs natively on arm/x86 Macs with macOS 11.3 or later, Apple Silicon, AMD or nVidia GPU.</p>\n<p>Based on the portable versions of realesrgan-ncnn-vulkan and realsr-ncnn-vukan.</p>\n<p>Features:</p>\n<p>- Upscale single image choosing between 4 AI models</p>\n<p>- Compare original and upscaled image</p>\n<p>- Batch upscale: drag/import a folder to upscale all included PNGs and JPGs at once, compare results as they are available</p>\n<p>- Drag and drop image or folder from macOS Finder</p>\n<p>- iOS-style share button to save or share results through other means</p>\n<p>- Finder service to display an item in macOS Finder contextual menu, run upscale directly from the Finder</p>\n<p>App is available on the Mac App Store: <a href=\"https://apps.apple.com/us/app/freescaler/id6443796196\">https://apps.apple.com/us/app/freescaler/id6443796196</a><br />\nSource code is available on GitHub:<a href=\"https://github.com/TheMurusTeam/FreeScaler\">https://github.com/TheMurusTeam/FreeScaler</a></p></div>",
+            "date_published": "2022-10-17T22:15:29+00:00",
+            "authors": [
+                {
+                    "name": "hanymac",
+                    "url": "https://www.reddit.com/user/hanymac"
+                }
+            ]
+        },
+        {
             "id": "y5my7i",
             "url": "/r/macapps/comments/y5my7i/changing_your_icons_on_apples_apps_safely_with/",
             "external_url": "https://www.reddit.com/r/macapps/comments/y5my7i/changing_your_icons_on_apples_apps_safely_with/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Barbelleatsdumbbell",
                     "url": "https://www.reddit.com/user/Barbelleatsdumbbell"
-                }
-            ]
-        },
-        {
-            "id": "urwzma",
-            "url": "/r/macapps/comments/urwzma/crate_file_storage_for_musicians/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/urwzma/crate_file_storage_for_musicians/",
-            "title": "Crate: File storage for musicians",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/urwzma/crate_file_storage_for_musicians/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/urwzma/crate_file_storage_for_musicians/'>Apollo</a></caption> <div><p>Hi, my name is Rylan. Me and my partner have recently created a new app called Crate.</p>\n<p>Crate is a new app <strong>for musicians</strong> to store, organize, and share their unreleased music. An alternative to Google Drive, Dropbox, and other conventional storage solutions, Crate allows musicians to experience their music the right way: with album art, song titles, artist names, playlists, and other musician-first features.</p>\n<p>Check it out: <a href=\"https://www.crate.fm/\">https://www.crate.fm/</a></p>\n<p>Uploading a song to Crate instantly gives you access to your song on your phone, in any web browser, and on any device. Check out this short demo we put together on how it works:</p>\n<p>https://reddit.com/link/urwzma/video/bsfidc7os3091/player</p>\n<h1>Features:</h1>\n<p>\u2022 Playlists</p>\n<p>\u2022 Song sharing</p>\n<p>\u2022 Offline listening</p>\n<p>\u2022 Song notepad</p>\n<p>\u2022 Bounce stack</p>\n<p>And more!</p>\n<h1>Private Beta</h1>\n<p>We're so excited to be sharing Crate with the Mac Apps community! Head over to our website to register for our private beta, and join our community to stay up to date on our progress.</p></div>",
-            "date_published": "2022-05-17T21:33:36+00:00",
-            "authors": [
-                {
-                    "name": "crate_FM",
-                    "url": "https://www.reddit.com/user/crate_FM"
                 }
             ]
         }
