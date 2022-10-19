@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "y7wcpa",
+            "url": "/r/MacOS/comments/y7wcpa/apple_1977_on_monterey/",
+            "external_url": "https://i.redd.it/ktsvclvuwpu91.png",
+            "title": "Apple 1977 on Monterey",
+            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/MacOS/comments/y7wcpa/apple_1977_on_monterey/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/ktsvclvuwpu91.png\" />",
+            "date_published": "2022-10-19T07:50:16+00:00",
+            "authors": [
+                {
+                    "name": "farhadsalimi",
+                    "url": "https://www.reddit.com/user/farhadsalimi"
+                }
+            ]
+        },
+        {
             "id": "y70o9r",
             "url": "/r/MacOS/comments/y70o9r/virtualbox_700_on_mac_m1_chip_is_working/",
             "external_url": "https://i.redd.it/pdnty9l0viu91.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "theulysses",
                     "url": "https://www.reddit.com/user/theulysses"
-                }
-            ]
-        },
-        {
-            "id": "shagyl",
-            "url": "/r/MacOS/comments/shagyl/launchpad_search_is_truly_a_technical_marvel/",
-            "external_url": "https://i.redd.it/qc6s5slpw2f81.jpg",
-            "title": "Launchpad search is truly a technical marvel",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/qc6s5slpw2f81.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/MacOS/comments/shagyl/launchpad_search_is_truly_a_technical_marvel/'>Reddit</a> | <a href='apollo://reddit.com/r/MacOS/comments/shagyl/launchpad_search_is_truly_a_technical_marvel/'>Apollo</a></caption>",
-            "date_published": "2022-01-31T19:57:28+00:00",
-            "authors": [
-                {
-                    "name": "wojtekmaj",
-                    "url": "https://www.reddit.com/user/wojtekmaj"
                 }
             ]
         }
