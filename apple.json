@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "yabfrd",
+            "url": "/r/apple/comments/yabfrd/walmart_still_doesnt_accept_apple_pay_in_us/",
+            "external_url": "https://www.macrumors.com/2022/10/21/walmart-still-doesnt-accept-apple-pay/",
+            "title": "Walmart Still Doesn't Accept Apple Pay in U.S. Despite Many Customer Requests",
+            "content_html": "<caption>Open: <a href='https://www.macrumors.com/2022/10/21/walmart-still-doesnt-accept-apple-pay/'>www.macrumors.com</a> | <a href='https://reddit.com/r/apple/comments/yabfrd/walmart_still_doesnt_accept_apple_pay_in_us/'>Reddit</a></caption>",
+            "date_published": "2022-10-22T02:14:17+00:00",
+            "authors": [
+                {
+                    "name": "Dragonlance12",
+                    "url": "https://www.reddit.com/user/Dragonlance12"
+                }
+            ]
+        },
+        {
             "id": "y9vgya",
             "url": "/r/apple/comments/y9vgya/apples_industrial_design_chief_hankey_to_leave/",
             "external_url": "https://www.bloomberg.com/news/articles/2022-10-21/apple-s-industrial-design-chief-evans-hankey-is-leaving-three-years-after-ive?utm_source=google&utm_medium=bd&cmpId=google",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Dragonlance12",
                     "url": "https://www.reddit.com/user/Dragonlance12"
-                }
-            ]
-        },
-        {
-            "id": "wnbi5t",
-            "url": "/r/apple/comments/wnbi5t/the_zoom_installer_let_a_researcher_hack_his_way/",
-            "external_url": "https://www.theverge.com/2022/8/12/23303411/zoom-defcon-root-access-privilege-escalation-hack-patrick-wardle",
-            "title": "The Zoom installer let a researcher hack his way to root access on macOS",
-            "content_html": "<caption>Open in: <a href='https://www.theverge.com/2022/8/12/23303411/zoom-defcon-root-access-privilege-escalation-hack-patrick-wardle'>www.theverge.com</a> | <a href='https://reddit.com/r/apple/comments/wnbi5t/the_zoom_installer_let_a_researcher_hack_his_way/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/wnbi5t/the_zoom_installer_let_a_researcher_hack_his_way/'>Apollo</a></caption>",
-            "date_published": "2022-08-13T10:39:59+00:00",
-            "authors": [
-                {
-                    "name": "bartturner",
-                    "url": "https://www.reddit.com/user/bartturner"
                 }
             ]
         }
