@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "yca26q",
+            "url": "/r/macapps/comments/yca26q/my_list_of_setapp_apps_alternatives/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/yca26q/my_list_of_setapp_apps_alternatives/",
+            "title": "My list of Setapp apps alternatives",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/yca26q/my_list_of_setapp_apps_alternatives/'>Reddit</a></caption><div><br></div><div><h2>My list of Setapp apps alternatives</h2>\n<p>Archiver 4 https://archiverapp.com/ --&gt; The Unarchiver https://apps.apple.com/us/app/the-unarchiver/id425424353</p>\n<p>CleanMyMac X https://macpaw.com/cleanmymac --&gt; OnyX https://titanium-software.fr/en/onyx.html (as a system cleaner)</p>\n<p>istat menus https://bjango.com/mac/istatmenus/ --&gt; stats https://github.com/exelban/stats</p>\n<p>Paste https://pasteapp.io/ --&gt; Maccy https://maccy.app/</p>\n<p>SQLPro https://www.sqlprostudio.com/ --&gt; DBeaver https://dbeaver.io/</p>\n<p>Sip https://sipapp.io/ --&gt; System Color Picker https://apps.apple.com/us/app/system-color-picker/id1545870783?mt=12</p>\n<p>Mosaic https://www.lightpillar.com/mosaic.html --&gt; Rectangle https://rectangleapp.com/</p>\n<p>World Clock Pro https://worldclock.pro/ --&gt; Hovrly https://hovrly.com</p>\n<p>Bartender 4 https://www.macbartender.com/Bartender4/ --&gt; iBar-Menubar icon control tool (App store</p>\n<p>CleanShot X https://cleanshot.com/?ref=setapp --&gt; Kap https://getkap.co/, shottr https://shottr.cc</p>\n<p>Movist Pro https://movistprime.com/ --&gt; IINA https://iina.io/</p>\n<p>gitfox https://www.gitfox.app --&gt; GitHub Desktop https://desktop.github.com/</p>\n<p>devutils https://devutils.com/ --&gt; DevToys https://github.com/ObuchiYuki/DevToysMac</p>\n<hr />\n<p>For the below apps, I am still looking for alternatives. Suggest if you have anything in your toolset.</p>\n<p>SlidePad https://slidepad.app/\nBoom 3D https://www.globaldelight.com/boom/</p></div>",
+            "date_published": "2022-10-24T12:33:33+00:00",
+            "authors": [
+                {
+                    "name": "rootedMind",
+                    "url": "https://www.reddit.com/user/rootedMind"
+                }
+            ]
+        },
+        {
             "id": "y919hl",
             "url": "/r/macapps/comments/y919hl/hackit_a_hacker_news_reader/",
             "external_url": "https://apps.apple.com/app/1549557075",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ashleyalyssa",
                     "url": "https://www.reddit.com/user/ashleyalyssa"
-                }
-            ]
-        },
-        {
-            "id": "uwswfn",
-            "url": "/r/macapps/comments/uwswfn/speek_anonymous_and_decentralized_messenger/",
-            "external_url": "https://github.com/Speek-App/Speek",
-            "title": "Speek! - anonymous and decentralized messenger allowing anonymous p2p filesharing for MacOS",
-            "content_html": "<caption>Open in: <a href='https://github.com/Speek-App/Speek'>github.com</a> | <a href='https://reddit.com/r/macapps/comments/uwswfn/speek_anonymous_and_decentralized_messenger/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/uwswfn/speek_anonymous_and_decentralized_messenger/'>Apollo</a></caption>",
-            "date_published": "2022-05-24T15:04:29+00:00",
-            "authors": [
-                {
-                    "name": "SpeekSecure",
-                    "url": "https://www.reddit.com/user/SpeekSecure"
                 }
             ]
         }
