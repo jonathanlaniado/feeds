@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "ybh4sw",
+            "url": "/r/selfhosted/comments/ybh4sw/seeing_my_friends_enjoy_my_self_hosted_apps_makes/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/ybh4sw/seeing_my_friends_enjoy_my_self_hosted_apps_makes/",
+            "title": "Seeing my friends enjoy my self hosted apps makes every hard part worth it.",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/ybh4sw/seeing_my_friends_enjoy_my_self_hosted_apps_makes/'>Reddit</a></caption><div><br></div><div><p>Bit of a rant here, but it feels so great to have people genuinely use your server outside of testing. It\u2019s one thing to have friends access and stream for a quick test, and then another to have them genuinely use the services and recommend them to others. Makes all the work worth it imo, and it helps me learn the best ways to streamline the experience.</p></div>",
+            "date_published": "2022-10-23T13:01:04+00:00",
+            "authors": [
+                {
+                    "name": "TenseRestaurant",
+                    "url": "https://www.reddit.com/user/TenseRestaurant"
+                }
+            ]
+        },
+        {
             "id": "y8jriw",
             "url": "/r/selfhosted/comments/y8jriw/new_to_selfhosting_and_first_dashboard_more_info/",
             "external_url": "https://i.redd.it/ymqz7jqhzuu91.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "binaryfor",
                     "url": "https://www.reddit.com/user/binaryfor"
-                }
-            ]
-        },
-        {
-            "id": "slt4k2",
-            "url": "/r/selfhosted/comments/slt4k2/damaged_blocks_100/",
-            "external_url": "https://i.redd.it/hxtlljq9p6g81.png",
-            "title": "Damaged Blocks 100% :(",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/hxtlljq9p6g81.png'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/slt4k2/damaged_blocks_100/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/slt4k2/damaged_blocks_100/'>Apollo</a></caption>",
-            "date_published": "2022-02-06T09:51:21+00:00",
-            "authors": [
-                {
-                    "name": "ProAdmin007",
-                    "url": "https://www.reddit.com/user/ProAdmin007"
                 }
             ]
         }
