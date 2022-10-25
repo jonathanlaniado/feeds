@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "ycz1eb",
+            "url": "/r/macapps/comments/ycz1eb/apps_that_should_be_paid_but_are_not/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/ycz1eb/apps_that_should_be_paid_but_are_not/",
+            "title": "Apps that should be paid, but are not",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/ycz1eb/apps_that_should_be_paid_but_are_not/'>Reddit</a></caption><div><br></div><div><h2>Apps that should be paid, but are not</h2>\n<ul>\n<li>https://github.com/MonitorControl/MonitorControl<ul>\n<li>best for multi-monitor setups</li>\n</ul>\n</li>\n<li>https://github.com/divamgupta/diffusionbee-stable-diffusion-ui<ul>\n<li>just give it a try.</li>\n</ul>\n</li>\n<li>https://freemacsoft.net/appcleaner/<ul>\n<li>nifty tool for removing apps</li>\n</ul>\n</li>\n<li>https://soduto.com/<ul>\n<li>airdrop alternative, supports android</li>\n</ul>\n</li>\n<li>https://github.com/subhra74/xdm<ul>\n<li>a download manager</li>\n</ul>\n</li>\n<li>https://skim-app.sourceforge.io/<ul>\n<li>pdfs</li>\n</ul>\n</li>\n<li>https://github.com/FuzzyIdeas/ZoomHider<ul>\n<li>hide the annoying zoom control bar</li>\n</ul>\n</li>\n<li>https://www.warp.dev/<ul>\n<li>i-term replacement, with AI command search</li>\n</ul>\n</li>\n</ul>\n<p>My other list of apps\nhttps://www.reddit.com/r/macapps/comments/yca26q/my_list_of_setapp_apps_alternatives/</p></div>",
+            "date_published": "2022-10-25T07:52:24+00:00",
+            "authors": [
+                {
+                    "name": "rootedMind",
+                    "url": "https://www.reddit.com/user/rootedMind"
+                }
+            ]
+        },
+        {
             "id": "yca26q",
             "url": "/r/macapps/comments/yca26q/my_list_of_setapp_apps_alternatives/",
             "external_url": "https://www.reddit.com/r/macapps/comments/yca26q/my_list_of_setapp_apps_alternatives/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "RoryBowcott",
                     "url": "https://www.reddit.com/user/RoryBowcott"
-                }
-            ]
-        },
-        {
-            "id": "ux6bhj",
-            "url": "/r/macapps/comments/ux6bhj/what_app_do_you_keep_your_pkm_personal_knowledge/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/ux6bhj/what_app_do_you_keep_your_pkm_personal_knowledge/",
-            "title": "What app do you keep your PKM (personal knowledge management) based?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/ux6bhj/what_app_do_you_keep_your_pkm_personal_knowledge/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/ux6bhj/what_app_do_you_keep_your_pkm_personal_knowledge/'>Apollo</a></caption> <div><p>Currently attempting to make Craft work and as beautiful as it is I think I want to step aside and wait for them to do a bit more developing. Nothing to their fault I feel like I can always come back to it. What do you use and what do you like about it?</p></div>",
-            "date_published": "2022-05-25T01:33:48+00:00",
-            "authors": [
-                {
-                    "name": "ashleyalyssa",
-                    "url": "https://www.reddit.com/user/ashleyalyssa"
                 }
             ]
         }
