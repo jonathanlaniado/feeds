@@ -8,6 +8,20 @@
     "favicon": "https://b.thumbs.redditmedia.com/k7fHE51fuhbYJRT2e9s1rXIp2ZtA7ks-cNFvQuNbfcE.png",
     "items": [
         {
+            "id": "yckf7m",
+            "url": "/r/InternetIsBeautiful/comments/yckf7m/after_scraping_millions_of_pages_i_built_a/",
+            "external_url": "https://app.smartscout.com/pub/seller-map-preview",
+            "title": "After scraping millions of pages, I built a website that maps every Amazon Seller in the US and their estimated revenue on the brands they sell.",
+            "content_html": "<caption>Open: <a href='https://app.smartscout.com/pub/seller-map-preview'>app.smartscout.com</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/yckf7m/after_scraping_millions_of_pages_i_built_a/'>Reddit</a></caption>",
+            "date_published": "2022-10-24T19:35:44+00:00",
+            "authors": [
+                {
+                    "name": "AmazonAPIDeveloper",
+                    "url": "https://www.reddit.com/user/AmazonAPIDeveloper"
+                }
+            ]
+        },
+        {
             "id": "y8697v",
             "url": "/r/InternetIsBeautiful/comments/y8697v/website_that_lets_you_type_in_a_phrase_and_shows/",
             "external_url": "http://playphrase.me",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Frasis21",
                     "url": "https://www.reddit.com/user/Frasis21"
-                }
-            ]
-        },
-        {
-            "id": "ssbrvw",
-            "url": "/r/InternetIsBeautiful/comments/ssbrvw/i_made_100_totally_free_and_open_source/",
-            "external_url": "https://iradesign.io/",
-            "title": "I made 100+ totally free and open source illustrations. Use it anywhere without attribution.",
-            "content_html": "<caption>Open in: <a href='https://iradesign.io/'>iradesign.io</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/ssbrvw/i_made_100_totally_free_and_open_source/'>Reddit</a> | <a href='apollo://reddit.com/r/InternetIsBeautiful/comments/ssbrvw/i_made_100_totally_free_and_open_source/'>Apollo</a></caption>",
-            "date_published": "2022-02-14T14:21:43+00:00",
-            "authors": [
-                {
-                    "name": "tomarares",
-                    "url": "https://www.reddit.com/user/tomarares"
                 }
             ]
         }
