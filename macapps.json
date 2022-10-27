@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "yekopz",
+            "url": "/r/macapps/comments/yekopz/simple_distractionfree_plain_text_editor/",
+            "external_url": "https://apps.apple.com/app/id1572202501",
+            "title": "Simple distraction-free plain text editor",
+            "content_html": "<caption>Open: <a href='https://apps.apple.com/app/id1572202501'>apps.apple.com</a> | <a href='https://reddit.com/r/macapps/comments/yekopz/simple_distractionfree_plain_text_editor/'>Reddit</a></caption>",
+            "date_published": "2022-10-27T06:38:43+00:00",
+            "authors": [
+                {
+                    "name": "sindresorhus",
+                    "url": "https://www.reddit.com/user/sindresorhus"
+                }
+            ]
+        },
+        {
             "id": "ycz1eb",
             "url": "/r/macapps/comments/ycz1eb/apps_that_should_be_paid_but_are_not/",
             "external_url": "https://www.reddit.com/r/macapps/comments/ycz1eb/apps_that_should_be_paid_but_are_not/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "nickccal",
                     "url": "https://www.reddit.com/user/nickccal"
-                }
-            ]
-        },
-        {
-            "id": "v092e4",
-            "url": "/r/macapps/comments/v092e4/16_tips_for_mail_mac/",
-            "external_url": "https://www.fourth-wall.co.uk/post/16-tips-for-mail-on-mac",
-            "title": "16 Tips for Mail - Mac",
-            "content_html": "<caption>Open in: <a href='https://www.fourth-wall.co.uk/post/16-tips-for-mail-on-mac'>www.fourth-wall.co.uk</a> | <a href='https://reddit.com/r/macapps/comments/v092e4/16_tips_for_mail_mac/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/v092e4/16_tips_for_mail_mac/'>Apollo</a></caption>",
-            "date_published": "2022-05-29T11:18:15+00:00",
-            "authors": [
-                {
-                    "name": "RoryBowcott",
-                    "url": "https://www.reddit.com/user/RoryBowcott"
                 }
             ]
         }
