@@ -8,6 +8,20 @@
     "favicon": "https://b.thumbs.redditmedia.com/k7fHE51fuhbYJRT2e9s1rXIp2ZtA7ks-cNFvQuNbfcE.png",
     "items": [
         {
+            "id": "yignt6",
+            "url": "/r/InternetIsBeautiful/comments/yignt6/southwest_airlines_is_the_2nd_largest_us_airline/",
+            "external_url": "https://www.travelarrow.io",
+            "title": "Southwest Airlines is the 2nd largest US airline but doesn\u2019t display fares on Google Flights. I made TravelArrow to automatically convert your Google Flight searches onto Southwest to compare deals.",
+            "content_html": "<caption>Open: <a href='https://www.travelarrow.io'>www.travelarrow.io</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/yignt6/southwest_airlines_is_the_2nd_largest_us_airline/'>Reddit</a></caption>",
+            "date_published": "2022-10-31T16:22:02+00:00",
+            "authors": [
+                {
+                    "name": "avetisyan818",
+                    "url": "https://www.reddit.com/user/avetisyan818"
+                }
+            ]
+        },
+        {
             "id": "yiq2a9",
             "url": "/r/InternetIsBeautiful/comments/yiq2a9/us_hospitals_are_required_to_publish_their_prices/",
             "external_url": "http://finestrahealth.com/philadelphia",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "mh06941",
                     "url": "https://www.reddit.com/user/mh06941"
-                }
-            ]
-        },
-        {
-            "id": "t44z8f",
-            "url": "/r/InternetIsBeautiful/comments/t44z8f/if_twittercom_is_replaced_with_nitternet_in_links/",
-            "external_url": "https://nitter.net/",
-            "title": "If \"twitter.com\" is replaced with \"nitter.net\" in links, you can read without login constraints",
-            "content_html": "<caption>Open in: <a href='https://nitter.net/'>nitter.net</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/t44z8f/if_twittercom_is_replaced_with_nitternet_in_links/'>Reddit</a> | <a href='apollo://reddit.com/r/InternetIsBeautiful/comments/t44z8f/if_twittercom_is_replaced_with_nitternet_in_links/'>Apollo</a></caption>",
-            "date_published": "2022-03-01T10:32:10+00:00",
-            "authors": [
-                {
-                    "name": "Wolfframm",
-                    "url": "https://www.reddit.com/user/Wolfframm"
                 }
             ]
         }
