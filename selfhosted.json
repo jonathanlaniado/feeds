@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "yl8oyk",
+            "url": "/r/selfhosted/comments/yl8oyk/guys_i_finally_figured_out_docker_im_so_proud_of/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/yl8oyk/guys_i_finally_figured_out_docker_im_so_proud_of/",
+            "title": "GUYS I FINALLY FIGURED OUT DOCKER IM SO PROUD OF MYSELF",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/yl8oyk/guys_i_finally_figured_out_docker_im_so_proud_of/'>Reddit</a></caption><div><br></div><div><p>im 17 and I have experience with linux, openmediavault, syncthing, and my prolific experience in networking is port forwarding for Minecraft. I finally deployed syncthing using the linuxserver docker image and docker-compose, after messing around with docker trying to understand how the hell it works. </p>\n<p>it aint much but its honest work \ud83e\udd72. I did kind of cheat, using OMV as my base, but idc for now</p>\n<p>mainly did this so my dad can move away from google drive and use this NAS for continuously backing up his business files and his video files for his yt channel (its like 1tb of stuff). </p>\n<p>im so proud of myself. nobody around me gets what I did, of course ill teach them to use it I just felt like sharing this (honestly an accomplishment for me) after I started using linux 2 years ago.</p></div>",
+            "date_published": "2022-11-03T17:26:13+00:00",
+            "authors": [
+                {
+                    "name": "Netherquark",
+                    "url": "https://www.reddit.com/user/Netherquark"
+                }
+            ]
+        },
+        {
             "id": "ykh22b",
             "url": "/r/selfhosted/comments/ykh22b/a_single_raspberry_pi_4/",
             "external_url": "https://i.redd.it/o5ayhob9plx91.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "justinhunt1223",
                     "url": "https://www.reddit.com/user/justinhunt1223"
-                }
-            ]
-        },
-        {
-            "id": "szgqep",
-            "url": "/r/selfhosted/comments/szgqep/i_want_to_manage_my_docker_containers_in_3d_on_a/",
-            "external_url": "https://v.redd.it/nuo1e1l0xkj81",
-            "title": "\"I want to manage my Docker containers in 3D on a tablet\" - No One, Ever",
-            "content_html": "<caption>Open in: <a href='https://v.redd.it/nuo1e1l0xkj81'>v.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/szgqep/i_want_to_manage_my_docker_containers_in_3d_on_a/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/szgqep/i_want_to_manage_my_docker_containers_in_3d_on_a/'>Apollo</a></caption>",
-            "date_published": "2022-02-23T12:51:34+00:00",
-            "authors": [
-                {
-                    "name": "FKIT_BAYLIFE",
-                    "url": "https://www.reddit.com/user/FKIT_BAYLIFE"
                 }
             ]
         }
