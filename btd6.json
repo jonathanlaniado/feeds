@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3k11a/styles/communityIcon_chsu9k1ino361.png",
     "items": [
         {
+            "id": "ykozkt",
+            "url": "/r/btd6/comments/ykozkt/bloons_td_6_update_notes_version_333/",
+            "external_url": "https://www.reddit.com/r/btd6/comments/ykozkt/bloons_td_6_update_notes_version_333/",
+            "title": "Bloons TD 6 - Update Notes! Version 33.3",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/btd6/comments/ykozkt/bloons_td_6_update_notes_version_333/'>Reddit</a></caption><div><br></div><div><p>https://preview.redd.it/74ly4tsw5nx91.png?width=296&amp;format=png&amp;auto=webp&amp;s=ce0e64b1fb8dbad9b667791642fc6ca4f5de6f6e</p>\n<h1>Bloons TD 6 v33.3 - Update Notes!</h1>\n<p>Additional links to most recent update notes: <a href=\"https://www.reddit.com/r/btd6/comments/y1rbkv/bloons_td_6_update_notes_version_330/\">Update 33.0</a> - <a href=\"https://www.reddit.com/r/btd6/comments/y99tvi/bloons_td_6_update_notes_version_331/\">Update 33.1</a> - <a href=\"https://www.reddit.com/r/btd6/comments/yf6htb/update_bloons_td_6_v332_patch_notes/\">Update 33.2</a></p>\n<h1>Changes</h1>\n<ul>\n<li>~~Paragon limit was planned to be removed from base gameplay in this update but unfortunately, we have had a bug with this and the limit is still in place. This will be coming in 33.3!~~ <a href=\"https://new.reddit.com/r/btd6/comments/ydeqp2/paragon_limit_update/\">Read more about this reasoning over here</a>. Now actually removed!</li>\n</ul>\n<h1>Fixes</h1>\n<ul>\n<li>Resolved a crash that could occur when loading into the Contested Territory world and closing the daily reward popup before the world has finished loading</li>\n<li>Special Halloween game icon has now been changed back to the Dartling Gunner icon</li>\n<li>Resolved a bug that could occur preventing some relics from being selected when too many are owned</li>\n<li>Resolved a crash that occurred sometimes when entering the CT menu and attempting to view teams</li>\n<li>Resolved an issue where entering the CT team store would sometimes display white squares instead of the first icon in the page</li>\n</ul></div>",
+            "date_published": "2022-11-03T01:50:12+00:00",
+            "authors": [
+                {
+                    "name": "savnk",
+                    "url": "https://www.reddit.com/user/savnk"
+                }
+            ]
+        },
+        {
             "id": "y99tvi",
             "url": "/r/btd6/comments/y99tvi/bloons_td_6_update_notes_version_331/",
             "external_url": "https://www.reddit.com/r/btd6/comments/y99tvi/bloons_td_6_update_notes_version_331/",
