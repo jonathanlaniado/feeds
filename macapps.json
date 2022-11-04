@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "ylf8ye",
+            "url": "/r/macapps/comments/ylf8ye/diffusionbee_generate_ai_art_on_your_computer/",
+            "external_url": "https://diffusionbee.com/",
+            "title": "DiffusionBee - generate AI art on your computer with Stable Diffusion",
+            "content_html": "<caption>Open: <a href='https://diffusionbee.com/'>diffusionbee.com</a> | <a href='https://reddit.com/r/macapps/comments/ylf8ye/diffusionbee_generate_ai_art_on_your_computer/'>Reddit</a></caption>",
+            "date_published": "2022-11-03T21:15:53+00:00",
+            "authors": [
+                {
+                    "name": "davidmorelo",
+                    "url": "https://www.reddit.com/user/davidmorelo"
+                }
+            ]
+        },
+        {
             "id": "yl2lz2",
             "url": "/r/macapps/comments/yl2lz2/stage_view_beta_for_macos_ventura_stage_manager/",
             "external_url": "https://noteifyapp.com/stage-view/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "davidmorelo",
                     "url": "https://www.reddit.com/user/davidmorelo"
-                }
-            ]
-        },
-        {
-            "id": "v7lgrx",
-            "url": "/r/macapps/comments/v7lgrx/app_fair_a_gui_interface_for_the_homebrew_casks/",
-            "external_url": "https://appfair.app",
-            "title": "App Fair \u2014 a GUI interface for the \u201cHomebrew Casks\u201d Mac app catalog",
-            "content_html": "<caption>Open in: <a href='https://appfair.app'>appfair.app</a> | <a href='https://reddit.com/r/macapps/comments/v7lgrx/app_fair_a_gui_interface_for_the_homebrew_casks/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/v7lgrx/app_fair_a_gui_interface_for_the_homebrew_casks/'>Apollo</a></caption>",
-            "date_published": "2022-06-08T09:29:40+00:00",
-            "authors": [
-                {
-                    "name": "yepdigitaluk",
-                    "url": "https://www.reddit.com/user/yepdigitaluk"
                 }
             ]
         }
