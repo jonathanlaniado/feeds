@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "ylq5ug",
+            "url": "/r/macapps/comments/ylq5ug/apps_that_should_be_paid_but_are_not_part_2/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/ylq5ug/apps_that_should_be_paid_but_are_not_part_2/",
+            "title": "Apps that should be paid, but are not (Part 2)",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/ylq5ug/apps_that_should_be_paid_but_are_not_part_2/'>Reddit</a></caption><div><br></div><div><p>Below are apps that I found in the last few days and how I am using these.</p>\n<p><a href=\"https://sindresorhus.com/velja.html\">velja: Powerful browser picker  </a></p>\n<p><strong>How I use it:</strong> Open links in their specific apps. Open google meet links in Chrome, and Teams meeting in the Teams app.</p>\n<p><a href=\"https://sindresorhus.com/pandan\">pandan:  Time awareness in your menu bar </a></p>\n<p><strong>How I use it:</strong> take frequent breaks from screentime</p>\n<p><a href=\"https://github.com/leits/MeetingBar\">GitHub - leits/MeetingBar: \ud83c\uddfa\ud83c\udde6 Your next meeting always before your eyes in the macOS menu bar</a></p>\n<p><strong>How I use it:</strong> Very convenient to quickly join meetings, I combine this with <code>velja</code>, eg. open zoom meetings in the Zoom app, Open Google meetings in Chrome.</p>\n<p>\u200b\n<a href=\"https://github.com/espanso/espanso\">GitHub - espanso/espanso: Cross-platform Text Expander written in Rust</a></p>\n<p><strong>How I use it:</strong> My goto text snippets app. quickly create code snippets in simple YAML files</p>\n<p><a href=\"https://github.com/withfig/autocomplete\">GitHub - withfig/autocomplete: Fig adds autocomplete to your terminal.</a></p>\n<p><strong>How I use it:</strong> gives autocomplete popups in the terminal, makes CLI work easier</p>\n<p><a href=\"https://github.com/pqrs-org/Karabiner-Elements\">GitHub - pqrs-org/Karabiner-Elements: Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.</a></p>\n<p><strong>How I use it:</strong> Using this, I have turned <code>Tabs</code> key to a <code>hyper</code> key and I use this with <a href=\"https://rectangleapp.com/\">Rectangle</a> to have superfast window management.</p>\n<ul>\n<li>More resources on this - https://ke-complex-modifications.pqrs.org/</li>\n</ul>\n<hr />\n<p>Part 1 - <a href=\"https://www.reddit.com/r/macapps/comments/ycz1eb/apps_that_should_be_paid_but_are_not/?context=3\">Apps that should be paid, but are not</a></p></div>",
+            "date_published": "2022-11-04T05:47:07+00:00",
+            "authors": [
+                {
+                    "name": "rootedMind",
+                    "url": "https://www.reddit.com/user/rootedMind"
+                }
+            ]
+        },
+        {
             "id": "ylf8ye",
             "url": "/r/macapps/comments/ylf8ye/diffusionbee_generate_ai_art_on_your_computer/",
             "external_url": "https://diffusionbee.com/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "obarlev",
                     "url": "https://www.reddit.com/user/obarlev"
-                }
-            ]
-        },
-        {
-            "id": "v91i63",
-            "url": "/r/macapps/comments/v91i63/what_are_your_favorite_hidden_gem_mac_apps/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/v91i63/what_are_your_favorite_hidden_gem_mac_apps/",
-            "title": "What are your favorite hidden gem Mac apps?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/v91i63/what_are_your_favorite_hidden_gem_mac_apps/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/v91i63/what_are_your_favorite_hidden_gem_mac_apps/'>Apollo</a></caption> <div><p>Mine are:</p>\n<ol>\n<li><a href=\"https://tracesof.net/uebersicht/\">\u00dcbersicht</a> (free): desktop widgets</li>\n<li><a href=\"https://www.trankynam.com/xtrafinder/\">XtraFinder</a> ($4.99 with unlimited trial): Finder on steroids </li>\n<li><a href=\"https://www.apptorium.com/sidenotes\">SideNotes</a> ($19.99): a convenient note-taking app</li>\n<li><a href=\"https://pilotmoon.com/popclip/\">PopClip</a> ($14.99): a text select pop-up window </li>\n<li><a href=\"https://beamer-app.com/\">Beamer</a> ($19.95):  lets you stream from a Mac </li>\n<li><a href=\"https://www.publicspace.net/ABetterFinderRename/\">A Better Finder Rename</a> (\u20ac24.95): a powerful bulk rename tool </li>\n<li><a href=\"https://www.stclairsoft.com/AppTamer/\">App Tamer</a> ($14.95): control how much CPU apps consume</li>\n<li><a href=\"https://plentycom.jp/en/cursorsense/\">CursorSense</a> ($9.99): tweak cursor movement on a per-device basis </li>\n<li><a href=\"https://obsidian.md/\">Obsidian</a> (free for personal use): a knowledge management app </li>\n<li><a href=\"https://imageoptim.com/\">ImageOptim</a> (free): open source image optimizer </li>\n<li><a href=\"https://appmakes.io/paletro\">Paletro</a> ($6.99): command palette for any macOS application</li>\n<li><a href=\"https://www.houdah.com/houdahSpot/?lang=en\">HoudahSpot 6</a> ($34): powerful file search app</li>\n<li><a href=\"https://apps.apple.com/us/app/quickshade/id931571202?mt=12\">QuickShade</a> (free): creates a dark display overlay </li>\n<li><a href=\"https://hazeover.com/\">HazeOver</a> ($4.99): helps you focus on a single window</li>\n<li><a href=\"https://github.com/will-stone/browserosaurus\">Browserosaurus</a> (free): open a link in a specific browser</li>\n<li><a href=\"https://apps.apple.com/app/wipr/id1320666476\">Wipr</a> ($1.99): ad-blocker for Safari</li>\n<li><a href=\"https://motrix.app/\">Motrix</a> (free): download manager</li>\n<li><a href=\"https://www.rogueamoeba.com/airfoil/\">Airfoil</a> ($43): send audio from any app to all kinds of devices</li>\n<li><a href=\"https://www.titanium-software.fr/en/onyx.html\">OnyX</a> (free): macOS maintenance and configuration utility </li>\n<li><a href=\"https://github.com/dmarcotte/easy-move-resize\">Easy Move+Resize</a> (free): comfortably move and resize application windows</li>\n</ol>\n<p>You can see their screenshots and read their full descriptions in <a href=\"https://morelowrites.medium.com/20-hidden-gem-mac-apps-that-will-change-your-life-bonus-3b6e4500afb6\">my recent blog post</a>.</p></div>",
-            "date_published": "2022-06-10T06:39:55+00:00",
-            "authors": [
-                {
-                    "name": "davidmorelo",
-                    "url": "https://www.reddit.com/user/davidmorelo"
                 }
             ]
         }
