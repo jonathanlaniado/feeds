@@ -8,6 +8,20 @@
     "favicon": "https://b.thumbs.redditmedia.com/k7fHE51fuhbYJRT2e9s1rXIp2ZtA7ks-cNFvQuNbfcE.png",
     "items": [
         {
+            "id": "ypbecs",
+            "url": "/r/InternetIsBeautiful/comments/ypbecs/this_website_allows_you_to_input_the_dimensions/",
+            "external_url": "https://www.opticutter.com/cut-list-optimizer",
+            "title": "This website allows you to input the dimensions of a sheet of material (e.g. 4x8 plywood) and the dimensions of cuts for panels you need to make. Then automatically calculates the best layout for minimal waist and fewest cuts.",
+            "content_html": "<caption>Open: <a href='https://www.opticutter.com/cut-list-optimizer'>www.opticutter.com</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/ypbecs/this_website_allows_you_to_input_the_dimensions/'>Reddit</a></caption>",
+            "date_published": "2022-11-08T04:43:44+00:00",
+            "authors": [
+                {
+                    "name": "96ewok",
+                    "url": "https://www.reddit.com/user/96ewok"
+                }
+            ]
+        },
+        {
             "id": "yop6ah",
             "url": "/r/InternetIsBeautiful/comments/yop6ah/a_tool_which_automatically_translates_plain/",
             "external_url": "https://www.usechannel.com",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "lilythevalley",
                     "url": "https://www.reddit.com/user/lilythevalley"
-                }
-            ]
-        },
-        {
-            "id": "tc2a9q",
-            "url": "/r/InternetIsBeautiful/comments/tc2a9q/a_website_that_shows_all_the_radiation_monitors/",
-            "external_url": "https://www.saveecobot.com/en/radiation-maps#12/51.3874/30.0871/gamma/",
-            "title": "A website that shows all the radiation monitors in Ukraine. The ones in the eastern part of the country as well as those around Chernobyl have lost connection.",
-            "content_html": "<caption>Open in: <a href='https://www.saveecobot.com/en/radiation-maps#12/51.3874/30.0871/gamma/'>www.saveecobot.com</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/tc2a9q/a_website_that_shows_all_the_radiation_monitors/'>Reddit</a> | <a href='apollo://reddit.com/r/InternetIsBeautiful/comments/tc2a9q/a_website_that_shows_all_the_radiation_monitors/'>Apollo</a></caption>",
-            "date_published": "2022-03-11T22:48:15+00:00",
-            "authors": [
-                {
-                    "name": "bill_lite",
-                    "url": "https://www.reddit.com/user/bill_lite"
                 }
             ]
         }
