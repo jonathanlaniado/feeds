@@ -8,6 +8,20 @@
     "favicon": "https://b.thumbs.redditmedia.com/k7fHE51fuhbYJRT2e9s1rXIp2ZtA7ks-cNFvQuNbfcE.png",
     "items": [
         {
+            "id": "yop6ah",
+            "url": "/r/InternetIsBeautiful/comments/yop6ah/a_tool_which_automatically_translates_plain/",
+            "external_url": "https://www.usechannel.com",
+            "title": "A tool which automatically translates plain english to SQL using GPT-3 so you can easily create graphs and dashboards",
+            "content_html": "<caption>Open: <a href='https://www.usechannel.com'>www.usechannel.com</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/yop6ah/a_tool_which_automatically_translates_plain/'>Reddit</a></caption>",
+            "date_published": "2022-11-07T14:49:41+00:00",
+            "authors": [
+                {
+                    "name": "BuggerinoKripperino",
+                    "url": "https://www.reddit.com/user/BuggerinoKripperino"
+                }
+            ]
+        },
+        {
             "id": "yn3y04",
             "url": "/r/InternetIsBeautiful/comments/yn3y04/if_youre_old_enough_to_remember_prince_of_persia/",
             "external_url": "http://Princejs.com",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "bill_lite",
                     "url": "https://www.reddit.com/user/bill_lite"
-                }
-            ]
-        },
-        {
-            "id": "tb3wrk",
-            "url": "/r/InternetIsBeautiful/comments/tb3wrk/imcdb_internet_movie_car_database_an_imdb_clone/",
-            "external_url": "https://www.imcdb.org/",
-            "title": "IMCDB: Internet Movie Car Database. An IMDB clone but it lists almost every vehicle that appeared in a movie",
-            "content_html": "<caption>Open in: <a href='https://www.imcdb.org/'>www.imcdb.org</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/tb3wrk/imcdb_internet_movie_car_database_an_imdb_clone/'>Reddit</a> | <a href='apollo://reddit.com/r/InternetIsBeautiful/comments/tb3wrk/imcdb_internet_movie_car_database_an_imdb_clone/'>Apollo</a></caption>",
-            "date_published": "2022-03-10T17:30:32+00:00",
-            "authors": [
-                {
-                    "name": "Itstoolongitwillruno",
-                    "url": "https://www.reddit.com/user/Itstoolongitwillruno"
                 }
             ]
         }
