@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "yrdeyc",
+            "url": "/r/selfhosted/comments/yrdeyc/libretranslate_free_and_open_source_machine/",
+            "external_url": "https://github.com/LibreTranslate/LibreTranslate#run-with-docker",
+            "title": "LibreTranslate: Free and Open Source Machine Translation API. 100% self-hosted, offline capable and easy to setup.",
+            "content_html": "<caption>Open: <a href='https://github.com/LibreTranslate/LibreTranslate#run-with-docker'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/yrdeyc/libretranslate_free_and_open_source_machine/'>Reddit</a></caption>",
+            "date_published": "2022-11-10T12:26:15+00:00",
+            "authors": [
+                {
+                    "name": "Spirited-Pause",
+                    "url": "https://www.reddit.com/user/Spirited-Pause"
+                }
+            ]
+        },
+        {
             "id": "yr0j31",
             "url": "/r/selfhosted/comments/yr0j31/ive_built_a_selfhosted_file_storage/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/yr0j31/ive_built_a_selfhosted_file_storage/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Emwat1024",
                     "url": "https://www.reddit.com/user/Emwat1024"
-                }
-            ]
-        },
-        {
-            "id": "t7f1s0",
-            "url": "/r/selfhosted/comments/t7f1s0/i_created_polyture_a_selfhosted_endtoend_data/",
-            "external_url": "https://i.redd.it/drnebxz2ull81.png",
-            "title": "I created Polyture, a self-hosted, end-to-end, data science platform!",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/drnebxz2ull81.png'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/t7f1s0/i_created_polyture_a_selfhosted_endtoend_data/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/t7f1s0/i_created_polyture_a_selfhosted_endtoend_data/'>Apollo</a></caption>",
-            "date_published": "2022-03-05T18:01:49+00:00",
-            "authors": [
-                {
-                    "name": "polyture",
-                    "url": "https://www.reddit.com/user/polyture"
                 }
             ]
         }
