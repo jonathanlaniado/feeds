@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "ys9xwc",
+            "url": "/r/macapps/comments/ys9xwc/todays_schedule_in_your_menu_bar/",
+            "external_url": "https://apps.apple.com/app/id6443714928",
+            "title": "Today\u2019s schedule in your menu bar",
+            "content_html": "<caption>Open: <a href='https://apps.apple.com/app/id6443714928'>apps.apple.com</a> | <a href='https://reddit.com/r/macapps/comments/ys9xwc/todays_schedule_in_your_menu_bar/'>Reddit</a></caption>",
+            "date_published": "2022-11-11T13:05:51+00:00",
+            "authors": [
+                {
+                    "name": "sindresorhus",
+                    "url": "https://www.reddit.com/user/sindresorhus"
+                }
+            ]
+        },
+        {
             "id": "yqhm4o",
             "url": "/r/macapps/comments/yqhm4o/affinity_v2_just_dropped/",
             "external_url": "https://www.reddit.com/r/macapps/comments/yqhm4o/affinity_v2_just_dropped/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "evilagentcooper",
                     "url": "https://www.reddit.com/user/evilagentcooper"
-                }
-            ]
-        },
-        {
-            "id": "vbbq23",
-            "url": "/r/macapps/comments/vbbq23/ia_writer_6_update_tomorrow_tue_june_14th_1400_cet/",
-            "external_url": "https://twitter.com/iawriter/status/1534858939996962816?s=21&t=1a8zTB88svVwe1eizM_O3w",
-            "title": "iA Writer 6 update tomorrow (Tue June 14th, 14:00 CET)",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/vbbq23/ia_writer_6_update_tomorrow_tue_june_14th_1400_cet/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/vbbq23/ia_writer_6_update_tomorrow_tue_june_14th_1400_cet/'>Apollo</a></caption><div><br></div><blockquote class=\"twitter-tweet\" align=\"center\"><p lang=\"en\" dir=\"ltr\">iA Writer 6, the biggest update since its introduction in 2010 will drop next week. Journalists who write about apps and are interested in seeing the preview, please get in touch via writer+preview@ia.net <a href=\"https://t.co/JwY7mSzmg7\">pic.twitter.com/JwY7mSzmg7</a></p>&mdash; iA Writer: Get Focused. (@iAWriter) <a href=\"https://twitter.com/iAWriter/status/1534858939996962816?ref_src=twsrc%5Etfw\">June 9, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
-            "date_published": "2022-06-13T13:02:36+00:00",
-            "authors": [
-                {
-                    "name": "aaaaaaaaaaaaaa_a_a_a",
-                    "url": "https://www.reddit.com/user/aaaaaaaaaaaaaa_a_a_a"
                 }
             ]
         }
