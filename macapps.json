@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "yt3eam",
+            "url": "/r/macapps/comments/yt3eam/any_websiteblogyoutube_channels_where_i_can_find/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/yt3eam/any_websiteblogyoutube_channels_where_i_can_find/",
+            "title": "Any website/blog/youtube channels where I can find new apps and tweaks etc to install on my macbook pro?",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/yt3eam/any_websiteblogyoutube_channels_where_i_can_find/'>Reddit</a></caption><div><br></div><div><p>Any website/blog/youtube channels where I can find new apps and tweaks etc to install on my macbook pro?</p>\n<p>If its even more relevant with recommendation for apps and tweaks for software engineers that would be even better</p></div>",
+            "date_published": "2022-11-12T10:35:12+00:00",
+            "authors": [
+                {
+                    "name": "Lekowski",
+                    "url": "https://www.reddit.com/user/Lekowski"
+                }
+            ]
+        },
+        {
             "id": "ys9xwc",
             "url": "/r/macapps/comments/ys9xwc/todays_schedule_in_your_menu_bar/",
             "external_url": "https://apps.apple.com/app/id6443714928",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "notpwign",
                     "url": "https://www.reddit.com/user/notpwign"
-                }
-            ]
-        },
-        {
-            "id": "vbm7tg",
-            "url": "/r/macapps/comments/vbm7tg/telik_macos_app_to_track_youtube_channels_and/",
-            "external_url": "https://github.com/agentcooper/Telik",
-            "title": "Telik - macOS app to track YouTube channels and playlists (free and open source)",
-            "content_html": "<caption>Open in: <a href='https://github.com/agentcooper/Telik'>github.com</a> | <a href='https://reddit.com/r/macapps/comments/vbm7tg/telik_macos_app_to_track_youtube_channels_and/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/vbm7tg/telik_macos_app_to_track_youtube_channels_and/'>Apollo</a></caption>",
-            "date_published": "2022-06-13T20:56:20+00:00",
-            "authors": [
-                {
-                    "name": "evilagentcooper",
-                    "url": "https://www.reddit.com/user/evilagentcooper"
                 }
             ]
         }
