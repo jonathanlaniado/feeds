@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "yyhn4f",
+            "url": "/r/macapps/comments/yyhn4f/app_for_a_better_meeting_experience/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/yyhn4f/app_for_a_better_meeting_experience/",
+            "title": "App for a better meeting experience",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/yyhn4f/app_for_a_better_meeting_experience/'>Reddit</a></caption><div><br></div><div><p>Hi r/macapps \ud83d\udc4b</p>\n<p>I created this application two years ago and since then I have constantly improved it with the open-source community's help. If you're still joining appointments from your calendar, give this a try!</p>\n<p>https://preview.redd.it/zza5jix91p0a1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=9ce4cdcadf946f1913d0062610aa19d46d5f7cc7</p>\n<p>GitHub: <a href=\"https://github.com/leits/MeetingBar\">https://github.com/leits/MeetingBar</a></p>\n<p>Site: <a href=\"https://meetingbar.leits.me/\">https://meetingbar.leits.me</a></p>\n<p>AppStore: <a href=\"https://apps.apple.com/app/id1532419400\">https://apps.apple.com/app/id1532419400</a></p>\n<p>Homebrew: brew install --cask meetingbar</p>\n<p>&#x200B;</p>\n<p>I look forward to your feedback. If you like it, please share it with your friends and colleagues \ud83d\ude0a</p></div>",
+            "date_published": "2022-11-18T11:17:19+00:00",
+            "authors": [
+                {
+                    "name": "leits9",
+                    "url": "https://www.reddit.com/user/leits9"
+                }
+            ]
+        },
+        {
             "id": "yxl8sm",
             "url": "/r/macapps/comments/yxl8sm/i_made_a_free_app_just_like_apples_app_switcher/",
             "external_url": "https://www.reddit.com/r/macapps/comments/yxl8sm/i_made_a_free_app_just_like_apples_app_switcher/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ashleyalyssa",
                     "url": "https://www.reddit.com/user/ashleyalyssa"
-                }
-            ]
-        },
-        {
-            "id": "vi1ois",
-            "url": "/r/macapps/comments/vi1ois/what_are_your_favourite_raycast_workflows/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/vi1ois/what_are_your_favourite_raycast_workflows/",
-            "title": "What are your favourite Raycast workflows?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/vi1ois/what_are_your_favourite_raycast_workflows/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/vi1ois/what_are_your_favourite_raycast_workflows/'>Apollo</a></caption> <div><p>I've been using it for a few months now but I can't say I am a power user yet. I am looking for usecases that I may not have thought of previously. </p>\n<p>Here are my favourite: </p>\n<ol>\n<li>Search for and play spotify songs </li>\n<li>Resize windows</li>\n<li>Add a new entry to a Notion database</li>\n<li>Clipboard history </li>\n</ol>\n<p>What do you like?</p></div>",
-            "date_published": "2022-06-22T10:03:44+00:00",
-            "authors": [
-                {
-                    "name": "v-mohan",
-                    "url": "https://www.reddit.com/user/v-mohan"
                 }
             ]
         }
