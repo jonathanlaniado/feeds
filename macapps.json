@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "z008bv",
+            "url": "/r/macapps/comments/z008bv/gifski_convert_videos_to_highquality_gifs/",
+            "external_url": "https://apps.apple.com/app/id1351639930",
+            "title": "Gifski \u2014 Convert videos to high-quality GIFs",
+            "content_html": "<caption>Open: <a href='https://apps.apple.com/app/id1351639930'>apps.apple.com</a> | <a href='https://reddit.com/r/macapps/comments/z008bv/gifski_convert_videos_to_highquality_gifs/'>Reddit</a></caption>",
+            "date_published": "2022-11-20T09:51:02+00:00",
+            "authors": [
+                {
+                    "name": "sindresorhus",
+                    "url": "https://www.reddit.com/user/sindresorhus"
+                }
+            ]
+        },
+        {
             "id": "yza6mx",
             "url": "/r/macapps/comments/yza6mx/apps_that_should_be_paid_but_are_not_part_3/",
             "external_url": "https://www.reddit.com/r/macapps/comments/yza6mx/apps_that_should_be_paid_but_are_not_part_3/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "iankeen",
                     "url": "https://www.reddit.com/user/iankeen"
-                }
-            ]
-        },
-        {
-            "id": "vjk8wd",
-            "url": "/r/macapps/comments/vjk8wd/i_created_bartranslate_a_handy_free_menu_bar/",
-            "external_url": "https://github.com/ThijmenDam/BarTranslate",
-            "title": "I created BarTranslate, a handy (free) menu bar translator widget for MacOS. Now open source!",
-            "content_html": "<caption>Open in: <a href='https://github.com/ThijmenDam/BarTranslate'>github.com</a> | <a href='https://reddit.com/r/macapps/comments/vjk8wd/i_created_bartranslate_a_handy_free_menu_bar/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/vjk8wd/i_created_bartranslate_a_handy_free_menu_bar/'>Apollo</a></caption>",
-            "date_published": "2022-06-24T09:17:22+00:00",
-            "authors": [
-                {
-                    "name": "Thijmenn",
-                    "url": "https://www.reddit.com/user/Thijmenn"
                 }
             ]
         }
