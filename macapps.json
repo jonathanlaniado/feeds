@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "z201gq",
+            "url": "/r/macapps/comments/z201gq/black_friday_massive_listing_of_discounted_apps/",
+            "external_url": "https://mjtsai.com/blog/2022/11/22/black-friday-2022/",
+            "title": "[Black Friday] massive listing of discounted apps",
+            "content_html": "<caption>Open: <a href='https://mjtsai.com/blog/2022/11/22/black-friday-2022/'>mjtsai.com</a> | <a href='https://reddit.com/r/macapps/comments/z201gq/black_friday_massive_listing_of_discounted_apps/'>Reddit</a></caption>",
+            "date_published": "2022-11-22T17:53:05+00:00",
+            "authors": [
+                {
+                    "name": "BluesMaster",
+                    "url": "https://www.reddit.com/user/BluesMaster"
+                }
+            ]
+        },
+        {
             "id": "z12dws",
             "url": "/r/macapps/comments/z12dws/macos_pixelmator_pro_3999_1999/",
             "external_url": "https://apps.apple.com/us/app/pixelmator-pro/id1289583905?mt=12",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MJFox1978",
                     "url": "https://www.reddit.com/user/MJFox1978"
-                }
-            ]
-        },
-        {
-            "id": "vluldy",
-            "url": "/r/macapps/comments/vluldy/aqueduct_macos_app_to_view_telegram_channels/",
-            "external_url": "https://github.com/agentcooper/Aqueduct",
-            "title": "Aqueduct - macOS app to view Telegram channels (native, free and open-source, no Telegram account needed)",
-            "content_html": "<caption>Open in: <a href='https://github.com/agentcooper/Aqueduct'>github.com</a> | <a href='https://reddit.com/r/macapps/comments/vluldy/aqueduct_macos_app_to_view_telegram_channels/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/vluldy/aqueduct_macos_app_to_view_telegram_channels/'>Apollo</a></caption>",
-            "date_published": "2022-06-27T12:41:07+00:00",
-            "authors": [
-                {
-                    "name": "Digital_Voodoo",
-                    "url": "https://www.reddit.com/user/Digital_Voodoo"
                 }
             ]
         }
