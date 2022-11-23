@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "z245mo",
+            "url": "/r/selfhosted/comments/z245mo/loading_40k_images_in_one_view_with_memories/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/z245mo/loading_40k_images_in_one_view_with_memories/",
+            "title": "Loading 40k images in one view with Memories, self-hosted FOSS Google Photos alternative. Nov 2022 progress update.",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/z245mo/loading_40k_images_in_one_view_with_memories/'>Reddit</a></caption><div><br></div><div><p>Hi Reddit, this is a progress update post for Memories, a FOSS high performance alternative to Google Photos that you can host. Memories runs as a Nextcloud app, and has a batteries-included one-click installation procedure. You can access the repository <a href=\"https://github.com/pulsejet/memories\">here</a>.</p>\n<p>For the title before the update (this is my dev instance with a lot of optimizations disabled; production is even faster). Something I just tried out for fun.</p>\n<p><a href=\"https://reddit.com/link/z245mo/video/2fun5mzw8k1a1/player\">40k photos in one view</a></p>\n<p><strong>Progress update as of 11/22/2022</strong></p>\n<p>tl;dr Memories became the first FOSS photo manager to have all basic features on <a href=\"https://github.com/meichthys/foss_photo_libraries\">this nice list</a>.</p>\n<p>Some of the major new features:</p>\n<p><strong>Live Photo Support</strong></p>\n<ul>\n<li>Thanks to a lot of research done by many people, Memories now has support for iOS, Google and Samsung live photos.</li>\n<li>HEIC is currently not supported for live photos since there are no good libraries to extract the motion photo part from HEIC.</li>\n</ul>\n<p><strong>Video Transcoding</strong></p>\n<ul>\n<li>Memories now supports live video transcoding with HLS adaptive streaming. Currently hardware acceleration is supported for Intel QuickSync.</li>\n<li>Thanks to a lot of fast feedback, most bugs in transcoding should also be fixed with v4.8.1</li>\n</ul>\n<p><strong>Multiple Timeline Folders</strong></p>\n<ul>\n<li>For maximum flexibility, you can now specify multiple folders to show in your timeline.</li>\n<li>You can also have timeline folders across storages now (e.g. external SSH storage)</li>\n</ul>\n<p><strong>Server side encryption</strong></p>\n<ul>\n<li>If you run standard Nextcloud encryption, things wont fail with an error anymore</li>\n</ul>\n<p><strong>New metadata sidebar</strong></p>\n<ul>\n<li>You can now see the location (with a map) and other metadata information in the sidebar</li>\n</ul>\n<p><strong>New photo viewer</strong></p>\n<ul>\n<li>With some fancy UX. Try it out ;)</li>\n</ul>\n<p>The full changelog can be found <a href=\"https://github.com/pulsejet/memories/blob/master/CHANGELOG.md\">here</a>.</p>\n<p>If you use and enjoy Memories, please leave a star at GitHub. Thanks! \ud83c\udf8a</p></div>",
+            "date_published": "2022-11-22T20:33:08+00:00",
+            "authors": [
+                {
+                    "name": "radialapps",
+                    "url": "https://www.reddit.com/user/radialapps"
+                }
+            ]
+        },
+        {
             "id": "z18248",
             "url": "/r/selfhosted/comments/z18248/self_hosting_a_google_maps_alternative_with/",
             "external_url": "https://wcedmisten.fyi/post/self-hosting-osm/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "marceldarvas",
                     "url": "https://www.reddit.com/user/marceldarvas"
-                }
-            ]
-        },
-        {
-            "id": "tguvo1",
-            "url": "/r/selfhosted/comments/tguvo1/real_hidden_gems_when_it_comes_to_self_hosting/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/tguvo1/real_hidden_gems_when_it_comes_to_self_hosting/",
-            "title": "Real hidden gems when it comes to self hosting",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/tguvo1/real_hidden_gems_when_it_comes_to_self_hosting/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/tguvo1/real_hidden_gems_when_it_comes_to_self_hosting/'>Apollo</a></caption> <div><p>I wonder what you guys consider hidden gem apps that you self host.</p>\n<p>Suggest some and let me know what you use it for!</p>\n<p>I have one: https://github.com/evan-buss/openbooks allows you to download ebooks from irc.irchighway.net</p></div>",
-            "date_published": "2022-03-18T06:20:25+00:00",
-            "authors": [
-                {
-                    "name": "stefantigro",
-                    "url": "https://www.reddit.com/user/stefantigro"
                 }
             ]
         }
