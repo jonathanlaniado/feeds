@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "z310zq",
+            "url": "/r/macapps/comments/z310zq/black_friday_apptorium_apps_sidenotes_workspaces/",
+            "external_url": "https://www.apptorium.com/black-friday-2022",
+            "title": "[Black Friday] Apptorium apps (SideNotes, Workspaces and more) up to 40% off",
+            "content_html": "<caption>Open: <a href='https://www.apptorium.com/black-friday-2022'>www.apptorium.com</a> | <a href='https://reddit.com/r/macapps/comments/z310zq/black_friday_apptorium_apps_sidenotes_workspaces/'>Reddit</a></caption>",
+            "date_published": "2022-11-23T21:25:06+00:00",
+            "authors": [
+                {
+                    "name": "emkaka",
+                    "url": "https://www.reddit.com/user/emkaka"
+                }
+            ]
+        },
+        {
             "id": "z2dvkd",
             "url": "/r/macapps/comments/z2dvkd/most_of_these_have_become_essential_to_me_at_this/",
             "external_url": "https://i.imgur.com/8zeK2Op.jpg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "giuliomagnifico",
                     "url": "https://www.reddit.com/user/giuliomagnifico"
-                }
-            ]
-        },
-        {
-            "id": "vneb01",
-            "url": "/r/macapps/comments/vneb01/native_mac_telegram_client/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/vneb01/native_mac_telegram_client/",
-            "title": "Native Mac Telegram client?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/vneb01/native_mac_telegram_client/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/vneb01/native_mac_telegram_client/'>Apollo</a></caption> <div><p>Hello,\nI am looking for a native (no Chromium, QT or otherwise) Telegram client. I am blind and I use VoiceOver to operate the system, and the official Telegram client is not accessible. Any alternatives?</p></div>",
-            "date_published": "2022-06-29T12:10:06+00:00",
-            "authors": [
-                {
-                    "name": "Nuno_Nuno",
-                    "url": "https://www.reddit.com/user/Nuno_Nuno"
                 }
             ]
         }
