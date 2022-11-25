@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "z4fyxm",
+            "url": "/r/macapps/comments/z4fyxm/community_driven_list_of_black_friday_and_cyber/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/z4fyxm/community_driven_list_of_black_friday_and_cyber/",
+            "title": "Community driven list of Black Friday and Cyber Monday deals for Mac/iPhone/iPad",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/z4fyxm/community_driven_list_of_black_friday_and_cyber/'>Reddit</a></caption><div><br></div><div><p>Hi there,</p>\n<p>As every year we are adding Black Friday and Cyber Monday deals to this page: <a href=\"https://github.com/mRs-/Black-Friday-Deals\">https://github.com/mRs-/Black-Friday-Deals</a></p>\n<p>If you know about any nice deals, I encourage you to add it as PR. Let's make it the ultimate deals list ;-)</p></div>",
+            "date_published": "2022-11-25T15:23:40+00:00",
+            "authors": [
+                {
+                    "name": "misiek_to_ja",
+                    "url": "https://www.reddit.com/user/misiek_to_ja"
+                }
+            ]
+        },
+        {
             "id": "z3w6h5",
             "url": "/r/macapps/comments/z3w6h5/backstory_wallpapers_is_free/",
             "external_url": "https://apps.apple.com/app/backstory-wallpapers/id1468700458?src=AppAgg.com&mt=12",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "sindresorhus",
                     "url": "https://www.reddit.com/user/sindresorhus"
-                }
-            ]
-        },
-        {
-            "id": "vp4677",
-            "url": "/r/macapps/comments/vp4677/after_kindavim_that_adds_vim_moves_to_any_ui/",
-            "external_url": "https://www.youtube.com/watch?v=-N6VwfQGrCU",
-            "title": "after kindaVim that adds Vim moves to any UI element on macOS, here's my second app: Wooshy. reach those UI elements through searching the whole macOS UI.",
-            "content_html": "<caption>Open in: <a href='https://www.youtube.com/watch?v=-N6VwfQGrCU'>www.youtube.com</a> | <a href='https://reddit.com/r/macapps/comments/vp4677/after_kindavim_that_adds_vim_moves_to_any_ui/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/vp4677/after_kindavim_that_adds_vim_moves_to_any_ui/'>Apollo</a></caption>",
-            "date_published": "2022-07-01T15:57:46+00:00",
-            "authors": [
-                {
-                    "name": "777tauh",
-                    "url": "https://www.reddit.com/user/777tauh"
                 }
             ]
         }
