@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "z4glda",
+            "url": "/r/macapps/comments/z4glda/black_friday_2022_little_snitch_5_at_50_off/",
+            "external_url": "https://www.obdev.at/products/littlesnitch/order.html",
+            "title": "Black Friday 2022 - Little Snitch 5 at 50% off",
+            "content_html": "<caption>Open: <a href='https://www.obdev.at/products/littlesnitch/order.html'>www.obdev.at</a> | <a href='https://reddit.com/r/macapps/comments/z4glda/black_friday_2022_little_snitch_5_at_50_off/'>Reddit</a></caption>",
+            "date_published": "2022-11-25T15:50:07+00:00",
+            "authors": [
+                {
+                    "name": "appsforless",
+                    "url": "https://www.reddit.com/user/appsforless"
+                }
+            ]
+        },
+        {
             "id": "z4fyxm",
             "url": "/r/macapps/comments/z4fyxm/community_driven_list_of_black_friday_and_cyber/",
             "external_url": "https://www.reddit.com/r/macapps/comments/z4fyxm/community_driven_list_of_black_friday_and_cyber/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "davidmorelo",
                     "url": "https://www.reddit.com/user/davidmorelo"
-                }
-            ]
-        },
-        {
-            "id": "vqrpv2",
-            "url": "/r/macapps/comments/vqrpv2/velja_browser_picker/",
-            "external_url": "https://apps.apple.com/app/id1607635845",
-            "title": "Velja \u2014 Browser picker",
-            "content_html": "<caption>Open in: <a href='https://apps.apple.com/app/id1607635845'>apps.apple.com</a> | <a href='https://reddit.com/r/macapps/comments/vqrpv2/velja_browser_picker/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/vqrpv2/velja_browser_picker/'>Apollo</a></caption>",
-            "date_published": "2022-07-03T21:37:01+00:00",
-            "authors": [
-                {
-                    "name": "sindresorhus",
-                    "url": "https://www.reddit.com/user/sindresorhus"
                 }
             ]
         }
