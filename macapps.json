@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "z4w3q0",
+            "url": "/r/macapps/comments/z4w3q0/i_am_building_a_safari_web_extension_not_an_app/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/z4w3q0/i_am_building_a_safari_web_extension_not_an_app/",
+            "title": "I am building a Safari Web Extension (not an app extension) to switch tabs efficiently. Something I really wanted to exist!",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/z4w3q0/i_am_building_a_safari_web_extension_not_an_app/'>Reddit</a></caption><div><br></div><div><p>I like the tab-switching behaviour in Chrome/Firefox and wanted Safari to have something similar. Another wish of mine was for it to be a web extension that feels native to the browser vs an app extension that looks out of place. </p>\n<p>After waiting long enough, I decided to build one myself. A little preview of <a href=\"https://taptab.manibatra.xyz\">Tap Tab</a>. The web extension APIs for managing tabs are pretty locked down in Safari, but I have already found a lot of value in using the extension. Some of the features that I find very useful(in the middle of building a few of these) : \n-   Driven by keyboard shortcuts. I can see the tabs I have open at a glance and switch between them.\n-   Fuzzy search to quickly filter down to the tab you want. \n-   Quick switching between two tabs.\n-   Ability to pin, mute, and close the tab right from the extension.</p>\n<p>Say hello, and tell me what features you would like the extension to have!!</p></div>",
+            "date_published": "2022-11-26T02:54:28+00:00",
+            "authors": [
+                {
+                    "name": "crypto_ruined_me",
+                    "url": "https://www.reddit.com/user/crypto_ruined_me"
+                }
+            ]
+        },
+        {
             "id": "z4glda",
             "url": "/r/macapps/comments/z4glda/black_friday_2022_little_snitch_5_at_50_off/",
             "external_url": "https://www.obdev.at/products/littlesnitch/order.html",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "slamingzone",
                     "url": "https://www.reddit.com/user/slamingzone"
-                }
-            ]
-        },
-        {
-            "id": "vr5327",
-            "url": "/r/macapps/comments/vr5327/what_are_some_of_the_most_overrated_mac_apps/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/vr5327/what_are_some_of_the_most_overrated_mac_apps/",
-            "title": "What are some of the most overrated Mac apps?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/vr5327/what_are_some_of_the_most_overrated_mac_apps/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/vr5327/what_are_some_of_the_most_overrated_mac_apps/'>Apollo</a></caption> <div></div>",
-            "date_published": "2022-07-04T11:15:41+00:00",
-            "authors": [
-                {
-                    "name": "davidmorelo",
-                    "url": "https://www.reddit.com/user/davidmorelo"
                 }
             ]
         }
