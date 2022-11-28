@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "z737u2",
+            "url": "/r/apple/comments/z737u2/elon_musk_apple_has_mostly_stopped_advertising_on/",
+            "external_url": "https://twitter.com/elonmusk/status/1597285572699074560?s=46&t=fUrZaTGzLJP8gAI0hOvzJg",
+            "title": "Elon Musk: Apple has mostly stopped advertising on Twitter. Do they hate free speech in America?",
+            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/apple/comments/z737u2/elon_musk_apple_has_mostly_stopped_advertising_on/\">Reddit</a></caption><div><br></div><blockquote class=\"twitter-tweet\" align=\"center\"><p lang=\"en\" dir=\"ltr\">Apple has mostly stopped advertising on Twitter. Do they hate free speech in America?</p>&mdash; Elon Musk (@elonmusk) <a href=\"https://twitter.com/elonmusk/status/1597285572699074560?ref_src=twsrc%5Etfw\">November 28, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+            "date_published": "2022-11-28T17:54:35+00:00",
+            "authors": [
+                {
+                    "name": "Blaglag_",
+                    "url": "https://www.reddit.com/user/Blaglag_"
+                }
+            ]
+        },
+        {
             "id": "z613sa",
             "url": "/r/apple/comments/z613sa/apple_is_becoming_an_ad_company_despite_privacy/",
             "external_url": "https://proton.me/blog/apple-ad-company",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "nelson528",
                     "url": "https://www.reddit.com/user/nelson528"
-                }
-            ]
-        },
-        {
-            "id": "xfa55p",
-            "url": "/r/apple/comments/xfa55p/psa_new_ios_feature_to_automatically_bypass/",
-            "external_url": "https://www.reddit.com/r/apple/comments/xfa55p/psa_new_ios_feature_to_automatically_bypass/",
-            "title": "PSA: New iOS feature to Automatically Bypass CAPTCHAs",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/apple/comments/xfa55p/psa_new_ios_feature_to_automatically_bypass/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/xfa55p/psa_new_ios_feature_to_automatically_bypass/'>Apollo</a></caption> <div><p>Just noticed this. You can bypass CAPTCHAs automatically in iOS 16 using the Automatic Verification feature. You can enable it as follows:</p>\n<p>Settings app and tap your\u00a0Apple ID at the top &gt; Password &amp; Security &gt; Scroll to the very bottom.</p>\n<p>Explanation (from Nerds Chalk):\nWhenever you visit a website with CAPTCHA verification, the site will automatically request your device for a verification token.\nYour iPhone or iPad will then contact iCloud servers and request verification of the current device you\u2019re using. The verification process then begins from Apple servers where your identity is verified and the servers contact the concerned website you visited.\u00a0\nApple servers then request a verification token dedicated for your device based on the confirmation. This token is then delivered to your device via iCloud servers and the website automatically detects the same.</p></div>",
-            "date_published": "2022-09-15T22:36:11+00:00",
-            "authors": [
-                {
-                    "name": "MalteseAppleFan",
-                    "url": "https://www.reddit.com/user/MalteseAppleFan"
                 }
             ]
         }
