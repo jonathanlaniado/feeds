@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "z8sztf",
+            "url": "/r/macapps/comments/z8sztf/arc_browser/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/z8sztf/arc_browser/",
+            "title": "Arc Browser",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/z8sztf/arc_browser/'>Reddit</a></caption><div><br></div><div><p>I love the <a href=\"https://thebrowser.company/\">Arc browser</a>. It runs on chromium and every little UI detail is just how I like it. </p>\n<p><em>I can give away a couple of invites to anyone interested, feel free to comment on this post. (I plan to give away 4 licenses)</em></p></div>",
+            "date_published": "2022-11-30T14:33:11+00:00",
+            "authors": [
+                {
+                    "name": "glebosotov",
+                    "url": "https://www.reddit.com/user/glebosotov"
+                }
+            ]
+        },
+        {
             "id": "z666lt",
             "url": "/r/macapps/comments/z666lt/stage_view_out_of_beta_thanks_for_the_support/",
             "external_url": "https://noteifyapp.com/stage-view/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "fourstringstu",
                     "url": "https://www.reddit.com/user/fourstringstu"
-                }
-            ]
-        },
-        {
-            "id": "vtg03p",
-            "url": "/r/macapps/comments/vtg03p/introducing_noise_alerts_an_app_for_people_who/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/vtg03p/introducing_noise_alerts_an_app_for_people_who/",
-            "title": "Introducing Noise Alerts; an app for people who have hearing difficulties, use noise-cancelling headphones, or work in a high-risk environment.",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/vtg03p/introducing_noise_alerts_an_app_for_people_who/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/vtg03p/introducing_noise_alerts_an_app_for_people_who/'>Apollo</a></caption> <div><p>Hello r/macapps! I'm David, the developer of Noise Alerts; the app allows you to monitor the sound level at your location, and can even send you a notification if a sudden jump in noise was heard (such as someone talking to you, or something falling)</p>\n<p>Noise Alerts also comes with a helpful noise meter in the menu bar for you to easily monitor your background noise level and control the app whilst working in other programs! </p>\n<p>Noise Alerts has been designed for customisability in mind. There's a settings panel with heaps of customisation options to calibrate the app for your microphone. The app also takes on a stunning design, with everything you need presented to you simply, front and centre. </p>\n<p>I personally find the app super useful for when I'm wearing my noise-cancelling headphones, so I get a notification when someone's talking to me. </p>\n<p>People in high-risk workplaces (such as a construction site or warehouse) who also need to wear noise-cancelling headphones can use this application to get alerted not only when someone's talking to them, but also if something's fallen for example \u2014 making a huge addition to any workplace's safety.</p>\n<p>This app is also incredibly beneficial to people who experience hearing difficulties, allowing them to stay tuned in with the noise of their environment.</p>\n<p>Feel free to ask any questions or feedback here in the comments, or on Twitter! Also feel free to leave a review! <strong>Noise Alerts is available on the Mac App Store today for just $0.99 USD, but there's also 10 free codes in the comments!</strong></p>\n<p>Mac App Store: <a href=\"https://apps.apple.com/app/noise-alerts/id1632993345\">https://apps.apple.com/app/noise-alerts/id1632993345</a></p>\n<p>Also launched today on Product Hunt: <a href=\"https://www.producthunt.com/posts/noise-alerts\">https://www.producthunt.com/posts/noise-alerts</a></p>\n<p>Tweet me with any feedback or questions: https://twitter.com/TheIntelCorei9</p></div>",
-            "date_published": "2022-07-07T11:02:22+00:00",
-            "authors": [
-                {
-                    "name": "DavidGamingHDR",
-                    "url": "https://www.reddit.com/user/DavidGamingHDR"
                 }
             ]
         }
