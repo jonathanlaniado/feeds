@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "zbxd9e",
+            "url": "/r/macapps/comments/zbxd9e/found_penguin_a_plist_editor_for_mac_with_a_focus/",
+            "external_url": "https://getpenguin.app/",
+            "title": "Found \u201cPenguin\u201d; A Plist Editor for Mac with a focus on GUI. Came out in Fall of 2022.",
+            "content_html": "<caption>Open: <a href='https://getpenguin.app/'>getpenguin.app</a> | <a href='https://reddit.com/r/macapps/comments/zbxd9e/found_penguin_a_plist_editor_for_mac_with_a_focus/'>Reddit</a></caption>",
+            "date_published": "2022-12-04T01:59:38+00:00",
+            "authors": [
+                {
+                    "name": "VNzAbguvat",
+                    "url": "https://www.reddit.com/user/VNzAbguvat"
+                }
+            ]
+        },
+        {
             "id": "zbh8b9",
             "url": "/r/macapps/comments/zbh8b9/im_curious_to_hear_how_folks_have_been_dealing/",
             "external_url": "https://www.reddit.com/r/macapps/comments/zbh8b9/im_curious_to_hear_how_folks_have_been_dealing/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "pizzaisprettyneato",
                     "url": "https://www.reddit.com/user/pizzaisprettyneato"
-                }
-            ]
-        },
-        {
-            "id": "vwrxk5",
-            "url": "/r/macapps/comments/vwrxk5/i_just_launched_keytrails_an_input_monitoring_app/",
-            "external_url": "https://apps.apple.com/us/app/keytrails/id1632266803?mt=12",
-            "title": "I just launched KeyTrails - an input monitoring app to visualize your keypresses on-screen with style!",
-            "content_html": "<caption>Open in: <a href='https://apps.apple.com/us/app/keytrails/id1632266803?mt=12'>apps.apple.com</a> | <a href='https://reddit.com/r/macapps/comments/vwrxk5/i_just_launched_keytrails_an_input_monitoring_app/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/vwrxk5/i_just_launched_keytrails_an_input_monitoring_app/'>Apollo</a></caption>",
-            "date_published": "2022-07-11T20:16:27+00:00",
-            "authors": [
-                {
-                    "name": "Killforthecoke",
-                    "url": "https://www.reddit.com/user/Killforthecoke"
                 }
             ]
         }
