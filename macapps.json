@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "zcbywf",
+            "url": "/r/macapps/comments/zcbywf/bartender_alternative_for_floating_hidden_menu_bar/",
+            "external_url": "https://apps.apple.com/de/app/ibar-menubar-icon-control-tool/id6443843900?mt=12",
+            "title": "Bartender Alternative for floating hidden menu bar",
+            "content_html": "<caption>Open: <a href='https://apps.apple.com/de/app/ibar-menubar-icon-control-tool/id6443843900?mt=12'>apps.apple.com</a> | <a href='https://reddit.com/r/macapps/comments/zcbywf/bartender_alternative_for_floating_hidden_menu_bar/'>Reddit</a></caption>",
+            "date_published": "2022-12-04T15:05:02+00:00",
+            "authors": [
+                {
+                    "name": "ludovicanus",
+                    "url": "https://www.reddit.com/user/ludovicanus"
+                }
+            ]
+        },
+        {
             "id": "zbxd9e",
             "url": "/r/macapps/comments/zbxd9e/found_penguin_a_plist_editor_for_mac_with_a_focus/",
             "external_url": "https://getpenguin.app/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "tabchas",
                     "url": "https://www.reddit.com/user/tabchas"
-                }
-            ]
-        },
-        {
-            "id": "vyj30t",
-            "url": "/r/macapps/comments/vyj30t/i_made_a_receipt_management_app/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/vyj30t/i_made_a_receipt_management_app/",
-            "title": "I made a receipt management app!",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/vyj30t/i_made_a_receipt_management_app/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/vyj30t/i_made_a_receipt_management_app/'>Apollo</a></caption> <div><p>I've had this weird life goal since I was like 12 of releasing my own paid desktop program. Basically I wasn't gonna feel like a real software developer until I did this, so this app exists purely to satisfy my weird life goal.</p>\n<p>Anyways I made an app that scans receipt items from your receipts and lets you add them up easily over a bunch of receipts. You can then export them for tax season or something.</p>\n<p>You can buy it here! <a href=\"https://apps.apple.com/us/app/totaly-receipt-item-manager/id1633505522?mt=12\">https://apps.apple.com/us/app/totaly-receipt-item-manager/id1633505522?mt=12</a></p>\n<p>Do I expect people to actually buy it for $10? Definitely not, but that wasn't the point of me making it. I just wanted to fulfill my childhood dream of creating paid desktop software. If you actually want it DM me and I'll send you a copy for free.</p>\n<p>There's also an iOS version that's more limited but way more practical in everyday use: <a href=\"https://apps.apple.com/us/app/totaly-receipt-item-adder/id1625626536\">https://apps.apple.com/us/app/totaly-receipt-item-adder/id1625626536</a></p>\n<p>Thanks for clicking!</p>\n<p>EDIT: I uploaded it to my iCloud if you want to download it for free: <a href=\"https://www.icloud.com/iclouddrive/0ffb8G22GlkDrgOyoALFEZQ2A#Totaly\">https://www.icloud.com/iclouddrive/0ffb8G22GlkDrgOyoALFEZQ2A#Totaly</a></p>\n<p>Thank you for the gold kind stranger!!</p></div>",
-            "date_published": "2022-07-14T01:02:18+00:00",
-            "authors": [
-                {
-                    "name": "pizzaisprettyneato",
-                    "url": "https://www.reddit.com/user/pizzaisprettyneato"
                 }
             ]
         }
