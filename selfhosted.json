@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "zf41yz",
+            "url": "/r/selfhosted/comments/zf41yz/my_homepage_dashboard/",
+            "external_url": "https://i.redd.it/ccq6noaewh4a1.jpg",
+            "title": "My Homepage dashboard",
+            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/selfhosted/comments/zf41yz/my_homepage_dashboard/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/ccq6noaewh4a1.jpg\" />",
+            "date_published": "2022-12-07T15:34:59+00:00",
+            "authors": [
+                {
+                    "name": "rursache",
+                    "url": "https://www.reddit.com/user/rursache"
+                }
+            ]
+        },
+        {
             "id": "zde5w8",
             "url": "/r/selfhosted/comments/zde5w8/i_guess_this_belongs_to_this_group_credits/",
             "external_url": "https://i.redd.it/ohsim8ahc44a1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "thecouchdev",
                     "url": "https://www.reddit.com/user/thecouchdev"
-                }
-            ]
-        },
-        {
-            "id": "tjvhzl",
-            "url": "/r/selfhosted/comments/tjvhzl/after_2_years_of_work_i_am_now_fully_selfhosted/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/tjvhzl/after_2_years_of_work_i_am_now_fully_selfhosted/",
-            "title": "After 2 years of work, I am now fully self-hosted",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/tjvhzl/after_2_years_of_work_i_am_now_fully_selfhosted/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/tjvhzl/after_2_years_of_work_i_am_now_fully_selfhosted/'>Apollo</a></caption> <div><p>For the most part.</p>\n<p>I started this journey with a Raspberry Pi 2 back in November 2020 and I just finished deleting everything out of my Google Drive and Google Photos. I still have Gmail because it's a good junk mail pit but other than that, I have migrated all of my cloud services to my home server (and email hosting isn't worth it from what I hear). It feels pretty good to be out of the cloud and to have total ownership of my data. I'm so thankful to this community for making this possible!</p>\n<p>Here's my setup:</p>\n<h2>Services</h2>\n<ul>\n<li>Document Storage: <a href=\"https://nextcloud.com\">Nextcloud</a></li>\n<li>Of course. I wish there was a less bloaty option but it's the best in the field.</li>\n<li>Document Editing: <a href=\"https://github.com/ONLYOFFICE/DocumentServer\">OnlyOffice Document Server</a></li>\n<li>I tried hard to make LibreOffice work but OnlyOffice is just so clean</li>\n<li>Photo Management: <a href=\"https://photoprism.app/\">Photoprism</a></li>\n<li>Solid Google Photos replacement. Has facial recognition which is a must-have for me.</li>\n<li>Using Photosync for automatically uploading photos from my phone</li>\n<li>Smart Home: <a href=\"https://www.home-assistant.io/\">Home Assistant</a></li>\n<li>But of course. Awesome app. Wish I could get a job there.</li>\n<li>Network Video Recorder: <a href=\"https://frigate.video/\">Frigate</a></li>\n<li>Seriously one of the coolest parts of my home server. Totally local object detection and 24/7 recording. Better than any paid cloud service garbage.</li>\n<li>Media Streaming: <a href=\"https://jellyfin.org/\">Jellyfin</a></li>\n<li>I tried to get into Plex first but everything beyond the basics cost money and I'm really not going to be using it enough to be worth it.</li>\n<li>VPN: <a href=\"https://www.wireguard.com/\">Wireguard</a></li>\n<li>Classic.</li>\n<li>Chat: <a href=\"https://matrix.org/\">Matrix</a></li>\n<li>I only use this for getting messages from my home server.</li>\n<li>Push notifications don't work. Don't know why.</li>\n<li>Log Aggregation: <a href=\"https://www.graylog.org/\">Graylog</a></li>\n<li>It's really not a great app but we use it at work so whatevs.</li>\n<li>Backups: <a href=\"https://restic.net/\">Restic</a></li>\n<li>Great CLI tool for deduping and encrypting backups.</li>\n<li>Uses the snapshot model and can backup to S3.</li>\n</ul>\n<h2>Equipment</h2>\n<ul>\n<li>Macbook Pro 2012, i7 2.6 GHz, 16 Gb RAM. Running Arch Linux (btw)</li>\n<li>Intel NUC 5th gen i5, 8 Gb RAM. Running Arch.</li>\n<li>Synology DiskStation NAS DS1019</li>\n<li>2x WD Red 4TB</li>\n<li>1x Seagate Skyhawk 2TB</li>\n<li>2x 500GB NVMe cache drives</li>\n<li>Linksys WRT3200ACM running <a href=\"https://openwrt.org/\">OpenWRT</a></li>\n<li>3x Reolink 4k IP Cameras</li>\n<li>1x Amcrest IP Camera</li>\n</ul>\n<h2>Still on the Cloud</h2>\n<ul>\n<li><a href=\"https://protonmail.com/\">ProtonMail</a></li>\n<li>Gmail</li>\n<li>Off-Site backups on <a href=\"https://www.storj.io/\">Storj.io</a></li>\n<li><a href=\"https://bitwarden.com/\">Bitwarden</a></li>\n<li>I was self-hosting this for a while but I figured, for 3 bucks a month or whatever, I can let them handle all my secrets.</li>\n</ul>\n<h2>Future Plans</h2>\n<p>I don't really know yet. I'm pretty happy with my setup. I'd like to get my server put together into a rackmount setup but it's working for now. I'm sure I'll find something else to self-host in another week or so.</p>\n<p>&#x200B;</p>\n<p>https://preview.redd.it/m1zypxw2cvo81.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=8ddb637666b461a08df6d83aa08eeb64201cad75</p></div>",
-            "date_published": "2022-03-22T05:11:31+00:00",
-            "authors": [
-                {
-                    "name": "yuuuuuuuut",
-                    "url": "https://www.reddit.com/user/yuuuuuuuut"
                 }
             ]
         }
