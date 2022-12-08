@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "zfvsls",
+            "url": "/r/apple/comments/zfvsls/fbi_calls_apples_enhanced_icloud_encryption/",
+            "external_url": "https://www.macrumors.com/2022/12/08/fbi-privacy-groups-icloud-encryption/",
+            "title": "FBI Calls Apple's Enhanced iCloud Encryption 'Deeply Concerning' as Privacy Groups Hail It As a Victory for Users",
+            "content_html": "<caption>Open: <a href='https://www.macrumors.com/2022/12/08/fbi-privacy-groups-icloud-encryption/'>www.macrumors.com</a> | <a href='https://reddit.com/r/apple/comments/zfvsls/fbi_calls_apples_enhanced_icloud_encryption/'>Reddit</a></caption>",
+            "date_published": "2022-12-08T11:00:30+00:00",
+            "authors": [
+                {
+                    "name": "Phooboos",
+                    "url": "https://www.reddit.com/user/Phooboos"
+                }
+            ]
+        },
+        {
             "id": "zf8e2o",
             "url": "/r/apple/comments/zf8e2o/apple_advances_user_security_with_powerful_new/",
             "external_url": "https://www.apple.com/newsroom/2022/12/apple-advances-user-security-with-powerful-new-data-protections/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "fartsimpson55",
                     "url": "https://www.reddit.com/user/fartsimpson55"
-                }
-            ]
-        },
-        {
-            "id": "xilsbg",
-            "url": "/r/apple/comments/xilsbg/mark_gurman_on_twitter_apple_has_identified_a_fix/",
-            "external_url": "https://twitter.com/markgurman/status/1571940151512952833",
-            "title": "Mark Gurman on Twitter: \"Apple has identified a fix for the iPhone 14 Pro and iPhone 14 Pro Max camera shake issue and a software update will be released next week. The issue had been impacting third-party apps like Snap and TikTok that use the camera.\"",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/apple/comments/xilsbg/mark_gurman_on_twitter_apple_has_identified_a_fix/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/xilsbg/mark_gurman_on_twitter_apple_has_identified_a_fix/'>Apollo</a></caption><div><br></div><blockquote class=\"twitter-tweet\" align=\"center\"><p lang=\"en\" dir=\"ltr\">Now on <a href=\"https://twitter.com/TheTerminal?ref_src=twsrc%5Etfw\">@TheTerminal</a>: Apple has identified a fix for the iPhone 14 Pro and iPhone 14 Pro Max camera shake issue and a software update will be released next week. The issue had been impacting third-party apps like Snap and TikTok that use the camera.</p>&mdash; Mark Gurman (@markgurman) <a href=\"https://twitter.com/markgurman/status/1571940151512952833?ref_src=twsrc%5Etfw\">September 19, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
-            "date_published": "2022-09-19T19:17:15+00:00",
-            "authors": [
-                {
-                    "name": "exjr_",
-                    "url": "https://www.reddit.com/user/exjr_"
                 }
             ]
         }
