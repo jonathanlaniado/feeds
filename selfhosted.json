@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "zgrhc9",
+            "url": "/r/selfhosted/comments/zgrhc9/never_really_understood_how_to_use_docker/",
+            "external_url": "https://i.redd.it/jgvx0fkj3u4a1.png",
+            "title": "Never really understood how to use docker networks. I just asked the new AI ChatGPT to explain it in a proper way to me. \ud83e\udd2f",
+            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/selfhosted/comments/zgrhc9/never_really_understood_how_to_use_docker/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/jgvx0fkj3u4a1.png\" />",
+            "date_published": "2022-12-09T08:36:38+00:00",
+            "authors": [
+                {
+                    "name": "nkls",
+                    "url": "https://www.reddit.com/user/nkls"
+                }
+            ]
+        },
+        {
             "id": "zf41yz",
             "url": "/r/selfhosted/comments/zf41yz/my_homepage_dashboard/",
             "external_url": "https://i.redd.it/ccq6noaewh4a1.jpg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "anderspitman",
                     "url": "https://www.reddit.com/user/anderspitman"
-                }
-            ]
-        },
-        {
-            "id": "tm3pof",
-            "url": "/r/selfhosted/comments/tm3pof/a_self_hosted_and_open_source_alternative_to/",
-            "external_url": "https://i.redd.it/91558kpyfbp81.png",
-            "title": "A Self Hosted and Open Source Alternative to Google\u2019s Firebase",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/91558kpyfbp81.png'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/tm3pof/a_self_hosted_and_open_source_alternative_to/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/tm3pof/a_self_hosted_and_open_source_alternative_to/'>Apollo</a></caption>",
-            "date_published": "2022-03-24T11:23:47+00:00",
-            "authors": [
-                {
-                    "name": "thecouchdev",
-                    "url": "https://www.reddit.com/user/thecouchdev"
                 }
             ]
         }
