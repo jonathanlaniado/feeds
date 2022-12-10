@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "zh6hc1",
+            "url": "/r/macapps/comments/zh6hc1/copilot_an_amazing_personal_finance_app_has_come/",
+            "external_url": "https://i.redd.it/agbxiizedx4a1.png",
+            "title": "Copilot, an amazing personal finance app, has come to the desktop! I don't know about you but I think it looks pretty slick!",
+            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/macapps/comments/zh6hc1/copilot_an_amazing_personal_finance_app_has_come/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/agbxiizedx4a1.png\" />",
+            "date_published": "2022-12-09T19:36:57+00:00",
+            "authors": [
+                {
+                    "name": "Leftover-Waffle",
+                    "url": "https://www.reddit.com/user/Leftover-Waffle"
+                }
+            ]
+        },
+        {
             "id": "zezhuw",
             "url": "/r/macapps/comments/zezhuw/chatgpt_for_mac_living_in_your_menubar/",
             "external_url": "https://github.com/vincelwt/chatgpt-mac",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "slamingzone",
                     "url": "https://www.reddit.com/user/slamingzone"
-                }
-            ]
-        },
-        {
-            "id": "w5tern",
-            "url": "/r/macapps/comments/w5tern/shortcatapp_to_ditch_your_mouse/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/w5tern/shortcatapp_to_ditch_your_mouse/",
-            "title": "Shortcat.app to ditch your mouse",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/w5tern/shortcatapp_to_ditch_your_mouse/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/w5tern/shortcatapp_to_ditch_your_mouse/'>Apollo</a></caption> <div><p>https://shortcat.app/\nhttps://twitter.com/shortcatapp</p>\n<p>(I'm not the dev, just thought this deserved some love here)</p>\n<p><strong>Description</strong>: (from the site) </p>\n<h2>Click with the keyboard</h2>\n<p>\"Hate needing to move your hand off the keyboard for that pesky button? Shortcat enables you to access UI elements with just a few keystrokes, so you can stay in the flow.</p>\n<p>Supports clicking, right clicking, double clicking, and clicking with modifiers.\"</p>\n<hr />\n<p>The integration is really smooth and gives you varied options depending on how you want to hit your target. I just started using it so I can't fairly compare pros and cons to other apps like <a href=\"https://homerow.app\">Homerow</a> or Ryan Hansen's <a href=\"https://superkey.app/\">Superkey</a> (and I'm keeping an eye on the development of <a href=\"https://wooshy.app/\">Wooshy</a>), but it's honestly just plain fun and comfortable to use.</p>\n<p>Didn't see a post for this here so I thought y'all should know and add it to your awesome-apps list.</p></div>",
-            "date_published": "2022-07-23T03:18:24+00:00",
-            "authors": [
-                {
-                    "name": "Thrashymakhus",
-                    "url": "https://www.reddit.com/user/Thrashymakhus"
                 }
             ]
         }
