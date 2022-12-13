@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "zl28kt",
+            "url": "/r/apple/comments/zl28kt/apple_releases_ios_162_and_ipados_162_with/",
+            "external_url": "https://www.macrumors.com/2022/12/13/apple-releases-ios-16-2/",
+            "title": "Apple Releases iOS 16.2 and iPadOS 16.2 With Freeform, Apple Music Sing, Advanced Data Protection and More",
+            "content_html": "<caption>Open: <a href='https://www.macrumors.com/2022/12/13/apple-releases-ios-16-2/'>www.macrumors.com</a> | <a href='https://reddit.com/r/apple/comments/zl28kt/apple_releases_ios_162_and_ipados_162_with/'>Reddit</a></caption>",
+            "date_published": "2022-12-13T18:01:11+00:00",
+            "authors": [
+                {
+                    "name": "mujtaba_mir",
+                    "url": "https://www.reddit.com/user/mujtaba_mir"
+                }
+            ]
+        },
+        {
             "id": "zklymn",
             "url": "/r/apple/comments/zklymn/tim_cook_weve_been_partnering_with_sony_for_over/",
             "external_url": "https://twitter.com/tim_cook/status/1602516736145858561",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Ian281",
                     "url": "https://www.reddit.com/user/Ian281"
-                }
-            ]
-        },
-        {
-            "id": "xjgwwd",
-            "url": "/r/apple/comments/xjgwwd/ios_161_beta_2_features_redesigned_battery/",
-            "external_url": "https://9to5mac.com/2022/09/20/ios-16-dynamic-battery-icon/",
-            "title": "iOS 16.1 beta 2 features redesigned battery percentage icon that dynamically updates",
-            "content_html": "<caption>Open in: <a href='https://9to5mac.com/2022/09/20/ios-16-dynamic-battery-icon/'>9to5mac.com</a> | <a href='https://reddit.com/r/apple/comments/xjgwwd/ios_161_beta_2_features_redesigned_battery/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/xjgwwd/ios_161_beta_2_features_redesigned_battery/'>Apollo</a></caption>",
-            "date_published": "2022-09-20T18:44:41+00:00",
-            "authors": [
-                {
-                    "name": "mujtaba_mir",
-                    "url": "https://www.reddit.com/user/mujtaba_mir"
                 }
             ]
         }
