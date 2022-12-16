@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "zn9too",
+            "url": "/r/macapps/comments/zn9too/apps_that_should_be_paid_but_are_not_part_4/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/zn9too/apps_that_should_be_paid_but_are_not_part_4/",
+            "title": "Apps that should be paid, but are not (Part 4)",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/zn9too/apps_that_should_be_paid_but_are_not_part_4/'>Reddit</a></caption><div><br></div><div><p>Below are apps/ webapps I found and started using in the last few days...</p>\n<p>&#x200B;</p>\n<ul>\n<li><a href=\"https://he3.app/\">https://he3.app/</a> </li>\n<li>Replacement for tools like <a href=\"https://devutils.com\">devutils.com</a> and <a href=\"https://devtoys.app\">devtoys.app</a></li>\n<li>this has the most functions for converstions/ formatting </li>\n</ul>\n<p>&#x200B;</p>\n<ul>\n<li><a href=\"https://github.com/georgekhananaev/py-image-compressor\">https://github.com/georgekhananaev/py-image-compressor</a> </li>\n<li>Python based mass image compression</li>\n<li>there are ton of different options for this, but I really like to have look at the code and tweak it based on my requirements</li>\n</ul>\n<p>&#x200B;</p>\n<ul>\n<li><a href=\"https://github.com/FuzzyIdeas/Clop\">https://github.com/FuzzyIdeas/Clop</a></li>\n<li>Clipboard optimizer for macOS</li>\n<li>similar to above, but works right after you take screenshot</li>\n<li>useful to paste screenshots in apps like mail, notes to save image size</li>\n</ul>\n<p>&#x200B;</p>\n<ul>\n<li><a href=\"https://writeapp.net/notesexporter/\">https://writeapp.net/notesexporter/</a> </li>\n<li>Export or backup notes from Apple\u2019s Notes.app into plain text format</li>\n<li>I love Apple notes for its simplicity, BUT I hate it does not have any mass export functionality</li>\n<li>This app exports all the apple notes in txt format. You can rename all these txt files to html</li>\n</ul>\n<p>&#x200B;</p>\n<ul>\n<li><a href=\"https://mailbrew.com/\">https://mailbrew.com/</a></li>\n<li>not a Mac specific app, but a webapp for taming inbox overload</li>\n<li>you can create your own newsletter from favorite sources</li>\n</ul>\n<p>\u2014</p>\n<p>Here's <a href=\"https://www.reddit.com/r/macapps/comments/yza6mx/apps_that_should_be_paid_but_are_not_part_3/?context=3\">Part 3</a>, you can follow the chain of links in each post, if you looking for more such suggestions</p></div>",
+            "date_published": "2022-12-16T08:26:23+00:00",
+            "authors": [
+                {
+                    "name": "rootedMind",
+                    "url": "https://www.reddit.com/user/rootedMind"
+                }
+            ]
+        },
+        {
             "id": "zj0hri",
             "url": "/r/macapps/comments/zj0hri/a_definitive_calendar_app_comparison/",
             "external_url": "https://www.reddit.com/r/macapps/comments/zj0hri/a_definitive_calendar_app_comparison/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Stall0ne",
                     "url": "https://www.reddit.com/user/Stall0ne"
-                }
-            ]
-        },
-        {
-            "id": "w6stwe",
-            "url": "/r/macapps/comments/w6stwe/wooshy_1a1_is_out_search_the_whole_macos_ui_and/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/w6stwe/wooshy_1a1_is_out_search_the_whole_macos_ui_and/",
-            "title": "Wooshy 1a1 is out! \ud83d\udd25\ufe0f search the whole macOS UI and click",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/w6stwe/wooshy_1a1_is_out_search_the_whole_macos_ui_and/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/w6stwe/wooshy_1a1_is_out_search_the_whole_macos_ui_and/'>Apollo</a></caption> <div><p><a href=\"https://wooshy.app\">https://wooshy.app</a></p>\n<p><strong>PLEASE READ BELOW</strong>!</p>\n<p>it's the first alpha. it works well and it's blazing fast. but it's also missing one important feature, i.e.  hovering any UI element to see what are the potential matching terms. this is planned and will come later, before the beta. most of the time you can just type what comes into your mind and It'll Just Work, but sometimes (usually for icons, images, etc.) you may not find how to target properly. for those UI elements you can currently check with the Accessibility Inspector integrated with Xcode until the feature is released. i'll drop a new YouTube video today to show how to target UI element gracefully, and how to use the Accessibility Inspector.</p>\n<p>i highly recommend:</p>\n<ol>\n<li>watching the YouTube videos: <a href=\"https://www.youtube.com/channel/UCFi6Z79gzGDdgw9fuEg7g4w\">https://www.youtube.com/channel/UCFi6Z79gzGDdgw9fuEg7g4w</a></li>\n<li>reading the README: <a href=\"https://github.com/godbout/Wooshy.docs\">https://github.com/godbout/Wooshy.docs</a></li>\n</ol>\n<p>although they will most probably be edited quite often in the next few days.</p>\n<p>enjoy! \ud83d\udd25\ufe0f\ud83d\udd25\ufe0f\ud83d\udd25\ufe0f</p>\n<p><strong>ALMOST FORGOT</strong>: it comes with a free, open source Alfred Workflow that helps you bring any window in the foreground, so that you can target it with Wooshy!: <a href=\"https://github.com/godbout/WooshyWindowToTheForeground\">https://github.com/godbout/WooshyWindowToTheForeground</a></p>\n<p>it can reaches all those crappy macOS UI popup windows that you wanna close by pressing enter but that are always out of reach. well now you can bring them up front with the Workflow 8-). time to ditch your mouse!</p></div>",
-            "date_published": "2022-07-24T10:47:35+00:00",
-            "authors": [
-                {
-                    "name": "777tauh",
-                    "url": "https://www.reddit.com/user/777tauh"
                 }
             ]
         }
