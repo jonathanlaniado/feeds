@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "zo8qpp",
+            "url": "/r/macapps/comments/zo8qpp/swift_quit_automatic_app_quitting_on_mac_quit/",
+            "external_url": "https://swiftquit.com/",
+            "title": "Swift Quit - Automatic App Quitting On Mac (quit apps on clicking the red X button, like on Windows/Linux)",
+            "content_html": "<caption>Open: <a href='https://swiftquit.com/'>swiftquit.com</a> | <a href='https://reddit.com/r/macapps/comments/zo8qpp/swift_quit_automatic_app_quitting_on_mac_quit/'>Reddit</a></caption>",
+            "date_published": "2022-12-17T15:33:03+00:00",
+            "authors": [
+                {
+                    "name": "alin23",
+                    "url": "https://www.reddit.com/user/alin23"
+                }
+            ]
+        },
+        {
             "id": "zn9too",
             "url": "/r/macapps/comments/zn9too/apps_that_should_be_paid_but_are_not_part_4/",
             "external_url": "https://www.reddit.com/r/macapps/comments/zn9too/apps_that_should_be_paid_but_are_not_part_4/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "embirico",
                     "url": "https://www.reddit.com/user/embirico"
-                }
-            ]
-        },
-        {
-            "id": "w7lvvv",
-            "url": "/r/macapps/comments/w7lvvv/whats_the_proper_way_to_uninstall_software/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/w7lvvv/whats_the_proper_way_to_uninstall_software/",
-            "title": "What's the proper way to uninstall software without a trace?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/w7lvvv/whats_the_proper_way_to_uninstall_software/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/w7lvvv/whats_the_proper_way_to_uninstall_software/'>Apollo</a></caption> <div><p>I use AppCleaner to help remove apps whenever I need to but I still frequently stumble over leftover program files or helper programs, login items and other stuff just all over the place.</p>\n<p>People always talk about how easy it is to uninstall apps on macOS because you just delete the .app file from your Applications but I find thats rarely the case. Any other way besides AppCleaner to deal with this?</p>\n<p>Thanks for any advice!</p></div>",
-            "date_published": "2022-07-25T10:57:15+00:00",
-            "authors": [
-                {
-                    "name": "Stall0ne",
-                    "url": "https://www.reddit.com/user/Stall0ne"
                 }
             ]
         }
