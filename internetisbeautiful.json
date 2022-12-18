@@ -8,6 +8,20 @@
     "favicon": "https://b.thumbs.redditmedia.com/k7fHE51fuhbYJRT2e9s1rXIp2ZtA7ks-cNFvQuNbfcE.png",
     "items": [
         {
+            "id": "zopeex",
+            "url": "/r/InternetIsBeautiful/comments/zopeex/i_made_a_website_to_view_all_of_elon_musks/",
+            "external_url": "https://jusgu.github.io/elon-musks-texts/",
+            "title": "(I made) a website to view all of Elon Musk's court-released text messages",
+            "content_html": "<caption>Open: <a href='https://jusgu.github.io/elon-musks-texts/'>jusgu.github.io</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/zopeex/i_made_a_website_to_view_all_of_elon_musks/'>Reddit</a></caption>",
+            "date_published": "2022-12-18T04:01:18+00:00",
+            "authors": [
+                {
+                    "name": "Royalejj",
+                    "url": "https://www.reddit.com/user/Royalejj"
+                }
+            ]
+        },
+        {
             "id": "zn850m",
             "url": "/r/InternetIsBeautiful/comments/zn850m/zoom_as_much_as_you_can_highest_resolution_ever/",
             "external_url": "https://hyper-resolution.org/view.html?pointer=0.870,0.002&i=Rijksmuseum/SK-C-5/SK-C-5_VIS_20-um_2019-12-21",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "yourbasicgeek",
                     "url": "https://www.reddit.com/user/yourbasicgeek"
-                }
-            ]
-        },
-        {
-            "id": "ueydoz",
-            "url": "/r/InternetIsBeautiful/comments/ueydoz/my_father_usually_keeps_a_piece_of_paper_with_him/",
-            "external_url": "https://www.glimbay.com/",
-            "title": "My father usually keeps a piece of paper with him when he reads a book to write down quotes. After I read through his papers I had to create a Website that gives the same joy that it gave me. I think reading quotes before the book is a very good approach to finding new books. Tell me what you think!",
-            "content_html": "<caption>Open in: <a href='https://www.glimbay.com/'>www.glimbay.com</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/ueydoz/my_father_usually_keeps_a_piece_of_paper_with_him/'>Reddit</a> | <a href='apollo://reddit.com/r/InternetIsBeautiful/comments/ueydoz/my_father_usually_keeps_a_piece_of_paper_with_him/'>Apollo</a></caption>",
-            "date_published": "2022-04-29T23:26:55+00:00",
-            "authors": [
-                {
-                    "name": "obbson",
-                    "url": "https://www.reddit.com/user/obbson"
                 }
             ]
         }
