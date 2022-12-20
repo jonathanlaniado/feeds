@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "zpsxg1",
+            "url": "/r/macapps/comments/zpsxg1/bike_outliner_improved_macos_text_checking/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/zpsxg1/bike_outliner_improved_macos_text_checking/",
+            "title": "Bike Outliner: Improved macOS text checking",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/zpsxg1/bike_outliner_improved_macos_text_checking/'>Reddit</a></caption><div><br></div><div><p>I'm releasing Bike Outliner 1.7 today with many improvements to the text system. In particular I've added:  autocorrect, substitutions, user replacements, and improved spell checking.</p>\n<p>These are fundamental features that I don't think many Mac apps handle very well due to limitations in Cocoa's standard implementation. I'm building Bike's text editor from scratch so get to make my own design decisions... hopefully I'm making an improvement!</p>\n<p>I've also posted some discussion and demo videos at the following link. Please take a look, give Bike 1.7 a try, and let me know what you think.</p>\n<ul>\n<li><a href=\"https://www.hogbaysoftware.com/posts/bike-improved-text-checking/\">Bike: Improved macOS text checking</a></li>\n</ul>\n<p>Thanks,\nJesse</p></div>",
+            "date_published": "2022-12-19T14:23:28+00:00",
+            "authors": [
+                {
+                    "name": "jessegrosjean",
+                    "url": "https://www.reddit.com/user/jessegrosjean"
+                }
+            ]
+        },
+        {
             "id": "zo8qpp",
             "url": "/r/macapps/comments/zo8qpp/swift_quit_automatic_app_quitting_on_mac_quit/",
             "external_url": "https://swiftquit.com/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "aflamingflamingo",
                     "url": "https://www.reddit.com/user/aflamingflamingo"
-                }
-            ]
-        },
-        {
-            "id": "w7v97e",
-            "url": "/r/macapps/comments/w7v97e/we_got_featured_by_9to5mac_today_a_way_to/",
-            "external_url": "https://9to5mac.com/2022/07/25/remotion-spotify-mac-shareplay/",
-            "title": "We got featured by 9to5mac today: A way to synchronize Spotify.app in real time, plus voice chat",
-            "content_html": "<caption>Open in: <a href='https://9to5mac.com/2022/07/25/remotion-spotify-mac-shareplay/'>9to5mac.com</a> | <a href='https://reddit.com/r/macapps/comments/w7v97e/we_got_featured_by_9to5mac_today_a_way_to/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/w7v97e/we_got_featured_by_9to5mac_today_a_way_to/'>Apollo</a></caption>",
-            "date_published": "2022-07-25T17:44:12+00:00",
-            "authors": [
-                {
-                    "name": "embirico",
-                    "url": "https://www.reddit.com/user/embirico"
                 }
             ]
         }
