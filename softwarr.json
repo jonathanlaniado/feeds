@@ -8,6 +8,20 @@
     "favicon": "",
     "items": [
         {
+            "id": "w40yv0",
+            "url": "/r/Softwarr/comments/w40yv0/membarr_a_fork_of_invitarr/",
+            "external_url": "https://www.reddit.com/r/Softwarr/comments/w40yv0/membarr_a_fork_of_invitarr/",
+            "title": "Membarr (A fork of Invitarr)",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/Softwarr/comments/w40yv0/membarr_a_fork_of_invitarr/'>Reddit</a></caption><div><br></div><div><p>It seemed Invitarr was dead and mostly unsupported, and I really wanted Jellyfin support to help me bridge my plex and jellyfin libraries. After looking around for something similar and not finding anything, I finally decided to work on a Invitarr fork.</p>\n<p>For those of you that are familiar with Invitarr, you'll feel right at home with Membarr. For those of you that aren't familiar with Invitarr, Membarr is a discord bot that manages users for your media servers. Add and remove discord server users from your media servers with a single command, or setup roles with Membarr, and have Membarr manage your media users automatically, without any additional input from you!</p>\n<p>Introducing Membarr! An Invitarr fork that has:</p>\n<ul>\n<li>Jellyfin integration (that might work with emby as well, untested as of now)</li>\n<li>Updated Discord API with slash commands instead of the old command prefix integration</li>\n<li>Quality of life updates like removing plex / jellyfin roles through a command</li>\n<li>Persisting of Plex server / token instead of username / password - experimental (Fixes ratelimit bug from invitarr)</li>\n<li>Compatibility with Invitarr app.db and config.ini (although its not backwards-compatible so backup your app.db)</li>\n<li>And more updates coming (check github issues!)</li>\n</ul>\n<p>Like Invitarr, Membarr can be run as a python app, as a docker container, or installed as a Unraid CA app.</p>\n<p>github link: <a href=\"https://github.com/Yoruio/Membarr\">https://github.com/Yoruio/Membarr</a><br />\ndockerhub link: <a href=\"https://hub.docker.com/repository/docker/yoruio/membarr\">https://hub.docker.com/repository/docker/yoruio/membarr</a><br />\nunraid forum link: <a href=\"https://forums.unraid.net/topic/126084-support-membarr-docker-template/\">https://forums.unraid.net/topic/126084-support-membarr-docker-template/</a></p>\n<p>edit: almost forgot, Membarr's docker container is nearly 75% smaller than Invitarr's, by cutting out unnecessary dependencies!</p></div>",
+            "date_published": "2022-07-20T23:31:46+00:00",
+            "authors": [
+                {
+                    "name": "Yoruio",
+                    "url": "https://www.reddit.com/user/Yoruio"
+                }
+            ]
+        },
+        {
             "id": "uoq906",
             "url": "/r/Softwarr/comments/uoq906/homarr_a_homepage_for_your_server_xpost/",
             "external_url": "/r/selfhosted/comments/uoeo60/homarr_a_homepage_for_your_server/",
