@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "zu256e",
+            "url": "/r/selfhosted/comments/zu256e/why_should_you_self_host/",
+            "external_url": "https://i.redd.it/8ppsm73r2s7a1.jpg",
+            "title": "Why should you self host?",
+            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/selfhosted/comments/zu256e/why_should_you_self_host/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/8ppsm73r2s7a1.jpg\" />",
+            "date_published": "2022-12-24T04:56:09+00:00",
+            "authors": [
+                {
+                    "name": "io-x",
+                    "url": "https://www.reddit.com/user/io-x"
+                }
+            ]
+        },
+        {
             "id": "zt4b0m",
             "url": "/r/selfhosted/comments/zt4b0m/lastpass_says_hackers_stole_customers_password/",
             "external_url": "https://techcrunch.com/2022/12/22/lastpass-customer-password-vaults-stolen/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "dotinho",
                     "url": "https://www.reddit.com/user/dotinho"
-                }
-            ]
-        },
-        {
-            "id": "u26fgz",
-            "url": "/r/selfhosted/comments/u26fgz/fuck_doordash_fuck_ubereats_im_launching_my_own/",
-            "external_url": "/r/antiwork/comments/u21nio/fuck_doordash_fuck_ubereats_im_launching_my_own/",
-            "title": "Fuck Doordash. Fuck UberEats. I'm launching my own open-source non-profit food delivery platform.",
-            "content_html": "<caption>Open in: <a href='/r/antiwork/comments/u21nio/fuck_doordash_fuck_ubereats_im_launching_my_own/'></a> | <a href='https://reddit.com/r/selfhosted/comments/u26fgz/fuck_doordash_fuck_ubereats_im_launching_my_own/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/u26fgz/fuck_doordash_fuck_ubereats_im_launching_my_own/'>Apollo</a></caption>",
-            "date_published": "2022-04-12T18:51:56+00:00",
-            "authors": [
-                {
-                    "name": "Zelgoot",
-                    "url": "https://www.reddit.com/user/Zelgoot"
                 }
             ]
         }
