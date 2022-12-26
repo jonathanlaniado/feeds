@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "zvn6vv",
+            "url": "/r/macapps/comments/zvn6vv/a_definitive_password_manager_comparison/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/zvn6vv/a_definitive_password_manager_comparison/",
+            "title": "A Definitive Password Manager Comparison",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/zvn6vv/a_definitive_password_manager_comparison/'>Reddit</a></caption><div><br></div><div><p>With several recent topics asking about password manager apps, I've set up a crowdsourced comparison sheet that this community can contribute to and benefit from.</p>\n<p>View the crowdsourced feature comparison spreadsheet here: <a href=\"https://docs.google.com/spreadsheets/d/1Flrc_iT86qWsodrfi8vq0tSwEHT9JNVOVEuyXgMUm-U/\">link</a></p>\n<p>Add a column to it with your app of choice by <em>briefly</em> filling out <a href=\"https://forms.gle/a8D8zDrziMeZS4KJ6\">this form</a>.</p>\n<p>Please contribute if you use: 1Password, Apple KeyChain Access, Buttercup, Dashlane, Elpass, EnPass, KeePassXC / KeePassium, LastPass, Locker, Locko Mac, Master Password, Minimalist, SafelnCloud, Strongbox, or any others I'm not aware of.</p>\n<p>Previous Definitive App Comparisons: <a href=\"https://www.reddit.com/r/macapps/comments/r0uplf/a_definitive_pdf_reader_comparison/\">PDF readers</a> | <a href=\"https://www.reddit.com/r/macapps/comments/x49fwh/a_definitive_email_client_comparison/\">Email clients</a> | <a href=\"https://www.reddit.com/r/macapps/comments/zj0hri/a_definitive_calendar_app_comparison/\">Calendar apps</a> </p>\n<p>As usual, let me know if something is missing, incorrect, or needs to be fixed! Post what password manager app you use below so more people can participate or what comparison you'd like to see next.</p></div>",
+            "date_published": "2022-12-26T13:31:54+00:00",
+            "authors": [
+                {
+                    "name": "Mstormer",
+                    "url": "https://www.reddit.com/user/Mstormer"
+                }
+            ]
+        },
+        {
             "id": "zq1kea",
             "url": "/r/macapps/comments/zq1kea/spotica_apple_music_spotify_menubar_song_display/",
             "external_url": "https://www.reddit.com/r/macapps/comments/zq1kea/spotica_apple_music_spotify_menubar_song_display/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "alin23",
                     "url": "https://www.reddit.com/user/alin23"
-                }
-            ]
-        },
-        {
-            "id": "wbn140",
-            "url": "/r/macapps/comments/wbn140/i_created_a_simple_app_that_lets_you_change_the/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/wbn140/i_created_a_simple_app_that_lets_you_change_the/",
-            "title": "I created a simple app that lets you change the number of rows and columns in your launchpad!",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/wbn140/i_created_a_simple_app_that_lets_you_change_the/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/wbn140/i_created_a_simple_app_that_lets_you_change_the/'>Apollo</a></caption> <div><p>Hi there!</p>\n<p>I was surprised there wasn't a way to change the rows and columns in your launchpad without running some terminal commands, so I made a quick app called Launchpad Customizer that makes that process a bit easier!</p>\n<p>You can download it for free here (LaunchpadCustomizer.zip): <a href=\"https://github.com/Jeidoban/Launchpad-Customizer/releases/tag/v1.0.0\">https://github.com/Jeidoban/Launchpad-Customizer/releases/tag/v1.0.0</a></p>\n<p>Here's the GitHub repo as well: <a href=\"https://github.com/Jeidoban/Launchpad-Customizer\">https://github.com/Jeidoban/Launchpad-Customizer</a></p>\n<p>Let me know what you guys think!</p></div>",
-            "date_published": "2022-07-30T02:57:48+00:00",
-            "authors": [
-                {
-                    "name": "pizzaisprettyneato",
-                    "url": "https://www.reddit.com/user/pizzaisprettyneato"
                 }
             ]
         }
