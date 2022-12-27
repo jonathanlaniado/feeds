@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "zwi4v7",
+            "url": "/r/macapps/comments/zwi4v7/i_made_a_time_tracking_app_that_helps_you_improve/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/zwi4v7/i_made_a_time_tracking_app_that_helps_you_improve/",
+            "title": "I made a time tracking app that helps you improve your work-life balance",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/zwi4v7/i_made_a_time_tracking_app_that_helps_you_improve/'>Reddit</a></caption><div><br></div><div><p>Over the last few months, I\u2019ve been working on an app to help those who struggle with work-life balance\u2014something I think many of us can relate to these days.</p>\n<p>After some time in Beta, I\u2019m excited to finally launch Balance! \ud83d\ude80 </p>\n<p>Balance is essentially a time tracking app but with a focus on work-life balance, with features including\u2026 </p>\n<p>\u2192 Manual clocking system that helps you mentally check in and out of work<br />\n\u2192 Regular break reminders<br />\n\u2192 Focus timer, for those who like the Pomodoro Technique<br />\n\u2192 ...and more!</p>\n<p>The app is free to use, but there are some optional Pro features for those who get value from the app and want more.</p>\n<p>Maybe something for you?</p>\n<p>It launched on Product Hunt today: https://www.producthunt.com/posts/balance-855f20db-49ff-48ee-8096-6d33de52b71a</p></div>",
+            "date_published": "2022-12-27T15:26:03+00:00",
+            "authors": [
+                {
+                    "name": "alexandersandberg",
+                    "url": "https://www.reddit.com/user/alexandersandberg"
+                }
+            ]
+        },
+        {
             "id": "zvn6vv",
             "url": "/r/macapps/comments/zvn6vv/a_definitive_password_manager_comparison/",
             "external_url": "https://www.reddit.com/r/macapps/comments/zvn6vv/a_definitive_password_manager_comparison/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Low_Reading_9831",
                     "url": "https://www.reddit.com/user/Low_Reading_9831"
-                }
-            ]
-        },
-        {
-            "id": "wbt7dn",
-            "url": "/r/macapps/comments/wbt7dn/rcmd_v2_finally_launches_with_a_free_trial/",
-            "external_url": "https://lowtechguys.com/rcmd",
-            "title": "rcmd v2 finally launches with a free trial",
-            "content_html": "<caption>Open in: <a href='https://lowtechguys.com/rcmd'>lowtechguys.com</a> | <a href='https://reddit.com/r/macapps/comments/wbt7dn/rcmd_v2_finally_launches_with_a_free_trial/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/wbt7dn/rcmd_v2_finally_launches_with_a_free_trial/'>Apollo</a></caption>",
-            "date_published": "2022-07-30T09:06:40+00:00",
-            "authors": [
-                {
-                    "name": "alin23",
-                    "url": "https://www.reddit.com/user/alin23"
                 }
             ]
         }
