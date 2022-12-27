@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "zwcns3",
+            "url": "/r/selfhosted/comments/zwcns3/most_used_selfhosted_services_in_2022/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/zwcns3/most_used_selfhosted_services_in_2022/",
+            "title": "Most used selfhosted services in 2022?",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/zwcns3/most_used_selfhosted_services_in_2022/'>Reddit</a></caption><div><br></div><div><p>As the year comes to a close, I'm curious to know which self-hosted apps Redditors have used the most in 2022 (excluding utility services like reverse proxies or something like Coolify, Dokku, Portainer). So more something like Nextcloud, Rocket.chat, Gitlab.</p>\n<p>For me, i think it was (in alphabetical order) AdGuard Home, Mailcow, Onedev, Paperless, Plausible. They all have their own unique features and benefits. </p>\n<p><a href=\"https://github.com/AdguardTeam/AdGuardHome\">Adguard</a>: Adguard Home is a self-hosted ad blocker that can be used to block ads and tracking scripts on your home network. It works by acting as a local DNS server, which allows it to intercept and block requests to known ad and tracking servers before they reach your device. </p>\n<p><a href=\"https://github.com/mailcow/mailcow-dockerized\">Mailcow</a>: Mailcow is a self-hosted mail server that provides a full-featured email solution for small to medium-sized organizations. It includes features such as spam and virus protection, and support for multiple domains. </p>\n<p><a href=\"https://code.onedev.io/\">Onedev</a>: Onedev is a self-hosted Git repository management platform that includes features for code review, project management, and continuous integration. It is designed to be lightweight and easy to use.</p>\n<p><a href=\"https://github.com/paperless-ngx/paperless-ngx\">Paperless</a>: Paperless is a self-hosted document management system that allows you to store, organize, and access your digital documents from anywhere. In 2022 the fork paperless-ngx was released. </p>\n<p><a href=\"https://github.com/plausible/analytics\">Plausible</a>: Plausible is a self-hosted web analytics platform that provides simple, privacy-friendly tracking for your website. It allows you to see how many people are visiting your site, where they are coming from, and which pages they are viewing.</p>\n<p>What about you? What are your top five self-hosted apps of the year? Were there new ones that you started using in 2022? Share your experiences with them and why you think they stand out from the rest.</p>\n<p>Edit: Forgot AdGuard Home, so swapped it for WordPress.</p></div>",
+            "date_published": "2022-12-27T10:31:48+00:00",
+            "authors": [
+                {
+                    "name": "ExoWire",
+                    "url": "https://www.reddit.com/user/ExoWire"
+                }
+            ]
+        },
+        {
             "id": "zu256e",
             "url": "/r/selfhosted/comments/zu256e/why_should_you_self_host/",
             "external_url": "https://i.redd.it/8ppsm73r2s7a1.jpg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "andyndino",
                     "url": "https://www.reddit.com/user/andyndino"
-                }
-            ]
-        },
-        {
-            "id": "u467k5",
-            "url": "/r/selfhosted/comments/u467k5/when_an_ibm_server_cant_find_a_boot_source/",
-            "external_url": "https://v.redd.it/0yyzdj6dkot81",
-            "title": "When an IBM server can\u2019t find a boot source",
-            "content_html": "<caption>Open in: <a href='https://v.redd.it/0yyzdj6dkot81'>v.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/u467k5/when_an_ibm_server_cant_find_a_boot_source/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/u467k5/when_an_ibm_server_cant_find_a_boot_source/'>Apollo</a></caption>",
-            "date_published": "2022-04-15T11:45:32+00:00",
-            "authors": [
-                {
-                    "name": "dotinho",
-                    "url": "https://www.reddit.com/user/dotinho"
                 }
             ]
         }
