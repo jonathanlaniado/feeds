@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "zx6z1w",
+            "url": "/r/macapps/comments/zx6z1w/announcing_the_release_of_verve_v010_a/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/zx6z1w/announcing_the_release_of_verve_v010_a/",
+            "title": "\ud83d\ude80 Announcing the Release of Verve v0.1.0 - A Lightweight and Blazingly Fast Launcher for MacOS",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/zx6z1w/announcing_the_release_of_verve_v010_a/'>Reddit</a></caption><div><br></div><div><p>Hey everyone,<br />\nI am excited to announce the release of Verve v0.1.0, a lightweight and blazingly fast launcher for accessing and opening applications, files, and documents on MacOS.  </p>\n<p>Verve serves as a replacement for popular tools like Spotlight, Raycast, and Alfred, and is written in the Rust programming language using the Tauri Framework.<br />\nYou can download Verve now at <a href=\"https://github.com/ParthJadhav/verve\">https://github.com/ParthJadhav/verve</a>, and follow the development of the project on GitHub (<a href=\"https://github.com/ParthJadhav\">https://github.com/ParthJadhav</a>).   </p>\n<p>The default shortcut to launch Verve is CMD + Shift + G, and you can access the Preferences window by pressing CMD + , or by clicking the menu bar icon and selecting Preferences. Verve can also be set to launch at login.<br />\nDespite being in the early stages of development, Verve is already showing great promise as a reliable and efficient tool for organizing and accessing important information on your Mac. If you are interested in getting involved and making a positive impact on this exciting project, we welcome your participation.<br />\nThank you for your support, and we hope you enjoy using Verve!</p></div>",
+            "date_published": "2022-12-28T11:09:16+00:00",
+            "authors": [
+                {
+                    "name": "ParthJadhav",
+                    "url": "https://www.reddit.com/user/ParthJadhav"
+                }
+            ]
+        },
+        {
             "id": "zwi4v7",
             "url": "/r/macapps/comments/zwi4v7/i_made_a_time_tracking_app_that_helps_you_improve/",
             "external_url": "https://www.reddit.com/r/macapps/comments/zwi4v7/i_made_a_time_tracking_app_that_helps_you_improve/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "McMangoose",
                     "url": "https://www.reddit.com/user/McMangoose"
-                }
-            ]
-        },
-        {
-            "id": "wee8zq",
-            "url": "/r/macapps/comments/wee8zq/eltima_software_mac_app_cheating_the_paid/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/wee8zq/eltima_software_mac_app_cheating_the_paid/",
-            "title": "Eltima Software Mac App cheating the paid customers",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/wee8zq/eltima_software_mac_app_cheating_the_paid/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/wee8zq/eltima_software_mac_app_cheating_the_paid/'>Apollo</a></caption> <div><p>Hi Everybody,</p>\n<p>On 2016 I bought an Folx Downloader together with lifetime upgrade with the following features from Eltima :</p>\n<p><a href=\"https://web.archive.org/web/20161020223434/https://mac.eltima.com/download-manager.html\">https://web.archive.org/web/20161020223434/https://mac.eltima.com/download-manager.html</a></p>\n<p>&#x200B;</p>\n<p>The most important feature to me was the Youtube Video Download even for playlists. In that time, everything was working perfectly. Just enter the url of youtube link and press enter, no login, nothing.</p>\n<p>&#x200B;</p>\n<p>Fast forward in 2020/1/2 Company introduces the Airy, a separate app for downloading Youtube videos and removes the feature from the page and do not notify any paid customer about feature removal</p>\n<p><a href=\"https://mac.eltima.com/download-manager.html\">https://mac.eltima.com/download-manager.html</a></p>\n<p>Here is release notes page of the app which never even mention feature removal:</p>\n<p><a href=\"https://help.electronic.us/support/solutions/articles/44002276858-what-s-new-in-this-version-of-folx\">https://help.electronic.us/support/solutions/articles/44002276858-what-s-new-in-this-version-of-folx</a></p>\n<p>&#x200B;</p>\n<p>They first started by making it annoying to use Folx. e.g., asking you to log in in a internal browser page with a suggestion to buy Airy instead (which is weird, hey I paid for that feature, are you asking to pay again for the same feature?). The internal browser itself is also separate from your own browser session. However, even if you were logging in it would not work. </p>\n<p>Recently, they just went one step further and completely disabled the feature, no more youtube video download pop up. Nothing, it just try to download a html page. </p>\n<p>&#x200B;</p>\n<p>This to me is very disturbing behavior from the company and I believe that you as customer should know about shady practices of this company. Now, for me while the money is not a problem, and there are plenty of open source alternatives, the company behavior is disturbing and I would never buy any software from this company anymore.</p></div>",
-            "date_published": "2022-08-02T15:12:49+00:00",
-            "authors": [
-                {
-                    "name": "Low_Reading_9831",
-                    "url": "https://www.reddit.com/user/Low_Reading_9831"
                 }
             ]
         }
