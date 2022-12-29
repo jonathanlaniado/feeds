@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "zyde20",
+            "url": "/r/macapps/comments/zyde20/with_2022_over_soon_what_were_your_favorites_apps/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/zyde20/with_2022_over_soon_what_were_your_favorites_apps/",
+            "title": "With 2022 over soon, what were your favorites apps of the year?",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/zyde20/with_2022_over_soon_what_were_your_favorites_apps/'>Reddit</a></caption><div><br></div><div><p>(They don't need to have been released this year)</p>\n<p>What apps have been your favorite this year, and something you'd recommend people download? Please also list the app's function, and if you are the developer of the app, please notify! :) </p>\n<p>If linking or describing, please use the following formats:</p>\n<blockquote>\n<ul>\n<li>Paid \ud83d\udcb5</li>\n<li>Free \ud83e\udef4</li>\n<li>Sub \ud83d\udd01</li>\n</ul>\n</blockquote></div>",
+            "date_published": "2022-12-29T19:06:15+00:00",
+            "authors": [
+                {
+                    "name": "VNzAbguvat",
+                    "url": "https://www.reddit.com/user/VNzAbguvat"
+                }
+            ]
+        },
+        {
             "id": "zx6z1w",
             "url": "/r/macapps/comments/zx6z1w/announcing_the_release_of_verve_v010_a/",
             "external_url": "https://www.reddit.com/r/macapps/comments/zx6z1w/announcing_the_release_of_verve_v010_a/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "the_bammer",
                     "url": "https://www.reddit.com/user/the_bammer"
-                }
-            ]
-        },
-        {
-            "id": "wfawdb",
-            "url": "/r/macapps/comments/wfawdb/accidentally_found_a_free_app_to_sort_launchpad/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/wfawdb/accidentally_found_a_free_app_to_sort_launchpad/",
-            "title": "Accidentally found a free app to sort Launchpad apps alphabetically",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/wfawdb/accidentally_found_a_free_app_to_sort_launchpad/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/wfawdb/accidentally_found_a_free_app_to_sort_launchpad/'>Apollo</a></caption> <div><p>As it turns out, the old trick in the Terminal hasn't worked since Mojave. There are paid solutions, but I accidentally found a free one and it's fine.</p>\n<p><a href=\"https://molayc.com/blog/2022/04/07/launchpadder/\">LaunchPadder</a> sorts applications alphabetically, by usage or other parameters. I'm not author, just happy to sort apps. Finally!</p>\n<p>https://preview.redd.it/3negykp1yif91.jpg?width=1280&amp;format=pjpg&amp;auto=webp&amp;s=ad656d5329ef315fa72eae10bdb511844acb5856</p></div>",
-            "date_published": "2022-08-03T16:22:36+00:00",
-            "authors": [
-                {
-                    "name": "McMangoose",
-                    "url": "https://www.reddit.com/user/McMangoose"
                 }
             ]
         }
