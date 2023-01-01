@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "1005emc",
+            "url": "/r/apple/comments/1005emc/bye_bye_to_dark_sky_tomorrow_one_of_the_few_apps/",
+            "external_url": "https://www.macrumors.com/2022/12/31/dark-sky-shuts-down-tomorrow/",
+            "title": "Bye bye to Dark Sky tomorrow. One of the few apps I ever bought. Apple weather just isn\u2019t as good of a substitute even with the new real time hyper local feed.",
+            "content_html": "<caption>Open: <a href='https://www.macrumors.com/2022/12/31/dark-sky-shuts-down-tomorrow/'>www.macrumors.com</a> | <a href='https://reddit.com/r/apple/comments/1005emc/bye_bye_to_dark_sky_tomorrow_one_of_the_few_apps/'>Reddit</a></caption>",
+            "date_published": "2022-12-31T22:31:32+00:00",
+            "authors": [
+                {
+                    "name": "thermbug",
+                    "url": "https://www.reddit.com/user/thermbug"
+                }
+            ]
+        },
+        {
             "id": "zyxh2g",
             "url": "/r/apple/comments/zyxh2g/apple_didnt_release_any_new_macs_this_quarter_for/",
             "external_url": "https://www.macrumors.com/2022/12/30/no-new-macs-for-first-time-since-2000/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "PersonalPerestroika",
                     "url": "https://www.reddit.com/user/PersonalPerestroika"
-                }
-            ]
-        },
-        {
-            "id": "xritai",
-            "url": "/r/apple/comments/xritai/ios_161_beta_brings_adaptive_transparency_to/",
-            "external_url": "https://www.macrumors.com/2022/09/29/ios-16-1-adaptive-transparency-airpods-pro/",
-            "title": "iOS 16.1 Beta Brings Adaptive Transparency to Original AirPods Pro",
-            "content_html": "<caption>Open in: <a href='https://www.macrumors.com/2022/09/29/ios-16-1-adaptive-transparency-airpods-pro/'>www.macrumors.com</a> | <a href='https://reddit.com/r/apple/comments/xritai/ios_161_beta_brings_adaptive_transparency_to/'>Reddit</a> | <a href='apollo://reddit.com/r/apple/comments/xritai/ios_161_beta_brings_adaptive_transparency_to/'>Apollo</a></caption>",
-            "date_published": "2022-09-29T20:58:09+00:00",
-            "authors": [
-                {
-                    "name": "iambenmerino",
-                    "url": "https://www.reddit.com/user/iambenmerino"
                 }
             ]
         }
