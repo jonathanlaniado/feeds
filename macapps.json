@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "100j13w",
+            "url": "/r/macapps/comments/100j13w/im_looking_for_an_ebook_manager_app_that_supports/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/100j13w/im_looking_for_an_ebook_manager_app_that_supports/",
+            "title": "I'm looking for an ebook manager app that supports kindle and feels more 'native' than Calibre",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/100j13w/im_looking_for_an_ebook_manager_app_that_supports/'>Reddit</a></caption><div><br></div><div><p>I sort of like Calibre because it's jam-packed with features, but I just can't get over the fact that the UI is so clunky and it feels like software you'd find on Windows or linux. I also dislike the fact that it stores my library right in the Documents folder.</p>\n<p>Is there any alternative that supports basic ebook management and conversion to MOBI, but has a somewhat smooth UI?</p></div>",
+            "date_published": "2023-01-01T12:51:49+00:00",
+            "authors": [
+                {
+                    "name": "kutjelul",
+                    "url": "https://www.reddit.com/user/kutjelul"
+                }
+            ]
+        },
+        {
             "id": "zyde20",
             "url": "/r/macapps/comments/zyde20/with_2022_over_soon_what_were_your_favorites_apps/",
             "external_url": "https://www.reddit.com/r/macapps/comments/zyde20/with_2022_over_soon_what_were_your_favorites_apps/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "JinqiuYu",
                     "url": "https://www.reddit.com/user/JinqiuYu"
-                }
-            ]
-        },
-        {
-            "id": "wg1il6",
-            "url": "/r/macapps/comments/wg1il6/tower_9_for_mac_has_just_been_released/",
-            "external_url": "https://www.git-tower.com/blog/tower-mac-9/",
-            "title": "Tower 9 for Mac has just been released",
-            "content_html": "<caption>Open in: <a href='https://www.git-tower.com/blog/tower-mac-9/'>www.git-tower.com</a> | <a href='https://reddit.com/r/macapps/comments/wg1il6/tower_9_for_mac_has_just_been_released/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/wg1il6/tower_9_for_mac_has_just_been_released/'>Apollo</a></caption>",
-            "date_published": "2022-08-04T13:38:38+00:00",
-            "authors": [
-                {
-                    "name": "the_bammer",
-                    "url": "https://www.reddit.com/user/the_bammer"
                 }
             ]
         }
