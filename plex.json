@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "101wqft",
+            "url": "/r/PleX/comments/101wqft/so_i_upgraded_my_plex_server/",
+            "external_url": "https://www.reddit.com/gallery/101wqft",
+            "title": "So I upgraded my Plex server......",
+            "content_html": "<caption>Open: <a href='https://www.reddit.com/gallery/101wqft'>www.reddit.com</a> | <a href='https://reddit.com/r/PleX/comments/101wqft/so_i_upgraded_my_plex_server/'>Reddit</a></caption>",
+            "date_published": "2023-01-03T03:24:14+00:00",
+            "authors": [
+                {
+                    "name": "rustypie314",
+                    "url": "https://www.reddit.com/user/rustypie314"
+                }
+            ]
+        },
+        {
             "id": "ztmpjb",
             "url": "/r/PleX/comments/ztmpjb/did_plex_just_push_an_ad_to_me/",
             "external_url": "https://i.imgur.com/VermXpo.jpg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "rightbeforeimpact",
                     "url": "https://www.reddit.com/user/rightbeforeimpact"
-                }
-            ]
-        },
-        {
-            "id": "rzqjoq",
-            "url": "/r/PleX/comments/rzqjoq/plex_on_android_tv_isnt_getting_the_attention_it/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/rzqjoq/plex_on_android_tv_isnt_getting_the_attention_it/",
-            "title": "Plex on Android TV isn't getting the attention it needs",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/PleX/comments/rzqjoq/plex_on_android_tv_isnt_getting_the_attention_it/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/rzqjoq/plex_on_android_tv_isnt_getting_the_attention_it/'>Apollo</a></caption> <div><p>I love Plex. I am a heavy android tv user, and the plex app on android tv has some very old bugs that no one seems to be doing anything about ...</p>\n<ol>\n<li>Sometimes scrubbing back and forth on a video causes the video to freeze or crash plex altogether</li>\n<li>For videos already in progress, long pressing on it and selecting \"mark as unplayed\" marks it as played instead</li>\n<li>When watching videos back to back in a playlist, the videos don't get marked as played as each video completes but instead I have a stack of videos with playback almost complete but not</li>\n<li>The up and down scrolling on a playlist causes a weird animation screen skip when scrolling up again after scrolling down</li>\n</ol>\n<p>Other than those bugs, one of my biggest feature requests is the ability to control what libraries my shared users see in their sidebar rather than them deciding this themselves.</p></div>",
-            "date_published": "2022-01-09T12:21:26+00:00",
-            "authors": [
-                {
-                    "name": "ZainAjam",
-                    "url": "https://www.reddit.com/user/ZainAjam"
                 }
             ]
         }
