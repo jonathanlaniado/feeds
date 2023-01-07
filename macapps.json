@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "105594w",
+            "url": "/r/macapps/comments/105594w/apps_that_should_be_paid_but_are_not_part_5/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/105594w/apps_that_should_be_paid_but_are_not_part_5/",
+            "title": "Apps that should be paid, but are not (Part 5)",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/105594w/apps_that_should_be_paid_but_are_not_part_5/'>Reddit</a></caption><div><br></div><div><p>here are few apps that I found in last few weeks, </p>\n<p>some I am already using day-to-day basis, some I am giving a try!</p>\n<hr />\n<ul>\n<li><a href=\"https://github.com/FelixKratz/SketchyBar\">SketchyBar</a></li>\n<li>A highly customizable macOS status bar replacement</li>\n<li>just look at the <a href=\"https://github.com/FelixKratz/SketchyBar#demonstration-of-the-animation-system\">video demo</a> on this repo. WOW!</li>\n<li>\n<p>I needed this the day I bought the macbook.</p>\n</li>\n<li>\n<p><a href=\"https://github.com/dexterleng/KeyboardScroller.docs\">KeyboardScroller</a></p>\n</li>\n<li>Trackpad-smooth scrolling with keyboard shortcuts on macOS</li>\n<li>If you are familiar with <a href=\"https://karabiner-elements.pqrs.org/\">Karabiner-Elements</a>, it has similar configuration, but I find the KeyboardScroller scrolls much more like actual scroll wheel on a mouse</li>\n<li>\n<p>I am combining this with <a href=\"https://www.homerow.app/\">Homerow</a> (app from same folks as KeyboardScroller) to save keyboard-mouse switching constantly</p>\n</li>\n<li>\n<p><a href=\"https://github.com/lencx/ChatGPT\">chatgpt wrapper</a></p>\n</li>\n<li>ChatGPT Desktop Application (Mac, Windows and Linux)    </li>\n<li>has option to save prompts like Telegram bot commands</li>\n<li>\n<p>integration with <a href=\"https://github.com/f/awesome-chatgpt-prompts\">awesome-chatgpt-prompts</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/ExistentialAudio/BlackHole\">BlackHole</a></p>\n</li>\n<li>BlackHole is a modern macOS virtual audio driver that allows  applications to pass audio to other applications with zero additional  latency.</li>\n<li>Useful to directly records sounds from applications.</li>\n<li>\n<p>Combine it with quick player recordings</p>\n</li>\n<li>\n<p><a href=\"https://github.com/abiosoft/colima\">colima</a></p>\n</li>\n<li>Container runtimes on macOS (and Linux) with minimal setup</li>\n<li>\n<p>if you use Docker desktop, colima is alternative to that</p>\n</li>\n<li>\n<p><a href=\"https://github.com/httpie/httpie\">HTTPie</a></p>\n</li>\n<li>alternative to postman</li>\n<li>has AI features</li>\n</ul>\n<hr />\n<p>If you find any of these tools helpful to you, be sure to star the repo on Github to support the devs.</p>\n<hr />\n<p>Here's <a href=\"https://www.reddit.com/r/macapps/comments/zn9too/apps_that_should_be_paid_but_are_not_part_4/\">Part 4</a>, you can follow the chain of links in each post, if you looking for more such suggestions</p></div>",
+            "date_published": "2023-01-06T20:55:56+00:00",
+            "authors": [
+                {
+                    "name": "rootedMind",
+                    "url": "https://www.reddit.com/user/rootedMind"
+                }
+            ]
+        },
+        {
             "id": "104naxn",
             "url": "/r/macapps/comments/104naxn/i_made_a_spotify_lyrics_miniplayer_\u00e0_la_apple/",
             "external_url": "https://i.redd.it/iz3a28yqddaa1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Eggsblue",
                     "url": "https://www.reddit.com/user/Eggsblue"
-                }
-            ]
-        },
-        {
-            "id": "wksmi3",
-            "url": "/r/macapps/comments/wksmi3/where_do_you_store_good_to_have_links_and_stuff/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/wksmi3/where_do_you_store_good_to_have_links_and_stuff/",
-            "title": "Where do you store \"good to have\" links and stuff you want to save for later",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/wksmi3/where_do_you_store_good_to_have_links_and_stuff/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/wksmi3/where_do_you_store_good_to_have_links_and_stuff/'>Apollo</a></caption> <div><p>Hi,</p>\n<p>I love apps where I can store links and other content for later use such as Raindrop, Pocket etc but the more apps I use the more subscriptions I need to pay for, this is becoming a burden.<br />\nCurrently I am using Raindrop which is great and and worth it's price but I really need to start finding free options (if there are any).</p>\n<p>&#x200B;</p>\n<p><strong>So I am wondering what apps / services do you use for saving content? Are there any free feature rich ones close to Raindrop or Pocket?</strong></p>\n<p>I was thinking of using the Safari \"Reading list\" but it is very simplistic so it might get difficult to find things later when you have &gt;1000 items in there.</p>\n<p>&#x200B;</p>\n<p>Appreciate all the tips!</p></div>",
-            "date_published": "2022-08-10T09:07:07+00:00",
-            "authors": [
-                {
-                    "name": "end9r",
-                    "url": "https://www.reddit.com/user/end9r"
                 }
             ]
         }
