@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "107n9iu",
+            "url": "/r/macapps/comments/107n9iu/bypass_paywall_alternative_for_macos_using_12ftio/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/107n9iu/bypass_paywall_alternative_for_macos_using_12ftio/",
+            "title": "Bypass Paywall alternative for MacOS using 12ft.io!",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/107n9iu/bypass_paywall_alternative_for_macos_using_12ftio/'>Reddit</a></caption><div><br></div><div><p>Hello r/macapps!</p>\n<p>I have been using Bypass Paywall on Chrome for quite some time and since switching to Safari, I found that I missed it a lot. To fix this, I made my own extension using <a href=\"https://12ft.io\">12ft.io</a> which does the same job as Bypass Paywalls for articles but on Safari! You can check it out here: <a href=\"https://github.com/Babyyoda777/12ft-MacOS-SafariExtension\">https://github.com/Babyyoda777/12ft-MacOS-SafariExtension</a></p>\n<p>Thanks!</p></div>",
+            "date_published": "2023-01-09T19:22:44+00:00",
+            "authors": [
+                {
+                    "name": "AmountOk3836",
+                    "url": "https://www.reddit.com/user/AmountOk3836"
+                }
+            ]
+        },
+        {
             "id": "106zz7f",
             "url": "/r/macapps/comments/106zz7f/qr_factory_gets_an_extensive_update/",
             "external_url": "https://i.redd.it/srwfsiwz0xaa1.gif",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "phenomenoning",
                     "url": "https://www.reddit.com/user/phenomenoning"
-                }
-            ]
-        },
-        {
-            "id": "woi6t9",
-            "url": "/r/macapps/comments/woi6t9/site_with_links_to_hundreds_of_free_mac_apps/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/woi6t9/site_with_links_to_hundreds_of_free_mac_apps/",
-            "title": "Site with links to hundreds of free Mac apps",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/woi6t9/site_with_links_to_hundreds_of_free_mac_apps/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/woi6t9/site_with_links_to_hundreds_of_free_mac_apps/'>Apollo</a></caption> <div><p>I've recently been reviving an old project of mine called <a href=\"https://thriftmac.com/\">thriftmac</a>. It currently has 261 curated links to Mac apps that are totally free without any strings attached. I feel like this is a needed resource because much of what passes for \"free\" these days has in-app purchases that limit functionality.</p>\n<p>The site is a work in progress so I'm open to suggestions. Keep in mind that I want to mainly feature apps that have broad appeal. There are a lot of developer apps, for example, that I feel are too niche. Also, I'm shying away from web-based apps \u2014 it's too hard to keep up with them.</p>\n<p>This is my small contribution to the Mac community. I hope someone finds it helpful.</p></div>",
-            "date_published": "2022-08-14T22:09:38+00:00",
-            "authors": [
-                {
-                    "name": "LessSection",
-                    "url": "https://www.reddit.com/user/LessSection"
                 }
             ]
         }
