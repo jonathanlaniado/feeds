@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "106zz7f",
+            "url": "/r/macapps/comments/106zz7f/qr_factory_gets_an_extensive_update/",
+            "external_url": "https://i.redd.it/srwfsiwz0xaa1.gif",
+            "title": "QR Factory gets an extensive update!",
+            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/macapps/comments/106zz7f/qr_factory_gets_an_extensive_update/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/srwfsiwz0xaa1.gif\" />",
+            "date_published": "2023-01-09T00:56:16+00:00",
+            "authors": [
+                {
+                    "name": "tunabelly_software",
+                    "url": "https://www.reddit.com/user/tunabelly_software"
+                }
+            ]
+        },
+        {
             "id": "105594w",
             "url": "/r/macapps/comments/105594w/apps_that_should_be_paid_but_are_not_part_5/",
             "external_url": "https://www.reddit.com/r/macapps/comments/105594w/apps_that_should_be_paid_but_are_not_part_5/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "LessSection",
                     "url": "https://www.reddit.com/user/LessSection"
-                }
-            ]
-        },
-        {
-            "id": "wnvm4h",
-            "url": "/r/macapps/comments/wnvm4h/i_launched_my_first_mac_app/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/wnvm4h/i_launched_my_first_mac_app/",
-            "title": "I launched my first Mac app!",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/wnvm4h/i_launched_my_first_mac_app/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/wnvm4h/i_launched_my_first_mac_app/'>Apollo</a></caption> <div><p>Hey, r/macapps \ud83d\udc4b</p>\n<p>&#x200B;</p>\n<p>I built a window management software for Mac, You know, Window management on Mac is messy, I know there are some software that try to solve this problem, But none of them satisfied me, so I tried to develop Wins App in the Apple way, The following are features of Wins\ud83d\udc47\ud83c\udffb</p>\n<ol>\n<li>Great Animations</li>\n</ol>\n<p>Animations is the soul of a software</p>\n<ol>\n<li>Quick Split Window</li>\n</ol>\n<p>Drag the window to the edge of the screen to split a window</p>\n<ol>\n<li>Floating Split Window</li>\n</ol>\n<p>Drag to see the floating split window and drag on to quick split</p>\n<ol>\n<li>Dark Mode</li>\n</ol>\n<p>Perfect look in both Dark and Light modes</p>\n<ol>\n<li>System Level Integration</li>\n</ol>\n<p>No need for a separate window, dock or menu bar. Wins is integrated directly into System Preferences, providing a pure user experience</p>\n<ol>\n<li>High Efficiency</li>\n</ol>\n<p>Memory usage is less than 30MB, CPU usage is less than 10% and in most cases it about 0.1%</p>\n<ol>\n<li>Native M1 and Intel</li>\n</ol>\n<p>It runs perfectly on Apple silicon and Intel chips</p>\n<p>&#x200B;</p>\n<p><strong>Comparing similar software</strong></p>\n<p>||Wins|Rectangle|Magnet|\n|:-|:-|:-|:-|\n|<strong>Animation</strong>|<strong>Better</strong>|-|-|\n|<strong>Floating Split Window</strong>|<strong>Yes</strong>|No|No|\n|<strong>System Level Integration</strong>|<strong>Yes</strong>|No(A separate window or menu bar)|No(A separate window or menu bar)|\n|<strong>High Efficiency</strong>|<strong>Better</strong>|-|-|</p>\n<p>I am so excited to share my first App with the Reddit Community and offer a 25% discount specifically for Reddit.</p>\n<p>off coupon:  <strong>reddit2022</strong></p>\n<p>You can see more at <a href=\"https://wins.cool/\">https://wins.cool</a> (full intro video)</p>\n<p>&#x200B;</p>\n<p><a href=\"https://reddit.com/link/wnvm4h/video/bykalg9welh91/player\">Introducing Wins</a></p></div>",
-            "date_published": "2022-08-14T02:49:28+00:00",
-            "authors": [
-                {
-                    "name": "Eggsblue",
-                    "url": "https://www.reddit.com/user/Eggsblue"
                 }
             ]
         }
