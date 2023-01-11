@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "108adko",
+            "url": "/r/selfhosted/comments/108adko/tooljet_20_opensource_lowcode_framework_for/",
+            "external_url": "https://github.com/ToolJet/ToolJet",
+            "title": "ToolJet 2.0 - Open-source low-code framework for building business applications. Now with a refreshed UI, in-built no-code database, support for Python, support for multi-page apps, and more. Deploy using Docker, k8s, AWS AMI & more! Alternative to Retool, Power Apps & OutSystems.",
+            "content_html": "<caption>Open: <a href='https://github.com/ToolJet/ToolJet'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/108adko/tooljet_20_opensource_lowcode_framework_for/'>Reddit</a></caption>",
+            "date_published": "2023-01-10T13:54:08+00:00",
+            "authors": [
+                {
+                    "name": "navaneethpk",
+                    "url": "https://www.reddit.com/user/navaneethpk"
+                }
+            ]
+        },
+        {
             "id": "100fb4s",
             "url": "/r/selfhosted/comments/100fb4s/i_built_haystack_selfhosted_google_for_workplace/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/100fb4s/i_built_haystack_selfhosted_google_for_workplace/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "FoxUSA",
                     "url": "https://www.reddit.com/user/FoxUSA"
-                }
-            ]
-        },
-        {
-            "id": "ua1hap",
-            "url": "/r/selfhosted/comments/ua1hap/reminder_that_if_you_use_a_dashboard_that_youre/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/ua1hap/reminder_that_if_you_use_a_dashboard_that_youre/",
-            "title": "Reminder that if you use a dashboard that you're allowing internet access to, set a password.",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/ua1hap/reminder_that_if_you_use_a_dashboard_that_youre/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/ua1hap/reminder_that_if_you_use_a_dashboard_that_youre/'>Apollo</a></caption> <div><p>I just spent a little time searching around for unsecure Heimdall's. There's a lot. This is an example of what I was able to do on more than one of them. </p>\n<p>So I found an unsecured Heimdall that had actually been setup fairly well for personal use, but the owner was using the fancy enhanced buttons. So I opened up the application list and went into edit. </p>\n<p>This guy was running AdGuard Home and AdGuard Home requires you provide your username and password to use the enhanced features. The username was plain text and Heimdall isn't the most secure so if you inspect element on the password field and change the type to text, you can see the data entered.</p>\n<p>So now I have his username and password. People tend to reuse these.</p>\n<p>He was also running Sonarr/Radarr so I gave those a go, they were actually password protected, I put in the username and password I just got and boom, I was in them too.</p>\n<p>I opened up his indexer list and could see he was using a bunch of usenet indexers. Now I couldn't get the username and passwords for these directly, but I did have the API keys. And I could find the sites quite easilly and already knew his username and password so could give those a shot. Turns out that worked for a couple of them.</p>\n<p>I could also see his download client was NZBGet. That also stores username and password. They matched what I already had, but if they were different I would have had them too.</p>\n<p>I hop over to his NZBGet and from here I can see his download servers. They also store username and password (note here, sabNZB does NOT allow you to view the stored password, but NZBGet does).</p>\n<p>So now I go to the site for one of his servers and what do you know, same username and password combo. From here I could see our guys email address. Bet he reused the password...</p>\n<p>He did.</p>\n<p>Oh, he was also running Portainer as an enhanced app on Heimdall. Portainer requires username/password for that feature. So now I'm in his Portainer.</p>\n<p>If you're worrying, I did nothing with all this information. Well that's not true, I did add the classic 1995 movie \"Hackers\" to his Radarr.</p>\n<p>And then sent him an anonymous email explaining what I had done and left a note directly on his Heimdall in case he missed the email.</p>\n<p>So in conclussion, make sure your shit is secure and don't reuse passwords.</p></div>",
-            "date_published": "2022-04-23T09:16:55+00:00",
-            "authors": [
-                {
-                    "name": "SecureYourSht",
-                    "url": "https://www.reddit.com/user/SecureYourSht"
                 }
             ]
         }
