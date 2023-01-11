@@ -22,6 +22,20 @@
             ]
         },
         {
+            "id": "108adko",
+            "url": "/r/selfhosted/comments/108adko/tooljet_20_opensource_lowcode_framework_for/",
+            "external_url": "https://github.com/ToolJet/ToolJet",
+            "title": "ToolJet 2.0 - Open-source low-code framework for building business applications. Now with a refreshed UI, in-built no-code database, support for Python, support for multi-page apps, and more. Deploy using Docker, k8s, AWS AMI & more! Alternative to Retool, Power Apps & OutSystems.",
+            "content_html": "<caption>Open: <a href='https://github.com/ToolJet/ToolJet'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/108adko/tooljet_20_opensource_lowcode_framework_for/'>Reddit</a></caption>",
+            "date_published": "2023-01-10T13:54:08+00:00",
+            "authors": [
+                {
+                    "name": "navaneethpk",
+                    "url": "https://www.reddit.com/user/navaneethpk"
+                }
+            ]
+        },
+        {
             "id": "100fb4s",
             "url": "/r/selfhosted/comments/100fb4s/i_built_haystack_selfhosted_google_for_workplace/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/100fb4s/i_built_haystack_selfhosted_google_for_workplace/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "strig",
                     "url": "https://www.reddit.com/user/strig"
-                }
-            ]
-        },
-        {
-            "id": "uae58y",
-            "url": "/r/selfhosted/comments/uae58y/storedown_a_self_hosted_hopefully_simple_to_use/",
-            "external_url": "https://github.com/FoxUSA/StoreDown",
-            "title": "StoreDown - A Self Hosted hopefully simple to use home inventory system",
-            "content_html": "<caption>Open in: <a href='https://github.com/FoxUSA/StoreDown'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/uae58y/storedown_a_self_hosted_hopefully_simple_to_use/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/uae58y/storedown_a_self_hosted_hopefully_simple_to_use/'>Apollo</a></caption>",
-            "date_published": "2022-04-23T20:31:17+00:00",
-            "authors": [
-                {
-                    "name": "FoxUSA",
-                    "url": "https://www.reddit.com/user/FoxUSA"
                 }
             ]
         }
