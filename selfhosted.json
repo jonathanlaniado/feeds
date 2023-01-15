@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "10bsbdn",
+            "url": "/r/selfhosted/comments/10bsbdn/what_services_do_you_not_selfhost_and_why/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/10bsbdn/what_services_do_you_not_selfhost_and_why/",
+            "title": "What services do you NOT self-host and why?",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/10bsbdn/what_services_do_you_not_selfhost_and_why/'>Reddit</a></caption><div><br></div><div><p>I used to but now I don't host:</p>\n<ol>\n<li>e-mail - It's just a minefield of getting blocked, spam, and other things that all cause problems</li>\n<li>DNS - I just don't update DNS much anymore, so I let my domain registrar host it (for free)</li>\n<li>NextCloud - I have an internal NextCloud instance, but share a paid NextCloud instance with my family. I don't want to be responsible for other people's files and data.</li>\n</ol></div>",
+            "date_published": "2023-01-14T16:18:23+00:00",
+            "authors": [
+                {
+                    "name": "r3dk0w",
+                    "url": "https://www.reddit.com/user/r3dk0w"
+                }
+            ]
+        },
+        {
             "id": "1097w4z",
             "url": "/r/selfhosted/comments/1097w4z/my_pihole_grafana_dashboard/",
             "external_url": "https://i.redd.it/nsh8t6qjqfba1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "nashosted",
                     "url": "https://www.reddit.com/user/nashosted"
-                }
-            ]
-        },
-        {
-            "id": "uhn4a5",
-            "url": "/r/selfhosted/comments/uhn4a5/free_wildcard_dns_on_cloudflare_now_available_for/",
-            "external_url": "https://blog.cloudflare.com/wildcard-proxy-for-everyone/",
-            "title": "Free Wildcard DNS on Cloudflare Now Available for All",
-            "content_html": "<caption>Open in: <a href='https://blog.cloudflare.com/wildcard-proxy-for-everyone/'>blog.cloudflare.com</a> | <a href='https://reddit.com/r/selfhosted/comments/uhn4a5/free_wildcard_dns_on_cloudflare_now_available_for/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/uhn4a5/free_wildcard_dns_on_cloudflare_now_available_for/'>Apollo</a></caption>",
-            "date_published": "2022-05-03T18:55:37+00:00",
-            "authors": [
-                {
-                    "name": "intellidumb",
-                    "url": "https://www.reddit.com/user/intellidumb"
                 }
             ]
         }
