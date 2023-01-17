@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "10dvl18",
+            "url": "/r/macapps/comments/10dvl18/my_app_about_this_hack_the_best_replacement_for/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/10dvl18/my_app_about_this_hack_the_best_replacement_for/",
+            "title": "My App - About This Hack - The best replacement for Apple's About This Mac!",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/10dvl18/my_app_about_this_hack_the_best_replacement_for/'>Reddit</a></caption><div><br></div><div><p>I just released the latest version of my app, About This Hack and I thought I'd share!</p>\n<p>About This Hack is a simple application to view your exact hardware on macOS. Similar to About This Mac, but with more features, including AMD Processor Support, display resolution, and more! It retains the old \"About This Mac\" design language and is supported on both Hackintoshes and real Macs.</p>\n<p>&#x200B;</p>\n<p>https://preview.redd.it/z6ym2snclhca1.png?width=1384&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=a59cedcf1ef52130f2e05452fa1928c011f19373</p>\n<p>&#x200B;</p>\n<p>https://preview.redd.it/dl3fhzidlhca1.png?width=692&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=b1ee70e33f7a2870a54066eaa7c5fb6551294d07</p>\n<p>Please check it out if you have the chance! <a href=\"https://github.com/0xCUB3/About-This-Hack\">https://github.com/0xCUB3/About-This-Hack</a></p>\n<p>*Note that you may experience the \"Unidentified Developer\" error when you open it. If so, the README has instructions. This is because I don't have the paid Apple Developer license since I'm a broke student :(</p>\n<p>Thanks for the support, and feature requests/bug reports are always appreciated (preferably the former hehe)</p></div>",
+            "date_published": "2023-01-16T23:07:40+00:00",
+            "authors": [
+                {
+                    "name": "0xCUBE",
+                    "url": "https://www.reddit.com/user/0xCUBE"
+                }
+            ]
+        },
+        {
             "id": "10di3sw",
             "url": "/r/macapps/comments/10di3sw/i_now_use_4_different_launchers_on_my_mac/",
             "external_url": "https://www.reddit.com/r/macapps/comments/10di3sw/i_now_use_4_different_launchers_on_my_mac/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "tonydinhthecoder",
                     "url": "https://www.reddit.com/user/tonydinhthecoder"
-                }
-            ]
-        },
-        {
-            "id": "wv9rk2",
-            "url": "/r/macapps/comments/wv9rk2/app_cleaner_the_proper_way_to_delete_apps_on_mac/",
-            "external_url": "https://youtu.be/bhb2XQ1TY7c",
-            "title": "App Cleaner - The Proper Way to Delete Apps on Mac",
-            "content_html": "<caption>Open in: <a href='https://youtu.be/bhb2XQ1TY7c'>youtu.be</a> | <a href='https://reddit.com/r/macapps/comments/wv9rk2/app_cleaner_the_proper_way_to_delete_apps_on_mac/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/wv9rk2/app_cleaner_the_proper_way_to_delete_apps_on_mac/'>Apollo</a></caption>",
-            "date_published": "2022-08-23T00:16:46+00:00",
-            "authors": [
-                {
-                    "name": "desktopJM",
-                    "url": "https://www.reddit.com/user/desktopJM"
                 }
             ]
         }
