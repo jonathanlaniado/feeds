@@ -8,6 +8,20 @@
     "favicon": "https://b.thumbs.redditmedia.com/k7fHE51fuhbYJRT2e9s1rXIp2ZtA7ks-cNFvQuNbfcE.png",
     "items": [
         {
+            "id": "10fagsi",
+            "url": "/r/InternetIsBeautiful/comments/10fagsi/i_built_a_tiny_ai_app_to_suggest_next_task_to_do/",
+            "external_url": "https://taskbloom.com/",
+            "title": "I built a tiny AI app to suggest next task to do",
+            "content_html": "<caption>Open: <a href='https://taskbloom.com/'>taskbloom.com</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/10fagsi/i_built_a_tiny_ai_app_to_suggest_next_task_to_do/'>Reddit</a></caption>",
+            "date_published": "2023-01-18T15:43:37+00:00",
+            "authors": [
+                {
+                    "name": "EarlyPlantain7810",
+                    "url": "https://www.reddit.com/user/EarlyPlantain7810"
+                }
+            ]
+        },
+        {
             "id": "10ed1pq",
             "url": "/r/InternetIsBeautiful/comments/10ed1pq/i_built_a_website_that_tracks_ai_use_cases_and/",
             "external_url": "https://theresanaiforthat.com/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "johnnyr1",
                     "url": "https://www.reddit.com/user/johnnyr1"
-                }
-            ]
-        },
-        {
-            "id": "uxspg9",
-            "url": "/r/InternetIsBeautiful/comments/uxspg9/a_website_that_lets_you_practice_typing_by/",
-            "external_url": "https://www.typelit.io/",
-            "title": "A website that lets you practice typing by retyping classic literature",
-            "content_html": "<caption>Open in: <a href='https://www.typelit.io/'>www.typelit.io</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/uxspg9/a_website_that_lets_you_practice_typing_by/'>Reddit</a> | <a href='apollo://reddit.com/r/InternetIsBeautiful/comments/uxspg9/a_website_that_lets_you_practice_typing_by/'>Apollo</a></caption>",
-            "date_published": "2022-05-25T22:19:59+00:00",
-            "authors": [
-                {
-                    "name": "IsionYadav",
-                    "url": "https://www.reddit.com/user/IsionYadav"
                 }
             ]
         }
