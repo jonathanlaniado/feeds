@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "10gq9fw",
+            "url": "/r/macapps/comments/10gq9fw/spaced_organize_your_menu_bar_items_into_groups/",
+            "external_url": "https://apps.apple.com/app/id1666327168",
+            "title": "Spaced \u2014 Organize your menu bar items into groups",
+            "content_html": "<caption>Open: <a href='https://apps.apple.com/app/id1666327168'>apps.apple.com</a> | <a href='https://reddit.com/r/macapps/comments/10gq9fw/spaced_organize_your_menu_bar_items_into_groups/'>Reddit</a></caption>",
+            "date_published": "2023-01-20T07:04:06+00:00",
+            "authors": [
+                {
+                    "name": "sindresorhus",
+                    "url": "https://www.reddit.com/user/sindresorhus"
+                }
+            ]
+        },
+        {
             "id": "10gdanl",
             "url": "/r/macapps/comments/10gdanl/a_few_posts_recently_have_been_about_the_best/",
             "external_url": "https://thiswebsite.notion.site/e90b603684824416ae4bab5175806a4b?v=e9b7930fa5bd45d49a9b22683a1e9ee4",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Pandemojo",
                     "url": "https://www.reddit.com/user/Pandemojo"
-                }
-            ]
-        },
-        {
-            "id": "x472nm",
-            "url": "/r/macapps/comments/x472nm/orbital_easily_launch_and_switch_between_your_mac/",
-            "external_url": "https://getorbitl.app",
-            "title": "Orbital - Easily launch and switch between your Mac apps with an orbiting dock",
-            "content_html": "<caption>Open in: <a href='https://getorbitl.app'>getorbitl.app</a> | <a href='https://reddit.com/r/macapps/comments/x472nm/orbital_easily_launch_and_switch_between_your_mac/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/x472nm/orbital_easily_launch_and_switch_between_your_mac/'>Apollo</a></caption>",
-            "date_published": "2022-09-02T17:16:15+00:00",
-            "authors": [
-                {
-                    "name": "woofos",
-                    "url": "https://www.reddit.com/user/woofos"
                 }
             ]
         }
