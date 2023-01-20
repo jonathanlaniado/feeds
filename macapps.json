@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "10gdanl",
+            "url": "/r/macapps/comments/10gdanl/a_few_posts_recently_have_been_about_the_best/",
+            "external_url": "https://thiswebsite.notion.site/e90b603684824416ae4bab5175806a4b?v=e9b7930fa5bd45d49a9b22683a1e9ee4",
+            "title": "A few posts recently have been about 'the best apps' - so I thought I'd play with Notion and make a database of all the apps I've used (and a ton that I've seen recommended on Reddit). It's still a work in progress - I need to add iOS links for complimentary apps.",
+            "content_html": "<caption>Open: <a href='https://thiswebsite.notion.site/e90b603684824416ae4bab5175806a4b?v=e9b7930fa5bd45d49a9b22683a1e9ee4'>thiswebsite.notion.site</a> | <a href='https://reddit.com/r/macapps/comments/10gdanl/a_few_posts_recently_have_been_about_the_best/'>Reddit</a></caption>",
+            "date_published": "2023-01-19T21:08:03+00:00",
+            "authors": [
+                {
+                    "name": "scribblenik",
+                    "url": "https://www.reddit.com/user/scribblenik"
+                }
+            ]
+        },
+        {
             "id": "10fb6b4",
             "url": "/r/macapps/comments/10fb6b4/found_an_app_that_lets_you_turn_your_menu_bar/",
             "external_url": "https://apps.apple.com/us/app/lickable-menu-bar/id6444217677?mt=12",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "woofos",
                     "url": "https://www.reddit.com/user/woofos"
-                }
-            ]
-        },
-        {
-            "id": "x1lwef",
-            "url": "/r/macapps/comments/x1lwef/sioyek_15_pdf_viewer_for_reading_research_papers/",
-            "external_url": "https://github.com/ahrm/sioyek/releases/tag/v1.5.0",
-            "title": "Sioyek 1.5 | PDF viewer for reading research papers and textbooks",
-            "content_html": "<caption>Open in: <a href='https://github.com/ahrm/sioyek/releases/tag/v1.5.0'>github.com</a> | <a href='https://reddit.com/r/macapps/comments/x1lwef/sioyek_15_pdf_viewer_for_reading_research_papers/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/x1lwef/sioyek_15_pdf_viewer_for_reading_research_papers/'>Apollo</a></caption>",
-            "date_published": "2022-08-30T15:23:32+00:00",
-            "authors": [
-                {
-                    "name": "highergraphic",
-                    "url": "https://www.reddit.com/user/highergraphic"
                 }
             ]
         }
