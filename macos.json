@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "10jjhhw",
+            "url": "/r/MacOS/comments/10jjhhw/apple_releases_macos_132_with_support_for/",
+            "external_url": "https://9to5mac.com/2023/01/23/apple-releases-macos-13-2-security-key-support/",
+            "title": "Apple releases macOS 13.2 with support for Security Keys, bug fixes, and more",
+            "content_html": "<caption>Open: <a href='https://9to5mac.com/2023/01/23/apple-releases-macos-13-2-security-key-support/'>9to5mac.com</a> | <a href='https://reddit.com/r/MacOS/comments/10jjhhw/apple_releases_macos_132_with_support_for/'>Reddit</a></caption>",
+            "date_published": "2023-01-23T18:24:29+00:00",
+            "authors": [
+                {
+                    "name": "dstranathan",
+                    "url": "https://www.reddit.com/user/dstranathan"
+                }
+            ]
+        },
+        {
             "id": "10ipyam",
             "url": "/r/MacOS/comments/10ipyam/i_triple_booted_my_mid_2015_mbp_its_been_working/",
             "external_url": "https://i.redd.it/5lupyykmxmda1.jpg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "waumau",
                     "url": "https://www.reddit.com/user/waumau"
-                }
-            ]
-        },
-        {
-            "id": "tugceh",
-            "url": "/r/MacOS/comments/tugceh/discovered_keyboard_shortcut_for_superfast_folder/",
-            "external_url": "https://v.redd.it/5ycvl1p7l3r81",
-            "title": "Discovered \"/\" keyboard shortcut for super-fast folder navigation in 'Save' dialogue boxes.",
-            "content_html": "<caption>Open in: <a href='https://v.redd.it/5ycvl1p7l3r81'>v.redd.it</a> | <a href='https://reddit.com/r/MacOS/comments/tugceh/discovered_keyboard_shortcut_for_superfast_folder/'>Reddit</a> | <a href='apollo://reddit.com/r/MacOS/comments/tugceh/discovered_keyboard_shortcut_for_superfast_folder/'>Apollo</a></caption>",
-            "date_published": "2022-04-02T11:04:25+00:00",
-            "authors": [
-                {
-                    "name": "mcosternl",
-                    "url": "https://www.reddit.com/user/mcosternl"
                 }
             ]
         }
