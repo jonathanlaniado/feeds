@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "10li76r",
+            "url": "/r/apple/comments/10li76r/apple_fellow_phil_schiller_confirms_hes_now_on/",
+            "external_url": "https://9to5mac.com/2023/01/25/phil-schiller-now-on-mastodon/?utm_source=dlvr.it&utm_medium=mastodon",
+            "title": "Apple Fellow Phil Schiller confirms he\u2019s now on Mastodon after deleting Twitter account",
+            "content_html": "<caption>Open: <a href='https://9to5mac.com/2023/01/25/phil-schiller-now-on-mastodon/?utm_source=dlvr.it&utm_medium=mastodon'>9to5mac.com</a> | <a href='https://reddit.com/r/apple/comments/10li76r/apple_fellow_phil_schiller_confirms_hes_now_on/'>Reddit</a></caption>",
+            "date_published": "2023-01-26T03:25:05+00:00",
+            "authors": [
+                {
+                    "name": "sickpanda42",
+                    "url": "https://www.reddit.com/user/sickpanda42"
+                }
+            ]
+        },
+        {
             "id": "10k2qjs",
             "url": "/r/apple/comments/10k2qjs/ipad_pro_doesnt_need_a_major_revamp_but_better/",
             "external_url": "https://9to5mac.com/2023/01/23/ipad-pro-needs-better-software/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "etimzy001",
                     "url": "https://www.reddit.com/user/etimzy001"
-                }
-            ]
-        },
-        {
-            "id": "y8y2vu",
-            "url": "/r/apple/comments/y8y2vu/smaller_version_of_macos_for_ipad_might_be_coming/",
-            "external_url": "https://twitter.com/majinbuofficial/status/1583065617950613504?s=21&t=NrXsohlTGTn75MKGNg01Aw",
-            "title": "Smaller version of MacOS for ipad might be coming but would be exclusive for iPad Pro M2",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/apple/comments/y8y2vu/smaller_version_of_macos_for_ipad_might_be_coming/\">Reddit</a></caption><div><br></div><blockquote class=\"twitter-tweet\" align=\"center\"><p lang=\"en\" dir=\"ltr\">According with my source Apple would be testing a smaller version of macOS exclusively for the new iPad Pro M2!<br>&quot;Mendocino&quot; should be the codename for macOS 14. A simplified version should be planned for the M2. <a href=\"https://t.co/f4RrainlZ1\">pic.twitter.com/f4RrainlZ1</a></p>&mdash; Majin Bu (@MajinBuOfficial) <a href=\"https://twitter.com/MajinBuOfficial/status/1583065617950613504?ref_src=twsrc%5Etfw\">October 20, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
-            "date_published": "2022-10-20T13:18:40+00:00",
-            "authors": [
-                {
-                    "name": "Hvs18",
-                    "url": "https://www.reddit.com/user/Hvs18"
                 }
             ]
         }
