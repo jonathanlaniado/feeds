@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "10of7ug",
+            "url": "/r/selfhosted/comments/10of7ug/immich_highperformance_selfhosted_backup/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/10of7ug/immich_highperformance_selfhosted_backup/",
+            "title": "Immich - High-performance self-hosted backup photos/videos from your mobile phone (kinda like a Google Photos replacement) January-29-2023 - Immich is one year old \ud83c\udf70",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/10of7ug/immich_highperformance_selfhosted_backup/'>Reddit</a></caption><div><br></div><div><p>Hello, Alex here again with the monthly update of Immich <strong>v1.43.0</strong></p>\n<p>This month is packed with actions from contributors and new releases that I\u2019ve almost missed the monthly update \ud83d\ude04.</p>\n<p><a href=\"https://github.com/immich-app/immich\">https://github.com/immich-app/immich</a></p>\n<p>This update also marked one year since I made the first post about Immich \ud83c\udf70, a questionnaire</p>\n<p>&#x200B;</p>\n<blockquote>\n<p>Hi Guys,  </p>\n<p>Since I had my first daughter, the increasing amount of photos taken created the need for storing and retrieving to look back on her growth.  </p>\n<p>My wife doesn't want to pay forever for Google Photos. So, I have been working on a whole stack of self-hosted applications that is aiming to achieve some Google Photos functionality with a mobile app.  </p>\n<p>My initial prototype works, it can perform backup images/video on the device and show all images across multiple devices with the same user entity. I have some questions for you guys to understand what functions are needed for a successful self-hosted application.  </p>\n<p>Is Docker Image/Docker Compose a must?  </p>\n<p>What is your thought on distributed storage option for the sake of redundancy? Store all images on the running VM/container is ok but it keeps me awake at night knowing that I can still somehow mess up my setup and the data is gone.  </p>\n<p>Do you need image manipulation features in the app (cropping, rotating, adding filters...etc?)  </p>\n<p>Sharing features, thoughts, and needs?  </p>\n<p>Estimate how many pictures/videos do you guys have? I ask this to consider some optimization and method of retrieving assets way back in the past.  </p>\n<p>Thank you for your time.</p>\n</blockquote>\n<p>It has been amazing looking back and seeing the progress of the project. Thank you to you all for the encouragement, criticism, contribution, and support. I couldn\u2019t have done this without you all.</p>\n<p>Now for the update, since the last post, we continue to add new features, fix bugs, and refactor the code base to easier adding new features in the future.</p>\n<p>We now have public-sharing feature, you can now share an album, a single photo/video, or a group of photos with people that is not on your Immich instance.</p>\n<p>&#x200B;</p>\n<p>https://preview.redd.it/7d9loecx21fa1.png?width=442&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=a58ba7db4fd3cbfad0e2577ebecbfe5d4421e16a</p>\n<p>We have made improvements to the job mechanism so that you can re-run the job for all uploaded assets or just the missing one. This would help with adding more features in the future that add or change the way how the assets are handled on the server.</p>\n<p>https://preview.redd.it/ybfs747631fa1.png?width=1891&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=264486fa76356647e3ce48eeda1f9a36711ca88f</p>\n<p>We are moving into the phase of hardening the code base, adding tests, and building out the CI/CD pipeline to ensure quality between releases. Oh and there is a <a href=\"https://immich.app/docs/install/unraid\">community image on Unraid</a> now (build and support by the community)</p>\n<p>The last release alone has 14 contributors and 52 pull requests. I am very glad to see the engagement. Thank you!</p>\n<p>Again, don\u2019t forget to support the project - <a href=\"https://immich.app/docs/overview/support-the-project\">https://immich.app/docs/overview/support-the-project</a></p>\n<p>Until next time!</p>\n<p>Alex \ud83c\udf7b</p></div>",
+            "date_published": "2023-01-29T18:52:13+00:00",
+            "authors": [
+                {
+                    "name": "altran1502",
+                    "url": "https://www.reddit.com/user/altran1502"
+                }
+            ]
+        },
+        {
             "id": "10mb4jp",
             "url": "/r/selfhosted/comments/10mb4jp/looking_for_a_simple_opensource_lightweight/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/10mb4jp/looking_for_a_simple_opensource_lightweight/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "WenYuGe",
                     "url": "https://www.reddit.com/user/WenYuGe"
-                }
-            ]
-        },
-        {
-            "id": "urfcim",
-            "url": "/r/selfhosted/comments/urfcim/did_google_just_change_its_mind_about_ending_the/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/urfcim/did_google_just_change_its_mind_about_ending_the/",
-            "title": "Did Google just change it\u2019s mind about ending the G Suite legacy free edition?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/urfcim/did_google_just_change_its_mind_about_ending_the/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/urfcim/did_google_just_change_its_mind_about_ending_the/'>Apollo</a></caption> <div><p>The <a href=\"https://support.google.com/a/answer/60217?hl=en\">support page for \u2018Upgrade from G Suite legacy free edition\u2019</a> now states:</p>\n<p><strong>What if I use G Suite legacy free edition for personal use?</strong>\nIf you\u2019re using the G Suite legacy free edition for non-commercial purposes, you can opt out of the transition to Google Workspace by clicking here (requires a super administrator account) or going to the Google Admin console. You can continue using your custom domain with Gmail, retain access to no-cost Google services such as Google Drive and Google Meet, and keep your purchases and data.</p></div>",
-            "date_published": "2022-05-17T05:29:20+00:00",
-            "authors": [
-                {
-                    "name": "adullage",
-                    "url": "https://www.reddit.com/user/adullage"
                 }
             ]
         }
