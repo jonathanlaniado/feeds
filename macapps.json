@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "10pmo07",
+            "url": "/r/macapps/comments/10pmo07/how_i_setup_neovim_on_my_mac_to_make_it_amazing/",
+            "external_url": "https://youtube.com/watch?v=vdn_pKJUda8&feature=share",
+            "title": "How I Setup Neovim On My Mac To Make It Amazing - Complete Guide",
+            "content_html": "<caption>Open: <a href='https://youtube.com/watch?v=vdn_pKJUda8&feature=share'>youtube.com</a> | <a href='https://reddit.com/r/macapps/comments/10pmo07/how_i_setup_neovim_on_my_mac_to_make_it_amazing/'>Reddit</a></caption>",
+            "date_published": "2023-01-31T03:16:39+00:00",
+            "authors": [
+                {
+                    "name": "wizardgold",
+                    "url": "https://www.reddit.com/user/wizardgold"
+                }
+            ]
+        },
+        {
             "id": "10o61se",
             "url": "/r/macapps/comments/10o61se/tinkertool_tweak_your_mac_with_hidden/",
             "external_url": "https://www.rorybowcott.com/post/the-hidden-customisation-tool-for-mac",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Space_Time_Ninja",
                     "url": "https://www.reddit.com/user/Space_Time_Ninja"
-                }
-            ]
-        },
-        {
-            "id": "xfhpa2",
-            "url": "/r/macapps/comments/xfhpa2/switchcenter_nextgen_osx_windows_control/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/xfhpa2/switchcenter_nextgen_osx_windows_control/",
-            "title": "SwitchCenter - Next-gen OSX Windows Control",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/xfhpa2/switchcenter_nextgen_osx_windows_control/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/xfhpa2/switchcenter_nextgen_osx_windows_control/'>Apollo</a></caption> <div><p>Hello all! </p>\n<p><a href=\"https://switchcenter.app\">SwitchCenter</a> is a macOS native app that aims to enhance the window management experience. It features predictable and efficient window switching, window controls, widgets, and more.</p>\n<p>You can download it for free from <a href=\"https://switchcenter.app\">https://switchcenter.app</a>.</p></div>",
-            "date_published": "2022-09-16T04:39:28+00:00",
-            "authors": [
-                {
-                    "name": "offbeatport",
-                    "url": "https://www.reddit.com/user/offbeatport"
                 }
             ]
         }
