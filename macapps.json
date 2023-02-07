@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "10w591q",
+            "url": "/r/macapps/comments/10w591q/amazing_ai_generate_images_from_text_using_stable/",
+            "external_url": "https://apps.apple.com/app/id1660147028",
+            "title": "Amazing AI \u2014 Generate images from text using Stable Diffusion",
+            "content_html": "<caption>Open: <a href='https://apps.apple.com/app/id1660147028'>apps.apple.com</a> | <a href='https://reddit.com/r/macapps/comments/10w591q/amazing_ai_generate_images_from_text_using_stable/'>Reddit</a></caption>",
+            "date_published": "2023-02-07T15:55:31+00:00",
+            "authors": [
+                {
+                    "name": "sindresorhus",
+                    "url": "https://www.reddit.com/user/sindresorhus"
+                }
+            ]
+        },
+        {
             "id": "10ulvoh",
             "url": "/r/macapps/comments/10ulvoh/raycast_is_the_launcher_app_apple_wishes_it_made/",
             "external_url": "https://www.wired.com/story/raycast-app-launcher-productivity-tool/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "damirmkv",
                     "url": "https://www.reddit.com/user/damirmkv"
-                }
-            ]
-        },
-        {
-            "id": "xjkhra",
-            "url": "/r/macapps/comments/xjkhra/libreoffice_will_now_cost_899_on_the_mac_app_store/",
-            "external_url": "https://www.xda-developers.com/libreoffice-on-the-mac-app-store-costs-8-99/",
-            "title": "LibreOffice will now cost $8.99 on the Mac App Store.",
-            "content_html": "<caption>Open in: <a href='https://www.xda-developers.com/libreoffice-on-the-mac-app-store-costs-8-99/'>www.xda-developers.com</a> | <a href='https://reddit.com/r/macapps/comments/xjkhra/libreoffice_will_now_cost_899_on_the_mac_app_store/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/xjkhra/libreoffice_will_now_cost_899_on_the_mac_app_store/'>Apollo</a></caption>",
-            "date_published": "2022-09-20T21:02:03+00:00",
-            "authors": [
-                {
-                    "name": "RenegadeUK",
-                    "url": "https://www.reddit.com/user/RenegadeUK"
                 }
             ]
         }
