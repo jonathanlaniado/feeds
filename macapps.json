@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "10ytx5j",
+            "url": "/r/macapps/comments/10ytx5j/my_collection_of_mac_tips_and_tricks/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/10ytx5j/my_collection_of_mac_tips_and_tricks/",
+            "title": "My collection of Mac tips and tricks",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/10ytx5j/my_collection_of_mac_tips_and_tricks/'>Reddit</a></caption><div><br></div><div><p>I wrote a post covering all the best macOS tricks I could find. I know it's not about an app in particular, but I think it will still be worthwhile for this community \u2014 I've been working on a Mac for almost 15 years and I still found a couple of tricks that blew my mind.</p>\n<p><a href=\"https://www.git-tower.com/blog/mastering-macos/\">https://www.git-tower.com/blog/mastering-macos/</a></p>\n<p>If you think some tip is missing, let me know! Hope you enjoy the article!</p></div>",
+            "date_published": "2023-02-10T14:53:33+00:00",
+            "authors": [
+                {
+                    "name": "the_bammer",
+                    "url": "https://www.reddit.com/user/the_bammer"
+                }
+            ]
+        },
+        {
             "id": "10xoyse",
             "url": "/r/macapps/comments/10xoyse/stable_version_of_transmission_bittorrent_client/",
             "external_url": "https://transmissionbt.com/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Kirk_Robin",
                     "url": "https://www.reddit.com/user/Kirk_Robin"
-                }
-            ]
-        },
-        {
-            "id": "xn10l4",
-            "url": "/r/macapps/comments/xn10l4/got_tired_of_all_the_complex_and_expensive_video/",
-            "external_url": "https://v.redd.it/ztyirdxlpup91",
-            "title": "Got tired of all the complex and expensive video conversion apps, so we decided to make our own!",
-            "content_html": "<caption>Open in: <a href='https://v.redd.it/ztyirdxlpup91'>v.redd.it</a> | <a href='https://reddit.com/r/macapps/comments/xn10l4/got_tired_of_all_the_complex_and_expensive_video/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/xn10l4/got_tired_of_all_the_complex_and_expensive_video/'>Apollo</a></caption>",
-            "date_published": "2022-09-24T18:58:35+00:00",
-            "authors": [
-                {
-                    "name": "revblaze",
-                    "url": "https://www.reddit.com/user/revblaze"
                 }
             ]
         }
