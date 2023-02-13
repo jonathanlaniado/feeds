@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "110v7v2",
+            "url": "/r/macapps/comments/110v7v2/apps_i_use_everyday_thanks_to_this_sub/",
+            "external_url": "https://i.imgur.com/sup7dcu.jpg",
+            "title": "Apps I use everyday thanks to this sub!",
+            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/macapps/comments/110v7v2/apps_i_use_everyday_thanks_to_this_sub/\">Reddit</a></caption><div><br></div><img src=\"https://i.imgur.com/sup7dcu.jpg\" />",
+            "date_published": "2023-02-13T00:52:08+00:00",
+            "authors": [
+                {
+                    "name": "collectingduct",
+                    "url": "https://www.reddit.com/user/collectingduct"
+                }
+            ]
+        },
+        {
             "id": "10zt1wj",
             "url": "/r/macapps/comments/10zt1wj/hyperduck_send_links_from_your_ios_devices_to/",
             "external_url": "https://apps.apple.com/app/id6444667067",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "EpiphanicSyncronica",
                     "url": "https://www.reddit.com/user/EpiphanicSyncronica"
-                }
-            ]
-        },
-        {
-            "id": "xq3xze",
-            "url": "/r/macapps/comments/xq3xze/trypa_triggers_for_your_mac/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/xq3xze/trypa_triggers_for_your_mac/",
-            "title": "Trypa -Triggers for your Mac",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/xq3xze/trypa_triggers_for_your_mac/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/xq3xze/trypa_triggers_for_your_mac/'>Apollo</a></caption> <div><p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/enemxwrvbjq91.jpg?width=417&amp;format=pjpg&amp;auto=webp&amp;s=2e11c00e37a2992e31995009739e2bba93669a31\">Trypa = Watchers + Triggers.</a></p>\n<p>I have been working on this in my spare time, it started out as a way for me to watch for my home Wifi dropping out and grew from there. Trypa is a menu bar app, that allows you to watch for generic devices (i.e any iOS device) and also specific devices being connected or disconnected.</p>\n<p>So for example you could play a screaming full volume alarm + trigger an sms shortcut when someone plugs a usb drive into your Mac, or just lock the screen.</p>\n<p>You could speak an audible warning if your phone is unplugged from your computer, or if your laptop is unplugged from power.</p>\n<p><a href=\"https://preview.redd.it/reqfjjs38jq91.png?width=617&amp;format=png&amp;auto=webp&amp;s=5bf0a5ba5b860d4069b783aed37cfc18b0f45b60\">Main Menu</a></p>\n<p><strong>What can you watch for currently?</strong></p>\n<p>It's limited at the moment, currently: Time, Network settings, Displays, USB devices, Audio devices, Laptop Power and System appearance. You can check for these devices connecting, or disconnecting.</p>\n<p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/q8ij2ipjajq91.png?width=209&amp;format=png&amp;auto=webp&amp;s=52467b7a19805ce86bf13556321397f9569ec3fb\">Current Watchers</a></p>\n<p><strong>What can you trigger?</strong></p>\n<p>Basically anything: a flashing alarm, a spoken alert, system notification, Mac Shortcuts, an app, a file, mini scripts (not sudo) and all of this at once if you want.</p>\n<p><a href=\"https://preview.redd.it/di5skcimajq91.png?width=448&amp;format=png&amp;auto=webp&amp;s=1316b2fff6287ce8fff2baeddf13f83c28530cae\">Launch Actions</a></p>\n<p>I would love it if you could help test this in the wild on your systems, and let me know of any issues, ideas and use cases.</p>\n<p>Please PM me for access to the beta - MacOS Monterey required.</p></div>",
-            "date_published": "2022-09-28T05:33:04+00:00",
-            "authors": [
-                {
-                    "name": "Gorgeousity99",
-                    "url": "https://www.reddit.com/user/Gorgeousity99"
                 }
             ]
         }
