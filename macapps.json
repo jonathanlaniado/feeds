@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "111bd5m",
+            "url": "/r/macapps/comments/111bd5m/i_heard_you_like_apps_so_heres_my_curated_and/",
+            "external_url": "https://github.com/tborychowski/awesome-mac",
+            "title": "I heard you like apps, so here's my curated and highly subjectively rated, list of apps that I've tested:",
+            "content_html": "<caption>Open: <a href='https://github.com/tborychowski/awesome-mac'>github.com</a> | <a href='https://reddit.com/r/macapps/comments/111bd5m/i_heard_you_like_apps_so_heres_my_curated_and/'>Reddit</a></caption>",
+            "date_published": "2023-02-13T15:08:21+00:00",
+            "authors": [
+                {
+                    "name": "dziad_borowy",
+                    "url": "https://www.reddit.com/user/dziad_borowy"
+                }
+            ]
+        },
+        {
             "id": "110v7v2",
             "url": "/r/macapps/comments/110v7v2/apps_i_use_everyday_thanks_to_this_sub/",
             "external_url": "https://i.imgur.com/sup7dcu.jpg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "mrtnlxo",
                     "url": "https://www.reddit.com/user/mrtnlxo"
-                }
-            ]
-        },
-        {
-            "id": "xqxloa",
-            "url": "/r/macapps/comments/xqxloa/how_one_ukrainian_software_maker_planned_for/",
-            "external_url": "https://www.theregister.com/2022/09/28/macpaw_ukraine_war/?td=rt-3a",
-            "title": "How one Ukrainian software maker planned for survival as invaders approached",
-            "content_html": "<caption>Open in: <a href='https://www.theregister.com/2022/09/28/macpaw_ukraine_war/?td=rt-3a'>www.theregister.com</a> | <a href='https://reddit.com/r/macapps/comments/xqxloa/how_one_ukrainian_software_maker_planned_for/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/xqxloa/how_one_ukrainian_software_maker_planned_for/'>Apollo</a></caption>",
-            "date_published": "2022-09-29T03:56:29+00:00",
-            "authors": [
-                {
-                    "name": "EpiphanicSyncronica",
-                    "url": "https://www.reddit.com/user/EpiphanicSyncronica"
                 }
             ]
         }
