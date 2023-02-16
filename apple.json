@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "113syyf",
+            "url": "/r/apple/comments/113syyf/homebrew_400_release/",
+            "external_url": "https://brew.sh/2023/02/16/homebrew-4.0.0/",
+            "title": "Homebrew 4.0.0 release",
+            "content_html": "<caption>Open: <a href='https://brew.sh/2023/02/16/homebrew-4.0.0/'>brew.sh</a> | <a href='https://reddit.com/r/apple/comments/113syyf/homebrew_400_release/'>Reddit</a></caption>",
+            "date_published": "2023-02-16T15:17:45+00:00",
+            "authors": [
+                {
+                    "name": "donutloop",
+                    "url": "https://www.reddit.com/user/donutloop"
+                }
+            ]
+        },
+        {
             "id": "112vvpv",
             "url": "/r/apple/comments/112vvpv/audiobook_narrators_fear_apple_used_their_voices/",
             "external_url": "https://www.wired.com/story/apple-spotify-audiobook-narrators-ai-contract/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Mandelmus100",
                     "url": "https://www.reddit.com/user/Mandelmus100"
-                }
-            ]
-        },
-        {
-            "id": "yfqw8o",
-            "url": "/r/apple/comments/yfqw8o/apple_music_pulls_kanye_west_essentials_playlists/",
-            "external_url": "https://9to5mac.com/2022/10/28/apple-music-kanye-west/",
-            "title": "Apple Music pulls Kanye West \u2018Essentials\u2019 playlists, first streaming service to take action",
-            "content_html": "<caption>Open: <a href='https://9to5mac.com/2022/10/28/apple-music-kanye-west/'>9to5mac.com</a> | <a href='https://reddit.com/r/apple/comments/yfqw8o/apple_music_pulls_kanye_west_essentials_playlists/'>Reddit</a></caption>",
-            "date_published": "2022-10-28T15:16:52+00:00",
-            "authors": [
-                {
-                    "name": "y40de",
-                    "url": "https://www.reddit.com/user/y40de"
                 }
             ]
         }
