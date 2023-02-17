@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "113ubmn",
+            "url": "/r/selfhosted/comments/113ubmn/docker_compose_nas_featuring_sonarr_radarr/",
+            "external_url": "https://github.com/AdrienPoupa/docker-compose-nas",
+            "title": "Docker Compose NAS featuring Sonarr, Radarr, Prowlarr, Jellyfin, qBittorrent, PIA VPN and Traefik with SSL support",
+            "content_html": "<caption>Open: <a href='https://github.com/AdrienPoupa/docker-compose-nas'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/113ubmn/docker_compose_nas_featuring_sonarr_radarr/'>Reddit</a></caption>",
+            "date_published": "2023-02-16T16:16:47+00:00",
+            "authors": [
+                {
+                    "name": "AdrienPoupa",
+                    "url": "https://www.reddit.com/user/AdrienPoupa"
+                }
+            ]
+        },
+        {
             "id": "10wyzxh",
             "url": "/r/selfhosted/comments/10wyzxh/40_containers_counting/",
             "external_url": "https://i.redd.it/zb6gsaxnbzga1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MattVibes",
                     "url": "https://www.reddit.com/user/MattVibes"
-                }
-            ]
-        },
-        {
-            "id": "uwq4ct",
-            "url": "/r/selfhosted/comments/uwq4ct/payload_is_now_completely_free_and_open_source/",
-            "external_url": "https://payloadcms.com/blog/open-source",
-            "title": "Payload is now completely free and open source",
-            "content_html": "<caption>Open in: <a href='https://payloadcms.com/blog/open-source'>payloadcms.com</a> | <a href='https://reddit.com/r/selfhosted/comments/uwq4ct/payload_is_now_completely_free_and_open_source/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/uwq4ct/payload_is_now_completely_free_and_open_source/'>Apollo</a></caption>",
-            "date_published": "2022-05-24T12:52:15+00:00",
-            "authors": [
-                {
-                    "name": "smashing_atoms",
-                    "url": "https://www.reddit.com/user/smashing_atoms"
                 }
             ]
         }
