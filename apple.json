@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "115xrfn",
+            "url": "/r/apple/comments/115xrfn/its_ridiculous_how_long_local_search_takes_to/",
+            "external_url": "https://www.reddit.com/r/apple/comments/115xrfn/its_ridiculous_how_long_local_search_takes_to/",
+            "title": "It\u2019s ridiculous how long local search takes to bring up installed apps (rant)",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/apple/comments/115xrfn/its_ridiculous_how_long_local_search_takes_to/'>Reddit</a></caption><div><br></div><div><p>I find it utterly incomprehensible why using the pull-down menu to search \u2014 not in Safari but on your device \u2014 takes so long to find installed apps. And this isn\u2019t new, it has been this way for severe updates. Why? There should be a priority for local search, THEN remote or Siri or whatever. This just seems like bad UI and stupid.</p></div>",
+            "date_published": "2023-02-19T01:22:50+00:00",
+            "authors": [
+                {
+                    "name": "oznux",
+                    "url": "https://www.reddit.com/user/oznux"
+                }
+            ]
+        },
+        {
             "id": "113syyf",
             "url": "/r/apple/comments/113syyf/homebrew_400_release/",
             "external_url": "https://brew.sh/2023/02/16/homebrew-4.0.0/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "yeahyeah2468",
                     "url": "https://www.reddit.com/user/yeahyeah2468"
-                }
-            ]
-        },
-        {
-            "id": "ygnuwl",
-            "url": "/r/apple/comments/ygnuwl/there_are_too_many_ipads_iphones_and_apple_watches/",
-            "external_url": "https://www.theverge.com/2022/10/28/23428601/apple-ipad-iphone-apple-watch-models-skus",
-            "title": "There are too many iPads, iPhones, and Apple Watches",
-            "content_html": "<caption>Open: <a href='https://www.theverge.com/2022/10/28/23428601/apple-ipad-iphone-apple-watch-models-skus'>www.theverge.com</a> | <a href='https://reddit.com/r/apple/comments/ygnuwl/there_are_too_many_ipads_iphones_and_apple_watches/'>Reddit</a></caption>",
-            "date_published": "2022-10-29T16:21:53+00:00",
-            "authors": [
-                {
-                    "name": "Mandelmus100",
-                    "url": "https://www.reddit.com/user/Mandelmus100"
                 }
             ]
         }
