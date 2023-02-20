@@ -8,6 +8,20 @@
     "favicon": "https://b.thumbs.redditmedia.com/k7fHE51fuhbYJRT2e9s1rXIp2ZtA7ks-cNFvQuNbfcE.png",
     "items": [
         {
+            "id": "116bary",
+            "url": "/r/InternetIsBeautiful/comments/116bary/type_curl_wttrinxxx_in_your_console_replace_xxx/",
+            "external_url": "https://wttr.in",
+            "title": "Type \"curl wttr.in/xxx\" in your console, replace \"xxx\" with your location (area code, city name, geo loc) and get a weather report formatted for CLI.",
+            "content_html": "<caption>Open: <a href='https://wttr.in'>wttr.in</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/116bary/type_curl_wttrinxxx_in_your_console_replace_xxx/'>Reddit</a></caption>",
+            "date_published": "2023-02-19T14:12:46+00:00",
+            "authors": [
+                {
+                    "name": "Tele_Prompter",
+                    "url": "https://www.reddit.com/user/Tele_Prompter"
+                }
+            ]
+        },
+        {
             "id": "112wyr8",
             "url": "/r/InternetIsBeautiful/comments/112wyr8/i_built_a_website_that_tracks_job_openings_that/",
             "external_url": "https://jobwatchr.com",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "cmack1597",
                     "url": "https://www.reddit.com/user/cmack1597"
-                }
-            ]
-        },
-        {
-            "id": "vftisn",
-            "url": "/r/InternetIsBeautiful/comments/vftisn/a_website_that_uses_ai_to_split_songs_into_drums/",
-            "external_url": "https://www.splitmysong.com/",
-            "title": "A website that uses AI to split songs into Drums, Vocals, Bass, Piano and Other",
-            "content_html": "<caption>Open in: <a href='https://www.splitmysong.com/'>www.splitmysong.com</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/vftisn/a_website_that_uses_ai_to_split_songs_into_drums/'>Reddit</a> | <a href='apollo://reddit.com/r/InternetIsBeautiful/comments/vftisn/a_website_that_uses_ai_to_split_songs_into_drums/'>Apollo</a></caption>",
-            "date_published": "2022-06-19T11:52:30+00:00",
-            "authors": [
-                {
-                    "name": "Tim8890",
-                    "url": "https://www.reddit.com/user/Tim8890"
                 }
             ]
         }
