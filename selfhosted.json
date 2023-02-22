@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "118hw8h",
+            "url": "/r/selfhosted/comments/118hw8h/immich_selfhosted_photos_and_videos_backup/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/118hw8h/immich_selfhosted_photos_and_videos_backup/",
+            "title": "Immich - Self-hosted photos and videos backup solution from your mobile phone (AKA Google Photos replacement you have been waiting for!) - February early update - now with iOS background backup \ud83c\udf89",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/118hw8h/immich_selfhosted_photos_and_videos_backup/'>Reddit</a></caption><div><br></div><div><p><a href=\"https://github.com/immich-app/immich\">GitHub Repo</a></p>\n<h2>Highlights</h2>\n<p>Thanks to our talented contributors, I am excited to bring you to one of the biggest releases yet of Immich that I hope you will enjoy. This release brings a lot of new features and improvements to the app. Here are some of the highlights:</p>\n<ul>\n<li><strong>iOS Background Uploads</strong></li>\n<li><strong>Machine Learning moved to Python-based Image</strong></li>\n<li><strong>Auto-link Live Photos</strong></li>\n</ul>\n<h2>iOS Background Uploads</h2>\n<p>I want to thank @martyfuhry for diving into this feature and his wife for wanting the feature :P.</p>\n<p>iOS users can now upload photos and videos in the background. This means that you can take photos and videos, which will be uploaded to your server without opening the app. The background mechanism from the iPhone has two modes, a shorter task which runs around every 10 minutes and lasts for about 30 seconds, and a longer task which runs every 30-45 minutes and lasts longer. From our extensive testing, the app can upload about 1000 pictures overnight without plugging in and on WIFI.</p>\n<p>&#x200B;</p>\n<p>&#x200B;</p>\n<p>https://preview.redd.it/5n363ohvmmja1.png?width=1170&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=ac90210fa4129dc7136197d6bda1cd136f780a34</p>\n<p>&#x200B;</p>\n<p>You can get notified when the background task is running by enabling the notification setting from the Settings menu on Immich mobile app.</p>\n<p>We are looking for feedback and bug reports on this feature. Please let us know if you have any issues with it.</p>\n<h2>Machine Learning moved to Python-based Image</h2>\n<p>We are planning to revamp our search capability. The first step to making it smarter is to move our machine learning project from NodeJs based to Python based. This will allow us to use more powerful machine-learning libraries and improve the search.</p>\n<p>We are planning to add facial recognition in the near future and also use <a href=\"https://www.sbert.net/examples/applications/image-search/README.html\">SBERT</a> for image search. This will allow you to search for images based on the content of the image.</p>\n<h2>Auto-link Live Photos</h2>\n<p>LivePhotos\u2019 motion and still parts are now automatically linked together. This means that you can upload two separate files from the web interface or from the CLI, and they will be linked into one LivePhoto asset and displayed correctly on the timeline.</p>\n<p>For previously uploaded motion and picture parts of the LivePhoto asset from the web or the CLI, you can re-run the metadata extraction job to link them together.</p>\n<p>And like other releases, we have made many other improvements and bug fixes for better performance and UI consistency across platforms. Please take a look at the full changelog below.</p>\n<p>As always, thank you for using Immich, and I hope you enjoy this release.</p>\n<p>Remember to support the project!</p>\n<p>\ud83c\udf89 Cheer! \ud83c\udf89</p>\n<h2>Support</h2>\n<p>If you find the project helpful and it helps you in some ways, you can support the project <a href=\"https://github.com/sponsors/alextran1502?frequency=one-time&amp;sponsor=alextran1502\">one time</a> or <a href=\"https://github.com/sponsors/alextran1502\">monthly</a> from GitHub Sponsors</p>\n<p>&#x200B;</p>\n<p>Join our friendly <a href=\"https://discord.gg/D8JsnBEuKb\">Discord</a> for discussion and getting help!</p></div>",
+            "date_published": "2023-02-21T23:00:35+00:00",
+            "authors": [
+                {
+                    "name": "altran1502",
+                    "url": "https://www.reddit.com/user/altran1502"
+                }
+            ]
+        },
+        {
             "id": "116qqi6",
             "url": "/r/selfhosted/comments/116qqi6/shoutout_to_audiobookshelf_personal/",
             "external_url": "https://github.com/advplyr/audiobookshelf-app/releases",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "nashosted",
                     "url": "https://www.reddit.com/user/nashosted"
-                }
-            ]
-        },
-        {
-            "id": "v35fi2",
-            "url": "/r/selfhosted/comments/v35fi2/whoogle_a_selfhosted_adfree_privacyrespecting/",
-            "external_url": "https://github.com/benbusby/whoogle-search",
-            "title": "Whoogle: A self-hosted, ad-free, privacy-respecting metasearch engine that returns Google search results, but without any ads, javascript, AMP links, cookies, or IP address tracking.",
-            "content_html": "<caption>Open in: <a href='https://github.com/benbusby/whoogle-search'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/v35fi2/whoogle_a_selfhosted_adfree_privacyrespecting/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/v35fi2/whoogle_a_selfhosted_adfree_privacyrespecting/'>Apollo</a></caption>",
-            "date_published": "2022-06-02T10:04:04+00:00",
-            "authors": [
-                {
-                    "name": "antsaregay",
-                    "url": "https://www.reddit.com/user/antsaregay"
                 }
             ]
         }
