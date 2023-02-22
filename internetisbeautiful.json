@@ -8,6 +8,20 @@
     "favicon": "https://b.thumbs.redditmedia.com/k7fHE51fuhbYJRT2e9s1rXIp2ZtA7ks-cNFvQuNbfcE.png",
     "items": [
         {
+            "id": "118y19p",
+            "url": "/r/InternetIsBeautiful/comments/118y19p/i_made_a_site_that_tracks_the_price_of_eggs_at/",
+            "external_url": "https://eggspensive.net/",
+            "title": "I made a site that tracks the price of eggs at every US Walmart. The most expensive costs 3.4X more than the cheapest.",
+            "content_html": "<caption>Open: <a href='https://eggspensive.net/'>eggspensive.net</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/118y19p/i_made_a_site_that_tracks_the_price_of_eggs_at/'>Reddit</a></caption>",
+            "date_published": "2023-02-22T13:06:19+00:00",
+            "authors": [
+                {
+                    "name": "wise_genesis",
+                    "url": "https://www.reddit.com/user/wise_genesis"
+                }
+            ]
+        },
+        {
             "id": "118d18f",
             "url": "/r/InternetIsBeautiful/comments/118d18f/i_made_a_spy_balloon_simulator_that_runs_on_real/",
             "external_url": "https://spyballoonsim.hornetsnestguild.com/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "NervousEnergy",
                     "url": "https://www.reddit.com/user/NervousEnergy"
-                }
-            ]
-        },
-        {
-            "id": "vjmrp7",
-            "url": "/r/InternetIsBeautiful/comments/vjmrp7/ever_wondered_what_terms_of_services_you_agreed/",
-            "external_url": "https://tosdr.org/",
-            "title": "Ever wondered what terms of services you agreed to? This website summarizes terms of service of various platforms for you. It even has a browser add-on.",
-            "content_html": "<caption>Open in: <a href='https://tosdr.org/'>tosdr.org</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/vjmrp7/ever_wondered_what_terms_of_services_you_agreed/'>Reddit</a> | <a href='apollo://reddit.com/r/InternetIsBeautiful/comments/vjmrp7/ever_wondered_what_terms_of_services_you_agreed/'>Apollo</a></caption>",
-            "date_published": "2022-06-24T11:58:38+00:00",
-            "authors": [
-                {
-                    "name": "pas20cal",
-                    "url": "https://www.reddit.com/user/pas20cal"
                 }
             ]
         }
