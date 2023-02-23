@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "119df1e",
+            "url": "/r/macapps/comments/119df1e/raycast_introduces_raycast_ai_using_chatgpt/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/119df1e/raycast_introduces_raycast_ai_using_chatgpt/",
+            "title": "Raycast introduces Raycast AI using ChatGPT",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/119df1e/raycast_introduces_raycast_ai_using_chatgpt/'>Reddit</a></caption><div><br></div><div><p>Raycast just released <a href=\"https://www.raycast.com/ai\">Raycast AI</a>. It brings ChatGPT to the Raycast app. It's in beta currently but looks very interesting to me. A short showcase video can be found in the link.</p></div>",
+            "date_published": "2023-02-22T21:13:15+00:00",
+            "authors": [
+                {
+                    "name": "ItseKeisari",
+                    "url": "https://www.reddit.com/user/ItseKeisari"
+                }
+            ]
+        },
+        {
             "id": "117yiz4",
             "url": "/r/macapps/comments/117yiz4/folders_a_file_manager_for_former_windows_users/",
             "external_url": "https://www.reddit.com/r/macapps/comments/117yiz4/folders_a_file_manager_for_former_windows_users/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "rxhanson",
                     "url": "https://www.reddit.com/user/rxhanson"
-                }
-            ]
-        },
-        {
-            "id": "xugzm4",
-            "url": "/r/macapps/comments/xugzm4/bear_20_private_beta_coming_out_this_week/",
-            "external_url": "https://beta.bear.app/t/something-fuzzy-this-way-comes/3072",
-            "title": "Bear 2.0 Private Beta coming out this week!",
-            "content_html": "<caption>Open in: <a href='https://beta.bear.app/t/something-fuzzy-this-way-comes/3072'>beta.bear.app</a> | <a href='https://reddit.com/r/macapps/comments/xugzm4/bear_20_private_beta_coming_out_this_week/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/xugzm4/bear_20_private_beta_coming_out_this_week/'>Apollo</a></caption>",
-            "date_published": "2022-10-03T11:36:57+00:00",
-            "authors": [
-                {
-                    "name": "tabchas",
-                    "url": "https://www.reddit.com/user/tabchas"
                 }
             ]
         }
