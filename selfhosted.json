@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "11n9xbr",
+            "url": "/r/selfhosted/comments/11n9xbr/police_warrant_orders_ring_to_provide_mans_home/",
+            "external_url": "https://www.theregister.com/2023/03/08/police_ring_privacy/?td=rt-3a",
+            "title": "Police warrant orders Ring to provide man's home footage",
+            "content_html": "<caption>Open: <a href='https://www.theregister.com/2023/03/08/police_ring_privacy/?td=rt-3a'>www.theregister.com</a> | <a href='https://reddit.com/r/selfhosted/comments/11n9xbr/police_warrant_orders_ring_to_provide_mans_home/'>Reddit</a></caption>",
+            "date_published": "2023-03-10T01:01:58+00:00",
+            "authors": [
+                {
+                    "name": "vrgpy",
+                    "url": "https://www.reddit.com/user/vrgpy"
+                }
+            ]
+        },
+        {
             "id": "11mflmy",
             "url": "/r/selfhosted/comments/11mflmy/i_know_this_isnt_generally_a_place_for_memes_but/",
             "external_url": "https://i.redd.it/kpw8vuqdglma1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "xAragon_",
                     "url": "https://www.reddit.com/user/xAragon_"
-                }
-            ]
-        },
-        {
-            "id": "v98fjq",
-            "url": "/r/selfhosted/comments/v98fjq/self_hosted_roundup_9/",
-            "external_url": "https://noted.lol/self-hosted-roundup-9/",
-            "title": "Self Hosted Roundup #9",
-            "content_html": "<caption>Open in: <a href='https://noted.lol/self-hosted-roundup-9/'>noted.lol</a> | <a href='https://reddit.com/r/selfhosted/comments/v98fjq/self_hosted_roundup_9/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/v98fjq/self_hosted_roundup_9/'>Apollo</a></caption>",
-            "date_published": "2022-06-10T14:01:09+00:00",
-            "authors": [
-                {
-                    "name": "nashosted",
-                    "url": "https://www.reddit.com/user/nashosted"
                 }
             ]
         }
