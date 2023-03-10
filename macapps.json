@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "11mze4r",
+            "url": "/r/macapps/comments/11mze4r/cork_a_neat_gui_for_homebrew/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/11mze4r/cork_a_neat_gui_for_homebrew/",
+            "title": "Cork, a neat GUI for Homebrew",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/11mze4r/cork_a_neat_gui_for_homebrew/'>Reddit</a></caption><div><br></div><div><p>I recently found this interesting project form Mastodon. It's a GUI for Homebrew written in SwiftUI, and its repo is pretty active: <a href=\"https://github.com/buresdv/Cork\">https://github.com/buresdv/Cork</a></p>\n<p>&#x200B;</p>\n<p>I've been using the demo version and I'm pretty impressed. It seems to have all the most used features figured out. </p>\n<p>I don't have any connections with this program, I just found it by chance and wanted to share it :)</p></div>",
+            "date_published": "2023-03-09T18:17:30+00:00",
+            "authors": [
+                {
+                    "name": "00Ela",
+                    "url": "https://www.reddit.com/user/00Ela"
+                }
+            ]
+        },
+        {
             "id": "11mybio",
             "url": "/r/macapps/comments/11mybio/essential_macosonly_apps_for_2023/",
             "external_url": "https://matloka.com/blog/essential-macos-only-apps-for-2023",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "coins4bits",
                     "url": "https://www.reddit.com/user/coins4bits"
-                }
-            ]
-        },
-        {
-            "id": "xwiqu0",
-            "url": "/r/macapps/comments/xwiqu0/rules_and_exensions_for_mailapp/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/xwiqu0/rules_and_exensions_for_mailapp/",
-            "title": "Rules and Exensions for Mail.app",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/xwiqu0/rules_and_exensions_for_mailapp/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/xwiqu0/rules_and_exensions_for_mailapp/'>Apollo</a></caption> <div><p>With Spark changing into a subscription model, I (and many others in this sub) have decided to switch back to the free native mail.app. So, I was wondering what rules and extensions you have installed that help you with your workflow.</p></div>",
-            "date_published": "2022-10-05T18:45:08+00:00",
-            "authors": [
-                {
-                    "name": "fograd",
-                    "url": "https://www.reddit.com/user/fograd"
                 }
             ]
         }
