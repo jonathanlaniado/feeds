@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "11qshd0",
+            "url": "/r/selfhosted/comments/11qshd0/how_much_selfhosting_has_changed/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/11qshd0/how_much_selfhosting_has_changed/",
+            "title": "How much selfhosting has changed",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/11qshd0/how_much_selfhosting_has_changed/'>Reddit</a></caption><div><br></div><div><p>I spent the weekend messing with a few containers and finally configuring a reverse proxy. I'm just blown away at how mature the selfhosting ecosystem has become and how many tools there are now. </p>\n<p>I started selfhosting by manually creating LAMP stacks in VMs like 15 years ago. It was such a PITA for casual/semi-pro selfhosting. Nowadays it's nuts how much stuff we can self host and how many resources, tools, scripts, etc. existing to make it better. </p>\n<p>Just feeling thankful for those out there creating this stuff. It's such a fun hobby built on top of many people putting in the hard work to make it fun.</p></div>",
+            "date_published": "2023-03-14T01:22:09+00:00",
+            "authors": [
+                {
+                    "name": "domcorriveau",
+                    "url": "https://www.reddit.com/user/domcorriveau"
+                }
+            ]
+        },
+        {
             "id": "11ol3h4",
             "url": "/r/selfhosted/comments/11ol3h4/self_hosted_roundup_31/",
             "external_url": "https://noted.lol/self-hosted-roundup-31/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "NobodyRulesPenguins",
                     "url": "https://www.reddit.com/user/NobodyRulesPenguins"
-                }
-            ]
-        },
-        {
-            "id": "vdzvxi",
-            "url": "/r/selfhosted/comments/vdzvxi/ntfy_is_finally_coming_to_ios_with_full/",
-            "external_url": "https://www.reddit.com/gallery/vdzvxi",
-            "title": "ntfy is finally coming to iOS \ud83e\udd73 (with full self-hosted support) & ntfy server with Matrix/UnifiedPush gateway support released -- ntfy lets you send push notifications to your phone or desktop via a simple REST API",
-            "content_html": "<caption>Open in: <a href='https://www.reddit.com/gallery/vdzvxi'>www.reddit.com</a> | <a href='https://reddit.com/r/selfhosted/comments/vdzvxi/ntfy_is_finally_coming_to_ios_with_full/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/vdzvxi/ntfy_is_finally_coming_to_ios_with_full/'>Apollo</a></caption>",
-            "date_published": "2022-06-17T00:15:11+00:00",
-            "authors": [
-                {
-                    "name": "binwiederhier",
-                    "url": "https://www.reddit.com/user/binwiederhier"
                 }
             ]
         }
