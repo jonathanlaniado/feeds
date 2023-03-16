@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "11ryub1",
+            "url": "/r/selfhosted/comments/11ryub1/fyi_docker_is_deleting_open_source_organisations/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/11ryub1/fyi_docker_is_deleting_open_source_organisations/",
+            "title": "FYI: Docker is deleting Open Source organisations",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/11ryub1/fyi_docker_is_deleting_open_source_organisations/'>Reddit</a></caption><div><br></div><div><p><a href=\"https://news.ycombinator.com/item?id=35166317\">https://news.ycombinator.com/item?id=35166317</a></p>\n<p>Just passing along as the places you pull images from may need to change if this actually happens.</p></div>",
+            "date_published": "2023-03-15T14:56:59+00:00",
+            "authors": [
+                {
+                    "name": "FuzzyMistborn",
+                    "url": "https://www.reddit.com/user/FuzzyMistborn"
+                }
+            ]
+        },
+        {
             "id": "11qshd0",
             "url": "/r/selfhosted/comments/11qshd0/how_much_selfhosting_has_changed/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/11qshd0/how_much_selfhosting_has_changed/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "nashosted",
                     "url": "https://www.reddit.com/user/nashosted"
-                }
-            ]
-        },
-        {
-            "id": "vg3du0",
-            "url": "/r/selfhosted/comments/vg3du0/if_you_just_bought_a_new_domain_name_do_not/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/vg3du0/if_you_just_bought_a_new_domain_name_do_not/",
-            "title": "If you just bought a new domain name do not forget to fix it's emails!",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/vg3du0/if_you_just_bought_a_new_domain_name_do_not/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/vg3du0/if_you_just_bought_a_new_domain_name_do_not/'>Apollo</a></caption> <div><p>Or if you got one for some time already but do not use it as an outgoing mail address.</p>\n<p>It is simply 2 simple entry to add to your DNS records and will prevent most of the possible spam that can be send using your domain name as the sender.</p>\n<p>The 2 entries can use TXT filed, but some DNS provider have an option for it that can help filling all the part with a form.</p>\n<h2>First entry - The SPF field</h2>\n<p>It allow you to define from which IP/Domain your mails are allowed to be send and your confidence in theses informations.</p>\n<p>with an entry aimed directly at domain.tld. in TXT with <code>v=spf1 -all</code> inside. <br />\nyou simply tell the receiving side that the use of your domain name is not allowed for any IP/Domain and that you are sure of that.</p>\n<h2>Second entry - The DMARC field</h2>\n<p>With the DMARC field, you gain some control over what to do with the email that was send in your name. To help not spamming people in the same time as protecting you and your domain reputation if one day you want to use it to send mails.</p>\n<p>The entry is registred in the form _dmarc.domain.tld. in TXT and a good content can be:\n<code>v=DMARC1;p=reject;pct=100;rua=mailto:oneadminaccount@example.com;ruf=mailto:oneadminaccount@example.com;sp=reject;aspf=s;</code>\nto explain the fields:\n  - <strong>p=reject</strong> indicate what to do with the mail that fail the SPF validation. In that case they will just be ignored and never reach the target address.\n  - <strong>pct=100</strong> indicate that 100% of the mail send from your domain will be tested\n  - <strong>rua/ruf</strong> in that case are for sending you a report mail when mail are tested and from where they came/what was done to them\n  - <strong>sp</strong> indicate how to manage mail sent from a subdomain of your domain (here, the same)\n  - and finally the <strong>aspf</strong> field compare the mailfrom: of the mail with the domain in the header. with <strong>strict</strong> if they are different, that's a fail.</p>\n<p>With just theses 2 fields added all the mail servers that check for mail policies will be aware that none of them are coming from you and just discard them while notifying you. That can help protect people from scam while maintaining the reputation fo your domain if one day you want to send mails with it.</p>\n<p><strong>Edit</strong>:</p>\n<p>Really nice addition from u/8poot, I think even better and concise than mine: <a href=\"https://www.gov.uk/guidance/protect-domains-that-dont-send-email\">the version of gov.uk</a>.</p></div>",
-            "date_published": "2022-06-19T20:05:06+00:00",
-            "authors": [
-                {
-                    "name": "NobodyRulesPenguins",
-                    "url": "https://www.reddit.com/user/NobodyRulesPenguins"
                 }
             ]
         }
