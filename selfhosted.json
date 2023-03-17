@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "11t6uge",
+            "url": "/r/selfhosted/comments/11t6uge/we_apologize_we_did_a_terrible_job_announcing_the/",
+            "external_url": "https://www.docker.com/blog/we-apologize-we-did-a-terrible-job-announcing-the-end-of-docker-free-teams/",
+            "title": "We apologize. We did a terrible job announcing the end of Docker Free Teams.",
+            "content_html": "<caption>Open: <a href='https://www.docker.com/blog/we-apologize-we-did-a-terrible-job-announcing-the-end-of-docker-free-teams/'>www.docker.com</a> | <a href='https://reddit.com/r/selfhosted/comments/11t6uge/we_apologize_we_did_a_terrible_job_announcing_the/'>Reddit</a></caption>",
+            "date_published": "2023-03-16T21:28:14+00:00",
+            "authors": [
+                {
+                    "name": "miversen33",
+                    "url": "https://www.reddit.com/user/miversen33"
+                }
+            ]
+        },
+        {
             "id": "11s8dms",
             "url": "/r/selfhosted/comments/11s8dms/guys_please_recommend_some_interesting_docker/",
             "external_url": "https://i.redd.it/kqg6czckoyna1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "d4nm3d",
                     "url": "https://www.reddit.com/user/d4nm3d"
-                }
-            ]
-        },
-        {
-            "id": "vkndkk",
-            "url": "/r/selfhosted/comments/vkndkk/school_had_a_pay_what_you_want_sale_so_got_all/",
-            "external_url": "https://i.redd.it/jdlwp9vwrt791.jpg",
-            "title": "school had a pay what you want sale so got all this for 50$",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/jdlwp9vwrt791.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/vkndkk/school_had_a_pay_what_you_want_sale_so_got_all/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/vkndkk/school_had_a_pay_what_you_want_sale_so_got_all/'>Apollo</a></caption>",
-            "date_published": "2022-06-25T20:14:28+00:00",
-            "authors": [
-                {
-                    "name": "ForTheHoardOG",
-                    "url": "https://www.reddit.com/user/ForTheHoardOG"
                 }
             ]
         }
