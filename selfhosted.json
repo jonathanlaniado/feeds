@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "11u0sot",
+            "url": "/r/selfhosted/comments/11u0sot/chatglm_an_opensource_selfhosted_dialogue/",
+            "external_url": "https://github.com/THUDM/ChatGLM-6B/blob/main/README_en.md",
+            "title": "ChatGLM, an open-source, self-hosted dialogue language model and alternative to ChatGPT created by Tsinghua University, can be run with as little as 6GB of GPU memory.",
+            "content_html": "<caption>Open: <a href='https://github.com/THUDM/ChatGLM-6B/blob/main/README_en.md'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/11u0sot/chatglm_an_opensource_selfhosted_dialogue/'>Reddit</a></caption>",
+            "date_published": "2023-03-17T19:17:19+00:00",
+            "authors": [
+                {
+                    "name": "Tarntanya",
+                    "url": "https://www.reddit.com/user/Tarntanya"
+                }
+            ]
+        },
+        {
             "id": "11t6uge",
             "url": "/r/selfhosted/comments/11t6uge/we_apologize_we_did_a_terrible_job_announcing_the/",
             "external_url": "https://www.docker.com/blog/we-apologize-we-did-a-terrible-job-announcing-the-end-of-docker-free-teams/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Shendryl",
                     "url": "https://www.reddit.com/user/Shendryl"
-                }
-            ]
-        },
-        {
-            "id": "vnfea3",
-            "url": "/r/selfhosted/comments/vnfea3/my_solution_to_keeping_tinypilot_neat_and_tidy_ish/",
-            "external_url": "https://i.redd.it/5be9k34z6k891.jpg",
-            "title": "My solution to keeping TinyPilot neat and tidy (ish)",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/5be9k34z6k891.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/vnfea3/my_solution_to_keeping_tinypilot_neat_and_tidy_ish/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/vnfea3/my_solution_to_keeping_tinypilot_neat_and_tidy_ish/'>Apollo</a></caption>",
-            "date_published": "2022-06-29T13:06:38+00:00",
-            "authors": [
-                {
-                    "name": "d4nm3d",
-                    "url": "https://www.reddit.com/user/d4nm3d"
                 }
             ]
         }
