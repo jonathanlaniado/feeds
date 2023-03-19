@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "11uyw5s",
+            "url": "/r/selfhosted/comments/11uyw5s/psa_unless_you_are_using_wildcard_certificates/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/11uyw5s/psa_unless_you_are_using_wildcard_certificates/",
+            "title": "PSA: unless you are using wildcard certificates, all your subdomains get published in a list of issued Let's Encrypt certificates. You can see if your subdomains are published here: https://crt.sh/",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/11uyw5s/psa_unless_you_are_using_wildcard_certificates/'>Reddit</a></caption><div><br></div><div></div>",
+            "date_published": "2023-03-18T20:06:09+00:00",
+            "authors": [
+                {
+                    "name": "snowcrashr",
+                    "url": "https://www.reddit.com/user/snowcrashr"
+                }
+            ]
+        },
+        {
             "id": "11u0sot",
             "url": "/r/selfhosted/comments/11u0sot/chatglm_an_opensource_selfhosted_dialogue/",
             "external_url": "https://github.com/THUDM/ChatGLM-6B/blob/main/README_en.md",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "useless_mlungu",
                     "url": "https://www.reddit.com/user/useless_mlungu"
-                }
-            ]
-        },
-        {
-            "id": "vsjkq1",
-            "url": "/r/selfhosted/comments/vsjkq1/orb_the_free_and_open_source_web_desktop/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/vsjkq1/orb_the_free_and_open_source_web_desktop/",
-            "title": "Orb, the free and open source web desktop",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/vsjkq1/orb_the_free_and_open_source_web_desktop/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/vsjkq1/orb_the_free_and_open_source_web_desktop/'>Apollo</a></caption> <div><p>I'm writing a free and open source web desktop. The main goal of this project is to have a desktop-like interface to access files on your server. So, there is of course a file explorer to upload, open, copy, move, rename and delete files and directories, but also a text editor, picture viewer, audio player and video player.</p>\n<p>Because it was fun to make and to have, there is also a calculator, minesweeper, C64-emulator and DOS-emulator.</p>\n<p>Orb has a simple and clean API and an application template, so it should be very easy to start writing your own Orb application.</p>\n<p>At the moment, I'm writing an install script to install Orb on a Raspberry Pi, which you then can use to access your NAS at home via the internet in an easy and secure way. I've done my best to also make it work fine on mobile devices.</p>\n<p>Download Orb at <a href=\"https://gitlab.com/hsleisink/orb\">https://gitlab.com/hsleisink/orb</a>. It's just 8 megabytes. ;)</p>\n<p><a href=\"https://preview.redd.it/bypu1q1u7w991.jpg?width=2779&amp;format=pjpg&amp;auto=webp&amp;s=57067ab7ec6cd19d494c84819f395afa8080c09b\">Orb v0.7</a></p></div>",
-            "date_published": "2022-07-06T06:46:54+00:00",
-            "authors": [
-                {
-                    "name": "Shendryl",
-                    "url": "https://www.reddit.com/user/Shendryl"
                 }
             ]
         }
