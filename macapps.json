@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "11wyjz9",
+            "url": "/r/macapps/comments/11wyjz9/we_need_to_talk_about_rewind/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/11wyjz9/we_need_to_talk_about_rewind/",
+            "title": "We need to talk about Rewind",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/11wyjz9/we_need_to_talk_about_rewind/'>Reddit</a></caption><div><br></div><div><p>Recently, on the capitalist hustle hellscape that is Product Hunt, I came across a new app called <strong>Rewind</strong>. <a href=\"https://www.rewind.ai/\">Rewind</a>, as described by founder Dan Siroker, is a search engine for your life - it runs in the background, recording everything you do, click on, view, compresses it and OCR's it so you can invoke it at any time and search for what you're looking for. It's a bit like insurance - you'll probably not use it very much, but if you ever need it, you'll be glad that it's there.</p>\n<p>Back when I discovered it, in December of 22, it was in Early Access and could only be accessed over a waitlist. Being the seasoned Mac App Bullshit veteran I am, I entered my email. A few weeks later, I received the early access email - I was in! Quickly I went to the website and looked for the download link.</p>\n<p>Instead of a download link, it presented me with a purchase flow. Rewind costs - or rather, did cost - 20 US dollars a month. </p>\n<p>Now, I'm not stranger to paying for a good app. Far from it, in fact! I paid for the Affinity suite, I paid for iA, I paid for a lot of good apps that improve my workflow. Do I think it's a bit stupid that an app like CleanShot is charging for the privilege of screenshots? Lasso for a feature that's free on Windows, and built in by now? Sure, but developers need to eat too. And an app like Rewind, sure, all that analysis and encryption and compression needs a strong server backend, so I get it. They need to cover the costs.</p>\n<p>But here's the thing - they don't. Rewind, as far as I can tell, is a completely local app. It runs on your machine, doesn't send anything to the cloud, all your data stays on your machine. You can even box it in with a firewall and it does not complain, care, or even notice.</p>\n<p>Which brings me back to the earlier point. Rewind, a completely local app that works absolutely fine in its current state and is a lot more stable than basically any other Early Access app I've tried, charges 20 bucks a month for something that would continue working forever if a meteor took out Rewind HQ tomorrow.</p>\n<p>Or, actually, correct that. Not 20 bucks. It's now changed the pricing - there's a free trial now, great success, and they lowered the price to 10 a month. Only catch: <strong>If you choose the 10 dollar a month tier, they limit how many times you are allowed to open this local app on your own computer.</strong> If you want unlimited, better choke up another 20. Yeah, you read right: <em>Another</em> 20. The Pro plan is 30 dollars now. But hey, at least you get the CEO's phone number. What? That's gotta be up there as the weirdest benefit I've seen on a pricing page.</p>\n<p>I'm not supporting this. I can't. I love the idea, and as someone with memory issues, it's a great feature that I've wanted for years - and were it 30, maybe 50, probably even 100 dollars, I'd've gladly paid it. But this? Subscriptions for local apps that don't need any serverside maintenance, ever, by design? It's an insult to the customer.</p>\n<p>Actually, scratch that. The <em>actual</em> insult to the customer is that, in an email, the founder admitted to me that the high price is \"priced on the value, not on the cost\". Brilliant! What's next, food prices rise based on how good of a meal I could make with the ingredients? Gas prices that get higher if I drive a car that gets better mileage? In a now deleted FAQ, the CEO admitted that it's to \"filter out low-priority tech support requests\". Wow, what a load of arrogant horseshit, if you pardon my French.</p>\n<p>It's a shame to see macOS embracing this more and more. Subscriptions everywhere, hidden fees, In-App purchases. Yes, developers need to eat. Yes, good software should cost money, that's not the issue. The issue is when you push so far you alienate and insult your customers.</p>\n<p>I hope someone else comes along and puts them in competition. Brilliant idea, great execution, absolutely appalling corporate structure.</p></div>",
+            "date_published": "2023-03-20T22:38:17+00:00",
+            "authors": [
+                {
+                    "name": "AndroidScript",
+                    "url": "https://www.reddit.com/user/AndroidScript"
+                }
+            ]
+        },
+        {
             "id": "11vopx1",
             "url": "/r/macapps/comments/11vopx1/the_mac_library_free_app/",
             "external_url": "https://themaclibrary.com/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "maryodonn",
                     "url": "https://www.reddit.com/user/maryodonn"
-                }
-            ]
-        },
-        {
-            "id": "y18oco",
-            "url": "/r/macapps/comments/y18oco/bike_rich_text_innovations/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/y18oco/bike_rich_text_innovations/",
-            "title": "Bike: Rich Text + Innovations",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/y18oco/bike_rich_text_innovations/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/y18oco/bike_rich_text_innovations/'>Apollo</a></caption> <div><p>I have just added rich text to my outliner Bike.</p>\n<ul>\n<li>https://www.hogbaysoftware.com/posts/bike-rich-text/</li>\n</ul>\n<p>I think the implementation is worth taking a look at. Follow the link for details, a screencast (4 min), and download. (this is paid feature, but there is a no signup 7 day trial so you can play with it)</p>\n<p>In the past I have used plain text formats (like .taskpaper and .markdown) for my apps. I've grown sick of seeing and parsing syntax characters, so this time around I am taking a rich text approach.</p>\n<p>Rich text looks clean, but editing is problematic. You don't have precise control/visibility into the formatting. It's hidden behind the text. There are no formatting characters to guide you like you have in Markdown. This is particularly problematic when you want to insert text at formatting boundaries.</p>\n<p>Bike solves this with \"typing affinity\". This lets you precisely specify which formatting to use at those boundaries. It does this by adding an extra text caret state at these boundaries. This extra state allows you to point the text caret upstream or downstream to the formatting you want.</p>\n<p>Other interesting features include:</p>\n<ul>\n<li>\n<p>Link Buttons: Insert a dedicated \"open\" button after each link so there is no conflict between editing link text and opening the link.</p>\n</li>\n<li>\n<p>Keyboard Centric Formatting Popover: Remember a single keyboard shortcut and have full keyboard access to formatting commands. No mouse needed.</p>\n</li>\n<li>\n<p>Visible Typing Attributes: Show hidden typing attribute state (when it cannot be visually determined by looking at surrounding text) as part of the text caret.</p>\n</li>\n</ul>\n<p>Please take a look and let me know what you think. I'm happy to answer questions and would love to hear your thoughts on ways to improve rich text editing further.</p></div>",
-            "date_published": "2022-10-11T13:09:26+00:00",
-            "authors": [
-                {
-                    "name": "jessegrosjean",
-                    "url": "https://www.reddit.com/user/jessegrosjean"
                 }
             ]
         }
