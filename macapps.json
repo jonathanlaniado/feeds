@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "11yv7lh",
+            "url": "/r/macapps/comments/11yv7lh/daisydisk_50_spring_sale/",
+            "external_url": "https://daisydiskapp.com/?buy&campaign=DD-SPRING-23",
+            "title": "DaisyDisk 50% spring sale",
+            "content_html": "<caption>Open: <a href='https://daisydiskapp.com/?buy&campaign=DD-SPRING-23'>daisydiskapp.com</a> | <a href='https://reddit.com/r/macapps/comments/11yv7lh/daisydisk_50_spring_sale/'>Reddit</a></caption>",
+            "date_published": "2023-03-22T20:17:06+00:00",
+            "authors": [
+                {
+                    "name": "Lravid",
+                    "url": "https://www.reddit.com/user/Lravid"
+                }
+            ]
+        },
+        {
             "id": "11wyjz9",
             "url": "/r/macapps/comments/11wyjz9/we_need_to_talk_about_rewind/",
             "external_url": "https://www.reddit.com/r/macapps/comments/11wyjz9/we_need_to_talk_about_rewind/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "hanymac",
                     "url": "https://www.reddit.com/user/hanymac"
-                }
-            ]
-        },
-        {
-            "id": "y5my7i",
-            "url": "/r/macapps/comments/y5my7i/changing_your_icons_on_apples_apps_safely_with/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/y5my7i/changing_your_icons_on_apples_apps_safely_with/",
-            "title": "Changing your icons on Apple's apps safely (with pictures)",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/macapps/comments/y5my7i/changing_your_icons_on_apples_apps_safely_with/'>Reddit</a> | <a href='apollo://reddit.com/r/macapps/comments/y5my7i/changing_your_icons_on_apples_apps_safely_with/'>Apollo</a></caption> <div><p>I wanted to customize my apps but realized I couldn't change the ones Apple owns. After hours of searching online for how to change the appearance of those and only being told you can't, I just figured it out myself. It was so easy, I'm shocked I couldn't find it, so I'm posting it.</p>\n<p>&#x200B;</p>\n<ol>\n<li>Locate the app you want to change the icon of (should be in applications folder) and duplicate it. This creates a version of the app that you have access to. Both versions of apps like iMessage will stay updated and work </li>\n</ol>\n<p>https://preview.redd.it/vdeawsy2f7u91.png?width=2880&amp;format=png&amp;auto=webp&amp;s=d08b02a4b52899c14fa8546de9a6717f3bfcac46</p>\n<ol>\n<li>Right click and select \"get info\" on the duplicate app</li>\n</ol>\n<p>https://preview.redd.it/woxxu934f7u91.png?width=2880&amp;format=png&amp;auto=webp&amp;s=2e601af05d56ff94eb36fdcb509054ae8802d2c6</p>\n<ol>\n<li>Choose a downloaded PNG image on your computer or find a PNG online you can copy and paste. I like having them downloaded</li>\n</ol>\n<p><a href=\"https://preview.redd.it/tdvr61n5f7u91.png?width=2880&amp;format=png&amp;auto=webp&amp;s=52baed93b6b0d9f7841e6c3b531a5c995862f054\">Note: you can tell if an app is from Apple if in the \\\"sharing &amp; permissions\\\" you are not listed. Not all of them are copyrighted.</a></p>\n<ol>\n<li>Replace the current icon either by clicking on the small icon in the upper corner of the \"get info\" Finder window and (a) dragging and dropping, or (b) pasting the new icon on top of it using the paste function in the menu bar. Don't close out of the window yet </li>\n</ol>\n<p>https://preview.redd.it/b7pemlm8f7u91.png?width=2880&amp;format=png&amp;auto=webp&amp;s=533b5d16ee96bb04c405e89d8146d50adbbaf3d0</p>\n<ol>\n<li>Change the name of the app to something other than the original application's name and lock it or move it to a different folder and then lock it. This keeps your changes when you log out or restart your computer </li>\n</ol>\n<p>https://preview.redd.it/m7xb5mwaf7u91.png?width=2880&amp;format=png&amp;auto=webp&amp;s=482f3c44b735c2d87823a0372f91f9a0f81933bb</p>\n<ol>\n<li>Replace the original app in your dock with the new one. If you change a non-Apple app (meaning you don't have to duplicate it) and it's already in your dock it may not change appearance immediately. </li>\n</ol>\n<p>I also used a command in terminal to put the blank space in my dock if you want to do that as well: <code>defaults write com.apple.dock persistent-apps -array-add '{\"tile-type\"=\"spacer-tile\";}'; killall Dock</code></p></div>",
-            "date_published": "2022-10-16T17:45:48+00:00",
-            "authors": [
-                {
-                    "name": "maryodonn",
-                    "url": "https://www.reddit.com/user/maryodonn"
                 }
             ]
         }
