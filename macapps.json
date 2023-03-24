@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "120dspv",
+            "url": "/r/macapps/comments/120dspv/klack_satisfying_sound_with_every_keystroke/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/120dspv/klack_satisfying_sound_with_every_keystroke/",
+            "title": "Klack - Satisfying sound with every keystroke",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/120dspv/klack_satisfying_sound_with_every_keystroke/'>Reddit</a></caption><div><br></div><div><p>I'm the creator of <a href=\"https://tryklack.com/\">Klack</a>. It adds mechanical keyboard sounds to every keystroke.</p>\n<p>It's a native app written fully in Swift that focuses on speed, hence there is no lag in the audio feedback from pressing keys like some other apps (in my experience).</p>\n<p>Klack focuses on modern popular keyboard switches rather than for example typewriter sounds. I will continue expanding Klack with additional switches over time, hoping to get a solid set of 20+ switches soon enough. There's a new version in review with additional switches coming out very soon. I've also added randomized pitching to the new release (makes sound way more unique every key press).</p>\n<p>Klack supports up/down keys separately, the result is way more realistic compared to playing both the sounds simultaneously.</p>\n<p>I personally found it vital that the app had a negligible footprint on my system (mainly RAM) for it to be worth running all the time.</p>\n<p>Please feel free to request any features if you feel there's something missing. I've put a lot of work into ensuring the quality of both the app and the website.</p>\n<p><a href=\"https://tryklack.com/\">https://tryklack.com</a></p></div>",
+            "date_published": "2023-03-24T08:23:24+00:00",
+            "authors": [
+                {
+                    "name": "Quirino_Exile",
+                    "url": "https://www.reddit.com/user/Quirino_Exile"
+                }
+            ]
+        },
+        {
             "id": "11yv7lh",
             "url": "/r/macapps/comments/11yv7lh/daisydisk_50_spring_sale/",
             "external_url": "https://daisydiskapp.com/?buy&campaign=DD-SPRING-23",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "z2Q7lYjcxK",
                     "url": "https://www.reddit.com/user/z2Q7lYjcxK"
-                }
-            ]
-        },
-        {
-            "id": "y6ohnf",
-            "url": "/r/macapps/comments/y6ohnf/freescaler_a_free_and_open_source_tool_used_to/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/y6ohnf/freescaler_a_free_and_open_source_tool_used_to/",
-            "title": "FreeScaler: a free and open source tool used to upscale low-res images using advanced AI models, available on the Mac App Store",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/y6ohnf/freescaler_a_free_and_open_source_tool_used_to/'>Reddit</a></caption><div><br></div><div><p>Hi, we've just released our first open source project for macOS: FreeScaler. It's simple app used to upscale low-res images using AI models. It's a free and open source Cocoa/Swift app, runs natively on arm/x86 Macs with macOS 11.3 or later, Apple Silicon, AMD or nVidia GPU.</p>\n<p>Based on the portable versions of realesrgan-ncnn-vulkan and realsr-ncnn-vukan.</p>\n<p>Features:</p>\n<p>- Upscale single image choosing between 4 AI models</p>\n<p>- Compare original and upscaled image</p>\n<p>- Batch upscale: drag/import a folder to upscale all included PNGs and JPGs at once, compare results as they are available</p>\n<p>- Drag and drop image or folder from macOS Finder</p>\n<p>- iOS-style share button to save or share results through other means</p>\n<p>- Finder service to display an item in macOS Finder contextual menu, run upscale directly from the Finder</p>\n<p>App is available on the Mac App Store: <a href=\"https://apps.apple.com/us/app/freescaler/id6443796196\">https://apps.apple.com/us/app/freescaler/id6443796196</a><br />\nSource code is available on GitHub:<a href=\"https://github.com/TheMurusTeam/FreeScaler\">https://github.com/TheMurusTeam/FreeScaler</a></p></div>",
-            "date_published": "2022-10-17T22:15:29+00:00",
-            "authors": [
-                {
-                    "name": "hanymac",
-                    "url": "https://www.reddit.com/user/hanymac"
                 }
             ]
         }
