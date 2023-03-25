@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "121fr1s",
+            "url": "/r/selfhosted/comments/121fr1s/were_no_longer_sunsetting_the_free_team_plan/",
+            "external_url": "https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/",
+            "title": "We're no longer sunsetting the Free Team plan | Docker",
+            "content_html": "<caption>Open: <a href='https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/'>www.docker.com</a> | <a href='https://reddit.com/r/selfhosted/comments/121fr1s/were_no_longer_sunsetting_the_free_team_plan/'>Reddit</a></caption>",
+            "date_published": "2023-03-25T08:43:27+00:00",
+            "authors": [
+                {
+                    "name": "atika",
+                    "url": "https://www.reddit.com/user/atika"
+                }
+            ]
+        },
+        {
             "id": "11ziuur",
             "url": "/r/selfhosted/comments/11ziuur/were_shutting_down_selfhsted_thanks_to_those_who/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/11ziuur/were_shutting_down_selfhsted_thanks_to_those_who/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "testus_maximus",
                     "url": "https://www.reddit.com/user/testus_maximus"
-                }
-            ]
-        },
-        {
-            "id": "vv7jsd",
-            "url": "/r/selfhosted/comments/vv7jsd/40_opensource_projects_to_build_your_startup_from/",
-            "external_url": "https://blog.scaleway.com/40-open-source-projects/",
-            "title": "40+ open-source projects to build your startup from project management to infrastructure",
-            "content_html": "<caption>Open in: <a href='https://blog.scaleway.com/40-open-source-projects/'>blog.scaleway.com</a> | <a href='https://reddit.com/r/selfhosted/comments/vv7jsd/40_opensource_projects_to_build_your_startup_from/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/vv7jsd/40_opensource_projects_to_build_your_startup_from/'>Apollo</a></caption>",
-            "date_published": "2022-07-09T18:11:41+00:00",
-            "authors": [
-                {
-                    "name": "hanaa42",
-                    "url": "https://www.reddit.com/user/hanaa42"
                 }
             ]
         }
