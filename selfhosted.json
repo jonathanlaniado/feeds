@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "122m244",
+            "url": "/r/selfhosted/comments/122m244/for_anyone_procrastinating_on_finding_another/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/122m244/for_anyone_procrastinating_on_finding_another/",
+            "title": "For anyone procrastinating on finding another weather data source before the Dark Sky shutdown next week, I put together a drop-in compatible/ free/ documented API called Pirate Weather.",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/122m244/for_anyone_procrastinating_on_finding_another/'>Reddit</a></caption><div><br></div><div><p>Ever since Dark Sky announced they were shutting down, I wanted to find a drop-in compatible replacement for the half dozen things around my house that relied on weather data. Moreover, weather forecast are mostly run by governments, I wanted a data source that made this data much easier to use. The combination of these two goals was <a href=\"http://pirateweather.net/en/latest/\">Pirate Weather</a>. It\u2019s designed to be 1:1 compatible with Dark Sky, and since every processing step is documented, you can work out exactly where the data is coming from and what it means. </p>\n<p>All the processing scripts are in the <a href=\"https://github.com/alexander0042/pirateweather\">GitHub repository</a>. Since releasing it last year, the API has come a long way, squashing a ton of bugs and improving stability. The community feedback has been invaluable, and I\u2019ll be continuing to make improvements to it over time, with better text summaries coming next!</p>\n<p>As part of this, I also put together a <a href=\"https://github.com/alexander0042/Pirate-Weather-SMSL\">repository</a> with a python notebook to grab a weather data variable directly from NOAA and process it, which might also be useful to some applications here!</p></div>",
+            "date_published": "2023-03-26T13:27:26+00:00",
+            "authors": [
+                {
+                    "name": "Potentially_Canadian",
+                    "url": "https://www.reddit.com/user/Potentially_Canadian"
+                }
+            ]
+        },
+        {
             "id": "121fr1s",
             "url": "/r/selfhosted/comments/121fr1s/were_no_longer_sunsetting_the_free_team_plan/",
             "external_url": "https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ontokinetics",
                     "url": "https://www.reddit.com/user/ontokinetics"
-                }
-            ]
-        },
-        {
-            "id": "vyqrsd",
-            "url": "/r/selfhosted/comments/vyqrsd/matrix_network_hits_60_million_users_improving/",
-            "external_url": "https://news.itsfoss.com/matrix-sixty-million-users/",
-            "title": "'Matrix' Network Hits 60 Million Users, Improving the Demand for Decentralized Communication",
-            "content_html": "<caption>Open in: <a href='https://news.itsfoss.com/matrix-sixty-million-users/'>news.itsfoss.com</a> | <a href='https://reddit.com/r/selfhosted/comments/vyqrsd/matrix_network_hits_60_million_users_improving/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/vyqrsd/matrix_network_hits_60_million_users_improving/'>Apollo</a></caption>",
-            "date_published": "2022-07-14T08:22:13+00:00",
-            "authors": [
-                {
-                    "name": "testus_maximus",
-                    "url": "https://www.reddit.com/user/testus_maximus"
                 }
             ]
         }
