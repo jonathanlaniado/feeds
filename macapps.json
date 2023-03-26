@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "122opk5",
+            "url": "/r/macapps/comments/122opk5/writemage_i_made_a_macos_app_that_allows_you_to/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/122opk5/writemage_i_made_a_macos_app_that_allows_you_to/",
+            "title": "WriteMage: I made a macOS app that allows you to use ChatGPT in any app, float above like Apple Spotlight.",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/122opk5/writemage_i_made_a_macos_app_that_allows_you_to/'>Reddit</a></caption><div><br></div><div><p>Hi, \ud83d\ude00</p>\n<p>I started building WriteMage since December 2022. It has both iOS (Integrated with keyboard) and macOS integrated with any app. Since launching in early of March. I have been fixing bug day and night to make it stable.</p>\n<p><a href=\"https://i.redd.it/jygdwiymi3qa1.gif\">Literally, WriteMage works in any app.</a></p>\n<p><strong># Work in any app</strong></p>\n<p>It can grab selected text from any app. You no longer have to copy and paste anymore. WriteMage works in any macOS app, floating on top like Apple Spotlight. Activated by a single keystroke.</p>\n<p>Whether you want to find terminal command, explain Swift code, thinking of google sheets formula, translate to Chinese. It has you covered in any app!</p>\n<p><strong># Privacy + 100% between you and OpenAI + All your chat history is saved locally</strong></p>\n<p><a href=\"https://i.redd.it/oalpv0dzi3qa1.gif\">Your own data, We see nothing</a></p>\n<p>I place a high value on your privacy. When this app is running and \"you are <strong>using your own API key</strong>\", it will only connect to the OpenAI server. I have decided not to include telemetry (bug tracker), even in the beta. At app launch, it checks for version updates as well. However, this only happens during app launch and no data is transferred back to my server.</p>\n<p><strong># Custom Prompt + Prompt Library :</strong> You can add your own prompt or download more from our prompt library.</p>\n<p><strong># GPT-4 compatible! :</strong> Use your own API key and choose GPT-4 in the settings to switch the model.</p>\n<p>Right now it's free to use during beta (no paywall, no nagging, <strong>please just give me feedbacks \ud83d\ude02</strong>) but you can support me by buying full license with beta discount (available until the final version is released next month)</p>\n<p>Download link &amp; more info : <a href=\"https://writemage.com\">https://writemage.com</a></p>\n<p>Any suggestion/question is welcome!</p>\n<p>Thanks for macapps sub this is my first mac app post in Reddit!</p>\n<p>If you like it, an upvote is appreciated \ud83d\ude4f\ud83c\udffb\ud83e\udd79</p></div>",
+            "date_published": "2023-03-26T14:53:25+00:00",
+            "authors": [
+                {
+                    "name": "innneangTH",
+                    "url": "https://www.reddit.com/user/innneangTH"
+                }
+            ]
+        },
+        {
             "id": "120kd19",
             "url": "/r/macapps/comments/120kd19/amphetamine_523_beta/",
             "external_url": "https://www.reddit.com/r/macapps/comments/120kd19/amphetamine_523_beta/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "rootedMind",
                     "url": "https://www.reddit.com/user/rootedMind"
-                }
-            ]
-        },
-        {
-            "id": "y919hl",
-            "url": "/r/macapps/comments/y919hl/hackit_a_hacker_news_reader/",
-            "external_url": "https://apps.apple.com/app/1549557075",
-            "title": "HacKit \u2014 A Hacker News reader",
-            "content_html": "<caption>Open: <a href='https://apps.apple.com/app/1549557075'>apps.apple.com</a> | <a href='https://reddit.com/r/macapps/comments/y919hl/hackit_a_hacker_news_reader/'>Reddit</a></caption>",
-            "date_published": "2022-10-20T15:28:13+00:00",
-            "authors": [
-                {
-                    "name": "anosidium",
-                    "url": "https://www.reddit.com/user/anosidium"
                 }
             ]
         }
