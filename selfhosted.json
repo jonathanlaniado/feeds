@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "123syuc",
+            "url": "/r/selfhosted/comments/123syuc/romm_retro_games_library_manager/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/123syuc/romm_retro_games_library_manager/",
+            "title": "RomM - Retro games library manager",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/123syuc/romm_retro_games_library_manager/'>Reddit</a></caption><div><br></div><div><p>Hi all, this is my first contribution to this awesome community.</p>\n<p>I am here to introduce you <a href=\"https://github.com/zurdi15/romm\">RomM</a> (Rom Manager), my personal solution for managing your retro games library.</p>\n<p>Inspired by <a href=\"https://jellyfin.org/\">Jellyfin</a> and <a href=\"https://github.com/jamjnsn/cartridge\">Catridge</a> and after found that the awesome <a href=\"https://github.com/grimsi/gameyfin\">Gameyfin</a>  project is not supported for arm64 architectures (since my own homelab  is only made by 3 rpis) and it is a general game library manager, I  decided to develop my own game library solution, focused on retro  gaming.</p>\n<p>Preview:</p>\n<p>https://user-images.githubusercontent.com/34356590/227992371-33056130-c067-49c1-ae32-b3ba78db6798.mp4</p>\n<p>For now, it is only available as a docker <a href=\"https://hub.docker.com/r/zurdi15/romm\">image</a> (amd64/arm64)</p>\n<p>Github repo: <a href=\"https://github.com/zurdi15/romm\">https://github.com/zurdi15/romm</a></p>\n<p>I am new as a frontend developer, aswell as API developer, so any feedback is appreciated.</p>\n<p>Disclaimer: the download buttons actually works, but the Firefox download dialog doesn't appears in the video preview. </p>\n<p>Thank you in advance.</p></div>",
+            "date_published": "2023-03-27T16:53:13+00:00",
+            "authors": [
+                {
+                    "name": "zurdi15",
+                    "url": "https://www.reddit.com/user/zurdi15"
+                }
+            ]
+        },
+        {
             "id": "122m244",
             "url": "/r/selfhosted/comments/122m244/for_anyone_procrastinating_on_finding_another/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/122m244/for_anyone_procrastinating_on_finding_another/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "HeDo88TH",
                     "url": "https://www.reddit.com/user/HeDo88TH"
-                }
-            ]
-        },
-        {
-            "id": "vzbati",
-            "url": "/r/selfhosted/comments/vzbati/giveaway_nas_has_arrived/",
-            "external_url": "https://i.redd.it/juvi2lj8qmb91.jpg",
-            "title": "Giveaway NAS has arrived!",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/juvi2lj8qmb91.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/vzbati/giveaway_nas_has_arrived/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/vzbati/giveaway_nas_has_arrived/'>Apollo</a></caption>",
-            "date_published": "2022-07-15T00:49:10+00:00",
-            "authors": [
-                {
-                    "name": "ontokinetics",
-                    "url": "https://www.reddit.com/user/ontokinetics"
                 }
             ]
         }
