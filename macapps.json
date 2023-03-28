@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "124d2am",
+            "url": "/r/macapps/comments/124d2am/squares_macos_scripts_for_window_management/",
+            "external_url": "https://github.com/bishshoy/squares",
+            "title": "Squares - macOS scripts for window management",
+            "content_html": "<caption>Open: <a href='https://github.com/bishshoy/squares'>github.com</a> | <a href='https://reddit.com/r/macapps/comments/124d2am/squares_macos_scripts_for_window_management/'>Reddit</a></caption>",
+            "date_published": "2023-03-28T04:45:07+00:00",
+            "authors": [
+                {
+                    "name": "Special-Waffle",
+                    "url": "https://www.reddit.com/user/Special-Waffle"
+                }
+            ]
+        },
+        {
             "id": "122opk5",
             "url": "/r/macapps/comments/122opk5/writemage_i_made_a_macos_app_that_allows_you_to/",
             "external_url": "https://www.reddit.com/r/macapps/comments/122opk5/writemage_i_made_a_macos_app_that_allows_you_to/",
@@ -1386,20 +1400,6 @@
             "title": "Apps that should be paid, but are not",
             "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/ycz1eb/apps_that_should_be_paid_but_are_not/'>Reddit</a></caption><div><br></div><div><h2>Apps that should be paid, but are not</h2>\n<ul>\n<li>https://github.com/MonitorControl/MonitorControl<ul>\n<li>best for multi-monitor setups</li>\n</ul>\n</li>\n<li>https://github.com/divamgupta/diffusionbee-stable-diffusion-ui<ul>\n<li>just give it a try.</li>\n</ul>\n</li>\n<li>https://freemacsoft.net/appcleaner/<ul>\n<li>nifty tool for removing apps</li>\n</ul>\n</li>\n<li>https://soduto.com/<ul>\n<li>airdrop alternative, supports android</li>\n</ul>\n</li>\n<li>https://github.com/subhra74/xdm<ul>\n<li>a download manager</li>\n</ul>\n</li>\n<li>https://skim-app.sourceforge.io/<ul>\n<li>pdfs</li>\n</ul>\n</li>\n<li>https://github.com/FuzzyIdeas/ZoomHider<ul>\n<li>hide the annoying zoom control bar</li>\n</ul>\n</li>\n<li>https://www.warp.dev/<ul>\n<li>i-term replacement, with AI command search</li>\n</ul>\n</li>\n</ul>\n<p>My other list of apps\nhttps://www.reddit.com/r/macapps/comments/yca26q/my_list_of_setapp_apps_alternatives/</p></div>",
             "date_published": "2022-10-25T07:52:24+00:00",
-            "authors": [
-                {
-                    "name": "rootedMind",
-                    "url": "https://www.reddit.com/user/rootedMind"
-                }
-            ]
-        },
-        {
-            "id": "yca26q",
-            "url": "/r/macapps/comments/yca26q/my_list_of_setapp_apps_alternatives/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/yca26q/my_list_of_setapp_apps_alternatives/",
-            "title": "My list of Setapp apps alternatives",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/yca26q/my_list_of_setapp_apps_alternatives/'>Reddit</a></caption><div><br></div><div><h2>My list of Setapp apps alternatives</h2>\n<p>Archiver 4 https://archiverapp.com/ --&gt; The Unarchiver https://apps.apple.com/us/app/the-unarchiver/id425424353</p>\n<p>CleanMyMac X https://macpaw.com/cleanmymac --&gt; OnyX https://titanium-software.fr/en/onyx.html (as a system cleaner)</p>\n<p>istat menus https://bjango.com/mac/istatmenus/ --&gt; stats https://github.com/exelban/stats</p>\n<p>Paste https://pasteapp.io/ --&gt; Maccy https://maccy.app/</p>\n<p>SQLPro https://www.sqlprostudio.com/ --&gt; DBeaver https://dbeaver.io/</p>\n<p>Sip https://sipapp.io/ --&gt; System Color Picker https://apps.apple.com/us/app/system-color-picker/id1545870783?mt=12</p>\n<p>Mosaic https://www.lightpillar.com/mosaic.html --&gt; Rectangle https://rectangleapp.com/</p>\n<p>World Clock Pro https://worldclock.pro/ --&gt; Hovrly https://hovrly.com</p>\n<p>Bartender 4 https://www.macbartender.com/Bartender4/ --&gt; iBar-Menubar icon control tool (App store</p>\n<p>CleanShot X https://cleanshot.com/?ref=setapp --&gt; Kap https://getkap.co/, shottr https://shottr.cc</p>\n<p>Movist Pro https://movistprime.com/ --&gt; IINA https://iina.io/</p>\n<p>gitfox https://www.gitfox.app --&gt; GitHub Desktop https://desktop.github.com/</p>\n<p>devutils https://devutils.com/ --&gt; DevToys https://github.com/ObuchiYuki/DevToysMac</p>\n<hr />\n<p>For the below apps, I am still looking for alternatives. Suggest if you have anything in your toolset.</p>\n<p>SlidePad https://slidepad.app/\nBoom 3D https://www.globaldelight.com/boom/</p></div>",
-            "date_published": "2022-10-24T12:33:33+00:00",
             "authors": [
                 {
                     "name": "rootedMind",
