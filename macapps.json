@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "124ypq6",
+            "url": "/r/macapps/comments/124ypq6/cookieeditor_extension_for_safari/",
+            "external_url": "https://apps.apple.com/app/apple-store/id6446215341",
+            "title": "Cookie-Editor extension for Safari",
+            "content_html": "<caption>Open: <a href='https://apps.apple.com/app/apple-store/id6446215341'>apps.apple.com</a> | <a href='https://reddit.com/r/macapps/comments/124ypq6/cookieeditor_extension_for_safari/'>Reddit</a></caption>",
+            "date_published": "2023-03-28T19:02:46+00:00",
+            "authors": [
+                {
+                    "name": "moustachauve",
+                    "url": "https://www.reddit.com/user/moustachauve"
+                }
+            ]
+        },
+        {
             "id": "124d2am",
             "url": "/r/macapps/comments/124d2am/squares_macos_scripts_for_window_management/",
             "external_url": "https://github.com/bishshoy/squares",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "sindresorhus",
                     "url": "https://www.reddit.com/user/sindresorhus"
-                }
-            ]
-        },
-        {
-            "id": "ycz1eb",
-            "url": "/r/macapps/comments/ycz1eb/apps_that_should_be_paid_but_are_not/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/ycz1eb/apps_that_should_be_paid_but_are_not/",
-            "title": "Apps that should be paid, but are not",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/ycz1eb/apps_that_should_be_paid_but_are_not/'>Reddit</a></caption><div><br></div><div><h2>Apps that should be paid, but are not</h2>\n<ul>\n<li>https://github.com/MonitorControl/MonitorControl<ul>\n<li>best for multi-monitor setups</li>\n</ul>\n</li>\n<li>https://github.com/divamgupta/diffusionbee-stable-diffusion-ui<ul>\n<li>just give it a try.</li>\n</ul>\n</li>\n<li>https://freemacsoft.net/appcleaner/<ul>\n<li>nifty tool for removing apps</li>\n</ul>\n</li>\n<li>https://soduto.com/<ul>\n<li>airdrop alternative, supports android</li>\n</ul>\n</li>\n<li>https://github.com/subhra74/xdm<ul>\n<li>a download manager</li>\n</ul>\n</li>\n<li>https://skim-app.sourceforge.io/<ul>\n<li>pdfs</li>\n</ul>\n</li>\n<li>https://github.com/FuzzyIdeas/ZoomHider<ul>\n<li>hide the annoying zoom control bar</li>\n</ul>\n</li>\n<li>https://www.warp.dev/<ul>\n<li>i-term replacement, with AI command search</li>\n</ul>\n</li>\n</ul>\n<p>My other list of apps\nhttps://www.reddit.com/r/macapps/comments/yca26q/my_list_of_setapp_apps_alternatives/</p></div>",
-            "date_published": "2022-10-25T07:52:24+00:00",
-            "authors": [
-                {
-                    "name": "rootedMind",
-                    "url": "https://www.reddit.com/user/rootedMind"
                 }
             ]
         }
