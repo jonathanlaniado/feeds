@@ -8,6 +8,20 @@
     "favicon": "",
     "items": [
         {
+            "id": "1250id6",
+            "url": "/r/Softwarr/comments/1250id6/awesome_arr/",
+            "external_url": "https://www.reddit.com/r/Softwarr/comments/1250id6/awesome_arr/",
+            "title": "Awesome *Arr",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/Softwarr/comments/1250id6/awesome_arr/'>Reddit</a></caption><div><br></div><div><p>I came across <a href=\"https://web.archive.org/web/20221201133903/https://github.com/rustyshackleford36/locatarr\">Locatarr</a> but wasn't satisfied with it so I made some PRs but the repo turned out to be inactive and now gone. </p>\n<p>So I decided to make my own (hopefully better) list, following the guidelines of <a href=\"https://github.com/sindresorhus/awesome\">Awesome Lists</a>.</p>\n<p>Here's the site hosted on github pages: <a href=\"https://ravencentric.github.io/awesome-arr/\">https://ravencentric.github.io/awesome-arr/</a><br />\nHere's the repo: <a href=\"https://github.com/Ravencentric/awesome-arr\">https://github.com/Ravencentric/awesome-arr</a></p>\n<p>Contributions are appreciated.</p></div>",
+            "date_published": "2023-03-28T20:05:16+00:00",
+            "authors": [
+                {
+                    "name": "PredatorOwl",
+                    "url": "https://www.reddit.com/user/PredatorOwl"
+                }
+            ]
+        },
+        {
             "id": "1135bgp",
             "url": "/r/Softwarr/comments/1135bgp/introducing_buildarr_a_new_solution_for_arr_app/",
             "external_url": "/r/sonarr/comments/112t9y5/introducing_buildarr_a_new_solution_for_arr_app/",
