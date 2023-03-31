@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "126w9pi",
+            "url": "/r/macapps/comments/126w9pi/i_just_launched_cliptonite_a_beautiful_and/",
+            "external_url": "https://apps.apple.com/us/app/cliptonite-clipboard-manager/id6446803122?mt=12",
+            "title": "I just launched Cliptonite - a beautiful and performant clipboard manager app for macOS",
+            "content_html": "<caption>Open: <a href='https://apps.apple.com/us/app/cliptonite-clipboard-manager/id6446803122?mt=12'>apps.apple.com</a> | <a href='https://reddit.com/r/macapps/comments/126w9pi/i_just_launched_cliptonite_a_beautiful_and/'>Reddit</a></caption>",
+            "date_published": "2023-03-30T19:08:28+00:00",
+            "authors": [
+                {
+                    "name": "Killforthecoke",
+                    "url": "https://www.reddit.com/user/Killforthecoke"
+                }
+            ]
+        },
+        {
             "id": "124ypq6",
             "url": "/r/macapps/comments/124ypq6/cookieeditor_extension_for_safari/",
             "external_url": "https://apps.apple.com/app/apple-store/id6446215341",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "emkaka",
                     "url": "https://www.reddit.com/user/emkaka"
-                }
-            ]
-        },
-        {
-            "id": "yekopz",
-            "url": "/r/macapps/comments/yekopz/simple_distractionfree_plain_text_editor/",
-            "external_url": "https://apps.apple.com/app/id1572202501",
-            "title": "Simple distraction-free plain text editor",
-            "content_html": "<caption>Open: <a href='https://apps.apple.com/app/id1572202501'>apps.apple.com</a> | <a href='https://reddit.com/r/macapps/comments/yekopz/simple_distractionfree_plain_text_editor/'>Reddit</a></caption>",
-            "date_published": "2022-10-27T06:38:43+00:00",
-            "authors": [
-                {
-                    "name": "sindresorhus",
-                    "url": "https://www.reddit.com/user/sindresorhus"
                 }
             ]
         }
