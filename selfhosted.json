@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "127orpn",
+            "url": "/r/selfhosted/comments/127orpn/self_hosting_is_a_gateway_drug/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/127orpn/self_hosting_is_a_gateway_drug/",
+            "title": "Self hosting is a gateway drug",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/127orpn/self_hosting_is_a_gateway_drug/'>Reddit</a></caption><div><br></div><div><p>Seriously,  I have a synology NAS that I've been running up all sorts of docker instances on, then I thought I might as well get a static IP  and a domain name, now I've just forked out for a fanless pc from aliexpress so I can run a real firewall like pfsense, which led me to reconsidering that into running proxmox on it to host some vm'd opnsense and move my pihole over there... </p>\n<p>When does it end?!?</p>\n<p>I just want good reliable services,  that I can trust for my family and now I'm spending money on running a mini data centre!</p></div>",
+            "date_published": "2023-03-31T15:19:33+00:00",
+            "authors": [
+                {
+                    "name": "senectus",
+                    "url": "https://www.reddit.com/user/senectus"
+                }
+            ]
+        },
+        {
             "id": "125yjdn",
             "url": "/r/selfhosted/comments/125yjdn/immich_selfhosted_photos_and_videos_backup/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/125yjdn/immich_selfhosted_photos_and_videos_backup/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "altran1502",
                     "url": "https://www.reddit.com/user/altran1502"
-                }
-            ]
-        },
-        {
-            "id": "w89tgh",
-            "url": "/r/selfhosted/comments/w89tgh/manticore_a_faster_alternative_to_elasticsearch/",
-            "external_url": "https://manticoresearch.com/blog/manticore-alternative-to-elasticsearch/",
-            "title": "Manticore: a faster alternative to Elasticsearch in C++ with a 21-year history",
-            "content_html": "<caption>Open in: <a href='https://manticoresearch.com/blog/manticore-alternative-to-elasticsearch/'>manticoresearch.com</a> | <a href='https://reddit.com/r/selfhosted/comments/w89tgh/manticore_a_faster_alternative_to_elasticsearch/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/w89tgh/manticore_a_faster_alternative_to_elasticsearch/'>Apollo</a></caption>",
-            "date_published": "2022-07-26T04:12:37+00:00",
-            "authors": [
-                {
-                    "name": "snikolaev",
-                    "url": "https://www.reddit.com/user/snikolaev"
                 }
             ]
         }
