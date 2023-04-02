@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "129joyn",
+            "url": "/r/macapps/comments/129joyn/arc_vs_safari_energy_usage_benchmark/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/129joyn/arc_vs_safari_energy_usage_benchmark/",
+            "title": "Arc vs Safari Energy Usage Benchmark",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/129joyn/arc_vs_safari_energy_usage_benchmark/'>Reddit</a></caption><div><br></div><div><p>Heya gang, recently I've gotten hooked to Arc and the way it looks and works. God damn am I going to miss it.</p>\n<p>Unfortunately, what we all know is true, was true. It is a huge hog due to Chromium. I've been unable to find any concrete numbers on Chrome vs Safari vs Arc etc, apart from random Redditor's anecdotal evidence.</p>\n<p>For me, it is crucial that the browser is optimised. Thats a bit vague, so let's put it like this - I am sick of years of warm CPUs, loud fans, and 60min battery spans. I don't really care if \"technically\" it might be optimised, i care only about a real world feeling. Thus, after a bit of deliberation I dropped all CPU/RAM/GPU metrics, and decided to go with Apple's own POWER. Unfortunately I don't know how to get \"Energy Impact\" from Activity Monitor into a more readable format, so I used the next closest thing Apple gave us:</p>\n<pre><code>sudo powermetrics -i 1000 --poweravg 1 | grep 'Average cumulatively decayed power score' -A 20\n</code></pre>\n<p>I've replicated four 20min long tests as close as I could. While they may not be scientific, I don't really care, I just wanted to see some stabile numbers. I did these steps as close as I humanly could (i hope someone makes a script to automate this sort of tests lol):</p>\n<ol>\n<li>\n<p>Clean restart, 100% battery, nothing else running</p>\n</li>\n<li>\n<p>Watch a 6min long 4K@60 HDR on youtube, in full screen</p>\n</li>\n<li>Put a HD yt video of Hasan making fun of Trumps lawyers in PiP (while doing all other tasks below)</li>\n<li>Find a local restaurant on Google Maps, use StreetView and 3D view, browse photos.</li>\n<li>Find the GitHub Page of Elixir's Porcelain, then browse their docs.</li>\n<li>Use Google Translate to read a major Danish news website in English.</li>\n</ol>\n<p>--</p>\n<p>The results were sad. I grouped up all relevant processes that were impacted by these actions, excluding networking and audio. Safari was fairly stabile on both initial runs (and I even saw zero improvement when using HTML video tags with Baking soda and Vinegar extensions instead of YouTube player, on the third run)</p>\n<ul>\n<li><code>Safari</code> without extensions -- 155</li>\n<li><code>Safari</code> without extensions -- 158</li>\n<li><code>Safari</code> with HTML video -- 162</li>\n<li><code>Arc</code> without extensions -- 538</li>\n</ul>\n<p>\ud83d\ude22</p>\n<p>&#x200B;</p>\n<p><strong>Update 2h later:</strong></p>\n<p>After some comments elsewhere, I tried to isolate the videos, since they may skew the results by draining way more than normal pages, we expected to see smaller scores. Instead of videos I did a bunch more browsing on Google, Wiki, Maps and news sites. So, way more pages opened and closed. Oh boy were we wrong...</p>\n<ul>\n<li><code>Arc</code> - 1149</li>\n<li><code>Safari</code> - 78</li>\n</ul>\n<p>This does seem like the Reddit comments elsewhere are correct in that its not only Chromium, but Arc isn't doing some cleaning that it probably should be doing.</p></div>",
+            "date_published": "2023-04-02T12:22:22+00:00",
+            "authors": [
+                {
+                    "name": "FedaykinLanfear_8423",
+                    "url": "https://www.reddit.com/user/FedaykinLanfear_8423"
+                }
+            ]
+        },
+        {
             "id": "126w9pi",
             "url": "/r/macapps/comments/126w9pi/i_just_launched_cliptonite_a_beautiful_and/",
             "external_url": "https://apps.apple.com/us/app/cliptonite-clipboard-manager/id6446803122?mt=12",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "flud3r",
                     "url": "https://www.reddit.com/user/flud3r"
-                }
-            ]
-        },
-        {
-            "id": "ygk5us",
-            "url": "/r/macapps/comments/ygk5us/sidenotes_gets_an_ios_ipados_app_so_you_can_take/",
-            "external_url": "https://www.apptorium.com/sidenotes/ios?utm_source=rmacapps&utm_medium=post&utm_campaign=ios",
-            "title": "SideNotes gets an iOS / iPadOS app, so you can take your notes everywhere",
-            "content_html": "<caption>Open: <a href='https://www.apptorium.com/sidenotes/ios?utm_source=rmacapps&utm_medium=post&utm_campaign=ios'>www.apptorium.com</a> | <a href='https://reddit.com/r/macapps/comments/ygk5us/sidenotes_gets_an_ios_ipados_app_so_you_can_take/'>Reddit</a></caption>",
-            "date_published": "2022-10-29T13:50:03+00:00",
-            "authors": [
-                {
-                    "name": "emkaka",
-                    "url": "https://www.reddit.com/user/emkaka"
                 }
             ]
         }
