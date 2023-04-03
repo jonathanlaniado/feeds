@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "12afcyi",
+            "url": "/r/apple/comments/12afcyi/apple_halted_m2_chip_production_in_january_amid/",
+            "external_url": "https://www.macrumors.com/2023/04/03/apple-stopped-m2-chip-production-1q-2023/",
+            "title": "Apple Halted M2 Chip Production in January Amid 'Plummeting' Mac Sales",
+            "content_html": "<caption>Open: <a href='https://www.macrumors.com/2023/04/03/apple-stopped-m2-chip-production-1q-2023/'>www.macrumors.com</a> | <a href='https://reddit.com/r/apple/comments/12afcyi/apple_halted_m2_chip_production_in_january_amid/'>Reddit</a></caption>",
+            "date_published": "2023-04-03T09:53:09+00:00",
+            "authors": [
+                {
+                    "name": "AwesomeWhiteDude",
+                    "url": "https://www.reddit.com/user/AwesomeWhiteDude"
+                }
+            ]
+        },
+        {
             "id": "127o5xn",
             "url": "/r/apple/comments/127o5xn/gm_plans_to_phase_out_apple_carplay_in_evs/",
             "external_url": "https://www.channelnewsasia.com/business/gm-plans-phase-out-apple-carplay-evs-googles-help-3388826",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Jimbuub",
                     "url": "https://www.reddit.com/user/Jimbuub"
-                }
-            ]
-        },
-        {
-            "id": "z03b46",
-            "url": "/r/apple/comments/z03b46/apple_has_finally_allowed_weather_radar_on/",
-            "external_url": "https://www.reddit.com/r/apple/comments/z03b46/apple_has_finally_allowed_weather_radar_on/",
-            "title": "Apple has finally allowed Weather Radar on CarPlay for my road trip app, Weather on the Way. Thanks to Reddit, it reached #3 in Weather charts.",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/apple/comments/z03b46/apple_has_finally_allowed_weather_radar_on/'>Reddit</a></caption><div><br></div><div><p>Hi everyone,</p>\n<p>Over two years ago I have posted on <a href=\"https://www.reddit.com/r/apple/comments/i1s4gb/i_have_finally_released_my_app_that_shows_weather/\">reddit about my app, Weather on the Way</a>. The idea of the app is to show you the weather you will encounter along your route, exactly at the time you will be driving through. Thanks to reddit and especially beta testers from r/apple it's been a great success, with over 140k downloads at the moment (and it even reached #3 in the US weather charts).</p>\n<p>The one thing that everyone has been asking for from the day 0 has been CarPlay. I have started working on it soon after getting the initial version done but it's been a real challenge. Apple's guidelines are very strict on it, requiring the app to fit into very specific categories, with different technical capabilities reserved for each of these categories. There are also many limitations, both technical and approval based.</p>\n<p>However,  I'm happy to let you know that Apple has approved the app's latest update, which adds CarPlay support with the following features:</p>\n<ul>\n<li>Precipitation Weather Radar - the CarPlay screen shows live map with precipitation radar, updated every 10 minutes. Since they do not allow for animation, the radar instead displays direction arrows to indicate how a storm moves. It includes both rain and snow.</li>\n<li>Weather on the route - like on the phone, the CarPlay displays the route you select, along with temperature and weather for points along the route. The times are predicted to be exactly when you will be driving through them and it adjusts every minute based on your current location, so if you make a stop, the times will adjust.</li>\n<li>National Weather Service and other government weather alerts along the route - it shows all the alerts (updated every 10 minutes) on the CarPlay display and how many miles until you reach them.</li>\n<li>Turn-By-Turn navigation - A simple navigation system, showing upcoming manoeuvres. Some features are still coming soon for this, like rerouting or directions spoken out-loud.</li>\n</ul>\n<p>One thing I would like to mention that unfortunately, because of the amount of expensive weather data needed, I cannot offer these features on the free tier. It's part of PRO, with monthly and yearly subscriptions ($4.99 and $24.99 respectively) and lifetime option for people who hate subscriptions.</p>\n<p>But I also wanted to make sure that everyone can try the features and see for themselves if they are worth it, so there is a one week free trial on the yearly tier and additionally you get PRO for free on your first 5 trips without committing to any subscriptions.</p>\n<p><a href=\"https://uploads-ssl.webflow.com/5e7111d2730ed769354a84fd/637268ef62aac4ee7f7797e6_photo.jpg\">Here is how it looks like on the CarPlay system</a></p>\n<p>You can try the app for yourself here:</p>\n<p><a href=\"https://apps.apple.com/us/app/id1471394318\">https://apps.apple.com/us/app/id1471394318</a></p>\n<p>I would really appreciate your feedback and suggestions!</p></div>",
-            "date_published": "2022-11-20T12:48:52+00:00",
-            "authors": [
-                {
-                    "name": "bialylis",
-                    "url": "https://www.reddit.com/user/bialylis"
                 }
             ]
         }
