@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "12cfnb6",
+            "url": "/r/MacOS/comments/12cfnb6/hackintosh_will_die_this_year_as_nont2_devices/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/12cfnb6/hackintosh_will_die_this_year_as_nont2_devices/",
+            "title": "Hackintosh will die this year, as non-T2 devices lose support",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/MacOS/comments/12cfnb6/hackintosh_will_die_this_year_as_nont2_devices/'>Reddit</a></caption><div><br></div><div><p>Ventura will be the last version that\u2019s Hackintoshable for the foreseeable future.</p>\n<p>As Apple drops an increasing number of Intel Macs every year, it\u2019s reasonable to expect the 2017 lineup to be the next to lose support this year. This has huge implications here.</p>\n<p>The 2017 MacBooks were the last to launch without the T2 chip (though the 2017 iMac Pro had it). Once the 2017 devices are dropped, only T2-based Intel devices will be supported.</p>\n<p>There\u2019s no way to emulate the T2 chip yet.</p>\n<p>Before T2-chipped Macs came along, Macs used a relatively simple SMC chip that could be emulated.</p>\n<p>The T2, though, is a variant of the A10 SoC with the same 4 cores and 1-2 gigs of its own ram. It\u2019s a full-blown SoC, running what Apple calls BridgeOS (a modified version of WatchOS).</p>\n<p>Without fully emulating this complex proprietary ARM processor (which mind you, could almost run iPadOS 17 by itself as the A10\u2019s used in the 2018 iPad), and also reverse engineering its OS (almost watchOS) &amp; protocols with the main x64 CPU, there\u2019s no way forward for the community.</p>\n<p>One of the main reasons Hackintosh was possible was that with small patching to the environment the OS sees, macOS could run on bog-standard x64 hardware.\nThe T2 chip was a precursor to Mac's transition to ARM.</p>\n<p>The teensy sliver of hope is checkra1n exploiting the T2 chip - tantalizing, but that doesn\u2019t implicitly help break obfuscation and reverse engineer a whole iPhon-esque SoC anod its software.</p>\n<p>The future of Hackintosh is precarious. Welp.</p>\n<p>A huge percentage of Hackintosh users may end up actually buying Macs now, especially considering how compelling Apple\u2019s ARM devices are :v</p></div>",
+            "date_published": "2023-04-05T10:25:27+00:00",
+            "authors": [
+                {
+                    "name": "TechExpert2910",
+                    "url": "https://www.reddit.com/user/TechExpert2910"
+                }
+            ]
+        },
+        {
             "id": "12byxwm",
             "url": "/r/MacOS/comments/12byxwm/a_leak_of_the_new_macos_name/",
             "external_url": "https://i.redd.it/gojo6wxb1yra1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "coffeefuelledtechie",
                     "url": "https://www.reddit.com/user/coffeefuelledtechie"
-                }
-            ]
-        },
-        {
-            "id": "ut75xx",
-            "url": "/r/MacOS/comments/ut75xx/turn_you_mac_into_a_retro_macintosh_os_old_school/",
-            "external_url": "https://i.redd.it/qtyffr6alg091.gif",
-            "title": "Turn you Mac into a retro Macintosh - OS (Old School) theme",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/qtyffr6alg091.gif'>i.redd.it</a> | <a href='https://reddit.com/r/MacOS/comments/ut75xx/turn_you_mac_into_a_retro_macintosh_os_old_school/'>Reddit</a> | <a href='apollo://reddit.com/r/MacOS/comments/ut75xx/turn_you_mac_into_a_retro_macintosh_os_old_school/'>Apollo</a></caption>",
-            "date_published": "2022-05-19T16:25:53+00:00",
-            "authors": [
-                {
-                    "name": "IOS-Old-School",
-                    "url": "https://www.reddit.com/user/IOS-Old-School"
                 }
             ]
         }
