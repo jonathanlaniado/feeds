@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "12cgydn",
+            "url": "/r/macapps/comments/12cgydn/chrome_vs_arc_vs_safari_vs_orion_vs_firefox/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/12cgydn/chrome_vs_arc_vs_safari_vs_orion_vs_firefox/",
+            "title": "Chrome vs Arc vs Safari vs Orion vs Firefox Energy Usage Benchmark",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/12cgydn/chrome_vs_arc_vs_safari_vs_orion_vs_firefox/'>Reddit</a></caption><div><br></div><div><p>Hey folks</p>\n<p>A couple of days ago I've had a nice post here about <a href=\"https://www.reddit.com/r/macapps/comments/129joyn/arc_vs_safari_energy_usage_benchmark/\">energy usage in browsers</a>. Based on the comments, I've made the test better, and added more popular browsers. People kept yelling how Chrome is now better - and it is clearly not.</p>\n<p>TLDR: It started very simple - I was in love with Arc UI, but noticed high energy usage and wanted to compare it to Safari. I am <strong>not concerned with performance, only energy usage</strong>, if you care about raw performance, this is not a post for you. These tests are not scientific, they reflect my usage on my machine, yours will be different! Here is the built-in app that I used to measure a 15minute average.</p>\n<p><code>sudo powermetrics -i 1000 --poweravg 1 | grep 'Average cumulatively decayed power score' -A 20</code></p>\n<h1>Results:</h1>\n<ol>\n<li><strong>Safari</strong>: 140</li>\n<li><strong>Orion</strong>: 184</li>\n<li><strong>Firefox</strong>: 497</li>\n<li><strong>Arc</strong>: 622</li>\n<li><strong>Chrome</strong>: 1213</li>\n</ol>\n<p>Disclaimers:</p>\n<ul>\n<li>IE - Disqualified because I don't care.</li>\n<li>SigmaOS - Disqualified because it feels like Vim and Notion had a baby. Sorry, not for me.</li>\n<li>Chrome's score was totally wild, it went up to 2k at one point, but later averaged 1.2k. No other browser had those spikes. I tested twice to ensure that was the case.</li>\n<li>Testing method seems very stabile. The numbers for Safari and Arc closely match my previous tests. So far I've ran tests 5x on those two browsers.</li>\n</ul>\n<h1>Testing:</h1>\n<p>Each test begins with a freshly powered on Mac with 100% battery and attached to power. All apps and OS are latest versions. Mac always kept at roughly the same temperature. The browsers don't have any extensions (unless they come with built-in ones) and are freshly installed. All window sizes kept the same, covering roughly 80% of the screen. Whenever I open a new tab, i leave the previous one open, thus every list item below has its own tab by the end.</p>\n<p>Script is as follows:</p>\n<ul>\n<li>Watch whole <a href=\"https://www.youtube.com/watch?v=Jrh5idPduJA\">2k HDR 60fps on YouTube</a> (paste url) in full screen mode.</li>\n<li>Watch <a href=\"https://www.youtube.com/watch?v=drLZxyv79Oo\">Dave2d in HD</a> (paste url) in PiP, <strong>while doing all stuff below.</strong></li>\n<li>Search for \"<a href=\"https://drazevacshelter.org/en/\">drazevac shelter</a>\" on Google via address bar. Open the page and slowly scroll to bottom.</li>\n<li>Open <a href=\"https://www.animalwebaction.com/en/collectes/14816/croquettes-sos-300-chiens-serbie-/\">Animal Web Action</a> (paste url), slowly skim through the interview, donate.</li>\n<li>Open a local apartment searching website and find a specific apartment every time. Go through the slideshow, read the page, copy the address.</li>\n<li>Paste the address into google, and click on the Google Maps widget/result. Zoom in and out. Use 3D, use StreetView.</li>\n<li>Open a Pull Request on Github. Read the code for about a minute.</li>\n<li>Open Discord, check my posts about donating to \"<a href=\"https://drazevacshelter.org/en/\">drazevac shelter</a>\" on two spaces.</li>\n<li>Open a <a href=\"https://www.dr.dk\">Danish News</a> website, click on an article, copy URL.</li>\n<li>Open Google Translate, paste the URL and click on the result. This will open a new, translated page. Spend 3 minutes slowly reading the article.</li>\n</ul>\n<h1>Calculation:</h1>\n<p>The output of powermetrics looks similar to Activity monitor, but lists only the top offenders. It also creates averages in a rolling time window, and I've used the 15minute averages. I've always discarded the system/kernel processes which had very stabile usage anyway. I have added up all the processes that belong to an individual browser, including various workers, video encoders, tab containers etc. Overall, most of the power usage always belonged to the tabs themselves, apart from Chrome, where the App process itself was averaging between 400 and 1000. The shape of data (while writing this) is below.</p>\n<pre><code>**** Average cumulatively decayed power score ****\n\n                                            15 sec           1 min\ncom.apple.WebKit.WebContent            33.3628      27.592\nWindowServer                           14.3019     8.72686\nTerminal                                13.814     11.0305\nSafari                                 5.74578     4.42689\npowermetrics                            5.2907     4.38439\nkernel_task                            2.23776     1.73242\ncom.apple.WebKit.Networking           0.837266    0.872574\nlaunchd                               0.364388    0.250244\n</code></pre>\n<p>&#x200B;</p></div>",
+            "date_published": "2023-04-05T11:20:23+00:00",
+            "authors": [
+                {
+                    "name": "FedaykinLanfear_8423",
+                    "url": "https://www.reddit.com/user/FedaykinLanfear_8423"
+                }
+            ]
+        },
+        {
             "id": "129joyn",
             "url": "/r/macapps/comments/129joyn/arc_vs_safari_energy_usage_benchmark/",
             "external_url": "https://www.reddit.com/r/macapps/comments/129joyn/arc_vs_safari_energy_usage_benchmark/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "DavidGamingHDR",
                     "url": "https://www.reddit.com/user/DavidGamingHDR"
-                }
-            ]
-        },
-        {
-            "id": "yh8156",
-            "url": "/r/macapps/comments/yh8156/fsnotes_v6_pro_notes_manager_for_macos/",
-            "external_url": "https://fsnot.es/fsnotes6-for-mac/",
-            "title": "FSNotes v6 - Pro notes manager for macOS",
-            "content_html": "<caption>Open: <a href='https://fsnot.es/fsnotes6-for-mac/'>fsnot.es</a> | <a href='https://reddit.com/r/macapps/comments/yh8156/fsnotes_v6_pro_notes_manager_for_macos/'>Reddit</a></caption>",
-            "date_published": "2022-10-30T07:38:09+00:00",
-            "authors": [
-                {
-                    "name": "flud3r",
-                    "url": "https://www.reddit.com/user/flud3r"
                 }
             ]
         }
