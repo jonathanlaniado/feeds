@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "12dy7hv",
+            "url": "/r/PleX/comments/12dy7hv/announcement_open_source_plex_api_documentation/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/12dy7hv/announcement_open_source_plex_api_documentation/",
+            "title": "Announcement | Open Source Plex API Documentation | Plex-Docs",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/12dy7hv/announcement_open_source_plex_api_documentation/'>Reddit</a></caption><div><br></div><div><p>Hey Everyone!</p>\n<p>&#x200B;</p>\n<p>I wanted to share something I've been working on to try and improve the Plex Developer Experience.</p>\n<p>Here is <a href=\"https://plex-docs.vercel.app\">Plex-Docs</a></p>\n<p>It is an <a href=\"https://github.com/LukeHagar/plex-docs\">open source docusaurus website</a> with API documentation generated from an <a href=\"https://github.com/LukeHagar/plex-api-spec\">OpenAPI Specification</a>.</p>\n<p>&#x200B;</p>\n<p>I'm very excited to share this with everyone, I hope someone finds this useful, and I will continue adding everything I can to improve the documentation further.</p>\n<p>An announcement detailing things further can be found <a href=\"https://plex-docs.vercel.app/blog/Announcment\">here</a>.</p>\n<p>A big thank you to Elan, the CTO at Plex for sharing <a href=\"https://plex-docs.vercel.app/docs/legacy\">some markdown files</a> that have given me a very solid starting point to begin writing the specification, and a pretty great picture of how some of the endpoints operate.</p>\n<p>&#x200B;</p>\n<p>Thanks everyone, be good people.</p></div>",
+            "date_published": "2023-04-06T21:13:06+00:00",
+            "authors": [
+                {
+                    "name": "LukeHagar",
+                    "url": "https://www.reddit.com/user/LukeHagar"
+                }
+            ]
+        },
+        {
             "id": "114rxfo",
             "url": "/r/PleX/comments/114rxfo/new_budget_server_setup/",
             "external_url": "https://i.redd.it/c5wcucx1otia1.jpg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "kz00",
                     "url": "https://www.reddit.com/user/kz00"
-                }
-            ]
-        },
-        {
-            "id": "slyhig",
-            "url": "/r/PleX/comments/slyhig/plex_seasonal_collection_doing_it_right_for/",
-            "external_url": "https://i.redd.it/qtyx05er78g81.jpg",
-            "title": "Plex Seasonal Collection doing it right for Valentines Day ...",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/qtyx05er78g81.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/PleX/comments/slyhig/plex_seasonal_collection_doing_it_right_for/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/slyhig/plex_seasonal_collection_doing_it_right_for/'>Apollo</a></caption>",
-            "date_published": "2022-02-06T14:52:28+00:00",
-            "authors": [
-                {
-                    "name": "greb1234",
-                    "url": "https://www.reddit.com/user/greb1234"
                 }
             ]
         }
