@@ -8,6 +8,20 @@
     "favicon": "https://b.thumbs.redditmedia.com/k7fHE51fuhbYJRT2e9s1rXIp2ZtA7ks-cNFvQuNbfcE.png",
     "items": [
         {
+            "id": "12gmwo6",
+            "url": "/r/InternetIsBeautiful/comments/12gmwo6/i_built_a_site_to_find_out_if_you_are_getting/",
+            "external_url": "https://knowyourworth.app/",
+            "title": "I built a site to find out if you are getting paid fairly comparing salaries and helping to reduce pay inequality",
+            "content_html": "<caption>Open: <a href='https://knowyourworth.app/'>knowyourworth.app</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/12gmwo6/i_built_a_site_to_find_out_if_you_are_getting/'>Reddit</a></caption>",
+            "date_published": "2023-04-09T15:44:24+00:00",
+            "authors": [
+                {
+                    "name": "ngranja19",
+                    "url": "https://www.reddit.com/user/ngranja19"
+                }
+            ]
+        },
+        {
             "id": "12bn8y3",
             "url": "/r/InternetIsBeautiful/comments/12bn8y3/i_made_a_site_that_mixes_live_air_traffic_control/",
             "external_url": "https://www.lofiatc.com/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "PizzaTucker",
                     "url": "https://www.reddit.com/user/PizzaTucker"
-                }
-            ]
-        },
-        {
-            "id": "vw6b96",
-            "url": "/r/InternetIsBeautiful/comments/vw6b96/cheatography_is_a_collection_of_5175_cheat_sheets/",
-            "external_url": "https://cheatography.com/",
-            "title": "Cheatography is a collection of 5175 cheat sheets and quick references in 25 languages for everything from business to linux!",
-            "content_html": "<caption>Open in: <a href='https://cheatography.com/'>cheatography.com</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/vw6b96/cheatography_is_a_collection_of_5175_cheat_sheets/'>Reddit</a> | <a href='apollo://reddit.com/r/InternetIsBeautiful/comments/vw6b96/cheatography_is_a_collection_of_5175_cheat_sheets/'>Apollo</a></caption>",
-            "date_published": "2022-07-11T01:20:32+00:00",
-            "authors": [
-                {
-                    "name": "ChaoticLogix",
-                    "url": "https://www.reddit.com/user/ChaoticLogix"
                 }
             ]
         }
