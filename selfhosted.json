@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "12hgi8s",
+            "url": "/r/selfhosted/comments/12hgi8s/turbopilot_a_selfhosted_copilot_clone_that_runs_a/",
+            "external_url": "https://github.com/ravenscroftj/turbopilot",
+            "title": "TurboPilot: A self-hosted Copilot clone that runs a code-completion LLM on your CPU",
+            "content_html": "<caption>Open: <a href='https://github.com/ravenscroftj/turbopilot'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/12hgi8s/turbopilot_a_selfhosted_copilot_clone_that_runs_a/'>Reddit</a></caption>",
+            "date_published": "2023-04-10T11:53:03+00:00",
+            "authors": [
+                {
+                    "name": "jamesravey_",
+                    "url": "https://www.reddit.com/user/jamesravey_"
+                }
+            ]
+        },
+        {
             "id": "12cz25l",
             "url": "/r/selfhosted/comments/12cz25l/what_would_you_build/",
             "external_url": "https://www.reddit.com/gallery/12cz25l",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "nashosted",
                     "url": "https://www.reddit.com/user/nashosted"
-                }
-            ]
-        },
-        {
-            "id": "wl2br4",
-            "url": "/r/selfhosted/comments/wl2br4/7_months_of_selfhosting_with_my_raspberrypi_more/",
-            "external_url": "https://i.redd.it/47eryezt0xg91.png",
-            "title": "7 Months of Self-Hosting with my RaspberryPi [More details in pinned comment]",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/47eryezt0xg91.png'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/wl2br4/7_months_of_selfhosting_with_my_raspberrypi_more/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/wl2br4/7_months_of_selfhosting_with_my_raspberrypi_more/'>Apollo</a></caption>",
-            "date_published": "2022-08-10T16:47:34+00:00",
-            "authors": [
-                {
-                    "name": "ECLIPSE_SUPREMASICT",
-                    "url": "https://www.reddit.com/user/ECLIPSE_SUPREMASICT"
                 }
             ]
         }
