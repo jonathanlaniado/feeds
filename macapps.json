@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "12ko4qt",
+            "url": "/r/macapps/comments/12ko4qt/quickgpt/",
+            "external_url": "https://sindresorhus.gumroad.com/l/quickgpt",
+            "title": "QuickGPT",
+            "content_html": "<caption>Open: <a href='https://sindresorhus.gumroad.com/l/quickgpt'>sindresorhus.gumroad.com</a> | <a href='https://reddit.com/r/macapps/comments/12ko4qt/quickgpt/'>Reddit</a></caption>",
+            "date_published": "2023-04-13T12:52:11+00:00",
+            "authors": [
+                {
+                    "name": "MichaelTheGeek",
+                    "url": "https://www.reddit.com/user/MichaelTheGeek"
+                }
+            ]
+        },
+        {
             "id": "12ixuzd",
             "url": "/r/macapps/comments/12ixuzd/the_only_way_to_use_tweetshot/",
             "external_url": "https://imgur.com/gallery/eRvqLAf",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Famous_Repeat3444",
                     "url": "https://www.reddit.com/user/Famous_Repeat3444"
-                }
-            ]
-        },
-        {
-            "id": "ylq5ug",
-            "url": "/r/macapps/comments/ylq5ug/apps_that_should_be_paid_but_are_not_part_2/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/ylq5ug/apps_that_should_be_paid_but_are_not_part_2/",
-            "title": "Apps that should be paid, but are not (Part 2)",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/ylq5ug/apps_that_should_be_paid_but_are_not_part_2/'>Reddit</a></caption><div><br></div><div><p>Below are apps that I found in the last few days and how I am using these.</p>\n<p><a href=\"https://sindresorhus.com/velja.html\">velja: Powerful browser picker  </a></p>\n<p><strong>How I use it:</strong> Open links in their specific apps. Open google meet links in Chrome, and Teams meeting in the Teams app.</p>\n<p><a href=\"https://sindresorhus.com/pandan\">pandan:  Time awareness in your menu bar </a></p>\n<p><strong>How I use it:</strong> take frequent breaks from screentime</p>\n<p><a href=\"https://github.com/leits/MeetingBar\">GitHub - leits/MeetingBar: \ud83c\uddfa\ud83c\udde6 Your next meeting always before your eyes in the macOS menu bar</a></p>\n<p><strong>How I use it:</strong> Very convenient to quickly join meetings, I combine this with <code>velja</code>, eg. open zoom meetings in the Zoom app, Open Google meetings in Chrome.</p>\n<p>\u200b\n<a href=\"https://github.com/espanso/espanso\">GitHub - espanso/espanso: Cross-platform Text Expander written in Rust</a></p>\n<p><strong>How I use it:</strong> My goto text snippets app. quickly create code snippets in simple YAML files</p>\n<p><a href=\"https://github.com/withfig/autocomplete\">GitHub - withfig/autocomplete: Fig adds autocomplete to your terminal.</a></p>\n<p><strong>How I use it:</strong> gives autocomplete popups in the terminal, makes CLI work easier</p>\n<p><a href=\"https://github.com/pqrs-org/Karabiner-Elements\">GitHub - pqrs-org/Karabiner-Elements: Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.</a></p>\n<p><strong>How I use it:</strong> Using this, I have turned <code>Tabs</code> key to a <code>hyper</code> key and I use this with <a href=\"https://rectangleapp.com/\">Rectangle</a> to have superfast window management.</p>\n<ul>\n<li>More resources on this - https://ke-complex-modifications.pqrs.org/</li>\n</ul>\n<hr />\n<p>Part 1 - <a href=\"https://www.reddit.com/r/macapps/comments/ycz1eb/apps_that_should_be_paid_but_are_not/?context=3\">Apps that should be paid, but are not</a></p></div>",
-            "date_published": "2022-11-04T05:47:07+00:00",
-            "authors": [
-                {
-                    "name": "rootedMind",
-                    "url": "https://www.reddit.com/user/rootedMind"
                 }
             ]
         }
