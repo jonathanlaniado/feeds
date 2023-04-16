@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "12myth3",
+            "url": "/r/selfhosted/comments/12myth3/chocolate_an_opensource_alternative_to_plex/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/12myth3/chocolate_an_opensource_alternative_to_plex/",
+            "title": "Chocolate, an opensource alternative to Plex",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/12myth3/chocolate_an_opensource_alternative_to_plex/'>Reddit</a></caption><div><br></div><div><p>Hi r/selfhosted,</p>\n<p>I am excited to introduce you to Chocolate, an open-source media server that provides an alternative to Plex. Written in Python and React, Chocolate supports a variety of media types, including movies, TV shows, books, retro games, TV channels, and other videos.</p>\n<p>As the creator of Chocolate, I am passionate about providing a high-quality, customizable media server that can be self-hosted by anyone. With Chocolate, you have complete control over your media and can easily access it from anywhere.</p>\n<p>So if you're looking for a reliable and flexible media server, give Chocolate a try. It's free to use and easy to set up, and we think you'll love it as much as we do! Here's the link: <a href=\"https://github.com/ChocolateApp\">https://github.com/ChocolateApp</a></p></div>",
+            "date_published": "2023-04-15T11:11:59+00:00",
+            "authors": [
+                {
+                    "name": "Impre-visible",
+                    "url": "https://www.reddit.com/user/Impre-visible"
+                }
+            ]
+        },
+        {
             "id": "12l0r6p",
             "url": "/r/selfhosted/comments/12l0r6p/with_the_web_archive_at_risk_of_being_shut_down/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/12l0r6p/with_the_web_archive_at_risk_of_being_shut_down/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "jmtamere",
                     "url": "https://www.reddit.com/user/jmtamere"
-                }
-            ]
-        },
-        {
-            "id": "wnozz1",
-            "url": "/r/selfhosted/comments/wnozz1/immich_is_fucking_awesome_and_everyone_needs_to/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/wnozz1/immich_is_fucking_awesome_and_everyone_needs_to/",
-            "title": "Immich is fucking awesome and everyone needs to know it.",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/wnozz1/immich_is_fucking_awesome_and_everyone_needs_to/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/wnozz1/immich_is_fucking_awesome_and_everyone_needs_to/'>Apollo</a></caption> <div><p>Do you want a Google Photos alternative? Well... too bad, but my dude, I just threw 400 images with 7 6gb video files at this thing and it didn't flinch...and it is all from the app store to the play store to docker... with the small exception of docker, 99.999% FOSS.</p>\n<p>No setting up a webdav, no random paid app bullshit. All free, all fast, clean and reliable. Yes, we see you in the back in the Apple shirt, even on iPhone.</p>\n<p>The UI is simple, clean, fast, straightforward but has the data you need.</p>\n<p>But the play store says 100 downloads. For this app to have only 100+ downloads is a crime. Photoprism might be closer to a full featured gallery but this is a reliable, utilitarian backup app for photos. The Syncthing of photos, if I may be so bold.</p>\n<p>So yeah, name-dropping Immich. It's great. 10/10.</p></div>",
-            "date_published": "2022-08-13T21:22:37+00:00",
-            "authors": [
-                {
-                    "name": "FartsMusically",
-                    "url": "https://www.reddit.com/user/FartsMusically"
                 }
             ]
         }
