@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "12romcd",
+            "url": "/r/macapps/comments/12romcd/neardrop_airdrop_photos_from_android_phone_to_mac/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/12romcd/neardrop_airdrop_photos_from_android_phone_to_mac/",
+            "title": "NearDrop: Airdrop photos from Android phone to Mac!",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/12romcd/neardrop_airdrop_photos_from_android_phone_to_mac/'>Reddit</a></caption><div><br></div><div><p>I am switching to a Samsung phone from iPhone, and I just discovered this app for photo sharing:</p>\n<p>NearDrop: install on Mac, and you can simply \"nearby share\" (Google version of AirDrop) photos from the phone to the Mac! It is very simple, fast and works! Now I am looking for an app that do the reverse.</p>\n<p><a href=\"https://github.com/grishka/NearDrop\">https://github.com/grishka/NearDrop</a></p></div>",
+            "date_published": "2023-04-19T10:29:24+00:00",
+            "authors": [
+                {
+                    "name": "virtualgs",
+                    "url": "https://www.reddit.com/user/virtualgs"
+                }
+            ]
+        },
+        {
             "id": "12pjqay",
             "url": "/r/macapps/comments/12pjqay/wip_arc_browserinspired_macos_navigation_app/",
             "external_url": "https://www.reddit.com/gallery/12pjn6v",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Lekowski",
                     "url": "https://www.reddit.com/user/Lekowski"
-                }
-            ]
-        },
-        {
-            "id": "ys9xwc",
-            "url": "/r/macapps/comments/ys9xwc/todays_schedule_in_your_menu_bar/",
-            "external_url": "https://apps.apple.com/app/id6443714928",
-            "title": "Today\u2019s schedule in your menu bar",
-            "content_html": "<caption>Open: <a href='https://apps.apple.com/app/id6443714928'>apps.apple.com</a> | <a href='https://reddit.com/r/macapps/comments/ys9xwc/todays_schedule_in_your_menu_bar/'>Reddit</a></caption>",
-            "date_published": "2022-11-11T13:05:51+00:00",
-            "authors": [
-                {
-                    "name": "sindresorhus",
-                    "url": "https://www.reddit.com/user/sindresorhus"
                 }
             ]
         }
