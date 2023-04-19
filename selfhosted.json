@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "12qx6yy",
+            "url": "/r/selfhosted/comments/12qx6yy/tailscale_increased_free_plan_user_limit_form_1/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/12qx6yy/tailscale_increased_free_plan_user_limit_form_1/",
+            "title": "Tailscale increased free plan user limit form 1 to 3 and device cap to 100 also... unlimited subnets",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/12qx6yy/tailscale_increased_free_plan_user_limit_form_1/'>Reddit</a></caption><div><br></div><div><p>Tailscale is mesh network like a VPN that allows you to access your infrastructure. </p>\n<p>Fundamentals are simple: they install a virtual internet adapter on your client and add additional IP per device they do much more like you can configure one of the nodes to act as standard VPN node (exit node) but that is the basics.</p>\n<p><strong>What's new?</strong></p>\n<p>They updated the pricing aka free plan got more than one user (3*) and device cap got increased to 100.</p>\n<p>* 3 users are available with your custom domain?</p>\n<blockquote>\n<p>For historical architectural reasons you cannot currently have more than one user on a \u201cpersonal\u201d tailnet (such as a gmail.com account). You need either your own domain or a <a href=\"https://tailscale.com/kb/1154/free-plans-discounts/\">GitHub Organization</a>. Sorry. We will fix this, but not today. Meanwhile, don\u2019t forget that you can use <a href=\"https://tailscale.com/kb/1084/sharing/\">Node Sharing</a> to share devices (including <a href=\"https://tailscale.com/kb/1103/exit-nodes/\">Exit Nodes</a>) across individual tailnets. </p>\n</blockquote>\n<p>Has anybody tested this? Do I need to create a new account?  Can I migrate existing one with all the nodes? This sounds nice but is confusing.</p>\n<p>100 nodes. THAT is big one. I was using tailscale to do monitoring and because I had to be aconomical about my nodes I had to run tailscale containers in host mode. This change allows me to isolate them and let one TS docker container be accusable only  Prometheus or Influx DB and exporters. This is good for security and avoiding networking conflicts.</p>\n<p>No more subnet route limit. This one is a little bit more advanced but this is the one I am really exited about. Basically if you have a router that has tailscale installed and give that node an option to assign private IPs form that subnet... you will be able to access your router internal IPs just like you were at home. Very handy. </p>\n<p>All of this is awesome and I appreciate their transparency... though the post is TL;DR... still it's nice.</p>\n<p><a href=\"https://tailscale.com/blog/pricing-v3/\">https://tailscale.com/blog/pricing-v3/</a></p>\n<p><strong>What about others?</strong></p>\n<p>Their closest alt is <a href=\"https://www.zerotier.com/\">https://www.zerotier.com/</a> with 25 nodes 1 user and unlimited subnets... I think... have not ran into a limit. They were ahead on what they allow before this change. <br />\nZT has one more problem... or had... stability. Using them I experienced that some (especially mobile) clients were crashing out after long term operation. There was a recent update that seamed to fix it.</p>\n<p>However Zerotier has 2 major advantages for selfhosting or why I prefer it (this is subjective understanding from reading docs and limited testing): <br />\na) P2P. There is no need for central node... ish... As long as network topology does not change there is no need to contact to routing server. <br />\nb) If your headscale server (tailscale self-hostable ) goes down your network goes down. With ZT you get get global routing servers as backups Also clients work flawlessly with selfhosted ZT. For example for Windows you need to edit registries to use headsclae server .</p></div>",
+            "date_published": "2023-04-18T17:22:41+00:00",
+            "authors": [
+                {
+                    "name": "PovilasID",
+                    "url": "https://www.reddit.com/user/PovilasID"
+                }
+            ]
+        },
+        {
             "id": "12myth3",
             "url": "/r/selfhosted/comments/12myth3/chocolate_an_opensource_alternative_to_plex/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/12myth3/chocolate_an_opensource_alternative_to_plex/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "AlfredoOf98",
                     "url": "https://www.reddit.com/user/AlfredoOf98"
-                }
-            ]
-        },
-        {
-            "id": "wp0uy5",
-            "url": "/r/selfhosted/comments/wp0uy5/tailscale_changes_its_android_app_to_support_the/",
-            "external_url": "https://github.com/tailscale/tailscale-android/pull/45",
-            "title": "Tailscale changes its Android app to support the open source Headscale server",
-            "content_html": "<caption>Open in: <a href='https://github.com/tailscale/tailscale-android/pull/45'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/wp0uy5/tailscale_changes_its_android_app_to_support_the/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/wp0uy5/tailscale_changes_its_android_app_to_support_the/'>Apollo</a></caption>",
-            "date_published": "2022-08-15T14:18:44+00:00",
-            "authors": [
-                {
-                    "name": "jmtamere",
-                    "url": "https://www.reddit.com/user/jmtamere"
                 }
             ]
         }
