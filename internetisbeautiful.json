@@ -8,6 +8,20 @@
     "favicon": "https://b.thumbs.redditmedia.com/k7fHE51fuhbYJRT2e9s1rXIp2ZtA7ks-cNFvQuNbfcE.png",
     "items": [
         {
+            "id": "12rvku5",
+            "url": "/r/InternetIsBeautiful/comments/12rvku5/i_made_a_website_that_lets_you_take_a_trip_to/",
+            "external_url": "https://neal.fun/space-elevator/",
+            "title": "I made a website that lets you take a trip to space in a space elevator",
+            "content_html": "<caption>Open: <a href='https://neal.fun/space-elevator/'>neal.fun</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/12rvku5/i_made_a_website_that_lets_you_take_a_trip_to/'>Reddit</a></caption>",
+            "date_published": "2023-04-19T14:44:16+00:00",
+            "authors": [
+                {
+                    "name": "OrangePrototype",
+                    "url": "https://www.reddit.com/user/OrangePrototype"
+                }
+            ]
+        },
+        {
             "id": "12ikabn",
             "url": "/r/InternetIsBeautiful/comments/12ikabn/an_aipowered_mealplanning_tool_that_makes_recipes/",
             "external_url": "https://www.inflationcookbook.com/en/onboarding",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "map-fi",
                     "url": "https://www.reddit.com/user/map-fi"
-                }
-            ]
-        },
-        {
-            "id": "w2wdro",
-            "url": "/r/InternetIsBeautiful/comments/w2wdro/free_ai_bot_that_gives_you_the_excel_formula/",
-            "external_url": "http://www.excelformulabot.com",
-            "title": "Free AI bot that gives you the Excel formula based on a given prompt/sentence",
-            "content_html": "<caption>Open in: <a href='http://www.excelformulabot.com'>www.excelformulabot.com</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/w2wdro/free_ai_bot_that_gives_you_the_excel_formula/'>Reddit</a> | <a href='apollo://reddit.com/r/InternetIsBeautiful/comments/w2wdro/free_ai_bot_that_gives_you_the_excel_formula/'>Apollo</a></caption>",
-            "date_published": "2022-07-19T16:07:15+00:00",
-            "authors": [
-                {
-                    "name": "dabressler",
-                    "url": "https://www.reddit.com/user/dabressler"
                 }
             ]
         }
