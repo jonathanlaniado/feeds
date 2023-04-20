@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "12rvfcq",
+            "url": "/r/selfhosted/comments/12rvfcq/with_the_announcement_that_reddit_will_begin_to/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/12rvfcq/with_the_announcement_that_reddit_will_begin_to/",
+            "title": "With the announcement that Reddit will begin to charge for API access; I would like to inform everyone that Lemmy is surprising good and easy to spin up quickly.",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/12rvfcq/with_the_announcement_that_reddit_will_begin_to/'>Reddit</a></caption><div><br></div><div><p><a href=\"https://techcrunch.com/2023/04/18/reddit-will-begin-charging-for-access-to-its-api/\">Sauce</a>. With this announcement, it's unclear how it will affect 3rd party apps, but for me, infinity for Reddit and similar 3rd party apps are what made Reddit usable. </p>\n<p>Lemmy, on the other hand is pretty light on features. But it's working. I spun up my own instance, and I followed a few channels from a few different servers. There are only 2 apps, and 1 I couldn't get working. </p>\n<p>I'm using this opportunity to learn a little about the fediverse. Lemmy may not be the best, but it's the most like Reddit, which is what I'm comfortable with. </p>\n<p>Like to Ansible, if you want to host your own. \nhttps://github.com/LemmyNet/lemmy-ansible</p></div>",
+            "date_published": "2023-04-19T14:39:17+00:00",
+            "authors": [
+                {
+                    "name": "Bill_Buttersr",
+                    "url": "https://www.reddit.com/user/Bill_Buttersr"
+                }
+            ]
+        },
+        {
             "id": "12qx6yy",
             "url": "/r/selfhosted/comments/12qx6yy/tailscale_increased_free_plan_user_limit_form_1/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/12qx6yy/tailscale_increased_free_plan_user_limit_form_1/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Hecbert4258",
                     "url": "https://www.reddit.com/user/Hecbert4258"
-                }
-            ]
-        },
-        {
-            "id": "wpt0y7",
-            "url": "/r/selfhosted/comments/wpt0y7/is_my_server_trying_to_communicate_something_to_me/",
-            "external_url": "https://i.redd.it/nonky66vi2i91.png",
-            "title": "Is my server trying to communicate something to me?",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/nonky66vi2i91.png'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/wpt0y7/is_my_server_trying_to_communicate_something_to_me/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/wpt0y7/is_my_server_trying_to_communicate_something_to_me/'>Apollo</a></caption>",
-            "date_published": "2022-08-16T12:26:40+00:00",
-            "authors": [
-                {
-                    "name": "AlfredoOf98",
-                    "url": "https://www.reddit.com/user/AlfredoOf98"
                 }
             ]
         }
