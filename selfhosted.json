@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "12w4p2f",
+            "url": "/r/selfhosted/comments/12w4p2f/localai_openai_compatible_api_to_run_llm_models/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/12w4p2f/localai_openai_compatible_api_to_run_llm_models/",
+            "title": "LocalAI: OpenAI compatible API to run LLM models locally on consumer grade hardware!",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/12w4p2f/localai_openai_compatible_api_to_run_llm_models/'>Reddit</a></caption><div><br></div><div><p>\ud83d\ude80 LocalAI is taking off! \ud83d\ude80   </p>\n<p>We just hit 330 stars on GitHub and we\u2019re not stopping there! \ud83c\udf1f   </p>\n<p>LocalAI is the OpenAI compatible API that lets you run AI models locally on your own CPU! \ud83d\udcbb Data never leaves your machine! No need for expensive cloud services or GPUs, LocalAI uses llama.cpp and ggml to power your AI projects! \ud83e\udd99  </p>\n<p>LocalAI supports multiple models backends (such as Alpaca, Cerebras, GPT4ALL-J and StableLM) and works seamlessly with OpenAI API. \ud83e\udde0 Join the LocalAI community today and unleash your creativity! \ud83d\ude4c  </p>\n<p>GitHub: <a href=\"https://github.com/go-skynet/LocalAI\">https://github.com/go-skynet/LocalAI</a>  </p>\n<p>We are also on discord!  Feel free to join our growing community!</p>\n<p><a href=\"https://discord.gg/uJAeKSAGDy\">https://discord.gg/uJAeKSAGDy</a></p></div>",
+            "date_published": "2023-04-23T10:55:48+00:00",
+            "authors": [
+                {
+                    "name": "mudler_it",
+                    "url": "https://www.reddit.com/user/mudler_it"
+                }
+            ]
+        },
+        {
             "id": "12tl7xi",
             "url": "/r/selfhosted/comments/12tl7xi/forte_is_now_federated/",
             "external_url": "https://i.redd.it/l0giwahty4va1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Italiandogs",
                     "url": "https://www.reddit.com/user/Italiandogs"
-                }
-            ]
-        },
-        {
-            "id": "wqxsk3",
-            "url": "/r/selfhosted/comments/wqxsk3/anyone_using_homarr_check_it_out_its_pretty_fancy/",
-            "external_url": "https://i.redd.it/xu5428y5sbi91.png",
-            "title": "Anyone using homarr? check it out, its pretty fancy...",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/xu5428y5sbi91.png'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/wqxsk3/anyone_using_homarr_check_it_out_its_pretty_fancy/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/wqxsk3/anyone_using_homarr_check_it_out_its_pretty_fancy/'>Apollo</a></caption>",
-            "date_published": "2022-08-17T19:29:45+00:00",
-            "authors": [
-                {
-                    "name": "uncmnsense",
-                    "url": "https://www.reddit.com/user/uncmnsense"
                 }
             ]
         }
