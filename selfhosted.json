@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "12wl9lp",
+            "url": "/r/selfhosted/comments/12wl9lp/jellyfin_critical_remote_code_execution/",
+            "external_url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.8.10",
+            "title": "Jellyfin: Critical remote code execution vulnerability in versions before 10.8.10",
+            "content_html": "<caption>Open: <a href='https://github.com/jellyfin/jellyfin/releases/tag/v10.8.10'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/12wl9lp/jellyfin_critical_remote_code_execution/'>Reddit</a></caption>",
+            "date_published": "2023-04-23T18:33:03+00:00",
+            "authors": [
+                {
+                    "name": "londonE442",
+                    "url": "https://www.reddit.com/user/londonE442"
+                }
+            ]
+        },
+        {
             "id": "12w4p2f",
             "url": "/r/selfhosted/comments/12w4p2f/localai_openai_compatible_api_to_run_llm_models/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/12w4p2f/localai_openai_compatible_api_to_run_llm_models/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "darkshifty",
                     "url": "https://www.reddit.com/user/darkshifty"
-                }
-            ]
-        },
-        {
-            "id": "wr6u06",
-            "url": "/r/selfhosted/comments/wr6u06/instead_of_me_carrying_a_flash_drive_with_all_my/",
-            "external_url": "https://i.redd.it/dayqofxcpdi91.png",
-            "title": "Instead of me carrying a flash drive with all my IT support tools on it, I made a simple site hosting everything I need",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/dayqofxcpdi91.png'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/wr6u06/instead_of_me_carrying_a_flash_drive_with_all_my/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/wr6u06/instead_of_me_carrying_a_flash_drive_with_all_my/'>Apollo</a></caption>",
-            "date_published": "2022-08-18T01:58:44+00:00",
-            "authors": [
-                {
-                    "name": "Italiandogs",
-                    "url": "https://www.reddit.com/user/Italiandogs"
                 }
             ]
         }
