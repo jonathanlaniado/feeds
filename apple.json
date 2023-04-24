@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "12wyo2j",
+            "url": "/r/apple/comments/12wyo2j/apple_to_allow_sideloading_but_only_in_europe/",
+            "external_url": "https://twitter.com/theapplehub/status/1649604903923511297?s=46&t=LvtxNrsJQS605dxubB9zbw",
+            "title": "Apple to allow sideloading, but only in Europe",
+            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/apple/comments/12wyo2j/apple_to_allow_sideloading_but_only_in_europe/\">Reddit</a></caption><div><br></div><blockquote class=\"twitter-tweet\" align=\"center\"><p lang=\"en\" dir=\"ltr\">iOS 17 will reportedly feature improvements to the Wallet app, new Find My features, and sideloading to be limited to Europe only<br><br>Source: <a href=\"https://twitter.com/markgurman?ref_src=twsrc%5Etfw\">@markgurman</a> <a href=\"https://t.co/pttRAtVOgz\">pic.twitter.com/pttRAtVOgz</a></p>&mdash; Apple Hub (@theapplehub) <a href=\"https://twitter.com/theapplehub/status/1649604903923511297?ref_src=twsrc%5Etfw\">April 22, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+            "date_published": "2023-04-24T01:50:25+00:00",
+            "authors": [
+                {
+                    "name": "vivajeffvegas",
+                    "url": "https://www.reddit.com/user/vivajeffvegas"
+                }
+            ]
+        },
+        {
             "id": "12twyot",
             "url": "/r/apple/comments/12twyot/wsj_apple_to_release_iphone_journaling_app_for/",
             "external_url": "https://www.macrumors.com/2023/04/21/apple-launching-journaling-app/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Jimbuub",
                     "url": "https://www.reddit.com/user/Jimbuub"
-                }
-            ]
-        },
-        {
-            "id": "zlvx6o",
-            "url": "/r/apple/comments/zlvx6o/apple_considering_dropping_requirement_for_iphone/",
-            "external_url": "https://www.macrumors.com/2022/12/14/apple-considering-non-webkit-iphone-browsers/",
-            "title": "Apple Considering Dropping Requirement for iPhone and iPad Web Browsers to Use Safari's WebKit Engine",
-            "content_html": "<caption>Open: <a href='https://www.macrumors.com/2022/12/14/apple-considering-non-webkit-iphone-browsers/'>www.macrumors.com</a> | <a href='https://reddit.com/r/apple/comments/zlvx6o/apple_considering_dropping_requirement_for_iphone/'>Reddit</a></caption>",
-            "date_published": "2022-12-14T16:50:06+00:00",
-            "authors": [
-                {
-                    "name": "Avieshek",
-                    "url": "https://www.reddit.com/user/Avieshek"
                 }
             ]
         }
