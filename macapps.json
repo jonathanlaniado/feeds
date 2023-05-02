@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "135isnu",
+            "url": "/r/macapps/comments/135isnu/a_definitive_browser_comparison/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/135isnu/a_definitive_browser_comparison/",
+            "title": "A Definitive Browser Comparison",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/135isnu/a_definitive_browser_comparison/'>Reddit</a></caption><div><br></div><div><p>There has been a lot of interest in newer browsers lately, but it's hard to differentiate how exactly they stack up against each other. To solve this, I've set up a crowdsourced comparison sheet that this community can contribute to and benefit from.</p>\n<p>View the crowdsourced feature comparison spreadsheet here: <a href=\"https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M/edit#gid=531518438\">Link</a></p>\n<p><strong>To contribute information and corrections:</strong> &gt;!Right click a cell&gt;add a comment!&lt;</p>\n<p>Comment in a new column for additional/new browsers.</p>\n<p>Previous Comparisons: <a href=\"https://www.reddit.com/r/macapps/comments/r0uplf/a_definitive_pdf_reader_comparison/\">PDF readers</a> | <a href=\"https://www.reddit.com/r/macapps/comments/x49fwh/a_definitive_email_client_comparison/\">Email clients</a> | <a href=\"https://www.reddit.com/r/macapps/comments/zj0hri/a_definitive_calendar_app_comparison/\">Calendar apps</a> | <a href=\"https://www.reddit.com/r/macapps/comments/zvn6vv/a_definitive_password_manager_comparison/\">Password Managers</a></p>\n<p>As usual, let me know if something is missing, incorrect, or needs to be added! Post what browser manager app you use below so more people can participate. What comparison would you like to see next?</p></div>",
+            "date_published": "2023-05-02T11:49:14+00:00",
+            "authors": [
+                {
+                    "name": "Mstormer",
+                    "url": "https://www.reddit.com/user/Mstormer"
+                }
+            ]
+        },
+        {
             "id": "132t9g4",
             "url": "/r/macapps/comments/132t9g4/what_are_your_favorite_open_source_apps/",
             "external_url": "https://www.reddit.com/r/macapps/comments/132t9g4/what_are_your_favorite_open_source_apps/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "rootedMind",
                     "url": "https://www.reddit.com/user/rootedMind"
-                }
-            ]
-        },
-        {
-            "id": "yyhn4f",
-            "url": "/r/macapps/comments/yyhn4f/app_for_a_better_meeting_experience/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/yyhn4f/app_for_a_better_meeting_experience/",
-            "title": "App for a better meeting experience",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/yyhn4f/app_for_a_better_meeting_experience/'>Reddit</a></caption><div><br></div><div><p>Hi r/macapps \ud83d\udc4b</p>\n<p>I created this application two years ago and since then I have constantly improved it with the open-source community's help. If you're still joining appointments from your calendar, give this a try!</p>\n<p>https://preview.redd.it/zza5jix91p0a1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=9ce4cdcadf946f1913d0062610aa19d46d5f7cc7</p>\n<p>GitHub: <a href=\"https://github.com/leits/MeetingBar\">https://github.com/leits/MeetingBar</a></p>\n<p>Site: <a href=\"https://meetingbar.leits.me/\">https://meetingbar.leits.me</a></p>\n<p>AppStore: <a href=\"https://apps.apple.com/app/id1532419400\">https://apps.apple.com/app/id1532419400</a></p>\n<p>Homebrew: brew install --cask meetingbar</p>\n<p>&#x200B;</p>\n<p>I look forward to your feedback. If you like it, please share it with your friends and colleagues \ud83d\ude0a</p></div>",
-            "date_published": "2022-11-18T11:17:19+00:00",
-            "authors": [
-                {
-                    "name": "leits9",
-                    "url": "https://www.reddit.com/user/leits9"
                 }
             ]
         }
