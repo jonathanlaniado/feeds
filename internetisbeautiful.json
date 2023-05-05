@@ -8,6 +8,20 @@
     "favicon": "https://b.thumbs.redditmedia.com/k7fHE51fuhbYJRT2e9s1rXIp2ZtA7ks-cNFvQuNbfcE.png",
     "items": [
         {
+            "id": "137w6gb",
+            "url": "/r/InternetIsBeautiful/comments/137w6gb/wibyorg_is_a_searchengine_which_only_indexes/",
+            "external_url": "http://www.wiby.org",
+            "title": "wiby.org is a searchengine which only indexes sites WITHOUT Javascript. The \"surprise me\" button is A TRIP to back when the internet was weird, unmonetized and for hobbyists.",
+            "content_html": "<caption>Open: <a href='http://www.wiby.org'>www.wiby.org</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/137w6gb/wibyorg_is_a_searchengine_which_only_indexes/'>Reddit</a></caption>",
+            "date_published": "2023-05-04T18:48:20+00:00",
+            "authors": [
+                {
+                    "name": "RoundScientist",
+                    "url": "https://www.reddit.com/user/RoundScientist"
+                }
+            ]
+        },
+        {
             "id": "12szqj0",
             "url": "/r/InternetIsBeautiful/comments/12szqj0/a_website_where_you_can_see_what_the_view_from/",
             "external_url": "https://aviewfrommyseat.com/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Curiositry",
                     "url": "https://www.reddit.com/user/Curiositry"
-                }
-            ]
-        },
-        {
-            "id": "w8kejc",
-            "url": "/r/InternetIsBeautiful/comments/w8kejc/a_huge_list_of_alternative_puzzles_like_wordle/",
-            "external_url": "https://likewordle.com",
-            "title": "A huge list of alternative puzzles like Wordle.",
-            "content_html": "<caption>Open in: <a href='https://likewordle.com'>likewordle.com</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/w8kejc/a_huge_list_of_alternative_puzzles_like_wordle/'>Reddit</a> | <a href='apollo://reddit.com/r/InternetIsBeautiful/comments/w8kejc/a_huge_list_of_alternative_puzzles_like_wordle/'>Apollo</a></caption>",
-            "date_published": "2022-07-26T13:54:18+00:00",
-            "authors": [
-                {
-                    "name": "L8Figure",
-                    "url": "https://www.reddit.com/user/L8Figure"
                 }
             ]
         }
