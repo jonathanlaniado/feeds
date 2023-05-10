@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "13do4n8",
+            "url": "/r/macapps/comments/13do4n8/major_considerations_in_the_raycast_vs_alfred/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/13do4n8/major_considerations_in_the_raycast_vs_alfred/",
+            "title": "Major Considerations in the Raycast vs. Alfred \"Which is better?\" Debate",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/13do4n8/major_considerations_in_the_raycast_vs_alfred/'>Reddit</a></caption><div><br></div><div><p>There are a lot of fans of both apps here, and I'm no exception. I've been an Alfred user for years. However, for the sake of fairness, curiosity, and always searching for something better and more efficient, I decided to install Raycast and compare since anyone who has been on r/macapps for a while may know that that's <a href=\"https://www.reddit.com/r/macapps/comments/13c1c7m/master_list_of_definitive_app_comparisons_view/\">a hobby</a>. </p>\n<p>Here are some considerations to keep in mind: </p>\n<p><strong>Your Privacy in Their</strong> <strong>Privacy Policies.</strong><br />\n<a href=\"https://www.alfredapp.com/terms/\"><strong>Alfred</strong></a> - Privacy-conscious. <em>Alfred is the product.</em></p>\n<blockquote>\n<p>Alfred only contacts our server when activating your Powerpack license  in order to validate it, as well as periodically checking for new  software updates.</p>\n</blockquote>\n<p><a href=\"https://www.raycast.com/privacy\"><strong>Raycast</strong></a> - <em>You are the product.</em></p>\n<blockquote>\n<p>We use Personal Data for the following purposes...<br />\nTo analyze how you interact with our Service...<br />\nTo maintain and improve the content and functionality of the Service...<br />\nTo develop new products and services...<br />\nTo tell you about products or services we believe may be of interest to you... <br />\nReason: For our legitimate interests or those of a third party, i.e. to promote our business to you...</p>\n</blockquote>\n<p><strong>Efficiency Considerations.</strong><br />\nAccording to my usage history, I trigger Alfred about 42 times daily, or 15,330 times yearly.</p>\n<p>In Raycast, every search is stalled behind a menu that needs to be triggered unless you configure an additional shortcut for each feature. </p>\n<ul>\n<li>Want to search for a file? Gotta select the option first and hit enter to begin searching.</li>\n<li>Want to perform an action on the file? Yet another shortcut (CMD+K).</li>\n<li>Want to trigger any other feature? You guessed it, another shortcut or menu to trigger first.</li>\n</ul>\n<p>That's an additional 2\u20135 seconds <em>every single search</em> or 8.5\u201321 <em>HOURS</em> a year for something Alfred can do immediately on the first trigger. Am I missing something here? </p>\n<p><strong>Appearance.</strong> <br />\nThe Raycast preferences and user interface is the clear winner in terms of eyecandy, no arguments to be had. Alfred could learn from this, though Alfred has more granular customizable preferences. </p>\n<p><strong>Complexity.</strong><br />\nBecause Raycast has a cleaner design, it can be easier to find what you're looking for if you're not a power user. </p>\n<p><strong>Feature offerings.</strong><br />\nThis is basically a tie for the most common features\u2014E.g., web/file searches, clipboard history, calculator, notes, links, etc.<br />\nThe recent AI integration with Raycast is the major distinction ($10/month or $96/yr <a href=\"https://www.raycast.com/pricing\">subscription</a>). <br />\nOne can also use the API from OpenAI with an Alfred workflow with Powerpack ($42 <a href=\"https://www.alfredapp.com/shop/\">license</a>). </p>\n<p>Ultimately, we all have to consider and decide what we care about most. <br />\nWhat unique features, considerations, or tips have I missed that stand out for why you prefer one over the other?</p></div>",
+            "date_published": "2023-05-10T11:44:21+00:00",
+            "authors": [
+                {
+                    "name": "Mstormer",
+                    "url": "https://www.reddit.com/user/Mstormer"
+                }
+            ]
+        },
+        {
             "id": "13dje6y",
             "url": "/r/macapps/comments/13dje6y/raycast_pro_is_now_available/",
             "external_url": "https://www.reddit.com/r/macapps/comments/13dje6y/raycast_pro_is_now_available/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "misiek_to_ja",
                     "url": "https://www.reddit.com/user/misiek_to_ja"
-                }
-            ]
-        },
-        {
-            "id": "z3w6h5",
-            "url": "/r/macapps/comments/z3w6h5/backstory_wallpapers_is_free/",
-            "external_url": "https://apps.apple.com/app/backstory-wallpapers/id1468700458?src=AppAgg.com&mt=12",
-            "title": "BackStory Wallpapers is free.",
-            "content_html": "<caption>Open: <a href='https://apps.apple.com/app/backstory-wallpapers/id1468700458?src=AppAgg.com&mt=12'>apps.apple.com</a> | <a href='https://reddit.com/r/macapps/comments/z3w6h5/backstory_wallpapers_is_free/'>Reddit</a></caption>",
-            "date_published": "2022-11-24T22:15:12+00:00",
-            "authors": [
-                {
-                    "name": "MichaelTheGeek",
-                    "url": "https://www.reddit.com/user/MichaelTheGeek"
                 }
             ]
         }
