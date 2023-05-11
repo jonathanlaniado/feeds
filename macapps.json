@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "13eipp0",
+            "url": "/r/macapps/comments/13eipp0/manage_open_ports_from_your_menu_bar_not_powered/",
+            "external_url": "https://openports.app",
+            "title": "Manage open ports from your menu bar. Not powered by AI.",
+            "content_html": "<caption>Open: <a href='https://openports.app'>openports.app</a> | <a href='https://reddit.com/r/macapps/comments/13eipp0/manage_open_ports_from_your_menu_bar_not_powered/'>Reddit</a></caption>",
+            "date_published": "2023-05-11T10:00:04+00:00",
+            "authors": [
+                {
+                    "name": "thegoenning",
+                    "url": "https://www.reddit.com/user/thegoenning"
+                }
+            ]
+        },
+        {
             "id": "13do4n8",
             "url": "/r/macapps/comments/13do4n8/major_considerations_in_the_raycast_vs_alfred/",
             "external_url": "https://www.reddit.com/r/macapps/comments/13do4n8/major_considerations_in_the_raycast_vs_alfred/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "appsforless",
                     "url": "https://www.reddit.com/user/appsforless"
-                }
-            ]
-        },
-        {
-            "id": "z4fyxm",
-            "url": "/r/macapps/comments/z4fyxm/community_driven_list_of_black_friday_and_cyber/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/z4fyxm/community_driven_list_of_black_friday_and_cyber/",
-            "title": "Community driven list of Black Friday and Cyber Monday deals for Mac/iPhone/iPad",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/z4fyxm/community_driven_list_of_black_friday_and_cyber/'>Reddit</a></caption><div><br></div><div><p>Hi there,</p>\n<p>As every year we are adding Black Friday and Cyber Monday deals to this page: <a href=\"https://github.com/mRs-/Black-Friday-Deals\">https://github.com/mRs-/Black-Friday-Deals</a></p>\n<p>If you know about any nice deals, I encourage you to add it as PR. Let's make it the ultimate deals list ;-)</p></div>",
-            "date_published": "2022-11-25T15:23:40+00:00",
-            "authors": [
-                {
-                    "name": "misiek_to_ja",
-                    "url": "https://www.reddit.com/user/misiek_to_ja"
                 }
             ]
         }
