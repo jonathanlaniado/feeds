@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "13fk8ar",
+            "url": "/r/macapps/comments/13fk8ar/gigabrain/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/13fk8ar/gigabrain/",
+            "title": "GigaBrain",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/13fk8ar/gigabrain/'>Reddit</a></caption><div><br></div><div><p>If you want to know if your specific question about apps for your Mac has been asked before on Reddit: <a href=\"https://thegigabrain.com/\">https://thegigabrain.com/</a></p>\n<p>Okay, maybe it's just Google without the hassle of having to include \u2018site:Reddit.com\u2019  :)</p></div>",
+            "date_published": "2023-05-12T12:48:46+00:00",
+            "authors": [
+                {
+                    "name": "luuk64",
+                    "url": "https://www.reddit.com/user/luuk64"
+                }
+            ]
+        },
+        {
             "id": "13eipp0",
             "url": "/r/macapps/comments/13eipp0/manage_open_ports_from_your_menu_bar_not_powered/",
             "external_url": "https://openports.app",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "crypto_ruined_me",
                     "url": "https://www.reddit.com/user/crypto_ruined_me"
-                }
-            ]
-        },
-        {
-            "id": "z4glda",
-            "url": "/r/macapps/comments/z4glda/black_friday_2022_little_snitch_5_at_50_off/",
-            "external_url": "https://www.obdev.at/products/littlesnitch/order.html",
-            "title": "Black Friday 2022 - Little Snitch 5 at 50% off",
-            "content_html": "<caption>Open: <a href='https://www.obdev.at/products/littlesnitch/order.html'>www.obdev.at</a> | <a href='https://reddit.com/r/macapps/comments/z4glda/black_friday_2022_little_snitch_5_at_50_off/'>Reddit</a></caption>",
-            "date_published": "2022-11-25T15:50:07+00:00",
-            "authors": [
-                {
-                    "name": "appsforless",
-                    "url": "https://www.reddit.com/user/appsforless"
                 }
             ]
         }
