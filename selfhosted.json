@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "13eb57j",
+            "url": "/r/selfhosted/comments/13eb57j/is_there_a_selfhosted_youtube_that_my_kid_can/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/13eb57j/is_there_a_selfhosted_youtube_that_my_kid_can/",
+            "title": "Is there a self-hosted \"youtube\" that my kid can upload videos to?",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/13eb57j/is_there_a_selfhosted_youtube_that_my_kid_can/'>Reddit</a></caption><div><br></div><div><p>So my daughter LOVES making videos, but is too young to have her own channel for youtube (nor would I really want her to put any of her videos up there). </p>\n<p>I was wondering what may be out there when it comes to a private, self-hosted youtube-esque server. I looked into peertube, but I'm not a fan of it being federated and being searchable from other sites. (That and trying to get it to work from behind a separate reverse proxy has been maddening).</p>\n<p>It doesn't have to be too terribly fancy. I'm just looking for something my daughter can upload videos to from her phone and pretend to have her own channel. Bonus points if Mom and Dad can comment on them and like the videos!</p></div>",
+            "date_published": "2023-05-11T02:53:01+00:00",
+            "authors": [
+                {
+                    "name": "bugbbq",
+                    "url": "https://www.reddit.com/user/bugbbq"
+                }
+            ]
+        },
+        {
             "id": "13dm9du",
             "url": "/r/selfhosted/comments/13dm9du/budibase_an_opensource_platform_for_building_apps/",
             "external_url": "https://i.redd.it/9hsno5l5czya1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "fongwithroot",
                     "url": "https://www.reddit.com/user/fongwithroot"
-                }
-            ]
-        },
-        {
-            "id": "x2i1mu",
-            "url": "/r/selfhosted/comments/x2i1mu/been_trying_out_some_animated_pixel_art/",
-            "external_url": "https://v.redd.it/7ip2yacrr2l91",
-            "title": "Been trying out some animated Pixel Art backgrounds. This is my favorite so far. Artist: Bryan Heemskerk",
-            "content_html": "<caption>Open in: <a href='https://v.redd.it/7ip2yacrr2l91'>v.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/x2i1mu/been_trying_out_some_animated_pixel_art/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/x2i1mu/been_trying_out_some_animated_pixel_art/'>Apollo</a></caption>",
-            "date_published": "2022-08-31T16:32:13+00:00",
-            "authors": [
-                {
-                    "name": "DancesWithGerbils",
-                    "url": "https://www.reddit.com/user/DancesWithGerbils"
                 }
             ]
         }
