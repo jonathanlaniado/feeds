@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "13jq8mk",
+            "url": "/r/macapps/comments/13jq8mk/photomator_photo_editor_now_available_on_mac/",
+            "external_url": "https://apps.apple.com/app/pixelmator/id1444636541",
+            "title": "Photomator Photo Editor Now Available on Mac",
+            "content_html": "<caption>Open: <a href='https://apps.apple.com/app/pixelmator/id1444636541'>apps.apple.com</a> | <a href='https://reddit.com/r/macapps/comments/13jq8mk/photomator_photo_editor_now_available_on_mac/'>Reddit</a></caption>",
+            "date_published": "2023-05-17T03:36:46+00:00",
+            "authors": [
+                {
+                    "name": "fivemufc",
+                    "url": "https://www.reddit.com/user/fivemufc"
+                }
+            ]
+        },
+        {
             "id": "13i44lq",
             "url": "/r/macapps/comments/13i44lq/command_x_cut_and_paste_files_in_finder/",
             "external_url": "https://apps.apple.com/app/id6448461551",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "akachalo",
                     "url": "https://www.reddit.com/user/akachalo"
-                }
-            ]
-        },
-        {
-            "id": "z8sztf",
-            "url": "/r/macapps/comments/z8sztf/arc_browser/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/z8sztf/arc_browser/",
-            "title": "Arc Browser",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/z8sztf/arc_browser/'>Reddit</a></caption><div><br></div><div><p>I love the <a href=\"https://thebrowser.company/\">Arc browser</a>. It runs on chromium and every little UI detail is just how I like it. </p>\n<p><em>I can give away a couple of invites to anyone interested, feel free to comment on this post. (I plan to give away 4 licenses)</em></p></div>",
-            "date_published": "2022-11-30T14:33:11+00:00",
-            "authors": [
-                {
-                    "name": "glebosotov",
-                    "url": "https://www.reddit.com/user/glebosotov"
                 }
             ]
         }
