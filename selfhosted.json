@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "13jrok1",
+            "url": "/r/selfhosted/comments/13jrok1/unorthodox_things_to_self_host/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/13jrok1/unorthodox_things_to_self_host/",
+            "title": "Unorthodox Things to Self Host?",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/13jrok1/unorthodox_things_to_self_host/'>Reddit</a></caption><div><br></div><div><p>I've ran through possibly everything I care about with self hosting, and have now been kind of inactive. Before you get on me for self-hosting something I might not end up using, I know.</p>\n<p>Any ideas/projects to self host now that I have everything you would classify as generic/repeats on Wednesday posts?</p>\n<p>Things I Self Host:</p>\n<ul>\n<li>apache2 (w/ PHP)  - Web Server + Reverse Proxy</li>\n<li>Homepage - A Simple Dashboard to keep everything organized. Complete with Docker Integration so I can see what services are up/down.</li>\n<li>Nextcloud - Google Drive Replacement</li>\n<li>Vaultwarden (Bitwarden) - Password Manager</li>\n<li>BookStack - Documentation Platform</li>\n<li>Ghost - Simple Blogging Platform</li>\n<li>Gitea - Git Platform (+act_runner, +renovate)</li>\n<li>FreshRSS - RSS Aggregator</li>\n<li>PrivateBin - Encrypted PasteBin</li>\n<li>Gokapi - Firefox Send Alternative (Admin Upload only)</li>\n<li>Filebrowser - A Simple Web File Browser</li>\n<li>Teamspeak Server - VOIP Service</li>\n<li>Portainer - Web UI for managing Docker Containers</li>\n<li>Scrutiny - SMART Scans for Drives</li>\n<li>Healthchecks - Cron Job Monitoring (Sends notifications to ntfy when cron jobs fail)</li>\n<li>ntfy - Sends push notifications</li>\n<li>Speedtest Tracker - Daily Speedtests with Graphs</li>\n<li>phpMyAdmin - SQL Database Viewer</li>\n<li>Wireguard (wg-easy) - WireGuard VPN + Web Admin UI</li>\n<li>Uptime Kuma - Services Monitor</li>\n<li>Sonarr - Automatically \"acquire\" TV Shows</li>\n<li>Radarr - ^ for Movies</li>\n<li>Lidarr - ^ for Music</li>\n<li>Readarr - ^ for Books</li>\n<li>Bazarr - ^ for Subtitles</li>\n<li>subcleaner - Cleans subtitles downloaded from Bazarr</li>\n<li>Prowlarr - Indexers for Sonarr/Radarr/Lidarr/Readarr</li>\n<li>qBittorrent (w/ VPN) - My Torrent Client of choice</li>\n<li>pyLoad - File Downloader</li>\n<li>Tautulli - Plex Statistics</li>\n<li>Overseerr - Requests for Plex</li>\n<li>Requestrr - Requests for Plex through a Discord Bot</li>\n<li>OpenBooks - Download books from IRC Highway</li>\n<li>Deemix - Download Music from Deezer (Technically I'm using lidarr-on-steroids which includes Deemix inside Lidarr)</li>\n<li>Wizarr - Invite System for Plex</li>\n<li>Umami - Website Analytics</li>\n<li>CyberChef - Web App for \"computer science\" things</li>\n<li>IT-Tools - Collection of handy online tools for developers.</li>\n<li>shields.io - shields.io instance for private GitHub repo badges</li>\n<li>Plex Auto Languages - Auto-Updating the subtitle language across an entire show</li>\n<li>Watchtower - Automatically keeps Docker Containers up to date</li>\n<li>MySQL - My database of choice</li>\n<li>Plex - Stream Content from my Home Server with a Netflix-like UI</li>\n<li>Various Game Servers</li>\n<li>Email</li>\n</ul>\n<p>Planning on looking at:</p>\n<ul>\n<li>Podgrab</li>\n<li>Invoice Ninja</li>\n<li>YouTube Archiving</li>\n<li>paperless-ngx</li>\n<li>Budget Tracking (Actual or Firefly)</li>\n</ul>\n<p>Thanks in advance!</p>\n<p>Ninja Edit: Didn't want to blogspam but if you need links for anything here (or more information like specs/my docker compose files), you can find them <a href=\"https://chse.dev/hs\">here</a>.</p></div>",
+            "date_published": "2023-05-17T04:45:42+00:00",
+            "authors": [
+                {
+                    "name": "Empty_Tough_4500",
+                    "url": "https://www.reddit.com/user/Empty_Tough_4500"
+                }
+            ]
+        },
+        {
             "id": "13eb57j",
             "url": "/r/selfhosted/comments/13eb57j/is_there_a_selfhosted_youtube_that_my_kid_can/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/13eb57j/is_there_a_selfhosted_youtube_that_my_kid_can/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "agneev",
                     "url": "https://www.reddit.com/user/agneev"
-                }
-            ]
-        },
-        {
-            "id": "x6oise",
-            "url": "/r/selfhosted/comments/x6oise/after_selfhosting_my_email_for_twentythree_years/",
-            "external_url": "https://twitter.com/cfenollosa/status/1566484145446027265?t=sokDrW006I20Pkq6-RTIag&s=09",
-            "title": "\"After self-hosting my email for twenty-three years I have thrown in the towel \ud83d\ude29\"",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/x6oise/after_selfhosting_my_email_for_twentythree_years/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/x6oise/after_selfhosting_my_email_for_twentythree_years/'>Apollo</a></caption><div><br></div><blockquote class=\"twitter-tweet\" align=\"center\"><p lang=\"en\" dir=\"ltr\">After self-hosting my email for twenty-three years I have thrown in the towel \ud83d\ude29<br><br>Email is now an oligopoly, a service gatekept by a few big companies which does not follow the principles of net neutrality.</p>&mdash; Carlos Fenollosa (@cfenollosa) <a href=\"https://twitter.com/cfenollosa/status/1566484145446027265?ref_src=twsrc%5Etfw\">September 4, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
-            "date_published": "2022-09-05T19:13:18+00:00",
-            "authors": [
-                {
-                    "name": "fongwithroot",
-                    "url": "https://www.reddit.com/user/fongwithroot"
                 }
             ]
         }
