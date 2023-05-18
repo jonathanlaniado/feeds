@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "13klofi",
+            "url": "/r/macapps/comments/13klofi/software_developer_mac_apps/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/13klofi/software_developer_mac_apps/",
+            "title": "Software Developer Mac Apps",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/13klofi/software_developer_mac_apps/'>Reddit</a></caption><div><br></div><div><p>Would love to know how the software developers here have set up their Mac.</p>\n<p>Whether it's including applications such as TextSoap or a fancy terminal set up with Neovim and Spotify-tui etc.</p>\n<p>Plus its always good to know what productivity apps people are running to help them.</p></div>",
+            "date_published": "2023-05-18T02:19:29+00:00",
+            "authors": [
+                {
+                    "name": "Comprehensive_Mud645",
+                    "url": "https://www.reddit.com/user/Comprehensive_Mud645"
+                }
+            ]
+        },
+        {
             "id": "13jq8mk",
             "url": "/r/macapps/comments/13jq8mk/photomator_photo_editor_now_available_on_mac/",
             "external_url": "https://apps.apple.com/app/pixelmator/id1444636541",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "agoodcolorispurple",
                     "url": "https://www.reddit.com/user/agoodcolorispurple"
-                }
-            ]
-        },
-        {
-            "id": "z8v8at",
-            "url": "/r/macapps/comments/z8v8at/taskheat_the_visual_todo_list/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/z8v8at/taskheat_the_visual_todo_list/",
-            "title": "Taskheat \u2014 the visual to-do list",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/z8v8at/taskheat_the_visual_todo_list/'>Reddit</a></caption><div><br></div><div><p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/cb4c4oq5343a1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=908044e121ef1b9606ea3ecd7e48e531613bf4dc\">Taskheat for Mac</a></p>\n<p>Hi everyone!</p>\n<p>Meet Taskheat(<a href=\"https://eyen.fr/taskheat/\">https://eyen.fr/taskheat/</a>) \u2014 the innovative to-do list application that uses flowcharts to manage tasks.</p>\n<p><strong>The idea</strong></p>\n<p>Taskheat is a visual task manager that allows you to break down your responsibilities and link them to build a path to your goals. You'll end up with a flowchart that lets you focus on the steps that are under your control to get you where you want to go.</p>\n<p>With a streamlined UI and sophisticated algorithms under the hood, Taskheat will get you through tangled webs of tasks, errands, and lists.</p>\n<p><strong>Unique features</strong></p>\n<ul>\n<li>Flowchart view to visually represent dependencies between tasks</li>\n<li>Filter out irrelevant activities and present them in a convenient Actual list.</li>\n<li>Display and highlight relationships between tasks in List view (macOS version only)</li>\n</ul>\n<p><strong>Not unique but handy features</strong></p>\n<ul>\n<li>iCloud data synchronization</li>\n<li>Assign color labels to the tasks.</li>\n<li>Add various tags to make it easier to filter them by the categories you specify</li>\n<li>Designate the task to a particular location, so it will become actual only when you're there.</li>\n<li>Task delegation</li>\n<li>Search</li>\n<li>Speaks seven languages (English, French, German, Japanese, Chinese Simplified &amp; Traditional, Ukrainian, and Russian)</li>\n</ul>\n<p><strong>Pricing Model</strong></p>\n<p>Taskheat offers a 14-day trial period. It is a one-time universal purchase. Since it is not a subscription and for one price, you'll get macOS, iPad, and iPhone versions.</p>\n<p><strong>Availability</strong></p>\n<p>Taskheat is available <a href=\"https://apps.apple.com/app/apple-store/id1431995750?pt=119223426&amp;ct=reddit&amp;mt=8\">on the App Store</a> and <a href=\"https://go.setapp.com/stp231?refAppID=326&amp;stc=website&amp;utm_campaign=website&amp;utm_content=button&amp;utm_medium=vendor_program\">Setapp</a>.</p></div>",
-            "date_published": "2022-11-30T16:03:44+00:00",
-            "authors": [
-                {
-                    "name": "akachalo",
-                    "url": "https://www.reddit.com/user/akachalo"
                 }
             ]
         }
