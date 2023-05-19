@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "13lbp2r",
+            "url": "/r/selfhosted/comments/13lbp2r/immich_selfhosted_photos_and_videos_backup/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/13lbp2r/immich_selfhosted_photos_and_videos_backup/",
+            "title": "Immich - Self-hosted photos and videos backup solution from your mobile phone (AKA Google Photos replacement you have been waiting for!) - One-month late update - now with Facial Recognition, Partner Sharing, Global Map, and more \ud83c\udf89",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/13lbp2r/immich_selfhosted_photos_and_videos_backup/'>Reddit</a></caption><div><br></div><div><p><a href=\"https://github.com/immich-app/immich\">GitHub Repo</a></p>\n<p>Hello, my fellow self-hosters! </p>\n<p>Alex here! I know I missed last month's update. Work has been busy, and so has the Immich team. We have been brewing some big features over the last two months, and I want to finish everything before making the progress update post. </p>\n<p>So here are a few things that have been added to Immich recently. I hope you like those features as much as we do!</p>\n<p>&#x200B;</p>\n<ul>\n<li>Facial Recognition</li>\n<li>Partner Sharing</li>\n<li>Global Map View</li>\n<li>Responsive Web Interface</li>\n<li>Archiving</li>\n<li>Searchable description</li>\n<li>Managing login sessions</li>\n</ul>\n<h1>FACIAL RECOGNITION</h1>\n<p>Immich can now detect faces and group (cluster) similar faces together. You can view all the photos/videos that contain the person by clicking on the person, and you can search the assets with the person after naming them.</p>\n<p>This is our first iteration of the feature, so expect enhancement and additional actions (merge, hide, favorite faces) that come with this in future releases.</p>\n<p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/euss0gtwrn0b1.png?width=2736&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=be3046ab1799ad8e17764e3ca567b57797af7c9c\">Curated people</a></p>\n<p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/j76d3qxxrn0b1.png?width=2755&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=6b8cbfd262e49efe9bc1ef69cd0323cc15173959\">Photos with the target person</a></p>\n<h1>PARTNER SHARING</h1>\n<p>This is one of the most requested features we received, and we finally had a chance to integrate it into the application. You can now choose not only one or two but an unlimited number of users in your Immich instance to share your timeline. So you don\u2019t have to use the same account or manually put assets into a shared album.</p>\n<p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/i7rnrhw0sn0b1.png?width=1742&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=7559bd3f0ba19da4fcfc5a0682a2792e533f0941\">Select partners</a></p>\n<p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/mw7egdj1sn0b1.png?width=2723&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=4cfcbe3da5982f153b65628ef5da8a86d7924d15\">Partner's timeline can be accessed on the Sharing page</a></p>\n<h1>GLOBAL MAP VIEW</h1>\n<p>I know we all like to see where we have been over the world and the memory at each location. Immich now has the map view, in which you can see a group of photos/videos taken at those locations.</p>\n<p>&#x200B;</p>\n<p>https://preview.redd.it/ip3x3ju5sn0b1.png?width=2570&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=6684a9015adde7bc73d870422095a0ce9cd1f9f2</p>\n<h1>RESPONSIVE WEB INTERFACE AND WPA</h1>\n<p>The web interface is now usable over the web browser on your mobile phone. Thanks to all the contributors for helping make the web app responsive on the web.</p>\n<p>&#x200B;</p>\n<p>https://preview.redd.it/b82j1ou7sn0b1.png?width=641&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=fb36c1fe8940c74a7b91e494a05fce766eb213ff</p>\n<h1>ARCHIVING</h1>\n<p>You can now hide photos or videos you don\u2019t want to appear on the timeline to keep things tidy and safe for everyone. They will be available in the Archive section of the app.</p>\n<h1>SEARCHABLE DESCRIPTION</h1>\n<p>Even though Immich doesn\u2019t have an official custom tag system, you can now use the description as a dropped-in replacement for that. It can be fuzzy-search as well using the search functionality \ud83d\ude42</p>\n<p>&#x200B;</p>\n<p>https://preview.redd.it/fx61tl99sn0b1.png?width=1035&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=7465a134161155010e1347dfc39b411d06a7cbae</p>\n<p>&#x200B;</p>\n<p>https://preview.redd.it/lfr996q9sn0b1.png?width=1033&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=1e125eb3206f9a05e9edb86858920be4b69e630c</p>\n<h1>MANAGING LOGIN SESSION</h1>\n<p>We provide the functionality to view and manage all devices that use your user account to log in. So you can log them out for any suspicious device.</p>\n<p><a href=\"https://preview.redd.it/pxa4m2dbsn0b1.png?width=1638&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=8c1efd7ff9cbfdbc8bd056a0d41902998b21bc73\">All logged-in sessions are shown.</a></p>\n<p>Finally, we keep fixing bugs, improving the server and clients, optimizing the performance, and solving technical debt as we are inching forward to a stable release milestone.</p>\n<p>I want to personally thank all the contributors and the users for helping make this release possible by providing feedback, support, testing, and development to the application. </p>\n<p>As always, thank you for using Immich, and I hope you enjoy this update.</p>\n<p>Remember to support the project!</p>\n<p>If you find the project helpful and it helps you in some ways, you can support the project\u00a0<a href=\"https://github.com/sponsors/alextran1502?frequency=one-time&amp;sponsor=alextran1502\">one time</a>\u00a0or\u00a0<a href=\"https://github.com/sponsors/alextran1502\">monthly</a>\u00a0from GitHub Sponsors.</p>\n<p>Join our friendly\u00a0<a href=\"https://discord.gg/D8JsnBEuKb\">Discord</a> for discussion and to get help!</p>\n<p>\ud83c\udf89 Cheer! \ud83c\udf89</p>\n<p>Alex</p></div>",
+            "date_published": "2023-05-18T21:38:34+00:00",
+            "authors": [
+                {
+                    "name": "altran1502",
+                    "url": "https://www.reddit.com/user/altran1502"
+                }
+            ]
+        },
+        {
             "id": "13jrok1",
             "url": "/r/selfhosted/comments/13jrok1/unorthodox_things_to_self_host/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/13jrok1/unorthodox_things_to_self_host/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "altran1502",
                     "url": "https://www.reddit.com/user/altran1502"
-                }
-            ]
-        },
-        {
-            "id": "x70hpo",
-            "url": "/r/selfhosted/comments/x70hpo/portainer_has_been_updated_with_a_brand_new_ui/",
-            "external_url": "https://www.reddit.com/gallery/x70hpo",
-            "title": "Portainer has been updated with a brand new UI!",
-            "content_html": "<caption>Open in: <a href='https://www.reddit.com/gallery/x70hpo'>www.reddit.com</a> | <a href='https://reddit.com/r/selfhosted/comments/x70hpo/portainer_has_been_updated_with_a_brand_new_ui/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/x70hpo/portainer_has_been_updated_with_a_brand_new_ui/'>Apollo</a></caption>",
-            "date_published": "2022-09-06T04:02:22+00:00",
-            "authors": [
-                {
-                    "name": "agneev",
-                    "url": "https://www.reddit.com/user/agneev"
                 }
             ]
         }
