@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "13sb8w3",
+            "url": "/r/selfhosted/comments/13sb8w3/this_week_in_selfhosted_26_may_2023/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/13sb8w3/this_week_in_selfhosted_26_may_2023/",
+            "title": "This Week in Self-Hosted (26 May 2023)",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/13sb8w3/this_week_in_selfhosted_26_may_2023/'>Reddit</a></caption><div><br></div><div><p>Hey, r/selfhosted! Below is a link to This Week in Self-Hosted, a weekly newsletter recap of the week's activity in self-hosted content.</p>\n<p>This week we're featuring some updates from Bitwarden and Cloudflare, all sorts of software updates and launches, and a spotlight on <a href=\"https://www.filestash.app/\">Filestash</a> - a web client for a variety of storage backends.</p>\n<hr />\n<p><a href=\"https://selfh.st/weekly/2023-05-26/\">This Week in Self-Hosted (26 May 2023)</a></p></div>",
+            "date_published": "2023-05-26T12:00:41+00:00",
+            "authors": [
+                {
+                    "name": "selfh-sted",
+                    "url": "https://www.reddit.com/user/selfh-sted"
+                }
+            ]
+        },
+        {
             "id": "13lbp2r",
             "url": "/r/selfhosted/comments/13lbp2r/immich_selfhosted_photos_and_videos_backup/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/13lbp2r/immich_selfhosted_photos_and_videos_backup/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Koto137",
                     "url": "https://www.reddit.com/user/Koto137"
-                }
-            ]
-        },
-        {
-            "id": "x7fnzg",
-            "url": "/r/selfhosted/comments/x7fnzg/here_is_another_immichs_progress_update_and/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/x7fnzg/here_is_another_immichs_progress_update_and/",
-            "title": "Here is another Immich's progress update, and everyone needs to know it (September 6th, 2022). Background upload, virtual scroll, and so much more.",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/x7fnzg/here_is_another_immichs_progress_update_and/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/x7fnzg/here_is_another_immichs_progress_update_and/'>Apollo</a></caption> <div><p>Hi all,</p>\n<p>Alex here! I apologize for the late update. August had been a very productive month for the project and the team. I hope you all had a great one as well.</p>\n<p>As always, you can find the project here <a href=\"https://github.com/immich-app/immich\">https://github.com/immich-app/immich</a></p>\n<p>The team and I have implemented some exciting features (Version v1.27) that I hope you enjoy.</p>\n<h2>Background upload (Android)</h2>\n<p><a href=\"https://preview.redd.it/k32ju7gvi9m91.png?width=237&amp;format=png&amp;auto=webp&amp;s=f09f56a23820dd565fed44385adb1316a651a327\">Background backup option</a></p>\n<p>We have implemented the background upload mechanism on Android. You can toggle the option from the upload page, and off you go! The newly taken photos and videos in your selected albums will now be uploaded automatically to the Immich server. This has been a highly requested feature, and I am happy we have implemented a part of it. We are still looking to improve this feature, so your feedback and bug report is appreciated.</p>\n<p>iOS users, myself included, don't have this feature yet. I am looking forward to implementing this tricky part on iOS.</p>\n<h2>Deduplication</h2>\n<p>Yep, we finally implemented this feature. So no more duplicated files on your instance.</p>\n<h2>Virtual scroll on the web</h2>\n<p>Since the beginning, It is always my concern about the naive implementation of getting loading the photos and videos on the web, we were simply fetching all the assets metadata and painting all the placeholder boxes on the screen. So, the browser crashes if you have more than 50_000 boxes painted. Also, the initial load time will be a century long which will cause a bad user experience.</p>\n<p>Thankfully we have a pointer from the Google Photos frontend engineer who designed and implemented the timeline. You can find more information in the article <a href=\"https://medium.com/google-design/google-photos-45b714dfbed1\">Building the Google Photos Web UI</a>. In short, the timeline is calculated based on the number of assets the user has. Then from the scroll position, the viewport will be calculated, and then getting the data that should be in the viewport, finally paint the thumbnail with time group information. So regardless of having millions of photos and videos, the app will only see what can fit in the viewport. This will help users with hundreds of thousands of photos in their storage.</p>\n<p>I am excited about this feature. Without this, we cannot scale. We hope to bring this feature or a similar mechanism to the mobile app soon.</p>\n<p><a href=\"https://reddit.com/link/x7fnzg/video/t85v9yfjj9m91/player\">Virtual scroll on 15_000 assets instant</a></p>\n<h1>Ah, I almost forgot, we have a dark mode on mobile now.</h1>\n<p><a href=\"https://preview.redd.it/miw1xb24n9m91.png?width=4320&amp;format=png&amp;auto=webp&amp;s=b869514fec10283237eab0f8aaeaf68a40648c7c\">Dark Mode</a></p>\n<p>Besides the features above, we continuously fix bugs, improving and refactoring the code base to ensure the quality of the project.</p>\n<p>Finally, thanks to all who have contributed to the project. I couldn't do this myself, and thank you for creating a strong community around the project. Please join us in the Discord channel <a href=\"https://discord.gg/D8JsnBEuKb\">https://discord.gg/D8JsnBEuKb</a></p>\n<p>If you find the project helpful and help you in some ways, Please consider supporting the project\u00a0<a href=\"https://github.com/sponsors/alextran1502?frequency=one-time&amp;sponsor=alextran1502\">one time</a> or\u00a0<a href=\"https://github.com/sponsors/alextran1502\">monthly</a> from Github Sponsor. I would love to eventually work on this project as my full-time job :)</p>\n<p>Cheer! until next time!</p>\n<p>Alex</p></div>",
-            "date_published": "2022-09-06T16:58:06+00:00",
-            "authors": [
-                {
-                    "name": "altran1502",
-                    "url": "https://www.reddit.com/user/altran1502"
                 }
             ]
         }
