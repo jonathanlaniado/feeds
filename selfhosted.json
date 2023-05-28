@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "13tv1tp",
+            "url": "/r/selfhosted/comments/13tv1tp/finally_ditched_almost_all_proprietary_apps_and/",
+            "external_url": "https://i.redd.it/rtm3ayt48j2b1.jpg",
+            "title": "Finally ditched almost all proprietary apps and hosted my own home server for media streaming and files/photo sharing. (Still using WhatsApp, Classroom and some food ordering apps though)",
+            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/selfhosted/comments/13tv1tp/finally_ditched_almost_all_proprietary_apps_and/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/rtm3ayt48j2b1.jpg\" />",
+            "date_published": "2023-05-28T08:22:46+00:00",
+            "authors": [
+                {
+                    "name": "MagicPeach9695",
+                    "url": "https://www.reddit.com/user/MagicPeach9695"
+                }
+            ]
+        },
+        {
             "id": "13sb8w3",
             "url": "/r/selfhosted/comments/13sb8w3/this_week_in_selfhosted_26_may_2023/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/13sb8w3/this_week_in_selfhosted_26_may_2023/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "analogj",
                     "url": "https://www.reddit.com/user/analogj"
-                }
-            ]
-        },
-        {
-            "id": "xfxpay",
-            "url": "/r/selfhosted/comments/xfxpay/cloudflare_ditches_nginx_for_inhouse_rustwritten/",
-            "external_url": "https://www.phoronix.com/news/CloudFlare-Pingora-No-Nginx",
-            "title": "Cloudflare Ditches Nginx For In-House, Rust-Written Pingora",
-            "content_html": "<caption>Open in: <a href='https://www.phoronix.com/news/CloudFlare-Pingora-No-Nginx'>www.phoronix.com</a> | <a href='https://reddit.com/r/selfhosted/comments/xfxpay/cloudflare_ditches_nginx_for_inhouse_rustwritten/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/xfxpay/cloudflare_ditches_nginx_for_inhouse_rustwritten/'>Apollo</a></caption>",
-            "date_published": "2022-09-16T17:36:20+00:00",
-            "authors": [
-                {
-                    "name": "Koto137",
-                    "url": "https://www.reddit.com/user/Koto137"
                 }
             ]
         }
