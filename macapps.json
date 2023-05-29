@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "13urpmp",
+            "url": "/r/macapps/comments/13urpmp/i_created_an_apple_notes_extension_that_adds_ai/",
+            "external_url": "https://v.redd.it/muxffx0qyq2b1",
+            "title": "I created an Apple Notes extension that adds AI, Markdown, and quicker text formatting.",
+            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/macapps/comments/13urpmp/i_created_an_apple_notes_extension_that_adds_ai/\">Reddit</a></caption><div><br></div><iframe src='/r/macapps/comments/13urpmp/i_created_an_apple_notes_extension_that_adds_ai/?ref_source=embed&amp;ref=share&amp;embed=true' sandbox='allow-scripts allow-same-origin allow-popups' style='border: none;' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen></iframe>",
+            "date_published": "2023-05-29T11:04:02+00:00",
+            "authors": [
+                {
+                    "name": "dexterleng",
+                    "url": "https://www.reddit.com/user/dexterleng"
+                }
+            ]
+        },
+        {
             "id": "13scmbw",
             "url": "/r/macapps/comments/13scmbw/hyperfocused_launch_and_arrange_apps_across/",
             "external_url": "https://hyperfocused.app",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Leftover-Waffle",
                     "url": "https://www.reddit.com/user/Leftover-Waffle"
-                }
-            ]
-        },
-        {
-            "id": "zezhuw",
-            "url": "/r/macapps/comments/zezhuw/chatgpt_for_mac_living_in_your_menubar/",
-            "external_url": "https://github.com/vincelwt/chatgpt-mac",
-            "title": "ChatGPT for Mac, living in your menubar",
-            "content_html": "<caption>Open: <a href='https://github.com/vincelwt/chatgpt-mac'>github.com</a> | <a href='https://reddit.com/r/macapps/comments/zezhuw/chatgpt_for_mac_living_in_your_menubar/'>Reddit</a></caption>",
-            "date_published": "2022-12-07T12:04:29+00:00",
-            "authors": [
-                {
-                    "name": "tim_toum",
-                    "url": "https://www.reddit.com/user/tim_toum"
                 }
             ]
         }
