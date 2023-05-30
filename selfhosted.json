@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "13vbuan",
+            "url": "/r/selfhosted/comments/13vbuan/psa_if_you_pay_the_099_icloud_storage/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/13vbuan/psa_if_you_pay_the_099_icloud_storage/",
+            "title": "PSA: if you pay the 0.99 iCloud storage subscription, you can host your custom domain email on iCloud too.",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/13vbuan/psa_if_you_pay_the_099_icloud_storage/'>Reddit</a></caption><div><br></div><div><p>I know this is not selfhosting, but I randomly replied about this a couple of weeks ago on a <em>yet another email hosting post</em> and today got my 4th DM asking about it.</p>\n<p>iCloud+ (which is when you pay for iOS backup) includes custom domain hosting. I had no idea too. There are no hacks or undocumented stuff involved. I\u2019ve been paying for the 50GB storage option because it\u2019s only $1 a month and makes switching between iOS devices so easy and convenient. I have also been paying for mailbox.org for years. This year mailbox.org raised their prices from $1 to $3 a month and included a bunch of additional online meeting, docs, etc services that I have no use for. While I understand the need to keep up with inflation and everything, I\u2019m a very light email user. I have maybe 700MBs in total in my email account, and send maybe a dozen emails a month. I started shopping around for a mailbox alternative when I learned that I could already cover this with my iCloud+ subscription (https://support.apple.com/en-us/HT201238) and my mind was blown. </p>\n<p>I used to use fastmail before mailbox.org, and the process for updating DNS was always straightforward, but manual. You just go through their docs, copy/paste a couple of stuff, and you\u2019re good. iCloud honestly took it to another level for me. It asked if I want an automated setup, I said sure, it asked for my domain, figured out it was from cloudflare, poped up a cloudflare SSO I\u2019ve never seen before, then proposed a bunch of changes to my DNS records that I approved, and everything was done. </p>\n<p>Anyway, just thought I\u2019d post about this here in case anyone was interested. I searched this sub for iCloud, and didn\u2019t find a similar post so excuse me if it\u2019s a duplicate.</p></div>",
+            "date_published": "2023-05-30T00:51:36+00:00",
+            "authors": [
+                {
+                    "name": "needadvicebadly",
+                    "url": "https://www.reddit.com/user/needadvicebadly"
+                }
+            ]
+        },
+        {
             "id": "13ujg0k",
             "url": "/r/selfhosted/comments/13ujg0k/i_created_ultimatehomeserver_a_k3s_based_allinone/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/13ujg0k/i_created_ultimatehomeserver_a_k3s_based_allinone/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Znomon",
                     "url": "https://www.reddit.com/user/Znomon"
-                }
-            ]
-        },
-        {
-            "id": "xk4nzk",
-            "url": "/r/selfhosted/comments/xk4nzk/open_source_wireguardbased_mesh_with_sso_login/",
-            "external_url": "https://i.redd.it/p6n694hkp7p91.gif",
-            "title": "Open Source WireGuard-based Mesh with SSO Login",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/p6n694hkp7p91.gif'>i.redd.it</a> | <a href='https://reddit.com/r/selfhosted/comments/xk4nzk/open_source_wireguardbased_mesh_with_sso_login/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/xk4nzk/open_source_wireguardbased_mesh_with_sso_login/'>Apollo</a></caption>",
-            "date_published": "2022-09-21T13:16:33+00:00",
-            "authors": [
-                {
-                    "name": "wiretrustee",
-                    "url": "https://www.reddit.com/user/wiretrustee"
                 }
             ]
         }
