@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "13whd7w",
+            "url": "/r/selfhosted/comments/13whd7w/a_quick_tui_dash_for_monitoring_traffic_and_stats/",
+            "external_url": "https://i.redd.it/ba9uztjcg63b1.jpg",
+            "title": "A quick TUI dash for monitoring traffic and stats from your AdGuard Home instance",
+            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/selfhosted/comments/13whd7w/a_quick_tui_dash_for_monitoring_traffic_and_stats/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/ba9uztjcg63b1.jpg\" />",
+            "date_published": "2023-05-31T09:30:39+00:00",
+            "authors": [
+                {
+                    "name": "lissy93",
+                    "url": "https://www.reddit.com/user/lissy93"
+                }
+            ]
+        },
+        {
             "id": "13vbuan",
             "url": "/r/selfhosted/comments/13vbuan/psa_if_you_pay_the_099_icloud_storage/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/13vbuan/psa_if_you_pay_the_099_icloud_storage/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "QuickQuokkaThrowaway",
                     "url": "https://www.reddit.com/user/QuickQuokkaThrowaway"
-                }
-            ]
-        },
-        {
-            "id": "xlkcbq",
-            "url": "/r/selfhosted/comments/xlkcbq/iranprotests_signal_is_blocked_in_iran_you_can/",
-            "external_url": "https://www.reddit.com/r/technology/comments/xlhe0k/iranprotests_signal_is_blocked_in_iran_you_can/",
-            "title": "#IranProtests: Signal is blocked in Iran. You can help people in Iran reconnect to Signal by hosting a proxy server.",
-            "content_html": "<caption>Open in: <a href='https://www.reddit.com/r/technology/comments/xlhe0k/iranprotests_signal_is_blocked_in_iran_you_can/'>www.reddit.com</a> | <a href='https://reddit.com/r/selfhosted/comments/xlkcbq/iranprotests_signal_is_blocked_in_iran_you_can/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/xlkcbq/iranprotests_signal_is_blocked_in_iran_you_can/'>Apollo</a></caption>",
-            "date_published": "2022-09-23T02:00:42+00:00",
-            "authors": [
-                {
-                    "name": "Znomon",
-                    "url": "https://www.reddit.com/user/Znomon"
                 }
             ]
         }
