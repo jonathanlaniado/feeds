@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "13wx489",
+            "url": "/r/macapps/comments/13wx489/had_a_call_with_reddit_to_discuss_pricing_bad/",
+            "external_url": "/r/apolloapp/comments/13ws4w3/had_a_call_with_reddit_to_discuss_pricing_bad/",
+            "title": "\ud83d\udce3 Had a call with Reddit to discuss pricing. Bad news for third-party apps, their announced pricing is close to Twitter's pricing, and Apollo would have to pay Reddit $20 million per year to keep running as-is.",
+            "content_html": "<caption>Open: <a href='/r/apolloapp/comments/13ws4w3/had_a_call_with_reddit_to_discuss_pricing_bad/'></a> | <a href='https://reddit.com/r/macapps/comments/13wx489/had_a_call_with_reddit_to_discuss_pricing_bad/'>Reddit</a></caption>",
+            "date_published": "2023-05-31T20:30:28+00:00",
+            "authors": [
+                {
+                    "name": "Pandemojo",
+                    "url": "https://www.reddit.com/user/Pandemojo"
+                }
+            ]
+        },
+        {
             "id": "13wk9fd",
             "url": "/r/macapps/comments/13wk9fd/just_launched_escape_for_macos_a_mind_mapping/",
             "external_url": "https://i.redd.it/gv9cm3v7773b1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "alin23",
                     "url": "https://www.reddit.com/user/alin23"
-                }
-            ]
-        },
-        {
-            "id": "zn9too",
-            "url": "/r/macapps/comments/zn9too/apps_that_should_be_paid_but_are_not_part_4/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/zn9too/apps_that_should_be_paid_but_are_not_part_4/",
-            "title": "Apps that should be paid, but are not (Part 4)",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/zn9too/apps_that_should_be_paid_but_are_not_part_4/'>Reddit</a></caption><div><br></div><div><p>Below are apps/ webapps I found and started using in the last few days...</p>\n<p>&#x200B;</p>\n<ul>\n<li><a href=\"https://he3.app/\">https://he3.app/</a> </li>\n<li>Replacement for tools like <a href=\"https://devutils.com\">devutils.com</a> and <a href=\"https://devtoys.app\">devtoys.app</a></li>\n<li>this has the most functions for converstions/ formatting </li>\n</ul>\n<p>&#x200B;</p>\n<ul>\n<li><a href=\"https://github.com/georgekhananaev/py-image-compressor\">https://github.com/georgekhananaev/py-image-compressor</a> </li>\n<li>Python based mass image compression</li>\n<li>there are ton of different options for this, but I really like to have look at the code and tweak it based on my requirements</li>\n</ul>\n<p>&#x200B;</p>\n<ul>\n<li><a href=\"https://github.com/FuzzyIdeas/Clop\">https://github.com/FuzzyIdeas/Clop</a></li>\n<li>Clipboard optimizer for macOS</li>\n<li>similar to above, but works right after you take screenshot</li>\n<li>useful to paste screenshots in apps like mail, notes to save image size</li>\n</ul>\n<p>&#x200B;</p>\n<ul>\n<li><a href=\"https://writeapp.net/notesexporter/\">https://writeapp.net/notesexporter/</a> </li>\n<li>Export or backup notes from Apple\u2019s Notes.app into plain text format</li>\n<li>I love Apple notes for its simplicity, BUT I hate it does not have any mass export functionality</li>\n<li>This app exports all the apple notes in txt format. You can rename all these txt files to html</li>\n</ul>\n<p>&#x200B;</p>\n<ul>\n<li><a href=\"https://mailbrew.com/\">https://mailbrew.com/</a></li>\n<li>not a Mac specific app, but a webapp for taming inbox overload</li>\n<li>you can create your own newsletter from favorite sources</li>\n</ul>\n<p>\u2014</p>\n<p>Here's <a href=\"https://www.reddit.com/r/macapps/comments/yza6mx/apps_that_should_be_paid_but_are_not_part_3/?context=3\">Part 3</a>, you can follow the chain of links in each post, if you looking for more such suggestions</p></div>",
-            "date_published": "2022-12-16T08:26:23+00:00",
-            "authors": [
-                {
-                    "name": "rootedMind",
-                    "url": "https://www.reddit.com/user/rootedMind"
                 }
             ]
         }
