@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "13zgke9",
+            "url": "/r/selfhosted/comments/13zgke9/on_june_12th_several_subreddits_are_protesting/",
+            "external_url": "/r/Save3rdPartyApps/comments/13yh0jf/dont_let_reddit_kill_3rd_party_apps/",
+            "title": "On June 12th, several subreddits are protesting against the new Reddit API pricing and its implications for 3rd-party clients. Will /r/selfhosted join the strike?",
+            "content_html": "<caption>Open: <a href='/r/Save3rdPartyApps/comments/13yh0jf/dont_let_reddit_kill_3rd_party_apps/'></a> | <a href='https://reddit.com/r/selfhosted/comments/13zgke9/on_june_12th_several_subreddits_are_protesting/'>Reddit</a></caption>",
+            "date_published": "2023-06-03T15:41:10+00:00",
+            "authors": [
+                {
+                    "name": "andreipoe",
+                    "url": "https://www.reddit.com/user/andreipoe"
+                }
+            ]
+        },
+        {
             "id": "13xcm9a",
             "url": "/r/selfhosted/comments/13xcm9a/devops_course_for_selfhosters_docker_gitlab_cicd/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/13xcm9a/devops_course_for_selfhosters_docker_gitlab_cicd/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "T0mxD",
                     "url": "https://www.reddit.com/user/T0mxD"
-                }
-            ]
-        },
-        {
-            "id": "xtnclv",
-            "url": "/r/selfhosted/comments/xtnclv/announcing_nextcloud_hub_3_brand_new_design_and/",
-            "external_url": "https://nextcloud.com/blog/announcing-nextcloud-hub-3-brand-new-design-and-photos-2-0-with-editor-and-ai/",
-            "title": "Announcing Nextcloud Hub 3 \u2013 Brand New Design and Photos 2.0 with Editor and AI",
-            "content_html": "<caption>Open in: <a href='https://nextcloud.com/blog/announcing-nextcloud-hub-3-brand-new-design-and-photos-2-0-with-editor-and-ai/'>nextcloud.com</a> | <a href='https://reddit.com/r/selfhosted/comments/xtnclv/announcing_nextcloud_hub_3_brand_new_design_and/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/xtnclv/announcing_nextcloud_hub_3_brand_new_design_and/'>Apollo</a></caption>",
-            "date_published": "2022-10-02T12:16:30+00:00",
-            "authors": [
-                {
-                    "name": "ankitrgadiya",
-                    "url": "https://www.reddit.com/user/ankitrgadiya"
                 }
             ]
         }
