@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "141mgyd",
+            "url": "/r/MacOS/comments/141mgyd/appollo_reddit_app_in_the_widgets_only_if_reddit/",
+            "external_url": "https://i.redd.it/e47ommiam84b1.jpg",
+            "title": "Appollo Reddit app in the widgets only if Reddit allows the API access",
+            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/MacOS/comments/141mgyd/appollo_reddit_app_in_the_widgets_only_if_reddit/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/e47ommiam84b1.jpg\" />",
+            "date_published": "2023-06-05T17:50:46+00:00",
+            "authors": [
+                {
+                    "name": "abhi98228",
+                    "url": "https://www.reddit.com/user/abhi98228"
+                }
+            ]
+        },
+        {
             "id": "141mt9x",
             "url": "/r/MacOS/comments/141mt9x/new_features_in_macos_14/",
             "external_url": "https://i.redd.it/onoza0y9o84b1.jpg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Wouter_001",
                     "url": "https://www.reddit.com/user/Wouter_001"
-                }
-            ]
-        },
-        {
-            "id": "vlkp3i",
-            "url": "/r/MacOS/comments/vlkp3i/found_my_mac_os_x_leopard_dvd_from_2007/",
-            "external_url": "https://i.redd.it/jjmed7iuq2891.jpg",
-            "title": "Found my Mac OS X Leopard DVD from 2007!",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/jjmed7iuq2891.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/MacOS/comments/vlkp3i/found_my_mac_os_x_leopard_dvd_from_2007/'>Reddit</a> | <a href='apollo://reddit.com/r/MacOS/comments/vlkp3i/found_my_mac_os_x_leopard_dvd_from_2007/'>Apollo</a></caption>",
-            "date_published": "2022-06-27T02:24:36+00:00",
-            "authors": [
-                {
-                    "name": "jscari",
-                    "url": "https://www.reddit.com/user/jscari"
                 }
             ]
         }
