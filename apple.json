@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "141lf25",
+            "url": "/r/apple/comments/141lf25/apple_announces_apple_silicon_mac_pro_powered_by/",
+            "external_url": "https://9to5mac.com/2023/06/05/apple-announces-apple-silicon-mac-pro-powered-by-m2-ultra/",
+            "title": "Apple announces Apple Silicon Mac Pro powered by M2 Ultra",
+            "content_html": "<caption>Open: <a href='https://9to5mac.com/2023/06/05/apple-announces-apple-silicon-mac-pro-powered-by-m2-ultra/'>9to5mac.com</a> | <a href='https://reddit.com/r/apple/comments/141lf25/apple_announces_apple_silicon_mac_pro_powered_by/'>Reddit</a></caption>",
+            "date_published": "2023-06-05T17:15:48+00:00",
+            "authors": [
+                {
+                    "name": "aaronp613",
+                    "url": "https://www.reddit.com/user/aaronp613"
+                }
+            ]
+        },
+        {
             "id": "141l46y",
             "url": "/r/apple/comments/141l46y/apple_announces_15inch_macbook_air/",
             "external_url": "https://www.theverge.com/2023/6/5/23739220/apple-macbook-air-15-features-specs-price-release-date-wwdc-2023?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "chrisdh79",
                     "url": "https://www.reddit.com/user/chrisdh79"
-                }
-            ]
-        },
-        {
-            "id": "10w4beh",
-            "url": "/r/apple/comments/10w4beh/new_iphone_browsers_on_the_way_without_webkit/",
-            "external_url": "https://9to5mac.com/2023/02/07/new-iphone-browsers/",
-            "title": "New iPhone browsers on the way without WebKit; Apple prepping Safari for competition.",
-            "content_html": "<caption>Open: <a href='https://9to5mac.com/2023/02/07/new-iphone-browsers/'>9to5mac.com</a> | <a href='https://reddit.com/r/apple/comments/10w4beh/new_iphone_browsers_on_the_way_without_webkit/'>Reddit</a></caption>",
-            "date_published": "2023-02-07T15:16:47+00:00",
-            "authors": [
-                {
-                    "name": "SUPRVLLAN",
-                    "url": "https://www.reddit.com/user/SUPRVLLAN"
                 }
             ]
         }
