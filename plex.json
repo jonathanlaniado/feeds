@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1417g7w",
+            "url": "/r/PleX/comments/1417g7w/will_rplex_join_the_protest_against_the_api/",
+            "external_url": "https://www.reddit.com/r/apolloapp/comments/13zvinq/multiple_subreddits_will_go_black_as_a_protest_to/",
+            "title": "Will r/Plex join the protest against the API changes?",
+            "content_html": "<caption>Open: <a href='https://www.reddit.com/r/apolloapp/comments/13zvinq/multiple_subreddits_will_go_black_as_a_protest_to/'>www.reddit.com</a> | <a href='https://reddit.com/r/PleX/comments/1417g7w/will_rplex_join_the_protest_against_the_api/'>Reddit</a></caption>",
+            "date_published": "2023-06-05T08:31:06+00:00",
+            "authors": [
+                {
+                    "name": "payu496",
+                    "url": "https://www.reddit.com/user/payu496"
+                }
+            ]
+        },
+        {
             "id": "135jhoo",
             "url": "/r/PleX/comments/135jhoo/turn_your_library_into_a_full_live_tv_service/",
             "external_url": "https://i.redd.it/5retfntvtexa1.jpg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "DijonAndPorridge",
                     "url": "https://www.reddit.com/user/DijonAndPorridge"
-                }
-            ]
-        },
-        {
-            "id": "sshwzp",
-            "url": "/r/PleX/comments/sshwzp/plexamp_v40_released/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/sshwzp/plexamp_v40_released/",
-            "title": "Plexamp v4.0 Released",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/PleX/comments/sshwzp/plexamp_v40_released/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/sshwzp/plexamp_v40_released/'>Apollo</a></caption> <div><h2></h2>\n<p><a href=\"#version-v40-1\"></a>Version v4.0</p>\n<p>Happy Valentine\u2019s day!! </p>\n<p>We\u2019re thrilled to share the next major release of Plexamp with you! One major focus in this release was an upgrade of some of the core building blocks of the app (<a href=\"https://reactnative.dev\">React Native</a>, <a href=\"https://reactnavigation.org\">React Navigation</a>, and many others). The result is a faster, smoother app, which starts more quickly and transitions more smoothly between screens.</p>\n<p>The other major feature addition is the ability for Plexamp to be remotely controlled. Those with a good memory will remember that the older Plexamp v1 did have this feature, but lost it in the v3 upgrade. Bringing back remote control also unblocks work on a headless version of Plexamp for the Pi, and given that it means bundling a full HTTP server into the app, lots of other innovation is now possible.</p>\n<p>We hope you enjoy this new release, and thank you so much for all the love, helpful bug reports and and great feature suggestions along the way!</p>\n<h3></h3>\n<p><a href=\"#added-2\"></a>Added</p>\n<ul>\n<li>Much faster/smoother navigation.</li>\n<li>Support for being remote controlled.</li>\n<li>Translucent header.</li>\n<li>\u201cReconnect to Players\u201d setting (@C_RRooney).</li>\n<li>iOS: Setting to hide status bar.</li>\n<li>Android: Move to AAudio as default.</li>\n</ul>\n<h3></h3>\n<p><a href=\"#fixed-3\"></a>Fixed</p>\n<ul>\n<li>Respect sort order for library/albums when displaying expanded album view.</li>\n<li>Similar Artists page now uses the grid view.</li>\n<li>Sort Appears On albums by release date.</li>\n<li>Deletion icon in some menus was inconsistent.</li>\n<li>Controlling player streaming from TIDAL didn\u2019t load seekprint.</li>\n<li>Remote TIDAL now playing item could show out of date.</li>\n<li>TIDAL music added to library could play incorrect quality.</li>\n<li>Refresh and shuffle settings weren\u2019t working with remote control.</li>\n<li>Remote control could fail to connect.</li>\n<li>Play queue would not refresh after remote change.</li>\n<li>Repeat all didn\u2019t work with play queues of size one.</li>\n<li>Hitting |&lt; button on first track with repeat on didn\u2019t skip to the last track.</li>\n<li>Repeating offline shuffled play queues didn\u2019t always work.</li>\n<li>In some cases, AutoPlay didn\u2019t work at the end of a playlist.</li>\n<li>In light themes, music skip icons were the wrong color.</li>\n<li>Style/genre album counts could be incorrect.</li>\n<li>Incorrect margins switching between list and grid views.</li>\n<li>Crash initializing audio.</li>\n<li>Collections view could browse to the wrong collection in some cases (thanks <a href=\"/u/owen\">@Owen</a> R).</li>\n<li>Extreme memory usage with high resolution PNG posters.</li>\n<li>Opus albums wouldn\u2019t show bitrate.</li>\n<li>Improve sign-in screen field suggestions.</li>\n<li>Android: Double-tapping headphone button to skip could result in playback pausing (thanks to <a href=\"/u/doctorzeromd\">@doctorzeromd</a>).</li>\n<li>Android: Google Assistant driving mode could not browse the library.</li>\n<li>Android: Remove \u201chide status bar\u201d setting (for now, at least).</li>\n<li>iOS: Shuffle mode was toggled incorrectly in some cases.</li>\n<li>iOS: Slide Over player layout on some iPads.</li>\n</ul>\n<p>Source: https://forums.plex.tv/t/221280/38</p></div>",
-            "date_published": "2022-02-14T18:42:43+00:00",
-            "authors": [
-                {
-                    "name": "samwiseg0",
-                    "url": "https://www.reddit.com/user/samwiseg0"
                 }
             ]
         }
