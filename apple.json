@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "141lke2",
+            "url": "/r/apple/comments/141lke2/apple_announces_ios_17/",
+            "external_url": "https://www.theverge.com/2023/6/5/23738813/apple-ios-17-features-specs-updates-wwdc-2023?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+            "title": "Apple announces iOS 17",
+            "content_html": "<caption>Open: <a href='https://www.theverge.com/2023/6/5/23738813/apple-ios-17-features-specs-updates-wwdc-2023?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter'>www.theverge.com</a> | <a href='https://reddit.com/r/apple/comments/141lke2/apple_announces_ios_17/'>Reddit</a></caption>",
+            "date_published": "2023-06-05T17:20:38+00:00",
+            "authors": [
+                {
+                    "name": "aaronp613",
+                    "url": "https://www.reddit.com/user/aaronp613"
+                }
+            ]
+        },
+        {
             "id": "141lyi4",
             "url": "/r/apple/comments/141lyi4/apple_announces_new_namedrop_contact_sharing/",
             "external_url": "https://www.macrumors.com/2023/06/05/namedrop-apple-ios-17/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "oznux",
                     "url": "https://www.reddit.com/user/oznux"
-                }
-            ]
-        },
-        {
-            "id": "113syyf",
-            "url": "/r/apple/comments/113syyf/homebrew_400_release/",
-            "external_url": "https://brew.sh/2023/02/16/homebrew-4.0.0/",
-            "title": "Homebrew 4.0.0 release",
-            "content_html": "<caption>Open: <a href='https://brew.sh/2023/02/16/homebrew-4.0.0/'>brew.sh</a> | <a href='https://reddit.com/r/apple/comments/113syyf/homebrew_400_release/'>Reddit</a></caption>",
-            "date_published": "2023-02-16T15:17:45+00:00",
-            "authors": [
-                {
-                    "name": "donutloop",
-                    "url": "https://www.reddit.com/user/donutloop"
                 }
             ]
         }
