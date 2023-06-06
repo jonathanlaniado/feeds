@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "142o6d3",
+            "url": "/r/MacOS/comments/142o6d3/pointer_acceleration_can_be_disabled_in_sonoma/",
+            "external_url": "https://i.redd.it/a33084l5tf4b1.png",
+            "title": "Pointer acceleration can be disabled in Sonoma!",
+            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/MacOS/comments/142o6d3/pointer_acceleration_can_be_disabled_in_sonoma/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/a33084l5tf4b1.png\" />",
+            "date_published": "2023-06-06T18:02:09+00:00",
+            "authors": [
+                {
+                    "name": "DisplayDeep1265",
+                    "url": "https://www.reddit.com/user/DisplayDeep1265"
+                }
+            ]
+        },
+        {
             "id": "141mgyd",
             "url": "/r/MacOS/comments/141mgyd/appollo_reddit_app_in_the_widgets_only_if_reddit/",
             "external_url": "https://i.redd.it/e47ommiam84b1.jpg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "jojoknob",
                     "url": "https://www.reddit.com/user/jojoknob"
-                }
-            ]
-        },
-        {
-            "id": "vtlubt",
-            "url": "/r/MacOS/comments/vtlubt/im_developing_a_volumebrightnessnow_playing_osd/",
-            "external_url": "https://v.redd.it/fpirqgv446a91",
-            "title": "I'm developing a Volume/Brightness/Now Playing OSD!",
-            "content_html": "<caption>Open in: <a href='https://v.redd.it/fpirqgv446a91'>v.redd.it</a> | <a href='https://reddit.com/r/MacOS/comments/vtlubt/im_developing_a_volumebrightnessnow_playing_osd/'>Reddit</a> | <a href='apollo://reddit.com/r/MacOS/comments/vtlubt/im_developing_a_volumebrightnessnow_playing_osd/'>Apollo</a></caption>",
-            "date_published": "2022-07-07T15:54:21+00:00",
-            "authors": [
-                {
-                    "name": "Wouter_001",
-                    "url": "https://www.reddit.com/user/Wouter_001"
                 }
             ]
         }
