@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "144gc15",
+            "url": "/r/selfhosted/comments/144gc15/rselfhosted_will_be_going_dark_on_june_12th_to/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/144gc15/rselfhosted_will_be_going_dark_on_june_12th_to/",
+            "title": "/r/SelfHosted will be going dark on June 12th to protest the Reddit API changes that will kill 3rd party apps.",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/144gc15/rselfhosted_will_be_going_dark_on_june_12th_to/'>Reddit</a></caption><div><br></div><div><h3>Hey /r/selfhosted.</h3>\n<p>Today, we want to discuss an urgent matter that affects both the moderators and users of reddit alike. As you may or may not have heard, a recent <a href=\"https://www.reddit.com/r/reddit/comments/12qwagm/an_update_regarding_reddits_api/\"><strong>Reddit policy change</strong></a> threatens to kill many beloved third-party mobile apps (<strong><a href=\"https://www.reddit.com/r/redditisfun/comments/13wxepd/rif_dev_here_reddits_api_changes_will_likely_kill/\">Reddit is Fun</a>, <a href=\"https://www.reddit.com/r/getnarwhal/comments/13wv038/reddit_have_quoted_the_apollo_devs_a_ridiculous/jmdqtyt/\">Narwhal</a>, <a href=\"https://www.reddit.com/r/baconreader/comments/13wveb2/reddit_api_changes_and_baconreader/\">BaconReader</a></strong>, and many more), making a various features not seen in the official mobile app permanently inaccessible to users. Starting on July 1st, Reddit has unilaterally decided to impose exorbitant charges on third-party app developers for utilizing their API. This includes the developer for <a href=\"https://www.reddit.com/r/apolloapp/comments/13ws4w3/had_a_call_with_reddit_to_discuss_pricing_bad/\"><strong>Apollo</strong></a>, being charged <a href=\"https://www.reddit.com/r/apolloapp/comments/13ws4w3/had_a_call_with_reddit_to_discuss_pricing_bad/\"><strong>1.7 million dollars per month</strong></a> for API requests.</p>\n<p>On June 12th, <a href=\"https://www.reddit.com/r/ModCoord/comments/1401qw5/incomplete_and_growing_list_of_participating/\"><strong>many subreddits</strong></a> will be <a href=\"https://www.reddit.com/r/ModCoord/comments/1412ee8/what_going_dark_means_going_private_is_discouraged/\"><strong>going dark</strong></a> in protest of this policy change. Some will return after 48 hours; others will go away permanently unless the issue is adequately addressed. </p>\n<p><strong>/r/selfhosted</strong> is planning on joining these subreddits in solidarity, requesting that Reddit revisit this policy change. 3rd party applications have been the lifeblood of Reddit for the past 10+ years and should be here in the future.</p>\n<p><strong>What can you do?</strong></p>\n<ol>\n<li><strong>Complain.</strong> Message the mods of /r/reddit.com, who are the admins of the site, and comment in relevant threads on /r/reddit, such as <a href=\"https://www.reddit.com/r/reddit/comments/12qwagm/an_update_regarding_reddits_api/\">this one</a>, leave a negative review on their official iOS or Android app- and sign your username in support.</li>\n<li><strong>Spread the word.</strong> Rabble-rouse on related subreddits. Meme it up, make it spicy.</li>\n<li><strong>Boycott</strong> and spread the word to Reddit's competition! Stay off Reddit entirely from June 12th through the 13th- instead, maybe touch some grass, call your grandma, or go install that new app you've been dying to try.</li>\n<li><strong>Don't be a jerk.</strong> As upsetting as this may be, threats, profanity, and vandalism will be worse than useless in getting people on our side. Please make every effort to be as restrained, polite, reasonable, and law-abiding as possible.</li>\n</ol>\n<h3>Here are some helpful links on the topic:</h3>\n<ul>\n<li><a href=\"https://www.reddit.com/r/reddit/comments/12qwagm/an_update_regarding_reddits_api/\">The official announcement from Reddit</a></li>\n<li><a href=\"https://www.reddit.com/r/ModCoord/comments/13xh1e7/an_open_letter_on_the_state_of_affairs_regarding/\">An Open Letter from /r/ModCoord</a></li>\n<li><a href=\"https://i.redd.it/zqptto18e34b1.jpg\">A helpful infographic on the topic</a></li>\n<li><a href=\"https://www.reddit.com/r/ModCoord/wiki/index\">A list of participating subreddits</a></li>\n<li><a href=\"https://www.theverge.com/2023/6/5/23749188/reddit-subreddit-private-protest-api-changes-apollo-charges\">The Verge article on the subject</a></li>\n</ul>\n<p><strong>Additional Info for /r/selfhosted</strong></p>\n<ul>\n<li>/r/datahoarder is orchestrating a joint effort in archiving Reddit. The irony in this is not lost on me. <ul>\n<li>see /u/joeyvanbeek 's <a href=\"https://www.reddit.com/r/selfhosted/comments/144gc15/rselfhosted_will_be_going_dark_on_june_12th_to/jnfe64l/\">comment below</a></li>\n<li>Working with <a href=\"https://wiki.archiveteam.org/\">ArchiveTeam</a></li>\n</ul>\n</li>\n</ul></div>",
+            "date_published": "2023-06-08T18:02:31+00:00",
+            "authors": [
+                {
+                    "name": "kmisterk",
+                    "url": "https://www.reddit.com/user/kmisterk"
+                }
+            ]
+        },
+        {
             "id": "143diuj",
             "url": "/r/selfhosted/comments/143diuj/reddit_temporarily_ban_subreddit_and_user/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/143diuj/reddit_temporarily_ban_subreddit_and_user/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Zerodya",
                     "url": "https://www.reddit.com/user/Zerodya"
-                }
-            ]
-        },
-        {
-            "id": "xyvyh6",
-            "url": "/r/selfhosted/comments/xyvyh6/a_definitive_guide_for_nginx_lets_encrypt_and_all/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/xyvyh6/a_definitive_guide_for_nginx_lets_encrypt_and_all/",
-            "title": "A definitive guide for Nginx + Let's Encrypt and all the redirect shenanigans",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/selfhosted/comments/xyvyh6/a_definitive_guide_for_nginx_lets_encrypt_and_all/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/xyvyh6/a_definitive_guide_for_nginx_lets_encrypt_and_all/'>Apollo</a></caption> <div><p>Even as someone who manages servers for a living, I had to google several times to look at the syntax for nginx redirects, redirecting www to non www, redirecting http to https etc etc. Also I had issues with certbot renew getting redirected because of all the said redirect rules I created. So two years ago, I sat down and wrote a guide for myself, to include all possible scenarios when it comes to Nginx + Lert's encrypt + Redirects, so here it is. I hope you find it useful</p>\n<p>&#x200B;</p>\n<p>&#x200B;</p>\n<p><a href=\"https://esc.sh/blog/lets-encrypt-and-nginx-definitive-guide/\">https://esc.sh/blog/lets-encrypt-and-nginx-definitive-guide/</a></p></div>",
-            "date_published": "2022-10-08T15:45:04+00:00",
-            "authors": [
-                {
-                    "name": "m4nz",
-                    "url": "https://www.reddit.com/user/m4nz"
                 }
             ]
         }
