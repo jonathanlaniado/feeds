@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "143ic3b",
+            "url": "/r/macapps/comments/143ic3b/export_an_app_that_can_bulk_export_apple_notes_to/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/143ic3b/export_an_app_that_can_bulk_export_apple_notes_to/",
+            "title": "Export: An app that can bulk export Apple Notes to markdown",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/143ic3b/export_an_app_that_can_bulk_export_apple_notes_to/'>Reddit</a></caption><div><br></div><div><p>I really like Apple Notes.  My only problem with it was the lack of export. You could export notes, one at a time to PDF, or you could use some hack on your iPad to get the exported as RTF.</p>\n<p>This \"lock in\" prevented me from really considering Apple Notes.</p>\n<p>Then I discovered an app called Export in the Mac App Store.</p>\n<p><a href=\"https://apps.apple.com/us/app/exporter/id1099120373?ls=1&amp;mt=12\">https://apps.apple.com/us/app/exporter/id1099120373?ls=1&amp;mt=12</a></p>\n<p>This can export all your notes as markdown and include all attachments.</p>\n<p>This puts Apple Notes back on the list for me.</p>\n<p>Now I just need to find a way to scrape a web page into an Apple Note.</p></div>",
+            "date_published": "2023-06-07T16:47:16+00:00",
+            "authors": [
+                {
+                    "name": "plazman30",
+                    "url": "https://www.reddit.com/user/plazman30"
+                }
+            ]
+        },
+        {
             "id": "141oww3",
             "url": "/r/macapps/comments/141oww3/developer_colour_palette_is_free_for_wwdc_week/",
             "external_url": "https://apps.apple.com/gb/app/developer-colour-palette/id6447426581",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Mstormer",
                     "url": "https://www.reddit.com/user/Mstormer"
-                }
-            ]
-        },
-        {
-            "id": "zq1kea",
-            "url": "/r/macapps/comments/zq1kea/spotica_apple_music_spotify_menubar_song_display/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/zq1kea/spotica_apple_music_spotify_menubar_song_display/",
-            "title": "Spotica : Apple Music & Spotify menubar song display and control [99% free]",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/zq1kea/spotica_apple_music_spotify_menubar_song_display/'>Reddit</a></caption><div><br></div><div><p>Stumbled upon this gem today while searching for something to display the current song and control it from the menubar : Spotica (AFAIK it hasn't been mentioned in this sub yet).</p>\n<p><a href=\"https://spoti.ca\">Website link</a></p>\n<p><a href=\"https://apps.apple.com/ca/app/spotica-menu/id570549457?mt=12\">Appstore link</a></p>\n<p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/ps15zeaxrw6a1.png?width=530&amp;format=png&amp;auto=webp&amp;s=bafaf8dd6b509b90e74d2626196e359288511b4a\">The menubar item</a></p>\n<p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/8d70m0amrw6a1.png?width=394&amp;format=png&amp;auto=webp&amp;s=3aed34fbd740e747bab5a5c1322fe1181d3b445a\">Submenu displayed</a></p>\n<p>&#x200B;</p>\n<p>Spotica highlights :</p>\n<p>- Looks awesome</p>\n<p>- Ability to control music, rate, adjust volume (system and music program)</p>\n<p>- Highly customizable</p>\n<p>- Miniplayer</p>\n<p>- Compatible with Apple Music and Spotify</p>\n<p>- 99% Free : all the functionality is free, only two very minor cosmetic settings require a one time $5 payment</p>\n<p>&#x200B;</p>\n<p>I truly think it's awesome and paid the $5 to support the dev.</p>\n<p>I hope some of you like it \ud83d\ude0a</p></div>",
-            "date_published": "2022-12-19T19:49:20+00:00",
-            "authors": [
-                {
-                    "name": "DaMastah69",
-                    "url": "https://www.reddit.com/user/DaMastah69"
                 }
             ]
         }
