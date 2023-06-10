@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "145ymem",
+            "url": "/r/macapps/comments/145ymem/we_will_also_be_joining_the_reddit_blackout_from/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/145ymem/we_will_also_be_joining_the_reddit_blackout_from/",
+            "title": "We will also be joining the Reddit Blackout from June 12th to 14th to contribute to the protest of the planned API changes that will kill 3rd party apps.",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/145ymem/we_will_also_be_joining_the_reddit_blackout_from/'>Reddit</a></caption><div><br></div><div><p>Hi\u00a0r/MacApps</p>\n<p>&#x200B;</p>\n<p>Recently Reddit Inc has announced changes to their API which, if enacted, will shut down many, if not all, 3rd party apps that a large number of Redditors use to access and enjoy their favourite communities.</p>\n<p>One of the most critical changes to the API is that it is moving from a free to a paid model, resulting in expenses that developers of 3rd party apps simply cannot afford. To put the price change in to context, Apollo, one of the most popular 3rd party apps for Reddit, is looking at a cost of $1.7 million per month to continue operating. That's a cost of $12,000 per 50 million API requests. In contrast, Apollo pays Imgur $166 for every 50 million API calls.</p>\n<p>&#x200B;</p>\n<p>This means popular apps like\u00a0Apollo,\u00a0Reddit Is Fun,\u00a0Narwhal\u00a0and many more will have to shut down, permanently.</p>\n<p>Even if you're not using a 3rd party app yourself, these changes are likely to impact the communities you enjoy as well, with the vast majority of moderation teams relying on 3rd party or self-made tools, that utilize Reddit's API.</p>\n<p>&#x200B;</p>\n<p>What happens; On June 12th,\u00a0we and a growing number of other subs\u00a0- large and small - will go dark for 48 hours. During that time, you will not be able to view or post any content on\u00a0r/MacApps. This action isn't something we take lightly.</p>\n<p>We understand that many of you enjoy coming here on a daily basis to keep up with the apps, but we believe that we must take a stand on this topic - and this is how we can do so.</p>\n<p>We understand that Reddit is a company that has to make money in order to offer us a place to be the community that we are - but killing beloved 3rd party apps is not they way to do it. We are not asking Reddit to provide a paid service for free - we are asking for reasonable pricing for apps that people have come to love and depend on to participate in their communities.</p>\n<p>&#x200B;</p>\n<p>What you can do to support this:</p>\n<p>While subs going dark is one thing, regular users can help as well.</p>\n<p>Reach out to Reddit via the channels available to you: Modmail\u00a0r/reddit, comment in relevant posts regarding the API changes, submit your comments via the contact forms.</p>\n<p>Spread the word about the changes and the consequences where you can. Doesn't have to be on Reddit. The important thing is getting it attention.</p>\n<p>Participate in the communities that highlight this issue:\u00a0r/Save3rdPartyApps,\u00a0r/apolloapp,\u00a0r/redditisfun,\u00a0r/getnarwhal</p>\n<p>And finally stay off Reddit completely from June 12th to 14th. The blackout is one thing, but users staying away from the site entirely will send an equally important message.</p>\n<p>&#x200B;</p>\n<p>Thank you,</p>\n<p>&#x200B;</p></div>",
+            "date_published": "2023-06-10T12:07:59+00:00",
+            "authors": [
+                {
+                    "name": "Pandemojo",
+                    "url": "https://www.reddit.com/user/Pandemojo"
+                }
+            ]
+        },
+        {
             "id": "145h5bi",
             "url": "/r/macapps/comments/145h5bi/weather_in_the_menu_bar/",
             "external_url": "https://v.redd.it/as9o5ouu625b1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ParthJadhav",
                     "url": "https://www.reddit.com/user/ParthJadhav"
-                }
-            ]
-        },
-        {
-            "id": "zwi4v7",
-            "url": "/r/macapps/comments/zwi4v7/i_made_a_time_tracking_app_that_helps_you_improve/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/zwi4v7/i_made_a_time_tracking_app_that_helps_you_improve/",
-            "title": "I made a time tracking app that helps you improve your work-life balance",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/zwi4v7/i_made_a_time_tracking_app_that_helps_you_improve/'>Reddit</a></caption><div><br></div><div><p>Over the last few months, I\u2019ve been working on an app to help those who struggle with work-life balance\u2014something I think many of us can relate to these days.</p>\n<p>After some time in Beta, I\u2019m excited to finally launch Balance! \ud83d\ude80 </p>\n<p>Balance is essentially a time tracking app but with a focus on work-life balance, with features including\u2026 </p>\n<p>\u2192 Manual clocking system that helps you mentally check in and out of work<br />\n\u2192 Regular break reminders<br />\n\u2192 Focus timer, for those who like the Pomodoro Technique<br />\n\u2192 ...and more!</p>\n<p>The app is free to use, but there are some optional Pro features for those who get value from the app and want more.</p>\n<p>Maybe something for you?</p>\n<p>It launched on Product Hunt today: https://www.producthunt.com/posts/balance-855f20db-49ff-48ee-8096-6d33de52b71a</p></div>",
-            "date_published": "2022-12-27T15:26:03+00:00",
-            "authors": [
-                {
-                    "name": "alexandersandberg",
-                    "url": "https://www.reddit.com/user/alexandersandberg"
                 }
             ]
         }
