@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "145ewl6",
+            "url": "/r/selfhosted/comments/145ewl6/with_reddit_sunsetting_im_looking_back_to_rss/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/145ewl6/with_reddit_sunsetting_im_looking_back_to_rss/",
+            "title": "With Reddit sunsetting, I'm looking back to RSS. What are the best current tools?",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/145ewl6/with_reddit_sunsetting_im_looking_back_to_rss/'>Reddit</a></caption><div><br></div><div><p>Because the ways I access reddit are being stripped away (3rd party apps, and probably old.reddit), I've been thinking about going back to RSS.<br />\nGoogle Reader and Yahoo Pipes no longer exist, so I'm searching for tools that present RSS feeds with a good UI, and also UI tools that can be used to craft and scrape RSS feeds.<br />\nDoes anybody have suggestions?</p></div>",
+            "date_published": "2023-06-09T19:49:54+00:00",
+            "authors": [
+                {
+                    "name": "Xuis",
+                    "url": "https://www.reddit.com/user/Xuis"
+                }
+            ]
+        },
+        {
             "id": "144i3tz",
             "url": "/r/selfhosted/comments/144i3tz/how_should_i_configure_these_settings_for_porn/",
             "external_url": "https://i.redd.it/lan4nnudfu4b1.jpg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "mgr1397",
                     "url": "https://www.reddit.com/user/mgr1397"
-                }
-            ]
-        },
-        {
-            "id": "y15tmv",
-            "url": "/r/selfhosted/comments/y15tmv/redhat_linux_wordpress_founders_fund_open_source/",
-            "external_url": "https://techcrunch.com/2022/10/11/nocodb-takes-on-airtable-with-open-source-no-code-database-that-works-with-production-data/",
-            "title": "RedHat Linux & WordPress founders fund Open Source project NocoDB to challenge Airtable",
-            "content_html": "<caption>Open in: <a href='https://techcrunch.com/2022/10/11/nocodb-takes-on-airtable-with-open-source-no-code-database-that-works-with-production-data/'>techcrunch.com</a> | <a href='https://reddit.com/r/selfhosted/comments/y15tmv/redhat_linux_wordpress_founders_fund_open_source/'>Reddit</a> | <a href='apollo://reddit.com/r/selfhosted/comments/y15tmv/redhat_linux_wordpress_founders_fund_open_source/'>Apollo</a></caption>",
-            "date_published": "2022-10-11T10:45:21+00:00",
-            "authors": [
-                {
-                    "name": "dstala",
-                    "url": "https://www.reddit.com/user/dstala"
                 }
             ]
         }
