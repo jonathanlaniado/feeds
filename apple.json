@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "146xm2x",
+            "url": "/r/apple/comments/146xm2x/sink_it_for_reddit_a_totally_free_ios_safari/",
+            "external_url": "https://www.reddit.com/r/apple/comments/146xm2x/sink_it_for_reddit_a_totally_free_ios_safari/",
+            "title": "Sink It for Reddit, a totally free iOS Safari extension to make Reddit less crappy and user hostile.",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/apple/comments/146xm2x/sink_it_for_reddit_a_totally_free_ios_safari/'>Reddit</a></caption><div><br></div><div><p>Hey /Apple</p>\n<p>I'm sure most of you know the BS going on with third party apps. Reddit wants me, and by extension, you to use their damned app to consume the content people like us generate. As a matter of principle, I refuse to install their native app where I have zero control over what's shown to me. (Plus it's horrible to use!)</p>\n<p>Harder for us to block ads and much easier for them to scoop up your data, right? To further that agenda, simply browsing their web version on Safari now means we\u2019re inundated with, well, waves of crap. </p>\n<p>It might be a modal covering half the screen with links to the App Store, an immediate popup asking you to login, or a header screaming \u201cthe app is 10x better\u201d. Bottomline: it has to go. </p>\n<p>&nbsp;</p>\n<p><strong>Introducing Sink It</strong></p>\n<p>Finally fed up, I\u2019ve built a super tiny, super minimal Safari web extension to deal with this BS. It\u2019s called Sink It for Reddit. You can get it on the <a href=\"https://apps.apple.com/us/app/sink-it-for-reddit/id6449873635\">App Store</a>.</p>\n<p>Sink It is completely free and has <strong>no BS \u2014 no ads, no in-app purchases, and no subscriptions</strong>.</p>\n<p>&nbsp;</p>\n<p><strong>What does it do?</strong></p>\n<p>Currently, it removes most \"zomg please use our app\u201d banners as well as login nags from Reddit. It also removes most \"promoted\" posts. </p>\n<p>If you're up against companies as big as Reddit, it's a constant tug of war. Reddit particularly hates it when we tinker with the web version and does some shenanigans internally to break the extension. I've listed down <a href=\"https://gorekt.com/sinkit/common-issues\">a few issues</a> users are facing and how to fix them. </p>\n<p>It\u2019s also extremely minimal by design. The app <em>doesn\u2019t track behavioral or usage history</em> including keeping a count of how many times it has blocked pop ups or have fancy widgets or analytics. </p>\n<p>&nbsp;</p>\n<p><strong>Privacy First</strong></p>\n<p>All the functionality/pattern matching/blocking happens on your device with no data getting exfiltrated. Even something as regular as app analytics or telemetry has been stripped away in the name of privacy. </p>\n<p>&nbsp;</p>\n<p><strong>\ud83d\udc4b\ud83c\udffc</strong></p>\n<p>Thanks for reading this wall of text and I do hope you\u2019ll give Sink It a shot. I know a lot of you have gotten equally annoyed as me with what Reddit is doing these days.\n&nbsp;</p>\n<p>PS: <a href=\"https://i.imgur.com/XGw1ys8.jpg\">The irony of advertising a Reddit nag nuking app on Reddit.. </a></p></div>",
+            "date_published": "2023-06-11T16:01:53+00:00",
+            "authors": [
+                {
+                    "name": "SpecterAscendant",
+                    "url": "https://www.reddit.com/user/SpecterAscendant"
+                }
+            ]
+        },
+        {
             "id": "146ervo",
             "url": "/r/apple/comments/146ervo/iphone_subreddit_going_dark_indefinitely/",
             "external_url": "https://9to5mac.com/2023/06/10/iphone-subreddit-going-dark-indefinitely/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Mr__X__",
                     "url": "https://www.reddit.com/user/Mr__X__"
-                }
-            ]
-        },
-        {
-            "id": "11wm2s3",
-            "url": "/r/apple/comments/11wm2s3/iphone_15_pro_leak_reveals_unified_volume_button/",
-            "external_url": "https://www.macrumors.com/2023/03/20/iphone-15-volume-mute-buttons-cad/",
-            "title": "iPhone 15 Pro Leak Reveals Unified Volume Button and Mute Button",
-            "content_html": "<caption>Open: <a href='https://www.macrumors.com/2023/03/20/iphone-15-volume-mute-buttons-cad/'>www.macrumors.com</a> | <a href='https://reddit.com/r/apple/comments/11wm2s3/iphone_15_pro_leak_reveals_unified_volume_button/'>Reddit</a></caption>",
-            "date_published": "2023-03-20T15:38:23+00:00",
-            "authors": [
-                {
-                    "name": "cheesepuff07",
-                    "url": "https://www.reddit.com/user/cheesepuff07"
                 }
             ]
         }
