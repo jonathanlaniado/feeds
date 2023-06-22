@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "14g49uf",
+            "url": "/r/macapps/comments/14g49uf/today_im_launching_a_public_beta_of_my_new_app/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/14g49uf/today_im_launching_a_public_beta_of_my_new_app/",
+            "title": "Today I'm launching a public beta of my new app Godspeed, a blazingly fast, 100% keyboard oriented todo manager",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/14g49uf/today_im_launching_a_public_beta_of_my_new_app/'>Reddit</a></caption><div><br></div><div><p>Hi everybody, today I'm launching a public beta for an app I've spent the last year working on: Godspeed.</p>\n<p>Godspeed is a todo manager built with two priorities in mind: speed and 100% keyboard orientation. My goal with Godspeed was to make every single action doable with just your keyboard, and to have those actions respond instantly. Like Superhuman for your todo list.</p>\n<p>I built Godspeed for myself and have been using it daily for about six months now. Before that I used a couple other apps, like OmniFocus, but have found that they all have weak keyboard support and feel pretty slow.</p>\n<p>So Godspeed is my answer to those weak points.</p>\n<p>Something I want to note especially for the r/macapps crowd: Godspeed is an Electron app. But it may be the fastest and most memory-efficient Electron app you've ever used. It generally uses less memory than most of the native apps I run, and it's definitely a hell of a lot faster than them.</p>\n<p>A few of my friends have started using it in the past couple months and their feedback has been incredibly valuable. So I've decided to open up access to more folks for a public beta. Access is free during the beta, but if all goes well I do eventually intend to offer subscription and one-time purchase options. And I'll have discounts available for beta users!</p>\n<p>Thanks for checking it out, I'd appreciate any feedback you have!</p>\n<p><a href=\"https://godspeedapp.com\">https://godspeedapp.com</a></p>\n<p>&#x200B;</p>\n<p><a href=\"https://i.redd.it/88n2lyyvrk7b1.gif\">a short gif showing Godspeed in action</a></p></div>",
+            "date_published": "2023-06-22T13:57:45+00:00",
+            "authors": [
+                {
+                    "name": "1231313",
+                    "url": "https://www.reddit.com/user/1231313"
+                }
+            ]
+        },
+        {
             "id": "145ymem",
             "url": "/r/macapps/comments/145ymem/we_will_also_be_joining_the_reddit_blackout_from/",
             "external_url": "https://www.reddit.com/r/macapps/comments/145ymem/we_will_also_be_joining_the_reddit_blackout_from/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "VNzAbguvat",
                     "url": "https://www.reddit.com/user/VNzAbguvat"
-                }
-            ]
-        },
-        {
-            "id": "zx6z1w",
-            "url": "/r/macapps/comments/zx6z1w/announcing_the_release_of_verve_v010_a/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/zx6z1w/announcing_the_release_of_verve_v010_a/",
-            "title": "\ud83d\ude80 Announcing the Release of Verve v0.1.0 - A Lightweight and Blazingly Fast Launcher for MacOS",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/zx6z1w/announcing_the_release_of_verve_v010_a/'>Reddit</a></caption><div><br></div><div><p>Hey everyone,<br />\nI am excited to announce the release of Verve v0.1.0, a lightweight and blazingly fast launcher for accessing and opening applications, files, and documents on MacOS.  </p>\n<p>Verve serves as a replacement for popular tools like Spotlight, Raycast, and Alfred, and is written in the Rust programming language using the Tauri Framework.<br />\nYou can download Verve now at <a href=\"https://github.com/ParthJadhav/verve\">https://github.com/ParthJadhav/verve</a>, and follow the development of the project on GitHub (<a href=\"https://github.com/ParthJadhav\">https://github.com/ParthJadhav</a>).   </p>\n<p>The default shortcut to launch Verve is CMD + Shift + G, and you can access the Preferences window by pressing CMD + , or by clicking the menu bar icon and selecting Preferences. Verve can also be set to launch at login.<br />\nDespite being in the early stages of development, Verve is already showing great promise as a reliable and efficient tool for organizing and accessing important information on your Mac. If you are interested in getting involved and making a positive impact on this exciting project, we welcome your participation.<br />\nThank you for your support, and we hope you enjoy using Verve!</p></div>",
-            "date_published": "2022-12-28T11:09:16+00:00",
-            "authors": [
-                {
-                    "name": "ParthJadhav",
-                    "url": "https://www.reddit.com/user/ParthJadhav"
                 }
             ]
         }
