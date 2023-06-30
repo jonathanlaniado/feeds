@@ -8,6 +8,20 @@
     "favicon": "https://a.thumbs.redditmedia.com/C8S1EiCjt3YZ3GbvvB4_hXT6VRzCs9nxXEsDwRRvUF8.png",
     "items": [
         {
+            "id": "14n3fhl",
+            "url": "/r/AppHookup/comments/14n3fhl/rapphookups_plan_for_the_future/",
+            "external_url": "https://www.reddit.com/r/AppHookup/comments/14n3fhl/rapphookups_plan_for_the_future/",
+            "title": "r/Apphookup\u2019s plan for the future.",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/AppHookup/comments/14n3fhl/rapphookups_plan_for_the_future/'>Reddit</a></caption><div><br></div><div><p>We, the moderators of r/Apphookup, have evaluated the suggestions provided in the previous discussion earnestly and I\u2019ll give a brief overview of our thoughts as follows:</p>\n<ol>\n<li>\n<p>Migration to another platform: This is not feasible due to the absence of an equivalent to AutoModerator on the current crop of r/Redditalternatives. Our subreddit\u2019s moderation is mostly handled by the AutoModerator bot and it would require a large team of moderators devoting multiple hours a day to replace it. We don\u2019t want to create a backup community that\u2019ll get overrun by spam faster than we can counter it.</p>\n</li>\n<li>\n<p>Switching the sub to NSFW: This certainly can be solution if the NSFW content is posted solely by the mods and regulated to not be a nuisance but just enough to grant r/Apphookup NSFW status and deny ad revenue to Reddit in furtherance of the protest.</p>\n</li>\n<li>\n<p>Reddit\u2019s official app is a nuisance compared to the soon to be gone third party clients since it is a battery hog, pushes irrelevant notifications regardless of Premium membership and collects a lot more data for tracking user behaviour.</p>\n</li>\n<li>\n<p>r/Apphookup has played its part in the blackout by staying private for a long time. We don\u2019t believe in doing half-assed protests by becoming a hub for all things John Oliver or going dark for a day every week since these type of protests achieve next to nothing in furtherance of the original purpose of the protest which was to drive down user engagement on this platform.</p>\n</li>\n</ol>\n<p>\u2014</p>\n<p>So r/Apphookup will stay on Reddit for now and will resume operations effective immediately. We\u2019ll figure out how to make the switch to NSFW without the admins losing their shit over by next week and then implement it. We also know that a majority of third-party Reddit clients are shutting down very soon so I have a interim solution.</p>\n<p>Reddit supports content delivery via RSS feeds. What this means is that you can stay informed about the posts made here without having to interact with Reddit\u2019s own app.</p>\n<ol>\n<li>You can download a free RSS reader like NetNewsWire https://apps.apple.com/app/id1480640210</li>\n<li>Choose a Local \u2018On my iPhone/iPad\u2019 account.</li>\n<li>Enter this URL (via the + button in the bottom &gt; Add Web Feed): https://www.reddit.com/r/AppHookup/.rss</li>\n<li>Make sure to allow notifications and background app refresh for NetNewsWire from iOS settings and then long press on the added Web Feeds in the app and select Get Info and enable \u2018Notify about new posts\u2019. Notifications are dependent on background app refresh in this case and iOS can take upto 2 days to allocate the system resources for it.  </li>\n</ol>\n<p>NetNewsWire is a free and open source app with a simple interface, notification support and widgets. Users will only receive the links, images and text of the posts made on r/Apphookup in a simple format. For the purpose of commenting and voting, tapping on the post in the app will open Reddit\u2019s website for the specific post inside in-app Safari (with your enabled adblockers) which will remember your Reddit login info. </p>\n<p>I\u2019ll also recommend using an Adblocker to hide Reddit\u2019s sponsored ads and preserve your privacy to an extent in Safari, the free functionality included in AdGuard https://apps.apple.com/us/app/id1047223162 is enough for this purpose but make sure to enable all of its filters.</p>\n<p>Reddit\u2019s RSS feeds also allow filtering posts by flairs, keywords, sorting, etc.</p>\n<p>For example, this feed only shows posts for iOS &amp; Mac deals: https://www.reddit.com/r/AppHookup/search.xml?q=iOS%20OR%20Mac%20OR%20iPad%20OR%20iPhone%20&amp;restrict_sr=1&amp;sort=new</p>\n<p>Here\u2019s some additional info to get you started and help customize your Reddit RSS feeds: </p>\n<p>https://www.howtogeek.com/320264/how-to-get-an-rss-feed-for-any-subreddit/</p>\n<p>https://www.reddit.com/r/pathogendavid/comments/tv8m9/pathogendavids_guide_to_rss_and_reddit/ </p>\n<p>https://danielmiessler.com/p/reddit-rss-functionality-explained/</p>\n<p>We hope these changes will be acceptable to everyone here and the RSS feeds will help our subreddit members to stay informed of the deals with the least engagement to Reddit. Your feedback on this post is welcome as always.</p></div>",
+            "date_published": "2023-06-30T15:24:40+00:00",
+            "authors": [
+                {
+                    "name": "Singhvistaar",
+                    "url": "https://www.reddit.com/user/Singhvistaar"
+                }
+            ]
+        },
+        {
             "id": "14fdmqr",
             "url": "/r/AppHookup/comments/14fdmqr/help_us_decide_what_to_do_next_with_rapphookup/",
             "external_url": "https://www.reddit.com/r/AppHookup/comments/14fdmqr/help_us_decide_what_to_do_next_with_rapphookup/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "VanlachO_o",
                     "url": "https://www.reddit.com/user/VanlachO_o"
-                }
-            ]
-        },
-        {
-            "id": "pjrwqh",
-            "url": "/r/AppHookup/comments/pjrwqh/windowsmaclinux_surviving_mars_2999_free_scifi/",
-            "external_url": "https://store.steampowered.com/app/464920/Surviving_Mars/",
-            "title": "[Windows/Mac/Linux] [Surviving Mars] [$29.99\u2013> Free] [Sci-fi city builder about colonizing Mars]",
-            "content_html": "<caption>Open in: <a href='https://store.steampowered.com/app/464920/Surviving_Mars/'>store.steampowered.com</a> | <a href='https://reddit.com/r/AppHookup/comments/pjrwqh/windowsmaclinux_surviving_mars_2999_free_scifi/'>Reddit</a> | <a href='apollo://reddit.com/r/AppHookup/comments/pjrwqh/windowsmaclinux_surviving_mars_2999_free_scifi/'>Apollo</a></caption>",
-            "date_published": "2021-09-07T17:39:18+00:00",
-            "authors": [
-                {
-                    "name": "Singhvistaar",
-                    "url": "https://www.reddit.com/user/Singhvistaar"
                 }
             ]
         }
