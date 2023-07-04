@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "14pdu0m",
+            "url": "/r/selfhosted/comments/14pdu0m/introducing_crackpipe_your_decentralized/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/14pdu0m/introducing_crackpipe_your_decentralized/",
+            "title": "Introducing Crackpipe - your decentralized, self-hosted gaming solution!",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/14pdu0m/introducing_crackpipe_your_decentralized/'>Reddit</a></caption><div><br></div><div><p>Hey folks,</p>\n<p>our team has worked tirelessly for a year to bring you Crackpipe, the open-source, decentralized, and liberal alternative to conventional cloud-based game platforms like Steam and Origin. We're thrilled to announce that Crackpipe is now available for everyone, and we're delighted to share it with the community as an open-source project.</p>\n<p>With Crackpipe, you and your friends can enjoy playing and tracking games on a shared file server, free from the restrictions of traditional platforms. Embracing \"alternatively obtained\" games, including DRM-free titles, Crackpipe offers a flexible and open approach to gaming - think Jellyfin, but for Videogames.</p>\n<p>Take full control of your gaming experience with Crackpipe's self-hosted approach. Explore your server's game collection, securely download, launch, and play games, and monitor your playtimes and progress - all even when the server is offline. Compare stats and play states with other users on the server for added fun.</p>\n<p>Our server features include automatic indexing of games, metadata enrichment with RAWG API, multi-user authentication, configurable logging, health monitoring, full-text search, filters, sorting, pagination, and a fully documented API. Crackpipe's high configurability ensures it fits your specific needs.</p>\n<p>Join us on this journey to embrace a more open, flexible, and enjoyable gaming experience for all. Try Crackpipe today and share your contributions, feedback, bug reports, and feature requests.</p>\n<p>Link: <a href=\"https://crackpipe.de/\">crackpipe.de</a></p>\n<p>You can also check out our launch at producthunt: <a href=\"https://www.producthunt.com/posts/crackpipe\">https://www.producthunt.com/posts/crackpipe</a></p>\n<p><strong>EDIT: Hey, let's take a breath, folks! We totally get your worries about the name. As mentioned before, it started as a fun joke and wasn't meant to go public. We're genuinely sorry if it has caused any distress, and we truly understand your personal situations. Your feedback is essential to us, so</strong> <a href=\"https://discord.gg/NEdNen2dSu\">head over to our Discord</a> <strong>and suggest fresh, creative names in the #new-name channel that fit the app's concept. Soon, we'll have a public poll on our blog where you can vote for your favorite name!</strong></p></div>",
+            "date_published": "2023-07-03T09:09:28+00:00",
+            "authors": [
+                {
+                    "name": "Alfagun74",
+                    "url": "https://www.reddit.com/user/Alfagun74"
+                }
+            ]
+        },
+        {
             "id": "14njea1",
             "url": "/r/selfhosted/comments/14njea1/privacy/",
             "external_url": "https://i.redd.it/rea10mdpm99b1.jpg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "TenseRestaurant",
                     "url": "https://www.reddit.com/user/TenseRestaurant"
-                }
-            ]
-        },
-        {
-            "id": "y8jriw",
-            "url": "/r/selfhosted/comments/y8jriw/new_to_selfhosting_and_first_dashboard_more_info/",
-            "external_url": "https://i.redd.it/ymqz7jqhzuu91.png",
-            "title": "New to selfhosting and first dashboard (more info at first comment)",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/selfhosted/comments/y8jriw/new_to_selfhosting_and_first_dashboard_more_info/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/ymqz7jqhzuu91.png\" />",
-            "date_published": "2022-10-20T00:57:18+00:00",
-            "authors": [
-                {
-                    "name": "FreeOriginal6",
-                    "url": "https://www.reddit.com/user/FreeOriginal6"
                 }
             ]
         }
