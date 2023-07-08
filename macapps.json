@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "14tfqsh",
+            "url": "/r/macapps/comments/14tfqsh/i_created_a_simple_and_intuitive_macos_app_to/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/14tfqsh/i_created_a_simple_and_intuitive_macos_app_to/",
+            "title": "I created a simple and intuitive MacOS app to track and manage job applications and interviews.",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/14tfqsh/i_created_a_simple_and_intuitive_macos_app_to/'>Reddit</a></caption><div><br></div><div><p>&#x200B;</p>\n<p>https://preview.redd.it/90luoa6r8lab1.png?width=2560&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=a427cfcc1389d5006a47d6944dfa22048ccf1ea6</p>\n<p>I recently shipped a free MacOS app called <a href=\"https://apps.apple.com/ca/app/jobsnail/id6449959070?mt=12\">JobSnail</a> - a simple job application and interview tracker. If you find yourself overwhelmed with hundreds of job applications and struggling to keep track of your interviews, like I did, give JobSnail a try! I built this app for personal use, but then decided to release in on the AppStore, because it may be of use for someone else.</p>\n<p>I made this post to ask for feedback on the app, so I will appreciate all your opinions. Thank you very much in advance for your help!</p></div>",
+            "date_published": "2023-07-07T18:48:27+00:00",
+            "authors": [
+                {
+                    "name": "mikeRaccoonDev",
+                    "url": "https://www.reddit.com/user/mikeRaccoonDev"
+                }
+            ]
+        },
+        {
             "id": "14g49uf",
             "url": "/r/macapps/comments/14g49uf/today_im_launching_a_public_beta_of_my_new_app/",
             "external_url": "https://www.reddit.com/r/macapps/comments/14g49uf/today_im_launching_a_public_beta_of_my_new_app/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "kutjelul",
                     "url": "https://www.reddit.com/user/kutjelul"
-                }
-            ]
-        },
-        {
-            "id": "zyde20",
-            "url": "/r/macapps/comments/zyde20/with_2022_over_soon_what_were_your_favorites_apps/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/zyde20/with_2022_over_soon_what_were_your_favorites_apps/",
-            "title": "With 2022 over soon, what were your favorites apps of the year?",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/zyde20/with_2022_over_soon_what_were_your_favorites_apps/'>Reddit</a></caption><div><br></div><div><p>(They don't need to have been released this year)</p>\n<p>What apps have been your favorite this year, and something you'd recommend people download? Please also list the app's function, and if you are the developer of the app, please notify! :) </p>\n<p>If linking or describing, please use the following formats:</p>\n<blockquote>\n<ul>\n<li>Paid \ud83d\udcb5</li>\n<li>Free \ud83e\udef4</li>\n<li>Sub \ud83d\udd01</li>\n</ul>\n</blockquote></div>",
-            "date_published": "2022-12-29T19:06:15+00:00",
-            "authors": [
-                {
-                    "name": "VNzAbguvat",
-                    "url": "https://www.reddit.com/user/VNzAbguvat"
                 }
             ]
         }
