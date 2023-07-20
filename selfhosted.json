@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "153p8u8",
+            "url": "/r/selfhosted/comments/153p8u8/psa_interserver_seems_to_be_using_bots_to_promote/",
+            "external_url": "https://i.redd.it/kdof3t8hwvcb1.png",
+            "title": "PSA: InterServer seems to be using bots to promote their products on r/selfhosted",
+            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/selfhosted/comments/153p8u8/psa_interserver_seems_to_be_using_bots_to_promote/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/kdof3t8hwvcb1.png\" />",
+            "date_published": "2023-07-19T08:42:39+00:00",
+            "authors": [
+                {
+                    "name": "QazCetelic",
+                    "url": "https://www.reddit.com/user/QazCetelic"
+                }
+            ]
+        },
+        {
             "id": "14pdu0m",
             "url": "/r/selfhosted/comments/14pdu0m/introducing_crackpipe_your_decentralized/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/14pdu0m/introducing_crackpipe_your_decentralized/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "geerlingguy",
                     "url": "https://www.reddit.com/user/geerlingguy"
-                }
-            ]
-        },
-        {
-            "id": "ybh4sw",
-            "url": "/r/selfhosted/comments/ybh4sw/seeing_my_friends_enjoy_my_self_hosted_apps_makes/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/ybh4sw/seeing_my_friends_enjoy_my_self_hosted_apps_makes/",
-            "title": "Seeing my friends enjoy my self hosted apps makes every hard part worth it.",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/ybh4sw/seeing_my_friends_enjoy_my_self_hosted_apps_makes/'>Reddit</a></caption><div><br></div><div><p>Bit of a rant here, but it feels so great to have people genuinely use your server outside of testing. It\u2019s one thing to have friends access and stream for a quick test, and then another to have them genuinely use the services and recommend them to others. Makes all the work worth it imo, and it helps me learn the best ways to streamline the experience.</p></div>",
-            "date_published": "2022-10-23T13:01:04+00:00",
-            "authors": [
-                {
-                    "name": "TenseRestaurant",
-                    "url": "https://www.reddit.com/user/TenseRestaurant"
                 }
             ]
         }
