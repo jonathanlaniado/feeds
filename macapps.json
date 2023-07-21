@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "154ujq0",
+            "url": "/r/macapps/comments/154ujq0/subscription_apps/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/154ujq0/subscription_apps/",
+            "title": "Subscription Apps",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/154ujq0/subscription_apps/'>Reddit</a></caption><div><br></div><div><p>Who's had enough of this bullshit trend of apps going to the ongoing subscription model. I'm well over it. Everything's a fucken subscription these days.</p>\n<p>What's the saying. \"You'll own nothing, and you'll be happy\". Well Klaus. I'm not fucken happy.</p></div>",
+            "date_published": "2023-07-20T15:45:09+00:00",
+            "authors": [
+                {
+                    "name": "cosmicpracticaljoke",
+                    "url": "https://www.reddit.com/user/cosmicpracticaljoke"
+                }
+            ]
+        },
+        {
             "id": "150lzdc",
             "url": "/r/macapps/comments/150lzdc/introducing_magicai_a_new_assistant_for_your_mac/",
             "external_url": "https://v.redd.it/l9pekgwkt6cb1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "tunabelly_software",
                     "url": "https://www.reddit.com/user/tunabelly_software"
-                }
-            ]
-        },
-        {
-            "id": "105594w",
-            "url": "/r/macapps/comments/105594w/apps_that_should_be_paid_but_are_not_part_5/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/105594w/apps_that_should_be_paid_but_are_not_part_5/",
-            "title": "Apps that should be paid, but are not (Part 5)",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/105594w/apps_that_should_be_paid_but_are_not_part_5/'>Reddit</a></caption><div><br></div><div><p>here are few apps that I found in last few weeks, </p>\n<p>some I am already using day-to-day basis, some I am giving a try!</p>\n<hr />\n<ul>\n<li><a href=\"https://github.com/FelixKratz/SketchyBar\">SketchyBar</a></li>\n<li>A highly customizable macOS status bar replacement</li>\n<li>just look at the <a href=\"https://github.com/FelixKratz/SketchyBar#demonstration-of-the-animation-system\">video demo</a> on this repo. WOW!</li>\n<li>\n<p>I needed this the day I bought the macbook.</p>\n</li>\n<li>\n<p><a href=\"https://github.com/dexterleng/KeyboardScroller.docs\">KeyboardScroller</a></p>\n</li>\n<li>Trackpad-smooth scrolling with keyboard shortcuts on macOS</li>\n<li>If you are familiar with <a href=\"https://karabiner-elements.pqrs.org/\">Karabiner-Elements</a>, it has similar configuration, but I find the KeyboardScroller scrolls much more like actual scroll wheel on a mouse</li>\n<li>\n<p>I am combining this with <a href=\"https://www.homerow.app/\">Homerow</a> (app from same folks as KeyboardScroller) to save keyboard-mouse switching constantly</p>\n</li>\n<li>\n<p><a href=\"https://github.com/lencx/ChatGPT\">chatgpt wrapper</a></p>\n</li>\n<li>ChatGPT Desktop Application (Mac, Windows and Linux)    </li>\n<li>has option to save prompts like Telegram bot commands</li>\n<li>\n<p>integration with <a href=\"https://github.com/f/awesome-chatgpt-prompts\">awesome-chatgpt-prompts</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/ExistentialAudio/BlackHole\">BlackHole</a></p>\n</li>\n<li>BlackHole is a modern macOS virtual audio driver that allows  applications to pass audio to other applications with zero additional  latency.</li>\n<li>Useful to directly records sounds from applications.</li>\n<li>\n<p>Combine it with quick player recordings</p>\n</li>\n<li>\n<p><a href=\"https://github.com/abiosoft/colima\">colima</a></p>\n</li>\n<li>Container runtimes on macOS (and Linux) with minimal setup</li>\n<li>\n<p>if you use Docker desktop, colima is alternative to that</p>\n</li>\n<li>\n<p><a href=\"https://github.com/httpie/httpie\">HTTPie</a></p>\n</li>\n<li>alternative to postman</li>\n<li>has AI features</li>\n</ul>\n<hr />\n<p>If you find any of these tools helpful to you, be sure to star the repo on Github to support the devs.</p>\n<hr />\n<p>Here's <a href=\"https://www.reddit.com/r/macapps/comments/zn9too/apps_that_should_be_paid_but_are_not_part_4/\">Part 4</a>, you can follow the chain of links in each post, if you looking for more such suggestions</p></div>",
-            "date_published": "2023-01-06T20:55:56+00:00",
-            "authors": [
-                {
-                    "name": "rootedMind",
-                    "url": "https://www.reddit.com/user/rootedMind"
                 }
             ]
         }
