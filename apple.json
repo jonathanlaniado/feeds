@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "15btoem",
+            "url": "/r/apple/comments/15btoem/apple_cracking_down_on_fingerprinting_with_new/",
+            "external_url": "https://www.engadget.com/apple-cracking-down-on-fingerprinting-with-new-app-store-api-rules-080007498.html",
+            "title": "Apple cracking down on 'fingerprinting' with new App Store API rules | Starting with iOS 17, developers will need to explain why they're using certain APIs.",
+            "content_html": "<caption>Open: <a href='https://www.engadget.com/apple-cracking-down-on-fingerprinting-with-new-app-store-api-rules-080007498.html'>www.engadget.com</a> | <a href='https://reddit.com/r/apple/comments/15btoem/apple_cracking_down_on_fingerprinting_with_new/'>Reddit</a></caption>",
+            "date_published": "2023-07-28T10:30:54+00:00",
+            "authors": [
+                {
+                    "name": "chrisdh79",
+                    "url": "https://www.reddit.com/user/chrisdh79"
+                }
+            ]
+        },
+        {
             "id": "154pdha",
             "url": "/r/apple/comments/154pdha/apple_threatens_to_pull_facetime_and_imessage_in/",
             "external_url": "https://www.macrumors.com/2023/07/20/apple-threatens-to-pull-facetime-and-imessage-uk/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MysteriousMask",
                     "url": "https://www.reddit.com/user/MysteriousMask"
-                }
-            ]
-        },
-        {
-            "id": "12afcyi",
-            "url": "/r/apple/comments/12afcyi/apple_halted_m2_chip_production_in_january_amid/",
-            "external_url": "https://www.macrumors.com/2023/04/03/apple-stopped-m2-chip-production-1q-2023/",
-            "title": "Apple Halted M2 Chip Production in January Amid 'Plummeting' Mac Sales",
-            "content_html": "<caption>Open: <a href='https://www.macrumors.com/2023/04/03/apple-stopped-m2-chip-production-1q-2023/'>www.macrumors.com</a> | <a href='https://reddit.com/r/apple/comments/12afcyi/apple_halted_m2_chip_production_in_january_amid/'>Reddit</a></caption>",
-            "date_published": "2023-04-03T09:53:09+00:00",
-            "authors": [
-                {
-                    "name": "AwesomeWhiteDude",
-                    "url": "https://www.reddit.com/user/AwesomeWhiteDude"
                 }
             ]
         }
