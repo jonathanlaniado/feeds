@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "16fy20u",
+            "url": "/r/macapps/comments/16fy20u/private_llm_a_gpt_chatbot_that_runs_fully_offline/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/16fy20u/private_llm_a_gpt_chatbot_that_runs_fully_offline/",
+            "title": "Private LLM: A GPT chatbot that runs fully offline on your Mac (and iPhone)",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/16fy20u/private_llm_a_gpt_chatbot_that_runs_fully_offline/'>Reddit</a></caption><div><br></div><div><p>Hello fellow Mac users,</p>\n<p>My app is an AI chatbot works fully offline, without any subscriptions or privacy sacrifices. I\u2019d <a href=\"https://old.reddit.com/r/ChatGPT/comments/14n09ph/personal_gpt_a_tiny_ai_chatbot_that_runs_fully/\">posted</a> <a href=\"https://old.reddit.com/r/apple/comments/14ijgtj/giveaway_personal_gpt_an_ai_chatbot_that_runs/\">about</a> this app on r/ChatGPT and r/Apple a few months ago, and got a great reception from both those subreddits.</p>\n<p>The app has come a long way since then. It started off as a universal iOS and macOS app with a fine tuned <a href=\"https://huggingface.co/togethercomputer/RedPajama-INCITE-Chat-3B-v1\">3B parameter LLM</a> on both macOS and iOS. Two months in, Apple asked me to rename the app (It was originally called Personal GPT) because OpenAI had a trademark on the term \u201cGPT\u201d in Switzerland. Eventually, I added a 7B parameter <a href=\"https://huggingface.co/Tap-M/Luna-AI-Llama2-Uncensored\">Llama 2 Uncensored</a> model as an optional download on iPhone 14 series phones and M1/M2 iPads. The current Mac app also ships with the 7B parameter Llama 2 Uncensored model by default.</p>\n<p>I wanted to wait until I had improved the macOS app to a point where it was super good, before posting it here on r/macapps. <a href=\"https://twitter.com/private_llm/status/1701140429033324805\">v1.3</a> of the macOS app was approved by Apple\u2019s Mac App Store review this morning, and latest version brings the amazing <a href=\"https://huggingface.co/WizardLM/WizardLM-13B-V1.2\">WizardLM 13B v1.2</a> model as an optional 6.9GB download for users with Apple Silicon Macs and at least 16GB of RAM. This is a <a href=\"https://chat.lmsys.org/?leaderboard\">SOTA</a> model that in some cases can outperform some internet hosted models. Don\u2019t take my word for it, try it out with these <a href=\"https://benchmarks.llmonitor.com\">prompts</a> or your own. We\u2019ve got a public <a href=\"https://testflight.apple.com/join/GmnO1fdb\">TestFlight beta</a> if you\u2019d like to try the app before buying it. It\u2019s a universal app, with means that if you purchase it on either the iOS App Store or the Mac App Store and you\u2019ll also get it on the other. Also, the app supports <a href=\"https://www.apple.com/family-sharing/\">Family Sharing</a>.</p>\n<p>I'm working on adding support for downloading even bigger (34B param) models for Apple Silicon Mac users with 32GB or more RAM, soon.</p>\n<p>Please feel free to AMA here, or on the app\u2019s <a href=\"https://discord.gg/g2vMMbtHRt\">discord</a>.</p>\n<p><a href=\"https://apps.apple.com/app/private-llm/id6448106860\">App Store</a></p>\n<p><a href=\"https://privatellm.app/\">Website</a></p>\n<p>&#x200B;</p></div>",
+            "date_published": "2023-09-11T15:21:15+00:00",
+            "authors": [
+                {
+                    "name": "woadwarrior",
+                    "url": "https://www.reddit.com/user/woadwarrior"
+                }
+            ]
+        },
+        {
             "id": "159bcwv",
             "url": "/r/macapps/comments/159bcwv/arc_now_available_without_waitlist/",
             "external_url": "https://arc.net/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "lemikeone",
                     "url": "https://www.reddit.com/user/lemikeone"
-                }
-            ]
-        },
-        {
-            "id": "10b3mfi",
-            "url": "/r/macapps/comments/10b3mfi/want_a_free_license_to_swish/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/10b3mfi/want_a_free_license_to_swish/",
-            "title": "Want a free license to swish?",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/10b3mfi/want_a_free_license_to_swish/'>Reddit</a></caption><div><br></div><div><p>I have a code for it as I bought it, but after using for about a week, decided that it doesn't fit my work flow. </p>\n<p>I've created a Google Form and will draw a randomized name at 12am EST so people late to this post have a chance. While you are required to sign in to your Google account (to prevent multiple entries), your email isn't collected, nor is any information outside your username (for the draw).</p>\n<p>Here is a <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfW_cUMA3FbsIiU44JX3_k1JQqmBsB-CHdrerfrsJs4xr06yw/viewform?usp=sf_link\">link</a> to the form.</p>\n<p>Best wishes!</p></div>",
-            "date_published": "2023-01-13T19:48:27+00:00",
-            "authors": [
-                {
-                    "name": "VNzAbguvat",
-                    "url": "https://www.reddit.com/user/VNzAbguvat"
                 }
             ]
         }
