@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "16fnv4s",
+            "url": "/r/apple/comments/16fnv4s/iphone_mini_might_be_discontinued_following_apple/",
+            "external_url": "https://www.macrumors.com/2023/09/10/iphone-mini-might-be-discontinued-this-week/",
+            "title": "iPhone Mini Might Be Discontinued Following Apple Event This Week After Three-Year Run",
+            "content_html": "<caption>Open: <a href='https://www.macrumors.com/2023/09/10/iphone-mini-might-be-discontinued-this-week/'>www.macrumors.com</a> | <a href='https://reddit.com/r/apple/comments/16fnv4s/iphone_mini_might_be_discontinued_following_apple/'>Reddit</a></caption>",
+            "date_published": "2023-09-11T06:22:24+00:00",
+            "authors": [
+                {
+                    "name": "yeahyeah2468",
+                    "url": "https://www.reddit.com/user/yeahyeah2468"
+                }
+            ]
+        },
+        {
             "id": "16fz44d",
             "url": "/r/apple/comments/16fz44d/iphone_15_pro_and_grade_5_titanium_a_detailed/",
             "external_url": "https://www.macrumors.com/2023/09/11/iphone-15-pro-grade-5-titanium/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "getit_zone22",
                     "url": "https://www.reddit.com/user/getit_zone22"
-                }
-            ]
-        },
-        {
-            "id": "12ggd12",
-            "url": "/r/apple/comments/12ggd12/chatgpt_assistant_chatgpt_keyboard_for_ios_use/",
-            "external_url": "https://www.reddit.com/r/apple/comments/12ggd12/chatgpt_assistant_chatgpt_keyboard_for_ios_use/",
-            "title": "ChatGPT Assistant + ChatGPT keyboard for iOS. Use your own ChatGPT API key.",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/apple/comments/12ggd12/chatgpt_assistant_chatgpt_keyboard_for_ios_use/'>Reddit</a></caption><div><br></div><div><p>Last week we shared Omni AI, while the idea seemed unanimously liked, the main objection was the subscription model and price, so we canceled it and delivered the main requested feature.</p>\n<p><a href=\"https://apps.apple.com/app/omni-ai-keyboard-chat/id6446796339\">You can get the app on the App Store.</a></p>\n<p><strong>The use your own API lifetime purchase is $10.99. The price is discounted for</strong> r/Apple <strong>during Promo Sunday from 19.99.</strong></p>\n<p>For those out of the loop the main features of the app are:</p>\n<ul>\n<li>ChatGPT keyboard brings ChatGPT everywhere you need it across iOS. You can ask it to write replies, email openers, tweets, descriptions without having to open the parent app or ChatGPT website.</li>\n<li>ChatGPT chat interface, where it works like the web version of ChatGPT. For context driven and where chat memory is required.</li>\n</ul>\n<p>&#x200B;</p>\n<p>We will be building other features with communities feedback as well, so let me know if you want to see anything else prioritized.</p>\n<p>You can add your own API by tapping the settings icon and going to advanced.</p></div>",
-            "date_published": "2023-04-09T11:07:32+00:00",
-            "authors": [
-                {
-                    "name": "isitpro",
-                    "url": "https://www.reddit.com/user/isitpro"
                 }
             ]
         }
