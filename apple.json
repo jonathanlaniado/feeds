@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "16gywks",
+            "url": "/r/apple/comments/16gywks/apple_discontinues_54inch_iphone_13_mini_still/",
+            "external_url": "https://www.macrumors.com/2023/09/12/apple-discontinues-iphone-13-mini/",
+            "title": "Apple Discontinues 5.4-Inch iPhone 13 Mini, Still Sells iPhone 13 and iPhone 14",
+            "content_html": "<caption>Open: <a href='https://www.macrumors.com/2023/09/12/apple-discontinues-iphone-13-mini/'>www.macrumors.com</a> | <a href='https://reddit.com/r/apple/comments/16gywks/apple_discontinues_54inch_iphone_13_mini_still/'>Reddit</a></caption>",
+            "date_published": "2023-09-12T18:25:06+00:00",
+            "authors": [
+                {
+                    "name": "aaronp613",
+                    "url": "https://www.reddit.com/user/aaronp613"
+                }
+            ]
+        },
+        {
             "id": "16h7r6q",
             "url": "/r/apple/comments/16h7r6q/confirmed_the_iphone_15_is_the_most_affordable/",
             "external_url": "https://www.perfectrec.com/posts/iPhone15-price",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "WPHero",
                     "url": "https://www.reddit.com/user/WPHero"
-                }
-            ]
-        },
-        {
-            "id": "133ma8b",
-            "url": "/r/apple/comments/133ma8b/ipados_17_to_include_external_webcam_support/",
-            "external_url": "https://twitter.com/analyst941/status/1652497869297917952?s=46",
-            "title": "iPadOS 17 to include external webcam support, audio output source settings, multi stream A/V in Stage Manager, resizable dock, and clamshell mode when connected to external display",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/apple/comments/133ma8b/ipados_17_to_include_external_webcam_support/\">Reddit</a></caption><div><br></div><blockquote class=\"twitter-tweet\" align=\"center\"><p lang=\"en\" dir=\"ltr\">iPadOS 17 Stage Manager tidbits:<br><br>\u2022 External monitor webcam support.<br><br>\u2022 Audio output source settings.<br><br>\u2022 Stream Multiple audio/vid sources at once with Stage Manager on.<br><br>\u2022 Resizable dock (in external display settings only)<br><br>\u2022 Sleep iPad display; external display stays on.</p>&mdash; 941 (@analyst941) <a href=\"https://twitter.com/analyst941/status/1652497869297917952?ref_src=twsrc%5Etfw\">April 30, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
-            "date_published": "2023-04-30T11:03:35+00:00",
-            "authors": [
-                {
-                    "name": "No-Relief1158",
-                    "url": "https://www.reddit.com/user/No-Relief1158"
                 }
             ]
         }
