@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "16iqwf4",
+            "url": "/r/PleX/comments/16iqwf4/anyone_else_get_this_plex_notice/",
+            "external_url": "https://i.redd.it/ugwsrl8qr9ob1.jpg",
+            "title": "Anyone else get this Plex notice?",
+            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/PleX/comments/16iqwf4/anyone_else_get_this_plex_notice/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/ugwsrl8qr9ob1.jpg\" />",
+            "date_published": "2023-09-14T19:05:44+00:00",
+            "authors": [
+                {
+                    "name": "matthieu-kr",
+                    "url": "https://www.reddit.com/user/matthieu-kr"
+                }
+            ]
+        },
+        {
             "id": "16hp4mi",
             "url": "/r/PleX/comments/16hp4mi/portable_plex_server_in_vhs_case_pi_zero_2w/",
             "external_url": "https://www.reddit.com/gallery/16hp4mi",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "hackerseraph",
                     "url": "https://www.reddit.com/user/hackerseraph"
-                }
-            ]
-        },
-        {
-            "id": "sw0rdk",
-            "url": "/r/PleX/comments/sw0rdk/udijonandporridge_said_they_wanted_a_digital/",
-            "external_url": "https://i.redd.it/v37qjlotppi81.jpg",
-            "title": "/u/DijonAndPorridge said they wanted a digital pamphlet for getting setup with Plex, so I took a shot at it",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/v37qjlotppi81.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/PleX/comments/sw0rdk/udijonandporridge_said_they_wanted_a_digital/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/sw0rdk/udijonandporridge_said_they_wanted_a_digital/'>Apollo</a></caption>",
-            "date_published": "2022-02-19T03:52:35+00:00",
-            "authors": [
-                {
-                    "name": "PM_ME_YOUR_MASS",
-                    "url": "https://www.reddit.com/user/PM_ME_YOUR_MASS"
                 }
             ]
         }
