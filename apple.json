@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "16hqcly",
+            "url": "/r/apple/comments/16hqcly/good_news_everyone_apples_polishing_cloth/",
+            "external_url": "https://www.theverge.com/2023/9/12/23870721/apple-polishing-cloth-iphone-15-pro-max-watch-compatible",
+            "title": "Good news, everyone: Apple\u2019s Polishing Cloth supports the iPhone 15 Pro Max",
+            "content_html": "<caption>Open: <a href='https://www.theverge.com/2023/9/12/23870721/apple-polishing-cloth-iphone-15-pro-max-watch-compatible'>www.theverge.com</a> | <a href='https://reddit.com/r/apple/comments/16hqcly/good_news_everyone_apples_polishing_cloth/'>Reddit</a></caption>",
+            "date_published": "2023-09-13T15:40:43+00:00",
+            "authors": [
+                {
+                    "name": "sauce2011",
+                    "url": "https://www.reddit.com/user/sauce2011"
+                }
+            ]
+        },
+        {
             "id": "16i1on1",
             "url": "/r/apple/comments/16i1on1/iphone_15_may_let_users_limit_the_maximum_battery/",
             "external_url": "https://9to5mac.com/2023/09/12/iphone-15-limit-battery-charge/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "R4J4PR3M",
                     "url": "https://www.reddit.com/user/R4J4PR3M"
-                }
-            ]
-        },
-        {
-            "id": "13ajz6z",
-            "url": "/r/apple/comments/13ajz6z/boring_report_a_news_app_that_uses_ai_language/",
-            "external_url": "https://www.reddit.com/r/apple/comments/13ajz6z/boring_report_a_news_app_that_uses_ai_language/",
-            "title": "Boring Report: a news app that uses AI language models to remove sensationalism while preserving essential information",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/apple/comments/13ajz6z/boring_report_a_news_app_that_uses_ai_language/'>Reddit</a></caption><div><br></div><div><p><a href=\"https://apps.apple.com/us/app/boring-report-news-by-ai/id6446786839\">App Link</a></p>\n<p><a href=\"https://www.boringreport.org/\">Landing Page</a></p>\n<p>Hey everyone, u/vaskal08 and I are excited to show off the latest updates to our product: Boring Report. We've been posting around, getting valuable feedback from users, and improving the experience on the web and mainly our iOS app. In today's world, catchy headlines and articles often distract readers from the facts and relevant information. By utilizing OpenAI's language models, Boring Report processes sensationalist news articles, transforms them into the content you see, and helps readers focus on the essential details. There is still a lot of work to be done, such as localization, additional processing of source material, and further user customization. Please try the iPhone/iPad app + share extension, and give us your feedback so we can keep improving the product. Thank you for the support!</p>\n<p>You can get updates by following us:</p>\n<p><a href=\"https://twitter.com/boringreport\">Twitter</a></p>\n<p><a href=\"https://www.reddit.com/r/BoringReport/\">r/BoringReport</a></p></div>",
-            "date_published": "2023-05-07T10:33:43+00:00",
-            "authors": [
-                {
-                    "name": "Vplay3",
-                    "url": "https://www.reddit.com/user/Vplay3"
                 }
             ]
         }
