@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "16hp4mi",
+            "url": "/r/PleX/comments/16hp4mi/portable_plex_server_in_vhs_case_pi_zero_2w/",
+            "external_url": "https://www.reddit.com/gallery/16hp4mi",
+            "title": "Portable Plex server in VHS case (Pi Zero 2W)",
+            "content_html": "<caption>Open: <a href='https://www.reddit.com/gallery/16hp4mi'>www.reddit.com</a> | <a href='https://reddit.com/r/PleX/comments/16hp4mi/portable_plex_server_in_vhs_case_pi_zero_2w/'>Reddit</a></caption>",
+            "date_published": "2023-09-13T14:53:41+00:00",
+            "authors": [
+                {
+                    "name": "portalman1994",
+                    "url": "https://www.reddit.com/user/portalman1994"
+                }
+            ]
+        },
+        {
             "id": "1417g7w",
             "url": "/r/PleX/comments/1417g7w/will_rplex_join_the_protest_against_the_api/",
             "external_url": "https://www.reddit.com/r/apolloapp/comments/13zvinq/multiple_subreddits_will_go_black_as_a_protest_to/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "PM_ME_YOUR_MASS",
                     "url": "https://www.reddit.com/user/PM_ME_YOUR_MASS"
-                }
-            ]
-        },
-        {
-            "id": "svmy0b",
-            "url": "/r/PleX/comments/svmy0b/honest_to_god_the_hardest_thing_about_my_plex/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/svmy0b/honest_to_god_the_hardest_thing_about_my_plex/",
-            "title": "Honest to god, the hardest thing about my PLeX server isn't the purchase or setup or configuration of anything, but rather..",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/PleX/comments/svmy0b/honest_to_god_the_hardest_thing_about_my_plex/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/svmy0b/honest_to_god_the_hardest_thing_about_my_plex/'>Apollo</a></caption> <div><p>...the hardest thing I have ever had to do with my Plex server is get my friends and family to not butcher the quality of the content down to 720p@2mbps. Its seriously like pulling teeth, and the Plex application is too stupid to try to \"play at original quality\" when I have transcoding set to \"off\". If the money I spent on a Plexpass could go towards ANYTHING, it would be to have a setting for what my plex clients are forced to \"prefer\" as far as quality.   </p>\n<p>My friends and I all live in good areas of America, not the Congo or somewhere else where internet is just being invented, for the love of god, why does Plex default everyone to 720p@2mbps? I swear, I am going to need to hire someone to make a digital pamphlet on how to get going with Plex, because right now the application makes itself hard for newcomers to use.   </p>\n<p>First, explain what it is, and the benefits. Then, you have to explain how to pin only the good stuff to the lefthand side (vs the bs plex offerings).  </p>\n<p>Then finally, and this is the part that literally takes me months with some of my users, is explaining to them how to not butcher the quality. I'm not even joking that my sysadmin friend, a dude that manages AWS for a living, only FINALLY figured it out this morning (granted, this has a lot to do with head-in-ass syndrome \"but it currently looks <em>fine\"</em>).</p>\n<p>&#x200B;</p>\n<p>Its not even like my 3950x can't transcode or anything, I dont even see transcoding hit the CPU at all. Its the unrelenting frustration of how Plex handles client player quality, combined with the lackluster UI surrounding it, and the cherry on top is how fucking difficult it is to get each user to make the most out of the software. I swear to god, if I could just push a \"config\" to each client that signs up to use my plex server to have only my \"TV Shows\" and \"Movies\" pinned to the sidebar and the player quality set to original, the software would be perfect, but as its stands now, this is a giant blemish. </p>\n<p>&#x200B;</p>\n<p>And yes, I <em>understand</em> the official reason this is why it is, I just happen to find it complete farcical nonsense that only makes sense if you live in the developing world.</p></div>",
-            "date_published": "2022-02-18T17:05:45+00:00",
-            "authors": [
-                {
-                    "name": "DijonAndPorridge",
-                    "url": "https://www.reddit.com/user/DijonAndPorridge"
                 }
             ]
         }
