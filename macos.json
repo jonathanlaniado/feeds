@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "16igkqp",
+            "url": "/r/MacOS/comments/16igkqp/slow_load_times_ruining_my_study_sessions/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/16igkqp/slow_load_times_ruining_my_study_sessions/",
+            "title": "Slow load times ruining my study sessions.",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/MacOS/comments/16igkqp/slow_load_times_ruining_my_study_sessions/'>Reddit</a></caption><div><br></div><div><p>I\u2019ve been forced to deal with this headache lately, and I'm sure some of you might have faced the same issue. I\u2019m a student, and I rely heavily on quick access to online information for my assignments. Sometimes, I need to dive into academic journals, databases, and research papers, while other times, it's all about accessing videos, course content, quizzes etc.</p>\n<p>To the matter at hand, I think it\u2019s caused by sideloading ads cus some of the sites I frequent are infested by them. And there\u2019s all these videos buffering on every other page which cause interruptions in my work. It's causing me major delays and eating into my study time! I did some research and apparently, browsers prioritize fetching ads before showing the primary content and that was a major wtf for me. So we\u2019re expected to basically stare at a partially loaded page filled with ads while waiting for the actual content? </p>\n<p>I tried looking around, but only found good adblockers for Windows, but since I\u2019m on mac i\u2019m kinda stumped. I've found a few like <a href=\"https://www.purify-app.com/\">Purify</a>, <a href=\"https://apps.apple.com/us/app/adblock-one-tube-ad-blocker/id1491889901\">Ad Block One</a> and <a href=\"https://apps.apple.com/app/apple-store/id1198047227?mt=8\">Magic Lasso</a> but I didn\u2019t see a lot of reviews about them on major sites so I'm a bit skeptical. Pls guide me if one of these or some other ad-blocker is a good choice</p>\n<p>Thanks in advance!</p></div>",
+            "date_published": "2023-09-14T12:02:13+00:00",
+            "authors": [
+                {
+                    "name": "emotional_clearing",
+                    "url": "https://www.reddit.com/user/emotional_clearing"
+                }
+            ]
+        },
+        {
             "id": "16hb406",
             "url": "/r/MacOS/comments/16hb406/macos_sonoma_arrives_on_september_26_aakaweb_tech/",
             "external_url": "https://aakaweb.com/2023/09/macos-sonoma-arrives-on-september/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Ok_Bank_2217",
                     "url": "https://www.reddit.com/user/Ok_Bank_2217"
-                }
-            ]
-        },
-        {
-            "id": "vyu1yp",
-            "url": "/r/MacOS/comments/vyu1yp/thank_you_nasa_for_my_new_wallpaper/",
-            "external_url": "https://i.redd.it/46425q3vvib91.png",
-            "title": "thank you nasa for my new wallpaper",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/46425q3vvib91.png'>i.redd.it</a> | <a href='https://reddit.com/r/MacOS/comments/vyu1yp/thank_you_nasa_for_my_new_wallpaper/'>Reddit</a> | <a href='apollo://reddit.com/r/MacOS/comments/vyu1yp/thank_you_nasa_for_my_new_wallpaper/'>Apollo</a></caption>",
-            "date_published": "2022-07-14T11:54:28+00:00",
-            "authors": [
-                {
-                    "name": "xxNoobKiller2000xx",
-                    "url": "https://www.reddit.com/user/xxNoobKiller2000xx"
                 }
             ]
         }
