@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "16iqxby",
+            "url": "/r/selfhosted/comments/16iqxby/plex_is_going_to_block_servers_on_certain_hosting/",
+            "external_url": "https://www.reddit.com/gallery/16iqxby",
+            "title": "Plex is going to block servers on certain hosting providers?",
+            "content_html": "<caption>Open: <a href='https://www.reddit.com/gallery/16iqxby'>www.reddit.com</a> | <a href='https://reddit.com/r/selfhosted/comments/16iqxby/plex_is_going_to_block_servers_on_certain_hosting/'>Reddit</a></caption>",
+            "date_published": "2023-09-14T19:06:46+00:00",
+            "authors": [
+                {
+                    "name": "Illustrious_Pack_305",
+                    "url": "https://www.reddit.com/user/Illustrious_Pack_305"
+                }
+            ]
+        },
+        {
             "id": "153p8u8",
             "url": "/r/selfhosted/comments/153p8u8/psa_interserver_seems_to_be_using_bots_to_promote/",
             "external_url": "https://i.redd.it/kdof3t8hwvcb1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Sarcism",
                     "url": "https://www.reddit.com/user/Sarcism"
-                }
-            ]
-        },
-        {
-            "id": "yevyli",
-            "url": "/r/selfhosted/comments/yevyli/why_i_use_jellyfin_for_my_home_media_library/",
-            "external_url": "https://www.jeffgeerling.com/blog/2022/why-i-use-jellyfin-my-home-media-library",
-            "title": "Why I use Jellyfin for my home media library",
-            "content_html": "<caption>Open: <a href='https://www.jeffgeerling.com/blog/2022/why-i-use-jellyfin-my-home-media-library'>www.jeffgeerling.com</a> | <a href='https://reddit.com/r/selfhosted/comments/yevyli/why_i_use_jellyfin_for_my_home_media_library/'>Reddit</a></caption>",
-            "date_published": "2022-10-27T16:10:10+00:00",
-            "authors": [
-                {
-                    "name": "geerlingguy",
-                    "url": "https://www.reddit.com/user/geerlingguy"
                 }
             ]
         }
