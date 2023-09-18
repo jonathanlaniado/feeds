@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "16m00fj",
+            "url": "/r/PleX/comments/16m00fj/realized_ive_created_some_plex_addicts/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/16m00fj/realized_ive_created_some_plex_addicts/",
+            "title": "Realized I've created some Plex addicts.",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16m00fj/realized_ive_created_some_plex_addicts/'>Reddit</a></caption><div><br></div><div><p>My plex server was offline for a week recently while I fixed some server issues caused by a storm (thankfully, it turned out to be some BIOS issues, not hardware like I'd suspected), and you'd think I had turned off the power and running water to my friends' homes.</p>\n<p>Within a half hour of it going out, I was already getting text messages wondering if there was an issue. Once I told them it was a server issue, they all started offering to help pay for any repairs necessary (which I turned down because I don't want to take money) and the tech-minded ones were offering troubleshooting assistance. It turns out that about half of them solely use my Plex now and don't have any other streaming services.</p>\n<p>The whole thing was pretty funny, and now I know that if I ever have an emergency where I can't call for help, I can just disconnect the power for the server and someone will come looking for me shortly.</p></div>",
+            "date_published": "2023-09-18T16:23:36+00:00",
+            "authors": [
+                {
+                    "name": "keenedge422",
+                    "url": "https://www.reddit.com/user/keenedge422"
+                }
+            ]
+        },
+        {
             "id": "16kb10u",
             "url": "/r/PleX/comments/16kb10u/i_get_so_tired_of_telling_the_family_you_know/",
             "external_url": "https://i.redd.it/z05ohgn54nob1.gif",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "iVtechboyinpa",
                     "url": "https://www.reddit.com/user/iVtechboyinpa"
-                }
-            ]
-        },
-        {
-            "id": "sz5bei",
-            "url": "/r/PleX/comments/sz5bei/plex_has_change_a_bit_in_12_years_stumbled_upon/",
-            "external_url": "https://vimeo.com/11880867",
-            "title": "Plex has change a bit in 12 years. Stumbled upon this",
-            "content_html": "<caption>Open in: <a href='https://vimeo.com/11880867'>vimeo.com</a> | <a href='https://reddit.com/r/PleX/comments/sz5bei/plex_has_change_a_bit_in_12_years_stumbled_upon/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/sz5bei/plex_has_change_a_bit_in_12_years_stumbled_upon/'>Apollo</a></caption>",
-            "date_published": "2022-02-23T02:09:11+00:00",
-            "authors": [
-                {
-                    "name": "Fiala06",
-                    "url": "https://www.reddit.com/user/Fiala06"
                 }
             ]
         }
