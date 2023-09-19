@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "16mqg34",
+            "url": "/r/PleX/comments/16mqg34/account_banned/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/16mqg34/account_banned/",
+            "title": "Account banned",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16mqg34/account_banned/'>Reddit</a></caption><div><br></div><div><p>First time posted here, I am a lurker and dont usually post in reddit.</p>\n<p>Today I got my account banned in plex \"this Plex account has accepted monetary compensation in exchange for services based in part on Plex\". Which is totally untrue.</p>\n<p>I do have a fairly large library (\\~10TB) ... on a 10 yo Synology NAS and plex on a HP promini desktop pc with an I3, I was proud when I tested that it could manage 3 concurrent streams xD</p>\n<p>My library was shared with friends an family and all of them got an email stating that I've been profiting from this, most of them sent me a message asking what did I do and if I was ok ( xD)</p>\n<p>It is pretty infuriating that plex automatically suspends accounts without any advice, sending all contacts a notification like this. And I am sure this is automated and there is no human checking the activity of my library, as it is pretty low (maybe 10 streams a week at most, many weeks it is totally unused) and the hardware is totally unprepared to serve many users.</p>\n<p>And to top it all this is just a few months after I paid a lifetime subscription xD</p>\n<p>&#x200B;</p>\n<p>I'd love to go back in time, delete plex and go to any open source alternative.</p>\n<p>&#x200B;</p>\n<p>Edit: spelling, clarification</p>\n<p>&#x200B;</p>\n<p>Update: Plex has restored my account via email :)</p></div>",
+            "date_published": "2023-09-19T13:03:07+00:00",
+            "authors": [
+                {
+                    "name": "n0psp",
+                    "url": "https://www.reddit.com/user/n0psp"
+                }
+            ]
+        },
+        {
             "id": "16m00fj",
             "url": "/r/PleX/comments/16m00fj/realized_ive_created_some_plex_addicts/",
             "external_url": "https://www.reddit.com/r/PleX/comments/16m00fj/realized_ive_created_some_plex_addicts/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "goodorca",
                     "url": "https://www.reddit.com/user/goodorca"
-                }
-            ]
-        },
-        {
-            "id": "szxin1",
-            "url": "/r/PleX/comments/szxin1/plex_arcade_shutting_down_on_march_31_2022/",
-            "external_url": "https://i.redd.it/3r30dobmkoj81.jpg",
-            "title": "Plex Arcade shutting down on March 31, 2022",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/3r30dobmkoj81.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/PleX/comments/szxin1/plex_arcade_shutting_down_on_march_31_2022/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/szxin1/plex_arcade_shutting_down_on_march_31_2022/'>Apollo</a></caption>",
-            "date_published": "2022-02-24T01:05:35+00:00",
-            "authors": [
-                {
-                    "name": "iVtechboyinpa",
-                    "url": "https://www.reddit.com/user/iVtechboyinpa"
                 }
             ]
         }
