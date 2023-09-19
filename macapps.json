@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "16mw5we",
+            "url": "/r/macapps/comments/16mw5we/thriftmac_now_has_over_300_apps/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/16mw5we/thriftmac_now_has_over_300_apps/",
+            "title": "thriftmac now has over 300 apps!",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/16mw5we/thriftmac_now_has_over_300_apps/'>Reddit</a></caption><div><br></div><div><p>My hobby site, <a href=\"https://thriftmac.com\">thriftmac.com</a>, now has 301 completely free Mac apps to choose from. I'm posting this milestone here because I found many of these apps by keeping an eye on this subreddit \u2014 thank you to this helpful community! thriftmac has no ads or trackers \u2014 just free stuff I hope you'll like.</p></div>",
+            "date_published": "2023-09-19T16:51:58+00:00",
+            "authors": [
+                {
+                    "name": "LessSection",
+                    "url": "https://www.reddit.com/user/LessSection"
+                }
+            ]
+        },
+        {
             "id": "16lxfwn",
             "url": "/r/macapps/comments/16lxfwn/breakdown_of_the_best_evernote_alternatives_with/",
             "external_url": "https://www.reddit.com/r/macapps/comments/16lxfwn/breakdown_of_the_best_evernote_alternatives_with/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "17parkc",
                     "url": "https://www.reddit.com/user/17parkc"
-                }
-            ]
-        },
-        {
-            "id": "10fcpfg",
-            "url": "/r/macapps/comments/10fcpfg/lasso_window_manager_for_macos/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/10fcpfg/lasso_window_manager_for_macos/",
-            "title": "Lasso - Window Manager for macOS",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/10fcpfg/lasso_window_manager_for_macos/'>Reddit</a></caption><div><br></div><div><p>Hey all!</p>\n<p>I've been working on a new window manager for macOS and it's finally live. Although the initial plan was to make it public in a week but thanks to a ProductHunt bug I went live today \ud83e\udd37\ud83c\udffc If you want, you can check the page <a href=\"https://www.producthunt.com/posts/lasso-6\">here</a> I would appreciate your support.</p>\n<p>Here is a little demo of the app:</p>\n<p><a href=\"https://i.redd.it/8wr9804q2uca1.gif\">Basic interactions with the app</a></p>\n<p>What problem am I trying to solve? Personally, I had issues remembering complex shortcuts, and even though I was a huge fan of the Rectangle app I could not use its full potential. Things got worse when I bought a new 38\" monitor and I realized that halves and thirds are not enough for me anymore. (just in case you are curious about my setup you can check it here on <a href=\"https://www.reddit.com/r/macsetups/comments/103ddsf/my_home_office/\">Reddit</a>). Also, I wanted to move windows between displays and when you have a couple of monitors, one of them is pretty big, this might be quite a lot of mouse movements.</p>\n<p>&#x200B;</p>\n<p>So these were my personal problems that I tried to solve by implementing the <a href=\"https://thelasso.app\">Lasso</a> app.</p>\n<p>With the app you can:</p>\n<ul>\n<li>quickly resize and move windows by selecting grid cells. I believe that click and drag is the most intuitive and fast gesture in macOS.</li>\n<li>move windows between displays</li>\n<li>create, share, import, and export your own layouts</li>\n<li>assign keyboard shortcuts to those layouts for even faster interaction with the app</li>\n<li>customize the UI of the app</li>\n<li>for those coming from the Rectangle or Magnet I made it easy to migrate - just don't keep the onboarding screen \ud83d\ude04</li>\n</ul>\n<p>The app has free 7 days trial period so I'd like to ask everyone to try it out. The single license code is 9.99 Euros and can be activated on a single computer. Let me know if you like it - this would make my launch day a bit better since a lot of things went wrong today. If you don't like it - I would be happy to know why so that I can make it better.</p>\n<p>Thanks!</p></div>",
-            "date_published": "2023-01-18T17:11:15+00:00",
-            "authors": [
-                {
-                    "name": "iSapozhnik",
-                    "url": "https://www.reddit.com/user/iSapozhnik"
                 }
             ]
         }
