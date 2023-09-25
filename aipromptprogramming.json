@@ -1,0 +1,17 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "r/aipromptprogramming",
+    "description": "This group focuses on using AI tools like ChatGPT, OpenAI API, and other automated code generators for Ai programming & prompt engineering.\n\nIt's for anyone interested in learning, sharing, and discussing how AI can be leveraged to optimize businesses or develop innovative applications. Join us for a supportive community of diverse backgrounds and skill levels!. Created by @rUv",
+    "home_page_url": "https://reddit.com",
+    "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/aipromptprogramming.json",
+    "icon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
+    "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
+    "items": [
+        {
+            "id": "0",
+            "url": "https://www.reddit.com/r/aipromptprogramming",
+            "title": "r/aipromptprogramming has been launched!",
+            "content_html": "<p>This feed will be populated as posts match the given criteria.</p>"
+        }
+    ]
+}
