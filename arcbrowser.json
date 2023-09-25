@@ -1,0 +1,17 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "r/arcbrowser",
+    "description": "r/ArcBrowser is a forum to discuss Arc \u2014 a better way to use the internet. Arc is available on Mac and iOS, with plans to launch on Windows this year. Arc receives updates every Thursday. Note: r/ArcBrowser is not affiliated with The Browser Company.",
+    "home_page_url": "https://reddit.com",
+    "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/arcbrowser.json",
+    "icon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
+    "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
+    "items": [
+        {
+            "id": "0",
+            "url": "https://www.reddit.com/r/arcbrowser",
+            "title": "r/arcbrowser has been launched!",
+            "content_html": "<p>This feed will be populated as posts match the given criteria.</p>"
+        }
+    ]
+}
