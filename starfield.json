@@ -1,0 +1,17 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "r/starfield",
+    "description": "This subreddit is dedicated to Starfield, a role-playing space game developed by Bethesda Game Studios.",
+    "home_page_url": "https://reddit.com",
+    "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/starfield.json",
+    "icon": "https://styles.redditmedia.com/t5_3g41m/styles/communityIcon_zhyx561jw9kb1.jpg",
+    "favicon": "https://styles.redditmedia.com/t5_3g41m/styles/communityIcon_zhyx561jw9kb1.jpg",
+    "items": [
+        {
+            "id": "0",
+            "url": "https://www.reddit.com/r/starfield",
+            "title": "r/starfield has been launched!",
+            "content_html": "<p>This feed will be populated as posts match the given criteria.</p>"
+        }
+    ]
+}
