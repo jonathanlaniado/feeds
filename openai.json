@@ -1,0 +1,17 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "r/openai",
+    "description": "OpenAI is an AI research and deployment company. OpenAI's mission is to ensure that artificial general intelligence benefits all of humanity. We are an unofficial community. OpenAI makes ChatGPT, GPT-4, and DALL\u00b7E 3.",
+    "home_page_url": "https://reddit.com",
+    "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/openai.json",
+    "icon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
+    "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
+    "items": [
+        {
+            "id": "0",
+            "url": "https://www.reddit.com/r/openai",
+            "title": "r/openai has been launched!",
+            "content_html": "<p>This feed will be populated as posts match the given criteria.</p>"
+        }
+    ]
+}
