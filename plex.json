@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "16soje5",
+            "url": "/r/PleX/comments/16soje5/confused_about_sound_source/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/16soje5/confused_about_sound_source/",
+            "title": "Confused about sound source",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16soje5/confused_about_sound_source/'>Reddit</a></caption><div><br></div><div><p>I've downloaded interstellar and running through plex media server. There are 2 audio sources (DTS-HD 5.1 and AC3 5.1). \nWhen I select DTS, my atmos capable soundbar states the source is PCM stero. Do I disregard this and assume it is actually playing DTS? \nWhen I select AC3, it actually shows up as dolby digital plus. </p>\n<p>Or am I misinformed? Which sound quality is better?</p></div>",
+            "date_published": "2023-09-26T13:50:23+00:00",
+            "authors": [
+                {
+                    "name": "Waste_Philosopher993",
+                    "url": "https://www.reddit.com/user/Waste_Philosopher993"
+                }
+            ]
+        },
+        {
             "id": "16snqtf",
             "url": "/r/PleX/comments/16snqtf/what_settings_do_i_change_to_have_the_smoothest/",
             "external_url": "https://www.reddit.com/r/PleX/comments/16snqtf/what_settings_do_i_change_to_have_the_smoothest/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "goodorca",
                     "url": "https://www.reddit.com/user/goodorca"
-                }
-            ]
-        },
-        {
-            "id": "tafydo",
-            "url": "/r/PleX/comments/tafydo/plexplainers_v20_with_a_better_name_more_guides/",
-            "external_url": "https://imgur.com/a/QAUFN13",
-            "title": "Plexplainers v2.0, with a better name, more guides, and updated wording on my original video quality how-to",
-            "content_html": "<caption>Open in: <a href='https://imgur.com/a/QAUFN13'>imgur.com</a> | <a href='https://reddit.com/r/PleX/comments/tafydo/plexplainers_v20_with_a_better_name_more_guides/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/tafydo/plexplainers_v20_with_a_better_name_more_guides/'>Apollo</a></caption>",
-            "date_published": "2022-03-09T19:50:13+00:00",
-            "authors": [
-                {
-                    "name": "PM_ME_YOUR_MASS",
-                    "url": "https://www.reddit.com/user/PM_ME_YOUR_MASS"
                 }
             ]
         }
