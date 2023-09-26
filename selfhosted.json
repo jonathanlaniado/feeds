@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "16snvt3",
+            "url": "/r/selfhosted/comments/16snvt3/what_would_be_the_best_way_to_selfhost_my/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/16snvt3/what_would_be_the_best_way_to_selfhost_my/",
+            "title": "What would be the best way to self-host my personal finance stuff (especially transactions), and continuously pull info from my bank accounts?",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16snvt3/what_would_be_the_best_way_to_selfhost_my/'>Reddit</a></caption><div><br></div><div><p>I'm really bad with money and want a good way to track all of it. I don't want to spend lot of $ on something like YNAB or Tiller, and would really prefer to have all my data offline. I want to have my transactions on my Bofa and Discover accounts continuously pulled. I did a lot of searching and there doesn't seem to be a good solution to this. Ideally I'd have an equivalent to Obsidian.md: a powerful app where all of your data is offline and in an easily readable format like text files.</p>\n<p>And something that just works where I don't have to do a lot of tinkering. I looked at Firefly and just installed a container, and was about to use the Plaid connector, but Plaid asks me lots of questions and it seems to be for businesses and not consumers. It seems like I should just suck it up and download CSVs of transactions manually and put that into Firefly III or process them in Excel.</p></div>",
+            "date_published": "2023-09-26T13:23:20+00:00",
+            "authors": [
+                {
+                    "name": "TheTwelveYearOld",
+                    "url": "https://www.reddit.com/user/TheTwelveYearOld"
+                }
+            ]
+        },
+        {
             "id": "16sna66",
             "url": "/r/selfhosted/comments/16sna66/how_to_set_up_a_pop3smtp_server_to_receive_and/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/16sna66/how_to_set_up_a_pop3smtp_server_to_receive_and/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "wcedmisten",
                     "url": "https://www.reddit.com/user/wcedmisten"
-                }
-            ]
-        },
-        {
-            "id": "yzbr7e",
-            "url": "/r/selfhosted/comments/yzbr7e/running_a_media_server_on_an_old_thinkpad_laptop/",
-            "external_url": "https://i.redd.it/xguc1bo9sw0a1.png",
-            "title": "Running a media server on an old thinkpad laptop",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/selfhosted/comments/yzbr7e/running_a_media_server_on_an_old_thinkpad_laptop/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/xguc1bo9sw0a1.png\" />",
-            "date_published": "2022-11-19T13:21:49+00:00",
-            "authors": [
-                {
-                    "name": "alecpark101",
-                    "url": "https://www.reddit.com/user/alecpark101"
                 }
             ]
         }
