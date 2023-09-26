@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "16sr0xe",
+            "url": "/r/PleX/comments/16sr0xe/the_ever_lasting_issue_with_episode_names/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/16sr0xe/the_ever_lasting_issue_with_episode_names/",
+            "title": "The ever lasting issue with episode names...",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16sr0xe/the_ever_lasting_issue_with_episode_names/'>Reddit</a></caption><div><br></div><div><p>I fully admit I don't know what else to do after googling a million different things.</p>\n<p>My issue: I have episodes of Top Gear that are specials, they are on TVDB as specials with the numbering system \"S00E23 - Polar Challenge\" and I have tried just about everything in my power to get the Plex Agent to recognize the goddamn correct episode.</p>\n<p>The name of the file is \"Top Gear - S00E23 - Polar Challenge {tvdb-331957}\", I have tried every agent (that then checks MY ENTIRE LIBRARY again) I can pick. I tried deleting the file, scrapping everything in its meta data, then uploading it with a new name that's similar but not quite the same. I am aware that the tvdb tag is probably supposed to be only for recognizing TV shows, not singular episodes, but I was getting desperate.</p>\n<p><a href=\"https://thetvdb.com/series/top-gear/episodes/331957\">https://thetvdb.com/series/top-gear/episodes/331957</a></p>\n<p>It'll always default to \"Series 12 Best Of (2)\", which is S00E31. I'm also for some reason missing the old \"Fix Match\" button on both web client and Plex App...</p>\n<p>I have the same issues with Stargate, where the very first episode breaks every consequent episode since it's a 2-part episode, the naming scheme used in the following link does nothing (as you can see with Top Gear..)</p>\n<p><a href=\"https://support.plex.tv/articles/naming-and-organizing-your-tv-show-files/\">https://support.plex.tv/articles/naming-and-organizing-your-tv-show-files/</a></p>\n<p>Call me dumb or something, I just want to know what the hell I'm doing wrong...  </p></div>",
+            "date_published": "2023-09-26T15:26:20+00:00",
+            "authors": [
+                {
+                    "name": "Emriyss",
+                    "url": "https://www.reddit.com/user/Emriyss"
+                }
+            ]
+        },
+        {
             "id": "16sr1hh",
             "url": "/r/PleX/comments/16sr1hh/mp4_metadata_editor/",
             "external_url": "https://www.reddit.com/r/PleX/comments/16sr1hh/mp4_metadata_editor/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "amolakjoshi",
                     "url": "https://www.reddit.com/user/amolakjoshi"
-                }
-            ]
-        },
-        {
-            "id": "trf7tk",
-            "url": "/r/PleX/comments/trf7tk/plex_flagged_as_pirating_software_by_isp_and/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/trf7tk/plex_flagged_as_pirating_software_by_isp_and/",
-            "title": "Plex flagged as pirating software by ISP and being throttled on user end",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/PleX/comments/trf7tk/plex_flagged_as_pirating_software_by_isp_and/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/trf7tk/plex_flagged_as_pirating_software_by_isp_and/'>Apollo</a></caption> <div><p>So after about a year ish now of one of my users complaining about \"Plex is so slow\" or  \"Plex is garbage\", I finally have an answer.\nSo some back story here; I have about half a dozen users that all rarely ever have an issue across a number of ISPs in Canada. Then about a year ago one of my friends said nothing works anymore. I went through all kinds of trouble shooting and even drove over to his house one time and got it working by cranking the quality way down (480p). He said after a while even that had to stop and buffer though so he gave up and just bought Netflix. Fast forward to a month ago, I set up my girlfriend on Plex but she has the same issues. I then realise they are the only ones on the same ISP. I reach out to a buddy whose partner just so happens to be high level at that ISP. And just last week they got back to me saying they have flagged it as pirating software and anything being sent through that will be throttled way down because of this.\nI'm getting them to set up a VPN to be able to use Plex. Just thought I would let people on here know that if Plex gets flagged and throttled by more and more ISPs this could be an issue for more.</p>\n<p>The ISP is Bell MTS</p>\n<p>Edit: Thanks guys, I'll try to switch the Port tonight and report back if that works!</p></div>",
-            "date_published": "2022-03-29T19:25:45+00:00",
-            "authors": [
-                {
-                    "name": "Micky350",
-                    "url": "https://www.reddit.com/user/Micky350"
                 }
             ]
         }
