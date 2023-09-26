@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "16sjod7",
+            "url": "/r/PleX/comments/16sjod7/looking_for_an_option_to_create_a_digital_movie/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/16sjod7/looking_for_an_option_to_create_a_digital_movie/",
+            "title": "Looking for an option to create a digital movie library as a gift.",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16sjod7/looking_for_an_option_to_create_a_digital_movie/'>Reddit</a></caption><div><br></div><div><p>I currently work in an international management/operations role where I constantly interact with senior leaders across USA &amp; India.\nBeing a big movie buff, I\u2019m currently coordinating with some of our India leaders to build a digital movie library with their favorite Indian movies to present as a cultural gift to our US based CEO &amp; COO.</p>\n<p>I tried buying individual Blu-rays but most of the movies weren\u2019t available or were not delivering on time.</p>\n<p>Someone recommended using Plex and hosting a movie library on here. Can this work for my use case?\nI think most of the movies are available to purchase digitally on YouTube or other streaming platforms.</p></div>",
+            "date_published": "2023-09-26T10:09:39+00:00",
+            "authors": [
+                {
+                    "name": "WhereasWonderful4647",
+                    "url": "https://www.reddit.com/user/WhereasWonderful4647"
+                }
+            ]
+        },
+        {
             "id": "16sjdd0",
             "url": "/r/PleX/comments/16sjdd0/plex_for_mac_windows_and_linux_v1791_released/",
             "external_url": "https://www.reddit.com/r/PleX/comments/16sjdd0/plex_for_mac_windows_and_linux_v1791_released/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Stica_20",
                     "url": "https://www.reddit.com/user/Stica_20"
-                }
-            ]
-        },
-        {
-            "id": "t239st",
-            "url": "/r/PleX/comments/t239st/plex_web_team_with_all_due_respect_you_fucked_up/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/t239st/plex_web_team_with_all_due_respect_you_fucked_up/",
-            "title": "Plex web team, with all due respect, you fucked up the search function",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/PleX/comments/t239st/plex_web_team_with_all_due_respect_you_fucked_up/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/t239st/plex_web_team_with_all_due_respect_you_fucked_up/'>Apollo</a></caption> <div><p>We need to be able to view results on a search page. Having the dropdown only for search is trash.</p>\n<p>Please fix this. </p>\n<p>Also, having to select a library to search from for a persons name isn't a good practice. What if I want to see media containing a particular person or word across all my libraries? I would like the ability to do this.</p></div>",
-            "date_published": "2022-02-26T18:11:15+00:00",
-            "authors": [
-                {
-                    "name": "obesefamily",
-                    "url": "https://www.reddit.com/user/obesefamily"
                 }
             ]
         }
