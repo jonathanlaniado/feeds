@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "16s6kjt",
+            "url": "/r/selfhosted/comments/16s6kjt/how_to_improve_and_secure_my_small_arr_setup/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/16s6kjt/how_to_improve_and_secure_my_small_arr_setup/",
+            "title": "How to improve and secure my small *arr setup",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16s6kjt/how_to_improve_and_secure_my_small_arr_setup/'>Reddit</a></caption><div><br></div><div><p>I currently have Overseerr-Sonarr-Radarr-Prowlarr-Plex setup. \nI'm exposing *arr to the internet using Nginx Proxy Manager and DuckDNS and Plex using it's built in settings. \nIt works well but I'm worried about security. </p>\n<p>How can I improve this? I'm trying to do this for as cheap as possible  and preferably not paying a monthly fee. \nI don't currently own a domain but willing to buy one</p>\n<p>Any other recommendations not related to security is also welcome</p>\n<p>I'm pretty new to the self hosted life, any advice would be appreciated!</p></div>",
+            "date_published": "2023-09-25T22:47:57+00:00",
+            "authors": [
+                {
+                    "name": "Blumingo",
+                    "url": "https://www.reddit.com/user/Blumingo"
+                }
+            ]
+        },
+        {
             "id": "16si64g",
             "url": "/r/selfhosted/comments/16si64g/requesting_forum_software_reviews_from_longterm/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/16si64g/requesting_forum_software_reviews_from_longterm/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "predmijat",
                     "url": "https://www.reddit.com/user/predmijat"
-                }
-            ]
-        },
-        {
-            "id": "yl8oyk",
-            "url": "/r/selfhosted/comments/yl8oyk/guys_i_finally_figured_out_docker_im_so_proud_of/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/yl8oyk/guys_i_finally_figured_out_docker_im_so_proud_of/",
-            "title": "GUYS I FINALLY FIGURED OUT DOCKER IM SO PROUD OF MYSELF",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/yl8oyk/guys_i_finally_figured_out_docker_im_so_proud_of/'>Reddit</a></caption><div><br></div><div><p>im 17 and I have experience with linux, openmediavault, syncthing, and my prolific experience in networking is port forwarding for Minecraft. I finally deployed syncthing using the linuxserver docker image and docker-compose, after messing around with docker trying to understand how the hell it works. </p>\n<p>it aint much but its honest work \ud83e\udd72. I did kind of cheat, using OMV as my base, but idc for now</p>\n<p>mainly did this so my dad can move away from google drive and use this NAS for continuously backing up his business files and his video files for his yt channel (its like 1tb of stuff). </p>\n<p>im so proud of myself. nobody around me gets what I did, of course ill teach them to use it I just felt like sharing this (honestly an accomplishment for me) after I started using linux 2 years ago.</p></div>",
-            "date_published": "2022-11-03T17:26:13+00:00",
-            "authors": [
-                {
-                    "name": "Netherquark",
-                    "url": "https://www.reddit.com/user/Netherquark"
                 }
             ]
         }
