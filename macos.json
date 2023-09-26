@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "16stv65",
+            "url": "/r/MacOS/comments/16stv65/no_need_to_restart_your_mac_press_cmdr_in_order/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/16stv65/no_need_to_restart_your_mac_press_cmdr_in_order/",
+            "title": "No need to restart your Mac. Press Cmd+R in order for Sonoma update to show up for you",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/MacOS/comments/16stv65/no_need_to_restart_your_mac_press_cmdr_in_order/'>Reddit</a></caption><div><br></div><div><ol>\n<li>Go to the <strong>Settings &gt; Software Updpate</strong></li>\n<li>Press: <strong>Cmd + R</strong></li>\n<li>Profit \ud83c\udfc1</li>\n</ol>\n<p><a href=\"https://preview.redd.it/axr6quj1vmqb1.png?width=1348&amp;format=png&amp;auto=webp&amp;s=3336eaa45d0914f7dcb8d5ee0f24d950c0350ce7\">Press CMD+R in order for major macOS update to show up for you</a></p></div>",
+            "date_published": "2023-09-26T17:16:11+00:00",
+            "authors": [
+                {
+                    "name": "DamiRocK",
+                    "url": "https://www.reddit.com/user/DamiRocK"
+                }
+            ]
+        },
+        {
             "id": "16stltw",
             "url": "/r/MacOS/comments/16stltw/its_time_sonoma_is_finally_released/",
             "external_url": "https://i.redd.it/zyu6k3o7tmqb1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ElectronicsAhoy",
                     "url": "https://www.reddit.com/user/ElectronicsAhoy"
-                }
-            ]
-        },
-        {
-            "id": "x20h1g",
-            "url": "/r/MacOS/comments/x20h1g/til_that_you_can_rearrange_and_remove_menu_bar/",
-            "external_url": "https://v.redd.it/ro58qh57tzk91",
-            "title": "TIL that you can rearrange and remove menu bar icons while pressing the command key",
-            "content_html": "<caption>Open in: <a href='https://v.redd.it/ro58qh57tzk91'>v.redd.it</a> | <a href='https://reddit.com/r/MacOS/comments/x20h1g/til_that_you_can_rearrange_and_remove_menu_bar/'>Reddit</a> | <a href='apollo://reddit.com/r/MacOS/comments/x20h1g/til_that_you_can_rearrange_and_remove_menu_bar/'>Apollo</a></caption>",
-            "date_published": "2022-08-31T01:26:09+00:00",
-            "authors": [
-                {
-                    "name": "lcnflp",
-                    "url": "https://www.reddit.com/user/lcnflp"
                 }
             ]
         }
