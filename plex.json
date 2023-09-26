@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "16sid52",
+            "url": "/r/PleX/comments/16sid52/tv_shows_has_two_version_of_the_same_episode_what/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/16sid52/tv_shows_has_two_version_of_the_same_episode_what/",
+            "title": "TV Show's has two version of the same episode, what do I do?",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16sid52/tv_shows_has_two_version_of_the_same_episode_what/'>Reddit</a></caption><div><br></div><div><p>Hi guys, I'm rather new to Plex and so far the experience has been great but I have an issue.</p>\n<p>A friend wanted to watch Twin Peaks by David Lynch and so I got all the three seasons.</p>\n<p>The first one is made of 8 episodes but I found episode 1 twice and, after some digging, it turns out that Lynch made the first actual episode around 1h34m(it should be the pilot) but after that he made another cut with new scenes shot for the occasion which made it into a new version of the same episode which became a movie and is 1h54m long and named \"Northwest Passage\".</p>\n<p>What can I do to have this ordered correctly in my Plex library?</p>\n<p>I thought about putting the actual episode 1 through 8 in Plex's TV Shows folder, and Northwest Passage in the Movies one, but the thing is that I can't find it as a movie anywhere in IMDB or anywhere else so I'm not sure Plex will recognize it as such.</p>\n<p>What's your suggestion? It's the first time I run into something like this and I'm confused as I don't know if I can have like two versions of the same episode which I can then choose on my TV or what.</p></div>",
+            "date_published": "2023-09-26T08:54:06+00:00",
+            "authors": [
+                {
+                    "name": "daghene",
+                    "url": "https://www.reddit.com/user/daghene"
+                }
+            ]
+        },
+        {
             "id": "16sjod7",
             "url": "/r/PleX/comments/16sjod7/looking_for_an_option_to_create_a_digital_movie/",
             "external_url": "https://www.reddit.com/r/PleX/comments/16sjod7/looking_for_an_option_to_create_a_digital_movie/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "winbatch",
                     "url": "https://www.reddit.com/user/winbatch"
-                }
-            ]
-        },
-        {
-            "id": "t2qop0",
-            "url": "/r/PleX/comments/t2qop0/how_is_this_even_possible/",
-            "external_url": "https://i.redd.it/ibdtckl9aek81.png",
-            "title": "How is this even possible?",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/ibdtckl9aek81.png'>i.redd.it</a> | <a href='https://reddit.com/r/PleX/comments/t2qop0/how_is_this_even_possible/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/t2qop0/how_is_this_even_possible/'>Apollo</a></caption>",
-            "date_published": "2022-02-27T15:34:28+00:00",
-            "authors": [
-                {
-                    "name": "Stica_20",
-                    "url": "https://www.reddit.com/user/Stica_20"
                 }
             ]
         }
