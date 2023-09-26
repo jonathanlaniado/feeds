@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "16smzw1",
+            "url": "/r/selfhosted/comments/16smzw1/how_much_time_do_you_put_into_your_setup_in_a_week/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/16smzw1/how_much_time_do_you_put_into_your_setup_in_a_week/",
+            "title": "How much time do you put into your setup in a week?",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16smzw1/how_much_time_do_you_put_into_your_setup_in_a_week/'>Reddit</a></caption><div><br></div><div><p>So recently I realized i was beginning to amass a pretty hefty collection of apps and such. So I made a spreadsheet so i could ensure everything got into the dashboard app, and everything got into nginx proxy manager, and etc etc...just to make sure everything was standardized. And...the list is way bigger than I ever expected.  </p>\n<p>At this moment, my spreadsheet is 58 lines of various apps. Now that includes some hardware, like my synology, or the server ILOs..... but 58!??!  </p>\n<p>I think 34 of those are in docker. and what, 10 of them are media related. Jellyfin, all the servarr apps, then another 8 or 10 for downloaders and gluetun stacks.  </p>\n<p>So we come back to the title of the thread, how much time do you put into your setup in a given week? I work on servers all day, but it feels like I'm working on servers all night too.</p></div>",
+            "date_published": "2023-09-26T12:47:49+00:00",
+            "authors": [
+                {
+                    "name": "MyTechAccount90210",
+                    "url": "https://www.reddit.com/user/MyTechAccount90210"
+                }
+            ]
+        },
+        {
             "id": "16snvt3",
             "url": "/r/selfhosted/comments/16snvt3/what_would_be_the_best_way_to_selfhost_my/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/16snvt3/what_would_be_the_best_way_to_selfhost_my/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "radialapps",
                     "url": "https://www.reddit.com/user/radialapps"
-                }
-            ]
-        },
-        {
-            "id": "z18248",
-            "url": "/r/selfhosted/comments/z18248/self_hosting_a_google_maps_alternative_with/",
-            "external_url": "https://wcedmisten.fyi/post/self-hosting-osm/",
-            "title": "Self Hosting a Google Maps Alternative with OpenStreetMap",
-            "content_html": "<caption>Open: <a href='https://wcedmisten.fyi/post/self-hosting-osm/'>wcedmisten.fyi</a> | <a href='https://reddit.com/r/selfhosted/comments/z18248/self_hosting_a_google_maps_alternative_with/'>Reddit</a></caption>",
-            "date_published": "2022-11-21T19:39:54+00:00",
-            "authors": [
-                {
-                    "name": "wcedmisten",
-                    "url": "https://www.reddit.com/user/wcedmisten"
                 }
             ]
         }
