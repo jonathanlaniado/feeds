@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "16sqcmj",
+            "url": "/r/selfhosted/comments/16sqcmj/which_one_is_more_like_jellyfin_but_for_photos/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/16sqcmj/which_one_is_more_like_jellyfin_but_for_photos/",
+            "title": "which one is more like jellyfin but for photos",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16sqcmj/which_one_is_more_like_jellyfin_but_for_photos/'>Reddit</a></caption><div><br></div><div><p>Hello everyone,\nI'm looking for an app that can index my photo folder, as I don't want to upload them again.\nWhich can resize my photos (to be able to see them faster, without waiting for them to load too much) and create albums without changing the main files? \nBest Regards\nShahram</p>\n<p><a href=\"https://www.reddit.com/poll/16sqcmj\">View Poll</a></p></div>",
+            "date_published": "2023-09-26T15:00:43+00:00",
+            "authors": [
+                {
+                    "name": "sh4hr4m",
+                    "url": "https://www.reddit.com/user/sh4hr4m"
+                }
+            ]
+        },
+        {
             "id": "16sphv7",
             "url": "/r/selfhosted/comments/16sphv7/best_pihole_blocklists/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/16sphv7/best_pihole_blocklists/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "zmbcgn",
                     "url": "https://www.reddit.com/user/zmbcgn"
-                }
-            ]
-        },
-        {
-            "id": "z6r9x1",
-            "url": "/r/selfhosted/comments/z6r9x1/webui_for_whisper_an_awesome_audio_transcription/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/z6r9x1/webui_for_whisper_an_awesome_audio_transcription/",
-            "title": "Web-UI for Whisper, an awesome audio transcription AI. Easy to self-host.",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/z6r9x1/webui_for_whisper_an_awesome_audio_transcription/'>Reddit</a></caption><div><br></div><div><p>Hey!</p>\n<p>I built a web-ui for OpenAI's Whisper. The features available in this web-ui are:</p>\n<ul>\n<li>Record and transcribe audio right from your browser. </li>\n<li>Upload any media file (video, audio) in any format and transcribe it. <ul>\n<li>Option to cut audio to X seconds before transcription. </li>\n<li>Option to disable file uploads. </li>\n</ul>\n</li>\n<li>Select input audio language </li>\n<li>Translate input audio transcription to english (any language to english). </li>\n<li>Download <code>.srt</code> subtitle file generated from audio. </li>\n<li>Choose the Whisper model you want to use (tiny, base, small...) </li>\n<li>Supports <a href=\"https://imgur.com/a/uV8aBIM\">many languages</a> (and more can be added, just open an issue)</li>\n<li>Lightweight and beautiful UI. </li>\n<li>Self-hosted. No 3rd parties. </li>\n<li><strong>Docker compose</strong> for easy self-hosting <ul>\n<li><strong>Privacy respecting</strong>: - All happens locally. No third parties involved. </li>\n<li>Audio files are deleted immediately after processing. </li>\n</ul>\n</li>\n<li>Backend written in <strong>Go</strong> </li>\n<li>Frontend written with <strong>Svelte</strong> and <strong>Tailwind CSS</strong>. </li>\n<li>Uses C++ whisper version from <a href=\"https://github.com/ggerganov/whisper.cpp\">whisper.cpp</a>. <ul>\n<li>You don't need a GPU, uses CPU. </li>\n<li>No need for complex installations.</li>\n</ul>\n</li>\n</ul>\n<p>You can find the repo with more details here: https://codeberg.org/pluja/web-whisper</p>\n<p>Screenshots are available here: https://codeberg.org/pluja/web-whisper#screenshots</p>\n<p>Edit:\nadded a Github issue tracker: https://github.com/pluja/web-whisper</p></div>",
-            "date_published": "2022-11-28T08:38:24+00:00",
-            "authors": [
-                {
-                    "name": "hoiru",
-                    "url": "https://www.reddit.com/user/hoiru"
                 }
             ]
         }
