@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "16sribe",
+            "url": "/r/PleX/comments/16sribe/unique_no_connection_issue/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/16sribe/unique_no_connection_issue/",
+            "title": "Unique No connection Issue",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16sribe/unique_no_connection_issue/'>Reddit</a></caption><div><br></div><div><p>I have a friend who has access to my plex server which is out of my local network. Their access to this server works on and off randomly with no signs or network configuration changes on either of our ends. When the connection is \"down\" this friend is still able to access other plex servers from other friends, and on my end, I still have other users who can access my server. There is something that neither of us is seeing as to why they are unable to connect at times. In their home, it is not limited to one device that is unable to connect. When the connection shows down, it's the whole household. No device is able to connect to my server, just to give some context in terms of troubleshooting. </p>\n<p>Has anyone experienced this? I really am hoping for some help here. I don't even know how to search for this type of issue.</p></div>",
+            "date_published": "2023-09-26T15:45:21+00:00",
+            "authors": [
+                {
+                    "name": "five0first",
+                    "url": "https://www.reddit.com/user/five0first"
+                }
+            ]
+        },
+        {
             "id": "16sr0xe",
             "url": "/r/PleX/comments/16sr0xe/the_ever_lasting_issue_with_episode_names/",
             "external_url": "https://www.reddit.com/r/PleX/comments/16sr0xe/the_ever_lasting_issue_with_episode_names/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "jyggen",
                     "url": "https://www.reddit.com/user/jyggen"
-                }
-            ]
-        },
-        {
-            "id": "twrgm1",
-            "url": "/r/PleX/comments/twrgm1/i_am_just_hating_this_new_sub_text_below_the_plex/",
-            "external_url": "https://i.redd.it/dx6995c4por81.jpg",
-            "title": "I am just hating this new sub text below the PLEX logo. Share your opinions too, \ud83d\ude4f thanks",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/dx6995c4por81.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/PleX/comments/twrgm1/i_am_just_hating_this_new_sub_text_below_the_plex/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/twrgm1/i_am_just_hating_this_new_sub_text_below_the_plex/'>Apollo</a></caption>",
-            "date_published": "2022-04-05T10:03:46+00:00",
-            "authors": [
-                {
-                    "name": "amolakjoshi",
-                    "url": "https://www.reddit.com/user/amolakjoshi"
                 }
             ]
         }
