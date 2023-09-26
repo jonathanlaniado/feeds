@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "16rs99b",
+            "url": "/r/shortcuts/comments/16rs99b/mega_iphone_action_button_shortcut_device/",
+            "external_url": "https://www.reddit.com/r/shortcuts/comments/16rs99b/mega_iphone_action_button_shortcut_device/",
+            "title": "Mega iPhone Action Button shortcut - Device orientation and focus mode aware",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/shortcuts/comments/16rs99b/mega_iphone_action_button_shortcut_device/'>Reddit</a></caption><div><br></div><div><p>&#x200B;</p>\n<p>https://preview.redd.it/s81towqtkeqb1.jpg?width=1179&amp;format=pjpg&amp;auto=webp&amp;s=b4a5af1f2c833796def26add11a48c40378793c6</p>\n<p>I modified a shortcut found on YouTube to add more functionality to the iPhone action button:</p>\n<p>- If the iPhone is face down, the action button will toggle \"super mute\" which mutes both the ringer and media audio with zero input. Turning mute on provides double tap haptic feedback, turning mute off provide single tap haptic feedback. </p>\n<p>-If the iPhone is in landscape left orientation (dynamic island on the left), it will immediately launch the camera app in photo mode when pressing the action button. </p>\n<p>-I have two duplicate menus setup (screenshot above), one menu is shown when NO focus mode is enabled, and another menu when ANY focus mode is enabled. This could easily be modified as needed for specific focus mode names. I just duplicated all the menu items as a demo. The menu is only shown if the device is NOT in either of the orientations above that directly launch mute/camera. </p>\n<p>- \"Climate On\" is for Tesla cars, and will automatically turn on climate control to the existing setting. </p>\n<p>-The main action button shortcut relies on the \"Super mute\" shortcut.</p>\n<p>-The shortcut also relies on the free \"Actions\" iPhone app for additional shortcut actions.</p>\n<p>Main shortcut: <a href=\"https://www.icloud.com/shortcuts/cdee391a4bc94aeb8fd0c863b0dd20b0\">https://www.icloud.com/shortcuts/cdee391a4bc94aeb8fd0c863b0dd20b0</a></p>\n<p>Super Mute shortcut: <a href=\"https://www.icloud.com/shortcuts/e19a628546b94634a7450c450a52b577\">https://www.icloud.com/shortcuts/e19a628546b94634a7450c450a52b577</a></p>\n<p>iOS Actions App (free): <a href=\"https://apps.apple.com/us/app/actions/id1586435171\">https://apps.apple.com/us/app/actions/id1586435171</a></p>\n<p>&#x200B;</p>\n<p>&#x200B;</p></div>",
+            "date_published": "2023-09-25T13:34:01+00:00",
+            "authors": [
+                {
+                    "name": "Travel69",
+                    "url": "https://www.reddit.com/user/Travel69"
+                }
+            ]
+        },
+        {
             "id": "0",
             "url": "https://www.reddit.com/r/shortcuts",
             "title": "r/shortcuts has been launched!",
