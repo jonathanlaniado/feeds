@@ -1,0 +1,17 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "r/chatgptpro",
+    "description": "Subreddit dedicated to discussions on the advanced capabilities and professional applications of ChatGPT.",
+    "home_page_url": "https://reddit.com",
+    "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/chatgptpro.json",
+    "icon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
+    "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
+    "items": [
+        {
+            "id": "0",
+            "url": "https://www.reddit.com/r/chatgptpro",
+            "title": "r/chatgptpro has been launched!",
+            "content_html": "<p>This feed will be populated as posts match the given criteria.</p>"
+        }
+    ]
+}
