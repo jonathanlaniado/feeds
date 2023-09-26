@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "16snqtf",
+            "url": "/r/PleX/comments/16snqtf/what_settings_do_i_change_to_have_the_smoothest/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/16snqtf/what_settings_do_i_change_to_have_the_smoothest/",
+            "title": "What settings do I change to have the smoothest playback for my friends not on my network?",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16snqtf/what_settings_do_i_change_to_have_the_smoothest/'>Reddit</a></caption><div><br></div><div><p>Hi, I recently figured out how to get remote access working. I have a VPN that I did split tunneling with but my friend said she couldn't watch anything without the \"playback too slow\" or whatever it says. I turned off the VPN and it's better but not great. What other settings can I change to make it better for my friend? I'm not that technical with computers so please explain like I'm 5. I can screenshot any settings you want to see. TIA!</p></div>",
+            "date_published": "2023-09-26T13:17:40+00:00",
+            "authors": [
+                {
+                    "name": "badwolf_on_rice",
+                    "url": "https://www.reddit.com/user/badwolf_on_rice"
+                }
+            ]
+        },
+        {
             "id": "16smfcm",
             "url": "/r/PleX/comments/16smfcm/is_my_plex_hdd_dying_2x_4tb_hdds_cant_copy/",
             "external_url": "https://i.redd.it/ocrgy68oelqb1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "PM_ME_YOUR_MASS",
                     "url": "https://www.reddit.com/user/PM_ME_YOUR_MASS"
-                }
-            ]
-        },
-        {
-            "id": "t9cne8",
-            "url": "/r/PleX/comments/t9cne8/plex_is_getting_worse_and_im_getting_frustrated/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/t9cne8/plex_is_getting_worse_and_im_getting_frustrated/",
-            "title": "Plex IS getting worse and Im getting frustrated!",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/PleX/comments/t9cne8/plex_is_getting_worse_and_im_getting_frustrated/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/t9cne8/plex_is_getting_worse_and_im_getting_frustrated/'>Apollo</a></caption> <div><p>Whenever I play media I see an indefinite spinning orange circle. I then have to back up and select the media again 3-10 times before it plays! I have friends and family with this issue, and the same problem has been described online multiple times for years, yet it still exists! More recently, I have media that outright doesn't play! It seems this issue is centred around the Android app and the only solution seems to be to downgrade to an earlier version.</p>\n<p>Complaints of the same issue described above.</p>\n<p><a href=\"https://www.reddit.com/r/PleX/comments/966q17/the_first_time_i_hit_play_on_something_it_never/\">https://www.reddit.com/r/PleX/comments/966q17/the_first_time_i_hit_play_on_something_it_never/</a></p>\n<p><a href=\"https://www.reddit.com/r/PleX/comments/s0r752/is_there_a_followup_to_the_issue_android_devices/\">https://www.reddit.com/r/PleX/comments/s0r752/is_there_a_followup_to_the_issue_android_devices/</a></p>\n<p><a href=\"https://www.reddit.com/r/PleX/comments/s12h56/im_really_fed_up_with_the_android_app/hs6ycbe/\">https://www.reddit.com/r/PleX/comments/s12h56/im_really_fed_up_with_the_android_app/hs6ycbe/</a></p>\n<p>IMO - Plex seems so determined with their new business model of becoming an input zero/content provider they have either forgotten or potentially set out to purposely alienate their core customer base. As a Plex Pass customer, I'm pissed to see them spending money on bs dated content instead of fixing fundamental user experience issues; this also says a lot about the companies values.</p>\n<p>Does anybody else feel the same, or am I a minority? I don't want to, but I'm considering jumping ship to Jellyfin.</p>\n<p>My setup is a Plex server running on Synology NAS &amp; house full of SHIELD clients.</p></div>",
-            "date_published": "2022-03-08T08:55:38+00:00",
-            "authors": [
-                {
-                    "name": "J_IO_B",
-                    "url": "https://www.reddit.com/user/J_IO_B"
                 }
             ]
         }
