@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "16slh8k",
+            "url": "/r/selfhosted/comments/16slh8k/web_proxy_with_search_bar/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/16slh8k/web_proxy_with_search_bar/",
+            "title": "Web proxy with search bar",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16slh8k/web_proxy_with_search_bar/'>Reddit</a></caption><div><br></div><div><p>Hi everyone!</p>\n<p>I'm looking for a selfhost app that would be a web proxy with a search bar like this unmaintained app https://github.com/vincentclee/glype or this one https://github.com/Athlon1600/php-proxy-app</p>\n<p>But I do not find any application still maintained if someone has an idea I'm a taker! Thanks in advance!</p>\n<p>PS: I've already tried guacamole with a remote browser but it's too slow because I'm on a raspberry and I don't want a proxy to configure on my pc either, I'd like it to be turnkey via a URL.</p></div>",
+            "date_published": "2023-09-26T11:41:43+00:00",
+            "authors": [
+                {
+                    "name": "flodes80",
+                    "url": "https://www.reddit.com/user/flodes80"
+                }
+            ]
+        },
+        {
             "id": "16sk3a2",
             "url": "/r/selfhosted/comments/16sk3a2/about_jellyfin_server/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/16sk3a2/about_jellyfin_server/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "altran1502",
                     "url": "https://www.reddit.com/user/altran1502"
-                }
-            ]
-        },
-        {
-            "id": "yt5dpz",
-            "url": "/r/selfhosted/comments/yt5dpz/sometimes_it_amazes_me_just_how_much_a_single/",
-            "external_url": "https://i.redd.it/hgvsa7odhiz91.png",
-            "title": "Sometimes it amazes me just how much a single Raspberry Pi can do",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/selfhosted/comments/yt5dpz/sometimes_it_amazes_me_just_how_much_a_single/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/hgvsa7odhiz91.png\" />",
-            "date_published": "2022-11-12T12:13:04+00:00",
-            "authors": [
-                {
-                    "name": "wertyuiop_poiuytrew",
-                    "url": "https://www.reddit.com/user/wertyuiop_poiuytrew"
                 }
             ]
         }
