@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "16srpsh",
+            "url": "/r/PleX/comments/16srpsh/its_2023_is_there_still_no_way_to_enforce_remote/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/16srpsh/its_2023_is_there_still_no_way_to_enforce_remote/",
+            "title": "It's 2023, is there still no way to enforce remote client stream quality?",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16srpsh/its_2023_is_there_still_no_way_to_enforce_remote/'>Reddit</a></caption><div><br></div><div><p>I still see remote clients transcoding to SD and I wish I could force it to maximum quality on the server side, and then if their bandwidth is too low, it can scale down</p></div>",
+            "date_published": "2023-09-26T15:53:11+00:00",
+            "authors": [
+                {
+                    "name": "PM__ME__YOUR__PC",
+                    "url": "https://www.reddit.com/user/PM__ME__YOUR__PC"
+                }
+            ]
+        },
+        {
             "id": "16sribe",
             "url": "/r/PleX/comments/16sribe/unique_no_connection_issue/",
             "external_url": "https://www.reddit.com/r/PleX/comments/16sribe/unique_no_connection_issue/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "nads84",
                     "url": "https://www.reddit.com/user/nads84"
-                }
-            ]
-        },
-        {
-            "id": "twuite",
-            "url": "/r/PleX/comments/twuite/end_the_streaming_struggle_with_plex_plex/",
-            "external_url": "https://www.plex.tv/blog/end-the-streaming-struggle-with-plex/",
-            "title": "End the Streaming Struggle with Plex | Plex",
-            "content_html": "<caption>Open in: <a href='https://www.plex.tv/blog/end-the-streaming-struggle-with-plex/'>www.plex.tv</a> | <a href='https://reddit.com/r/PleX/comments/twuite/end_the_streaming_struggle_with_plex_plex/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/twuite/end_the_streaming_struggle_with_plex_plex/'>Apollo</a></caption>",
-            "date_published": "2022-04-05T13:06:20+00:00",
-            "authors": [
-                {
-                    "name": "jyggen",
-                    "url": "https://www.reddit.com/user/jyggen"
                 }
             ]
         }
