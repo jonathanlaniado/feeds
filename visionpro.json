@@ -1,0 +1,17 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "r/visionpro",
+    "description": "Apple Vision Pro is an upcoming mixed reality headset developed by Apple. This subreddit is the largest and best hub for the community!",
+    "home_page_url": "https://reddit.com",
+    "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/visionpro.json",
+    "icon": "https://styles.redditmedia.com/t5_8j837i/styles/communityIcon_nvv8j1jp384b1.png",
+    "favicon": "https://styles.redditmedia.com/t5_8j837i/styles/communityIcon_nvv8j1jp384b1.png",
+    "items": [
+        {
+            "id": "0",
+            "url": "https://www.reddit.com/r/visionpro",
+            "title": "r/visionpro has been launched!",
+            "content_html": "<p>This feed will be populated as posts match the given criteria.</p>"
+        }
+    ]
+}
