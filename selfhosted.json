@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "16sjqu9",
+            "url": "/r/selfhosted/comments/16sjqu9/back_to_basics/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/16sjqu9/back_to_basics/",
+            "title": "Back to basics.",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16sjqu9/back_to_basics/'>Reddit</a></caption><div><br></div><div><p>I've had a proxmox server running on a retired workstation for about half a year now. Got a bit jaded recently when trying to set up some semblance of a media server (couldn't get my *arrs to play well with LXCs). I've been looking into things like Unraid and TrueNAS and finally decided to give it a go. </p>\n<p>Got rid of Proxmox and went for TrueNAS instead, and... really, really hated it. Mind you, I went for TrueNAS Core instead of Scale, and I imagine I'd enjoy the latter more, but I've only got the one data drive for now which TrueNAS Scale says is below the minimum requirements.</p>\n<p>I think the main problem was how TrueNAS handled VMs, I couldn't bloody well figure out how things worked. I've done a cert in networking where we did some generalised virtualisation and sysadmin work in VMware which is really easy to use, but when trying to spin up a simple Debian VM, i noticed there were a bunch of hacky workarounds that were required to get me going.</p>\n<p>So, what did I end up going with in the end? Back on Proxmox? Did I pay for Unraid? Well... back in the day, I had Ubuntu server running off an old laptop of mine that mostly hosted Docker containers. There were a few things it ran baremetal, but for me I really enjoyed doing everything through Docker Compose and using Webmin.</p>\n<p>I've gone back to this setup full time and I don't see myself changing any time soon. For me, this is what works. Nothing super flashy, just plain old Ubuntu and some Docker containers. I'm gonna go and set up YAMS now :) Wish me luck!</p></div>",
+            "date_published": "2023-09-26T10:13:28+00:00",
+            "authors": [
+                {
+                    "name": "monday_jay",
+                    "url": "https://www.reddit.com/user/monday_jay"
+                }
+            ]
+        },
+        {
             "id": "16sjlat",
             "url": "/r/selfhosted/comments/16sjlat/exciting_news_everyone_the_highly_anticipated/",
             "external_url": "https://twitter.com/0xPolygonDex/status/1706287928249569638?s=20",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Spirited-Pause",
                     "url": "https://www.reddit.com/user/Spirited-Pause"
-                }
-            ]
-        },
-        {
-            "id": "yr0j31",
-            "url": "/r/selfhosted/comments/yr0j31/ive_built_a_selfhosted_file_storage/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/yr0j31/ive_built_a_selfhosted_file_storage/",
-            "title": "I've built a self-hosted file storage",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/yr0j31/ive_built_a_selfhosted_file_storage/'>Reddit</a></caption><div><br></div><div><p>Without further ado, meet <strong>Shelf</strong> - <a href=\"https://getshelf.cloud\">https://getshelf.cloud</a></p>\n<p>I decided to build my own self-hosted file storage after my bad experience with Nextcloud. While it is a great and powerful product, on my old laptop it was really really slow, especially scrolling through large directories was a struggle. </p>\n<p>My goal is to give a better experience while keeping things efficient. You can easily run it on a slow machines (e.g. DigitalOcean basic droplet with 1vCPU &amp; 1GB RAM) and still have a nice performance.</p>\n<p><strong>Shelf</strong> is currently at the MVP stage and doesn't do much, other than stores your file, but it already supports S3-compatible storages (S3, Minio, DO Spaces).</p>\n<p>Feel free to try the <a href=\"http://app.getshelf.cloud/signup\">cloud version</a> or you can try to run it <a href=\"https://github.com/unmade/shelf-showcase\">locally</a>, it should as easy as running <code>docker compose up</code></p>\n<p>Please, let me know what you think about the project</p>\n<p>https://preview.redd.it/comsdzr9r0z91.jpg?width=3442&amp;format=pjpg&amp;auto=webp&amp;s=21b557fe5b25230d3fc4eedb68866afd8a98b01a</p></div>",
-            "date_published": "2022-11-10T00:36:16+00:00",
-            "authors": [
-                {
-                    "name": "iamlocal",
-                    "url": "https://www.reddit.com/user/iamlocal"
                 }
             ]
         }
