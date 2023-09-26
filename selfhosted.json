@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "16rytrz",
+            "url": "/r/selfhosted/comments/16rytrz/most_interesting_stuff_you_can_selfhost/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/16rytrz/most_interesting_stuff_you_can_selfhost/",
+            "title": "Most interesting stuff you can selfhost?",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16rytrz/most_interesting_stuff_you_can_selfhost/'>Reddit</a></caption><div><br></div><div><p>So, I have a VPS server - paying for it for Session Messenger Group hosting. I have a lot of ram and memory free, so I'd like to install there something interesting. Though, I am not interested in hosting websites, emails, minecraft servers or etc. Do you have in mind something interesting, that I could host? :D  </p>\n<p>UPD: first of all looking for something funny/interesting than something useful, 'cause I won't be able to give proper security for the user</p></div>",
+            "date_published": "2023-09-25T17:48:10+00:00",
+            "authors": [
+                {
+                    "name": "IVKIK55",
+                    "url": "https://www.reddit.com/user/IVKIK55"
+                }
+            ]
+        },
+        {
             "id": "16iqxby",
             "url": "/r/selfhosted/comments/16iqxby/plex_is_going_to_block_servers_on_certain_hosting/",
             "external_url": "https://www.reddit.com/gallery/16iqxby",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "A_Random_Lantern",
                     "url": "https://www.reddit.com/user/A_Random_Lantern"
-                }
-            ]
-        },
-        {
-            "id": "yh85mr",
-            "url": "/r/selfhosted/comments/yh85mr/urgent_patch_openssl_on_november_1_to_avoid/",
-            "external_url": "https://www.globalsign.com/en/blog/urgent-patch-openssl-november-1-avoid-critical-security-vulnerability",
-            "title": "Urgent: Patch OpenSSL on November 1 to avoid \u201cCritical\u201d Security Vulnerability - GlobalSign",
-            "content_html": "<caption>Open: <a href='https://www.globalsign.com/en/blog/urgent-patch-openssl-november-1-avoid-critical-security-vulnerability'>www.globalsign.com</a> | <a href='https://reddit.com/r/selfhosted/comments/yh85mr/urgent_patch_openssl_on_november_1_to_avoid/'>Reddit</a></caption>",
-            "date_published": "2022-10-30T07:44:24+00:00",
-            "authors": [
-                {
-                    "name": "Sarcism",
-                    "url": "https://www.reddit.com/user/Sarcism"
                 }
             ]
         }
