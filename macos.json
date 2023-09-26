@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "16si5tq",
+            "url": "/r/MacOS/comments/16si5tq/upgraded_to_1014_and_now_usbc_monitors_only/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/16si5tq/upgraded_to_1014_and_now_usbc_monitors_only/",
+            "title": "Upgraded to 10.14 and now USB-C monitors only mirror display",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/MacOS/comments/16si5tq/upgraded_to_1014_and_now_usbc_monitors_only/'>Reddit</a></caption><div><br></div><div><p>Hello, I went on a trip and plugged in my Sidetrak monitors that I've used on this computer for years. After upgrading to OS 10.14, they no longer appear in my displays menu and only mirror my monitor. Insight? Time to downgrade? Hack the root?</p></div>",
+            "date_published": "2023-09-26T08:41:33+00:00",
+            "authors": [
+                {
+                    "name": "joe-biel",
+                    "url": "https://www.reddit.com/user/joe-biel"
+                }
+            ]
+        },
+        {
             "id": "16secyh",
             "url": "/r/MacOS/comments/16secyh/mac_question/",
             "external_url": "https://www.reddit.com/r/MacOS/comments/16secyh/mac_question/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Otherwise_Break_4293",
                     "url": "https://www.reddit.com/user/Otherwise_Break_4293"
-                }
-            ]
-        },
-        {
-            "id": "w5x32q",
-            "url": "/r/MacOS/comments/w5x32q/am_i_the_only_one_who_liked_the_macos_design/",
-            "external_url": "https://i.redd.it/uy30isx3j9d91.jpg",
-            "title": "Am I the only one who liked the MacOS design before the Big Sur redesign?",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/uy30isx3j9d91.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/MacOS/comments/w5x32q/am_i_the_only_one_who_liked_the_macos_design/'>Reddit</a> | <a href='apollo://reddit.com/r/MacOS/comments/w5x32q/am_i_the_only_one_who_liked_the_macos_design/'>Apollo</a></caption>",
-            "date_published": "2022-07-23T06:34:15+00:00",
-            "authors": [
-                {
-                    "name": "Coolguy6979",
-                    "url": "https://www.reddit.com/user/Coolguy6979"
                 }
             ]
         }
