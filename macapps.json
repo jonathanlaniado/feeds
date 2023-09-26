@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "16shu7e",
+            "url": "/r/macapps/comments/16shu7e/notes_app_that_will_sync_with_ios_app_and/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/16shu7e/notes_app_that_will_sync_with_ios_app_and/",
+            "title": "Notes app that will sync with iOS app and interactive widgets",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/16shu7e/notes_app_that_will_sync_with_ios_app_and/'>Reddit</a></caption><div><br></div><div><p>I've had a hunt around and for the life of me I can't find a simple notes app that has a mac app, an iOS app that syncs in close to real time and also includes an interactive (large) widget that updates too. Any help would be really appreciated. Thanks</p></div>",
+            "date_published": "2023-09-26T08:20:29+00:00",
+            "authors": [
+                {
+                    "name": "zeedotme",
+                    "url": "https://www.reddit.com/user/zeedotme"
+                }
+            ]
+        },
+        {
             "id": "16s9be2",
             "url": "/r/macapps/comments/16s9be2/tg_pro_284_now_fully_compatible_with_macos_14/",
             "external_url": "https://www.reddit.com/r/macapps/comments/16s9be2/tg_pro_284_now_fully_compatible_with_macos_14/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "singhm11",
                     "url": "https://www.reddit.com/user/singhm11"
-                }
-            ]
-        },
-        {
-            "id": "10iu9df",
-            "url": "/r/macapps/comments/10iu9df/hidock_set_custom_dock_settings_for_when_on/",
-            "external_url": "https://hidock.app/",
-            "title": "HiDock Set custom Dock settings for when on different displays",
-            "content_html": "<caption>Open: <a href='https://hidock.app/'>hidock.app</a> | <a href='https://reddit.com/r/macapps/comments/10iu9df/hidock_set_custom_dock_settings_for_when_on/'>Reddit</a></caption>",
-            "date_published": "2023-01-22T21:06:44+00:00",
-            "authors": [
-                {
-                    "name": "MichaelTheGeek",
-                    "url": "https://www.reddit.com/user/MichaelTheGeek"
                 }
             ]
         }
