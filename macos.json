@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "16spavk",
+            "url": "/r/MacOS/comments/16spavk/is_there_a_way_to_find_out_if_mac_was_formatted/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/16spavk/is_there_a_way_to_find_out_if_mac_was_formatted/",
+            "title": "Is there a way to find out if mac was formatted?",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/MacOS/comments/16spavk/is_there_a_way_to_find_out_if_mac_was_formatted/'>Reddit</a></caption><div><br></div><div><p>Is there a log file or some way to find out the last date a mac hard drive was formatted?  </p></div>",
+            "date_published": "2023-09-26T14:20:44+00:00",
+            "authors": [
+                {
+                    "name": "Humble-Ad-5326",
+                    "url": "https://www.reddit.com/user/Humble-Ad-5326"
+                }
+            ]
+        },
+        {
             "id": "16spbxo",
             "url": "/r/MacOS/comments/16spbxo/mac_freeze_and_restarts_by_itself/",
             "external_url": "https://www.reddit.com/r/MacOS/comments/16spbxo/mac_freeze_and_restarts_by_itself/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Jarvan513",
                     "url": "https://www.reddit.com/user/Jarvan513"
-                }
-            ]
-        },
-        {
-            "id": "wim8ln",
-            "url": "/r/MacOS/comments/wim8ln/i_redesigned_the_macos_music_app/",
-            "external_url": "https://www.reddit.com/gallery/wim8ln",
-            "title": "I redesigned the macOS Music app.",
-            "content_html": "<caption>Open in: <a href='https://www.reddit.com/gallery/wim8ln'>www.reddit.com</a> | <a href='https://reddit.com/r/MacOS/comments/wim8ln/i_redesigned_the_macos_music_app/'>Reddit</a> | <a href='apollo://reddit.com/r/MacOS/comments/wim8ln/i_redesigned_the_macos_music_app/'>Apollo</a></caption>",
-            "date_published": "2022-08-07T18:18:33+00:00",
-            "authors": [
-                {
-                    "name": "BrentTwT",
-                    "url": "https://www.reddit.com/user/BrentTwT"
                 }
             ]
         }
