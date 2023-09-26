@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "16s9be2",
+            "url": "/r/macapps/comments/16s9be2/tg_pro_284_now_fully_compatible_with_macos_14/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/16s9be2/tg_pro_284_now_fully_compatible_with_macos_14/",
+            "title": "TG Pro 2.84: Now Fully Compatible with macOS 14 Sonoma, Plus New Real-Time Fan Speeds",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/16s9be2/tg_pro_284_now_fully_compatible_with_macos_14/'>Reddit</a></caption><div><br></div><div><p>Hello everyone,</p>\n<p>We are pleased to announce that <a href=\"https://www.tunabellysoftware.com/tgpro/\">TG Pro</a> 2.84 is now available, just in time for the public release of macOS 14 Sonoma.</p>\n<h2>Why TG Pro?</h2>\n<p>For newcomers, TG Pro is your go-to solution for monitoring and managing your Mac's thermal performance. It gives you a comprehensive view of CPU and GPU temperatures while offering advanced fan control options to ensure optimal system performance.</p>\n<h2>Highlights:</h2>\n<ul>\n<li><strong>macOS 14 Sonoma Compatibility</strong>: TG Pro 2.84 is fully optimized for the newest macOS, ensuring a seamless user experience along with a fix for the issue when using accessibility options like VoiceOver causing the drop-down menu to become unresponsive when using the fan speed sliders.</li>\n<li><strong>Real-Time Fan Speeds</strong>: The drop-down menu now shows you the actual RPM of your fans in real-time, offering quick and convenient monitoring without opening the full application.</li>\n<li><strong>Bug Fixes</strong>: This update improves usability in numerous areas, as well as a fix for a crash related to invalid license codes.</li>\n</ul>\n<p>Feel free to <a href=\"https://www.tunabellysoftware.com/tgpro/\">download TG Pro 2.84</a> today and experience these updates for yourself.</p>\n<p><strong>System Requirements</strong>: TG Pro fully supports all Apple Silicon models, from M1 to the mighty M2 Ultra, as well as all Intel Macs running macOS 10.13 or higher.</p>\n<p><strong>Trial and Pricing</strong>: TG Pro comes with a free 14-day trial, after which it's a one-time purchase of $10 USD to own.</p></div>",
+            "date_published": "2023-09-26T00:47:48+00:00",
+            "authors": [
+                {
+                    "name": "tunabelly_software",
+                    "url": "https://www.reddit.com/user/tunabelly_software"
+                }
+            ]
+        },
+        {
             "id": "16sgv5x",
             "url": "/r/macapps/comments/16sgv5x/bezel_mirror_your_iphone_onto_your_mac/",
             "external_url": "https://www.reddit.com/r/macapps/comments/16sgv5x/bezel_mirror_your_iphone_onto_your_mac/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MichaelTheGeek",
                     "url": "https://www.reddit.com/user/MichaelTheGeek"
-                }
-            ]
-        },
-        {
-            "id": "10gq9fw",
-            "url": "/r/macapps/comments/10gq9fw/spaced_organize_your_menu_bar_items_into_groups/",
-            "external_url": "https://apps.apple.com/app/id1666327168",
-            "title": "Spaced \u2014 Organize your menu bar items into groups",
-            "content_html": "<caption>Open: <a href='https://apps.apple.com/app/id1666327168'>apps.apple.com</a> | <a href='https://reddit.com/r/macapps/comments/10gq9fw/spaced_organize_your_menu_bar_items_into_groups/'>Reddit</a></caption>",
-            "date_published": "2023-01-20T07:04:06+00:00",
-            "authors": [
-                {
-                    "name": "sindresorhus",
-                    "url": "https://www.reddit.com/user/sindresorhus"
                 }
             ]
         }
