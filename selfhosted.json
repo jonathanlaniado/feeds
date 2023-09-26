@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "16scf1x",
+            "url": "/r/selfhosted/comments/16scf1x/selfhosting_life_hack_for_curated_photos_eg_for/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/16scf1x/selfhosting_life_hack_for_curated_photos_eg_for/",
+            "title": "Self-hosting life hack for curated photos (eg, for slideshows on TV)",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16scf1x/selfhosting_life_hack_for_curated_photos_eg_for/'>Reddit</a></caption><div><br></div><div><p>I've long coveted the idea of adding a Photos library to Jellyfin or Kodi so I can use my TV as an oversized digital photo frame. But I don't want it to use my full photo library. I really don't need to see all my different outtakes and angles and all the times I took 35 pics of myself trying to get one that makes me more attractive than I really am and all the images that need to be rotated. So...what to do? Curating a collection would take forever!</p>\n<p>Well, recently I realised: I already curate quite regularly in Facebook albums and posts. There will be like 50-100 best-ofs for a trip or whatever. So, I used the album download option to get a bunch of those, and hey presto, a ready-made set of pre-curated slideshows. For about an hour's work I put together a usable library of 4,200 photos. Sweet!</p></div>",
+            "date_published": "2023-09-26T03:10:52+00:00",
+            "authors": [
+                {
+                    "name": "nurseynurseygander",
+                    "url": "https://www.reddit.com/user/nurseynurseygander"
+                }
+            ]
+        },
+        {
             "id": "16s6kjt",
             "url": "/r/selfhosted/comments/16s6kjt/how_to_improve_and_secure_my_small_arr_setup/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/16s6kjt/how_to_improve_and_secure_my_small_arr_setup/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "BitDaniYT",
                     "url": "https://www.reddit.com/user/BitDaniYT"
-                }
-            ]
-        },
-        {
-            "id": "yo0qmt",
-            "url": "/r/selfhosted/comments/yo0qmt/free_course_to_teach_you_how_to_set_up_your_own/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/yo0qmt/free_course_to_teach_you_how_to_set_up_your_own/",
-            "title": "Free course to teach you how to set up your own infrastructure",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/yo0qmt/free_course_to_teach_you_how_to_set_up_your_own/'>Reddit</a></caption><div><br></div><div><p>Hello everyone,</p>\n<p>I've made a DevOps course covering a lot of different technologies and applications,\naimed at startups, small companies and individuals who want to self-host\ntheir infrastructure - hence this post here.</p>\n<p>To get this out of the way - this course doesn't cover Kubernetes or similar -\nI'm of the opinion that for startups, small companies, and especially individuals,\nyou probably don't need Kubernetes. Unless you have a whole DevOps team,\nit usually brings more problems than benefits, and unnecessary infrastructure bills\nburied a lot of startups before they got anywhere.</p>\n<p>As for prerequisites, you can't be a complete beginner in the world of computers.\nIf you've never even heard of Docker, if you don't know at least something about DNS,\nor if you don't have any experience with Linux, this course is probably not for you.\nThat being said, I do explain the basics too, but probably not in enough detail\nfor a complete beginner.</p>\n<p>The course is available at Udemy, and here's a 100% OFF coupon URL (1000 of those available):</p>\n<p>https://www.udemy.com/course/real-world-devops-project-from-start-to-finish/?couponCode=FREEDEVOPS2211CJDUA</p>\n<p>Be sure to BUY the course for $0, and not sign up for Udemy's subscription plan.\nThe Subscription plan is selected by default, but you want the BUY checkbox.\nIf you see a price other than $0, chances are that all coupons have been used already.</p>\n<p>I encourage you to watch \"free preview\" videos to get the sense of what\nwill be covered, but here's the gist:</p>\n<p>The goal of the course is to create an easily deployable and reproducible server\nwhich will have \"everything\" a startup or a small company will need - VPN, mail, Git,\nCI/CD, messaging, hosting websites and services, sharing files, calendar, etc.\nIt can also be useful to individuals who want to self-host all of those - I ditched Google 99.9%\nand other than that being a good feeling, I'm not worried that some AI bug will lock my account\nwith no one to talk to about resolving the issue.</p>\n<p>Considering that it covers a wide variety of topics, it doesn't go in depth in any of those.\nThink of it as going down a highway towards the end destination, but on the way there I show you\nall the junctions where I think it's useful to do more research on the subject.</p>\n<p>We'll deploy services inside Docker and LXC (Linux Containers). Those will include\na mail server (iRedMail), Zulip (Slack and Microsoft Teams alternative), GitLab (with GitLab Runner and CI/CD),\nNextcloud (file sharing, calendar, contacts, etc.), checkmk (monitoring solution), Pi-hole (ad blocking on DNS level),\nTraefik with Docker and file providers (a single HTTP/S entry point with automatic routing and TLS certificates).</p>\n<p>We'll set up WireGuard, a modern and fast VPN solution for secure access to VPS' internal network,\nand I'll also show you how to get a wildcard TLS certificate with certbot and DNS provider.</p>\n<p>To wrap it all up, we'll write a simple Python application that will compare a list of the desired backups\nwith the list of finished backups, and send a result to a Zulip stream.\nWe'll write the application, do a 'git push' to GitLab which will trigger a CI/CD pipeline\nthat will build a Docker image, push it to a private registry, and then,\nwith the help of the GitLab runner, run it on the VPS and post a result to a Zulip stream with a webhook.</p>\n<p>When done, you'll be equipped to add additional services suited for your needs.</p>\n<p>If you apply the coupon, I'd appreciate if you leave your feedback on Udemy\nafter you're done and spread the word about the course. It would mean a lot.</p>\n<p>I hope that you find it useful.</p>\n<p>Happy learning,\nPredrag</p></div>",
-            "date_published": "2022-11-06T19:54:14+00:00",
-            "authors": [
-                {
-                    "name": "predmijat",
-                    "url": "https://www.reddit.com/user/predmijat"
                 }
             ]
         }
