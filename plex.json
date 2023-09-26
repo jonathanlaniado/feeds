@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "16sm2cw",
+            "url": "/r/PleX/comments/16sm2cw/shield_2019_pro_acting_up_what_to_replace_it_with/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/16sm2cw/shield_2019_pro_acting_up_what_to_replace_it_with/",
+            "title": "Shield 2019 Pro Acting Up - What to Replace it With",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16sm2cw/shield_2019_pro_acting_up_what_to_replace_it_with/'>Reddit</a></caption><div><br></div><div><p>Hello,</p>\n<p>Just wondering what other peoples experience is with Plex on devices other than the Shield. Mine hardly works anymore, the last update seemed to put a steak in its heart. I hear atmos is a nightmare on Apple TV 4K but if there\u2019s a workaround that looks appealing. I\u2019m open to anything with a gigabit Ethernet port that can play DoVIi/HDR10 encoding with TRUEHD atmos audio.</p></div>",
+            "date_published": "2023-09-26T12:07:40+00:00",
+            "authors": [
+                {
+                    "name": "manofoz",
+                    "url": "https://www.reddit.com/user/manofoz"
+                }
+            ]
+        },
+        {
             "id": "16soje5",
             "url": "/r/PleX/comments/16soje5/confused_about_sound_source/",
             "external_url": "https://www.reddit.com/r/PleX/comments/16soje5/confused_about_sound_source/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Theduke322",
                     "url": "https://www.reddit.com/user/Theduke322"
-                }
-            ]
-        },
-        {
-            "id": "th4wu8",
-            "url": "/r/PleX/comments/th4wu8/an_almost_complete_interactive_redesign_of_plexs/",
-            "external_url": "https://www.figma.com/proto/50HFITCLCHWNilHJnW2M46/Plex?node-id=3380%3A3220&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3380%3A3220&show-proto-sidebar=1",
-            "title": "An almost complete interactive (re)design of Plex's web interface",
-            "content_html": "<caption>Open in: <a href='https://www.figma.com/proto/50HFITCLCHWNilHJnW2M46/Plex?node-id=3380%3A3220&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3380%3A3220&show-proto-sidebar=1'>www.figma.com</a> | <a href='https://reddit.com/r/PleX/comments/th4wu8/an_almost_complete_interactive_redesign_of_plexs/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/th4wu8/an_almost_complete_interactive_redesign_of_plexs/'>Apollo</a></caption>",
-            "date_published": "2022-03-18T16:10:23+00:00",
-            "authors": [
-                {
-                    "name": "goodorca",
-                    "url": "https://www.reddit.com/user/goodorca"
                 }
             ]
         }
