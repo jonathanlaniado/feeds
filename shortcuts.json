@@ -1,0 +1,17 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "r/shortcuts",
+    "description": "This subreddit is devoted to Shortcuts. Shortcuts is an Apple app for automation on iOS, iPadOS, and macOS.",
+    "home_page_url": "https://reddit.com",
+    "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/shortcuts.json",
+    "icon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
+    "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
+    "items": [
+        {
+            "id": "0",
+            "url": "https://www.reddit.com/r/shortcuts",
+            "title": "r/shortcuts has been launched!",
+            "content_html": "<p>This feed will be populated as posts match the given criteria.</p>"
+        }
+    ]
+}
