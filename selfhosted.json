@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "16sphv7",
+            "url": "/r/selfhosted/comments/16sphv7/best_pihole_blocklists/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/16sphv7/best_pihole_blocklists/",
+            "title": "Best Pihole blocklists?",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16sphv7/best_pihole_blocklists/'>Reddit</a></caption><div><br></div><div><p>I've been looking to expand my pihole blocklist, and possible add some regex filtering.</p>\n<p>Any recommendations for blocklists/regex filters that are updated pretty regularly?</p></div>",
+            "date_published": "2023-09-26T14:28:18+00:00",
+            "authors": [
+                {
+                    "name": "Boring-Wednesdays",
+                    "url": "https://www.reddit.com/user/Boring-Wednesdays"
+                }
+            ]
+        },
+        {
             "id": "16sp6kx",
             "url": "/r/selfhosted/comments/16sp6kx/sending_mqtt_to_home_assistant_resolved_through/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/16sp6kx/sending_mqtt_to_home_assistant_resolved_through/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "hoiru",
                     "url": "https://www.reddit.com/user/hoiru"
-                }
-            ]
-        },
-        {
-            "id": "z2kidc",
-            "url": "/r/selfhosted/comments/z2kidc/my_selfhosted_raspberry_pi_dashboard/",
-            "external_url": "https://i.redd.it/jkg51grbmp1a1.jpg",
-            "title": "My selfhosted Raspberry Pi dashboard",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/selfhosted/comments/z2kidc/my_selfhosted_raspberry_pi_dashboard/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/jkg51grbmp1a1.jpg\" />",
-            "date_published": "2022-11-23T09:20:01+00:00",
-            "authors": [
-                {
-                    "name": "Teko_fox",
-                    "url": "https://www.reddit.com/user/Teko_fox"
                 }
             ]
         }
