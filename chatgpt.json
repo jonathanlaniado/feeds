@@ -1,0 +1,17 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "r/chatgpt",
+    "description": "Subreddit to discuss about ChatGPT and AI. Not affiliated with OpenAI.",
+    "home_page_url": "https://reddit.com",
+    "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/chatgpt.json",
+    "icon": "https://styles.redditmedia.com/t5_7hqomg/styles/communityIcon_lnxlhix84tja1.png",
+    "favicon": "https://styles.redditmedia.com/t5_7hqomg/styles/communityIcon_lnxlhix84tja1.png",
+    "items": [
+        {
+            "id": "0",
+            "url": "https://www.reddit.com/r/chatgpt",
+            "title": "r/chatgpt has been launched!",
+            "content_html": "<p>This feed will be populated as posts match the given criteria.</p>"
+        }
+    ]
+}
