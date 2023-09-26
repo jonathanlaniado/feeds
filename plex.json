@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "16sqi5c",
+            "url": "/r/PleX/comments/16sqi5c/raspberry_pi_as_a_playback_device/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/16sqi5c/raspberry_pi_as_a_playback_device/",
+            "title": "Raspberry Pi as a playback device",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16sqi5c/raspberry_pi_as_a_playback_device/'>Reddit</a></caption><div><br></div><div><p>Hi, I have been having issues with my TV playing back my files. With my laptop plugged into the TV, they play back just fine, so I have narrowed it down to my TV. I wanted to know how well a Raspberry Pi works as a playback device and if anyone here uses one. If so, what do you prefer to use to playback media from Plex? </p></div>",
+            "date_published": "2023-09-26T15:06:17+00:00",
+            "authors": [
+                {
+                    "name": "SunBro0341",
+                    "url": "https://www.reddit.com/user/SunBro0341"
+                }
+            ]
+        },
+        {
             "id": "16sq6x0",
             "url": "/r/PleX/comments/16sq6x0/tv_tuner_cheap_alternative_for_plex/",
             "external_url": "https://www.reddit.com/r/PleX/comments/16sq6x0/tv_tuner_cheap_alternative_for_plex/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "SquelchMuffins",
                     "url": "https://www.reddit.com/user/SquelchMuffins"
-                }
-            ]
-        },
-        {
-            "id": "tmkbua",
-            "url": "/r/PleX/comments/tmkbua/april_1st_is_coming_and_the_merc_with_a_mouth/",
-            "external_url": "https://i.redd.it/2j17mxc1wcp81.png",
-            "title": "April 1st is coming and the Merc with a Mouth won't shut up about it ...",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/2j17mxc1wcp81.png'>i.redd.it</a> | <a href='https://reddit.com/r/PleX/comments/tmkbua/april_1st_is_coming_and_the_merc_with_a_mouth/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/tmkbua/april_1st_is_coming_and_the_merc_with_a_mouth/'>Apollo</a></caption>",
-            "date_published": "2022-03-24T16:12:58+00:00",
-            "authors": [
-                {
-                    "name": "AlanShore60607",
-                    "url": "https://www.reddit.com/user/AlanShore60607"
                 }
             ]
         }
