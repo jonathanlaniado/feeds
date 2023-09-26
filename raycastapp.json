@@ -1,0 +1,17 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "r/raycastapp",
+    "description": "We are an unofficial Subreddit for users and developers of Raycast, a blazingly fast, totally extendable launcher.\n\nShare your extensions, get help, and geek out.\n\nDownload here: https://www.raycast.com/download\n\nDiscord: https://discord.gg/3V6uM6TnC2",
+    "home_page_url": "https://reddit.com",
+    "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/raycastapp.json",
+    "icon": "https://styles.redditmedia.com/t5_6y39uf/styles/communityIcon_33jhf9tu7ck91.png",
+    "favicon": "https://styles.redditmedia.com/t5_6y39uf/styles/communityIcon_33jhf9tu7ck91.png",
+    "items": [
+        {
+            "id": "0",
+            "url": "https://www.reddit.com/r/raycastapp",
+            "title": "r/raycastapp has been launched!",
+            "content_html": "<p>This feed will be populated as posts match the given criteria.</p>"
+        }
+    ]
+}
