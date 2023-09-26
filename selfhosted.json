@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "16smww4",
+            "url": "/r/selfhosted/comments/16smww4/programmatic_way_to_retrieve_api_from_arrs/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/16smww4/programmatic_way_to_retrieve_api_from_arrs/",
+            "title": "Programmatic way to retrieve API from *arrs?",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16smww4/programmatic_way_to_retrieve_api_from_arrs/'>Reddit</a></caption><div><br></div><div><p>I have done some changes to my homelab recently and had to set up a lot of the services I was using. Other than web scraping, is there a programmatic way to get the API keys from the stack? I am decent with Python and was going to use that as my tool of choice</p></div>",
+            "date_published": "2023-09-26T12:44:21+00:00",
+            "authors": [
+                {
+                    "name": "TXAGZ16",
+                    "url": "https://www.reddit.com/user/TXAGZ16"
+                }
+            ]
+        },
+        {
             "id": "16slr84",
             "url": "/r/selfhosted/comments/16slr84/backing_up_maria_db_instance_one_script_to_save/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/16slr84/backing_up_maria_db_instance_one_script_to_save/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "barinali",
                     "url": "https://www.reddit.com/user/barinali"
-                }
-            ]
-        },
-        {
-            "id": "yx1bdk",
-            "url": "/r/selfhosted/comments/yx1bdk/my_dashboard_d/",
-            "external_url": "https://i.redd.it/hpph769otc0a1.png",
-            "title": "My \"dashboard\" :D",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/selfhosted/comments/yx1bdk/my_dashboard_d/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/hpph769otc0a1.png\" />",
-            "date_published": "2022-11-16T18:14:03+00:00",
-            "authors": [
-                {
-                    "name": "836624",
-                    "url": "https://www.reddit.com/user/836624"
                 }
             ]
         }
