@@ -1,0 +1,17 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "r/artificialinteligence",
+    "description": "The goal of the r/ArtificialIntelligence is to provide a gateway to the many different facets of the Artificial Intelligence community, and to promote discussion relating to the ideas and concepts that we know of as AI. These could include philosophical and social questions, art and design, technical papers, machine learning, where to find resources and tools, how to develop AI/ML projects, AI in business, how AI is affecting our lives, what the future may hold, and many other topics. Welcome.",
+    "home_page_url": "https://reddit.com",
+    "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/artificialinteligence.json",
+    "icon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
+    "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
+    "items": [
+        {
+            "id": "0",
+            "url": "https://www.reddit.com/r/artificialinteligence",
+            "title": "r/artificialinteligence has been launched!",
+            "content_html": "<p>This feed will be populated as posts match the given criteria.</p>"
+        }
+    ]
+}
