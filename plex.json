@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "16sraip",
+            "url": "/r/PleX/comments/16sraip/im_new_i_have_questions_be_gentle/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/16sraip/im_new_i_have_questions_be_gentle/",
+            "title": "I'm new. I have questions. Be gentle.",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16sraip/im_new_i_have_questions_be_gentle/'>Reddit</a></caption><div><br></div><div><p>I have Plex on my laptop. I have the app on my Roku. I ripped a movie I have, uploaded, and everything works. Awesome, I'm sold.  </p>\n<p>Running Plex off my laptop is not a long-term solution. I don't leave it on 24/7 and storage will become an issue. I want to back up all of my physical media (DVDs) and enjoy the functionality of Plex.  </p>\n<p>So what do you all do? I see a lot about using a NAS. What does that entail? I know I need a NAS, then I need the HDs. Do I need software for this too?   </p>\n<p>Does anyone have any suggested guides? Youtube videos?  </p>\n<p>I'm new to all this and am not super tech-savvy, so I need it dumbed down.  </p>\n<p>Thanks!</p></div>",
+            "date_published": "2023-09-26T15:36:52+00:00",
+            "authors": [
+                {
+                    "name": "Brother_Farside",
+                    "url": "https://www.reddit.com/user/Brother_Farside"
+                }
+            ]
+        },
+        {
             "id": "16srks1",
             "url": "/r/PleX/comments/16srks1/can_somebody_help_me_i_cant_acces_the_web/",
             "external_url": "https://www.reddit.com/r/PleX/comments/16srks1/can_somebody_help_me_i_cant_acces_the_web/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "__PETTYOFFICER117__",
                     "url": "https://www.reddit.com/user/__PETTYOFFICER117__"
-                }
-            ]
-        },
-        {
-            "id": "txj7x0",
-            "url": "/r/PleX/comments/txj7x0/dear_plex_please_bring_auto_trailers_to_our_own/",
-            "external_url": "https://v.redd.it/orrfco9j0wr81",
-            "title": "Dear Plex, please bring auto trailers to our own person files also \ud83d\ude4f ( with enable/disable toggle for people who don't like it)",
-            "content_html": "<caption>Open in: <a href='https://v.redd.it/orrfco9j0wr81'>v.redd.it</a> | <a href='https://reddit.com/r/PleX/comments/txj7x0/dear_plex_please_bring_auto_trailers_to_our_own/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/txj7x0/dear_plex_please_bring_auto_trailers_to_our_own/'>Apollo</a></caption>",
-            "date_published": "2022-04-06T10:40:17+00:00",
-            "authors": [
-                {
-                    "name": "nads84",
-                    "url": "https://www.reddit.com/user/nads84"
                 }
             ]
         }
