@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "16ssfbk",
+            "url": "/r/PleX/comments/16ssfbk/locked_out_of_server_how_do_i_get_back_in/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/16ssfbk/locked_out_of_server_how_do_i_get_back_in/",
+            "title": "Locked Out of Server. How do I get back in?",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16ssfbk/locked_out_of_server_how_do_i_get_back_in/'>Reddit</a></caption><div><br></div><div><p>Hi! i was out of town for a few days and when I came back I realized my Plex account was down. I checked the server/main computer the server is connected to and I received the message, \"Not authorized. You don't have access to this server.\" I realize now this randomly happens to people from time to time with Plex, but I have no idea how to fix it/claim it back. I'm using a Mac OS and I've tried the <a href=\"https://support.plex.tv/articles/204281528-why-am-i-locked-out-of-server-settings-and-how-do-i-get-in/\">troubleshooting instructions</a> from Plex, rebooting the server, etc. still nothing. Is there something I'm doing wrong? I also tried un-installing the package file and re-installing on my Synology DiskStation. Still nothing. I have no idea what to do now. Any help would be much appreciated! </p></div>",
+            "date_published": "2023-09-26T16:20:48+00:00",
+            "authors": [
+                {
+                    "name": "bananawriter",
+                    "url": "https://www.reddit.com/user/bananawriter"
+                }
+            ]
+        },
+        {
             "id": "16ss4s9",
             "url": "/r/PleX/comments/16ss4s9/playback_error_with_subtitles_enabled/",
             "external_url": "https://i.redd.it/wp6obia8jmqb1.jpg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Hitsville-UK",
                     "url": "https://www.reddit.com/user/Hitsville-UK"
-                }
-            ]
-        },
-        {
-            "id": "tyim9x",
-            "url": "/r/PleX/comments/tyim9x/watchlist_is_a_backdoor_into_discover_unrestricted/",
-            "external_url": "https://www.reddit.com/gallery/tyim9x",
-            "title": "Watchlist is a backdoor into Discover - Unrestricted",
-            "content_html": "<caption>Open in: <a href='https://www.reddit.com/gallery/tyim9x'>www.reddit.com</a> | <a href='https://reddit.com/r/PleX/comments/tyim9x/watchlist_is_a_backdoor_into_discover_unrestricted/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/tyim9x/watchlist_is_a_backdoor_into_discover_unrestricted/'>Apollo</a></caption>",
-            "date_published": "2022-04-07T17:53:09+00:00",
-            "authors": [
-                {
-                    "name": "IronSheikYerbouti",
-                    "url": "https://www.reddit.com/user/IronSheikYerbouti"
                 }
             ]
         }
