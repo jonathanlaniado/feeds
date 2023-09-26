@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "16sgv5x",
+            "url": "/r/macapps/comments/16sgv5x/bezel_mirror_your_iphone_onto_your_mac/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/16sgv5x/bezel_mirror_your_iphone_onto_your_mac/",
+            "title": "Bezel - Mirror your iPhone onto your Mac",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/16sgv5x/bezel_mirror_your_iphone_onto_your_mac/'>Reddit</a></caption><div><br></div><div><p>Hi all!</p>\n<p>My friend Tom and I just released Bezel. Our app to show a mirror of an iPhone onto your Mac. Just plug in the iPhone and it will show up on the Mac. The device frame (bezel) of the device matched the device plugged in.</p>\n<p>You can download the trial for free from our website: <a href=\"https://getbezel.app\">https://getbezel.app</a> </p>\n<p>Here is a quick demo of the app in action:</p>\n<p><a href=\"https://reddit.com/link/16sgv5x/video/1c1xw6gyujqb1/player\">Bezel starting to mirror an iPhone 15 Pro as soon as it's connected to a MacBook Pro.</a></p>\n<p>The app supports macOS 12 and up, including Sonoma, and all iPhones and iPads with USB-C or lightning including iPhone 15 (Pro).</p>\n<p>If you\u2019re interested please do give it a try! Would love to hear how you would use Bezel yourself. Please also share any feedback you have it in the comments.</p>\n<p>\u2014Mathijs</p>\n<p>Ps. You can also find us on <a href=\"https://www.producthunt.com/posts/bezel-2\">Product Hunt</a> if that\u2019s your thing.</p></div>",
+            "date_published": "2023-09-26T07:17:22+00:00",
+            "authors": [
+                {
+                    "name": "mac_cain13",
+                    "url": "https://www.reddit.com/user/mac_cain13"
+                }
+            ]
+        },
+        {
             "id": "16o86y3",
             "url": "/r/macapps/comments/16o86y3/bartender_5_is_out/",
             "external_url": "https://www.macbartender.com/Bartender5/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "sindresorhus",
                     "url": "https://www.reddit.com/user/sindresorhus"
-                }
-            ]
-        },
-        {
-            "id": "10gdanl",
-            "url": "/r/macapps/comments/10gdanl/a_few_posts_recently_have_been_about_the_best/",
-            "external_url": "https://thiswebsite.notion.site/e90b603684824416ae4bab5175806a4b?v=e9b7930fa5bd45d49a9b22683a1e9ee4",
-            "title": "A few posts recently have been about 'the best apps' - so I thought I'd play with Notion and make a database of all the apps I've used (and a ton that I've seen recommended on Reddit). It's still a work in progress - I need to add iOS links for complimentary apps.",
-            "content_html": "<caption>Open: <a href='https://thiswebsite.notion.site/e90b603684824416ae4bab5175806a4b?v=e9b7930fa5bd45d49a9b22683a1e9ee4'>thiswebsite.notion.site</a> | <a href='https://reddit.com/r/macapps/comments/10gdanl/a_few_posts_recently_have_been_about_the_best/'>Reddit</a></caption>",
-            "date_published": "2023-01-19T21:08:03+00:00",
-            "authors": [
-                {
-                    "name": "scribblenik",
-                    "url": "https://www.reddit.com/user/scribblenik"
                 }
             ]
         }
