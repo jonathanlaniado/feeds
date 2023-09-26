@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "16stvqx",
+            "url": "/r/PleX/comments/16stvqx/plex_skipping_all_songs_from_an_artist_when/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/16stvqx/plex_skipping_all_songs_from_an_artist_when/",
+            "title": "Plex skipping all songs from an artist when casting",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16stvqx/plex_skipping_all_songs_from_an_artist_when/'>Reddit</a></caption><div><br></div><div><p>Hey all, I'm a new user trying to build up my music collection and use it with Plex. I bought the album <a href=\"https://www.qobuz.com/us-en/album/utopia-travis-scott/e2n5vm3w5y46a\">Utopia</a> yesterday, pasted the files in my music folder and as far as I can tell everything works well, EXCEPT casting. I got another album and some singles too and it skips all of them.</p>\n<p>I've tried removing some songs, all the songs from the other artists, downloading the albums again, used the website and Plex/Plexamp on android, it still skips over them. This doesn't happen with any other artist in my library. I bought all my music from Qobuz, all of them are flac files and the other ones work just fine.</p>\n<p>I don't know what could be the problem and what else I can do so any help is greatly appreciated.</p></div>",
+            "date_published": "2023-09-26T17:16:49+00:00",
+            "authors": [
+                {
+                    "name": "astro-gazing",
+                    "url": "https://www.reddit.com/user/astro-gazing"
+                }
+            ]
+        },
+        {
             "id": "16ssdff",
             "url": "/r/PleX/comments/16ssdff/plex_database_questions/",
             "external_url": "https://www.reddit.com/r/PleX/comments/16ssdff/plex_database_questions/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "the_bigheavy",
                     "url": "https://www.reddit.com/user/the_bigheavy"
-                }
-            ]
-        },
-        {
-            "id": "u33206",
-            "url": "/r/PleX/comments/u33206/weve_been_asking_for_it_and_its_happening/",
-            "external_url": "https://i.imgur.com/JFq4KnW.jpg",
-            "title": "we've been asking for it and it's happening",
-            "content_html": "<caption>Open in: <a href='https://i.imgur.com/JFq4KnW.jpg'>i.imgur.com</a> | <a href='https://reddit.com/r/PleX/comments/u33206/weve_been_asking_for_it_and_its_happening/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/u33206/weve_been_asking_for_it_and_its_happening/'>Apollo</a></caption>",
-            "date_published": "2022-04-13T23:08:07+00:00",
-            "authors": [
-                {
-                    "name": "disrupted_bln",
-                    "url": "https://www.reddit.com/user/disrupted_bln"
                 }
             ]
         }
