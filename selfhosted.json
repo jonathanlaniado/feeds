@@ -8,16 +8,16 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
-            "id": "16s7i3d",
-            "url": "/r/selfhosted/comments/16s7i3d/how_do_you_show_your_users_a_service_is_down/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/16s7i3d/how_do_you_show_your_users_a_service_is_down/",
-            "title": "How do you show your users a service is down?",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16s7i3d/how_do_you_show_your_users_a_service_is_down/'>Reddit</a></caption><div><br></div><div><p>Having multiple services on my home network and allowing other users access is one of the benefits, and fun, if setting up services at home.  But then when these services are down for maintenance or something wrong happened is there a self hosted service you use, ie webpage, where users can go to see if something is down or how long until it's back?  </p>\n<p>In my head I'm thinking of the outage pages that ISPs use for customers.</p></div>",
-            "date_published": "2023-09-25T23:27:11+00:00",
+            "id": "16sghng",
+            "url": "/r/selfhosted/comments/16sghng/notification_when_server_is_down/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/16sghng/notification_when_server_is_down/",
+            "title": "Notification when server is down",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16sghng/notification_when_server_is_down/'>Reddit</a></caption><div><br></div><div><p>What is the best option for me to get notified when my homeserver shuts down (due to power outages or whatever)?</p>\n<p>Obviously adding my own homeserver to Uptime Kuma wont work since I run Uptime Kuma on the host itself.</p>\n<p>Happy to read some ideas!</p></div>",
+            "date_published": "2023-09-26T06:54:14+00:00",
             "authors": [
                 {
-                    "name": "Khisanthax",
-                    "url": "https://www.reddit.com/user/Khisanthax"
+                    "name": "Full_Internal_3542",
+                    "url": "https://www.reddit.com/user/Full_Internal_3542"
                 }
             ]
         },
