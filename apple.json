@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "16sotnw",
+            "url": "/r/apple/comments/16sotnw/eus_thierry_breton_tells_apple_to_open_everything/",
+            "external_url": "https://appleinsider.com/articles/23/09/26/eu-tells-apple-to-open-everything-up-to-its-rivals",
+            "title": "EU's Thierry Breton tells Apple to open everything to rivals",
+            "content_html": "<caption>Open: <a href='https://appleinsider.com/articles/23/09/26/eu-tells-apple-to-open-everything-up-to-its-rivals'>appleinsider.com</a> | <a href='https://reddit.com/r/apple/comments/16sotnw/eus_thierry_breton_tells_apple_to_open_everything/'>Reddit</a></caption>",
+            "date_published": "2023-09-26T14:01:41+00:00",
+            "authors": [
+                {
+                    "name": "BiteofAAPL",
+                    "url": "https://www.reddit.com/user/BiteofAAPL"
+                }
+            ]
+        },
+        {
             "id": "16sopgg",
             "url": "/r/apple/comments/16sopgg/apple_looking_to_save_space_in_future_iphones/",
             "external_url": "https://www.macrumors.com/2023/09/26/apple-looking-to-save-space-with-thinner-pcbs/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Falls_stuff",
                     "url": "https://www.reddit.com/user/Falls_stuff"
-                }
-            ]
-        },
-        {
-            "id": "13spnme",
-            "url": "/r/apple/comments/13spnme/final_cut_pro_for_ipados_cant_export_in_the/",
-            "external_url": "https://twitter.com/bzamayo/status/1661133704792621059?cxt=HHwWhoC-6bWTxI0uAAAA",
-            "title": "Final Cut Pro for iPadOS can't export in the background",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/apple/comments/13spnme/final_cut_pro_for_ipados_cant_export_in_the/\">Reddit</a></caption><div><br></div><blockquote class=\"twitter-tweet\" align=\"center\"><p lang=\"en\" dir=\"ltr\">&quot;Keep Final Cut Pro open until the export is complete&quot; This point alone would put me off using it seriously, who wants to sit there with a foregrounded progress bar for minutes at a time ... and feels like a dated restriction that iPadOS n+1 could remove, in light of vram/etc</p>&mdash; Benjamin Mayo (@bzamayo) <a href=\"https://twitter.com/bzamayo/status/1661133704792621059?ref_src=twsrc%5Etfw\">May 23, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
-            "date_published": "2023-05-26T21:55:18+00:00",
-            "authors": [
-                {
-                    "name": "Austin_Aaron_Conlon",
-                    "url": "https://www.reddit.com/user/Austin_Aaron_Conlon"
                 }
             ]
         }
