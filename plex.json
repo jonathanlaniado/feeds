@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "16ssdff",
+            "url": "/r/PleX/comments/16ssdff/plex_database_questions/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/16ssdff/plex_database_questions/",
+            "title": "Plex Database Questions",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16ssdff/plex_database_questions/'>Reddit</a></caption><div><br></div><div><p>Hey all, long time plex user, first time redditor.</p>\n<p>I have a nice server setup for media storage and docker. Long story short through experimentation I broke several things in ZFS which caused bad writes. I would like to reset several things and have it rebuild the credit detection and thumbnails. Is there any way to do this without wiping out the entire DB and having to basically start a fresh server? If that is the best/fastest alternative, i will do so.</p>\n<p>A pre-emptive thank you for your help!</p></div>",
+            "date_published": "2023-09-26T16:18:41+00:00",
+            "authors": [
+                {
+                    "name": "Harm_Tech",
+                    "url": "https://www.reddit.com/user/Harm_Tech"
+                }
+            ]
+        },
+        {
             "id": "16ssfbk",
             "url": "/r/PleX/comments/16ssfbk/locked_out_of_server_how_do_i_get_back_in/",
             "external_url": "https://www.reddit.com/r/PleX/comments/16ssfbk/locked_out_of_server_how_do_i_get_back_in/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "disrupted_bln",
                     "url": "https://www.reddit.com/user/disrupted_bln"
-                }
-            ]
-        },
-        {
-            "id": "u0ug7u",
-            "url": "/r/PleX/comments/u0ug7u/well_heres_what_no_one_asked_for/",
-            "external_url": "https://forums.plex.tv/t/adult-recommendations-are-not-acceptable-nsfw/787577",
-            "title": "Well here\u2019s what no one asked for",
-            "content_html": "<caption>Open in: <a href='https://forums.plex.tv/t/adult-recommendations-are-not-acceptable-nsfw/787577'>forums.plex.tv</a> | <a href='https://reddit.com/r/PleX/comments/u0ug7u/well_heres_what_no_one_asked_for/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/u0ug7u/well_heres_what_no_one_asked_for/'>Apollo</a></caption>",
-            "date_published": "2022-04-10T23:54:45+00:00",
-            "authors": [
-                {
-                    "name": "Hitsville-UK",
-                    "url": "https://www.reddit.com/user/Hitsville-UK"
                 }
             ]
         }
