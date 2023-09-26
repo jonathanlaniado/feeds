@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "16stpa6",
+            "url": "/r/PleX/comments/16stpa6/whats_the_best_cpu_if_transcoding_isnt_needed/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/16stpa6/whats_the_best_cpu_if_transcoding_isnt_needed/",
+            "title": "What's the best CPU if transcoding isn't needed?",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16stpa6/whats_the_best_cpu_if_transcoding_isnt_needed/'>Reddit</a></caption><div><br></div><div><p>Greetings!</p>\n<p>I'm trying to move my PMS off of my Synology, and I need advice on what CPU would be \"just enough.\" Here's the situation.</p>\n<p>To start, my collection is 99% 4K/1080p HDR HEVC x265. I am currently storing and hosting Plex on a Synology 923+ (so no hardware transcoding). This is fine most of the time. Me and 4 remote users all direct play on their home internet. </p>\n<p>I am helping someone replace their graphics card and power supply, so he is letting me buy his 1650 Super and 500W PSU for $50 (heyooo). From NVIDIA's chart, I saw that the 1650S should be able to transcode three 4K HDR HEVC streams. So the idea is to just complete the rest of a computer that can transcode my library and host my PMS. But what CPU should I use to power everything EXCEPT transcoding? Trying to use basically as little money as possible. </p>\n<p>CPU:?\nMobo:?\nRAM: any 2x8 DDR4\nGPU: 1650 Super\nStorage: 240GB Kingston SSD\nPSU: EVGA 500W White</p></div>",
+            "date_published": "2023-09-26T17:09:40+00:00",
+            "authors": [
+                {
+                    "name": "MNISather",
+                    "url": "https://www.reddit.com/user/MNISather"
+                }
+            ]
+        },
+        {
             "id": "16stvqx",
             "url": "/r/PleX/comments/16stvqx/plex_skipping_all_songs_from_an_artist_when/",
             "external_url": "https://www.reddit.com/r/PleX/comments/16stvqx/plex_skipping_all_songs_from_an_artist_when/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "bozodev",
                     "url": "https://www.reddit.com/user/bozodev"
-                }
-            ]
-        },
-        {
-            "id": "u72nsd",
-            "url": "/r/PleX/comments/u72nsd/anyone_else_feel_like_plex_is_going_downhill_on/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/u72nsd/anyone_else_feel_like_plex_is_going_downhill_on/",
-            "title": "Anyone else feel like Plex is going downhill on the core function of playing local media?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/PleX/comments/u72nsd/anyone_else_feel_like_plex_is_going_downhill_on/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/u72nsd/anyone_else_feel_like_plex_is_going_downhill_on/'>Apollo</a></caption> <div><p>I've been using Plex for a good 10 years at this point, and for a while every new update made the software better and I happily bought a lifetime pass. Now it seems we're going in the opposite directions, specifically:</p>\n<p>1) There's a maybe 40% chance I can't play any given file on my Plex Apple TV client connected to a 1080P TV. Either no audio, or it dies a few moments into the video. I've tried all manner of streaming settings and often get the same effect on another Apple TV 4K connected to a 4K projector. The same files will play just fine on Infuse. I'll occasionally check the Plex forums and there's all manner of settings tweaks that don't quite work, and then someone swoops in and blames AppleTV, which might make sense if Infuse didn't work perfectly.</p>\n<p>2) The \"much better than the old sync\" Download feature on iOS is hot garbage. I've started traveling again and find this hugely frustrating. With the old sync feature I could flag 1-6 shows or movies before I went to bed, everything would transcode on the server overnight, and in the AM I could sync hours of content flawlessly in maybe 20 minutes over WiFi. With Downloads I'm lucky if I can get a 2 episodes of a single show and that's if I leave the iPad on, with Plex open, and babysit the thing.</p>\n<p>I get it that Plex wants to become a super-cool streaming company and do an IPO and be like Netflix Jr. and fly around on the G6 and do lines off Vegan Leather seats like the WeWork guy, but can we just get the basics of playing local media perfect before we launch crappy Live TV or allow me to search Netflix without using Netflix?!?!</p></div>",
-            "date_published": "2022-04-19T11:13:32+00:00",
-            "authors": [
-                {
-                    "name": "the_bigheavy",
-                    "url": "https://www.reddit.com/user/the_bigheavy"
                 }
             ]
         }
