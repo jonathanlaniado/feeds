@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "16sohl4",
+            "url": "/r/macapps/comments/16sohl4/parallel_disk_scanner/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/16sohl4/parallel_disk_scanner/",
+            "title": "Parallel Disk Scanner",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/16sohl4/parallel_disk_scanner/'>Reddit</a></caption><div><br></div><div><p>Hello all, I have re-released my disk scanning utility app on the app store. It's a simple file size aggregator - but it is very fast.</p>\n<p><a href=\"https://apps.apple.com/us/app/parallel-disk-scanner/id6466426378\">https://apps.apple.com/us/app/parallel-disk-scanner/id6466426378</a></p>\n<p>Do you currently use an app like this? What do you look for in it?</p>\n<p>I have written about how this works a few years ago and the source code is online on GitHub - <a href=\"https://beijaflor.io/filesaver/\">https://beijaflor.io/filesaver/</a>. I am sure there is a lot of room for improvement, but I use this pretty often myself.</p>\n<p>All the best,<br />\nPedro</p></div>",
+            "date_published": "2023-09-26T13:48:19+00:00",
+            "authors": [
+                {
+                    "name": "yamadapc",
+                    "url": "https://www.reddit.com/user/yamadapc"
+                }
+            ]
+        },
+        {
             "id": "16shu7e",
             "url": "/r/macapps/comments/16shu7e/notes_app_that_will_sync_with_ios_app_and/",
             "external_url": "https://www.reddit.com/r/macapps/comments/16shu7e/notes_app_that_will_sync_with_ios_app_and/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "RoryBowcott",
                     "url": "https://www.reddit.com/user/RoryBowcott"
-                }
-            ]
-        },
-        {
-            "id": "10lclku",
-            "url": "/r/macapps/comments/10lclku/i_made_an_app_that_lets_you_alarm_your_laptop/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/10lclku/i_made_an_app_that_lets_you_alarm_your_laptop/",
-            "title": "I made an app that lets you alarm your laptop when you step away to order coffee",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/10lclku/i_made_an_app_that_lets_you_alarm_your_laptop/'>Reddit</a></caption><div><br></div><div><p>We've all been in a situation where we've had to leave our MacBook in a public place like a coffee shop or library, only to be left feeling anxious about the safety and having to ask strangers to watch our device.</p>\n<p>I\u2019ve made an app that lets you alarm your MacBook when you go away to do something and if someone tries taking your laptop while you\u2019re gone, it rings a loud alarm.</p>\n<p>The BETA can be downloaded at <a href=\"https://www.getcly.de\">www.getcly.de</a>. I would love your guys\u2019 feedback :)</p>\n<p>&#x200B;</p>\n<p>EDIT: Clyde dis-alarms itself when you authenticate yourself as the user while signing in :) </p>\n<p>https://preview.redd.it/tszrv078t9ea1.png?width=3462&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=c916b4a4b1003f8167aeebf40d37dd1d4e9bb9c9</p></div>",
-            "date_published": "2023-01-25T23:04:36+00:00",
-            "authors": [
-                {
-                    "name": "singhm11",
-                    "url": "https://www.reddit.com/user/singhm11"
                 }
             ]
         }
