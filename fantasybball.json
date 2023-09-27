@@ -1,0 +1,17 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "r/fantasybball",
+    "description": "A fantasy basketball community. Please use the weekly stickied threads to ask questions and to get feedback about your team.",
+    "home_page_url": "https://reddit.com",
+    "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/fantasybball.json",
+    "icon": "https://styles.redditmedia.com/t5_2s5ct/styles/communityIcon_f09ho1aq9slb1.png",
+    "favicon": "https://styles.redditmedia.com/t5_2s5ct/styles/communityIcon_f09ho1aq9slb1.png",
+    "items": [
+        {
+            "id": "0",
+            "url": "https://www.reddit.com/r/fantasybball",
+            "title": "r/fantasybball has been launched!",
+            "content_html": "<p>This feed will be populated as posts match the given criteria.</p>"
+        }
+    ]
+}
