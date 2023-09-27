@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "16oldze",
+            "url": "/r/ArcBrowser/comments/16oldze/arc_update_191_41815/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/16oldze/arc_update_191_41815/",
+            "title": "Arc Update - 1.9.1 (41815)",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/ArcBrowser/comments/16oldze/arc_update_191_41815/'>Reddit</a></caption><div><br></div><div><p>\ud83d\udcc6 Sep 21, 2023 at 11:50:57 AM</p>\n<blockquote>\n<p>\u2022 Improved speed for switching spaces when top bar is enabled.</p>\n<p>\u2022 We now have a global preference to turn off Picture-in-Picture in Arc &gt; Settings &gt; Advanced.</p>\n<p>\u2022 We've improved the UI of Previews. To learn more or turn previews on / off head to Arc &gt; Settings &gt; General.</p>\n<p>\u2022 We've fixed three bugs in Sonoma: an issue with clicking into the Library, a bug with Space swiping with the sidebar hidden, and a crash caused by changing your Space icon.</p>\n<p>\u2022 You can now hit FN+F to toggle window fullscreen.</p>\n<p>\u2022 Favorited tabs in Developer Mode will now also have Developer Mode styling.</p>\n<p>\u2022 You can now right click on the URL Bar to show or hide the Toolbar.</p>\n<p>\u2022 It's now possible to remap the Exit Full Screen priority. You can edit shortcuts in Arc &gt; Settings &gt; Shortcuts.</p>\n<p>\u2022 Dragging text into the sidebar will create a new search tab using your default search engine.</p>\n<p>\u2022 Hitting CMD T and then \"Share\" will now open the share-sheet to share your current tab.</p>\n<p>\u2022 Site Search will now be enabled across all profiles when activating via a toast suggestion.</p>\n<p>\u2022 We've improved the progress bar for livestream videos in Picture-in-Picture.</p>\n<p>\u2022 You can cast your current tab using View &gt; Cast in the Mac Menu Bar.</p>\n</blockquote>\n<p><strong>Manual Download Link:</strong>\nhttps://releases.arc.net/release/Arc-1.9.1-41815.zip</p>\n<p><strong>Release Notes:</strong>\nhttps://arc.net/e/D25B2EEA-7506-4850-A169-3B2A00802889</p></div>",
+            "date_published": "2023-09-21T17:14:05+00:00",
+            "authors": [
+                {
+                    "name": "JaceThings",
+                    "url": "https://www.reddit.com/user/JaceThings"
+                }
+            ]
+        },
+        {
             "id": "16tfm5n",
             "url": "/r/ArcBrowser/comments/16tfm5n/space_feature_not_used_at_all/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/16tfm5n/space_feature_not_used_at_all/",
