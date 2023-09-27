@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "16t6fie",
+            "url": "/r/macapps/comments/16t6fie/just_updated_to_sonoma_bartender_5_taking_500_mb/",
+            "external_url": "https://i.redd.it/cmvwx9kk8pqb1.png",
+            "title": "Just updated to Sonoma, Bartender 5 taking 500+ MB of memory?!",
+            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/macapps/comments/16t6fie/just_updated_to_sonoma_bartender_5_taking_500_mb/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/cmvwx9kk8pqb1.png\" />",
+            "date_published": "2023-09-27T01:15:17+00:00",
+            "authors": [
+                {
+                    "name": "InappropriateCanuck",
+                    "url": "https://www.reddit.com/user/InappropriateCanuck"
+                }
+            ]
+        },
+        {
             "id": "16t62rf",
             "url": "/r/macapps/comments/16t62rf/bartender_5_using_550mb_of_memory_looking_for_an/",
             "external_url": "https://www.reddit.com/r/macapps/comments/16t62rf/bartender_5_using_550mb_of_memory_looking_for_an/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "the_bammer",
                     "url": "https://www.reddit.com/user/the_bammer"
-                }
-            ]
-        },
-        {
-            "id": "10xoyse",
-            "url": "/r/macapps/comments/10xoyse/stable_version_of_transmission_bittorrent_client/",
-            "external_url": "https://transmissionbt.com/",
-            "title": "Stable version of Transmission Bittorrent client v4.0.0 has been released. Stable macOS builds are now apple silicon native.",
-            "content_html": "<caption>Open: <a href='https://transmissionbt.com/'>transmissionbt.com</a> | <a href='https://reddit.com/r/macapps/comments/10xoyse/stable_version_of_transmission_bittorrent_client/'>Reddit</a></caption>",
-            "date_published": "2023-02-09T07:47:40+00:00",
-            "authors": [
-                {
-                    "name": "HounddogGray",
-                    "url": "https://www.reddit.com/user/HounddogGray"
                 }
             ]
         }
