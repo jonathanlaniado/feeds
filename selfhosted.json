@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "16t7hw2",
+            "url": "/r/selfhosted/comments/16t7hw2/big_shout_to_the_team_who_created_homepage_love/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/16t7hw2/big_shout_to_the_team_who_created_homepage_love/",
+            "title": "Big shout to the team who created HomePage: Love their work!",
+            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16t7hw2/big_shout_to_the_team_who_created_homepage_love/'>Reddit</a></caption><div><br></div><div><p>My homepage dashboard is coming along nicely. All the apps you see are locally hosted running either on my NAS or my ubuntu server. It's so nice to see it all tied up neatly into one little bundle. I am having problems with the Mealie widget though so if anyone has that working, please reach out to me \ud83d\ude04</p>\n<p><a href=\"https://preview.redd.it/xu8r7l4ggpqb1.png?width=1784&amp;format=png&amp;auto=webp&amp;s=93faef48ee45c9ab3230253814bb9751658cdf2d\">My dashboard</a></p>\n<p>For more info to set this up yourself: <a href=\"https://gethomepage.dev/en/installation/\">https://gethomepage.dev</a></p></div>",
+            "date_published": "2023-09-27T02:00:19+00:00",
+            "authors": [
+                {
+                    "name": "Additional-Nerve-421",
+                    "url": "https://www.reddit.com/user/Additional-Nerve-421"
+                }
+            ]
+        },
+        {
             "id": "14cqjeb",
             "url": "/r/selfhosted/comments/14cqjeb/the_subreddit_will_go_on_the_community_must_be/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/14cqjeb/the_subreddit_will_go_on_the_community_must_be/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "jokob",
                     "url": "https://www.reddit.com/user/jokob"
-                }
-            ]
-        },
-        {
-            "id": "zmr54x",
-            "url": "/r/selfhosted/comments/zmr54x/medusa_the_os_shopify_alternative_just_made_a/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/zmr54x/medusa_the_os_shopify_alternative_just_made_a/",
-            "title": "Medusa, the OS Shopify alternative, just made a 250x performance improvement",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/zmr54x/medusa_the_os_shopify_alternative_just_made_a/'>Reddit</a></caption><div><br></div><div><p>I am one of the co-founders behind <a href=\"https://github.com/medusajs/medusa\">Medusa</a>, a composable commerce platform built in TS/JS with a headless architecture.</p>\n<p>It is built out of frustration with current proprietary platforms that always forced us to build hacky workarounds whenever we tried to customize our setup.</p>\n<p>As devs frequently use this Selfhosted sub at Medusa, we wanted to start making our larger releases a bit more public here. Today, we'll make the first of such updates - happy to hear feedback if there are more things you'd like to hear more / less about.</p>\n<p>&#x200B;</p>\n<p><strong>THE UPDATES</strong></p>\n<ul>\n<li><strong>250x performance improvement:</strong> With our latest release of Medusa, we just made a huge breakthrough with a &gt;250x performance improvement. This is obviously significant, and we will publish a comprehensive deep-dive on it soon. For now, you can enjoy a much faster application.</li>\n<li><strong>React Admin:</strong> We likewise <strong>migrated our Admin Dashboard to use React + Vite,</strong> giving you a lot more flexibility but also meaning the Gatsby version is officially deprecated.</li>\n<li><strong>B2B Ecommerce:</strong> At last, we also prepared <strong>Medusa to</strong> <strong>handle B2B ecommerce</strong> with our newest releases of Sales Channels, Customer Groups, and Price List, which allow you to create differentiated views, pricing, and promotions for B2B customers. Read more <a href=\"https://medusajs.com/blog/medusa-b2b-part-1/\">here</a>.</li>\n</ul>\n<p>&#x200B;</p>\n<p><strong>WHAT IS MEDUSA?</strong></p>\n<p>For those of you new to Medusa, the short story is that we are self-hosted (surprise ;-)) / open source alternative to the likes of Shopify, Commercetools and similar.</p>\n<p>We try to approach the ecommerce space with a more modern developer-first approach than the traditional OS players (read: Magento, Woo, Prestashop etc.). We are building a node.js based solution that is meant to be composable and flexible for developers to scale with rather than an all-in-one encompassing solution.</p>\n<p>We have existed since the Summer last year and currently have a community of +4,000 developers. Our engine is powering ecommerce setups across the globe and we know engineering teams from small 1-person startups to public companies that are building with Medusa - i.e. no project is too big or too small, although you obviously need to be a dev to handle a tool like this.</p></div>",
-            "date_published": "2022-12-15T17:42:49+00:00",
-            "authors": [
-                {
-                    "name": "amoopa",
-                    "url": "https://www.reddit.com/user/amoopa"
                 }
             ]
         }
