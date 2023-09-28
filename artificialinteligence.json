@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "16ueagc",
+            "url": "/r/ArtificialInteligence/comments/16ueagc/getting_emotional_with_llms_can_increase/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/16ueagc/getting_emotional_with_llms_can_increase/",
+            "title": "Getting Emotional with LLMs Can increase Performance by 115% (Case Study)",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArtificialInteligence/comments/16ueagc/getting_emotional_with_llms_can_increase/'>Apollo</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/16ueagc/getting_emotional_with_llms_can_increase/'>Reddit</a></caption><div><br></div><div><p>This research was a real eye-opener. Conducted by Microsoft, the study investigated the impact of appending emotional cues to the end of prompts, such as \"this is crucial for my career\" or \"make sure you're certain.\" They coined this technique as EmotionPrompt.<br />\nWhat's astonishing is the significant boost in accuracy they observed\u2014up to 115% in some cases! Human evaluators also gave higher ratings to responses generated with EmotionPrompt.<br />\nWhat I absolutely love about this is its ease of implementation\u2014you can effortlessly integrate custom instructions into ChatGPT.<br />\nWe've compiled a summary of this groundbreaking paper. Feel free to check it out <a href=\"https://www.godofprompt.ai/blog/getting-emotional-with-large-language-models-llms-can-increase-performance-by-115-case-study\">here.</a><br />\nFor those interested in diving deeper, here's the <a href=\"https://arxiv.org/pdf/2307.11760.pdf\">link</a> to the full paper.</p></div>",
+            "date_published": "2023-09-28T12:09:04+00:00",
+            "authors": [
+                {
+                    "name": "Senior_tasteey",
+                    "url": "https://www.reddit.com/user/Senior_tasteey"
+                }
+            ]
+        },
+        {
             "id": "0",
             "url": "https://www.reddit.com/r/artificialinteligence",
             "title": "r/artificialinteligence has been launched!",
