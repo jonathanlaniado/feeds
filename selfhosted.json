@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "16u2ash",
+            "url": "/r/selfhosted/comments/16u2ash/why_not_use_port_80/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/16u2ash/why_not_use_port_80/",
+            "title": "Why not use port 80?",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/16u2ash/why_not_use_port_80/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/16u2ash/why_not_use_port_80/'>Reddit</a></caption><div><br></div><div><p>I have several services, (not docker) that run on funky port numbers.  8006 for proxmox,  or 8321, or 8080.  What stops me from addressing all these to port 80, so I don't have to remember the obscure port number to access?  There a security reason for this?  Or is it just trying to avoid port conflict?</p></div>",
+            "date_published": "2023-09-28T01:15:47+00:00",
+            "authors": [
+                {
+                    "name": "ZeroPointMX",
+                    "url": "https://www.reddit.com/user/ZeroPointMX"
+                }
+            ]
+        },
+        {
             "id": "16u9msw",
             "url": "/r/selfhosted/comments/16u9msw/introducing_raspberry_pi_5/",
             "external_url": "https://www.raspberrypi.com/news/introducing-raspberry-pi-5/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "DistractionRectangle",
                     "url": "https://www.reddit.com/user/DistractionRectangle"
-                }
-            ]
-        },
-        {
-            "id": "zsqx9y",
-            "url": "/r/selfhosted/comments/zsqx9y/unifiedpush_a_decentralized_opensource_push/",
-            "external_url": "https://f-droid.org/2022/12/18/unifiedpush.html",
-            "title": "UnifiedPush: a decentralized, open-source push notification protocol",
-            "content_html": "<caption>Open: <a href='https://f-droid.org/2022/12/18/unifiedpush.html'>f-droid.org</a> | <a href='https://reddit.com/r/selfhosted/comments/zsqx9y/unifiedpush_a_decentralized_opensource_push/'>Reddit</a></caption>",
-            "date_published": "2022-12-22T16:59:34+00:00",
-            "authors": [
-                {
-                    "name": "Routing8493",
-                    "url": "https://www.reddit.com/user/Routing8493"
                 }
             ]
         }
