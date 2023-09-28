@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "16ud2a4",
+            "url": "/r/PleX/comments/16ud2a4/raspberry_pi_5_announced/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/16ud2a4/raspberry_pi_5_announced/",
+            "title": "Raspberry Pi 5 announced",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/PleX/comments/16ud2a4/raspberry_pi_5_announced/'>Apollo</a> | <a href='https://reddit.com/r/PleX/comments/16ud2a4/raspberry_pi_5_announced/'>Reddit</a></caption><div><br></div><div><p>A new Raspberry Pi 5 has been announced today, it would contain a Broadcom 2.4Ghz quadcore 64-bit ARM Cortex-A76 SOC, Videocore VII GPU, and it's claimed to have a 4Kp60 HEVC decoder.  Would this allow for hardware transcoding in Plex?</p></div>",
+            "date_published": "2023-09-28T11:09:32+00:00",
+            "authors": [
+                {
+                    "name": "Panic_1",
+                    "url": "https://www.reddit.com/user/Panic_1"
+                }
+            ]
+        },
+        {
             "id": "16tpsod",
             "url": "/r/PleX/comments/16tpsod/new_public_pms_version_available_132675571cf77d501/",
             "external_url": "https://www.reddit.com/r/PleX/comments/16tpsod/new_public_pms_version_available_132675571cf77d501/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "AliceBanana",
                     "url": "https://www.reddit.com/user/AliceBanana"
-                }
-            ]
-        },
-        {
-            "id": "u9o21b",
-            "url": "/r/PleX/comments/u9o21b/devs_please_i_cant_take_it_anymore_surely_this_is/",
-            "external_url": "https://i.redd.it/0tw175zh45v81.gif",
-            "title": "Devs, please. I can't take it anymore. Surely this is higher priority than those pesky transcoding issues, right??",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/0tw175zh45v81.gif'>i.redd.it</a> | <a href='https://reddit.com/r/PleX/comments/u9o21b/devs_please_i_cant_take_it_anymore_surely_this_is/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/u9o21b/devs_please_i_cant_take_it_anymore_surely_this_is/'>Apollo</a></caption>",
-            "date_published": "2022-04-22T20:34:57+00:00",
-            "authors": [
-                {
-                    "name": "96dpi",
-                    "url": "https://www.reddit.com/user/96dpi"
                 }
             ]
         }
