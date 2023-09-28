@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "16u9msw",
+            "url": "/r/selfhosted/comments/16u9msw/introducing_raspberry_pi_5/",
+            "external_url": "https://www.raspberrypi.com/news/introducing-raspberry-pi-5/",
+            "title": "Introducing: Raspberry Pi 5!",
+            "content_html": "<caption>Open: <a href='https://www.raspberrypi.com/news/introducing-raspberry-pi-5/'>www.raspberrypi.com</a> | <a href='https://reddit.com/r/selfhosted/comments/16u9msw/introducing_raspberry_pi_5/'>Reddit</a></caption>",
+            "date_published": "2023-09-28T07:41:57+00:00",
+            "authors": [
+                {
+                    "name": "atika",
+                    "url": "https://www.reddit.com/user/atika"
+                }
+            ]
+        },
+        {
             "id": "16tiqga",
             "url": "/r/selfhosted/comments/16tiqga/ive_created_an_opensource_search_platform_swirl/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/16tiqga/ive_created_an_opensource_search_platform_swirl/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Routing8493",
                     "url": "https://www.reddit.com/user/Routing8493"
-                }
-            ]
-        },
-        {
-            "id": "zqyg79",
-            "url": "/r/selfhosted/comments/zqyg79/i_created_a_library_of_fullcolor_svg_icons_of/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/zqyg79/i_created_a_library_of_fullcolor_svg_icons_of/",
-            "title": "I created a library of full-color SVG icons of homelab-related software, products, and brands that I'm using in my network diagrams. It was going to be a personal project, but I thought I'd share it here.",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/zqyg79/i_created_a_library_of_fullcolor_svg_icons_of/'>Reddit</a></caption><div><br></div><div><p>TL;DR:</p>\n<p>300+ full-color SVG icons of homelab-related software, products, and brands for use in dashboards, network diagrams, etc...</p>\n<p>https://github.com/loganmarchione/homelab-svg-assets</p>\n<p>See a preview of all icons <a href=\"https://github.com/loganmarchione/homelab-svg-assets/blob/main/ICONS.md\">here</a></p>\n<hr />\n<p>In my dashboards and network diagrams, I was using the already existing SVG icon sets (<a href=\"https://simpleicons.org/\">Simple Icons</a>, <a href=\"https://icons.getbootstrap.com/\">Bootstrap Icons</a>, <a href=\"https://fontawesome.com/icons\">Font Awesome</a>, etc...), as well as random PNG/JPG files I found online. However, I always wanted consistently-sized full-color SVGs (instead of black/monotone or random PNG/JPG files).</p>\n<p>I gathered 300+ SVGs so far, and wanted to share them here.</p>\n<p>https://github.com/loganmarchione/homelab-svg-assets.</p>\n<p>I don't intend to replace any existing icon sets. Instead, I'm focused on homelab-related software, products, and brands ONLY.</p>\n<p>I have the following features so far:</p>\n<ul>\n<li>Consistent viewbox (48x48)</li>\n<li>Optimized with SVGO</li>\n<li>Diagrams.net library (this is the reason I created this project)</li>\n<li>CDN (via jsDelivr)</li>\n<li>PHP (via Packagist)</li>\n<li>Node (via NPM)</li>\n<li>Hugo (via module)</li>\n</ul>\n<p>Things I'm working on:</p>\n<ul>\n<li>Adding more icons</li>\n<li>Gathering brand usage guidelines</li>\n<li>Gathering registered trademark (\u00ae) or trademark (\u2122) symbols to be added</li>\n<li>Creating more automation for deployments</li>\n</ul>\n<p>I created this for myself, but figured it might be useful here!</p></div>",
-            "date_published": "2022-12-20T20:16:54+00:00",
-            "authors": [
-                {
-                    "name": "lmm7425",
-                    "url": "https://www.reddit.com/user/lmm7425"
                 }
             ]
         }
