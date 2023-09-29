@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "16u7w6y",
+            "url": "/r/macapps/comments/16u7w6y/best_ad_blocker_for_safari/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/16u7w6y/best_ad_blocker_for_safari/",
+            "title": "Best Ad Blocker for Safari",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/16u7w6y/best_ad_blocker_for_safari/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/16u7w6y/best_ad_blocker_for_safari/'>Reddit</a></caption><div><br></div><div><p>As the title says, I'm just looking for the best Ad Blocker for Safari</p></div>",
+            "date_published": "2023-09-28T05:55:23+00:00",
+            "authors": [
+                {
+                    "name": "Radskiiii",
+                    "url": "https://www.reddit.com/user/Radskiiii"
+                }
+            ]
+        },
+        {
             "id": "16ub8ei",
             "url": "/r/macapps/comments/16ub8ei/rules_shortcuts_automation_based_on_your_calendar/",
             "external_url": "https://i.redd.it/q1rpnml6syqb1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ItseKeisari",
                     "url": "https://www.reddit.com/user/ItseKeisari"
-                }
-            ]
-        },
-        {
-            "id": "117yiz4",
-            "url": "/r/macapps/comments/117yiz4/folders_a_file_manager_for_former_windows_users/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/117yiz4/folders_a_file_manager_for_former_windows_users/",
-            "title": "Folders, a file manager for (former) Windows users",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/117yiz4/folders_a_file_manager_for_former_windows_users/'>Reddit</a></caption><div><br></div><div><p>Hi everyone!</p>\n<p>Today I\u2019ve released my first app, Folders. It\u2019s a file manager for those who recently came from Windows and for some reason would prefer something Explorer-like, or just for those who would like a file manager with a folder tree.</p>\n<p>This is the first release of Folders, so obviously many features are yet to come, and the App Store price (hopefully) reflects that. However, all the essential features you\u2019d expect from a macOS file manager are already there. I wanted the app to look as concise and pleasant as possible, and I very much hope you will appreciate it.</p>\n<p><a href=\"https://foldersapp.dev/\">Folders Website</a></p>\n<p><a href=\"https://apps.apple.com/us/app/folders-file-manager/id1593644229\">Direct App Store link</a></p>\n<p>Also, if you feel like it, you may support Folders <a href=\"https://www.producthunt.com/posts/folders\">on Product Hunt</a>.</p></div>",
-            "date_published": "2023-02-21T08:31:53+00:00",
-            "authors": [
-                {
-                    "name": "Conxt",
-                    "url": "https://www.reddit.com/user/Conxt"
                 }
             ]
         }
