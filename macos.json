@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "16v9fqr",
+            "url": "/r/MacOS/comments/16v9fqr/understanding_time_machine_why_does_hourly_backup/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/16v9fqr/understanding_time_machine_why_does_hourly_backup/",
+            "title": "Understanding Time Machine: Why Does Hourly Backup Copy Hundreds of GBs?",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/MacOS/comments/16v9fqr/understanding_time_machine_why_does_hourly_backup/'>Apollo</a> | <a href='https://reddit.com/r/MacOS/comments/16v9fqr/understanding_time_machine_why_does_hourly_backup/'>Reddit</a></caption><div><br></div><div><p>I have a 5 TB volume in my NAS dedicated to the Apple Time Machine backups. My total production data volume (that is being backed up) is around 1.5 TB. It's set to back up on an hourly basis.Even with subtle changes in the production data (like a general usage of the Mac OS Sonoma), whenever I monitor the Time machine status, it's always copying 100s GBs of data into the NAS.</p>\n<p>I verified backups a couple of times and nothing was wrong.</p>\n<p>I'm curious how the time machine hourly backups work.  </p>\n<p>btw, the OS is the latest public Mac OS Sonoma</p>\n<p>https://preview.redd.it/v3fywra4m6rb1.png?width=958&amp;format=png&amp;auto=webp&amp;s=61ea2f968012c98cfeacb15cfe46054e0e0e47c8</p></div>",
+            "date_published": "2023-09-29T11:48:12+00:00",
+            "authors": [
+                {
+                    "name": "turalaliyev",
+                    "url": "https://www.reddit.com/user/turalaliyev"
+                }
+            ]
+        },
+        {
             "id": "16ukz7j",
             "url": "/r/MacOS/comments/16ukz7j/why_does_apple_keep_a_fixed_width_for_the_system/",
             "external_url": "https://www.reddit.com/r/MacOS/comments/16ukz7j/why_does_apple_keep_a_fixed_width_for_the_system/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "stephancasas",
                     "url": "https://www.reddit.com/user/stephancasas"
-                }
-            ]
-        },
-        {
-            "id": "y1c90t",
-            "url": "/r/MacOS/comments/y1c90t/why_hasnt_apple_introduced_this_simple_features/",
-            "external_url": "https://www.reddit.com/gallery/y1c90t",
-            "title": "Why hasn't Apple introduced this \"simple\" features in macOS so far?",
-            "content_html": "<caption>Open in: <a href='https://www.reddit.com/gallery/y1c90t'>www.reddit.com</a> | <a href='https://reddit.com/r/MacOS/comments/y1c90t/why_hasnt_apple_introduced_this_simple_features/'>Reddit</a> | <a href='apollo://reddit.com/r/MacOS/comments/y1c90t/why_hasnt_apple_introduced_this_simple_features/'>Apollo</a></caption>",
-            "date_published": "2022-10-11T15:39:49+00:00",
-            "authors": [
-                {
-                    "name": "CosoPotentissimo",
-                    "url": "https://www.reddit.com/user/CosoPotentissimo"
                 }
             ]
         }
