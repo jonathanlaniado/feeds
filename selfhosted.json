@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "16uuy1o",
+            "url": "/r/selfhosted/comments/16uuy1o/question_about_writing_a_will/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/16uuy1o/question_about_writing_a_will/",
+            "title": "Question about writing a will",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/16uuy1o/question_about_writing_a_will/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/16uuy1o/question_about_writing_a_will/'>Reddit</a></caption><div><br></div><div><p>A few years ago I came across an article about how to write a will when you maintain a homelab that provides many services for your partner and family members. There was a template (I think a md file on GitHub) that went through all kinds of things from accounts to zeroing hard drives etc. </p>\n<p>Does anyone recognize or remember this? I had meant to set that up but have forgotten until now and I can\u2019t find it.</p></div>",
+            "date_published": "2023-09-28T23:11:14+00:00",
+            "authors": [
+                {
+                    "name": "maximusprimate",
+                    "url": "https://www.reddit.com/user/maximusprimate"
+                }
+            ]
+        },
+        {
             "id": "16u2ash",
             "url": "/r/selfhosted/comments/16u2ash/why_not_use_port_80/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/16u2ash/why_not_use_port_80/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "io-x",
                     "url": "https://www.reddit.com/user/io-x"
-                }
-            ]
-        },
-        {
-            "id": "zt4b0m",
-            "url": "/r/selfhosted/comments/zt4b0m/lastpass_says_hackers_stole_customers_password/",
-            "external_url": "https://techcrunch.com/2022/12/22/lastpass-customer-password-vaults-stolen/",
-            "title": "LastPass says hackers stole customers' password vaults",
-            "content_html": "<caption>Open: <a href='https://techcrunch.com/2022/12/22/lastpass-customer-password-vaults-stolen/'>techcrunch.com</a> | <a href='https://reddit.com/r/selfhosted/comments/zt4b0m/lastpass_says_hackers_stole_customers_password/'>Reddit</a></caption>",
-            "date_published": "2022-12-23T02:39:03+00:00",
-            "authors": [
-                {
-                    "name": "DistractionRectangle",
-                    "url": "https://www.reddit.com/user/DistractionRectangle"
                 }
             ]
         }
