@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "16wb86m",
+            "url": "/r/selfhosted/comments/16wb86m/is_immich_right_for_me/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/16wb86m/is_immich_right_for_me/",
+            "title": "Is Immich right for me?",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/16wb86m/is_immich_right_for_me/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/16wb86m/is_immich_right_for_me/'>Reddit</a></caption><div><br></div><div><p>So I have a server running unraid for media automation. I have a separate share for photos that is excluded from that automation. It has about 3 tb of data which is all of my personal photos/videos for the last decade or more (which includes includes my kids entire lives). Obviously this is very important to me. I have this data backed up on an external HD that I keep at my moms house. </p>\n<p>Since I built my server a couple years ago, I mostly have been using my phone for photos and not a camera. I use google photos to back this up, my wife uses icloud. I want to implement immich and have us both move away from our respective back up solutions. I also want to pay for one 'cloud' back up solution to back up all of my configs plus our personal photos/videos (no interest in backing up my media, I don't have anything rare/hard to replace).    </p>\n<p>Is immich a good choice? Can it take and organize my existing 3 tb of data? Is there a better option than Immich plus Duplicacy for my use case?  </p>\n<p>I will add that I am pretty much a noob and can't problem solve too much on my own, my server was built almost solely by following ibracorp and spaceinvader tutorials. </p></div>",
+            "date_published": "2023-09-30T16:29:19+00:00",
+            "authors": [
+                {
+                    "name": "Kowabunga_Dude",
+                    "url": "https://www.reddit.com/user/Kowabunga_Dude"
+                }
+            ]
+        },
+        {
             "id": "16vovjo",
             "url": "/r/selfhosted/comments/16vovjo/if_youre_not_using_debian_what_are_you_using_and/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/16vovjo/if_youre_not_using_debian_what_are_you_using_and/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "yuvalsteuer",
                     "url": "https://www.reddit.com/user/yuvalsteuer"
-                }
-            ]
-        },
-        {
-            "id": "zyn8n5",
-            "url": "/r/selfhosted/comments/zyn8n5/upscayl_free_and_open_source_ai_image_upscaler/",
-            "external_url": "https://github.com/upscayl/upscayl",
-            "title": "Upscayl - Free and Open Source AI Image Upscaler for Linux, Mac and Windows",
-            "content_html": "<caption>Open: <a href='https://github.com/upscayl/upscayl'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/zyn8n5/upscayl_free_and_open_source_ai_image_upscaler/'>Reddit</a></caption>",
-            "date_published": "2022-12-30T01:37:53+00:00",
-            "authors": [
-                {
-                    "name": "NayamAmarshe",
-                    "url": "https://www.reddit.com/user/NayamAmarshe"
                 }
             ]
         }
