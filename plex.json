@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "16wh8xg",
+            "url": "/r/PleX/comments/16wh8xg/prevent_plex_from_minimizing_video_during_credits/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/16wh8xg/prevent_plex_from_minimizing_video_during_credits/",
+            "title": "Prevent Plex from minimizing video during credits",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/PleX/comments/16wh8xg/prevent_plex_from_minimizing_video_during_credits/'>Apollo</a> | <a href='https://reddit.com/r/PleX/comments/16wh8xg/prevent_plex_from_minimizing_video_during_credits/'>Reddit</a></caption><div><br></div><div><p>Is there a way to stop this behavior? It's a recent change, I'm guessing modeled after how streaming services do it (e.g. Max, Netflix, etc.). It's a total mood-killer, though, and I was really disappointed to see Plex adopt this.</p></div>",
+            "date_published": "2023-09-30T20:39:51+00:00",
+            "authors": [
+                {
+                    "name": "ProperNomenclature",
+                    "url": "https://www.reddit.com/user/ProperNomenclature"
+                }
+            ]
+        },
+        {
             "id": "16vjyfd",
             "url": "/r/PleX/comments/16vjyfd/14_years_down_the_drain/",
             "external_url": "https://www.reddit.com/r/PleX/comments/16vjyfd/14_years_down_the_drain/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Lxnxt",
                     "url": "https://www.reddit.com/user/Lxnxt"
-                }
-            ]
-        },
-        {
-            "id": "ug1f9f",
-            "url": "/r/PleX/comments/ug1f9f/increase_default_stream_quality_to_1080p/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/ug1f9f/increase_default_stream_quality_to_1080p/",
-            "title": "Increase default stream quality to 1080p",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/PleX/comments/ug1f9f/increase_default_stream_quality_to_1080p/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/ug1f9f/increase_default_stream_quality_to_1080p/'>Apollo</a></caption> <div><p>Seriously, just do it already.</p>\n<p>The 720p 2 Mbit/s was set probably like a decade ago and it's now 2022, what's stopping you?</p>\n<p><a href=\"https://forums.plex.tv/t/default-all-clients-to-max-internet-streaming/440641/1003\">Years of frustration</a> fixed by changing one line of code.</p>\n<p>\"Hey, please change your resolution in the settings\" \"How do I do that?\" Every single time.</p>\n<p>Just change it.</p></div>",
-            "date_published": "2022-05-01T14:47:18+00:00",
-            "authors": [
-                {
-                    "name": "Simon_787",
-                    "url": "https://www.reddit.com/user/Simon_787"
                 }
             ]
         }
