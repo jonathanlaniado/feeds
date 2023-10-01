@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "16wvm1h",
+            "url": "/r/selfhosted/comments/16wvm1h/orb_v10_has_been_released/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/16wvm1h/orb_v10_has_been_released/",
+            "title": "Orb v1.0 has been released",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/16wvm1h/orb_v10_has_been_released/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/16wvm1h/orb_v10_has_been_released/'>Reddit</a></caption><div><br></div><div><p>Orb is a free and open source web desktop, which simulates a Windows-like desktop in a web browser. You can use it to access files on a server or a NAS in an easy and secure way.</p>\n<p>I've posted about Orb a few times in the past, but this time it's about the v1.0 release. With this release, I consider this project more or less done. That doesn't mean that there will be no more new releases, but for now I will focus more on <a href=\"https://gitlab.com/hsleisink/cauldron\">another open source project</a> that I'm working on.</p>\n<p>Orb was created to have a user friendly web interface to access my files on my server. A friend of mine runs it on a Raspberry Pi to access the files on his NAS at home while he's at work. The explorer application is therefore the most important application. It also allows you to share files or directories with other people. File viewers for PDF, Word and Excel files, text files, images, videos and ZIP files make it all more user friendly. But this wouldn't be a hobby project if I didn't some fun stuff. So, there is of course minesweeper, a DOS and C64 emulator and last but not least, Wolfenstein 3D! And yes, it's a nerd project, so it has a terminal.</p>\n<p>Download Orb from <a href=\"https://gitlab.com/hsleisink/orb/\">Gitlab</a> or give the <a href=\"https://desktop.leisink.net/\">demo account</a> a try. Have fun with it!</p>\n<p><a href=\"https://preview.redd.it/8nnlk8t0ujrb1.jpg?width=1600&amp;format=pjpg&amp;auto=webp&amp;s=30caa3e9d311ff8d0aff00f3f4cd6b7748a032f5\">Orb screenshot</a></p></div>",
+            "date_published": "2023-10-01T08:26:07+00:00",
+            "authors": [
+                {
+                    "name": "Shendryl",
+                    "url": "https://www.reddit.com/user/Shendryl"
+                }
+            ]
+        },
+        {
             "id": "16wb86m",
             "url": "/r/selfhosted/comments/16wb86m/is_immich_right_for_me/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/16wb86m/is_immich_right_for_me/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "navaneethpk",
                     "url": "https://www.reddit.com/user/navaneethpk"
-                }
-            ]
-        },
-        {
-            "id": "100fb4s",
-            "url": "/r/selfhosted/comments/100fb4s/i_built_haystack_selfhosted_google_for_workplace/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/100fb4s/i_built_haystack_selfhosted_google_for_workplace/",
-            "title": "I built haystack - self-hosted google for workplace knowledge",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/100fb4s/i_built_haystack_selfhosted_google_for_workplace/'>Reddit</a></caption><div><br></div><div><p>I built haystack - natural language search engine for workplace technical knowledge.</p>\n<p>My name is Yuval I've been a software engineer for a few years now,</p>\n<p>A few weeks ago I was scrolling through confluence pages trying to find ssh connection details to our jenkins second integration machine for <strong>40 minutes straight</strong>, later I discovered my co-worker slack'ed me the ssh connection string <strong>two months ago</strong>.</p>\n<p>A week later I started working on haystack - a search engine for workplace apps.. It enables you to search slack, confluence, jira, teams, jfrog, github, and email in one place.</p>\n<p>It supports natural language queries so a query like: <code>\"how to connect to integ2 machine?\"</code> yields:</p>\n<pre><code>ssh -i private.pem ubuntu@ec2-integration2.eu-est-1.compute.amazonaws.com\n</code></pre>\n<p><strong>Privacy?</strong></p>\n<p>haystack is self hosted and stores user data <strong>locally</strong>, and is totally client-side - only you have access to internal docs, I didn't want to deal with security compliance headaches caused from storing user data in the cloud + I don\u2019t want your internal docs/messages.</p>\n<p>Rolled it out to my co-workers a week ago and they thought it's a hit, so I'm planning on releasing it publicly on March 2023.</p>\n<p><strong>Early access</strong></p>\n<p>If you want to try it out before March 2023 - <a href=\"https://haystack.it\">Available here</a></p></div>",
-            "date_published": "2023-01-01T08:28:01+00:00",
-            "authors": [
-                {
-                    "name": "yuvalsteuer",
-                    "url": "https://www.reddit.com/user/yuvalsteuer"
                 }
             ]
         }
