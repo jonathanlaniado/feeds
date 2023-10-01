@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "16xdkzx",
+            "url": "/r/selfhosted/comments/16xdkzx/a_call_for_developers_jellyfin_blog/",
+            "external_url": "https://jellyfin.org/posts/a-call-for-developers",
+            "title": "A Call for Developers | Jellyfin Blog",
+            "content_html": "<caption>Open: <a href='https://jellyfin.org/posts/a-call-for-developers'>jellyfin.org</a> | <a href='https://reddit.com/r/selfhosted/comments/16xdkzx/a_call_for_developers_jellyfin_blog/'>Reddit</a></caption>",
+            "date_published": "2023-10-01T21:32:30+00:00",
+            "authors": [
+                {
+                    "name": "tgp1994",
+                    "url": "https://www.reddit.com/user/tgp1994"
+                }
+            ]
+        },
+        {
             "id": "16wvm1h",
             "url": "/r/selfhosted/comments/16wvm1h/orb_v10_has_been_released/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/16wvm1h/orb_v10_has_been_released/",
@@ -1376,20 +1390,6 @@
                 {
                     "name": "avojak",
                     "url": "https://www.reddit.com/user/avojak"
-                }
-            ]
-        },
-        {
-            "id": "108adko",
-            "url": "/r/selfhosted/comments/108adko/tooljet_20_opensource_lowcode_framework_for/",
-            "external_url": "https://github.com/ToolJet/ToolJet",
-            "title": "ToolJet 2.0 - Open-source low-code framework for building business applications. Now with a refreshed UI, in-built no-code database, support for Python, support for multi-page apps, and more. Deploy using Docker, k8s, AWS AMI & more! Alternative to Retool, Power Apps & OutSystems.",
-            "content_html": "<caption>Open: <a href='https://github.com/ToolJet/ToolJet'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/108adko/tooljet_20_opensource_lowcode_framework_for/'>Reddit</a></caption>",
-            "date_published": "2023-01-10T13:54:08+00:00",
-            "authors": [
-                {
-                    "name": "navaneethpk",
-                    "url": "https://www.reddit.com/user/navaneethpk"
                 }
             ]
         },
