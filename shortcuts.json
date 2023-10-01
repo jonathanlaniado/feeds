@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "16wty4i",
+            "url": "/r/shortcuts/comments/16wty4i/iphone_15_pro_action_button_with_double_function/",
+            "external_url": "https://www.reddit.com/r/shortcuts/comments/16wty4i/iphone_15_pro_action_button_with_double_function/",
+            "title": "iPhone 15 Pro action button with double function. Mute and action menu.",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/16wty4i/iphone_15_pro_action_button_with_double_function/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/16wty4i/iphone_15_pro_action_button_with_double_function/'>Reddit</a></caption><div><br></div><div><p>Hello,</p>\n<p>I created this shortcut where you press the action button and if you do nothing the silent mode switches on and off. \nIf you press volume up or down within one second after pressing the action button you will get a action menu where you can make your own actions. \nThis way you keep your normal mute function with an additional menu. \nI added a vibration to let you know if slient mode is on (1 vibration) or off (2 vibrations). For these vibrations to work (check the state of silent mode) you have to install the app Actions. </p>\n<p>Shortcut:\nhttps://www.icloud.com/shortcuts/e6727850073248fab5d2774a73586542</p>\n<p>Actions app:\nhttps://apps.apple.com/app/id1586435171</p></div>",
+            "date_published": "2023-10-01T06:43:49+00:00",
+            "authors": [
+                {
+                    "name": "koenbijvank",
+                    "url": "https://www.reddit.com/user/koenbijvank"
+                }
+            ]
+        },
+        {
             "id": "16w0yvi",
             "url": "/r/shortcuts/comments/16w0yvi/action_button_ultra_change_the_behaviour_of_the/",
             "external_url": "https://www.reddit.com/r/shortcuts/comments/16w0yvi/action_button_ultra_change_the_behaviour_of_the/",
