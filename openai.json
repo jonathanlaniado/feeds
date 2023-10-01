@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "16wsjdz",
+            "url": "/r/OpenAI/comments/16wsjdz/every_time_i_ask_for_a_joke_it_begins_with_atoms/",
+            "external_url": "https://www.reddit.com/r/OpenAI/comments/16wsjdz/every_time_i_ask_for_a_joke_it_begins_with_atoms/",
+            "title": "Every time I ask for a joke, it begins with atoms and then goes on with the scarecrow. They aren't even funny jokes.",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/16wsjdz/every_time_i_ask_for_a_joke_it_begins_with_atoms/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/16wsjdz/every_time_i_ask_for_a_joke_it_begins_with_atoms/'>Reddit</a></caption><div><br></div><div><p>I've just made a comedian chatbot, but it keeps repeating the same unfunny jokes, it doesn't matter what instructions and rules I give him in the system prompt. It always starts with \"Why don't scientists trust atoms?<strong>\"</strong>, then with the \"scarecrow\". When it reads it loud it's even more cringe   <a href=\"https://youtube.com/shorts/R1yoxEUu5VA\">https://youtube.com/shorts/R1yoxEUu5VA</a>. Any suggestions on how to stop this? The logit_bias doesn't seem to help. The chatbot <a href=\"https://exligent.com/@lolenzo-chuckfield\">https://exligent.com/@lolenzo-chuckfield</a><br />\nI use ChatGPT-3.5-turbo-16k with more then 3k tokens as system prompt</p></div>",
+            "date_published": "2023-10-01T05:21:30+00:00",
+            "authors": [
+                {
+                    "name": "Exligent",
+                    "url": "https://www.reddit.com/user/Exligent"
+                }
+            ]
+        },
+        {
             "id": "16w8qph",
             "url": "/r/OpenAI/comments/16w8qph/dalle3_is_leading_edge_in_prompt_understanding/",
             "external_url": "https://i.redd.it/triy1z2coerb1.jpg",
