@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "16y1una",
+            "url": "/r/macapps/comments/16y1una/my_free_mac_apps/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/16y1una/my_free_mac_apps/",
+            "title": "My free Mac apps",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/16y1una/my_free_mac_apps/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/16y1una/my_free_mac_apps/'>Reddit</a></caption><div><br></div><iframe style='min-width: min(100%, 500px); height: 100vw; border: none;' id='reddit-embed' src='https://www.redditmedia.com/r/macapps/comments/16y1una?embed=true' sandbox='allow-scripts allow-same-origin allow-popups' scrolling='no'></iframe><div><br></div><div><p>Hey folks,</p>\n<p>I'm a part-time hobbyist developer and was wondering if any one would find my apps useful. I'm always learning and will take any constructive feedback in helping me get better and build tools that people may use and actually enjoy. All of my apps are free and can be found on my website here:</p>\n<p><a href=\"https://www.widgetworx.com/v2/#projects\">https://www.widgetworx.com/v2/#projects</a></p>\n<p>Thanks!</p></div>",
+            "date_published": "2023-10-02T16:54:59+00:00",
+            "authors": [
+                {
+                    "name": "This-Bug8771",
+                    "url": "https://www.reddit.com/user/This-Bug8771"
+                }
+            ]
+        },
+        {
             "id": "16xf48a",
             "url": "/r/macapps/comments/16xf48a/acrobat_alternatives_pdf_expert_vs_pdf_studio/",
             "external_url": "https://www.reddit.com/r/macapps/comments/16xf48a/acrobat_alternatives_pdf_expert_vs_pdf_studio/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Ok-Television5437",
                     "url": "https://www.reddit.com/user/Ok-Television5437"
-                }
-            ]
-        },
-        {
-            "id": "11sxz5t",
-            "url": "/r/macapps/comments/11sxz5t/maccy_026/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/11sxz5t/maccy_026/",
-            "title": "Maccy 0.26",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/11sxz5t/maccy_026/'>Reddit</a></caption><div><br></div><div><p><a href=\"https://maccy.app\">Maccy</a> - an open source clipboard manager that I develop got a new version 0.26 yesterday that I'm excited about. The whole <a href=\"https://github.com/p0deje/Maccy/releases/tag/0.26.0\">changelog</a> is in GitHub and some of the new features are making it a way more powerful tool that needs a bit more explanation, so I've decided to write this post, though I'm not sure if Reddit is the best place for this.</p>\n<p><strong>Regexp search</strong></p>\n<p>One of the oldest requested features from 2020 (<a href=\"https://github.com/p0deje/Maccy/issues/184\">p0deje/Maccy#184</a>). It's now possible to use regular expressions in the search - it looks like this and uses Swift's regular expression engine.</p>\n<p><a href=\"https://preview.redd.it/08i37ne0e4oa1.png?width=1444&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=67d356e73b0fe544477398f6f9b29b010a97b6ab\">Regexp search</a></p>\n<p><strong>Mixed search</strong></p>\n<p>It's not convenient to go to preferences to change search mode (exact/fuzzy/regexp) so there is now an experimental mixed search that attempts to go from the most to the least exact mode. </p>\n<ol>\n<li>Try to find exact matches using the search term.</li>\n<li>If there are no exact matches, switch to the fuzzy search.</li>\n<li>If there are no fuzzy matches, switch to the regexp search.</li>\n</ol>\n<p>This way I can find the best results via the exact search, but also make accidental typos because the fuzzy search kicks in, or just use plain regular expressions as a search term.</p>\n<p><strong>Get Copy from Maccy History in the Shortcuts.app</strong></p>\n<p>One of my favorite features is the ability to use the Shortcuts.app to retrieve items from Maccy history by index or selection. It's possible to get different content from them (rich text, plain text, HTML, images, etc). This allows to do fancy processing of the copied items, here are some examples:</p>\n<p><a href=\"https://preview.redd.it/xego025mf4oa1.png?width=2124&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=21053237c8654cb17cdf5db3760468cb0f34f1a2\">Trim whitespace from the selected item in Maccy and paste by pressing \u2325\u2318.</a></p>\n<p><a href=\"https://preview.redd.it/m8whczptf4oa1.png?width=2112&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=dcbd352b70283b5f898bdcc78bd0730720d90901\">Convert the selected RTF item in Maccy to Markdown and paste by pressing \u2325\u2318,</a></p>\n<p><a href=\"https://preview.redd.it/ghwr4jwbg4oa1.png?width=2030&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=81455b31e013d6431a06a7004ce0a3a3137173b6\">Save the most recent 10 items from Maccy to CSV</a></p>\n<p><strong>Compatibility with Pure Paste</strong></p>\n<p>There is a wonderful <a href=\"https://sindresorhus.com/pure-paste\">Pure Paste</a> application by u/sindresorhus that strips formatting from copied content. Maccy is now fully compatible with it and ensures that the recorded copies take into account modifications made by Pure Paste.</p></div>",
-            "date_published": "2023-03-16T15:55:15+00:00",
-            "authors": [
-                {
-                    "name": "p0deje",
-                    "url": "https://www.reddit.com/user/p0deje"
                 }
             ]
         }
