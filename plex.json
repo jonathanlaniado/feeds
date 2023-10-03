@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "16yuj04",
+            "url": "/r/PleX/comments/16yuj04/switched_to_x265_and_everything_is_perfect/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/16yuj04/switched_to_x265_and_everything_is_perfect/",
+            "title": "Switched to x265 - and everything is perfect ....",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/PleX/comments/16yuj04/switched_to_x265_and_everything_is_perfect/'>Apollo</a> | <a href='https://reddit.com/r/PleX/comments/16yuj04/switched_to_x265_and_everything_is_perfect/'>Reddit</a></caption><div><br></div>Hi. I just started optimising all my media to x265 using Vidcoder ( kind of a Handbreak clone).\n\nUsing x265 intel qsv , limited to 2500 kbps 1080p .\n\nI am very satisfied . All my devices ( android, samsung and LG smart tv ) are direct playing .\n\nThe only one transcoding from time to time is if i use chrome . But on windows i use Plex app and it direct plays perfectly. \n\nAfter years of x264 , i must say i found the best solution for quality / space compromise. \n\nJust wanted to share with you all this, That\\`s all.\n\nI have a gen 10 intel nuc ...<div><br></div><div><p>Hi. I just started optimising all my media to x265 using Vidcoder ( kind of a Handbreak clone).</p>\n<p>Using x265 intel qsv , limited to 2500 kbps 1080p .</p>\n<p>I am very satisfied . All my devices ( android, samsung and LG smart tv ) are direct playing .</p>\n<p>The only one transcoding from time to time is if i use chrome . But on windows i use Plex app and it direct plays perfectly. </p>\n<p>After years of x264 , i must say i found the best solution for quality / space compromise. </p>\n<p>Just wanted to share with you all this, That`s all.</p>\n<p>I have a gen 10 intel nuc ...</p></div>",
+            "date_published": "2023-10-03T15:13:01+00:00",
+            "authors": [
+                {
+                    "name": "mangustaeliberatoare",
+                    "url": "https://www.reddit.com/user/mangustaeliberatoare"
+                }
+            ]
+        },
+        {
             "id": "16wh8xg",
             "url": "/r/PleX/comments/16wh8xg/prevent_plex_from_minimizing_video_during_credits/",
             "external_url": "https://www.reddit.com/r/PleX/comments/16wh8xg/prevent_plex_from_minimizing_video_during_credits/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "RPaisley",
                     "url": "https://www.reddit.com/user/RPaisley"
-                }
-            ]
-        },
-        {
-            "id": "uixx52",
-            "url": "/r/PleX/comments/uixx52/love_these_kinds_of_easter_eggs_in_apps_this_is/",
-            "external_url": "https://i.redd.it/htg7m1d4xnx81.jpg",
-            "title": "Love these kinds of easter eggs in apps. This is in Plexamp by the way.",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/htg7m1d4xnx81.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/PleX/comments/uixx52/love_these_kinds_of_easter_eggs_in_apps_this_is/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/uixx52/love_these_kinds_of_easter_eggs_in_apps_this_is/'>Apollo</a></caption>",
-            "date_published": "2022-05-05T13:51:35+00:00",
-            "authors": [
-                {
-                    "name": "Lxnxt",
-                    "url": "https://www.reddit.com/user/Lxnxt"
                 }
             ]
         }
