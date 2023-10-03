@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "16ypfvt",
+            "url": "/r/selfhosted/comments/16ypfvt/triggerdev_opensource_background_jobs_for_nextjs/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/16ypfvt/triggerdev_opensource_background_jobs_for_nextjs/",
+            "title": "Trigger.dev - Open-source background jobs for NextJS, Remix, Astro, and many more!",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/16ypfvt/triggerdev_opensource_background_jobs_for_nextjs/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/16ypfvt/triggerdev_opensource_background_jobs_for_nextjs/'>Reddit</a></caption><div><br></div>Hi guys!\n\nLast time, our post got blocked, claiming we are not open-source.\n\nTriggerDev is 100% open-source (all the features, everything) :)\n\n&#x200B;\n\nPlease feel free to check us out here:\n\n[https://github.com/triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)\n\n&#x200B;\n\nFor the self-hosting tutorial, visit:\n\n[https://github.com/triggerdotdev/docker](https://github.com/triggerdotdev/docker)\n\n&#x200B;\n\nHere are some use cases with things you can do with TriggerDev:\n\n[https://trigger.dev/blog/generator-unlocked-create-memes-with-chatgpt-and-nextjs](https://trigger.dev/blog/generator-unlocked-create-memes-with-chatgpt-and-nextjs)\n\n[https://tgr.dev/achieve-nextjs-mastery-build-a-sales-page-with-stripe-and-airtable](https://tgr.dev/achieve-nextjs-mastery-build-a-sales-page-with-stripe-and-airtable)<div><br></div><div><p>Hi guys!</p>\n<p>Last time, our post got blocked, claiming we are not open-source.</p>\n<p>TriggerDev is 100% open-source (all the features, everything) :)</p>\n<p>&#x200B;</p>\n<p>Please feel free to check us out here:</p>\n<p><a href=\"https://github.com/triggerdotdev/trigger.dev\">https://github.com/triggerdotdev/trigger.dev</a></p>\n<p>&#x200B;</p>\n<p>For the self-hosting tutorial, visit:</p>\n<p><a href=\"https://github.com/triggerdotdev/docker\">https://github.com/triggerdotdev/docker</a></p>\n<p>&#x200B;</p>\n<p>Here are some use cases with things you can do with TriggerDev:</p>\n<p><a href=\"https://trigger.dev/blog/generator-unlocked-create-memes-with-chatgpt-and-nextjs\">https://trigger.dev/blog/generator-unlocked-create-memes-with-chatgpt-and-nextjs</a></p>\n<p><a href=\"https://tgr.dev/achieve-nextjs-mastery-build-a-sales-page-with-stripe-and-airtable\">https://tgr.dev/achieve-nextjs-mastery-build-a-sales-page-with-stripe-and-airtable</a></p></div>",
+            "date_published": "2023-10-03T11:32:05+00:00",
+            "authors": [
+                {
+                    "name": "Alternative-Rich-578",
+                    "url": "https://www.reddit.com/user/Alternative-Rich-578"
+                }
+            ]
+        },
+        {
             "id": "16ydrzx",
             "url": "/r/selfhosted/comments/16ydrzx/welcome_to_my_homelab_your_gateway_to_selfhosting/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/16ydrzx/welcome_to_my_homelab_your_gateway_to_selfhosting/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Manicraft1001",
                     "url": "https://www.reddit.com/user/Manicraft1001"
-                }
-            ]
-        },
-        {
-            "id": "10bsbdn",
-            "url": "/r/selfhosted/comments/10bsbdn/what_services_do_you_not_selfhost_and_why/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/10bsbdn/what_services_do_you_not_selfhost_and_why/",
-            "title": "What services do you NOT self-host and why?",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/10bsbdn/what_services_do_you_not_selfhost_and_why/'>Reddit</a></caption><div><br></div><div><p>I used to but now I don't host:</p>\n<ol>\n<li>e-mail - It's just a minefield of getting blocked, spam, and other things that all cause problems</li>\n<li>DNS - I just don't update DNS much anymore, so I let my domain registrar host it (for free)</li>\n<li>NextCloud - I have an internal NextCloud instance, but share a paid NextCloud instance with my family. I don't want to be responsible for other people's files and data.</li>\n</ol></div>",
-            "date_published": "2023-01-14T16:18:23+00:00",
-            "authors": [
-                {
-                    "name": "r3dk0w",
-                    "url": "https://www.reddit.com/user/r3dk0w"
                 }
             ]
         }
