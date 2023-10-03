@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3g41m/styles/communityIcon_zhyx561jw9kb1.jpg",
     "items": [
         {
+            "id": "16ykzk2",
+            "url": "/r/Starfield/comments/16ykzk2/after_a_lot_of_people_in_this_sub_have_finally/",
+            "external_url": "https://i.redd.it/uj1wdiecsxrb1.jpg",
+            "title": "After a lot of people in this sub have finally finished the game do you think giving Starfield a 10/10 is justifiable?",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/Starfield/comments/16ykzk2/after_a_lot_of_people_in_this_sub_have_finally/'>Apollo</a> | <a href='https://reddit.com/r/Starfield/comments/16ykzk2/after_a_lot_of_people_in_this_sub_have_finally/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/uj1wdiecsxrb1.jpg\" />",
+            "date_published": "2023-10-03T07:04:25+00:00",
+            "authors": [
+                {
+                    "name": "Touny420",
+                    "url": "https://www.reddit.com/user/Touny420"
+                }
+            ]
+        },
+        {
             "id": "16xz1fm",
             "url": "/r/Starfield/comments/16xz1fm/the_red_mile_is_underwhelming/",
             "external_url": "https://www.reddit.com/r/Starfield/comments/16xz1fm/the_red_mile_is_underwhelming/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "drwiki0074",
                     "url": "https://www.reddit.com/user/drwiki0074"
-                }
-            ]
-        },
-        {
-            "id": "16s05dl",
-            "url": "/r/Starfield/comments/16s05dl/consuming_stolen_items_needs_to_be_reworked/",
-            "external_url": "https://www.reddit.com/r/Starfield/comments/16s05dl/consuming_stolen_items_needs_to_be_reworked/",
-            "title": "Consuming Stolen Items needs to be reworked",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/Starfield/comments/16s05dl/consuming_stolen_items_needs_to_be_reworked/'>Reddit</a></caption><div><br></div><div><p>If you have 10 medpacks, and you steal a medpack, you get two separate listings (one for the stolen medpack, and one for the legitimately owned medpacks). Selecting and 'using' the stolen medpack actually pulls from the legitimate inventory and keeps the stolen item. Why would anyone do this? </p>\n<p>At least for consumables this needs to be changed. It's plausible that if I stole your apple, and you found me 10 days later, even if I had 100 apples, you could identify your stolen apple. Maybe. But I probably couldn't, and I probably wouldn't keep a stolen one separate from a bunch of otherwise identical items. And the odds drop for mass-produced items. Would you actually report your stolen apple to the authorities anyway? </p>\n<p>I think some items should have the \"stolen\" attribute expire after a certain time, especially if nobody even saw you steal the item. At least work it into the skill tree maybe. I'm in a different galaxy every day, these things are everywhere. But I don't see any reason you shouldn't be able to consume a stolen item on purpose.</p></div>",
-            "date_published": "2023-09-25T18:39:32+00:00",
-            "authors": [
-                {
-                    "name": "PM_ME_CHEAT_CODEZ",
-                    "url": "https://www.reddit.com/user/PM_ME_CHEAT_CODEZ"
                 }
             ]
         }
