@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "16z34hu",
+            "url": "/r/selfhosted/comments/16z34hu/most_used_selfhosted_services_in_2023_survey/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/16z34hu/most_used_selfhosted_services_in_2023_survey/",
+            "title": "Most used self-hosted services in 2023? [Survey]",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/16z34hu/most_used_selfhosted_services_in_2023_survey/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/16z34hu/most_used_selfhosted_services_in_2023_survey/'>Reddit</a></caption><div><br></div>\ud83d\udce3 Hey there, fellow self-hosters \ud83c\udf10\n\nLast year, I asked this Reddit community about which self-hosting services you use, and the responses were incredibly insightful.\n\n\ud83d\udd17 [Link to my 2022 question](https://reddit.com/r/selfhosted/s/8dbz1i6WpY)\n\nNow, I'm back with an updated survey for 2023, and I'd love your input once again!\ud83d\udccbAs the [analysing part](https://selfhosted-services-2022.deployn.de/) was difficult I use a form this time (with a few more questions).\n\n[**Take the 2023 Self-Hosting Survey**](https://survey.deployn.de/self-hosted-2023/)\n\nWhether you're a seasoned self-hosting pro or just dipping your toes into the world of self-hosted services, your thoughts and experiences are invaluable.\n\nI will post the results or a link to the results here probably at the end of October. In the meantime, feel free to list your (five) favorite services you self-host and (five more) which you started using or found in year 2023 in the comments.\n\nThank you, and I can't wait to see the insights \ud83d\ude80\n\n(Repost, as I was unable to edit the old one, that was type \"link\" and not \"post\")<div><br></div><div><p>\ud83d\udce3 Hey there, fellow self-hosters \ud83c\udf10</p>\n<p>Last year, I asked this Reddit community about which self-hosting services you use, and the responses were incredibly insightful.</p>\n<p>\ud83d\udd17 <a href=\"https://reddit.com/r/selfhosted/s/8dbz1i6WpY\">Link to my 2022 question</a></p>\n<p>Now, I'm back with an updated survey for 2023, and I'd love your input once again!\ud83d\udccbAs the <a href=\"https://selfhosted-services-2022.deployn.de/\">analysing part</a> was difficult I use a form this time (with a few more questions).</p>\n<p><a href=\"https://survey.deployn.de/self-hosted-2023/\"><strong>Take the 2023 Self-Hosting Survey</strong></a></p>\n<p>Whether you're a seasoned self-hosting pro or just dipping your toes into the world of self-hosted services, your thoughts and experiences are invaluable.</p>\n<p>I will post the results or a link to the results here probably at the end of October. In the meantime, feel free to list your (five) favorite services you self-host and (five more) which you started using or found in year 2023 in the comments.</p>\n<p>Thank you, and I can't wait to see the insights \ud83d\ude80</p>\n<p>(Repost, as I was unable to edit the old one, that was type \"link\" and not \"post\")</p></div>",
+            "date_published": "2023-10-03T20:52:16+00:00",
+            "authors": [
+                {
+                    "name": "ExoWire",
+                    "url": "https://www.reddit.com/user/ExoWire"
+                }
+            ]
+        },
+        {
             "id": "16ypfvt",
             "url": "/r/selfhosted/comments/16ypfvt/triggerdev_opensource_background_jobs_for_nextjs/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/16ypfvt/triggerdev_opensource_background_jobs_for_nextjs/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "seeking_facts",
                     "url": "https://www.reddit.com/user/seeking_facts"
-                }
-            ]
-        },
-        {
-            "id": "10da4yi",
-            "url": "/r/selfhosted/comments/10da4yi/what_do_you_regret_trying_to_selfhost_and_why/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/10da4yi/what_do_you_regret_trying_to_selfhost_and_why/",
-            "title": "What do you regret trying to selfhost and why?",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/10da4yi/what_do_you_regret_trying_to_selfhost_and_why/'>Reddit</a></caption><div><br></div><div><p>What services have you tried to host yourself and either failed at or or regret doing it?</p>\n<p>For me:\n- Email server: There was just too much to deal with, especially spam and security\n- Search engine: Didn't work reliability and very slow</p></div>",
-            "date_published": "2023-01-16T09:21:39+00:00",
-            "authors": [
-                {
-                    "name": "Manicraft1001",
-                    "url": "https://www.reddit.com/user/Manicraft1001"
                 }
             ]
         }
