@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "16zp35b",
+            "url": "/r/shortcuts/comments/16zp35b/if_time_is_between_x_and_x_then_blank_not_working/",
+            "external_url": "https://www.reddit.com/gallery/16zp35b",
+            "title": "If time is between X and X then blank not working. What am I missing?",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/16zp35b/if_time_is_between_x_and_x_then_blank_not_working/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/16zp35b/if_time_is_between_x_and_x_then_blank_not_working/'>Reddit</a></caption><div><br></div><p>Hello. </p>\n<p>I am trying to have an automation trigger a shortcut that looks at the Current time. If the time is between 4am and 4:35 am I want it to set a 12:25pm alarm. If current time is between 4:36 and 6am I want it to set a 13:55pm alarm. </p>\n<p>I was able to get some help to figure out how to run this only mon - Fri so now I just need to figure out the current time scenario. </p>\n<p>Any advice of a potential solution would be appreciated!</p>\n<p>Once the code is figured out I can manipulate the numbers better as I was trying that above but it would occasionally fail based on my inputs. </p>\n<p>Thanks!</p>",
+            "date_published": "2023-10-04T14:44:36+00:00",
+            "authors": [
+                {
+                    "name": "Cloud-Kicker-One",
+                    "url": "https://www.reddit.com/user/Cloud-Kicker-One"
+                }
+            ]
+        },
+        {
             "id": "16xng7a",
             "url": "/r/shortcuts/comments/16xng7a/shortcut_for_new_charging_optimization_setting/",
             "external_url": "https://i.redd.it/9ld8o004zprb1.jpg",
