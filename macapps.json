@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "16yx7go",
+            "url": "/r/macapps/comments/16yx7go/ai_coming_to_arc_browser/",
+            "external_url": "https://www.theverge.com/2023/10/3/23898907/arc-max-ai-browser-mac-ios",
+            "title": "AI coming to Arc Browser",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/16yx7go/ai_coming_to_arc_browser/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/16yx7go/ai_coming_to_arc_browser/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2023-10-03T16:57:00+00:00",
+            "authors": [
+                {
+                    "name": "ingenioutor",
+                    "url": "https://www.reddit.com/user/ingenioutor"
+                }
+            ]
+        },
+        {
             "id": "16y1una",
             "url": "/r/macapps/comments/16y1una/my_free_mac_apps/",
             "external_url": "https://www.reddit.com/r/macapps/comments/16y1una/my_free_mac_apps/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MichaelTheGeek",
                     "url": "https://www.reddit.com/user/MichaelTheGeek"
-                }
-            ]
-        },
-        {
-            "id": "11ue6rg",
-            "url": "/r/macapps/comments/11ue6rg/signal_shifter_app_for_simpler_audio_source/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/11ue6rg/signal_shifter_app_for_simpler_audio_source/",
-            "title": "Signal Shifter: App for simpler audio source switching.",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/11ue6rg/signal_shifter_app_for_simpler_audio_source/'>Reddit</a></caption><div><br></div><div><p>I use my Mac with the Bluetooth soundbar, often I have to switch to headphones to have a conversation with my coworkers. During such calls the soundbar loses connection with Mac, so after a call I have to go to Bluetooth devices, connect the soundbar and then change an audio source. It's a pretty uncomfortable routine. I decided to create an app to make life easier for me.</p>\n<p>Signal Shifter is a tiny application that lives in the Menu Bar.</p>\n<p>The application creates a complete list of your input audio devices, output audio devices and Bluetooth devices that can be used as audio input or output. This way, you have all your audio sources in a single place.</p>\n<p>You can easily toggle between default devices and enable or disable Bluetooth devices.</p>\n<p>You can download it from the Mac App Store: <a href=\"https://apps.apple.com/us/app/signal-shifter/id6446061552\">Signal Shifter</a>.</p></div>",
-            "date_published": "2023-03-18T04:21:30+00:00",
-            "authors": [
-                {
-                    "name": "Ok-Television5437",
-                    "url": "https://www.reddit.com/user/Ok-Television5437"
                 }
             ]
         }
