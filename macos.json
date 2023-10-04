@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "16zp7k2",
+            "url": "/r/MacOS/comments/16zp7k2/my_school_has_an_all_apple_environment_and_is/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/16zp7k2/my_school_has_an_all_apple_environment_and_is/",
+            "title": "My school has an all Apple environment and is forcing MDM onto students\u2019 private devices. What should I do?",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/MacOS/comments/16zp7k2/my_school_has_an_all_apple_environment_and_is/'>Apollo</a> | <a href='https://reddit.com/r/MacOS/comments/16zp7k2/my_school_has_an_all_apple_environment_and_is/'>Reddit</a></caption><div><br></div><p>I know they can block features such as erase all content and settings, which is abhorrent as I have paid for my devices and the school does not own them. </p>\n<p>I also know that if I do a hard reset, the macbook will boot to the MDM menu and not a clean install of macOS. </p>\n<p>What do you recommend I do?</p>",
+            "date_published": "2023-10-04T14:49:18+00:00",
+            "authors": [
+                {
+                    "name": "LePiracyEnjoyer69",
+                    "url": "https://www.reddit.com/user/LePiracyEnjoyer69"
+                }
+            ]
+        },
+        {
             "id": "16zs3gs",
             "url": "/r/MacOS/comments/16zs3gs/amazing_viral_news_is_making_waves_on_socials/",
             "external_url": "https://www.reddit.com/gallery/16zs3gs",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "aykay55",
                     "url": "https://www.reddit.com/user/aykay55"
-                }
-            ]
-        },
-        {
-            "id": "yqr5co",
-            "url": "/r/MacOS/comments/yqr5co/macos_ventura_1301_released/",
-            "external_url": "https://i.redd.it/pfu5ak7oxyy91.png",
-            "title": "macOS Ventura 13.0.1 Released",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/MacOS/comments/yqr5co/macos_ventura_1301_released/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/pfu5ak7oxyy91.png\" />",
-            "date_published": "2022-11-09T18:27:33+00:00",
-            "authors": [
-                {
-                    "name": "WoodyWoodsta",
-                    "url": "https://www.reddit.com/user/WoodyWoodsta"
                 }
             ]
         }
