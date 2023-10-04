@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "16zorli",
+            "url": "/r/selfhosted/comments/16zorli/wow_this_is_pretty_petty_any_self_hosted/",
+            "external_url": "https://www.reddit.com/gallery/16zkzj9",
+            "title": "Wow. This is pretty petty. Any self hosted solutions for this?",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/16zorli/wow_this_is_pretty_petty_any_self_hosted/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/16zorli/wow_this_is_pretty_petty_any_self_hosted/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2023-10-04T14:31:24+00:00",
+            "authors": [
+                {
+                    "name": "jarlaxle46",
+                    "url": "https://www.reddit.com/user/jarlaxle46"
+                }
+            ]
+        },
+        {
             "id": "16zjuty",
             "url": "/r/selfhosted/comments/16zjuty/2023_selfhost_user_survey_results/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/16zjuty/2023_selfhost_user_survey_results/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "altran1502",
                     "url": "https://www.reddit.com/user/altran1502"
-                }
-            ]
-        },
-        {
-            "id": "10mb4jp",
-            "url": "/r/selfhosted/comments/10mb4jp/looking_for_a_simple_opensource_lightweight/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/10mb4jp/looking_for_a_simple_opensource_lightweight/",
-            "title": "Looking for a simple open-source lightweight minimalist opinionated powerful low-code smart scalable modern federated feature-rich ephemeral secure trash collection day reminder solution written in Rust",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/10mb4jp/looking_for_a_simple_opensource_lightweight/'>Reddit</a></caption><div><br></div><div><p>Ideally with OAuth</p></div>",
-            "date_published": "2023-01-27T03:39:18+00:00",
-            "authors": [
-                {
-                    "name": "noblegranolabarrel",
-                    "url": "https://www.reddit.com/user/noblegranolabarrel"
                 }
             ]
         }
