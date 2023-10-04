@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "16zk4sm",
+            "url": "/r/macapps/comments/16zk4sm/i_created_a_stacking_and_tiling_window_manager/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/16zk4sm/i_created_a_stacking_and_tiling_window_manager/",
+            "title": "I created a Stacking and Tiling Window Manager. It's called emmetapp",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/16zk4sm/i_created_a_stacking_and_tiling_window_manager/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/16zk4sm/i_created_a_stacking_and_tiling_window_manager/'>Reddit</a></caption><div><br></div><p>Hey everyone!</p>\n<p>I\u2019ve been working on a macOS window manager called <a href=\"http://emmetapp.com/\">emmetapp</a> for the past 2 years, and I wanted to share it with you. emmetapp is a <strong>stacking and tiling window manager</strong> that is fully keyboard-shortcut based. It also allows you to resize windows to custom sizes &amp; places.</p>\n<p>You can check it out here: <a href=\"http://emmetapp.com/\">emmetapp.com</a></p>\n<p>&#x200B;</p>\n<p><strong><em>\ud83c\udf1f Main features are:</em></strong></p>\n<ul>\n<li>Cycle between stacked windows</li>\n<li>Switch focus between tiled windows</li>\n<li>Resize windows to custom sizes (don\u2019t be limited to a grid)</li>\n<li>Easy-to-use, modern UI, no config files</li>\n<li><strong>Coming soon:</strong> CMD/tab-like feature for stacked windows</li>\n</ul>\n<p>&#x200B;</p>\n<p><a href=\"https://i.redd.it/zw2gp2d256sb1.gif\">emmetapp in action</a></p>\n<p>&#x200B;</p>\n<p><strong><em>Coming Soon (Sneak Peak</em></strong>):</p>\n<p><a href=\"https://i.redd.it/d7kkqgya66sb1.gif\">sneak peek of emmetapp v2</a></p>\n<p>&#x200B;</p>\n<p>Tons of cool features are on the way \u2026 Let me know what you think! Would really appreciate your support :) Also, please let me know if you have any questions!</p>\n<p>Check out emmetapp here: <a href=\"https://emmetapp.com\">https://emmetapp.com</a></p>\n<p>You can also follow the process <a href=\"https://x.com/edisgonuler\">here</a></p>\n<p>Thanks!</p>",
+            "date_published": "2023-10-04T11:01:01+00:00",
+            "authors": [
+                {
+                    "name": "edisgonuler",
+                    "url": "https://www.reddit.com/user/edisgonuler"
+                }
+            ]
+        },
+        {
             "id": "16yx7go",
             "url": "/r/macapps/comments/16yx7go/ai_coming_to_arc_browser/",
             "external_url": "https://www.theverge.com/2023/10/3/23898907/arc-max-ai-browser-mac-ios",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "AndroidScript",
                     "url": "https://www.reddit.com/user/AndroidScript"
-                }
-            ]
-        },
-        {
-            "id": "11vopx1",
-            "url": "/r/macapps/comments/11vopx1/the_mac_library_free_app/",
-            "external_url": "https://themaclibrary.com/",
-            "title": "The Mac Library Free app.",
-            "content_html": "<caption>Open: <a href='https://themaclibrary.com/'>themaclibrary.com</a> | <a href='https://reddit.com/r/macapps/comments/11vopx1/the_mac_library_free_app/'>Reddit</a></caption>",
-            "date_published": "2023-03-19T15:49:19+00:00",
-            "authors": [
-                {
-                    "name": "MichaelTheGeek",
-                    "url": "https://www.reddit.com/user/MichaelTheGeek"
                 }
             ]
         }
