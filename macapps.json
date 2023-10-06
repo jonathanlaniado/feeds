@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "171anmt",
+            "url": "/r/macapps/comments/171anmt/sidebar_your_new_favourite_dock_replacement_for/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/171anmt/sidebar_your_new_favourite_dock_replacement_for/",
+            "title": "Sidebar - Your new favourite Dock replacement for Mac (Update)",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/171anmt/sidebar_your_new_favourite_dock_replacement_for/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/171anmt/sidebar_your_new_favourite_dock_replacement_for/'>Reddit</a></caption><div><br></div><p>Hi everyone,</p>\n<p>Sidebar is a modern Dock replacement for MacOS. Just wanted to share that a new major version (1.4.0) has just been released.</p>\n<p>Here are some key features that were added recently:</p>\n<ul>\n<li><strong>Dynamic Views</strong>: Introducing Dynamic Views for Spotify and Apple Music. You can now control your favourite music player directly from Sidebar</li>\n<li><strong>Application Stacks &amp; Areas</strong>: You can now add applications to a stack to save some space on your Sidebar. Also, Sidebar now supports assigning applications to a specific area to organise your applications (left, middle or right), along with the ability to add spacers in between</li>\n<li><strong>Custom Icons</strong>: You can now customise all icons for applications, links and stacks. Choose whatever icon you prefer to customise Sidebar even further</li>\n<li><strong>Better context menu</strong>: Context menu items have been enhanced for Apple Music, Spotify, Finder, Safari, Chrome, Firefox, Edge and Arc so that you can now quickly access the most useful functions directly from the context menu</li>\n<li><strong>Feature enhancements</strong>: Features such as the calendar, styling options or trash bin support that have already been included in previous releases have been enhanced</li>\n<li><strong>Optimisation &amp; bug fixes</strong>: Of course a lot of bug and issues have been fixed again. Overall performance has been improved as well</li>\n</ul>\n<p>For a full list of features added and bugs fixed have a look at the roadmap at\u00a0<a href=\"https://sidebarapp.net/roadmap/#changelog\">https://sidebarapp.net/roadmap/#changelog</a></p>\n<p>As like with every major release I want to give everyone who has previously tried the app before, the chance to try it again. Therefore, <strong>all previous trial licenses have been reseted</strong>. You can just request your new trial from within the app.</p>\n<p><strong>To celebrate the launch of this major release you can also enjoy a 30% off all licenses right now. The sale is valid until October 20th!</strong></p>\n<p>Check out Sidebar at\u00a0<a href=\"https://sidebarapp.net/\">https://sidebarapp.net/</a></p>\n<p>I\u2019m happy to support you with any questions, problems, bug reports, feature requests etc :)</p>",
+            "date_published": "2023-10-06T12:09:52+00:00",
+            "authors": [
+                {
+                    "name": "empty23_",
+                    "url": "https://www.reddit.com/user/empty23_"
+                }
+            ]
+        },
+        {
             "id": "170vhov",
             "url": "/r/macapps/comments/170vhov/streaming_virtual_camera_app_for_macos_like_obs/",
             "external_url": "https://v.redd.it/3cpccq80ngsb1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "x74353",
                     "url": "https://www.reddit.com/user/x74353"
-                }
-            ]
-        },
-        {
-            "id": "120dspv",
-            "url": "/r/macapps/comments/120dspv/klack_satisfying_sound_with_every_keystroke/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/120dspv/klack_satisfying_sound_with_every_keystroke/",
-            "title": "Klack - Satisfying sound with every keystroke",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/120dspv/klack_satisfying_sound_with_every_keystroke/'>Reddit</a></caption><div><br></div><div><p>I'm the creator of <a href=\"https://tryklack.com/\">Klack</a>. It adds mechanical keyboard sounds to every keystroke.</p>\n<p>It's a native app written fully in Swift that focuses on speed, hence there is no lag in the audio feedback from pressing keys like some other apps (in my experience).</p>\n<p>Klack focuses on modern popular keyboard switches rather than for example typewriter sounds. I will continue expanding Klack with additional switches over time, hoping to get a solid set of 20+ switches soon enough. There's a new version in review with additional switches coming out very soon. I've also added randomized pitching to the new release (makes sound way more unique every key press).</p>\n<p>Klack supports up/down keys separately, the result is way more realistic compared to playing both the sounds simultaneously.</p>\n<p>I personally found it vital that the app had a negligible footprint on my system (mainly RAM) for it to be worth running all the time.</p>\n<p>Please feel free to request any features if you feel there's something missing. I've put a lot of work into ensuring the quality of both the app and the website.</p>\n<p><a href=\"https://tryklack.com/\">https://tryklack.com</a></p></div>",
-            "date_published": "2023-03-24T08:23:24+00:00",
-            "authors": [
-                {
-                    "name": "Quirino_Exile",
-                    "url": "https://www.reddit.com/user/Quirino_Exile"
                 }
             ]
         }
