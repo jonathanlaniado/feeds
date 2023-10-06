@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "170tfhl",
+            "url": "/r/shortcuts/comments/170tfhl/screenshots_compressor_a_shortcut_that_saves_a/",
+            "external_url": "https://www.reddit.com/r/shortcuts/comments/170tfhl/screenshots_compressor_a_shortcut_that_saves_a/",
+            "title": "Screenshots Compressor. A Shortcut that saves a lot of storage space.",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/170tfhl/screenshots_compressor_a_shortcut_that_saves_a/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/170tfhl/screenshots_compressor_a_shortcut_that_saves_a/'>Reddit</a></caption><div><br></div><p>If you are a person who takes a lot of screenshots and never delete them (like hundred or thousands), they can take up a lot of space like a lot more than you think and it can even be one of the reasons why you\u2019re low on phone storage.</p>\n<p>The problem is that Apple decided the screenshot to be created in .png format and that was great at the time because the quality of screenshots would be perfect with it, but then for some reason they decided to just stick with that format even after they introduce the .heif/.heic format.</p>\n<p>&#x200B;</p>\n<p><strong><em>What does this shortcut do?</em></strong></p>\n<p>It converts the screenshot from png format to heic format and in almost every case it reduces the file size by 10-30 times. Yes you read that right.And once it verifies that all the screenshots have been converted then the shortcut will delete the original screenshot for you (although you can find the deleted screenshots in the \u201crecently deleted\u201d in photos app, if for any reason you want to recover the original screenshots)And after that's done it also shows a notification with how much space the original screenshot took and how much space the new converted screenshots take.</p>\n<p>&#x200B;</p>\n<p><strong><em>Prerequisite:</em></strong></p>\n<p><strong>THIS IS VERY IMPORTANT</strong>. Create an album in photos app with the name \u201cCompressed Screenshots\u201d<br />\nDownload the shortcut here : <a href=\"https://www.icloud.com/shortcuts/7fe87865257a4bb683d8c1d6101fd8bf\">ScreenshotCompressor</a><br />\nDownload another required shortcut : <a href=\"https://www.icloud.com/shortcuts/3e1b04fd262b41b59fd3d6d4b0732a75\">SizeCalculator</a></p>\n<p>&#x200B;</p>\n<p><strong><em>How to use the Screenshot?</em></strong></p>\n<p>Two Ways</p>\n<ol>\n<li>Create an Automation for it to start on its own daily or weekly at your preferred time. Maybe night time after you've fallen asleep so this happens while you arent using your phone.  (Recommended)<strong>OR</strong></li>\n<li>Just use it manually whenever you want to compress the screenshots.</li>\n</ol>\n<p>&#x200B;</p>\n<p>PS - If you have a large number of Screenshots, it will take a significant of time for them to be converted and saved so be patient during your first time using this and if possible just clear out and close all other apps and maybe restart your phone before starting the process (only for the first time and only if you have hundreds or thousands of screenshots)</p>\n<p><strong><em>Also you would need to allow the shortcut to access/save a multiple images.</em></strong></p>\n<p>&#x200B;</p>\n<p>&#x200B;</p>\n<p>https://preview.redd.it/4n07zi56wfsb1.png?width=1170&amp;format=png&amp;auto=webp&amp;s=ff794a70f411ef507f4be2b26869a0db5d17abd8</p>",
+            "date_published": "2023-10-05T21:08:43+00:00",
+            "authors": [
+                {
+                    "name": "Hero2296",
+                    "url": "https://www.reddit.com/user/Hero2296"
+                }
+            ]
+        },
+        {
             "id": "1707ufr",
             "url": "/r/shortcuts/comments/1707ufr/remote_start_your_pc_no_smart_outlet_needed/",
             "external_url": "https://www.reddit.com/r/shortcuts/comments/1707ufr/remote_start_your_pc_no_smart_outlet_needed/",
