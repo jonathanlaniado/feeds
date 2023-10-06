@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "170tfjy",
+            "url": "/r/ArcBrowser/comments/170tfjy/feature_request_incognito_as_a_space/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/170tfjy/feature_request_incognito_as_a_space/",
+            "title": "[Feature request] Incognito as a space",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/170tfjy/feature_request_incognito_as_a_space/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/170tfjy/feature_request_incognito_as_a_space/'>Reddit</a></caption><div><br></div><p>We can assign a profile to a space. And i love swiping between my personal profile space and my work profile space.</p>\n<p>I'm a web dev and I use incognito mode very often to avoid noise/side effects from extensions, cookies, and local storage while I debug a website.</p>\n<p>It would be nice if I can create a space and assign that space as incognito to swipe thru. I hate having a separate window just for incognito.</p>",
+            "date_published": "2023-10-05T21:08:47+00:00",
+            "authors": [
+                {
+                    "name": "hbthen3rd",
+                    "url": "https://www.reddit.com/user/hbthen3rd"
+                }
+            ]
+        },
+        {
             "id": "170i9kp",
             "url": "/r/ArcBrowser/comments/170i9kp/why_is_tab_sync_still_a_thing_at_least_give_us/",
             "external_url": "https://i.redd.it/ng92o86g0esb1.png",
