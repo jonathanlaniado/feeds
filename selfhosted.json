@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "171rd8n",
+            "url": "/r/selfhosted/comments/171rd8n/a_deep_dive_into_paperlessngx/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/171rd8n/a_deep_dive_into_paperlessngx/",
+            "title": "A deep dive into Paperless-ngx",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/171rd8n/a_deep_dive_into_paperlessngx/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/171rd8n/a_deep_dive_into_paperlessngx/'>Reddit</a></caption><div><br></div><p>I am back already, with a new article I wrote about my experience with Paperless-ngx.</p>\n<p>I have been using Paperless for years and really enjoy it very much. I wanted to share with everyone how I have choosen to set it up (the article includes my docker compose and explenation of why it is done that way), as well as a review of my configuration of paperless (the tags I use, document types, ...).</p>\n<p>Also a general view of, why everyone should be going digital and start ditching their paper based solutions.</p>\n<p>The feedback on my last post was amazing. I originaly didn't want to post a new article (and on here) so quickly again, but I couldn't help myself.</p>\n<p>I really hope this article helps people out their. Might it be deciding to go digital, helping them to organise their paperless install or use my code to spin up their instance.</p>\n<p><a href=\"https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/\">https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/</a></p>",
+            "date_published": "2023-10-06T23:36:48+00:00",
+            "authors": [
+                {
+                    "name": "KillerTic",
+                    "url": "https://www.reddit.com/user/KillerTic"
+                }
+            ]
+        },
+        {
             "id": "170owzc",
             "url": "/r/selfhosted/comments/170owzc/immich_selfhosted_photos_and_videos_backup/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/170owzc/immich_selfhosted_photos_and_videos_backup/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "WashGlad3114",
                     "url": "https://www.reddit.com/user/WashGlad3114"
-                }
-            ]
-        },
-        {
-            "id": "10wmg8l",
-            "url": "/r/selfhosted/comments/10wmg8l/transmission_400_released_first_release_in_almost/",
-            "external_url": "https://github.com/transmission/transmission/releases/tag/4.0.0",
-            "title": "Transmission 4.0.0 released - First release in almost three years, major rewrite of the project",
-            "content_html": "<caption>Open: <a href='https://github.com/transmission/transmission/releases/tag/4.0.0'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/10wmg8l/transmission_400_released_first_release_in_almost/'>Reddit</a></caption>",
-            "date_published": "2023-02-08T03:49:24+00:00",
-            "authors": [
-                {
-                    "name": "thesauceinator",
-                    "url": "https://www.reddit.com/user/thesauceinator"
                 }
             ]
         }
