@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1720oz6",
+            "url": "/r/macapps/comments/1720oz6/notionlike_app_that_isnt_electron_based/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1720oz6/notionlike_app_that_isnt_electron_based/",
+            "title": "Notion-like app that isn't electron based?",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/1720oz6/notionlike_app_that_isnt_electron_based/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/1720oz6/notionlike_app_that_isnt_electron_based/'>Reddit</a></caption><div><br></div><p>I use notion databases to create question banks for studying for exams, because adding tags and filtering by them is very easy, and each entry in the db creates its own nested page where I can write down notes. </p>\n<p>The problem is Notion sucks. Its native macOS \u201capp\u201d is just an electron wrapper which is slow and sluggish, littered with annoyances (plus that everything is \"on the cloud\" but that's another story), but the <em>worst</em> part for me is that autocorrect/spellcheck doesn\u2019t work at all, and that is common to all electron apps for macOS.</p>\n<p>So, is there an alternative that replicates notion\u2019s databases, markdown and links but with a native mac app instead of electron? Obsidian and joplin and a few others I\u2019ve seen are all electron apps, so they have the same issue. </p>",
+            "date_published": "2023-10-07T07:54:26+00:00",
+            "authors": [
+                {
+                    "name": "mikedeliv",
+                    "url": "https://www.reddit.com/user/mikedeliv"
+                }
+            ]
+        },
+        {
             "id": "171anmt",
             "url": "/r/macapps/comments/171anmt/sidebar_your_new_favourite_dock_replacement_for/",
             "external_url": "https://www.reddit.com/r/macapps/comments/171anmt/sidebar_your_new_favourite_dock_replacement_for/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "innneangTH",
                     "url": "https://www.reddit.com/user/innneangTH"
-                }
-            ]
-        },
-        {
-            "id": "120kd19",
-            "url": "/r/macapps/comments/120kd19/amphetamine_523_beta/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/120kd19/amphetamine_523_beta/",
-            "title": "Amphetamine 5.2.3 Beta",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/120kd19/amphetamine_523_beta/'>Reddit</a></caption><div><br></div><div><p>Hi \ud83d\udc4b\ud83c\udffc</p>\n<p>Amphetamine 5.2.3 is available for beta testing via TestFlight:</p>\n<p><a href=\"https://testflight.apple.com/join/GeZMOAsG\">https://testflight.apple.com/join/GeZMOAsG</a></p>\n<p>&#x200B;</p>\n<p>In this update, I have tried to address the following issues:</p>\n<p>&#x200B;</p>\n<p><strong>Launch at Login Issues</strong></p>\n<p>Apple added a new API in Ventura for apps to configure themselves for launch at login. I have implemented this new API in 5.2.3. I had one person tell me it still wasn't working, so you may need to manually remove Amphetamine from your Login Items in \uf8ff \u2192 System Settings \u2192 General \u2192 Login Items. If you have multiple copies/versions of Amphetamine installed on your Mac, you may need to remove all but the beta, which should be installed in the /Applications folder. If you're running a macOS version prior to Ventura, this doesn't apply to you.</p>\n<p>&#x200B;</p>\n<p><strong>Closed-Display Mode on Apple Silicon</strong></p>\n<p>With Apple Silicon, the API that Amphetamine used to keep your Mac awake while in closed-display mode stopped working. I opened a bug report/ticket with Apple, but Apple told me tough luck - that's how things are now. Anyways, I've implemented a new mechanism for closed-display mode on Apple Silicon. Unfortunately, starting/ending a closed-display mode session now requires user authentication. If you have Touch ID on your Mac, it's fairly painless to quickly authenticate. Sorry - this is the only way to achieve this on Apple Silicon (that I know of). Intel Macs are not affected.</p>\n<p>&#x200B;</p>\n<p><strong>Battery Functions on M2</strong></p>\n<p>All of the battery related settings didn't work on M2 Macs. I've fixed this (hopefully).</p>\n<p>&#x200B;</p>\n<p><strong>Other</strong></p>\n<p>\u2022 French localization has been added (proof-reading/corrections are likely needed, however). To test French localization, see <a href=\"https://support.apple.com/guide/mac-help/change-the-system-language-mh26684/mac\">this article</a> from Apple about how to choose the language you use for individual apps.</p>\n<p>\u2022 Preferences/Quick Preferences  (and references to them) have been renamed Settings/Quick Settings for macOS Ventura (and future versions). </p>\n<p>\u2022 If you have an issue where your Mac goes to sleep or your display cuts out immediately upon starting/stopping a session, you can try running the following command in Terminal, after installing the beta. Make sure to relaunch Amphetamine. Would really appreciate hearing back from anyone who can test this. </p>\n<pre><code>defaults write com.if.Amphetamine 'Disable All CDM Functions' -bool YES\n</code></pre>\n<p>If you have feedback, additional bug reports, you may post it here. I'll try to get as many things fixed/updated as possible with this release. Thank you!</p></div>",
-            "date_published": "2023-03-24T13:30:30+00:00",
-            "authors": [
-                {
-                    "name": "x74353",
-                    "url": "https://www.reddit.com/user/x74353"
                 }
             ]
         }
