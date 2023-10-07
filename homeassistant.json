@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1721dm5",
+            "url": "/r/homeassistant/comments/1721dm5/sometimes_i_dont_lock_my_front_door/",
+            "external_url": "https://www.reddit.com/r/homeassistant/comments/1721dm5/sometimes_i_dont_lock_my_front_door/",
+            "title": "Sometimes I don't lock my front door...",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/1721dm5/sometimes_i_dont_lock_my_front_door/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/1721dm5/sometimes_i_dont_lock_my_front_door/'>Reddit</a></caption><div><br></div><p>It started a year ago. My girlfriend is American and we live in Scandinavia. My mother in law (who still lives in America) can sometimes be very codependent emotionally. My girlfriend talk to her on the phone everyday and often have to help her with technical things like getting directions to new places and printing stuff. She would most likely be fine but I think she just like the reassurance. To have some connection to us. </p>\n<p>Last winter we were visiting her. We had just put up a camera at home and I was showing her the feed. She took an interest to it and that gave me an idea. I threw together a very easy dashboard. The camera feed, some sensors to show if we are home. Mostly just for fun I added the controller to our door. I help her install the app, gave her a user and limited the access to just the new dashboard, so she wouldn't be confused. She really liked it. To have a small windows in to our life. The camera is just in the driveway so it wasn't intruding on our privacy. </p>\n<p>A week later or so, we were heading home. It was a long trip (24h+) and when we finally got home we where exhausted. We brought in our stuff and pretty much fell asleep instantly. And I forgot to lock the door. No biggie. We live on the country side and just finding your way to our house is challenging enough. Having the door unlocked when we are home isn't a big concern to me. But when I woke up the door was locked. My mother in law told my girlfriend the next day during a call that she knew we where asleep, but she saw the door was unlocked, so she locked it. She was ectatic. I think she really enjoyed that she could do something for us. Be involved and keep us safe by locking the door.</p>\n<p>So ever since I sometimes \"forget\" to lock the door in the evenings, and in the mornings when I wake up, it's normally locked.</p>",
+            "date_published": "2023-10-07T08:38:14+00:00",
+            "authors": [
+                {
+                    "name": "BostonSwe",
+                    "url": "https://www.reddit.com/user/BostonSwe"
+                }
+            ]
+        },
+        {
             "id": "16zu3ct",
             "url": "/r/homeassistant/comments/16zu3ct/202310_new_looks_and_more_tile_card_features/",
             "external_url": "https://www.home-assistant.io/blog/2023/10/04/release-202310/",
