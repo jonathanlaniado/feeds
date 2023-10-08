@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "172ycag",
+            "url": "/r/selfhosted/comments/172ycag/cosmos_0100_all_in_one_secure_reverseproxy/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/172ycag/cosmos_0100_all_in_one_secure_reverseproxy/",
+            "title": "\ud83c\udd95 Cosmos 0.10.0 - All in one secure Reverse-proxy, container manager with app store and authentication provider now has its own integrated VPN! Fully managed with integration to the reverse proxy",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/172ycag/cosmos_0100_all_in_one_secure_reverseproxy/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/172ycag/cosmos_0100_all_in_one_secure_reverseproxy/'>Reddit</a></caption><div><br></div><p>Link: <a href=\"https://github.com/azukaar/cosmos-Server/\">github.com/azukaar/cosmos-Server/</a></p>\n<p>Hello everyone! It's been a while!!</p>\n<p>I was cooking something that took a long time in order to get there, but Cosmos now has its own VPN: <strong>Constellation</strong>! </p>\n<p><a href=\"https://preview.redd.it/9duklk7srysb1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=718d279c6d902ab1a6efc16b86fd34f918375d56\">yes I do find this arrow funny</a></p>\n<p>&#x200B;</p>\n<p>As a reminder, this exists alongside the existing features:</p>\n<p>&#x200B;</p>\n<ul>\n<li><strong>App Store</strong> \ud83d\udce6\ud83d\udcf1 To easily install and manage your applications, with simple installers, automatic updates and security checks</li>\n<li><strong>Customizable Homepage</strong> \ud83c\udfe0\ud83d\uddbc To access all your applications from a single place, with a beautiful and customizable UI</li>\n<li><strong>Reverse-Proxy</strong> \ud83d\udd04\ud83d\udd17 Targeting containers, other servers, or serving static folders / SPA with <strong>automatic HTTPS</strong>, and a <strong>nice UI</strong></li>\n<li><strong>Authentication Server</strong> \ud83d\udc66\ud83d\udc69 With strong security, <strong>multi-factor authentication</strong> and multiple strategies (<strong>OpenId</strong>, forward headers, HTML)</li>\n<li><strong>Container manager</strong>    \ud83d\udc0b\ud83d\udd27  To easily manage your containers and their settings, keep them   up  to  date as well as audit their security. Includes docker-compose    support!</li>\n<li><strong>Identity Provider</strong> \ud83d\udc66\ud83d\udc69 To easily manage your users, <strong>invite your friends and family</strong>     to your applications without awkardly sharing credentials. Let them     request a password change with an email rather than having you unlock     their account manually!</li>\n<li><strong>SmartShield technology</strong>    \ud83e\udde0\ud83d\udee1  Automatically secure your applications without manual   adjustments  (see  below for more details). Includes anti-bot and   anti-DDOS  strategies.</li>\n</ul>\n<p>&#x200B;</p>\n<p>Let me put it straight: Constellation has been a hell of a ride to release. It has been 2 months of hard work, to ensure it is stable, secure, but also that it properly integrate with other components of Cosmos (especially the reverse proxy). This is what you get:</p>\n<p>&#x200B;</p>\n<ul>\n<li>Full mesh VPN with P2P</li>\n<li>Complete UI to manage your network and devices</li>\n<li>The UI includes letting your users manage their own devices</li>\n<li>An internal DNS with Adblock list, custom entries and  DNSSEC (think pihole + unbound)</li>\n<li>A basic client application</li>\n<li>An integration to the reverse proxy (to secure your servapps easily)</li>\n<li>Multi-server setup (to bypass CGNAT or access isolated private servers)</li>\n</ul>\n<p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/c7uwhj0fsysb1.png?width=981&amp;format=png&amp;auto=webp&amp;s=c6980dcec992a6ed9c5eac84a1678223976fe98f\">Secure your URLs in one click!</a></p>\n<p>Constellation itself is based on Nebula but build upon it, and will continue to do so. Some of the planned features for Constellation are</p>\n<ul>\n<li>Exit Nodes</li>\n<li>Internal Firewalls</li>\n<li>Probably some container interactions</li>\n</ul>\n<p>&#x200B;</p>\n<p>I am still actively working on the client applications, for now only Android and Windows are available but the other ones will follow up soon!</p>\n<h1>Why would you use Constellation rather than alternatives like Cloudflare Tunnel or Tailscale?</h1>\n<p>&#x200B;</p>\n<p>Cloudflare Tunnel is <strong>not</strong> a very good practice for security: first of all it leaves your origin server in your local network unprotected, and it also let CLoudflare see all your decrypted network. Tailscale is a better alternative, but not quite in the \"self-hosted\" philosophy as it relies on distant cloud servers. Now the closest thing you will get to what Constellation does, is something like OpenZiti. What Constellation offers you on top of it is the integration to the reverse proxy and the automatic DNS. </p>\n<p>For example, one of the big issues of VPN setups is \"how to tunnel my stuff\". You have multiple choices: Tunnel everything (but then it impact your everyday browsing). Have 2 sets of domains, or manually maintain a DNS with overwrites (both being annoying to do). Instead, Constellation automatically rewrite all your reverse proxy URLs on the fly to be tunneled through the VPN. It is also a full split tunnel so you can leave it on at all time.</p>\n<p>Why would you <strong>not</strong> choose Constellation?</p>\n<p>The three main reasons would be: The application might not be available yet for your platform, you don't want to self-host the discovery server (in case you need one, ex. for CGNAT), or you need the exit node functionality (aka. proxy all your network through the server. No ETA on this feature for now).</p>\n<p>Aside from this, few improvement to this version, here's the full changelog:</p>\n<p>&#x200B;</p>\n<ul>\n<li>Added Constellation</li>\n<li>DNS Challenge is now used for all certificates when enabled [breaking change]</li>\n<li>Rework headers for better compatibility</li>\n<li>Improve experience for non-admin users</li>\n<li>Fix bug with redirect on logout</li>\n<li>Added OverwriteHostHeader to routes to override the host header sent to the target app</li>\n<li>Added WhitelistInboundIPs to routes to  filter incoming requests based on IP per URL</li>\n</ul>\n<p>&#x200B;</p>\n<p>It's good \"to be back\" from this adventure, as I have been pretty low-profile while this was taking a lot of my time, hope you enjoy the update!</p>\n<p>Thanks!</p>",
+            "date_published": "2023-10-08T12:48:16+00:00",
+            "authors": [
+                {
+                    "name": "azukaar",
+                    "url": "https://www.reddit.com/user/azukaar"
+                }
+            ]
+        },
+        {
             "id": "171rd8n",
             "url": "/r/selfhosted/comments/171rd8n/a_deep_dive_into_paperlessngx/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/171rd8n/a_deep_dive_into_paperlessngx/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "AdrienPoupa",
                     "url": "https://www.reddit.com/user/AdrienPoupa"
-                }
-            ]
-        },
-        {
-            "id": "10wyzxh",
-            "url": "/r/selfhosted/comments/10wyzxh/40_containers_counting/",
-            "external_url": "https://i.redd.it/zb6gsaxnbzga1.png",
-            "title": "40 Containers & Counting...",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/selfhosted/comments/10wyzxh/40_containers_counting/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/zb6gsaxnbzga1.png\" />",
-            "date_published": "2023-02-08T15:05:28+00:00",
-            "authors": [
-                {
-                    "name": "WashGlad3114",
-                    "url": "https://www.reddit.com/user/WashGlad3114"
                 }
             ]
         }
