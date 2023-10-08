@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "173134q",
+            "url": "/r/macapps/comments/173134q/working_on_a_rewindaiish_application_anyone_want/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/173134q/working_on_a_rewindaiish_application_anyone_want/",
+            "title": "Working on a \"Rewind.ai\"-ish application, anyone want to try?",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/173134q/working_on_a_rewindaiish_application_anyone_want/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/173134q/working_on_a_rewindaiish_application_anyone_want/'>Reddit</a></caption><div><br></div><p>Hello, <a href=\"https://jontelang.com/blog/2015/08/15/automating-screenshots.html\">back in 2015</a> I made a small script to record my screen periodically and I had always though this was an interesting idea to build on. Rewind happened, and there was also a project named Cyte seemed to disappear.</p>\n<p>So I started my own project and I've been using it for a while now, enough that it can do it's purpose effectively - help me remember what I did yesterday at work, so I can give my status updates accurately :)</p>\n<p>Here are the screenshots I'll be using on the Mac App Store, it could change, but it shows most of the UI, at least:</p>\n<p>https://preview.redd.it/bk86kegerzsb1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=c0a269e76dc65e8608d35075915c233c5f5c7ab0</p>\n<p>https://preview.redd.it/76f7umgerzsb1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=fb59965ead899594594895972b367116a32cf6b3</p>\n<p>https://preview.redd.it/7l0dtpgerzsb1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=1201aac22e8160194f8a20ef13f7d3abead00b6e</p>\n<p>It works on both macOS 12 and 13, Intel and M-series. My 2016 model is painfully slow (in general) but on my 2022 M1 it's super snappy even with a lot of history. All data is local, in fact the app is sandboxed so it does not even have internet connection capabilities.</p>\n<p>(I have a basic image-text-search working, but not in the beta)</p>\n<p>---</p>\n<p>If someone would like to try the beta and give feedback, please DM me and I will send you an invite code to download from the App Store beta page.</p>",
+            "date_published": "2023-10-08T14:53:33+00:00",
+            "authors": [
+                {
+                    "name": "jontelang",
+                    "url": "https://www.reddit.com/user/jontelang"
+                }
+            ]
+        },
+        {
             "id": "172fkxv",
             "url": "/r/macapps/comments/172fkxv/about_this_hacks_1st_stable_version_is_out/",
             "external_url": "https://www.reddit.com/r/macapps/comments/172fkxv/about_this_hacks_1st_stable_version_is_out/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "moustachauve",
                     "url": "https://www.reddit.com/user/moustachauve"
-                }
-            ]
-        },
-        {
-            "id": "124d2am",
-            "url": "/r/macapps/comments/124d2am/squares_macos_scripts_for_window_management/",
-            "external_url": "https://github.com/bishshoy/squares",
-            "title": "Squares - macOS scripts for window management",
-            "content_html": "<caption>Open: <a href='https://github.com/bishshoy/squares'>github.com</a> | <a href='https://reddit.com/r/macapps/comments/124d2am/squares_macos_scripts_for_window_management/'>Reddit</a></caption>",
-            "date_published": "2023-03-28T04:45:07+00:00",
-            "authors": [
-                {
-                    "name": "Special-Waffle",
-                    "url": "https://www.reddit.com/user/Special-Waffle"
                 }
             ]
         }
