@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3g41m/styles/communityIcon_zhyx561jw9kb1.jpg",
     "items": [
         {
+            "id": "173u4py",
+            "url": "/r/Starfield/comments/173u4py/starfield_1736_update_notes/",
+            "external_url": "https://www.reddit.com/r/Starfield/comments/173u4py/starfield_1736_update_notes/",
+            "title": "Starfield 1.7.36 Update Notes",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/Starfield/comments/173u4py/starfield_1736_update_notes/'>Apollo</a> | <a href='https://reddit.com/r/Starfield/comments/173u4py/starfield_1736_update_notes/'>Reddit</a></caption><div><br></div><p>A new update has been released for Starfield on all platforms. This update includes changes to Settings that allow for players to adjust their FOV as well as some other performance and stability improvements.</p>\n<p>Thank you so much for your continued feedback and support of Starfield and we look forward to a future with you on this journey.</p>\n<h2>Starfield 1.7.36 Update - Fixes and Improvements</h2>\n<h2>General</h2>\n<ul>\n<li>FOV: Sliders are now available in Settings that allow players using first person or third person to adjust their FOV.</li>\n</ul>\n<h2>Performance and Stability</h2>\n<ul>\n<li>[PC ONLY] Improved stability for Intel Arc GPUs.</li>\n<li>Various additional stability and performance improvements.</li>\n</ul>\n<h2>Quest</h2>\n<ul>\n<li>Echoes of the Past: Addressed an issue where tunneling creatures could pick a location that would prevent progression.</li>\n</ul>",
+            "date_published": "2023-10-09T15:06:29+00:00",
+            "authors": [
+                {
+                    "name": "BethesdaGameStudios_",
+                    "url": "https://www.reddit.com/user/BethesdaGameStudios_"
+                }
+            ]
+        },
+        {
             "id": "173cs5r",
             "url": "/r/Starfield/comments/173cs5r/just_hit_the_jackpot/",
             "external_url": "https://i.redd.it/uhjjl4lq82tb1.jpg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Angry_Washing_Bear",
                     "url": "https://www.reddit.com/user/Angry_Washing_Bear"
-                }
-            ]
-        },
-        {
-            "id": "16s01wn",
-            "url": "/r/Starfield/comments/16s01wn/from_the_war_turtle_to_the_war_tortoise/",
-            "external_url": "https://www.reddit.com/gallery/16s01wn",
-            "title": "From the War Turtle, to the War Tortoise.",
-            "content_html": "<caption>Open: <a href='https://www.reddit.com/gallery/16s01wn'>www.reddit.com</a> | <a href='https://reddit.com/r/Starfield/comments/16s01wn/from_the_war_turtle_to_the_war_tortoise/'>Reddit</a></caption>",
-            "date_published": "2023-09-25T18:35:42+00:00",
-            "authors": [
-                {
-                    "name": "Archer-Saurus",
-                    "url": "https://www.reddit.com/user/Archer-Saurus"
                 }
             ]
         }
