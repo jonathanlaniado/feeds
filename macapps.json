@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "173faj2",
+            "url": "/r/macapps/comments/173faj2/im_working_on_a_powerful_and_customizable_finder/",
+            "external_url": "https://i.redd.it/rdzz0hgyt2tb1.png",
+            "title": "I'm working on a powerful and customizable Finder alternative and I'm looking for testers (details in comments)",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/173faj2/im_working_on_a_powerful_and_customizable_finder/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/173faj2/im_working_on_a_powerful_and_customizable_finder/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/rdzz0hgyt2tb1.png\" />",
+            "date_published": "2023-10-09T01:09:25+00:00",
+            "authors": [
+                {
+                    "name": "cosmilapp",
+                    "url": "https://www.reddit.com/user/cosmilapp"
+                }
+            ]
+        },
+        {
             "id": "173134q",
             "url": "/r/macapps/comments/173134q/working_on_a_rewindaiish_application_anyone_want/",
             "external_url": "https://www.reddit.com/r/macapps/comments/173134q/working_on_a_rewindaiish_application_anyone_want/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Killforthecoke",
                     "url": "https://www.reddit.com/user/Killforthecoke"
-                }
-            ]
-        },
-        {
-            "id": "124ypq6",
-            "url": "/r/macapps/comments/124ypq6/cookieeditor_extension_for_safari/",
-            "external_url": "https://apps.apple.com/app/apple-store/id6446215341",
-            "title": "Cookie-Editor extension for Safari",
-            "content_html": "<caption>Open: <a href='https://apps.apple.com/app/apple-store/id6446215341'>apps.apple.com</a> | <a href='https://reddit.com/r/macapps/comments/124ypq6/cookieeditor_extension_for_safari/'>Reddit</a></caption>",
-            "date_published": "2023-03-28T19:02:46+00:00",
-            "authors": [
-                {
-                    "name": "moustachauve",
-                    "url": "https://www.reddit.com/user/moustachauve"
                 }
             ]
         }
