@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "173qc6l",
+            "url": "/r/selfhosted/comments/173qc6l/leantime_v24_is_out_open_source_project/",
+            "external_url": "https://github.com/Leantime/leantime",
+            "title": "Leantime v2.4 is out - Open source project management tool",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/173qc6l/leantime_v24_is_out_open_source_project/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/173qc6l/leantime_v24_is_out_open_source_project/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2023-10-09T12:17:20+00:00",
+            "authors": [
+                {
+                    "name": "intheleantime",
+                    "url": "https://www.reddit.com/user/intheleantime"
+                }
+            ]
+        },
+        {
             "id": "173qtly",
             "url": "/r/selfhosted/comments/173qtly/jellystat_is_for_jellyfin_what_tautuli_is_for_plex/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/173qtly/jellystat_is_for_jellyfin_what_tautuli_is_for_plex/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "altran1502",
                     "url": "https://www.reddit.com/user/altran1502"
-                }
-            ]
-        },
-        {
-            "id": "116qqi6",
-            "url": "/r/selfhosted/comments/116qqi6/shoutout_to_audiobookshelf_personal/",
-            "external_url": "https://github.com/advplyr/audiobookshelf-app/releases",
-            "title": "Shoutout to AudioBookShelf - personal audiobook/podcast library with actively-developed mobile apps",
-            "content_html": "<caption>Open: <a href='https://github.com/advplyr/audiobookshelf-app/releases'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/116qqi6/shoutout_to_audiobookshelf_personal/'>Reddit</a></caption>",
-            "date_published": "2023-02-19T23:00:46+00:00",
-            "authors": [
-                {
-                    "name": "tgp1994",
-                    "url": "https://www.reddit.com/user/tgp1994"
                 }
             ]
         }
