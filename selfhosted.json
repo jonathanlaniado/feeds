@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "173qtly",
+            "url": "/r/selfhosted/comments/173qtly/jellystat_is_for_jellyfin_what_tautuli_is_for_plex/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/173qtly/jellystat_is_for_jellyfin_what_tautuli_is_for_plex/",
+            "title": "Jellystat is for Jellyfin what Tautuli is for Plex.",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/173qtly/jellystat_is_for_jellyfin_what_tautuli_is_for_plex/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/173qtly/jellystat_is_for_jellyfin_what_tautuli_is_for_plex/'>Reddit</a></caption><div><br></div><p>I kept coming back to plex and was not able to completely move to Jellyfin because of Tautulli, that gives detailed stats about the Plex users watched videos.</p>\n<p>I recently came across <a href=\"https://github.com/CyferShepard/Jellystat\">Jellystat</a>. Which has all the features I used on Tautulli.</p>\n<p>If you share your Jellyfin access with your family and friends Jellystat is a must have addition.</p>",
+            "date_published": "2023-10-09T12:41:17+00:00",
+            "authors": [
+                {
+                    "name": "sevlonbhoi1",
+                    "url": "https://www.reddit.com/user/sevlonbhoi1"
+                }
+            ]
+        },
+        {
             "id": "172ycag",
             "url": "/r/selfhosted/comments/172ycag/cosmos_0100_all_in_one_secure_reverseproxy/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/172ycag/cosmos_0100_all_in_one_secure_reverseproxy/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "tgp1994",
                     "url": "https://www.reddit.com/user/tgp1994"
-                }
-            ]
-        },
-        {
-            "id": "113ubmn",
-            "url": "/r/selfhosted/comments/113ubmn/docker_compose_nas_featuring_sonarr_radarr/",
-            "external_url": "https://github.com/AdrienPoupa/docker-compose-nas",
-            "title": "Docker Compose NAS featuring Sonarr, Radarr, Prowlarr, Jellyfin, qBittorrent, PIA VPN and Traefik with SSL support",
-            "content_html": "<caption>Open: <a href='https://github.com/AdrienPoupa/docker-compose-nas'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/113ubmn/docker_compose_nas_featuring_sonarr_radarr/'>Reddit</a></caption>",
-            "date_published": "2023-02-16T16:16:47+00:00",
-            "authors": [
-                {
-                    "name": "AdrienPoupa",
-                    "url": "https://www.reddit.com/user/AdrienPoupa"
                 }
             ]
         }
