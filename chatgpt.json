@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7hqomg/styles/communityIcon_lnxlhix84tja1.png",
     "items": [
         {
+            "id": "173q4fz",
+            "url": "/r/ChatGPT/comments/173q4fz/im_building_a_startup_using_chatgpt_tools_and/",
+            "external_url": "https://www.reddit.com/r/ChatGPT/comments/173q4fz/im_building_a_startup_using_chatgpt_tools_and/",
+            "title": "I'm building a startup using ChatGPT tools and characters. Can I create a tool for you? So far, I've developed a Thought Extractor for YouTube videos, an AI Pirate that suggests great company names, and an AI Recruiter. If you have a mundane task that could be handled by a bot, please let me know",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ChatGPT/comments/173q4fz/im_building_a_startup_using_chatgpt_tools_and/'>Apollo</a> | <a href='https://reddit.com/r/ChatGPT/comments/173q4fz/im_building_a_startup_using_chatgpt_tools_and/'>Reddit</a></caption><div><br></div><p>Example:<br />\nThought extractor<br />\nYou have an interview with a cool person and you want to extract their thoughts from it. If it's a YouTube video, click \"Show transcript\", then copy up to 25 minutes of the transcript into the bot:<br />\n<a href=\"https://glome.social/@thought-extractor\">https://glome.social/@thought-extractor</a></p>\n<p>You should receive a list of thoughts from the interviewed person. It's crucial that the transcript only has the interviewer and the interviewee; otherwise, the bot might mix up thoughts from different people. Keep the timestamps; they assist the bot. Currently, the bot can process chunks up to 25 minutes. I use this bot to create a draft version of an AI character, like Elon, for example.</p>\n<p>If you have ideas for new tools but can't build them for whatever reason, please let me know. I'll be happy to help. If multiple tools are mentioned in the comments, I'll go through them starting from the top-rated comments and work my way down.  </p>",
+            "date_published": "2023-10-09T12:06:13+00:00",
+            "authors": [
+                {
+                    "name": "Exligent",
+                    "url": "https://www.reddit.com/user/Exligent"
+                }
+            ]
+        },
+        {
             "id": "173nzyh",
             "url": "/r/ChatGPT/comments/173nzyh/according_to_chatgpt_it_is_best_to_ask_people_for/",
             "external_url": "https://www.reddit.com/gallery/173nzyh",
