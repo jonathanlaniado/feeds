@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "174wi7m",
+            "url": "/r/apple/comments/174wi7m/apple_releases_new_firmware_for_airpods_pro_2/",
+            "external_url": "https://www.macrumors.com/2023/10/10/apple-releases-new-airpods-pro-2-firmware-2/",
+            "title": "Apple Releases New Firmware for AirPods Pro 2",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/apple/comments/174wi7m/apple_releases_new_firmware_for_airpods_pro_2/'>Apollo</a> | <a href='https://reddit.com/r/apple/comments/174wi7m/apple_releases_new_firmware_for_airpods_pro_2/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2023-10-10T21:19:58+00:00",
+            "authors": [
+                {
+                    "name": "walktall",
+                    "url": "https://www.reddit.com/user/walktall"
+                }
+            ]
+        },
+        {
             "id": "174vxb6",
             "url": "/r/apple/comments/174vxb6/google_pays_apple_18b_to_20b_a_year_to_keep_its/",
             "external_url": "https://www.theregister.com/2023/10/10/google_pays_apple_18_20_claims_bernstein/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "A-Dog22",
                     "url": "https://www.reddit.com/user/A-Dog22"
-                }
-            ]
-        },
-        {
-            "id": "15btoem",
-            "url": "/r/apple/comments/15btoem/apple_cracking_down_on_fingerprinting_with_new/",
-            "external_url": "https://www.engadget.com/apple-cracking-down-on-fingerprinting-with-new-app-store-api-rules-080007498.html",
-            "title": "Apple cracking down on 'fingerprinting' with new App Store API rules | Starting with iOS 17, developers will need to explain why they're using certain APIs.",
-            "content_html": "<caption>Open: <a href='https://www.engadget.com/apple-cracking-down-on-fingerprinting-with-new-app-store-api-rules-080007498.html'>www.engadget.com</a> | <a href='https://reddit.com/r/apple/comments/15btoem/apple_cracking_down_on_fingerprinting_with_new/'>Reddit</a></caption>",
-            "date_published": "2023-07-28T10:30:54+00:00",
-            "authors": [
-                {
-                    "name": "chrisdh79",
-                    "url": "https://www.reddit.com/user/chrisdh79"
                 }
             ]
         }
