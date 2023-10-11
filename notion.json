@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_hds7r/styles/communityIcon_324t3hd214r81.jpeg",
     "items": [
         {
+            "id": "175g9qo",
+            "url": "/r/Notion/comments/175g9qo/kpi_tracking_and_automatic_resetting_in_notion/",
+            "external_url": "https://www.reddit.com/r/Notion/comments/175g9qo/kpi_tracking_and_automatic_resetting_in_notion/",
+            "title": "KPI tracking and automatic resetting in notion (All tips appreciated)",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/Notion/comments/175g9qo/kpi_tracking_and_automatic_resetting_in_notion/'>Apollo</a> | <a href='https://reddit.com/r/Notion/comments/175g9qo/kpi_tracking_and_automatic_resetting_in_notion/'>Reddit</a></caption><div><br></div><p>Hello all. Would it be possible for someone to aid me in setting up a KPI system so that it has a Log Interface that I use to log certain numbers, it updates the KPIs, and it shows me a progress bar as well as an on-track status for each KPI? I also need it to update every week and store the previous week's KPIs in an archive or Log. Something like the picture below. I know I have to link databases, have one database look up results from another, and all three aspects will probably be a database (Logging interface, actual KPI view, and archive). I looked at all the videos I could find, and I think <a href=\"https://www.youtube.com/watch?v=gyUhQFobvU0&amp;t=12s\">something similar to this video came closest</a> to what I wanted. </p>\n<p>I also need to feed some of the results (like sales, expenses, etc) into another, overall KPI board of my agency. But I guess that's something I could just do with sums and references. </p>\n<p>https://preview.redd.it/vyu38lpr9ltb1.png?width=1254&amp;format=png&amp;auto=webp&amp;s=0c2faff3224576a968566e58637b9868f2ad51e5</p>\n<p>No need to give me an entire solution, only looking for tips that could help me along the way. Thank you very much!!! </p>\n<p>&#x200B;</p>\n<p>Any templates, courses, solutions, suggestions, external tools I need - not a problem. I'll buy them and learn. But I need to get this done. Thanks!! </p>",
+            "date_published": "2023-10-11T15:07:45+00:00",
+            "authors": [
+                {
+                    "name": "Standard-Ad8023",
+                    "url": "https://www.reddit.com/user/Standard-Ad8023"
+                }
+            ]
+        },
+        {
             "id": "172ve33",
             "url": "/r/Notion/comments/172ve33/i_use_notion_to_record_my_daily_dose_of_python/",
             "external_url": "https://i.redd.it/d1s3hmbybysb1.jpg",
