@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "177iixz",
+            "url": "/r/macapps/comments/177iixz/just_a_small_update_to_a_mac_app_i_wrote_8_months/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/177iixz/just_a_small_update_to_a_mac_app_i_wrote_8_months/",
+            "title": "\ud83e\udd66Just a small update to a mac app I wrote 8 months ago: NEW FREE function added",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/177iixz/just_a_small_update_to_a_mac_app_i_wrote_8_months/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/177iixz/just_a_small_update_to_a_mac_app_i_wrote_8_months/'>Reddit</a></caption><div><br></div><p>On February 2023 I wrote Broccoli, a macOS app for AI chat. I know there are sooooo many apps of the same kind, so I thought it was out of date. But recently when I want to use inline input function (which is to input the answer got in the first round with AI to the cursor position), I found that there is nearly no one easy to use. It's in the first week of October and I updated my app to support this function. </p>\n<p>I feel disappointed at the situation that we are so impressed by the fact that AI tools are just ENOUGH, but when we take a closer look at it, we will find the useful ones are still in need. I will pick some to show you as for inline input function: </p>\n<ul>\n<li>MacGPT can do this, but it cannot let users to define the HOST/ENDPOINT</li>\n<li>PopClip: same as above</li>\n<li>BoltAI: can do this and can customize HOST/ENDPOINT, but is paid for $29</li>\n<li>Notion or Obsidian extension? Notion is paid and I don't know if Obsidian extension can do both.</li>\n</ul>\n<p>I do think the apps above are quite good apps and I adore them. But I just want this function with customizable HOST/ENDPOINT and in a fair price, better to be free. So to this point, I think Broccoli can do what I need and if you are in search of a similar one, maybe you can try my app! So I'm here~</p>\n<p>What is good about Broccoli\ud83e\udd66:\n- The tool is free, although you might need to use the paid service from OpenAI\n- You can customize the HOST/ENDPOINT to a third party provider of OpenAI service\n- After you use the inline input, you can choose whether to continue asking in the chat window (don't forget to choose remember history), which is not supported by most apps (I need that so I added it)\n- There are so many basic functions that you might like, including reading a TXT or DOCX file\n- And I'm very proud that I made its UI animation different from most apps, which can float on every space</p>\n<p>I will paste the link here and I will appreciated it if you come to see my work\ud83d\ude0a</p>\n<p><a href=\"https://github.com/Ryan-the-hito/Broccoli\">GitHub</a></p>\n<p>PS: The GitHub page is basically Chinese and I'm a student in university working on my dissertation right now. So I will update it into English when I get rid of the papers...\ud83e\udd72</p>",
+            "date_published": "2023-10-14T05:44:52+00:00",
+            "authors": [
+                {
+                    "name": "Plenty-Reference69",
+                    "url": "https://www.reddit.com/user/Plenty-Reference69"
+                }
+            ]
+        },
+        {
             "id": "176u95h",
             "url": "/r/macapps/comments/176u95h/just_launched_v2_of_ejimo_the_ultimate_emoji/",
             "external_url": "https://www.reddit.com/r/macapps/comments/176u95h/just_launched_v2_of_ejimo_the_ultimate_emoji/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MichaelTheGeek",
                     "url": "https://www.reddit.com/user/MichaelTheGeek"
-                }
-            ]
-        },
-        {
-            "id": "12h2skd",
-            "url": "/r/macapps/comments/12h2skd/replacicon_15_find_and_replace_app_icons_to_match/",
-            "external_url": "https://replacicon.app",
-            "title": "Replacicon 1.5 - Find and replace app icons to match macOS",
-            "content_html": "<caption>Open: <a href='https://replacicon.app'>replacicon.app</a> | <a href='https://reddit.com/r/macapps/comments/12h2skd/replacicon_15_find_and_replace_app_icons_to_match/'>Reddit</a></caption>",
-            "date_published": "2023-04-10T01:30:56+00:00",
-            "authors": [
-                {
-                    "name": "replaciconapp",
-                    "url": "https://www.reddit.com/user/replaciconapp"
                 }
             ]
         }
