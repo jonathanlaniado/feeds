@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "177oy2z",
+            "url": "/r/selfhosted/comments/177oy2z/today_i_learned_that_your_email_server_may_be/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/177oy2z/today_i_learned_that_your_email_server_may_be/",
+            "title": "Today i learned that your email server may be doomed just because of TLD",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/177oy2z/today_i_learned_that_your_email_server_may_be/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/177oy2z/today_i_learned_that_your_email_server_may_be/'>Reddit</a></caption><div><br></div><p>If your domain gets in this list, then your emails will end up in spam folder much more often than not.</p>\n<p><a href=\"https://github.com/apache/spamassassin/blob/trunk/rulesrc/sandbox/pds/20_ntld.cf\">https://github.com/apache/spamassassin/blob/trunk/rulesrc/sandbox/pds/20_ntld.cf</a></p>\n<p>&#x200B;</p>",
+            "date_published": "2023-10-14T12:55:51+00:00",
+            "authors": [
+                {
+                    "name": "D-ff1",
+                    "url": "https://www.reddit.com/user/D-ff1"
+                }
+            ]
+        },
+        {
             "id": "177h2hx",
             "url": "/r/selfhosted/comments/177h2hx/sponsorblock_client_for_all_youtube_tv_clients/",
             "external_url": "https://github.com/dmunozv04/iSponsorBlockTV",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "DamsDev",
                     "url": "https://www.reddit.com/user/DamsDev"
-                }
-            ]
-        },
-        {
-            "id": "11b8q48",
-            "url": "/r/selfhosted/comments/11b8q48/awesome_docker_compose_examples/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/11b8q48/awesome_docker_compose_examples/",
-            "title": "Awesome Docker Compose Examples",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/11b8q48/awesome_docker_compose_examples/'>Reddit</a></caption><div><br></div><div><p>Hi r/selfhosted,</p>\n<p>since my last post I've cleaned my repository on GitHub with various Docker Compose examples. I've added a clean readme, issue templates and also short descriptions for each currently available compose project (aligned to the popular <a href=\"https://github.com/awesome-selfhosted/awesome-selfhosted\">awesome-selfhosted</a> repo).</p>\n<p>I'll update the repository regularly if I come across bugs or something note-worthy. For example, if a cool project does not yet provide a docker-compose.yml or if the setup is a bit more complicated, combining various docker images with required config files etc. (like traefik or a grafana monitoring stack combining multiple images like promtail, influxdb, telegraf and so on).</p>\n<p>Feel free to check it out if you haven't yet:</p>\n<p><a href=\"https://github.com/Haxxnet/Compose-Examples\">https://github.com/Haxxnet/Compose-Examples</a></p>\n<p>If you have any missing compose examples that are not easily publicly available or already documented well enough by the project maintainer, feel free to issue PRs or open an issue with a request for a missing compose example. Happy to help out and extend the examples.</p>\n<p>Cheers!</p></div>",
-            "date_published": "2023-02-25T01:50:20+00:00",
-            "authors": [
-                {
-                    "name": "sk1nT7",
-                    "url": "https://www.reddit.com/user/sk1nT7"
                 }
             ]
         }
