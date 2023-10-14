@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "177h2hx",
+            "url": "/r/selfhosted/comments/177h2hx/sponsorblock_client_for_all_youtube_tv_clients/",
+            "external_url": "https://github.com/dmunozv04/iSponsorBlockTV",
+            "title": "SponsorBlock client for all YouTube TV clients.",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/177h2hx/sponsorblock_client_for_all_youtube_tv_clients/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/177h2hx/sponsorblock_client_for_all_youtube_tv_clients/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2023-10-14T04:10:16+00:00",
+            "authors": [
+                {
+                    "name": "Cazo19",
+                    "url": "https://www.reddit.com/user/Cazo19"
+                }
+            ]
+        },
+        {
             "id": "1776m7g",
             "url": "/r/selfhosted/comments/1776m7g/screenshots_of_a_docker_webui_ive_been_working_on/",
             "external_url": "https://imgur.com/a/KjMLPsz",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "sk1nT7",
                     "url": "https://www.reddit.com/user/sk1nT7"
-                }
-            ]
-        },
-        {
-            "id": "119v4y0",
-            "url": "/r/selfhosted/comments/119v4y0/overengineering_my_document_storage_system_with/",
-            "external_url": "https://skerritt.blog/how-i-store-physical-documents/",
-            "title": "Over-engineering my document storage system with Paperless-ngx",
-            "content_html": "<caption>Open: <a href='https://skerritt.blog/how-i-store-physical-documents/'>skerritt.blog</a> | <a href='https://reddit.com/r/selfhosted/comments/119v4y0/overengineering_my_document_storage_system_with/'>Reddit</a></caption>",
-            "date_published": "2023-02-23T11:09:14+00:00",
-            "authors": [
-                {
-                    "name": "SnooTangerines6956",
-                    "url": "https://www.reddit.com/user/SnooTangerines6956"
                 }
             ]
         }
