@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "178bgqc",
+            "url": "/r/macapps/comments/178bgqc/one_task_conquer_one_task_at_a_time/",
+            "external_url": "https://apps.apple.com/app/one-task/id6465745322",
+            "title": "One Task \u2014 Conquer one task at a time",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/178bgqc/one_task_conquer_one_task_at_a_time/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/178bgqc/one_task_conquer_one_task_at_a_time/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2023-10-15T09:08:20+00:00",
+            "authors": [
+                {
+                    "name": "sindresorhus",
+                    "url": "https://www.reddit.com/user/sindresorhus"
+                }
+            ]
+        },
+        {
             "id": "177iixz",
             "url": "/r/macapps/comments/177iixz/just_a_small_update_to_a_mac_app_i_wrote_8_months/",
             "external_url": "https://www.reddit.com/r/macapps/comments/177iixz/just_a_small_update_to_a_mac_app_i_wrote_8_months/",
@@ -1386,20 +1400,6 @@
             "title": "QuickGPT",
             "content_html": "<caption>Open: <a href='https://sindresorhus.gumroad.com/l/quickgpt'>sindresorhus.gumroad.com</a> | <a href='https://reddit.com/r/macapps/comments/12ko4qt/quickgpt/'>Reddit</a></caption>",
             "date_published": "2023-04-13T12:52:11+00:00",
-            "authors": [
-                {
-                    "name": "MichaelTheGeek",
-                    "url": "https://www.reddit.com/user/MichaelTheGeek"
-                }
-            ]
-        },
-        {
-            "id": "12ixuzd",
-            "url": "/r/macapps/comments/12ixuzd/the_only_way_to_use_tweetshot/",
-            "external_url": "https://imgur.com/gallery/eRvqLAf",
-            "title": "The only way to use Tweetshot.",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/macapps/comments/12ixuzd/the_only_way_to_use_tweetshot/\">Reddit</a></caption><div><br></div><img src=\"https://i.imgur.com/gallery/eRvqLAf.jpg\" />",
-            "date_published": "2023-04-11T21:12:26+00:00",
             "authors": [
                 {
                     "name": "MichaelTheGeek",
