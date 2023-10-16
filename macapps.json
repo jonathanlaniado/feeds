@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "178y254",
+            "url": "/r/macapps/comments/178y254/swiftguard_antiforensic_macos_app_to_safeguard/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/178y254/swiftguard_antiforensic_macos_app_to_safeguard/",
+            "title": "swiftGuard - Anti-forensic macOS app to safeguard your USB ports",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/178y254/swiftguard_antiforensic_macos_app_to_safeguard/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/178y254/swiftguard_antiforensic_macos_app_to_safeguard/'>Reddit</a></caption><div><br></div><p>&#x200B;</p>\n<p>https://preview.redd.it/swnpjeejvhub1.png?width=1000&amp;format=png&amp;auto=webp&amp;s=386ab37f31cfe8947e47a229451c19fd83153ab5</p>\n<p>Anti-forensic macOS tray application designed to safeguard your system by monitoring USB ports. It ensures your device's security by automatically initiating either a system shutdown or hibernation if an unauthorized device connects or a connected device is unplugged. It offers the flexibility to whitelist designated devices, to select an action to be executed and to set a countdown timer, allowing to disarm the shutdown process.</p>\n<h1>What it offers</h1>\n<ul>\n<li><strong>Monitoring:</strong> Continuously monitors USB ports for device activity, even in sleep mode.</li>\n<li><strong>Whitelisting:</strong> Allows users to whitelist authorized devices, ensuring hassle-free connectivity.</li>\n<li><strong>Discrete:</strong> Operates in the macOS system tray, minimizing interruptions.</li>\n<li><strong>Customizable:</strong> Allows users to configure various settings, including action (shutdown/hibernate), countdown timer and whitelist.</li>\n<li><strong>Lightweight:</strong> Designed to consume minimal system resources for optimal performance.</li>\n<li><strong>Privacy:</strong> Does not require an internet connection, ensuring the privacy of your data.</li>\n<li><strong>Open Source:</strong> Provides transparency and allows community contributions for continuous development.</li>\n</ul>\n<h2>See it in Action!</h2>\n<p>https://preview.redd.it/7tbu7jaovhub1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=99956eb28b1964efda0f7c5720a374ee2a795aff</p>\n<h2>Why should You care?</h2>\n<p>A few reasons to use this tool:</p>\n<ul>\n<li><strong>Anti-Forensic Measures:</strong> In case the police or other thugs break in. The police often use a mouse jiggler to prevent the screen saver or sleep mode from being activated.</li>\n<li><strong>Prevent Data Exfiltration:</strong> You do not want someone adding or copying documents to or from your computer via USB.</li>\n<li><strong>Public Environments:</strong> If you frequently use your Mac in public places like libraries or cafes, swiftGuard acts as an additional layer of security against physical attacks in a potentially vulnerable setting.</li>\n<li><strong>Server Protection:</strong> You want to improve the security of your home or company server (e.g. your Raspberry Pi, NAS, etc.).</li>\n<li><strong>Data Protection Regulations:</strong> Many industries and organizations are subject to strict data protection regulations. swiftGuard helps maintain compliance by preventing unauthorized data transfers and access through USB ports.</li>\n</ul>\n<blockquote>\n<p><strong>Tip</strong>: You might also want to use a cord to attach a USB key to your wrist. Then plug the key into your computer and run swiftGuard. If your computer is robbed, the USB is removed and the computer shuts down immediately.</p>\n</blockquote>\n<h2>What Features are planned next?</h2>\n<ul>\n<li><strong>Bluetooth:</strong> If a Bluetooth Device (tries to) connect(s), or if a new Bt Device comes near you MacBook, swiftGuard will shutdown/hibernate.</li>\n<li><strong>More Actions:</strong> When it detects a Manipulation swiftGuard is able to delete or encrypt files/folders, wipe ram, send an email notification, ...)</li>\n<li><strong>Custom Actions:</strong> You can define custom shell/python commands to be executed, e.g., run a script.</li>\n<li><strong>Linux Support:</strong> Cross-platform support.</li>\n<li><strong>Encryption:</strong> More security on top, with password protected configuration and defusing.</li>\n<li><strong>Auto Start/Update:</strong> I think this one is clear.</li>\n</ul>\n<p>&#x200B;</p>\n<h2>Getting started!</h2>\n<p>Visit the <a href=\"https://github.com/Lennolium/swiftGuard\">GitHub Repository</a> to explore the code, contribute to development, or download the latest release.</p>",
+            "date_published": "2023-10-16T04:47:02+00:00",
+            "authors": [
+                {
+                    "name": "smoGGGGG",
+                    "url": "https://www.reddit.com/user/smoGGGGG"
+                }
+            ]
+        },
+        {
             "id": "178bgqc",
             "url": "/r/macapps/comments/178bgqc/one_task_conquer_one_task_at_a_time/",
             "external_url": "https://apps.apple.com/app/one-task/id6465745322",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "FedaykinLanfear_8423",
                     "url": "https://www.reddit.com/user/FedaykinLanfear_8423"
-                }
-            ]
-        },
-        {
-            "id": "12ko4qt",
-            "url": "/r/macapps/comments/12ko4qt/quickgpt/",
-            "external_url": "https://sindresorhus.gumroad.com/l/quickgpt",
-            "title": "QuickGPT",
-            "content_html": "<caption>Open: <a href='https://sindresorhus.gumroad.com/l/quickgpt'>sindresorhus.gumroad.com</a> | <a href='https://reddit.com/r/macapps/comments/12ko4qt/quickgpt/'>Reddit</a></caption>",
-            "date_published": "2023-04-13T12:52:11+00:00",
-            "authors": [
-                {
-                    "name": "MichaelTheGeek",
-                    "url": "https://www.reddit.com/user/MichaelTheGeek"
                 }
             ]
         }
