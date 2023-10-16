@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1790njv",
+            "url": "/r/selfhosted/comments/1790njv/what_is_the_one_thing_every_selfhosted_household/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1790njv/what_is_the_one_thing_every_selfhosted_household/",
+            "title": "What is the one thing every self-hosted household should have?",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/1790njv/what_is_the_one_thing_every_selfhosted_household/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/1790njv/what_is_the_one_thing_every_selfhosted_household/'>Reddit</a></caption><div><br></div><p>Let's keep it simple. I'm sure most of us are proud of Docker CPU cycles charted in Grafana via Prometheus, but I'm talking about the house as a whole.</p>\n<p>My personal favorite is turning out to be <a href=\"https://mealie.io/\">Mealie</a>. </p>\n<p>I self-host a bunch of things for my personal use, but Mealie definitely takes the cake in terms of benefitting the entire household. I like the meal planner and the ability to hit the supermarket once to get all the necessary groceries for the week (I've never been able to achieve this before). I don't think there is anything in my stack that even compares with the benefits my house gets of out Mealie.</p>\n<p>My runner up would have to be any of the <strong>self-hosted media players</strong> (Plex, Jellyfin, etc.), but we also have Netflix and a bunch of streaming services, so not that impactful. <strong>Home Assistant</strong> would also be a close runner up, but it only provides great benefits for me, not the rest of the house. I think <strong>Immich</strong> will be on this list shortly, when it matures a bit more (are we able to import existing photos yet?)</p>",
+            "date_published": "2023-10-16T07:49:23+00:00",
+            "authors": [
+                {
+                    "name": "puckpuckgo",
+                    "url": "https://www.reddit.com/user/puckpuckgo"
+                }
+            ]
+        },
+        {
             "id": "1789esy",
             "url": "/r/selfhosted/comments/1789esy/its_been_a_week_since_i_fell_into_the_self/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1789esy/its_been_a_week_since_i_fell_into_the_self/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "vrgpy",
                     "url": "https://www.reddit.com/user/vrgpy"
-                }
-            ]
-        },
-        {
-            "id": "11mflmy",
-            "url": "/r/selfhosted/comments/11mflmy/i_know_this_isnt_generally_a_place_for_memes_but/",
-            "external_url": "https://i.redd.it/kpw8vuqdglma1.png",
-            "title": "I know this isn't generally a place for memes but it really really fits :)",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/selfhosted/comments/11mflmy/i_know_this_isnt_generally_a_place_for_memes_but/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/kpw8vuqdglma1.png\" />",
-            "date_published": "2023-03-09T02:06:14+00:00",
-            "authors": [
-                {
-                    "name": "narcabusesurvivor18",
-                    "url": "https://www.reddit.com/user/narcabusesurvivor18"
                 }
             ]
         }
