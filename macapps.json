@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "179743e",
+            "url": "/r/macapps/comments/179743e/i_built_an_allinone_desktop_app_with_a_nobs/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/179743e/i_built_an_allinone_desktop_app_with_a_nobs/",
+            "title": "I built an all-in-one desktop app with a no-BS approach to getting work done",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/179743e/i_built_an_allinone_desktop_app_with_a_nobs/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/179743e/i_built_an_allinone_desktop_app_with_a_nobs/'>Reddit</a></caption><div><br></div><p>Hello r/macapps community! After being overwhelmed with the number of tools we use every day to get work done, I built a single desktop app to streamline the entire process of working, from logging in at 9 a.m. to logging out at 5 p.m. I've adopted a no-BS approach, which means it eliminates everything unnecessary and distracting in our workflow, and offers a simple way to work with maximum efficiency, focus, and organization.</p>\n<p>It will make you rethink the way you work today.</p>\n<p>Please check out the website to see screenshots, learn more, and download the app: <a href=\"https://www.floutwork.com/?ref=reddit\">https://www.floutwork.com</a></p>\n<p>&#x200B;</p>\n<p>https://preview.redd.it/btqy3b1lpkub1.png?width=1152&amp;format=png&amp;auto=webp&amp;s=0c4f4d8f6534f0cbb6951869516e31ceea514cc2</p>\n<p>&#x200B;</p>\n<p>&#x200B;</p>",
+            "date_published": "2023-10-16T14:21:29+00:00",
+            "authors": [
+                {
+                    "name": "daniel_sushil",
+                    "url": "https://www.reddit.com/user/daniel_sushil"
+                }
+            ]
+        },
+        {
             "id": "178y254",
             "url": "/r/macapps/comments/178y254/swiftguard_antiforensic_macos_app_to_safeguard/",
             "external_url": "https://www.reddit.com/r/macapps/comments/178y254/swiftguard_antiforensic_macos_app_to_safeguard/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "jusatinn",
                     "url": "https://www.reddit.com/user/jusatinn"
-                }
-            ]
-        },
-        {
-            "id": "12n7162",
-            "url": "/r/macapps/comments/12n7162/part_3_final_browser_energy_efficiency_benchmarks/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/12n7162/part_3_final_browser_energy_efficiency_benchmarks/",
-            "title": "[Part 3, final] - Browser energy efficiency benchmarks. Chrome, Arc, Safari, Firefox, Brave, Orion, Edge, SigmaOS, Opera.",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/12n7162/part_3_final_browser_energy_efficiency_benchmarks/'>Reddit</a></caption><div><br></div><div><p>Hey again folks!</p>\n<p>Thanks to your comments (and I've read and responded to all of them) on the previous 2 threads, we are here with a third and final instalment in my power score crusade. Seriously, you've been amazing and super helpful.</p>\n<p><strong>TLDR: These are NOT performance tests. I only measure raw power usage!!!!!!</strong> Each browser was tested 3x and each test is a 20min long scenario of common usage pattern - Google, Notion, GitHub, YouTube, PiP, wolt, Shopping, reading news, looking for apartments. Each run is same as all others with an almost second precision thanks to the magic of endless patience and screen recording.</p>\n<p>I've spent too much of my life on this, and won't do it again. :P I've written HOW below, so just imagine make your own scenario that suits you, and do your own tests. :)</p>\n<p>If you think my tests are imprecise, or are triggered by not seeing your favourite browser, great, go yell at your browser vendor. They should be doing these tests, not a random bloke on Reddit.</p>\n<h1>Results:</h1>\n<p>Chrome is still the king resource hog on macOS. Edge is even worse but is at least aware of the issue and trying. Safari lives in a magical buggy world of its own. Brave is just Chrome. Orion is kinda startup-y. Arc is hard to work with. Opera trying to please everyone. Firefox is unprofitable but very solid.</p>\n<p>https://preview.redd.it/ut58map3d2ua1.png?width=2688&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=df50bd0ef10db9686a9e9f2bbaf3f159dd8c8427</p>\n<h1>Per test breakdown:</h1>\n<p>https://preview.redd.it/b8ugbzhid2ua1.png?width=2034&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=780429972d312ce674edde571400fe9fdfe5c0c9</p>\n<h1>What I used:</h1>\n<p>I ran all the tests on the following:</p>\n<ul>\n<li><strong>macOS Ventura 13.3.1, on MacBook Pro 14\" M1 Pro with 32GB RAM</strong></li>\n<li>Edge 112.0.1722.39</li>\n<li>Arc 0.98.1</li>\n<li>Brave v1.50.114</li>\n<li>Safari Version 16.4</li>\n<li>Firefox 112.0</li>\n<li>Opera 97.0.4719.63</li>\n<li>Orion v0.99.123.3</li>\n</ul>\n<h1>How I did it:</h1>\n<p>This time I used powermetrics with a per-second measurement interval, which gave me Apple\u2019s approximation fo Combined Power or Package Power how it was called previously. Basically CPU + GPU + ANE but not including brightness, network etc.</p>\n<p>You can use this same bash pipeline to create your own measurements and save em into a file.</p>\n<pre><code>sudo powermetrics \\\n  -i 1000 \\\n  --samplers cpu_power,gpu_power \\\n  -a --hide-cpu-duty-cycle \\\n  --show-usage-summary \\\n  --show-extra-power-info \\\n| grep --line-buffered -E \"Combined Power \\(CPU \\+ GPU \\+ ANE\\): [0-9]*\" \\\n| sed -u -n 's/Combined Power (CPU + GPU + ANE): \\([0-9]*\\) mW/\\1/p' \\\n| while read -r line; do printf \"%s, %s\\n\" $(date +%s) $line; done \\\n&gt; ./recordings/raw/general/brave.csv\n</code></pre>\n<p>You'd probably have to chart em later using something, since its just raw data csv that includes a timestamp and mW measurement on each second, and <a href=\"https://github.com/markomitranic/strom-bench\">I used Elixir's Livebook</a> for the charts above, you can use anything you wish to.</p>\n<p><strong>Just imagine make your own scenario that suits you, and do your own tests. :)</strong></p>\n<p>This time I tried to make the test very balanced. In previous tests, which included a lot more tab switching, and no WebGL and media consumption, Safari was using 10x less than Chrome. While that was funny, I wanted a test that includes those things that Safari is not so good at.</p>\n<p>Additional notes:</p>\n<ul>\n<li>All tabs remain open. Each time i jump to the next \"test item\" i open a new tab in the same browser. I wanted to see how a browser with 20 open tabs behaves.</li>\n<li>Every time I am finished with a \"test item\" i go back to the Notion tab, to read what is the next test I need to run (also helped a lot with stabilising test results as it forces the browser to keep commonly used tabs in memory, and it gives me clear 10sec breakpoints where I \"cut\" the data)</li>\n<li>Only one browser is tested at a time. I restart the computer each time and charge the battery back to 100%.</li>\n</ul>\n<h1>Want to read more?</h1>\n<p>You don't have to. This is not an ad for my blogpost. I've copypasta-ed all the info into this post anyway. I've also already written about it in the previous 2 posts on this subreddit. If you still want it, released a <a href=\"https://medium.com/homullus/8-browsers-in-a-tiny-car-energy-efficiency-benchmark-fe3ca82f1690\">blogpost</a> which goes into it, if you are really interested, but thats not the point, all you want to know is in the charts above.</p></div>",
-            "date_published": "2023-04-15T15:17:45+00:00",
-            "authors": [
-                {
-                    "name": "FedaykinLanfear_8423",
-                    "url": "https://www.reddit.com/user/FedaykinLanfear_8423"
                 }
             ]
         }
