@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "17a21eq",
+            "url": "/r/selfhosted/comments/17a21eq/did_i_screw_up_by_putting_in_my_phone_number_in/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/17a21eq/did_i_screw_up_by_putting_in_my_phone_number_in/",
+            "title": "Did I screw up by putting in my phone number in when registering for a domain for my self hosted stack?",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/17a21eq/did_i_screw_up_by_putting_in_my_phone_number_in/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/17a21eq/did_i_screw_up_by_putting_in_my_phone_number_in/'>Reddit</a></caption><div><br></div><p>I've purchased a few domains in my life, but it was always through Google Domains in the past. This weekend I bought a new one through Cloudflare so that I could make a nice subdomain structure for all of my self-hosted apps. That went great - I'm using Traefik and Pihole for the local DNS.</p>\n<p>But in the past two days, I've gotten 28 spam calls and a handful of text messages from companies who want to design my website, or logo, or something else. I only listened to the first few voicemails but they did mention the name of the domain I purchased.</p>\n<p>This didn't happen when I used Google Domains. Is there something I missed? I knew this information was public, but I feel like I must have screwed up somehow and it put me on a lot of spam lists.</p>\n<p>-----</p>\n<p>EDIT: It looks like my mistake was registering a .us domain, which requires this to be public. Yikes.</p>",
+            "date_published": "2023-10-17T16:15:34+00:00",
+            "authors": [
+                {
+                    "name": "dontevendrivethatfar",
+                    "url": "https://www.reddit.com/user/dontevendrivethatfar"
+                }
+            ]
+        },
+        {
             "id": "179ew0y",
             "url": "/r/selfhosted/comments/179ew0y/i_created_a_library_of_fullcolor_svg_icons_of/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/179ew0y/i_created_a_library_of_fullcolor_svg_icons_of/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "FuzzyMistborn",
                     "url": "https://www.reddit.com/user/FuzzyMistborn"
-                }
-            ]
-        },
-        {
-            "id": "11qshd0",
-            "url": "/r/selfhosted/comments/11qshd0/how_much_selfhosting_has_changed/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/11qshd0/how_much_selfhosting_has_changed/",
-            "title": "How much selfhosting has changed",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/11qshd0/how_much_selfhosting_has_changed/'>Reddit</a></caption><div><br></div><div><p>I spent the weekend messing with a few containers and finally configuring a reverse proxy. I'm just blown away at how mature the selfhosting ecosystem has become and how many tools there are now. </p>\n<p>I started selfhosting by manually creating LAMP stacks in VMs like 15 years ago. It was such a PITA for casual/semi-pro selfhosting. Nowadays it's nuts how much stuff we can self host and how many resources, tools, scripts, etc. existing to make it better. </p>\n<p>Just feeling thankful for those out there creating this stuff. It's such a fun hobby built on top of many people putting in the hard work to make it fun.</p></div>",
-            "date_published": "2023-03-14T01:22:09+00:00",
-            "authors": [
-                {
-                    "name": "domcorriveau",
-                    "url": "https://www.reddit.com/user/domcorriveau"
                 }
             ]
         }
