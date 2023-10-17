@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "179vvlp",
+            "url": "/r/MacOS/comments/179vvlp/new_game_launcher_for_mac_coming_soon/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/179vvlp/new_game_launcher_for_mac_coming_soon/",
+            "title": "New game launcher for mac coming soon!",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/MacOS/comments/179vvlp/new_game_launcher_for_mac_coming_soon/'>Apollo</a> | <a href='https://reddit.com/r/MacOS/comments/179vvlp/new_game_launcher_for_mac_coming_soon/'>Reddit</a></caption><div><br></div><p>Hey, I've been developing a game launcher for a while now. I just thought I wanted to share it around on the sub. It's called Mythic (it's not released), and I'm designing it to be the game launcher that puts macOS first. It's built on SwiftUI and is designed to be as small as possible. (Base app currently only \\~30MB in size)</p>\n<p>...And did I mention it's open-source?</p>\n<p>It's an epic games launcher alternative, and a UI frontend for <a href=\"https://github.com/derrod/legendary\">Legendary</a>. (Don't worry, guys. It can launch non-epic games as well \ud83d\ude05) It's simply meant to be like heroic, but this time putting macOS first.</p>\n<p>This is THE game launcher for a mac.</p>\n<p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/b09kw1lhwqub1.png?width=2024&amp;format=png&amp;auto=webp&amp;s=844c8540cb00275d9f1dc5647fc8541a96f45128\">Mythic 0.1.0 (1336) -- unreleased</a></p>\n<p>I forgot to mention, IT PLAYS WINDOWS GAMES! \ud83d\ude0e</p>\n<p>It uses game porting toolkit (our best friend) in order to play Windows games on a mac (That's right, even M1 and M2 macs, and supports macOS games as well. All of this is achieved while still being user friendly and easy to use.</p>\n<p>The good thing about it being open-source is that if you want to change something, you can download the source code and fiddle around with it yourself.</p>\n<p><a href=\"https://discord.gg/y2TMjThy4e\">Join the discord</a> so you can stay tuned when it launches!</p>\n<p>You can find the repo <a href=\"https://github.com/blackxfiied/Mythic\">here</a> (it's still privated, Mythic is a work in progress) And you can find the website <a href=\"https://mythic.blackxfiied.xyz/\">here</a> additionally, you can find my original post on r/macgaming <a href=\"https://www.reddit.com/r/macgaming/comments/1772tmi/new_game_launcher_for_mac_coming_soon/\">here</a>.</p>\n<p>Thanks for taking your time to see my post \ud83d\ude01 Have a wonderful day! (Stay tuned, Mythic'll be complete very soon!)</p>\n<p>Join the mythic train (you are uncool if you dont)</p>",
+            "date_published": "2023-10-17T11:09:38+00:00",
+            "authors": [
+                {
+                    "name": "SeperatedEntity",
+                    "url": "https://www.reddit.com/user/SeperatedEntity"
+                }
+            ]
+        },
+        {
             "id": "178f9jp",
             "url": "/r/MacOS/comments/178f9jp/disabling_smart_zoom_makes_rightclicks_snappier/",
             "external_url": "https://v.redd.it/qf20nscnadub1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "anonymous_si",
                     "url": "https://www.reddit.com/user/anonymous_si"
-                }
-            ]
-        },
-        {
-            "id": "z25hgt",
-            "url": "/r/MacOS/comments/z25hgt/anyone_want_an_old_copy_of_snow_leopard/",
-            "external_url": "https://i.redd.it/fmcnyfah2m1a1.jpg",
-            "title": "Anyone want an old copy of Snow Leopard?",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/MacOS/comments/z25hgt/anyone_want_an_old_copy_of_snow_leopard/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/fmcnyfah2m1a1.jpg\" />",
-            "date_published": "2022-11-22T21:23:32+00:00",
-            "authors": [
-                {
-                    "name": "TrevorJordan",
-                    "url": "https://www.reddit.com/user/TrevorJordan"
                 }
             ]
         }
