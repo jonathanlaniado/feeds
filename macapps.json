@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "179u4m2",
+            "url": "/r/macapps/comments/179u4m2/i_built_a_cleanmymacx_alternative_for_developers/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/179u4m2/i_built_a_cleanmymacx_alternative_for_developers/",
+            "title": "I built a CleanMyMacX alternative for developers",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/179u4m2/i_built_a_cleanmymacx_alternative_for_developers/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/179u4m2/i_built_a_cleanmymacx_alternative_for_developers/'>Reddit</a></caption><div><br></div><p>Hey r/macapps crew,</p>\n<p>My first Mac had a measly 125 GB of storage, and I've been wrestling with disk space issues ever since. Tools like CleanMyMacX helped but couldn't spot the files I knew were cluttering things\u2014node_modules, caches, and old project files.</p>\n<p>So, I created Roomy, an honest-to-goodness macOS app designed by a dev for devs. It's all about decluttering and optimizing your workspace without the fluff.</p>\n<p>\ud83d\ude80 Try Roomy Alpha: <a href=\"https://tdermendjievft.gumroad.com/l/roomy-alpha\">Gumroad</a> <a href=\"https://github.com/tdermendjiev/Roomy/releases/tag/0.2.1\">GitHub</a></p>\n<p>Roomy currently tackles Xcode and JavaScript-related files. For JavaScript, just set your workspace path in Settings.</p>\n<p>&#x200B;</p>\n<p>https://preview.redd.it/lb8de6vpbqub1.png?width=2204&amp;format=png&amp;auto=webp&amp;s=498b83455516e7794039d9b48eb76d8f7197e54c</p>\n<p>Check Scan-&gt;Javascript to see how much space your node_modules, build files, and caches are eating up project by project.</p>\n<p>https://preview.redd.it/jcyv4qmrbqub1.png?width=2204&amp;format=png&amp;auto=webp&amp;s=06e8d76acb9c9026e510d60c8bf7efd38046c40f</p>\n<p>Scan-&gt;Xcode on my machine shows this:</p>\n<p>https://preview.redd.it/fzuqtpcubqub1.png?width=2196&amp;format=png&amp;auto=webp&amp;s=53f4059e67dcda2e21452e72266325c284ded6cf</p>\n<p>I'm constantly improving Roomy, and your feedback is gold. Let me know if it simplifies your developer life and what you'd love to see next.</p>",
+            "date_published": "2023-10-17T09:11:55+00:00",
+            "authors": [
+                {
+                    "name": "mdm_r",
+                    "url": "https://www.reddit.com/user/mdm_r"
+                }
+            ]
+        },
+        {
             "id": "179743e",
             "url": "/r/macapps/comments/179743e/i_built_an_allinone_desktop_app_with_a_nobs/",
             "external_url": "https://www.reddit.com/r/macapps/comments/179743e/i_built_an_allinone_desktop_app_with_a_nobs/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Futur3Sn0w",
                     "url": "https://www.reddit.com/user/Futur3Sn0w"
-                }
-            ]
-        },
-        {
-            "id": "12olcmp",
-            "url": "/r/macapps/comments/12olcmp/spotify_mac_app_redesign_is_live/",
-            "external_url": "https://i.redd.it/x3rt6mjlpaua1.jpg",
-            "title": "Spotify Mac app redesign is live",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/macapps/comments/12olcmp/spotify_mac_app_redesign_is_live/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/x3rt6mjlpaua1.jpg\" />",
-            "date_published": "2023-04-16T19:11:47+00:00",
-            "authors": [
-                {
-                    "name": "jusatinn",
-                    "url": "https://www.reddit.com/user/jusatinn"
                 }
             ]
         }
