@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "17991rx",
+            "url": "/r/homeassistant/comments/17991rx/i_tested_the_new_shelly_plus_1pm_mini_module_with/",
+            "external_url": "https://i.redd.it/24pavln35lub1.jpg",
+            "title": "I tested the new Shelly Plus 1PM Mini module with energy metering",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/17991rx/i_tested_the_new_shelly_plus_1pm_mini_module_with/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/17991rx/i_tested_the_new_shelly_plus_1pm_mini_module_with/'>Reddit</a></caption><div><br></div><p>Hi,</p>\n<p>For anyone interested, I tested a sample of the new Shelly Mini Modules, the 1PM model.</p>\n<p>The device is incredibly small and operates at 110-240VAC with a max current of 8A.</p>\n<p>It's based on the ESP32-C3 and can be flashed with Tasmota or ESPHome, although it operates as is without the cloud. Just like other Shelly devices, the cloud is completely optional and not needed for HA.</p>\n<p>I dismantled the device and took a bunch of photos, heres my article for anyone interested:</p>\n<p><a href=\"https://smarthomescene.com/reviews/shelly-plus-1pm-mini-review-size-does-matter/\">Shelly Plus 1PM Mini Review</a></p><div><br></div><img src=\"https://i.redd.it/24pavln35lub1.jpg\" />",
+            "date_published": "2023-10-16T15:45:05+00:00",
+            "authors": [
+                {
+                    "name": "BackHerniation",
+                    "url": "https://www.reddit.com/user/BackHerniation"
+                }
+            ]
+        },
+        {
             "id": "178ihb7",
             "url": "/r/homeassistant/comments/178ihb7/what_cards_would_i_need_to_make_this_this_new/",
             "external_url": "https://i.redd.it/lomiiv8z2eub1.png",
