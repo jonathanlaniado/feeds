@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "17arx2u",
+            "url": "/r/PleX/comments/17arx2u/special_needs_child_uses_a_big_usb_button_for/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/17arx2u/special_needs_child_uses_a_big_usb_button_for/",
+            "title": "Special Needs child uses a big USB button for Plex server control - update from 2016",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/PleX/comments/17arx2u/special_needs_child_uses_a_big_usb_button_for/'>Apollo</a> | <a href='https://reddit.com/r/PleX/comments/17arx2u/special_needs_child_uses_a_big_usb_button_for/'>Reddit</a></caption><div><br></div><p>Wrote up this post in 2016 about an Amazon Dash button controlling Plex.  That was cool, but that button was a bit small, and I wanted something not battery powered, or proprietary, within this project.</p>\n<p>I hope this post helps out anyone that needs a little assistance keeping your special needs people occupied and giving them a little control with their decisions on what to watch.</p>\n<p>What you need : </p>\n<ol>\n<li>The big USB button on Aliexpress (titled : One Key USB Programmable Macro Keyboard) below is image only:\nhttps://ae01.alicdn.com/kf/Sef23492b13034180bcc077c4ffd72193B/One-Key-USB-Programmable-Macro-Keyboard-For-Windows-Linux-MacOS-Hot-Key-Mouse-One-Key-Button.jpg_.webp</li>\n<li>WIFI connected laptop/device</li>\n<li>Python</li>\n<li>PlexAPI : https://python-plexapi.readthedocs.io/en/latest/introduction.html</li>\n</ol>\n<p>Figured that was exactly was was needed.  A large button that is easy to press for my child.</p>\n<p>The button isn't wireless, but for my setup it's okay.  I have set up their own media section on the server, so their favorite shows are all jumbled together.  It doesn't matter if there are proper descriptions or posters for them since they won't be seen in the their selection.</p>\n<p>Plex code below isn't production quality, but for a couple hours of hacking and testing in-between fortnite games, it works.  FYI, the button sends over a '2' character, but for my purposes it doesn't matter, I'm just looking for a click/release.</p>\n<p>CAVEAT : if your device is NOT connected to the plex server, this will not start the client.  So your TV or tablet/phone needs to start Plex, then this code will connect and change media for you.</p>\n<pre><code>import random\nfrom plexapi.server import PlexServer\nfrom plexapi.myplex import MyPlexUser\nfrom plexapi.myplex import MyPlexAccount\nimport keyboard  # using module keyboard\nfrom pynput.keyboard import Key, Listener\n\nprint('logging into plex account')\naccount = MyPlexAccount('USERNAME', 'PASSWORD')\nprint('get a server connection')\nplex = account.resource('PLEXSERVERNAME').connect()  # returns a PlexServer instance\n\n\n##for sesh in plex.sessions():\n##    print('4a')\n##    print(' %s ' % sesh.title)\n##\n##for client in plex.clients():\n##    print('4')\n##    print(' %s ' % client.title)\n\nmovieArray = []\n\nprint('getting video')\nmovies = plex.library.section('PLEX SECTION NAME (MOVIES, TV, ETC)')\nfor video in movies.search(unwatched=True): #unwatched movies only\n    ##print(video.title)\n    movieArray.append(video.title)\n##for video in movies.search(unwatched=False):\n  ##  print(video.title)\n    ##movieArray.append(video.title)\nprint('got videos')\n\ndef on_release(key):  #the bit button was pressed/released\n    there = 0\n    #change plex movie or tv show here\n    print('checking for client')\n    for client in plex.clients():\n        if client.title == 'CLIENT NAME (Roku TV, iPhone, Android Tablet 3 &lt;&lt; these are case sensitive)':\n            there = 1  #we have a client\n        else:\n            print('not there')\n    print('after client check')\n    if there == 1:  #if we have a client get access to the client and randomly select a file\n        print('the client is there')\n        client = plex.client('Roku TV')\n        randomMedia = random.choice(movieArray)\n        file = plex.library.section('PLEX SECTION NAME (FROM ABOVE)').get(randomMedia)\n        print(file)\n        client.playMedia(file)\n    if there == 0:\n        print('the client is not there')\n\n    if key == Key.esc:\n        # Stop listener\n        return False\n\n\n# Collect events until released\nwith Listener(\n        on_release=on_release) as listener:\n    listener.join()\n</code></pre>",
+            "date_published": "2023-10-18T14:18:15+00:00",
+            "authors": [
+                {
+                    "name": "mrmyrth",
+                    "url": "https://www.reddit.com/user/mrmyrth"
+                }
+            ]
+        },
+        {
             "id": "1796yxe",
             "url": "/r/PleX/comments/1796yxe/i_recreated_the_netflix_intro_on_after_effects/",
             "external_url": "https://v.redd.it/opgtmbtlokub1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "onephatkatt",
                     "url": "https://www.reddit.com/user/onephatkatt"
-                }
-            ]
-        },
-        {
-            "id": "uya4yq",
-            "url": "/r/PleX/comments/uya4yq/plex_finally_has_a_linux_desktop_player/",
-            "external_url": "https://www.howtogeek.com/807755/plex-finally-has-a-linux-desktop-player/",
-            "title": "Plex finally has a Linux desktop player!",
-            "content_html": "<caption>Open in: <a href='https://www.howtogeek.com/807755/plex-finally-has-a-linux-desktop-player/'>www.howtogeek.com</a> | <a href='https://reddit.com/r/PleX/comments/uya4yq/plex_finally_has_a_linux_desktop_player/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/uya4yq/plex_finally_has_a_linux_desktop_player/'>Apollo</a></caption>",
-            "date_published": "2022-05-26T15:26:30+00:00",
-            "authors": [
-                {
-                    "name": "flotwig",
-                    "url": "https://www.reddit.com/user/flotwig"
                 }
             ]
         }
