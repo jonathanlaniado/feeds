@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "17btic6",
+            "url": "/r/selfhosted/comments/17btic6/debian_server_essentials_setup_configure_and/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/17btic6/debian_server_essentials_setup_configure_and/",
+            "title": "Debian Server Essentials: Setup, Configure, and Hardening Your System",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/17btic6/debian_server_essentials_setup_configure_and/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/17btic6/debian_server_essentials_setup_configure_and/'>Reddit</a></caption><div><br></div><p>I am back with another published article. </p>\n<p><a href=\"https://preview.redd.it/1npqlg1348vb1.jpg?width=1024&amp;format=pjpg&amp;auto=webp&amp;s=bbd1b0193ae6b49648e7e6863050d316a22ff025\"> Ideogram.ai: penguin in a server room covered in ice and snow, whole picture made out of green matrix style lines of code, cinematic</a></p>\n<p>Please be kind! I am a self-taught Linux user and by no means an expert. My goal with this guide is to help newcomers to Linux have an easier and more secure start.</p>\n<p>To all the experts out there, please be kind and do share your tips and observations. I am happy to keep updating the article to make the self-hosting world more secure.</p>\n<p><a href=\"https://nerdyarticles.com/debian-server-essentials-setup-configure-and-hardening-your-system/\">https://nerdyarticles.com/debian-server-essentials-setup-configure-and-hardening-your-system/</a></p>",
+            "date_published": "2023-10-19T21:00:41+00:00",
+            "authors": [
+                {
+                    "name": "KillerTic",
+                    "url": "https://www.reddit.com/user/KillerTic"
+                }
+            ]
+        },
+        {
             "id": "17a21eq",
             "url": "/r/selfhosted/comments/17a21eq/did_i_screw_up_by_putting_in_my_phone_number_in/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/17a21eq/did_i_screw_up_by_putting_in_my_phone_number_in/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ColdTights",
                     "url": "https://www.reddit.com/user/ColdTights"
-                }
-            ]
-        },
-        {
-            "id": "11ryub1",
-            "url": "/r/selfhosted/comments/11ryub1/fyi_docker_is_deleting_open_source_organisations/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/11ryub1/fyi_docker_is_deleting_open_source_organisations/",
-            "title": "FYI: Docker is deleting Open Source organisations",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/11ryub1/fyi_docker_is_deleting_open_source_organisations/'>Reddit</a></caption><div><br></div><div><p><a href=\"https://news.ycombinator.com/item?id=35166317\">https://news.ycombinator.com/item?id=35166317</a></p>\n<p>Just passing along as the places you pull images from may need to change if this actually happens.</p></div>",
-            "date_published": "2023-03-15T14:56:59+00:00",
-            "authors": [
-                {
-                    "name": "FuzzyMistborn",
-                    "url": "https://www.reddit.com/user/FuzzyMistborn"
                 }
             ]
         }
