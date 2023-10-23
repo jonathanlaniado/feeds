@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "17eihqh",
+            "url": "/r/selfhosted/comments/17eihqh/odigos_v0182_opensource_instant_distributed/",
+            "external_url": "https://github.com/keyval-dev/odigos",
+            "title": "Odigos v0.1.82 - Open-source instant distributed tracing without code changes",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/17eihqh/odigos_v0182_opensource_instant_distributed/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/17eihqh/odigos_v0182_opensource_instant_distributed/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2023-10-23T11:50:42+00:00",
+            "authors": [
+                {
+                    "name": "LivelyUnderdog54",
+                    "url": "https://www.reddit.com/user/LivelyUnderdog54"
+                }
+            ]
+        },
+        {
             "id": "17dq3aq",
             "url": "/r/selfhosted/comments/17dq3aq/how_do_you_all_monitor_your_server_performance/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/17dq3aq/how_do_you_all_monitor_your_server_performance/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Tarntanya",
                     "url": "https://www.reddit.com/user/Tarntanya"
-                }
-            ]
-        },
-        {
-            "id": "11t6uge",
-            "url": "/r/selfhosted/comments/11t6uge/we_apologize_we_did_a_terrible_job_announcing_the/",
-            "external_url": "https://www.docker.com/blog/we-apologize-we-did-a-terrible-job-announcing-the-end-of-docker-free-teams/",
-            "title": "We apologize. We did a terrible job announcing the end of Docker Free Teams.",
-            "content_html": "<caption>Open: <a href='https://www.docker.com/blog/we-apologize-we-did-a-terrible-job-announcing-the-end-of-docker-free-teams/'>www.docker.com</a> | <a href='https://reddit.com/r/selfhosted/comments/11t6uge/we_apologize_we_did_a_terrible_job_announcing_the/'>Reddit</a></caption>",
-            "date_published": "2023-03-16T21:28:14+00:00",
-            "authors": [
-                {
-                    "name": "miversen33",
-                    "url": "https://www.reddit.com/user/miversen33"
                 }
             ]
         }
