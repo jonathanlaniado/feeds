@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "17erm5h",
+            "url": "/r/shortcuts/comments/17erm5h/automatically_log_your_wallet_transactions_to_a/",
+            "external_url": "https://www.reddit.com/r/shortcuts/comments/17erm5h/automatically_log_your_wallet_transactions_to_a/",
+            "title": "Automatically log your wallet transactions to a spreadsheet",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/17erm5h/automatically_log_your_wallet_transactions_to_a/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/17erm5h/automatically_log_your_wallet_transactions_to_a/'>Reddit</a></caption><div><br></div><p>Simple shortcut but extremely useful.  </p>\n<p>Just create a \u201cWhen I tap any payment card\u201d automation and add the script shown in the <a href=\"https://i.imgur.com/xgBcVzO.jpg\">screenshot</a></p>\n<p>You can access your spreadsheet any time within  the Numbers app. It\u2019s located to the following path: <em>iCloud/wallet transactions</em></p>\n<p><a href=\"https://www.icloud.com/shortcuts/364338754c7348fbaeb8cb6975f080db\"><strong>Wallet Transactions Spreadsheet</strong></a> Shortcut</p>",
+            "date_published": "2023-10-23T18:39:20+00:00",
+            "authors": [
+                {
+                    "name": "vrachamis",
+                    "url": "https://www.reddit.com/user/vrachamis"
+                }
+            ]
+        },
+        {
             "id": "17bqcdf",
             "url": "/r/shortcuts/comments/17bqcdf/update_an_eccentric_expense_tracking_shortcut/",
             "external_url": "https://www.reddit.com/r/shortcuts/comments/17bqcdf/update_an_eccentric_expense_tracking_shortcut/",
