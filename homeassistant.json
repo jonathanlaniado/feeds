@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "17eunu4",
+            "url": "/r/homeassistant/comments/17eunu4/how_i_solved_opening_my_garage_and_gates/",
+            "external_url": "https://i.redd.it/57nss78cl0wb1.jpg",
+            "title": "How I solved opening my garage and gates automation for \u00a340",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/17eunu4/how_i_solved_opening_my_garage_and_gates/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/17eunu4/how_i_solved_opening_my_garage_and_gates/'>Reddit</a></caption><div><br></div><p>I\u2019ve got a Hormann garage door and gates controlled by a generic CAME432 remote. The hormann smart unit cost like \u00a3100 and required loads of wiring in. The gates might have been possible to use a 433mhz set up but frankly I\u2019ve integrated that into home assistant years ago and it was flaky. I did try and solder stuff directly onto the remote but I\u2019m a shit solderer and it was too fiddly. So I had a switchbot lying around and sure enough it works a treat so I got another - grabbed some of the kids Lego to house them and the switchbots now faithfully press the remote buttons to open the garage door and drive gates. Sometimes the least elegant solutions are the most reliable. Happy hacking.</p><div><br></div><img src=\"https://i.redd.it/57nss78cl0wb1.jpg\" />",
+            "date_published": "2023-10-23T20:46:58+00:00",
+            "authors": [
+                {
+                    "name": "privatesam",
+                    "url": "https://www.reddit.com/user/privatesam"
+                }
+            ]
+        },
+        {
             "id": "17enjt0",
             "url": "/r/homeassistant/comments/17enjt0/matter_hits_version_12_adding_support_for_robot/",
             "external_url": "https://www.theverge.com/2023/10/23/23925489/matter-1-2-smart-home-support-new-devices",
