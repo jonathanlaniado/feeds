@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "17f9woi",
+            "url": "/r/macapps/comments/17f9woi/keyboardmaestro_11_now_available/",
+            "external_url": "https://www.stairways.com/press/2023-10-24",
+            "title": "KeyboardMaestro 11 now available!",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17f9woi/keyboardmaestro_11_now_available/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17f9woi/keyboardmaestro_11_now_available/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2023-10-24T10:50:39+00:00",
+            "authors": [
+                {
+                    "name": "jmtamere",
+                    "url": "https://www.reddit.com/user/jmtamere"
+                }
+            ]
+        },
+        {
             "id": "17ezcj7",
             "url": "/r/macapps/comments/17ezcj7/bettertouchtool_introducing_floating_menus/",
             "external_url": "https://www.macstories.net/sponsored/bettertouchtool-introducing-floating-menus-sponsor/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Lekowski",
                     "url": "https://www.reddit.com/user/Lekowski"
-                }
-            ]
-        },
-        {
-            "id": "12yp1bw",
-            "url": "/r/macapps/comments/12yp1bw/best_visual_diff_and_merge_tool_on_macos/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/12yp1bw/best_visual_diff_and_merge_tool_on_macos/",
-            "title": "Best visual diff and merge tool on macOS?",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/12yp1bw/best_visual_diff_and_merge_tool_on_macos/'>Reddit</a></caption><div><br></div><div><p>I\u2019m looking for recommendations for the best visual diff and merge tool available on macOS. I\u2019ve done my research as below but have some reservations about the options I found.\n-   <a href=\"https://meldmerge.org\">Meld</a> seems to get mentioned a lot but the website syas it is not officially supported on OS X. Are the third party binaries trustworthy?\n-   <a href=\"https://www.scootersoftware.com\">Beyond Compare</a> is also mentioned but the developer website doesn\u2019t inspire much confidence.</p>\n<p>I\u2019m also aware of Mac\u2019s native FileMerge app but I\u2019m looking for a more clipboard-friendly app.</p>\n<p>My no. 1 use case for this is to compare whatever writeup I made against ChatGPT\u2019s edits. I use Neovim for coding and I\u2019ve been using its diffview. It works great for coding and version controlled files, but feels inefficient for this relatively new use case of mine especially if I want to make rounds of iteration over non-code text. Would appreciate any recommendations!</p></div>",
-            "date_published": "2023-04-25T16:53:13+00:00",
-            "authors": [
-                {
-                    "name": "Same_Nebula3406",
-                    "url": "https://www.reddit.com/user/Same_Nebula3406"
                 }
             ]
         }
