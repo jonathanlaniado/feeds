@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "17gbzuw",
+            "url": "/r/MacOS/comments/17gbzuw/macos_141_is_out/",
+            "external_url": "https://i.redd.it/gush6h91aewb1.jpg",
+            "title": "macOS 14.1 is out",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/MacOS/comments/17gbzuw/macos_141_is_out/'>Apollo</a> | <a href='https://reddit.com/r/MacOS/comments/17gbzuw/macos_141_is_out/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/gush6h91aewb1.jpg\" />",
+            "date_published": "2023-10-25T18:48:42+00:00",
+            "authors": [
+                {
+                    "name": "mfarid2",
+                    "url": "https://www.reddit.com/user/mfarid2"
+                }
+            ]
+        },
+        {
             "id": "17f0x31",
             "url": "/r/MacOS/comments/17f0x31/wild_developments_on_the_new_x_platform/",
             "external_url": "https://v.redd.it/180uyg03z1wb1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Khaotic_Kernel",
                     "url": "https://www.reddit.com/user/Khaotic_Kernel"
-                }
-            ]
-        },
-        {
-            "id": "ztqlys",
-            "url": "/r/MacOS/comments/ztqlys/fully_open_source_native_youtube_app_for_macos_v3/",
-            "external_url": "https://www.reddit.com/gallery/ztqlys",
-            "title": "Fully open source native Youtube App for macOS v3 has been released!",
-            "content_html": "<caption>Open: <a href='https://www.reddit.com/gallery/ztqlys'>www.reddit.com</a> | <a href='https://reddit.com/r/MacOS/comments/ztqlys/fully_open_source_native_youtube_app_for_macos_v3/'>Reddit</a></caption>",
-            "date_published": "2022-12-23T19:36:05+00:00",
-            "authors": [
-                {
-                    "name": "69shaolin69",
-                    "url": "https://www.reddit.com/user/69shaolin69"
                 }
             ]
         }
