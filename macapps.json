@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "17ga605",
+            "url": "/r/macapps/comments/17ga605/screenmemory_now_available_free_trial_or_19/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/17ga605/screenmemory_now_available_free_trial_or_19/",
+            "title": "ScreenMemory now available (free trial or $19)",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17ga605/screenmemory_now_available_free_trial_or_19/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17ga605/screenmemory_now_available_free_trial_or_19/'>Reddit</a></caption><div><br></div><p>Hello, some 3 weeks ago I posted <a href=\"https://www.reddit.com/r/macapps/comments/173134q/working_on_a_rewindaiish_application_anyone_want/\">this thread</a> on this subreddit and I got a lot of feedback. Bug and general user experience has been resolved, and I now have a sizable backlog of things to implement.</p>\n<p>In short - ScreenMemory is an app that takes screenshot of your screen(s) and then lets you rewind time to look back at it. Useful to see what you did during the day, track time if you're a freelancer or work, compare something you worked on, find lost information, etc. I have a lot of use cases on the website (<a href=\"https://screenmemory.app/\">https://screenmemory.app</a>).</p>\n<p>Here's the app in action, you can see I was working on things a couple of days ago between 2pm-3pm, and later 8.30pm-9.30pm (just as an illustration of how you can track time).</p>\n<p>https://preview.redd.it/zlle34vkudwb1.png?width=2174&amp;format=png&amp;auto=webp&amp;s=7dd9898f971fc712a382ea3f1fc4b9174847bab9</p>\n<p>I read some quote today that, if you're not embarrassed by your 1.0 version, you've launched too late. I'm already at 1.5.1 but I'm still a bit embarrassed. I have features and polish to implement, but I figured I should at least launch somewhat 'officially' since it works really well.</p>\n<p>The app is paid, at <strong>$19</strong> currently. I am still not sure what the final price will be, suggestions are welcome. It is usable in free mode, with some heavy limitations but it should show how the app works for you to make a decision, at least.</p>\n<p>The website is here: <a href=\"https://screenmemory.app/\">https://screenmemory.app/</a> and it has <em>some</em> more info.</p>",
+            "date_published": "2023-10-25T17:27:57+00:00",
+            "authors": [
+                {
+                    "name": "jontelang",
+                    "url": "https://www.reddit.com/user/jontelang"
+                }
+            ]
+        },
+        {
             "id": "17f9woi",
             "url": "/r/macapps/comments/17f9woi/keyboardmaestro_11_now_available/",
             "external_url": "https://www.stairways.com/press/2023-10-24",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Secret-Chart767",
                     "url": "https://www.reddit.com/user/Secret-Chart767"
-                }
-            ]
-        },
-        {
-            "id": "130ewpw",
-            "url": "/r/macapps/comments/130ewpw/do_you_use_microsoft_outlook_or_apple_mail_app/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/130ewpw/do_you_use_microsoft_outlook_or_apple_mail_app/",
-            "title": "Do you use Microsoft Outlook or Apple Mail app for your e-mail accounts?",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/130ewpw/do_you_use_microsoft_outlook_or_apple_mail_app/'>Reddit</a></caption><div><br></div><div><p>Do you use Microsoft Outlook or Apple Mail app for your e-mail accounts?</p>\n<p>Lets say if you have both hotmail and microsoft emails? </p>\n<p>Which app do you use for your e-mails?</p></div>",
-            "date_published": "2023-04-27T09:06:29+00:00",
-            "authors": [
-                {
-                    "name": "Lekowski",
-                    "url": "https://www.reddit.com/user/Lekowski"
                 }
             ]
         }
