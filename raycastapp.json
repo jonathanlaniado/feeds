@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_6y39uf/styles/communityIcon_33jhf9tu7ck91.png",
     "items": [
         {
+            "id": "17e0whl",
+            "url": "/r/raycastapp/comments/17e0whl/we_made_an_extension_for_stardew_valley_players/",
+            "external_url": "https://www.reddit.com/r/raycastapp/comments/17e0whl/we_made_an_extension_for_stardew_valley_players/",
+            "title": "We made an extension for Stardew Valley players",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/raycastapp/comments/17e0whl/we_made_an_extension_for_stardew_valley_players/'>Apollo</a> | <a href='https://reddit.com/r/raycastapp/comments/17e0whl/we_made_an_extension_for_stardew_valley_players/'>Reddit</a></caption><div><br></div><p>My friend and I kept switching between SV and the <a href=\"https://stardewvalleywiki.com\">SV Wiki</a> so we made this extension to easily look up characters and get to their wiki page, efficiently.</p>\n<p><a href=\"https://preview.redd.it/wtqepv1vxsvb1.png?width=2000&amp;format=png&amp;auto=webp&amp;s=7a9e94be8277adf555c27b76f8e60072195ffe7b\">This is how the extension looks!</a></p>\n<p>Here's the link for the extension: <a href=\"https://www.raycast.com/pokie/stardew-valley-wiki\">Stardew Vally Character Search</a></p>\n<p>In the future we will add the full fledged wiki, in addition to the characters there will be item lookup, etc.</p>",
+            "date_published": "2023-10-22T19:17:55+00:00",
+            "authors": [
+                {
+                    "name": "orimandel",
+                    "url": "https://www.reddit.com/user/orimandel"
+                }
+            ]
+        },
+        {
             "id": "16xqxcv",
             "url": "/r/raycastapp/comments/16xqxcv/i_didnt_know_that_raycast_is_able_to_give_these/",
             "external_url": "https://i.redd.it/kyhd4ftpzqrb1.png",
