@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "17gxvdz",
+            "url": "/r/ArcBrowser/comments/17gxvdz/arc_update_1140_42789/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/17gxvdz/arc_update_1140_42789/",
+            "title": "Arc Update - 1.14.0 (42789)",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/17gxvdz/arc_update_1140_42789/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/17gxvdz/arc_update_1140_42789/'>Reddit</a></caption><div><br></div><p>\ud83d\udcc6 Oct 25, 2023 at 10:20:50 PM</p>\n<blockquote>\n<p>\u2022 Introducing Shared Collections! You can now share perma-links to Spaces, Folders, Split Views, and selected tabs to anyone, on any browser. Right click on any Folder, Split View, or selected tab group in your sidebar and click the \"Share\" option. To share Spaces, hover over your Space title and click \"Share\". Anyone, with any browser, can view the link. Arc members can add the Shared Collection to their sidebar.</p>\n<p>\u2022 Choose a default Notes App! Head to Arc &gt; Settings &gt; General to select between Arc -Notes, Google Docs, Notion, or Word Docs. Hit CMD T \u2026 New Note or go to the plus button at the bottom of the sidebar to open a note in your preferred App.</p>\n<p>\u2022 We've fixed a long standing bug in the Command Bar where the last character was dropped while typing in Korean and a couple other languages.</p>\n<p>\u2022 Arc Max features will now respond your preferred language.</p>\n<p>\u2022 The Mini Player now has a new layout, including an affordance to move seamlessly to Picture-in-Picture for video content.</p>\n<p>\u2022 We've fixed a bug that broke how ESC exits full screen when \"Prefer Websites\" was selected in Preferences.</p>\n<p>\u2022 When PiP windows are selected, you can now seek / skip via left / right arrow keys, and play / pause via spacebar.</p>\n<p>\u2022 \"Archive Below\" in the Right Click Menu for Tabs is now available for Split View.</p>\n<p>\u2022 We've improved the UX of Arc Max Ask on Page for multiple queries.</p>\n<p>\u2022 The location to Edit Legacy Boosts has been moved to Extensions &gt; Edit Legacy Boosts in the Mac Menu Bar.</p>\n<p>\u2022 When closing a completely empty Arc Note, we now delete it fully instead storing it in the Archive.</p>\n<p>\u2022 We've fixed an issue that caused text cursors within websites to disappear.</p>\n<p>\u2022 We've fixed an issue that could sometimes cause signing into the Google Calendar preview to fail.</p>\n</blockquote>\n<p><strong>Manual Download Link:</strong>\nhttps://releases.arc.net/release/Arc-1.14.0-42789.zip</p>\n<p><strong>Release Notes:</strong>\nhttps://arc.net/release-notes</p>",
+            "date_published": "2023-10-26T14:32:10+00:00",
+            "authors": [
+                {
+                    "name": "JaceThings",
+                    "url": "https://www.reddit.com/user/JaceThings"
+                }
+            ]
+        },
+        {
             "id": "17ghpwq",
             "url": "/r/ArcBrowser/comments/17ghpwq/heaping_praise_on_arc_browser/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/17ghpwq/heaping_praise_on_arc_browser/",
