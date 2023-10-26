@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "17ga4p8",
+            "url": "/r/macapps/comments/17ga4p8/is_vlc_still_the_king_of_video_players/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/17ga4p8/is_vlc_still_the_king_of_video_players/",
+            "title": "Is VLC still the king of video players?",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17ga4p8/is_vlc_still_the_king_of_video_players/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17ga4p8/is_vlc_still_the_king_of_video_players/'>Reddit</a></caption><div><br></div><p>I imagine there are several posts regarding this but I'm just too lazy to read all of them.</p>\n<p>Long story short, I've been using VLC for the better part of 20 years and I'm wondering if there's a more modern app that does the job just for the sake of using a more modern app :D.</p>\n<p>Some of the features I mostly use in VLC and would love to keep having are:</p>\n<p>- support for playlists / open folders / queue multiple videos<br />\n- multiple subtitles / audio tracks support<br />\n- possibly multiple instances (I have a script for VLC that can open it multiple times)<br />\n- support for modern codecs (HDR10+, DV) and containers (MKV and MP4 mainly)<br />\n- variable ratios, video adapts to window size<br />\n- network access<br />\n- photo slideshow</p>\n<p>I mean VLC is an old piece of software but it does A LOT.  </p>\n<p>I tryed IINA a few years ago and I hated it. But I see there are other players out there both free or paid. Fig Player, Omni Player, 5kplayer and so on.  </p>\n<p>Is there anything that actually beats VLC on capabilities and flexibility and has a more modern/mature interface? Or should I just stick to it (which is actually not a problem)</p>",
+            "date_published": "2023-10-25T17:26:25+00:00",
+            "authors": [
+                {
+                    "name": "zenotds",
+                    "url": "https://www.reddit.com/user/zenotds"
+                }
+            ]
+        },
+        {
             "id": "17ga605",
             "url": "/r/macapps/comments/17ga605/screenmemory_now_available_free_trial_or_19/",
             "external_url": "https://www.reddit.com/r/macapps/comments/17ga605/screenmemory_now_available_free_trial_or_19/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "emmessrinivas",
                     "url": "https://www.reddit.com/user/emmessrinivas"
-                }
-            ]
-        },
-        {
-            "id": "13128tu",
-            "url": "/r/macapps/comments/13128tu/i_created_a_fun_cursor_for_my_mac_using_mousescape/",
-            "external_url": "https://www.reddit.com/gallery/13128tu",
-            "title": "I created a fun cursor for my Mac using Mousescape.",
-            "content_html": "<caption>Open: <a href='https://www.reddit.com/gallery/13128tu'>www.reddit.com</a> | <a href='https://reddit.com/r/macapps/comments/13128tu/i_created_a_fun_cursor_for_my_mac_using_mousescape/'>Reddit</a></caption>",
-            "date_published": "2023-04-27T18:55:37+00:00",
-            "authors": [
-                {
-                    "name": "Secret-Chart767",
-                    "url": "https://www.reddit.com/user/Secret-Chart767"
                 }
             ]
         }
