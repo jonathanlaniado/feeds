@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "17hjz9h",
+            "url": "/r/ArcBrowser/comments/17hjz9h/add_obsidian_as_a_default_note_option/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/17hjz9h/add_obsidian_as_a_default_note_option/",
+            "title": "Add obsidian as a default note option",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/17hjz9h/add_obsidian_as_a_default_note_option/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/17hjz9h/add_obsidian_as_a_default_note_option/'>Reddit</a></caption><div><br></div><p>After the latest update, Arc allows its users to create new notes with their preferred notetaking apps (which imo is super cool). Nevertheless, it would be even better if Obsidian was added to the list!  </p>\n<p>In theory, it could easily be done using <a href=\"https://help.obsidian.md/Concepts/Obsidian+URI\">Obsidian URI</a></p>",
+            "date_published": "2023-10-27T09:52:11+00:00",
+            "authors": [
+                {
+                    "name": "0xrusowsky",
+                    "url": "https://www.reddit.com/user/0xrusowsky"
+                }
+            ]
+        },
+        {
             "id": "17h0f1m",
             "url": "/r/ArcBrowser/comments/17h0f1m/how_you_guys_feel_about_the_shared_spaces_and/",
             "external_url": "https://i.redd.it/yba0ruu1qkwb1.jpg",
