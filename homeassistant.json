@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "17hkddg",
+            "url": "/r/homeassistant/comments/17hkddg/i_love_home_assistant/",
+            "external_url": "https://www.reddit.com/r/homeassistant/comments/17hkddg/i_love_home_assistant/",
+            "title": "I love Home Assistant",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/17hkddg/i_love_home_assistant/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/17hkddg/i_love_home_assistant/'>Reddit</a></caption><div><br></div><p>My internet went out at some point last night, but I didn't notice until my \"I'm awake\" automation had run successfully, and I'd gone to the kitchen for coffee. The coffee maker was on, but no radio was streaming. I restarted the media player without success, then it occurred to me to check...no internet. My house is smarter than I am, but no internet is barely a blip in my morning routine because almost everything is local.</p>",
+            "date_published": "2023-10-27T10:20:05+00:00",
+            "authors": [
+                {
+                    "name": "imfm",
+                    "url": "https://www.reddit.com/user/imfm"
+                }
+            ]
+        },
+        {
             "id": "17gx5td",
             "url": "/r/homeassistant/comments/17gx5td/using_epaper_displays_for_home_assistant/",
             "external_url": "https://i.redd.it/1sb6nl16zjwb1.jpg",
