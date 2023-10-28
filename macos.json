@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "17iezr4",
+            "url": "/r/MacOS/comments/17iezr4/everyone_is_hyped_about_m3_chip_but_still_going/",
+            "external_url": "https://i.redd.it/lguby87qdywb1.png",
+            "title": "Everyone is hyped about M3 chip but still going strong with this",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/MacOS/comments/17iezr4/everyone_is_hyped_about_m3_chip_but_still_going/'>Apollo</a> | <a href='https://reddit.com/r/MacOS/comments/17iezr4/everyone_is_hyped_about_m3_chip_but_still_going/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/lguby87qdywb1.png\" />",
+            "date_published": "2023-10-28T14:31:17+00:00",
+            "authors": [
+                {
+                    "name": "sortedfrenzy",
+                    "url": "https://www.reddit.com/user/sortedfrenzy"
+                }
+            ]
+        },
+        {
             "id": "17gbzuw",
             "url": "/r/MacOS/comments/17gbzuw/macos_141_is_out/",
             "external_url": "https://i.redd.it/gush6h91aewb1.jpg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "logical-risei",
                     "url": "https://www.reddit.com/user/logical-risei"
-                }
-            ]
-        },
-        {
-            "id": "zvagit",
-            "url": "/r/MacOS/comments/zvagit/setting_up_your_apple_silicon_mac_for_gaming/",
-            "external_url": "https://www.reddit.com/r/MacOS/comments/zvagit/setting_up_your_apple_silicon_mac_for_gaming/",
-            "title": "Setting up your Apple Silicon Mac for Gaming",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/MacOS/comments/zvagit/setting_up_your_apple_silicon_mac_for_gaming/'>Reddit</a></caption><div><br></div><div><p>Happy Holidays folks! I thought I'd share this guide for those looking to play games on their Apple Silicon Mac devices .</p>\n<p><strong>Table of Contents</strong></p>\n<p><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#gaming\">Gaming</a></p>\n<ul>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#gaming-on-apple-silicon-resources\">Gaming on Apple Silicon resources</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#Gaming-Peripherals\">Gaming Peripherals</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#RGB-Devices\">Gaming mice, keyboards, and headsets</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#Game-controllers\">Game Controllers</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#Setting-up-OBS-Studio\">Setting up OBS Studio</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#useful-obs-studio-3rd-party-plugins-and-themes\">Useful OBS Studio 3rd party Plugins &amp; Themes</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#Discord\">Discord</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#Twitch\">Twitch</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#Game-Stores--Launchers\">Game Stores &amp; Launchers</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#apple-arcade\">Apple Arcade</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#CrossOver-for-MacOS\">CrossOver for MacOS</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#Steam\">Steam</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#Epic-games-store\">Epic Games Store</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#Origin\">Origin</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#EA-Play\">EA Play</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#Ubisoft-Connect\">Ubisoft Connect</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#GOG-Galaxy\">GOG Galaxy Store</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#Itchio-Store\">Itch.io Store</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#Prism\">Prism for Minecraft</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#XIV-on-Mac\">XIV on Mac for FF XIV</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#Game-streaming\">Game Streaming</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#Cloud-Game-Streaming\">Cloud Game Streaming</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#Local-Game-Streaming\">Local Game Streaming</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#game-emulators\">Game Emulators</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#Frontends\">Emulator Frontends</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#Nintendo-GameCube--Wii\">Nintendo GameCube &amp; Wii</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#Nintendo-Switch\">Nintendo Switch</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#Nintendo-64\">Nintendo 64</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#Nintendo-3DS\">Nintendo 3DS</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#Super-Nintendo-Entertainment-System-SNES\">Super Nintendo Entertainment System (SNES)</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#Nintendo-Entertainment-System\">Nintendo Entertainment System (NES)</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#Game-Boy-Advance\">Game Boy Advance</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#DOS\">DOS</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#Atari\">Atari</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#Sega-Dreamcast\">Sega Dreamcast</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#PlayStation-Portable\">PlayStation\u00a0Portable</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#PlayStation-1\">PlayStation 1</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#PlayStation-2\">PlayStation 2</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#PlayStation-3\">PlayStation 3</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#Xbox\">Xbox</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#MAME\">MAME</a></li>\n<li><a href=\"https://github.com/mikeroyal/Apple-Silicon-Guide#performance-benchmarks\">Performance Benchmarks</a> </li>\n</ul></div>",
-            "date_published": "2022-12-26T00:16:42+00:00",
-            "authors": [
-                {
-                    "name": "Khaotic_Kernel",
-                    "url": "https://www.reddit.com/user/Khaotic_Kernel"
                 }
             ]
         }
