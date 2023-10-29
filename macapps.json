@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "17iounr",
+            "url": "/r/macapps/comments/17iounr/made_a_mac_app_that_organizes_your_files_in/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/17iounr/made_a_mac_app_that_organizes_your_files_in/",
+            "title": "Made a Mac app that organizes your files in folders using chatGPT",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17iounr/made_a_mac_app_that_organizes_your_files_in/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17iounr/made_a_mac_app_that_organizes_your_files_in/'>Reddit</a></caption><div><br></div><p>I never had the time to organize my downloads folder properly. And none of the available apps for folder organization utilized AI/LLMs and required manual configuration. That's why I made Sorted App.You can easily use your Open API key and select the folder you want to organize, and you're all set. It also has automatic sorting, which is especially helpful for your downloads folder. I have tested it for folder sizes as large as 2500 files and it has worked perfectly. Not going to lie, it has taken a ton of tweaking and optimizing.The files are only moved into other folders so there is no deleting of files.You can download it here at www.getsorted.ai</p>",
+            "date_published": "2023-10-28T22:29:28+00:00",
+            "authors": [
+                {
+                    "name": "MaxTwang",
+                    "url": "https://www.reddit.com/user/MaxTwang"
+                }
+            ]
+        },
+        {
             "id": "17gso5j",
             "url": "/r/macapps/comments/17gso5j/lookaway_my_first_native_mac_app_to_combat/",
             "external_url": "https://www.reddit.com/r/macapps/comments/17gso5j/lookaway_my_first_native_mac_app_to_combat/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Vlasar",
                     "url": "https://www.reddit.com/user/Vlasar"
-                }
-            ]
-        },
-        {
-            "id": "132nnxt",
-            "url": "/r/macapps/comments/132nnxt/outlineedit_3_plan_structure_write_better/",
-            "external_url": "https://OutlineEdit.com",
-            "title": "OutlineEdit 3: Plan, Structure, Write better",
-            "content_html": "<caption>Open: <a href='https://OutlineEdit.com'>OutlineEdit.com</a> | <a href='https://reddit.com/r/macapps/comments/132nnxt/outlineedit_3_plan_structure_write_better/'>Reddit</a></caption>",
-            "date_published": "2023-04-29T08:47:51+00:00",
-            "authors": [
-                {
-                    "name": "wavestatistician",
-                    "url": "https://www.reddit.com/user/wavestatistician"
                 }
             ]
         }
