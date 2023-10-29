@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "17j89rs",
+            "url": "/r/selfhosted/comments/17j89rs/what_selfhosted_service_have_the_best_return_of/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/17j89rs/what_selfhosted_service_have_the_best_return_of/",
+            "title": "What selfhosted service have the best \"return of investment\"",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/17j89rs/what_selfhosted_service_have_the_best_return_of/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/17j89rs/what_selfhosted_service_have_the_best_return_of/'>Reddit</a></caption><div><br></div><p>Hi guys,</p>\n<p>What services do you think have the best return of investment? Where is it truly worth it to selfhost?</p>\n<p>Cheers</p>",
+            "date_published": "2023-10-29T17:46:11+00:00",
+            "authors": [
+                {
+                    "name": "tonydocent",
+                    "url": "https://www.reddit.com/user/tonydocent"
+                }
+            ]
+        },
+        {
             "id": "17i1dns",
             "url": "/r/selfhosted/comments/17i1dns/pfsense_just_messed_with_their_userbase_again/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/17i1dns/pfsense_just_messed_with_their_userbase_again/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "aman207",
                     "url": "https://www.reddit.com/user/aman207"
-                }
-            ]
-        },
-        {
-            "id": "11uyw5s",
-            "url": "/r/selfhosted/comments/11uyw5s/psa_unless_you_are_using_wildcard_certificates/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/11uyw5s/psa_unless_you_are_using_wildcard_certificates/",
-            "title": "PSA: unless you are using wildcard certificates, all your subdomains get published in a list of issued Let's Encrypt certificates. You can see if your subdomains are published here: https://crt.sh/",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/11uyw5s/psa_unless_you_are_using_wildcard_certificates/'>Reddit</a></caption><div><br></div><div></div>",
-            "date_published": "2023-03-18T20:06:09+00:00",
-            "authors": [
-                {
-                    "name": "snowcrashr",
-                    "url": "https://www.reddit.com/user/snowcrashr"
                 }
             ]
         }
