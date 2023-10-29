@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "17j4uac",
+            "url": "/r/macapps/comments/17j4uac/i_made_an_app_that_combines_ai_and_mac_automation/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/17j4uac/i_made_an_app_that_combines_ai_and_mac_automation/",
+            "title": "I made an app that combines AI and Mac automation, would love some feedback!",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17j4uac/i_made_an_app_that_combines_ai_and_mac_automation/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17j4uac/i_made_an_app_that_combines_ai_and_mac_automation/'>Reddit</a></caption><div><br></div><p>Hey everyone,</p>\n<p>With recent developments in AI, I have been very interested in using it to make my Mac automation simpler, more intuitive, and more powerful. This is how I ended up creating <a href=\"https://www.chatpc.ai/\">ChatPC</a>.</p>\n<p><strong>ChatPC allows you to use simple English to automate your Mac. It can manage files and interact with other Mac applications through Shortcuts and AppleScripts.</strong></p>\n<p>Check out this quick demo:</p>\n<p>https://reddit.com/link/17j4uac/video/wekn2asop5xb1/player</p>\n<p><strong>Safe by design -</strong> With ChatPC, you are in total control. By default, ChatPC cannot execute any actions on your Mac. You must explicitly give ChatPC access to the folders, Shortcuts, and AppleScripts that it can action on. In addition, you can configure which actions require your explicit approval before executing.</p>\n<p>I'm currently looking for beta testers to try out the app and give me feedback! The app is free to use up to some token limit. If you hit the limit, DM me with your initial thoughts and the email address you signed up with -- <strong>I'll be giving free coupons to the first 100 beta testers!</strong></p>\n<p>To get started, check out the <a href=\"https://www.chatpc.ai/docs/macos/getting-started/\">MacOS Getting Started Guide</a> (MacOS 13.0 or higher required).</p>",
+            "date_published": "2023-10-29T15:04:55+00:00",
+            "authors": [
+                {
+                    "name": "dounanshi",
+                    "url": "https://www.reddit.com/user/dounanshi"
+                }
+            ]
+        },
+        {
             "id": "17irttl",
             "url": "/r/macapps/comments/17irttl/i_made_an_app_because_i_was_annoyed_that_my_mac/",
             "external_url": "https://www.reddit.com/r/macapps/comments/17irttl/i_made_an_app_because_i_was_annoyed_that_my_mac/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "aknalid",
                     "url": "https://www.reddit.com/user/aknalid"
-                }
-            ]
-        },
-        {
-            "id": "135isnu",
-            "url": "/r/macapps/comments/135isnu/a_definitive_browser_comparison/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/135isnu/a_definitive_browser_comparison/",
-            "title": "A Definitive Browser Comparison",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/135isnu/a_definitive_browser_comparison/'>Reddit</a></caption><div><br></div><div><p>There has been a lot of interest in newer browsers lately, but it's hard to differentiate how exactly they stack up against each other. To solve this, I've set up a crowdsourced comparison sheet that this community can contribute to and benefit from.</p>\n<p>View the crowdsourced feature comparison spreadsheet here: <a href=\"https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M/edit#gid=531518438\">Link</a></p>\n<p><strong>To contribute information and corrections:</strong> &gt;!Right click a cell&gt;add a comment!&lt;</p>\n<p>Comment in a new column for additional/new browsers.</p>\n<p>Previous Comparisons: <a href=\"https://www.reddit.com/r/macapps/comments/r0uplf/a_definitive_pdf_reader_comparison/\">PDF readers</a> | <a href=\"https://www.reddit.com/r/macapps/comments/x49fwh/a_definitive_email_client_comparison/\">Email clients</a> | <a href=\"https://www.reddit.com/r/macapps/comments/zj0hri/a_definitive_calendar_app_comparison/\">Calendar apps</a> | <a href=\"https://www.reddit.com/r/macapps/comments/zvn6vv/a_definitive_password_manager_comparison/\">Password Managers</a></p>\n<p>As usual, let me know if something is missing, incorrect, or needs to be added! Post what browser manager app you use below so more people can participate. What comparison would you like to see next?</p></div>",
-            "date_published": "2023-05-02T11:49:14+00:00",
-            "authors": [
-                {
-                    "name": "Mstormer",
-                    "url": "https://www.reddit.com/user/Mstormer"
                 }
             ]
         }
