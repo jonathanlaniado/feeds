@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "17irttl",
+            "url": "/r/macapps/comments/17irttl/i_made_an_app_because_i_was_annoyed_that_my_mac/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/17irttl/i_made_an_app_because_i_was_annoyed_that_my_mac/",
+            "title": "I made an App because I was annoyed that my mac switched to my microphone automatically",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17irttl/i_made_an_app_because_i_was_annoyed_that_my_mac/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17irttl/i_made_an_app_because_i_was_annoyed_that_my_mac/'>Reddit</a></caption><div><br></div><p>Hi everyone !I was annoyed to switch away from my bluetooth headset microphone every time I connect it to my macbook so I made a tray App to block devices to be switched to !</p>\n<p><a href=\"https://github.com/jbgosselin/audio-device-blocker\">https://github.com/jbgosselin/audio-device-blocker</a></p>\n<p>Feel free to give it a shot and maybe even contribute if you feel like so, this is my first MacOS app and the first time I used Swift and SwiftUI so please be mindful of that.</p>\n<p>I use it daily for a little while and it just make my life easier, so why not make others life easier too !</p>",
+            "date_published": "2023-10-29T01:04:15+00:00",
+            "authors": [
+                {
+                    "name": "dennajort",
+                    "url": "https://www.reddit.com/user/dennajort"
+                }
+            ]
+        },
+        {
             "id": "17iounr",
             "url": "/r/macapps/comments/17iounr/made_a_mac_app_that_organizes_your_files_in/",
             "external_url": "https://www.reddit.com/r/macapps/comments/17iounr/made_a_mac_app_that_organizes_your_files_in/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Mstormer",
                     "url": "https://www.reddit.com/user/Mstormer"
-                }
-            ]
-        },
-        {
-            "id": "132t9g4",
-            "url": "/r/macapps/comments/132t9g4/what_are_your_favorite_open_source_apps/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/132t9g4/what_are_your_favorite_open_source_apps/",
-            "title": "What are your favorite open source apps?",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/132t9g4/what_are_your_favorite_open_source_apps/'>Reddit</a></caption><div><br></div><div><p>Or at least most used?</p></div>",
-            "date_published": "2023-04-29T13:43:02+00:00",
-            "authors": [
-                {
-                    "name": "Vlasar",
-                    "url": "https://www.reddit.com/user/Vlasar"
                 }
             ]
         }
