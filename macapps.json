@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "17k27mj",
+            "url": "/r/macapps/comments/17k27mj/my_apple_note_taking_journey/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/17k27mj/my_apple_note_taking_journey/",
+            "title": "My Apple Note Taking Journey",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17k27mj/my_apple_note_taking_journey/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17k27mj/my_apple_note_taking_journey/'>Reddit</a></caption><div><br></div><p>Apple Notes has gotten really good over the last few years. But it had two major issues for me:</p>\n<ol>\n<li>There was no way to easily get your notes OUT OF Apple Notes</li>\n<li>There was no \"web clipper\" plugin that could scrape a web page and make it a Note</li>\n<li>It wasn't cross-platform (I needed Mac, iOS and Linux).</li>\n</ol>\n<p>So, this sent me down a bit of a rabbit hole.</p>\n<h2>Joplin</h2>\n<p>I first tried Joplin. I liked the desktop app, but did not like the mobile app. The split view in the desktop app was less than appealing, but it was completely free. So I wasn't complaining.</p>\n<h2>Obsidian</h2>\n<p>I next tried Obsidian.  I liked the desktop app, but I hated the mobile app. Having the markdown hidden and only displayed when editing a line was a huge improvement. The plugin system was very nice. But the mobile app on my iPhone was pretty painful to use.</p>\n<h2>Loqseq</h2>\n<p>I dipped my toes in Logseq, but was not happy with how it worked, so I gave up on it pretty quickly. After watching a few lengthy videos, I realized it just wasn't for me.</p>\n<h2>Bear Notes</h2>\n<p>Next I tried Bear Notes.  I liked that it was Markdown-based. I liked the UI. The iOS apps were nice. The Markdown was hidden, just like in Obsidian. It even had a web clipper plugin. I bought a $15.00/year subscription and used it for a few months. The app wasn't cross platform. But at this point I owned a MacBook Pro, a Mac mini, an iPhone, an iPad, a Homepod mini and an Apple Watch. The need for a cross-platform solution didn't exist any more. As much as I liked Bear Notes, it had 2 problems:</p>\n<ol>\n<li>It was not end-to-end encrypted even with Advanced Data Protection on.</li>\n<li>There was a subscription.  $15 a year was not a lot. But the price went up to $30 a year. I was grandfathered in. But still it was a subscription.</li>\n</ol>\n<h2>fsnotes</h2>\n<p>fsnotes had a lot going for it.  It was markdown-based. It was open source and free, or you could buy it in the app store to support the developer. It had a nice preview mode. It was a fast native app that used iCloud Drive for syncing, so it was end-to-end encrypted if Advanced Data Protection was turned on.</p>\n<p>I used fsnotes for a good 6 months and was pretty happy with it, but:</p>\n<ol>\n<li>There was no web clipper for it.</li>\n<li>When you pasted text into it, it didn't auto-convert it into Markdown.</li>\n</ol>\n<h2>Upnote</h2>\n<p>Another interesting app.  This one IS cross platform, and you can subscribe or buy a \"lifetime subscription.\" The UI is very nice. The mobile apps are nice, and you get web clipper plugins.</p>\n<p>I signed up the $0.99/month subscription and imported my notes.  Overall a nice app, except:</p>\n<ol>\n<li>The data is not end-to-end encrypted and they have no plans to support it.</li>\n<li>I run Fedora Silverblue which requires all apps be Flatpaks, and Upnote only offers their app as an AppImage and a Snap.</li>\n</ol>\n<p>So, my #1 reason for checking out this app, the Linux support, didn't work for me.</p>\n<p>If you need a cross-platform note taking app, and don't care about end-to-end encryption, this is a solid choice.</p>\n<h2>Apple Notes</h2>\n<p>Now, after this long journey, I have all my notes in Apple Notes. Here is why:</p>\n<ol>\n<li>Apple Notes is free. It comes with every Mac and every iPhone/iPad.</li>\n<li>Apple Notes is end-to-end encrypted if you have Advanced Data Protection turned on.</li>\n<li>My wife uses a Mac and iPhone too. So it's dead simple to share notes with her.</li>\n</ol>\n<p>Here is how I worked around some of the limitations I had with Apple Notes.</p>\n<ol>\n<li>There is an app in the Mac App Store called Exporter. It will export ALL your Apple Notes, with attachments as Markdown. So, if you want to leave Apple Notes, it's a lot simpler to do so. I use Exporter once a week to export all my notes to Markdown and back them up to my NAS.</li>\n<li>The web clipper problem was easier than I thought. If I want to move a web page to Notes, I open it in Safari, click on the reader view icon. Then I press \u2318+A followed by \u2318+C to copy the whole page. Then I just paste it into a new note.  Everything comes over: formatting, images and link. Then I copy and paste the URL to the bottom of the page.</li>\n<li>As I said, my need for a cross-platform solution pretty much doesn't exist any more. But even if it does, I can easily open the Markdown file off my NAS. So I can at least see the data on another OS, even though I can't edit it.</li>\n</ol>\n<p>I also get these two benefits:</p>\n<ol>\n<li>My notes are now end-to-end encrypted.</li>\n<li>I can easily share them with my wife.</li>\n<li>Notes lets you \"scan\" documents by taking pictures of them, cropping them, and dumping them directly into Notes.</li>\n<li>No subscription fees</li>\n</ol>\n<p>I'm done now. No reason to go anywhere else. Now I need to spend time building a personal knowledgebase rather than wasting time hopping around different notes applications.</p>\n<p>One thing this experience has taught me is the importance of open standards. I would not have been able to do this hopping around if I wasn't able to exports my notes into an open format such as Markdown, RTF or HTML. Kind of ironic, since I ended up with Apple Notes.</p>\n<p>Apple Notes will let you import RTF and HTML notes, so it's easy to get notes into it. And the exporter tool will let me get notes out of it. If Exporter goes away, so does my use of Apple Notes. That's why I am backing up weekly to Markdown.</p>\n<p>I did look at some cross-platform end-to-end encrypted notes apps such as Standard Notes. But Standard Notes was $90/year and it was the cheapest of the options I looked at. That was just way too expensive.</p>\n<h2>Conclusion</h2>\n<p>This is my MY journey.  You may not like Apple Notes because of vendor lock in. But it is a credible choice with a nice feature set.</p>\n<p>If you've had a similar journey, please let me know your path and where you ended up.</p>",
+            "date_published": "2023-10-30T20:02:14+00:00",
+            "authors": [
+                {
+                    "name": "plazman30",
+                    "url": "https://www.reddit.com/user/plazman30"
+                }
+            ]
+        },
+        {
             "id": "17jbmr2",
             "url": "/r/macapps/comments/17jbmr2/what_are_your_must_have_safari_extensions/",
             "external_url": "https://www.reddit.com/r/macapps/comments/17jbmr2/what_are_your_must_have_safari_extensions/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Mstormer",
                     "url": "https://www.reddit.com/user/Mstormer"
-                }
-            ]
-        },
-        {
-            "id": "1382m3a",
-            "url": "/r/macapps/comments/1382m3a/stop_your_nailbiting_with_your_macs_webcam/",
-            "external_url": "https://handsdown.kianpak.com",
-            "title": "Stop your nail-biting (with your Mac's webcam)",
-            "content_html": "<caption>Open: <a href='https://handsdown.kianpak.com'>handsdown.kianpak.com</a> | <a href='https://reddit.com/r/macapps/comments/1382m3a/stop_your_nailbiting_with_your_macs_webcam/'>Reddit</a></caption>",
-            "date_published": "2023-05-04T22:44:41+00:00",
-            "authors": [
-                {
-                    "name": "yourgrassisass",
-                    "url": "https://www.reddit.com/user/yourgrassisass"
                 }
             ]
         }
