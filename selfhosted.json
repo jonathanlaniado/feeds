@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "17k1fa7",
+            "url": "/r/selfhosted/comments/17k1fa7/hello_alex_from_immich_here_we_recently_got_an/",
+            "external_url": "https://www.theverge.com/23938533/self-hosting-local-first-software-vergecast",
+            "title": "Hello, Alex from Immich here - We recently got an opportunity to discuss self-hosting complexity with The Vergecast (from theverge.com). It brought some good discussion on there, and I think you guys would like to hear it as well.",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/17k1fa7/hello_alex_from_immich_here_we_recently_got_an/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/17k1fa7/hello_alex_from_immich_here_we_recently_got_an/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2023-10-30T19:27:45+00:00",
+            "authors": [
+                {
+                    "name": "altran1502",
+                    "url": "https://www.reddit.com/user/altran1502"
+                }
+            ]
+        },
+        {
             "id": "17j89rs",
             "url": "/r/selfhosted/comments/17j89rs/what_selfhosted_service_have_the_best_return_of/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/17j89rs/what_selfhosted_service_have_the_best_return_of/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "selfh-sted",
                     "url": "https://www.reddit.com/user/selfh-sted"
-                }
-            ]
-        },
-        {
-            "id": "11wks0a",
-            "url": "/r/selfhosted/comments/11wks0a/gitea_1190_released_now_with_support_for_actions/",
-            "external_url": "https://github.com/go-gitea/gitea/releases/tag/v1.19.0",
-            "title": "Gitea 1.19.0 released - now with support for Actions",
-            "content_html": "<caption>Open: <a href='https://github.com/go-gitea/gitea/releases/tag/v1.19.0'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/11wks0a/gitea_1190_released_now_with_support_for_actions/'>Reddit</a></caption>",
-            "date_published": "2023-03-20T14:50:15+00:00",
-            "authors": [
-                {
-                    "name": "aman207",
-                    "url": "https://www.reddit.com/user/aman207"
                 }
             ]
         }
