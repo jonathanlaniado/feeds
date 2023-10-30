@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "17jeefa",
+            "url": "/r/MacOS/comments/17jeefa/what_simple_functions_should_be_built_into_the/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/17jeefa/what_simple_functions_should_be_built_into_the/",
+            "title": "What simple functions should be built into the MacOS that aren't already?",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/MacOS/comments/17jeefa/what_simple_functions_should_be_built_into_the/'>Apollo</a> | <a href='https://reddit.com/r/MacOS/comments/17jeefa/what_simple_functions_should_be_built_into_the/'>Reddit</a></caption><div><br></div><p>I think if you drag an Application to the trash, you should get a dialogue asking if you want to delete all system files etc related to that application. I know there are third party solutions for this, but I feel it <em>should</em> be baked in.</p>\n<p>What other things would make life 1% easier?</p>",
+            "date_published": "2023-10-29T22:25:28+00:00",
+            "authors": [
+                {
+                    "name": "CrocodileJock",
+                    "url": "https://www.reddit.com/user/CrocodileJock"
+                }
+            ]
+        },
+        {
             "id": "17j2qju",
             "url": "/r/MacOS/comments/17j2qju/i_know_its_blasphemy_to_use_microsoft_edge_on_a/",
             "external_url": "https://i.redd.it/po56o4p965xb1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "SaoodNX",
                     "url": "https://www.reddit.com/user/SaoodNX"
-                }
-            ]
-        },
-        {
-            "id": "104sncp",
-            "url": "/r/MacOS/comments/104sncp/i_customized_my_finder_home_directory_to_look/",
-            "external_url": "https://i.redd.it/16yuo89bzeaa1.png",
-            "title": "I customized my Finder home directory to look like iPhone",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/MacOS/comments/104sncp/i_customized_my_finder_home_directory_to_look/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/16yuo89bzeaa1.png\" />",
-            "date_published": "2023-01-06T12:11:06+00:00",
-            "authors": [
-                {
-                    "name": "sumapls",
-                    "url": "https://www.reddit.com/user/sumapls"
                 }
             ]
         }
