@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "17jvzd2",
+            "url": "/r/ArcBrowser/comments/17jvzd2/announcing_open_source_swift_bindings_generator/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/17jvzd2/announcing_open_source_swift_bindings_generator/",
+            "title": "Announcing Open Source Swift Bindings Generator for WinRT: Empowering Arc on Windows",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/17jvzd2/announcing_open_source_swift_bindings_generator/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/17jvzd2/announcing_open_source_swift_bindings_generator/'>Reddit</a></caption><div><br></div><p>Hey friends! We're excited to announce we are open sourcing our Swift bindings generator for WinRT  </p>\n<p>This generator is what empowers us to utilize <a href=\"https://twitter.com/WindowsUI\">@WindowsUI</a> and the WindowsAppSDK to build Arc on Windows </p>\n<p>\u27a1\ufe0f Find the code at <a href=\"https://github.com/thebrowsercompany/swift-winrt\">https://github.com/thebrowsercompany/swift-winrt</a></p>\n<p>https://preview.redd.it/cunlez3bycxb1.jpg?width=2623&amp;format=pjpg&amp;auto=webp&amp;s=0ddce9ba1d6d0c3c6b72df7008c0059755b83b66</p>\n<p>Alongside this we're also sharing:  </p>\n<ol>\n<li>\n<p>A post to help orient Swift devs to the world of Windows development &amp; explain the inner workings of the code generator  </p>\n</li>\n<li>\n<p>A full sample app using the Swift/WinRT code generator &amp; WinUI 3 <a href=\"https://t.co/r5U2FsWQfg\">https://github.com/thebrowsercompany/windows-samples</a></p>\n</li>\n</ol>\n<p>https://preview.redd.it/gmccla4gycxb1.png?width=720&amp;format=png&amp;auto=webp&amp;s=7e4616431c35aa95a071717c0765ebb234ea4a07</p>\n<p>WinRT is *the* technology in which all modern Windows APIs are written in. These APIs are written in C++, and we leverage the C interop from Swift in order to generate bindings.</p>\n<p>In follow up posts, we'll be sharing more on how to build a WinUI 3 application in  Swift, end-to-end.  Stay tuned and stay Swifty!  </p>\n<p>\u2013 <a href=\"https://twitter.com/steven_brix\"><strong>Steve Kirbach</strong></a> <strong>(</strong><a href=\"https://twitter.com/steven_brix\">@steven_brix</a>) via X  </p>\n<p><a href=\"https://twitter.com/steven_brix/status/1719011140955750729\">https://twitter.com/steven_brix/status/1719011140955750729</a></p>",
+            "date_published": "2023-10-30T15:26:50+00:00",
+            "authors": [
+                {
+                    "name": "JaceThings",
+                    "url": "https://www.reddit.com/user/JaceThings"
+                }
+            ]
+        },
+        {
             "id": "17hjz9h",
             "url": "/r/ArcBrowser/comments/17hjz9h/add_obsidian_as_a_default_note_option/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/17hjz9h/add_obsidian_as_a_default_note_option/",
