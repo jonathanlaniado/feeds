@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "17kwvwm",
+            "url": "/r/selfhosted/comments/17kwvwm/just_this_took_me_so_long_folder_mapping_and/",
+            "external_url": "https://i.redd.it/qybdoblu2mxb1.jpg",
+            "title": "Just this took me so long. Folder mapping and permissions.",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/17kwvwm/just_this_took_me_so_long_folder_mapping_and/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/17kwvwm/just_this_took_me_so_long_folder_mapping_and/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/qybdoblu2mxb1.jpg\" />",
+            "date_published": "2023-10-31T22:11:49+00:00",
+            "authors": [
+                {
+                    "name": "pennanbeach",
+                    "url": "https://www.reddit.com/user/pennanbeach"
+                }
+            ]
+        },
+        {
             "id": "17k1fa7",
             "url": "/r/selfhosted/comments/17k1fa7/hello_alex_from_immich_here_we_recently_got_an/",
             "external_url": "https://www.theverge.com/23938533/self-hosting-local-first-software-vergecast",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "atika",
                     "url": "https://www.reddit.com/user/atika"
-                }
-            ]
-        },
-        {
-            "id": "11ziuur",
-            "url": "/r/selfhosted/comments/11ziuur/were_shutting_down_selfhsted_thanks_to_those_who/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/11ziuur/were_shutting_down_selfhsted_thanks_to_those_who/",
-            "title": "We're shutting down selfh.st/ed. Thanks to those who supported our endeavors!",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/11ziuur/were_shutting_down_selfhsted_thanks_to_those_who/'>Reddit</a></caption><div><br></div><div><p>A few friends and I started our hobby self-hosted inspired website a few months ago with the goal of creating another great resource for the self-hosted community. Our intention was for it to be an ad-free, non-subscription resource for those looking for more information on self-hosting.</p>\n<p>While we've had a lot of positive reactions to the content we've provided, we've been overwhelmed by negative interactions and harassment from subsections of the community that have now leaked into our personal lives and have prompted us to shutdown the site. </p>\n<p>We know the self-hosted community is bigger than the online trolls we've encountered, but do not wish to participate in a way that threatens our livelihoods.</p>\n<p>Thanks for everything!</p></div>",
-            "date_published": "2023-03-23T12:29:20+00:00",
-            "authors": [
-                {
-                    "name": "selfh-sted",
-                    "url": "https://www.reddit.com/user/selfh-sted"
                 }
             ]
         }
