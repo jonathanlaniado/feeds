@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "17le9i5",
+            "url": "/r/macapps/comments/17le9i5/announcing_backdrop_the_wallpaper_engine_for_macos/",
+            "external_url": "https://cindori.com/backdrop",
+            "title": "Announcing Backdrop: The Wallpaper Engine for macOS",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17le9i5/announcing_backdrop_the_wallpaper_engine_for_macos/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17le9i5/announcing_backdrop_the_wallpaper_engine_for_macos/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2023-11-01T15:09:09+00:00",
+            "authors": [
+                {
+                    "name": "Cindori",
+                    "url": "https://www.reddit.com/user/Cindori"
+                }
+            ]
+        },
+        {
             "id": "17lfzpj",
             "url": "/r/macapps/comments/17lfzpj/music_decoy_stop_launching_the_music_app_whenever/",
             "external_url": "https://github.com/FuzzyIdeas/MusicDecoy",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "dannyown",
                     "url": "https://www.reddit.com/user/dannyown"
-                }
-            ]
-        },
-        {
-            "id": "13c1c7m",
-            "url": "/r/macapps/comments/13c1c7m/master_list_of_definitive_app_comparisons_view/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/13c1c7m/master_list_of_definitive_app_comparisons_view/",
-            "title": "Master List of Definitive App Comparisons - View and Contribute",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/13c1c7m/master_list_of_definitive_app_comparisons_view/'>Reddit</a></caption><div><br></div><div><p>Over the last year, r/macapps users have contributed large volumes of data to help you find the best Mac-compatible apps in various major categories. This post represents a culmination of those contributions in one place where all can benefit and also continue contributing updates.</p>\n<p><em>Note: Because these are populated to google sheets from user form submissions, the best viewing experience on mobile devices is through the google sheets app since it retains frozen columns/rows. Most mobile browsers disregard them and may not initially load the correct tab from the links below.</em></p>\n<p><strong>View the Definitive App Comparison sheet here</strong> (links go to the specific tab on desktop)<strong>:</strong> <br />\n<a href=\"https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M/edit#gid=1628450822\">Browsers</a> | <a href=\"https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M/edit#gid=583051238\">Calendar Apps</a> | <a href=\"https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M/edit#gid=1036735176\">Email Clients</a> | <a href=\"https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M/edit#gid=469491148\">Note Apps</a> | <a href=\"https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M/edit#gid=1102167413\">Password Managers</a> | <a href=\"https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M/edit#gid=1481271415\">PDF Readers</a>.</p>\n<p><strong>To contribute new apps, click a corresponding link to fill out a form with the details:</strong> <br />\n<a href=\"https://forms.gle/rbedZBnctSLVXCUU9\">Add a Browser</a> | <a href=\"https://forms.gle/p88rRjayYT2o43jB8\">Add a Calendar App</a> | <a href=\"https://forms.gle/QjuTGbVNTJZjsQPp7\">Add an Email Client</a> | <a href=\"https://forms.gle/cJwqGjkJ1GYgGE1o8\">Add a Note App</a> | <a href=\"https://forms.gle/ScoCcPuUHHdHECD2A\">Add a Password Manager</a> | Add a PDF Reader [TBA]</p>\n<p>To suggest a specific correction to an already-listed app, right-click a cell&gt;add a comment. <br />\nPlease optionally include a citation if possible.</p>\n<p>Are you looking for a specific feature that is not listed? Ask below or share what's so great about your app of choice. Feel free to suggest additional app comparison types for future consideration.</p></div>",
-            "date_published": "2023-05-08T19:02:37+00:00",
-            "authors": [
-                {
-                    "name": "Mstormer",
-                    "url": "https://www.reddit.com/user/Mstormer"
                 }
             ]
         }
