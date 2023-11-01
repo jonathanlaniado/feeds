@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "17ldpsb",
+            "url": "/r/apple/comments/17ldpsb/first_imac_m3_geekbench_results/",
+            "external_url": "https://browser.geekbench.com/v6/cpu/3343681",
+            "title": "First iMac M3 geekbench results",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/apple/comments/17ldpsb/first_imac_m3_geekbench_results/'>Apollo</a> | <a href='https://reddit.com/r/apple/comments/17ldpsb/first_imac_m3_geekbench_results/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2023-11-01T14:44:43+00:00",
+            "authors": [
+                {
+                    "name": "kingsleyopara",
+                    "url": "https://www.reddit.com/user/kingsleyopara"
+                }
+            ]
+        },
+        {
             "id": "17koeet",
             "url": "/r/apple/comments/17koeet/goodbye_touch_bar_you_held_incredible_promise/",
             "external_url": "https://www.theverge.com/2023/10/31/23938841/apple-macbook-pro-touch-bar-discontinued-proof-of-concept",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "sauce2011",
                     "url": "https://www.reddit.com/user/sauce2011"
-                }
-            ]
-        },
-        {
-            "id": "16i1on1",
-            "url": "/r/apple/comments/16i1on1/iphone_15_may_let_users_limit_the_maximum_battery/",
-            "external_url": "https://9to5mac.com/2023/09/12/iphone-15-limit-battery-charge/",
-            "title": "iPhone 15 may let users limit the maximum battery charge",
-            "content_html": "<caption>Open: <a href='https://9to5mac.com/2023/09/12/iphone-15-limit-battery-charge/'>9to5mac.com</a> | <a href='https://reddit.com/r/apple/comments/16i1on1/iphone_15_may_let_users_limit_the_maximum_battery/'>Reddit</a></caption>",
-            "date_published": "2023-09-13T22:57:34+00:00",
-            "authors": [
-                {
-                    "name": "Toredo226",
-                    "url": "https://www.reddit.com/user/Toredo226"
                 }
             ]
         }
