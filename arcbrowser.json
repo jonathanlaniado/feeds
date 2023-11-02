@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "17m4s04",
+            "url": "/r/ArcBrowser/comments/17m4s04/arc_update_1150_42993/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/17m4s04/arc_update_1150_42993/",
+            "title": "Arc Update - 1.15.0 (42993)",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/17m4s04/arc_update_1150_42993/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/17m4s04/arc_update_1150_42993/'>Reddit</a></caption><div><br></div><p>\ud83d\udcc6 Nov 1, 2023 at 8:37:42 PM</p>\n<blockquote>\n<p>\u2022 Split View now shows the URL of each panel in the Toolbar for ease of editing each panel\u2019s URL.</p>\n<p>\u2022 If you click the same link within an external app, we\u2019ll simply resurface the existing Little Arc window instead of creating a duplicate one.</p>\n<p>\u2022 Little Arc will now remember the profile you select for a given domain. New links within that domain will have the profile automatically selected.</p>\n<p>\u2022 ESC will now reliably default to \u201cPrefer Websites\u201d rather than exit fullscreen. Hold (or double hit) ESC to exit fullscreen instead.</p>\n<p>\u2022 View Advanced Chromium Settings by clicking the \u201cAdvanced Settings\u201d button in Arc &gt; Settings &gt; Advanced.</p>\n<p>\u2022 Option + click on a Split Tab in the sidebar to separate the split into two tabs.</p>\n<p>\u2022 After searching in CMD F, we\u2019ll make it more clear when you have no matches before prompting you to try the Arc Max Ask feature.</p>\n<p>\u2022 We\u2019ve fixed a bug where Arc was not detecting system locale correctly and defaulting to en-US in some cases.</p>\n<p>\u2022 We\u2019ve fixed a bug where Favorited Split Tabs were not focused correctly after Space switching.</p>\n<p>\u2022 For consistency, new windows will now always open with the command bar in it\u2019s center location.</p>\n<p>\u2022 We\u2019ve fixed a bug that could cause the Google Calendar preview to log out when opening a tab in Split View.</p>\n<p>\u2022 You can now use Confluence as a default note type to create a Confluence page</p>\n<p>\u2022 We have improved the performance and the stability of the video decoding pipeline.</p>\n<p>\u2022 Staged Rollout (we are monitoring release of this feature over the coming week): We\u2019ve added YouTube to the trusted sites list for uBlock Origin (our default ad blocker) so Members can watch YouTube videos without encountering the \u201cAd blockers violate YouTube\u2019s Terms of Service\u201d notice. You can enable ad blocking on YouTube in the extension settings for uBlock Origin at any time, just keep in mind that you may encounter YouTube\u2019s ad blocking notice and be unable to watch videos if you do so.</p>\n</blockquote>\n<p><strong>Manual Download Link:</strong>\nhttps://releases.arc.net/release/Arc-1.15.0-42993.zip</p>\n<p><strong>Release Notes:</strong>\nhttps://arc.net/release-notes</p>",
+            "date_published": "2023-11-02T14:30:34+00:00",
+            "authors": [
+                {
+                    "name": "JaceThings",
+                    "url": "https://www.reddit.com/user/JaceThings"
+                }
+            ]
+        },
+        {
             "id": "17kwnv3",
             "url": "/r/ArcBrowser/comments/17kwnv3/whats_the_most_annoying_workflow_that_you_do_on/",
             "external_url": "https://twitter.com/joshm/status/1719474033580728591",
