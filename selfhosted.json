@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "17lyd3j",
+            "url": "/r/selfhosted/comments/17lyd3j/dev_symfonium_music_player_cast_the_self_hosted/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/17lyd3j/dev_symfonium_music_player_cast_the_self_hosted/",
+            "title": "[DEV] Symfonium: Music player & cast, the self hosted music player",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/17lyd3j/dev_symfonium_music_player_cast_the_self_hosted/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/17lyd3j/dev_symfonium_music_player_cast_the_self_hosted/'>Reddit</a></caption><div><br></div><p>I never officially introduced Symfonium here and if this breaks the rules please remove the post.</p>\n<p>&#x200B;</p>\n<p>So with version 6.0.0 just released Symfonium is now feature complete, to fully embrace most self hosted music scenario as it was planned to be. Took me some more time than planned :)</p>\n<p>&#x200B;</p>\n<p>So Symfonium is an advanced Android music player (Paid app with free trial) that support most self hosted music solutions to fully enjoy your music anywhere and allows aggregation of multiple servers.</p>\n<p>It currently support:</p>\n<p>- The local storage of the phone (SDCard,...)</p>\n<p>- Emby</p>\n<p>- Jellyfin</p>\n<p>- Subsonic</p>\n<p>- OpenSubsonic (A long term effort that I started to improve Subsonic clients and servers <a href=\"https://github.com/opensubsonic/open-subsonic-api\">https://github.com/opensubsonic/open-subsonic-api</a>. Already quite a few new features for some servers)</p>\n<p>- Kodi</p>\n<p>- Plex</p>\n<p>- Samba (SMB v2/v3)</p>\n<p>- WebDAV</p>\n<p>- Internet Radio</p>\n<p>&#x200B;</p>\n<p>It's an offline first solution with tons of features, like AutoEQ support, smart filters, personal mixes, transcoding, replaygain, ...</p>\n<p>But I don't want to make this post a long list of features, just wanted more people to be aware of this relatively new music player dedicated to self hosting.</p>\n<p>&#x200B;</p>\n<p>And if there's other well established music self hosting solution with a proper API do not hesitate to ask for support so I can look into it.</p>\n<p>&#x200B;</p>\n<p>Website: <a href=\"https://symfonium.app/\">https://symfonium.app/</a></p>\n<p>PlayStore: <a href=\"https://play.google.com/store/apps/details?id=app.symfonik.music.player\">https://play.google.com/store/apps/details?id=app.symfonik.music.player</a></p>",
+            "date_published": "2023-11-02T07:49:43+00:00",
+            "authors": [
+                {
+                    "name": "Tolriq",
+                    "url": "https://www.reddit.com/user/Tolriq"
+                }
+            ]
+        },
+        {
             "id": "17kwvwm",
             "url": "/r/selfhosted/comments/17kwvwm/just_this_took_me_so_long_folder_mapping_and/",
             "external_url": "https://i.redd.it/qybdoblu2mxb1.jpg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Potentially_Canadian",
                     "url": "https://www.reddit.com/user/Potentially_Canadian"
-                }
-            ]
-        },
-        {
-            "id": "121fr1s",
-            "url": "/r/selfhosted/comments/121fr1s/were_no_longer_sunsetting_the_free_team_plan/",
-            "external_url": "https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/",
-            "title": "We're no longer sunsetting the Free Team plan | Docker",
-            "content_html": "<caption>Open: <a href='https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/'>www.docker.com</a> | <a href='https://reddit.com/r/selfhosted/comments/121fr1s/were_no_longer_sunsetting_the_free_team_plan/'>Reddit</a></caption>",
-            "date_published": "2023-03-25T08:43:27+00:00",
-            "authors": [
-                {
-                    "name": "atika",
-                    "url": "https://www.reddit.com/user/atika"
                 }
             ]
         }
