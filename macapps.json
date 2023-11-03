@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "17memua",
+            "url": "/r/macapps/comments/17memua/is_there_an_app_that_lets_you_launch_and_quit_a/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/17memua/is_there_an_app_that_lets_you_launch_and_quit_a/",
+            "title": "Is there an app that lets you launch and quit a bunch of selected or grouped apps ?",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17memua/is_there_an_app_that_lets_you_launch_and_quit_a/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17memua/is_there_an_app_that_lets_you_launch_and_quit_a/'>Reddit</a></caption><div><br></div><p>For example, I want to group apps for a specific context. I want to do software development work now, it opens apps I choose specific to that context - VS Code, Iterm2, Arc, Slack, etc. Another group could be writing - opens Notion, Arc, Email app, etc.</p>\n<p>&#x200B;</p>\n<p>I want to be able to quickly:</p>\n<ol>\n<li>open them up.</li>\n<li>close only those window them all as well</li>\n</ol>\n<p>&#x200B;</p>\n<p>Does something like this exist? Do people also have interest in this ?</p>",
+            "date_published": "2023-11-02T21:42:11+00:00",
+            "authors": [
+                {
+                    "name": "techsparrowlionpie",
+                    "url": "https://www.reddit.com/user/techsparrowlionpie"
+                }
+            ]
+        },
+        {
             "id": "17le9i5",
             "url": "/r/macapps/comments/17le9i5/announcing_backdrop_the_wallpaper_engine_for_macos/",
             "external_url": "https://cindori.com/backdrop",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MJFox1978",
                     "url": "https://www.reddit.com/user/MJFox1978"
-                }
-            ]
-        },
-        {
-            "id": "13clin8",
-            "url": "/r/macapps/comments/13clin8/1password_alternative/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/13clin8/1password_alternative/",
-            "title": "1Password alternative...?",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/13clin8/1password_alternative/'>Reddit</a></caption><div><br></div><div><p>I've been an old-time user of 1Password, but to be honest, I've recently grown disappointed with this app. It's full of bugs and lacks progress (the subscription model doesn't help either). </p>\n<p>What are you guys using as an alternative for a managing passwords? Preferably something that works well on both macOS and iOS</p></div>",
-            "date_published": "2023-05-09T10:18:32+00:00",
-            "authors": [
-                {
-                    "name": "dannyown",
-                    "url": "https://www.reddit.com/user/dannyown"
                 }
             ]
         }
