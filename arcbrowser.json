@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "17n2x8h",
+            "url": "/r/ArcBrowser/comments/17n2x8h/arc_is_leaking_history_between_profiles/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/17n2x8h/arc_is_leaking_history_between_profiles/",
+            "title": "Arc is leaking history between profiles",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/17n2x8h/arc_is_leaking_history_between_profiles/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/17n2x8h/arc_is_leaking_history_between_profiles/'>Reddit</a></caption><div><br></div><p>I'm not sure if this is a bug or intended. The following issue is reproduced for me:</p>\n<ol>\n<li>Create two profiles in Arc, e.g. Work and Personal.</li>\n<li>Switch to personal profile and browse some content (open a few porn sites, I dunno)</li>\n<li>Switch to Work profile and create a new tab, navigate to some site, e.g. google.com</li>\n<li>Now hit Cmd/Ctrl+L to show the address bar. It shows websites I visited in Personal profile and never even tried to open in Work profile.</li>\n</ol>\n<p>Same issue with little arc. It's quite unfortunate when you expect the profiles to be isolated.</p>\n<p>P.S. I can easily reproduce this behavior after completely wiping off all browser data from all profiles (history, cookies, etc.). Very private, much secure! Just want others to be aware of this.</p>",
+            "date_published": "2023-11-03T19:29:04+00:00",
+            "authors": [
+                {
+                    "name": "andrew-resler",
+                    "url": "https://www.reddit.com/user/andrew-resler"
+                }
+            ]
+        },
+        {
             "id": "17m4s04",
             "url": "/r/ArcBrowser/comments/17m4s04/arc_update_1150_42993/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/17m4s04/arc_update_1150_42993/",
