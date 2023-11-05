@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "17nyd3o",
+            "url": "/r/PleX/comments/17nyd3o/full_automation_with_my_plex_server/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/17nyd3o/full_automation_with_my_plex_server/",
+            "title": "Full Automation with my Plex Server",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/PleX/comments/17nyd3o/full_automation_with_my_plex_server/'>Apollo</a> | <a href='https://reddit.com/r/PleX/comments/17nyd3o/full_automation_with_my_plex_server/'>Reddit</a></caption><div><br></div><p>45 Docker Containers working together from organizers, requesting media, metadata, posters, collection generation, kill scripts for users with unapproved settings, web hosting with tutorials/videos for initial setup/troubleshooting, air date calendars, push notifications with discord integration. 5+ years in the making but I'm always looking to add more... what do you run?</p>\n<p>https://preview.redd.it/51tvhn3jxeyb1.jpg?width=1919&amp;format=pjpg&amp;auto=webp&amp;s=a10c06d509ee8cf94010a19c1e6ec1a9c13f31cb</p>\n<p>https://preview.redd.it/pycyeo3jxeyb1.jpg?width=1496&amp;format=pjpg&amp;auto=webp&amp;s=ab7ffa6ce14edca5f2d7bd6b5e9f73d019483333</p>\n<p>https://preview.redd.it/qo8nln3jxeyb1.jpg?width=1461&amp;format=pjpg&amp;auto=webp&amp;s=9720e2e821186c8f99ac4b384dde49b05fd5ed75</p>\n<p>https://preview.redd.it/3auz6r3jxeyb1.jpg?width=1627&amp;format=pjpg&amp;auto=webp&amp;s=c65c4dd1b7e31bd0d5aefd2f8d91412433e3d5c3</p>\n<p>https://preview.redd.it/3d48bq3jxeyb1.jpg?width=1158&amp;format=pjpg&amp;auto=webp&amp;s=bf92d7d6fed747df39d482b6a91a6afb3bc2cc14</p>\n<p>https://preview.redd.it/57cn6o3jxeyb1.jpg?width=1381&amp;format=pjpg&amp;auto=webp&amp;s=2eb6c9be8c6af1d2e64b1f9bd1aef7d4cdf70b1e</p>\n<p>https://preview.redd.it/gzktmq3jxeyb1.jpg?width=1439&amp;format=pjpg&amp;auto=webp&amp;s=001ff4c301070824bcd4abba8b1d0af34a49e09e</p>",
+            "date_published": "2023-11-04T23:16:00+00:00",
+            "authors": [
+                {
+                    "name": "mrbuckwheet",
+                    "url": "https://www.reddit.com/user/mrbuckwheet"
+                }
+            ]
+        },
+        {
             "id": "17n488q",
             "url": "/r/PleX/comments/17n488q/i_spent_40_hours_setting_up_a_plex_for_my_family/",
             "external_url": "https://i.redd.it/246062vnz6yb1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "rauz",
                     "url": "https://www.reddit.com/user/rauz"
-                }
-            ]
-        },
-        {
-            "id": "v9l7yv",
-            "url": "/r/PleX/comments/v9l7yv/if_i_had_to_define_plexs_job_it_would_be_to_make/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/v9l7yv/if_i_had_to_define_plexs_job_it_would_be_to_make/",
-            "title": "If I had to define Plex's job, it would be to make it easier for normal people to watch content in my server...",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/PleX/comments/v9l7yv/if_i_had_to_define_plexs_job_it_would_be_to_make/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/v9l7yv/if_i_had_to_define_plexs_job_it_would_be_to_make/'>Apollo</a></caption> <div><p>That's why I pay for Plex pass. That's why I go through the trouble of configuring it. </p>\n<p>The truth is that, if I wanted to, I could just make a UPnP server and tell people to use BubbleUPnP and stuff . And it would basically work. <em>I</em> know I could definitely use it to play stuff from my tablet or TV. But the problem is my parents. I'd like them to use my content as well, and they constantly use it. And that's the whole reason I am using Plex, because it similar to playing stuff from other streaming sites.</p>\n<p>I am not opposed to Plex investing dev time in weird features or in trying to monetize in additional ways. But these changes shouldn't come in detriment of Plex's main job. And making the main page so complicated to use, telling users to use 'Discover' . Filling things up with 'Live TV' from weird internet channels. It's a lot of pollution. It's worse when these changes can happen overnight. If my parents are used to one UI and it suddenly changes and they need my in-person assistance to reorder the home page, then Plex has failed to do its main job. If it becomes harder to find my content, then plex has failed to do its main job.</p></div>",
-            "date_published": "2022-06-11T00:05:57+00:00",
-            "authors": [
-                {
-                    "name": "vexorian2",
-                    "url": "https://www.reddit.com/user/vexorian2"
                 }
             ]
         }
