@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "17p475s",
+            "url": "/r/selfhosted/comments/17p475s/my_network_setup_that_prioritizes_privacy/",
+            "external_url": "https://i.redd.it/15x1ayncoqyb1.png",
+            "title": "My network setup that prioritizes privacy",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/17p475s/my_network_setup_that_prioritizes_privacy/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/17p475s/my_network_setup_that_prioritizes_privacy/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/15x1ayncoqyb1.png\" />",
+            "date_published": "2023-11-06T14:39:40+00:00",
+            "authors": [
+                {
+                    "name": "elusiveporcupine",
+                    "url": "https://www.reddit.com/user/elusiveporcupine"
+                }
+            ]
+        },
+        {
             "id": "17onhqa",
             "url": "/r/selfhosted/comments/17onhqa/librum_finally_a_modern_ebook_reader_follow_up/",
             "external_url": "https://v.redd.it/gcytfi4jtlyb1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "senectus",
                     "url": "https://www.reddit.com/user/senectus"
-                }
-            ]
-        },
-        {
-            "id": "125yjdn",
-            "url": "/r/selfhosted/comments/125yjdn/immich_selfhosted_photos_and_videos_backup/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/125yjdn/immich_selfhosted_photos_and_videos_backup/",
-            "title": "Immich - Self-hosted photos and videos backup solution from your mobile phone (AKA Google Photos replacement you have been waiting for!) - March late update - now with CLIP-enabled search mechanism.",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/125yjdn/immich_selfhosted_photos_and_videos_backup/'>Reddit</a></caption><div><br></div><div><p><a href=\"https://github.com/immich-app/immich\">GitHub Repo</a></p>\n<p>Greetings everyone! Alex here! Look like spring is finally come, and I am back with Immich\u2019s monthly update to deliver some good news.</p>\n<p><strong>Revamped search experience</strong></p>\n<p>Since the last announcement of moving the machine learning service to Python, we\u2019ve revamped the search mechanism completely so you can search among hundred of thousand of photos quickly and accurately using natural language as the search term. So you can search for \u201clazy cat in the box\u201d or \u201cbaby wearing a yellow skirt and sitting under the sun.\u201d We can achieve this thanks to the pre-trained Open AI\u2019s CLIP model and the integration with Typesense (a self-hosted and open-source search engine). The accuracy of the search will blow you away. Typesense will also be used for our future facial search and grouping mechanism.</p>\n<p>Here are a few sample results:</p>\n<p><a href=\"https://preview.redd.it/omcbagrmdqqa1.png?width=1249&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=b6ed9cc4961ef19b8b5003d5f6a7f30dec821cae\">Search for \u201cred mushroom\u201d</a></p>\n<p><a href=\"https://preview.redd.it/yflswe4odqqa1.png?width=1243&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=fd63b9fc17ec08b1850a1757ebdb3e2f5ee41468\">Search for \u201cbird on the water\u201d</a></p>\n<p>&#x200B;</p>\n<p>We\u2019ve added the explore page to show the curated detected objects and locations and some selected categories so you can navigate to those searches quickly.</p>\n<p><strong>Offline mode</strong></p>\n<p>Previously, when the server was down or your phone didn't have an internet connection, tapping anything in the mobile app would send you back to the login screen. This is because the mobile app couldn\u2019t retrieve any data from the server. We've added a new feature that allows the mobile app to work offline, so you can still view your photos and videos cached or stored on your device even when the server is down or you don't have an internet connection.</p>\n<p>In addition, when viewing photos and videos residing on your device, these are no longer loaded from the server but directly from the device. This reduces your mobile data usage and increases the loading speed of thumbnails while scrolling the timeline.</p>\n<p>We've also improved a lot of UI/UX elements and optimized data querying on both the web and mobile apps so that you will have a good experience when browsing, searching, and viewing in Immich.</p>\n<p>I want to express my appreciation to all the contributors and the users who have been helping us use and test the application, reporting bugs. Immich is the project for the community and by the community.</p>\n<p>As always, thank you for using Immich, and I hope you enjoy this update.</p>\n<p>Remember to support the project!</p>\n<p>If you find the project helpful and it helps you in some ways, you can support the project\u00a0<a href=\"https://github.com/sponsors/alextran1502?frequency=one-time&amp;sponsor=alextran1502\">one time</a>\u00a0or\u00a0<a href=\"https://github.com/sponsors/alextran1502\">monthly</a>\u00a0from GitHub Sponsors.</p>\n<p>Join our friendly\u00a0<a href=\"https://discord.gg/D8JsnBEuKb\">Discord</a> for discussion and getting help!</p>\n<p>\ud83c\udf89 Cheer! \ud83c\udf89</p>\n<p>Alex</p></div>",
-            "date_published": "2023-03-29T19:43:21+00:00",
-            "authors": [
-                {
-                    "name": "altran1502",
-                    "url": "https://www.reddit.com/user/altran1502"
                 }
             ]
         }
