@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "17olf1s",
+            "url": "/r/macapps/comments/17olf1s/do_you_buy_apps_in_the_mac_app_store/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/17olf1s/do_you_buy_apps_in_the_mac_app_store/",
+            "title": "Do you buy apps in the Mac App Store?",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17olf1s/do_you_buy_apps_in_the_mac_app_store/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17olf1s/do_you_buy_apps_in_the_mac_app_store/'>Reddit</a></caption><div><br></div><p>IMHO, the Mac App Storer (and iOS App Store) and its lack of upgrade pricing is one major reason why apps are moving to a subscription model. If I have no choice but to buy from the App Store I will do it. But I would rather buy directory from a developer and give them all of my money rather than deal with Apple's cut being taken out.</p>\n<p>The one exception to this is apps with subscriptions. If you charge me a subscription (and I'm actually willing to pay your subscription), then I'm getting it through the App Store. It's so easy to go into your AppleID settings and see all your subscriptions in one place and cancel the ones you don't need.</p>",
+            "date_published": "2023-11-05T20:52:43+00:00",
+            "authors": [
+                {
+                    "name": "plazman30",
+                    "url": "https://www.reddit.com/user/plazman30"
+                }
+            ]
+        },
+        {
             "id": "17nmzzr",
             "url": "/r/macapps/comments/17nmzzr/finder_path_finder_replacement_alternatives/",
             "external_url": "https://www.reddit.com/r/macapps/comments/17nmzzr/finder_path_finder_replacement_alternatives/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Xaqx",
                     "url": "https://www.reddit.com/user/Xaqx"
-                }
-            ]
-        },
-        {
-            "id": "13fk8ar",
-            "url": "/r/macapps/comments/13fk8ar/gigabrain/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/13fk8ar/gigabrain/",
-            "title": "GigaBrain",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/13fk8ar/gigabrain/'>Reddit</a></caption><div><br></div><div><p>If you want to know if your specific question about apps for your Mac has been asked before on Reddit: <a href=\"https://thegigabrain.com/\">https://thegigabrain.com/</a></p>\n<p>Okay, maybe it's just Google without the hassle of having to include \u2018site:Reddit.com\u2019  :)</p></div>",
-            "date_published": "2023-05-12T12:48:46+00:00",
-            "authors": [
-                {
-                    "name": "luuk64",
-                    "url": "https://www.reddit.com/user/luuk64"
                 }
             ]
         }
