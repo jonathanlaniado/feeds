@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "17pclhd",
+            "url": "/r/selfhosted/comments/17pclhd/shoutout_to_linuxserverio_for_making_docker_so/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/17pclhd/shoutout_to_linuxserverio_for_making_docker_so/",
+            "title": "Shout-out to Linuxserver.io for making Docker so easy to use for beginners",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/17pclhd/shoutout_to_linuxserverio_for_making_docker_so/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/17pclhd/shoutout_to_linuxserverio_for_making_docker_so/'>Reddit</a></caption><div><br></div><p>I am not an experienced user of Docker. For me, <a href=\"https://Linuxserver.io\">Linuxserver.io</a> images on docker hub have been wonderful. They are easy to configure, well documented and easy to install. It's so heartening to see an effort being made to make Docker accessible to everyone.</p>\n<p>&#x200B;</p>\n<p>If you're a beginner like me, I would strongly recommend choosing their images when possible, simply because their documentation is so consistently simple and easy to follow.</p>\n<p>&#x200B;</p>\n<p>On a different note, this is also why I can not use paperless-ngx, which does not have a corresponding LSIO image, right now. I have reached a stage where complex installs (say that of paperless-ngx, which needs me to tweak quite a few docker files individually) seem not worth the effort in the odd event that I mess something up.</p>",
+            "date_published": "2023-11-06T20:46:17+00:00",
+            "authors": [
+                {
+                    "name": "Significant-Neat7754",
+                    "url": "https://www.reddit.com/user/Significant-Neat7754"
+                }
+            ]
+        },
+        {
             "id": "17p475s",
             "url": "/r/selfhosted/comments/17p475s/my_network_setup_that_prioritizes_privacy/",
             "external_url": "https://i.redd.it/15x1ayncoqyb1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Julez-420",
                     "url": "https://www.reddit.com/user/Julez-420"
-                }
-            ]
-        },
-        {
-            "id": "127orpn",
-            "url": "/r/selfhosted/comments/127orpn/self_hosting_is_a_gateway_drug/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/127orpn/self_hosting_is_a_gateway_drug/",
-            "title": "Self hosting is a gateway drug",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/127orpn/self_hosting_is_a_gateway_drug/'>Reddit</a></caption><div><br></div><div><p>Seriously,  I have a synology NAS that I've been running up all sorts of docker instances on, then I thought I might as well get a static IP  and a domain name, now I've just forked out for a fanless pc from aliexpress so I can run a real firewall like pfsense, which led me to reconsidering that into running proxmox on it to host some vm'd opnsense and move my pihole over there... </p>\n<p>When does it end?!?</p>\n<p>I just want good reliable services,  that I can trust for my family and now I'm spending money on running a mini data centre!</p></div>",
-            "date_published": "2023-03-31T15:19:33+00:00",
-            "authors": [
-                {
-                    "name": "senectus",
-                    "url": "https://www.reddit.com/user/senectus"
                 }
             ]
         }
