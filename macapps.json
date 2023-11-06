@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "17ohx3e",
+            "url": "/r/macapps/comments/17ohx3e/paragon_software_ntfs_for_mac_gone_downhill/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/17ohx3e/paragon_software_ntfs_for_mac_gone_downhill/",
+            "title": "Paragon Software - NTFS for Mac - Gone' Downhill",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17ohx3e/paragon_software_ntfs_for_mac_gone_downhill/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17ohx3e/paragon_software_ntfs_for_mac_gone_downhill/'>Reddit</a></caption><div><br></div><p>I have been using Paragon Software primarily their NTFS for Mac app for years; they have always been solid.</p>\n<p>Recently (Last week) they released version 16 which has seemed to break existing licensing for a ton of people. I have reached out to them on X (They have not posted since 2020); I opened a support ticket immediately, and bump every day (not a single response or acknowledgment). Their forums are loaded with pretty pissed off users (rightfully so). </p>\n<p>ok ok, end rant on a company that seems to have pulled a fast one. </p>\n<p>Long story short, any recommendations on similar applications? </p>\n<p>My only other option is to export all of the data on the NTFS drives I have, and format them to a read and writable format for macOS. These are primarily used as my offline/local backups. Currently because NTFS for Mac is not working with my license, I only have read only access on the trial (which expires today). I refuse to buy another license from a company like this.</p>",
+            "date_published": "2023-11-05T18:15:35+00:00",
+            "authors": [
+                {
+                    "name": "deanfx",
+                    "url": "https://www.reddit.com/user/deanfx"
+                }
+            ]
+        },
+        {
             "id": "17olf1s",
             "url": "/r/macapps/comments/17olf1s/do_you_buy_apps_in_the_mac_app_store/",
             "external_url": "https://www.reddit.com/r/macapps/comments/17olf1s/do_you_buy_apps_in_the_mac_app_store/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MichaelTheGeek",
                     "url": "https://www.reddit.com/user/MichaelTheGeek"
-                }
-            ]
-        },
-        {
-            "id": "13g4usp",
-            "url": "/r/macapps/comments/13g4usp/new_outlook_focus_filters_out_in_beta/",
-            "external_url": "https://i.redd.it/rl4zlk7bfiza1.png",
-            "title": "New Outlook focus filters out in Beta",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/macapps/comments/13g4usp/new_outlook_focus_filters_out_in_beta/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/rl4zlk7bfiza1.png\" />",
-            "date_published": "2023-05-13T02:36:46+00:00",
-            "authors": [
-                {
-                    "name": "Xaqx",
-                    "url": "https://www.reddit.com/user/Xaqx"
                 }
             ]
         }
