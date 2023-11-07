@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s5ct/styles/communityIcon_f09ho1aq9slb1.png",
     "items": [
         {
+            "id": "17q3tz9",
+            "url": "/r/fantasybball/comments/17q3tz9/free_espnyahoo_h2h_matchup_visualizer_extra/",
+            "external_url": "https://www.reddit.com/r/fantasybball/comments/17q3tz9/free_espnyahoo_h2h_matchup_visualizer_extra/",
+            "title": "Free ESPN/Yahoo H2H matchup visualizer, extra features from last year",
+            "content_html": "<caption>Open: <a href='https://redirect.jonathanlaniado.com?url=apollo://www.reddit.com/r/fantasybball/comments/17q3tz9/free_espnyahoo_h2h_matchup_visualizer_extra/'>Apollo</a> | <a href='https://reddit.com/r/fantasybball/comments/17q3tz9/free_espnyahoo_h2h_matchup_visualizer_extra/'>Reddit</a></caption><div><br></div><p>https://fantasy.elvinfeng.com/</p>\n<p>Example visuals - https://imgur.com/a/QP2rLHp</p>\n<p>A fantasy basketball helper website that I have built over the years which some of you are still currently using this year. The data updates every morning (~9-10 AM EST) once the previous days games are finished.</p>\n<p>This year I have added Yahoo integration which can be done by doing a one time auth providing read access and the code. Other new features are team rankings/rosters and unrostered daily gamescores.</p>\n<p>Player ratings for yahoo leagues are based on ESPN ratings due to the ease of getting the data from their APIs so they will not match up with how Yahoo calculates ratings/rankings.</p>\n<p>If there are any league import issues, you can post here or message me so I can take a look at fixing.</p>\n<p>Feel free to provide feedback, issues, questions.</p>\n<p>EDIT: Fixed some yahoo processing errors 4:24PM EST, if you had trouble you can try again.</p>\n<p>Fixed a rare espn error for league 349630, it works now</p>",
+            "date_published": "2023-11-07T20:38:11+00:00",
+            "authors": [
+                {
+                    "name": "Terkeroo",
+                    "url": "https://www.reddit.com/user/Terkeroo"
+                }
+            ]
+        },
+        {
             "id": "17q06z7",
             "url": "/r/fantasybball/comments/17q06z7/hey_its_noah_rubin_from_rotoworld_no_games/",
             "external_url": "https://www.reddit.com/r/fantasybball/comments/17q06z7/hey_its_noah_rubin_from_rotoworld_no_games/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "SmokedLay",
                     "url": "https://www.reddit.com/user/SmokedLay"
-                }
-            ]
-        },
-        {
-            "id": "175r3ey",
-            "url": "/r/fantasybball/comments/175r3ey/hows_the_upside_on_bridges_going/",
-            "external_url": "https://i.redd.it/roygsk60intb1.jpg",
-            "title": "How's the upside on Bridges going?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/fantasybball/comments/175r3ey/hows_the_upside_on_bridges_going/'>Apollo</a> | <a href='https://reddit.com/r/fantasybball/comments/175r3ey/hows_the_upside_on_bridges_going/'>Reddit</a></caption><div><br></div><p>How you who picked Bridges feel about the UpSiDe he has?</p><div><br></div><img src=\"https://i.redd.it/roygsk60intb1.jpg\" />",
-            "date_published": "2023-10-11T22:36:49+00:00",
-            "authors": [
-                {
-                    "name": "EW_Dayne",
-                    "url": "https://www.reddit.com/user/EW_Dayne"
                 }
             ]
         }
