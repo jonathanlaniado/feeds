@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "17r0ga5",
+            "url": "/r/selfhosted/comments/17r0ga5/self_hosted_joy/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/17r0ga5/self_hosted_joy/",
+            "title": "Self hosted joy",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/17r0ga5/self_hosted_joy/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/17r0ga5/self_hosted_joy/'>Reddit</a></caption><div><br></div><p>I was trying to get into self hosted services to keep my mind active and stay engaged whilst going through a cancer diagnosis.</p>\n<p>Unfortunately it's spread to my brain and whilst there are some odds we don't know what will happen. I'm here to say if you self hoat anything self host your own joy, hopefully you're already doing it! Life is short and we all live on borrowed time.</p>\n<p>I hate the wankers that earn multiple times median earnings, most of which I've met are self entitled egotists if you scratch the surface. So I'm proud of all of you who contribute and try. It can be be weird, personal, or a huge success but you turned up and gave it a whirl!</p>\n<p>It's disgusting thinking about the profit margins tech companies feel entitled to, even though they've supported me most of the career I did get to have and all I say is that nothing replaces painstaking and exacting work and freedom isn't something to give up without adequate compensation (whatever that means to you).</p>\n<p>Power to the grass roots and power to all of you for showing up in any and all capacities just to ask how can I help you out here.</p>\n<p>\u2764\ufe0f safe journeys and many surprises I hope for many of your best years continue and grow.</p>",
+            "date_published": "2023-11-09T00:36:54+00:00",
+            "authors": [
+                {
+                    "name": "LostLetterbox",
+                    "url": "https://www.reddit.com/user/LostLetterbox"
+                }
+            ]
+        },
+        {
             "id": "17ql9vo",
             "url": "/r/selfhosted/comments/17ql9vo/cosmos_012_huge_update_all_in_one_secure/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/17ql9vo/cosmos_012_huge_update_all_in_one_secure/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "JustSuperHuman",
                     "url": "https://www.reddit.com/user/JustSuperHuman"
-                }
-            ]
-        },
-        {
-            "id": "12alonc",
-            "url": "/r/selfhosted/comments/12alonc/devops_course_for_selfhosters/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/12alonc/devops_course_for_selfhosters/",
-            "title": "DevOps course for self-hosters",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/12alonc/devops_course_for_selfhosters/'>Reddit</a></caption><div><br></div><div><p>Hello everyone,</p>\n<p>I've made a DevOps course covering a lot of different technologies and applications, aimed at startups, small companies and individuals who want to self-host their infrastructure.\nTo get this out of the way - this course doesn't cover Kubernetes or similar - I'm of the opinion that for startups, small companies, and especially individuals, you probably don't need Kubernetes. Unless you have a whole DevOps team, it usually brings more problems than benefits, and unnecessary infrastructure bills buried a lot of startups before they got anywhere.</p>\n<p>As for prerequisites, you can't be a complete beginner in the world of computers. If you've never even heard of Docker, if you don't know at least something about DNS, or if you don't have any experience with Linux, this course is probably not for you. That being said, I do explain the basics too, but probably not in enough detail for a complete beginner.</p>\n<p>Here's a 100% OFF coupon if you want to check it out:</p>\n<p>~~https://www.udemy.com/course/real-world-devops-project-from-start-to-finish/?couponCode=FREEDEVOPS2304FEEQK~~</p>\n<p>Edit: all gone!</p>\n<p>Be sure to BUY the course for $0, and not sign up for Udemy's subscription plan. The Subscription plan is selected by default, but you want the BUY checkbox. If you see a price other than $0, chances are that all coupons have been used already.\nYou can try manually entering the coupon code because Udemy sometimes messes with the link.</p>\n<p>The accompanying files for the course are at https://github.com/predmijat/realworlddevopscourse</p>\n<p>I encourage you to watch \"free preview\" videos to get the sense of what will be covered, but here's the gist:</p>\n<p>The goal of the course is to create an easily deployable and reproducible server which will have \"everything\" a startup or a small company will need - VPN, mail, Git, CI/CD, messaging, hosting websites and services, sharing files, calendar, etc. It can also be useful to individuals who want to self-host all of those - I ditched Google 99.9% and other than that being a good feeling, I'm not worried that some AI bug will lock my account with no one to talk to about resolving the issue.</p>\n<p>Considering that it covers a wide variety of topics, it doesn't go in depth in any of those. Think of it as going down a highway towards the end destination, but on the way there I show you all the junctions where I think it's useful to do more research on the subject.</p>\n<p>We'll deploy services inside Docker and LXC (Linux Containers). Those will include a mail server (iRedMail), Zulip (Slack and Microsoft Teams alternative), GitLab (with GitLab Runner and CI/CD), Nextcloud (file sharing, calendar, contacts, etc.), checkmk (monitoring solution), Pi-hole (ad blocking on DNS level), Traefik with Docker and file providers (a single HTTP/S entry point with automatic routing and TLS certificates).</p>\n<p>We'll set up WireGuard, a modern and fast VPN solution for secure access to VPS' internal network, and I'll also show you how to get a wildcard TLS certificate with certbot and DNS provider.</p>\n<p>To wrap it all up, we'll write a simple Python application that will compare a list of the desired backups with the list of finished backups, and send a result to a Zulip stream. We'll write the application, do a 'git push' to GitLab which will trigger a CI/CD pipeline that will build a Docker image, push it to a private registry, and then, with the help of the GitLab runner, run it on the VPS and post a result to a Zulip stream with a webhook.</p>\n<p>When done, you'll be equipped to add additional services suited for your needs.</p>\n<p>If this doesn't appeal to you, please leave the coupon for the next guy :)</p>\n<p>I hope that you'll find it useful!</p>\n<p>Happy learning,\nPredrag</p></div>",
-            "date_published": "2023-04-03T14:11:14+00:00",
-            "authors": [
-                {
-                    "name": "predmijat",
-                    "url": "https://www.reddit.com/user/predmijat"
                 }
             ]
         }
