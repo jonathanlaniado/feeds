@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "17rcwwz",
+            "url": "/r/aipromptprogramming/comments/17rcwwz/exploring_the_cost_of_openai_128k_api_pricey_yet/",
+            "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/17rcwwz/exploring_the_cost_of_openai_128k_api_pricey_yet/",
+            "title": "Exploring the Cost of OpenAi 128k API. Pricey yet Powerful!",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/aipromptprogramming/comments/17rcwwz/exploring_the_cost_of_openai_128k_api_pricey_yet/'>Apollo</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/17rcwwz/exploring_the_cost_of_openai_128k_api_pricey_yet/'>Reddit</a></caption><div><br></div><p>I finally got a chance to play with the new OpenAI GPT-4 Turbo 128k context model. It\u2019s powerful, and pricey. Here are my results.</p>\n<p>The introduction of a 128,000-token context window by OpenAI is an impressive addition, enabling far more intricate and detailed interactions with OpenAi. </p>\n<p>This capability allows for processing the equivalent of 300 page long-form documents or 25,600 lines of code in a single prompt, making it an invaluable tool for applications requiring deep context, such as thorough document analysis, extensive dialog interactions, and complex reasoning scenarios.</p>\n<p>Cost-wise, leveraging the GPT-4 Turbo model, the input cost is $0.01 per 1,000 tokens, and the output cost is $0.03 per 1,000 tokens. </p>\n<p>Below are estimated costs for different uses:</p>\n<ol>\n<li>Complex Legal Analysis</li>\n<li>Input: 128,000 tokens.</li>\n<li>Output: 20,000 tokens.</li>\n<li>Input Cost: $1.28</li>\n<li>Output Cost: $0.60</li>\n<li>\n<p>Combined: $1.88 per request.</p>\n</li>\n<li>\n<p>Extensive Technical Support</p>\n</li>\n<li>Input: 64,000 tokens (half of the context).</li>\n<li>Output: 8,000 tokens.</li>\n<li>Input Cost: $0.64</li>\n<li>Output Cost: $0.24</li>\n<li>\n<p>Combined: $0.88 per request.</p>\n</li>\n<li>\n<p>In-Depth Medical Consultation</p>\n</li>\n<li>Input: 128,000 tokens.</li>\n<li>Output: 15,000 tokens.</li>\n<li>Input Cost: $1.28</li>\n<li>Output Cost: $0.45</li>\n<li>\n<p>Combined: $1.73 per request.</p>\n</li>\n<li>\n<p>Code Review for Security Vulnerabilities (25,600 lines of code)</p>\n</li>\n<li>Input: 128,000 tokens.</li>\n<li>Output: 25,000 tokens.</li>\n<li>Input Cost: $1.28</li>\n<li>Output Cost: $0.75</li>\n<li>Combined: $2.03 per request.</li>\n</ol>\n<p>For an enterprise deployment of 10,000 users making two requests per day:</p>\n<ul>\n<li>Daily Input Cost per User: 2 requests * $1.28 = $2.56</li>\n<li>Daily Output Cost per User: 2 requests * $0.30 = $0.60 (assuming 10,000 tokens per output)</li>\n<li>Daily Combined Cost per User: $3.16</li>\n<li>Daily Combined Cost for 10,000 Users: $31,600</li>\n</ul>\n<p>These costs provide a framework for understanding the potential investment required for utilizing this advanced OpenAI GPT-4 Turbo 128k, and actual expenses would depend on the exact nature and volume of usage, but should give you a pretty good idea.</p>\n<p>One drawback, the context window seems to struggle in certain areas, some might refer to this as U problems it seems to be more of W, where certain areas don\u2019t seem to be as contextually aware. </p>\n<p>Lots of really interesting opportunities.</p>",
+            "date_published": "2023-11-09T13:27:23+00:00",
+            "authors": [
+                {
+                    "name": "Educational_Ice151",
+                    "url": "https://www.reddit.com/user/Educational_Ice151"
+                }
+            ]
+        },
+        {
             "id": "17rmmwl",
             "url": "/r/aipromptprogramming/comments/17rmmwl/i_just_created_a_us_tax_bot_in_10_mins_using_new/",
             "external_url": "https://chat.openai.com/g/g-EznQie7Yv-us-tax-bot",
