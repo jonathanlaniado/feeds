@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "17s2ge3",
+            "url": "/r/selfhosted/comments/17s2ge3/wallos_opensource_personal_subscription_tracker/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/17s2ge3/wallos_opensource_personal_subscription_tracker/",
+            "title": "Wallos: Open-Source Personal Subscription Tracker",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/17s2ge3/wallos_opensource_personal_subscription_tracker/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/17s2ge3/wallos_opensource_personal_subscription_tracker/'>Reddit</a></caption><div><br></div><p>Hi there selfhosters.</p>\n<p>I was looking for a self hosted open source subscription tracker for a while and since I could not find what I wanted, I decided to try to build it myself.<br />\nI used mobile apps like Billbot but the data would only be accessible on that device. I've also found a few web based services but would require a subscription, and the reason I wanted a subscription  tracker was to get an overview of my subscriptions and start saving money by cancelling unneeded or redundant services.<br />\nSince I am using so many open source and self hosted projects I decided to try to give something back and this is how Wallos was born.</p>\n<p>I'm not happy with the UI yet, it was my first time developing a project without a designer, but I don't hate it either.</p>\n<p>About Wallos:</p>\n<p>Wallos is an open-source, and self-hostable web application designed to empower you in managing your finances with ease. Say goodbye to complicated spreadsheets and expensive financial software \u2013 Wallos simplifies the process of tracking expenses and helps you gain better control over your financial life.   </p>\n<p><a href=\"https://preview.redd.it/clm0syryeizb1.png?width=1457&amp;format=png&amp;auto=webp&amp;s=5c66f0e67fb5611c0a3ddcfb04a91579927440fa\">Wallos Desktop Light Theme</a></p>\n<p>Features</p>\n<ul>\n<li>Subscription Management: Keep track of your recurring subscriptions and payments, ensuring you never miss a due date.</li>\n<li>Category Management: Organize your expenses into customizable categories, enabling you to gain insights into your spending habits.</li>\n<li>Multi-Currency support: Wallos supports multiple currencies, allowing you to manage your finances in the currency of your choice.</li>\n<li>Currency Conversion: Integrates with the Fixer API so you can get exchange rates and see all your subscriptions on your main currency.</li>\n<li>Data Privacy: As a self-hosted application, Wallos ensures that your financial data remains private and secure on your own server.</li>\n<li>Customization: Tailor Wallos to your needs with customizable categories, currencies, themes and other display options.</li>\n<li>Sorting Options: Allowing you to view your subscriptions from different perspectives.</li>\n<li>Logo Search: Wallos can search the web for the logo of your subscriptions if you don't have them available for upload.</li>\n<li>Mobile view: Wallos on the go.</li>\n<li>Statistics: Another perspective into your spendings.</li>\n<li>Notifcations: Get notified by email of an upcoming payment</li>\n</ul>\n<p>If you're interested in trying it:</p>\n<p>GitHub: <a href=\"https://github.com/ellite/Wallos\">https://github.com/ellite/Wallos</a><br />\nDockerHub: <a href=\"https://hub.docker.com/repository/docker/bellamy/wallos\">https://hub.docker.com/repository/docker/bellamy/wallos</a></p>\n<p>&#x200B;</p>\n<p>Help from the community is appreciated. <br />\nFeel free to open Pull requests with bug fixes and features. I'll do my best to keep an eye on those.<br />\nFeel free to open issues with bug reports or feature requests. Bug fixes will take priority.  </p>\n<p>The development cycle might not be the fastest, since I work a full time job and have a baby, but I'll do the best I can.  </p>\n<p>Thank you and hoping the tool can be useful to someone else.</p>",
+            "date_published": "2023-11-10T11:57:07+00:00",
+            "authors": [
+                {
+                    "name": "lordcracker",
+                    "url": "https://www.reddit.com/user/lordcracker"
+                }
+            ]
+        },
+        {
             "id": "17r0ga5",
             "url": "/r/selfhosted/comments/17r0ga5/self_hosted_joy/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/17r0ga5/self_hosted_joy/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "jamesravey_",
                     "url": "https://www.reddit.com/user/jamesravey_"
-                }
-            ]
-        },
-        {
-            "id": "12cz25l",
-            "url": "/r/selfhosted/comments/12cz25l/what_would_you_build/",
-            "external_url": "https://www.reddit.com/gallery/12cz25l",
-            "title": "What would you build?",
-            "content_html": "<caption>Open: <a href='https://www.reddit.com/gallery/12cz25l'>www.reddit.com</a> | <a href='https://reddit.com/r/selfhosted/comments/12cz25l/what_would_you_build/'>Reddit</a></caption>",
-            "date_published": "2023-04-05T21:46:25+00:00",
-            "authors": [
-                {
-                    "name": "JustSuperHuman",
-                    "url": "https://www.reddit.com/user/JustSuperHuman"
                 }
             ]
         }
