@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7hqomg/styles/communityIcon_lnxlhix84tja1.png",
     "items": [
         {
+            "id": "17rsub6",
+            "url": "/r/ChatGPT/comments/17rsub6/sam_altman_at_openai_just_took_a_major_shot_at/",
+            "external_url": "https://i.redd.it/7pek732xbfzb1.png",
+            "title": "Sam Altman at OpenAI just took a major shot at Elon's new Grok AI.",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ChatGPT/comments/17rsub6/sam_altman_at_openai_just_took_a_major_shot_at/'>Apollo</a> | <a href='https://reddit.com/r/ChatGPT/comments/17rsub6/sam_altman_at_openai_just_took_a_major_shot_at/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/7pek732xbfzb1.png\" />",
+            "date_published": "2023-11-10T01:34:04+00:00",
+            "authors": [
+                {
+                    "name": "GonzoVeritas",
+                    "url": "https://www.reddit.com/user/GonzoVeritas"
+                }
+            ]
+        },
+        {
             "id": "17rl0kq",
             "url": "/r/ChatGPT/comments/17rl0kq/if_chatgpt_tells_you_it_cant_do_something_just/",
             "external_url": "https://www.reddit.com/gallery/17rl0kq",
@@ -1392,12 +1406,6 @@
                     "url": "https://www.reddit.com/user/Odd_Opening5473"
                 }
             ]
-        },
-        {
-            "id": "0",
-            "url": "https://www.reddit.com/r/chatgpt",
-            "title": "r/chatgpt has been launched!",
-            "content_html": "<p>This feed will be populated as posts match the given criteria.</p>"
         }
     ]
 }
