@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "17sg9mb",
+            "url": "/r/macapps/comments/17sg9mb/pastepal_now_on_sale/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/17sg9mb/pastepal_now_on_sale/",
+            "title": "PastePal now on sale!",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17sg9mb/pastepal_now_on_sale/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17sg9mb/pastepal_now_on_sale/'>Reddit</a></caption><div><br></div><p><a href=\"https://indiegoodies.com/pastepal\">https://indiegoodies.com/pastepal</a> - 8,99 \u20ac it is for me - universal purchase, one of the best macOS/iOS clipboard managers in my opinion.</p>",
+            "date_published": "2023-11-10T22:55:54+00:00",
+            "authors": [
+                {
+                    "name": "QenTox",
+                    "url": "https://www.reddit.com/user/QenTox"
+                }
+            ]
+        },
+        {
             "id": "17rnmej",
             "url": "/r/macapps/comments/17rnmej/i_built_a_new_emoji_picker_for_mac_meet_emojibu/",
             "external_url": "https://www.reddit.com/r/macapps/comments/17rnmej/i_built_a_new_emoji_picker_for_mac_meet_emojibu/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "sarensw",
                     "url": "https://www.reddit.com/user/sarensw"
-                }
-            ]
-        },
-        {
-            "id": "13klofi",
-            "url": "/r/macapps/comments/13klofi/software_developer_mac_apps/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/13klofi/software_developer_mac_apps/",
-            "title": "Software Developer Mac Apps",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/13klofi/software_developer_mac_apps/'>Reddit</a></caption><div><br></div><div><p>Would love to know how the software developers here have set up their Mac.</p>\n<p>Whether it's including applications such as TextSoap or a fancy terminal set up with Neovim and Spotify-tui etc.</p>\n<p>Plus its always good to know what productivity apps people are running to help them.</p></div>",
-            "date_published": "2023-05-18T02:19:29+00:00",
-            "authors": [
-                {
-                    "name": "Comprehensive_Mud645",
-                    "url": "https://www.reddit.com/user/Comprehensive_Mud645"
                 }
             ]
         }
