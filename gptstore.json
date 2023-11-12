@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_9virzm/styles/communityIcon_ol7i3yw9mqyb1.png",
     "items": [
         {
+            "id": "17tvooe",
+            "url": "/r/GPTStore/comments/17tvooe/knowledge_file_retrival_tests/",
+            "external_url": "https://www.reddit.com/r/GPTStore/comments/17tvooe/knowledge_file_retrival_tests/",
+            "title": "Knowledge File Retrival Tests",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/GPTStore/comments/17tvooe/knowledge_file_retrival_tests/'>Apollo</a> | <a href='https://reddit.com/r/GPTStore/comments/17tvooe/knowledge_file_retrival_tests/'>Reddit</a></caption><div><br></div><p>&#x200B;</p>\n<p>https://preview.redd.it/ssamlp6utzzb1.png?width=960&amp;format=png&amp;auto=webp&amp;s=22c0152a5a236903061ca9f9d56c59255656278b</p>\n<p>I did some testing regarding the use of knowledge files.</p>\n<p>TL;DR:</p>\n<ul>\n<li>.md files do not work,</li>\n<li>.pdf vs. .txt makes no difference.</li>\n<li>length matters a tiny bit, images don't.</li>\n</ul>\n<p>It was not a comprehensive, elaborate test by any means, but might be of interest to some of you. I tested PDFs, textfiles and markdown. With an information buried beneath 48k and 240k characters and in the PDFs some MB of images.</p>\n<p>&#x200B;</p>\n<p>|filetype|payload|result|\n|:-|:-|:-|\n|.md|all|FAILED|\n|.txt|48k chars|9s|\n||240k chars|10s*|\n|.pdf|48k chars &amp; no images|9s|\n||48k chars &amp; images|1st FAIL; 2nd 11s*|\n||240k chars &amp; no images|10s*|\n||240k &amp; images|10s*|</p>\n<p>In the attempts marked with *, the indicator for a use of an external tool was displayed (in this case with the label \"Searching my knowledge\". This only occurred with the longer files, even though they barely took longer to present the result.</p>\n<p>I run each test 2 times to make at least a little up for uncontrolled factors, but again my aim was to get an idea if there is a noticeable difference and how the knowledge files work in general.</p>\n<p>&#x200B;</p>",
+            "date_published": "2023-11-12T22:30:21+00:00",
+            "authors": [
+                {
+                    "name": "luona-dev",
+                    "url": "https://www.reddit.com/user/luona-dev"
+                }
+            ]
+        },
+        {
             "id": "17tql6z",
             "url": "/r/GPTStore/comments/17tql6z/homescore_a_gpt_for_serious_home_buyers_to_assess/",
             "external_url": "https://www.reddit.com/r/GPTStore/comments/17tql6z/homescore_a_gpt_for_serious_home_buyers_to_assess/",
