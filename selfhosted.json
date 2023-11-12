@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "17tkq79",
+            "url": "/r/selfhosted/comments/17tkq79/dockge_a_fancy_easytouse_selfhosted_docker/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/17tkq79/dockge_a_fancy_easytouse_selfhosted_docker/",
+            "title": "Dockge - a fancy, easy-to-use self-hosted docker compose.yaml stack-oriented manager",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/17tkq79/dockge_a_fancy_easytouse_selfhosted_docker/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/17tkq79/dockge_a_fancy_easytouse_selfhosted_docker/'>Reddit</a></caption><div><br></div><p>&#x200B;</p>\n<p>https://preview.redd.it/ra343yd71xzb1.png?width=1903&amp;format=png&amp;auto=webp&amp;s=c28993a7b5a6ebe2d09b0d08896190e8e3349e0f</p>\n<p>GitHub: <a href=\"https://github.com/louislam/dockge\">https://github.com/louislam/dockge</a></p>\n<p>This is my second self-hosted project. If you still remember me, I am the one who created Uptime Kuma, and I had posted here 2 years ago.</p>\n<p>After joining this subreddit, I somehow fell into love with this community and also started enjoying using docker-compose to manage my containers.</p>\n<p>However, I always interacted with docker-compose using the CLI only, as I couldn't find a web app that focuses on docker-compose management. Although Portainer has the ability to do that, it do not display any progress during \"docker-compose up or pull\" unfortunately, which makes me prefer to use the CLI.</p>\n<p>So this time I tried to create my own stack-oriented manager to manage my compose.yaml files.</p>\n<p>- Manage docker compose.yaml files<br />\n- Interactive compose.yaml editor<br />\n- Interactive web terminal<br />\n- The UI/UX is very similar to Uptime Kuma</p>\n<p>A short introduction video:  <a href=\"https://youtu.be/AWAlOQeNpgU?t=48\">https://youtu.be/AWAlOQeNpgU?t=48</a></p>\n<p>It is really fully focused on docker compose, so please don't expect to manage a single container.</p>\n<p>Don't forget to \u2b50 the project on GitHub if you love it!</p>\n<p>A little update for Uptime Kuma:<br />\nUptime Kuma reached over 40,000 \u2b50 on GitHub and over 48,000,000 pulls on Docker Hub!!! It is a big gift for me, thank you everyone! Uptime Kuma V2 is still under development, stay tuned!</p>\n<p>&#x200B;</p>",
+            "date_published": "2023-11-12T13:56:25+00:00",
+            "authors": [
+                {
+                    "name": "louislamlam",
+                    "url": "https://www.reddit.com/user/louislamlam"
+                }
+            ]
+        },
+        {
             "id": "17s2ge3",
             "url": "/r/selfhosted/comments/17s2ge3/wallos_opensource_personal_subscription_tracker/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/17s2ge3/wallos_opensource_personal_subscription_tracker/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "slymilano",
                     "url": "https://www.reddit.com/user/slymilano"
-                }
-            ]
-        },
-        {
-            "id": "12hgi8s",
-            "url": "/r/selfhosted/comments/12hgi8s/turbopilot_a_selfhosted_copilot_clone_that_runs_a/",
-            "external_url": "https://github.com/ravenscroftj/turbopilot",
-            "title": "TurboPilot: A self-hosted Copilot clone that runs a code-completion LLM on your CPU",
-            "content_html": "<caption>Open: <a href='https://github.com/ravenscroftj/turbopilot'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/12hgi8s/turbopilot_a_selfhosted_copilot_clone_that_runs_a/'>Reddit</a></caption>",
-            "date_published": "2023-04-10T11:53:03+00:00",
-            "authors": [
-                {
-                    "name": "jamesravey_",
-                    "url": "https://www.reddit.com/user/jamesravey_"
                 }
             ]
         }
