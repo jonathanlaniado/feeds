@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "17t362y",
+            "url": "/r/homeassistant/comments/17t362y/beta_testers_needed_for_new_air_quality_sensor/",
+            "external_url": "https://www.reddit.com/gallery/17t362y",
+            "title": "Beta Testers Needed For New Air Quality Sensor! The Apollo Automation AIR-1!",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/17t362y/beta_testers_needed_for_new_air_quality_sensor/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/17t362y/beta_testers_needed_for_new_air_quality_sensor/'>Reddit</a></caption><div><br></div><p>We've been working on an air quality sensor called the Apollo Automation AIR-1. We're in the final testing phase and are seeking beta testers. It uses an ESP32-C3 with local control through ESPHome so it will be easy to setup! We're looking for feedback on features that need enhancement or new ideas that could be incorporated. If you are interested in the AIR-1 as well as beta testing then please fill out our survey in the comments section below so we can notify you when available.</p>\n<p>AIR-1 Sensors:\n- MiCS-4514: CO, Methane, C2H5OH (Alcohol), H2, NO2, NH3\n- SCD40: CO2, temperature, humidity\n- SEN55: Particulate matter (PM1, PM2.5, PM 4, PM10), VOCs, NOx, humidity, temperature\n- DPS310: Barometric air pressure, temperature</p>\n<p>The AIR-1 measures just 61mm x 61mm x 30mm, and we have focused on efficient heat management within this small package to maintain sensor accuracy. This includes a thoughtful PCB layout and case design, incorporating ventilation and strategic component placement.</p>\n<p>Future sensor and power expandability with a modular connector... \ud83d\ude09</p>\n<p>All related resources, including CAD models and firmware, are open-source and available on our <a href=\"https://github.com/ApolloAutomation/AIR-1\">GitHub</a>.</p>\n<p>Check out the AIR-1 in our <a href=\"https://shop.apolloautomation.cloud/products/air-1\">Shop</a>.</p>\n<p>Feel free to let us know of any thoughts or improvements in the comments section below. Thank you!</p>",
+            "date_published": "2023-11-11T20:32:53+00:00",
+            "authors": [
+                {
+                    "name": "ApolloAutomation",
+                    "url": "https://www.reddit.com/user/ApolloAutomation"
+                }
+            ]
+        },
+        {
             "id": "17s7lwq",
             "url": "/r/homeassistant/comments/17s7lwq/myq_you_will_not_be_missed/",
             "external_url": "https://www.reddit.com/r/homeassistant/comments/17s7lwq/myq_you_will_not_be_missed/",
