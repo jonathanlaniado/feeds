@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_9virzm/styles/communityIcon_ol7i3yw9mqyb1.png",
     "items": [
         {
+            "id": "17u8clq",
+            "url": "/r/GPTStore/comments/17u8clq/artwork_muse_easily_create_album_artwork_to_fill/",
+            "external_url": "https://www.reddit.com/r/GPTStore/comments/17u8clq/artwork_muse_easily_create_album_artwork_to_fill/",
+            "title": "Artwork Muse - Easily create album artwork to fill in the missing pieces of your Music Library",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/GPTStore/comments/17u8clq/artwork_muse_easily_create_album_artwork_to_fill/'>Apollo</a> | <a href='https://reddit.com/r/GPTStore/comments/17u8clq/artwork_muse_easily_create_album_artwork_to_fill/'>Reddit</a></caption><div><br></div><p>So I gave a try to my first GPT. I've called it, or better it called itself <a href=\"https://chat.openai.com/g/g-Vm2F2rz8l-artwork-muse\">Artwork Muse</a>. I created it to solve an actual problem. I have a very old Music Library that spans back decades and there are about 100 songs that have no artwork and that no software can find artwork for.</p>\n<p>I figured I really don't care about the artwork per se, all I need is some artwork, so when I scroll through my music app I can quickly recognise it.</p>\n<p>So I've created <a href=\"https://chat.openai.com/g/g-Vm2F2rz8l-artwork-muse\">Artwork Muse</a>. You give it a song and a title, or you upload a whole list. I makes a little web search to enrich the data and generates 1 artwork per item. Then it asks you to proceed until it is done. </p>\n<p>The process of creating <a href=\"https://chat.openai.com/g/g-Vm2F2rz8l-artwork-muse\">Artwork Muse</a> has been really amazing. An iterative process, like any other app development, with the only difference that trial and error now took a few seconds per iteration. I started with GPT builder but then ended up editing the configuration manually, as I realised it leads to more \"accurate\" and \"predictable\" results.</p>\n<p>Let me know what you think and happy to discuss the why and the how of the various instructions. I feel there is already some important understanding in this small morning project: https://chat.openai.com/g/g-Vm2F2rz8l-artwork-muse</p>",
+            "date_published": "2023-11-13T11:08:08+00:00",
+            "authors": [
+                {
+                    "name": "mrmojoer",
+                    "url": "https://www.reddit.com/user/mrmojoer"
+                }
+            ]
+        },
+        {
             "id": "17u4n6g",
             "url": "/r/GPTStore/comments/17u4n6g/this_was_a_fun_one_loved_it_mentalist_gpt_was/",
             "external_url": "https://chat.openai.com/g/g-lyl9YY4gt-mentalist",
