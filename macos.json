@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "17v32mq",
+            "url": "/r/MacOS/comments/17v32mq/onedrive_will_destroy_your_ssd_had_computer_on/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/17v32mq/onedrive_will_destroy_your_ssd_had_computer_on/",
+            "title": "OneDrive will destroy your SSD. Had computer on for less than 48 hours and 162GB written to disk!",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/MacOS/comments/17v32mq/onedrive_will_destroy_your_ssd_had_computer_on/'>Apollo</a> | <a href='https://reddit.com/r/MacOS/comments/17v32mq/onedrive_will_destroy_your_ssd_had_computer_on/'>Reddit</a></caption><div><br></div><p>Sonoma 14.0.</p>\n<p><strong>The only data on my My OneDrive account are about 200 Markdown files, less than 7MB in total size.</strong> There are no other files on the account. My MBA was running for less than a full 48 hours and not once did I open or use any of those files, and yet <strong>Activity monitor showed that a whopping 162GB was written to my hard drive!! FOR WHAT?!</strong> I restarted my computer this morning and it has been running for 5 hours now, and OneDrive has already written 18GB of data to the disk! At this rate, within a year or two, this will absolutely destroy the SSD. Seriously, F*** OneDrive.</p>\n<p>&#x200B;</p>\n<p>https://preview.redd.it/v4sarmy6nb0c1.png?width=1602&amp;format=png&amp;auto=webp&amp;s=2d98bb899b3d27d5bd7ca4ded58ed42afedbf463</p>",
+            "date_published": "2023-11-14T14:12:53+00:00",
+            "authors": [
+                {
+                    "name": "tech-pimp",
+                    "url": "https://www.reddit.com/user/tech-pimp"
+                }
+            ]
+        },
+        {
             "id": "17uo1v0",
             "url": "/r/MacOS/comments/17uo1v0/i_recreated_the_natural_macos_wallpapers_in_the/",
             "external_url": "https://www.reddit.com/gallery/17uo1v0",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Dislike24",
                     "url": "https://www.reddit.com/user/Dislike24"
-                }
-            ]
-        },
-        {
-            "id": "119w6wj",
-            "url": "/r/MacOS/comments/119w6wj/i_never_expected_macos_ventura_to_still_have/",
-            "external_url": "https://i.redd.it/09hp605oixja1.jpg",
-            "title": "I never expected macOS Ventura to still have color coordinated iPod Icons when connected.",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/MacOS/comments/119w6wj/i_never_expected_macos_ventura_to_still_have/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/09hp605oixja1.jpg\" />",
-            "date_published": "2023-02-23T12:10:26+00:00",
-            "authors": [
-                {
-                    "name": "17parkc",
-                    "url": "https://www.reddit.com/user/17parkc"
                 }
             ]
         }
