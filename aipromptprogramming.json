@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "17unwbf",
+            "url": "/r/aipromptprogramming/comments/17unwbf/struggling_with_apis_in_gpt_try_the_gpt_api/",
+            "external_url": "https://chat.openai.com/g/g-MmU2vf2RA-gpt-api-advisor",
+            "title": "Struggling with APIs in GPT? Try the GPT API Advisor! It features the full OpenAPI spec (109 pages), examples from Google, Microsoft Graph + functional GitHub integration, and more. Includes \"The Little Book of OAuth 2.0 RFCs\" for references. Choose \"Advanced Mode\" for GitHub integration.",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/aipromptprogramming/comments/17unwbf/struggling_with_apis_in_gpt_try_the_gpt_api/'>Apollo</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/17unwbf/struggling_with_apis_in_gpt_try_the_gpt_api/'>Reddit</a></caption><div><br></div><p>For anyone struggling with integrating APIs into GPTs. I\u2019ve created a GPT API Advisor to help guide you through the API process. It includes the entire OpenAPI specification (109 pages), several functional APIs examples (Google, Microsoft Graph etc) and a functional GitHub integration. This is what I\u2019m using to create my GPT including this one. </p>\n<p>The code interpreter can validate your json and provide a direct download.</p>\n<p>I even included \"The Little Book of OAuth 2.0 RFCs\" book as well as other various API/OAuth goodies for reference in the GPT knowledge base.</p>\n<p>The GitHub integration doesn't do much yet, but it proves it's possible. Choose \"Advanced Mode.\"</p>",
+            "date_published": "2023-11-13T23:11:40+00:00",
+            "authors": [
+                {
+                    "name": "Educational_Ice151",
+                    "url": "https://www.reddit.com/user/Educational_Ice151"
+                }
+            ]
+        },
+        {
             "id": "17rcwwz",
             "url": "/r/aipromptprogramming/comments/17rcwwz/exploring_the_cost_of_openai_128k_api_pricey_yet/",
             "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/17rcwwz/exploring_the_cost_of_openai_128k_api_pricey_yet/",
