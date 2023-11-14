@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_9virzm/styles/communityIcon_ol7i3yw9mqyb1.png",
     "items": [
         {
+            "id": "17uqkc9",
+            "url": "/r/GPTStore/comments/17uqkc9/help_with_instructions/",
+            "external_url": "https://www.reddit.com/r/GPTStore/comments/17uqkc9/help_with_instructions/",
+            "title": "Help with Instructions",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/GPTStore/comments/17uqkc9/help_with_instructions/'>Apollo</a> | <a href='https://reddit.com/r/GPTStore/comments/17uqkc9/help_with_instructions/'>Reddit</a></caption><div><br></div><p>Hello! One of the greatest challenges I have had with building GPTs is that it will <em>never</em> really follow instructions I give it about <em>not</em> dumping information about a process or task when a user asks about it.   </p>\n<p>E.g., If a user says \"I need help with....\" I want the GPT to guide the user one step at a time instead of providing an overview of the steps. </p>\n<p>I have tried writing this a million different, very explicit, ways. Here is my most recent version:   </p>\n<p>\"Whenever a user requests assistance with a process or inquires about the steps of a process, the GPT should not provide a complete list or overview of all the steps at once. Instead, the GPT is to guide the user through each step individually, similar to the TurboTax approach. After completing one step, the GPT should then ask the user if they are ready to proceed to the next step, ensuring clarity and understanding before moving forward.\"  </p>\n<p>It has gotten very good at finding all the possible ways to break this rule.   </p>\n<p>Currently, its latest trick is \"I will start with describing Step 1 before describing Step 2.... Step 1 has 5 parts to it....\" and then lists off the 5 parts.   </p>\n<p>Any ideas? </p>",
+            "date_published": "2023-11-14T01:17:56+00:00",
+            "authors": [
+                {
+                    "name": "FlorenceandtheGhost",
+                    "url": "https://www.reddit.com/user/FlorenceandtheGhost"
+                }
+            ]
+        },
+        {
             "id": "17uj6jz",
             "url": "/r/GPTStore/comments/17uj6jz/awesome_gpt_store_is_trending_on_github/",
             "external_url": "https://www.reddit.com/r/GPTStore/comments/17uj6jz/awesome_gpt_store_is_trending_on_github/",
