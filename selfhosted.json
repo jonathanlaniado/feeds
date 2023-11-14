@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "17v48t8",
+            "url": "/r/selfhosted/comments/17v48t8/budibase_will_soon_limit_users_on_oss_self_hosted/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/17v48t8/budibase_will_soon_limit_users_on_oss_self_hosted/",
+            "title": "Budibase Will Soon Limit Users on OSS Self Hosted Version",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/17v48t8/budibase_will_soon_limit_users_on_oss_self_hosted/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/17v48t8/budibase_will_soon_limit_users_on_oss_self_hosted/'>Reddit</a></caption><div><br></div><p>Just received the email over the weekend but if your self hosting Budibase you will soon be limited to 20 users even on the open source version. This is very unfortunate for me because I was running a bunch of volunteer community projects on there and really liked how they didn't hide SSO behind a paywall. Not everyone using apps like these are companies trying to save money and having to pay $5 per user isn't feasible for volunteer projects that don't have any money to begin with.  </p>\n<p>See <a href=\"https://budibase.com/blog/updates/pricing-v3/\">https://budibase.com/blog/updates/pricing-v3/</a></p>",
+            "date_published": "2023-11-14T15:09:24+00:00",
+            "authors": [
+                {
+                    "name": "absolutesantaja",
+                    "url": "https://www.reddit.com/user/absolutesantaja"
+                }
+            ]
+        },
+        {
             "id": "17tkq79",
             "url": "/r/selfhosted/comments/17tkq79/dockge_a_fancy_easytouse_selfhosted_docker/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/17tkq79/dockge_a_fancy_easytouse_selfhosted_docker/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Impre-visible",
                     "url": "https://www.reddit.com/user/Impre-visible"
-                }
-            ]
-        },
-        {
-            "id": "12l0r6p",
-            "url": "/r/selfhosted/comments/12l0r6p/with_the_web_archive_at_risk_of_being_shut_down/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/12l0r6p/with_the_web_archive_at_risk_of_being_shut_down/",
-            "title": "With the web archive at risk of being shut down by suits, I built an open source self-hosted torrent crawler called Magnetissimo.",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/12l0r6p/with_the_web_archive_at_risk_of_being_shut_down/'>Reddit</a></caption><div><br></div><div><p>https://github.com/sergiotapia/magnetissimo</p>\n<p>Magnetissimo is a self-hosted web application that indexes all popular torrent sites and saves the magnet links to your local database.</p>\n<hr />\n<p>With the web archive at risk of being shut down, I believe it's more important than ever to democratize information and let people host their own data and determine what to do with it.</p>\n<p>With Magnetissimo you can search across many different indexers and download the torrents right there via magnet link.</p>\n<p>Not only that, but the content is saved forever in your local database.</p>\n<p><a href=\"https://user-images.githubusercontent.com/686715/231880552-2e31151d-7efa-4809-af52-2f5f29e40ccd.png\">Here's a screenshot</a></p>\n<p>Let me know what you think and if you have a site that we don't support yet. I would be happy to add it.</p>\n<p>Thanks!</p></div>",
-            "date_published": "2023-04-13T19:32:57+00:00",
-            "authors": [
-                {
-                    "name": "slymilano",
-                    "url": "https://www.reddit.com/user/slymilano"
                 }
             ]
         }
