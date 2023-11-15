@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "17vuppd",
+            "url": "/r/selfhosted/comments/17vuppd/non_self_hosted_cheap_services_you_still_pay_for/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/17vuppd/non_self_hosted_cheap_services_you_still_pay_for/",
+            "title": "[non self hosted] : Cheap Services You Still Pay For",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/17vuppd/non_self_hosted_cheap_services_you_still_pay_for/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/17vuppd/non_self_hosted_cheap_services_you_still_pay_for/'>Reddit</a></caption><div><br></div><p>My Bitwarden renewal came through this morning.   It's still $10 per year.   I was about to cancel, but I thought  what the heck at $10, I'll keep it on  out of principle and to show support.  </p>\n<p>I also have a tutanota encrypted email, which costs little more than pocket change over the year.   I hardly use it, but it's there.</p>\n<p>I wondered then, if this community had any little gems to share - services they pay for that are let's say  under $30 annually.   I think we can exclude VPS, since lots of people will probably have them already.</p>\n<p>I'm going to cross post at /r/opensource too.</p>",
+            "date_published": "2023-11-15T14:23:46+00:00",
+            "authors": [
+                {
+                    "name": "softwarebuyer2015",
+                    "url": "https://www.reddit.com/user/softwarebuyer2015"
+                }
+            ]
+        },
+        {
             "id": "17v48t8",
             "url": "/r/selfhosted/comments/17v48t8/budibase_will_soon_limit_users_on_oss_self_hosted/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/17v48t8/budibase_will_soon_limit_users_on_oss_self_hosted/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "PovilasID",
                     "url": "https://www.reddit.com/user/PovilasID"
-                }
-            ]
-        },
-        {
-            "id": "12myth3",
-            "url": "/r/selfhosted/comments/12myth3/chocolate_an_opensource_alternative_to_plex/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/12myth3/chocolate_an_opensource_alternative_to_plex/",
-            "title": "Chocolate, an opensource alternative to Plex",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/12myth3/chocolate_an_opensource_alternative_to_plex/'>Reddit</a></caption><div><br></div><div><p>Hi r/selfhosted,</p>\n<p>I am excited to introduce you to Chocolate, an open-source media server that provides an alternative to Plex. Written in Python and React, Chocolate supports a variety of media types, including movies, TV shows, books, retro games, TV channels, and other videos.</p>\n<p>As the creator of Chocolate, I am passionate about providing a high-quality, customizable media server that can be self-hosted by anyone. With Chocolate, you have complete control over your media and can easily access it from anywhere.</p>\n<p>So if you're looking for a reliable and flexible media server, give Chocolate a try. It's free to use and easy to set up, and we think you'll love it as much as we do! Here's the link: <a href=\"https://github.com/ChocolateApp\">https://github.com/ChocolateApp</a></p></div>",
-            "date_published": "2023-04-15T11:11:59+00:00",
-            "authors": [
-                {
-                    "name": "Impre-visible",
-                    "url": "https://www.reddit.com/user/Impre-visible"
                 }
             ]
         }
