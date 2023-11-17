@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "17xk9c6",
+            "url": "/r/macapps/comments/17xk9c6/introducing_macpacker_simplifying_archive/",
+            "external_url": "https://macpacker.app/",
+            "title": "Introducing MacPacker: Simplifying Archive Navigation on macOS, One Peek at a Time!",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17xk9c6/introducing_macpacker_simplifying_archive/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17xk9c6/introducing_macpacker_simplifying_archive/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2023-11-17T17:30:02+00:00",
+            "authors": [
+                {
+                    "name": "sarensw",
+                    "url": "https://www.reddit.com/user/sarensw"
+                }
+            ]
+        },
+        {
             "id": "17vzmum",
             "url": "/r/macapps/comments/17vzmum/should_i_go_for_an_alternative_browser_or/",
             "external_url": "https://www.reddit.com/r/macapps/comments/17vzmum/should_i_go_for_an_alternative_browser_or/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "asdf_dsa",
                     "url": "https://www.reddit.com/user/asdf_dsa"
-                }
-            ]
-        },
-        {
-            "id": "13rnu38",
-            "url": "/r/macapps/comments/13rnu38/a_tool_for_multilingual_users_input_source_pro/",
-            "external_url": "https://inputsource.pro/",
-            "title": "A Tool for Multilingual Users: Input Source Pro",
-            "content_html": "<caption>Open: <a href='https://inputsource.pro/'>inputsource.pro</a> | <a href='https://reddit.com/r/macapps/comments/13rnu38/a_tool_for_multilingual_users_input_source_pro/'>Reddit</a></caption>",
-            "date_published": "2023-05-25T17:29:06+00:00",
-            "authors": [
-                {
-                    "name": "Runjuu",
-                    "url": "https://www.reddit.com/user/Runjuu"
                 }
             ]
         }
