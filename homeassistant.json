@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "17xgblr",
+            "url": "/r/homeassistant/comments/17xgblr/my_most_useless_automation/",
+            "external_url": "https://www.reddit.com/r/homeassistant/comments/17xgblr/my_most_useless_automation/",
+            "title": "My most useless automation.",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/17xgblr/my_most_useless_automation/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/17xgblr/my_most_useless_automation/'>Reddit</a></caption><div><br></div><p>I bought a \"vibration sensor\" from Aqara a while back. Thought I would have it under a step so I could build automations with it based on if someone walked up the stairs.</p>\n<p>Unfortunately, it was not sensitive enough to sense the vibrations from the stairs and I have had a hard time finding a sensible use for it.</p>\n<p>So that it wouldn't be a complete waste of money, I built an automation that makes my nest mini in the entrance say random nasty words every time I shake the sensor. I\u2019m calling it my tourettes button. I\u2019ts silly, I know.</p>\n<p>Tonight, after dinner, my 4 \u00bd year old daughter put on a unicorn mask and was going to put on a dance and song show along with her 2 year old sister for me and my partner. Taking turns, both children lined up all the toy figures in a crescent on the living room floor. Pretending they were gonna be the audience with me and my partner. Everyone got fake ice cream and sushi to enjoy before the show.</p>\n<p>Me and my partner were getting a little impatient, we had probably waited a good 10 minutes for the show to start. I began to suspect that maybe there wasn't a show and that my older daughter was procrastinating because she got stage fright or couldn\u2019t come up with a fitting song.</p>\n<p>So we pushed her a little and wondered if it was going to be a show or not.</p>\n<p>She goes out to the entrance as if to prepare for the grand opening. All of a sudden we hear the speaker in the entrance say out loud \"POOP D!*K!!!\"... *Silence for a couple of seconds* My daughter had accessed my tourettes button.</p>\n<p>What follows next is that my daughter jumps into the doorway to the living room, full on unicorn mode and proclaims:</p>\n<p>\"Today we're going to sing about the poop d!\u2019k, because Google said so\"</p>\n<p>Then follows 10 minutes of booth my kids scream-singing on the top of their lungs about the poop d!*k and that they are going to poop on the poop d!*k.</p>\n<p>I pray they forget about this before returning to preschool om monday.</p>",
+            "date_published": "2023-11-17T14:30:35+00:00",
+            "authors": [
+                {
+                    "name": "Smeen89",
+                    "url": "https://www.reddit.com/user/Smeen89"
+                }
+            ]
+        },
+        {
             "id": "17wtb5k",
             "url": "/r/homeassistant/comments/17wtb5k/repurposed_an_old_kindle_to_create_a_home/",
             "external_url": "https://i.redd.it/iqfnb6h92r0c1.png",
