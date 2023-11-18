@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "17y9w94",
+            "url": "/r/MacOS/comments/17y9w94/the_fn_key_has_been_gaining_power/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/17y9w94/the_fn_key_has_been_gaining_power/",
+            "title": "The fn key has been gaining power",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/MacOS/comments/17y9w94/the_fn_key_has_been_gaining_power/'>Apollo</a> | <a href='https://reddit.com/r/MacOS/comments/17y9w94/the_fn_key_has_been_gaining_power/'>Reddit</a></caption><div><br></div><p>My primary use for the fn key has been to switch input languages, and combined with del to forward delete. TIL from <a href=\"https://tidbits.com/2023/11/16/the-hidden-secrets-of-the-fn-key/\">this article</a> that the modifier has been gaining power over the last several OS releases. The article lists:</p>\n<p>Fn-A: Selects an item in the Dock, after which you can use the arrow keys to select different items and press Return to switch to the app</p>\n<p>Fn-Shift-A: Opens Launchpad</p>\n<p>Fn-C: Opens Control Center</p>\n<p>Fn-D: Starts dictation (or set a modifier key to do this when you press it twice)</p>\n<p>Fn-E: Open the emoji picker (same as choosing Edit &gt; Emoji &amp; Symbols)</p>\n<p>Fn-F: Toggles full-screen mode</p>\n<p>Fn-H: Hides current windows to reveal the desktop; a second press restores them</p>\n<p>Fn-M: Selects the Apple menu, after which you can use the arrow keys to navigate menus and activate the selected command by pressing Return</p>\n<p>Fn-N: Displays Notification Center</p>\n<p>Fn-Q: Starts a new Quick Note in Notes</p>\n<p>Fn-Delete: Forward delete on keyboards without a Forward Delete key (or use Control-D)</p>\n<p>Fn-Up Arrow: Scroll up one page (same as the Page Up key)</p>\n<p>Fn-Down Arrow: Scroll down one page (same as the Page Down key)</p>\n<p>Fn-Left Arrow: Scroll to the beginning of a document (same as the Home key)</p>\n<p>Fn-Right Arrow: Scroll to the end of a document (same as the End key)</p>",
+            "date_published": "2023-11-18T16:18:43+00:00",
+            "authors": [
+                {
+                    "name": "zzeeeee",
+                    "url": "https://www.reddit.com/user/zzeeeee"
+                }
+            ]
+        },
+        {
             "id": "17y5gou",
             "url": "/r/MacOS/comments/17y5gou/tutorial_on_how_to_do_this/",
             "external_url": "https://v.redd.it/4vaxnyt4o31c1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Alien_Drew",
                     "url": "https://www.reddit.com/user/Alien_Drew"
-                }
-            ]
-        },
-        {
-            "id": "11v7vhn",
-            "url": "/r/MacOS/comments/11v7vhn/im_calling_it/",
-            "external_url": "https://i.imgur.com/XYFqCtu.jpg",
-            "title": "I'm calling it...",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/MacOS/comments/11v7vhn/im_calling_it/\">Reddit</a></caption><div><br></div><img src=\"https://i.imgur.com/XYFqCtu.jpg\" />",
-            "date_published": "2023-03-19T01:52:21+00:00",
-            "authors": [
-                {
-                    "name": "BatGuano",
-                    "url": "https://www.reddit.com/user/BatGuano"
                 }
             ]
         }
