@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "17zt9qa",
+            "url": "/r/macapps/comments/17zt9qa/i_built_hotlist_a_free_todo_app_for_your_mac_menu/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/17zt9qa/i_built_hotlist_a_free_todo_app_for_your_mac_menu/",
+            "title": "I built Hotlist, a free todo app for your Mac menu bar",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17zt9qa/i_built_hotlist_a_free_todo_app_for_your_mac_menu/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17zt9qa/i_built_hotlist_a_free_todo_app_for_your_mac_menu/'>Reddit</a></caption><div><br></div><p>At the start of the year I spent a couple weeks building Hotlist, a tiny todo app to manage your daily todos. It's kind of like TextEdit but built for quickly managing a short todo list.</p>\n<p>Last week I decided to pick it up again to fix some bugs and to finally add a more detailed app icon.</p>\n<p>You can get the app here, it's free: <a href=\"https://pqina.nl/hotlist\">https://pqina.nl/hotlist</a></p>\n<p><a href=\"https://preview.redd.it/vtbf1sg0bj1c1.jpg?width=1270&amp;format=pjpg&amp;auto=webp&amp;s=b50e06ceafd9558686affb802fd9f4f4dc75e31a\">A tiny todo list in your Mac menu bar</a></p>\n<p>Would love your feedback.</p>",
+            "date_published": "2023-11-20T17:05:28+00:00",
+            "authors": [
+                {
+                    "name": "schrik",
+                    "url": "https://www.reddit.com/user/schrik"
+                }
+            ]
+        },
+        {
             "id": "17ywznm",
             "url": "/r/macapps/comments/17ywznm/unveiling_solo_developer_winss_first_year_revenue/",
             "external_url": "https://www.reddit.com/r/macapps/comments/17ywznm/unveiling_solo_developer_winss_first_year_revenue/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "bg3245",
                     "url": "https://www.reddit.com/user/bg3245"
-                }
-            ]
-        },
-        {
-            "id": "13vurcf",
-            "url": "/r/macapps/comments/13vurcf/shottr_has_two_paid_tiers/",
-            "external_url": "https://shottr.cc/newversion.html",
-            "title": "Shottr has two paid tiers",
-            "content_html": "<caption>Open: <a href='https://shottr.cc/newversion.html'>shottr.cc</a> | <a href='https://reddit.com/r/macapps/comments/13vurcf/shottr_has_two_paid_tiers/'>Reddit</a></caption>",
-            "date_published": "2023-05-30T16:23:02+00:00",
-            "authors": [
-                {
-                    "name": "MichaelTheGeek",
-                    "url": "https://www.reddit.com/user/MichaelTheGeek"
                 }
             ]
         }
