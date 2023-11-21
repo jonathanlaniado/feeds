@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "180maoe",
+            "url": "/r/selfhosted/comments/180maoe/plex_crossed_a_line_with_your_week_in_review/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/180maoe/plex_crossed_a_line_with_your_week_in_review/",
+            "title": "Plex crossed a line with \"Your week in review\" emails today.",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/180maoe/plex_crossed_a_line_with_your_week_in_review/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/180maoe/plex_crossed_a_line_with_your_week_in_review/'>Reddit</a></caption><div><br></div><p>As you may have seen Plex decided it was OK today to send an email showing me what my friends have been watching. To be clear, this is Plex telling other people what I've been watching from <em>my</em> server, with <em>my</em> files, and this is not OK. It also shows me what <em>they</em> have been watching on <em>their</em> server with <em>their</em> files. <strong>This is not OK!</strong></p>\n<p>https://imgur.com/a/DYR4wlh</p>\n<p>We all knew it was a matter of time before Plex started collecting data on our libraries and sharing it with advertisers. What happened to their \"we don't know, and don't want to know, what is on your server\"?. This, for me, is proof that those fears were absolutely founded in reality. On what planet would I ever want this information to be shared with friends on family on an OPT OUT basis? </p>\n<p>It's totally unacceptable to collect this data in the first place. It's totally unacceptable to share this information with uniquely identifiable information. And it's totally unacceptable to do this without explicitly asking me if it's OK. </p>\n<p>Unfortunately there is nothing you can do about this as a server admin, because technically these are <em>Plex</em> users and their marketing email preferences are controlled on the user side in the Plex website preferences. Not on your server.</p>\n<p><strong>This is an absolutely egregious overreach.</strong></p>\n<p>Thank goodness there are alternatives available in the form of Jellyfin and Emby. I left my Plex server up after the Jellyfin January challenge we did on the Self-Hosted podcast but because of this I feel that I have no choice but to take it down for good.</p>",
+            "date_published": "2023-11-21T17:25:17+00:00",
+            "authors": [
+                {
+                    "name": "Ironicbadger",
+                    "url": "https://www.reddit.com/user/Ironicbadger"
+                }
+            ]
+        },
+        {
             "id": "180fc2m",
             "url": "/r/selfhosted/comments/180fc2m/taipy_v30_turns_data_and_ai_algorithms_into_full/",
             "external_url": "https://github.com/Avaiga/taipy",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "londonE442",
                     "url": "https://www.reddit.com/user/londonE442"
-                }
-            ]
-        },
-        {
-            "id": "12w4p2f",
-            "url": "/r/selfhosted/comments/12w4p2f/localai_openai_compatible_api_to_run_llm_models/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/12w4p2f/localai_openai_compatible_api_to_run_llm_models/",
-            "title": "LocalAI: OpenAI compatible API to run LLM models locally on consumer grade hardware!",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/12w4p2f/localai_openai_compatible_api_to_run_llm_models/'>Reddit</a></caption><div><br></div><div><p>\ud83d\ude80 LocalAI is taking off! \ud83d\ude80   </p>\n<p>We just hit 330 stars on GitHub and we\u2019re not stopping there! \ud83c\udf1f   </p>\n<p>LocalAI is the OpenAI compatible API that lets you run AI models locally on your own CPU! \ud83d\udcbb Data never leaves your machine! No need for expensive cloud services or GPUs, LocalAI uses llama.cpp and ggml to power your AI projects! \ud83e\udd99  </p>\n<p>LocalAI supports multiple models backends (such as Alpaca, Cerebras, GPT4ALL-J and StableLM) and works seamlessly with OpenAI API. \ud83e\udde0 Join the LocalAI community today and unleash your creativity! \ud83d\ude4c  </p>\n<p>GitHub: <a href=\"https://github.com/go-skynet/LocalAI\">https://github.com/go-skynet/LocalAI</a>  </p>\n<p>We are also on discord!  Feel free to join our growing community!</p>\n<p><a href=\"https://discord.gg/uJAeKSAGDy\">https://discord.gg/uJAeKSAGDy</a></p></div>",
-            "date_published": "2023-04-23T10:55:48+00:00",
-            "authors": [
-                {
-                    "name": "mudler_it",
-                    "url": "https://www.reddit.com/user/mudler_it"
                 }
             ]
         }
