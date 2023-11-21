@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "180fc2m",
+            "url": "/r/selfhosted/comments/180fc2m/taipy_v30_turns_data_and_ai_algorithms_into_full/",
+            "external_url": "https://github.com/Avaiga/taipy",
+            "title": "Taipy v.3.0 - Turns Data and AI algorithms into full web applications in no time.",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/180fc2m/taipy_v30_turns_data_and_ai_algorithms_into_full/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/180fc2m/taipy_v30_turns_data_and_ai_algorithms_into_full/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2023-11-21T11:59:11+00:00",
+            "authors": [
+                {
+                    "name": "quicklyalienated76",
+                    "url": "https://www.reddit.com/user/quicklyalienated76"
+                }
+            ]
+        },
+        {
             "id": "17xlmja",
             "url": "/r/selfhosted/comments/17xlmja/hello_alex_from_immich_here_ive_gotten_a_chance/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/17xlmja/hello_alex_from_immich_here_ive_gotten_a_chance/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "mudler_it",
                     "url": "https://www.reddit.com/user/mudler_it"
-                }
-            ]
-        },
-        {
-            "id": "12tl7xi",
-            "url": "/r/selfhosted/comments/12tl7xi/forte_is_now_federated/",
-            "external_url": "https://i.redd.it/l0giwahty4va1.png",
-            "title": "Forte is now federated! \ud83e\udd73",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/selfhosted/comments/12tl7xi/forte_is_now_federated/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/l0giwahty4va1.png\" />",
-            "date_published": "2023-04-21T00:56:56+00:00",
-            "authors": [
-                {
-                    "name": "kgb_26",
-                    "url": "https://www.reddit.com/user/kgb_26"
                 }
             ]
         }
