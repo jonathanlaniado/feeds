@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "181hs7j",
+            "url": "/r/selfhosted/comments/181hs7j/what_radicalized_you_for_me_it_was_spore/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/181hs7j/what_radicalized_you_for_me_it_was_spore/",
+            "title": "What radicalized you? For me it was Spore.",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/181hs7j/what_radicalized_you_for_me_it_was_spore/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/181hs7j/what_radicalized_you_for_me_it_was_spore/'>Reddit</a></caption><div><br></div><p>Some people get into self hosting just because they're interested in the mechanics of it, but many people I think got inducted by the fact that for example, Facebook or snapchat make it so difficult to save your own pictures or migrate to another service, or the possibility that Google is reading all of your emails, etc. Others may have been radicalized by a specific event, such as a service provider closing up business and therefore you lose your data.</p>\n<p>For me, it was Spore com. I loved Spore, from the time I got it for my 10th birthday to maybe the age of 16 or 17 I poured hundreds or probably thousands of hours into this game. As I got older I became less invested in the gameplay and more invested in the creative aspect of it. I designed some badass creatures and spaceships that I was really proud of. I had a whole line of Spaceships that all served different roles in my head cannon, with different races of aliens following different themes. </p>\n<p>EA/Maxis/whoever runs Spore now purged all of them from spore.com, and now they're gone. Years of my childhood essentially put into a locked box and the key thrown away. For me it was like losing a scrapbook in a fire. What right did they have? </p>\n<p>So I ask, What radicalized you?</p>",
+            "date_published": "2023-11-22T19:42:41+00:00",
+            "authors": [
+                {
+                    "name": "Livid_Bee_5150",
+                    "url": "https://www.reddit.com/user/Livid_Bee_5150"
+                }
+            ]
+        },
+        {
             "id": "180maoe",
             "url": "/r/selfhosted/comments/180maoe/plex_crossed_a_line_with_your_week_in_review/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/180maoe/plex_crossed_a_line_with_your_week_in_review/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "lissy93",
                     "url": "https://www.reddit.com/user/lissy93"
-                }
-            ]
-        },
-        {
-            "id": "12wl9lp",
-            "url": "/r/selfhosted/comments/12wl9lp/jellyfin_critical_remote_code_execution/",
-            "external_url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.8.10",
-            "title": "Jellyfin: Critical remote code execution vulnerability in versions before 10.8.10",
-            "content_html": "<caption>Open: <a href='https://github.com/jellyfin/jellyfin/releases/tag/v10.8.10'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/12wl9lp/jellyfin_critical_remote_code_execution/'>Reddit</a></caption>",
-            "date_published": "2023-04-23T18:33:03+00:00",
-            "authors": [
-                {
-                    "name": "londonE442",
-                    "url": "https://www.reddit.com/user/londonE442"
                 }
             ]
         }
