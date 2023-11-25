@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "183p3hl",
+            "url": "/r/selfhosted/comments/183p3hl/grimoire_bookmark_manager_for_the_wizards/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/183p3hl/grimoire_bookmark_manager_for_the_wizards/",
+            "title": "Grimoire - Bookmark manager for the wizards \ud83e\uddd9",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/183p3hl/grimoire_bookmark_manager_for_the_wizards/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/183p3hl/grimoire_bookmark_manager_for_the_wizards/'>Reddit</a></caption><div><br></div><p>The time has come to unveil <em>Grimoire</em>, a bookmark manager designed specifically for everyone who is missing a little bit of magic touch when it comes to organizing their bookmarks.</p>\n<p>Its mission is simple: to help you add, process, and organize your bookmarks in a way that makes sense.</p>\n<h2>Reasoning behind the project<a href=\"https://grimoire.pro/blog/launch-time#reasoning-behind-the-project\">\u200b</a></h2>\n<p>I've always struggled with organizing my bookmarks. Even though I tried many options, none of them really appealed to me. The built-in bookmark managers in browsers were too basic and didn't allow me to organize my bookmarks in a way that made sense to me. The most popular external bookmark managers have been too simple, too complicated, or too expensive for what they offer.</p>\n<p>What I liked the most was the idea of having a bookmark manager with a relational database I had access to. This would let me retrieve my bookmarks in any way I wanted, and I could easily add new features in the future. I've searched for a solution that would allow me to do that, but I couldn't find anything that would fit my needs.</p>\n<p>And that's how the idea of the Grimoire was born. I wanted to create a bookmark manager that would be simple to use, but also powerful enough to let me organize my bookmarks in a way that made sense to me. Moreover, I wanted to take SvelteKit and PocketBase for a spin, and this seemed like a perfect opportunity to do so.</p>\n<h2>How it looks now<a href=\"https://grimoire.pro/blog/launch-time#how-it-looks-now\">\u200b</a></h2>\n<p>Starting with v0.1.0, Grimoire has most of the basic features you would expect from a bookmark manager:</p>\n<ul>\n<li>bookmarks:</li>\n<li>can be added, viewed, edited, and deleted</li>\n<li>can be organized into categories and tagged</li>\n<li>metadata, like title, description, HTML content, favicon, and image, is fetched from the website and stored locally</li>\n<li>can have notes added to them</li>\n<li>bookmark list:</li>\n<li>display in a grid or list view</li>\n<li>can be searched by title, description, URL, and tags</li>\n<li>filtering by category, tag, and and more</li>\n<li>sort by date added, domain, and more</li>\n<li>users:</li>\n<li>can sign up and sign in</li>\n<li>all bookmarks, categories, and tags are private to the user</li>\n<li>admin panel:</li>\n<li>is used to manage users and see their bookmark, category, and tag counts</li>\n<li>can be used to preview most of PocketBase settings</li>\n<li>other:</li>\n<li>it's dockerized, so it's easy to run it locally or deploy it to your server</li>\n<li>all the benefits of a self-hosted PocketBase installation, like scheduled backups (local and to S3), high performance, and data security</li>\n<li>dark mode, because dark wizardry requires darkness</li>\n<li>responsive design as magic should be accessible to everyone, everywhere</li>\n<li>early and experimental support for AI-powered features (more on that in the future), like automatic tag suggestions</li>\n<li>and that's just the beginning!</li>\n</ul>\n<h2>What's next<a href=\"https://grimoire.pro/blog/launch-time#whats-next\">\u200b</a></h2>\n<p>It's still a work in progress, but I'm happy with the functionality provided so far. You can expect more useful features, like a way to import bookmarks from other services and export them to most popular file formats, public profiles, better admin panel, AI-powered features - just to name a few. For more details, check out the <a href=\"https://grimoire.pro/docs/roadmap\">roadmap</a>.</p>\n<h2>How to get it up and running<a href=\"https://grimoire.pro/blog/launch-time#how-to-get-it-up-and-running\">\u200b</a></h2>\n<p>If you want to try it out, you can <a href=\"https://grimoire.pro/docs/getting-started/quick-start\">run it locally</a>!</p>\n<h2>Contributors are more than welcome<img alt=\"\u200b\" src=\"https://grimoire.pro/blog/launch-time#contributors-are-more-than-welcome\" /></h2>\n<p>To make Grimoire even better, I need your help! Don't be a stranger and check out the <a href=\"https://github.com/goniszewski/grimoire/blob/main/CONTRIBUTING.md\">contributing guidelines</a> today!</p>",
+            "date_published": "2023-11-25T17:43:45+00:00",
+            "authors": [
+                {
+                    "name": "goniszewski",
+                    "url": "https://www.reddit.com/user/goniszewski"
+                }
+            ]
+        },
+        {
             "id": "183g045",
             "url": "/r/selfhosted/comments/183g045/xpipe_a_reimagined_sftp_client_for_modern_server/",
             "external_url": "https://github.com/xpipe-io/xpipe",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "SpongederpSquarefap",
                     "url": "https://www.reddit.com/user/SpongederpSquarefap"
-                }
-            ]
-        },
-        {
-            "id": "12yipuy",
-            "url": "/r/selfhosted/comments/12yipuy/file_converters_do_you_know_of_any_i_can_self/",
-            "external_url": "https://i.redd.it/nj67iydd31wa1.png",
-            "title": "File Converters - Do you know of any I can self host? I want to do it all...",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/selfhosted/comments/12yipuy/file_converters_do_you_know_of_any_i_can_self/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/nj67iydd31wa1.png\" />",
-            "date_published": "2023-04-25T13:00:16+00:00",
-            "authors": [
-                {
-                    "name": "TwoDogDad",
-                    "url": "https://www.reddit.com/user/TwoDogDad"
                 }
             ]
         }
