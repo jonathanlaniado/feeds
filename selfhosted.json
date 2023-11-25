@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "183g045",
+            "url": "/r/selfhosted/comments/183g045/xpipe_a_reimagined_sftp_client_for_modern_server/",
+            "external_url": "https://github.com/xpipe-io/xpipe",
+            "title": "XPipe \u2013 A reimagined SFTP client for modern server infrastructure",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/183g045/xpipe_a_reimagined_sftp_client_for_modern_server/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/183g045/xpipe_a_reimagined_sftp_client_for_modern_server/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2023-11-25T09:21:49+00:00",
+            "authors": [
+                {
+                    "name": "milchshakee",
+                    "url": "https://www.reddit.com/user/milchshakee"
+                }
+            ]
+        },
+        {
             "id": "181hs7j",
             "url": "/r/selfhosted/comments/181hs7j/what_radicalized_you_for_me_it_was_spore/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/181hs7j/what_radicalized_you_for_me_it_was_spore/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "TwoDogDad",
                     "url": "https://www.reddit.com/user/TwoDogDad"
-                }
-            ]
-        },
-        {
-            "id": "12xmf1e",
-            "url": "/r/selfhosted/comments/12xmf1e/just_a_bit_ol_list_of_portainer_templates/",
-            "external_url": "https://github.com/Lissy93/portainer-templates",
-            "title": "Just a bit 'ol list of Portainer Templates",
-            "content_html": "<caption>Open: <a href='https://github.com/Lissy93/portainer-templates'>github.com</a> | <a href='https://reddit.com/r/selfhosted/comments/12xmf1e/just_a_bit_ol_list_of_portainer_templates/'>Reddit</a></caption>",
-            "date_published": "2023-04-24T15:45:32+00:00",
-            "authors": [
-                {
-                    "name": "lissy93",
-                    "url": "https://www.reddit.com/user/lissy93"
                 }
             ]
         }
