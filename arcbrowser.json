@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "183rulg",
+            "url": "/r/ArcBrowser/comments/183rulg/theres_a_difference_between_memory_use_and_memory/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/183rulg/theres_a_difference_between_memory_use_and_memory/",
+            "title": "There's a difference between memory use and memory efficiency",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/183rulg/theres_a_difference_between_memory_use_and_memory/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/183rulg/theres_a_difference_between_memory_use_and_memory/'>Reddit</a></caption><div><br></div><p>I see many posts about Arc using this much ram, and that much ram.  That is a super simplistic way of determining whether or not Arc is good at memory management.  For example, just go and use Safari and you'll notice that it uses a lot of memory, but what you will also notice is that your memory pressure on the machine is much lower than it is with Arc or some other browser. Not even Edge can touch it.  </p>\n<p>But there are times when people will post that Arc sucks with memory use but when I look at the screen shot of their activity monitor I see that it's actually not doing a bad job.  Anyways, just wanted to throw that out there and let me know from real CS folk if I'm saying something stupid.</p>",
+            "date_published": "2023-11-25T19:48:43+00:00",
+            "authors": [
+                {
+                    "name": "momo1083",
+                    "url": "https://www.reddit.com/user/momo1083"
+                }
+            ]
+        },
+        {
             "id": "181gd01",
             "url": "/r/ArcBrowser/comments/181gd01/quick_gut_check_arcinternet_members_what_do_you/",
             "external_url": "https://v.redd.it/5xdryou82y1c1",
