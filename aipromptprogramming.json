@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "184w5vg",
+            "url": "/r/aipromptprogramming/comments/184w5vg/stepbystep_intro_tutorial_to_build_assistants/",
+            "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/184w5vg/stepbystep_intro_tutorial_to_build_assistants/",
+            "title": "Step-by-step intro tutorial to build Assistants using OpenAI Assistants API",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/aipromptprogramming/comments/184w5vg/stepbystep_intro_tutorial_to_build_assistants/'>Apollo</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/184w5vg/stepbystep_intro_tutorial_to_build_assistants/'>Reddit</a></caption><div><br></div><p>Trying to build a simple application using Assistant API. I built a simple streamlit app to demo the McDonald's drive-through assistant here is the code walk through <a href=\"https://youtu.be/zL2kj85lOTc\">https://youtu.be/zL2kj85lOTc</a> and the code <a href=\"https://github.com/sarchak/AIAutomation\">https://github.com/sarchak/AIAutomation</a></p>",
+            "date_published": "2023-11-27T06:08:28+00:00",
+            "authors": [
+                {
+                    "name": "canhelp",
+                    "url": "https://www.reddit.com/user/canhelp"
+                }
+            ]
+        },
+        {
             "id": "17unwbf",
             "url": "/r/aipromptprogramming/comments/17unwbf/struggling_with_apis_in_gpt_try_the_gpt_api/",
             "external_url": "https://chat.openai.com/g/g-MmU2vf2RA-gpt-api-advisor",
