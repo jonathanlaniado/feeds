@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "185vmmg",
+            "url": "/r/PleX/comments/185vmmg/rather_annoying_new_plex_feature/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/185vmmg/rather_annoying_new_plex_feature/",
+            "title": "Rather annoying new Plex feature.",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/PleX/comments/185vmmg/rather_annoying_new_plex_feature/'>Apollo</a> | <a href='https://reddit.com/r/PleX/comments/185vmmg/rather_annoying_new_plex_feature/'>Reddit</a></caption><div><br></div><p>Hi </p>\n<p>One of my Plex users has just pointed out to me that they\u2019ve started receiving a weekly email from Plex. Within the email they can see the watch history of other Plex users on my server. \nSome of my users might not be happy with others seeing their watch history, so I\u2019d like to change settings so the users can\u2019t see each others history (and ideally don\u2019t receive this email anymore!) </p>\n<p>I\u2019ve had a look through the Plex settings, but I can\u2019t see anything that allows me to turn this off. Does anyone have any ideas how I can do this please? </p>\n<p>Thanks</p>",
+            "date_published": "2023-11-28T13:07:28+00:00",
+            "authors": [
+                {
+                    "name": "Neither-Engine-5852",
+                    "url": "https://www.reddit.com/user/Neither-Engine-5852"
+                }
+            ]
+        },
+        {
             "id": "1858wkn",
             "url": "/r/PleX/comments/1858wkn/plex_users_fear_new_feature_will_leak_porn_habits/",
             "external_url": "https://www.404media.co/plex-users-fear-discover-together-week-in-review-feature-will-leak-porn-habits-to-their-friends-and-family/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Shaunieboii",
                     "url": "https://www.reddit.com/user/Shaunieboii"
-                }
-            ]
-        },
-        {
-            "id": "vx5uu5",
-            "url": "/r/PleX/comments/vx5uu5/ive_been_a_plex_pass_holder_for_nearly_6_years/",
-            "external_url": "https://i.redd.it/x0iwzxsah3b91.jpg",
-            "title": "I've been a plex pass holder for nearly 6 years. Ads in push notifications is disgusting. Shouldn't be acceptable.",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/x0iwzxsah3b91.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/PleX/comments/vx5uu5/ive_been_a_plex_pass_holder_for_nearly_6_years/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/vx5uu5/ive_been_a_plex_pass_holder_for_nearly_6_years/'>Apollo</a></caption>",
-            "date_published": "2022-07-12T08:05:10+00:00",
-            "authors": [
-                {
-                    "name": "Lumpzor",
-                    "url": "https://www.reddit.com/user/Lumpzor"
                 }
             ]
         }
