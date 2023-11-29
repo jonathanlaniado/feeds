@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "186ltbv",
+            "url": "/r/selfhosted/comments/186ltbv/changedetectionio_your_reddit_inspired_website/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/186ltbv/changedetectionio_your_reddit_inspired_website/",
+            "title": "changedetection.io - Your Reddit inspired website content monitoring tool releases 0.45.8",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/186ltbv/changedetectionio_your_reddit_inspired_website/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/186ltbv/changedetectionio_your_reddit_inspired_website/'>Reddit</a></caption><div><br></div><p>Hi all :) It's a been a while and I've been super busy, but here's another super nice release (thanks for the feedback!), support for xPath2.0/3.0 means you can use logic in your selectors (for example, give the count of the number of divs that contain certain text, and much more). UI improvements, Selectable browser (plug it into Bright Data's scraping browser!) and more, check it out! Much \u2764 from the changedetection team. <a href=\"https://github.com/dgtlmoon/changedetection.io\">https://github.com/dgtlmoon/changedetection.io</a> / changedetection.io</p>\n<p><a href=\"https://preview.redd.it/ocv82wb5d93c1.png?width=1131&amp;format=png&amp;auto=webp&amp;s=b8a3344859f4fefd55587eda3d9be7575cf128cf\">Website content monitoring and notification 'overview' list of websites being watched</a></p>",
+            "date_published": "2023-11-29T09:50:11+00:00",
+            "authors": [
+                {
+                    "name": "dgtlmoon123",
+                    "url": "https://www.reddit.com/user/dgtlmoon123"
+                }
+            ]
+        },
+        {
             "id": "18491e9",
             "url": "/r/selfhosted/comments/18491e9/tailscale_the_marvellous_tool_that_became/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/18491e9/tailscale_the_marvellous_tool_that_became/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "bugbbq",
                     "url": "https://www.reddit.com/user/bugbbq"
-                }
-            ]
-        },
-        {
-            "id": "13dm9du",
-            "url": "/r/selfhosted/comments/13dm9du/budibase_an_opensource_platform_for_building_apps/",
-            "external_url": "https://i.redd.it/9hsno5l5czya1.png",
-            "title": "Budibase, an open-source platform for building apps on top of SQL, REST, Google Sheets, now ships with a powerful spreadsheet-like grid, Active Directory Sync / SCIM, and more.",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/selfhosted/comments/13dm9du/budibase_an_opensource_platform_for_building_apps/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/9hsno5l5czya1.png\" />",
-            "date_published": "2023-05-10T10:17:14+00:00",
-            "authors": [
-                {
-                    "name": "jo_ranamo",
-                    "url": "https://www.reddit.com/user/jo_ranamo"
                 }
             ]
         }
