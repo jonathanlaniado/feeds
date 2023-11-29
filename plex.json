@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "18687eb",
+            "url": "/r/PleX/comments/18687eb/how_to_optout_of_plex_discover_together/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/18687eb/how_to_optout_of_plex_discover_together/",
+            "title": "How to Opt-Out of Plex Discover Together",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/PleX/comments/18687eb/how_to_optout_of_plex_discover_together/'>Apollo</a> | <a href='https://reddit.com/r/PleX/comments/18687eb/how_to_optout_of_plex_discover_together/'>Reddit</a></caption><div><br></div><h1>How to Disable Discover Together Sharing</h1>\n<p><strong>Step 1:</strong></p>\n<p>Log into <a href=\"https://app.plex.tv\">app.plex.tv</a> through a web browser.</p>\n<p><strong>Step 2:</strong></p>\n<p>Select your profile photo in the top-right corner of the screen, then select \"View Profile\"</p>\n<p>&#x200B;</p>\n<p>https://preview.redd.it/oscqkkm0j63c1.png?width=588&amp;format=png&amp;auto=webp&amp;s=61b50eeb62fc37da33d813786eba92a0047169ad</p>\n<p><strong>Step 3:</strong></p>\n<p>Select \"Edit Profile\"</p>\n<p><strong>Step 4:</strong></p>\n<p>Select \"Manage who can see your activity\"</p>\n<p>&#x200B;</p>\n<p>https://preview.redd.it/63706xtaj63c1.png?width=545&amp;format=png&amp;auto=webp&amp;s=74dc31f83595d8c055ac074e92f711c8b79d83b8</p>\n<p><strong>Step 5:</strong></p>\n<p>Make sure all options are set to private. (Account Visibility defaults to \"Anyone,\" with \"Friends Only\" currently being the most restrictive choice as of writing.)</p>\n<p>&#x200B;</p>\n<p>https://preview.redd.it/cfwx5zoqj63c1.png?width=942&amp;format=png&amp;auto=webp&amp;s=9843b92f364508b39401ea8470c1fc706b3944a3</p>\n<h1>How to Disable Sending playback data to Plex</h1>\n<p><strong>Step 1:</strong></p>\n<p>Log into <a href=\"https://Plex.tv\">Plex.tv</a> through a web browser.</p>\n<p><strong>Step 2:</strong></p>\n<p>Navigate to the following URL: <a href=\"https://www.plex.tv/about/privacy-legal/privacy-preferences/#opd\">https://www.plex.tv/about/privacy-legal/privacy-preferences/#opd</a></p>\n<p><strong>Step 3:</strong></p>\n<p>Under \"Optional Playback Data,\" you will find \"Send playback data to Plex\"</p>\n<p>&#x200B;</p>\n<p>https://preview.redd.it/8u24pxmzm63c1.png?width=666&amp;format=png&amp;auto=webp&amp;s=db8e292628c770a72b286f21fd2905474971b412</p>\n<p><strong>Step 4:</strong></p>\n<p>Uncheck \"Send playback data to Plex\"</p>\n<p>---</p>\n<p>I will be updating this post with any additional steps as needed. Please let me know if it's missing anything!</p>\n<p>[Edit: Added \"How to disable Discover Together sharing,\" thank you u/pommesmatte!]</p>",
+            "date_published": "2023-11-28T22:04:12+00:00",
+            "authors": [
+                {
+                    "name": "treemeizer",
+                    "url": "https://www.reddit.com/user/treemeizer"
+                }
+            ]
+        },
+        {
             "id": "185vmmg",
             "url": "/r/PleX/comments/185vmmg/rather_annoying_new_plex_feature/",
             "external_url": "https://www.reddit.com/r/PleX/comments/185vmmg/rather_annoying_new_plex_feature/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "FriendlyITGuy",
                     "url": "https://www.reddit.com/user/FriendlyITGuy"
-                }
-            ]
-        },
-        {
-            "id": "vyyata",
-            "url": "/r/PleX/comments/vyyata/why_on_gods_green_earth_do_i_need_an_internet/",
-            "external_url": "https://i.redd.it/pylpybsyvjb91.jpg",
-            "title": "Why on god's green earth do I need an internet connection to play downloaded content??",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/pylpybsyvjb91.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/PleX/comments/vyyata/why_on_gods_green_earth_do_i_need_an_internet/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/vyyata/why_on_gods_green_earth_do_i_need_an_internet/'>Apollo</a></caption>",
-            "date_published": "2022-07-14T15:15:52+00:00",
-            "authors": [
-                {
-                    "name": "Shaunieboii",
-                    "url": "https://www.reddit.com/user/Shaunieboii"
                 }
             ]
         }
