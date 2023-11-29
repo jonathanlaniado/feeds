@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "186egpq",
+            "url": "/r/PleX/comments/186egpq/the_ability_to_create_virtual_channels_that/",
+            "external_url": "https://forums.plex.tv/t/pseudotv/99226/173",
+            "title": "The ability to create virtual channels that integrates with live TV guide is currently being worked on by Plex",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/PleX/comments/186egpq/the_ability_to_create_virtual_channels_that/'>Apollo</a> | <a href='https://reddit.com/r/PleX/comments/186egpq/the_ability_to_create_virtual_channels_that/'>Reddit</a></caption><div><br></div><p>I bumped this feature request in the forums after it was dormant for some time and a Plex employee responded that they are hoping to add the feature at a later date. As someone that uses DizqueTV and Xteve with my HDhomerun, this is great news.</p>",
+            "date_published": "2023-11-29T02:33:49+00:00",
+            "authors": [
+                {
+                    "name": "keviac82",
+                    "url": "https://www.reddit.com/user/keviac82"
+                }
+            ]
+        },
+        {
             "id": "18687eb",
             "url": "/r/PleX/comments/18687eb/how_to_optout_of_plex_discover_together/",
             "external_url": "https://www.reddit.com/r/PleX/comments/18687eb/how_to_optout_of_plex_discover_together/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "djandDK",
                     "url": "https://www.reddit.com/user/djandDK"
-                }
-            ]
-        },
-        {
-            "id": "w368fc",
-            "url": "/r/PleX/comments/w368fc/even_private_jet_billionaires_use_plex/",
-            "external_url": "https://i.redd.it/walng9zcvlc91.jpg",
-            "title": "Even private jet billionaires use Plex",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/walng9zcvlc91.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/PleX/comments/w368fc/even_private_jet_billionaires_use_plex/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/w368fc/even_private_jet_billionaires_use_plex/'>Apollo</a></caption>",
-            "date_published": "2022-07-19T23:00:41+00:00",
-            "authors": [
-                {
-                    "name": "FriendlyITGuy",
-                    "url": "https://www.reddit.com/user/FriendlyITGuy"
                 }
             ]
         }
