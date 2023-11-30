@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "187h7r4",
+            "url": "/r/macapps/comments/187h7r4/picview_a_new_mac_image_viewer_with_windows_genes/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/187h7r4/picview_a_new_mac_image_viewer_with_windows_genes/",
+            "title": "Picview - A new Mac Image Viewer with Windows Genes",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/187h7r4/picview_a_new_mac_image_viewer_with_windows_genes/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/187h7r4/picview_a_new_mac_image_viewer_with_windows_genes/'>Reddit</a></caption><div><br></div><p>Hey, guys</p>\n<p>I have developed a macOS image viewer App called Picview, and have been working hard on it for several months. It is now stable and mature, and I am delighted to share it here.</p>\n<p>Here are its main features:\n- <strong>Windows-like operation features</strong>. Double-click to open an image, use left and right arrow keys to navigate, and scroll the mouse wheel to zoom in and out.\n- Clean and minimalistic design. Only necessary elements are displayed, without any unnecessary distractions.\n- <strong>Supports a wide range of image formats</strong>, including PNG, JPG, WEBP, BMP, ICO, GIF, CR2, CR3, NEF, HEIC, and more.\n- <strong>Offers various image viewing modes</strong>, including single-window and multiple-window viewing. Supports eight scaling modes, such as screen-fit, window-fit, actual size and so on.\n- <strong>Highly responsive, providing smooth image browsing and fast loading</strong>. Written in native Swift, with a small installation package size of only <strong>7.1MB</strong>.\n- User-friendly, with a rich set of keyboard shortcuts. It also supports image pinned and <strong>LiveText</strong>.</p>\n<p>Picview addresses the need for a Windows Photos-like image viewing experience on macOS. It can be downloaded for free from the <a href=\"https://apps.apple.com/us/app/picview-image-photo-browser/id6452016140?mt=12?mt=12\">App Store</a></p>\n<p>For more information, you can visit our <a href=\"https://enpicview.chitaner.com\">official website</a></p>\n<p>We would greatly appreciate it if you could provide us with your feedback and suggestions.</p>",
+            "date_published": "2023-11-30T12:18:01+00:00",
+            "authors": [
+                {
+                    "name": "coolnull",
+                    "url": "https://www.reddit.com/user/coolnull"
+                }
+            ]
+        },
+        {
             "id": "186atmk",
             "url": "/r/macapps/comments/186atmk/favorite_apps_that_very_few_people_seem_to_know/",
             "external_url": "https://www.reddit.com/r/macapps/comments/186atmk/favorite_apps_that_very_few_people_seem_to_know/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MichaelTheGeek",
                     "url": "https://www.reddit.com/user/MichaelTheGeek"
-                }
-            ]
-        },
-        {
-            "id": "13yk5cv",
-            "url": "/r/macapps/comments/13yk5cv/glide_focus_pointer_is_free_to_download_for_the/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/13yk5cv/glide_focus_pointer_is_free_to_download_for_the/",
-            "title": "\u201cGlide - Focus pointer\u201d is free to download for the next week",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/13yk5cv/glide_focus_pointer_is_free_to_download_for_the/'>Reddit</a></caption><div><br></div><div><p>Glide is a Mac app that I made which dims part of your screen for better focus and reading experience. If this sounds useful to you this is a great chance to grab it for free. </p>\n<p>https://apps.apple.com/us/app/glide-focus-pointer/id1593045116?mt=12</p></div>",
-            "date_published": "2023-06-02T18:14:10+00:00",
-            "authors": [
-                {
-                    "name": "Famous_Repeat3444",
-                    "url": "https://www.reddit.com/user/Famous_Repeat3444"
                 }
             ]
         }
