@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "188ee3v",
+            "url": "/r/PleX/comments/188ee3v/plex_statement_on_discover_together_optin/",
+            "external_url": "https://forums.plex.tv/t/discover-together-public-release/857227/3",
+            "title": "Plex statement on Discover Together opt-in",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/PleX/comments/188ee3v/plex_statement_on_discover_together_optin/'>Apollo</a> | <a href='https://reddit.com/r/PleX/comments/188ee3v/plex_statement_on_discover_together_optin/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2023-12-01T15:18:39+00:00",
+            "authors": [
+                {
+                    "name": "NelsonMinar",
+                    "url": "https://www.reddit.com/user/NelsonMinar"
+                }
+            ]
+        },
+        {
             "id": "1884fgh",
             "url": "/r/PleX/comments/1884fgh/plex_logo_as_a_projector_wall_transition/",
             "external_url": "https://i.redd.it/nz9hopppgm3c1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "TimoVerbrugghe",
                     "url": "https://www.reddit.com/user/TimoVerbrugghe"
-                }
-            ]
-        },
-        {
-            "id": "wkzn8i",
-            "url": "/r/PleX/comments/wkzn8i/my_friends_kept_watching_movies_in_low_quality/",
-            "external_url": "https://i.imgur.com/3uz7viB.jpg",
-            "title": "My friends kept watching movies in low quality for no reason, which kept making my small CPU hurt, which kept making me annoyed... So, I decided to code a \"Transcoding Police\" Telegram bot which exposes criminals as soon as it detects someone is watching with transcoding. Problem solved! (:",
-            "content_html": "<caption>Open in: <a href='https://i.imgur.com/3uz7viB.jpg'>i.imgur.com</a> | <a href='https://reddit.com/r/PleX/comments/wkzn8i/my_friends_kept_watching_movies_in_low_quality/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/wkzn8i/my_friends_kept_watching_movies_in_low_quality/'>Apollo</a></caption>",
-            "date_published": "2022-08-10T15:00:17+00:00",
-            "authors": [
-                {
-                    "name": "Laiteuxxx",
-                    "url": "https://www.reddit.com/user/Laiteuxxx"
                 }
             ]
         }
