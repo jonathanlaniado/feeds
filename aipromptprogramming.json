@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "187v0ui",
+            "url": "/r/aipromptprogramming/comments/187v0ui/excited_to_announce_the_opensourcing_of_my_full/",
+            "external_url": "https://github.com/ruvnet/gpts",
+            "title": "Excited to announce the open-sourcing of my full GPT collection under an MIT license. Find specialized GPTs like MedicGPT & LegalGPT in this GitHub repo, each tailored for unique uses. Includes detailed instructions & OpenAPI.json formats for easy integration.",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/aipromptprogramming/comments/187v0ui/excited_to_announce_the_opensourcing_of_my_full/'>Apollo</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/187v0ui/excited_to_announce_the_opensourcing_of_my_full/'>Reddit</a></caption><div><br></div><p>In this comprehensive GitHub repository, you'll find a wide range of GPTs tailored for various applications. From MedicGPT, offering insights into medical topics, to LegalGPT, your friendly legal advisor, each model is designed to cater to specific needs. The collection also includes Idea Loop for creative ideation, Ad Creator for innovative advertising, and many more specialized GPTs.</p>\n<p>Each GPT comes with detailed instructions and is complemented by OpenAPI.json formats for API integration. This setup ensures a smooth and informative start for anyone interested in exploring and utilizing these AI models. </p>\n<p>Whether you're delving into AI for the first time or are a seasoned professional, this repository offers valuable resources to enhance your projects and research in AI.</p>",
+            "date_published": "2023-11-30T22:22:50+00:00",
+            "authors": [
+                {
+                    "name": "Educational_Ice151",
+                    "url": "https://www.reddit.com/user/Educational_Ice151"
+                }
+            ]
+        },
+        {
             "id": "186sday",
             "url": "/r/aipromptprogramming/comments/186sday/meet_gpt_crawler_an_ai_tool_that_can_crawl_a_site/",
             "external_url": "https://i.redd.it/943r00dse63c1.gif",
