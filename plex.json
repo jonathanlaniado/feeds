@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "188mutf",
+            "url": "/r/PleX/comments/188mutf/plexs_legally_required_page_to_opt_out_of_data/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/188mutf/plexs_legally_required_page_to_opt_out_of_data/",
+            "title": "Plex's (legally required) page to opt out of data sharing with 3rd party vendor appears to not actually save your opt-out",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/PleX/comments/188mutf/plexs_legally_required_page_to_opt_out_of_data/'>Apollo</a> | <a href='https://reddit.com/r/PleX/comments/188mutf/plexs_legally_required_page_to_opt_out_of_data/'>Reddit</a></caption><div><br></div><p>Several US states require software platforms to allow users to opt out of third party data sharing. Plex spun up https://www.plex.tv/vendors-us/ to allow users select that they would like to be opted out. </p>\n<p>However, as discussed over in <a href=\"https://www.reddit.com/r/PleX/comments/188ee3v/plex_statement_on_discover_together_optin/kblirxi/?context=1\">this thread</a>, that page appears to be completely broken. When selecting the opt-out radio buttons and saving your preferences, the only network requests sent are for Fullstory (a user tracking service) and Facebook. https://imgur.com/a/KoJlXgv</p>\n<p>Now, unless Plex is somehow managing their data sharing preferences through Fullstory (which would be <em>very</em> strange) and also has decided to for some reason not show you the opt-out state that's saved on their end, then they're not actually allowing their users to opt out of data sharing with a 3rd party vendor. </p>\n<p>If this assessment is wrong, it would be <strong>really helpful</strong> if someone from Plex could clarify.</p>\n<p>EDIT: See comments below, this may be broken only on some browsers?</p>",
+            "date_published": "2023-12-01T21:24:11+00:00",
+            "authors": [
+                {
+                    "name": "Realtrain",
+                    "url": "https://www.reddit.com/user/Realtrain"
+                }
+            ]
+        },
+        {
             "id": "188ee3v",
             "url": "/r/PleX/comments/188ee3v/plex_statement_on_discover_together_optin/",
             "external_url": "https://forums.plex.tv/t/discover-together-public-release/857227/3",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "aur0n",
                     "url": "https://www.reddit.com/user/aur0n"
-                }
-            ]
-        },
-        {
-            "id": "wniicy",
-            "url": "/r/PleX/comments/wniicy/thats_a_weird_way_to_say_that_my_database_is/",
-            "external_url": "https://www.reddit.com/gallery/wniicy",
-            "title": "That\u2019s a weird way to say that my database is corrupted, Plex",
-            "content_html": "<caption>Open in: <a href='https://www.reddit.com/gallery/wniicy'>www.reddit.com</a> | <a href='https://reddit.com/r/PleX/comments/wniicy/thats_a_weird_way_to_say_that_my_database_is/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/wniicy/thats_a_weird_way_to_say_that_my_database_is/'>Apollo</a></caption>",
-            "date_published": "2022-08-13T16:27:33+00:00",
-            "authors": [
-                {
-                    "name": "TimoVerbrugghe",
-                    "url": "https://www.reddit.com/user/TimoVerbrugghe"
                 }
             ]
         }
