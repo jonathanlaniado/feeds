@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "189ylho",
+            "url": "/r/PleX/comments/189ylho/plex_sent_i_want_your_sex_to_all_my_friends_and/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/189ylho/plex_sent_i_want_your_sex_to_all_my_friends_and/",
+            "title": "Plex sent \"I Want Your Sex\" to all my friends and family without my permission.",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/PleX/comments/189ylho/plex_sent_i_want_your_sex_to_all_my_friends_and/'>Apollo</a> | <a href='https://reddit.com/r/PleX/comments/189ylho/plex_sent_i_want_your_sex_to_all_my_friends_and/'>Reddit</a></caption><div><br></div><p>Apparently Plex decided it was a good idea to opt people into an email that is automatically sent to all their friends and family on Plex. Allegedly there is a screen that was supposed to pop up where one had to change a default setting from \"Friends\" to \"Private\". I swear I never saw such a screen. I am very careful about these things.</p>\n<p>So now this went out to my family based on an episode from the Kardashians that my Wife watched. Not cool. Who thought this was a good idea? The only way I found out about it was that they contacted me. Kind of awkward.</p>\n<p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/zfp8m0ev944c1.png?width=1700&amp;format=png&amp;auto=webp&amp;s=9357ef60f5288f5aa9b77e7629c5a7cbe741383d\">This is what my family saw in an email from Plex</a></p>",
+            "date_published": "2023-12-03T17:38:45+00:00",
+            "authors": [
+                {
+                    "name": "PowerTowerPro",
+                    "url": "https://www.reddit.com/user/PowerTowerPro"
+                }
+            ]
+        },
+        {
             "id": "188mutf",
             "url": "/r/PleX/comments/188mutf/plexs_legally_required_page_to_opt_out_of_data/",
             "external_url": "https://www.reddit.com/r/PleX/comments/188mutf/plexs_legally_required_page_to_opt_out_of_data/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "kjarkr",
                     "url": "https://www.reddit.com/user/kjarkr"
-                }
-            ]
-        },
-        {
-            "id": "wsjptc",
-            "url": "/r/PleX/comments/wsjptc/plex_finally_adds_support_to_multiple_editions/",
-            "external_url": "https://i.imgur.com/8MXQhwY.jpg",
-            "title": "Plex finally adds support to Multiple Editions (requires Plex Pass)",
-            "content_html": "<caption>Open in: <a href='https://i.imgur.com/8MXQhwY.jpg'>i.imgur.com</a> | <a href='https://reddit.com/r/PleX/comments/wsjptc/plex_finally_adds_support_to_multiple_editions/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/wsjptc/plex_finally_adds_support_to_multiple_editions/'>Apollo</a></caption>",
-            "date_published": "2022-08-19T17:26:45+00:00",
-            "authors": [
-                {
-                    "name": "aur0n",
-                    "url": "https://www.reddit.com/user/aur0n"
                 }
             ]
         }
