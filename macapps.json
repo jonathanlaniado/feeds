@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "18anlw5",
+            "url": "/r/macapps/comments/18anlw5/my_moms_a_teacher_and_had_to_transition_to_online/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/18anlw5/my_moms_a_teacher_and_had_to_transition_to_online/",
+            "title": "My mom\u2019s a teacher and had to transition to online teaching. Ads are messing things u",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/18anlw5/my_moms_a_teacher_and_had_to_transition_to_online/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/18anlw5/my_moms_a_teacher_and_had_to_transition_to_online/'>Reddit</a></caption><div><br></div><p>So she started teaching online, but isn\u2019t really much of a tech user and when she has to screen share, she confuses ads with other things and that can derail things. She has clicked on ads a few times, and some of them can lead to really shady or inappropriate websites. She uses Safari, and her students recommended using ad-blockers to her, and told her to look up <a href=\"https://apps.apple.com/app/apple-store/id1198047227\">Magic Lasso</a>. I want to know if that\u2019s a good one and if there are any other recommendations that I could try?</p>\n<p>It's got to be light on my system as her mac\u2019s on the older side and has already crashed once in the middle of class. I need something that's easy to install and just works. Thanks a ton in advance.</p>",
+            "date_published": "2023-12-04T16:16:05+00:00",
+            "authors": [
+                {
+                    "name": "ceezpenguino",
+                    "url": "https://www.reddit.com/user/ceezpenguino"
+                }
+            ]
+        },
+        {
             "id": "1896p02",
             "url": "/r/macapps/comments/1896p02/indie_app_santa_macwhisper_free_lifetime_license/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1896p02/indie_app_santa_macwhisper_free_lifetime_license/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "rurza",
                     "url": "https://www.reddit.com/user/rurza"
-                }
-            ]
-        },
-        {
-            "id": "143ic3b",
-            "url": "/r/macapps/comments/143ic3b/export_an_app_that_can_bulk_export_apple_notes_to/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/143ic3b/export_an_app_that_can_bulk_export_apple_notes_to/",
-            "title": "Export: An app that can bulk export Apple Notes to markdown",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/143ic3b/export_an_app_that_can_bulk_export_apple_notes_to/'>Reddit</a></caption><div><br></div><div><p>I really like Apple Notes.  My only problem with it was the lack of export. You could export notes, one at a time to PDF, or you could use some hack on your iPad to get the exported as RTF.</p>\n<p>This \"lock in\" prevented me from really considering Apple Notes.</p>\n<p>Then I discovered an app called Export in the Mac App Store.</p>\n<p><a href=\"https://apps.apple.com/us/app/exporter/id1099120373?ls=1&amp;mt=12\">https://apps.apple.com/us/app/exporter/id1099120373?ls=1&amp;mt=12</a></p>\n<p>This can export all your notes as markdown and include all attachments.</p>\n<p>This puts Apple Notes back on the list for me.</p>\n<p>Now I just need to find a way to scrape a web page into an Apple Note.</p></div>",
-            "date_published": "2023-06-07T16:47:16+00:00",
-            "authors": [
-                {
-                    "name": "plazman30",
-                    "url": "https://www.reddit.com/user/plazman30"
                 }
             ]
         }
