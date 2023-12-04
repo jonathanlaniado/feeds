@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
     "items": [
         {
+            "id": "18aor9g",
+            "url": "/r/ChatGPTPro/comments/18aor9g/ace_your_next_job_interview_with_chatgpt_voice/",
+            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/18aor9g/ace_your_next_job_interview_with_chatgpt_voice/",
+            "title": "Ace your next job interview with ChatGPT Voice",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ChatGPTPro/comments/18aor9g/ace_your_next_job_interview_with_chatgpt_voice/'>Apollo</a> | <a href='https://reddit.com/r/ChatGPTPro/comments/18aor9g/ace_your_next_job_interview_with_chatgpt_voice/'>Reddit</a></caption><div><br></div><p>ChatGPT voice is an awesome free feature by ChatGPT that brought a lot of new use cases. And my favorite one is using it for job interviews.</p>\n<p>If you are out of the loop, ChatGPT has an Android &amp; iPhone app that since recently has <a href=\"https://openai.com/blog/chatgpt-can-now-see-hear-and-speak\">ChatGPT voice</a>. This is not just simple voice commands, you can actually talk to ChatGPT with a very realistic voice. And it's 100% free. </p>\n<p>To turn ChatGPT into a recruiter that will conduct the interview, we first have to explain the setting. You don't have to start with a voice conversation, you can also prompt via text and then start the voice conversation. </p>\n<p><strong>Prompt ChatGPT</strong></p>\n<p>Use the following prompt to turn ChatGPT into a recruiter and have a good understanding of the company and role you are applying for:</p>\n<p>\"Act like you are a recruiter at [company], hiring for a [job role]. We will have a fictional interview for this role. Don't start the interview till I say I'm ready. Once I'm ready, please start by introducing yourself and the company. Then, proceed to ask me a series of typical interview questions for this position. After the interview is complete, provide comprehensive feedback on my overall performance. Highlight areas where I did well, and offer suggestions on how I can improve my answers and presentation skills for a more effective performance in real interviews.  Here is the complete job vacancy:<br />\n[full vacancy]<br />\nPlease confirm if you understand your assignment\" </p>\n<p>Don't forget to change the placeholders and to copy and paste the full vacancy at the end of the prompt. It's a quick and lazy way to let ChatGPT have a good understanding of what is required in the role and have a more accurate interview.</p>\n<p><strong>Start the voice conversation</strong></p>\n<p>To start the conversation, click on the headphones icons at the bottom right corner and say 'I'm ready to start the interview'. The interview will then begin.</p>\n<p>ChatGPT will ask you a bunch of questions before concluding interview and will provide you comprehensive feedback afterwards. If you prefer, you can also modify the prompt to get feedback after every question, I'll leave that prompt in the comments to not clutter this post too much. </p>\n<p>You can always start over or ask ChatGPT to start concluding the interview if they ask too many questions or if it's becoming to get repetitive. </p>\n<p>Let me know this was for you and if it was helpful! </p>\n<p>Want to learn more about ChatGPT &amp; AI? Then maybe I can tempt you to sign up for my <a href=\"https://www.workwiz.ai/\">AI newsletter</a>. Once a week I share how you can work smarter with ChatGPT &amp; AI, in a quick and digestible format.</p>",
+            "date_published": "2023-12-04T17:07:26+00:00",
+            "authors": [
+                {
+                    "name": "bigwhitebird",
+                    "url": "https://www.reddit.com/user/bigwhitebird"
+                }
+            ]
+        },
+        {
             "id": "186tdbo",
             "url": "/r/ChatGPTPro/comments/186tdbo/3_chatgpt_prompting_techniques_frameworks_for/",
             "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/186tdbo/3_chatgpt_prompting_techniques_frameworks_for/",
