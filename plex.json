@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "18a9nnc",
+            "url": "/r/PleX/comments/18a9nnc/all_the_drama_about_plex_making_terrible/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/18a9nnc/all_the_drama_about_plex_making_terrible/",
+            "title": "All the drama about plex making terrible decisions and Im just here fascinated that you all have friends and that you share your media with them.",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/PleX/comments/18a9nnc/all_the_drama_about_plex_making_terrible/'>Apollo</a> | <a href='https://reddit.com/r/PleX/comments/18a9nnc/all_the_drama_about_plex_making_terrible/'>Reddit</a></caption><div><br></div><p>I'm a loner. I cant think of anyone outside my house who I would want to share my collection with and would also be interested in my collection. You all are fascinating to me.</p>",
+            "date_published": "2023-12-04T02:04:59+00:00",
+            "authors": [
+                {
+                    "name": "humdinger44",
+                    "url": "https://www.reddit.com/user/humdinger44"
+                }
+            ]
+        },
+        {
             "id": "189ylho",
             "url": "/r/PleX/comments/189ylho/plex_sent_i_want_your_sex_to_all_my_friends_and/",
             "external_url": "https://www.reddit.com/r/PleX/comments/189ylho/plex_sent_i_want_your_sex_to_all_my_friends_and/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Reischlan",
                     "url": "https://www.reddit.com/user/Reischlan"
-                }
-            ]
-        },
-        {
-            "id": "wwb8uy",
-            "url": "/r/PleX/comments/wwb8uy/plex_breached_were_passwords_encrypted_or_hashed/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/wwb8uy/plex_breached_were_passwords_encrypted_or_hashed/",
-            "title": "Plex breached; Were passwords encrypted or hashed?",
-            "content_html": "<caption>Open in: <a href='https://reddit.com/r/PleX/comments/wwb8uy/plex_breached_were_passwords_encrypted_or_hashed/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/wwb8uy/plex_breached_were_passwords_encrypted_or_hashed/'>Apollo</a></caption> <div><p>So I got this email just now:</p>\n<blockquote>\n<p>Yesterday, we discovered suspicious activity on one of our databases. We immediately began an investigation and it does appear that a third-party was able to access a limited subset of data that includes emails, usernames, and encrypted passwords. Even though all account passwords that could have been accessed were hashed and secured in accordance with best practices, out of an abundance of caution we are requiring all Plex accounts to have their password reset.</p>\n</blockquote>\n<p>So were these passwords encrypted, in which case they could be decrypted if the adversary got the key, or hashed? Hashed passwords leaking would be much less of an issue.</p>\n<p>Edit: Encryption and hashing is <strong>not</strong> the same thing.</p>\n<p>Edit2: Passwords were hashed with salt, not encrypted (<a href=\"https://www.reddit.com/r/PleX/comments/wwb8uy/plex_breached_were_passwords_encrypted_or_hashed/ilkbawb/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf&amp;context=3\">see this comment</a>)</p>\n<p>Edit3: Just for clarity this is the best case scenario. It\u2019s difficult to reverse hashed passwords unless they are very simple. Plex got the word out quickly so we have plenty of time to change our passwords. Kudos!</p>\n<p>This is why you never reuse password, use a password manager and enable 2fa wherever you can. :)</p></div>",
-            "date_published": "2022-08-24T05:45:47+00:00",
-            "authors": [
-                {
-                    "name": "kjarkr",
-                    "url": "https://www.reddit.com/user/kjarkr"
                 }
             ]
         }
