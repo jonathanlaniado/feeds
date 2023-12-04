@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "18af3dz",
+            "url": "/r/selfhosted/comments/18af3dz/id_rather_kill_myself_than_host_smtp_again/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/18af3dz/id_rather_kill_myself_than_host_smtp_again/",
+            "title": "I'd rather kill myself than host SMTP again",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/18af3dz/id_rather_kill_myself_than_host_smtp_again/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/18af3dz/id_rather_kill_myself_than_host_smtp_again/'>Reddit</a></caption><div><br></div><p>It's been two months since I am running\u00a0a mail server. I worked on a beautiful UI like SendGrid and MailGun for more than six months. I plan to start a transactional email service.</p>\n<p>I bought a range and rented another /24 range because I didn't want to have a bad neighbour on the subnet. I even got my own ASN because jerks like UCEProtect often put big ISPs on a blacklist at the ASN level.</p>\n<p>Of course, I have got a decent\u00a0experience with this. I wrote my own SMTP server, email routing, and other things such as bounce and suppression handling. In a sense, everything is fine. RDNS, DKIM, DMARC, and SPF.</p>\n<p>I know that IP needs to warm up, so that's where I started. I paid for a few services to help me warm up, and it took me about two months to do so. Okay so far. The email was delivered 100% of the time to Gmail, but not at all to Yahoo and Outlook. The delivery rate to these two companies started to get better around last week, though. Some IP addresses started getting a 100% delivery rate.</p>\n<p>Then, I started testing my service on one of my websites. Of course, 100% transactional emails with account confirmation links ONLY. It was working great. Nearly 2,000 emails, 3,000+ opens and about 2,500 clicks daily on an average.</p>\n<p>I've also subscribed to Glock Apps and MXToolbox to measure my email deliverability and monitor IPs.</p>\n<p>Just today, I received an email with all half of my active IP addresses and sending/tracking domain blacklisted by Spamhaus. They categorize it under \"spam domain\", but I looked through my server logs (yes, everything is logged) and found no evidence of spam. Only transactional and warmup emails sent. I opened a ticket with Spamhaus and refuse to unblock my IP addresses and domains.</p>\n<p>I spent 6 months and $20,000+ working on this, only to be butchered by Spamhaus. How can Spamhaus be the police, judge and the executioner?</p>",
+            "date_published": "2023-12-04T07:28:13+00:00",
+            "authors": [
+                {
+                    "name": "RedWyvv",
+                    "url": "https://www.reddit.com/user/RedWyvv"
+                }
+            ]
+        },
+        {
             "id": "186ltbv",
             "url": "/r/selfhosted/comments/186ltbv/changedetectionio_your_reddit_inspired_website/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/186ltbv/changedetectionio_your_reddit_inspired_website/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Empty_Tough_4500",
                     "url": "https://www.reddit.com/user/Empty_Tough_4500"
-                }
-            ]
-        },
-        {
-            "id": "13eb57j",
-            "url": "/r/selfhosted/comments/13eb57j/is_there_a_selfhosted_youtube_that_my_kid_can/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/13eb57j/is_there_a_selfhosted_youtube_that_my_kid_can/",
-            "title": "Is there a self-hosted \"youtube\" that my kid can upload videos to?",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/13eb57j/is_there_a_selfhosted_youtube_that_my_kid_can/'>Reddit</a></caption><div><br></div><div><p>So my daughter LOVES making videos, but is too young to have her own channel for youtube (nor would I really want her to put any of her videos up there). </p>\n<p>I was wondering what may be out there when it comes to a private, self-hosted youtube-esque server. I looked into peertube, but I'm not a fan of it being federated and being searchable from other sites. (That and trying to get it to work from behind a separate reverse proxy has been maddening).</p>\n<p>It doesn't have to be too terribly fancy. I'm just looking for something my daughter can upload videos to from her phone and pretend to have her own channel. Bonus points if Mom and Dad can comment on them and like the videos!</p></div>",
-            "date_published": "2023-05-11T02:53:01+00:00",
-            "authors": [
-                {
-                    "name": "bugbbq",
-                    "url": "https://www.reddit.com/user/bugbbq"
                 }
             ]
         }
