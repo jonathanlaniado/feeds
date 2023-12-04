@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "18arx06",
+            "url": "/r/PleX/comments/18arx06/what_seems_to_be_overlooked_in_this_discover/",
+            "external_url": "https://i.redd.it/t4als28lwb4c1.png",
+            "title": "What seems to be overlooked in this Discover Together debacle is that Plex is tracking our content libraries/watch history when their own Privacy Policy explicitly states that they don't do this. What am I missing here?",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/PleX/comments/18arx06/what_seems_to_be_overlooked_in_this_discover/'>Apollo</a> | <a href='https://reddit.com/r/PleX/comments/18arx06/what_seems_to_be_overlooked_in_this_discover/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/t4als28lwb4c1.png\" />",
+            "date_published": "2023-12-04T19:23:59+00:00",
+            "authors": [
+                {
+                    "name": "duerra",
+                    "url": "https://www.reddit.com/user/duerra"
+                }
+            ]
+        },
+        {
             "id": "18a9nnc",
             "url": "/r/PleX/comments/18a9nnc/all_the_drama_about_plex_making_terrible/",
             "external_url": "https://www.reddit.com/r/PleX/comments/18a9nnc/all_the_drama_about_plex_making_terrible/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "BrandRage",
                     "url": "https://www.reddit.com/user/BrandRage"
-                }
-            ]
-        },
-        {
-            "id": "wys5vd",
-            "url": "/r/PleX/comments/wys5vd/favorite_post_ever_i_wrote_the_code_asshat/",
-            "external_url": "https://i.imgur.com/MnAZpgJ.jpg",
-            "title": "Favorite Post Ever - \"I wrote the code, Asshat\"",
-            "content_html": "<caption>Open in: <a href='https://i.imgur.com/MnAZpgJ.jpg'>i.imgur.com</a> | <a href='https://reddit.com/r/PleX/comments/wys5vd/favorite_post_ever_i_wrote_the_code_asshat/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/wys5vd/favorite_post_ever_i_wrote_the_code_asshat/'>Apollo</a></caption>",
-            "date_published": "2022-08-27T03:18:08+00:00",
-            "authors": [
-                {
-                    "name": "Reischlan",
-                    "url": "https://www.reddit.com/user/Reischlan"
                 }
             ]
         }
