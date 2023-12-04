@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "18as1ui",
+            "url": "/r/macapps/comments/18as1ui/introducing_zen_free_opensource_adblocker_and/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/18as1ui/introducing_zen_free_opensource_adblocker_and/",
+            "title": "Introducing Zen: Free, Open-Source Ad-Blocker and Privacy Guard",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/18as1ui/introducing_zen_free_opensource_adblocker_and/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/18as1ui/introducing_zen_free_opensource_adblocker_and/'>Reddit</a></caption><div><br></div><p>Hello r/macapps community!</p>\n<p>I'm excited to share a project I've been working on called Zen. As a macOS user, I've always wanted a powerful solution to block ads and trackers across browsers, desktop applications, and the OS itself. All of the existing solutions are either paid or offered via a freemium model, which motivated me to create Zen.</p>\n<p><strong>What Makes Zen Unique</strong>: Zen operates system-wide, intercepting network requests from all applications. It efficiently blocks ads, tracking scripts, malware, and other unwanted content that traditional browser extensions might miss. This includes trackers in desktop apps and system components. Zen works across multiple platforms, is free and will always offer full functionality without additional payments.</p>\n<p>Zen is primarily licensed under the MIT License, with some components under different terms. To learn more about Zen and how it can help protect your digital privacy, visit our GitHub page: <a href=\"https://github.com/anfragment/zen\">Zen on GitHub</a>.</p>\n<p>Looking forward to your feedback to make Zen even better!</p>\n<p>https://preview.redd.it/1hetedf8xb4c1.png?width=994&amp;format=png&amp;auto=webp&amp;s=380896f8da94dcf229e89991af492e482299f716</p>",
+            "date_published": "2023-12-04T19:29:38+00:00",
+            "authors": [
+                {
+                    "name": "anfragment",
+                    "url": "https://www.reddit.com/user/anfragment"
+                }
+            ]
+        },
+        {
             "id": "18anlw5",
             "url": "/r/macapps/comments/18anlw5/my_moms_a_teacher_and_had_to_transition_to_online/",
             "external_url": "https://www.reddit.com/r/macapps/comments/18anlw5/my_moms_a_teacher_and_had_to_transition_to_online/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Pandemojo",
                     "url": "https://www.reddit.com/user/Pandemojo"
-                }
-            ]
-        },
-        {
-            "id": "145h5bi",
-            "url": "/r/macapps/comments/145h5bi/weather_in_the_menu_bar/",
-            "external_url": "https://v.redd.it/as9o5ouu625b1",
-            "title": "Weather in the menu bar",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/macapps/comments/145h5bi/weather_in_the_menu_bar/\">Reddit</a></caption><div><br></div><iframe src='/r/macapps/comments/145h5bi/weather_in_the_menu_bar/?ref_source=embed&amp;ref=share&amp;embed=true' sandbox='allow-scripts allow-same-origin allow-popups' style='border: none;' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen></iframe>",
-            "date_published": "2023-06-09T21:19:04+00:00",
-            "authors": [
-                {
-                    "name": "rurza",
-                    "url": "https://www.reddit.com/user/rurza"
                 }
             ]
         }
