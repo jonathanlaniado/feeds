@@ -8,6 +8,20 @@
     "favicon": "https://b.thumbs.redditmedia.com/k7fHE51fuhbYJRT2e9s1rXIp2ZtA7ks-cNFvQuNbfcE.png",
     "items": [
         {
+            "id": "18aoetk",
+            "url": "/r/InternetIsBeautiful/comments/18aoetk/i_made_a_youtube_downloader_with_no_ads_no_bs/",
+            "external_url": "https://2cool4youtube.com/",
+            "title": "I made a YouTube downloader with no ads & no bs.",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/InternetIsBeautiful/comments/18aoetk/i_made_a_youtube_downloader_with_no_ads_no_bs/'>Apollo</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/18aoetk/i_made_a_youtube_downloader_with_no_ads_no_bs/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2023-12-04T16:52:25+00:00",
+            "authors": [
+                {
+                    "name": "BitWiseVibe",
+                    "url": "https://www.reddit.com/user/BitWiseVibe"
+                }
+            ]
+        },
+        {
             "id": "146q44e",
             "url": "/r/InternetIsBeautiful/comments/146q44e/delete_all_of_your_reddit_data/",
             "external_url": "http://www.github.com/pkolyvas/PowerDeleteSuite",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "astonfred",
                     "url": "https://www.reddit.com/user/astonfred"
-                }
-            ]
-        },
-        {
-            "id": "whujdk",
-            "url": "/r/InternetIsBeautiful/comments/whujdk/this_webpage_spits_out_an_endless_amount_of_hobby/",
-            "external_url": "https://hobbygenerator.com/hobby?hobby=Digital%20hoarding",
-            "title": "This webpage spits out an endless amount of hobby ideas. One at a time. Randomly.",
-            "content_html": "<caption>Open in: <a href='https://hobbygenerator.com/hobby?hobby=Digital%20hoarding'>hobbygenerator.com</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/whujdk/this_webpage_spits_out_an_endless_amount_of_hobby/'>Reddit</a> | <a href='apollo://reddit.com/r/InternetIsBeautiful/comments/whujdk/this_webpage_spits_out_an_endless_amount_of_hobby/'>Apollo</a></caption>",
-            "date_published": "2022-08-06T18:12:00+00:00",
-            "authors": [
-                {
-                    "name": "oldspell99",
-                    "url": "https://www.reddit.com/user/oldspell99"
                 }
             ]
         }
