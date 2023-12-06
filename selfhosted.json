@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "18c9b8q",
+            "url": "/r/selfhosted/comments/18c9b8q/copilotkit_build_inapp_ai_chatbots_and_aipowered/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/18c9b8q/copilotkit_build_inapp_ai_chatbots_and_aipowered/",
+            "title": "CopilotKit: Build in-app AI chatbots and AI-powered <Textareas/> | Open-source, customizable and self-hostable",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/18c9b8q/copilotkit_build_inapp_ai_chatbots_and_aipowered/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/18c9b8q/copilotkit_build_inapp_ai_chatbots_and_aipowered/'>Reddit</a></caption><div><br></div><p>Hi self-hosters  \ud83d\udc4b</p>\n<p>I've built a library that makes it easy to integrate LLMs into any react app. We are launching on product hunt tomorrow, but wanted to give you an early look :) \ud83c\udf89</p>\n<p><strong>Github:</strong></p>\n<p><a href=\"https://github.com/CopilotKit/CopilotKit\">https://github.com/CopilotKit/CopilotKit</a></p>\n<p>&#x200B;</p>\n<p><strong>CopilotKit</strong> currently has two react components: </p>\n<ol>\n<li><CopilotPortal></li>\n<li>A \"chatGPT\" inside your app that can see the app state and take actions.</li>\n<li><CopilotTexarea/></li>\n<li>A drop-in replacement for any <textarea/> with the features of Github CopilotX (autocomplete, insertions, prompting). Context aware. </li>\n</ol>\n<p>Everything is open-source and fully customizable. It is plugged in to OpenAI by default but you can literally run everything locally, including the LLM. It's built to be deeply customized and still work. </p>\n<p>https://preview.redd.it/20rrkws3mp4c1.png?width=3071&amp;format=png&amp;auto=webp&amp;s=90072ad62138ef1f251c248074ac1e7ce588f8c3</p>\n<p>Please check it out and let us know what you think. If you like it, give us a <em>star\ud83c\udf1f</em> while you're there :) </p>\n<p>Come join our journey \ud83d\uddfa\ufe0f</p>\n<p>---</p>\n<p><strong>Discord:</strong> </p>\n<p><a href=\"https://discord.gg/6dffbvGU3D\">https://discord.gg/6dffbvGU3D</a></p>\n<p><strong>Github</strong>: </p>\n<p><a href=\"https://github.com/CopilotKit/CopilotKit\">https://github.com/CopilotKit/CopilotKit</a></p>",
+            "date_published": "2023-12-06T17:35:50+00:00",
+            "authors": [
+                {
+                    "name": "kindly_formation71",
+                    "url": "https://www.reddit.com/user/kindly_formation71"
+                }
+            ]
+        },
+        {
             "id": "18af3dz",
             "url": "/r/selfhosted/comments/18af3dz/id_rather_kill_myself_than_host_smtp_again/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/18af3dz/id_rather_kill_myself_than_host_smtp_again/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "altran1502",
                     "url": "https://www.reddit.com/user/altran1502"
-                }
-            ]
-        },
-        {
-            "id": "13jrok1",
-            "url": "/r/selfhosted/comments/13jrok1/unorthodox_things_to_self_host/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/13jrok1/unorthodox_things_to_self_host/",
-            "title": "Unorthodox Things to Self Host?",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/13jrok1/unorthodox_things_to_self_host/'>Reddit</a></caption><div><br></div><div><p>I've ran through possibly everything I care about with self hosting, and have now been kind of inactive. Before you get on me for self-hosting something I might not end up using, I know.</p>\n<p>Any ideas/projects to self host now that I have everything you would classify as generic/repeats on Wednesday posts?</p>\n<p>Things I Self Host:</p>\n<ul>\n<li>apache2 (w/ PHP)  - Web Server + Reverse Proxy</li>\n<li>Homepage - A Simple Dashboard to keep everything organized. Complete with Docker Integration so I can see what services are up/down.</li>\n<li>Nextcloud - Google Drive Replacement</li>\n<li>Vaultwarden (Bitwarden) - Password Manager</li>\n<li>BookStack - Documentation Platform</li>\n<li>Ghost - Simple Blogging Platform</li>\n<li>Gitea - Git Platform (+act_runner, +renovate)</li>\n<li>FreshRSS - RSS Aggregator</li>\n<li>PrivateBin - Encrypted PasteBin</li>\n<li>Gokapi - Firefox Send Alternative (Admin Upload only)</li>\n<li>Filebrowser - A Simple Web File Browser</li>\n<li>Teamspeak Server - VOIP Service</li>\n<li>Portainer - Web UI for managing Docker Containers</li>\n<li>Scrutiny - SMART Scans for Drives</li>\n<li>Healthchecks - Cron Job Monitoring (Sends notifications to ntfy when cron jobs fail)</li>\n<li>ntfy - Sends push notifications</li>\n<li>Speedtest Tracker - Daily Speedtests with Graphs</li>\n<li>phpMyAdmin - SQL Database Viewer</li>\n<li>Wireguard (wg-easy) - WireGuard VPN + Web Admin UI</li>\n<li>Uptime Kuma - Services Monitor</li>\n<li>Sonarr - Automatically \"acquire\" TV Shows</li>\n<li>Radarr - ^ for Movies</li>\n<li>Lidarr - ^ for Music</li>\n<li>Readarr - ^ for Books</li>\n<li>Bazarr - ^ for Subtitles</li>\n<li>subcleaner - Cleans subtitles downloaded from Bazarr</li>\n<li>Prowlarr - Indexers for Sonarr/Radarr/Lidarr/Readarr</li>\n<li>qBittorrent (w/ VPN) - My Torrent Client of choice</li>\n<li>pyLoad - File Downloader</li>\n<li>Tautulli - Plex Statistics</li>\n<li>Overseerr - Requests for Plex</li>\n<li>Requestrr - Requests for Plex through a Discord Bot</li>\n<li>OpenBooks - Download books from IRC Highway</li>\n<li>Deemix - Download Music from Deezer (Technically I'm using lidarr-on-steroids which includes Deemix inside Lidarr)</li>\n<li>Wizarr - Invite System for Plex</li>\n<li>Umami - Website Analytics</li>\n<li>CyberChef - Web App for \"computer science\" things</li>\n<li>IT-Tools - Collection of handy online tools for developers.</li>\n<li>shields.io - shields.io instance for private GitHub repo badges</li>\n<li>Plex Auto Languages - Auto-Updating the subtitle language across an entire show</li>\n<li>Watchtower - Automatically keeps Docker Containers up to date</li>\n<li>MySQL - My database of choice</li>\n<li>Plex - Stream Content from my Home Server with a Netflix-like UI</li>\n<li>Various Game Servers</li>\n<li>Email</li>\n</ul>\n<p>Planning on looking at:</p>\n<ul>\n<li>Podgrab</li>\n<li>Invoice Ninja</li>\n<li>YouTube Archiving</li>\n<li>paperless-ngx</li>\n<li>Budget Tracking (Actual or Firefly)</li>\n</ul>\n<p>Thanks in advance!</p>\n<p>Ninja Edit: Didn't want to blogspam but if you need links for anything here (or more information like specs/my docker compose files), you can find them <a href=\"https://chse.dev/hs\">here</a>.</p></div>",
-            "date_published": "2023-05-17T04:45:42+00:00",
-            "authors": [
-                {
-                    "name": "Empty_Tough_4500",
-                    "url": "https://www.reddit.com/user/Empty_Tough_4500"
                 }
             ]
         }
