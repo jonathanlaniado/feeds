@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "18c7us6",
+            "url": "/r/shortcuts/comments/18c7us6/for_those_that_struggle_with_accidentally_turning/",
+            "external_url": "https://www.reddit.com/gallery/18c7us6",
+            "title": "For those that struggle with accidentally turning off your alarm",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/18c7us6/for_those_that_struggle_with_accidentally_turning/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/18c7us6/for_those_that_struggle_with_accidentally_turning/'>Reddit</a></caption><div><br></div><p>I\u2019ve been using this automation for about a month and it\u2019s been great. Every now and then I will accidentally turn my alarm off instead of hitting snooze and this has helped. \nI have a daily weekday alarm labeled work that goes off at 6am and a second alarm not on a schedule to go off at 6:20. This shortcut runs every weekday one minute before my 6am alarm and checks to see if that alarm is on or off (holidays or scheduled days off I manually turn off the 6am alarm). If the 6am alarm is on, it turns on my 6:20 alarm. If my phone is still plugged in at 6:20, that second alarm will also sound. If I unplug my phone before 6:20, the second alarm turns off. </p>\n<p>Just sharing as this has helped me</p>",
+            "date_published": "2023-12-06T16:32:54+00:00",
+            "authors": [
+                {
+                    "name": "firetrucks_go_WOOooo",
+                    "url": "https://www.reddit.com/user/firetrucks_go_WOOooo"
+                }
+            ]
+        },
+        {
             "id": "18bhaee",
             "url": "/r/shortcuts/comments/18bhaee/siri_shortcuts_apps_list_of_apps_that_supports/",
             "external_url": "https://appraven.net/collection/72625323",
