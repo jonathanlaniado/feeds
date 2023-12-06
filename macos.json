@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "18cf3s0",
+            "url": "/r/MacOS/comments/18cf3s0/my_goodness_does_betterdisplay_improve_4k_monitors/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/18cf3s0/my_goodness_does_betterdisplay_improve_4k_monitors/",
+            "title": "My goodness does BetterDisplay improve 4K monitors",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/MacOS/comments/18cf3s0/my_goodness_does_betterdisplay_improve_4k_monitors/'>Apollo</a> | <a href='https://reddit.com/r/MacOS/comments/18cf3s0/my_goodness_does_betterdisplay_improve_4k_monitors/'>Reddit</a></caption><div><br></div><p>I know most of you here already know this, but as someone who is relatively new to modern macOS, having just picked up my first Mac for personal use a few weeks ago.  I also just got a new 32\" 4K monitor, and while the native display scaling issue wasn't as bad as I first thought it would be, I began finding my eyes tiring rather easily when I was using my mac (I have both my Mac Studio and my gaming PC hooked up to both my monitors).  Got BetterDisplay, and after enabling near native HiDPI scaling - wow...what a difference. </p>\n<p>So grateful for the developer, to be honest, because it took what was a good experience with my new monitor, and made it a great experience. </p>\n<p>I just have one question? If this can be done with a third party app, why on earth does Apple not natively include this type of code in the system? it's SO much better than their native scaling.  I know they want to sell Studio Displays and Pro Displays, but for many those displays simply aren't a viable option. </p>",
+            "date_published": "2023-12-06T21:43:01+00:00",
+            "authors": [
+                {
+                    "name": "ZappySnap",
+                    "url": "https://www.reddit.com/user/ZappySnap"
+                }
+            ]
+        },
+        {
             "id": "18bacds",
             "url": "/r/MacOS/comments/18bacds/this_is_still_the_default_pc_icon_in_macos/",
             "external_url": "https://i.imgur.com/6xCDCw5.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "TheRockmore",
                     "url": "https://www.reddit.com/user/TheRockmore"
-                }
-            ]
-        },
-        {
-            "id": "136a9lq",
-            "url": "/r/MacOS/comments/136a9lq/are_people_actually_using_iosipad_apps_on_their/",
-            "external_url": "https://i.redd.it/2ymp4s9q4lxa1.jpg",
-            "title": "are people actually using iOS/iPad apps on their M1/M2 Macs?",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/MacOS/comments/136a9lq/are_people_actually_using_iosipad_apps_on_their/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/2ymp4s9q4lxa1.jpg\" />",
-            "date_published": "2023-05-03T04:26:55+00:00",
-            "authors": [
-                {
-                    "name": "Dreaming_Blackbirds",
-                    "url": "https://www.reddit.com/user/Dreaming_Blackbirds"
                 }
             ]
         }
