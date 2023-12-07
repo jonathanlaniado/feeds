@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "18d2yob",
+            "url": "/r/selfhosted/comments/18d2yob/immich_will_have_breaking_changes_again_in_the/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/18d2yob/immich_will_have_breaking_changes_again_in_the/",
+            "title": "Immich will have breaking changes (again) in the next release",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/18d2yob/immich_will_have_breaking_changes_again_in_the/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/18d2yob/immich_will_have_breaking_changes_again_in_the/'>Reddit</a></caption><div><br></div><p>It should be fairly easy to understand. Remove the parts in the red and add the ones in the green, in the docker compose file.</p>\n<p>Do be careful when updating.</p>\n<p>https://github.com/immich-app/immich/releases/tag/v1.90.0</p>",
+            "date_published": "2023-12-07T19:10:52+00:00",
+            "authors": [
+                {
+                    "name": "Significant-Neat7754",
+                    "url": "https://www.reddit.com/user/Significant-Neat7754"
+                }
+            ]
+        },
+        {
             "id": "18czdl6",
             "url": "/r/selfhosted/comments/18czdl6/winglang_new_opensource_programming_language_for/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/18czdl6/winglang_new_opensource_programming_language_for/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MagicPeach9695",
                     "url": "https://www.reddit.com/user/MagicPeach9695"
-                }
-            ]
-        },
-        {
-            "id": "13sb8w3",
-            "url": "/r/selfhosted/comments/13sb8w3/this_week_in_selfhosted_26_may_2023/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/13sb8w3/this_week_in_selfhosted_26_may_2023/",
-            "title": "This Week in Self-Hosted (26 May 2023)",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/13sb8w3/this_week_in_selfhosted_26_may_2023/'>Reddit</a></caption><div><br></div><div><p>Hey, r/selfhosted! Below is a link to This Week in Self-Hosted, a weekly newsletter recap of the week's activity in self-hosted content.</p>\n<p>This week we're featuring some updates from Bitwarden and Cloudflare, all sorts of software updates and launches, and a spotlight on <a href=\"https://www.filestash.app/\">Filestash</a> - a web client for a variety of storage backends.</p>\n<hr />\n<p><a href=\"https://selfh.st/weekly/2023-05-26/\">This Week in Self-Hosted (26 May 2023)</a></p></div>",
-            "date_published": "2023-05-26T12:00:41+00:00",
-            "authors": [
-                {
-                    "name": "selfh-sted",
-                    "url": "https://www.reddit.com/user/selfh-sted"
                 }
             ]
         }
