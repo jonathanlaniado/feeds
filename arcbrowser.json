@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "18cz56b",
+            "url": "/r/ArcBrowser/comments/18cz56b/your_work_is_art_frame_it_portrait_mode_for/",
+            "external_url": "https://v.redd.it/v5vlfeneew4c1",
+            "title": "\"Your work is art. \ud83d\uddbc\ufe0f Frame it \ud83d\uddbc\ufe0f Portrait Mode for developers, now in Arc!\" \u2013 The Browser Company (@browsercompany) via X",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/18cz56b/your_work_is_art_frame_it_portrait_mode_for/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/18cz56b/your_work_is_art_frame_it_portrait_mode_for/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2023-12-07T16:18:30+00:00",
+            "authors": [
+                {
+                    "name": "JaceThings",
+                    "url": "https://www.reddit.com/user/JaceThings"
+                }
+            ]
+        },
+        {
             "id": "18civrp",
             "url": "/r/ArcBrowser/comments/18civrp/old_version_of_the_google_page_loading_up_every/",
             "external_url": "https://i.redd.it/93ycuzg6pr4c1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "JaceThings",
                     "url": "https://www.reddit.com/user/JaceThings"
-                }
-            ]
-        },
-        {
-            "id": "16si3a8",
-            "url": "/r/ArcBrowser/comments/16si3a8/focus_mode/",
-            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/16si3a8/focus_mode/",
-            "title": "Focus Mode",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/ArcBrowser/comments/16si3a8/focus_mode/'>Reddit</a></caption><div><br></div><div><p>As Apple has this feature called Focus Mode, where you can set a profile for work, sleep or whatever, and one of Arc's main features, profiles and spaces, matches this, I was hoping for them to implement SetFocusFilterIntent. This way, we could disable or enable certain profiles (or spaces), depending on the Focus mode we are in. I would love to disable my casual space when I am at work, so that I get less distracted.</p></div>",
-            "date_published": "2023-09-26T08:37:00+00:00",
-            "authors": [
-                {
-                    "name": "kuffdeschmull",
-                    "url": "https://www.reddit.com/user/kuffdeschmull"
                 }
             ]
         }
