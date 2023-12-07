@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "18cwbfi",
+            "url": "/r/OpenAI/comments/18cwbfi/googles_gemini_demo_was_completely_fabricated/",
+            "external_url": "https://www.reddit.com/r/OpenAI/comments/18cwbfi/googles_gemini_demo_was_completely_fabricated/",
+            "title": "Google's Gemini demo was completely fabricated.",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/18cwbfi/googles_gemini_demo_was_completely_fabricated/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/18cwbfi/googles_gemini_demo_was_completely_fabricated/'>Reddit</a></caption><div><br></div><p>Like almost everyone, I also watched the <a href=\"https://www.youtube.com/watch?v=UIZAiXYceBI\">Gemini demo</a> and was blown away. But I have just found out that it doesn't really reflect reality. In fact, the video is completely made up, see this detailed explanation on their developer blog: https://developers.googleblog.com/2023/12/how-its-made-gemini-multimodal-prompting.html</p>\n<p>I feel like misleading ads like this will only harm the AI space because they completely warp the perception of what is currently possible. Also, I really don't like being misled lol. What are your thoughts about this?  </p>\n<p>EDIT: It seems there is no concrete proof the video is fabricated, I only assumed it is. Theoretically, Gemini could work in real-time as shown in the video, although the way the article is written suggests otherwise.</p>",
+            "date_published": "2023-12-07T14:06:04+00:00",
+            "authors": [
+                {
+                    "name": "phasE89",
+                    "url": "https://www.reddit.com/user/phasE89"
+                }
+            ]
+        },
+        {
             "id": "18atrmb",
             "url": "/r/OpenAI/comments/18atrmb/made_an_adidas_ai_spec_commercial_during_coffee/",
             "external_url": "https://v.redd.it/x7bcangoac4c1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Hotbigoby",
                     "url": "https://www.reddit.com/user/Hotbigoby"
-                }
-            ]
-        },
-        {
-            "id": "16rqy3l",
-            "url": "/r/OpenAI/comments/16rqy3l/chatgpt_can_now_see_hear_and_speak/",
-            "external_url": "https://openai.com/blog/chatgpt-can-now-see-hear-and-speak",
-            "title": "ChatGPT can now see, hear, and speak",
-            "content_html": "<caption>Open: <a href='https://openai.com/blog/chatgpt-can-now-see-hear-and-speak'>openai.com</a> | <a href='https://reddit.com/r/OpenAI/comments/16rqy3l/chatgpt_can_now_see_hear_and_speak/'>Reddit</a></caption>",
-            "date_published": "2023-09-25T12:40:09+00:00",
-            "authors": [
-                {
-                    "name": "btibor91",
-                    "url": "https://www.reddit.com/user/btibor91"
                 }
             ]
         }
