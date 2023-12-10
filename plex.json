@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "18f7x71",
+            "url": "/r/PleX/comments/18f7x71/plex_feature_idea_collection_groups/",
+            "external_url": "https://i.redd.it/gha1gywk0i5c1.jpg",
+            "title": "Plex feature idea: Collection Groups",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/PleX/comments/18f7x71/plex_feature_idea_collection_groups/'>Apollo</a> | <a href='https://reddit.com/r/PleX/comments/18f7x71/plex_feature_idea_collection_groups/'>Reddit</a></caption><div><br></div><p>My collections on Plex is growing by the day and I think it would help a lot of I was able to devide the collections in groups. I made a very quick visual of this idea. Whats everyone's thoughts on a feature like this?</p>\n<p>I've also created a <a href=\"https://forums.plex.tv/t/collection-groups/862430\">feature request post on the Plex forums</a>. If you think it would he a good feature, please upvote the forum post.</p><div><br></div><img src=\"https://i.redd.it/gha1gywk0i5c1.jpg\" />",
+            "date_published": "2023-12-10T16:59:52+00:00",
+            "authors": [
+                {
+                    "name": "Mike_v_E",
+                    "url": "https://www.reddit.com/user/Mike_v_E"
+                }
+            ]
+        },
+        {
             "id": "18arx06",
             "url": "/r/PleX/comments/18arx06/what_seems_to_be_overlooked_in_this_discover/",
             "external_url": "https://i.redd.it/t4als28lwb4c1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "FlowMotionFL",
                     "url": "https://www.reddit.com/user/FlowMotionFL"
-                }
-            ]
-        },
-        {
-            "id": "x508f2",
-            "url": "/r/PleX/comments/x508f2/the_angels_are_not_as_attractive_as_i_remember/",
-            "external_url": "https://i.redd.it/m1chg7dokol91.jpg",
-            "title": "The Angels are not as attractive as I remember them",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/m1chg7dokol91.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/PleX/comments/x508f2/the_angels_are_not_as_attractive_as_i_remember/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/x508f2/the_angels_are_not_as_attractive_as_i_remember/'>Apollo</a></caption>",
-            "date_published": "2022-09-03T17:42:51+00:00",
-            "authors": [
-                {
-                    "name": "BrandRage",
-                    "url": "https://www.reddit.com/user/BrandRage"
                 }
             ]
         }
