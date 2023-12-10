@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "18evofr",
+            "url": "/r/selfhosted/comments/18evofr/a_word_of_caution_about_tailscale/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/18evofr/a_word_of_caution_about_tailscale/",
+            "title": "A word of caution about Tailscale",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/18evofr/a_word_of_caution_about_tailscale/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/18evofr/a_word_of_caution_about_tailscale/'>Reddit</a></caption><div><br></div><p>This probably won't be a popular opinion, but given the volume of Tailscale praising posts this sub gets, I think it's worth noting that while Tailscale is a cool service, it's very much not self-hosting and in is even against the reasons that many people choose to self-host.</p>\n<p>If you use Tailscale, you're outsourcing a piece of your network to a VC funded company. With a simple change to their TOS this company can do all sorts of things, including charging for a previously free product or monetizing whatever data that can get from you.</p>\n<p>If there's one thing that we should all already know about VC funded internet startups, it's that they can and will pull the rug from underneath you when their bottom line demands it. See: streaming services cutting content while raising costs, sites like youtube and reddit redesigning to add more and more ads, hashicorp going from open source to close source. There's countless others. </p>\n<p>In the beginning there is often a honey moon period when a company is flush from cash from VC rounds and is in a \"growth at all costs\" mentality where they essentially subsidize the cost of services for new users and often offer things like a free tier. This is where Tailscale is today. Over time they eventually shift into a profit mentality when they've shored up as much of the market as they can (which Tailscale has already done a great job of).</p>\n<p>I'm not saying don't use Tailscale, or that it's a bad service (on the contrary their product UX is incredible and you can't get better than free), just that it's praise in this subreddit feels misplaced. Relying on a software-as-a-service company for your networking feels very much against the philosophy of self hosting.</p>",
+            "date_published": "2023-12-10T04:42:02+00:00",
+            "authors": [
+                {
+                    "name": "BitterSparklingChees",
+                    "url": "https://www.reddit.com/user/BitterSparklingChees"
+                }
+            ]
+        },
+        {
             "id": "18eq15e",
             "url": "/r/selfhosted/comments/18eq15e/tailscale_on_a_travel_router_game_changer/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/18eq15e/tailscale_on_a_travel_router_game_changer/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "needadvicebadly",
                     "url": "https://www.reddit.com/user/needadvicebadly"
-                }
-            ]
-        },
-        {
-            "id": "13ujg0k",
-            "url": "/r/selfhosted/comments/13ujg0k/i_created_ultimatehomeserver_a_k3s_based_allinone/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/13ujg0k/i_created_ultimatehomeserver_a_k3s_based_allinone/",
-            "title": "I created UltimateHomeServer - A K3s based all-in-one home server solution",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/13ujg0k/i_created_ultimatehomeserver_a_k3s_based_allinone/'>Reddit</a></caption><div><br></div><div><p>Recently I built a new home server to replace my aging used desktop server, and I considered if I wanted to setup Docker Compose again on the new server or maybe pick a solution like TrueNas Scale. I initially tried TrueNas Scale but found the GUI-based setup limiting and lacking documentation in many areas. So I wiped the server and started over, this time I began creating helm charts and was using K3s. I enjoyed the process of over engineering things and so now I present to you...</p>\n<p>&#x200B;</p>\n<p><a href=\"https://github.com/TechSquidTV/UltimateHomeServer\">UltimateHomeServer</a> - UltimateHomeServer is a user-friendly package of open-source services that combine to create a powerful home server, capable of replacing many of the services you may already be paying for. It is designed to be easy to set up and maintain, secure, and reliable.</p>\n<p>UHS is designed out of the box to use SSL and nginx as a reverse proxy.</p>\n<p>&#x200B;</p>\n<p>Services are enabled/disabled and configured with YAML, which can be created interactively with the <a href=\"https://github.com/TechSquidTV/uhs-cli\">UHS-CLI</a>. The `uhs` cli was create to easily configure the services you want to enable in UHS. From a development standpoint, it also functions as a \"schema\" for the UHS templates. You can see a screencast of the CLI here: <a href=\"https://asciinema.org/a/T0Cz23OthKROiZi0FV2v5wfe2\">https://asciinema.org/a/T0Cz23OthKROiZi0FV2v5wfe2</a></p>\n<p>&#x200B;</p>\n<p>I've been running the setup for about a month now and working on getting the repos ready to share over the last two weeks especially. The included services so far are very much my own favorites but I am very open to requests and collaboration so please get in contact or open an issue if you'd like to contribute.</p></div>",
-            "date_published": "2023-05-29T03:21:32+00:00",
-            "authors": [
-                {
-                    "name": "TechSquidTV",
-                    "url": "https://www.reddit.com/user/TechSquidTV"
                 }
             ]
         }
