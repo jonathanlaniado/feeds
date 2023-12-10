@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "18eq15e",
+            "url": "/r/selfhosted/comments/18eq15e/tailscale_on_a_travel_router_game_changer/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/18eq15e/tailscale_on_a_travel_router_game_changer/",
+            "title": "Tailscale on a travel router: game changer",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/18eq15e/tailscale_on_a_travel_router_game_changer/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/18eq15e/tailscale_on_a_travel_router_game_changer/'>Reddit</a></caption><div><br></div><p>Took a business trip last week. In preparation, I picked up a GL.iNet GL-MT3000 travel router and installed Tailscale on it. I also picked up an Amazon Firestick and put Jellyfin on it. I connected the Firestick and my other devices to the router before I left. At the hotel, I plugged my router in, connected it the wifi, and all my devices were then connected. I then was able to seamlessly stream directly from my home server using jellyfin and tailscale. It was awesome.</p>",
+            "date_published": "2023-12-09T23:28:12+00:00",
+            "authors": [
+                {
+                    "name": "Jefferson-not-jackso",
+                    "url": "https://www.reddit.com/user/Jefferson-not-jackso"
+                }
+            ]
+        },
+        {
             "id": "18d2yob",
             "url": "/r/selfhosted/comments/18d2yob/immich_will_have_breaking_changes_again_in_the/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/18d2yob/immich_will_have_breaking_changes_again_in_the/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "TechSquidTV",
                     "url": "https://www.reddit.com/user/TechSquidTV"
-                }
-            ]
-        },
-        {
-            "id": "13tv1tp",
-            "url": "/r/selfhosted/comments/13tv1tp/finally_ditched_almost_all_proprietary_apps_and/",
-            "external_url": "https://i.redd.it/rtm3ayt48j2b1.jpg",
-            "title": "Finally ditched almost all proprietary apps and hosted my own home server for media streaming and files/photo sharing. (Still using WhatsApp, Classroom and some food ordering apps though)",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/selfhosted/comments/13tv1tp/finally_ditched_almost_all_proprietary_apps_and/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/rtm3ayt48j2b1.jpg\" />",
-            "date_published": "2023-05-28T08:22:46+00:00",
-            "authors": [
-                {
-                    "name": "MagicPeach9695",
-                    "url": "https://www.reddit.com/user/MagicPeach9695"
                 }
             ]
         }
