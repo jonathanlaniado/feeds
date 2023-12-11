@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "18ey46a",
+            "url": "/r/iOSBeta/comments/18ey46a/ios_172_rc_theres_now_a_gui_for_messages_in_icloud/",
+            "external_url": "https://www.reddit.com/r/iOSBeta/comments/18ey46a/ios_172_rc_theres_now_a_gui_for_messages_in_icloud/",
+            "title": "iOS 17.2 RC: there's now a GUI for \"messages in iCloud\"",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/iOSBeta/comments/18ey46a/ios_172_rc_theres_now_a_gui_for_messages_in_icloud/'>Apollo</a> | <a href='https://reddit.com/r/iOSBeta/comments/18ey46a/ios_172_rc_theres_now_a_gui_for_messages_in_icloud/'>Reddit</a></caption><div><br></div><p>Once upon a time, in the first developer beta of iOS 11, Apple added the ability to sync messages between iOS devices and Macs signed into the same iCloud account, so that conversations and attachments were stored in the cloud and changes made on one device were propagated to the other devices.</p>\n<p>Originally, this feature came with a nice GUI so you could see how syncing was progressing, but that was pulled throughout the betas. When messages in iCloud was ultimately released in iOS 11.4, there was no GUI at all. It was just a switch in iCloud settings. You could turn it on or off, but that's it. You just had to trust that sync would happen, but there was no way to make sure.</p>\n<p>Behold the new settings&gt;your name&gt; iCloud&gt;\"messages in iCloud\" section in iOS 17.2 RC!</p>\n<p>You can now see if sync is progressing or complete, when it last synced, you can force a sync, you can see how many messages are stored in the cloud, and you can limit how long messages are stored there.</p>\n<p>It's a beautiful thing. Glad they added this back!</p>",
+            "date_published": "2023-12-10T07:20:34+00:00",
+            "authors": [
+                {
+                    "name": "smarthome_fan",
+                    "url": "https://www.reddit.com/user/smarthome_fan"
+                }
+            ]
+        },
+        {
             "id": "18biywm",
             "url": "/r/iOSBeta/comments/18biywm/ios_172_rc_released_discussion_thread/",
             "external_url": "https://i.redd.it/dq9r49x9ui4c1.jpg",
