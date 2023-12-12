@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "18gng9y",
+            "url": "/r/OpenAI/comments/18gng9y/i_made_a_chatgptstyle_programming_assistant_that/",
+            "external_url": "https://v.redd.it/rt3rwt2glv5c1",
+            "title": "I made a ChatGPT-style programming assistant that visualizes your code",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/18gng9y/i_made_a_chatgptstyle_programming_assistant_that/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/18gng9y/i_made_a_chatgptstyle_programming_assistant_that/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2023-12-12T14:44:17+00:00",
+            "authors": [
+                {
+                    "name": "TheMblabla",
+                    "url": "https://www.reddit.com/user/TheMblabla"
+                }
+            ]
+        },
+        {
             "id": "18g4cpk",
             "url": "/r/OpenAI/comments/18g4cpk/sam_altman_on_twitter_for_a_long_time_i_said_that/",
             "external_url": "https://twitter.com/sama/status/1732925866836210151",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "friuns",
                     "url": "https://www.reddit.com/user/friuns"
-                }
-            ]
-        },
-        {
-            "id": "16nr159",
-            "url": "/r/OpenAI/comments/16nr159/introducing_dalle_3/",
-            "external_url": "https://openai.com/dall-e-3",
-            "title": "Introducing DALL\u00b7E 3",
-            "content_html": "<caption>Open: <a href='https://openai.com/dall-e-3'>openai.com</a> | <a href='https://reddit.com/r/OpenAI/comments/16nr159/introducing_dalle_3/'>Reddit</a></caption>",
-            "date_published": "2023-09-20T17:22:56+00:00",
-            "authors": [
-                {
-                    "name": "wickedlizerd",
-                    "url": "https://www.reddit.com/user/wickedlizerd"
                 }
             ]
         }
