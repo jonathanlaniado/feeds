@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "18hi6mk",
+            "url": "/r/OpenAI/comments/18hi6mk/chatgpt_will_soon_have_realtime_news_access/",
+            "external_url": "https://openai.com/blog/axel-springer-partnership",
+            "title": "ChatGPT Will Soon Have Real-Time News Access",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/18hi6mk/chatgpt_will_soon_have_realtime_news_access/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/18hi6mk/chatgpt_will_soon_have_realtime_news_access/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2023-12-13T14:37:00+00:00",
+            "authors": [
+                {
+                    "name": "BJPark",
+                    "url": "https://www.reddit.com/user/BJPark"
+                }
+            ]
+        },
+        {
             "id": "18gng9y",
             "url": "/r/OpenAI/comments/18gng9y/i_made_a_chatgptstyle_programming_assistant_that/",
             "external_url": "https://v.redd.it/rt3rwt2glv5c1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "forbes",
                     "url": "https://www.reddit.com/user/forbes"
-                }
-            ]
-        },
-        {
-            "id": "16t1y8z",
-            "url": "/r/OpenAI/comments/16t1y8z/google_quietly_indexes_publicly_shared_bard/",
-            "external_url": "https://i.redd.it/qs9rsa5hcoqb1.jpg",
-            "title": "Google Quietly Indexes Publicly Shared Bard Conversations",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/OpenAI/comments/16t1y8z/google_quietly_indexes_publicly_shared_bard/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/qs9rsa5hcoqb1.jpg\" />",
-            "date_published": "2023-09-26T22:15:44+00:00",
-            "authors": [
-                {
-                    "name": "friuns",
-                    "url": "https://www.reddit.com/user/friuns"
                 }
             ]
         }
