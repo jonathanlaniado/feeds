@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "18hky0q",
+            "url": "/r/selfhosted/comments/18hky0q/vmware_to_no_longer_sell_perpetual_licenses/",
+            "external_url": "https://arstechnica.com/information-technology/2023/12/broadcom-ends-vmware-perpetual-license-sales-testing-customers-and-partners/",
+            "title": "VMWare to no longer sell perpetual licenses",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/18hky0q/vmware_to_no_longer_sell_perpetual_licenses/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/18hky0q/vmware_to_no_longer_sell_perpetual_licenses/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2023-12-13T16:41:31+00:00",
+            "authors": [
+                {
+                    "name": "slycat34",
+                    "url": "https://www.reddit.com/user/slycat34"
+                }
+            ]
+        },
+        {
             "id": "18gz26i",
             "url": "/r/selfhosted/comments/18gz26i/immich_recap_for_2023_with_accomplished/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/18gz26i/immich_recap_for_2023_with_accomplished/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "predmijat",
                     "url": "https://www.reddit.com/user/predmijat"
-                }
-            ]
-        },
-        {
-            "id": "13whd7w",
-            "url": "/r/selfhosted/comments/13whd7w/a_quick_tui_dash_for_monitoring_traffic_and_stats/",
-            "external_url": "https://i.redd.it/ba9uztjcg63b1.jpg",
-            "title": "A quick TUI dash for monitoring traffic and stats from your AdGuard Home instance",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/selfhosted/comments/13whd7w/a_quick_tui_dash_for_monitoring_traffic_and_stats/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/ba9uztjcg63b1.jpg\" />",
-            "date_published": "2023-05-31T09:30:39+00:00",
-            "authors": [
-                {
-                    "name": "lissy93",
-                    "url": "https://www.reddit.com/user/lissy93"
                 }
             ]
         }
