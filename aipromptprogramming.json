@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "18h63jg",
+            "url": "/r/aipromptprogramming/comments/18h63jg/storytelling_app_i_made_for_my_niece_im_running/",
+            "external_url": "https://v.redd.it/kkbr3x0m2z5c1",
+            "title": "Storytelling app i made for my niece. Im running it with Nextjs, Dalle3, Whisper, GPT4 and a mountain of json :) (sped up for brevity)",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/aipromptprogramming/comments/18h63jg/storytelling_app_i_made_for_my_niece_im_running/'>Apollo</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/18h63jg/storytelling_app_i_made_for_my_niece_im_running/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2023-12-13T02:23:23+00:00",
+            "authors": [
+                {
+                    "name": "Distinct-Analysis740",
+                    "url": "https://www.reddit.com/user/Distinct-Analysis740"
+                }
+            ]
+        },
+        {
             "id": "18bu4yj",
             "url": "/r/aipromptprogramming/comments/18bu4yj/needle_in_a_haystack_assistants_api_outperforms/",
             "external_url": "https://www.copilotkit.ai/blog/posts/rag-vs-context-window-in-gpt4-accuracy-cost",
