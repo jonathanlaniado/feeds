@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "18i1et5",
+            "url": "/r/ArcBrowser/comments/18i1et5/in_an_alternate_universe_back_in_2009_arc_on/",
+            "external_url": "https://www.reddit.com/gallery/18i1et5",
+            "title": "in an alternate universe back in 2009... (arc on windows 7 concept)",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/18i1et5/in_an_alternate_universe_back_in_2009_arc_on/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/18i1et5/in_an_alternate_universe_back_in_2009_arc_on/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2023-12-14T05:27:52+00:00",
+            "authors": [
+                {
+                    "name": "camsta__",
+                    "url": "https://www.reddit.com/user/camsta__"
+                }
+            ]
+        },
+        {
             "id": "18hckbp",
             "url": "/r/ArcBrowser/comments/18hckbp/windows_shirts/",
             "external_url": "https://i.redd.it/6l7ujwx4016c1.jpg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "JaceThings",
                     "url": "https://www.reddit.com/user/JaceThings"
-                }
-            ]
-        },
-        {
-            "id": "16tfm5n",
-            "url": "/r/ArcBrowser/comments/16tfm5n/space_feature_not_used_at_all/",
-            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/16tfm5n/space_feature_not_used_at_all/",
-            "title": "\u201cSpace\u201d feature not used at all",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/ArcBrowser/comments/16tfm5n/space_feature_not_used_at_all/'>Reddit</a></caption><div><br></div><div><p>I thought the \u201cspace\u201d feature is one of Arc\u2019s selling points, but after using it for almost one year, im gradually realizing it is not as useful as i expect. I create some spaces like general/focus/chill, but it turns out that whenever i open arc, the first thing i do is not to think about which space should the tab that i want to open goes to; instead, i just put it wherever i am. And also, when im already in \u201cfocus\u201d space for a long time for example, and suddenly i have this very cool \u201cchilling\u201d idea, the first thing i would do is not to switch to \u201cchill\u201d space; instead the first reaction is always to open a new tab using my very handy shortcut whichever space im in. So in the end, the thing is always that one space gets especially crowded but the others are mostly empty because im too lazy to switch spaces or maybe this design is just anti-human. I dont know if anyone has similar experiences with me. But i still love the idea of grouping different tabs into separate spaces.</p></div>",
-            "date_published": "2023-09-27T09:08:55+00:00",
-            "authors": [
-                {
-                    "name": "Create_Arthur",
-                    "url": "https://www.reddit.com/user/Create_Arthur"
                 }
             ]
         }
