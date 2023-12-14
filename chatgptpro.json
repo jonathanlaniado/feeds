@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
     "items": [
         {
+            "id": "18hsgm6",
+            "url": "/r/ChatGPTPro/comments/18hsgm6/more_absolutely_neutered_features_legal_text/",
+            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/18hsgm6/more_absolutely_neutered_features_legal_text/",
+            "title": "More absolutely neutered features: Legal Text Generation",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ChatGPTPro/comments/18hsgm6/more_absolutely_neutered_features_legal_text/'>Apollo</a> | <a href='https://reddit.com/r/ChatGPTPro/comments/18hsgm6/more_absolutely_neutered_features_legal_text/'>Reddit</a></caption><div><br></div><h2>Background</h2>\n<p>I run a startup, which means I'm working through dozens of contracts and agreements each month. As recently as October, I would upload or paste a document, say what needs to change, then ask GPT to export section by section, and eventually entire Word docs using extensions.  </p>\n<h3>December's neutering</h3>\n<p>I have been pounding my head against the wall with ChatGPT this month. It required a half-dozen responses just to confirm that I <em>will</em> have a lawyer look at the draft, and even then ChatGPT refuses to output anything but an outline, or abbreviated paragraphs that summarize the idea.  </p>\n<p>The whole point is that this is a language model -- it's built to create natural language based on an input. The guard rails are making that impossible.  </p>\n<h3>What's next?</h3>\n<p>All that said, does anyone have any suggestions on better legal language drafting LLMs?</p>",
+            "date_published": "2023-12-13T22:01:40+00:00",
+            "authors": [
+                {
+                    "name": "DeJeR",
+                    "url": "https://www.reddit.com/user/DeJeR"
+                }
+            ]
+        },
+        {
             "id": "18bkvpm",
             "url": "/r/ChatGPTPro/comments/18bkvpm/mods_can_we_please_ban_performance_complaint/",
             "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/18bkvpm/mods_can_we_please_ban_performance_complaint/",
