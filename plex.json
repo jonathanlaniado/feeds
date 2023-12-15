@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "18izx96",
+            "url": "/r/PleX/comments/18izx96/update_full_automation_with_my_plex_server/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/18izx96/update_full_automation_with_my_plex_server/",
+            "title": "Update: Full Automation with my Plex Server",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/PleX/comments/18izx96/update_full_automation_with_my_plex_server/'>Apollo</a> | <a href='https://reddit.com/r/PleX/comments/18izx96/update_full_automation_with_my_plex_server/'>Reddit</a></caption><div><br></div><p>People were asking for me to go into more detail about the containers and addons I am using for Plex so I made a video and posted the links to the programs and a quick overview of everything I use. I plan on going into greater depth with installation and setup for each of the 45 Docker Containers I have running alongside Plex. Side Note: I do offer help if needed. Enjoy!</p>\n<p><a href=\"https://youtu.be/Ql6BnreYf0Y\">https://youtu.be/Ql6BnreYf0Y</a></p>\n<p>&#x200B;</p>\n<p>Here's a quick breakdown.</p>\n<ul>\n<li>Portainer: <a href=\"https://www.portainer.io/\">https://www.portainer.io/</a></li>\n<li>Sonarr: <a href=\"https://sonarr.tv/\">https://sonarr.tv/</a></li>\n<li>Radarr: <a href=\"https://radarr.video/\">https://radarr.video/</a></li>\n<li>Lidarr: <a href=\"https://lidarr.audio/\">https://lidarr.audio/</a></li>\n<li>Readarr: <a href=\"https://readarr.com/\">https://readarr.com/</a></li>\n<li>Overseerr: <a href=\"https://overseerr.dev/\">https://overseerr.dev/</a></li>\n<li>Tdarr: <a href=\"https://home.tdarr.io/\">https://home.tdarr.io/</a></li>\n<li>SABnzbd: <a href=\"https://sabnzbd.org/\">https://sabnzbd.org/</a></li>\n<li>qBittorrent: <a href=\"https://www.qbittorrent.org/\">https://www.qbittorrent.org/</a></li>\n<li>Organizr: <a href=\"https://docs.organizr.app/\">https://docs.organizr.app/</a></li>\n<li>Prowlarr: <a href=\"https://prowlarr.com/\">https://prowlarr.com/</a></li>\n<li>Tautulli: <a href=\"https://tautulli.com/\">https://tautulli.com/</a></li>\n<li>Calibre: <a href=\"https://github.com/linuxserver/docker-calibre\">https://github.com/linuxserver/docker-calibre</a></li>\n<li>Audiobookshelf: <a href=\"https://www.audiobookshelf.org/\">https://www.audiobookshelf.org/</a></li>\n<li>Tubesync: <a href=\"https://github.com/meeb/tubesync\">https://github.com/meeb/tubesync</a></li>\n<li>Nginx Proxy Manager: <a href=\"https://nginxproxymanager.com/\">https://nginxproxymanager.com/</a></li>\n<li>Authentik: <a href=\"https://goauthentik.io/\">https://goauthentik.io/</a></li>\n<li>Notifiarr: <a href=\"https://notifiarr.wiki/\">https://notifiarr.wiki/</a></li>\n<li>Wordpress: <a href=\"https://wordpress.com/\">https://wordpress.com/</a></li>\n<li>Plex Meta Manager: <a href=\"https://metamanager.wiki/\">https://metamanager.wiki/</a></li>\n<li>Nextcloud: <a href=\"https://nextcloud.com/\">https://nextcloud.com/</a></li>\n<li>Bazarr: <a href=\"https://www.bazarr.media/\">https://www.bazarr.media/</a></li>\n<li>Homarr: <a href=\"https://homarr.dev/\">https://homarr.dev/</a></li>\n<li>DDNS-Updater: <a href=\"https://github.com/qdm12/ddns-updater\">https://github.com/qdm12/ddns-updater</a></li>\n<li>Requestrr: <a href=\"https://github.com/linuxserver/docker-requestrr\">https://github.com/linuxserver/docker-requestrr</a></li>\n<li>Watchtower: <a href=\"https://github.com/containrrr/watchtower\">https://github.com/containrrr/watchtower</a></li>\n</ul>\n<p>Original post: <a href=\"https://www.reddit.com/r/PleX/comments/17nyd3o/full_automation_with_my_plex_server/\">https://www.reddit.com/r/PleX/comments/17nyd3o/full_automation_with_my_plex_server/</a></p>\n<p>&#x200B;</p>\n<p>https://preview.redd.it/zlodsp0lkg6c1.png?width=1919&amp;format=png&amp;auto=webp&amp;s=2baab03dcb5bddd355f24f8a6b3d45ce9f9235a8</p>\n<p>https://preview.redd.it/oah18c5pkg6c1.png?width=1496&amp;format=png&amp;auto=webp&amp;s=a61e7baba1d49939414f2fb23829af890b7914ff</p>\n<p>https://preview.redd.it/bkf0s3kqkg6c1.png?width=1461&amp;format=png&amp;auto=webp&amp;s=75ca4d55df08eb88702b33808ea6aae0ef91314f</p>\n<p>https://preview.redd.it/a3ns2lorkg6c1.png?width=1627&amp;format=png&amp;auto=webp&amp;s=56b02bbadd58e4f6020a7221423ccf2d33fe08ae</p>\n<p>https://preview.redd.it/qkkc9rkukg6c1.png?width=1158&amp;format=png&amp;auto=webp&amp;s=783e6f4d86e468fb27c246cd6b49788a260a8e5f</p>\n<p>https://preview.redd.it/h5qtzlkvkg6c1.png?width=1381&amp;format=png&amp;auto=webp&amp;s=5379a7dc65ff689f6662e74c5c3f2796d5f5f648</p>\n<p>https://preview.redd.it/2z0hrt1xkg6c1.png?width=1439&amp;format=png&amp;auto=webp&amp;s=c9da7827dc68a62a1dc1d145cc90f209f9b6b68f</p>",
+            "date_published": "2023-12-15T13:19:57+00:00",
+            "authors": [
+                {
+                    "name": "mrbuckwheet",
+                    "url": "https://www.reddit.com/user/mrbuckwheet"
+                }
+            ]
+        },
+        {
             "id": "18g32s4",
             "url": "/r/PleX/comments/18g32s4/all_the_more_reason_to_invest_in_plex_and/",
             "external_url": "https://www.komando.com/technology/physical-media-libraries/898611/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Mike_v_E",
                     "url": "https://www.reddit.com/user/Mike_v_E"
-                }
-            ]
-        },
-        {
-            "id": "xj4wyq",
-            "url": "/r/PleX/comments/xj4wyq/plex_skip_credits_feature_coming_soon_source_in/",
-            "external_url": "https://i.redd.it/y31to0yeozo91.png",
-            "title": "Plex Skip Credits Feature Coming Soon (source in comments)",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/y31to0yeozo91.png'>i.redd.it</a> | <a href='https://reddit.com/r/PleX/comments/xj4wyq/plex_skip_credits_feature_coming_soon_source_in/'>Reddit</a> | <a href='apollo://reddit.com/r/PleX/comments/xj4wyq/plex_skip_credits_feature_coming_soon_source_in/'>Apollo</a></caption>",
-            "date_published": "2022-09-20T10:17:16+00:00",
-            "authors": [
-                {
-                    "name": "cornflakesaregross",
-                    "url": "https://www.reddit.com/user/cornflakesaregross"
                 }
             ]
         }
