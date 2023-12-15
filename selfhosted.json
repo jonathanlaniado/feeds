@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "18io02l",
+            "url": "/r/selfhosted/comments/18io02l/174_million_dns_queries_over_24_hours_via_adguard/",
+            "external_url": "https://i.redd.it/63iz10yhzc6c1.png",
+            "title": "17.4 million DNS queries over 24 hours via AdGuard Home",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/18io02l/174_million_dns_queries_over_24_hours_via_adguard/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/18io02l/174_million_dns_queries_over_24_hours_via_adguard/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/63iz10yhzc6c1.png\" />",
+            "date_published": "2023-12-15T01:09:31+00:00",
+            "authors": [
+                {
+                    "name": "ctrlaltpineapple",
+                    "url": "https://www.reddit.com/user/ctrlaltpineapple"
+                }
+            ]
+        },
+        {
             "id": "18hp5yx",
             "url": "/r/selfhosted/comments/18hp5yx/daily_reminder_to_prune_your_docker_images_every/",
             "external_url": "https://i.redd.it/32ekq9um746c1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "HorseRadish98",
                     "url": "https://www.reddit.com/user/HorseRadish98"
-                }
-            ]
-        },
-        {
-            "id": "13zgke9",
-            "url": "/r/selfhosted/comments/13zgke9/on_june_12th_several_subreddits_are_protesting/",
-            "external_url": "/r/Save3rdPartyApps/comments/13yh0jf/dont_let_reddit_kill_3rd_party_apps/",
-            "title": "On June 12th, several subreddits are protesting against the new Reddit API pricing and its implications for 3rd-party clients. Will /r/selfhosted join the strike?",
-            "content_html": "<caption>Open: <a href='/r/Save3rdPartyApps/comments/13yh0jf/dont_let_reddit_kill_3rd_party_apps/'></a> | <a href='https://reddit.com/r/selfhosted/comments/13zgke9/on_june_12th_several_subreddits_are_protesting/'>Reddit</a></caption>",
-            "date_published": "2023-06-03T15:41:10+00:00",
-            "authors": [
-                {
-                    "name": "andreipoe",
-                    "url": "https://www.reddit.com/user/andreipoe"
                 }
             ]
         }
