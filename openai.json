@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "18jgtki",
+            "url": "/r/OpenAI/comments/18jgtki/github_copilot_chat_has_started_to_be_lazy_and/",
+            "external_url": "https://www.reddit.com/r/OpenAI/comments/18jgtki/github_copilot_chat_has_started_to_be_lazy_and/",
+            "title": "Github copilot chat has started to be lazy and refuse to write unit tests",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/18jgtki/github_copilot_chat_has_started_to_be_lazy_and/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/18jgtki/github_copilot_chat_has_started_to_be_lazy_and/'>Reddit</a></caption><div><br></div><p>This is the majority of the value IMO of copilot, is to be able to see some code and generate test cases that otherwise would be laborious to set up and think through. It used to work fine for me and ChatGPT has worked OK for a while too, but recently Github copilot won't write them for me. It will give me the bare minimum setup and then provide a line like:</p>\n<p>\"# Add your specific assertions here based on your expectations\"</p>\n<p>&#x200B;</p>\n<p>And when I ask it to write that part it refuses to and says that coding is complex so I should do it. I get that but I really know the tool is capable of it. </p>\n<p>&#x200B;</p>\n<p>Has anyone else noticed it getting lazy and not helping anymore?</p>",
+            "date_published": "2023-12-16T02:19:42+00:00",
+            "authors": [
+                {
+                    "name": "shoegraze",
+                    "url": "https://www.reddit.com/user/shoegraze"
+                }
+            ]
+        },
+        {
             "id": "18hi6mk",
             "url": "/r/OpenAI/comments/18hi6mk/chatgpt_will_soon_have_realtime_news_access/",
             "external_url": "https://openai.com/blog/axel-springer-partnership",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ShooBum-T",
                     "url": "https://www.reddit.com/user/ShooBum-T"
-                }
-            ]
-        },
-        {
-            "id": "16tmj78",
-            "url": "/r/OpenAI/comments/16tmj78/openai_could_reach_massive_90_billion_valuation/",
-            "external_url": "https://www.reddit.com/r/OpenAI/comments/16tmj78/openai_could_reach_massive_90_billion_valuation/",
-            "title": "OpenAI Could Reach Massive $90 Billion Valuation",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/OpenAI/comments/16tmj78/openai_could_reach_massive_90_billion_valuation/'>Reddit</a></caption><div><br></div><div><p>OpenAI is in discussions about a potential share sale that would value it at $80 to $90 billion, according to the <em>Wall Street Journal</em>\u2014about three times what it was valued in January as the AI race heats up.</p>\n<p>It\u2019s expected that the deal will let employees sell their shares, instead of OpenAI issuing new ones.</p>\n<p>A valuation of $80 or $90 billion would make OpenAI\u2014which is privately held\u2014one of the highest valued startups, joining the ranks of TikTok owner ByteDance and SpaceX and surpassing companies like Shein and Canva.</p>\n<p><a href=\"https://www.forbes.com/sites/mollybohannon/2023/09/26/openai-could-reach-massive-90-billion-valuation-with-new-share-sales-report-says/?sh=4b06546e55c2\">https://www.forbes.com/sites/mollybohannon/2023/09/26/openai-could-reach-massive-90-billion-valuation-with-new-share-sales-report-says/?sh=4b06546e55c2</a></p>\n<p>&#x200B;</p></div>",
-            "date_published": "2023-09-27T14:46:16+00:00",
-            "authors": [
-                {
-                    "name": "forbes",
-                    "url": "https://www.reddit.com/user/forbes"
                 }
             ]
         }
