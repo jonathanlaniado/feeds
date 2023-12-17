@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "18kc20h",
+            "url": "/r/selfhosted/comments/18kc20h/dokemon_is_open_source_now/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/18kc20h/dokemon_is_open_source_now/",
+            "title": "Dokemon is open source now!",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/18kc20h/dokemon_is_open_source_now/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/18kc20h/dokemon_is_open_source_now/'>Reddit</a></caption><div><br></div><p>Hey folks, I am developing a Docker Management GUI Tool (<a href=\"https://dokemon.dev/\">https://dokemon.dev</a>) and I had posted in this subreddit a few days ago. This was my post: <a href=\"https://www.reddit.com/r/selfhosted/comments/18gh5oy/do_you_selfhost_git_repos_too/\">https://www.reddit.com/r/selfhosted/comments/18gh5oy/do_you_selfhost_git_repos_too/</a>. I had mentioned that initially I got bashed for building a GUI tool and I got very kind responses on the post which encouraged me to keep doing what I love to do!</p>\n<p>Quite a few mentioned that they cannot use my tool as it is not open-source. I am happy to announce that I have open-sourced it under <strong>MIT License</strong> and here is the repo:</p>\n<p><a href=\"https://github.com/productiveops/dokemon\">https://github.com/productiveops/dokemon</a></p>\n<p><strong>Why it was not open-source earlier?</strong></p>\n<p>I used to be a .NET developer before I moved into DevOps. The project started as an excuse for me to learn the latest development technologies. Dokemon is written in Golang and React. One reason I had not open-sourced it earlier was I am new to both these languages/frameworks and I was nervous of people judging my code. :) It is not that bad but still it made me nervous.</p>\n<p>I had planned to complete all the basic functionality, then refactor the code, then setup coding standards, etc. and then open-source it. I have not reached this stage yet, but as many cannot use it for not being open-source, I gathered courage and decided to open-source it right away! I will slowly keep on building it and refactoring the code as I go along.</p>\n<p>After my previous post I added a few new features: support for Variables and Environments and Dark Mode! :)</p>\n<p>Here is repo once again:</p>\n<p><strong>Dokemon Code Repo</strong>: <a href=\"https://github.com/productiveops/dokemon\">https://github.com/productiveops/dokemon</a></p>\n<p>Do give it a STAR on GitHub if you like the project :)</p>",
+            "date_published": "2023-12-17T07:35:17+00:00",
+            "authors": [
+                {
+                    "name": "salslab",
+                    "url": "https://www.reddit.com/user/salslab"
+                }
+            ]
+        },
+        {
             "id": "18jr24p",
             "url": "/r/selfhosted/comments/18jr24p/we_are_300k_strong/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/18jr24p/we_are_300k_strong/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "kmisterk",
                     "url": "https://www.reddit.com/user/kmisterk"
-                }
-            ]
-        },
-        {
-            "id": "143diuj",
-            "url": "/r/selfhosted/comments/143diuj/reddit_temporarily_ban_subreddit_and_user/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/143diuj/reddit_temporarily_ban_subreddit_and_user/",
-            "title": "Reddit temporarily ban subreddit and user advertising rival self-hosted platform (Lemmy)",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/143diuj/reddit_temporarily_ban_subreddit_and_user/'>Reddit</a></caption><div><br></div><div><p>Reddit user <a href=\"https://www.reddit.com/u/TheArstaInventor/\">/u/TheArstaInventor</a> was recently banned from Reddit, alongside a subreddit they created <a href=\"https://www.reddit.com/r/LemmyMigration/\">r/LemmyMigration</a> which was promoting Lemmy.   </p>\n<p>Lemmy is a self-hosted social link sharing and discussion platform, offering an alternative experience to Reddit. Considering recent issues with Reddit API changes, and the impending hemorrhage to Reddit's userbase, this is a sign they're panicking.</p>\n<p>The account and subreddit have since been reinstated, but this doesn't look good for Reddit.</p>\n<p><a href=\"https://www.videogamer.com/news/reddit-ban-subreddit-user-for-alternative-platforms/\">Full Story Here</a></p></div>",
-            "date_published": "2023-06-07T13:36:47+00:00",
-            "authors": [
-                {
-                    "name": "aDogWithoutABone",
-                    "url": "https://www.reddit.com/user/aDogWithoutABone"
                 }
             ]
         }
