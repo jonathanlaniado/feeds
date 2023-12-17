@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "18kj5gb",
+            "url": "/r/ArcBrowser/comments/18kj5gb/what_happened_to_this_community/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/18kj5gb/what_happened_to_this_community/",
+            "title": "What happened to this community?",
+            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/18kj5gb/what_happened_to_this_community/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/18kj5gb/what_happened_to_this_community/'>Reddit</a></caption><div><br></div><p>I always thought this was such a supportive and open-minded community. People found issues and had negative feedback, but everyone seemed to understand that Arc is still very much a work in progress and that The Browser Company does their best to listen to the feedback given here.</p>\n<p>But recently it seems most posts and an increased number of comments just want to complain or be negative. Sure, the announcement for Arc for Windows gave some people false hope. But \u2014and this is my personal opinion\u2014 I feel like people who want everything and want it right now simply don't understand how this project works.</p>\n<p>Everyone here has a (tiny) role in creating the browsing experience of the future. It's actually incredible how much TBC is paying attention to what is said here. They are really passionate about their product and building something we will love. Let's help them by giving them constructive feedback instead of just moaning about what the difference is between an alpha or beta release, whether Josh should be less enthusiastic in his announcements, or that GDPR misunderstanding. </p>\n<p>Being a little nicer to each other doesn't cost anything, but it makes life much better for the people who are actually building the product we so desperately want to use.</p>",
+            "date_published": "2023-12-17T15:01:27+00:00",
+            "authors": [
+                {
+                    "name": "BankHottas",
+                    "url": "https://www.reddit.com/user/BankHottas"
+                }
+            ]
+        },
+        {
             "id": "18jloe9",
             "url": "/r/ArcBrowser/comments/18jloe9/pov_year_2186/",
             "external_url": "https://i.redd.it/6oaj6awrvl6c1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "JaceThings",
                     "url": "https://www.reddit.com/user/JaceThings"
-                }
-            ]
-        },
-        {
-            "id": "16ui9co",
-            "url": "/r/ArcBrowser/comments/16ui9co/arc_finally_event_oct_3_its_not_windows_its_not_a/",
-            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/16ui9co/arc_finally_event_oct_3_its_not_windows_its_not_a/",
-            "title": "Arc Finally Event (Oct 3): \"It's not Windows, it's not a new mobile app, it's not Arc for Teams\"",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/16ui9co/arc_finally_event_oct_3_its_not_windows_its_not_a/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/16ui9co/arc_finally_event_oct_3_its_not_windows_its_not_a/'>Reddit</a></caption><div><br></div><div><p><a href=\"https://www.youtube.com/watch?v=y7koAGLf0EE\"><strong>Arc Browser\u2019s 2023 Event | Finally - YouTube</strong></a> </p>\n<blockquote>\n<p>It's not Windows, it's not a new mobile app, it's not Arc for Teams... it's something else.    </p>\n<p>In some ways it's a small step. In other ways it's a big one.    </p>\n<p>On Tuesday, October 3 @ 12pm ET we are going live (*actually* live) from Brooklyn.    </p>\n<p>Sign up to receive an invite for the event: <a href=\"https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbllXRC1HdjM5VmRDNUFrckRuZTg1dEZkYnd4UXxBQ3Jtc0ttMkFOTDZlWHFCUzFsa3B3bDNNaVpVUlF4aExaVjVhT3d1b2xsZ2pwdXktSzQ2MmxENEtXa0NQWDZ1Q1M5eHdUSEZSNGZsbEtWaU4zNTNDNmJkYmljbU9sRnpPWnhRbWs3VGk4anhFZlNTblJDTElvUQ&amp;q=https%3A%2F%2Fbrowserco.typeform.com%2Fto%2FD2K20H1i&amp;v=y7koAGLf0EE\">https://browserco.typeform.com/to/D2K...</a>  </p>\n</blockquote></div>",
-            "date_published": "2023-09-28T14:57:45+00:00",
-            "authors": [
-                {
-                    "name": "-protonsandneutrons-",
-                    "url": "https://www.reddit.com/user/-protonsandneutrons-"
                 }
             ]
         }
