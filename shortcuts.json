@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "18ks7cc",
+            "url": "/r/shortcuts/comments/18ks7cc/imessage_to_note_capture_texts_before_theyre/",
+            "external_url": "https://i.redd.it/bwiu1uueex6c1.jpeg",
+            "title": "iMessage to note - capture texts before they're deleted!",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/18ks7cc/imessage_to_note_capture_texts_before_theyre/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/18ks7cc/imessage_to_note_capture_texts_before_theyre/'>Reddit</a></caption><div><br></div><p>I got tired of someone texting me and then deleting texts before i could read them. So i created an automation to log texts as they came in and before they get deleted, especially helpful when I'm not near my devices to try and see the text before it's deleted. </p>\n<p>Step 1. Create a note to act as your log and save it in whatever folder you want. If you rename it or move it later, you'll have to fit the automation to look for the new note/location. I called it Test Message Log for the image above. </p>\n<p>Step 2. Create an automation based on receiving a text from someone. Select the person (i used 'Test' in the image above) and any keywords you may want to use as filters. I left it blank so any message from them will be captured. Select 'Run immediately'. Hit next. </p>\n<p>Step 3. Select 'New blank automation'.</p>\n<p>Step 4. Search for and add the  'Get text from input' action. Select shortcut input as the variable. </p>\n<p>Step 5. Search for and add the 'Text' action.  Format the text as you would like it to appear in the note. Select the 'current date' variable and format it how you wish. Select the 'text' variable to get the text from Step 4 above.\n(I put in some dashes as a separator for the messages, a couple of stars around the date to make it stand out a bit). </p>\n<p>Step 6. Search for and add the 'Append to note' action. Set the variable to the text created in Step 5. Select the note you created in Step 1.  </p>\n<p>[I probably don't need the first 'get text from input' action and could just pass that text from the message right into the 'text' action. ]</p><div><br></div><img src=\"https://i.redd.it/bwiu1uueex6c1.jpeg\" />",
+            "date_published": "2023-12-17T21:48:14+00:00",
+            "authors": [
+                {
+                    "name": "User-Jacques",
+                    "url": "https://www.reddit.com/user/User-Jacques"
+                }
+            ]
+        },
+        {
             "id": "18grjm2",
             "url": "/r/shortcuts/comments/18grjm2/until_these_apps_can_work_together_the_new/",
             "external_url": "https://i.redd.it/mtckzv1ghw5c1.jpeg",
