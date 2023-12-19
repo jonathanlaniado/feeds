@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
     "items": [
         {
+            "id": "18loqvx",
+            "url": "/r/ChatGPTPro/comments/18loqvx/github_copilot_is_better_than_chatgpt/",
+            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/18loqvx/github_copilot_is_better_than_chatgpt/",
+            "title": "GitHub Copilot is better than ChatGPT",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ChatGPTPro/comments/18loqvx/github_copilot_is_better_than_chatgpt/'>Winston</a> | <a href='https://reddit.com/r/ChatGPTPro/comments/18loqvx/github_copilot_is_better_than_chatgpt/'>Reddit</a></caption><div><br></div><p>As a frontend developer and a ChatGPT power user, I've been using ChatGPT since its launch in December 2022 and have been a subscriber to the Plus model from the very beginning. During this time, I also experimented with GitHub Copilot in VSCode, but initially found it less satisfying because of GPT-3 (or 3.5 don\u2018t bash me), which seemed like a step down in all aspects.</p>\n<p>However, things have changed significantly recently. Copilot has been upgraded to GPT-4, introducing a ChatGPT-like interface that allows for more interactive coding. By initiating prompts with \"@workspace [prompt...]\", Copilot can now access the entire context of your project.</p>\n<p>This feature enables you to give commands like \"apply this logic in this or that file\u201c and it seamlessly executes them, searching through all references in the project. No more copying and pasting large code blocks into ChatGPT, streamlining the development process considerably.</p>\n<p>Also the way how you can hover over errors in your code and apply quick fixes for them. Such a time saver.</p>\n<p>I've been extremely pleased with these updates. They've transformed my coding experience, making it way more efficient and enjoyable. I'll probably cancel my GPT-4 subscription since the capabilities of Copilot are insane now!</p>\n<p>If you want to see it in action watch <a href=\"https://youtu.be/2qwiNmBNqQQ?si=3CP48p7z4APFL0y2\">Theo\u2018s recent video</a>.</p>\n<p>Edit: It seems like the subscription page for Copilot still says GPT 3.5, you need to join the public beta and manually update VSCode + Copilot for the new features and GPT-4 access. <a href=\"https://github.blog/changelog/2023-11-30-github-copilot-november-30th-update/\">Reference source</a></p>",
+            "date_published": "2023-12-19T00:50:11+00:00",
+            "authors": [
+                {
+                    "name": "chen19921337",
+                    "url": "https://www.reddit.com/user/chen19921337"
+                }
+            ]
+        },
+        {
             "id": "18hsgm6",
             "url": "/r/ChatGPTPro/comments/18hsgm6/more_absolutely_neutered_features_legal_text/",
             "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/18hsgm6/more_absolutely_neutered_features_legal_text/",
