@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "18m9llu",
+            "url": "/r/apple/comments/18m9llu/the_athletic_joins_apple_news/",
+            "external_url": "https://www.apple.com/newsroom/2023/12/the-athletic-joins-apple-news-plus/",
+            "title": "The Athletic joins Apple News+",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/apple/comments/18m9llu/the_athletic_joins_apple_news/'>Winston</a> | <a href='https://reddit.com/r/apple/comments/18m9llu/the_athletic_joins_apple_news/'>Reddit</a></caption><div><br></div><p>Unclear to me if this means all of The Athletic\u2019s articles will be included in a News+ subscription. </p>\n<p>Played around with it a little, and was able to find one article that wouldn\u2019t open in the News app, with a message saying \u201cThis Story is not available in Apple News\u201d, but maybe that\u2019s because it\u2019s so new?</p>",
+            "date_published": "2023-12-19T19:03:23+00:00",
+            "authors": [
+                {
+                    "name": "rhylte",
+                    "url": "https://www.reddit.com/user/rhylte"
+                }
+            ]
+        },
+        {
             "id": "18ma4ok",
             "url": "/r/apple/comments/18ma4ok/apple_releases_new_ios_1721_update_alongside/",
             "external_url": "https://9to5mac.com/2023/12/19/apple-releases-ios-17-2-1/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "thereturnofjagger",
                     "url": "https://www.reddit.com/user/thereturnofjagger"
-                }
-            ]
-        },
-        {
-            "id": "1765gfg",
-            "url": "/r/apple/comments/1765gfg/apples_first_m3_macbooks_coming_next_year_claims/",
-            "external_url": "https://www.macrumors.com/2023/10/12/apple-first-m3-macbooks-in-2024/",
-            "title": "Apple's First M3 MacBooks Coming Next Year, Claims Shipment Forecast",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/apple/comments/1765gfg/apples_first_m3_macbooks_coming_next_year_claims/'>Apollo</a> | <a href='https://reddit.com/r/apple/comments/1765gfg/apples_first_m3_macbooks_coming_next_year_claims/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-10-12T12:10:20+00:00",
-            "authors": [
-                {
-                    "name": "favicondotico",
-                    "url": "https://www.reddit.com/user/favicondotico"
                 }
             ]
         }
