@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "18nt4af",
+            "url": "/r/selfhosted/comments/18nt4af/have_i_been_hacked_and_am_now_mining_crypto/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/18nt4af/have_i_been_hacked_and_am_now_mining_crypto/",
+            "title": "Have I been hacked and am now mining crypto?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/18nt4af/have_i_been_hacked_and_am_now_mining_crypto/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/18nt4af/have_i_been_hacked_and_am_now_mining_crypto/'>Reddit</a></caption><div><br></div><p>So im running a few things on a gen 11 NUC, Debian 12 and just noticed systemd-journald is using high CPU. </p>\n<p>https://preview.redd.it/5o3wklviso7c1.png?width=954&amp;format=png&amp;auto=webp&amp;s=ee187ca41066834a99415c0321f68e9dcd440781</p>\n<p>This obviously isnt normal. Also why is it running under my own user, shouldnt it be root? Running <strong>journalctl -f</strong> looks ok, not too many messages. So I run <strong>ps aux --sort -rss | head -10</strong></p>\n<p>https://preview.redd.it/iqncylksso7c1.png?width=1207&amp;format=png&amp;auto=webp&amp;s=51b788dbd4e1ae344a4f205477a1a9da8b5fe06b</p>\n<p>And I check the supposed config <strong>config_background.json</strong> and I see lines like </p>\n<p>https://preview.redd.it/g56ypi2hto7c1.png?width=1063&amp;format=png&amp;auto=webp&amp;s=d3906613763253b79aa701969717d87aa4b2427f</p>\n<p>This seems to be a crypto miner. Not sure how this would have happened. Any hints on what to do next, secure myself?</p>",
+            "date_published": "2023-12-21T18:04:22+00:00",
+            "authors": [
+                {
+                    "name": "pinewoodranger",
+                    "url": "https://www.reddit.com/user/pinewoodranger"
+                }
+            ]
+        },
+        {
             "id": "18lj36i",
             "url": "/r/selfhosted/comments/18lj36i/new_and_free_home_assistant_remote_access_looking/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/18lj36i/new_and_free_home_assistant_remote_access_looking/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Xuis",
                     "url": "https://www.reddit.com/user/Xuis"
-                }
-            ]
-        },
-        {
-            "id": "144i3tz",
-            "url": "/r/selfhosted/comments/144i3tz/how_should_i_configure_these_settings_for_porn/",
-            "external_url": "https://i.redd.it/lan4nnudfu4b1.jpg",
-            "title": "How should I configure these settings for porn forwarding?",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/selfhosted/comments/144i3tz/how_should_i_configure_these_settings_for_porn/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/lan4nnudfu4b1.jpg\" />",
-            "date_published": "2023-06-08T19:11:14+00:00",
-            "authors": [
-                {
-                    "name": "someone5133",
-                    "url": "https://www.reddit.com/user/someone5133"
                 }
             ]
         }
