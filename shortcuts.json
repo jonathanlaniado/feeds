@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "18ns24u",
+            "url": "/r/shortcuts/comments/18ns24u/actions_3_is_out/",
+            "external_url": "https://www.reddit.com/r/shortcuts/comments/18ns24u/actions_3_is_out/",
+            "title": "Actions 3 is out",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/18ns24u/actions_3_is_out/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/18ns24u/actions_3_is_out/'>Reddit</a></caption><div><br></div><p>https://github.com/sindresorhus/Actions</p>\n<p>The app now requires macOS 14 and iOS 17.</p>\n<hr />\n<p><strong>Restart your device after updating.</strong></p>\n<hr />\n<p><strong>New actions</strong>\n- Get Bluetooth Devices\n- Get Bluetooth Device\n- Authenticate (New)\n  - In contrast to the old authenticate action, this one returns the result directly instead of copying it to the clipboard.\n- Get Device Motion Data (iOS-only)\n- Is Device Moving (iOS-only)\n- Is Call Active (iOS-only)\n- Get Compass Heading (iOS-only)</p>\n<p>The most useful new action is probably \u201cGet Bluetooth Device\u201d. With it, you can detect where you are based on what Bluetooth devices are close by. For example, have the iPhone 15 Pro action button behave differently at home and outside.</p>",
+            "date_published": "2023-12-21T17:18:52+00:00",
+            "authors": [
+                {
+                    "name": "sindresorhus",
+                    "url": "https://www.reddit.com/user/sindresorhus"
+                }
+            ]
+        },
+        {
             "id": "18nk4ev",
             "url": "/r/shortcuts/comments/18nk4ev/apple_maps_feature_for_apple_calendar/",
             "external_url": "https://www.reddit.com/gallery/18nk4ev",
