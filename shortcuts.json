@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "18nk4ev",
+            "url": "/r/shortcuts/comments/18nk4ev/apple_maps_feature_for_apple_calendar/",
+            "external_url": "https://www.reddit.com/gallery/18nk4ev",
+            "title": "Apple Maps feature for Apple Calendar",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/18nk4ev/apple_maps_feature_for_apple_calendar/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/18nk4ev/apple_maps_feature_for_apple_calendar/'>Reddit</a></caption><div><br></div><p>Hey guys, I\u2019m sharing this shortcut I\u2019ve built up with someone else from the community (s/o @Cost_Internal). </p>\n<p>\ud83d\udd39The shortcut:\nThe shortcut allows us to use Apple Maps for setting up events in Calendar. I put the link here:</p>\n<p>https://www.icloud.com/shortcuts/25b4f0ba1e124ca2af78c81609a54f27</p>\n<p>\ud83d\udd39Why the shortcut:\nThe main frustration I had so far with the current calendar app is that whenever I wasn\u2019t sure where I was going / supposed to go for my event, I had to open up maps on the side, look up the address, verify it\u2019s the right place in the right city, copy the addy and come back on the calendar app to paste it. I also feel setting up events via the menu feature of shortcuts is more user friendly, feels more smooth to set up an event.</p>\n<p>I\u2019ve built this up so I can benefit from the Apple Maps feature with the Calendar app. I think that would be great something similar gets integrated into the Calendar app by Apple itself at some point, there\u2019s def some UX improvements they can do on that</p>\n<p>\ud83d\udd39How it works \nHere\u2019s how the shortcut works: \n1 - Event title\n2 - Set start and end event \n3 - Look up the address for your event (just directly click Ok if no address) \n3.1 - Once you have your location, click share then copy to copy the address, click Ok to confirm &amp; add the location for the event \n4 - Set yourself an alert, you have the none option (A second alert at time to leave is set by default as well to get to your location in time)\n5 - Add yourself a note if necessary (just click Ok if none)</p>\n<p>\ud83d\udd39Conclusion\nThat\u2019s it, your event is set up, with location, alerts and notes done so you stay organized and prepared</p>\n<p>\ud83d\udd39Feedback\nAnyway, have a look yourself and let me know what you think! I\u2019d love to get your feedback and if you think of additional features that should/could be added to it, please share with us your improvements</p>\n<p>Thank you!!</p>",
+            "date_published": "2023-12-21T10:37:42+00:00",
+            "authors": [
+                {
+                    "name": "SpareNeedleworker152",
+                    "url": "https://www.reddit.com/user/SpareNeedleworker152"
+                }
+            ]
+        },
+        {
             "id": "18ksh9w",
             "url": "/r/shortcuts/comments/18ksh9w/action_button_shortcuts/",
             "external_url": "https://i.redd.it/ywo5n8gngx6c1.jpeg",
