@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "18pe6x2",
+            "url": "/r/OpenAI/comments/18pe6x2/sam_altman_is_asking_what_would_you_like_openai/",
+            "external_url": "https://twitter.com/sama/status/1738639394800906381",
+            "title": "Sam Altman is asking \"what would you like openai to build/fix in 2024?\"",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/18pe6x2/sam_altman_is_asking_what_would_you_like_openai/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/18pe6x2/sam_altman_is_asking_what_would_you_like_openai/'>Reddit</a></caption><div><br></div><div><br></div><blockquote class=\"twitter-tweet\" align=\"center\"><p lang=\"en\" dir=\"ltr\">what would you like openai to build/fix in 2024?</p>&mdash; Sam Altman (@sama) <a href=\"https://twitter.com/sama/status/1738639394800906381?ref_src=twsrc%5Etfw\">December 23, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+            "date_published": "2023-12-23T20:24:29+00:00",
+            "authors": [
+                {
+                    "name": "klavado",
+                    "url": "https://www.reddit.com/user/klavado"
+                }
+            ]
+        },
+        {
             "id": "18ls137",
             "url": "/r/OpenAI/comments/18ls137/mistral_ceo_gpt_4_level_open_source_ai_in_2024/",
             "external_url": "https://i.redd.it/xxmqqdh9867c1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Significant_Ant2146",
                     "url": "https://www.reddit.com/user/Significant_Ant2146"
-                }
-            ]
-        },
-        {
-            "id": "16u8d8i",
-            "url": "/r/OpenAI/comments/16u8d8i/93_exabytes/",
-            "external_url": "https://i.redd.it/j87slymewxqb1.jpg",
-            "title": "9.3 EXABYTES?!",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/16u8d8i/93_exabytes/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/16u8d8i/93_exabytes/'>Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/j87slymewxqb1.jpg\" />",
-            "date_published": "2023-09-28T06:22:56+00:00",
-            "authors": [
-                {
-                    "name": "spdustin",
-                    "url": "https://www.reddit.com/user/spdustin"
                 }
             ]
         }
