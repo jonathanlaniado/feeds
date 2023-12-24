@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "18prwlw",
+            "url": "/r/selfhosted/comments/18prwlw/my_current_server_dashboard_which_services_i/",
+            "external_url": "https://i.redd.it/rbaejywpo78c1.png",
+            "title": "My current server dashboard! Which services I should add?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/18prwlw/my_current_server_dashboard_which_services_i/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/18prwlw/my_current_server_dashboard_which_services_i/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/rbaejywpo78c1.png\" />",
+            "date_published": "2023-12-24T09:29:12+00:00",
+            "authors": [
+                {
+                    "name": "EmojiMasterYT",
+                    "url": "https://www.reddit.com/user/EmojiMasterYT"
+                }
+            ]
+        },
+        {
             "id": "18nt4af",
             "url": "/r/selfhosted/comments/18nt4af/have_i_been_hacked_and_am_now_mining_crypto/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/18nt4af/have_i_been_hacked_and_am_now_mining_crypto/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "boiling_point_",
                     "url": "https://www.reddit.com/user/boiling_point_"
-                }
-            ]
-        },
-        {
-            "id": "145ewl6",
-            "url": "/r/selfhosted/comments/145ewl6/with_reddit_sunsetting_im_looking_back_to_rss/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/145ewl6/with_reddit_sunsetting_im_looking_back_to_rss/",
-            "title": "With Reddit sunsetting, I'm looking back to RSS. What are the best current tools?",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/145ewl6/with_reddit_sunsetting_im_looking_back_to_rss/'>Reddit</a></caption><div><br></div><div><p>Because the ways I access reddit are being stripped away (3rd party apps, and probably old.reddit), I've been thinking about going back to RSS.<br />\nGoogle Reader and Yahoo Pipes no longer exist, so I'm searching for tools that present RSS feeds with a good UI, and also UI tools that can be used to craft and scrape RSS feeds.<br />\nDoes anybody have suggestions?</p></div>",
-            "date_published": "2023-06-09T19:49:54+00:00",
-            "authors": [
-                {
-                    "name": "Xuis",
-                    "url": "https://www.reddit.com/user/Xuis"
                 }
             ]
         }
