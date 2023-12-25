@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "18qfjn5",
+            "url": "/r/selfhosted/comments/18qfjn5/how_does_everyone_else_backup_their_docker/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/18qfjn5/how_does_everyone_else_backup_their_docker/",
+            "title": "How does everyone else backup their Docker?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/18qfjn5/how_does_everyone_else_backup_their_docker/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/18qfjn5/how_does_everyone_else_backup_their_docker/'>Reddit</a></caption><div><br></div><p>I personally use a script I created and run it every day at 3AM. It backs up my Docker Volume directory as that is where my containers store their persistent data</p>\n<p>Here it is just in case anyone wants some inspiration:</p>\n<p>```</p>\n<h1>!/bin/bash</h1>\n<h1>Global HTTP_ENDPOINT variable</h1>\n<p>HTTP_ENDPOINT=\"https://cloud-notify.ellisn.com/api/notify?userID=&lt;&gt;&amp;token=&lt;&gt;\"</p>\n<h1>Progress function to display messages</h1>\n<p>function show_progress {\n    echo -e \"\\n[INFO] $1\"\n}</p>\n<h1>Send notification to phone</h1>\n<p>function send_notification {\n    local title=\"$1\"\n    local body=\"$2\"</p>\n<pre><code># URL encode parameters\ntitle=$(printf \"%s\" \"$title\" | jq -s -R -r @uri)\nbody=$(printf \"%s\" \"$body\" | jq -s -R -r @uri)\n\n# Append query parameters to the global HTTP_ENDPOINT\nlocal FINAL_HTTP_ENDPOINT=\"$HTTP_ENDPOINT&amp;title=$title&amp;body=$body\"\n\n# Make the HTTP GET request\ncurl -X GET \"$FINAL_HTTP_ENDPOINT\"\n</code></pre>\n<p>}</p>\n<h1>Record the start time</h1>\n<p>start_time=$SECONDS</p>\n<h1>Define source and destination paths</h1>\n<p>SOURCE_DIR=\"/var/lib/docker/volumes\"\nDESTINATION_DIR=\"/mnt/Backups/docker\"\nBACKUP_NAME=\"docker-$(date +\"%m_%d_%Y\")\"</p>\n<h1>Check if the destination directory exists, create it if not</h1>\n<p>if [ ! -d \"$DESTINATION_DIR/$BACKUP_NAME\" ]; then\n    mkdir -p \"$DESTINATION_DIR/$BACKUP_NAME\"\nfi</p>\n<h1>Redirect all output to a log file</h1>\n<p>exec &gt; \"$DESTINATION_DIR/$BACKUP_NAME/log.txt\" 2&gt;&amp;1</p>\n<h1>Stop Docker containers</h1>\n<p>show_progress \"Stopping Docker containers...\"\nsend_notification \"Starting Docker Backup\" \"Docker backup started. Stopping all Docker containers.\"\ndocker stop $(docker ps -q)</p>\n<h1>Sleep for 20 seconds to allow containers to stop gracefully</h1>\n<p>sleep 20s</p>\n<h1>Record the start time for the backup</h1>\n<p>backup_start_time=$SECONDS</p>\n<h1>Backup Docker volumes</h1>\n<p>show_progress \"Backing up Docker volumes...\"\nif rsync -avhz --delete --exclude \"_data/mysql.sock\" --exclude \"backingFsBlockDev\"  \"$SOURCE_DIR\" \"$DESTINATION_DIR/$BACKUP_NAME\"; then\n    # Record the end time for the backup\n    backup_end_time=$SECONDS</p>\n<pre><code># Calculate the duration of the backup\nbackup_duration=$((backup_end_time - backup_start_time))\n\n# Example HTTP GET request on successful backup\nTITLE=\"Docker Backup successfully completed\"\nCURRENT_TIME=$(date +\"%H:%M:%S\")\n\nBODY=\"Docker has been backed up to &lt;&gt; at $CURRENT_TIME.\"\nBODY+=\" Backup duration: ${backup_duration} seconds.\"\n\n# Send notification\nsend_notification \"$TITLE\" \"$BODY\"\n</code></pre>\n<p>else\n    # If the backup fails, send an error message in the HTTP GET request\n    ERROR_TITLE=\"Docker Backup Failed\"\n    ERROR_BODY=\"There was an error in the Docker backup process.\"</p>\n<pre><code># Send notification\nsend_notification \"$ERROR_TITLE\" \"$ERROR_BODY\"\n</code></pre>\n<p>fi</p>\n<h1>Start Docker containers (regardless of backup success or failure)</h1>\n<p>show_progress \"Starting Docker containers...\"\ndocker start $(docker ps -q -a)\nsend_notification \"Docker containers started\" \"Docker containers are back online\"</p>\n<h1>Sleep for another 20 seconds</h1>\n<p>sleep 20s</p>\n<h1>Remove old backups (older than 10 days)</h1>\n<p>show_progress \"Removing old backups...\"\ndeleted_backups=$(find \"$DESTINATION_DIR\" -maxdepth 1 -type d -name \"docker-*\" -ctime +10 -exec rm -rf {} \\; -print | wc -l)</p>\n<h1>Example HTTP GET request on successful old backup removal</h1>\n<p>CURRENT_TIME_BACKUP_REMOVAL=$(date +\"%H:%M:%S\")\nif [ \"$deleted_backups\" -eq 0 ]; then\n    # No backups were removed\n    TITLE_BACKUP_REMOVAL=\"No Backups Deleted\"\n    BODY_BACKUP_REMOVAL=\"No backups were removed today  as there are none older than 10 days.\"\nelse\n    # Backups were removed\n    TITLE_BACKUP_REMOVAL=\"$deleted_backups backups deleted\"\n    BODY_BACKUP_REMOVAL=\"$deleted_backups backups have been deleted at $CURRENT_TIME_BACKUP_REMOVAL.\"\nfi</p>\n<p>show_progress \"$BODY_BACKUP_REMOVAL\"</p>\n<h1>Send notification</h1>\n<p>send_notification \"$TITLE_BACKUP_REMOVAL\" \"$BODY_BACKUP_REMOVAL\"</p>\n<h1>Record the end time</h1>\n<p>end_time=$SECONDS</p>\n<h1>Calculate the total duration</h1>\n<p>total_duration=$((end_time - start_time))</p>\n<h1>Display total duration</h1>\n<p>show_progress \"Script completed. Total duration: ${total_duration} seconds.\"\n```</p>\n<p>It\u2019s a simple script. Stops all containers, rsyncs the contents of my docker volume directory onto my separate server, then starts the docker containers again. If there\u2019s a backup older than 10 days, it\u2019ll delete it. \u2018Cloud Notify\u2019 is an app of mine on the App Store which sends a notification to my phone via HTTP link. It just updates me throughout the backup progress.</p>\n<p>Any improvements or ideas then please let me know!</p>\n<p>Merry Christmas all by the way! </p>",
+            "date_published": "2023-12-25T09:37:49+00:00",
+            "authors": [
+                {
+                    "name": "nathan12581",
+                    "url": "https://www.reddit.com/user/nathan12581"
+                }
+            ]
+        },
+        {
             "id": "18prwlw",
             "url": "/r/selfhosted/comments/18prwlw/my_current_server_dashboard_which_services_i/",
             "external_url": "https://i.redd.it/rbaejywpo78c1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Alfagun74",
                     "url": "https://www.reddit.com/user/Alfagun74"
-                }
-            ]
-        },
-        {
-            "id": "14njea1",
-            "url": "/r/selfhosted/comments/14njea1/privacy/",
-            "external_url": "https://i.redd.it/rea10mdpm99b1.jpg",
-            "title": "Privacy",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/selfhosted/comments/14njea1/privacy/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/rea10mdpm99b1.jpg\" />",
-            "date_published": "2023-07-01T02:35:32+00:00",
-            "authors": [
-                {
-                    "name": "boiling_point_",
-                    "url": "https://www.reddit.com/user/boiling_point_"
                 }
             ]
         }
