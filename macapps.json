@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "18rjvjw",
+            "url": "/r/macapps/comments/18rjvjw/camera_graph_v13_released_streaming_virtual/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/18rjvjw/camera_graph_v13_released_streaming_virtual/",
+            "title": "Camera Graph v1.3 Released: Streaming virtual camera app updates",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/18rjvjw/camera_graph_v13_released_streaming_virtual/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/18rjvjw/camera_graph_v13_released_streaming_virtual/'>Reddit</a></caption><div><br></div><p>Hey r/macapps,</p>\n<p>We've just rolled out version <a href=\"https://apps.apple.com/app/apple-store/id6450550518?pt=235406&amp;ct=rma&amp;mt=8\">1.3.0 of Camera Graph on the App Store</a>, and I'm excited to share the latest updates with this community.</p>\n<p><strong>What's New Since Our</strong> <a href=\"https://www.reddit.com/r/macapps/comments/170vhov/streaming_virtual_camera_app_for_macos_like_obs/\">October Launch</a><strong>:</strong></p>\n<ol>\n<li><strong>No More Watermarks</strong>: Enjoy the basic settings for free\u2014Camera Graph is now fully functional as a standalone virtual camera.</li>\n<li><strong>In-App Recording for Pro users</strong>: Pro users can now capture audio and video directly in the app. No need for QuickTime or other recording software.</li>\n<li><strong>Metal-Powered Rendering</strong>: We've overhauled our renderer to prioritize Metal, pushing most operations to be smooth at 4k 120FPS.</li>\n<li><strong>Enhanced Camera Settings</strong>: Tweak light and color settings to get that perfect shot.</li>\n<li><strong>Run in Stealth Mode</strong>: The app can now operate in the background without a dock icon, keeping your workspace clutter-free.</li>\n<li><strong>Stability</strong>: We've slashed crashes by over 80%.</li>\n</ol>\n<p>\ud83d\udcdc The full changelog is available <a href=\"https://cameragraph.app/changelog\">here</a>.</p>\n<p>For every 10 upvotes, I'll drop 5 promo codes for a free year of Pro. \ud83d\ude80</p>",
+            "date_published": "2023-12-26T22:17:25+00:00",
+            "authors": [
+                {
+                    "name": "formeranomaly",
+                    "url": "https://www.reddit.com/user/formeranomaly"
+                }
+            ]
+        },
+        {
             "id": "18r9wlm",
             "url": "/r/macapps/comments/18r9wlm/what_are_the_best_safari_extensions_for_you_and/",
             "external_url": "https://www.reddit.com/r/macapps/comments/18r9wlm/what_are_the_best_safari_extensions_for_you_and/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "fivemufc",
                     "url": "https://www.reddit.com/user/fivemufc"
-                }
-            ]
-        },
-        {
-            "id": "16mw5we",
-            "url": "/r/macapps/comments/16mw5we/thriftmac_now_has_over_300_apps/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/16mw5we/thriftmac_now_has_over_300_apps/",
-            "title": "thriftmac now has over 300 apps!",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/16mw5we/thriftmac_now_has_over_300_apps/'>Reddit</a></caption><div><br></div><div><p>My hobby site, <a href=\"https://thriftmac.com\">thriftmac.com</a>, now has 301 completely free Mac apps to choose from. I'm posting this milestone here because I found many of these apps by keeping an eye on this subreddit \u2014 thank you to this helpful community! thriftmac has no ads or trackers \u2014 just free stuff I hope you'll like.</p></div>",
-            "date_published": "2023-09-19T16:51:58+00:00",
-            "authors": [
-                {
-                    "name": "LessSection",
-                    "url": "https://www.reddit.com/user/LessSection"
                 }
             ]
         }
