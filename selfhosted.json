@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "18sudhm",
+            "url": "/r/selfhosted/comments/18sudhm/2023_dashboard/",
+            "external_url": "https://i.redd.it/9437bdjyi19c1.png",
+            "title": "2023 Dashboard",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/18sudhm/2023_dashboard/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/18sudhm/2023_dashboard/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/9437bdjyi19c1.png\" />",
+            "date_published": "2023-12-28T13:51:24+00:00",
+            "authors": [
+                {
+                    "name": "Blendman974",
+                    "url": "https://www.reddit.com/user/Blendman974"
+                }
+            ]
+        },
+        {
             "id": "18rgqkb",
             "url": "/r/selfhosted/comments/18rgqkb/meta_why_do_you_selfhost_the_psychological_aspect/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/18rgqkb/meta_why_do_you_selfhost_the_psychological_aspect/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Illustrious_Pack_305",
                     "url": "https://www.reddit.com/user/Illustrious_Pack_305"
-                }
-            ]
-        },
-        {
-            "id": "153p8u8",
-            "url": "/r/selfhosted/comments/153p8u8/psa_interserver_seems_to_be_using_bots_to_promote/",
-            "external_url": "https://i.redd.it/kdof3t8hwvcb1.png",
-            "title": "PSA: InterServer seems to be using bots to promote their products on r/selfhosted",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/selfhosted/comments/153p8u8/psa_interserver_seems_to_be_using_bots_to_promote/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/kdof3t8hwvcb1.png\" />",
-            "date_published": "2023-07-19T08:42:39+00:00",
-            "authors": [
-                {
-                    "name": "QazCetelic",
-                    "url": "https://www.reddit.com/user/QazCetelic"
                 }
             ]
         }
