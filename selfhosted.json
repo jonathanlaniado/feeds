@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "18tapnp",
+            "url": "/r/selfhosted/comments/18tapnp/update_everyone_said_gamevaults_ui_was_garbage_so/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/18tapnp/update_everyone_said_gamevaults_ui_was_garbage_so/",
+            "title": "Update: Everyone said GameVault's UI was garbage, so we completely overhauled it.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/18tapnp/update_everyone_said_gamevaults_ui_was_garbage_so/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/18tapnp/update_everyone_said_gamevaults_ui_was_garbage_so/'>Reddit</a></caption><div><br></div><p>Hey folks,</p>\n<p>Thank you, everyone, for the feedback and the huge desire for a User Interface overhaul for GameVault on our Discord Poll.</p>\n<p><strong>In case you're wondering what GameVault is</strong>, it's like having your own video gaming platform for games on your server \u2013 think Plex, but for video games. If you are a self-hosting gamer, you most likely <a href=\"https://gamevau.lt\">want to check this out.</a></p>\n<p>With the brand new version 1.8, we've taken your feedback to heart and worked hard to give GameVault a fresh coat of paint!</p>\n<p><a href=\"https://i.imgur.com/kcy2D0W.jpg\">Here are some before/after pics</a> of how it used to look versus now so you can see the difference.</p>\n<p>The UI underwent a complete makeover, and aside from looking pretty awesome, it is much better in terms of usability as well.</p>\n<p>Just so you know: The first UI was kind of basic and only meant for us two developers, as we didn't initially plan to release this project to the public.</p>\n<p>Now that the traction is <strong>so huge</strong> and thousands of people are using this software, it would plainly feel wrong not to give it a facelift. So, every button and detail has been thoughtfully placed to make things <strong>way more user-friendly</strong>.</p>\n<p>If you weren't a fan of the old UI, now's the time to swing by and check out the changes.</p>\n<p>If you also want to steer the future development of GameVault, make sure to join our <a href=\"https://discord.gg/NEdNen2dSu\">Discord Server</a>.</p>\n<p><strong>You can check out GameVault</strong> <a href=\"https://gamevau.lt\"><strong>here</strong></a><strong>.</strong></p>",
+            "date_published": "2023-12-29T01:35:37+00:00",
+            "authors": [
+                {
+                    "name": "Alfagun74",
+                    "url": "https://www.reddit.com/user/Alfagun74"
+                }
+            ]
+        },
+        {
             "id": "18sudhm",
             "url": "/r/selfhosted/comments/18sudhm/2023_dashboard/",
             "external_url": "https://i.redd.it/9437bdjyi19c1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "IVKIK55",
                     "url": "https://www.reddit.com/user/IVKIK55"
-                }
-            ]
-        },
-        {
-            "id": "16iqxby",
-            "url": "/r/selfhosted/comments/16iqxby/plex_is_going_to_block_servers_on_certain_hosting/",
-            "external_url": "https://www.reddit.com/gallery/16iqxby",
-            "title": "Plex is going to block servers on certain hosting providers?",
-            "content_html": "<caption>Open: <a href='https://www.reddit.com/gallery/16iqxby'>www.reddit.com</a> | <a href='https://reddit.com/r/selfhosted/comments/16iqxby/plex_is_going_to_block_servers_on_certain_hosting/'>Reddit</a></caption>",
-            "date_published": "2023-09-14T19:06:46+00:00",
-            "authors": [
-                {
-                    "name": "Illustrious_Pack_305",
-                    "url": "https://www.reddit.com/user/Illustrious_Pack_305"
                 }
             ]
         }
