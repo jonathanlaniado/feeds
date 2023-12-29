@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "18td08s",
+            "url": "/r/selfhosted/comments/18td08s/you_all_know_its_true/",
+            "external_url": "https://i.redd.it/pmquh4zik59c1.png",
+            "title": "You all know it\u2019s true \ud83d\ude02",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/18td08s/you_all_know_its_true/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/18td08s/you_all_know_its_true/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/pmquh4zik59c1.png\" />",
+            "date_published": "2023-12-29T03:25:48+00:00",
+            "authors": [
+                {
+                    "name": "MyNameIsTito",
+                    "url": "https://www.reddit.com/user/MyNameIsTito"
+                }
+            ]
+        },
+        {
             "id": "18tapnp",
             "url": "/r/selfhosted/comments/18tapnp/update_everyone_said_gamevaults_ui_was_garbage_so/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/18tapnp/update_everyone_said_gamevaults_ui_was_garbage_so/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Full_Internal_3542",
                     "url": "https://www.reddit.com/user/Full_Internal_3542"
-                }
-            ]
-        },
-        {
-            "id": "16rytrz",
-            "url": "/r/selfhosted/comments/16rytrz/most_interesting_stuff_you_can_selfhost/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/16rytrz/most_interesting_stuff_you_can_selfhost/",
-            "title": "Most interesting stuff you can selfhost?",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16rytrz/most_interesting_stuff_you_can_selfhost/'>Reddit</a></caption><div><br></div><div><p>So, I have a VPS server - paying for it for Session Messenger Group hosting. I have a lot of ram and memory free, so I'd like to install there something interesting. Though, I am not interested in hosting websites, emails, minecraft servers or etc. Do you have in mind something interesting, that I could host? :D  </p>\n<p>UPD: first of all looking for something funny/interesting than something useful, 'cause I won't be able to give proper security for the user</p></div>",
-            "date_published": "2023-09-25T17:48:10+00:00",
-            "authors": [
-                {
-                    "name": "IVKIK55",
-                    "url": "https://www.reddit.com/user/IVKIK55"
                 }
             ]
         }
