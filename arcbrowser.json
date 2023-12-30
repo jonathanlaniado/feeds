@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "18un8de",
+            "url": "/r/ArcBrowser/comments/18un8de/dear_tbc_dont_do_this/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/18un8de/dear_tbc_dont_do_this/",
+            "title": "Dear TBC \u2026 don\u2019t do this.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/18un8de/dear_tbc_dont_do_this/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/18un8de/dear_tbc_dont_do_this/'>Reddit</a></caption><div><br></div><p>Hey all, been an arc user since last year. </p>\n<p>Act 2 has me concerned. It sounds like they want to become SigmaOS, which wants to be a \u201cone stop\u201d application, acting like chrome OS but just running on windows or macOS. </p>\n<p>I highly recommend against this. </p>\n<p>So far you\u2019ve successfully \u201creinvented\u201d how we act with the internet, but honestly you can only do so much. </p>\n<p>You aren\u2019t changing the behavior of billions and aren\u2019t going to supplant windows or macOS with an app that aims to somehow bring web apps together with a browser. </p>\n<p>As it stands, my sync is broken between my iMac and MacBook Pro, there is no iOS version that works well, and your primary product is becoming bloated. </p>\n<p>No one replies on my issues like they would have 9 months ago, but you are probably stretched thin. </p>\n<p>That\u2019s how it works isn\u2019t it?</p>\n<p>I get that your VC money is important but you haven\u2019t asked us for money, and I may pay for a great browser, but won\u2019t go in for more AI shenanigans. </p>\n<p>I hope you have a good path moving forward.</p>",
+            "date_published": "2023-12-30T19:17:09+00:00",
+            "authors": [
+                {
+                    "name": "Not_Leaving_LV",
+                    "url": "https://www.reddit.com/user/Not_Leaving_LV"
+                }
+            ]
+        },
+        {
             "id": "18tz84f",
             "url": "/r/ArcBrowser/comments/18tz84f/arc_should_start_focussing_on_optimization_now/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/18tz84f/arc_should_start_focussing_on_optimization_now/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "hbthen3rd",
                     "url": "https://www.reddit.com/user/hbthen3rd"
-                }
-            ]
-        },
-        {
-            "id": "170i9kp",
-            "url": "/r/ArcBrowser/comments/170i9kp/why_is_tab_sync_still_a_thing_at_least_give_us/",
-            "external_url": "https://i.redd.it/ng92o86g0esb1.png",
-            "title": "Why is Tab Sync still a thing??? At least give us the option to disable it.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/170i9kp/why_is_tab_sync_still_a_thing_at_least_give_us/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/170i9kp/why_is_tab_sync_still_a_thing_at_least_give_us/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/ng92o86g0esb1.png\" />",
-            "date_published": "2023-10-05T13:38:49+00:00",
-            "authors": [
-                {
-                    "name": "swagnomite420",
-                    "url": "https://www.reddit.com/user/swagnomite420"
                 }
             ]
         }
