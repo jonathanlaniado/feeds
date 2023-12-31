@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "18utze9",
+            "url": "/r/selfhosted/comments/18utze9/maintaining_pialert_in_2023/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/18utze9/maintaining_pialert_in_2023/",
+            "title": "\ud83d\udee0 Maintaining \ud83d\udd0dPiAlert in 2023",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/18utze9/maintaining_pialert_in_2023/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/18utze9/maintaining_pialert_in_2023/'>Reddit</a></caption><div><br></div><p>As everything has its ups and downs, so does FOSS. I want to think that 2023 was a rather successful year for open source and the project I maintain, <a href=\"https://github.com/jokob-sk/Pi.Alert\">PiAlert</a>, which hit 1 Million pulls just yesterday (mostly update-checks probably, but I take it \ud83d\ude05). </p>\n<p>Maintaining a semi-popular project made me appreciate the work of others so much more. Just thinking about the onslaught of requests for the uber-popular projects, such as the -arr suite, Home Assistant, but mostly the single-maintainer projects (I assume for example <a href=\"https://github.com/Lissy93/dashy\">Dashy</a>, <a href=\"https://github.com/dgtlmoon/changedetection.io\">Changedetection</a>)... It's not easy to be a project manager, developer, architect, tester, technical writer, DevRel advocate all in one \ud83d\ude05 (context switching issues &amp; feature creep here we come)</p>\n<p>That's why it's so important to interact with friendliness. </p>\n<p>Thank you self-hosters for contributions, sponsorships, and for making FOSS interactions (usually) an amazing experience. </p>\n<blockquote>\n<p>If you have a project you love - go and \u2b50 star the project, \ud83c\udf74fork it, leave an appreciative discussion topic or issue or if you can afford it send them a coffee or a $1 monthly donation - you won't believe how much it lifts the spirit. </p>\n</blockquote>\n<p>Let's see what 2024 brings \ud83c\udf7e</p>",
+            "date_published": "2023-12-31T00:09:27+00:00",
+            "authors": [
+                {
+                    "name": "jokob",
+                    "url": "https://www.reddit.com/user/jokob"
+                }
+            ]
+        },
+        {
             "id": "18twcat",
             "url": "/r/selfhosted/comments/18twcat/automcs_create_a_minecraft_server_in_less_than_a/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/18twcat/automcs_create_a_minecraft_server_in_less_than_a/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "nurseynurseygander",
                     "url": "https://www.reddit.com/user/nurseynurseygander"
-                }
-            ]
-        },
-        {
-            "id": "16s6kjt",
-            "url": "/r/selfhosted/comments/16s6kjt/how_to_improve_and_secure_my_small_arr_setup/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/16s6kjt/how_to_improve_and_secure_my_small_arr_setup/",
-            "title": "How to improve and secure my small *arr setup",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16s6kjt/how_to_improve_and_secure_my_small_arr_setup/'>Reddit</a></caption><div><br></div><div><p>I currently have Overseerr-Sonarr-Radarr-Prowlarr-Plex setup. \nI'm exposing *arr to the internet using Nginx Proxy Manager and DuckDNS and Plex using it's built in settings. \nIt works well but I'm worried about security. </p>\n<p>How can I improve this? I'm trying to do this for as cheap as possible  and preferably not paying a monthly fee. \nI don't currently own a domain but willing to buy one</p>\n<p>Any other recommendations not related to security is also welcome</p>\n<p>I'm pretty new to the self hosted life, any advice would be appreciated!</p></div>",
-            "date_published": "2023-09-25T22:47:57+00:00",
-            "authors": [
-                {
-                    "name": "Blumingo",
-                    "url": "https://www.reddit.com/user/Blumingo"
                 }
             ]
         }
