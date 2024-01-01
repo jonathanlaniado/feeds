@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "18w4k94",
+            "url": "/r/selfhosted/comments/18w4k94/what_you_gonna_selfhost_in_2024/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/18w4k94/what_you_gonna_selfhost_in_2024/",
+            "title": "What you gonna selfhost in 2024?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/18w4k94/what_you_gonna_selfhost_in_2024/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/18w4k94/what_you_gonna_selfhost_in_2024/'>Reddit</a></caption><div><br></div><p>I'm already selfhosting:\n- pihole\n- umami\n- uptimekuma</p>\n<p>Have to try:\n- freshrss\n- adguard</p>\n<p>What you gonna selfhost this year?</p>",
+            "date_published": "2024-01-01T19:35:48+00:00",
+            "authors": [
+                {
+                    "name": "naveen_mc",
+                    "url": "https://www.reddit.com/user/naveen_mc"
+                }
+            ]
+        },
+        {
             "id": "18utze9",
             "url": "/r/selfhosted/comments/18utze9/maintaining_pialert_in_2023/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/18utze9/maintaining_pialert_in_2023/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "fittingaccommodation",
                     "url": "https://www.reddit.com/user/fittingaccommodation"
-                }
-            ]
-        },
-        {
-            "id": "16scf1x",
-            "url": "/r/selfhosted/comments/16scf1x/selfhosting_life_hack_for_curated_photos_eg_for/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/16scf1x/selfhosting_life_hack_for_curated_photos_eg_for/",
-            "title": "Self-hosting life hack for curated photos (eg, for slideshows on TV)",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16scf1x/selfhosting_life_hack_for_curated_photos_eg_for/'>Reddit</a></caption><div><br></div><div><p>I've long coveted the idea of adding a Photos library to Jellyfin or Kodi so I can use my TV as an oversized digital photo frame. But I don't want it to use my full photo library. I really don't need to see all my different outtakes and angles and all the times I took 35 pics of myself trying to get one that makes me more attractive than I really am and all the images that need to be rotated. So...what to do? Curating a collection would take forever!</p>\n<p>Well, recently I realised: I already curate quite regularly in Facebook albums and posts. There will be like 50-100 best-ofs for a trip or whatever. So, I used the album download option to get a bunch of those, and hey presto, a ready-made set of pre-curated slideshows. For about an hour's work I put together a usable library of 4,200 photos. Sweet!</p></div>",
-            "date_published": "2023-09-26T03:10:52+00:00",
-            "authors": [
-                {
-                    "name": "nurseynurseygander",
-                    "url": "https://www.reddit.com/user/nurseynurseygander"
                 }
             ]
         }
