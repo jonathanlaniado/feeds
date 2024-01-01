@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "18w0aej",
+            "url": "/r/MacOS/comments/18w0aej/aerospace_probably_the_best_window_manager_for/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/18w0aej/aerospace_probably_the_best_window_manager_for/",
+            "title": "AeroSpace - probably the best window manager for macOS",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOS/comments/18w0aej/aerospace_probably_the_best_window_manager_for/'>Winston</a> | <a href='https://reddit.com/r/MacOS/comments/18w0aej/aerospace_probably_the_best_window_manager_for/'>Reddit</a></caption><div><br></div><p>Big shout-out to <a href=\"https://github.com/nikitabobko/AeroSpace\">AeroSpace</a>! This window manager is amazing. It's still in the development phase but in my opinion, it's already better than Yabai and Amethyst.</p>\n<p>It's much better than Yabai for users who don't want to degrade system security by disabling SIP. Also, there is no flickering like with Yabai and no problems with spaces because it is using virtual workspaces. Also, it has some heuristics to decide if a window should be floating or not so it's not as annoying as Yabai.</p>\n<p>Check it out!</p>\n<p>PS. I'm not associated with AeroSpace :).</p>",
+            "date_published": "2024-01-01T16:30:30+00:00",
+            "authors": [
+                {
+                    "name": "john_snow_968",
+                    "url": "https://www.reddit.com/user/john_snow_968"
+                }
+            ]
+        },
+        {
             "id": "18urudc",
             "url": "/r/MacOS/comments/18urudc/ah_yes_os_x_mavericks/",
             "external_url": "https://i.redd.it/62unau1uei9c1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "abhi98228",
                     "url": "https://www.reddit.com/user/abhi98228"
-                }
-            ]
-        },
-        {
-            "id": "141mt9x",
-            "url": "/r/MacOS/comments/141mt9x/new_features_in_macos_14/",
-            "external_url": "https://i.redd.it/onoza0y9o84b1.jpg",
-            "title": "New features in macOS 14",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/MacOS/comments/141mt9x/new_features_in_macos_14/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/onoza0y9o84b1.jpg\" />",
-            "date_published": "2023-06-05T18:02:07+00:00",
-            "authors": [
-                {
-                    "name": "jozews321",
-                    "url": "https://www.reddit.com/user/jozews321"
                 }
             ]
         }
