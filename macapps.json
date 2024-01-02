@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "18wra4h",
+            "url": "/r/macapps/comments/18wra4h/do_you_like_to_purchase_useful_apps/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/18wra4h/do_you_like_to_purchase_useful_apps/",
+            "title": "Do you like to purchase useful apps ?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/18wra4h/do_you_like_to_purchase_useful_apps/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/18wra4h/do_you_like_to_purchase_useful_apps/'>Reddit</a></caption><div><br></div><p>I am not sure if I am the only one who likes to buy premium apps, mostly opting for the lifetime option rather than a subscription.</p>\n<p>If I find any app helpful, I tend to purchase it, sometimes even if I don't use it regularly but I still acquire it.</p>\n<p>Is it just me, or are there many of you in the same boat?</p>",
+            "date_published": "2024-01-02T14:56:28+00:00",
+            "authors": [
+                {
+                    "name": "ASHFAQSOLANGI",
+                    "url": "https://www.reddit.com/user/ASHFAQSOLANGI"
+                }
+            ]
+        },
+        {
             "id": "18w3aa8",
             "url": "/r/macapps/comments/18w3aa8/peakhour_5_an_internet_dashboard_for_your_mac/",
             "external_url": "https://www.reddit.com/r/macapps/comments/18w3aa8/peakhour_5_an_internet_dashboard_for_your_mac/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "nielsmouthaan",
                     "url": "https://www.reddit.com/user/nielsmouthaan"
-                }
-            ]
-        },
-        {
-            "id": "16sph1b",
-            "url": "/r/macapps/comments/16sph1b/tabbed_image_viewer_that_can_also_scroll/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/16sph1b/tabbed_image_viewer_that_can_also_scroll/",
-            "title": "TABBED image viewer that can also scroll left-right from image to image within a folder?",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/16sph1b/tabbed_image_viewer_that_can_also_scroll/'>Reddit</a></caption><div><br></div><div><p>What I ideally have in mind is a sort of combo between Preview and Pixea (or macOS built-in Quick View, whatever it's called where you press space on an image in finder). </p>\n<p>Preview is tabbed, but when you open an image from Finder, you only open that image, and can't use left/right arrow keys to go to the next/prev image in that folder. </p>\n<p>Pixea can do that, except it's multi-window, with no \"merge all windows\" option. Pixea is sorta like iina, where it works fantastic but doesn't allow merging of windows. I'd at least like an option to. And macos's quick view is at least way more lightweight, but not as intuitive to me.</p></div>",
-            "date_published": "2023-09-26T14:27:23+00:00",
-            "authors": [
-                {
-                    "name": "NoRecommendation4019",
-                    "url": "https://www.reddit.com/user/NoRecommendation4019"
                 }
             ]
         }
