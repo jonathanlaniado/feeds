@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "18xgcsu",
+            "url": "/r/selfhosted/comments/18xgcsu/my_dashboard_now_with_descriptions/",
+            "external_url": "https://i.redd.it/gbbdwxgxc7ac1.png",
+            "title": "My dashboard, now with descriptions",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/18xgcsu/my_dashboard_now_with_descriptions/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/18xgcsu/my_dashboard_now_with_descriptions/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/gbbdwxgxc7ac1.png\" />",
+            "date_published": "2024-01-03T10:32:19+00:00",
+            "authors": [
+                {
+                    "name": "Blendman974",
+                    "url": "https://www.reddit.com/user/Blendman974"
+                }
+            ]
+        },
+        {
             "id": "18wy55c",
             "url": "/r/selfhosted/comments/18wy55c/introducing_recipya_the_clean_recipe_manager/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/18wy55c/introducing_recipya_the_clean_recipe_manager/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Kaziopu123",
                     "url": "https://www.reddit.com/user/Kaziopu123"
-                }
-            ]
-        },
-        {
-            "id": "16sjqu9",
-            "url": "/r/selfhosted/comments/16sjqu9/back_to_basics/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/16sjqu9/back_to_basics/",
-            "title": "Back to basics.",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16sjqu9/back_to_basics/'>Reddit</a></caption><div><br></div><div><p>I've had a proxmox server running on a retired workstation for about half a year now. Got a bit jaded recently when trying to set up some semblance of a media server (couldn't get my *arrs to play well with LXCs). I've been looking into things like Unraid and TrueNAS and finally decided to give it a go. </p>\n<p>Got rid of Proxmox and went for TrueNAS instead, and... really, really hated it. Mind you, I went for TrueNAS Core instead of Scale, and I imagine I'd enjoy the latter more, but I've only got the one data drive for now which TrueNAS Scale says is below the minimum requirements.</p>\n<p>I think the main problem was how TrueNAS handled VMs, I couldn't bloody well figure out how things worked. I've done a cert in networking where we did some generalised virtualisation and sysadmin work in VMware which is really easy to use, but when trying to spin up a simple Debian VM, i noticed there were a bunch of hacky workarounds that were required to get me going.</p>\n<p>So, what did I end up going with in the end? Back on Proxmox? Did I pay for Unraid? Well... back in the day, I had Ubuntu server running off an old laptop of mine that mostly hosted Docker containers. There were a few things it ran baremetal, but for me I really enjoyed doing everything through Docker Compose and using Webmin.</p>\n<p>I've gone back to this setup full time and I don't see myself changing any time soon. For me, this is what works. Nothing super flashy, just plain old Ubuntu and some Docker containers. I'm gonna go and set up YAMS now :) Wish me luck!</p></div>",
-            "date_published": "2023-09-26T10:13:28+00:00",
-            "authors": [
-                {
-                    "name": "monday_jay",
-                    "url": "https://www.reddit.com/user/monday_jay"
                 }
             ]
         }
