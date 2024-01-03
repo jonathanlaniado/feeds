@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "18xru1f",
+            "url": "/r/macapps/comments/18xru1f/built_my_first_mac_app_uses_ai_to_automate_your/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/18xru1f/built_my_first_mac_app_uses_ai_to_automate_your/",
+            "title": "Built my first Mac app :) uses AI to automate your file work",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/18xru1f/built_my_first_mac_app_uses_ai_to_automate_your/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/18xru1f/built_my_first_mac_app_uses_ai_to_automate_your/'>Reddit</a></caption><div><br></div><p>Just got it working so it's still pretty early in development - but looking for people to help test it :)</p>\n<p>TLDR: local Mac app (your files are never uploaded), you select ur files, describe what you want done.</p>\n<p>eg: \"convert these files to png\", \"apply watermark to these videos\", \"rename files to xyz\"</p>\n<p>Should work with all types of files and tasks - looking fwd to see what people come up with! Happy to answer any q's.</p>\n<p>link: <a href=\"https://frankenfile.com/\">https://frankenfile.com</a></p>",
+            "date_published": "2024-01-03T19:35:08+00:00",
+            "authors": [
+                {
+                    "name": "roomDesignerAI",
+                    "url": "https://www.reddit.com/user/roomDesignerAI"
+                }
+            ]
+        },
+        {
             "id": "18wra4h",
             "url": "/r/macapps/comments/18wra4h/do_you_like_to_purchase_useful_apps/",
             "external_url": "https://www.reddit.com/r/macapps/comments/18wra4h/do_you_like_to_purchase_useful_apps/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "8in4ry",
                     "url": "https://www.reddit.com/user/8in4ry"
-                }
-            ]
-        },
-        {
-            "id": "16sw4m6",
-            "url": "/r/macapps/comments/16sw4m6/daily_has_been_updated_to_support_macos_sonoma/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/16sw4m6/daily_has_been_updated_to_support_macos_sonoma/",
-            "title": "Daily has been updated to support macOS Sonoma",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/16sw4m6/daily_has_been_updated_to_support_macos_sonoma/'>Reddit</a></caption><div><br></div><div><p>Hi all!</p>\n<p>With macOS Sonoma just released, I wanted to promote <a href=\"https://dailytimetracking.com/download\">Daily</a>'s latest update, which supports Sonoma and includes many other improvements.</p>\n<p>For those who don't know <a href=\"https://dailytimetracking.com/download\">Daily</a>: it is a popular time tracker for macOS natively that works by asking what you are working on. It provides a better way to track your daily activities without the hassle of toggling timers, switching tasks, or taking notes. You can use its accurate timesheets to submit hours, create better invoices, or increase productivity.</p>\n<p>https://preview.redd.it/dfxklwp0anqb1.jpg?width=1600&amp;format=pjpg&amp;auto=webp&amp;s=cc231f886908f0f7091e36a85dbdca9c36010ca4</p>\n<p>If you have any questions, please let me know.</p>\n<p>Best, Niels.</p>\n<p>PS. Daily turned 10 years last week \ud83c\udf89.</p></div>",
-            "date_published": "2023-09-26T18:41:20+00:00",
-            "authors": [
-                {
-                    "name": "nielsmouthaan",
-                    "url": "https://www.reddit.com/user/nielsmouthaan"
                 }
             ]
         }
