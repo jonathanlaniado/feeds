@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "18ya3or",
+            "url": "/r/macapps/comments/18ya3or/ive_written_an_app_switcher/",
+            "external_url": "https://i.redd.it/bows4fogieac1.png",
+            "title": "I've written an app switcher!",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/18ya3or/ive_written_an_app_switcher/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/18ya3or/ive_written_an_app_switcher/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/bows4fogieac1.png\" />",
+            "date_published": "2024-01-04T10:33:44+00:00",
+            "authors": [
+                {
+                    "name": "seungwoochoe",
+                    "url": "https://www.reddit.com/user/seungwoochoe"
+                }
+            ]
+        },
+        {
             "id": "18xru1f",
             "url": "/r/macapps/comments/18xru1f/built_my_first_mac_app_uses_ai_to_automate_your/",
             "external_url": "https://www.reddit.com/r/macapps/comments/18xru1f/built_my_first_mac_app_uses_ai_to_automate_your/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MichaelTheGeek",
                     "url": "https://www.reddit.com/user/MichaelTheGeek"
-                }
-            ]
-        },
-        {
-            "id": "16swp8r",
-            "url": "/r/macapps/comments/16swp8r/marvin_3_ios_app_alternatives_for_ebook_reading/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/16swp8r/marvin_3_ios_app_alternatives_for_ebook_reading/",
-            "title": "Marvin 3 iOS app alternatives for ebook reading",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/16swp8r/marvin_3_ios_app_alternatives_for_ebook_reading/'>Reddit</a></caption><div><br></div><div><p>Hi, </p>\n<p>sorry for this bit out of the topic question, but possibly there is somebody that could help me:</p>\n<p>the <a href=\"https://itunes.apple.com/app/id1086482858\">Marvin 3</a> iOS app is no longer available in the App Store and I\u2019m curious what is the best app alternative (in terms of UX and functionality) for reading books for the iPhone? (anything except apple native BOOK app)</p>\n<p>thanks for your feedback.</p></div>",
-            "date_published": "2023-09-26T19:03:01+00:00",
-            "authors": [
-                {
-                    "name": "8in4ry",
-                    "url": "https://www.reddit.com/user/8in4ry"
                 }
             ]
         }
