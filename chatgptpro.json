@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
     "items": [
         {
+            "id": "18xxyr8",
+            "url": "/r/ChatGPTPro/comments/18xxyr8/26_principles_to_improve_the_quality_of_llm/",
+            "external_url": "https://i.redd.it/2vwwnoyaabac1.png",
+            "title": "26 principles to improve the quality of LLM responses by 50%",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ChatGPTPro/comments/18xxyr8/26_principles_to_improve_the_quality_of_llm/'>Winston</a> | <a href='https://reddit.com/r/ChatGPTPro/comments/18xxyr8/26_principles_to_improve_the_quality_of_llm/'>Reddit</a></caption><div><br></div><p>. \nhttps://arxiv.org/abs/2312.16171v1</p>\n<p>A new paper just identified 26 principles to improve the quality of LLM responses by 50%.</p>\n<p>The tests were done across LLaMA-1/2 (7B, 13B and 70B) and GPT-3.5/4.</p>\n<p>Here are some surprising prompts:\n- Add \u201cI\u2019m going to tip $for a better solution\n- Incorporate the following phrases: \u201cYou will be penalized\u201d\n- Repeat a specific word or phrase multiple times within a prompt.</p><div><br></div><img src=\"https://i.redd.it/2vwwnoyaabac1.png\" />",
+            "date_published": "2024-01-03T23:42:33+00:00",
+            "authors": [
+                {
+                    "name": "LittleHariSeldon",
+                    "url": "https://www.reddit.com/user/LittleHariSeldon"
+                }
+            ]
+        },
+        {
             "id": "18w914t",
             "url": "/r/ChatGPTPro/comments/18w914t/personal_crm_with_google_sheets_customgpt_tutorial/",
             "external_url": "https://v.redd.it/iykms3kyow9c1",
