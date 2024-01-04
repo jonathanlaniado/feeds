@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "18ygyk7",
+            "url": "/r/macapps/comments/18ygyk7/strflow_mac_native_app_for_chatstyle_instant/",
+            "external_url": "https://www.reddit.com/gallery/18ygyk7",
+            "title": "Strflow, Mac Native App for Chat-style Instant Note-Taking",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/18ygyk7/strflow_mac_native_app_for_chatstyle_instant/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/18ygyk7/strflow_mac_native_app_for_chatstyle_instant/'>Reddit</a></caption><div><br></div><p>Hello r/macapps\ud83d\udc4b</p>\n<p>I'm excited to share that after posting the beta version here and incorporating much of your feedback, Strflow is now officially released. \nThis project started when I couldn't find an app that met all my note-taking needs, leading me to build Strflow. It's an app designed for effortless note-taking, resembling a chat interface to build a personal timeline. It offers:</p>\n<ul>\n<li>Chronological, chat-like note entry.</li>\n<li>Tagging for organization.</li>\n<li>Global shortcuts for quick access.</li>\n<li>A native Mac app look and feel.</li>\n<li>Encrypted iCloud backup &amp; synchronization.</li>\n</ul>\n<p>Developing Strflow has been a fulfilling journey. There are more features I want to add, but I am satisfied with its current state. If you're interested, please visit the website, try the app, and share your thoughts!</p>\n<p>Strflow is free for unlimited notes, tags, and attachments. The Strflow Plus plan, offering encrypted iCloud backup &amp; synchronization, is available for $0.99/month or $9.99/year as a special introductory offer. This rate will be honored for subscribers who join now, as long as their subscription is continuous.</p>\n<p><a href=\"https://strflow.app\">Web Site</a></p>\n<p><a href=\"https://apps.apple.com/jp/app/strflow-notes-journal/id6468486339?l=en-US&amp;mt=12\">Mac App Store</a></p>\n<p>PS: Currently working on developing an iOS version of Strflow\ud83d\udc68\u200d\ud83d\udcbb</p>",
+            "date_published": "2024-01-04T16:20:13+00:00",
+            "authors": [
+                {
+                    "name": "eguchi1904",
+                    "url": "https://www.reddit.com/user/eguchi1904"
+                }
+            ]
+        },
+        {
             "id": "18ya3or",
             "url": "/r/macapps/comments/18ya3or/ive_written_an_app_switcher/",
             "external_url": "https://i.redd.it/bows4fogieac1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "outcoldman",
                     "url": "https://www.reddit.com/user/outcoldman"
-                }
-            ]
-        },
-        {
-            "id": "16rsdfu",
-            "url": "/r/macapps/comments/16rsdfu/text_workflow_is_free/",
-            "external_url": "https://apps.apple.com/app/text-workflow/id1600520682?src=AppAgg.com&mt=12",
-            "title": "Text Workflow is free.",
-            "content_html": "<caption>Open: <a href='https://apps.apple.com/app/text-workflow/id1600520682?src=AppAgg.com&mt=12'>apps.apple.com</a> | <a href='https://reddit.com/r/macapps/comments/16rsdfu/text_workflow_is_free/'>Reddit</a></caption>",
-            "date_published": "2023-09-25T13:38:26+00:00",
-            "authors": [
-                {
-                    "name": "MichaelTheGeek",
-                    "url": "https://www.reddit.com/user/MichaelTheGeek"
                 }
             ]
         }
