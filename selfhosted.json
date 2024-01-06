@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "18zjwl9",
+            "url": "/r/selfhosted/comments/18zjwl9/i_made_lubelogger_an_selfhosted_vehicle/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/18zjwl9/i_made_lubelogger_an_selfhosted_vehicle/",
+            "title": "I made LubeLogger - An self-hosted vehicle maintenance records and fuel mileage tracker",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/18zjwl9/i_made_lubelogger_an_selfhosted_vehicle/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/18zjwl9/i_made_lubelogger_an_selfhosted_vehicle/'>Reddit</a></caption><div><br></div><p>I built this app over the span of a week because frankly I am tired of using an excel spreadsheet to track all of my maintenance records and am also frustrated that other free offerings in the market are fairly limited in features in order to coerce their users to pay for the premium version.</p>\n<p>So here it is, LubeLogger, an open source and self hosted vehicle maintenance records and fuel mileage tracker.</p>\n<p>Features:</p>\n<ul>\n<li>Keeps track of all your maintenance and repair records.</li>\n<li>Keeps track of your fuel economy(supports both MPG and L/100KM)</li>\n<li>Keeps track of taxes(registration, going fast tax, etc).</li>\n<li>No limit on how many vehicles you have in your garage.</li>\n<li>Import existing records from CSV so you don't have to painstakingly re-insert everything.</li>\n<li>Nice charts to show your expenses by category and fuel records by month.</li>\n<li>Dark mode.</li>\n<li>Authentication to secure app if you have port-forwarding set up.</li>\n<li>Good enough mobile screen/small screens support.</li>\n</ul>\n<p>Here's a Youtube video(16 min) that walks through the features of the app:</p>\n<p><a href=\"https://www.youtube.com/watch?v=Thqo_mm7iUQ\">https://www.youtube.com/watch?v=Thqo_mm7iUQ</a></p>\n<p>Here's another Youtube video(11 min) that shows how to set up Auth and includes a brief(1 min) demo of the app on a mobile device:</p>\n<p><a href=\"https://www.youtube.com/watch?v=3u1WMfnta04\">https://www.youtube.com/watch?v=3u1WMfnta04</a></p>\n<p>Pardon me, I can be rather long winded on videos.</p>\n<p>Here's the Git Repo: </p>\n<p><a href=\"https://github.com/hargata/lubelog\">https://github.com/hargata/lubelog</a></p>",
+            "date_published": "2024-01-05T22:42:58+00:00",
+            "authors": [
+                {
+                    "name": "ChiefAoki",
+                    "url": "https://www.reddit.com/user/ChiefAoki"
+                }
+            ]
+        },
+        {
             "id": "18xgcsu",
             "url": "/r/selfhosted/comments/18xgcsu/my_dashboard_now_with_descriptions/",
             "external_url": "https://i.redd.it/gbbdwxgxc7ac1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "flodes80",
                     "url": "https://www.reddit.com/user/flodes80"
-                }
-            ]
-        },
-        {
-            "id": "16sk3a2",
-            "url": "/r/selfhosted/comments/16sk3a2/about_jellyfin_server/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/16sk3a2/about_jellyfin_server/",
-            "title": "About Jellyfin Server",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16sk3a2/about_jellyfin_server/'>Reddit</a></caption><div><br></div><div><p>Hi everyone, I hope you're doing well. I have two jellyfin server.</p>\n<p>Server 1: installed jellyfin on docker and exposed using nginx proxy manager\nServer 2: installed jellyfin directly on ubuntu server and exposed through caddy</p>\n<p>Server 1: When I scan media files it is significantly slower and streaming also buffers time to time (takes 4-5 seconds to play)</p>\n<p>Server 2: When I scan media files it scans almost immediately the whole library and streaming is also bufferless.</p>\n<p>My question is why I'm facing lag on Server 1? Is it because jellyfin installed in docker?</p></div>",
-            "date_published": "2023-09-26T10:31:47+00:00",
-            "authors": [
-                {
-                    "name": "Kaziopu123",
-                    "url": "https://www.reddit.com/user/Kaziopu123"
                 }
             ]
         }
