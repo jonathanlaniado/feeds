@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "190parz",
+            "url": "/r/MacOS/comments/190parz/i_got_so_fed_up_with_losing_sight_of_the_cursor/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/190parz/i_got_so_fed_up_with_losing_sight_of_the_cursor/",
+            "title": "I got so fed up with losing sight of the cursor on my M1 MacBook Pro, that I made an app to fix that.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOS/comments/190parz/i_got_so_fed_up_with_losing_sight_of_the_cursor/'>Winston</a> | <a href='https://reddit.com/r/MacOS/comments/190parz/i_got_so_fed_up_with_losing_sight_of_the_cursor/'>Reddit</a></caption><div><br></div><p>&#x200B;</p>\n<p><a href=\"https://reddit.com/link/190parz/video/90kkrh3mvzac1/player\">Demo</a></p>\n<p>The app is called Peekaboo and you can download it from GitHub (<a href=\"https://github.com/apstygo/Peekaboo\">https://github.com/apstygo/Peekaboo</a>).</p>",
+            "date_published": "2024-01-07T10:26:34+00:00",
+            "authors": [
+                {
+                    "name": "apstygo",
+                    "url": "https://www.reddit.com/user/apstygo"
+                }
+            ]
+        },
+        {
             "id": "1903208",
             "url": "/r/MacOS/comments/1903208/you_can_install_the_ipad_copilot_app_on_macos/",
             "external_url": "https://i.redd.it/vp3nqg1deuac1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "CitizenSnips5",
                     "url": "https://www.reddit.com/user/CitizenSnips5"
-                }
-            ]
-        },
-        {
-            "id": "144mexo",
-            "url": "/r/MacOS/comments/144mexo/i_bought_a_refurbished_macbook_pro_and_i_really/",
-            "external_url": "https://i.redd.it/1chkp2pk8v4b1.jpg",
-            "title": "I bought a refurbished MacBook Pro and I really don\u2019t like this",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/MacOS/comments/144mexo/i_bought_a_refurbished_macbook_pro_and_i_really/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/1chkp2pk8v4b1.jpg\" />",
-            "date_published": "2023-06-08T21:54:52+00:00",
-            "authors": [
-                {
-                    "name": "glennthomps",
-                    "url": "https://www.reddit.com/user/glennthomps"
                 }
             ]
         }
