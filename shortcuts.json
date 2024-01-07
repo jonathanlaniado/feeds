@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "190s93n",
+            "url": "/r/shortcuts/comments/190s93n/action_button_ultra_change_the_behaviour_of_your/",
+            "external_url": "https://www.reddit.com/r/shortcuts/comments/190s93n/action_button_ultra_change_the_behaviour_of_your/",
+            "title": "Action Button Ultra - Change the behaviour of your Action Button according to device orientation.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/190s93n/action_button_ultra_change_the_behaviour_of_your/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/190s93n/action_button_ultra_change_the_behaviour_of_your/'>Reddit</a></caption><div><br></div><p>The extra step of choosing a menu when using the Action Button didn't make sense to me and felt janky to be honest in experience no matter how well Shortcut builders prided themselves with the archaic menu UI coming in between.</p>\n<h1><a href=\"https://routinehub.co/shortcut/16828/\">Action Button Ultra</a></h1>\n<p>^(Click or Tap above to download)</p>\n<p>This Shortcut was made because I still use the mute button whenever the iPhone went inside my jeans pocket which is discreet, respectful and professional but at the same time appreciated the dedicated Shutter button. However, I was not interested in wasting the action button to opening up the camera app again where there's a dedicated button on the lockscreen if not the lockscreen itself opening up the camera followed by Spotlight and Siri Suggestions as well where either would be honestly much quicker.</p>\n<h2>By Default:</h2>\n<p>|<strong>Orientation</strong>|<strong>Action</strong>|\n|:-|:-|\n|portrait \u2191|Trigger Shortcut|\n|landscapeRight \u2192|Open Camera|\n|landscapeLeft \u2190|Set Orientation|\n|faceUp \u27f2|Extract Text|\n|faceDown \u27f3|Record Audio|\n|portraitUpsideDown \u2193|Mute|</p>\n<p>You can of course customise the above as you wish where I only placed the most obvious ones and in order to do so, first edit the existing action name in the dictionary (<em>for ex:</em> \"Set Orientation\") and under the 'If' action bearing the same text before setting the said action (like running a Shortcut) under it.</p>\n<h2>Secondary Default:</h2>\n<p>|<strong>Orientation</strong>|<strong>Action</strong>|\n|:-|:-|\n|portrait \u2191|Kaomoji Keyboard|\n|landscapeRight \u2192|Adjust Volume|\n|landscapeLeft \u2190||\n|faceUp \u27f2|Document Scanner|\n|faceDown \u27f3||\n|portraitUpsideDown \u2193||</p>\n<p>In addition to the six action triggers mentioned earlier, these are another set of six action triggers making a total of twelve integrated to the existing implementation allowing for enthusiasts to customise as per their own unique scenario while allowing room for average users to breathe as well. In order to access the second batch of action triggers, simply press either of the volume button immediately after the Action Button - The default wait time until the second button gets triggered is 600ms (milliseconds) by default but you may opt for 800ms or 1000ms (1sec) as fast, medium or slow respectively.</p>\n<h2>LockState:</h2>\n<p>Freeze the function of your Action Button when device is locked if set \u2018true\u2019</p>\n<p><strong>^(Note:)</strong> ^(You would need to download the free) <a href=\"https://apps.apple.com/in/app/actions/id1586435171\"><strong>^(Actions)</strong></a> ^(app first.)</p>",
+            "date_published": "2024-01-07T13:33:36+00:00",
+            "authors": [
+                {
+                    "name": "Avieshek",
+                    "url": "https://www.reddit.com/user/Avieshek"
+                }
+            ]
+        },
+        {
             "id": "18zi7t4",
             "url": "/r/shortcuts/comments/18zi7t4/messagekit_stuff_you_wish_was_built_into_imessage/",
             "external_url": "https://www.reddit.com/r/shortcuts/comments/18zi7t4/messagekit_stuff_you_wish_was_built_into_imessage/",
