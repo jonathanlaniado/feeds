@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "190eu4u",
+            "url": "/r/ArcBrowser/comments/190eu4u/is_the_new_arc_mobile_app_cake_browser_20/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/190eu4u/is_the_new_arc_mobile_app_cake_browser_20/",
+            "title": "Is the new Arc Mobile app Cake Browser 2.0?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/190eu4u/is_the_new_arc_mobile_app_cake_browser_20/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/190eu4u/is_the_new_arc_mobile_app_cake_browser_20/'>Reddit</a></caption><div><br></div><p>5 years ago, a browser called Cake entered the mobile scene, promising to revolutionize mobile browsing. You might remember seeing this ad on YouTube around that time: <a href=\"https://www.youtube.com/watch?v=roAp7TcOZuA\">https://www.youtube.com/watch?v=roAp7TcOZuA</a></p>\n<p>I remember TBC talked about acquiring a company a while ago, and I believe this company was Cake Browser, as according to <a href=\"https://en.wikipedia.org/wiki/Cake_Browser\">Wikipedia</a>, They quietly shut down in 2022 and starting in January of 2023, their website now redirects to Arc's (go to <a href=\"http://www.cakebrowser.com/\">http://www.cakebrowser.com/</a>). In TBC's most recent youtube video talking about their announcement on Jan 30, they preview a demo of fetching the top links from a search engine like google and adding them as new tabs on your sidebar. This is basically Cake's premise, but for desktop. That leads me to the new \"Arc Browser 2.0\" for iOS that TBC is giving out to certain people for testing via TestFlight (perhaps a version of \"Blue\", their mobile demo from a while ago). I'm wondering if this browser will be similar to the Cake Browser, but with more Arc features and TBC polish. Thoughts?</p>",
+            "date_published": "2024-01-07T00:29:42+00:00",
+            "authors": [
+                {
+                    "name": "Downtown_Parfait4934",
+                    "url": "https://www.reddit.com/user/Downtown_Parfait4934"
+                }
+            ]
+        },
+        {
             "id": "18z7ofx",
             "url": "/r/ArcBrowser/comments/18z7ofx/launching_next_weeksimply_\ud835\ude25\ud835\ude33\ud835\ude22\ud835\ude28_to_\ud835\uddf3\ud835\uddfc\ud835\uddf0\ud835\ude02\ud835\ude00_arc/",
             "external_url": "https://v.redd.it/sqgge8gepmac1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "JaceThings",
                     "url": "https://www.reddit.com/user/JaceThings"
-                }
-            ]
-        },
-        {
-            "id": "1734ald",
-            "url": "/r/ArcBrowser/comments/1734ald/made_a_purple_arc_icon_enjoy/",
-            "external_url": "https://i.redd.it/kd792ladg0tb1.png",
-            "title": "Made a purple Arc icon. Enjoy!",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/1734ald/made_a_purple_arc_icon_enjoy/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1734ald/made_a_purple_arc_icon_enjoy/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/kd792ladg0tb1.png\" />",
-            "date_published": "2023-10-08T17:07:28+00:00",
-            "authors": [
-                {
-                    "name": "Independent-Tree-997",
-                    "url": "https://www.reddit.com/user/Independent-Tree-997"
                 }
             ]
         }
