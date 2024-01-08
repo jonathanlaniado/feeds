@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "191b4xy",
+            "url": "/r/PleX/comments/191b4xy/psa_you_might_still_be_running_32_bit_plex/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/191b4xy/psa_you_might_still_be_running_32_bit_plex/",
+            "title": "PSA: You might still be running 32 bit Plex. Upgrade to 64 bit!",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/191b4xy/psa_you_might_still_be_running_32_bit_plex/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/191b4xy/psa_you_might_still_be_running_32_bit_plex/'>Reddit</a></caption><div><br></div><p>tl;dr don't be a dummy and run 32 bit like me!</p>\n<p>Context: I've been a longtime Plex user and run Server on a baremetal windows machine. I've struggled with getting GPU hardware transcoding working, despite the fact that I seemingly met all the requirements. I thought maybe my \"older\" nvidia card's GPU core was to blame and recently updated to a 1660S with no appreciable improvement. I saw .5x transcoding for DoVi/HDR content with tone mapping, or ~1-2x if I disabled tone mapping.</p>\n<p>Banging my head against the wall, I came to realize I WAS STILL RUNNING 32 BIT PLEX. I had installed server SO LONG AGO that I never upgraded to 64 bit.</p>\n<p>Upgrading to 64 bit was the single most absurd performance improvement for server I've ever seen. I am now able to transcode 4K DoVi/HDR with tone mapping so fast that Plex is throttling (taking a break). My GPU use during transcodes went from 10-20% to 95%+.</p>\n<p>Yes, I know, don't transcode - in my home I run multiple Shields. But sometimes on the road that isn't an option. It's kind of wild to me my server never nudged me to see if I wanted to bump to 64.</p>\n<p><strong>How to check and upgrade (Windows)</strong></p>\n<ul>\n<li>Open Task Manager</li>\n<li>Go to Details</li>\n<li>Right click on the top bar -&gt; Select Columns</li>\n<li>Check \"Platform\"</li>\n<li>Find Plex in the list - is it 32 bit?</li>\n<li>If so, go download server again and choose the 64 bit option.</li>\n<li>Run the installer; it will detect you are on 32 and uninstall/upgrade while maintaining all of your settings.</li>\n</ul>",
+            "date_published": "2024-01-08T03:19:50+00:00",
+            "authors": [
+                {
+                    "name": "Menotti",
+                    "url": "https://www.reddit.com/user/Menotti"
+                }
+            ]
+        },
+        {
             "id": "190rblo",
             "url": "/r/PleX/comments/190rblo/the_hero_we_all_need/",
             "external_url": "https://i.redd.it/prnuh3f4k0bc1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "0110010001100010",
                     "url": "https://www.reddit.com/user/0110010001100010"
-                }
-            ]
-        },
-        {
-            "id": "zdiyhu",
-            "url": "/r/PleX/comments/zdiyhu/plex_need_to_add_a_ebookcomic_section/",
-            "external_url": "https://i.redd.it/swvzqi8vm64a1.jpg",
-            "title": "Plex Need to add a Ebook/Comic section",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/PleX/comments/zdiyhu/plex_need_to_add_a_ebookcomic_section/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/swvzqi8vm64a1.jpg\" />",
-            "date_published": "2022-12-05T20:41:37+00:00",
-            "authors": [
-                {
-                    "name": "batgamerman",
-                    "url": "https://www.reddit.com/user/batgamerman"
                 }
             ]
         }
