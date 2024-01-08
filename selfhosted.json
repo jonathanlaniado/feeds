@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "191m7iq",
+            "url": "/r/selfhosted/comments/191m7iq/a_reminder_that_if_you_dont_pay_for_the_product/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/191m7iq/a_reminder_that_if_you_dont_pay_for_the_product/",
+            "title": "A reminder that \"if you don't pay for the product, you are the product\"..",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/191m7iq/a_reminder_that_if_you_dont_pay_for_the_product/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/191m7iq/a_reminder_that_if_you_dont_pay_for_the_product/'>Reddit</a></caption><div><br></div><p>To preface: I basically never post, but I do read this sub almost daily, and appreciate having learned a lot here. I've started hosting many of my own services thanks to the advice and ideas here. I'm also security conscious, so one thing has me increasingly uneasy is how vocal people are about Tailscale as a good solution for \"self hosting\". I used Tailscale for a few months, but never found it quite as magical as some people seem to. Then, there was a post in December (<a href=\"https://www.reddit.com/r/selfhosted/comments/18evofr/a_word_of_caution_about_tailscale/\">https://www.reddit.com/r/selfhosted/comments/18evofr/a_word_of_caution_about_tailscale/</a>) that raised this point and led to a really good discussion, and I decided it wasn't a good fit for me.</p>\n<p>I understand that Tailscale is easy to use, trusting them with everything just doesn't feel right to me. They are a business (with VCs to answer to), not a charity. Sometimes incentives like this are okay, but as an example, I don't want to think about Google having access to my email, so I don't use Gmail anymore. I know enough to understand that they can't simply read my network traffic, but they control the keys to every host, and even more importantly they will have a lot of metadata about me, and where I connect from.  </p>\n<p>And that brings me to the reason I finally decided to post something about this.. I happened across this job listing, and it is exactly the kind of thing that makes me uneasy about ever trusting a seemingly well-intentioned company: <a href=\"https://echojobs.io/job/tailscale-data-software-engineer-3rqib\">https://echojobs.io/job/tailscale-data-software-engineer-3rqib</a> This all but confirms they are data mining their users (or plan to), and I just want to make people aware of what they are signing up for here.  </p>\n<p>Am I overreacting? Maybe. But I really just don't like the idea of trading one big brother for another, and giving up yet another bit of privacy, which is already extremely difficult to maintain these days.</p>",
+            "date_published": "2024-01-08T14:17:25+00:00",
+            "authors": [
+                {
+                    "name": "hanguy2283",
+                    "url": "https://www.reddit.com/user/hanguy2283"
+                }
+            ]
+        },
+        {
             "id": "18zjwl9",
             "url": "/r/selfhosted/comments/18zjwl9/i_made_lubelogger_an_selfhosted_vehicle/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/18zjwl9/i_made_lubelogger_an_selfhosted_vehicle/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "aps02",
                     "url": "https://www.reddit.com/user/aps02"
-                }
-            ]
-        },
-        {
-            "id": "16slh8k",
-            "url": "/r/selfhosted/comments/16slh8k/web_proxy_with_search_bar/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/16slh8k/web_proxy_with_search_bar/",
-            "title": "Web proxy with search bar",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16slh8k/web_proxy_with_search_bar/'>Reddit</a></caption><div><br></div><div><p>Hi everyone!</p>\n<p>I'm looking for a selfhost app that would be a web proxy with a search bar like this unmaintained app https://github.com/vincentclee/glype or this one https://github.com/Athlon1600/php-proxy-app</p>\n<p>But I do not find any application still maintained if someone has an idea I'm a taker! Thanks in advance!</p>\n<p>PS: I've already tried guacamole with a remote browser but it's too slow because I'm on a raspberry and I don't want a proxy to configure on my pc either, I'd like it to be turnkey via a URL.</p></div>",
-            "date_published": "2023-09-26T11:41:43+00:00",
-            "authors": [
-                {
-                    "name": "flodes80",
-                    "url": "https://www.reddit.com/user/flodes80"
                 }
             ]
         }
