@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "192mfgk",
+            "url": "/r/selfhosted/comments/192mfgk/k3s_cluster/",
+            "external_url": "https://i.redd.it/mjg93ea9pgbc1.jpeg",
+            "title": "K3s cluster",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/192mfgk/k3s_cluster/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/192mfgk/k3s_cluster/'>Reddit</a></caption><div><br></div><p>Decided to embark on a journey of learning Kubernetes as well as making the services I host more dynamic. Ended up 3d printing a ton of custom pieces to make for a clean setup and wanted to show it off a little bit.</p>\n<p>A little about the cluster\n- 7 4gig raspberry pi 4s\n - 3 of them are the control plane nodes\n - 4 of them have a 4TB hard drive attached and will be the agent nodes\n - All of them receive power via Poe using a Poe hat\n- 2 Poe dumb switches that connect up to a UniFi dream machine pro special edition</p>\n<p>The cluster itself is all self contained and each pi and hard drive slide out of their mounts for quick replacements. I plan on using helm to manage my hosted services and longhorn to manage my storage. Hopefully it turns out the way I envision it in my head. But we shall see</p><div><br></div><img src=\"https://i.redd.it/mjg93ea9pgbc1.jpeg\" />",
+            "date_published": "2024-01-09T18:59:24+00:00",
+            "authors": [
+                {
+                    "name": "kroshira",
+                    "url": "https://www.reddit.com/user/kroshira"
+                }
+            ]
+        },
+        {
             "id": "1920ctv",
             "url": "/r/selfhosted/comments/1920ctv/is_someone_trying_to_log_into_my_server_how_can_i/",
             "external_url": "https://i.redd.it/mtzrv5s42bbc1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "umen",
                     "url": "https://www.reddit.com/user/umen"
-                }
-            ]
-        },
-        {
-            "id": "16smww4",
-            "url": "/r/selfhosted/comments/16smww4/programmatic_way_to_retrieve_api_from_arrs/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/16smww4/programmatic_way_to_retrieve_api_from_arrs/",
-            "title": "Programmatic way to retrieve API from *arrs?",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16smww4/programmatic_way_to_retrieve_api_from_arrs/'>Reddit</a></caption><div><br></div><div><p>I have done some changes to my homelab recently and had to set up a lot of the services I was using. Other than web scraping, is there a programmatic way to get the API keys from the stack? I am decent with Python and was going to use that as my tool of choice</p></div>",
-            "date_published": "2023-09-26T12:44:21+00:00",
-            "authors": [
-                {
-                    "name": "TXAGZ16",
-                    "url": "https://www.reddit.com/user/TXAGZ16"
                 }
             ]
         }
