@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1920ctv",
+            "url": "/r/selfhosted/comments/1920ctv/is_someone_trying_to_log_into_my_server_how_can_i/",
+            "external_url": "https://i.redd.it/mtzrv5s42bbc1.png",
+            "title": "Is someone trying to log into my server? How can I protect?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1920ctv/is_someone_trying_to_log_into_my_server_how_can_i/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1920ctv/is_someone_trying_to_log_into_my_server_how_can_i/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/mtzrv5s42bbc1.png\" />",
+            "date_published": "2024-01-09T00:02:08+00:00",
+            "authors": [
+                {
+                    "name": "2commadev",
+                    "url": "https://www.reddit.com/user/2commadev"
+                }
+            ]
+        },
+        {
             "id": "191m7iq",
             "url": "/r/selfhosted/comments/191m7iq/a_reminder_that_if_you_dont_pay_for_the_product/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/191m7iq/a_reminder_that_if_you_dont_pay_for_the_product/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "TXAGZ16",
                     "url": "https://www.reddit.com/user/TXAGZ16"
-                }
-            ]
-        },
-        {
-            "id": "16slr84",
-            "url": "/r/selfhosted/comments/16slr84/backing_up_maria_db_instance_one_script_to_save/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/16slr84/backing_up_maria_db_instance_one_script_to_save/",
-            "title": "Backing Up Maria DB Instance - one script to save it all?",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16slr84/backing_up_maria_db_instance_one_script_to_save/'>Reddit</a></caption><div><br></div><div><p>Hi folks, hope everyone is having a great week. I am looking to utilise a script to backup all the different databases housed inside my MariaDB instance . I came across Christian Lempa video of backing up linux servers (<a href=\"https://www.youtube.com/watch?v=JoA6Bezgk1c\">https://www.youtube.com/watch?v=JoA6Bezgk1c</a>) and he provides a script in his video notes, which can be found here (<a href=\"https://github.com/ChristianLempa/scripts/blob/main/db-container-backup/db-container-backup.sh\">https://github.com/ChristianLempa/scripts/blob/main/db-container-backup/db-container-backup.sh</a>). But being a noob, I want to clarify if this script is saving all my mariadb databases for the various docker containers I am running. This line ( CONTAINER=$(docker ps --format '{{.Names}}:{{.Image}}' | grep 'mysql\\|mariadb' | cut -d\":\" -f1)  to me looks like its using docker command PS to list running containers with the name mysql or mariadb. I am running multiple docker containers that have mysql databases like Wallabag, tandoor, authelia, etc. Should I list out every container that has mysql database, so this script can backup those databases too or is this script backing up mysql and therefore all my databases that are housed inside mariadb instance? Apologies for what I am sure is making me sound like I should have no business self hosting lol but I am learning as I go. Thank you for any assistance :)   </p></div>",
-            "date_published": "2023-09-26T11:54:07+00:00",
-            "authors": [
-                {
-                    "name": "aps02",
-                    "url": "https://www.reddit.com/user/aps02"
                 }
             ]
         }
