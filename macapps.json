@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "192exvs",
+            "url": "/r/macapps/comments/192exvs/this_is_getting_out_of_hand_keyboard_cowboy/",
+            "external_url": "https://i.redd.it/whxamop04fbc1.png",
+            "title": "This is getting out of hand... (Keyboard Cowboy, Keyboard Maestro, Keyclu, Keysmith (and TextSniper) )",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/192exvs/this_is_getting_out_of_hand_keyboard_cowboy/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/192exvs/this_is_getting_out_of_hand_keyboard_cowboy/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/whxamop04fbc1.png\" />",
+            "date_published": "2024-01-09T13:40:23+00:00",
+            "authors": [
+                {
+                    "name": "StableSable",
+                    "url": "https://www.reddit.com/user/StableSable"
+                }
+            ]
+        },
+        {
             "id": "191gh1x",
             "url": "/r/macapps/comments/191gh1x/made_a_new_finder_window_shortcut_app_with/",
             "external_url": "https://v.redd.it/5u95e16df6bc1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "OnoctORE",
                     "url": "https://www.reddit.com/user/OnoctORE"
-                }
-            ]
-        },
-        {
-            "id": "16tffc0",
-            "url": "/r/macapps/comments/16tffc0/automate_your_document_processing_with_ai/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/16tffc0/automate_your_document_processing_with_ai/",
-            "title": "Automate your document processing with AI",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/macapps/comments/16tffc0/automate_your_document_processing_with_ai/'>Reddit</a></caption><div><br></div><div><p>Hey r/macapps</p>\n<p>It's fascinating to look at the pace at which AI tech is moving right now.</p>\n<p>One of my friends is a lawyer and he has starting to use AI to do legal research and to process his case documents.</p>\n<p>I thought that was an interesting use case.</p>\n<p>So I tried to simulate it in my Mac app.</p>\n<p>I got a couple of publicly available documents about the Johny Depp vs Amber Heard case.</p>\n<p>I only found 2 PDFs, but they had hundreds of pages of legal jargon. So I created a \"brain\" with those 2 PDFs in my app, and started chatting with it.</p>\n<p>Here's what it looks like in action -</p>\n<p>https://reddit.com/link/16tffc0/video/2z5i4hvq2rqb1/player</p>\n<p>The super brain feature is quite useful this way. Especially because you can have multiple such brains - one for each topic. My lawyer friend creates one brain for each of his cases, and uploads every document related to the case into it.</p>\n<p>If you want to try it out, you can test it for free for 30 days from this link - <a href=\"https://elephas.app/?ref=rMacApps-SuperBrain-2709\">Elephas</a></p>\n<p>This feature uses a combination of Mac storage with OpenAI\u2019s feature. Highly optimised for cost savings.</p>\n<p>And it's privacy friendly, and all the data remains on your computer (It does use OpenAI to generate embeddings. But the resulting data is stored on your local computer).</p>\n<p>I think there's huge potential in using AI as an assistant instead of a complete replacement for humans.</p>\n<p>That's my goal with this feature and this tiny Mac app. I hope you find it useful.</p>\n<p>I am looking forward to your feedback.</p>\n<p>I'd be happy to add new features and utilities based on your requests and suggestions.</p>\n<p>Thanks</p></div>",
-            "date_published": "2023-09-27T08:56:59+00:00",
-            "authors": [
-                {
-                    "name": "juliarmg",
-                    "url": "https://www.reddit.com/user/juliarmg"
                 }
             ]
         }
