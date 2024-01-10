@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "193dzsv",
+            "url": "/r/ArcBrowser/comments/193dzsv/the_browser_company_is_on_fire_andreas_storm/",
+            "external_url": "https://i.redd.it/hr7g6dsofnbc1.jpeg",
+            "title": "\"The Browser Company is on fire \ud83d\udd25\" \u2013 Andreas Storm (@avstorm) via X",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/193dzsv/the_browser_company_is_on_fire_andreas_storm/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/193dzsv/the_browser_company_is_on_fire_andreas_storm/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/hr7g6dsofnbc1.jpeg\" />",
+            "date_published": "2024-01-10T17:38:23+00:00",
+            "authors": [
+                {
+                    "name": "JaceThings",
+                    "url": "https://www.reddit.com/user/JaceThings"
+                }
+            ]
+        },
+        {
             "id": "192gibb",
             "url": "/r/ArcBrowser/comments/192gibb/anyone_else_just_get_their_invite/",
             "external_url": "https://i.redd.it/2hwub7nnhfbc1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "JaceThings",
                     "url": "https://www.reddit.com/user/JaceThings"
-                }
-            ]
-        },
-        {
-            "id": "1756si6",
-            "url": "/r/ArcBrowser/comments/1756si6/the_existence_of_max_arc_is_bad/",
-            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1756si6/the_existence_of_max_arc_is_bad/",
-            "title": "The existence of Max \u2260 Arc is bad",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/1756si6/the_existence_of_max_arc_is_bad/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1756si6/the_existence_of_max_arc_is_bad/'>Reddit</a></caption><div><br></div><p>The poll results from the <a href=\"https://www.reddit.com/r/ArcBrowser/comments/174ihe9/potential_arc_max_pricing_model_vote/\">preivous post</a> is pretty interesting. Some people seems to quit Arc the moment they see the word \"AI\" somewhere in the browser, or they want rid of it (with some claiming that they'd seen 3 people quit because of Max alone). I, myself, doesn't understand this, since it is provided that Max is opt-in but a lot of people seems to miss this part.</p>\n<p>This means that:</p>\n<ol>\n<li>Your data WON'T be shared with OpenAI and Anthropic if you don't want them to.</li>\n<li>It will NOT force you to pay if you choose to opt-out.</li>\n<li>It SHOULDN'T be considered \"bloat\" since, when opt-out, all it adds are an extra settings menu and a command bar entry. It will be better if this entry has a lower ranking though.</li>\n</ol>\n<p>I heavily agree that things like <a href=\"https://www.youtube.com/watch?v=FCfwc-NNo30\">Windows Copilot</a> is complete BS since all it does is adding a slightly integrated chat window, and Microsoft being Microsoft won't let you turn it off. But what is wrong with a feature that can be opt-out?</p>",
-            "date_published": "2023-10-11T05:46:51+00:00",
-            "authors": [
-                {
-                    "name": "DensityInfinite",
-                    "url": "https://www.reddit.com/user/DensityInfinite"
                 }
             ]
         }
