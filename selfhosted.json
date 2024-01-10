@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "193b76o",
+            "url": "/r/selfhosted/comments/193b76o/first_idiot_award_of_the_year_goes_to_me/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/193b76o/first_idiot_award_of_the_year_goes_to_me/",
+            "title": "First idiot award of the year goes to... me",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/193b76o/first_idiot_award_of_the_year_goes_to_me/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/193b76o/first_idiot_award_of_the_year_goes_to_me/'>Reddit</a></caption><div><br></div><p>10 days into 2024 and I just ran a <code>sudo rm -rf test /*</code> instead of <code>sudo rm -rf test/*</code>.</p>\n<p>RIP my server, I will have to travel back home to reinstall Debian \ud83e\udd72</p>",
+            "date_published": "2024-01-10T15:42:46+00:00",
+            "authors": [
+                {
+                    "name": "phlooo",
+                    "url": "https://www.reddit.com/user/phlooo"
+                }
+            ]
+        },
+        {
             "id": "192mfgk",
             "url": "/r/selfhosted/comments/192mfgk/k3s_cluster/",
             "external_url": "https://i.redd.it/mjg93ea9pgbc1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "TheTwelveYearOld",
                     "url": "https://www.reddit.com/user/TheTwelveYearOld"
-                }
-            ]
-        },
-        {
-            "id": "16sna66",
-            "url": "/r/selfhosted/comments/16sna66/how_to_set_up_a_pop3smtp_server_to_receive_and/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/16sna66/how_to_set_up_a_pop3smtp_server_to_receive_and/",
-            "title": "How to set up a POP3/SMTP server to receive and reply to emails?",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16sna66/how_to_set_up_a_pop3smtp_server_to_receive_and/'>Reddit</a></caption><div><br></div><div><p>Hello all,</p>\n<p>I would like to set up a private email server on Linux. This is for home server use. What do you recommend I use, and how should I begin? I'm highly technical, so I have no problem with scripting, programming, or Linux.</p>\n<p>Thanks!</p>\n<p>Use Case:</p>\n<ol>\n<li>Setting up a simple, secure mailing list. for my personal stuff ( not spam in any means ) </li>\n<li>Registering for mailing lists.\"</li>\n</ol></div>",
-            "date_published": "2023-09-26T12:59:22+00:00",
-            "authors": [
-                {
-                    "name": "umen",
-                    "url": "https://www.reddit.com/user/umen"
                 }
             ]
         }
