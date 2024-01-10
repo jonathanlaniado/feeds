@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "193ds1j",
+            "url": "/r/macapps/comments/193ds1j/easily_access_the_current_apps_copy_history/",
+            "external_url": "https://v.redd.it/zsahcrgidnbc1",
+            "title": "Easily access the current app's copy history",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/193ds1j/easily_access_the_current_apps_copy_history/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/193ds1j/easily_access_the_current_apps_copy_history/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-01-10T17:29:50+00:00",
+            "authors": [
+                {
+                    "name": "CleanClip",
+                    "url": "https://www.reddit.com/user/CleanClip"
+                }
+            ]
+        },
+        {
             "id": "192exvs",
             "url": "/r/macapps/comments/192exvs/this_is_getting_out_of_hand_keyboard_cowboy/",
             "external_url": "https://i.redd.it/whxamop04fbc1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "FreshBiology_13",
                     "url": "https://www.reddit.com/user/FreshBiology_13"
-                }
-            ]
-        },
-        {
-            "id": "16tq0yc",
-            "url": "/r/macapps/comments/16tq0yc/frustrated_with_manual_adblocking_setup_need/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/16tq0yc/frustrated_with_manual_adblocking_setup_need/",
-            "title": "Frustrated with manual ad-blocking setup. Need something that works for all my Apple devices.",
-            "content_html": "<caption>Open: <a href='apollo://reddit.com/r/macapps/comments/16tq0yc/frustrated_with_manual_adblocking_setup_need/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/16tq0yc/frustrated_with_manual_adblocking_setup_need/'>Reddit</a></caption><div><br></div><div><p>I use multiple devices, and often have to swap them around, all tied to the same Apple ID, which is super convenient for syncing apps but when it comes to ad-blocking, it's been anything but convenient. I have to set up and maintain my ad-blocking preferences individually on each device.</p>\n<p>What's worse is the inconsistency in ad-blocking across these devices. Idk what\u2019s the issue, but the blockers I use sometimes work on specific devices while bricking on others, then there\u2019s the distracting ads or unwanted content that I've successfully blocked on others. Not a good experience</p>\n<p>So I\u2019ve been looking for a tool which works on all devices. I did some basic googling and got  <a href=\"https://apps.apple.com/app/apple-store/id1198047227?mt=8\">Magic Lasso</a> and <a href=\"https://adblockplus.org/\">AdBlock</a> as viable options. Adblock I have experience with but don\u2019t know anything bout the lasso. Anyone who\u2019s used both care to share their experiences? I don\u2019t wanna buy a subscription and then find out they suck. All advice appreciated </p></div>",
-            "date_published": "2023-09-27T17:02:35+00:00",
-            "authors": [
-                {
-                    "name": "OnoctORE",
-                    "url": "https://www.reddit.com/user/OnoctORE"
                 }
             ]
         }
