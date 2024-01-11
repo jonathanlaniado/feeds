@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "193xi0j",
+            "url": "/r/ArcBrowser/comments/193xi0j/farewell_arc_or_rather_see_you_later/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/193xi0j/farewell_arc_or_rather_see_you_later/",
+            "title": "Farewell Arc! (Or rather, see you later)",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/193xi0j/farewell_arc_or_rather_see_you_later/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/193xi0j/farewell_arc_or_rather_see_you_later/'>Reddit</a></caption><div><br></div><p>I have been with Arc practically since day zero. Masses of beta versions, even more bugs, \"weird\" UX practices that were then changed, revisited again, then thrown out again. </p>\n<p>Added a ton of fiddly stuff - two versions of split view, PiP, ubiquitous CMD+T, sneak peek, MAX, Boosts, folders, screenshots (with or without desktop wallpaper), folder sharing, quote page sharing. </p>\n<p>All these add-ons are great, but do they really need to load right from chromium, which is mega resource-intensive anyway? </p>\n<p>Can't they be moved to some \"gallery\", where the user can decide for himself whether he actually needs it and possibly disable it?</p>\n<p>There are so many of these built-in capabilities that the average user, who hits at least from Firefox, gets a headache from the sheer number of \"extra\" things.</p>\n<p>If there are so many super things, why am I sick of Arc?</p>\n<p>Well, it's because the team has been so focused on shoving in all the possible fiches that can be crammed in, that they have forgotten about users who, for example, don't have 16GB of ram and an 8-core CPU.... </p>\n<p>I have an iMac in the highest configuration - there Arc works (almost)super, while on a year-old MacBook Air (basic variant), there is drama. Battery drain, boot time are dramatic. Has the problem been reported? Plenty of times. </p>\n<p>Why doesn't it work super on the iMac? Errors. I am a developer, my work tool is console, devTools, etc. Once opened devTools (not always, but in 90% of cases) it can't be closed afterwards, in a while. Ha! The whole tab can't be closed. Has the topic been reported? At least 5 times. Silence. Suspending PiP? Reported plenty of times. Synchronization with iCloud that takes 3 days? Yes. </p>\n<p>Closing information about the possibility of translating a particular site (with the option that THIS particular site should not be translated)? Just refresh and the message appears again. </p>\n<p>Google Meet. 3 people + screen sharing. Temperature? 70 degrees celsius (158F). Seriously...</p>\n<p>Somewhere, someone wrote that it's more fun to write about adding new featrues than about optimization. Perhaps. But I'm just using the browser for work, and I'm depending on 100% assurance that nothing will crash while I'm working. </p>\n<p>They are dealing with \"Act2\" now. What for? Why start painting a house if the walls continue to wobble? Too bad. A great pity, because I was really rooting for them with this project. But it's strange to look at a startup that selectively fixes some fuck-ups or adds a feature to take screenshots, but doesn't address things that actually affect the user experience. <br />\nAI everywhere. MAX, immediately opening 5 selected search results from Google. Seriously? Then maybe let's make just one popup for typing at all: \"Find ramen recipe\" and that's it! AI will generate a shopping list for us, download pictures of the recipe, call mom and buy bowls on Amazon.... It will do everything for us. We're getting an all-in-one combo. And I don't think I like the direction they are taking. What we're getting from the \"new Internet\" is Minority Report. I think I'll stand and wait for now. </p>\n<p>Quo Vadis, Arc?</p>",
+            "date_published": "2024-01-11T09:14:04+00:00",
+            "authors": [
+                {
+                    "name": "mr_yoshi",
+                    "url": "https://www.reddit.com/user/mr_yoshi"
+                }
+            ]
+        },
+        {
             "id": "193dzsv",
             "url": "/r/ArcBrowser/comments/193dzsv/the_browser_company_is_on_fire_andreas_storm/",
             "external_url": "https://i.redd.it/hr7g6dsofnbc1.jpeg",
@@ -1386,20 +1400,6 @@
             "title": "\"We just released an update to Little Arc! This version makes it into a proper quicklook for links across macOS\" \u2013 Ben Cunningham @codeblue87 via X",
             "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/176afc1/we_just_released_an_update_to_little_arc_this/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/176afc1/we_just_released_an_update_to_little_arc_this/'>Reddit</a></caption><div><br></div>",
             "date_published": "2023-10-12T16:01:07+00:00",
-            "authors": [
-                {
-                    "name": "JaceThings",
-                    "url": "https://www.reddit.com/user/JaceThings"
-                }
-            ]
-        },
-        {
-            "id": "175guvm",
-            "url": "/r/ArcBrowser/comments/175guvm/my_and_the_teams_favorite_arc_max_feature_that_we/",
-            "external_url": "https://v.redd.it/w812wvezdltb1",
-            "title": "\"my (and the team's) favorite arc max feature that we DIDN'T ship: \ud83c\udf71 Auto Organizer \ud83c\udf71 click a button and we'd sort your tabs into groups. click a group to close it all, or make a folder.\" \u2013 @nateparrott via X",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/175guvm/my_and_the_teams_favorite_arc_max_feature_that_we/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/175guvm/my_and_the_teams_favorite_arc_max_feature_that_we/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-10-11T15:30:48+00:00",
             "authors": [
                 {
                     "name": "JaceThings",
