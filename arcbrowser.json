@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "194zvd0",
+            "url": "/r/ArcBrowser/comments/194zvd0/arc_on_windows/",
+            "external_url": "https://v.redd.it/rddoeakdi1cc1",
+            "title": "Arc on Windows",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/194zvd0/arc_on_windows/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/194zvd0/arc_on_windows/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-01-12T16:59:58+00:00",
+            "authors": [
+                {
+                    "name": "davidbaranek",
+                    "url": "https://www.reddit.com/user/davidbaranek"
+                }
+            ]
+        },
+        {
             "id": "194bta5",
             "url": "/r/ArcBrowser/comments/194bta5/windows_posting_freedom/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/194bta5/windows_posting_freedom/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "peepingbear",
                     "url": "https://www.reddit.com/user/peepingbear"
-                }
-            ]
-        },
-        {
-            "id": "176y6uw",
-            "url": "/r/ArcBrowser/comments/176y6uw/do_you_use_developer_modetools_in_arcinternet_if/",
-            "external_url": "https://v.redd.it/88s3qv6wwytb1",
-            "title": "\"do you use Developer Mode/Tools in @arcinternet? if so, would you find it useful if we added a \"Pretty Screenshot\" tool? prototype/demo from @nateparrott below! only want to build if you'd find it valuable for quickly showing off your work-in-progress?\" \u2013 Josh Miller (@joshm) via X",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/176y6uw/do_you_use_developer_modetools_in_arcinternet_if/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/176y6uw/do_you_use_developer_modetools_in_arcinternet_if/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-10-13T12:59:56+00:00",
-            "authors": [
-                {
-                    "name": "JaceThings",
-                    "url": "https://www.reddit.com/user/JaceThings"
                 }
             ]
         }
