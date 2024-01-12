@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1950l08",
+            "url": "/r/selfhosted/comments/1950l08/whats_that_one_selfhosted_app_that_has_made_it/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1950l08/whats_that_one_selfhosted_app_that_has_made_it/",
+            "title": "What's that one selfhosted app that has made it all worth while?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1950l08/whats_that_one_selfhosted_app_that_has_made_it/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1950l08/whats_that_one_selfhosted_app_that_has_made_it/'>Reddit</a></caption><div><br></div><p>For me, it is 100% the UNIFI network controller. It used to run on my Windows 11 machine. It needed an old version of java. It was hell to upgrade. I had to create custom startup scripts. It was very painful. The pain went all away when I was finally able to replace it with the docker version running on my Ubuntu docker server.</p>\n<p>&#x200B;</p>\n<p>An honourable mention is docker. Docker on an Ubuntu machine has made a huge difference. I can't believe I resisted docker for so long.  Docker has reinvigorated my selfhosting journey.</p>",
+            "date_published": "2024-01-12T17:28:39+00:00",
+            "authors": [
+                {
+                    "name": "habskilla",
+                    "url": "https://www.reddit.com/user/habskilla"
+                }
+            ]
+        },
+        {
             "id": "193b76o",
             "url": "/r/selfhosted/comments/193b76o/first_idiot_award_of_the_year_goes_to_me/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/193b76o/first_idiot_award_of_the_year_goes_to_me/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MyTechAccount90210",
                     "url": "https://www.reddit.com/user/MyTechAccount90210"
-                }
-            ]
-        },
-        {
-            "id": "16snvt3",
-            "url": "/r/selfhosted/comments/16snvt3/what_would_be_the_best_way_to_selfhost_my/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/16snvt3/what_would_be_the_best_way_to_selfhost_my/",
-            "title": "What would be the best way to self-host my personal finance stuff (especially transactions), and continuously pull info from my bank accounts?",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16snvt3/what_would_be_the_best_way_to_selfhost_my/'>Reddit</a></caption><div><br></div><div><p>I'm really bad with money and want a good way to track all of it. I don't want to spend lot of $ on something like YNAB or Tiller, and would really prefer to have all my data offline. I want to have my transactions on my Bofa and Discover accounts continuously pulled. I did a lot of searching and there doesn't seem to be a good solution to this. Ideally I'd have an equivalent to Obsidian.md: a powerful app where all of your data is offline and in an easily readable format like text files.</p>\n<p>And something that just works where I don't have to do a lot of tinkering. I looked at Firefly and just installed a container, and was about to use the Plaid connector, but Plaid asks me lots of questions and it seems to be for businesses and not consumers. It seems like I should just suck it up and download CSVs of transactions manually and put that into Firefly III or process them in Excel.</p></div>",
-            "date_published": "2023-09-26T13:23:20+00:00",
-            "authors": [
-                {
-                    "name": "TheTwelveYearOld",
-                    "url": "https://www.reddit.com/user/TheTwelveYearOld"
                 }
             ]
         }
