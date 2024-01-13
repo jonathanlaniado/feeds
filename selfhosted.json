@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "195nnn5",
+            "url": "/r/selfhosted/comments/195nnn5/my_homelab_sits_on_top_of_my_fridge/",
+            "external_url": "https://www.reddit.com/gallery/195nnn5",
+            "title": "My homelab sits on top of my fridge",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/195nnn5/my_homelab_sits_on_top_of_my_fridge/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/195nnn5/my_homelab_sits_on_top_of_my_fridge/'>Reddit</a></caption><div><br></div><p>A few users were interested in my setup, so here are the pics after a I cable managed (almost everything). I'm using 2 mini PCs set up in a proxmox cluster (planning to add at least 2 more). Still waiting for my 8 port switch from ebay to come, but for now the router will do. The servers and router (as well as the WISP antenna) are all connected to a UPS too, which is pretty neat</p>\n<p>Feel free to ask questions! Power draw pics (low usage rn, 80-90 watts) attached :)</p>",
+            "date_published": "2024-01-13T13:09:11+00:00",
+            "authors": [
+                {
+                    "name": "nocturn99x",
+                    "url": "https://www.reddit.com/user/nocturn99x"
+                }
+            ]
+        },
+        {
             "id": "1950l08",
             "url": "/r/selfhosted/comments/1950l08/whats_that_one_selfhosted_app_that_has_made_it/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1950l08/whats_that_one_selfhosted_app_that_has_made_it/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "theTrebleClef",
                     "url": "https://www.reddit.com/user/theTrebleClef"
-                }
-            ]
-        },
-        {
-            "id": "16smzw1",
-            "url": "/r/selfhosted/comments/16smzw1/how_much_time_do_you_put_into_your_setup_in_a_week/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/16smzw1/how_much_time_do_you_put_into_your_setup_in_a_week/",
-            "title": "How much time do you put into your setup in a week?",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16smzw1/how_much_time_do_you_put_into_your_setup_in_a_week/'>Reddit</a></caption><div><br></div><div><p>So recently I realized i was beginning to amass a pretty hefty collection of apps and such. So I made a spreadsheet so i could ensure everything got into the dashboard app, and everything got into nginx proxy manager, and etc etc...just to make sure everything was standardized. And...the list is way bigger than I ever expected.  </p>\n<p>At this moment, my spreadsheet is 58 lines of various apps. Now that includes some hardware, like my synology, or the server ILOs..... but 58!??!  </p>\n<p>I think 34 of those are in docker. and what, 10 of them are media related. Jellyfin, all the servarr apps, then another 8 or 10 for downloaders and gluetun stacks.  </p>\n<p>So we come back to the title of the thread, how much time do you put into your setup in a given week? I work on servers all day, but it feels like I'm working on servers all night too.</p></div>",
-            "date_published": "2023-09-26T12:47:49+00:00",
-            "authors": [
-                {
-                    "name": "MyTechAccount90210",
-                    "url": "https://www.reddit.com/user/MyTechAccount90210"
                 }
             ]
         }
