@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "195q7qz",
+            "url": "/r/ArtificialInteligence/comments/195q7qz/googles_new_llm_doctor_is_right_way_more_often/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/195q7qz/googles_new_llm_doctor_is_right_way_more_often/",
+            "title": "Google's new LLM doctor is right way more often than a real doctor (59% vs 34% top-10 accuracy)",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/195q7qz/googles_new_llm_doctor_is_right_way_more_often/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/195q7qz/googles_new_llm_doctor_is_right_way_more_often/'>Reddit</a></caption><div><br></div><p>Researchers from Google and DeepMind have developed and evaluated an LLM fine-tuned specifically for clinical diagnostic reasoning. In a new study, they rigorously tested the LLM's aptitude for generating differential diagnoses and aiding physicians.</p>\n<p>They assessed the LLM on 302 real-world case reports from the New England Journal of Medicine. These case reports are known to be highly complex diagnostic challenges.</p>\n<p>The LLM produced differential diagnosis lists that included the final confirmed diagnosis in the top 10 possibilities in 177 out of 302 cases, a top-10 accuracy of 59%. <strong>This significantly exceeded the performance of experienced physicians, who had a top-10 accuracy of just 34% on the same cases when unassisted.</strong></p>\n<p>According to assessments from senior specialists, the LLM's differential diagnoses were also rated to be <strong>substantially more appropriate and comprehensive</strong> than those produced by physicians, when evaluated across all 302 case reports.</p>\n<p>This research demonstrates the potential for LLMs to enhance physicians' clinical reasoning abilities for complex cases. However, the authors emphasize that further rigorous real-world testing is essential before clinical deployment. Issues around model safety, fairness, and robustness must also be addressed.</p>\n<p><a href=\"https://aimodels.substack.com/p/googles-new-llm-doctor-is-right-way\"><strong>Full summary</strong></a>. <a href=\"https://arxiv.org/abs/2401.05654\"><strong>Paper</strong></a>.</p>",
+            "date_published": "2024-01-13T15:18:18+00:00",
+            "authors": [
+                {
+                    "name": "Successful-Western27",
+                    "url": "https://www.reddit.com/user/Successful-Western27"
+                }
+            ]
+        },
+        {
             "id": "194wez8",
             "url": "/r/ArtificialInteligence/comments/194wez8/programming_is_fucked_and_i_dont_know_what_to_do/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/194wez8/programming_is_fucked_and_i_dont_know_what_to_do/",
