@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "196c5uw",
+            "url": "/r/macapps/comments/196c5uw/hide_all_windows_with_a_keyboard_shortcut_on_macos/",
+            "external_url": "https://i.redd.it/rzeaok1lkdcc1.png",
+            "title": "Hide all windows with a keyboard shortcut on macOS",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/196c5uw/hide_all_windows_with_a_keyboard_shortcut_on_macos/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/196c5uw/hide_all_windows_with_a_keyboard_shortcut_on_macos/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/rzeaok1lkdcc1.png\" />",
+            "date_published": "2024-01-14T09:32:09+00:00",
+            "authors": [
+                {
+                    "name": "seungwoochoe",
+                    "url": "https://www.reddit.com/user/seungwoochoe"
+                }
+            ]
+        },
+        {
             "id": "195xyby",
             "url": "/r/macapps/comments/195xyby/two_years_ago_i_created_floatapp_for_one_single/",
             "external_url": "https://www.reddit.com/r/macapps/comments/195xyby/two_years_ago_i_created_floatapp_for_one_single/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "sindresorhus",
                     "url": "https://www.reddit.com/user/sindresorhus"
-                }
-            ]
-        },
-        {
-            "id": "16vld18",
-            "url": "/r/macapps/comments/16vld18/introducing_cndwn_a_swiftui_countdown_app_for_all/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/16vld18/introducing_cndwn_a_swiftui_countdown_app_for_all/",
-            "title": "Introducing CNDWN: A SwiftUI Countdown App for all Apple Devices.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/16vld18/introducing_cndwn_a_swiftui_countdown_app_for_all/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/16vld18/introducing_cndwn_a_swiftui_countdown_app_for_all/'>Reddit</a></caption><div><br></div><div><p>Hey! I\u2019m excited to share with you an iOS app that I\u2019ve developed called CNDWN. It\u2019s fully developed in SwiftUI. It\u2019s also the first countdown app that offers all features for free and is available on Apple TV, iPhone, iPad, Apple Watch, and Mac!</p>\n<p>CNDWN is designed to help you keep track of important events and deadlines in your life. With this app, you can create and manage countdowns, countups, and progress bars with ease. The best part? It supports iCloud synchronization, so you can access your countdowns across all your Devices.</p>\n<p>One of the standout features of CNDWN is its support for Widgets and Live Activities. You can add widgets to your lock screen, home screen or standby screen (new in iOS 17), giving you quick access to your countdowns without having to open the app. The app also offers live activities, allowing you to track the progress of ongoing events in real-time.</p>\n<p>Never miss an important event again! CNDWN sends notifications for upcoming countdowns, and you can customize them to suit your needs.</p>\n<p>Last but not least, CNDWN supports dark mode, making it easy to use the app in low-light conditions without straining your eyes.</p>\n<p>I am also looking forward to implement the new Suggestions API for the new Apple Journal when it is released in iOS 17.1 or 17.2.</p>\n<p><a href=\"https://apps.apple.com/app/id6455257754\">Download</a> CNDWN now and start counting down to your next big event!</p>\n<p>Looking forward to hearing your thoughts and feedback. Enjoy counting down with CNDWN.</p>\n<p><a href=\"https://apps.apple.com/app/id6455257754\">https://apps.apple.com/app/id6455257754</a></p></div>",
-            "date_published": "2023-09-29T19:46:26+00:00",
-            "authors": [
-                {
-                    "name": "Konsti_x08",
-                    "url": "https://www.reddit.com/user/Konsti_x08"
                 }
             ]
         }
