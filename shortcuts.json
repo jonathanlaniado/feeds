@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "196joy8",
+            "url": "/r/shortcuts/comments/196joy8/stop_unintentional_social_media_use/",
+            "external_url": "https://i.redd.it/e0z2c8iwmfcc1.jpeg",
+            "title": "Stop unintentional Social Media use",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/196joy8/stop_unintentional_social_media_use/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/196joy8/stop_unintentional_social_media_use/'>Reddit</a></caption><div><br></div><p>If you\u2019re like me and find yourself opening certain apps out of habit then this might help. Asks you to solve a random expression each time you launch the app, acts as reminder to stop.</p>\n<p><a href=\"https://www.icloud.com/shortcuts/9ec9b3afcf7e4539baa5634ee9326a97\">Main shortcut</a> (include it in automation when app is launched)\n<a href=\"https://www.icloud.com/shortcuts/8c761351ddaf478792207e3309ae34c0\">Secondry shortcut</a> (run it once before everything)</p>\n<p>Directories specified in the shortcut might need altering on your part, not sure, first time sharing a shortcut.</p>\n<p>Basically the secondry creates a dictionary to keep track if it asked you to solve the expression or not.\nThe main one closes the app, asks you to solve, if correct it re-opens the app, and updates the dictionary.</p><div><br></div><img src=\"https://i.redd.it/e0z2c8iwmfcc1.jpeg\" />",
+            "date_published": "2024-01-14T16:28:35+00:00",
+            "authors": [
+                {
+                    "name": "StudioAlz",
+                    "url": "https://www.reddit.com/user/StudioAlz"
+                }
+            ]
+        },
+        {
             "id": "193875k",
             "url": "/r/shortcuts/comments/193875k/lock_iphone_from_apple_watch/",
             "external_url": "https://www.reddit.com/gallery/193875k",
