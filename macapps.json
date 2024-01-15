@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "197h9ep",
+            "url": "/r/macapps/comments/197h9ep/open_source_mac_apps_for_2024/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/197h9ep/open_source_mac_apps_for_2024/",
+            "title": "Open source Mac apps for 2024",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/197h9ep/open_source_mac_apps_for_2024/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/197h9ep/open_source_mac_apps_for_2024/'>Reddit</a></caption><div><br></div><p>Hi all, I've finally revamped this curation with new UI and updated the list with ongoing popular open source Mac apps that are relevant for 2024. Here you can search and filter to find the apps you need. I will keep improving this page, if you have any suggestions, feel free to suggest  </p>\n<p>I use many of these open-source apps myself, like Itsycal, Keyboard Cowboy, Ice Cubes, ...  </p>\n<p><a href=\"https://indiegoodies.com/awesome-open-source-mac-apps\">https://indiegoodies.com/awesome-open-source-mac-apps</a></p>",
+            "date_published": "2024-01-15T19:21:59+00:00",
+            "authors": [
+                {
+                    "name": "onmyway133",
+                    "url": "https://www.reddit.com/user/onmyway133"
+                }
+            ]
+        },
+        {
             "id": "196c5uw",
             "url": "/r/macapps/comments/196c5uw/hide_all_windows_with_a_keyboard_shortcut_on_macos/",
             "external_url": "https://i.redd.it/rzeaok1lkdcc1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Amazed_Alloy",
                     "url": "https://www.reddit.com/user/Amazed_Alloy"
-                }
-            ]
-        },
-        {
-            "id": "16wgimy",
-            "url": "/r/macapps/comments/16wgimy/any_text_put_any_text_on_your_desktop/",
-            "external_url": "https://apps.apple.com/app/id1643199620",
-            "title": "Any Text \u2014 Put any text on your desktop",
-            "content_html": "<caption>Open: <a href='https://apps.apple.com/app/id1643199620'>apps.apple.com</a> | <a href='https://reddit.com/r/macapps/comments/16wgimy/any_text_put_any_text_on_your_desktop/'>Reddit</a></caption>",
-            "date_published": "2023-09-30T20:09:59+00:00",
-            "authors": [
-                {
-                    "name": "sindresorhus",
-                    "url": "https://www.reddit.com/user/sindresorhus"
                 }
             ]
         }
