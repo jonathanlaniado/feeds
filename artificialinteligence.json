@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "196txf5",
+            "url": "/r/ArtificialInteligence/comments/196txf5/googles_new_medical_aiamie_outperforms_real/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/196txf5/googles_new_medical_aiamie_outperforms_real/",
+            "title": "Google's new medical AI(AMIE) outperforms real doctors in every metric at diagnosing patients",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/196txf5/googles_new_medical_aiamie_outperforms_real/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/196txf5/googles_new_medical_aiamie_outperforms_real/'>Reddit</a></caption><div><br></div><p>Link to article here: https://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html?m=1</p>\n<p>Link to paper: \nhttps://arxiv.org/abs/2401.05654</p>\n<p>AMIE is an LLM that makes diagnoses by interacting with patients and asking them questions about their condition, a huge step up from Google's previous medical AI. AMIE outperforms real doctors in diagnosis accuracy, recommendations, and even empathy. What's interesting is LLM &gt; doctors + LLM, going against the idea that AI will be working with doctors rather than replacing them.</p>\n<p>What are your thoughts on how feasible this AI is in a real world setting and on the future of human vs AI doctors?</p>",
+            "date_published": "2024-01-14T23:39:32+00:00",
+            "authors": [
+                {
+                    "name": "Bchalup2348",
+                    "url": "https://www.reddit.com/user/Bchalup2348"
+                }
+            ]
+        },
+        {
             "id": "195q7qz",
             "url": "/r/ArtificialInteligence/comments/195q7qz/googles_new_llm_doctor_is_right_way_more_often/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/195q7qz/googles_new_llm_doctor_is_right_way_more_often/",
