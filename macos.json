@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "19807ff",
+            "url": "/r/MacOS/comments/19807ff/great_news_for_apple_customers_at_least_in_eu/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/19807ff/great_news_for_apple_customers_at_least_in_eu/",
+            "title": "Great news for Apple customers (at least in EU)",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOS/comments/19807ff/great_news_for_apple_customers_at_least_in_eu/'>Winston</a> | <a href='https://reddit.com/r/MacOS/comments/19807ff/great_news_for_apple_customers_at_least_in_eu/'>Reddit</a></caption><div><br></div><p>Apple is preparing to split the App Store \"in two\" in the coming weeks ahead of European Union requirements that will force Apple to enable app sideloading in the region, Bloomberg's Mark Gurman reports.</p>\n<p>https://www.macrumors.com/2024/01/15/app-store-to-be-split-in-two/</p>\n<p>Hopefully this will also address jailbreaking security concerns?</p>",
+            "date_published": "2024-01-16T10:54:21+00:00",
+            "authors": [
+                {
+                    "name": "lapadut",
+                    "url": "https://www.reddit.com/user/lapadut"
+                }
+            ]
+        },
+        {
             "id": "190parz",
             "url": "/r/MacOS/comments/190parz/i_got_so_fed_up_with_losing_sight_of_the_cursor/",
             "external_url": "https://www.reddit.com/r/MacOS/comments/190parz/i_got_so_fed_up_with_losing_sight_of_the_cursor/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Famous_Repeat3444",
                     "url": "https://www.reddit.com/user/Famous_Repeat3444"
-                }
-            ]
-        },
-        {
-            "id": "14qhrfy",
-            "url": "/r/MacOS/comments/14qhrfy/why_cant_macos_just_tell_me_which_program_is/",
-            "external_url": "https://i.redd.it/7ejv6q3hry9b1.png",
-            "title": "Why can't MacOS just TELL ME which program is using the drive I'm trying to eject rather than just have me guess?",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/MacOS/comments/14qhrfy/why_cant_macos_just_tell_me_which_program_is/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/7ejv6q3hry9b1.png\" />",
-            "date_published": "2023-07-04T15:07:58+00:00",
-            "authors": [
-                {
-                    "name": "CitizenSnips5",
-                    "url": "https://www.reddit.com/user/CitizenSnips5"
                 }
             ]
         }
