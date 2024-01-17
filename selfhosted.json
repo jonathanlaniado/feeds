@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "198xseg",
+            "url": "/r/selfhosted/comments/198xseg/maker_management_platform_v100/",
+            "external_url": "https://github.com/Maker-Management-Platform/docs",
+            "title": "Maker Management Platform v1.0.0",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/198xseg/maker_management_platform_v100/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/198xseg/maker_management_platform_v100/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-01-17T14:28:20+00:00",
+            "authors": [
+                {
+                    "name": "knoker",
+                    "url": "https://www.reddit.com/user/knoker"
+                }
+            ]
+        },
+        {
             "id": "196nke8",
             "url": "/r/selfhosted/comments/196nke8/how_i_left_the_cloud/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/196nke8/how_i_left_the_cloud/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Single_Writing_6737",
                     "url": "https://www.reddit.com/user/Single_Writing_6737"
-                }
-            ]
-        },
-        {
-            "id": "16sqcmj",
-            "url": "/r/selfhosted/comments/16sqcmj/which_one_is_more_like_jellyfin_but_for_photos/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/16sqcmj/which_one_is_more_like_jellyfin_but_for_photos/",
-            "title": "which one is more like jellyfin but for photos",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16sqcmj/which_one_is_more_like_jellyfin_but_for_photos/'>Reddit</a></caption><div><br></div><div><p>Hello everyone,\nI'm looking for an app that can index my photo folder, as I don't want to upload them again.\nWhich can resize my photos (to be able to see them faster, without waiting for them to load too much) and create albums without changing the main files? \nBest Regards\nShahram</p>\n<p><a href=\"https://www.reddit.com/poll/16sqcmj\">View Poll</a></p></div>",
-            "date_published": "2023-09-26T15:00:43+00:00",
-            "authors": [
-                {
-                    "name": "sh4hr4m",
-                    "url": "https://www.reddit.com/user/sh4hr4m"
                 }
             ]
         }
