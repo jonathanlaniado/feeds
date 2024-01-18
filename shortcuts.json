@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "199yt39",
+            "url": "/r/shortcuts/comments/199yt39/i_put_googles_best_ai_in_an_iphone/",
+            "external_url": "https://www.reddit.com/r/shortcuts/comments/199yt39/i_put_googles_best_ai_in_an_iphone/",
+            "title": "I put Google's best AI in an iPhone.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/199yt39/i_put_googles_best_ai_in_an_iphone/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/199yt39/i_put_googles_best_ai_in_an_iphone/'>Reddit</a></caption><div><br></div><p><a href=\"https://www.icloud.com/shortcuts/55db367295974b0ba628600af762a97c\">https://www.icloud.com/shortcuts/55db367295974b0ba628600af762a97c</a></p>\n<p><a href=\"https://preview.redd.it/q5t4umgp49dc1.jpg?width=1170&amp;format=pjpg&amp;auto=webp&amp;s=593898c9e32598b7c89a598af177edf47b05d218\">I used Siri Shortcuts to build an AI assistant called A.T.H.E.N.A.</a></p>\n<p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/x2bjl7ft49dc1.png?width=6672&amp;format=png&amp;auto=webp&amp;s=d24bd4dba3a81141548b6179cee14d042ae044b8\">I also made this illustration for the Medium article LMAO</a></p>\n<h1>Here's the TL;DR version of the Medium article to get this assistant running ASAP.</h1>\n<ol>\n<li>Make an account on Google AI Studio (formerly known as <em>Makersuite)</em>: <a href=\"https://makersuite.google.com/app/prompts/new_freeform\">https://makersuite.google.com/</a></li>\n<li>Click on \u2018Get API key.\u2019</li>\n<li>Click on the \u2018Create API key in new project\u2019 button.</li>\n<li>Please copy and paste the API key somewhere safe and ensure you don\u2019t share it with anyone.</li>\n<li>Download the Siri Shortcut from here: <a href=\"https://www.icloud.com/shortcuts/55db367295974b0ba628600af762a97c\">https://www.icloud.com/shortcuts/55db367295974b0ba628600af762a97c</a></li>\n<li>Click on \u201cGet Shortcut\u201d and then \u201cSet Up Shortcut.\u201d</li>\n<li><strong>Paste your API key</strong> and click on \u201cNext.\u201d</li>\n<li><strong>Enter any Prompt/Context</strong> for the AI. Example: \u201cI want you to act as the world\u2019s smartest personal AI assistant.\u201d Click on \u201cAdd Shortcut.\u201d</li>\n<li>That\u2019s it. You can now activate Siri and say \u201cRun Athena\u201d to converse with your new AI assistant.</li>\n</ol>\n<p>Here's the link to the medium article: <a href=\"https://medium.com/@reallywhybhav/i-put-googles-best-ai-in-an-iphone-9e53a4cb3543\">https://medium.com/@reallywhybhav/i-put-googles-best-ai-in-an-iphone-9e53a4cb3543</a></p>\n<p>Here's a YT link to the working demo: <a href=\"https://youtu.be/-4op6QvYVj0\">https://youtu.be/-4op6QvYVj0</a></p>\n<p>I hope you have fun with this! DM/Comment if you have any queries or suggestions.</p>",
+            "date_published": "2024-01-18T19:43:30+00:00",
+            "authors": [
+                {
+                    "name": "whynotbhav",
+                    "url": "https://www.reddit.com/user/whynotbhav"
+                }
+            ]
+        },
+        {
             "id": "196joy8",
             "url": "/r/shortcuts/comments/196joy8/stop_unintentional_social_media_use/",
             "external_url": "https://i.redd.it/e0z2c8iwmfcc1.jpeg",
