@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "19a1jzq",
+            "url": "/r/ArcBrowser/comments/19a1jzq/arc_on_windows_roadmap_coming_soon/",
+            "external_url": "https://i.redd.it/00hrse42p9dc1.png",
+            "title": "Arc on Windows roadmap coming soon\u2122\ufe0f",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/19a1jzq/arc_on_windows_roadmap_coming_soon/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/19a1jzq/arc_on_windows_roadmap_coming_soon/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/00hrse42p9dc1.png\" />",
+            "date_published": "2024-01-18T21:34:36+00:00",
+            "authors": [
+                {
+                    "name": "JaceThings",
+                    "url": "https://www.reddit.com/user/JaceThings"
+                }
+            ]
+        },
+        {
             "id": "199vpf1",
             "url": "/r/ArcBrowser/comments/199vpf1/arc_for_windows_update_050/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/199vpf1/arc_for_windows_update_050/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "bob-a-fett",
                     "url": "https://www.reddit.com/user/bob-a-fett"
-                }
-            ]
-        },
-        {
-            "id": "17g4blz",
-            "url": "/r/ArcBrowser/comments/17g4blz/a\ud835\uddcb\ud835\uddbc_s\ud835\uddbe\ud835\uddba\ud835\uddcb\ud835\uddbc\ud835\uddc1_if_aliens_arrived_itd_be_hard_to/",
-            "external_url": "https://v.redd.it/tfxtm29skcwb1",
-            "title": "\ud83d\udd0d A\ud835\uddcb\ud835\uddbc S\ud835\uddbe\ud835\uddba\ud835\uddcb\ud835\uddbc\ud835\uddc1 \ud83d\udd0e If Aliens arrived it'd be hard to explain why your Web Browser & Search Engine are different products (hint: $). What if we merged Search + ChatGPT *within* Arc's CMD Bar so you didn't need to go anywhere? Any other native Search+AI in browser ideas? \u2013 Josh Miller via X",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/17g4blz/a\ud835\uddcb\ud835\uddbc_s\ud835\uddbe\ud835\uddba\ud835\uddcb\ud835\uddbc\ud835\uddc1_if_aliens_arrived_itd_be_hard_to/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/17g4blz/a\ud835\uddcb\ud835\uddbc_s\ud835\uddbe\ud835\uddba\ud835\uddcb\ud835\uddbc\ud835\uddc1_if_aliens_arrived_itd_be_hard_to/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-10-25T13:05:22+00:00",
-            "authors": [
-                {
-                    "name": "JaceThings",
-                    "url": "https://www.reddit.com/user/JaceThings"
                 }
             ]
         }
