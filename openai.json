@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "19c456c",
+            "url": "/r/OpenAI/comments/19c456c/aio_browse_the_web_and_chat_with_ai_side_by_side/",
+            "external_url": "https://www.reddit.com/r/OpenAI/comments/19c456c/aio_browse_the_web_and_chat_with_ai_side_by_side/",
+            "title": "ai-o - Browse the web and chat with AI, side by side.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/19c456c/aio_browse_the_web_and_chat_with_ai_side_by_side/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/19c456c/aio_browse_the_web_and_chat_with_ai_side_by_side/'>Reddit</a></caption><div><br></div><p>Hi reddit \ud83d\udc4b</p>\n<p>I am the developer of \"ai-o\" - and all-in-one portable chatbot with some useful chat &amp; prompt utilities.</p>\n<p>I made this from my dislike of context switching between my current task and ChatGPT, alongside the fact that ChatGPT currently is lacking in some core chat utilities such as: conversation search, folders, prompt history etc. - from which have all been added into ai-o.</p>\n<p>I aim to build a feature-rich chatbot that you can summon on any webpage, any time you have a question. But I need your help \ud83c\udd98 I have many things planned in the feature roadmap but as mentioned, I want to build a \"utility-focused\" chatbot, so I need some steer from you guys towards what kind of features would be most useful for you when using this chatbot. \ud83d\ude4f\ud83c\udffb</p>\n<p>&#x200B;</p>\n<p>If you would like to give it a try, it's free to use and you get some free requests to chat with GPT-4 Turbo &amp; Vision. Let me know what you like, hate, or find mid \ud83d\ude10</p>\n<p>&#x200B;</p>\n<p>Free download here: <a href=\"https://chromewebstore.google.com/u/1/detail/ai-o-gpt-4-turbo-ai-assis/pcaggbifahmhpklhmbcmclgmkkcgedop?hl=en-GB\">https://chromewebstore.google.com/u/1/detail/ai-o-gpt-4-turbo-ai-assis/pcaggbifahmhpklhmbcmclgmkkcgedop?hl=en-GB</a></p>\n<p>I am also launching on Product Hunt \u2b06\ufe0f \ud83d\ude4f\ud83c\udffb: <a href=\"https://www.producthunt.com/products/ai-o\">https://www.producthunt.com/products/ai-o</a></p>\n<p>&#x200B;</p>\n<p>How to use:</p>\n<p>- Option (MacOS) / Alt (Windows) + A to activate the sidebar.</p>\n<p>Features:</p>\n<p>- \ud83c\udf10 Chat with Al whilst browsing the web, side by side. Always-visible sidebar.</p>\n<p>- \u2728 Chat with latest OpenAI models: GPT-3.5 Turbo, GPT-4 Turbo, GPT-4 Vision on any website</p>\n<p>- \ud83d\udcd6 Create and save custom prompts with support for prompt variables</p>\n<p>- \ud83d\uddc2\ufe0f Folders system to organize your chats</p>\n<p>- \u2b07\ufe0f Import ChatGPT chat history</p>\n<p>- \ud83d\udd5b Chat history</p>\n<p>- \ud83d\udd0e Advanced search for finding chats and messages</p>\n<p>- \ud83d\udcac Prompt history</p>\n<p>- \ud83d\udde3\ufe0f Voice dictation (Speech to text)</p>\n<p>- \ud83d\udc42\ud83c\udffb Text-to-speech playback</p>\n<p>- \ud83d\udd01 Sync chats &amp; folder across multiple devices</p>\n<p>- \u2328\ufe0f Keyboard shortcuts</p>\n<p>- \ud83c\udf11\u2600\ufe0f Dark &amp; light mode support</p>\n<p>&#x200B;</p>",
+            "date_published": "2024-01-21T14:07:12+00:00",
+            "authors": [
+                {
+                    "name": "DueSun",
+                    "url": "https://www.reddit.com/user/DueSun"
+                }
+            ]
+        },
+        {
             "id": "19bv0f2",
             "url": "/r/OpenAI/comments/19bv0f2/there_needs_to_be_a_classaction_lawsuit_against/",
             "external_url": "https://www.reddit.com/r/OpenAI/comments/19bv0f2/there_needs_to_be_a_classaction_lawsuit_against/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Wiskkey",
                     "url": "https://www.reddit.com/user/Wiskkey"
-                }
-            ]
-        },
-        {
-            "id": "16wsjdz",
-            "url": "/r/OpenAI/comments/16wsjdz/every_time_i_ask_for_a_joke_it_begins_with_atoms/",
-            "external_url": "https://www.reddit.com/r/OpenAI/comments/16wsjdz/every_time_i_ask_for_a_joke_it_begins_with_atoms/",
-            "title": "Every time I ask for a joke, it begins with atoms and then goes on with the scarecrow. They aren't even funny jokes.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/16wsjdz/every_time_i_ask_for_a_joke_it_begins_with_atoms/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/16wsjdz/every_time_i_ask_for_a_joke_it_begins_with_atoms/'>Reddit</a></caption><div><br></div><div><p>I've just made a comedian chatbot, but it keeps repeating the same unfunny jokes, it doesn't matter what instructions and rules I give him in the system prompt. It always starts with \"Why don't scientists trust atoms?<strong>\"</strong>, then with the \"scarecrow\". When it reads it loud it's even more cringe   <a href=\"https://youtube.com/shorts/R1yoxEUu5VA\">https://youtube.com/shorts/R1yoxEUu5VA</a>. Any suggestions on how to stop this? The logit_bias doesn't seem to help. The chatbot <a href=\"https://exligent.com/@lolenzo-chuckfield\">https://exligent.com/@lolenzo-chuckfield</a><br />\nI use ChatGPT-3.5-turbo-16k with more then 3k tokens as system prompt</p></div>",
-            "date_published": "2023-10-01T05:21:30+00:00",
-            "authors": [
-                {
-                    "name": "Exligent",
-                    "url": "https://www.reddit.com/user/Exligent"
                 }
             ]
         }
