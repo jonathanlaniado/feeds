@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "19cw3io",
+            "url": "/r/selfhosted/comments/19cw3io/taipy_streamlit_alternative_build_data_ai_apps/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/19cw3io/taipy_streamlit_alternative_build_data_ai_apps/",
+            "title": "Taipy - Streamlit alternative: Build Data / AI Apps",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/19cw3io/taipy_streamlit_alternative_build_data_ai_apps/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/19cw3io/taipy_streamlit_alternative_build_data_ai_apps/'>Reddit</a></caption><div><br></div><p><a href=\"https://github.com/Avaiga/taipy\">https://github.com/Avaiga/taipy</a></p>\n<p>&#x200B;</p>",
+            "date_published": "2024-01-22T13:52:13+00:00",
+            "authors": [
+                {
+                    "name": "furtugoth",
+                    "url": "https://www.reddit.com/user/furtugoth"
+                }
+            ]
+        },
+        {
             "id": "199mmyf",
             "url": "/r/selfhosted/comments/199mmyf/so_glad_i_dumped_plex/",
             "external_url": "https://i.redd.it/0xdso8ni86dc1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "thorntech",
                     "url": "https://www.reddit.com/user/thorntech"
-                }
-            ]
-        },
-        {
-            "id": "16sq2mp",
-            "url": "/r/selfhosted/comments/16sq2mp/am_i_getting_a_good_deal_on_this_server/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/16sq2mp/am_i_getting_a_good_deal_on_this_server/",
-            "title": "Am I getting a good deal on this server?",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16sq2mp/am_i_getting_a_good_deal_on_this_server/'>Reddit</a></caption><div><br></div><div><p>Dell PowerEdge R730XD 2x E5-2699v3 256GB @ 2133 + 24x 600GB 7.2k SAS Drives</p>\n<p>Got it for $300. Going to use it to learn proxmox and stuff. What do you guys think?</p></div>",
-            "date_published": "2023-09-26T14:50:10+00:00",
-            "authors": [
-                {
-                    "name": "Substantial-Pilot-72",
-                    "url": "https://www.reddit.com/user/Substantial-Pilot-72"
                 }
             ]
         }
