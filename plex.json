@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "19d60q0",
+            "url": "/r/PleX/comments/19d60q0/huge_new_things_coming_to_plex_in_2024_and_it/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/19d60q0/huge_new_things_coming_to_plex_in_2024_and_it/",
+            "title": "Huge new things coming to Plex in 2024 - and it doesn't make good reading",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/19d60q0/huge_new_things_coming_to_plex_in_2024_and_it/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/19d60q0/huge_new_things_coming_to_plex_in_2024_and_it/'>Reddit</a></caption><div><br></div><p>So firstly this is the article in question. </p>\n<p>https://thestreamable.com/news/plex-adding-ability-to-rent-purchase-movies-in-early-february</p>\n<p>Most of it is extracted from the paywalled original article;</p>\n<p>https://www.lowpass.cc/p/plex-store-movies-tv-shows-tvod-vod</p>\n<p>A few things stand out in this article, its quite clear whoever wrote the article has an inside scoop on the goings on at Plex for this year, teasing a \"significant\" redesign, but more crucially, uses the word \"currently\" when talking about Plex allowing users to have their own files on their servers.</p>\n<p>Couple this with a few DMCA takedowns recently (quite a coincidence that they're bringing out a store at the same time as employing a company to act on behalf of their takedowns.)</p>\n<p>Here is the signed form that Markscan is acting on behalf of Plex, for anyone unsure of the credibility.</p>\n<p>https://markscan.co.in/loa/Plex_LOA.pdf</p>\n<p>Anyone else worried this may be the end of our own media servers with Plex?</p>",
+            "date_published": "2024-01-22T20:52:48+00:00",
+            "authors": [
+                {
+                    "name": "jl94x4",
+                    "url": "https://www.reddit.com/user/jl94x4"
+                }
+            ]
+        },
+        {
             "id": "19cwy6l",
             "url": "/r/PleX/comments/19cwy6l/with_all_the_changes_plex_is_making_lately_is/",
             "external_url": "https://www.reddit.com/r/PleX/comments/19cwy6l/with_all_the_changes_plex_is_making_lately_is/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "bfodder",
                     "url": "https://www.reddit.com/user/bfodder"
-                }
-            ]
-        },
-        {
-            "id": "10cjcut",
-            "url": "/r/PleX/comments/10cjcut/my_new_tv_remote_has_a_plex_button_hisense/",
-            "external_url": "https://i.redd.it/t2vgl4sey8ca1.jpg",
-            "title": "My new TV remote has a Plex button (Hisense)",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/PleX/comments/10cjcut/my_new_tv_remote_has_a_plex_button_hisense/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/t2vgl4sey8ca1.jpg\" />",
-            "date_published": "2023-01-15T13:02:58+00:00",
-            "authors": [
-                {
-                    "name": "billywhizz69",
-                    "url": "https://www.reddit.com/user/billywhizz69"
                 }
             ]
         }
