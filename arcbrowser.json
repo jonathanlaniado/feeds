@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "19d5xma",
+            "url": "/r/ArcBrowser/comments/19d5xma/my_personal_experience_of_arc_on_windows/",
+            "external_url": "https://i.redd.it/vs9bkuxo02ec1.png",
+            "title": "My personal experience of arc on windows",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/19d5xma/my_personal_experience_of_arc_on_windows/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/19d5xma/my_personal_experience_of_arc_on_windows/'>Reddit</a></caption><div><br></div><p>I'm using arc from last 2 days, I need to tell you that it's worth waiting.\n\u00b0 Smoothness- Overall scrolling experience is much more smoother compared to chrome or edge.\n\u00b0Looks - It look more beautiful than chrome and Firefox because it actually follows the windows 11 theme.\n\u00b0 Ram consumption - Its very similar to other browsers ( 600-700 mb with a single tab of 4k60fps stream) but even if you  get little careless and did't closed tabs, it can reach 2-3gb in no time. \nIt's very easy to forget about opened tabs in arc workspaces i.e \"Spaces\".\n\u00b0Remember that choppy animation when you enter  full screen or exit full screen on YouTube . Arc fixes that, with their own animation, and its smooth.\n\u00b0Extension support: more of chromium extension work as they should like ublock origin etc.\n\u00b0Color shit : Some people may experience color shift while entering exiting full screen on YouTube or other streaming sites on arc, Actually its a chromium problem for hardware acceleration i.e GPU acceleration, its even present on Chrome. It's easy to fix.</p>\n<p>Currently windows version is in very early stage i.e CBT and isn't suitable for daily use. It lacks even some basic features for now, like bookmarks etc. It just feels like a Skeleton for now. But it's heading in right direction. It will get better.\nLet me know if you have any questions..</p><div><br></div><img src=\"https://i.redd.it/vs9bkuxo02ec1.png\" />",
+            "date_published": "2024-01-22T20:49:12+00:00",
+            "authors": [
+                {
+                    "name": "amit29533",
+                    "url": "https://www.reddit.com/user/amit29533"
+                }
+            ]
+        },
+        {
             "id": "19c8n6g",
             "url": "/r/ArcBrowser/comments/19c8n6g/big_things_coming_in_the_next_2_weeks/",
             "external_url": "https://i.redd.it/8335yw4kwtdc1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Tommyisme__",
                     "url": "https://www.reddit.com/user/Tommyisme__"
-                }
-            ]
-        },
-        {
-            "id": "17gxvdz",
-            "url": "/r/ArcBrowser/comments/17gxvdz/arc_update_1140_42789/",
-            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/17gxvdz/arc_update_1140_42789/",
-            "title": "Arc Update - 1.14.0 (42789)",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/17gxvdz/arc_update_1140_42789/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/17gxvdz/arc_update_1140_42789/'>Reddit</a></caption><div><br></div><p>\ud83d\udcc6 Oct 25, 2023 at 10:20:50 PM</p>\n<blockquote>\n<p>\u2022 Introducing Shared Collections! You can now share perma-links to Spaces, Folders, Split Views, and selected tabs to anyone, on any browser. Right click on any Folder, Split View, or selected tab group in your sidebar and click the \"Share\" option. To share Spaces, hover over your Space title and click \"Share\". Anyone, with any browser, can view the link. Arc members can add the Shared Collection to their sidebar.</p>\n<p>\u2022 Choose a default Notes App! Head to Arc &gt; Settings &gt; General to select between Arc -Notes, Google Docs, Notion, or Word Docs. Hit CMD T \u2026 New Note or go to the plus button at the bottom of the sidebar to open a note in your preferred App.</p>\n<p>\u2022 We've fixed a long standing bug in the Command Bar where the last character was dropped while typing in Korean and a couple other languages.</p>\n<p>\u2022 Arc Max features will now respond your preferred language.</p>\n<p>\u2022 The Mini Player now has a new layout, including an affordance to move seamlessly to Picture-in-Picture for video content.</p>\n<p>\u2022 We've fixed a bug that broke how ESC exits full screen when \"Prefer Websites\" was selected in Preferences.</p>\n<p>\u2022 When PiP windows are selected, you can now seek / skip via left / right arrow keys, and play / pause via spacebar.</p>\n<p>\u2022 \"Archive Below\" in the Right Click Menu for Tabs is now available for Split View.</p>\n<p>\u2022 We've improved the UX of Arc Max Ask on Page for multiple queries.</p>\n<p>\u2022 The location to Edit Legacy Boosts has been moved to Extensions &gt; Edit Legacy Boosts in the Mac Menu Bar.</p>\n<p>\u2022 When closing a completely empty Arc Note, we now delete it fully instead storing it in the Archive.</p>\n<p>\u2022 We've fixed an issue that caused text cursors within websites to disappear.</p>\n<p>\u2022 We've fixed an issue that could sometimes cause signing into the Google Calendar preview to fail.</p>\n</blockquote>\n<p><strong>Manual Download Link:</strong>\nhttps://releases.arc.net/release/Arc-1.14.0-42789.zip</p>\n<p><strong>Release Notes:</strong>\nhttps://arc.net/release-notes</p>",
-            "date_published": "2023-10-26T14:32:10+00:00",
-            "authors": [
-                {
-                    "name": "JaceThings",
-                    "url": "https://www.reddit.com/user/JaceThings"
                 }
             ]
         }
