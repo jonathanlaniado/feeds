@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "19dkyr6",
+            "url": "/r/MacOS/comments/19dkyr6/after_a_decade_on_safari_ive_switched_back_to/",
+            "external_url": "https://i.redd.it/03jtjp2ow5ec1.png",
+            "title": "after a decade on Safari, I've switched back to Firefox. and it's really good again.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOS/comments/19dkyr6/after_a_decade_on_safari_ive_switched_back_to/'>Winston</a> | <a href='https://reddit.com/r/MacOS/comments/19dkyr6/after_a_decade_on_safari_ive_switched_back_to/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/03jtjp2ow5ec1.png\" />",
+            "date_published": "2024-01-23T09:55:06+00:00",
+            "authors": [
+                {
+                    "name": "Dreaming_Blackbirds",
+                    "url": "https://www.reddit.com/user/Dreaming_Blackbirds"
+                }
+            ]
+        },
+        {
             "id": "19d2lkq",
             "url": "/r/MacOS/comments/19d2lkq/macos_143_is_finally_here_personally_i_had_no/",
             "external_url": "https://i.redd.it/fusxlifqb1ec1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "farhadsalimi",
                     "url": "https://www.reddit.com/user/farhadsalimi"
-                }
-            ]
-        },
-        {
-            "id": "16igkqp",
-            "url": "/r/MacOS/comments/16igkqp/slow_load_times_ruining_my_study_sessions/",
-            "external_url": "https://www.reddit.com/r/MacOS/comments/16igkqp/slow_load_times_ruining_my_study_sessions/",
-            "title": "Slow load times ruining my study sessions.",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/MacOS/comments/16igkqp/slow_load_times_ruining_my_study_sessions/'>Reddit</a></caption><div><br></div><div><p>I\u2019ve been forced to deal with this headache lately, and I'm sure some of you might have faced the same issue. I\u2019m a student, and I rely heavily on quick access to online information for my assignments. Sometimes, I need to dive into academic journals, databases, and research papers, while other times, it's all about accessing videos, course content, quizzes etc.</p>\n<p>To the matter at hand, I think it\u2019s caused by sideloading ads cus some of the sites I frequent are infested by them. And there\u2019s all these videos buffering on every other page which cause interruptions in my work. It's causing me major delays and eating into my study time! I did some research and apparently, browsers prioritize fetching ads before showing the primary content and that was a major wtf for me. So we\u2019re expected to basically stare at a partially loaded page filled with ads while waiting for the actual content? </p>\n<p>I tried looking around, but only found good adblockers for Windows, but since I\u2019m on mac i\u2019m kinda stumped. I've found a few like <a href=\"https://www.purify-app.com/\">Purify</a>, <a href=\"https://apps.apple.com/us/app/adblock-one-tube-ad-blocker/id1491889901\">Ad Block One</a> and <a href=\"https://apps.apple.com/app/apple-store/id1198047227?mt=8\">Magic Lasso</a> but I didn\u2019t see a lot of reviews about them on major sites so I'm a bit skeptical. Pls guide me if one of these or some other ad-blocker is a good choice</p>\n<p>Thanks in advance!</p></div>",
-            "date_published": "2023-09-14T12:02:13+00:00",
-            "authors": [
-                {
-                    "name": "emotional_clearing",
-                    "url": "https://www.reddit.com/user/emotional_clearing"
                 }
             ]
         }
