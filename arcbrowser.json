@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "19drf6z",
+            "url": "/r/ArcBrowser/comments/19drf6z/yesss/",
+            "external_url": "https://i.redd.it/il2j2ue6o7ec1.jpeg",
+            "title": "Yesss!!",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/19drf6z/yesss/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/19drf6z/yesss/'>Reddit</a></caption><div><br></div><p>The long wait is over</p><div><br></div><img src=\"https://i.redd.it/il2j2ue6o7ec1.jpeg\" />",
+            "date_published": "2024-01-23T15:49:45+00:00",
+            "authors": [
+                {
+                    "name": "gutguts",
+                    "url": "https://www.reddit.com/user/gutguts"
+                }
+            ]
+        },
+        {
             "id": "19dp2p7",
             "url": "/r/ArcBrowser/comments/19dp2p7/windows_buddy_day/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/19dp2p7/windows_buddy_day/",
@@ -1386,20 +1400,6 @@
             "title": "\"What's the most annoying workflow that you do on the Desktop Web at least once per week, if not daily? We'll pick a few from the answers to make better in @arcinternet. Examples: \"booking restaurant reservations,\" \"moving data from X tool to Y tool,\" etc.\" \u2013 Josh Miller (@joshm) via X",
             "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/17kwnv3/whats_the_most_annoying_workflow_that_you_do_on/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/17kwnv3/whats_the_most_annoying_workflow_that_you_do_on/'>Reddit</a></caption><div><br></div><div><br></div><blockquote class=\"twitter-tweet\" align=\"center\"><p lang=\"en\" dir=\"ltr\">What&#39;s the most annoying workflow that you do on the Desktop Web at least once per week, if not daily?<br><br>We&#39;ll pick a few from the answers to make better in <a href=\"https://twitter.com/arcinternet?ref_src=twsrc%5Etfw\">@arcinternet</a>. <br><br>Examples: &quot;booking restaurant reservations,&quot; &quot;moving data from X tool to Y tool,&quot; etc.</p>&mdash; Josh Miller (@joshm) <a href=\"https://twitter.com/joshm/status/1719474033580728591?ref_src=twsrc%5Etfw\">October 31, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
             "date_published": "2023-10-31T22:01:39+00:00",
-            "authors": [
-                {
-                    "name": "JaceThings",
-                    "url": "https://www.reddit.com/user/JaceThings"
-                }
-            ]
-        },
-        {
-            "id": "17jvzd2",
-            "url": "/r/ArcBrowser/comments/17jvzd2/announcing_open_source_swift_bindings_generator/",
-            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/17jvzd2/announcing_open_source_swift_bindings_generator/",
-            "title": "Announcing Open Source Swift Bindings Generator for WinRT: Empowering Arc on Windows",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/17jvzd2/announcing_open_source_swift_bindings_generator/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/17jvzd2/announcing_open_source_swift_bindings_generator/'>Reddit</a></caption><div><br></div><p>Hey friends! We're excited to announce we are open sourcing our Swift bindings generator for WinRT  </p>\n<p>This generator is what empowers us to utilize <a href=\"https://twitter.com/WindowsUI\">@WindowsUI</a> and the WindowsAppSDK to build Arc on Windows </p>\n<p>\u27a1\ufe0f Find the code at <a href=\"https://github.com/thebrowsercompany/swift-winrt\">https://github.com/thebrowsercompany/swift-winrt</a></p>\n<p>https://preview.redd.it/cunlez3bycxb1.jpg?width=2623&amp;format=pjpg&amp;auto=webp&amp;s=0ddce9ba1d6d0c3c6b72df7008c0059755b83b66</p>\n<p>Alongside this we're also sharing:  </p>\n<ol>\n<li>\n<p>A post to help orient Swift devs to the world of Windows development &amp; explain the inner workings of the code generator  </p>\n</li>\n<li>\n<p>A full sample app using the Swift/WinRT code generator &amp; WinUI 3 <a href=\"https://t.co/r5U2FsWQfg\">https://github.com/thebrowsercompany/windows-samples</a></p>\n</li>\n</ol>\n<p>https://preview.redd.it/gmccla4gycxb1.png?width=720&amp;format=png&amp;auto=webp&amp;s=7e4616431c35aa95a071717c0765ebb234ea4a07</p>\n<p>WinRT is *the* technology in which all modern Windows APIs are written in. These APIs are written in C++, and we leverage the C interop from Swift in order to generate bindings.</p>\n<p>In follow up posts, we'll be sharing more on how to build a WinUI 3 application in  Swift, end-to-end.  Stay tuned and stay Swifty!  </p>\n<p>\u2013 <a href=\"https://twitter.com/steven_brix\"><strong>Steve Kirbach</strong></a> <strong>(</strong><a href=\"https://twitter.com/steven_brix\">@steven_brix</a>) via X  </p>\n<p><a href=\"https://twitter.com/steven_brix/status/1719011140955750729\">https://twitter.com/steven_brix/status/1719011140955750729</a></p>",
-            "date_published": "2023-10-30T15:26:50+00:00",
             "authors": [
                 {
                     "name": "JaceThings",
