@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "19enncf",
+            "url": "/r/selfhosted/comments/19enncf/winglang_combining_infrastructure_and_runtime/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/19enncf/winglang_combining_infrastructure_and_runtime/",
+            "title": "Winglang: Combining infrastructure and runtime code in one language",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/19enncf/winglang_combining_infrastructure_and_runtime/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/19enncf/winglang_combining_infrastructure_and_runtime/'>Reddit</a></caption><div><br></div><p>Greetings, fellow self-hosters!</p>\n<p>I'm part of a team dedicated to crafting a groundbreaking cloud-oriented programming language called <a href=\"https://github.com/winglang/wing\">Winglang</a>. We are open source and our primary objective is to simplify complexity and accelerate the development process.</p>\n<h2>Accomplishing this Goal</h2>\n<p>There are multiple avenues, and I'll highlight just a few:</p>\n<ul>\n<li><strong>Instant Local Simulation:</strong></li>\n<li>Visualize, debug, and test apps locally without the need for creating cloud mockups.</li>\n<li><strong>Cloud Services Integration:</strong></li>\n<li>Treats cloud services and distributed computing as integral language primitives.</li>\n<li><strong>Cross-Compilation:</strong></li>\n<li>Compiles to JavaScript and IaC (Terraform and Cloudformation), with support for additional provisioning engines in the pipeline.</li>\n<li><strong>Multi-Cloud Support:</strong></li>\n<li>Code compatibility across different clouds such as AWS, GCP, and Azure.</li>\n<li><strong>Least-Privilege IAM Policies:</strong></li>\n<li>The compiler generates IAM policies and other cloud mechanics based on intent.</li>\n<li><a href=\"https://docs.winglang.io/blog/2023/02/17/plugins\"><strong>Compiler Plugins</strong></a><strong>:</strong></li>\n<li>Customize generated infrastructure definitions with ease.</li>\n<li><strong>JavaScript Interoperability:</strong></li>\n<li>Integration with JavaScript.</li>\n<li><strong>Terraform Resource Support:</strong></li>\n<li>Support for any Terraform resource.</li>\n</ul>\n<h2>Exploring the Language</h2>\n<p>Curious about playing with Winglang? Visit our <a href=\"https://www.winglang.io/play/\">playground</a> to experiment with the code and experience the local simulator in action.</p>\n<h2>Self-Hosting Your Winglang App</h2>\n<p><strong>Local Simulation:</strong> Instantly simulate and test your Winglang application locally without the need for creating cloud mocks. Visualize and debug your app in a controlled environment.</p>\n<p><strong>Deploy on Your Infrastructure:</strong> Once satisfied with your app's functionality, deploy it on your infrastructure. This could be your personal server, a cloud instance, or any environment where you have control.</p>\n<h2>Getting Involved</h2>\n<p>Your feedback is invaluable to us, covering every facet of the project. We're actively seeking developers to become part of our community, contributing their expertise to shape the future of Winglang.</p>\n<p>If Winglang intrigues you, a \u2b50\ufe0f on GitHub would mean the world to us. It helps bring the project to the attention of more developers \ud83d\ude4f, and your support is genuinely appreciated!</p>\n<h2>More Information</h2>\n<p>Explore further details, including how to kickstart your journey with Wing and the rationale behind building it as a language, on our GitHub: <a href=\"https://github.com/winglang/wing\">Winglang Repository</a>.</p>",
+            "date_published": "2024-01-24T18:39:03+00:00",
+            "authors": [
+                {
+                    "name": "nate4t",
+                    "url": "https://www.reddit.com/user/nate4t"
+                }
+            ]
+        },
+        {
             "id": "19eedzo",
             "url": "/r/selfhosted/comments/19eedzo/how_the_heck_i_lived_without_it/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/19eedzo/how_the_heck_i_lived_without_it/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Additional-Nerve-421",
                     "url": "https://www.reddit.com/user/Additional-Nerve-421"
-                }
-            ]
-        },
-        {
-            "id": "14cqjeb",
-            "url": "/r/selfhosted/comments/14cqjeb/the_subreddit_will_go_on_the_community_must_be/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/14cqjeb/the_subreddit_will_go_on_the_community_must_be/",
-            "title": "The Subreddit Will Go On - The Community Must Be Put First",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/14cqjeb/the_subreddit_will_go_on_the_community_must_be/'>Reddit</a></caption><div><br></div><div><h3>Hey /r/selfhosted</h3>\n<p>The community has been split on what's next for /r/selfhosted. </p>\n<p>For every good idea on how to replace/move/handle Reddit and its community of devoted users, there are just as many people for it as there are against it. </p>\n<p>I had plans to put up a poll, but enough dissonance and fracturing has been clearly made apparent through just comments and what discussion has been had here and on the discord channel that there's only one way to move forward. </p>\n<h3>The Show Must Go On</h3>\n<p>The moderator team here is a team of <em>Reddit Moderators</em>, and that is what we will continue to be. The community was right, and we have no right as the stewards of this community to withhold its function from its users. </p>\n<p>We tried. We really, really tried, but it's time to move on and continue our efforts. </p>\n<p>For those of you who wish to move to other platforms, we wish you the best of luck! </p>\n<p>As of now, the subreddit has been re-opened and will continue to remain so for the foreseeable future. </p>\n<h3>External Communities And Resources</h3>\n<p>I will link here a series of non-Reddit communities as a starting point for those wishing to leave Reddit and find new homes. We wish you all the best!</p>\n<p><strong>The subreddit now has an official discourse instance, thanks to a generous discord user</strong></p>\n<ul>\n<li>https://forum.r-selfhosted.com</li>\n</ul>\n<p>If you know of a community that is a good fit here, please comment and I will add it here.</p>\n<ul>\n<li>The Official <a href=\"https://discord.gg/UrZKzYZfcS\">Discord Server</a></li>\n<li>The Official <a href=\"https://matrix.to/#/#selfhosted:selfhosted.chat\">Matrix Server</a></li>\n<li>Lemmy.ML <a href=\"https://lemmy.ml/c/selfhost\">SelfHosted Channel</a></li>\n<li><a href=\"https://homelabforum.com/\">Homelab Forum</a> - Curated by /u/caponate</li>\n<li>Lemmy.world <a href=\"https://lemmy.world/c/selfhosted\">Selfhosted Channel</a></li>\n<li>The Squabbles.io <a href=\"https://squabbles.io/s/selfhosted\">selfhosted community</a></li>\n<li>kbin.social <a href=\"https://kbin.social/m/selfhosted\">selfhosted community</a></li>\n</ul>\n<p>I am sorry, /r/selfhosted. We really, really did try.</p></div>",
-            "date_published": "2023-06-18T17:51:21+00:00",
-            "authors": [
-                {
-                    "name": "kmisterk",
-                    "url": "https://www.reddit.com/user/kmisterk"
                 }
             ]
         }
