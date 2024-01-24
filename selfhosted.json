@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "19eedzo",
+            "url": "/r/selfhosted/comments/19eedzo/how_the_heck_i_lived_without_it/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/19eedzo/how_the_heck_i_lived_without_it/",
+            "title": "How the heck i lived without it",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/19eedzo/how_the_heck_i_lived_without_it/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/19eedzo/how_the_heck_i_lived_without_it/'>Reddit</a></caption><div><br></div><p>Just wanted ti share my new favorite app to self host, nothing hard is just a docker plug and play.\nHave you ever used wetransfer? As always limits for free use, privacy etc etc\u2026 i found send, the foss and self hosted version and it is amazing, having linux/windows/mac system is a pain in the ads while sharing files and yes i could do samba but i need something faster for simple file sharing between devices in my home network. Clone the repo -&gt; docker compose up -d and you are ready to go.\nDon\u2019t really know why i\u2019m excited for this but maybe someone need the same \ud83d\ude02</p>\n<p>https://gitlab.com/timvisee/send</p>",
+            "date_published": "2024-01-24T10:50:47+00:00",
+            "authors": [
+                {
+                    "name": "Flowrome",
+                    "url": "https://www.reddit.com/user/Flowrome"
+                }
+            ]
+        },
+        {
             "id": "19cw3io",
             "url": "/r/selfhosted/comments/19cw3io/taipy_streamlit_alternative_build_data_ai_apps/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/19cw3io/taipy_streamlit_alternative_build_data_ai_apps/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "kmisterk",
                     "url": "https://www.reddit.com/user/kmisterk"
-                }
-            ]
-        },
-        {
-            "id": "16ss2bt",
-            "url": "/r/selfhosted/comments/16ss2bt/youtubers_focused_on_selfhosted_solutions/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/16ss2bt/youtubers_focused_on_selfhosted_solutions/",
-            "title": "YouTubers focused on self-hosted solutions",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16ss2bt/youtubers_focused_on_selfhosted_solutions/'>Reddit</a></caption><div><br></div><div><p>Does anyone have favorite YouTubers they watch for content related to self-hosted solutions? We want to find a few to partner with to promote self-hosted file-sharing products and are especially interested in who this group pays attention to.</p></div>",
-            "date_published": "2023-09-26T16:06:51+00:00",
-            "authors": [
-                {
-                    "name": "thorntech",
-                    "url": "https://www.reddit.com/user/thorntech"
                 }
             ]
         }
