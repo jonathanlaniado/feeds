@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "19fji48",
+            "url": "/r/macapps/comments/19fji48/i_made_a_fun_web_page_that_mimics_macos_sonoma/",
+            "external_url": "https://v.redd.it/n8rnufnlfnec1",
+            "title": "I made a fun web page that mimics macOS Sonoma",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/19fji48/i_made_a_fun_web_page_that_mimics_macos_sonoma/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/19fji48/i_made_a_fun_web_page_that_mimics_macos_sonoma/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-01-25T20:50:45+00:00",
+            "authors": [
+                {
+                    "name": "onmyway133",
+                    "url": "https://www.reddit.com/user/onmyway133"
+                }
+            ]
+        },
+        {
             "id": "19eoxzd",
             "url": "/r/macapps/comments/19eoxzd/do_you_have_a_habit_of_supporting_the_developers/",
             "external_url": "https://www.reddit.com/r/macapps/comments/19eoxzd/do_you_have_a_habit_of_supporting_the_developers/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "formeranomaly",
                     "url": "https://www.reddit.com/user/formeranomaly"
-                }
-            ]
-        },
-        {
-            "id": "170eoxu",
-            "url": "/r/macapps/comments/170eoxu/recordia_quickly_record_audio_from_the_menu_bar/",
-            "external_url": "https://apps.apple.com/app/id1529006487",
-            "title": "Recordia \u2014 Quickly record audio from the menu bar (Now free)",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/170eoxu/recordia_quickly_record_audio_from_the_menu_bar/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/170eoxu/recordia_quickly_record_audio_from_the_menu_bar/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-10-05T10:41:42+00:00",
-            "authors": [
-                {
-                    "name": "sindresorhus",
-                    "url": "https://www.reddit.com/user/sindresorhus"
                 }
             ]
         }
