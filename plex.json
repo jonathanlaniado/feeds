@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1ad3n84",
+            "url": "/r/PleX/comments/1ad3n84/i_got_greedy_and_upgraded_my_library_to_4k_and/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/1ad3n84/i_got_greedy_and_upgraded_my_library_to_4k_and/",
+            "title": "I got greedy and upgraded my Library to 4k and now I need more power",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1ad3n84/i_got_greedy_and_upgraded_my_library_to_4k_and/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1ad3n84/i_got_greedy_and_upgraded_my_library_to_4k_and/'>Reddit</a></caption><div><br></div><p>So I have an old PC that I have been using for Plex Media server. Around 60TB library. </p>\n<p>It has worked great for me and my family until last week I started upgrading media to 4k and now CPU is always 90-100% and yesterday only 2 users where watching and Plex was doing some media work in the background resulting in errors for viewer that movie stopped and they could not reach the server. </p>\n<p>Ideally I want to be able to have 5-8 connections at the same time. What GPU do I need for that? </p>\n<p>I currently have I7-2600 and 16gb RAM and no GPU. Advise needed.</p>",
+            "date_published": "2024-01-28T14:19:07+00:00",
+            "authors": [
+                {
+                    "name": "GunGun-Iceland",
+                    "url": "https://www.reddit.com/user/GunGun-Iceland"
+                }
+            ]
+        },
+        {
             "id": "1acf92e",
             "url": "/r/PleX/comments/1acf92e/mandatary_post_that_ive_reached_1k_movies/",
             "external_url": "https://i.redd.it/smtxueijj0fc1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Sgorilla",
                     "url": "https://www.reddit.com/user/Sgorilla"
-                }
-            ]
-        },
-        {
-            "id": "10xjfzj",
-            "url": "/r/PleX/comments/10xjfzj/for_the_love_of_god_please_watch_something_else/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/10xjfzj/for_the_love_of_god_please_watch_something_else/",
-            "title": "For the love of God, please watch something else.",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/10xjfzj/for_the_love_of_god_please_watch_something_else/'>Reddit</a></caption><div><br></div><div><p>I have been curating my Plex server for years. My collection even further back(XBMC). I painstakingly go through the posters and cover art to make sure they are nice. I update files to better quality ones to keep up with better displays. Add interesting content as I find it. Content from multiple decades(1970s-current). You all know the drill.</p>\n<p>So with upgraded internet connection, I can finally start to watch Plex outside of my home. It is a burden of living well into the country side(services lag behind). So my wife offers one of her friends access to Plex. I don't take issue with it. In all honesty, I didn't mind load testing it. I wanted to experiment.</p>\n<p>This woman has watched Jaws 21 times in 30 days. I can't wrap my head around that. I like certain movies as well but damn not that much.</p></div>",
-            "date_published": "2023-02-09T02:59:19+00:00",
-            "authors": [
-                {
-                    "name": "chaotic_zx",
-                    "url": "https://www.reddit.com/user/chaotic_zx"
                 }
             ]
         }
