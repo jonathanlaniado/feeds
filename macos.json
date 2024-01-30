@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "1aenvin",
+            "url": "/r/MacOS/comments/1aenvin/til_macos_has_a_summarise_service_system/",
+            "external_url": "https://v.redd.it/sdnmifr9skfc1",
+            "title": "TIL MacOS has a Summarise Service (System Preferences -> Keyboard -> Keyboard Shortcuts -> Services -> Text -> Summarise)",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOS/comments/1aenvin/til_macos_has_a_summarise_service_system/'>Winston</a> | <a href='https://reddit.com/r/MacOS/comments/1aenvin/til_macos_has_a_summarise_service_system/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-01-30T13:01:18+00:00",
+            "authors": [
+                {
+                    "name": "TwelveFoxes",
+                    "url": "https://www.reddit.com/user/TwelveFoxes"
+                }
+            ]
+        },
+        {
             "id": "1adbn37",
             "url": "/r/MacOS/comments/1adbn37/what_is_the_best_parallels_alternativepaid_or_free/",
             "external_url": "https://i.redd.it/kqiz13a7m8fc1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "coolspvce",
                     "url": "https://www.reddit.com/user/coolspvce"
-                }
-            ]
-        },
-        {
-            "id": "16shxzl",
-            "url": "/r/MacOS/comments/16shxzl/ran_first_aid_twice_on_external_hard_drive_two/",
-            "external_url": "https://imgur.com/a/rK8XX0a",
-            "title": "Ran first aid twice on external hard drive, two different results, how bad is it ?",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/MacOS/comments/16shxzl/ran_first_aid_twice_on_external_hard_drive_two/\">Reddit</a></caption><div><br></div><img src=\"https://i.imgur.com/a/rK8XX0a.jpg\" />",
-            "date_published": "2023-09-26T08:27:32+00:00",
-            "authors": [
-                {
-                    "name": "Heavy-Diver",
-                    "url": "https://www.reddit.com/user/Heavy-Diver"
                 }
             ]
         }
