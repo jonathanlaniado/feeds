@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1af5vy1",
+            "url": "/r/PleX/comments/1af5vy1/plex_announces_a_new_primary_metadata_source_for/",
+            "external_url": "https://forums.plex.tv/t/movie-artwork-updates/867738",
+            "title": "Plex announces a new primary metadata source for images which \"should improve the quality of the posters we use, especially for lesser known titles in our metadata catalog.\"",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1af5vy1/plex_announces_a_new_primary_metadata_source_for/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1af5vy1/plex_announces_a_new_primary_metadata_source_for/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-01-31T01:45:55+00:00",
+            "authors": [
+                {
+                    "name": "shiruken",
+                    "url": "https://www.reddit.com/user/shiruken"
+                }
+            ]
+        },
+        {
             "id": "1aepwxm",
             "url": "/r/PleX/comments/1aepwxm/streaming_media_company_plex_raises_40m_as_it/",
             "external_url": "https://techcrunch.com/2024/01/29/streaming-media-company-plex-raises-new-funds-as-it-nears-profitability/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "finnbroreddit",
                     "url": "https://www.reddit.com/user/finnbroreddit"
-                }
-            ]
-        },
-        {
-            "id": "113cehh",
-            "url": "/r/PleX/comments/113cehh/introducing_skip_credits/",
-            "external_url": "https://www.plex.tv/blog/let-the-next-episode-roll/",
-            "title": "Introducing Skip Credits",
-            "content_html": "<caption>Open: <a href='https://www.plex.tv/blog/let-the-next-episode-roll/'>www.plex.tv</a> | <a href='https://reddit.com/r/PleX/comments/113cehh/introducing_skip_credits/'>Reddit</a></caption>",
-            "date_published": "2023-02-15T23:52:56+00:00",
-            "authors": [
-                {
-                    "name": "jyggen",
-                    "url": "https://www.reddit.com/user/jyggen"
                 }
             ]
         }
