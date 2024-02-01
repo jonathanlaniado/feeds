@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1agh494",
+            "url": "/r/ArcBrowser/comments/1agh494/act_ii_of_arc_browser/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1agh494/act_ii_of_arc_browser/",
+            "title": "Act II of Arc Browser",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1agh494/act_ii_of_arc_browser/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1agh494/act_ii_of_arc_browser/'>Reddit</a></caption><div><br></div><p>What are everyone\u2019s thoughts??</p>",
+            "date_published": "2024-02-01T17:57:44+00:00",
+            "authors": [
+                {
+                    "name": "laufeyrand",
+                    "url": "https://www.reddit.com/user/laufeyrand"
+                }
+            ]
+        },
+        {
             "id": "1adv11h",
             "url": "/r/ArcBrowser/comments/1adv11h/lets_try_replacing_chrome/",
             "external_url": "https://i.redd.it/z5hyx8gwpdfc1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "kauelima",
                     "url": "https://www.reddit.com/user/kauelima"
-                }
-            ]
-        },
-        {
-            "id": "17nfic2",
-            "url": "/r/ArcBrowser/comments/17nfic2/three_dots_at_the_topright_disappeared/",
-            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/17nfic2/three_dots_at_the_topright_disappeared/",
-            "title": "Three dots at the top-right disappeared",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/17nfic2/three_dots_at_the_topright_disappeared/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/17nfic2/three_dots_at_the_topright_disappeared/'>Reddit</a></caption><div><br></div><p>It just suddenly disappeared and restarting Arc doesn't help.  </p>\n<p>Is that intended with the new update? Or is that a bug? I personally want that menu back</p>\n<p>https://preview.redd.it/690z2sf7x9yb1.jpg?width=186&amp;format=pjpg&amp;auto=webp&amp;s=c0209e88c7297ac5c7beb80b78ef2136f7a276f7</p>",
-            "date_published": "2023-11-04T06:19:57+00:00",
-            "authors": [
-                {
-                    "name": "shizanuti_arm",
-                    "url": "https://www.reddit.com/user/shizanuti_arm"
                 }
             ]
         }
