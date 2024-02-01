@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1afwkbq",
+            "url": "/r/macapps/comments/1afwkbq/using_pocket_on_web_heres_a_native_macos_client/",
+            "external_url": "https://i.redd.it/x324a4cz2vfc1.png",
+            "title": "Using Pocket on web? here\u2019s a native macOS client.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1afwkbq/using_pocket_on_web_heres_a_native_macos_client/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1afwkbq/using_pocket_on_web_heres_a_native_macos_client/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/x324a4cz2vfc1.png\" />",
+            "date_published": "2024-01-31T23:45:45+00:00",
+            "authors": [
+                {
+                    "name": "narcomo",
+                    "url": "https://www.reddit.com/user/narcomo"
+                }
+            ]
+        },
+        {
             "id": "19fji48",
             "url": "/r/macapps/comments/19fji48/i_made_a_fun_web_page_that_mimics_macos_sonoma/",
             "external_url": "https://v.redd.it/n8rnufnlfnec1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "empty23_",
                     "url": "https://www.reddit.com/user/empty23_"
-                }
-            ]
-        },
-        {
-            "id": "170vhov",
-            "url": "/r/macapps/comments/170vhov/streaming_virtual_camera_app_for_macos_like_obs/",
-            "external_url": "https://v.redd.it/3cpccq80ngsb1",
-            "title": "Streaming virtual camera app for macOS. Like OBS but with mac native design and APIs. Drag and drop images onto the camera, selective screen share, browser overlay, text, shapes, fps, vertical videos, multi cam, edit stopped camera view, sonoma presenter view and more! Live on the App Store.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/170vhov/streaming_virtual_camera_app_for_macos_like_obs/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/170vhov/streaming_virtual_camera_app_for_macos_like_obs/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-10-05T22:29:12+00:00",
-            "authors": [
-                {
-                    "name": "formeranomaly",
-                    "url": "https://www.reddit.com/user/formeranomaly"
                 }
             ]
         }
