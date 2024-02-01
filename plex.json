@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1agl92g",
+            "url": "/r/PleX/comments/1agl92g/the_new_posters_are_almost_entirely_worse/",
+            "external_url": "https://www.reddit.com/gallery/1agl92g",
+            "title": "The new posters are almost entirely worse.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1agl92g/the_new_posters_are_almost_entirely_worse/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1agl92g/the_new_posters_are_almost_entirely_worse/'>Reddit</a></caption><div><br></div><p>I knew Plex was changing it's source for movie posters and I thought it would be a neat but non-essential thing they're doing but god I didn't think it would be this bad. It makes every movie in my library look like straight to video Stephen King films. Literally every film that I hadn't changed myself previously now has the worst posters I've ever seen. This is page 40 of postersdb level.</p>\n<p>I have to go through almost every movie in my library apart from the ones I changed myself and change them one by one. What a goof up. Some of them are in other languages than the films they're off. Is anybody reeling from this?</p>",
+            "date_published": "2024-02-01T20:49:53+00:00",
+            "authors": [
+                {
+                    "name": "raphdonniemikeyleo",
+                    "url": "https://www.reddit.com/user/raphdonniemikeyleo"
+                }
+            ]
+        },
+        {
             "id": "1aggj0s",
             "url": "/r/PleX/comments/1aggj0s/converting_to_h265_with_unmanic_was_beneficial_i/",
             "external_url": "https://i.redd.it/gwvmaihfe0gc1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "knox902",
                     "url": "https://www.reddit.com/user/knox902"
-                }
-            ]
-        },
-        {
-            "id": "12dy7hv",
-            "url": "/r/PleX/comments/12dy7hv/announcement_open_source_plex_api_documentation/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/12dy7hv/announcement_open_source_plex_api_documentation/",
-            "title": "Announcement | Open Source Plex API Documentation | Plex-Docs",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/12dy7hv/announcement_open_source_plex_api_documentation/'>Reddit</a></caption><div><br></div><div><p>Hey Everyone!</p>\n<p>&#x200B;</p>\n<p>I wanted to share something I've been working on to try and improve the Plex Developer Experience.</p>\n<p>Here is <a href=\"https://plex-docs.vercel.app\">Plex-Docs</a></p>\n<p>It is an <a href=\"https://github.com/LukeHagar/plex-docs\">open source docusaurus website</a> with API documentation generated from an <a href=\"https://github.com/LukeHagar/plex-api-spec\">OpenAPI Specification</a>.</p>\n<p>&#x200B;</p>\n<p>I'm very excited to share this with everyone, I hope someone finds this useful, and I will continue adding everything I can to improve the documentation further.</p>\n<p>An announcement detailing things further can be found <a href=\"https://plex-docs.vercel.app/blog/Announcment\">here</a>.</p>\n<p>A big thank you to Elan, the CTO at Plex for sharing <a href=\"https://plex-docs.vercel.app/docs/legacy\">some markdown files</a> that have given me a very solid starting point to begin writing the specification, and a pretty great picture of how some of the endpoints operate.</p>\n<p>&#x200B;</p>\n<p>Thanks everyone, be good people.</p></div>",
-            "date_published": "2023-04-06T21:13:06+00:00",
-            "authors": [
-                {
-                    "name": "LukeHagar",
-                    "url": "https://www.reddit.com/user/LukeHagar"
                 }
             ]
         }
