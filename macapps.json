@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1ah29as",
+            "url": "/r/macapps/comments/1ah29as/a_minimalistic_image_viewing_app_with_clean/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1ah29as/a_minimalistic_image_viewing_app_with_clean/",
+            "title": "A minimalistic image viewing app with clean design - Picview",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1ah29as/a_minimalistic_image_viewing_app_with_clean/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1ah29as/a_minimalistic_image_viewing_app_with_clean/'>Reddit</a></caption><div><br></div><p>Hey everyone,</p>\n<p>Picview has been live for 5 months now and is around 1000 daily active users. I know there is still a lot of room for improvement, but it has definitely become more stable over time.</p>\n<p>Picview is a simple image viewer that supports opening photos with a double click, then using arrow keys to flip through images or scrolling with your mouse wheel to zoom. The user experience has a very Windows-like feel and makes viewing photos more convenient than the native options.</p>\n<p>It supports over 30 file formats including PNG, JPG, WEBP and CR3. Viewing features include automatically scrolling long images into view and providing features like image slideshows, fullscreen immersive viewing.</p>\n<p>Picview is free to download and use from the App Store. Users can access all of Picview's features without limits, except they will be prompted to purchase after reaching a daily usage amount. Of course, you can choose not to buy and continue using.</p>\n<p>Recently, I increased the one-time purchase price of Picview from $2 to $5. I'm not sure if this was the right decision.</p>\n<p>If you have some time and want to spend a relaxing moment enjoying photo memories, you can try out Picview and leave some feedback.</p>\n<p><a href=\"https://apps.apple.com/us/app/picview-image-viewer/id6452016140\">https://apps.apple.com/us/app/picview-image-viewer/id6452016140</a></p>\n<p><a href=\"https://enpicview.chitaner.com\">https://enpicview.chitaner.com</a></p>\n<p><a href=\"https://preview.redd.it/vz45hjssx5gc1.jpg?width=1500&amp;format=pjpg&amp;auto=webp&amp;s=3fbe5b2475a25cf317c702b070c452684e05ca2f\">mouse zoom</a></p>\n<p><a href=\"https://preview.redd.it/nitz1c4xx5gc1.jpg?width=1500&amp;format=pjpg&amp;auto=webp&amp;s=33ae5fe533028b10e00377d860247b4e06d6f163\">mouse page</a></p>\n<p><a href=\"https://preview.redd.it/gpkbaxc0y5gc1.jpg?width=1500&amp;format=pjpg&amp;auto=webp&amp;s=d8cf2fda021cd2bf12e881190ea6f42288c6bb13\">Long image</a></p>\n<p>&#x200B;</p>",
+            "date_published": "2024-02-02T12:12:24+00:00",
+            "authors": [
+                {
+                    "name": "coolnull",
+                    "url": "https://www.reddit.com/user/coolnull"
+                }
+            ]
+        },
+        {
             "id": "1afwkbq",
             "url": "/r/macapps/comments/1afwkbq/using_pocket_on_web_heres_a_native_macos_client/",
             "external_url": "https://i.redd.it/x324a4cz2vfc1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "mikedeliv",
                     "url": "https://www.reddit.com/user/mikedeliv"
-                }
-            ]
-        },
-        {
-            "id": "171anmt",
-            "url": "/r/macapps/comments/171anmt/sidebar_your_new_favourite_dock_replacement_for/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/171anmt/sidebar_your_new_favourite_dock_replacement_for/",
-            "title": "Sidebar - Your new favourite Dock replacement for Mac (Update)",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/171anmt/sidebar_your_new_favourite_dock_replacement_for/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/171anmt/sidebar_your_new_favourite_dock_replacement_for/'>Reddit</a></caption><div><br></div><p>Hi everyone,</p>\n<p>Sidebar is a modern Dock replacement for MacOS. Just wanted to share that a new major version (1.4.0) has just been released.</p>\n<p>Here are some key features that were added recently:</p>\n<ul>\n<li><strong>Dynamic Views</strong>: Introducing Dynamic Views for Spotify and Apple Music. You can now control your favourite music player directly from Sidebar</li>\n<li><strong>Application Stacks &amp; Areas</strong>: You can now add applications to a stack to save some space on your Sidebar. Also, Sidebar now supports assigning applications to a specific area to organise your applications (left, middle or right), along with the ability to add spacers in between</li>\n<li><strong>Custom Icons</strong>: You can now customise all icons for applications, links and stacks. Choose whatever icon you prefer to customise Sidebar even further</li>\n<li><strong>Better context menu</strong>: Context menu items have been enhanced for Apple Music, Spotify, Finder, Safari, Chrome, Firefox, Edge and Arc so that you can now quickly access the most useful functions directly from the context menu</li>\n<li><strong>Feature enhancements</strong>: Features such as the calendar, styling options or trash bin support that have already been included in previous releases have been enhanced</li>\n<li><strong>Optimisation &amp; bug fixes</strong>: Of course a lot of bug and issues have been fixed again. Overall performance has been improved as well</li>\n</ul>\n<p>For a full list of features added and bugs fixed have a look at the roadmap at\u00a0<a href=\"https://sidebarapp.net/roadmap/#changelog\">https://sidebarapp.net/roadmap/#changelog</a></p>\n<p>As like with every major release I want to give everyone who has previously tried the app before, the chance to try it again. Therefore, <strong>all previous trial licenses have been reseted</strong>. You can just request your new trial from within the app.</p>\n<p><strong>To celebrate the launch of this major release you can also enjoy a 30% off all licenses right now. The sale is valid until October 20th!</strong></p>\n<p>Check out Sidebar at\u00a0<a href=\"https://sidebarapp.net/\">https://sidebarapp.net/</a></p>\n<p>I\u2019m happy to support you with any questions, problems, bug reports, feature requests etc :)</p>",
-            "date_published": "2023-10-06T12:09:52+00:00",
-            "authors": [
-                {
-                    "name": "empty23_",
-                    "url": "https://www.reddit.com/user/empty23_"
                 }
             ]
         }
