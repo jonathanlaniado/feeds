@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "1ah7kwy",
+            "url": "/r/MacOS/comments/1ah7kwy/my_personal_take_on_must_have_apps_for_macos/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/1ah7kwy/my_personal_take_on_must_have_apps_for_macos/",
+            "title": "My personal take on must have apps for MacOS",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOS/comments/1ah7kwy/my_personal_take_on_must_have_apps_for_macos/'>Winston</a> | <a href='https://reddit.com/r/MacOS/comments/1ah7kwy/my_personal_take_on_must_have_apps_for_macos/'>Reddit</a></caption><div><br></div><p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/k2f8lb5227gc1.png?width=2546&amp;format=png&amp;auto=webp&amp;s=32bb88591ac7c7d1ab6e2f68436561616f0c6627\">After a few years of using MacOS (I always used Windows), these are my most liked utilities and apps to improve the capabilities or fix issues of the OS.</a></p>\n<ul>\n<li><strong>HoudahSpot</strong>, lets you search files in the finder like the Finder app but with advanced capabilities</li>\n<li><strong>AltTab</strong>, it displays every window opened by doing the option+tab shortcut, like Alt+tab in WindowsOS</li>\n<li><strong>TimeMachineEditor</strong>, you can decide how many Time Machine backups and at what time per day you want them </li>\n<li><strong>BetterMouse</strong>, basically a driver for \"fixing\" MacOS management on external mice that aren't Apple's own</li>\n<li><strong>Bartender 5</strong>, lets you collapse any icon you want on the menu bar (very useful if you have this much utilities)</li>\n<li><strong>MacMediaKeyForwarder</strong>, lets you decide if the \"play\" button on the keyboard is set to open Apple Music or Spotify, instead of always being binded to Apple Music</li>\n<li><strong>Boom 3D</strong>, long story short my new shiny and pricey Macbook sounded muffled and it looks like it's an issue of Apple wanting to boost bass by default on M-Pros Macbooks, this is an amazing equalizer that sets up by itself</li>\n<li><strong>Recording Indicator Utility</strong>, installed just because to work, Boom 3D needs to access the microphone so the orange mic indicator is always turned on, this utility turns it off</li>\n<li><strong>Pinch</strong>, if you have problems with Pinch to zoom gesture, this utility resets it</li>\n<li><strong>Stats</strong>, lets you look at how much RAM and other geek stuff is being used</li>\n<li><strong>Amphetamine</strong>, the Mac will never go into sleep mode</li>\n<li><strong>Command X</strong>, literally what it says, copies and pastes everything \"deleting\" (or moving) the source file or text, so you don't have to delete it yourself afterwards</li>\n<li><strong>Paste</strong>, keeps an history of your copied-in-the-clipboard stuff and lets you copy it again</li>\n<li><strong>BatFi</strong>, keeps track of battery's health and everything, like Stats can do but better</li>\n<li><strong>AppCleaner</strong>, instead of using command+delete for uninstalling apps, this removes every file associated with it</li>\n<li><strong>MediaMate</strong>, cool iOS-like animations for volume and brightness, fully customizable, also has a notch animation for play/pause on music apps</li>\n<li><strong>SpotifyMain</strong>, a little widget for your desktop to keep track of what you're currently listening on Spotify (I know sounds weird but the Spotify app doesn't have a Mac widget)</li>\n<li><strong>The Unarchiver</strong>, like WinRAR for Windows, lets you zip and unzip everything</li>\n<li><strong>HandBrake</strong>, lets you compress videos in almost every file format and with minimum quality loss</li>\n<li><strong>IINA</strong>, media player faster than the integrated one</li>\n<li><strong>OnyX</strong>, general maintenance of the system, I run it every once in a while to make sure everything is ok on my Mac</li>\n<li><strong>MonitorControl</strong>, lets you control the brightness of an external monitor, also has the option to adjust it automatically based on the MacBook's auto brightness</li>\n<li><strong>Alfred 5</strong>, MacOS Spotlight on steroids </li>\n<li><strong>Permute 3</strong>, convert files in batch, very useful</li>\n<li><strong>Arc</strong>, bonus utility since it's not an utility but a really cool browser, been using it since the first beta, useful if you work with your Mac and want separate profiles for your daily and working life, it works  better than Chrome and any other browser currently on the web </li>\n</ul>\n<p>&#x200B;</p>\n<p>These were my must have apps on the Mac, if you have suggestions or anything else just let me know :)</p>",
+            "date_published": "2024-02-02T16:23:38+00:00",
+            "authors": [
+                {
+                    "name": "diengar",
+                    "url": "https://www.reddit.com/user/diengar"
+                }
+            ]
+        },
+        {
             "id": "1agb8p4",
             "url": "/r/MacOS/comments/1agb8p4/unrelated_to_this_sub_microsoft_aggressively/",
             "external_url": "https://i.redd.it/z6fu4sf20pfc1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "longhornxp2003",
                     "url": "https://www.reddit.com/user/longhornxp2003"
-                }
-            ]
-        },
-        {
-            "id": "16shfkg",
-            "url": "/r/MacOS/comments/16shfkg/what_is_this_icon_on_my_menu_bar_mac_os_1013/",
-            "external_url": "https://i.redd.it/53g436hs2kqb1.jpg",
-            "title": "What is this icon on my menu bar? Mac OS 10.13",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/MacOS/comments/16shfkg/what_is_this_icon_on_my_menu_bar_mac_os_1013/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/53g436hs2kqb1.jpg\" />",
-            "date_published": "2023-09-26T07:54:11+00:00",
-            "authors": [
-                {
-                    "name": "ChewingOldGum",
-                    "url": "https://www.reddit.com/user/ChewingOldGum"
                 }
             ]
         }
