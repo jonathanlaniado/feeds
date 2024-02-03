@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1ahsex1",
+            "url": "/r/macapps/comments/1ahsex1/i_created_a_multiplatform_extension_to_hide/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1ahsex1/i_created_a_multiplatform_extension_to_hide/",
+            "title": "I created a multi-platform extension to hide distractions on top of social media platforms such as Reddit, Facebook, Instagram, YouTube, LinkedIn, Twitter and more.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1ahsex1/i_created_a_multiplatform_extension_to_hide/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1ahsex1/i_created_a_multiplatform_extension_to_hide/'>Reddit</a></caption><div><br></div><p>With SocialFocus, you can customize your browsing experience by selectively hiding distracting elements on popular time-wasters. It offers over 115 options to tailor your experience, making it both productive and undistracted. </p>\n<p>Additionally, it includes auxiliary functions such as password protection and launch tweaks to shield you from compulsive attempts to change something back.</p>\n<p>Available for all browser and devices.</p>\n<p>You can check it here: <a href=\"https://socialfocus.app\">https://socialfocus.app</a></p>",
+            "date_published": "2024-02-03T09:33:26+00:00",
+            "authors": [
+                {
+                    "name": "f00barbuz",
+                    "url": "https://www.reddit.com/user/f00barbuz"
+                }
+            ]
+        },
+        {
             "id": "1ah29as",
             "url": "/r/macapps/comments/1ah29as/a_minimalistic_image_viewing_app_with_clean/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1ah29as/a_minimalistic_image_viewing_app_with_clean/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "0xCUBE",
                     "url": "https://www.reddit.com/user/0xCUBE"
-                }
-            ]
-        },
-        {
-            "id": "1720oz6",
-            "url": "/r/macapps/comments/1720oz6/notionlike_app_that_isnt_electron_based/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1720oz6/notionlike_app_that_isnt_electron_based/",
-            "title": "Notion-like app that isn't electron based?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/1720oz6/notionlike_app_that_isnt_electron_based/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/1720oz6/notionlike_app_that_isnt_electron_based/'>Reddit</a></caption><div><br></div><p>I use notion databases to create question banks for studying for exams, because adding tags and filtering by them is very easy, and each entry in the db creates its own nested page where I can write down notes. </p>\n<p>The problem is Notion sucks. Its native macOS \u201capp\u201d is just an electron wrapper which is slow and sluggish, littered with annoyances (plus that everything is \"on the cloud\" but that's another story), but the <em>worst</em> part for me is that autocorrect/spellcheck doesn\u2019t work at all, and that is common to all electron apps for macOS.</p>\n<p>So, is there an alternative that replicates notion\u2019s databases, markdown and links but with a native mac app instead of electron? Obsidian and joplin and a few others I\u2019ve seen are all electron apps, so they have the same issue. </p>",
-            "date_published": "2023-10-07T07:54:26+00:00",
-            "authors": [
-                {
-                    "name": "mikedeliv",
-                    "url": "https://www.reddit.com/user/mikedeliv"
                 }
             ]
         }
