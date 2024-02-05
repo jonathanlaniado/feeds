@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1ajj9m4",
+            "url": "/r/shortcuts/comments/1ajj9m4/made_an_emergency_location_share_shortcut/",
+            "external_url": "https://www.reddit.com/gallery/1ajj9m4",
+            "title": "Made an Emergency Location Share shortcut!",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1ajj9m4/made_an_emergency_location_share_shortcut/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1ajj9m4/made_an_emergency_location_share_shortcut/'>Reddit</a></caption><div><br></div><p>This shortcut allows you to send out an emergency alert message with your current location (not live location sharing, only the location at the time of sending).</p>\n<p>Address is provided, a maps URL as fallback and for convenience, lastly the Latitude and longitude as a last resort in case the previous ones failed. </p>\n<p>After installing, please test run the shortcut to grant all the permissions needed.</p>\n<p>https://www.icloud.com/shortcuts/7f56a80c4fea4dd6ab0eda18df3937cb</p>",
+            "date_published": "2024-02-05T15:33:46+00:00",
+            "authors": [
+                {
+                    "name": "Own-Cookie-1161",
+                    "url": "https://www.reddit.com/user/Own-Cookie-1161"
+                }
+            ]
+        },
+        {
             "id": "1aj7yx7",
             "url": "/r/shortcuts/comments/1aj7yx7/post_your_action_button_shortcut_menu_ideas_heres/",
             "external_url": "https://i.redd.it/5fdguqxw2pgc1.jpeg",
