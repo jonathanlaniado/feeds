@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1aj6tmp",
+            "url": "/r/macapps/comments/1aj6tmp/macbot_version_20_is_out_now_with_image/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1aj6tmp/macbot_version_20_is_out_now_with_image/",
+            "title": "MacBot Version 2.0 is out, now with image generation and GPT-4 Turbo. We will keep MacBot free for the next 24 hours!",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1aj6tmp/macbot_version_20_is_out_now_with_image/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1aj6tmp/macbot_version_20_is_out_now_with_image/'>Reddit</a></caption><div><br></div><p>Hey r/macapps!</p>\n<p>For everyone who has tried our app, MacBot, we're extremely grateful for all your support.</p>\n<p>We are now announcing MacBot version 2.0, with a new, native image generation mode using DALL-E 2 and DALL-E 3.</p>\n<p>Since our last post, we have also added the following:</p>\n<ul>\n<li>GPT-4 Turbo</li>\n<li>GPT Temperature Control for controlling creativity</li>\n<li>Spotlight Mode for GPT and Bard</li>\n<li>Markdown Support</li>\n<li>Token Counters and More!</li>\n</ul>\n<p>Azure OpenAI Support is also currently in beta testing.</p>\n<p>If you would like access to the closed beta, please email us at <a href=\"mailto:themacbrogroup@gmail.com\">themacbrogroup@gmail.com</a></p>\n<p>&#x200B;</p>\n<p>Unfortunately, we regret to inform you that MacBot will no longer be available for free. A month in now, we realized that to continue to expand our apps to their very best, it is rather difficult to operate solely on donations. Thank you to everyone who has donated for allowing us to continue the development of MacBot but we feel it's time to transition to any form of monetization to grow The MacBro Group.</p>\n<p>However, MacBot\u2019s new price will be just $2, much cheaper than our competitors.</p>\n<p>And as promised before, you will have lifetime access as well as lifetime updates!</p>\n<p>We will be keeping MacBot free for the next 24 hours!</p>\n<p><a href=\"https://linktr.ee/themacbrogroup?utm_source=linktree_profile_share&amp;ltsid=c40fd462-b1dd-40c7-bc52-9b62ce810476\">Download Here</a></p>",
+            "date_published": "2024-02-05T03:29:18+00:00",
+            "authors": [
+                {
+                    "name": "D_Empire412",
+                    "url": "https://www.reddit.com/user/D_Empire412"
+                }
+            ]
+        },
+        {
             "id": "1ahsex1",
             "url": "/r/macapps/comments/1ahsex1/i_created_a_multiplatform_extension_to_hide/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1ahsex1/i_created_a_multiplatform_extension_to_hide/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "jontelang",
                     "url": "https://www.reddit.com/user/jontelang"
-                }
-            ]
-        },
-        {
-            "id": "172fkxv",
-            "url": "/r/macapps/comments/172fkxv/about_this_hacks_1st_stable_version_is_out/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/172fkxv/about_this_hacks_1st_stable_version_is_out/",
-            "title": "About This Hack's 1st Stable Version is Out!!!!!",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/172fkxv/about_this_hacks_1st_stable_version_is_out/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/172fkxv/about_this_hacks_1st_stable_version_is_out/'>Reddit</a></caption><div><br></div><p>Hey everyone!<br />\nI'd like to share the first stable release of my FOSS (free open-source software) About This Mac clone. Now, you may be asking, what's the point? Check out the GitHub and these pictures and you'll know why...</p>\n<p><a href=\"https://github.com/0xCUB3/About-This-Hack\">https://github.com/0xCUB3/About-This-Hack</a></p>\n<p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/vpehae9k7usb1.png?width=692&amp;format=png&amp;auto=webp&amp;s=245acdd23956e23047c7eb7a930c621c7501b909\">The main supercharged overview page</a></p>\n<p><a href=\"https://preview.redd.it/vswwtk6n7usb1.png?width=1384&amp;format=png&amp;auto=webp&amp;s=bad510314319168028b697fe3368dbc421a9b725\">View multiple displays!</a></p>\n<p><a href=\"https://preview.redd.it/187i7yrr7usb1.png?width=1360&amp;format=png&amp;auto=webp&amp;s=ba4bb8bdb5b7405fd490a9e67d60541ce3729cae\">Up-to-date details on your startup disk</a></p>\n<p><a href=\"https://preview.redd.it/bgyr0fuu7usb1.png?width=476&amp;format=png&amp;auto=webp&amp;s=eb7a1c671ab1dfb0864c95d11e806a6773855c74\">Some stats for nerds \ud83d\ude09</a></p>\n<p><a href=\"https://preview.redd.it/zjfbj4zx7usb1.png?width=589&amp;format=png&amp;auto=webp&amp;s=3548224cc036264b0d9b353be69b7c393f55223f\">...and fret not, as it works on grandma's Mac too!</a></p>\n<p>I've been working hard on this app so I hope you guys enjoy it :)</p>",
-            "date_published": "2023-10-07T20:09:23+00:00",
-            "authors": [
-                {
-                    "name": "0xCUBE",
-                    "url": "https://www.reddit.com/user/0xCUBE"
                 }
             ]
         }
