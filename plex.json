@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1ajszn9",
+            "url": "/r/PleX/comments/1ajszn9/remux_lovers_rejoice_the_coreelec_team_has/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/1ajszn9/remux_lovers_rejoice_the_coreelec_team_has/",
+            "title": "Remux lovers rejoice. The CoreElec team has successfully supported ALL Dolby Vision profiles including P7 FEL. Time to finally replace the Shield Pro 2019!",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1ajszn9/remux_lovers_rejoice_the_coreelec_team_has/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1ajszn9/remux_lovers_rejoice_the_coreelec_team_has/'>Reddit</a></caption><div><br></div><p>Tl;dr: The CoreElec team has added support for ALL dolby vision profiles, including P7 FEL onto their latest stable release. It is the first streaming device to fully support all DV profiles just like a physical UHD player (eg UB820). Kodi add-ons like Plex install as usual. TrueHD and DTS audio are also supported. Buy the Ugoos AM6b+, load up CoreElec onto a microSD card, install the Plex add-on and enjoy. I've completely replaced my Shield Pro 2019 last week and DV remuxes have never looked better.</p>\n<p>Long answer:</p>\n<p>For those that don't know, there is an open source project called \"CoreElec\". The goal of this project was to run Kodi natively on Linux. It is now very mature and about a year ago, the CoreElec team obtained Dolby certification for 2x \"generic\" Android TV streaming boxes. They are the Ugoos AM6b+ and the Minix U22X-J. Since then they've been hard a work adding Dolby Vision playback to the above 2x players.</p>\n<p>The CoreElec team has announced 2x weeks ago that their newest stable release fully plays back ALL Dolby Vision profiles, including P7 FEL flawlessly. These streaming boxes also handle both TrueHD and DTS codecs providing for an ideal Plex/remux experience.</p>\n<p>I personally tested the latest CoreElec release on the Ugoos AM6b+ and it is amazing. Plex is installed onto Kodi via PlexMod4Kodi. No issues playing back any native DV remuxes or hybrid DV remuxes. Support for all lossless audio as well as passthrough. SDR/HDR content plays back as usual.</p>\n<p>This is extremely exciting since this is the first time any streaming player can handle both Plex and P7 FEL marking an significant improvement onto the Shield Pro. </p>\n<p>Most people here won't care. But if you collect remuxes and have a DV enabled panel, upgrading to the Ugoos AM6b+ with CoreElec is - imo - mandatory.</p>",
+            "date_published": "2024-02-05T22:03:16+00:00",
+            "authors": [
+                {
+                    "name": "limitz",
+                    "url": "https://www.reddit.com/user/limitz"
+                }
+            ]
+        },
+        {
             "id": "1aiyf5c",
             "url": "/r/PleX/comments/1aiyf5c/does_anyone_else_equate_their_plex_habits_to/",
             "external_url": "https://www.reddit.com/r/PleX/comments/1aiyf5c/does_anyone_else_equate_their_plex_habits_to/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ChadTheDJ",
                     "url": "https://www.reddit.com/user/ChadTheDJ"
-                }
-            ]
-        },
-        {
-            "id": "12re0uk",
-            "url": "/r/PleX/comments/12re0uk/this_may_not_be_a_big_deal_to_anybody_else_but/",
-            "external_url": "https://i.redd.it/79cwxk038rua1.jpg",
-            "title": "This may not be a big deal to anybody else, but after giving carious friends and family access, someone is finally using my Plex server! (Edited, because I'm an overexcited dumb dumb)",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/PleX/comments/12re0uk/this_may_not_be_a_big_deal_to_anybody_else_but/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/79cwxk038rua1.jpg\" />",
-            "date_published": "2023-04-19T02:43:57+00:00",
-            "authors": [
-                {
-                    "name": "KungfuJesus08",
-                    "url": "https://www.reddit.com/user/KungfuJesus08"
                 }
             ]
         }
