@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1akb9nv",
+            "url": "/r/ArcBrowser/comments/1akb9nv/visionos_arc_browser_concept_by_nikita_belousov/",
+            "external_url": "https://i.redd.it/qana4gld8zgc1.png",
+            "title": "VisionOS Arc browser concept by Nikita Belousov via Dribbble",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1akb9nv/visionos_arc_browser_concept_by_nikita_belousov/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1akb9nv/visionos_arc_browser_concept_by_nikita_belousov/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/qana4gld8zgc1.png\" />",
+            "date_published": "2024-02-06T14:39:49+00:00",
+            "authors": [
+                {
+                    "name": "JaceThings",
+                    "url": "https://www.reddit.com/user/JaceThings"
+                }
+            ]
+        },
+        {
             "id": "1agh494",
             "url": "/r/ArcBrowser/comments/1agh494/act_ii_of_arc_browser/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1agh494/act_ii_of_arc_browser/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "thebazk",
                     "url": "https://www.reddit.com/user/thebazk"
-                }
-            ]
-        },
-        {
-            "id": "17nkfk5",
-            "url": "/r/ArcBrowser/comments/17nkfk5/cmv_the_3_dot_menu_were_essential_for_people/",
-            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/17nkfk5/cmv_the_3_dot_menu_were_essential_for_people/",
-            "title": "CMV: The 3 dot menu were essential for people using the sidebar always contracted",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/17nkfk5/cmv_the_3_dot_menu_were_essential_for_people/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/17nkfk5/cmv_the_3_dot_menu_were_essential_for_people/'>Reddit</a></caption><div><br></div><p>I use Arc with the sidebar contracted. That way I don't have quick access to the buttons in the sidebar, and having the 3 dots up top helped a lot with extensions, specially with the use of password managers.   </p>\n<p>There were no downsides to having the 3 dots up top, I agree that most people won't look for them there. Arc is not built to be like every other browser, so giving option for users is a good thing.   </p>\n<p>If, for some reason, you feel that those 3 dots confused people, at least give is a setting to re-enable it. As it is essential for the use of power users.</p>",
-            "date_published": "2023-11-04T12:16:49+00:00",
-            "authors": [
-                {
-                    "name": "kauelima",
-                    "url": "https://www.reddit.com/user/kauelima"
                 }
             ]
         }
