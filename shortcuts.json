@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1ak1yyp",
+            "url": "/r/shortcuts/comments/1ak1yyp/text_message_autoreply_using_chat_gpt/",
+            "external_url": "https://i.redd.it/38kysgs3ewgc1.jpeg",
+            "title": "Text message auto-reply using Chat GPT.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1ak1yyp/text_message_autoreply_using_chat_gpt/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1ak1yyp/text_message_autoreply_using_chat_gpt/'>Reddit</a></caption><div><br></div><p>I don\u2019t know if this is how others would approach this or not but it ended with the result I was looking for. </p>\n<p>I saw another users post on here about using GPT to reply to text messages. The issue was a dialogue box kept opening resulting in the shortcut not working. The fix for this was turning off the \u2018continuous chat\u2019 option in the GPT action. This created an issue where, with every text, it had no recall into previous messages and couldn\u2019t reply using context of any kind. </p>\n<p>Here is my solution and it actually works really well. I need to make some adjustments but that really comes down to my horrible prompt writing.</p><div><br></div><img src=\"https://i.redd.it/38kysgs3ewgc1.jpeg\" />",
+            "date_published": "2024-02-06T05:06:05+00:00",
+            "authors": [
+                {
+                    "name": "ididntfartyoufarted",
+                    "url": "https://www.reddit.com/user/ididntfartyoufarted"
+                }
+            ]
+        },
+        {
             "id": "1ajj9m4",
             "url": "/r/shortcuts/comments/1ajj9m4/made_an_emergency_location_share_shortcut/",
             "external_url": "https://www.reddit.com/gallery/1ajj9m4",
