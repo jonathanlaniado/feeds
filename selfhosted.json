@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1akiyrd",
+            "url": "/r/selfhosted/comments/1akiyrd/got_my_first_server_running_im_so_happy/",
+            "external_url": "https://i.redd.it/rl6avcvjt0hc1.png",
+            "title": "got my first server running im so happy",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1akiyrd/got_my_first_server_running_im_so_happy/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1akiyrd/got_my_first_server_running_im_so_happy/'>Reddit</a></caption><div><br></div><p>yayyy</p><div><br></div><img src=\"https://i.redd.it/rl6avcvjt0hc1.png\" />",
+            "date_published": "2024-02-06T19:59:47+00:00",
+            "authors": [
+                {
+                    "name": "NightFury_05",
+                    "url": "https://www.reddit.com/user/NightFury_05"
+                }
+            ]
+        },
+        {
             "id": "1afakwb",
             "url": "/r/selfhosted/comments/1afakwb/server/",
             "external_url": "https://i.redd.it/gb5p5iohrpfc1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "search_guy",
                     "url": "https://www.reddit.com/user/search_guy"
-                }
-            ]
-        },
-        {
-            "id": "16tgaha",
-            "url": "/r/selfhosted/comments/16tgaha/how_do_you_protect_your_servers_what_techniques/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/16tgaha/how_do_you_protect_your_servers_what_techniques/",
-            "title": "How do you protect your servers? What techniques and tricks do you use?",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/selfhosted/comments/16tgaha/how_do_you_protect_your_servers_what_techniques/'>Reddit</a></caption><div><br></div><div><p>I'm really curious to know to how the people of r/selfhosted protect their server from attacks and all the wilderness of the internet.</p>\n<p>I just recently began my journey in networking and upon the setup of my first server, I found that many attempts were being made on my SSH port (22), this was quite shocking. Like It wasn't even an hour and attacks were coming in.</p>\n<p>Then I searched and found changing the default port will reduced the automated attacks, and indeed it reduced the number of attempts.</p>\n<p>Since, I just began I don't know what are some other things, and pit falls that I need to watch for, How would I make sure my server is all well and protected weather it's mail server or something else.</p>\n<p>I have heard of some things like intrusion detection and intrusion prevention applications, do any of you use it? Well do small projects even need to use them? I think NO.</p>\n<p>Please share your experience and tales of protecting your server and if every was breached then how did you dealt with it.</p>\n<p>&#x200B;</p>\n<p>Thanks.</p></div>",
-            "date_published": "2023-09-27T09:52:18+00:00",
-            "authors": [
-                {
-                    "name": "just-ans",
-                    "url": "https://www.reddit.com/user/just-ans"
                 }
             ]
         }
