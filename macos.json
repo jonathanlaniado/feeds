@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "1al0fq2",
+            "url": "/r/MacOS/comments/1al0fq2/how_to_play_mkv_files_on_mac_im_a_beginner_mac/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/1al0fq2/how_to_play_mkv_files_on_mac_im_a_beginner_mac/",
+            "title": "How to play mkv files on mac? I'm a beginner Mac user",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOS/comments/1al0fq2/how_to_play_mkv_files_on_mac_im_a_beginner_mac/'>Winston</a> | <a href='https://reddit.com/r/MacOS/comments/1al0fq2/how_to_play_mkv_files_on_mac_im_a_beginner_mac/'>Reddit</a></caption><div><br></div><p>Still diving into this whole new world of Mac after switching from Windows. The hardware is sleek, the interface is smooth, but here's the hiccup - MKV files. </p>\n<p>Recently downloaded a couple of movies, and it turns out they are all mkv format. Tried the default QuickTime player, but no dice.  </p>\n<p>I've tried a couple of third-party players, but they either come with ads that make me question the meaning of life or turn my Mac into a furnace.  I need something that understands the complexities of MKV files and doesn't give me a headache during installation and usage. </p>\n<p>And before you suggest VLC, I've been down that road. VLC is cool, but lately, it's been acting up on my system, freezing at the worst moments. So, I'm open to alternatives - something reliable, user-friendly, and won't make me regret pressing play.</p>",
+            "date_published": "2024-02-07T11:02:38+00:00",
+            "authors": [
+                {
+                    "name": "Elsa_Versailles",
+                    "url": "https://www.reddit.com/user/Elsa_Versailles"
+                }
+            ]
+        },
+        {
             "id": "1akdz6k",
             "url": "/r/MacOS/comments/1akdz6k/how_do_i_jump_to_each_one_of_my_macos_apps_using/",
             "external_url": "https://youtu.be/Cr35bp8yAzo",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Aristt_",
                     "url": "https://www.reddit.com/user/Aristt_"
-                }
-            ]
-        },
-        {
-            "id": "16spavk",
-            "url": "/r/MacOS/comments/16spavk/is_there_a_way_to_find_out_if_mac_was_formatted/",
-            "external_url": "https://www.reddit.com/r/MacOS/comments/16spavk/is_there_a_way_to_find_out_if_mac_was_formatted/",
-            "title": "Is there a way to find out if mac was formatted?",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/MacOS/comments/16spavk/is_there_a_way_to_find_out_if_mac_was_formatted/'>Reddit</a></caption><div><br></div><div><p>Is there a log file or some way to find out the last date a mac hard drive was formatted?  </p></div>",
-            "date_published": "2023-09-26T14:20:44+00:00",
-            "authors": [
-                {
-                    "name": "Humble-Ad-5326",
-                    "url": "https://www.reddit.com/user/Humble-Ad-5326"
                 }
             ]
         }
