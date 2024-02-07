@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "1al1yxm",
+            "url": "/r/MacOS/comments/1al1yxm/best_vpn_for_mac_in_2024/",
+            "external_url": "/r/VPN_Review/comments/1al1y1m/best_vpn_for_mac_in_2024/",
+            "title": "Best VPN for Mac in 2024?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOS/comments/1al1yxm/best_vpn_for_mac_in_2024/'>Winston</a> | <a href='https://reddit.com/r/MacOS/comments/1al1yxm/best_vpn_for_mac_in_2024/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-02-07T12:37:45+00:00",
+            "authors": [
+                {
+                    "name": "throwawaymo11812",
+                    "url": "https://www.reddit.com/user/throwawaymo11812"
+                }
+            ]
+        },
+        {
             "id": "1al0fq2",
             "url": "/r/MacOS/comments/1al0fq2/how_to_play_mkv_files_on_mac_im_a_beginner_mac/",
             "external_url": "https://www.reddit.com/r/MacOS/comments/1al0fq2/how_to_play_mkv_files_on_mac_im_a_beginner_mac/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Ok_Fee_5193",
                     "url": "https://www.reddit.com/user/Ok_Fee_5193"
-                }
-            ]
-        },
-        {
-            "id": "16spwyl",
-            "url": "/r/MacOS/comments/16spwyl/macos_12_mac_mini_2014_changed_refresh_rate_now/",
-            "external_url": "https://www.reddit.com/r/MacOS/comments/16spwyl/macos_12_mac_mini_2014_changed_refresh_rate_now/",
-            "title": "MacOS 12 - Mac Mini 2014 - Changed Refresh Rate, now won't get any display",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/MacOS/comments/16spwyl/macos_12_mac_mini_2014_changed_refresh_rate_now/'>Reddit</a></caption><div><br></div><div><p>I'm new to MacOS, I just purchased a Mac Mini 2014 with an i7 and 16gb RAM. I've been enjoying it so far as an alternative to my PC. I was messing with the settings and found that you can adjust the Refresh Rate, just for shits and giggles, I reduced the refresh rate to 25hz. After doing so, my ASUS display now says the output is \"OUT OF RANGE\".</p>\n<p>&#x200B;</p>\n<p>I had waited for it to reset normally after I did not confirm the setting, nothing reverted. I then tried restarting, nothing. Restarted trying to hold the Shift key to enter Safe Mode. Nothing, no safe mode.</p>\n<p>I then plugged it into my DELL 1440p display, it worked and I was able to pull up the profile for my other display. I adjusted the settings to be 1080p at 60hz and then plugged the Mac back into the original display, still nothing. </p>\n<p>My Windows brain is melting from this. I've been using it on my main display, but I really wanted it on my second monitor. </p>\n<p>Am I missing anything here? Any help is appreciated</p></div>",
-            "date_published": "2023-09-26T14:44:07+00:00",
-            "authors": [
-                {
-                    "name": "Aristt_",
-                    "url": "https://www.reddit.com/user/Aristt_"
                 }
             ]
         }
