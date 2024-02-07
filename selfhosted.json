@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1akypkk",
+            "url": "/r/selfhosted/comments/1akypkk/free_icons_for_self_hosted_app/",
+            "external_url": "https://i.redd.it/wesyd0fao4hc1.jpeg",
+            "title": "Free Icons for Self hosted App",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1akypkk/free_icons_for_self_hosted_app/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1akypkk/free_icons_for_self_hosted_app/'>Reddit</a></caption><div><br></div><p>I spent the day putting together over 200 free self-hosted icons that you can use in your self-hosted navigation page, I unified their design style</p>\n<p>\u3010Free Icons for Self-hosted\u3011</p>\n<p><a href=\"https://pipuwong.com/en/free-icons-for-self-hosted\">https://pipuwong.com/en/free-icons-for-self-hosted</a></p><div><br></div><img src=\"https://i.redd.it/wesyd0fao4hc1.jpeg\" />",
+            "date_published": "2024-02-07T08:57:27+00:00",
+            "authors": [
+                {
+                    "name": "Western_Pineapple944",
+                    "url": "https://www.reddit.com/user/Western_Pineapple944"
+                }
+            ]
+        },
+        {
             "id": "1akiyrd",
             "url": "/r/selfhosted/comments/1akiyrd/got_my_first_server_running_im_so_happy/",
             "external_url": "https://i.redd.it/rl6avcvjt0hc1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "atika",
                     "url": "https://www.reddit.com/user/atika"
-                }
-            ]
-        },
-        {
-            "id": "16tiqga",
-            "url": "/r/selfhosted/comments/16tiqga/ive_created_an_opensource_search_platform_swirl/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/16tiqga/ive_created_an_opensource_search_platform_swirl/",
-            "title": "I've created an open-source search platform - Swirl. You can search and use AI to find the correct information quickly and easily.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/16tiqga/ive_created_an_opensource_search_platform_swirl/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/16tiqga/ive_created_an_opensource_search_platform_swirl/'>Reddit</a></caption><div><br></div><div><p>Our data is spread across multiple sources like SQL databases, Emails, Notes, Words, Office Applications, etc. And when we're searching for something, we typically don't know where. </p>\n<p>So, me and my friends came up with the id ea of a search platform, Swirl. That allows us to search multiple sources to get the information we want. And we made it open source to help people who want to add search capabilities. We're expanding it with Large Language Models to generate the answers based on the queries being asked for. </p>\n<p>It's all open source and available on GitHub:  <a href=\"https://github.com/swirlai/swirl-search\">https://github.com/swirlai/swirl-search</a></p></div>",
-            "date_published": "2023-09-27T12:04:56+00:00",
-            "authors": [
-                {
-                    "name": "search_guy",
-                    "url": "https://www.reddit.com/user/search_guy"
                 }
             ]
         }
