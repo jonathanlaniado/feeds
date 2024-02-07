@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1al1veo",
+            "url": "/r/macapps/comments/1al1veo/free_mac_apps_supersheet_updated_for_2024/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1al1veo/free_mac_apps_supersheet_updated_for_2024/",
+            "title": "Free Mac Apps supersheet (updated for 2024!) \ud83c\udf89",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1al1veo/free_mac_apps_supersheet_updated_for_2024/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1al1veo/free_mac_apps_supersheet_updated_for_2024/'>Reddit</a></caption><div><br></div><p>Hello everyone! </p>\n<p>I said I would do this earlier in the year, but got distracted with life (yada yada yada), but have finally got around to updating my list of free Mac apps for 2024! \ud83c\udf89</p>\n<p>I have everything in a Google Sheet, and anything with a star (\u2b50) is stuff I definitely recommend.</p>\n<h1>The list</h1>\n<p>You can find the Google Sheet here:</p>\n<blockquote>\n<p><strong>Google Sheets</strong> - <a href=\"https://docs.google.com/spreadsheets/d/1QwpL1hjc878nSpuWTZwgIOyCc4r4pMusmxD6eC2UIXA/edit?usp=sharing\">Free Mac Apps</a>  </p>\n<p><a href=\"https://docs.google.com/spreadsheets/d/1QwpL1hjc878nSpuWTZwgIOyCc4r4pMusmxD6eC2UIXA/edit?usp=sharing\">^(https://docs.google.com/spreadsheets/d/1QwpL1hjc878nSpuWTZwgIOyCc4r4pMusmxD6eC2UIXA/edit?usp=sharing)</a></p>\n</blockquote>\n<h1>My process</h1>\n<p>Most of the apps on this list have been discovered through either having a problem and looking for an open source solution, or recommendations through previous versions of this sheet, or YouTube (Snazzy Labs is great!).</p>\n<p>My process has always been to install, test, and see if apps are actually useful over an extended period, and then add them to the list if I think they are. I also do some checking to see whether the app is shady (though I am by no means a security expert so most of this is low-level checks, and by reading reviews etc.). You should do your own due diligence and check the app and its source. I can help with troubleshooting but you should always know and understand what you're installing on your machine!</p>\n<h1>Your suggestions</h1>\n<p>In the past I have said suggestions should be put in the comments here, but I think a better process will be the use of Issues on GitHub. If you don't have GitHub, feel free to comment, and I will make issues for you and reply to you with them. The GitHub is here</p>\n<blockquote>\n<p><strong>GitHub</strong> - <a href=\"https://github.com/jamesjingyi/free-mac-apps\">Free Mac Apps</a>   </p>\n<p><a href=\"https://github.com/jamesjingyi/free-mac-apps\">^(https://github.com/jamesjingyi/free-mac-apps)</a></p>\n</blockquote>\n<p>I'm doing this for the following reasons: </p>\n<ul>\n<li>It's much easier for me to manage (lists where I can cross things off are good, and give me endorphins!)</li>\n<li>It'll reduce people recommending the same thing, rather people can 'second' recommendations in GitHub (it's hard to scroll through lots of Reddit comments, especially if you find this post later!)</li>\n<li>I would like to encourage discussion based on other people's experiences, not just my testing, so having them here will allow people to discuss alternatives, issues, etc</li>\n</ul>\n<p>If anyone has any recommendations about a better solution, please let me know! At the moment I am retaining the only editing control of the Google Sheet, but this might change in the future, and of course you can make a copy and use it yourself - I am not precious about any of this stuff, I just want people to know about them!</p>\n<h1>What about the Master Lists?</h1>\n<p>This by no means replaces (or is meant to replace) the excellent work done on the Master Lists in the /r/macapps subreddit. Those provide excellent and well thought out comparisons, they just don't focus on free/open source, which is why my list differs slightly. </p>\n<p>If you are looking for the best app, you should definitely look there - I don't really provide that many alternatives, as I find a solution and recommend that. You may also be willing to pay for certain things (I certainly pay for certain software because it is better or not available for free), and my list will not cover those.</p>\n<p>The Master Lists are here:</p>\n<blockquote>\n<p><strong>Reddit</strong> - <a href=\"https://www.reddit.com/r/macapps/comments/18kpzy5/master_list_of_definitive_app_comparisons_view/\">Master List of Definitive App Comparisons - View and Contribute - 2024 Update</a>  </p>\n<p><a href=\"https://www.reddit.com/r/macapps/comments/18kpzy5/master_list_of_definitive_app_comparisons_view/\">^(https://www.reddit.com/r/macapps/comments/18kpzy5/master_list_of_definitive_app_comparisons_view/)</a></p>\n</blockquote>\n<p>---</p>\n<p>Happy installing!</p>",
+            "date_published": "2024-02-07T12:32:15+00:00",
+            "authors": [
+                {
+                    "name": "jamesjingyi",
+                    "url": "https://www.reddit.com/user/jamesjingyi"
+                }
+            ]
+        },
+        {
             "id": "1akis13",
             "url": "/r/macapps/comments/1akis13/vmtek_virtualization_platform_coupon_giveaway/",
             "external_url": "https://www.reddit.com/gallery/1akis13",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "alin23",
                     "url": "https://www.reddit.com/user/alin23"
-                }
-            ]
-        },
-        {
-            "id": "173u87o",
-            "url": "/r/macapps/comments/173u87o/ducklet_for_sqlite_the_fast_native_sqlite/",
-            "external_url": "https://i.redd.it/wn338tfg07tb1.png",
-            "title": "Ducklet for SQLite - The fast, native SQLite database editor for macOS released on the Mac App Store",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/173u87o/ducklet_for_sqlite_the_fast_native_sqlite/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/173u87o/ducklet_for_sqlite_the_fast_native_sqlite/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/wn338tfg07tb1.png\" />",
-            "date_published": "2023-10-09T15:10:27+00:00",
-            "authors": [
-                {
-                    "name": "ssaasen",
-                    "url": "https://www.reddit.com/user/ssaasen"
                 }
             ]
         }
