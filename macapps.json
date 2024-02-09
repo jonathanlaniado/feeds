@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1ammb55",
+            "url": "/r/macapps/comments/1ammb55/how_to_transfer_photos_from_android_to_mac/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1ammb55/how_to_transfer_photos_from_android_to_mac/",
+            "title": "How to transfer photos from Android to Mac?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1ammb55/how_to_transfer_photos_from_android_to_mac/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1ammb55/how_to_transfer_photos_from_android_to_mac/'>Reddit</a></caption><div><br></div><p>Hey there!</p>\n<p>I've got an Android, and I'm trying to upload all my photos to my Mac. The thing is, I'm not sure how to do it on a Mac. Can anyone share the best way to transfer photos from Android to Mac? Any suggestions are welcome! Thanks!</p>",
+            "date_published": "2024-02-09T11:45:04+00:00",
+            "authors": [
+                {
+                    "name": "Micronlance",
+                    "url": "https://www.reddit.com/user/Micronlance"
+                }
+            ]
+        },
+        {
             "id": "1al1veo",
             "url": "/r/macapps/comments/1al1veo/free_mac_apps_supersheet_updated_for_2024/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1al1veo/free_mac_apps_supersheet_updated_for_2024/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Gabimarruu",
                     "url": "https://www.reddit.com/user/Gabimarruu"
-                }
-            ]
-        },
-        {
-            "id": "17411v9",
-            "url": "/r/macapps/comments/17411v9/update_clop_v22_pdf_optimisation_speed_up_video/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/17411v9/update_clop_v22_pdf_optimisation_speed_up_video/",
-            "title": "[UPDATE] Clop v2.2: PDF optimisation, speed up video, smart cropping",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17411v9/update_clop_v22_pdf_optimisation_speed_up_video/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17411v9/update_clop_v22_pdf_optimisation_speed_up_video/'>Reddit</a></caption><div><br></div><p><strong><a href=\"https://lowtechguys.com/clop\">\ud83d\udc52 Clop</a></strong> is an app for optimising the file size of images, videos, GIFs and PDFs. It can also downscale the files or crop them to a specific size.</p>\n<p>About 1 month ago I asked people around here to tell me about how they use Clop and how it could be better.</p>\n<p>Clop v2.2 is a month-long work of bringing those features that people asked for. I'll mention people below with the changes respective to their requests.</p>\n<p><strong>Note: the auto update is pretty subtle to not annoy people, check the menubar icon to see if v2.2.0 is available</strong></p>\n<hr />\n<p>/u/raaamyaraaavan and /u/RavenHD</p>\n<p>There's now a way to automatically rename the image based on a template.</p>\n<ul>\n<li>There is also a setting to only copy the image, without the path</li>\n<li>Above the thumbnail there is a name editor as well: click, edit, press <code>Enter</code> to rename</li>\n</ul>\n<p><a href=\"https://files.lowtechguys.com/clop_2023-10-09_318.png\">screenshot of image path settings</a></p>\n<p>/u/raaamyaraaavan: No watermarks yet, it's on the todo list. Although you could create it yourself using the new Automation feature of Clop.</p>\n<hr />\n<p>/u/raulaspern</p>\n<p>I know you wanted automatically optimising Yoink files, I might have something better.</p>\n<p>There is now a <strong>Compact Results</strong> layout option where instead of large thumbnails, Clop can show a more compact list of draggable optimised files. </p>\n<p>You can configure Clop to dismiss results after dragging so it works similar to Yoink.</p>\n<p>There's also a drop zone in Clop, so you can start dragging an image and drop it in Clop's zone instead of in Yoink for the same effect.</p>\n<p><a href=\"https://files.lowtechguys.com/clop_2023-10-09_327.jpeg\">screenshot of Compact Results</a></p>\n<hr />\n<p>/u/tanerilyazov</p>\n<ul>\n<li>Smart Cropping is now implemented. Click on the resolution text to select from preset sizes (or enter your own)</li>\n</ul>\n<p><a href=\"https://files.lowtechguys.com/clop_2023-10-09_331.png\">screenshot of cropping sizes</a></p>\n<p>You can also automate this based on the path of the file if you do this often: <a href=\"https://files.lowtechguys.com/clop_2023-10-09_361.png\">screenshot of automating slack emoji cropping</a> </p>\n<hr />\n<p>/u/areyouredditenough  /u/AShortcuts  /u/epedreno  /u/montereysand</p>\n<ul>\n<li>PDF optimisation is now integrated<ul>\n<li>you can now drop PDFs in the Clop drop zone for manual optimisation</li>\n<li>you can also setup Clop to watch specific folders for PDFs to appear and optimise them automatically \nClop uses the same utility and settings that Optimage uses so the result is close to \"as optimised as possible\".</li>\n</ul>\n</li>\n</ul>\n<hr />\n<p>/u/areyouredditenough about the presets idea:</p>\n<p>Presets can be \"simulated\" by using the new Automations feature: you can create a macOS Shortcut to do whatever you want with the image/video/PDF, and then you can assign that Shortcut to run automatically on optimised images based on their path.</p>\n<p>For example you can have an <strong>Add watermark and crop to 512x512</strong> shortcut that you can assign to images being saved into <code>~/Desktop/Watermarked</code>.</p>\n<hr />\n<p>/u/JothamLEC</p>\n<ul>\n<li>copying more than one image will not trigger optimisation anymore</li>\n<li>red and blue text have been adjusted to a more readable color palette</li>\n<li>the CleanShot error should now appear as an \"Already optimised\" notice instead</li>\n</ul>\n<p>/u/haitashe</p>\n<ul>\n<li>Custom Sizes are there now, although they don't have keybinds yet: <a href=\"https://files.lowtechguys.com/clop_2023-10-09_331.png\">screenshot of cropping sizes</a></li>\n</ul>\n<hr />\n<p>/u/Lecter  /u/mazakiss</p>\n<p>Uploading to Backblaze is supported through a Shortcut now. </p>\n<p>It's a bit convoluted, but after the initial setup it works without any hitch and can also be set to upload automatically based on the file path.</p>\n<p><a href=\"https://files.lowtechguys.com/clop_2023-10-09_362.jpeg\">screenshot of using the Upload to Backblaze automation</a></p>\n<p>It can also be used to upload files manually by right clicking the thumbnail: <a href=\"https://files.lowtechguys.com/clop_2023-10-09_363.jpeg\">screenshot of right click menu</a></p>\n<p>I'm hoping to integrate with <a href=\"https://dropshare.app/\">Dropshare</a> soon to make this easier to use and have support for more types of upload.</p>\n<hr />\n<p>/u/Professional-Ad7841</p>\n<p>Clop now replaces the original file with the optimised one, and there are settings to control this behaviour.</p>\n<p>The thumbnail can also be saved as a file (hover over it and press <code>Cmd</code>-<code>S</code>), copied to clipboard (<code>Cmd</code>-<code>C</code>), shown in Finder (<code>Cmd</code>-<code>F</code>). More actions are available by right clicking on the thumbnail.</p>\n<p>Clop is also better at batch processing now. You can drop a lot of files on it, and it will show them in a scrollable <strong>Compact Results</strong> layout.</p>\n<p>There's also a CLI in case you liked that from ImageOptim. You can <code>clop optimise &lt;files-or-folder&gt;</code> from the Terminal now.</p>",
-            "date_published": "2023-10-09T19:45:38+00:00",
-            "authors": [
-                {
-                    "name": "alin23",
-                    "url": "https://www.reddit.com/user/alin23"
                 }
             ]
         }
