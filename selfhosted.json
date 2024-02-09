@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1amud3x",
+            "url": "/r/selfhosted/comments/1amud3x/when_business_doesnt_get_foss/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1amud3x/when_business_doesnt_get_foss/",
+            "title": "When business doesn\u2019t get FOSS",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1amud3x/when_business_doesnt_get_foss/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1amud3x/when_business_doesnt_get_foss/'>Reddit</a></caption><div><br></div><p>I sent my CIO a suggestion for a FOSS solution to further cost savings as things are tight. Here\u2019s his response;</p>\n<p><em>We avoid open-source and shareware software wherever possible, they are generally not secured very well and leave the business open to potential hacks.</em></p>\n<p><em>If it is docker based, then it\u2019s sending our documents which are potentially sensitive, confidential or contain PII to who knows where and again opens us up to another potential threat landscape.</em></p>\n<p><em>Whilst it\u2019s commendable to be looking for cheaper options and cost savings, especially now, I would rather be looking at some of the more established alternatives if we have to go down that route.</em></p>\n<p>Thoughts?</p>\n<p>Edit: I don\u2019t work in IT myself, but am a keen self-hoster.</p>",
+            "date_published": "2024-02-09T18:02:29+00:00",
+            "authors": [
+                {
+                    "name": "rickydg80",
+                    "url": "https://www.reddit.com/user/rickydg80"
+                }
+            ]
+        },
+        {
             "id": "1akypkk",
             "url": "/r/selfhosted/comments/1akypkk/free_icons_for_self_hosted_app/",
             "external_url": "https://i.redd.it/wesyd0fao4hc1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ZeroPointMX",
                     "url": "https://www.reddit.com/user/ZeroPointMX"
-                }
-            ]
-        },
-        {
-            "id": "16u9msw",
-            "url": "/r/selfhosted/comments/16u9msw/introducing_raspberry_pi_5/",
-            "external_url": "https://www.raspberrypi.com/news/introducing-raspberry-pi-5/",
-            "title": "Introducing: Raspberry Pi 5!",
-            "content_html": "<caption>Open: <a href='https://www.raspberrypi.com/news/introducing-raspberry-pi-5/'>www.raspberrypi.com</a> | <a href='https://reddit.com/r/selfhosted/comments/16u9msw/introducing_raspberry_pi_5/'>Reddit</a></caption>",
-            "date_published": "2023-09-28T07:41:57+00:00",
-            "authors": [
-                {
-                    "name": "atika",
-                    "url": "https://www.reddit.com/user/atika"
                 }
             ]
         }
