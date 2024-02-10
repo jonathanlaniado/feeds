@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1ang6d9",
+            "url": "/r/selfhosted/comments/1ang6d9/introducing_cardinal_photos_a_new_free_selfhosted/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1ang6d9/introducing_cardinal_photos_a_new_free_selfhosted/",
+            "title": "Introducing Cardinal Photos, a new free self-hosted photos app and alternative to Google Photos",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1ang6d9/introducing_cardinal_photos_a_new_free_selfhosted/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1ang6d9/introducing_cardinal_photos_a_new_free_selfhosted/'>Reddit</a></caption><div><br></div><p>Hello self-hosters, I'm sharing the photos app that I've been working on for a while now. <a href=\"https://cardinalapps.io/cardinal-photos\">Cardinal Photos</a> is a free self-hosted photos app for people looking for a Google Photos alternative.</p>\n<p>It supports the format exported by Google Takeout so that everything can be migrated quickly, and has a bunch of other features of its own, like:</p>\n<ul>\n<li>Good support for HEIC files, including on devices that don't natively support the format.</li>\n<li>A world map of everywhere you've taken a picture.</li>\n<li>Face detection (in progress).</li>\n<li>Photo albums.</li>\n<li>A super strict approach to privacy.</li>\n<li>An open API.</li>\n<li>Docker support.</li>\n</ul>\n<p>Cardinal Photos is the first stable Cardinal app to be released despite still being a work in progress.</p>\n<p><a href=\"https://cardinalapps.io\">The Cardinal platform</a> is a 100% free Plex alternative work-in-progress that I've been working on since <a href=\"https://www.reddit.com/r/selfhosted/comments/nxpvhc/building_my_own_media_apps_for_the_long_term/\">first introducing it</a> over 2 years ago. Also being released today is the new, Docker-first <a href=\"https://cardinalapps.io/cardinal-home-server\">Cardinal Home Server</a>, which runs the Photos app, and also runs the upcoming <a href=\"https://cardinalapps.io/cardinal-music\">Music</a> and <a href=\"https://cardinalapps.io/cardinal-cinema\">Cinema</a> apps.</p>\n<p>Work is moving quickly on the platform now that a solid architecture is in place. All of my previous announcements for Cardinal had been for experimental apps, but not this time. What's available today is stable and comes with long term support.</p>\n<p>Download it for free directly on <a href=\"https://hub.docker.com/r/cardinalapps/home-server\">Docker Hub</a>, and check out the website at <a href=\"https://cardinalapps.io\">cardinalapps.io</a> for more info on the platform. There is no signup required.</p>\n<ul>\n<li><a href=\"https://cardinalapps.io/screenshots/cardinal-photos-archive-full.png\">Screenshot of the photos archive.</a></li>\n<li><a href=\"https://cardinalapps.io/screenshots/cardinal-photos-archive-peek-full.png\">Screenshot of peeking a photo in the archive.</a></li>\n<li><a href=\"https://cardinalapps.io/screenshots/cardinal-photos-photo-viewer-full.png\">Screenshot of the photo viewer.</a></li>\n</ul>",
+            "date_published": "2024-02-10T13:20:15+00:00",
+            "authors": [
+                {
+                    "name": "somebeaver",
+                    "url": "https://www.reddit.com/user/somebeaver"
+                }
+            ]
+        },
+        {
             "id": "1amud3x",
             "url": "/r/selfhosted/comments/1amud3x/when_business_doesnt_get_foss/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1amud3x/when_business_doesnt_get_foss/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "maximusprimate",
                     "url": "https://www.reddit.com/user/maximusprimate"
-                }
-            ]
-        },
-        {
-            "id": "16u2ash",
-            "url": "/r/selfhosted/comments/16u2ash/why_not_use_port_80/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/16u2ash/why_not_use_port_80/",
-            "title": "Why not use port 80?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/16u2ash/why_not_use_port_80/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/16u2ash/why_not_use_port_80/'>Reddit</a></caption><div><br></div><div><p>I have several services, (not docker) that run on funky port numbers.  8006 for proxmox,  or 8321, or 8080.  What stops me from addressing all these to port 80, so I don't have to remember the obscure port number to access?  There a security reason for this?  Or is it just trying to avoid port conflict?</p></div>",
-            "date_published": "2023-09-28T01:15:47+00:00",
-            "authors": [
-                {
-                    "name": "ZeroPointMX",
-                    "url": "https://www.reddit.com/user/ZeroPointMX"
                 }
             ]
         }
