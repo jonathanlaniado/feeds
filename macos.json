@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "1ao67tq",
+            "url": "/r/MacOS/comments/1ao67tq/apple_is_relaunching_iwork_to_compete_with_ms/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/1ao67tq/apple_is_relaunching_iwork_to_compete_with_ms/",
+            "title": "Apple is relaunching iWork to compete with MS Office and Google Docs",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOS/comments/1ao67tq/apple_is_relaunching_iwork_to_compete_with_ms/'>Winston</a> | <a href='https://reddit.com/r/MacOS/comments/1ao67tq/apple_is_relaunching_iwork_to_compete_with_ms/'>Reddit</a></caption><div><br></div><p><a href=\"https://buyaidomains.com/2024/02/10/special-report-apple-inc-secures-iwork-ai-domain-a-strategic-move-in-the-ai-landscape/\">Apple\u2019s .Ai Domain Purchase Signals Relaunch of iWork; to Compete with MS Office and Google Docs</a></p>\n<p>Some interesting reports suggest that Apple is going to do this. Seems like an interesting move</p>",
+            "date_published": "2024-02-11T11:47:40+00:00",
+            "authors": [
+                {
+                    "name": "Popular-Sympathy-696",
+                    "url": "https://www.reddit.com/user/Popular-Sympathy-696"
+                }
+            ]
+        },
+        {
             "id": "1al1yxm",
             "url": "/r/MacOS/comments/1al1yxm/best_vpn_for_mac_in_2024/",
             "external_url": "/r/VPN_Review/comments/1al1y1m/best_vpn_for_mac_in_2024/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Ok-Assistance-6848",
                     "url": "https://www.reddit.com/user/Ok-Assistance-6848"
-                }
-            ]
-        },
-        {
-            "id": "16sr4oo",
-            "url": "/r/MacOS/comments/16sr4oo/detect_if_microphone_is_in_use/",
-            "external_url": "https://www.reddit.com/r/MacOS/comments/16sr4oo/detect_if_microphone_is_in_use/",
-            "title": "Detect if microphone is in use",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/MacOS/comments/16sr4oo/detect_if_microphone_is_in_use/'>Reddit</a></caption><div><br></div><div><p>I have been using this bash script to determine if my microphone is in use:</p>\n<pre><code>ioreg -l AppleHDAEngineInput | grep \\\"IOAudioEngineState\\\"\\ =\\ 1 | wc -l\n</code></pre>\n<p>But this does not work in Ventura. Does anyone know of a way to determine if the mic is being used? I use this to determine if I am in a meeting or not - then switch on a light outside my office to let the family know I am actively in a meeting. I'd rather not go back to relying on my calendar to turn the light on.</p></div>",
-            "date_published": "2023-09-26T15:30:35+00:00",
-            "authors": [
-                {
-                    "name": "Ok_Fee_5193",
-                    "url": "https://www.reddit.com/user/Ok_Fee_5193"
                 }
             ]
         }
