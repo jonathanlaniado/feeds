@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1aox4rn",
+            "url": "/r/macapps/comments/1aox4rn/what_is_the_best_multiple_cloud_storage_manager/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1aox4rn/what_is_the_best_multiple_cloud_storage_manager/",
+            "title": "What is the best multiple cloud storage manager?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1aox4rn/what_is_the_best_multiple_cloud_storage_manager/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1aox4rn/what_is_the_best_multiple_cloud_storage_manager/'>Reddit</a></caption><div><br></div><p>Hey there!  Looking for recommendations on the best multiple cloud storage manager. Trying to figure out the best one for handling Google Drive, Dropbox, and more on my Mac. Any suggestions?</p>",
+            "date_published": "2024-02-12T10:38:34+00:00",
+            "authors": [
+                {
+                    "name": "Micronlance",
+                    "url": "https://www.reddit.com/user/Micronlance"
+                }
+            ]
+        },
+        {
             "id": "1ammb55",
             "url": "/r/macapps/comments/1ammb55/how_to_transfer_photos_from_android_to_mac/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1ammb55/how_to_transfer_photos_from_android_to_mac/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MichaelTheGeek",
                     "url": "https://www.reddit.com/user/MichaelTheGeek"
-                }
-            ]
-        },
-        {
-            "id": "175ei2w",
-            "url": "/r/macapps/comments/175ei2w/maccy_no_longer_works_for_macos_sonoma_any_new/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/175ei2w/maccy_no_longer_works_for_macos_sonoma_any_new/",
-            "title": "Maccy no longer works for MacOS Sonoma. Any new recommendations?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/175ei2w/maccy_no_longer_works_for_macos_sonoma_any_new/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/175ei2w/maccy_no_longer_works_for_macos_sonoma_any_new/'>Reddit</a></caption><div><br></div><p>Hi, love this app but it no longer copies my clipboard, using macos sonoma in m1 mac. Any recommendations? Need a free and fast one like Maccy  </p>\n<p>RESOLVED! I go to this link to download the beta version  </p>\n<p><a href=\"https://github.com/p0deje/Maccy/files/12327821/Maccy.app.zip\">https://github.com/p0deje/Maccy/files/12327821/Maccy.app.zip</a>  </p>\n<p>and then open preferences by opening the app and clicking on it, then press Command and comma sign ,  </p>\n<p>In the preferences, click the \"Check now\" under the check for updates automatically.  </p>\n<p>Also, in the advance tab, untick the \"turn off\" check box.   </p>",
-            "date_published": "2023-10-11T13:50:51+00:00",
-            "authors": [
-                {
-                    "name": "Gabimarruu",
-                    "url": "https://www.reddit.com/user/Gabimarruu"
                 }
             ]
         }
