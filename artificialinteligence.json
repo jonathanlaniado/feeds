@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1aptkqt",
+            "url": "/r/ArtificialInteligence/comments/1aptkqt/i_created_an_ai_feature_that_nobody_else_has/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1aptkqt/i_created_an_ai_feature_that_nobody_else_has/",
+            "title": "I created an AI Feature that nobody else has before!",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/1aptkqt/i_created_an_ai_feature_that_nobody_else_has/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/1aptkqt/i_created_an_ai_feature_that_nobody_else_has/'>Reddit</a></caption><div><br></div><p>Last week, <a href=\"https://nexustrade.io/blog/intelligent-stock-screening-using-large-language-models-20240208\">I wrote a technical article</a> about a new concept: an intelligent AI-Powered screener. The feature is simple. Instead of using ChatGPT to interpret SQL queries, wrangling Excel spreadsheets, and using complicated stock screeners to find new investment opportunities, you\u2019ll instead use a far more natural, intuitive approach: natural language.</p>\n<p>This screener doesn\u2019t just find stocks that hit a new all time high (poking fun at you, RobinHood). By combining Large Language Models, complex data queries, and fundamental stock data, I\u2019ve created a seamless pipeline that can search for stocks based on virtually any fundamental indicator.This includes searching through over 130 industries including healthcare, biotechnology, 3D printing, and renewable energy. In addition, users can filter their search by market cap, price-to-earnings ratio, revenue, net income, EBITDA, free cash flow, and more. This solution offers an intuitive approach to finding new, novel stocks that meet your investment criteria. The best part is that literally anybody can use this feature.</p>\n<p>Curious to learn more? <a href=\"https://nexustrade.io/blog/new-feature-launch--an-ai-feature-that-no-other-investing-platform-has-20240213\">Read the official launch announcement!</a></p>",
+            "date_published": "2024-02-13T13:33:53+00:00",
+            "authors": [
+                {
+                    "name": "Starks-Technology",
+                    "url": "https://www.reddit.com/user/Starks-Technology"
+                }
+            ]
+        },
+        {
             "id": "1anse02",
             "url": "/r/ArtificialInteligence/comments/1anse02/transforming_my_life_with_generative_ai_a_14month/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1anse02/transforming_my_life_with_generative_ai_a_14month/",
