@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1aqbczk",
+            "url": "/r/OpenAI/comments/1aqbczk/researcher_and_cofounder_andrej_karpathy_departs/",
+            "external_url": "https://i.redd.it/440mlnllkgic1.jpeg",
+            "title": "Researcher and co-founder Andrej Karpathy departs OpenAI",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1aqbczk/researcher_and_cofounder_andrej_karpathy_departs/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1aqbczk/researcher_and_cofounder_andrej_karpathy_departs/'>Reddit</a></caption><div><br></div><p>https://www.theinformation.com/articles/openai-researcher-andrej-karpathy-departs</p><div><br></div><img src=\"https://i.redd.it/440mlnllkgic1.jpeg\" />",
+            "date_published": "2024-02-14T02:02:14+00:00",
+            "authors": [
+                {
+                    "name": "assymetry1",
+                    "url": "https://www.reddit.com/user/assymetry1"
+                }
+            ]
+        },
+        {
             "id": "1anmqpw",
             "url": "/r/OpenAI/comments/1anmqpw/who_do_you_think_will_fund_the_gpus/",
             "external_url": "https://i.redd.it/pufuyng5wshc1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Noodletron",
                     "url": "https://www.reddit.com/user/Noodletron"
-                }
-            ]
-        },
-        {
-            "id": "170m1gj",
-            "url": "/r/OpenAI/comments/170m1gj/i_found_the_instructions_that_chatgpt_gets_for/",
-            "external_url": "https://www.reddit.com/gallery/170m1gj",
-            "title": "I found the instructions that ChatGPT gets for DALL\u00b7E Image Generation",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/170m1gj/i_found_the_instructions_that_chatgpt_gets_for/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/170m1gj/i_found_the_instructions_that_chatgpt_gets_for/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-10-05T16:16:06+00:00",
-            "authors": [
-                {
-                    "name": "weldawadyathink",
-                    "url": "https://www.reddit.com/user/weldawadyathink"
                 }
             ]
         }
