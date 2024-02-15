@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1arm56u",
+            "url": "/r/OpenAI/comments/1arm56u/sora/",
+            "external_url": "https://openai.com/sora",
+            "title": "Sora?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1arm56u/sora/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1arm56u/sora/'>Reddit</a></caption><div><br></div><p>Expectations?</p>",
+            "date_published": "2024-02-15T18:19:06+00:00",
+            "authors": [
+                {
+                    "name": "davealexis97",
+                    "url": "https://www.reddit.com/user/davealexis97"
+                }
+            ]
+        },
+        {
             "id": "1arm4ff",
             "url": "/r/OpenAI/comments/1arm4ff/things_are_moving_way_too_fast_openai_on_x/",
             "external_url": "https://twitter.com/OpenAI/status/1758192957386342435",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "trg1408",
                     "url": "https://www.reddit.com/user/trg1408"
-                }
-            ]
-        },
-        {
-            "id": "172g7k4",
-            "url": "/r/OpenAI/comments/172g7k4/cool_weird_stuff_i_made_with_bing_image_generator/",
-            "external_url": "https://www.reddit.com/gallery/172g7k4",
-            "title": "cool weird stuff i made with bing image generator before it banned me",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/172g7k4/cool_weird_stuff_i_made_with_bing_image_generator/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/172g7k4/cool_weird_stuff_i_made_with_bing_image_generator/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-10-07T20:36:34+00:00",
-            "authors": [
-                {
-                    "name": "ihavetopee777",
-                    "url": "https://www.reddit.com/user/ihavetopee777"
                 }
             ]
         }
