@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1arieyz",
+            "url": "/r/aipromptprogramming/comments/1arieyz/is_there_an_existing_name_for_this_raglike/",
+            "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1arieyz/is_there_an_existing_name_for_this_raglike/",
+            "title": "Is there an existing name for this RAG-like technique I've come up with?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1arieyz/is_there_an_existing_name_for_this_raglike/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1arieyz/is_there_an_existing_name_for_this_raglike/'>Reddit</a></caption><div><br></div><p>SUMMARY: It's a form of chat memory, to enable recall of difficult prompt-answer pairs.</p>\n<p>OVERVIEW: Anytime the LLM struggles or fails to generate a correct answer on first try, the final corrected answer is stored in a vector key-value database, with the prompt as the key and the answer as the value.  In the future, if a very similar prompt is presented, past answers are injected into the prompt as n-shot examples.</p>\n<p>EXISTING: This technique seems obvious but I haven't found any prior implementations, yet.  There are several similar techniques, but no 100% matches.  RAG over chat history can do the same things but this is much more precise and effective.  Reflexion's long-term memory seems very similar or perhaps identical, but I'm not sure.</p>\n<p>MECHANISM: The decision of what to store is based on if the agent had to do multiple tries to get an answer correct (e.g. during reflexion) or if human intervention was required to edit an answer to fix issues.</p>\n<p>USE AS KNOWLEDGE:  Another use for this is pre-populated knowledge.  You could populate the store with pre-made prompts ready for use.  This would likely be a highly effective alternative to fine-tuning.</p>\n<hr />\n<p>Is there anything like this?  Is this a sub-component of Reflexion?  Are there standalone implementations?</p>",
+            "date_published": "2024-02-15T15:46:22+00:00",
+            "authors": [
+                {
+                    "name": "funbike",
+                    "url": "https://www.reddit.com/user/funbike"
+                }
+            ]
+        },
+        {
             "id": "1ap0ggq",
             "url": "/r/aipromptprogramming/comments/1ap0ggq/p_i_made_a_free_tool_for_texturing_3d_objects/",
             "external_url": "https://i.redd.it/qhhtys8bj3ic1.gif",
