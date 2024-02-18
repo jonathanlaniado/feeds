@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1attg4d",
+            "url": "/r/selfhosted/comments/1attg4d/rate_my_self_hosted_nfs/",
+            "external_url": "https://i.redd.it/9my1og3hccjc1.png",
+            "title": "Rate my self hosted NFS",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1attg4d/rate_my_self_hosted_nfs/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1attg4d/rate_my_self_hosted_nfs/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/9my1og3hccjc1.png\" />",
+            "date_published": "2024-02-18T12:53:52+00:00",
+            "authors": [
+                {
+                    "name": "Samantha_ONeill",
+                    "url": "https://www.reddit.com/user/Samantha_ONeill"
+                }
+            ]
+        },
+        {
             "id": "1aq41bs",
             "url": "/r/selfhosted/comments/1aq41bs/anyone_else_do_themed_names_for_their_machines/",
             "external_url": "https://i.redd.it/yjjl2ye00fic1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Kowabunga_Dude",
                     "url": "https://www.reddit.com/user/Kowabunga_Dude"
-                }
-            ]
-        },
-        {
-            "id": "16vovjo",
-            "url": "/r/selfhosted/comments/16vovjo/if_youre_not_using_debian_what_are_you_using_and/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/16vovjo/if_youre_not_using_debian_what_are_you_using_and/",
-            "title": "If you're not using Debian, what are you using and why?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/16vovjo/if_youre_not_using_debian_what_are_you_using_and/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/16vovjo/if_youre_not_using_debian_what_are_you_using_and/'>Reddit</a></caption><div><br></div><div><p>So a few months back I started moving some of my services to Rocky Linux since I wanted something rock-solid and stable. We all know what happened shortly thereafter with the whole Red Hat mess.</p>\n<p>Instead of moving back to Ubuntu Server, I started moving to Debian, and let me just say: Wow!</p>\n<p>Debian is significantly faster than Ubuntu Server from my experience, has less bloat, and should be just as stable as Rocky. It's been an absolute pleasure using it.</p>\n<p>So what Linux OS is everyone else using for their self-hosted services and why?</p></div>",
-            "date_published": "2023-09-29T22:04:10+00:00",
-            "authors": [
-                {
-                    "name": "cjchico",
-                    "url": "https://www.reddit.com/user/cjchico"
                 }
             ]
         }
