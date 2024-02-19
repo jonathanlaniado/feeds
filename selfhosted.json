@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1aue3rc",
+            "url": "/r/selfhosted/comments/1aue3rc/psa_unraid_might_be_changing_license_models/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1aue3rc/psa_unraid_might_be_changing_license_models/",
+            "title": "PSA: Unraid might be changing license models",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1aue3rc/psa_unraid_might_be_changing_license_models/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1aue3rc/psa_unraid_might_be_changing_license_models/'>Reddit</a></caption><div><br></div><p>So, it looks like Unraid is switching things up and moving towards an  \"annual support\" model for updates. They just rolled out this new update  system, and in their latest blog post, they mentioned:</p>\n<blockquote>\n<p>This is an entirely new experience from the old updater and was designed  to streamline the process, better surface release information, and  resolve some common issues.  </p>\n<p>(<a href=\"https://unraid.net/blog/new-update-os-tool\">https://unraid.net/blog/new-update-os-tool</a>)</p>\n</blockquote>\n<p>Their code tells a different story, though:</p>\n<pre><code>if (cee.value) {\n  const eee =\n      \"Your {0} license included one year of free updates at the time of purchase. You are now eligible to extend your license and access the latest OS updates.\",\n    tee =\n      \"You are still eligible to access OS updates that were published on or before {1}.\";\n</code></pre>\n<p>Or:</p>\n<pre><code>text: tee.t(\"Extend License\"),\ntitle: tee.t(\n  \"Pay your annual fee to continue receiving OS updates.\"\n ),\n}),\n</code></pre>\n<p>Some translation pieces too:</p>\n<pre><code>Starter: \"Starter\",\nUnleashed: \"Unleashed\",\nLifetime: \"Lifetime\",\n\"Pay your annual fee to continue receiving OS updates.\":\n  \"Pay your annual fee to continue receiving OS updates.\",\n\"Your license key's OS update eligibility has expired. Please renew your license key to enable updates released after your expiration date.\":\n\"Get a Lifetime Key\": \"Get a Lifetime Key\",\n\"Key ineligible for future releases\": \"Key ineligible for future releases\",\n</code></pre>\n<p>(Source for all of these: /usr/local/emhttp/plugins/dynamix.my.servers/unraid-components/_nuxt/unraid-components.client-92728868.js)</p>",
+            "date_published": "2024-02-19T04:06:28+00:00",
+            "authors": [
+                {
+                    "name": "Akadexium",
+                    "url": "https://www.reddit.com/user/Akadexium"
+                }
+            ]
+        },
+        {
             "id": "1attg4d",
             "url": "/r/selfhosted/comments/1attg4d/rate_my_self_hosted_nfs/",
             "external_url": "https://i.redd.it/9my1og3hccjc1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Shendryl",
                     "url": "https://www.reddit.com/user/Shendryl"
-                }
-            ]
-        },
-        {
-            "id": "16wb86m",
-            "url": "/r/selfhosted/comments/16wb86m/is_immich_right_for_me/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/16wb86m/is_immich_right_for_me/",
-            "title": "Is Immich right for me?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/16wb86m/is_immich_right_for_me/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/16wb86m/is_immich_right_for_me/'>Reddit</a></caption><div><br></div><div><p>So I have a server running unraid for media automation. I have a separate share for photos that is excluded from that automation. It has about 3 tb of data which is all of my personal photos/videos for the last decade or more (which includes includes my kids entire lives). Obviously this is very important to me. I have this data backed up on an external HD that I keep at my moms house. </p>\n<p>Since I built my server a couple years ago, I mostly have been using my phone for photos and not a camera. I use google photos to back this up, my wife uses icloud. I want to implement immich and have us both move away from our respective back up solutions. I also want to pay for one 'cloud' back up solution to back up all of my configs plus our personal photos/videos (no interest in backing up my media, I don't have anything rare/hard to replace).    </p>\n<p>Is immich a good choice? Can it take and organize my existing 3 tb of data? Is there a better option than Immich plus Duplicacy for my use case?  </p>\n<p>I will add that I am pretty much a noob and can't problem solve too much on my own, my server was built almost solely by following ibracorp and spaceinvader tutorials. </p></div>",
-            "date_published": "2023-09-30T16:29:19+00:00",
-            "authors": [
-                {
-                    "name": "Kowabunga_Dude",
-                    "url": "https://www.reddit.com/user/Kowabunga_Dude"
                 }
             ]
         }
