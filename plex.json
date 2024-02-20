@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1av2ase",
+            "url": "/r/PleX/comments/1av2ase/uhhhplex_what/",
+            "external_url": "https://i.redd.it/e747t36lmmjc1.jpeg",
+            "title": "Uhhh\u2026Plex? What?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1av2ase/uhhhplex_what/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1av2ase/uhhhplex_what/'>Reddit</a></caption><div><br></div><p>I downloaded a Coheed &amp; Cambria Concert, then converted it from VIDEO_TS to MKV, and somehow, Plex decided that THIS was the right title to match it. Yes, I clicked play. Yes, it was the concert. Was I disappointed? Not sure yet. I\u2019ll unpack that with my therapist.</p><div><br></div><img src=\"https://i.redd.it/e747t36lmmjc1.jpeg\" />",
+            "date_published": "2024-02-19T23:28:12+00:00",
+            "authors": [
+                {
+                    "name": "A_TalkingWalnut",
+                    "url": "https://www.reddit.com/user/A_TalkingWalnut"
+                }
+            ]
+        },
+        {
             "id": "1av2nks",
             "url": "/r/PleX/comments/1av2nks/holy_cow_plex_is_way_better_than_the_alternatives/",
             "external_url": "https://www.reddit.com/r/PleX/comments/1av2nks/holy_cow_plex_is_way_better_than_the_alternatives/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "n0psp",
                     "url": "https://www.reddit.com/user/n0psp"
-                }
-            ]
-        },
-        {
-            "id": "16m00fj",
-            "url": "/r/PleX/comments/16m00fj/realized_ive_created_some_plex_addicts/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/16m00fj/realized_ive_created_some_plex_addicts/",
-            "title": "Realized I've created some Plex addicts.",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16m00fj/realized_ive_created_some_plex_addicts/'>Reddit</a></caption><div><br></div><div><p>My plex server was offline for a week recently while I fixed some server issues caused by a storm (thankfully, it turned out to be some BIOS issues, not hardware like I'd suspected), and you'd think I had turned off the power and running water to my friends' homes.</p>\n<p>Within a half hour of it going out, I was already getting text messages wondering if there was an issue. Once I told them it was a server issue, they all started offering to help pay for any repairs necessary (which I turned down because I don't want to take money) and the tech-minded ones were offering troubleshooting assistance. It turns out that about half of them solely use my Plex now and don't have any other streaming services.</p>\n<p>The whole thing was pretty funny, and now I know that if I ever have an emergency where I can't call for help, I can just disconnect the power for the server and someone will come looking for me shortly.</p></div>",
-            "date_published": "2023-09-18T16:23:36+00:00",
-            "authors": [
-                {
-                    "name": "keenedge422",
-                    "url": "https://www.reddit.com/user/keenedge422"
                 }
             ]
         }
