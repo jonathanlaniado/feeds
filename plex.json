@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1av2nks",
+            "url": "/r/PleX/comments/1av2nks/holy_cow_plex_is_way_better_than_the_alternatives/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/1av2nks/holy_cow_plex_is_way_better_than_the_alternatives/",
+            "title": "Holy cow, Plex is way better than the alternatives",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1av2nks/holy_cow_plex_is_way_better_than_the_alternatives/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1av2nks/holy_cow_plex_is_way_better_than_the_alternatives/'>Reddit</a></caption><div><br></div><p>Over the past week or so, I've been having some playback issues with movies/shows. So as part of my troubleshooting process, I downloaded both Emby and Jellyfin in an attempt to see whether the issue was Plex or some other part of my system (the issue ended up being something unrelated to Plex).</p>\n<p>All I can say is, wow, Plex is way ahead of the others from what little I saw. I have heard time and time again that Emby and/or Jellyfin are better for x, y, or z reasons, but that was not my experience at all. Both of them organized my libraries horrendously, where Plex handles them like a champ. Sometimes even Plex fumbles the ball a little, but never have I seen such a disorganized mess than I did on those other platforms. </p>\n<p>Maybe it's too harsh to fault the others for poor library organization, but IMO that's a huge part of the experience of watching your content. If you can't even find the show or movie you want to watch from your library, what's even the point? </p>\n<p>I do hope the others can catch up to Plex, because we need good competition in this space. I don't want to feel like Plex is the only good option. But based on my experience the last couple of days, they have some work to do.</p>",
+            "date_published": "2024-02-19T23:42:45+00:00",
+            "authors": [
+                {
+                    "name": "Unhappy_Purpose_7655",
+                    "url": "https://www.reddit.com/user/Unhappy_Purpose_7655"
+                }
+            ]
+        },
+        {
             "id": "1ascsth",
             "url": "/r/PleX/comments/1ascsth/whats_the_lowestrated_film_or_show_you_have_in/",
             "external_url": "https://i.redd.it/ur9o0dyw4zic1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "keenedge422",
                     "url": "https://www.reddit.com/user/keenedge422"
-                }
-            ]
-        },
-        {
-            "id": "16kb10u",
-            "url": "/r/PleX/comments/16kb10u/i_get_so_tired_of_telling_the_family_you_know/",
-            "external_url": "https://i.redd.it/z05ohgn54nob1.gif",
-            "title": "I get so tired of telling the family \"You know that's on our Plex...\" when they get frustrated that they can't find it on Hulu, Netflix, Peacock, Paramount, Roku Channel, or Amazon, etc...",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/PleX/comments/16kb10u/i_get_so_tired_of_telling_the_family_you_know/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/z05ohgn54nob1.gif\" />",
-            "date_published": "2023-09-16T16:00:18+00:00",
-            "authors": [
-                {
-                    "name": "rsnumber2",
-                    "url": "https://www.reddit.com/user/rsnumber2"
                 }
             ]
         }
