@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1b4ys7y",
+            "url": "/r/ArcBrowser/comments/1b4ys7y/banana/",
+            "external_url": "https://i.redd.it/94gxi8dfkzlc1.png",
+            "title": "banana",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1b4ys7y/banana/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1b4ys7y/banana/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/94gxi8dfkzlc1.png\" />",
+            "date_published": "2024-03-02T21:07:43+00:00",
+            "authors": [
+                {
+                    "name": "error-the-reddit-boi",
+                    "url": "https://www.reddit.com/user/error-the-reddit-boi"
+                }
+            ]
+        },
+        {
             "id": "1akb9nv",
             "url": "/r/ArcBrowser/comments/1akb9nv/visionos_arc_browser_concept_by_nikita_belousov/",
             "external_url": "https://i.redd.it/qana4gld8zgc1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "djfei",
                     "url": "https://www.reddit.com/user/djfei"
-                }
-            ]
-        },
-        {
-            "id": "17nknvs",
-            "url": "/r/ArcBrowser/comments/17nknvs/an_indicator_for_current_open_favourite_tabs/",
-            "external_url": "https://i.redd.it/0lma5emrrbyb1.jpg",
-            "title": "An indicator for current open favourite tabs would be really nice. Here's a quick concept I made for that",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/17nknvs/an_indicator_for_current_open_favourite_tabs/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/17nknvs/an_indicator_for_current_open_favourite_tabs/'>Reddit</a></caption><div><br></div><p>I get confused sometimes, breaks my flow. What do you guys think? Any other ideas how this could be implemented?</p><div><br></div><img src=\"https://i.redd.it/0lma5emrrbyb1.jpg\" />",
-            "date_published": "2023-11-04T12:30:51+00:00",
-            "authors": [
-                {
-                    "name": "thebazk",
-                    "url": "https://www.reddit.com/user/thebazk"
                 }
             ]
         }
