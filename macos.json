@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "1b4z3k9",
+            "url": "/r/MacOS/comments/1b4z3k9/having_grown_up_with_macs_and_having_recently/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/1b4z3k9/having_grown_up_with_macs_and_having_recently/",
+            "title": "Having grown up with Macs, and having recently shifted to using PC\u2019s for work, I\u2019m astounded by how tolerant Windows users are at accepting things that just plain don\u2019t work.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOS/comments/1b4z3k9/having_grown_up_with_macs_and_having_recently/'>Winston</a> | <a href='https://reddit.com/r/MacOS/comments/1b4z3k9/having_grown_up_with_macs_and_having_recently/'>Reddit</a></caption><div><br></div><p>They don\u2019t seem to have any problem with the constant workarounds, the patches, the endless acceptance of products that just aren\u2019t finished or working right.\nApple isn\u2019t perfect, but it seems like they definitely make the effort to get things sorted before they get released.</p>",
+            "date_published": "2024-03-02T21:20:49+00:00",
+            "authors": [
+                {
+                    "name": "mattblack77",
+                    "url": "https://www.reddit.com/user/mattblack77"
+                }
+            ]
+        },
+        {
             "id": "1auppak",
             "url": "/r/MacOS/comments/1auppak/macos10_suspicious_user/",
             "external_url": "https://i.redd.it/1qb2wgi47kjc1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "FGNYC",
                     "url": "https://www.reddit.com/user/FGNYC"
-                }
-            ]
-        },
-        {
-            "id": "16stv65",
-            "url": "/r/MacOS/comments/16stv65/no_need_to_restart_your_mac_press_cmdr_in_order/",
-            "external_url": "https://www.reddit.com/r/MacOS/comments/16stv65/no_need_to_restart_your_mac_press_cmdr_in_order/",
-            "title": "No need to restart your Mac. Press Cmd+R in order for Sonoma update to show up for you",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/MacOS/comments/16stv65/no_need_to_restart_your_mac_press_cmdr_in_order/'>Reddit</a></caption><div><br></div><div><ol>\n<li>Go to the <strong>Settings &gt; Software Updpate</strong></li>\n<li>Press: <strong>Cmd + R</strong></li>\n<li>Profit \ud83c\udfc1</li>\n</ol>\n<p><a href=\"https://preview.redd.it/axr6quj1vmqb1.png?width=1348&amp;format=png&amp;auto=webp&amp;s=3336eaa45d0914f7dcb8d5ee0f24d950c0350ce7\">Press CMD+R in order for major macOS update to show up for you</a></p></div>",
-            "date_published": "2023-09-26T17:16:11+00:00",
-            "authors": [
-                {
-                    "name": "DamiRocK",
-                    "url": "https://www.reddit.com/user/DamiRocK"
                 }
             ]
         }
