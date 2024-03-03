@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1b58hqa",
+            "url": "/r/OpenAI/comments/1b58hqa/when_i_saw_sora_latest_new_video_i_knew_i_had_to/",
+            "external_url": "https://v.redd.it/fqdsjefxs1mc1",
+            "title": "When I saw Sora latest new video I knew I had to do this \ud83d\ude05",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1b58hqa/when_i_saw_sora_latest_new_video_i_knew_i_had_to/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1b58hqa/when_i_saw_sora_latest_new_video_i_knew_i_had_to/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-03-03T04:38:47+00:00",
+            "authors": [
+                {
+                    "name": "Loopnmix",
+                    "url": "https://www.reddit.com/user/Loopnmix"
+                }
+            ]
+        },
+        {
             "id": "1av3lzp",
             "url": "/r/OpenAI/comments/1av3lzp/times_have_changed/",
             "external_url": "https://v.redd.it/os6o7425wmjc1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Biasanya",
                     "url": "https://www.reddit.com/user/Biasanya"
-                }
-            ]
-        },
-        {
-            "id": "17408ue",
-            "url": "/r/OpenAI/comments/17408ue/chatgpts_new_gpt4_document_retrieval_model/",
-            "external_url": "https://www.reddit.com/r/OpenAI/comments/17408ue/chatgpts_new_gpt4_document_retrieval_model/",
-            "title": "ChatGPT's new \"GPT-4 Document Retrieval\" model",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/17408ue/chatgpts_new_gpt4_document_retrieval_model/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/17408ue/chatgpts_new_gpt4_document_retrieval_model/'>Reddit</a></caption><div><br></div><p>Have you heard about ChatGPT's new \"GPT-4 Document Retrieval\" model?</p>\n<p>&#x200B;</p>\n<p>I recently discovered this and a lot more. With its GPT-4 Advanced Data Analysis (previously known as \"Code Interpreter\") \"Enterprise version\" model, ChatGPT can now handle files like PDFs and research papers. You can upload them and ask the platform anything about their contents, be it translations, comparisons, or deep insights.</p>\n<p><a href=\"https://preview.redd.it/73a2bjth78tb1.png?width=1860&amp;format=png&amp;auto=webp&amp;s=3e8d330e82b65405da906157a2cba69f604b5eaf\">Screenshot of the description of the new Advanced Data Analysis model for ChatGPT Enterprise customers</a></p>\n<p>What is interesting are also mentions of terms like \"memory\" and \"context connectors.\" These connectors seem ready to work with platforms like Google Drive and Office 365.</p>\n<p><a href=\"https://preview.redd.it/hayl5rni78tb1.png?width=3344&amp;format=png&amp;auto=webp&amp;s=32fcbccb9df68a7cc8879f0e66291cf819f97431\">Screenshot from the public client-side source code of ChatGPT mentioning the new GPT-4 Document Retrieval model, context connectors, and memory</a></p>\n<p>What do you think about these developments?</p>",
-            "date_published": "2023-10-09T19:12:34+00:00",
-            "authors": [
-                {
-                    "name": "btibor91",
-                    "url": "https://www.reddit.com/user/btibor91"
                 }
             ]
         }
