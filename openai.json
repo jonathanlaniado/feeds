@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1b6c3e5",
+            "url": "/r/OpenAI/comments/1b6c3e5/from_anthropic_claude_3_better_than_gpt4_and/",
+            "external_url": "https://www.linkedin.com/posts/anthropicresearch_today-were-announcing-the-claude-3-model-activity-7170419945292455936-BPaN?utm_source=share&utm_medium=member_desktop",
+            "title": "From Anthropic: Claude 3 better than GPT-4 and Gemini Ultra in tests",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1b6c3e5/from_anthropic_claude_3_better_than_gpt4_and/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1b6c3e5/from_anthropic_claude_3_better_than_gpt4_and/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-03-04T14:23:25+00:00",
+            "authors": [
+                {
+                    "name": "voyageraya",
+                    "url": "https://www.reddit.com/user/voyageraya"
+                }
+            ]
+        },
+        {
             "id": "1b5tibu",
             "url": "/r/OpenAI/comments/1b5tibu/damn_gpt_vision_is_good/",
             "external_url": "https://i.redd.it/wt4x20qiz6mc1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "polyology",
                     "url": "https://www.reddit.com/user/polyology"
-                }
-            ]
-        },
-        {
-            "id": "177jaiu",
-            "url": "/r/OpenAI/comments/177jaiu/vision_test/",
-            "external_url": "https://www.reddit.com/gallery/177jaiu",
-            "title": "Vision test",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/177jaiu/vision_test/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/177jaiu/vision_test/'>Reddit</a></caption><div><br></div><p>This is insane the find the hidden image works perfectly in a matter of seconds, the spot the difference had a couple of mistakes though</p>",
-            "date_published": "2023-10-14T06:37:32+00:00",
-            "authors": [
-                {
-                    "name": "sirdidymus1078",
-                    "url": "https://www.reddit.com/user/sirdidymus1078"
                 }
             ]
         }
