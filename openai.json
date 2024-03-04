@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1b5tibu",
+            "url": "/r/OpenAI/comments/1b5tibu/damn_gpt_vision_is_good/",
+            "external_url": "https://i.redd.it/wt4x20qiz6mc1.jpeg",
+            "title": "Damn\u2026 GPT Vision is good.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1b5tibu/damn_gpt_vision_is_good/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1b5tibu/damn_gpt_vision_is_good/'>Reddit</a></caption><div><br></div><p>I love reading with this thing as a study buddy.</p>\n<p>I have been trying to get my head round some AI/ ML papers, and boy it is an excellent helper in working through them.</p>\n<p>Here is how it explained the attached screenshot\u2026</p>\n<p>\u2018This part of the text is about a computer program that can make a clear picture from a very blurry or noisy one. It's like having a photo with lots of static that makes it hard to see, and then the program cleans it up step by step until it looks like a normal photo.</p>\n<p>Here\u2019s how it works using a fun example:</p>\n<p>Imagine you have a very messy room (this is like the noisy image). Each day for a week (each step or T step), you clean up a bit of the mess (this is the denoising part). Each night, your little brother comes in and messes up the room again, but less than before (this is adding noise back but less each time). By the end of the week, your room is clean (this is the real, clear image). The math in the text tells the computer exactly how to clean the room each day and how much mess your brother will make each night.\u2019</p>\n<p>I\u2019m sure it\u2019s not a perfect explanation\u2026 but it gives me the motivation to read on and keep trying.</p>\n<p>I have to say, I\u2019m generally having an awesome time with GPT4 nowadays. Yes it can be a bit unpredictable at times. But good lord, I feel like a superhuman with this thing by my side.</p>\n<p>Sincerest thanks to Sam and the Team. </p><div><br></div><img src=\"https://i.redd.it/wt4x20qiz6mc1.jpeg\" />",
+            "date_published": "2024-03-03T22:04:37+00:00",
+            "authors": [
+                {
+                    "name": "Smartaces",
+                    "url": "https://www.reddit.com/user/Smartaces"
+                }
+            ]
+        },
+        {
             "id": "1b5airf",
             "url": "/r/OpenAI/comments/1b5airf/guy_builds_an_aisteered_homingkiller_drone_in/",
             "external_url": "https://i.redd.it/0l5x853nd2mc1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "sirdidymus1078",
                     "url": "https://www.reddit.com/user/sirdidymus1078"
-                }
-            ]
-        },
-        {
-            "id": "1778z6k",
-            "url": "/r/OpenAI/comments/1778z6k/chatgpt_wins_a_game_of_pokemon_against_a_human/",
-            "external_url": "https://www.reddit.com/gallery/1778z6k",
-            "title": "ChatGPT wins a game of Pokemon against a human with Image Input Capability",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/1778z6k/chatgpt_wins_a_game_of_pokemon_against_a_human/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/1778z6k/chatgpt_wins_a_game_of_pokemon_against_a_human/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-10-13T21:17:25+00:00",
-            "authors": [
-                {
-                    "name": "ys3sl",
-                    "url": "https://www.reddit.com/user/ys3sl"
                 }
             ]
         }
