@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1b6bjss",
+            "url": "/r/macapps/comments/1b6bjss/why_im_switching_from_alfred_to_raycast/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1b6bjss/why_im_switching_from_alfred_to_raycast/",
+            "title": "Why I'm Switching From Alfred to Raycast",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1b6bjss/why_im_switching_from_alfred_to_raycast/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1b6bjss/why_im_switching_from_alfred_to_raycast/'>Reddit</a></caption><div><br></div><p>After my recent post about how I use Alfred as my personal assistant, somebody suggested I try Raycast.</p>\n<p>I was skeptical, but Raycast proved to be the better version, and Alfred's time may be long gone.</p>\n<p>&#x200B;</p>\n<p><strong>Leaving Alfred</strong></p>\n<p>I have every reason to stay with Alfred as my top productivity app.</p>\n<p>I invested in the power pack and customized every part to fit routines.</p>\n<p>It was a great solution, but trying Raycast has highlighted some issues I had with Alfred that I\u2019ve ignored.</p>\n<p>&#x200B;</p>\n<p><strong>Looks</strong></p>\n<p>While Alfred does offer many themes to choose from, most of them look outdated.</p>\n<p>The default look of Raycast looks more polished and fresh straight out of the gate.</p>\n<p>&#x200B;</p>\n<p><strong>Navigating</strong></p>\n<p>A big advantage Raycast has over Alfred is how it represents everything.</p>\n<p>The Spotify extension shows you a large display of what is playing, and the \u201cMy Schedule\u201d shortcut shows you a quick peek into your calendar without opening it.</p>\n<p>Alfred seems limited to the displayed rows, which is fine but certainly less appealing.</p>\n<p>&#x200B;</p>\n<p><strong>Managing Workflows / Extensions</strong></p>\n<p>This was a big selling point for me because these are the heart of the apps.</p>\n<p>Adding a workflow to Alfred had a bit of friction to it. You had to download it from a website, and many of them suddenly stopped working over the years.</p>\n<p>You would also see the confusing workflow charts of each workflow and understand where you need to add the hotkey or when to update it.</p>\n<p>But with Raycast, I installed all my favorite extensions from the Raycast command line within minutes.</p>\n<p>The extension table clearly shows how to set up hotkeys and aliases for every action.</p>\n<p>Setting it up was a fun and easy experience.</p>\n<p>&#x200B;</p>\n<p><strong>New Features</strong></p>\n<p>Here are some of the new extensions I\u2019ve installed that I didn\u2019t find on Alfred:</p>\n<p>My Schedule: Raycast connects to my calendar and gives me a quick rundown of my events.</p>\n<p>Smart Converter / Calculator: this feature can perform all the basic calculator tasks but also tell you the date \u201c5 months from now\u201d and how much are 50 dollars in euros. Very handy.</p>\n<p>AirPods connector: Alfred has one, but it broke for me several times, and I couldn\u2019t get it to work. Raycast\u2019s one works seamlessly. I can connect my AirPods by typing Command+P.</p>\n<p>Translate: Alfred's \u201ctranslate\u201d workflow sends you to the web. Raycast one translates everything within the app itself.</p>\n<p>Floating Notes: show and hide cool-looking sticky notes.</p>\n<p>Raycast also offers AI capabilities for those willing to pay for the \u201cPro\u201d subscription, but I haven\u2019t tried it yet.</p>\n<p>&#x200B;</p>\n<p>(P.s my full post is <a href=\"https://simplyproductive.substack.com/p/why-im-switching-from-alfred-to-raycast\">here</a>)</p>\n<p>&#x200B;</p>\n<p>What do you think? Did I make a good choice?</p>",
+            "date_published": "2024-03-04T13:59:53+00:00",
+            "authors": [
+                {
+                    "name": "idoop9",
+                    "url": "https://www.reddit.com/user/idoop9"
+                }
+            ]
+        },
+        {
             "id": "1b5ezzy",
             "url": "/r/macapps/comments/1b5ezzy/does_anybody_know_the_name_of_these_tools_to/",
             "external_url": "https://v.redd.it/q2f1f52ct3mc1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "smoGGGGG",
                     "url": "https://www.reddit.com/user/smoGGGGG"
-                }
-            ]
-        },
-        {
-            "id": "178bgqc",
-            "url": "/r/macapps/comments/178bgqc/one_task_conquer_one_task_at_a_time/",
-            "external_url": "https://apps.apple.com/app/one-task/id6465745322",
-            "title": "One Task \u2014 Conquer one task at a time",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/178bgqc/one_task_conquer_one_task_at_a_time/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/178bgqc/one_task_conquer_one_task_at_a_time/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-10-15T09:08:20+00:00",
-            "authors": [
-                {
-                    "name": "sindresorhus",
-                    "url": "https://www.reddit.com/user/sindresorhus"
                 }
             ]
         }
