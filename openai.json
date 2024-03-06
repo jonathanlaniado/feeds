@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1b7o8x2",
+            "url": "/r/OpenAI/comments/1b7o8x2/openai_v_musk_openai_responds_to_elon_musk/",
+            "external_url": "https://i.redd.it/0rsixoutkmmc1.jpeg",
+            "title": "OpenAI v Musk (openai responds to elon musk)",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1b7o8x2/openai_v_musk_openai_responds_to_elon_musk/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1b7o8x2/openai_v_musk_openai_responds_to_elon_musk/'>Reddit</a></caption><div><br></div><p>https://openai.com/blog/openai-elon-musk</p>\n<p>https://twitter.com/OpenAI/status/1765201089366773913?s=19</p><div><br></div><img src=\"https://i.redd.it/0rsixoutkmmc1.jpeg\" />",
+            "date_published": "2024-03-06T02:30:45+00:00",
+            "authors": [
+                {
+                    "name": "assymetry1",
+                    "url": "https://www.reddit.com/user/assymetry1"
+                }
+            ]
+        },
+        {
             "id": "1b75uje",
             "url": "/r/OpenAI/comments/1b75uje/cmon_do_something/",
             "external_url": "https://i.redd.it/m5waxkvruimc1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "martinbitter",
                     "url": "https://www.reddit.com/user/martinbitter"
-                }
-            ]
-        },
-        {
-            "id": "179a7ir",
-            "url": "/r/OpenAI/comments/179a7ir/i_built_an_ai_powered_writing_tools_that_acts_as/",
-            "external_url": "https://v.redd.it/1bv9ru5qdlub1",
-            "title": "I built an AI powered writing tools that acts as your AI co-author",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/179a7ir/i_built_an_ai_powered_writing_tools_that_acts_as/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/179a7ir/i_built_an_ai_powered_writing_tools_that_acts_as/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-10-16T16:33:41+00:00",
-            "authors": [
-                {
-                    "name": "CallFromMargin",
-                    "url": "https://www.reddit.com/user/CallFromMargin"
                 }
             ]
         }
