@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "1b84w64",
+            "url": "/r/apple/comments/1b84w64/apple_terminated_epics_developer_account/",
+            "external_url": "https://www.epicgames.com/site/en-US/news/apple-terminated-epic-s-developer-account",
+            "title": "Apple terminated Epic's developer account",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/apple/comments/1b84w64/apple_terminated_epics_developer_account/'>Winston</a> | <a href='https://reddit.com/r/apple/comments/1b84w64/apple_terminated_epics_developer_account/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-03-06T17:02:08+00:00",
+            "authors": [
+                {
+                    "name": "picastchio",
+                    "url": "https://www.reddit.com/user/picastchio"
+                }
+            ]
+        },
+        {
             "id": "1b7c5el",
             "url": "/r/apple/comments/1b7c5el/apple_has_released_ios_174/",
             "external_url": "https://9to5mac.com/2024/03/05/ios-17-4-now-available/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "BadWolf1912",
                     "url": "https://www.reddit.com/user/BadWolf1912"
-                }
-            ]
-        },
-        {
-            "id": "17yibr5",
-            "url": "/r/apple/comments/17yibr5/nothing_kills_imessage_bridge_because_it/",
-            "external_url": "https://appleinsider.com/articles/23/11/18/nothing-kills-imessage-bridge-because-it-profoundly-violated-user-privacy-security",
-            "title": "Nothing kills iMessage bridge because it profoundly violated user privacy",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/apple/comments/17yibr5/nothing_kills_imessage_bridge_because_it/'>Apollo</a> | <a href='https://reddit.com/r/apple/comments/17yibr5/nothing_kills_imessage_bridge_because_it/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-11-18T22:48:55+00:00",
-            "authors": [
-                {
-                    "name": "undergroundbynature",
-                    "url": "https://www.reddit.com/user/undergroundbynature"
                 }
             ]
         }
