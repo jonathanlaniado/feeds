@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1b8x36e",
+            "url": "/r/ArcBrowser/comments/1b8x36e/arc_for_windows_update_0120/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1b8x36e/arc_for_windows_update_0120/",
+            "title": "Arc for Windows Update - 0.12.0",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1b8x36e/arc_for_windows_update_0120/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1b8x36e/arc_for_windows_update_0120/'>Reddit</a></caption><div><br></div><p>\ud83d\udcc6 Mar 7, 2024</p>\n<blockquote>\n<ul>\n<li>We now have full touch screen support</li>\n<li>Emoji inputs now work as expected with Win+.</li>\n<li>You can now right click/two finger tap on your Sidebar to bring up the Space options context menu</li>\n<li>We updated our toggle switches in Settings to be in line with Windows standards</li>\n<li>When hovering over links the status pill will now match your Sidebar theme</li>\n<li>We added tooltips for close window and minimize window when Arc is full screened</li>\n<li>We fixed an issue where a Space name will not get replaced with the placeholder name (Space 1, for example) when the Space name has been removed</li>\n<li>We fixed an issue where the Opera logo would not display when using Import from Another Browser</li>\n<li>We fixed an issue where extension icons would not load after install</li>\n<li>We fixed an issue where there would be a space for the download icon in the Sidebar even when the icon is hidden and no downloads are visible</li>\n<li>We fixed an issue where toggling switches in Site Settings caused a flicker</li>\n<li>We fixed a crash that occurred when using Import from Another Browser</li>\n<li>We have reduced the resource usage of background tabs</li>\n</ul>\n</blockquote>",
+            "date_published": "2024-03-07T15:14:24+00:00",
+            "authors": [
+                {
+                    "name": "JaceThings",
+                    "url": "https://www.reddit.com/user/JaceThings"
+                }
+            ]
+        },
+        {
             "id": "1b4ys7y",
             "url": "/r/ArcBrowser/comments/1b4ys7y/banana/",
             "external_url": "https://i.redd.it/94gxi8dfkzlc1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "naveencwork",
                     "url": "https://www.reddit.com/user/naveencwork"
-                }
-            ]
-        },
-        {
-            "id": "17oa94j",
-            "url": "/r/ArcBrowser/comments/17oa94j/i_turned_arc_into_my_personal_website_builder/",
-            "external_url": "https://v.redd.it/lopjvlf8miyb1",
-            "title": "I turned Arc into my personal website builder",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/17oa94j/i_turned_arc_into_my_personal_website_builder/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/17oa94j/i_turned_arc_into_my_personal_website_builder/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-11-05T11:53:27+00:00",
-            "authors": [
-                {
-                    "name": "djfei",
-                    "url": "https://www.reddit.com/user/djfei"
                 }
             ]
         }
