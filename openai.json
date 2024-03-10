@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1bbi9wp",
+            "url": "/r/OpenAI/comments/1bbi9wp/i_made_an_extension_to_search_through_the/",
+            "external_url": "https://v.redd.it/15uuhn1z2knc1",
+            "title": "I made an extension to search through the conversation history.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1bbi9wp/i_made_an_extension_to_search_through_the/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1bbi9wp/i_made_an_extension_to_search_through_the/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-03-10T19:12:06+00:00",
+            "authors": [
+                {
+                    "name": "polywock",
+                    "url": "https://www.reddit.com/user/polywock"
+                }
+            ]
+        },
+        {
             "id": "1baq5th",
             "url": "/r/OpenAI/comments/1baq5th/no_ubi_is_coming/",
             "external_url": "https://www.reddit.com/r/OpenAI/comments/1baq5th/no_ubi_is_coming/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "thricegrate",
                     "url": "https://www.reddit.com/user/thricegrate"
-                }
-            ]
-        },
-        {
-            "id": "17fq3rn",
-            "url": "/r/OpenAI/comments/17fq3rn/dalle_via_gpt_suddenly_started_generating_very/",
-            "external_url": "https://www.reddit.com/r/OpenAI/comments/17fq3rn/dalle_via_gpt_suddenly_started_generating_very/",
-            "title": "Dall-e via gpt suddenly started generating very sexual images.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/17fq3rn/dalle_via_gpt_suddenly_started_generating_very/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/17fq3rn/dalle_via_gpt_suddenly_started_generating_very/'>Reddit</a></caption><div><br></div><p>I've generated a few anime style images of myself just for fun, and they're usually just cute and pretty looking, but suddenly today it started generating overly sexual images. It gives me extremely large breasts, and even made me nude in one of them with nipples visible.</p>\n<p>This happens even with new chats.</p>\n<p>Anyone know why this might be happening? I haven't updated the custom instructions at all in a long time. I'm afraid I'll get banned if it keep generating stuff like this</p>\n<p>Edit: I also tried using the exact same message as in a previous chat, and the results were way more sexual now. </p>",
-            "date_published": "2023-10-24T23:00:11+00:00",
-            "authors": [
-                {
-                    "name": "ImChickenCurry",
-                    "url": "https://www.reddit.com/user/ImChickenCurry"
                 }
             ]
         }
