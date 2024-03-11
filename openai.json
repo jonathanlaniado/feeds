@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1bbyj8s",
+            "url": "/r/OpenAI/comments/1bbyj8s/sam_altmans_tweet/",
+            "external_url": "https://i.redd.it/va5554fo3onc1.jpeg",
+            "title": "Sam Altman's Tweet",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1bbyj8s/sam_altmans_tweet/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1bbyj8s/sam_altmans_tweet/'>Reddit</a></caption><div><br></div><p>If someone else had said that, you would have called him mentally ill.</p><div><br></div><img src=\"https://i.redd.it/va5554fo3onc1.jpeg\" />",
+            "date_published": "2024-03-11T08:42:19+00:00",
+            "authors": [
+                {
+                    "name": "BilgeYamtar",
+                    "url": "https://www.reddit.com/user/BilgeYamtar"
+                }
+            ]
+        },
+        {
             "id": "1bbxlvs",
             "url": "/r/OpenAI/comments/1bbxlvs/normies_watching_ai_debates_like/",
             "external_url": "https://v.redd.it/kiikprbmrnnc1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "danruse",
                     "url": "https://www.reddit.com/user/danruse"
-                }
-            ]
-        },
-        {
-            "id": "17in1uh",
-            "url": "/r/OpenAI/comments/17in1uh/using_chatgpts_voice_to_learn_a_language_is/",
-            "external_url": "https://www.reddit.com/r/OpenAI/comments/17in1uh/using_chatgpts_voice_to_learn_a_language_is/",
-            "title": "Using ChatGPT's Voice to learn a language is pretty incredible.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/17in1uh/using_chatgpts_voice_to_learn_a_language_is/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/17in1uh/using_chatgpts_voice_to_learn_a_language_is/'>Reddit</a></caption><div><br></div><p>I'm improving my mother tongue (let's say its German) that I only learnt until the age of 3 years old. The best way to improve a language beyond the beginners stage is by talking. of course, though it could be difficult to find people to talk to, tutors can be problematic and software up until now was subpar.</p>\n<p>Voice, however is extraordinary. I ask chatgpt to correct my sentence in German and give three alternative ways in better German to say it, and then to continue the conversation by asking me a question in German It doesn't extraordinarily well, and gives phrases that are of typical use German.</p>\n<p>Funny enough the accent that is used is an American German, however the pronunciation is perfect, and with the variable intonations it sounds very realistic.</p>\n<p>What I find even more amazing is that I can say phrases in my terrible German, including substituting English words for words I can't remember in German, or if I mangle the sentence, and chatgpt understands everything including my point for that sentence. It's pretty crazy.</p>\n<p>I tried using it to help me learn French which is at a low level than my German and even after asking it to speak slowly, it's still speaks too quickly in French. This is hopefully something they will give us control over, as currently it's a bit too quick for more beginner language learning.</p>\n<p>However for any level of learning there is a great plugin called Speak, Which is very good for written language learning . I ask it to correct my sentence, provide free alternative ways to say the sentence in the language (formal colloquial and slang), and then to ask me a question in the language to continue the conversation. It works better than chatgpt without the plugin.</p>\n<p>I also use German in my work occasionally with clients, and I need to improve it, so I ask the AI to role play with me, and this is very useful.</p>\n<p>All in all, AI is already a marvellous tool for language learning.</p>",
-            "date_published": "2023-10-28T21:03:32+00:00",
-            "authors": [
-                {
-                    "name": "bnm777",
-                    "url": "https://www.reddit.com/user/bnm777"
                 }
             ]
         }
