@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1bbw6ta",
+            "url": "/r/selfhosted/comments/1bbw6ta/psa_use_tmux/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1bbw6ta/psa_use_tmux/",
+            "title": "PSA: Use TMUX.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1bbw6ta/psa_use_tmux/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1bbw6ta/psa_use_tmux/'>Reddit</a></caption><div><br></div><p>No one tells you this when you're just starting, especially since most new users just stick with graphical interfaces, but as soon as you start moving towards using the CLI or if you want to learn server administration, learn to use TMUX ASAP.</p>\n<p>I got disconnected from my VPS when I was doing a 'do-release-upgrade'...</p>\n<p>Explanation on what it does: https://www.youtube.com/watch?v=U41BTVZLKB0</p>\n<p>Cheat sheet: https://tmuxcheatsheet.com/</p>",
+            "date_published": "2024-03-11T05:56:07+00:00",
+            "authors": [
+                {
+                    "name": "auron_py",
+                    "url": "https://www.reddit.com/user/auron_py"
+                }
+            ]
+        },
+        {
             "id": "1b85rq3",
             "url": "/r/selfhosted/comments/1b85rq3/alternative_to_trello/",
             "external_url": "https://i.redd.it/mdnrohz32rmc1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "KillerTic",
                     "url": "https://www.reddit.com/user/KillerTic"
-                }
-            ]
-        },
-        {
-            "id": "16y09p7",
-            "url": "/r/selfhosted/comments/16y09p7/jellyfin_call_for_developers/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/16y09p7/jellyfin_call_for_developers/",
-            "title": "Jellyfin call for developers",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/16y09p7/jellyfin_call_for_developers/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/16y09p7/jellyfin_call_for_developers/'>Reddit</a></caption><div><br></div><iframe style='min-width: min(100%, 500px); height: 100vw; border: none;' id='reddit-embed' src='https://www.redditmedia.com/r/selfhosted/comments/16y09p7?embed=true' sandbox='allow-scripts allow-same-origin allow-popups' scrolling='no'></iframe><div><br></div><div><p>https://jellyfin.org/posts/a-call-for-developers/</p></div>",
-            "date_published": "2023-10-02T15:52:27+00:00",
-            "authors": [
-                {
-                    "name": "tadzoo",
-                    "url": "https://www.reddit.com/user/tadzoo"
                 }
             ]
         }
