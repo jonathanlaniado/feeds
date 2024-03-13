@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1bdnlde",
+            "url": "/r/selfhosted/comments/1bdnlde/what_are_the_services_that_you_still_have_not/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1bdnlde/what_are_the_services_that_you_still_have_not/",
+            "title": "What are the services that you still have NOT been able to replace with self-hosted software?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1bdnlde/what_are_the_services_that_you_still_have_not/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1bdnlde/what_are_the_services_that_you_still_have_not/'>Reddit</a></caption><div><br></div><p>For me it's these:</p>\n<ol>\n<li>\n<p>Email - it just seems like a lot of continuous work and monitoring. Setting it up is not the problem, constantly having to tinker with it, is.</p>\n</li>\n<li>\n<p>Fitness software - something which sync with my smart watch/fitness band. I'm still having to use proprietary solutions.</p>\n</li>\n<li>\n<p>Microsoft Office - although alternatives exist, none are as mobile friendly as Word/Excel.</p>\n</li>\n</ol>",
+            "date_published": "2024-03-13T09:53:04+00:00",
+            "authors": [
+                {
+                    "name": "Acceptable-Jump-8332",
+                    "url": "https://www.reddit.com/user/Acceptable-Jump-8332"
+                }
+            ]
+        },
+        {
             "id": "1bbw6ta",
             "url": "/r/selfhosted/comments/1bbw6ta/psa_use_tmux/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1bbw6ta/psa_use_tmux/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Alternative-Rich-578",
                     "url": "https://www.reddit.com/user/Alternative-Rich-578"
-                }
-            ]
-        },
-        {
-            "id": "16ydrzx",
-            "url": "/r/selfhosted/comments/16ydrzx/welcome_to_my_homelab_your_gateway_to_selfhosting/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/16ydrzx/welcome_to_my_homelab_your_gateway_to_selfhosting/",
-            "title": "Welcome to My Homelab: Your Gateway to Self-Hosting!",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/16ydrzx/welcome_to_my_homelab_your_gateway_to_selfhosting/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/16ydrzx/welcome_to_my_homelab_your_gateway_to_selfhosting/'>Reddit</a></caption><div><br></div>Hi everyone,\n\nI hope I understood the rules correctly, and this does not fall into any frowned-upon category! I have started my self-hosting journey about 4 years ago, running quite a lot at home - over 44 containers, and thoroughly enjoy what I have done and learned. On my way, I have taught three people what I have done and got them to join our little rabbit hole.\n\nNow I wanted to be able to share with more people and started my own site (based on Ghost) and today marks the first day of sharing. My first post just went live, which is \"just\" a general overview of my homelab. In the future, I will dive deeper into specific aspects of my setup in order to actually create a learning experience for others.\n\nIf you liked the article, please do let me know, and I am also very interested in knowing if there are certain aspects you want to know more about.\n\n[https://nerdyarticles.com/my-homelab-a-general-overview/](https://nerdyarticles.com/my-homelab-a-general-overview/)\n\n&#x200B;\n\n[My Homelab](https://preview.redd.it/5quoxl9kvvrb1.png?width=2272&format=png&auto=webp&s=915a9bf30484c45e5560b873e5dcd9c1fd769dc5)<div><br></div><div><p>Hi everyone,</p>\n<p>I hope I understood the rules correctly, and this does not fall into any frowned-upon category! I have started my self-hosting journey about 4 years ago, running quite a lot at home - over 44 containers, and thoroughly enjoy what I have done and learned. On my way, I have taught three people what I have done and got them to join our little rabbit hole.</p>\n<p>Now I wanted to be able to share with more people and started my own site (based on Ghost) and today marks the first day of sharing. My first post just went live, which is \"just\" a general overview of my homelab. In the future, I will dive deeper into specific aspects of my setup in order to actually create a learning experience for others.</p>\n<p>If you liked the article, please do let me know, and I am also very interested in knowing if there are certain aspects you want to know more about.</p>\n<p><a href=\"https://nerdyarticles.com/my-homelab-a-general-overview/\">https://nerdyarticles.com/my-homelab-a-general-overview/</a></p>\n<p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/5quoxl9kvvrb1.png?width=2272&amp;format=png&amp;auto=webp&amp;s=915a9bf30484c45e5560b873e5dcd9c1fd769dc5\">My Homelab</a></p></div>",
-            "date_published": "2023-10-03T00:41:32+00:00",
-            "authors": [
-                {
-                    "name": "KillerTic",
-                    "url": "https://www.reddit.com/user/KillerTic"
                 }
             ]
         }
