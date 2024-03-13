@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1bdt6id",
+            "url": "/r/OpenAI/comments/1bdt6id/openai_with_figure/",
+            "external_url": "https://v.redd.it/v0hy1u6v54oc1",
+            "title": "OpenAI with Figure",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1bdt6id/openai_with_figure/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1bdt6id/openai_with_figure/'>Reddit</a></caption><div><br></div><p>This is crazy.</p>",
+            "date_published": "2024-03-13T14:43:07+00:00",
+            "authors": [
+                {
+                    "name": "Chika1472",
+                    "url": "https://www.reddit.com/user/Chika1472"
+                }
+            ]
+        },
+        {
             "id": "1bd270p",
             "url": "/r/OpenAI/comments/1bd270p/thoughts/",
             "external_url": "https://v.redd.it/1p3f9osmoxnc1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Unreal_777",
                     "url": "https://www.reddit.com/user/Unreal_777"
-                }
-            ]
-        },
-        {
-            "id": "17lj0zo",
-            "url": "/r/OpenAI/comments/17lj0zo/reddit_icon/",
-            "external_url": "https://i.redd.it/ifgkf2r17sxb1.jpg",
-            "title": "Reddit icon",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/17lj0zo/reddit_icon/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/17lj0zo/reddit_icon/'>Reddit</a></caption><div><br></div><p>Asked Dall-e to create the reddit icon.</p><div><br></div><img src=\"https://i.redd.it/ifgkf2r17sxb1.jpg\" />",
-            "date_published": "2023-11-01T18:40:51+00:00",
-            "authors": [
-                {
-                    "name": "KratosSpeaking",
-                    "url": "https://www.reddit.com/user/KratosSpeaking"
                 }
             ]
         }
