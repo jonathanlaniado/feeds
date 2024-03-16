@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1bg986l",
+            "url": "/r/PleX/comments/1bg986l/my_two_servers_one_on_a_synology_ds1520_and_one/",
+            "external_url": "https://i.redd.it/0n8opulnxpoc1.jpeg",
+            "title": "My two servers, one on a Synology DS1520+ and one on a Mac Mini M1",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1bg986l/my_two_servers_one_on_a_synology_ds1520_and_one/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1bg986l/my_two_servers_one_on_a_synology_ds1520_and_one/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/0n8opulnxpoc1.jpeg\" />",
+            "date_published": "2024-03-16T15:56:15+00:00",
+            "authors": [
+                {
+                    "name": "Fun_Whole_4472",
+                    "url": "https://www.reddit.com/user/Fun_Whole_4472"
+                }
+            ]
+        },
+        {
             "id": "1be3x05",
             "url": "/r/PleX/comments/1be3x05/bbc_news_coming_to_plexs_live_tv_channels/",
             "external_url": "https://thedesk.net/news/bbc-news-free-streaming-channel-united-states/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "samwiseg0",
                     "url": "https://www.reddit.com/user/samwiseg0"
-                }
-            ]
-        },
-        {
-            "id": "16sjfuj",
-            "url": "/r/PleX/comments/16sjfuj/hiding_movies/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/16sjfuj/hiding_movies/",
-            "title": "Hiding movies",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16sjfuj/hiding_movies/'>Reddit</a></caption><div><br></div><div><p>Is there a way to hide movies in my library? For instance, I\u2019ve put all of the Harry Potter movies into a collection, but they all still show individually in my library. My OCD kicks in because they\u2019re out of order and the posters of the movies feature numbers that aren\u2019t sorted chronologically in my library.</p></div>",
-            "date_published": "2023-09-26T09:56:30+00:00",
-            "authors": [
-                {
-                    "name": "Rainfall827",
-                    "url": "https://www.reddit.com/user/Rainfall827"
                 }
             ]
         }
