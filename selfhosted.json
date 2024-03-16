@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1bgezig",
+            "url": "/r/selfhosted/comments/1bgezig/i_made_wanderer_a_selfhosted_trail_and_gps_track/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1bgezig/i_made_wanderer_a_selfhosted_trail_and_gps_track/",
+            "title": "I made wanderer - a self-hosted trail and GPS track database",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1bgezig/i_made_wanderer_a_selfhosted_trail_and_gps_track/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1bgezig/i_made_wanderer_a_selfhosted_trail_and_gps_track/'>Reddit</a></caption><div><br></div><p>https://preview.redd.it/bu1capuv7roc1.png?width=3232&amp;format=png&amp;auto=webp&amp;s=45cb59e5d303b8fb73490fb8bed1779408bcbb39</p>\n<p>Over the last two months, I developed wanderer. It is a self-hosted alternative to sites like <a href=\"https://alltrails.com\">alltrails.com</a> or in other words a self-hosted trail database. It started out more as a small hobby project to teach myself some new technologies but in the end, I decided to develop it into a fully-fledged application.</p>\n<p>Core Features:</p>\n<ul>\n<li>Manage your trails</li>\n<li>Extensive map integration and visualization</li>\n<li>Share trails with other people and explore theirs</li>\n<li>Advanced filter and search functionality</li>\n<li>Create custom lists to organize your trails further</li>\n<li>Chique design with a dark and light theme</li>\n<li>Fully mobile compatible</li>\n</ul>\n<p>wanderer is completely open-source. You can find the GitHub repo here:<br />\n<a href=\"https://github.com/Flomp/wanderer\">https://github.com/Flomp/wanderer</a></p>\n<p>wanderer is still under active development so if you encounter any bugs/errors or have suggestions please let me know here or open an issue on GitHub.</p>",
+            "date_published": "2024-03-16T20:13:17+00:00",
+            "authors": [
+                {
+                    "name": "Get_Flomped",
+                    "url": "https://www.reddit.com/user/Get_Flomped"
+                }
+            ]
+        },
+        {
             "id": "1bf9si9",
             "url": "/r/selfhosted/comments/1bf9si9/guide_how_to_securely_gain_access_to_your_locally/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1bf9si9/guide_how_to_securely_gain_access_to_your_locally/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "selfh-sted",
                     "url": "https://www.reddit.com/user/selfh-sted"
-                }
-            ]
-        },
-        {
-            "id": "16z34hu",
-            "url": "/r/selfhosted/comments/16z34hu/most_used_selfhosted_services_in_2023_survey/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/16z34hu/most_used_selfhosted_services_in_2023_survey/",
-            "title": "Most used self-hosted services in 2023? [Survey]",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/16z34hu/most_used_selfhosted_services_in_2023_survey/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/16z34hu/most_used_selfhosted_services_in_2023_survey/'>Reddit</a></caption><div><br></div>\ud83d\udce3 Hey there, fellow self-hosters \ud83c\udf10\n\nLast year, I asked this Reddit community about which self-hosting services you use, and the responses were incredibly insightful.\n\n\ud83d\udd17 [Link to my 2022 question](https://reddit.com/r/selfhosted/s/8dbz1i6WpY)\n\nNow, I'm back with an updated survey for 2023, and I'd love your input once again!\ud83d\udccbAs the [analysing part](https://selfhosted-services-2022.deployn.de/) was difficult I use a form this time (with a few more questions).\n\n[**Take the 2023 Self-Hosting Survey**](https://survey.deployn.de/self-hosted-2023/)\n\nWhether you're a seasoned self-hosting pro or just dipping your toes into the world of self-hosted services, your thoughts and experiences are invaluable.\n\nI will post the results or a link to the results here probably at the end of October. In the meantime, feel free to list your (five) favorite services you self-host and (five more) which you started using or found in year 2023 in the comments.\n\nThank you, and I can't wait to see the insights \ud83d\ude80\n\n(Repost, as I was unable to edit the old one, that was type \"link\" and not \"post\")<div><br></div><div><p>\ud83d\udce3 Hey there, fellow self-hosters \ud83c\udf10</p>\n<p>Last year, I asked this Reddit community about which self-hosting services you use, and the responses were incredibly insightful.</p>\n<p>\ud83d\udd17 <a href=\"https://reddit.com/r/selfhosted/s/8dbz1i6WpY\">Link to my 2022 question</a></p>\n<p>Now, I'm back with an updated survey for 2023, and I'd love your input once again!\ud83d\udccbAs the <a href=\"https://selfhosted-services-2022.deployn.de/\">analysing part</a> was difficult I use a form this time (with a few more questions).</p>\n<p><a href=\"https://survey.deployn.de/self-hosted-2023/\"><strong>Take the 2023 Self-Hosting Survey</strong></a></p>\n<p>Whether you're a seasoned self-hosting pro or just dipping your toes into the world of self-hosted services, your thoughts and experiences are invaluable.</p>\n<p>I will post the results or a link to the results here probably at the end of October. In the meantime, feel free to list your (five) favorite services you self-host and (five more) which you started using or found in year 2023 in the comments.</p>\n<p>Thank you, and I can't wait to see the insights \ud83d\ude80</p>\n<p>(Repost, as I was unable to edit the old one, that was type \"link\" and not \"post\")</p></div>",
-            "date_published": "2023-10-03T20:52:16+00:00",
-            "authors": [
-                {
-                    "name": "ExoWire",
-                    "url": "https://www.reddit.com/user/ExoWire"
                 }
             ]
         }
