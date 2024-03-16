@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1bfoeu5",
+            "url": "/r/shortcuts/comments/1bfoeu5/wallpaper_roulette_elevate_your_devices_aesthetic/",
+            "external_url": "https://www.reddit.com/r/shortcuts/comments/1bfoeu5/wallpaper_roulette_elevate_your_devices_aesthetic/",
+            "title": "Wallpaper Roulette: Elevate your device's aesthetic with random wallpapers.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1bfoeu5/wallpaper_roulette_elevate_your_devices_aesthetic/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1bfoeu5/wallpaper_roulette_elevate_your_devices_aesthetic/'>Reddit</a></caption><div><br></div><p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/umnm5xnmakoc1.png?width=2400&amp;format=png&amp;auto=webp&amp;s=d368ab84a3ffdd8adcd4357004333d070dfa4364\">Banner</a></p>\n<h1>How It Works</h1>\n<p><strong>Wallpaper Roulette</strong> fetches a random wallpaper from <a href=\"https://unsplash.com/\">Unsplash</a>, sizing it to your device's resolution for both the lock and home screens.</p>\n<p>If you have specific wallpaper preferences, input keywords for a guided search. Keep in mind, it's a wallpaper <strong>finder</strong>, not a <em>generator</em> - embracing the spirit of randomness!</p>\n<h1>Automation</h1>\n<p>To update your wallpaper regularly:</p>\n<ol>\n<li>Open the <code>Shortcuts</code> app, and go to the <strong>Automation</strong> tab.</li>\n<li>Tap on the \"<strong>+</strong>\" at the top right.</li>\n<li>Choose <strong>Time of Day</strong>.</li>\n<li>Select your preferred time and frequency for the shortcut to run. Ensure you choose <em>Run Immediately</em> to skip confirmation prompts.</li>\n<li>Tap <strong>Next</strong> and search for \"<strong>Wallpaper Roulette</strong>\" to select it.</li>\n</ol>\n<p>The shortcut will now run at your specified times.</p>\n<h1>Download</h1>\n<p><a href=\"https://routinehub.co/shortcut/13484/\">Download at RoutineHub</a> and check out the docs, too! </p>",
+            "date_published": "2024-03-15T21:01:36+00:00",
+            "authors": [
+                {
+                    "name": "spenpal_dev",
+                    "url": "https://www.reddit.com/user/spenpal_dev"
+                }
+            ]
+        },
+        {
             "id": "1be2y1b",
             "url": "/r/shortcuts/comments/1be2y1b/shot_on_iphone/",
             "external_url": "https://i.redd.it/ro7619b436oc1.jpeg",
