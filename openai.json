@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1bh6rkn",
+            "url": "/r/OpenAI/comments/1bh6rkn/i_used_webgpt_not_devin_to_build_a_topdown/",
+            "external_url": "https://v.redd.it/xm3hi60j8yoc1",
+            "title": "I used WebGPT\ud83e\udd16, not Devin, to build a top-down shooter with no code",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1bh6rkn/i_used_webgpt_not_devin_to_build_a_topdown/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1bh6rkn/i_used_webgpt_not_devin_to_build_a_topdown/'>Reddit</a></caption><div><br></div><p>You can try the game on desktop yourself: https://plugin.wegpt.ai/dynamic/edad522b_TopDownSurvivalGame/index.html</p>\n<p>To use the GPT it\u2019s just \u201cWebGPT\ud83e\udd16\u201d in the ChatGPT store (it\u2019s free).</p>",
+            "date_published": "2024-03-17T19:51:29+00:00",
+            "authors": [
+                {
+                    "name": "JD_2020",
+                    "url": "https://www.reddit.com/user/JD_2020"
+                }
+            ]
+        },
+        {
             "id": "1bgcvut",
             "url": "/r/OpenAI/comments/1bgcvut/the_world_will_never_be_the_same_after_sora/",
             "external_url": "https://v.redd.it/qfxh7b3jqqoc1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "jaketocake",
                     "url": "https://www.reddit.com/user/jaketocake"
-                }
-            ]
-        },
-        {
-            "id": "17oxj9q",
-            "url": "/r/OpenAI/comments/17oxj9q/new_api_gpt4_turbo_128k_context_and_api_code/",
-            "external_url": "https://www.reddit.com/r/OpenAI/comments/17oxj9q/new_api_gpt4_turbo_128k_context_and_api_code/",
-            "title": "New API GPT-4 Turbo 128K Context and API Code Interpreter and one more thing :)",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/17oxj9q/new_api_gpt4_turbo_128k_context_and_api_code/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/17oxj9q/new_api_gpt4_turbo_128k_context_and_api_code/'>Reddit</a></caption><div><br></div><p>Hello, I happened to be checking the token prices on the OpenAI page (<a href=\"https://openai.com/pricing\">Pricing</a>) and it seems that today there will be major announcements in OpenAI\u2019s Dev related to the GPT-4 API, Code Interpreter API, Dall.e 3 API, etc. I have attached the screenshots for you to better understand. By the way, I refreshed the page and it disappeared. I hope I don\u2019t spoil the surprise \ud83d\udcf7 </p>\n<p>https://preview.redd.it/4myo59thkoyb1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=850b99a36cb74e37b108c80e423a98e2b302640b</p>\n<p>https://preview.redd.it/tsupd52jkoyb1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=f0a12e5f74d245e4732e1ff1ffffa8aaa9f53f68</p>\n<p>https://preview.redd.it/8btmj7rlkoyb1.png?width=1918&amp;format=png&amp;auto=webp&amp;s=a4ecf1dfa321019e65df702bc7fb3c727fd38d34</p>\n<p>https://preview.redd.it/z28dwq1lkoyb1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=f3bb7f948866f34ba0abdad4aa9c27d9676477dd</p>\n<p>https://preview.redd.it/e0uubzawkoyb1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=f3ad07d3f8886a12c26c81d6ff63e0ca47d93383</p>\n<p>https://preview.redd.it/692s7zawkoyb1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=a880e6edbd6aa1395412251654eb3f5747c36bd5</p>\n<p>&#x200B;</p>",
-            "date_published": "2023-11-06T07:36:38+00:00",
-            "authors": [
-                {
-                    "name": "xXxCoNtReRaSxXx",
-                    "url": "https://www.reddit.com/user/xXxCoNtReRaSxXx"
                 }
             ]
         }
