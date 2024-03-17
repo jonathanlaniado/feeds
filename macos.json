@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "1bggm63",
+            "url": "/r/MacOS/comments/1bggm63/java_users_with_apple_silicon_systems_should/",
+            "external_url": "https://blogs.oracle.com/java/post/java-on-macos-14-4",
+            "title": "Java users with Apple silicon systems should consider delaying the macOS 14.4 update",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOS/comments/1bggm63/java_users_with_apple_silicon_systems_should/'>Winston</a> | <a href='https://reddit.com/r/MacOS/comments/1bggm63/java_users_with_apple_silicon_systems_should/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-03-16T21:28:25+00:00",
+            "authors": [
+                {
+                    "name": "pwnid",
+                    "url": "https://www.reddit.com/user/pwnid"
+                }
+            ]
+        },
+        {
             "id": "1bdcnks",
             "url": "/r/MacOS/comments/1bdcnks/today_i_accidentally_discovered_its_possible_to/",
             "external_url": "https://i.redd.it/0uetrrlkqznc1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Jam6uo",
                     "url": "https://www.reddit.com/user/Jam6uo"
-                }
-            ]
-        },
-        {
-            "id": "16tcrpf",
-            "url": "/r/MacOS/comments/16tcrpf/upgrade_to_sonoma_is_worth_just_for_the_airpods/",
-            "external_url": "https://www.reddit.com/r/MacOS/comments/16tcrpf/upgrade_to_sonoma_is_worth_just_for_the_airpods/",
-            "title": "Upgrade to Sonoma is worth just for the airpods auto switch",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/MacOS/comments/16tcrpf/upgrade_to_sonoma_is_worth_just_for_the_airpods/'>Reddit</a></caption><div><br></div><div><p>For the longest time I hated how every time my airpods auto switched to my iPhone or iPad from my macbook I had to click on the `connect to Airpods` notification on macbook to connect it back. Sonoma finally fixed it and it works like a charm!</p></div>",
-            "date_published": "2023-09-27T06:13:39+00:00",
-            "authors": [
-                {
-                    "name": "rip_jaws_97",
-                    "url": "https://www.reddit.com/user/rip_jaws_97"
                 }
             ]
         }
