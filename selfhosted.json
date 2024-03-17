@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1bgikup",
+            "url": "/r/selfhosted/comments/1bgikup/my_first_selfhosted_service/",
+            "external_url": "https://i.redd.it/6w7ubse41soc1.jpeg",
+            "title": "My first selfhosted service",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1bgikup/my_first_selfhosted_service/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1bgikup/my_first_selfhosted_service/'>Reddit</a></caption><div><br></div><p>I always dreamed of selfhosting something with docker and the only device I can do it is my phone, so I did it, plus dnscrypt with dnssec to have a cherry in top</p><div><br></div><img src=\"https://i.redd.it/6w7ubse41soc1.jpeg\" />",
+            "date_published": "2024-03-16T22:59:14+00:00",
+            "authors": [
+                {
+                    "name": "Aiko_133",
+                    "url": "https://www.reddit.com/user/Aiko_133"
+                }
+            ]
+        },
+        {
             "id": "1bgezig",
             "url": "/r/selfhosted/comments/1bgezig/i_made_wanderer_a_selfhosted_trail_and_gps_track/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1bgezig/i_made_wanderer_a_selfhosted_trail_and_gps_track/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "jarlaxle46",
                     "url": "https://www.reddit.com/user/jarlaxle46"
-                }
-            ]
-        },
-        {
-            "id": "16zjuty",
-            "url": "/r/selfhosted/comments/16zjuty/2023_selfhost_user_survey_results/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/16zjuty/2023_selfhost_user_survey_results/",
-            "title": "2023 Self-Host User Survey Results",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/16zjuty/2023_selfhost_user_survey_results/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/16zjuty/2023_selfhost_user_survey_results/'>Reddit</a></caption><div><br></div><p>Hi, r/selfhosted! </p>\n<p>Thanks to all who participated in our 2023 Self-Host User Survey! Below is a link to the results, which we've visualized using <a href=\"https://www.chartjs.org/\">Chart.js</a>. </p>\n<p>Feel free to reach out with feedback on how we can improve next year's survey!</p>\n<hr />\n<p><a href=\"https://selfh.st/survey/2023-results/\">2023 Self-Host User Survey Results</a></p>",
-            "date_published": "2023-10-04T10:45:28+00:00",
-            "authors": [
-                {
-                    "name": "selfh-sted",
-                    "url": "https://www.reddit.com/user/selfh-sted"
                 }
             ]
         }
