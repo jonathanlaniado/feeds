@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1bhypxx",
+            "url": "/r/macapps/comments/1bhypxx/open_interface_selfoperate_computers_to_do/",
+            "external_url": "https://i.redd.it/a6cpt4eu35pc1.gif",
+            "title": "\ud83e\uddd1\u200d\ud83d\udcbb Open Interface - Self-Operate Computers to Do Anything Using LLMs",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1bhypxx/open_interface_selfoperate_computers_to_do/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1bhypxx/open_interface_selfoperate_computers_to_do/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/a6cpt4eu35pc1.gif\" />",
+            "date_published": "2024-03-18T18:59:21+00:00",
+            "authors": [
+                {
+                    "name": "reasonableWiseguy",
+                    "url": "https://www.reddit.com/user/reasonableWiseguy"
+                }
+            ]
+        },
+        {
             "id": "1bg7q9x",
             "url": "/r/macapps/comments/1bg7q9x/first_beta_of_reeders_successor_is_coming_this/",
             "external_url": "https://i.redd.it/bpzv0v4clpoc1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "QenTox",
                     "url": "https://www.reddit.com/user/QenTox"
-                }
-            ]
-        },
-        {
-            "id": "17cqalt",
-            "url": "/r/macapps/comments/17cqalt/project_white_rabbit_an_ai_web_browser_copilot/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/17cqalt/project_white_rabbit_an_ai_web_browser_copilot/",
-            "title": "Project White Rabbit \ud83d\udc07 - An AI web browser copilot that helps organize your tabs and notes",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17cqalt/project_white_rabbit_an_ai_web_browser_copilot/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17cqalt/project_white_rabbit_an_ai_web_browser_copilot/'>Reddit</a></caption><div><br></div><p>\ud83d\udc4b Hey r/macapps community! I'm really excited about a new product called <a href=\"https://www.pwr.builders/\">Project White Rabbit (PWR)</a>.</p>\n<p>I've been obsessing over the productivity space for years, and as I'm sure you've seen things have been picking up a lot this year because of all the AI progress. This is the first \"productivity\" app that I've started using regularly, because it's deeply integrated into my workflow. Curious what you all think of it, and if there are other similar products you use.</p>\n<p>PWR addresses a few problems:</p>\n<ul>\n<li>you have a ton of browser tabs open, and you don't remember how they are connected to each other or which ones you still need</li>\n<li>your tabs are disconnected from each other and from all the notes and things you write</li>\n<li>you have to keep re-searching for things online, and don't remember what you've already seen</li>\n</ul>\n<p>A few reasons why I like it:</p>\n<ul>\n<li>all my tabs and notes are embedded together, with the context I need</li>\n<li>helps me quickly group tabs, save the ones I want, and close the ones I don't need</li>\n<li>it's entirely private - your data never leaves your computer without your permission</li>\n<li>it's not just another chatGPT wrapper, but actually has some interesting AI under the hood (I've also followed product updates for a while and seems like there are some pretty useful AI features coming soon)</li>\n</ul>\n<p>It's still in beta, but I still find it more than good enough for daily use. Hope you like it!</p>\n<p><a href=\"https://www.pwr.builders/\">https://www.pwr.builders</a> to download the Mac app and learn more</p>\n<p>PS - I also love the nods to The Matrix \ud83d\udd73\ufe0f\ud83d\udc07</p>\n<p>https://preview.redd.it/in1abc4jdgvb1.png?width=1154&amp;format=png&amp;auto=webp&amp;s=b6f2478818b0c6f889e9931409e2c63f63b4e4fc</p>",
-            "date_published": "2023-10-21T00:48:29+00:00",
-            "authors": [
-                {
-                    "name": "DEngiVerLI",
-                    "url": "https://www.reddit.com/user/DEngiVerLI"
                 }
             ]
         }
