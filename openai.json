@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1bhxzy1",
+            "url": "/r/OpenAI/comments/1bhxzy1/is_this_real_google_gemini_apple/",
+            "external_url": "https://i.redd.it/5v5eq7wwy4pc1.jpeg",
+            "title": "Is this real? (Google Gemini + Apple)",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1bhxzy1/is_this_real_google_gemini_apple/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1bhxzy1/is_this_real_google_gemini_apple/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/5v5eq7wwy4pc1.jpeg\" />",
+            "date_published": "2024-03-18T18:30:26+00:00",
+            "authors": [
+                {
+                    "name": "Glass-Garden-5888",
+                    "url": "https://www.reddit.com/user/Glass-Garden-5888"
+                }
+            ]
+        },
+        {
             "id": "1bh6e1f",
             "url": "/r/OpenAI/comments/1bh6e1f/place_your_bets_gpt5_when/",
             "external_url": "https://i.redd.it/w51t8tgr5yoc1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "yanuzay10",
                     "url": "https://www.reddit.com/user/yanuzay10"
-                }
-            ]
-        },
-        {
-            "id": "17pbewd",
-            "url": "/r/OpenAI/comments/17pbewd/a_death_sentence_to_some_startups_a_lifesaver_to/",
-            "external_url": "https://www.reddit.com/r/OpenAI/comments/17pbewd/a_death_sentence_to_some_startups_a_lifesaver_to/",
-            "title": "A death sentence to some startups, a lifesaver to others...",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/17pbewd/a_death_sentence_to_some_startups_a_lifesaver_to/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/17pbewd/a_death_sentence_to_some_startups_a_lifesaver_to/'>Reddit</a></caption><div><br></div><p>Many great AI-enabled products will have to pivot or re-think how they offer value after today's announcement.  That's a natural part of startup life and I'm sure the good companies were ready for that possibility. </p>\n<p>But for many companies, today's announcements were <strong>a mind-blowing gift</strong>. My startup maintains an Open-Source library for embedding 'Copilots' into products (<a href=\"https://github.com/RecursivelyAI/CopilotKit\">CopilotKit</a>). </p>\n<p>OpenAI just made our product <strong>an order of magnitude more powerful without us having to do anything.</strong> Our biggest problems were: </p>\n<p>Context Window management - Just got 16x bigger</p>\n<p>Price - just got 3x reduction </p>\n<p>Function Calling performance - Will be totally revamped. </p>\n<p>---</p>\n<p>It's easy to get caught up in the discourse of products that 'died' today, but I don't think people understand how revolutionary this is for some of the most important use-cases of LLMs. </p>\n<p>This is just an incredible time to be building in AI...</p>",
-            "date_published": "2023-11-06T19:55:13+00:00",
-            "authors": [
-                {
-                    "name": "ulidabess",
-                    "url": "https://www.reddit.com/user/ulidabess"
                 }
             ]
         }
