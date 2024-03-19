@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1bi8f3s",
+            "url": "/r/selfhosted/comments/1bi8f3s/first_dedicated_server_40usd/",
+            "external_url": "https://www.reddit.com/gallery/1bi8f3s",
+            "title": "First dedicated server ($40usd)",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1bi8f3s/first_dedicated_server_40usd/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1bi8f3s/first_dedicated_server_40usd/'>Reddit</a></caption><div><br></div><p>I just bought my first optiplex. How did I do ?</p>\n<p>15-7500\n16GB RAM\n256GB M.2 SSD\nWindows 10 Pro</p>",
+            "date_published": "2024-03-19T01:37:53+00:00",
+            "authors": [
+                {
+                    "name": "angel2503",
+                    "url": "https://www.reddit.com/user/angel2503"
+                }
+            ]
+        },
+        {
             "id": "1bgikup",
             "url": "/r/selfhosted/comments/1bgikup/my_first_selfhosted_service/",
             "external_url": "https://i.redd.it/6w7ubse41soc1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "emposcamcw",
                     "url": "https://www.reddit.com/user/emposcamcw"
-                }
-            ]
-        },
-        {
-            "id": "16zorli",
-            "url": "/r/selfhosted/comments/16zorli/wow_this_is_pretty_petty_any_self_hosted/",
-            "external_url": "https://www.reddit.com/gallery/16zkzj9",
-            "title": "Wow. This is pretty petty. Any self hosted solutions for this?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/16zorli/wow_this_is_pretty_petty_any_self_hosted/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/16zorli/wow_this_is_pretty_petty_any_self_hosted/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-10-04T14:31:24+00:00",
-            "authors": [
-                {
-                    "name": "jarlaxle46",
-                    "url": "https://www.reddit.com/user/jarlaxle46"
                 }
             ]
         }
