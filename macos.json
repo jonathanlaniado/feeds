@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "1bjjchk",
+            "url": "/r/MacOS/comments/1bjjchk/rip_airport_cli_macos_sonoma_144_removes_the/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/1bjjchk/rip_airport_cli_macos_sonoma_144_removes_the/",
+            "title": "RIP airport CLI: macOS Sonoma 14.4 removes the advanced Wi-Fi management tool",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOS/comments/1bjjchk/rip_airport_cli_macos_sonoma_144_removes_the/'>Winston</a> | <a href='https://reddit.com/r/MacOS/comments/1bjjchk/rip_airport_cli_macos_sonoma_144_removes_the/'>Reddit</a></caption><div><br></div><p>For the last 15 years or so, you may have <a href=\"https://www.jdeen.com/blog/airport-the-nifty-command-line-wireless-utility-for-macos\">used the <strong>airport</strong> command in Terminal</a> to list technical details about nearby Wi-Fi networks, disassociate from a network without disabling the radio, or dump various low-level wireless info.</p>\n<p>With the macOS 14.4 update, Apple has disabled the command line tool \u2013 presumably to <a href=\"https://support.apple.com/en-us/HT214084\">prevent apps from using abusing it to snoop on your location</a>. Binary comparisons between macOS 14.3 and macOS 14.4 confirm that the CLI code has been removed.</p>\n<p>A small subset of its Wi-Fi tools remain available in the <a href=\"https://www.unix.com/man-page/osx/8/networksetup/\"><strong>networksetup</strong></a> tool.</p>\n<pre><code>$ /System/Library/PrivateFrameworks/Apple80211.framework/Resources/airport \nWARNING: The airport command line tool is deprecated and will be removed in a future release.\nFor diagnosing Wi-Fi related issues, use the Wireless Diagnostics app or wdutil command line tool.\n\n$ /usr/libexec/airportd\n$\n</code></pre>",
+            "date_published": "2024-03-20T17:38:21+00:00",
+            "authors": [
+                {
+                    "name": "wanjuggler",
+                    "url": "https://www.reddit.com/user/wanjuggler"
+                }
+            ]
+        },
+        {
             "id": "1bggm63",
             "url": "/r/MacOS/comments/1bggm63/java_users_with_apple_silicon_systems_should/",
             "external_url": "https://blogs.oracle.com/java/post/java-on-macos-14-4",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "devolute",
                     "url": "https://www.reddit.com/user/devolute"
-                }
-            ]
-        },
-        {
-            "id": "16tfjnj",
-            "url": "/r/MacOS/comments/16tfjnj/macos_sonoma_just_got_released_so_here_is_my/",
-            "external_url": "https://i.redd.it/5w4jc60ckrqb1.jpg",
-            "title": "macOS Sonoma just got released, so here is my boxed Mac OS collection",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/MacOS/comments/16tfjnj/macos_sonoma_just_got_released_so_here_is_my/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/5w4jc60ckrqb1.jpg\" />",
-            "date_published": "2023-09-27T09:04:37+00:00",
-            "authors": [
-                {
-                    "name": "Jam6uo",
-                    "url": "https://www.reddit.com/user/Jam6uo"
                 }
             ]
         }
