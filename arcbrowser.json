@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1bk7ynn",
+            "url": "/r/ArcBrowser/comments/1bk7ynn/the_browser_company_raises_50_million_at_550/",
+            "external_url": "https://techcrunch.com/2024/03/21/the-browser-company-raises-50-million-at-550-million-valuation/",
+            "title": "The Browser Company raises $50 million at $550 million valuation",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1bk7ynn/the_browser_company_raises_50_million_at_550/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1bk7ynn/the_browser_company_raises_50_million_at_550/'>Reddit</a></caption><div><br></div><p>That's a lot of OpenAI API requests...</p>",
+            "date_published": "2024-03-21T14:34:25+00:00",
+            "authors": [
+                {
+                    "name": "chrismessina",
+                    "url": "https://www.reddit.com/user/chrismessina"
+                }
+            ]
+        },
+        {
             "id": "1bk7h0s",
             "url": "/r/ArcBrowser/comments/1bk7h0s/arc_for_windows_update_0140/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1bk7h0s/arc_for_windows_update_0140/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "vzakharov",
                     "url": "https://www.reddit.com/user/vzakharov"
-                }
-            ]
-        },
-        {
-            "id": "17ptl2d",
-            "url": "/r/ArcBrowser/comments/17ptl2d/the_entire_browsercompany_team_is_in_portugal/",
-            "external_url": "https://www.reddit.com/gallery/17ptl2d",
-            "title": "\"The entire @browsercompany team is in Portugal this week, dreaming up what we hope to bring you next year in Arc. What's on your wish list for us and Arc? Windows is coming! (P.S. how good is the style and spirit in this brand design work that @karlamickens has been doing?!)\" \u2013 Josh Miller via X",
-            "content_html": "<caption>Open: <a href='https://redirect.jonathanlaniado.com?url=https://www.reddit.com/r/ArcBrowser/comments/17ptl2d/the_entire_browsercompany_team_is_in_portugal/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/17ptl2d/the_entire_browsercompany_team_is_in_portugal/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-11-07T12:51:00+00:00",
-            "authors": [
-                {
-                    "name": "JaceThings",
-                    "url": "https://www.reddit.com/user/JaceThings"
                 }
             ]
         }
