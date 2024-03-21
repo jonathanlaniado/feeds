@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1bkegof",
+            "url": "/r/selfhosted/comments/1bkegof/this_website_is_hosted_on_an_android_phone/",
+            "external_url": "https://android.thin.computer/",
+            "title": "This Website is Hosted on an Android Phone",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1bkegof/this_website_is_hosted_on_an_android_phone/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1bkegof/this_website_is_hosted_on_an_android_phone/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-03-21T19:03:03+00:00",
+            "authors": [
+                {
+                    "name": "thethindev",
+                    "url": "https://www.reddit.com/user/thethindev"
+                }
+            ]
+        },
+        {
             "id": "1bi8f3s",
             "url": "/r/selfhosted/comments/1bi8f3s/first_dedicated_server_40usd/",
             "external_url": "https://www.reddit.com/gallery/1bi8f3s",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "predmijat",
                     "url": "https://www.reddit.com/user/predmijat"
-                }
-            ]
-        },
-        {
-            "id": "16zwu5t",
-            "url": "/r/selfhosted/comments/16zwu5t/open_source_remote_access_vpns/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/16zwu5t/open_source_remote_access_vpns/",
-            "title": "Open source remote access VPNs?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/16zwu5t/open_source_remote_access_vpns/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/16zwu5t/open_source_remote_access_vpns/'>Reddit</a></caption><div><br></div><p>I have tried many VPN solutions for remote to site access and so far have come across the following tools and the issues I faced:</p>\n<ol>\n<li>Softether: good tool, however unable to figure out how to setup cert based authentication. Also, the etherIP protocol does not have a gui client for different platforms. Each time using the cli to connect is a pain.</li>\n<li>Openvpn community version: Great tool, however needs hacks to properly resolve dns for multiple VPNs in macOS . Lacks gui in community version hence cert management is not easy.</li>\n<li>Pritunl: Doesn\u2019t give dns resolution in the open source version.</li>\n</ol>\n<p>Any other alternatives/ideas are welcome.</p>",
-            "date_published": "2023-10-04T19:53:59+00:00",
-            "authors": [
-                {
-                    "name": "emposcamcw",
-                    "url": "https://www.reddit.com/user/emposcamcw"
                 }
             ]
         }
