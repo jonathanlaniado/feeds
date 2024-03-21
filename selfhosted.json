@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1bkhky1",
+            "url": "/r/selfhosted/comments/1bkhky1/fyi_redis_is_no_longer_open_source_as_of_yesterday/",
+            "external_url": "https://redis.com/blog/redis-adopts-dual-source-available-licensing/",
+            "title": "FYI, Redis is no longer open source as of yesterday",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1bkhky1/fyi_redis_is_no_longer_open_source_as_of_yesterday/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1bkhky1/fyi_redis_is_no_longer_open_source_as_of_yesterday/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-03-21T21:10:47+00:00",
+            "authors": [
+                {
+                    "name": "lannistersstark",
+                    "url": "https://www.reddit.com/user/lannistersstark"
+                }
+            ]
+        },
+        {
             "id": "1bkegof",
             "url": "/r/selfhosted/comments/1bkegof/this_website_is_hosted_on_an_android_phone/",
             "external_url": "https://android.thin.computer/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "altran1502",
                     "url": "https://www.reddit.com/user/altran1502"
-                }
-            ]
-        },
-        {
-            "id": "170cvag",
-            "url": "/r/selfhosted/comments/170cvag/devops_course_for_selfhosters_docker_gitlab_cicd/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/170cvag/devops_course_for_selfhosters_docker_gitlab_cicd/",
-            "title": "DevOps course for self-hosters (Docker, GitLab, CI/CD, Mail server, etc.)",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/170cvag/devops_course_for_selfhosters_docker_gitlab_cicd/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/170cvag/devops_course_for_selfhosters_docker_gitlab_cicd/'>Reddit</a></caption><div><br></div><p>Hello everyone,</p>\n<p>I've made a DevOps course covering a lot of different technologies and applications, aimed at startups, small companies and individuals who want to self-host their infrastructure.\nTo get this out of the way - this course doesn't cover Kubernetes or similar - I'm of the opinion that for startups, small companies, and especially individuals, you probably don't need Kubernetes. Unless you have a whole DevOps team, it usually brings more problems than benefits, and unnecessary infrastructure bills buried a lot of startups before they got anywhere.</p>\n<p>As for prerequisites, you can't be a complete beginner in the world of computers. If you've never even heard of Docker, if you don't know at least something about DNS, or if you don't have any experience with Linux, this course is probably not for you. That being said, I do explain the basics too, but probably not in enough detail for a complete beginner.</p>\n<p>Here's a 100% OFF coupon if you want to check it out:</p>\n<p>https://www.udemy.com/course/real-world-devops-project-from-start-to-finish/?couponCode=FREEDEVOPS2310JMGQA</p>\n<p>Be sure to BUY the course for $0, and not sign up for Udemy's subscription plan. The Subscription plan is selected by default, but you want the BUY checkbox. If you see a price other than $0, chances are that all coupons have been used already.\nYou can try manually entering the coupon code because Udemy sometimes messes with the link.</p>\n<p>The accompanying files for the course are at https://github.com/predmijat/realworlddevopscourse</p>\n<p>I encourage you to watch \"free preview\" videos to get the sense of what will be covered, but here's the gist:</p>\n<p>The goal of the course is to create an easily deployable and reproducible server which will have \"everything\" a startup or a small company will need - VPN, mail, Git, CI/CD, messaging, hosting websites and services, sharing files, calendar, etc. It can also be useful to individuals who want to self-host all of those - I ditched Google 99.9% and other than that being a good feeling, I'm not worried that some AI bug will lock my account with no one to talk to about resolving the issue.</p>\n<p>Considering that it covers a wide variety of topics, it doesn't go in depth in any of those. Think of it as going down a highway towards the end destination, but on the way there I show you all the junctions where I think it's useful to do more research on the subject.</p>\n<p>We'll deploy services inside Docker and LXC (Linux Containers). Those will include a mail server (iRedMail), Zulip (Slack and Microsoft Teams alternative), GitLab (with GitLab Runner and CI/CD), Nextcloud (file sharing, calendar, contacts, etc.), checkmk (monitoring solution), Pi-hole (ad blocking on DNS level), Traefik with Docker and file providers (a single HTTP/S entry point with automatic routing and TLS certificates).</p>\n<p>We'll set up WireGuard, a modern and fast VPN solution for secure access to VPS' internal network, and I'll also show you how to get a wildcard TLS certificate with certbot and DNS provider.</p>\n<p>To wrap it all up, we'll write a simple Python application that will compare a list of the desired backups with the list of finished backups, and send a result to a Zulip stream. We'll write the application, do a 'git push' to GitLab which will trigger a CI/CD pipeline that will build a Docker image, push it to a private registry, and then, with the help of the GitLab runner, run it on the VPS and post a result to a Zulip stream with a webhook.</p>\n<p>When done, you'll be equipped to add additional services suited for your needs.</p>\n<p>If this doesn't appeal to you, please leave the coupon for the next guy :)</p>\n<p>I hope that you'll find it useful!</p>\n<p>Happy learning,\nPredrag</p>",
-            "date_published": "2023-10-05T08:46:40+00:00",
-            "authors": [
-                {
-                    "name": "predmijat",
-                    "url": "https://www.reddit.com/user/predmijat"
                 }
             ]
         }
