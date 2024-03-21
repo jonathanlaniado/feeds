@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1bk7h0s",
+            "url": "/r/ArcBrowser/comments/1bk7h0s/arc_for_windows_update_0140/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1bk7h0s/arc_for_windows_update_0140/",
+            "title": "Arc for Windows Update - 0.14.0",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1bk7h0s/arc_for_windows_update_0140/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1bk7h0s/arc_for_windows_update_0140/'>Reddit</a></caption><div><br></div><p><strong>\u23f0 Mar 21, 2024</strong></p>\n<blockquote>\n<ul>\n<li>Arc Sync is now available in Arc for Windows!</li>\n<li>To enable Arc Sync go to Arc menu &gt; Settings &gt; Arc Sync and toggle the setting On.</li>\n<li>When you turn on syncing, all your Spaces, Folders, and Tabs will Sync. History, passwords, extensions, Favorites tabs, and Profiles will not Sync between devices. We hope to support syncing for these features soon!</li>\n<li>When Arc Sync is enabled your Spaces will sync across your installs of Arc across Windows and macOS.</li>\n<li>Arc Sync is end-to-end encrypted and requires your Arc Recovery Card to access your synced data in the event you forget your password, and don\u2019t have any access to other devices that have previously synced. You can find your Recover Card in Arc for Windows in Arc menu &gt; Settings &gt; Arc Sync &gt; view your Recovery Card. If you are an Arc on Windows and macOS Member your Recovery Card is the same across both platforms. You can learn more about Recovery Cards and recovering synced data <a href=\"https://resources.arc.net/hc/en-us/articles/20272860828823-Arc-Sync#recoverycardsandrecoveringsynceddata\">here</a>.</li>\n<li>If you are an Arc for macOS Member, make sure that the new end-to-end encrypted Arc Sync is enabled as iCloud based Sync will not sync your Spaces with Arc for Windows. You can find the steps to enable end-to-end encrypted Sync on Arc for macOS <a href=\"https://resources.arc.net/hc/en-us/articles/20272860828823-Arc-Sync#howtosyncarcacrossdevicesmac\">here</a>.</li>\n<li>Membership Cards now appear in Settings (Arc menu &gt; Settings or Ctrl+,)</li>\n<li>Links to <a href=\"http://resources.arc.net\">resources.arc.net</a> ****accessed from the Arc menu will open in Arc for Windows by default</li>\n<li>Notifications now integrate into the Action Center and have a new look and feel</li>\n<li>We now have an updated favicon to indicate unsupported items in the Sidebar</li>\n<li>You can select either Mica or Acrylic material background from Arc menu &gt; Settings &gt; Appearance</li>\n<li>We\u2019ve improved the collapse animation for Folder Peek tabs</li>\n<li>We now show Split View tab favicons in the Command Bar</li>\n<li>We fixed an issue where you were unable to open settings or options for extensions</li>\n<li>We fixed an issue where accessing the Site Control Center would cause the unanchored Sidebar to appear</li>\n<li>We fixed an issue where Dev Tools could not be viewed in an undocked (windowed) view</li>\n<li>We fixed an issue that would cause keyboard shortcuts to stop working</li>\n<li>We fixed an issue where Arc account emails would get encoded incorrectly when submitting bug reports</li>\n<li>We fixed a crash that occurred when running Arc on Windows in a virtual desktop</li>\n<li>We fixed a crash that occurred when copying a URL to the clipboard</li>\n<li>Various additional crash fixes</li>\n</ul>\n</blockquote>",
+            "date_published": "2024-03-21T14:12:34+00:00",
+            "authors": [
+                {
+                    "name": "Ultim8Chaos06",
+                    "url": "https://www.reddit.com/user/Ultim8Chaos06"
+                }
+            ]
+        },
+        {
             "id": "1bjocag",
             "url": "/r/ArcBrowser/comments/1bjocag/sync_is_on_the_way/",
             "external_url": "https://v.redd.it/8vomttx20kpc1",
@@ -1386,20 +1400,6 @@
             "title": "\"The entire @browsercompany team is in Portugal this week, dreaming up what we hope to bring you next year in Arc. What's on your wish list for us and Arc? Windows is coming! (P.S. how good is the style and spirit in this brand design work that @karlamickens has been doing?!)\" \u2013 Josh Miller via X",
             "content_html": "<caption>Open: <a href='https://redirect.jonathanlaniado.com?url=https://www.reddit.com/r/ArcBrowser/comments/17ptl2d/the_entire_browsercompany_team_is_in_portugal/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/17ptl2d/the_entire_browsercompany_team_is_in_portugal/'>Reddit</a></caption><div><br></div>",
             "date_published": "2023-11-07T12:51:00+00:00",
-            "authors": [
-                {
-                    "name": "JaceThings",
-                    "url": "https://www.reddit.com/user/JaceThings"
-                }
-            ]
-        },
-        {
-            "id": "17p05i5",
-            "url": "/r/ArcBrowser/comments/17p05i5/its_official_browsercompany_is_reimagining_the/",
-            "external_url": "https://i.redd.it/09zmn5cgkpyb1.jpg",
-            "title": "\"It's official: @browsercompany is reimagining the mobile browser from the ground-up! Sync with @arcinternet desktop will be core. But we want to do the mobile form factor justice. Blank page! What's your dream for a mobile browser from the future? And please like replies to +1\" \u2013 Josh Miller via X",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/17p05i5/its_official_browsercompany_is_reimagining_the/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/17p05i5/its_official_browsercompany_is_reimagining_the/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/09zmn5cgkpyb1.jpg\" />",
-            "date_published": "2023-11-06T10:55:57+00:00",
             "authors": [
                 {
                     "name": "JaceThings",
