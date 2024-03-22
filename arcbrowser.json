@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1bl8ref",
+            "url": "/r/ArcBrowser/comments/1bl8ref/i_cant_be_the_only_one/",
+            "external_url": "https://i.redd.it/u0nblzbhzxpc1.jpeg",
+            "title": "I can't be the only one",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1bl8ref/i_cant_be_the_only_one/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1bl8ref/i_cant_be_the_only_one/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/u0nblzbhzxpc1.jpeg\" />",
+            "date_published": "2024-03-22T20:08:07+00:00",
+            "authors": [
+                {
+                    "name": "MohamedxSalah",
+                    "url": "https://www.reddit.com/user/MohamedxSalah"
+                }
+            ]
+        },
+        {
             "id": "1bk7ynn",
             "url": "/r/ArcBrowser/comments/1bk7ynn/the_browser_company_raises_50_million_at_550/",
             "external_url": "https://techcrunch.com/2024/03/21/the-browser-company-raises-50-million-at-550-million-valuation/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "JaceThings",
                     "url": "https://www.reddit.com/user/JaceThings"
-                }
-            ]
-        },
-        {
-            "id": "17qi471",
-            "url": "/r/ArcBrowser/comments/17qi471/chatgpts_web_browsing_arc_intelligent/",
-            "external_url": "https://v.redd.it/fnhd5l5pg3zb1",
-            "title": "ChatGPT\u2019s web browsing + Arc intelligent summarization ftw",
-            "content_html": "<caption>Open: <a href='https://redirect.jonathanlaniado.com?url=apollo://www.reddit.com/r/ArcBrowser/comments/17qi471/chatgpts_web_browsing_arc_intelligent/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/17qi471/chatgpts_web_browsing_arc_intelligent/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-11-08T09:39:45+00:00",
-            "authors": [
-                {
-                    "name": "vzakharov",
-                    "url": "https://www.reddit.com/user/vzakharov"
                 }
             ]
         }
