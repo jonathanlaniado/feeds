@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1bkl26f",
+            "url": "/r/PleX/comments/1bkl26f/plex_pass_lifetime_worth_it_for_84/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/1bkl26f/plex_pass_lifetime_worth_it_for_84/",
+            "title": "Plex pass lifetime. Worth it for $84?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1bkl26f/plex_pass_lifetime_worth_it_for_84/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1bkl26f/plex_pass_lifetime_worth_it_for_84/'>Reddit</a></caption><div><br></div><p>So I have a promo in my email for Plex pass lifetime for $83.99. I\u2019m still on a 1year subscription that I got through Apple so there\u2019s no getting my money back on that (even partially) but if $84 is a good deal for lifetime I\u2019d be okay upgrading now. As I\u2019d still save money over the $119 regular price. </p>",
+            "date_published": "2024-03-21T23:35:45+00:00",
+            "authors": [
+                {
+                    "name": "BodyByBrisket",
+                    "url": "https://www.reddit.com/user/BodyByBrisket"
+                }
+            ]
+        },
+        {
             "id": "1bg986l",
             "url": "/r/PleX/comments/1bg986l/my_two_servers_one_on_a_synology_ds1520_and_one/",
             "external_url": "https://i.redd.it/0n8opulnxpoc1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "WhereasWonderful4647",
                     "url": "https://www.reddit.com/user/WhereasWonderful4647"
-                }
-            ]
-        },
-        {
-            "id": "16sjdd0",
-            "url": "/r/PleX/comments/16sjdd0/plex_for_mac_windows_and_linux_v1791_released/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/16sjdd0/plex_for_mac_windows_and_linux_v1791_released/",
-            "title": "Plex for Mac, Windows, and Linux v1.79.1 Released",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16sjdd0/plex_for_mac_windows_and_linux_v1791_released/'>Reddit</a></caption><div><br></div><div><p>Version 1.79.1 has been released for Plex for Mac, Windows, and Linux.</p>\n<p>NEW:</p>\n<ul>\n<li>[Playback] Raise default remote video quality to 1080p @ 12Mbps</li>\n</ul>\n<p>FIXED:</p>\n<ul>\n<li>Fix notification badge from disappearing when announcement is unread</li>\n<li>Fixed Cast &amp; Crew hub not automatically updating when fixing item match</li>\n<li>Fixed an issue that could cause the context menu for Discover items to display wrong/unavailable options</li>\n<li>Wrong friend request count badge when deleting sent requests</li>\n<li>[Search] Fixed an issue that could cause search requests to be re-triggered when performing some server/library actions</li>\n<li>[Search] Fixed an issue that could cause streaming service results to appear when filtering results by \u201cMovies &amp; Shows\u201d</li>\n</ul>\n<p>Source: https://forums.plex.tv/t/446435/101</p></div>",
-            "date_published": "2023-09-26T09:52:26+00:00",
-            "authors": [
-                {
-                    "name": "samwiseg0",
-                    "url": "https://www.reddit.com/user/samwiseg0"
                 }
             ]
         }
