@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1bkjtwj",
+            "url": "/r/OpenAI/comments/1bkjtwj/fast_and_accurate_weapon_detection/",
+            "external_url": "https://v.redd.it/0ik8d0snmrpc1",
+            "title": "Fast and accurate weapon detection",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1bkjtwj/fast_and_accurate_weapon_detection/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1bkjtwj/fast_and_accurate_weapon_detection/'>Reddit</a></caption><div><br></div><p>Before OpenAi gets into object detection on a large scale just wanted to show of a pretty fast and accurate weapon detection model i trained on over 200.000 images of all kinds of weapons.</p>\n<p>Runs realtime detection not prerecorded.\nOnes openAi also starts providing accurate api\u2019s for object detection they will probably truly rule the world of ai with ai </p>",
+            "date_published": "2024-03-21T22:42:22+00:00",
+            "authors": [
+                {
+                    "name": "chatgpt-undetected",
+                    "url": "https://www.reddit.com/user/chatgpt-undetected"
+                }
+            ]
+        },
+        {
             "id": "1bjqnvn",
             "url": "/r/OpenAI/comments/1bjqnvn/the_future_looks_bright/",
             "external_url": "https://i.redd.it/sj5rwyargkpc1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "UnknownEssence",
                     "url": "https://www.reddit.com/user/UnknownEssence"
-                }
-            ]
-        },
-        {
-            "id": "17qtq7e",
-            "url": "/r/OpenAI/comments/17qtq7e/sam_altman_says_gpts_planned_to_be_rolled_out_to/",
-            "external_url": "https://twitter.com/sama/status/1722315204242149788",
-            "title": "Sam Altman says GPTs, planned to be rolled out to all subscribers on Monday, has been delayed",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/17qtq7e/sam_altman_says_gpts_planned_to_be_rolled_out_to/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/17qtq7e/sam_altman_says_gpts_planned_to_be_rolled_out_to/'>Reddit</a></caption><div><br></div><div><br></div><blockquote class=\"twitter-tweet\" align=\"center\"><p lang=\"en\" dir=\"ltr\">usage of our new features from devday is far outpacing our expectations. <br><br>we were planning to go live with GPTs for all subscribers monday but still haven\u2019t been able to. we are hoping to soon. <br><br>there will likely be service instability in the short term due to load. sorry :/</p>&mdash; Sam Altman (@sama) <a href=\"https://twitter.com/sama/status/1722315204242149788?ref_src=twsrc%5Etfw\">November 8, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
-            "date_published": "2023-11-08T19:41:11+00:00",
-            "authors": [
-                {
-                    "name": "Chaseraph",
-                    "url": "https://www.reddit.com/user/Chaseraph"
                 }
             ]
         }
