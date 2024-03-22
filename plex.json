@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1bl3zap",
+            "url": "/r/PleX/comments/1bl3zap/plex_server_when_we_die/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/1bl3zap/plex_server_when_we_die/",
+            "title": "Plex Server when we die\u2026",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1bl3zap/plex_server_when_we_die/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1bl3zap/plex_server_when_we_die/'>Reddit</a></caption><div><br></div><p>Sorry if this sounds depressing, it\u2019s not. As we grow up and have families and eventually craft a will, retirement plan, etc., it dawned on me that if something happens to me, there\u2019s no way my wife would know how to manage the Plex server or even what would come of it. Like many of you, I have contributed hours/years of meticulously organizing, tagging, curating and designing posters, etc., and at some point, it might not be something we can pass down (compared to a DVD collection that might end up at a yard sale), it might just go poof. So curious if anyone has a plan, and if so, share details so we can all learn. Because it\u2019s definitely worth passing down but doubtful my SO or kids could even fathom what to do with it.</p>",
+            "date_published": "2024-03-22T16:51:57+00:00",
+            "authors": [
+                {
+                    "name": "contempt1",
+                    "url": "https://www.reddit.com/user/contempt1"
+                }
+            ]
+        },
+        {
             "id": "1bkl26f",
             "url": "/r/PleX/comments/1bkl26f/plex_pass_lifetime_worth_it_for_84/",
             "external_url": "https://www.reddit.com/r/PleX/comments/1bkl26f/plex_pass_lifetime_worth_it_for_84/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "daghene",
                     "url": "https://www.reddit.com/user/daghene"
-                }
-            ]
-        },
-        {
-            "id": "16sjod7",
-            "url": "/r/PleX/comments/16sjod7/looking_for_an_option_to_create_a_digital_movie/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/16sjod7/looking_for_an_option_to_create_a_digital_movie/",
-            "title": "Looking for an option to create a digital movie library as a gift.",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16sjod7/looking_for_an_option_to_create_a_digital_movie/'>Reddit</a></caption><div><br></div><div><p>I currently work in an international management/operations role where I constantly interact with senior leaders across USA &amp; India.\nBeing a big movie buff, I\u2019m currently coordinating with some of our India leaders to build a digital movie library with their favorite Indian movies to present as a cultural gift to our US based CEO &amp; COO.</p>\n<p>I tried buying individual Blu-rays but most of the movies weren\u2019t available or were not delivering on time.</p>\n<p>Someone recommended using Plex and hosting a movie library on here. Can this work for my use case?\nI think most of the movies are available to purchase digitally on YouTube or other streaming platforms.</p></div>",
-            "date_published": "2023-09-26T10:09:39+00:00",
-            "authors": [
-                {
-                    "name": "WhereasWonderful4647",
-                    "url": "https://www.reddit.com/user/WhereasWonderful4647"
                 }
             ]
         }
