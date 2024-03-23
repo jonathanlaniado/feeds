@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1bm305k",
+            "url": "/r/OpenAI/comments/1bm305k/what_the_hell_claud_3_opus_is_a_straight/",
+            "external_url": "https://www.reddit.com/r/OpenAI/comments/1bm305k/what_the_hell_claud_3_opus_is_a_straight/",
+            "title": "WHAT THE HELL ? Claud 3 Opus is a straight revolution.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1bm305k/what_the_hell_claud_3_opus_is_a_straight/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1bm305k/what_the_hell_claud_3_opus_is_a_straight/'>Reddit</a></caption><div><br></div><p>So, I threw a wild challenge at Claud 3 Opus AI, kinda just to see how it goes, you know? Told it to make up a Pomodoro Timer app from scratch. And the result was INCREDIBLE...As a software dev', I'm starting to shi* my pants a bit...HAHAHA</p>\n<p>Here's a breakdown of what it got:</p>\n<ul>\n<li><strong>The UI?</strong> Got everything: the timer, buttons to control it, settings to tweak your Pomodoro lengths, a neat section explaining the Pomodoro Technique, and even a task list.</li>\n<li><strong>Timer logic</strong>: Starts, pauses, resets, and switches between sessions.</li>\n<li><strong>Customize it your way</strong>: More chill breaks? Just hit up the settings.</li>\n<li><strong>Style</strong>: Got some cool pulsating effects and it's responsive too, so it looks awesome no matter where you're checking it from.</li>\n<li><strong>No edits, all AI</strong>: Yep, this was all Claud 3's magic. Dropped over 300 lines of super coherent code just like that.</li>\n</ul>\n<p>Guys, I'm legit amazed here. Watching AI pull this off with zero help from me is just... wow. Had to share with y'all 'cause it's too cool not to. What do you guys think? Ever seen AI pull off something this cool?</p>\n<p>Went from:</p>\n<p><a href=\"https://preview.redd.it/44bqgq4af5qc1.png?width=754&amp;format=png&amp;auto=webp&amp;s=e396ee8f8730795dbeeccacbb910bc28819ad14d\">FIRST VERSION</a></p>\n<p>To:</p>\n<p><a href=\"https://preview.redd.it/bm0jkztff5qc1.png?width=491&amp;format=png&amp;auto=webp&amp;s=3833b4185f76f4964d03b02f7e657875a1672911\">FINAL VERSION</a></p>",
+            "date_published": "2024-03-23T21:08:37+00:00",
+            "authors": [
+                {
+                    "name": "mindiving",
+                    "url": "https://www.reddit.com/user/mindiving"
+                }
+            ]
+        },
+        {
             "id": "1bls6h6",
             "url": "/r/OpenAI/comments/1bls6h6/would_you_watch_a_movie_entirely_filmed_in_sora/",
             "external_url": "https://v.redd.it/lmz3un2l53qc1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "CeFurkan",
                     "url": "https://www.reddit.com/user/CeFurkan"
-                }
-            ]
-        },
-        {
-            "id": "17v1p2j",
-            "url": "/r/OpenAI/comments/17v1p2j/the_first_real_gptv_test_of_my_ar_passthrough_app/",
-            "external_url": "https://v.redd.it/ioarwsut9b0c1",
-            "title": "The first real GPT-V test of my AR passthrough app on Quest 3 and I've already hit safety rails. My disappointment is immeasurable and my day is ruined.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/17v1p2j/the_first_real_gptv_test_of_my_ar_passthrough_app/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/17v1p2j/the_first_real_gptv_test_of_my_ar_passthrough_app/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-11-14T12:59:53+00:00",
-            "authors": [
-                {
-                    "name": "my_name_is_reed",
-                    "url": "https://www.reddit.com/user/my_name_is_reed"
                 }
             ]
         }
