@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1bls6h6",
+            "url": "/r/OpenAI/comments/1bls6h6/would_you_watch_a_movie_entirely_filmed_in_sora/",
+            "external_url": "https://v.redd.it/lmz3un2l53qc1",
+            "title": "Would you watch a movie entirely filmed in Sora?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1bls6h6/would_you_watch_a_movie_entirely_filmed_in_sora/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1bls6h6/would_you_watch_a_movie_entirely_filmed_in_sora/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-03-23T13:28:43+00:00",
+            "authors": [
+                {
+                    "name": "SpawnrLeiva",
+                    "url": "https://www.reddit.com/user/SpawnrLeiva"
+                }
+            ]
+        },
+        {
             "id": "1bksomo",
             "url": "/r/OpenAI/comments/1bksomo/nvidia_ceo_says_well_see_fully_aigenerated_games/",
             "external_url": "https://www.tomshardware.com/pc-components/gpus/rtx-off-ai-on-jensen-says-well-see-fully-ai-generated-games-in-5-10-years",
@@ -1386,20 +1400,6 @@
             "title": "The first real GPT-V test of my AR passthrough app on Quest 3 and I've already hit safety rails. My disappointment is immeasurable and my day is ruined.",
             "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/17v1p2j/the_first_real_gptv_test_of_my_ar_passthrough_app/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/17v1p2j/the_first_real_gptv_test_of_my_ar_passthrough_app/'>Reddit</a></caption><div><br></div>",
             "date_published": "2023-11-14T12:59:53+00:00",
-            "authors": [
-                {
-                    "name": "my_name_is_reed",
-                    "url": "https://www.reddit.com/user/my_name_is_reed"
-                }
-            ]
-        },
-        {
-            "id": "17ul1nw",
-            "url": "/r/OpenAI/comments/17ul1nw/ive_integrated_gptv_within_the_ar_passthrough_app/",
-            "external_url": "https://v.redd.it/t731xxwtk60c1",
-            "title": "I've integrated GPT-V within the AR Passthrough app I'm building for Meta Quest 3. The results are astounding. Working to have a release by the end of the week.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/17ul1nw/ive_integrated_gptv_within_the_ar_passthrough_app/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/17ul1nw/ive_integrated_gptv_within_the_ar_passthrough_app/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-11-13T21:12:04+00:00",
             "authors": [
                 {
                     "name": "my_name_is_reed",
