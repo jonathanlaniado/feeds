@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1bnjnbd",
+            "url": "/r/OpenAI/comments/1bnjnbd/just_released_sora_first_use_outside_of_openai/",
+            "external_url": "https://openai.com/blog/sora-first-impressions",
+            "title": "Just released: Sora first use outside of OpenAI",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1bnjnbd/just_released_sora_first_use_outside_of_openai/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1bnjnbd/just_released_sora_first_use_outside_of_openai/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-03-25T17:36:26+00:00",
+            "authors": [
+                {
+                    "name": "Butterscotch_Crazy",
+                    "url": "https://www.reddit.com/user/Butterscotch_Crazy"
+                }
+            ]
+        },
+        {
             "id": "1bnhyl1",
             "url": "/r/OpenAI/comments/1bnhyl1/why_does_openai_cto_make_that_face_when_asked/",
             "external_url": "https://i.redd.it/y7l681fhbiqc1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "quit_that_98",
                     "url": "https://www.reddit.com/user/quit_that_98"
-                }
-            ]
-        },
-        {
-            "id": "17xtfr5",
-            "url": "/r/OpenAI/comments/17xtfr5/greg_brockman_based_on_todays_news_i_quit/",
-            "external_url": "https://twitter.com/gdb/status/1725667410387378559",
-            "title": "Greg Brockman: \"Based on today's news, I quit.\"",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/17xtfr5/greg_brockman_based_on_todays_news_i_quit/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/17xtfr5/greg_brockman_based_on_todays_news_i_quit/'>Reddit</a></caption><div><br></div><div><br></div><blockquote class=\"twitter-tweet\" align=\"center\"><p lang=\"en\" dir=\"ltr\">After learning today\u2019s news, this is the message I sent to the OpenAI team: <a href=\"https://t.co/NMnG16yFmm\">https://t.co/NMnG16yFmm</a> <a href=\"https://t.co/8x39P0ejOM\">pic.twitter.com/8x39P0ejOM</a></p>&mdash; Greg Brockman (@gdb) <a href=\"https://twitter.com/gdb/status/1725667410387378559?ref_src=twsrc%5Etfw\">November 18, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
-            "date_published": "2023-11-18T00:17:32+00:00",
-            "authors": [
-                {
-                    "name": "Recoil42",
-                    "url": "https://www.reddit.com/user/Recoil42"
                 }
             ]
         }
