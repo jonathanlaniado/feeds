@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1bnhyl1",
+            "url": "/r/OpenAI/comments/1bnhyl1/why_does_openai_cto_make_that_face_when_asked/",
+            "external_url": "https://i.redd.it/y7l681fhbiqc1.png",
+            "title": "Why does OpenAI CTO make that face when asked about \"What data was used to train Sora?\"",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1bnhyl1/why_does_openai_cto_make_that_face_when_asked/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1bnhyl1/why_does_openai_cto_make_that_face_when_asked/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/y7l681fhbiqc1.png\" />",
+            "date_published": "2024-03-25T16:29:20+00:00",
+            "authors": [
+                {
+                    "name": "Mammoth-Asparagus498",
+                    "url": "https://www.reddit.com/user/Mammoth-Asparagus498"
+                }
+            ]
+        },
+        {
             "id": "1bnfa6z",
             "url": "/r/OpenAI/comments/1bnfa6z/use_reference_image_ids_with_slightly_different/",
             "external_url": "https://i.redd.it/vor1n57urhqc1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Recoil42",
                     "url": "https://www.reddit.com/user/Recoil42"
-                }
-            ]
-        },
-        {
-            "id": "17xoact",
-            "url": "/r/OpenAI/comments/17xoact/sam_altman_is_leaving_openai/",
-            "external_url": "https://openai.com/blog/openai-announces-leadership-transition",
-            "title": "Sam Altman is leaving OpenAI",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/17xoact/sam_altman_is_leaving_openai/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/17xoact/sam_altman_is_leaving_openai/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-11-17T20:30:15+00:00",
-            "authors": [
-                {
-                    "name": "davey_b",
-                    "url": "https://www.reddit.com/user/davey_b"
                 }
             ]
         }
