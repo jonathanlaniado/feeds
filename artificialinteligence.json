@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1bnaald",
+            "url": "/r/ArtificialInteligence/comments/1bnaald/as_inflection_absorbs_microsoft_the_paypal_mafia/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1bnaald/as_inflection_absorbs_microsoft_the_paypal_mafia/",
+            "title": "As Inflection absorbs Microsoft, the PayPal Mafia quietly make a bet on their own AI.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/1bnaald/as_inflection_absorbs_microsoft_the_paypal_mafia/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/1bnaald/as_inflection_absorbs_microsoft_the_paypal_mafia/'>Reddit</a></caption><div><br></div><p>Last week, it was announced Microsoft took most of Inflection's employees in a $650M deal;  essentially leading to a further concentration of power in AI in the hands of Microsoft. So now Microsoft owns not just 49% of OpenAI but has now absorbed another major AI lab.</p>\n<p>Of course there's still Mistal, Anthropic, and Google - but I think one thing that's gone under the radar that came out in the past few weeks was the announcement of <a href=\"https://Mindy.com\"><strong>Mindy</strong></a>. Which was started by Yu Pan, a of the Cofounder and of PayPal and also was also employee #1 at YouTube. They're also backed by Roelof Botha (former CFO of PayPal) and Peter Thiel (former CEO of PayPal). The concept of their AI is that it's entirely email based and is aiming to be a competitor to google in the sense that it's indexed the entire Internet and can perform real time internet scrapes on any site (whether it's Ebay, LinkedIn, etc.).</p>\n<p>Since the inflection news, I've been seeing this notion that Microsoft has <strong><em>completely</em></strong> won the AI race but I don't think it's entirely accurate at all. There's obviously all the aforementioned labs, but I believe there are still numerous innovate AI labs like Mindy and many more that will emerge over the coming year that will threaten incumbents because they take fundamentally different product approaches and research approaches towards AGI. Curious what people think.</p>\n<p><strong>Edit:</strong> Yes I know I messed up the title. I meant to say made...</p>",
+            "date_published": "2024-03-25T10:27:17+00:00",
+            "authors": [
+                {
+                    "name": "shamefulgallantry10",
+                    "url": "https://www.reddit.com/user/shamefulgallantry10"
+                }
+            ]
+        },
+        {
             "id": "1bm669a",
             "url": "/r/ArtificialInteligence/comments/1bm669a/its_a_bit_demented_that_ai_is_replacing_all_the/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1bm669a/its_a_bit_demented_that_ai_is_replacing_all_the/",
@@ -1392,12 +1406,6 @@
                     "url": "https://www.reddit.com/user/Senior_tasteey"
                 }
             ]
-        },
-        {
-            "id": "0",
-            "url": "https://www.reddit.com/r/artificialinteligence",
-            "title": "r/artificialinteligence has been launched!",
-            "content_html": "<p>This feed will be populated as posts match the given criteria.</p>"
         }
     ]
 }
