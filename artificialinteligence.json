@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1bnl4oc",
+            "url": "/r/ArtificialInteligence/comments/1bnl4oc/chatbots_more_likely_to_change_your_mind_than/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1bnl4oc/chatbots_more_likely_to_change_your_mind_than/",
+            "title": "Chatbots more likely to change your mind than another human, study says",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/1bnl4oc/chatbots_more_likely_to_change_your_mind_than/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/1bnl4oc/chatbots_more_likely_to_change_your_mind_than/'>Reddit</a></caption><div><br></div><p><strong>New research indicates that personalized chatbots, like those based on GPT-4, are more effective at persuading people in debates than humans are</strong>, particularly when they utilize personal information about their debate opponents.</p>\n<p><strong>Quick recap:</strong></p>\n<ul>\n<li>Personalized chatbots using GPT-4 technology demonstrated an <strong>81.7% increase</strong> in persuading participants to agree with their viewpoints compared to human debaters.</li>\n<li>The study highlighted the <strong>effectiveness</strong> of chatbots in using basic personal information (such as age, gender, and race) to craft <strong>tailored arguments</strong> that resonate more deeply with individuals.</li>\n<li>There's a potential risk of malicious use of detailed digital profiles, including social media activities and purchasing behaviors, to enhance chatbots' persuasive capabilities.</li>\n<li>Researchers suggest online platforms should employ AI-driven systems to present fact-based counterarguments against misinformation, addressing the challenges posed by persuasive AI in sensitive contexts.</li>\n</ul>\n<p><a href=\"https://the-decoder.com/a-personalized-chatbot-is-more-likely-to-change-your-mind-than-another-human-study-finds/\">Source (The Decoder)</a></p>\n<p><strong>PS: If you enjoyed this post</strong>, <a href=\"http://techpresso.xyz/\">you\u2019ll love my newsletter</a>. It\u2019s already being read by 90,000+ professionals from OpenAI, Google, Meta\u2026</p>",
+            "date_published": "2024-03-25T18:35:18+00:00",
+            "authors": [
+                {
+                    "name": "Nalix01",
+                    "url": "https://www.reddit.com/user/Nalix01"
+                }
+            ]
+        },
+        {
             "id": "1bnaald",
             "url": "/r/ArtificialInteligence/comments/1bnaald/as_inflection_absorbs_microsoft_the_paypal_mafia/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1bnaald/as_inflection_absorbs_microsoft_the_paypal_mafia/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Ok-Feeling-1743",
                     "url": "https://www.reddit.com/user/Ok-Feeling-1743"
-                }
-            ]
-        },
-        {
-            "id": "16ueagc",
-            "url": "/r/ArtificialInteligence/comments/16ueagc/getting_emotional_with_llms_can_increase/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/16ueagc/getting_emotional_with_llms_can_increase/",
-            "title": "Getting Emotional with LLMs Can increase Performance by 115% (Case Study)",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArtificialInteligence/comments/16ueagc/getting_emotional_with_llms_can_increase/'>Apollo</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/16ueagc/getting_emotional_with_llms_can_increase/'>Reddit</a></caption><div><br></div><div><p>This research was a real eye-opener. Conducted by Microsoft, the study investigated the impact of appending emotional cues to the end of prompts, such as \"this is crucial for my career\" or \"make sure you're certain.\" They coined this technique as EmotionPrompt.<br />\nWhat's astonishing is the significant boost in accuracy they observed\u2014up to 115% in some cases! Human evaluators also gave higher ratings to responses generated with EmotionPrompt.<br />\nWhat I absolutely love about this is its ease of implementation\u2014you can effortlessly integrate custom instructions into ChatGPT.<br />\nWe've compiled a summary of this groundbreaking paper. Feel free to check it out <a href=\"https://www.godofprompt.ai/blog/getting-emotional-with-large-language-models-llms-can-increase-performance-by-115-case-study\">here.</a><br />\nFor those interested in diving deeper, here's the <a href=\"https://arxiv.org/pdf/2307.11760.pdf\">link</a> to the full paper.</p></div>",
-            "date_published": "2023-09-28T12:09:04+00:00",
-            "authors": [
-                {
-                    "name": "Senior_tasteey",
-                    "url": "https://www.reddit.com/user/Senior_tasteey"
                 }
             ]
         }
