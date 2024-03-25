@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
     "items": [
         {
+            "id": "1bnlxke",
+            "url": "/r/ChatGPTPro/comments/1bnlxke/how_to_write_simple_with_chatgpt_and_why_it_works/",
+            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1bnlxke/how_to_write_simple_with_chatgpt_and_why_it_works/",
+            "title": "How to write simple with ChatGPT (and why it works)",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ChatGPTPro/comments/1bnlxke/how_to_write_simple_with_chatgpt_and_why_it_works/'>Winston</a> | <a href='https://reddit.com/r/ChatGPTPro/comments/1bnlxke/how_to_write_simple_with_chatgpt_and_why_it_works/'>Reddit</a></caption><div><br></div><p>If one thing bothers me it's the default voice of ChatGPT.</p>\n<p>You see it everywhere on LinkedIn and the rest of the internet.</p>\n<p>It's extremely repetitive and monotonous, but maybe worst of all\u2014it's extremely hard to read.</p>\n<p>For example, let's look at a common prompt's output. The prompt would be something like this:</p>\n<pre><code>\"Write an announcement for LinkedIn that we have a new product launched at Org called Product X\"\n</code></pre>\n<p>And the output looks like:</p>\n<p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/rzeofker2jqc1.png?width=1292&amp;format=png&amp;auto=webp&amp;s=29a7500ceb592bd33f199146d52b7d4903eec79a\">Checked via hemingwayapp.com</a></p>\n<p>The sentences are long full with complex words, the passive voice, and adverbs. </p>\n<p>Great for your English paper, terrible for writing on the internet.</p>\n<h1>Why simple writing matters</h1>\n<p>In the USA, 54% of adults have literacy below a 6th grade level. By using ChatGPT's default voice, you could lose out on connecting with a huge audience. The same is true in many other countries.</p>\n<p>So how can we make more impact with ChatGPT?</p>\n<p><strong>The answer is simple: write simply.</strong></p>\n<p>Consider what Jeff Bezos, Warren Buffet, and viral LinkedIn writers like Sahil Bloom have in common. They all write extremely simply, often at a 7th grade level on average.</p>\n<p>&#x200B;</p>\n<p>https://preview.redd.it/gowo1s443jqc1.png?width=1292&amp;format=png&amp;auto=webp&amp;s=f0f6f2fcc1b5d99b2d5dfd84d269df34bb7cb311</p>\n<p>Simple writing demonstrates clear thinking and the ability to make complex topics easy to grasp. That is a superpower.</p>\n<p>A simple trick to make ChatGPT write simple (without making it childish) is to add:</p>\n<pre><code>Write at a Flesch reading score of 80 or higher\n</code></pre>\n<p>This will result in output at a 6th grade level without sounding childish. It's perfect for business writing, which needs to be direct, concise and clear.</p>\n<p>If you want it to take one step further to create powerful and clear messages, try out the Power Writing prompt:</p>\n<pre><code>Use clear, direct language and avoid complex terminology.\nAim for a Flesch reading score of 80 or higher.\nUse the active voice.\nAvoid adverbs.\nAvoid buzzwords and instead use plain English.\nUse jargon where relevant.\nAvoid being salesy or overly enthusiastic and instead express calm confidence.\n</code></pre>\n<p>This will work wonders to make your writing simple, to the point, but not simplistic.</p>\n<p>If you enjoyed that please consider subscribing to my <a href=\"https://www.workwiz.ai/newsletter\">AI newsletter.</a> It's a weekly newsletter filled with value on how to work smarter with AI.</p>\n<p>Hope you enjoy it!</p>\n<p>&#x200B;</p>",
+            "date_published": "2024-03-25T19:06:51+00:00",
+            "authors": [
+                {
+                    "name": "bigwhitebird",
+                    "url": "https://www.reddit.com/user/bigwhitebird"
+                }
+            ]
+        },
+        {
             "id": "1bhlva3",
             "url": "/r/ChatGPTPro/comments/1bhlva3/my_stack_overflow_visits_after_chatgptcopilot/",
             "external_url": "https://i.redd.it/4pg6bzst02pc1.png",
