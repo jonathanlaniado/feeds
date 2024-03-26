@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1bo4ert",
+            "url": "/r/selfhosted/comments/1bo4ert/peppermint_an_open_source_alternative_to_zendesk/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1bo4ert/peppermint_an_open_source_alternative_to_zendesk/",
+            "title": "Peppermint \ud83c\udf75 An open source alternative to zendesk v0.4.6",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1bo4ert/peppermint_an_open_source_alternative_to_zendesk/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1bo4ert/peppermint_an_open_source_alternative_to_zendesk/'>Reddit</a></caption><div><br></div><p>Wow its been a while, first marketing post in over 2 years so bare with me. Now on version 0.4.6 its come a long way with several redesigns across the full stack and a smidge more experience than previously the project has never been in a better state with a lot of work still left to do.  </p>\n<p><a href=\"https://preview.redd.it/hbcqwyr9knqc1.png?width=5088&amp;format=png&amp;auto=webp&amp;s=86140be76d6b3ba47f18304b27ae3fe164785501\">Latest Version of UI</a></p>\n<p>Improvements to note: <br />\n- IMAP mailbox listening &amp; smtp based outbound emails <br />\n- SSO provider via Github (more to come)<br />\n- keyboard shortcuts <br />\n- Custom Email Templates for outbound emails<br />\n- Client Portal with both guest ticket creation and user sign up options available<br />\n- Moved to a comment style rather than a block of work completed<br />\n- Design overhaul that looks miles cleaner than previous versions   </p>\n<p>Features in the pipeline: <br />\n- Cron Job Support &amp; Scheduled Ticket Creation support<br />\n- Time based reporting on tickets for clients<br />\n- More SSO auth providers <br />\n- Internal Chat + Live Chat functionality <br />\n-  2FA support<br />\n- Themes<br />\n- Status Monitoring for websites and services<br />\n- Knowledge Base<br />\n- Improved Notifications<br />\n- Improvements to various logging related to the backend<br />\n- Reporting and analytics functionality    </p>\n<p>We now have over 180 members in the discord if you want to join to stay up to date first with all future updates as generally all thoughts are discussed firstly over there.<br />\nIf you would like to join you can do <a href=\"https://discord.gg/zHQrQpPK9T\">here</a>  </p>\n<p>We are open source first so please check out the <a href=\"https://github.com/Peppermint-Lab/peppermint\">github</a>  and id be grateful for a \u2b50\ufe0f<br />\nIf you ever have any issues just get in touch via reddit, discord or <a href=\"https://twitter.com/potts_dev\">twitter</a>  </p>\n<p>&#x200B;</p>",
+            "date_published": "2024-03-26T10:19:46+00:00",
+            "authors": [
+                {
+                    "name": "japottsit",
+                    "url": "https://www.reddit.com/user/japottsit"
+                }
+            ]
+        },
+        {
             "id": "1bnbxnb",
             "url": "/r/selfhosted/comments/1bnbxnb/yes_honey_i_do_need_2_routers_a_switch_and_an/",
             "external_url": "https://i.redd.it/24a9wqv30hqc1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "intheleantime",
                     "url": "https://www.reddit.com/user/intheleantime"
-                }
-            ]
-        },
-        {
-            "id": "173qtly",
-            "url": "/r/selfhosted/comments/173qtly/jellystat_is_for_jellyfin_what_tautuli_is_for_plex/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/173qtly/jellystat_is_for_jellyfin_what_tautuli_is_for_plex/",
-            "title": "Jellystat is for Jellyfin what Tautuli is for Plex.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/173qtly/jellystat_is_for_jellyfin_what_tautuli_is_for_plex/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/173qtly/jellystat_is_for_jellyfin_what_tautuli_is_for_plex/'>Reddit</a></caption><div><br></div><p>I kept coming back to plex and was not able to completely move to Jellyfin because of Tautulli, that gives detailed stats about the Plex users watched videos.</p>\n<p>I recently came across <a href=\"https://github.com/CyferShepard/Jellystat\">Jellystat</a>. Which has all the features I used on Tautulli.</p>\n<p>If you share your Jellyfin access with your family and friends Jellystat is a must have addition.</p>",
-            "date_published": "2023-10-09T12:41:17+00:00",
-            "authors": [
-                {
-                    "name": "sevlonbhoi1",
-                    "url": "https://www.reddit.com/user/sevlonbhoi1"
                 }
             ]
         }
