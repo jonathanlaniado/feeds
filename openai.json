@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1bqplcg",
+            "url": "/r/OpenAI/comments/1bqplcg/i_think_i_am_converted_claude_3_opus_api_smashing/",
+            "external_url": "https://www.reddit.com/r/OpenAI/comments/1bqplcg/i_think_i_am_converted_claude_3_opus_api_smashing/",
+            "title": "I think I am converted... Claude 3 Opus API Smashing Out the Code",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1bqplcg/i_think_i_am_converted_claude_3_opus_api_smashing/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1bqplcg/i_think_i_am_converted_claude_3_opus_api_smashing/'>Reddit</a></caption><div><br></div><p>So, I am a big GPT4 fanboy for coding, but well in the past 48 hours Claude 3 Opus has absolutely blown me away. </p>\n<p>I set this context message with it... </p>\n<p>you are an amazing python coder, helping me with my coding. you ensure that you only use the ai models and endpoints that i provide, as these are based on api standards that updated yesterday, so they are very new. you also do not modify or change any folder locations i am using.</p>\n<p>And it is just beautiful. No more hallucinated code sections. No more deleting chunks of my logic, or fill in this that and the other.</p>\n<p>I don't know if can go back to GPT4 for coding now. </p>\n<p>Let's see, but I am loving the experience. </p>\n<p>No doubt GPT5 will rock, but right now Claude Opus is really doing it for me. </p>",
+            "date_published": "2024-03-29T13:42:14+00:00",
+            "authors": [
+                {
+                    "name": "Smartaces",
+                    "url": "https://www.reddit.com/user/Smartaces"
+                }
+            ]
+        },
+        {
             "id": "1bomdsh",
             "url": "/r/OpenAI/comments/1bomdsh/claude_3_opus_becomes_the_new_king_haiku_is_gpt4/",
             "external_url": "https://i.redd.it/abeuuw3vgrqc1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "andrebires",
                     "url": "https://www.reddit.com/user/andrebires"
-                }
-            ]
-        },
-        {
-            "id": "17z32we",
-            "url": "/r/OpenAI/comments/17z32we/new_ceo_alert/",
-            "external_url": "https://i.redd.it/egb2ir85ic1c1.jpeg",
-            "title": "New CEO alert!",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/17z32we/new_ceo_alert/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/17z32we/new_ceo_alert/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/egb2ir85ic1c1.jpeg\" />",
-            "date_published": "2023-11-19T18:11:08+00:00",
-            "authors": [
-                {
-                    "name": "Gold-Tomorrow-1794",
-                    "url": "https://www.reddit.com/user/Gold-Tomorrow-1794"
                 }
             ]
         }
