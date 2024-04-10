@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1c0u7si",
+            "url": "/r/OpenAI/comments/1c0u7si/youve_reached_the_current_usage_cap_for_gpt4/",
+            "external_url": "https://www.reddit.com/r/OpenAI/comments/1c0u7si/youve_reached_the_current_usage_cap_for_gpt4/",
+            "title": "\"You've reached the current usage cap for GPT-4\", except that I'm using free GPT 3.5",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1c0u7si/youve_reached_the_current_usage_cap_for_gpt4/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1c0u7si/youve_reached_the_current_usage_cap_for_gpt4/'>Reddit</a></caption><div><br></div><p>Getting \"You've reached the current usage cap for GPT-4\", except that I'm using free GPT 3.5.</p>\n<p>Pressing \"Use default model\" does nothing. Just a bug I guess?</p>\n<p>https://preview.redd.it/s6ey120jeptc1.png?width=1255&amp;format=png&amp;auto=webp&amp;s=39587e0ca6db34d970da186bcc051748833981b4</p>",
+            "date_published": "2024-04-10T19:30:10+00:00",
+            "authors": [
+                {
+                    "name": "rinart73",
+                    "url": "https://www.reddit.com/user/rinart73"
+                }
+            ]
+        },
+        {
             "id": "1bzz7mc",
             "url": "/r/OpenAI/comments/1bzz7mc/new_model_by_openai_gpt4turbo20240409/",
             "external_url": "https://openai.com/pricing#language-models",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Local_Signature5325",
                     "url": "https://www.reddit.com/user/Local_Signature5325"
-                }
-            ]
-        },
-        {
-            "id": "17zb5vr",
-            "url": "/r/OpenAI/comments/17zb5vr/a_message_to_ilya_sutskever/",
-            "external_url": "https://www.reddit.com/r/OpenAI/comments/17zb5vr/a_message_to_ilya_sutskever/",
-            "title": "A message to Ilya Sutskever",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/17zb5vr/a_message_to_ilya_sutskever/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/17zb5vr/a_message_to_ilya_sutskever/'>Reddit</a></caption><div><br></div><p>Inspired by this Tweet, from someone who knows Ilya: https://i.imgur.com/o8w12L7.png</p>\n<p>Ilya, if you believe that Altman's approach of quickly commercializing your latest breakthroughs poses an existential threat to humanity, please say so. Do so <strong>loudly, publicly, and repeatedly.</strong> We, the public, will quickly take your side if you articulate your side clearly, and there is an immanent threat we should be aware of.</p>\n<p>It's easy to become cynical about humanity when you have the hate mob after you, like you do now. We simply haven't heard your side of the story yet. Please go public. That's the only way I see of steering OpenAI back in the safetyist direction at this point.</p>\n<p>\u2764\ufe0f</p>",
-            "date_published": "2023-11-20T00:09:06+00:00",
-            "authors": [
-                {
-                    "name": "Z3F",
-                    "url": "https://www.reddit.com/user/Z3F"
                 }
             ]
         }
