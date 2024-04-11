@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1c1gh69",
+            "url": "/r/macapps/comments/1c1gh69/looking_for_a_photo_album_app_appreciate_any/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1c1gh69/looking_for_a_photo_album_app_appreciate_any/",
+            "title": "Looking for a Photo Album app. Appreciate any recommendations!",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1c1gh69/looking_for_a_photo_album_app_appreciate_any/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1c1gh69/looking_for_a_photo_album_app_appreciate_any/'>Reddit</a></caption><div><br></div><p>Hi everyone! I\u2019m trying to figure out what app I can use to make a Photo Album/Collage that I can print by myself on a US Letter Paper. The apps I see when I search the Mac AppStore redirects to third party printing services that deliver the finished product to you.</p>\n<p>Previously when I was using MS Office on Windows, it was easy since all I had to do was use the Insert-Photo Album option and I can select how many photos per page I need. This was available on Word and PowerPoint. I didn\u2019t know this option was never available for Office on Mac, until I tried to find the feature for a document I\u2019m working on.</p>\n<p>There\u2019s the Media-Image Gallery route with Pages but it puts all photos (and can caption it) in one page that you have to flip one by one but it only prints the Photo on the foreground of the gallery. I know I can drag drop those photos into Office or Pages but we\u2019re looking at close to a thousand photos that I have to format and caption so anything that can make the job easy would help.</p>\n<p>I appreciate any recommendations, Paid or Free. Thanks!</p>",
+            "date_published": "2024-04-11T14:28:26+00:00",
+            "authors": [
+                {
+                    "name": "UpvoteBeast",
+                    "url": "https://www.reddit.com/user/UpvoteBeast"
+                }
+            ]
+        },
+        {
             "id": "1c0mo33",
             "url": "/r/macapps/comments/1c0mo33/my_list_of_bestmost_useful_macos_apps_to_have/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1c0mo33/my_list_of_bestmost_useful_macos_apps_to_have/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "zenotds",
                     "url": "https://www.reddit.com/user/zenotds"
-                }
-            ]
-        },
-        {
-            "id": "17ga605",
-            "url": "/r/macapps/comments/17ga605/screenmemory_now_available_free_trial_or_19/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/17ga605/screenmemory_now_available_free_trial_or_19/",
-            "title": "ScreenMemory now available (free trial or $19)",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17ga605/screenmemory_now_available_free_trial_or_19/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17ga605/screenmemory_now_available_free_trial_or_19/'>Reddit</a></caption><div><br></div><p>Hello, some 3 weeks ago I posted <a href=\"https://www.reddit.com/r/macapps/comments/173134q/working_on_a_rewindaiish_application_anyone_want/\">this thread</a> on this subreddit and I got a lot of feedback. Bug and general user experience has been resolved, and I now have a sizable backlog of things to implement.</p>\n<p>In short - ScreenMemory is an app that takes screenshot of your screen(s) and then lets you rewind time to look back at it. Useful to see what you did during the day, track time if you're a freelancer or work, compare something you worked on, find lost information, etc. I have a lot of use cases on the website (<a href=\"https://screenmemory.app/\">https://screenmemory.app</a>).</p>\n<p>Here's the app in action, you can see I was working on things a couple of days ago between 2pm-3pm, and later 8.30pm-9.30pm (just as an illustration of how you can track time).</p>\n<p>https://preview.redd.it/zlle34vkudwb1.png?width=2174&amp;format=png&amp;auto=webp&amp;s=7dd9898f971fc712a382ea3f1fc4b9174847bab9</p>\n<p>I read some quote today that, if you're not embarrassed by your 1.0 version, you've launched too late. I'm already at 1.5.1 but I'm still a bit embarrassed. I have features and polish to implement, but I figured I should at least launch somewhat 'officially' since it works really well.</p>\n<p>The app is paid, at <strong>$19</strong> currently. I am still not sure what the final price will be, suggestions are welcome. It is usable in free mode, with some heavy limitations but it should show how the app works for you to make a decision, at least.</p>\n<p>The website is here: <a href=\"https://screenmemory.app/\">https://screenmemory.app/</a> and it has <em>some</em> more info.</p>",
-            "date_published": "2023-10-25T17:27:57+00:00",
-            "authors": [
-                {
-                    "name": "jontelang",
-                    "url": "https://www.reddit.com/user/jontelang"
                 }
             ]
         }
