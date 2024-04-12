@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_8j837i/styles/communityIcon_nvv8j1jp384b1.png",
     "items": [
         {
+            "id": "1c1yov3",
+            "url": "/r/VisionPro/comments/1c1yov3/pioneer_for_reddit_is_now_available_on_testflight/",
+            "external_url": "https://www.reddit.com/r/VisionPro/comments/1c1yov3/pioneer_for_reddit_is_now_available_on_testflight/",
+            "title": "Pioneer for Reddit is now available on TestFlight!",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/VisionPro/comments/1c1yov3/pioneer_for_reddit_is_now_available_on_testflight/'>Winston</a> | <a href='https://reddit.com/r/VisionPro/comments/1c1yov3/pioneer_for_reddit_is_now_available_on_testflight/'>Reddit</a></caption><div><br></div><p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/bnb1jrnctytc1.png?width=3840&amp;format=png&amp;auto=webp&amp;s=db7a604df3f154895ee07596b38b00c265d4291c\">some</a></p>\n<p><a href=\"https://preview.redd.it/pnbrjvnctytc1.png?width=3840&amp;format=png&amp;auto=webp&amp;s=e5f0fa8f2e7bdb370a3f7c90756ce3f22a8e0d3e\">image</a></p>\n<p><a href=\"https://preview.redd.it/rlezatzctytc1.png?width=3840&amp;format=png&amp;auto=webp&amp;s=d1586c9dc6e4feef2f093166473e9c34652b2015\">previews</a></p>\n<p><strong>Pioneer for Reddit</strong>, designed exclusively for Apple Vision Pro users, is now available for beta testing on TestFlight!</p>\n<p>While I'm still working through the official App Store review process, I wanted to give the Apple Vision Pro Reddit community early access to Pioneer. Your feedback will be invaluable as I refine the app.</p>\n<p>Currently I'm prioritizing content exploration over direct user interactions like commenting and posting. I plan to expand functionality to include full account features in the future, but I really want to avoid doing that until I get a better idea of average usage as I would need to pay for Reddit's API. Right now the goal is to make Pioneer as good as possible at being a Reddit reader.</p>\n<h1>Features</h1>\n<ul>\n<li><strong>Customizable Home Subreddit:</strong> Start your exploration in a universe tailored to your preferences. Choose a Home subreddit that aligns with your interests for a personalized gateway into Reddit's vast content landscape.</li>\n<li><strong>Favorites Feed:</strong> Seamlessly create your own constellation of preferred subreddits. This feature allows you to craft a unique feed that mirrors the dynamics of a personalized home feed, offering a curated exploration experience.</li>\n<li><strong>Seamless Navigation:</strong> With Pioneer, navigating the Reddit universe becomes a journey of discovery. Transition smoothly between your Home, Popular, All, and Favorites feeds, immersing yourself in the depth and diversity of content at your fingertips.</li>\n<li><strong>Instant Access to Popular and All:</strong> Delve into the heart of Reddit's community with instant access to r/popular and r/all, showcasing a wide array of discussions and discoveries that pulse through the platform.</li>\n<li><strong>Immersive Media Viewing:</strong> Dive deeper with a dedicated panel for videos, images, and galleries. Your visual and interactive content comes to life, making your browsing experience even more immersive.</li>\n<li><strong>Multi-Window Browsing:</strong> Get even more content at your fingertips. With multi-window browsing, you can juggle multiple threads and discussions simultaneously, enriching your Reddit journey.</li>\n<li><strong>Tailored for Apple Vision Pro:</strong> Experience Reddit like never before on the Apple Vision Pro. Pioneer leverages this advanced platform to deliver a visually stunning, intuitive browsing experience that's as expansive as it is engaging.</li>\n</ul>\n<h1>Known Issues</h1>\n<ul>\n<li>Logging in, commenting, and changing account-specific settings is not supported yet (coming via an Ultra subscription in the future)</li>\n<li><strong>I've gone back and forth with the App Review team many times on this, but due to Apple's policies, NSFW content is not viewable in Pioneer at this time.</strong> Future updates will introduce account-based features, allowing logged-in users to access NSFW content. Adjustments to NSFW settings will be managed through Reddit's website, in compliance with Apple's guidelines.</li>\n</ul>\n<p><strong>Join the TestFlight Beta:</strong></p>\n<p>If you\u2019re interested in being part of this pioneering journey, you can join the TestFlight beta by clicking <a href=\"https://testflight.apple.com/join/0mmBPZXO\">here</a>. I'm looking for as much feedback as possible to make Pioneer the best it can be!</p>\n<p>Thank you for your support and enthusiasm. I can\u2019t wait to hear what you all think and look forward to your feedback and suggestions, which you can post to r/PioneerApp.</p>",
+            "date_published": "2024-04-12T03:10:25+00:00",
+            "authors": [
+                {
+                    "name": "waylaidwanderer",
+                    "url": "https://www.reddit.com/user/waylaidwanderer"
+                }
+            ]
+        },
+        {
             "id": "1bntl53",
             "url": "/r/VisionPro/comments/1bntl53/im_very_excited_to_share_it_with_you/",
             "external_url": "https://i.redd.it/hajoriqglkqc1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "mingzhujingdu",
                     "url": "https://www.reddit.com/user/mingzhujingdu"
-                }
-            ]
-        },
-        {
-            "id": "17uhwr0",
-            "url": "/r/VisionPro/comments/17uhwr0/monarch_legacy_of_monsters_does_not_use_vision/",
-            "external_url": "https://x.com/themoviepodcast/status/1724094461582430587?s=46",
-            "title": "Monarch: Legacy of Monsters does NOT use Vision Pro tech",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/VisionPro/comments/17uhwr0/monarch_legacy_of_monsters_does_not_use_vision/'>Apollo</a> | <a href='https://reddit.com/r/VisionPro/comments/17uhwr0/monarch_legacy_of_monsters_does_not_use_vision/'>Reddit</a></caption><div><br></div><p>We (The Movie Podcast) had a chance to speak with Chris Black &amp; Matt Fraction about their upcoming show Monarch: Legacy of Monsters. Asked for clarification on whether they were able to use Vision Pro tech as it was rumoured and they put that to a rest.</p>",
-            "date_published": "2023-11-13T19:00:18+00:00",
-            "authors": [
-                {
-                    "name": "shayhbaz",
-                    "url": "https://www.reddit.com/user/shayhbaz"
                 }
             ]
         }
