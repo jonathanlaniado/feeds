@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1c3gxi4",
+            "url": "/r/OpenAI/comments/1c3gxi4/gpt4_turbo_has_claimed_the_throne_back/",
+            "external_url": "https://i.redd.it/e86hhi2fdcuc1.jpeg",
+            "title": "GPT-4 Turbo has claimed the throne back",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1c3gxi4/gpt4_turbo_has_claimed_the_throne_back/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1c3gxi4/gpt4_turbo_has_claimed_the_throne_back/'>Reddit</a></caption><div><br></div><p>https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard </p><div><br></div><img src=\"https://i.redd.it/e86hhi2fdcuc1.jpeg\" />",
+            "date_published": "2024-04-14T00:44:30+00:00",
+            "authors": [
+                {
+                    "name": "py-net",
+                    "url": "https://www.reddit.com/user/py-net"
+                }
+            ]
+        },
+        {
             "id": "1c33x5b",
             "url": "/r/OpenAI/comments/1c33x5b/finish_it/",
             "external_url": "https://i.redd.it/wvadgrb0h9uc1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "checkmak01",
                     "url": "https://www.reddit.com/user/checkmak01"
-                }
-            ]
-        },
-        {
-            "id": "17zh50g",
-            "url": "/r/OpenAI/comments/17zh50g/the_deal_to_bring_sam_altman_back_to_openai_has/",
-            "external_url": "https://www.theverge.com/2023/11/20/23967515/sam-altman-openai-board-fired-new-ceo",
-            "title": "The deal to bring Sam Altman back to OpenAI has fallen apart",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/17zh50g/the_deal_to_bring_sam_altman_back_to_openai_has/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/17zh50g/the_deal_to_bring_sam_altman_back_to_openai_has/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-11-20T05:19:13+00:00",
-            "authors": [
-                {
-                    "name": "Knightbear49",
-                    "url": "https://www.reddit.com/user/Knightbear49"
                 }
             ]
         }
