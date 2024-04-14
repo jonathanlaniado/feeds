@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1c3pqk6",
+            "url": "/r/ArtificialInteligence/comments/1c3pqk6/we_live_in_unbelievable_era_i_built_an_android/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1c3pqk6/we_live_in_unbelievable_era_i_built_an_android/",
+            "title": "We live in unbelievable era, i built an android app, and i\u2019ve never coded.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/1c3pqk6/we_live_in_unbelievable_era_i_built_an_android/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/1c3pqk6/we_live_in_unbelievable_era_i_built_an_android/'>Reddit</a></caption><div><br></div><p>We live in unbelievable era, i built an android app, and i\u2019ve never coded</p>\n<p>I can\u2019t believe this is actually real and working\nIn a span of 5 days, from never writing and running a code in my life, to build a functional android app that does a very good job\nAnd when prompted, it made the app look very good too</p>\n<p>HOW IS THIS REAL!!!</p>\n<p>By the way i used claude opus</p>\n<p>And It\u2019s a simple app that solves a huge problem on my business</p>\n<p>So i have a tailor store, any piece that we tailor goes through 5 steps before it\u2019s given to the customer And when we have a lot of orders there are pieces that take longer than expected, and sometimes we don\u2019t know where a piece exactly is and on what step</p>\n<p>We have a solution to have the receipt number as barcode on every piece, and if it passes any step we need to scan the barcode indicating that it\u2019s done from that step</p>\n<p>We are running low on budget so instead of having 5 computers on every step that will be connected with barcode scanners, i thought about making an android app ( since you can get cheep android phones ) and have one on every step</p>\n<p>And the app simply, first you choose on what step you are at, then read the barcodes, then submit</p>\n<p>After that the info will be written in a google spreadsheet, and in that, we track how long a piece took from going on one step to another And know exactly where every piece is And where is the bottlenecks and how to optimize making as many pieces as we can</p>",
+            "date_published": "2024-04-14T09:39:14+00:00",
+            "authors": [
+                {
+                    "name": "bhk0_",
+                    "url": "https://www.reddit.com/user/bhk0_"
+                }
+            ]
+        },
+        {
             "id": "1c22oli",
             "url": "/r/ArtificialInteligence/comments/1c22oli/the_future_of_ai_will_run_on_amazon_company_ceo/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1c22oli/the_future_of_ai_will_run_on_amazon_company_ceo/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Senior_tasteey",
                     "url": "https://www.reddit.com/user/Senior_tasteey"
-                }
-            ]
-        },
-        {
-            "id": "17bjqfi",
-            "url": "/r/ArtificialInteligence/comments/17bjqfi/whats_the_future_of_movies_look_like_to_you/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/17bjqfi/whats_the_future_of_movies_look_like_to_you/",
-            "title": "What\u2019s the future of movies look like to you?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArtificialInteligence/comments/17bjqfi/whats_the_future_of_movies_look_like_to_you/'>Apollo</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/17bjqfi/whats_the_future_of_movies_look_like_to_you/'>Reddit</a></caption><div><br></div><p>As AI and technology continue to evolve, what do you think the future holds for the world of movies? Are we looking at mind-blowing VR experiences, entirely generated AI  films, or something else quite? Could you share your versions below? I cannot wait to hear them.  </p>",
-            "date_published": "2023-10-19T13:55:21+00:00",
-            "authors": [
-                {
-                    "name": "Perfect-Group5816",
-                    "url": "https://www.reddit.com/user/Perfect-Group5816"
                 }
             ]
         }
