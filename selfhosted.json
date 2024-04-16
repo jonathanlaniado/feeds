@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1c5r34d",
+            "url": "/r/selfhosted/comments/1c5r34d/when_people_ask_why_i_selfhost_this_is_the_sort/",
+            "external_url": "https://i.redd.it/3bb2vpt9d7g61.jpg",
+            "title": "When people ask why I selfhost this is the sort of example I point to",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1c5r34d/when_people_ask_why_i_selfhost_this_is_the_sort/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1c5r34d/when_people_ask_why_i_selfhost_this_is_the_sort/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/3bb2vpt9d7g61.jpg\" />",
+            "date_published": "2024-04-16T20:55:50+00:00",
+            "authors": [
+                {
+                    "name": "wumborkie",
+                    "url": "https://www.reddit.com/user/wumborkie"
+                }
+            ]
+        },
+        {
             "id": "1c4oh6u",
             "url": "/r/selfhosted/comments/1c4oh6u/i_hated_nextcloud_for_almost_3_years_because_i/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1c4oh6u/i_hated_nextcloud_for_almost_3_years_because_i/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "puckpuckgo",
                     "url": "https://www.reddit.com/user/puckpuckgo"
-                }
-            ]
-        },
-        {
-            "id": "1789esy",
-            "url": "/r/selfhosted/comments/1789esy/its_been_a_week_since_i_fell_into_the_self/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1789esy/its_been_a_week_since_i_fell_into_the_self/",
-            "title": "It\u2019s been a week since I fell into the self hosting rabbit hole.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/1789esy/its_been_a_week_since_i_fell_into_the_self/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/1789esy/its_been_a_week_since_i_fell_into_the_self/'>Reddit</a></caption><div><br></div><p>I always considered myself fairly tech-savvy, constantly learning and seeking help from Reddit communities when I hit roadblocks. But then, I stumbled upon \"selfhosted\" by accident while researching a different app, which led me to the world of open-source software \u2013 something I had no prior knowledge of. When I realized I had to set up a server, I was in for a surprise.</p>\n<p>A kind soul directed me to the \"selfhosted\" subreddit. Spending an entire evening there opened my eyes to a world of possibilities I never knew existed. I had no idea you could do this. The reality hit me hard \u2013 I wasn't as smart as I thought.</p>\n<p>For the next four days, I immersed myself in learning how to host my own media server. It was challenging, especially since I'm not a programmer and had zero knowledge about dockers or containers. ChatGPT became my ally, helping me understand complex concepts in simple terms.</p>\n<p>Last night, I successfully set up my media server on an old gaming laptop using Jellyfin, Sonarr, Radarr, Requestrr, Jackett, and Heimdall. I'm absolutely delighted, especially with Requestrr, which makes my life so much easier.</p>\n<p>Now, I'm eager to explore self-hosting even further by setting up a music library, ebooks, photos, videos, a password manager, and more. I've come across options like Lidarr for music and Readarr for books, but I'd love to hear your recommendations.</p>\n<p>Is there a way to use a similar server setup like Sonarr for managing music and ebooks? I've tried Openbooks and Kavita, but Openbooks was a pain to set up and Kavita seems to be a library manager without a download option. Can you recommend something that I can download and use offline on my mobile for music and ebooks please?</p>\n<p>On a special note, I want to express my heartfelt thanks to everyone who's been patient and supportive, especially those who answered challenging questions in the subreddit. You're all truly amazing, and your guidance means the world to me. A big shoutout to all of you!</p>\n<p>People like you are rare, and you deserve all the good things in life.</p>",
-            "date_published": "2023-10-15T06:36:31+00:00",
-            "authors": [
-                {
-                    "name": "Michaelscarn69-",
-                    "url": "https://www.reddit.com/user/Michaelscarn69-"
                 }
             ]
         }
