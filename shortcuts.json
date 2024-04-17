@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1c5nigv",
+            "url": "/r/shortcuts/comments/1c5nigv/i_made_a_meal_planning_shortcut_using_chatgpt/",
+            "external_url": "https://www.reddit.com/r/shortcuts/comments/1c5nigv/i_made_a_meal_planning_shortcut_using_chatgpt/",
+            "title": "I made a meal planning shortcut using ChatGPT",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1c5nigv/i_made_a_meal_planning_shortcut_using_chatgpt/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1c5nigv/i_made_a_meal_planning_shortcut_using_chatgpt/'>Reddit</a></caption><div><br></div><p>Here is what the shortcut does:</p>\n<ul>\n<li>\n<p>Asks how many days you would like the meal plan to be for</p>\n</li>\n<li>\n<p>Asks how many people to plan for</p>\n</li>\n<li>\n<p>Asks what kind of meals you want (healthy, vegan, quick, cheap, etc)</p>\n</li>\n<li>\n<p>Asks which meals (breakfast, lunch, dinner snacks)</p>\n</li>\n<li>\n<p>Creates a meal plan based on your answers. Saves the plan to a note of your choice.</p>\n</li>\n<li>\n<p>Creates a shopping list based on the meal plan then saves to a note of your choice.</p>\n</li>\n<li>\n<p>Asks if you would like to save the list to your AnyList shopping list</p>\n</li>\n</ul>\n<p><a href=\"https://www.icloud.com/shortcuts/fa67496a80174f5ea17bbd7fa47ff48d\">Here is the shortcut</a></p>\n<p>You'll need the ChatGPT app installed on your phone for this to work, and AnyList (optional).</p>\n<p>The only problem I am finding is that there is a lack of variety in the meals when you do this often. I am also trying to figure out a way where it will ask if you want any edits or changes to the meal plan then adjusts accordingly. Hoping to figure that out. Please let me know if anyone has any feedback or suggestions :)</p>",
+            "date_published": "2024-04-16T18:30:45+00:00",
+            "authors": [
+                {
+                    "name": "lizzylizard3175",
+                    "url": "https://www.reddit.com/user/lizzylizard3175"
+                }
+            ]
+        },
+        {
             "id": "1c0ncn1",
             "url": "/r/shortcuts/comments/1c0ncn1/i_made_a_good_morning_and_good_night_shortcut_to/",
             "external_url": "https://www.reddit.com/r/shortcuts/comments/1c0ncn1/i_made_a_good_morning_and_good_night_shortcut_to/",
