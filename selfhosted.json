@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1c6eicq",
+            "url": "/r/selfhosted/comments/1c6eicq/today_i_left_the_cloud/",
+            "external_url": "https://www.reddit.com/gallery/1c6eicq",
+            "title": "Today I left the cloud.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1c6eicq/today_i_left_the_cloud/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1c6eicq/today_i_left_the_cloud/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-04-17T16:36:48+00:00",
+            "authors": [
+                {
+                    "name": "q3431l4u4984no",
+                    "url": "https://www.reddit.com/user/q3431l4u4984no"
+                }
+            ]
+        },
+        {
             "id": "1c5r34d",
             "url": "/r/selfhosted/comments/1c5r34d/when_people_ask_why_i_selfhost_this_is_the_sort/",
             "external_url": "https://i.redd.it/3bb2vpt9d7g61.jpg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Alternative-Rich-578",
                     "url": "https://www.reddit.com/user/Alternative-Rich-578"
-                }
-            ]
-        },
-        {
-            "id": "1790njv",
-            "url": "/r/selfhosted/comments/1790njv/what_is_the_one_thing_every_selfhosted_household/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1790njv/what_is_the_one_thing_every_selfhosted_household/",
-            "title": "What is the one thing every self-hosted household should have?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/1790njv/what_is_the_one_thing_every_selfhosted_household/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/1790njv/what_is_the_one_thing_every_selfhosted_household/'>Reddit</a></caption><div><br></div><p>Let's keep it simple. I'm sure most of us are proud of Docker CPU cycles charted in Grafana via Prometheus, but I'm talking about the house as a whole.</p>\n<p>My personal favorite is turning out to be <a href=\"https://mealie.io/\">Mealie</a>. </p>\n<p>I self-host a bunch of things for my personal use, but Mealie definitely takes the cake in terms of benefitting the entire household. I like the meal planner and the ability to hit the supermarket once to get all the necessary groceries for the week (I've never been able to achieve this before). I don't think there is anything in my stack that even compares with the benefits my house gets of out Mealie.</p>\n<p>My runner up would have to be any of the <strong>self-hosted media players</strong> (Plex, Jellyfin, etc.), but we also have Netflix and a bunch of streaming services, so not that impactful. <strong>Home Assistant</strong> would also be a close runner up, but it only provides great benefits for me, not the rest of the house. I think <strong>Immich</strong> will be on this list shortly, when it matures a bit more (are we able to import existing photos yet?)</p>",
-            "date_published": "2023-10-16T07:49:23+00:00",
-            "authors": [
-                {
-                    "name": "puckpuckgo",
-                    "url": "https://www.reddit.com/user/puckpuckgo"
                 }
             ]
         }
