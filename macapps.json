@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1c6fivz",
+            "url": "/r/macapps/comments/1c6fivz/reminder_to_new_app_devs_asking_what_your_app/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1c6fivz/reminder_to_new_app_devs_asking_what_your_app/",
+            "title": "Reminder to new app devs: asking what your app does differently than competitors is not unreasonable or rude, and shouldn't catch you by surprise.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1c6fivz/reminder_to_new_app_devs_asking_what_your_app/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1c6fivz/reminder_to_new_app_devs_asking_what_your_app/'>Reddit</a></caption><div><br></div><p>Just wanted to give some friendly advice regarding something that I've been noticing here; when people come up with new apps that are very similar to competitors, and when the question gets asked on how XYZ app is different from ABC app, app developers have to scramble to \"defend\" their app. This gets really tough for new app developers <em>especially</em> if the competitor is free, and the new app is paid and/or subscription. </p>\n<p>My advice to you if you're launching a new app here; if you know what your competitors are, <em>especially</em> if they're cheaper or free compared to your app, get out ahead of it and post where you feel your app is different and where you feel like your value-add is. This will help you beat those questions to the punch and will show that you've done some amount of market research first. </p>\n<p>Also, please be careful with subscriptions; I understand that app development is costly and subscriptions are the new hotness, but on this subreddit, we are weary of subscriptions for many reasons. If your model can allow for it, always try to consider the POV of someone who'd like a one-time purchase. I understand this can get tricky with the ever-popular AI wrappers. Suggestion? If your app is bundling API access into its monthly cost, try to investigate whether a BYOK (bring your own API key) is an option. </p>\n<p>This is just friendly advice from someone who loves to try new apps. Keep building, and keep coming up with new stuff, I love seeing it!</p>",
+            "date_published": "2024-04-17T17:17:52+00:00",
+            "authors": [
+                {
+                    "name": "Decaf_GT",
+                    "url": "https://www.reddit.com/user/Decaf_GT"
+                }
+            ]
+        },
+        {
             "id": "1c1gh69",
             "url": "/r/macapps/comments/1c1gh69/looking_for_a_photo_album_app_appreciate_any/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1c1gh69/looking_for_a_photo_album_app_appreciate_any/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "kushsolitary",
                     "url": "https://www.reddit.com/user/kushsolitary"
-                }
-            ]
-        },
-        {
-            "id": "17ga4p8",
-            "url": "/r/macapps/comments/17ga4p8/is_vlc_still_the_king_of_video_players/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/17ga4p8/is_vlc_still_the_king_of_video_players/",
-            "title": "Is VLC still the king of video players?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17ga4p8/is_vlc_still_the_king_of_video_players/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17ga4p8/is_vlc_still_the_king_of_video_players/'>Reddit</a></caption><div><br></div><p>I imagine there are several posts regarding this but I'm just too lazy to read all of them.</p>\n<p>Long story short, I've been using VLC for the better part of 20 years and I'm wondering if there's a more modern app that does the job just for the sake of using a more modern app :D.</p>\n<p>Some of the features I mostly use in VLC and would love to keep having are:</p>\n<p>- support for playlists / open folders / queue multiple videos<br />\n- multiple subtitles / audio tracks support<br />\n- possibly multiple instances (I have a script for VLC that can open it multiple times)<br />\n- support for modern codecs (HDR10+, DV) and containers (MKV and MP4 mainly)<br />\n- variable ratios, video adapts to window size<br />\n- network access<br />\n- photo slideshow</p>\n<p>I mean VLC is an old piece of software but it does A LOT.  </p>\n<p>I tryed IINA a few years ago and I hated it. But I see there are other players out there both free or paid. Fig Player, Omni Player, 5kplayer and so on.  </p>\n<p>Is there anything that actually beats VLC on capabilities and flexibility and has a more modern/mature interface? Or should I just stick to it (which is actually not a problem)</p>",
-            "date_published": "2023-10-25T17:26:25+00:00",
-            "authors": [
-                {
-                    "name": "zenotds",
-                    "url": "https://www.reddit.com/user/zenotds"
                 }
             ]
         }
