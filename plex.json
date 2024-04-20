@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1c91i6d",
+            "url": "/r/PleX/comments/1c91i6d/starting_to_have_a_collections_addiction/",
+            "external_url": "https://i.redd.it/54a8si3lgpvc1.jpeg",
+            "title": "Starting to have a Collections addiction",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1c91i6d/starting_to_have_a_collections_addiction/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1c91i6d/starting_to_have_a_collections_addiction/'>Reddit</a></caption><div><br></div><p>Any other super obvious film series that I\u2019m missing (to satisfy my addiction, LOL? I\u2019ve kinda lumped Marvel into its own thing for convenience. I had started doing a Criterion and A24 collection but I abandoned that.</p><div><br></div><img src=\"https://i.redd.it/54a8si3lgpvc1.jpeg\" />",
+            "date_published": "2024-04-20T21:49:31+00:00",
+            "authors": [
+                {
+                    "name": "mistakeordesign",
+                    "url": "https://www.reddit.com/user/mistakeordesign"
+                }
+            ]
+        },
+        {
             "id": "1c66yxc",
             "url": "/r/PleX/comments/1c66yxc/how_do_you_guys_keep_up_to_date_with_whats_coming/",
             "external_url": "https://www.reddit.com/r/PleX/comments/1c66yxc/how_do_you_guys_keep_up_to_date_with_whats_coming/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "jeroendj3",
                     "url": "https://www.reddit.com/user/jeroendj3"
-                }
-            ]
-        },
-        {
-            "id": "16smky8",
-            "url": "/r/PleX/comments/16smky8/plex_for_android_v1000_released/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/16smky8/plex_for_android_v1000_released/",
-            "title": "Plex for Android v10.0.0 Released",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16smky8/plex_for_android_v1000_released/'>Reddit</a></caption><div><br></div><div><p><strong>Plex for Android 10.0.0</strong></p>\n<p>Available on <a href=\"https://play.google.com/store/apps/details?id=com.plexapp.android\">Google Play</a> and the <a href=\"https://www.amazon.com/gp/mas/dl/android?asin=B004Y1WCDE\">Amazon App Store</a>.</p>\n<p><strong>NOTE:</strong> We are performing a staged rollout, which means the update may take a day or two before it becomes available.</p>\n<p><strong>WHATS NEW:</strong></p>\n<ul>\n<li>Added a Cast &amp; Crew page accessible from the details page.</li>\n<li>Improved the Cast hub on detail pages to also show Crew members.</li>\n<li>Profile: add the ability to remove ratings.</li>\n<li>[TV] Player: setting for forcing DoVi p7 playback.</li>\n<li>[TV] Restored Director credit to detail pages.</li>\n</ul>\n<p><strong>FIXES:</strong></p>\n<ul>\n<li>Player: strip DoVi metadata if profile is not supported.</li>\n<li>Settings: account settings might have crashed when navigating from the profile.</li>\n<li>[Mobile] Preplay: video resolution information was missing.</li>\n<li>[TV] LiveTV: fix an issue where live tv integration on Amazon devices.</li>\n</ul>\n<p><strong>DOWNLOAD APK (<a href=\"https://support.plex.tv/hc/en-us/articles/200288566-What-is-Plex-Pass-\">Plex Pass</a> required):</strong></p>\n<ul>\n<li><a href=\"https://downloads.plex.tv/Kepler/kepler-armeabi-v7a-googlePlay-10.0.0.4149-c2617d8.apk\">Google Play (armv7a)</a></li>\n<li><a href=\"https://downloads.plex.tv/Kepler/kepler-arm64-v8a-googlePlay-10.0.0.4149-c2617d8.apk\">Google Play (arm64v8a)</a></li>\n<li><a href=\"https://downloads.plex.tv/Kepler/kepler-x86-googlePlay-10.0.0.4149-c2617d8.apk\">Google Play (x86)</a></li>\n<li><a href=\"https://downloads.plex.tv/Kepler/kepler-x86_64-googlePlay-10.0.0.4149-c2617d8.apk\">Google Play (x86_64)</a></li>\n<li><a href=\"https://downloads.plex.tv/Kepler/kepler-armeabi-v7a-amazon-10.0.0.4149-c2617d8.apk\">Amazon AppStore (armv7a)</a></li>\n<li><a href=\"https://downloads.plex.tv/Kepler/kepler-armeabi-v7a-amazon-10.0.0.4149-c2617d8.apk\">Amazon Fire OS Devices (armv7a)</a></li>\n</ul>\n<p>Source: https://forums.plex.tv/t/29115/482</p></div>",
-            "date_published": "2023-09-26T12:30:29+00:00",
-            "authors": [
-                {
-                    "name": "samwiseg0",
-                    "url": "https://www.reddit.com/user/samwiseg0"
                 }
             ]
         }
