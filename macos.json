@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "1c9mp1e",
+            "url": "/r/MacOS/comments/1c9mp1e/i_got_a_mac_mini_server_2009_from_thrift_store_i/",
+            "external_url": "https://www.reddit.com/gallery/1c9mp1e",
+            "title": "I got a Mac Mini Server 2009 from Thrift Store (I can\u2019t get it to work)",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOS/comments/1c9mp1e/i_got_a_mac_mini_server_2009_from_thrift_store_i/'>Winston</a> | <a href='https://reddit.com/r/MacOS/comments/1c9mp1e/i_got_a_mac_mini_server_2009_from_thrift_store_i/'>Reddit</a></caption><div><br></div><p>So yesterday I got a Mac Mini Server 2009, which apparently runs on OS X 10.11 El Capitan. And the disks the Mac Mini has, are from 10.6, and I don\u2019t know how to boot on them, now the main issue is that, when I\u2019m trying to re install OS X (yes, it\u2019s in recovery mode) I can\u2019t get it to install, because when I want to log in to my Apple ID, it says \u201c403 Forbidden.\u201d Now I\u2019m thinking that this is an activation lock or some sort. Now I have read they I can make bootable mediums with different Mac computers, and the other Mac I have, is a MacBook Pro M2, which as you know, it uses the Apple silicon chip.</p>\n<p>Is there, or could there be anywhere to use the Mac Mini? \nI am also not really professional with Mac devices, so your help would be much appreciated!</p>",
+            "date_published": "2024-04-21T16:54:52+00:00",
+            "authors": [
+                {
+                    "name": "MaybeFun3359",
+                    "url": "https://www.reddit.com/user/MaybeFun3359"
+                }
+            ]
+        },
+        {
             "id": "1c9l1wu",
             "url": "/r/MacOS/comments/1c9l1wu/about_to_complain_to_ms_that_onedrive_for_mac_is/",
             "external_url": "https://i.redd.it/7nnw8zmhsuvc1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "juanfdo82465",
                     "url": "https://www.reddit.com/user/juanfdo82465"
-                }
-            ]
-        },
-        {
-            "id": "16vj82w",
-            "url": "/r/MacOS/comments/16vj82w/remember_how_the_os_used_to_have_a_price/",
-            "external_url": "https://i.redd.it/7afakih3m8rb1.jpg",
-            "title": "Remember how the OS used to have a price?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/MacOS/comments/16vj82w/remember_how_the_os_used_to_have_a_price/'>Apollo</a> | <a href='https://reddit.com/r/MacOS/comments/16vj82w/remember_how_the_os_used_to_have_a_price/'>Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/7afakih3m8rb1.jpg\" />",
-            "date_published": "2023-09-29T18:24:45+00:00",
-            "authors": [
-                {
-                    "name": "terrywow007",
-                    "url": "https://www.reddit.com/user/terrywow007"
                 }
             ]
         }
