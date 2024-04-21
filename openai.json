@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1c9mw4d",
+            "url": "/r/OpenAI/comments/1c9mw4d/gpt4_can_exploit_real_vulnerabilities_by_reading/",
+            "external_url": "https://www.reddit.com/r/OpenAI/comments/1c9mw4d/gpt4_can_exploit_real_vulnerabilities_by_reading/",
+            "title": "GPT-4 can exploit real vulnerabilities by reading security advisories",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1c9mw4d/gpt4_can_exploit_real_vulnerabilities_by_reading/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1c9mw4d/gpt4_can_exploit_real_vulnerabilities_by_reading/'>Reddit</a></caption><div><br></div><p>In a newly released\u00a0paper, University of Illinois Urbana-Champaign (UIUC) computer scientists report that OpenAI's GPT-4 large language model (LLM) can <a href=\"https://www.theregister.com/2024/04/17/gpt4_can_exploit_real_vulnerabilities/\">autonomously exploit vulnerabilities in real-world systems</a> if given a CVE advisory describing the flaw.</p>\n<p>If you want to stay ahead of the curve in AI and tech,\u00a0<a href=\"https://smmry.tech/?utm_source=reddit\">take a look here</a>.</p>\n<p><strong>Key findings:</strong></p>\n<ul>\n<li>OpenAI's GPT-4 can exploit real-world security vulnerabilities by reading security advisories (CVE descriptions). It achieved an 87% success rate on a set of 15 vulnerabilities.</li>\n<li>GPT-4 is significantly more successful than other large language models (LLMs) and open-source vulnerability scanners tested in the research.</li>\n<li>Researchers are concerned that future, even more capable LLMs could make exploiting vulnerabilities much easier.</li>\n<li>Limiting public availability of security information is not seen as a viable defense because proactive measures like applying security patches are more important.</li>\n</ul>\n<p><a href=\"https://www.theregister.com/2024/04/17/gpt4_can_exploit_real_vulnerabilities/\">Source (The Register)</a></p>\n<p>Link to the paper <a href=\"https://arxiv.org/abs/2404.08144\">here</a>.</p>\n<p><strong>PS: If you enjoyed this post</strong>, you\u2019ll love my\u00a0<a href=\"https://smmry.tech/?utm_source=reddit\">ML-powered newsletter</a>\u00a0that summarizes the best AI/tech news from 50+ media sources. It\u2019s already being read by\u00a0<strong>hundreds of professionals</strong>\u00a0from\u00a0<strong>OpenAI, HuggingFace, Apple</strong>\u2026</p>",
+            "date_published": "2024-04-21T17:03:03+00:00",
+            "authors": [
+                {
+                    "name": "Rare_Adhesiveness518",
+                    "url": "https://www.reddit.com/user/Rare_Adhesiveness518"
+                }
+            ]
+        },
+        {
             "id": "1c7pprl",
             "url": "/r/OpenAI/comments/1c7pprl/theyre_making_ai_for_math_homework_now/",
             "external_url": "https://v.redd.it/zqpl1btaodvc1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Astro_Robot",
                     "url": "https://www.reddit.com/user/Astro_Robot"
-                }
-            ]
-        },
-        {
-            "id": "1812daq",
-            "url": "/r/OpenAI/comments/1812daq/sam_returns_as_ceo/",
-            "external_url": "https://i.redd.it/eky9yykdbu1c1.jpg",
-            "title": "Sam returns as CEO",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/1812daq/sam_returns_as_ceo/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/1812daq/sam_returns_as_ceo/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/eky9yykdbu1c1.jpg\" />",
-            "date_published": "2023-11-22T06:05:12+00:00",
-            "authors": [
-                {
-                    "name": "Low-Key-Kronie",
-                    "url": "https://www.reddit.com/user/Low-Key-Kronie"
                 }
             ]
         }
