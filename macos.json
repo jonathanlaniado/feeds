@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "1c9l1wu",
+            "url": "/r/MacOS/comments/1c9l1wu/about_to_complain_to_ms_that_onedrive_for_mac_is/",
+            "external_url": "https://i.redd.it/7nnw8zmhsuvc1.png",
+            "title": "About to complain to MS that Onedrive for Mac is rubbish and then...",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOS/comments/1c9l1wu/about_to_complain_to_ms_that_onedrive_for_mac_is/'>Winston</a> | <a href='https://reddit.com/r/MacOS/comments/1c9l1wu/about_to_complain_to_ms_that_onedrive_for_mac_is/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/7nnw8zmhsuvc1.png\" />",
+            "date_published": "2024-04-21T15:45:34+00:00",
+            "authors": [
+                {
+                    "name": "RowMysterious2213",
+                    "url": "https://www.reddit.com/user/RowMysterious2213"
+                }
+            ]
+        },
+        {
             "id": "1c8nj1u",
             "url": "/r/MacOS/comments/1c8nj1u/apple_silicon_wallpaper_with_m2_m3_family_chips/",
             "external_url": "https://www.reddit.com/gallery/1c8nj1u",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "terrywow007",
                     "url": "https://www.reddit.com/user/terrywow007"
-                }
-            ]
-        },
-        {
-            "id": "16v9fqr",
-            "url": "/r/MacOS/comments/16v9fqr/understanding_time_machine_why_does_hourly_backup/",
-            "external_url": "https://www.reddit.com/r/MacOS/comments/16v9fqr/understanding_time_machine_why_does_hourly_backup/",
-            "title": "Understanding Time Machine: Why Does Hourly Backup Copy Hundreds of GBs?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/MacOS/comments/16v9fqr/understanding_time_machine_why_does_hourly_backup/'>Apollo</a> | <a href='https://reddit.com/r/MacOS/comments/16v9fqr/understanding_time_machine_why_does_hourly_backup/'>Reddit</a></caption><div><br></div><div><p>I have a 5 TB volume in my NAS dedicated to the Apple Time Machine backups. My total production data volume (that is being backed up) is around 1.5 TB. It's set to back up on an hourly basis.Even with subtle changes in the production data (like a general usage of the Mac OS Sonoma), whenever I monitor the Time machine status, it's always copying 100s GBs of data into the NAS.</p>\n<p>I verified backups a couple of times and nothing was wrong.</p>\n<p>I'm curious how the time machine hourly backups work.  </p>\n<p>btw, the OS is the latest public Mac OS Sonoma</p>\n<p>https://preview.redd.it/v3fywra4m6rb1.png?width=958&amp;format=png&amp;auto=webp&amp;s=61ea2f968012c98cfeacb15cfe46054e0e0e47c8</p></div>",
-            "date_published": "2023-09-29T11:48:12+00:00",
-            "authors": [
-                {
-                    "name": "turalaliyev",
-                    "url": "https://www.reddit.com/user/turalaliyev"
                 }
             ]
         }
