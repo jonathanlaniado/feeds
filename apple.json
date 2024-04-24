@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "1cbx0mk",
+            "url": "/r/apple/comments/1cbx0mk/apples_generative_ai_may_be_the_only_one_that_was/",
+            "external_url": "https://appleinsider.com/articles/24/04/24/apples-generative-ai-may-be-the-only-one-that-was-trained-legally-ethically",
+            "title": "Apple's generative AI may be the only one that was trained legally & ethically",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/apple/comments/1cbx0mk/apples_generative_ai_may_be_the_only_one_that_was/'>Winston</a> | <a href='https://reddit.com/r/apple/comments/1cbx0mk/apples_generative_ai_may_be_the_only_one_that_was/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-04-24T12:34:07+00:00",
+            "authors": [
+                {
+                    "name": "chrisdh79",
+                    "url": "https://www.reddit.com/user/chrisdh79"
+                }
+            ]
+        },
+        {
             "id": "1cb8sr1",
             "url": "/r/apple/comments/1cb8sr1/apple_finally_plans_to_release_a_calculator_app/",
             "external_url": "https://www.macrumors.com/2024/04/23/calculator-app-for-ipad-rumor/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "IMakeApps",
                     "url": "https://www.reddit.com/user/IMakeApps"
-                }
-            ]
-        },
-        {
-            "id": "18dqlry",
-            "url": "/r/apple/comments/18dqlry/usbc_magic_keyboard_mouse_and_trackpad_could/",
-            "external_url": "https://www.macrumors.com/2023/12/08/usb-c-magic-keyboard-mouse-trackpad-spring-2024/",
-            "title": "USB-C Magic Keyboard, Mouse, and Trackpad Could Arrive in Spring 2024",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/apple/comments/18dqlry/usbc_magic_keyboard_mouse_and_trackpad_could/'>Apollo</a> | <a href='https://reddit.com/r/apple/comments/18dqlry/usbc_magic_keyboard_mouse_and_trackpad_could/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-12-08T16:30:22+00:00",
-            "authors": [
-                {
-                    "name": "Happy_Traveller_2023",
-                    "url": "https://www.reddit.com/user/Happy_Traveller_2023"
                 }
             ]
         }
