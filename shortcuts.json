@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1cbxiie",
+            "url": "/r/shortcuts/comments/1cbxiie/switch_5g_to_lte_and_vice_versa/",
+            "external_url": "https://i.redd.it/cami5jiddfwc1.jpeg",
+            "title": "Switch 5G to LTE and vice versa",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1cbxiie/switch_5g_to_lte_and_vice_versa/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1cbxiie/switch_5g_to_lte_and_vice_versa/'>Reddit</a></caption><div><br></div><p>I\u2019m trying to create a shortcut where it finds the mobile data whether in 5G then it changes to LTE mode. If the mobile data is in LTE mode, it changes back to 5G. It only works from 5G to LTE but only from LTE to 5G.</p><div><br></div><img src=\"https://i.redd.it/cami5jiddfwc1.jpeg\" />",
+            "date_published": "2024-04-24T12:57:52+00:00",
+            "authors": [
+                {
+                    "name": "luckylion_21",
+                    "url": "https://www.reddit.com/user/luckylion_21"
+                }
+            ]
+        },
+        {
             "id": "1cbhu0m",
             "url": "/r/shortcuts/comments/1cbhu0m/billboard_charts_20/",
             "external_url": "https://i.redd.it/jtlwpvez0bwc1.jpeg",
@@ -1392,12 +1406,6 @@
                     "url": "https://www.reddit.com/user/Travel69"
                 }
             ]
-        },
-        {
-            "id": "0",
-            "url": "https://www.reddit.com/r/shortcuts",
-            "title": "r/shortcuts has been launched!",
-            "content_html": "<p>This feed will be populated as posts match the given criteria.</p>"
         }
     ]
 }
