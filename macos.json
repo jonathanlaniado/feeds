@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "1cc8n2z",
+            "url": "/r/MacOS/comments/1cc8n2z/apple_really_needs_to_redesign_again_the_system/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/1cc8n2z/apple_really_needs_to_redesign_again_the_system/",
+            "title": "Apple REALLY needs to redesign again the System Preferences app in macOS 15. Its completely useless right now and everyone just uses the search bar",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOS/comments/1cc8n2z/apple_really_needs_to_redesign_again_the_system/'>Winston</a> | <a href='https://reddit.com/r/MacOS/comments/1cc8n2z/apple_really_needs_to_redesign_again_the_system/'>Reddit</a></caption><div><br></div><p>I kept my personal MBP on Monterey for as long as possible while I kept my work MBP updated. Now I run Sonoma on both computers and I simply can't stand the System Preferences app. I still hate as much as day 1 and its absurd that we have an app that we don't even use. When I was using Monterey I could find most settings quickly, now finding something in the new Settings app is so time consuming we all keep using the search bar. The app right now is simply unusable. </p>\n<p>Its not just that it has a mobile UI (designed for a finger as an input method and not a mouse) and that its a copy paste from the iPad app, its also that the app has completely irrelevant stuff at the top and important settings at the bottom: who needs Notifications, Screen Time or Accessibility at the top, and TrackPad, Keyboard and Users at the bottom of the list? Someone who uses an iPad, not a Mac. Most settings are buried under menus (just like the Settings app on the iPhone, which worked well in 2010 but not anymore) and we just don't use it. I'm not asking for the System Preferences app from Monterey to come back (I wish it did but Apple never does that kind of stuff) but at least to get a redesign. I simply don't get how this awful design made it to production and how someone actually approved it. </p>\n<p>People say \"oh you'll adapt, people don't like changes\" but I still dislike it as much as the day it was released. Its quite possibly one of the most stupid decisions Apple has taken in recent years (just like redesigning the \"About this Mac\" page that now shows way less information and requires more clicks to see the same information as before)</p>",
+            "date_published": "2024-04-24T20:26:15+00:00",
+            "authors": [
+                {
+                    "name": "gentle_programmer",
+                    "url": "https://www.reddit.com/user/gentle_programmer"
+                }
+            ]
+        },
+        {
             "id": "1cadi99",
             "url": "/r/MacOS/comments/1cadi99/why_apple_just_why_with_a_fullstop/",
             "external_url": "https://v.redd.it/1z1if176r1wc1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Jelly_Procrastinator",
                     "url": "https://www.reddit.com/user/Jelly_Procrastinator"
-                }
-            ]
-        },
-        {
-            "id": "16vx87u",
-            "url": "/r/MacOS/comments/16vx87u/why_put_so_much_effort_into_screen_savers/",
-            "external_url": "https://www.reddit.com/r/MacOS/comments/16vx87u/why_put_so_much_effort_into_screen_savers/",
-            "title": "Why put so much effort into Screen Savers?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/MacOS/comments/16vx87u/why_put_so_much_effort_into_screen_savers/'>Apollo</a> | <a href='https://reddit.com/r/MacOS/comments/16vx87u/why_put_so_much_effort_into_screen_savers/'>Reddit</a></caption><div><br></div><div><p>The lead feature for Sonoma, <a href=\"https://support.apple.com/en-us/HT213895\">per Apple,</a> are the screen savers.</p>\n<p>At best, on my iMac, I might look at a screen saver for about 10 seconds as I approach my desk. For my laptop; I never see the screen saver. The Air is closed if I'm not using it.</p>\n<p>Yet all this effort. Do you stare at your computer when you're not using it? I can see - if the Mac is a kitchen appliance, for instance - that it'd be fun to have a screen saver running when the Mac isn't in use. But otherwise? I don't get it. </p></div>",
-            "date_published": "2023-09-30T04:16:16+00:00",
-            "authors": [
-                {
-                    "name": "leehinde",
-                    "url": "https://www.reddit.com/user/leehinde"
                 }
             ]
         }
