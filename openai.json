@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1cchuwh",
+            "url": "/r/OpenAI/comments/1cchuwh/this_is_ai_its_so_over/",
+            "external_url": "https://v.redd.it/r1hhirjwnjwc1",
+            "title": "This is AI\u2026 It\u2019s so over",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1cchuwh/this_is_ai_its_so_over/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1cchuwh/this_is_ai_its_so_over/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-04-25T03:24:07+00:00",
+            "authors": [
+                {
+                    "name": "AuralTuneo",
+                    "url": "https://www.reddit.com/user/AuralTuneo"
+                }
+            ]
+        },
+        {
             "id": "1cc9jp1",
             "url": "/r/OpenAI/comments/1cc9jp1/nvidia_dgx_h200_delivered_to_openai_by_nvidia_ceo/",
             "external_url": "https://i.redd.it/wnxzyyqurhwc1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "crypto-baggins",
                     "url": "https://www.reddit.com/user/crypto-baggins"
-                }
-            ]
-        },
-        {
-            "id": "181n8am",
-            "url": "/r/OpenAI/comments/181n8am/what_is_q/",
-            "external_url": "https://www.reddit.com/r/OpenAI/comments/181n8am/what_is_q/",
-            "title": "What is Q*?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/181n8am/what_is_q/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/181n8am/what_is_q/'>Reddit</a></caption><div><br></div><p>Per a Reuters exclusive released moments ago, Altman's ouster was originally precipitated by the discovery of Q* (Q-star), which supposedly was an AGI. The Board was alarmed (and same with Ilya) and thus called the meeting to fire him.</p>\n<p>Has anyone found anything else on Q*?</p>",
-            "date_published": "2023-11-22T23:36:28+00:00",
-            "authors": [
-                {
-                    "name": "radio4dead",
-                    "url": "https://www.reddit.com/user/radio4dead"
                 }
             ]
         }
