@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1cdb897",
+            "url": "/r/OpenAI/comments/1cdb897/openai_employee_says_i_dont_care_what_line_the/",
+            "external_url": "https://i.redd.it/fpyq3048tqwc1.png",
+            "title": "OpenAI employee says \u201ci don\u2019t care what line the labs are pushing but the models are alive, intelligent, entire alien creatures and ecosystems and calling them tools is insufficient.\u201d",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1cdb897/openai_employee_says_i_dont_care_what_line_the/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1cdb897/openai_employee_says_i_dont_care_what_line_the/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/fpyq3048tqwc1.png\" />",
+            "date_published": "2024-04-26T03:26:43+00:00",
+            "authors": [
+                {
+                    "name": "Maxie445",
+                    "url": "https://www.reddit.com/user/Maxie445"
+                }
+            ]
+        },
+        {
             "id": "1cchuwh",
             "url": "/r/OpenAI/comments/1cchuwh/this_is_ai_its_so_over/",
             "external_url": "https://v.redd.it/r1hhirjwnjwc1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "BeginningInfluence55",
                     "url": "https://www.reddit.com/user/BeginningInfluence55"
-                }
-            ]
-        },
-        {
-            "id": "181vd4w",
-            "url": "/r/OpenAI/comments/181vd4w/introducing_a_new_term_brockism/",
-            "external_url": "https://www.reddit.com/r/OpenAI/comments/181vd4w/introducing_a_new_term_brockism/",
-            "title": "Introducing a new term: Brockism",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/181vd4w/introducing_a_new_term_brockism/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/181vd4w/introducing_a_new_term_brockism/'>Reddit</a></caption><div><br></div><p><strong>Brockism</strong> is a proposed name for one of four viewpoints represented in the famous 2023 societal debate about AGI safety taking place at OpenAI.  Thankfully, all four factions agree on the need to deal with x-risk, but disagree about how:</p>\n<p>(1) The \"normal\" faction, which includes Satya Nadella and almost every businessperson both in VC and on Wall Street.  Normals say (at least with their investment decisions, which speak infinitely louder than words) that we can deal with x-risk later.</p>\n<p>(2) The \"decel\" faction (short for \"decelerate\"), which says to slow down AI research.</p>\n<p>(3) The \"e/acc\" faction (short for \"effective accelerationists\"). This faction is a mix of fanatical techno-utopians (like Yann LeCun and Andrew Ng), mixed with Twitter users who post macho memes and have a \"lol let's watch the world burn\" attitude.</p>\n<p>(4) The \"Brockist\" faction (named after Greg Brockman). Brockists believe the way to reduce x-risk is to accelerate AI software research while halting or slowing semiconductor development. They believe that if chips are too fast, we could stumble into unwantedly making an unaligned artificial superintelligence by accidentally inventing an algorithm that makes fuller use of existing chips. The difference between what we currently do with current chips vs what we *could* do with current chips is what Brockists call the \"<strong>capabilities overhang</strong>\".</p>\n<p>Brockman explains his position in the last 6 minutes of this TED Talk: <a href=\"https://youtu.be/C_78DM8fG6E?si=uIP2OIxV8dXAKr9B&amp;t=1478\">https://youtu.be/C_78DM8fG6E?si=uIP2OIxV8dXAKr9B&amp;t=1478</a></p>\n<p>Significant evidence for the Brockist position may be found in the accomplishments of the retro-computing \"demoscene\", which uses innovative software to produce computer graphics on par with the late 1990's on some of the very oldest personal computers.  See <a href=\"https://en.wikipedia.org/wiki/Demoscene\">en.wikipedia.org/wiki/Demoscene</a> and reddit.com/r/demoscene</p>",
-            "date_published": "2023-11-23T07:01:58+00:00",
-            "authors": [
-                {
-                    "name": "crypto-baggins",
-                    "url": "https://www.reddit.com/user/crypto-baggins"
                 }
             ]
         }
