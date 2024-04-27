@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1cenjeu",
+            "url": "/r/selfhosted/comments/1cenjeu/glance_a_minimal_dashboard_that_puts_all_the/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1cenjeu/glance_a_minimal_dashboard_that_puts_all_the/",
+            "title": "Glance: a minimal dashboard that puts all the information you care about in one place",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1cenjeu/glance_a_minimal_dashboard_that_puts_all_the/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1cenjeu/glance_a_minimal_dashboard_that_puts_all_the/'>Reddit</a></caption><div><br></div><p><a href=\"https://github.com/glanceapp/glance\">https://github.com/glanceapp/glance</a></p>\n<p>Finally, <a href=\"https://www.reddit.com/r/selfhosted/comments/1alazj2/\">the dashboard I teased 3 months ago</a> is now released. It started off as a project to help me learn Go and has evolved into something I use every day. There is still much to be done - an actual logo, more features, customizations, widgets, bug fixes, etc, and I'm looking forward to learning further and getting better at Go as I continue to work on this project.</p>\n<p>Configuring the dashboard has a bit of a learning curve to it but I've provided a simple <a href=\"https://github.com/glanceapp/glance/blob/main/docs/configuration.md#preconfigured-page\">preconfigured page</a> to help you get started.</p>\n<p>A docker container is available so installation is pretty straightforward, just make sure you have a valid <code>glance.yml</code> file:</p>\n<pre><code>docker run -d -p 8080:8080 \\\n  -v ./glance.yml:/app/glance.yml \\\n  -v /etc/timezone:/etc/timezone:ro \\\n  -v /etc/localtime:/etc/localtime:ro \\\n  glanceapp/glance\n</code></pre>\n<p>(localtime and timezone are required for the calendar to work properly)</p>\n<p>I don't blame you if you're skeptical about running random containers from projects that came out literally today - you absolutely should be! You are more than welcome to build the project yourself from source and run it however you prefer. So long as you have Go installed it's as simple as <code>go build .</code></p>\n<p>Can't wait to see what kind of page configurations and themes people come up with!</p>",
+            "date_published": "2024-04-27T20:03:15+00:00",
+            "authors": [
+                {
+                    "name": "SvilenMarkov",
+                    "url": "https://www.reddit.com/user/SvilenMarkov"
+                }
+            ]
+        },
+        {
             "id": "1c81jmo",
             "url": "/r/selfhosted/comments/1c81jmo/received_cease_and_desist_letter_over_company/",
             "external_url": "https://i.redd.it/7mx666ywsgvc1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "dontevendrivethatfar",
                     "url": "https://www.reddit.com/user/dontevendrivethatfar"
-                }
-            ]
-        },
-        {
-            "id": "179ew0y",
-            "url": "/r/selfhosted/comments/179ew0y/i_created_a_library_of_fullcolor_svg_icons_of/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/179ew0y/i_created_a_library_of_fullcolor_svg_icons_of/",
-            "title": "I created a library of full-color SVG icons of homelab-related software, products, and brands that I'm using in my network diagrams. It was going to be a personal project, but I thought I'd share it here \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/179ew0y/i_created_a_library_of_fullcolor_svg_icons_of/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/179ew0y/i_created_a_library_of_fullcolor_svg_icons_of/'>Reddit</a></caption><div><br></div><p>TL;DR:</p>\n<p>500+ full-color SVG icons of homelab-related software, products, and brands for use in dashboards, network diagrams, etc...</p>\n<p>https://github.com/loganmarchione/homelab-svg-assets</p>\n<p>See a preview of all icons <a href=\"https://github.com/loganmarchione/homelab-svg-assets/blob/main/ICONS.md\">here</a></p>\n<hr />\n<p>In my dashboards and network diagrams, I was using the already existing SVG icon sets (<a href=\"https://simpleicons.org/\">Simple Icons</a>, <a href=\"https://icons.getbootstrap.com/\">Bootstrap Icons</a>, <a href=\"https://fontawesome.com/icons\">Font Awesome</a>, etc...), as well as random PNG/JPG files I found online. However, I always wanted consistently-sized full-color SVGs (instead of black/monotone or random PNG/JPG files).</p>\n<p>I've gathered 500+ SVGs so far, and wanted to share them here.</p>\n<p>https://github.com/loganmarchione/homelab-svg-assets.</p>\n<p>I don't intend to replace any existing icon sets. Instead, I'm focused on homelab-related software, products, and brands ONLY.</p>\n<p>I have the following features so far:</p>\n<ul>\n<li>Consistent viewbox (48x48)</li>\n<li>Optimized with SVGO (the entire repo is ~6MB)</li>\n<li>Diagrams.net <a href=\"https://app.diagrams.net/?clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Floganmarchione%2Fhomelab-svg-assets%2Fmain%2Fhomelab-svg-assets.xml\">library</a> (this is the reason I created this project)</li>\n<li>CDN (via <a href=\"https://www.jsdelivr.com/package/npm/@loganmarchione/homelab-svg-assets\">jsDelivr</a>)</li>\n<li>PHP (via <a href=\"https://packagist.org/packages/loganmarchione/homelab-svg-assets\">Packagist</a>)</li>\n<li>Node (via <a href=\"https://www.npmjs.com/package/@loganmarchione/homelab-svg-assets\">NPM</a>)</li>\n<li>Hugo (via <a href=\"https://github.com/loganmarchione/homelab-svg-assets#hugo-usage\">module</a>)</li>\n</ul>\n<p>I created this for myself, but figured it might be useful here!</p>",
-            "date_published": "2023-10-16T19:49:29+00:00",
-            "authors": [
-                {
-                    "name": "lmm7425",
-                    "url": "https://www.reddit.com/user/lmm7425"
                 }
             ]
         }
