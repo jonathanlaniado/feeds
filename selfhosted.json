@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1cgbj13",
+            "url": "/r/selfhosted/comments/1cgbj13/my_girlfriend_was_still_using_netflix_to_watch/",
+            "external_url": "https://www.reddit.com/gallery/1cgbj13",
+            "title": "My girlfriend was still using Netflix to watch her favorite shows until it finally kicked her from her parents account. This made all the hassle of setting up Jellyfin + Arr worth it",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1cgbj13/my_girlfriend_was_still_using_netflix_to_watch/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1cgbj13/my_girlfriend_was_still_using_netflix_to_watch/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-04-29T21:48:45+00:00",
+            "authors": [
+                {
+                    "name": "Eubank31",
+                    "url": "https://www.reddit.com/user/Eubank31"
+                }
+            ]
+        },
+        {
             "id": "1cenjeu",
             "url": "/r/selfhosted/comments/1cenjeu/glance_a_minimal_dashboard_that_puts_all_the/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1cenjeu/glance_a_minimal_dashboard_that_puts_all_the/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "KillerTic",
                     "url": "https://www.reddit.com/user/KillerTic"
-                }
-            ]
-        },
-        {
-            "id": "17a21eq",
-            "url": "/r/selfhosted/comments/17a21eq/did_i_screw_up_by_putting_in_my_phone_number_in/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/17a21eq/did_i_screw_up_by_putting_in_my_phone_number_in/",
-            "title": "Did I screw up by putting in my phone number in when registering for a domain for my self hosted stack?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/17a21eq/did_i_screw_up_by_putting_in_my_phone_number_in/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/17a21eq/did_i_screw_up_by_putting_in_my_phone_number_in/'>Reddit</a></caption><div><br></div><p>I've purchased a few domains in my life, but it was always through Google Domains in the past. This weekend I bought a new one through Cloudflare so that I could make a nice subdomain structure for all of my self-hosted apps. That went great - I'm using Traefik and Pihole for the local DNS.</p>\n<p>But in the past two days, I've gotten 28 spam calls and a handful of text messages from companies who want to design my website, or logo, or something else. I only listened to the first few voicemails but they did mention the name of the domain I purchased.</p>\n<p>This didn't happen when I used Google Domains. Is there something I missed? I knew this information was public, but I feel like I must have screwed up somehow and it put me on a lot of spam lists.</p>\n<p>-----</p>\n<p>EDIT: It looks like my mistake was registering a .us domain, which requires this to be public. Yikes.</p>",
-            "date_published": "2023-10-17T16:15:34+00:00",
-            "authors": [
-                {
-                    "name": "dontevendrivethatfar",
-                    "url": "https://www.reddit.com/user/dontevendrivethatfar"
                 }
             ]
         }
