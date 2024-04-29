@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "1cg2z32",
+            "url": "/r/MacOS/comments/1cg2z32/feature_i_just_discovered_finer_control_over/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/1cg2z32/feature_i_just_discovered_finer_control_over/",
+            "title": "Feature I just discovered: Finer control over Volume + Brightness on Mac",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOS/comments/1cg2z32/feature_i_just_discovered_finer_control_over/'>Winston</a> | <a href='https://reddit.com/r/MacOS/comments/1cg2z32/feature_i_just_discovered_finer_control_over/'>Reddit</a></caption><div><br></div><p>Today I learned that if you how both Option + Shift while increasing or decreasing your volume or brightness, it increments it by 1/4th of the bar instead of a full block.</p>\n<p>Was this commonly known and I just missed it somewhere?</p>",
+            "date_published": "2024-04-29T16:09:01+00:00",
+            "authors": [
+                {
+                    "name": "thievingfour",
+                    "url": "https://www.reddit.com/user/thievingfour"
+                }
+            ]
+        },
+        {
             "id": "1cdtgrv",
             "url": "/r/MacOS/comments/1cdtgrv/whats_your_guys_opinion_on_iwork_for_mac/",
             "external_url": "https://i.redd.it/2d4srjbjfvwc1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "juanfdo82465",
                     "url": "https://www.reddit.com/user/juanfdo82465"
-                }
-            ]
-        },
-        {
-            "id": "16xcz8d",
-            "url": "/r/MacOS/comments/16xcz8d/this_was_a_total_surprise/",
-            "external_url": "https://i.redd.it/x0b58wgepnrb1.gif",
-            "title": "This was a total surprise.",
-            "content_html": "<caption>Open: <a href='winstonapp://www.reddit.com/r/MacOS/comments/16xcz8d/this_was_a_total_surprise/'>Apollo</a> | <a href='https://reddit.com/r/MacOS/comments/16xcz8d/this_was_a_total_surprise/'>Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/x0b58wgepnrb1.gif\" />",
-            "date_published": "2023-10-01T21:10:06+00:00",
-            "authors": [
-                {
-                    "name": "JeffGoldblum64",
-                    "url": "https://www.reddit.com/user/JeffGoldblum64"
                 }
             ]
         }
