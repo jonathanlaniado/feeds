@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1cgfr38",
+            "url": "/r/PleX/comments/1cgfr38/bye_roku_what_options_do_i_have/",
+            "external_url": "https://arstechnica.com/?p=2020463",
+            "title": "Bye Roku. What options do I have?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1cgfr38/bye_roku_what_options_do_i_have/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1cgfr38/bye_roku_what_options_do_i_have/'>Reddit</a></caption><div><br></div><p>With each passing day Roku's anti-consumer practices get more and more egregious. A few months ago it was forced arbitration that only had an accept button, next they filed a patent about inserting ads over HDMI, and today they announced video ads on the home screen before anything is selected (see link). I know that the Amazon fire sticks do the same auto play video ads on the screen so that's off the table, so my question is what options do I have for new players that have both wired and wireless network connections that aren't too expensive (Nvidia shield) and will still play most files?</p>\n<p>I'm sad to see the enshitification of Roku. Their ultra model has been pretty solid for years.</p>",
+            "date_published": "2024-04-30T00:51:14+00:00",
+            "authors": [
+                {
+                    "name": "falsworth",
+                    "url": "https://www.reddit.com/user/falsworth"
+                }
+            ]
+        },
+        {
             "id": "1cap1jk",
             "url": "/r/PleX/comments/1cap1jk/plex_meta_manager_has_been_rebranded_as_kometa/",
             "external_url": "https://kometa.wiki/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Waste_Philosopher993",
                     "url": "https://www.reddit.com/user/Waste_Philosopher993"
-                }
-            ]
-        },
-        {
-            "id": "16snqtf",
-            "url": "/r/PleX/comments/16snqtf/what_settings_do_i_change_to_have_the_smoothest/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/16snqtf/what_settings_do_i_change_to_have_the_smoothest/",
-            "title": "What settings do I change to have the smoothest playback for my friends not on my network?",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16snqtf/what_settings_do_i_change_to_have_the_smoothest/'>Reddit</a></caption><div><br></div><div><p>Hi, I recently figured out how to get remote access working. I have a VPN that I did split tunneling with but my friend said she couldn't watch anything without the \"playback too slow\" or whatever it says. I turned off the VPN and it's better but not great. What other settings can I change to make it better for my friend? I'm not that technical with computers so please explain like I'm 5. I can screenshot any settings you want to see. TIA!</p></div>",
-            "date_published": "2023-09-26T13:17:40+00:00",
-            "authors": [
-                {
-                    "name": "badwolf_on_rice",
-                    "url": "https://www.reddit.com/user/badwolf_on_rice"
                 }
             ]
         }
