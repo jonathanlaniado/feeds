@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1cgu8nq",
+            "url": "/r/ArcBrowser/comments/1cgu8nq/so_not_beta_anymore/",
+            "external_url": "https://v.redd.it/xfl0ocl1nmxc1",
+            "title": "So not beta anymore..",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1cgu8nq/so_not_beta_anymore/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1cgu8nq/so_not_beta_anymore/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-04-30T14:29:01+00:00",
+            "authors": [
+                {
+                    "name": "the_john19",
+                    "url": "https://www.reddit.com/user/the_john19"
+                }
+            ]
+        },
+        {
             "id": "1ccurlx",
             "url": "/r/ArcBrowser/comments/1ccurlx/the_development_of_arc_on_android_has_officially/",
             "external_url": "https://i.redd.it/sxbhyfpl8nwc1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Abm7b5",
                     "url": "https://www.reddit.com/user/Abm7b5"
-                }
-            ]
-        },
-        {
-            "id": "17qurru",
-            "url": "/r/ArcBrowser/comments/17qurru/arc_running_on_windows_11_from_twitter/",
-            "external_url": "https://i.redd.it/msqb9tdho6zb1.jpg",
-            "title": "Arc running on Windows 11 (from twitter)",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/17qurru/arc_running_on_windows_11_from_twitter/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/17qurru/arc_running_on_windows_11_from_twitter/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/msqb9tdho6zb1.jpg\" />",
-            "date_published": "2023-11-08T20:28:04+00:00",
-            "authors": [
-                {
-                    "name": "JaceThings",
-                    "url": "https://www.reddit.com/user/JaceThings"
                 }
             ]
         }
