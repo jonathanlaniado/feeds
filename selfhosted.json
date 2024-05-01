@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1chmz2p",
+            "url": "/r/selfhosted/comments/1chmz2p/the_immich_core_team_goes_fulltime/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1chmz2p/the_immich_core_team_goes_fulltime/",
+            "title": "The Immich core team goes full-time",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1chmz2p/the_immich_core_team_goes_fulltime/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1chmz2p/the_immich_core_team_goes_fulltime/'>Reddit</a></caption><div><br></div><p><strong>Immich is joining <a href=\"https://futo.org\">FUTO</a>!</strong></p>\n<p>Since the beginning of this adventure, my goal has always been to create a better world for my children. Memories are priceless, and privacy should not be a luxury. However, building quality open source has its challenges. Over the past two years, it has taken significant dedication, time, and effort.</p>\n<p>Recently, a company in Austin, Texas, called FUTO contacted the team. FUTO strives to develop quality and sustainable open software. They build software alternatives that focus on giving control to users. From their mission statement:</p>\n<p>\u201cComputers should belong to you, the people. We develop and fund technology to give them back.\u201d</p>\n<p>FUTO loved Immich and wanted to see if we\u2019d consider working with them to take the project to the next level. In short, FUTO offered to:</p>\n<ul>\n<li>Pay the core team to work on Immich full-time</li>\n<li>Let us keep full autonomy about the project\u2019s direction and leadership</li>\n<li>Continue to license Immich under AGPL</li>\n<li>Keep Immich\u2019s development direction with no paywalled features</li>\n<li>Keep Immich \u201cbuilt for the people\u201d (no ads, data mining/selling, or alternative motives)</li>\n<li>Provide us with financial, technical, legal, and administrative support</li>\n</ul>\n<p>After careful deliberation, the team decided that FUTO\u2019s vision closely aligns with our own: to build a better future by providing a polished, performant, and privacy-preserving open-source software solution for photo and video management delivered in a sustainable way.</p>\n<p>Immich\u2019s future has never looked brighter, and we look forward to realizing our vision for Immich as part of FUTO.</p>\n<p>See our post <a href=\"https://immich.app/blog/2024/immich-core-team-goes-fulltime\">here</a> for full details about this change, including answers to frequently asked questions. If you have more questions, we\u2019ll host a Q&amp;A live stream on May 9th at 3PM UTC (10AM CST). <a href=\"https://www.live-ask.com/event/01HWP2SB99A1K8EXFBDKZ5Z9CF\">You can ask questions here</a>, and the stream will be live <a href=\"https://youtube.com/live/cwz2iZwYpgg\">here on our YouTube channel</a>.</p>\n<p>Cheers,</p>\n<p>The Immich Team</p>",
+            "date_published": "2024-05-01T14:03:17+00:00",
+            "authors": [
+                {
+                    "name": "altran1502",
+                    "url": "https://www.reddit.com/user/altran1502"
+                }
+            ]
+        },
+        {
             "id": "1cgbj13",
             "url": "/r/selfhosted/comments/1cgbj13/my_girlfriend_was_still_using_netflix_to_watch/",
             "external_url": "https://www.reddit.com/gallery/1cgbj13",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Michaelscarn69-",
                     "url": "https://www.reddit.com/user/Michaelscarn69-"
-                }
-            ]
-        },
-        {
-            "id": "17btic6",
-            "url": "/r/selfhosted/comments/17btic6/debian_server_essentials_setup_configure_and/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/17btic6/debian_server_essentials_setup_configure_and/",
-            "title": "Debian Server Essentials: Setup, Configure, and Hardening Your System",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/17btic6/debian_server_essentials_setup_configure_and/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/17btic6/debian_server_essentials_setup_configure_and/'>Reddit</a></caption><div><br></div><p>I am back with another published article. </p>\n<p><a href=\"https://preview.redd.it/1npqlg1348vb1.jpg?width=1024&amp;format=pjpg&amp;auto=webp&amp;s=bbd1b0193ae6b49648e7e6863050d316a22ff025\"> Ideogram.ai: penguin in a server room covered in ice and snow, whole picture made out of green matrix style lines of code, cinematic</a></p>\n<p>Please be kind! I am a self-taught Linux user and by no means an expert. My goal with this guide is to help newcomers to Linux have an easier and more secure start.</p>\n<p>To all the experts out there, please be kind and do share your tips and observations. I am happy to keep updating the article to make the self-hosting world more secure.</p>\n<p><a href=\"https://nerdyarticles.com/debian-server-essentials-setup-configure-and-hardening-your-system/\">https://nerdyarticles.com/debian-server-essentials-setup-configure-and-hardening-your-system/</a></p>",
-            "date_published": "2023-10-19T21:00:41+00:00",
-            "authors": [
-                {
-                    "name": "KillerTic",
-                    "url": "https://www.reddit.com/user/KillerTic"
                 }
             ]
         }
