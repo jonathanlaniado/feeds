@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1cih617",
+            "url": "/r/selfhosted/comments/1cih617/cautionary_tale_on_automated_speed_tests/",
+            "external_url": "https://i.redd.it/0ghxpe5ix0yc1.jpeg",
+            "title": "Cautionary Tale on Automated Speed Tests",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1cih617/cautionary_tale_on_automated_speed_tests/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1cih617/cautionary_tale_on_automated_speed_tests/'>Reddit</a></caption><div><br></div><p>Quick cautionary tale for other tinkerers:</p>\n<p>I set up a scheduled Speedtest using <a href=\"https://github.com/alexjustesen/speedtest-tracker\">alexjustesen/speedtest-tracker</a> to run on my network so that I could keep track of my speeds throughout the day and throughout the month. We have a lot of issues with our Internet provider giving us iffy service from time to time, so I wanted proof. </p>\n<p>Well, apparently I had the Speedtest set for every five minutes, not every hour. Logged into our Internet provider a few days ago, and, wow.</p>\n<p>Changed it to hourly on 4/30, mid-day. 5/1 is the first full day with the change. I\u2019m sure my ISP hates me lol. \ufffc </p>\n<p>Lesson learned! Hope this helps someone else not accidentally get any ISP overage charges lol</p><div><br></div><img src=\"https://i.redd.it/0ghxpe5ix0yc1.jpeg\" />",
+            "date_published": "2024-05-02T14:32:12+00:00",
+            "authors": [
+                {
+                    "name": "heauxheauxheauxyall",
+                    "url": "https://www.reddit.com/user/heauxheauxheauxyall"
+                }
+            ]
+        },
+        {
             "id": "1chmz2p",
             "url": "/r/selfhosted/comments/1chmz2p/the_immich_core_team_goes_fulltime/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1chmz2p/the_immich_core_team_goes_fulltime/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "LivelyUnderdog54",
                     "url": "https://www.reddit.com/user/LivelyUnderdog54"
-                }
-            ]
-        },
-        {
-            "id": "17dq3aq",
-            "url": "/r/selfhosted/comments/17dq3aq/how_do_you_all_monitor_your_server_performance/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/17dq3aq/how_do_you_all_monitor_your_server_performance/",
-            "title": "How do you all monitor your server performance?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/17dq3aq/how_do_you_all_monitor_your_server_performance/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/17dq3aq/how_do_you_all_monitor_your_server_performance/'>Reddit</a></caption><div><br></div><p>As in, when I watched YouTube tutorials, I often see YouTubers have a small widget on their desktop giving them an overview of their ram usage, security level, etc. What apps do you all use to track this?</p>",
-            "date_published": "2023-10-22T10:15:13+00:00",
-            "authors": [
-                {
-                    "name": "Michaelscarn69-",
-                    "url": "https://www.reddit.com/user/Michaelscarn69-"
                 }
             ]
         }
