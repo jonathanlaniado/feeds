@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1cjfw0j",
+            "url": "/r/selfhosted/comments/1cjfw0j/showcase_of_my_mixed_reality_interface_for_home/",
+            "external_url": "https://i.redd.it/fwan0j4399yc1.gif",
+            "title": "Showcase of my Mixed Reality Interface for Home Assistant",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1cjfw0j/showcase_of_my_mixed_reality_interface_for_home/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1cjfw0j/showcase_of_my_mixed_reality_interface_for_home/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/fwan0j4399yc1.gif\" />",
+            "date_published": "2024-05-03T18:32:37+00:00",
+            "authors": [
+                {
+                    "name": "Nitwel1",
+                    "url": "https://www.reddit.com/user/Nitwel1"
+                }
+            ]
+        },
+        {
             "id": "1cih617",
             "url": "/r/selfhosted/comments/1cih617/cautionary_tale_on_automated_speed_tests/",
             "external_url": "https://i.redd.it/0ghxpe5ix0yc1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "thekrautboy",
                     "url": "https://www.reddit.com/user/thekrautboy"
-                }
-            ]
-        },
-        {
-            "id": "17eihqh",
-            "url": "/r/selfhosted/comments/17eihqh/odigos_v0182_opensource_instant_distributed/",
-            "external_url": "https://github.com/keyval-dev/odigos",
-            "title": "Odigos v0.1.82 - Open-source instant distributed tracing without code changes",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/17eihqh/odigos_v0182_opensource_instant_distributed/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/17eihqh/odigos_v0182_opensource_instant_distributed/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-10-23T11:50:42+00:00",
-            "authors": [
-                {
-                    "name": "LivelyUnderdog54",
-                    "url": "https://www.reddit.com/user/LivelyUnderdog54"
                 }
             ]
         }
