@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "1cjbrlj",
+            "url": "/r/MacOS/comments/1cjbrlj/audio_hijack_no_longer_requires_disabling_sip_in/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/1cjbrlj/audio_hijack_no_longer_requires_disabling_sip_in/",
+            "title": "Audio Hijack no longer requires disabling SIP in Recovery \u2014\u00a0thanks to Apple!",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOS/comments/1cjbrlj/audio_hijack_no_longer_requires_disabling_sip_in/'>Winston</a> | <a href='https://reddit.com/r/MacOS/comments/1cjbrlj/audio_hijack_no_longer_requires_disabling_sip_in/'>Reddit</a></caption><div><br></div><p>In macOS 14.4, Apple added APIs to allow access to system audio.  (I strongly suspect this was done with Audio Hijack in mind.)</p>\n<p>See more here: <a href=\"https://weblog.rogueamoeba.com/2024/04/05/our-new-installer-free-setup-comes-to-audio-hijack/\">https://weblog.rogueamoeba.com/2024/04/05/our-new-installer-free-setup-comes-to-audio-hijack/</a></p>\n<p>It's not a tool everyone needs, but if you've ever wanted to record audio from your Mac directly (instead of putting a Mic next to your speaker), it's amazing.  Highly recommended!</p>",
+            "date_published": "2024-05-03T15:40:39+00:00",
+            "authors": [
+                {
+                    "name": "stevenjklein",
+                    "url": "https://www.reddit.com/user/stevenjklein"
+                }
+            ]
+        },
+        {
             "id": "1cg2z32",
             "url": "/r/MacOS/comments/1cg2z32/feature_i_just_discovered_finer_control_over/",
             "external_url": "https://www.reddit.com/r/MacOS/comments/1cg2z32/feature_i_just_discovered_finer_control_over/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "HomeyLoverD",
                     "url": "https://www.reddit.com/user/HomeyLoverD"
-                }
-            ]
-        },
-        {
-            "id": "16y1erg",
-            "url": "/r/MacOS/comments/16y1erg/most_annoying_part_about_sonoma_so_far/",
-            "external_url": "https://i.redd.it/dqt9jurghtrb1.png",
-            "title": "most annoying part about sonoma so far.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/MacOS/comments/16y1erg/most_annoying_part_about_sonoma_so_far/'>Apollo</a> | <a href='https://reddit.com/r/MacOS/comments/16y1erg/most_annoying_part_about_sonoma_so_far/'>Reddit</a></caption><div><br></div><iframe style='min-width: min(100%, 500px); height: 100vw; border: none;' id='reddit-embed' src='https://www.redditmedia.com/r/MacOS/comments/16y1erg?embed=true' sandbox='allow-scripts allow-same-origin allow-popups' scrolling='no'></iframe><div><br></div><img src=\"https://i.redd.it/dqt9jurghtrb1.png\" />",
-            "date_published": "2023-10-02T16:37:10+00:00",
-            "authors": [
-                {
-                    "name": "juanfdo82465",
-                    "url": "https://www.reddit.com/user/juanfdo82465"
                 }
             ]
         }
