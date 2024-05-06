@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1clfdbb",
+            "url": "/r/macapps/comments/1clfdbb/klack_fresh_of_the_press_juicy_update_v20/",
+            "external_url": "https://v.redd.it/yy0xyewl3syc1",
+            "title": "Klack - Fresh of the press, juicy update (v2.0 disguised as v1.3)",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1clfdbb/klack_fresh_of_the_press_juicy_update_v20/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1clfdbb/klack_fresh_of_the_press_juicy_update_v20/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-05-06T10:04:43+00:00",
+            "authors": [
+                {
+                    "name": "Quirino_Exile",
+                    "url": "https://www.reddit.com/user/Quirino_Exile"
+                }
+            ]
+        },
+        {
             "id": "1c6fivz",
             "url": "/r/macapps/comments/1c6fivz/reminder_to_new_app_devs_asking_what_your_app/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1c6fivz/reminder_to_new_app_devs_asking_what_your_app/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MaxTwang",
                     "url": "https://www.reddit.com/user/MaxTwang"
-                }
-            ]
-        },
-        {
-            "id": "17gso5j",
-            "url": "/r/macapps/comments/17gso5j/lookaway_my_first_native_mac_app_to_combat/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/17gso5j/lookaway_my_first_native_mac_app_to_combat/",
-            "title": "LookAway \u2013 My first native mac app to combat digital eye strain",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17gso5j/lookaway_my_first_native_mac_app_to_combat/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17gso5j/lookaway_my_first_native_mac_app_to_combat/'>Reddit</a></caption><div><br></div><p>Hi Reddit! I'm Kushagra. I created LookAway after suffering from eye strain due to working for long hours staring at my screen.</p>\n<p>The app nudges you to take regular breaks by blurring the screen to help reduce eye strain. It gives a heads-up before each break so you can wrap up tasks, and you can adjust the break intervals and durations to fit your routine.</p>\n<p>LookAway is smart - it works when you work, pauses when you don't, and handles idle time intelligently. It also pauses automatically during calls or meetings. </p>\n<p>I\u2019d love to hear your feedback to improve it. Check it out at https://lookaway.app. Thank you for your time!</p>",
-            "date_published": "2023-10-26T09:37:09+00:00",
-            "authors": [
-                {
-                    "name": "kushsolitary",
-                    "url": "https://www.reddit.com/user/kushsolitary"
                 }
             ]
         }
