@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1cnu3os",
+            "url": "/r/ArtificialInteligence/comments/1cnu3os/adult_entertainment_might_soon_replace_real/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1cnu3os/adult_entertainment_might_soon_replace_real/",
+            "title": "Adult Entertainment Might Soon Replace Real People With AI Stars - Are We Ready?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/1cnu3os/adult_entertainment_might_soon_replace_real/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/1cnu3os/adult_entertainment_might_soon_replace_real/'>Reddit</a></caption><div><br></div><p>The adult industry has a well-earned reputation for being an early adapter of new technologies, a tradition that stretches back to the printing press in the 15th century. This pioneering spirit continues today, with the industry experimenting with and integrating artificial intelligence (AI).</p>\n<p>Read the full story: https://www.ibtimes.co.uk/adult-entertainment-might-soon-replace-real-people-ai-stars-are-we-ready-1724598</p>",
+            "date_published": "2024-05-09T10:38:31+00:00",
+            "authors": [
+                {
+                    "name": "vinaylovestotravel",
+                    "url": "https://www.reddit.com/user/vinaylovestotravel"
+                }
+            ]
+        },
+        {
             "id": "1cngt24",
             "url": "/r/ArtificialInteligence/comments/1cngt24/google_deepminds_new_ai_can_model_dna_rna_and_all/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1cngt24/google_deepminds_new_ai_can_model_dna_rna_and_all/",
@@ -1386,20 +1400,6 @@
             "title": "Amazon's AI Reportedly Suffering \"Severe Hallucinations\" and \"Leaking Confidential Data\"",
             "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArtificialInteligence/comments/18apezg/amazons_ai_reportedly_suffering_severe/'>Apollo</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/18apezg/amazons_ai_reportedly_suffering_severe/'>Reddit</a></caption><div><br></div><p>Amazon\u2019s Q has <strong>\u2018severe hallucinations\u2019</strong> and <strong>leaks confidential data</strong> in public preview, employees warn. Some hallucinations could \u2018potentially induce cardiac incidents in Legal,\u2019 according to internal documents</p>\n<p><strong>What happened:</strong></p>\n<p>Three days after Amazon <a href=\"https://www.nytimes.com/2023/11/28/technology/amazon-ai-chatbot-q.html\">announced its AI chatbot Q</a>, some employees are sounding alarms about accuracy and privacy issues. Q is \u201cexperiencing severe hallucinations and leaking confidential data,\u201d including the location of AWS data centers, internal discount programs, and unreleased features, according to leaked documents obtained by <strong>Platformer</strong>.\u00a0</p>\n<p>An employee marked the incident as \u201csev 2,\u201d meaning an incident bad enough to warrant paging engineers at night and make them work through the weekend to fix it.</p>\n<p><strong>But Amazon played down the significance of the employee discussions (obviously):</strong></p>\n<p>\u201cSome employees are sharing feedback through internal channels and ticketing systems, which is standard practice at Amazon,\u201d a spokesperson said. \u201cNo security issue was identified as a result of that feedback. We appreciate all of the feedback we\u2019ve already received and will continue to tune Q as it transitions from being a product in preview to being generally available.\u201d</p>\n<p>Source (<a href=\"https://www.platformer.news/p/amazons-q-has-severe-hallucinations\">Platformer</a> and <a href=\"https://futurism.com/the-byte/amazon-ai-severe-hallucinations\">Futurism</a>)</p>\n<p><strong>PS: If you enjoyed this post</strong>, you\u2019ll love my <a href=\"http://techpresso.xyz/\">ML-powered newsletter</a> that summarizes the best AI/tech news from 50+ media. It\u2019s already being read by <strong>23,000+ professionals</strong> from <strong>OpenAI, Google, Meta</strong>\u2026</p>",
             "date_published": "2023-12-04T17:37:12+00:00",
-            "authors": [
-                {
-                    "name": "Nalix01",
-                    "url": "https://www.reddit.com/user/Nalix01"
-                }
-            ]
-        },
-        {
-            "id": "187po7z",
-            "url": "/r/ArtificialInteligence/comments/187po7z/deepminds_ai_has_found_more_new_materials_in_a/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/187po7z/deepminds_ai_has_found_more_new_materials_in_a/",
-            "title": "DeepMind\u2019s AI has found more new materials in a year than scientists have in centuries",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArtificialInteligence/comments/187po7z/deepminds_ai_has_found_more_new_materials_in_a/'>Apollo</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/187po7z/deepminds_ai_has_found_more_new_materials_in_a/'>Reddit</a></caption><div><br></div><p>Google DeepMind's AI model 'GNoME' has <a href=\"https://www.nature.com/articles/s41586-023-06735-9\">predicted</a> the structure of over 2.2 million crystalline materials, discovering 381,000 stable new materials with potential applications in semiconductors, supercomputers, and batteries.</p>\n<p>\u2018We\u2019ve multiplied the number of technologically viable materials known to humanity,\u2019 company says</p>\n<p>If you want to stay ahead of the curve in AI and tech, <a href=\"http://techpresso.xyz/\">look here first</a>.</p>\n<p><strong>Innovative Discovery</strong></p>\n<ul>\n<li><strong>Scale of Discovery</strong>: GNoME identified over 2.2 million new crystalline materials, 45 times more than previously known.</li>\n<li><strong>Stable Materials</strong>: Among these, 381,000 are stable, essential for various engineering applications.</li>\n</ul>\n<p><strong>Potential Applications</strong></p>\n<ul>\n<li><strong>Superconductors and Batteries</strong>: The AI found 52,000 new layered compounds and 528 potential lithium ion conductors.</li>\n<li><strong>Boosting Modern Technology</strong>: These materials could significantly enhance technologies in areas like EV batteries and supercomputers.</li>\n</ul>\n<p>Source (<a href=\"https://www.independent.co.uk/tech/deepmind-ai-discovery-materials-crystals-b2456029.html\">Independent</a>)</p>\n<p><strong>PS: If you enjoyed this post</strong>, you\u2019ll love my <a href=\"http://techpresso.xyz/\">ML-powered newsletter</a> that summarizes the best AI/tech news from 50+ media. It\u2019s already being read by <strong>21,000+ professionals</strong> from <strong>OpenAI, Google, Meta</strong>\u2026</p>",
-            "date_published": "2023-11-30T18:39:36+00:00",
             "authors": [
                 {
                     "name": "Nalix01",
