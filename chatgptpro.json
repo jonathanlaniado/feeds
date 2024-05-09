@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
     "items": [
         {
+            "id": "1cnzw0j",
+            "url": "/r/ChatGPTPro/comments/1cnzw0j/how_i_use_gpt_at_work_as_a_dev_to_be_10x/",
+            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1cnzw0j/how_i_use_gpt_at_work_as_a_dev_to_be_10x/",
+            "title": "How I use GPT at work as a dev to be 10x",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ChatGPTPro/comments/1cnzw0j/how_i_use_gpt_at_work_as_a_dev_to_be_10x/'>Winston</a> | <a href='https://reddit.com/r/ChatGPTPro/comments/1cnzw0j/how_i_use_gpt_at_work_as_a_dev_to_be_10x/'>Reddit</a></caption><div><br></div><p>Ever since ChatGPT-3.5 was released, my life was changed forever. I quickly began using it for personal projects, and as soon as GPT-4 was released, I signed up without a second of hesitation. Shortly thereafter, as an automation engineer moving from Go to Python, and from classic front end and REST API testing to a heavy networking product, I found myself completely lost. BUT - ChatGPT to the rescue, and I found myself navigating the complex new reality with relative ease.</p>\n<p>I simply am constantly copy-pasting entire snippets, entire functions, entire function <em>trees</em>, climbing up the function hierarchy and having GPT just explain both the python code and syntax and networking in general. It excels as a teacher, as I simply query it to explain each and every concept, climbing up the conceptual ladder any time I don't understand something.</p>\n<p>Then when I need to write new code, I simply feed similar functions to GPT, tell it what I need, instruct it to write it using best-practice and following the conventions of my code base. It's incredible how quickly it spits it out.</p>\n<p>It doesn't always work at first, but then I simply have it add debug logging and use it to brainstorm for possible issues.</p>\n<p>I've done this to quickly implement tasks that would have taken me days to accomplish. Most importantly, it gives me the confidence that I can basically do anything, as GPT, with proper guidance, is a star developer.</p>\n<p>My manager is really happy with me so far, at least from the feedback I've received in my latest 1:1.</p>\n<p>The only thing that I struggle with is ethical - how much should I blur the information I copy-paste? I'm not actually putting any really sensitive there, so I don't think it's an issue. Obviously no api keys or passwords or anything, and it's testing code so certainly no core IP being shared.</p>\n<p>I've written elsewhere about how I've used this in my personal life, allowing me to build a <a href=\"https://therapywithai.com/\">full stack application</a>, but it's actually my professional life that has changed more.</p>",
+            "date_published": "2024-05-09T15:23:17+00:00",
+            "authors": [
+                {
+                    "name": "TherapyWithAi_com",
+                    "url": "https://www.reddit.com/user/TherapyWithAi_com"
+                }
+            ]
+        },
+        {
             "id": "1cgz9o5",
             "url": "/r/ChatGPTPro/comments/1cgz9o5/major_us_newspapers_sue_openai_microsoft_for/",
             "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1cgz9o5/major_us_newspapers_sue_openai_microsoft_for/",
