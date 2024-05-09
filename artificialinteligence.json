@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1cngt24",
+            "url": "/r/ArtificialInteligence/comments/1cngt24/google_deepminds_new_ai_can_model_dna_rna_and_all/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1cngt24/google_deepminds_new_ai_can_model_dna_rna_and_all/",
+            "title": "Google DeepMind\u2019s new AI can model DNA, RNA, and \u2018all life\u2019s molecules\u2019",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/1cngt24/google_deepminds_new_ai_can_model_dna_rna_and_all/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/1cngt24/google_deepminds_new_ai_can_model_dna_rna_and_all/'>Reddit</a></caption><div><br></div><p>Google DeepMind is introducing an improved version of its AI model that predicts not just the structure of proteins but also the structure of \u201call life\u2019s molecules.\u201d The work from\u00a0<a href=\"https://www.theverge.com/2024/5/8/24152088/google-deepmind-ai-model-predict-molecular-structure-alphafold\">the new model</a>, AlphaFold 3, will help researchers in medicine, agriculture, materials science, and drug development test potential discoveries.</p>\n<p>Want to stay ahead of the curve in AI and tech?\u00a0<a href=\"https://smmry.tech/?utm_source=reddit\">take a look here</a>.</p>\n<p><strong>Key points:</strong></p>\n<ul>\n<li>AlphaFold 3, can predict the structure of all life's molecules, not just proteins, including DNA, RNA and smaller molecules. This is a significant improvement from previous versions.</li>\n<li>AlphaFold 3 uses a similar method to AI image generators to predict how different molecules fit together. This method is called diffusion.</li>\n<li>DeepMind is making AlphaFold 3 and the AlphaFold Server available to some researchers for free, with a focus on non-commercial uses. They are also working on responsible deployment of the model considering biosecurity risks.</li>\n</ul>\n<p><a href=\"https://www.theverge.com/2024/5/8/24152088/google-deepmind-ai-model-predict-molecular-structure-alphafold\">Source (The Verge)</a></p>\n<p><strong>PS: If you enjoyed this post</strong>, you\u2019ll love my\u00a0<a href=\"https://smmry.tech/?utm_source=reddit\">ML-powered newsletter</a>\u00a0that summarizes the best AI/tech news from 50+ media sources. It\u2019s already being read by\u00a0<strong>hundreds of professionals</strong>\u00a0from\u00a0<strong>OpenAI, HuggingFace, Apple</strong>\u2026</p>",
+            "date_published": "2024-05-08T22:04:08+00:00",
+            "authors": [
+                {
+                    "name": "Rare_Adhesiveness518",
+                    "url": "https://www.reddit.com/user/Rare_Adhesiveness518"
+                }
+            ]
+        },
+        {
             "id": "1cmyr9n",
             "url": "/r/ArtificialInteligence/comments/1cmyr9n/turning_back_the_clock_genetic_engineers_rewire/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1cmyr9n/turning_back_the_clock_genetic_engineers_rewire/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Nalix01",
                     "url": "https://www.reddit.com/user/Nalix01"
-                }
-            ]
-        },
-        {
-            "id": "1877bh7",
-            "url": "/r/ArtificialInteligence/comments/1877bh7/google_deepmind_uses_ai_to_discover_22_million/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1877bh7/google_deepmind_uses_ai_to_discover_22_million/",
-            "title": "Google DeepMind uses AI to discover 2.2 million new materials \u2013 equivalent to nearly 800 years\u2019 worth of knowledge. Shares they've already validated 736 in laboratories.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArtificialInteligence/comments/1877bh7/google_deepmind_uses_ai_to_discover_22_million/'>Apollo</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/1877bh7/google_deepmind_uses_ai_to_discover_22_million/'>Reddit</a></caption><div><br></div><p>Materials discovery is critical but tough. New materials enable big innovations like batteries or LEDs. But there are \\~infinitely many combinations to try. Testing for them experimentally is slow and expensive.</p>\n<p>So scientists and engineers want to simulate and screen materials on computers first. This can check way more candidates before real-world experiments. However, models historically struggled at accurately predicting if materials are stable.</p>\n<p>Researchers at DeepMind made a system called GNoME that uses graph neural networks and active learning to push past these limits.</p>\n<p>GNoME models materials' crystal structures as graphs and predicts formation energies. It actively generates and filters candidates, evaluating the most promising with simulations. This expands its knowledge and improves predictions over multiple cycles.</p>\n<p>The authors introduced new ways to generate derivative structures that respect symmetries, further diversifying discoveries.</p>\n<p>The results:</p>\n<ol>\n<li>GNoME found 2.2 million new stable materials - equivalent to 800 years of normal discovery.</li>\n<li>Of those, 380k were the most stable and candidates for validation.</li>\n<li>736 were validated in external labs. These include a totally new diamond-like optical material and another that may be a superconductor.</li>\n</ol>\n<p>Overall this demonstrates how scaling up deep learning can massively speed up materials innovation. As data and models improve together, it'll accelerate solutions to big problems needing new engineered materials.</p>\n<p><strong>TLDR: DeepMind made an AI system that uses graph neural networks to discover possible new materials. It found 2.2 million candidates, and over 300k are most stable. Over 700 have already been synthesized.</strong></p>\n<p><a href=\"https://aimodels.substack.com/p/google-deepmind-announces-its-found\">Full summary available here</a>. Paper is <a href=\"https://www.nature.com/articles/s41586-023-06735-9\">here</a>.</p>",
-            "date_published": "2023-11-30T02:27:21+00:00",
-            "authors": [
-                {
-                    "name": "Successful-Western27",
-                    "url": "https://www.reddit.com/user/Successful-Western27"
                 }
             ]
         }
