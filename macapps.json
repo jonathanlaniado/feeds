@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1cpdie5",
+            "url": "/r/macapps/comments/1cpdie5/is_freetube_the_most_underrated_app_in_the_mac/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1cpdie5/is_freetube_the_most_underrated_app_in_the_mac/",
+            "title": "Is FreeTube the most underrated app in the Mac ecosystem?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1cpdie5/is_freetube_the_most_underrated_app_in_the_mac/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1cpdie5/is_freetube_the_most_underrated_app_in_the_mac/'>Reddit</a></caption><div><br></div><p>I honestly do not know why <a href=\"https://apps.louplummer.lol/post/freetube-maybe-the-most-underrated-app\">FreeTube</a> doesn't get talked about more on this reddit, considering some other apps that come up often. FreeTube is an open source privacy first YouTube client that allows you to subscribe to channels with no account. There are no ads and no data ever leaves your machine. Videos are either scraped or obtained through the Invidious API. FreeTube even has a one button download mechanism. You can make playlists and favorites lists.</p>\n<ul>\n<li><a href=\"https://apps.louplummer.lol/post/freetube-maybe-the-most-underrated-app\">Full Review</a></li>\n<li><a href=\"https://freetubeapp.io/\">Developer's Site</a></li>\n</ul>",
+            "date_published": "2024-05-11T09:22:48+00:00",
+            "authors": [
+                {
+                    "name": "amerpie",
+                    "url": "https://www.reddit.com/user/amerpie"
+                }
+            ]
+        },
+        {
             "id": "1cmi3ln",
             "url": "/r/macapps/comments/1cmi3ln/snippety_the_ultimate_snippet_manager_for_macos/",
             "external_url": "https://v.redd.it/u158ebucl1zc1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "dounanshi",
                     "url": "https://www.reddit.com/user/dounanshi"
-                }
-            ]
-        },
-        {
-            "id": "17irttl",
-            "url": "/r/macapps/comments/17irttl/i_made_an_app_because_i_was_annoyed_that_my_mac/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/17irttl/i_made_an_app_because_i_was_annoyed_that_my_mac/",
-            "title": "I made an App because I was annoyed that my mac switched to my microphone automatically",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17irttl/i_made_an_app_because_i_was_annoyed_that_my_mac/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17irttl/i_made_an_app_because_i_was_annoyed_that_my_mac/'>Reddit</a></caption><div><br></div><p>Hi everyone !I was annoyed to switch away from my bluetooth headset microphone every time I connect it to my macbook so I made a tray App to block devices to be switched to !</p>\n<p><a href=\"https://github.com/jbgosselin/audio-device-blocker\">https://github.com/jbgosselin/audio-device-blocker</a></p>\n<p>Feel free to give it a shot and maybe even contribute if you feel like so, this is my first MacOS app and the first time I used Swift and SwiftUI so please be mindful of that.</p>\n<p>I use it daily for a little while and it just make my life easier, so why not make others life easier too !</p>",
-            "date_published": "2023-10-29T01:04:15+00:00",
-            "authors": [
-                {
-                    "name": "dennajort",
-                    "url": "https://www.reddit.com/user/dennajort"
                 }
             ]
         }
