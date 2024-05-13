@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1cr5iwq",
+            "url": "/r/OpenAI/comments/1cr5iwq/gpt4o_will_be_free_for_everyone_in_the_next_weeks/",
+            "external_url": "https://i.redd.it/s4lycaqhe80d1.jpeg",
+            "title": "GPT-4o will be free for everyone in the next weeks",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1cr5iwq/gpt4o_will_be_free_for_everyone_in_the_next_weeks/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1cr5iwq/gpt4o_will_be_free_for_everyone_in_the_next_weeks/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/s4lycaqhe80d1.jpeg\" />",
+            "date_published": "2024-05-13T17:48:10+00:00",
+            "authors": [
+                {
+                    "name": "lemmeupvoteyou",
+                    "url": "https://www.reddit.com/user/lemmeupvoteyou"
+                }
+            ]
+        },
+        {
             "id": "1cr555j",
             "url": "/r/OpenAI/comments/1cr555j/hello_gpt4o_openai/",
             "external_url": "https://openai.com/index/hello-gpt-4o/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "BJPark",
                     "url": "https://www.reddit.com/user/BJPark"
-                }
-            ]
-        },
-        {
-            "id": "18gng9y",
-            "url": "/r/OpenAI/comments/18gng9y/i_made_a_chatgptstyle_programming_assistant_that/",
-            "external_url": "https://v.redd.it/rt3rwt2glv5c1",
-            "title": "I made a ChatGPT-style programming assistant that visualizes your code",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/18gng9y/i_made_a_chatgptstyle_programming_assistant_that/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/18gng9y/i_made_a_chatgptstyle_programming_assistant_that/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-12-12T14:44:17+00:00",
-            "authors": [
-                {
-                    "name": "TheMblabla",
-                    "url": "https://www.reddit.com/user/TheMblabla"
                 }
             ]
         }
