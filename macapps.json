@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1cr8zbf",
+            "url": "/r/macapps/comments/1cr8zbf/official_chatgpt_app_for_macos/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1cr8zbf/official_chatgpt_app_for_macos/",
+            "title": "Official ChatGPT App for MacOS",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1cr8zbf/official_chatgpt_app_for_macos/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1cr8zbf/official_chatgpt_app_for_macos/'>Reddit</a></caption><div><br></div><p>OpenAI just had an event, where they announced many cool things. Among them is a new official <a href=\"https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/\">ChatGPT Mac App</a>. It will start rolling out today to Plus users, and will be more broadly available in the coming weeks. What are your thoughts on this? I'm personally just wondering if this will be used to power the new Siri.</p>\n<p><a href=\"https://reddit.com/link/1cr8zbf/video/d7q4e5ds290d1/player\">Demo</a></p>",
+            "date_published": "2024-05-13T20:06:05+00:00",
+            "authors": [
+                {
+                    "name": "Yusuf-Dev",
+                    "url": "https://www.reddit.com/user/Yusuf-Dev"
+                }
+            ]
+        },
+        {
             "id": "1cpdie5",
             "url": "/r/macapps/comments/1cpdie5/is_freetube_the_most_underrated_app_in_the_mac/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1cpdie5/is_freetube_the_most_underrated_app_in_the_mac/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Lekowski",
                     "url": "https://www.reddit.com/user/Lekowski"
-                }
-            ]
-        },
-        {
-            "id": "17j4uac",
-            "url": "/r/macapps/comments/17j4uac/i_made_an_app_that_combines_ai_and_mac_automation/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/17j4uac/i_made_an_app_that_combines_ai_and_mac_automation/",
-            "title": "I made an app that combines AI and Mac automation, would love some feedback!",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17j4uac/i_made_an_app_that_combines_ai_and_mac_automation/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17j4uac/i_made_an_app_that_combines_ai_and_mac_automation/'>Reddit</a></caption><div><br></div><p>Hey everyone,</p>\n<p>With recent developments in AI, I have been very interested in using it to make my Mac automation simpler, more intuitive, and more powerful. This is how I ended up creating <a href=\"https://www.chatpc.ai/\">ChatPC</a>.</p>\n<p><strong>ChatPC allows you to use simple English to automate your Mac. It can manage files and interact with other Mac applications through Shortcuts and AppleScripts.</strong></p>\n<p>Check out this quick demo:</p>\n<p>https://reddit.com/link/17j4uac/video/wekn2asop5xb1/player</p>\n<p><strong>Safe by design -</strong> With ChatPC, you are in total control. By default, ChatPC cannot execute any actions on your Mac. You must explicitly give ChatPC access to the folders, Shortcuts, and AppleScripts that it can action on. In addition, you can configure which actions require your explicit approval before executing.</p>\n<p>I'm currently looking for beta testers to try out the app and give me feedback! The app is free to use up to some token limit. If you hit the limit, DM me with your initial thoughts and the email address you signed up with -- <strong>I'll be giving free coupons to the first 100 beta testers!</strong></p>\n<p>To get started, check out the <a href=\"https://www.chatpc.ai/docs/macos/getting-started/\">MacOS Getting Started Guide</a> (MacOS 13.0 or higher required).</p>",
-            "date_published": "2023-10-29T15:04:55+00:00",
-            "authors": [
-                {
-                    "name": "dounanshi",
-                    "url": "https://www.reddit.com/user/dounanshi"
                 }
             ]
         }
