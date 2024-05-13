@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1cr555j",
+            "url": "/r/OpenAI/comments/1cr555j/hello_gpt4o_openai/",
+            "external_url": "https://openai.com/index/hello-gpt-4o/",
+            "title": "Hello GPT-4o | OpenAI",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1cr555j/hello_gpt4o_openai/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1cr555j/hello_gpt4o_openai/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-05-13T17:32:43+00:00",
+            "authors": [
+                {
+                    "name": "UndeadPrs",
+                    "url": "https://www.reddit.com/user/UndeadPrs"
+                }
+            ]
+        },
+        {
             "id": "1cr431m",
             "url": "/r/OpenAI/comments/1cr431m/openai_spring_update_discussion/",
             "external_url": "https://www.reddit.com/r/OpenAI/comments/1cr431m/openai_spring_update_discussion/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "TheMblabla",
                     "url": "https://www.reddit.com/user/TheMblabla"
-                }
-            ]
-        },
-        {
-            "id": "18g4cpk",
-            "url": "/r/OpenAI/comments/18g4cpk/sam_altman_on_twitter_for_a_long_time_i_said_that/",
-            "external_url": "https://twitter.com/sama/status/1732925866836210151",
-            "title": "Sam Altman on Twitter: \"for a long time i said that antisemitism, particularly on the american left, was not as bad as people claimed. i'd like to just state that i was totally wrong.\"",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/18g4cpk/sam_altman_on_twitter_for_a_long_time_i_said_that/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/18g4cpk/sam_altman_on_twitter_for_a_long_time_i_said_that/'>Reddit</a></caption><div><br></div><div><br></div><blockquote class=\"twitter-tweet\" align=\"center\"><p lang=\"en\" dir=\"ltr\">for a long time i said that antisemitism, particularly on the american left, was not as bad as people claimed.<br><br>i&#39;d like to just state that i was totally wrong.<br><br>i still don&#39;t understand it, really. or know what to do about it.<br><br>but it is so fucked.</p>&mdash; Sam Altman (@sama) <a href=\"https://twitter.com/sama/status/1732925866836210151?ref_src=twsrc%5Etfw\">December 8, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
-            "date_published": "2023-12-11T21:11:46+00:00",
-            "authors": [
-                {
-                    "name": "VCUBNFO",
-                    "url": "https://www.reddit.com/user/VCUBNFO"
                 }
             ]
         }
