@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1cqq8ll",
+            "url": "/r/OpenAI/comments/1cqq8ll/autonomous_f16_fighters_are_roughly_even_with/",
+            "external_url": "https://nationalinterest.org/blog/buzz/autonomous-f-16-fighters-are-%E2%80%98roughly-even%E2%80%99-human-pilots-said-air-force-chief-210974",
+            "title": "Autonomous F-16 Fighters Are \u2018Roughly Even\u2019 With Human Pilots Said Air Force Chief",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1cqq8ll/autonomous_f16_fighters_are_roughly_even_with/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1cqq8ll/autonomous_f16_fighters_are_roughly_even_with/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-05-13T03:59:17+00:00",
+            "authors": [
+                {
+                    "name": "Maxie445",
+                    "url": "https://www.reddit.com/user/Maxie445"
+                }
+            ]
+        },
+        {
             "id": "1cqa59j",
             "url": "/r/OpenAI/comments/1cqa59j/sam_altman_on_allowing_erotica/",
             "external_url": "https://i.redd.it/omvs9k04i00d1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Waste-Fortune-5815",
                     "url": "https://www.reddit.com/user/Waste-Fortune-5815"
-                }
-            ]
-        },
-        {
-            "id": "18cwbfi",
-            "url": "/r/OpenAI/comments/18cwbfi/googles_gemini_demo_was_completely_fabricated/",
-            "external_url": "https://www.reddit.com/r/OpenAI/comments/18cwbfi/googles_gemini_demo_was_completely_fabricated/",
-            "title": "Google's Gemini demo was completely fabricated.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/18cwbfi/googles_gemini_demo_was_completely_fabricated/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/18cwbfi/googles_gemini_demo_was_completely_fabricated/'>Reddit</a></caption><div><br></div><p>Like almost everyone, I also watched the <a href=\"https://www.youtube.com/watch?v=UIZAiXYceBI\">Gemini demo</a> and was blown away. But I have just found out that it doesn't really reflect reality. In fact, the video is completely made up, see this detailed explanation on their developer blog: https://developers.googleblog.com/2023/12/how-its-made-gemini-multimodal-prompting.html</p>\n<p>I feel like misleading ads like this will only harm the AI space because they completely warp the perception of what is currently possible. Also, I really don't like being misled lol. What are your thoughts about this?  </p>\n<p>EDIT: It seems there is no concrete proof the video is fabricated, I only assumed it is. Theoretically, Gemini could work in real-time as shown in the video, although the way the article is written suggests otherwise.</p>",
-            "date_published": "2023-12-07T14:06:04+00:00",
-            "authors": [
-                {
-                    "name": "phasE89",
-                    "url": "https://www.reddit.com/user/phasE89"
                 }
             ]
         }
