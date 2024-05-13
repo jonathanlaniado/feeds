@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1cqsdxp",
+            "url": "/r/shortcuts/comments/1cqsdxp/update_scsettings_20_quickly_access_toggles/",
+            "external_url": "https://i.redd.it/xh4ykkgfy40d1.jpeg",
+            "title": "Update: SCSettings 2.0 - Quickly Access Toggles & Settings That Apple Buried",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1cqsdxp/update_scsettings_20_quickly_access_toggles/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1cqsdxp/update_scsettings_20_quickly_access_toggles/'>Reddit</a></caption><div><br></div><p>Hey guys!</p>\n<p>I re-wrote SCSettings from scratch over the weekend and wanted to share.</p>\n<p>In case you haven\u2019t seen it, SCSettings is inspired by the old jailbreak tweak SBSettings. It allows you to quickly turn off Wi-Fi or Bluetooth (not just disable for a day), among a few other things.</p>\n<p>It also has some useful links to pages in the settings app that are buried. </p>\n<h3>Here are the release notes for 2.0</h3>\n<ul>\n<li>Complete re-write - should be much faster now</li>\n<li>Removed ToolboxPro dependency</li>\n<li>Moved <code>Search Passwords</code> to Main Menu</li>\n<li>Updated some icons</li>\n<li>Used nested <code>Repeat With Each</code> actions fo vCard menus</li>\n<li>Used recursion to call other menus than main</li>\n<li>Refactored where data is stored - menus, device info, url-schemes, plist file</li>\n<li>Added a Buy Me A Coffee Link</li>\n</ul>\n<h3><a href=\"https://routinehub.co/shortcut/17931/\">Grab It From RoutineHub</a></h3><div><br></div><img src=\"https://i.redd.it/xh4ykkgfy40d1.jpeg\" />",
+            "date_published": "2024-05-13T06:12:49+00:00",
+            "authors": [
+                {
+                    "name": "Jpasholk",
+                    "url": "https://www.reddit.com/user/Jpasholk"
+                }
+            ]
+        },
+        {
             "id": "1cleyxc",
             "url": "/r/shortcuts/comments/1cleyxc/im_praying_this_year_is_the_year_apple_give_some/",
             "external_url": "https://www.reddit.com/r/shortcuts/comments/1cleyxc/im_praying_this_year_is_the_year_apple_give_some/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "quintenm94",
                     "url": "https://www.reddit.com/user/quintenm94"
-                }
-            ]
-        },
-        {
-            "id": "16t6v22",
-            "url": "/r/shortcuts/comments/16t6v22/there_are_two_types_of_people_in_this_world/",
-            "external_url": "https://i.redd.it/new5zeaubpqb1.jpg",
-            "title": "there are two types of people in this world..",
-            "content_html": "<caption>Open: <a href=\"https://reddit.com/r/shortcuts/comments/16t6v22/there_are_two_types_of_people_in_this_world/\">Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/new5zeaubpqb1.jpg\" />",
-            "date_published": "2023-09-27T01:33:28+00:00",
-            "authors": [
-                {
-                    "name": "dampney",
-                    "url": "https://www.reddit.com/user/dampney"
                 }
             ]
         }
