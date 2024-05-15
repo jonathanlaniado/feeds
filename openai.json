@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1cs5w9b",
+            "url": "/r/OpenAI/comments/1cs5w9b/ilyas_departure_from_openai/",
+            "external_url": "https://www.reddit.com/r/OpenAI/comments/1cs5w9b/ilyas_departure_from_openai/",
+            "title": "Ilya's Departure From OpenAI",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1cs5w9b/ilyas_departure_from_openai/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1cs5w9b/ilyas_departure_from_openai/'>Reddit</a></caption><div><br></div><p><a href=\"https://x.com/ilyasut/status/1790517455628198322\">https://x.com/ilyasut/status/1790517455628198322</a></p>",
+            "date_published": "2024-05-14T23:02:18+00:00",
+            "authors": [
+                {
+                    "name": "Effective_Vanilla_32",
+                    "url": "https://www.reddit.com/user/Effective_Vanilla_32"
+                }
+            ]
+        },
+        {
             "id": "1cr5iwq",
             "url": "/r/OpenAI/comments/1cr5iwq/gpt4o_will_be_free_for_everyone_in_the_next_weeks/",
             "external_url": "https://i.redd.it/s4lycaqhe80d1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "shoegraze",
                     "url": "https://www.reddit.com/user/shoegraze"
-                }
-            ]
-        },
-        {
-            "id": "18hi6mk",
-            "url": "/r/OpenAI/comments/18hi6mk/chatgpt_will_soon_have_realtime_news_access/",
-            "external_url": "https://openai.com/blog/axel-springer-partnership",
-            "title": "ChatGPT Will Soon Have Real-Time News Access",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/18hi6mk/chatgpt_will_soon_have_realtime_news_access/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/18hi6mk/chatgpt_will_soon_have_realtime_news_access/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-12-13T14:37:00+00:00",
-            "authors": [
-                {
-                    "name": "BJPark",
-                    "url": "https://www.reddit.com/user/BJPark"
                 }
             ]
         }
