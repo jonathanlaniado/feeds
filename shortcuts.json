@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1cslpz0",
+            "url": "/r/shortcuts/comments/1cslpz0/later_this_year_as_an_accessibility_feature_we/",
+            "external_url": "https://i.redd.it/4gu27pr7ll0d1.jpeg",
+            "title": "Later this year as an Accessibility feature, we should be able to launch shortcuts by voice without the need of Siri -MacStories",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1cslpz0/later_this_year_as_an_accessibility_feature_we/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1cslpz0/later_this_year_as_an_accessibility_feature_we/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/4gu27pr7ll0d1.jpeg\" />",
+            "date_published": "2024-05-15T14:09:00+00:00",
+            "authors": [
+                {
+                    "name": "iBanks3",
+                    "url": "https://www.reddit.com/user/iBanks3"
+                }
+            ]
+        },
+        {
             "id": "1cqsdxp",
             "url": "/r/shortcuts/comments/1cqsdxp/update_scsettings_20_quickly_access_toggles/",
             "external_url": "https://i.redd.it/xh4ykkgfy40d1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Secret-Access9909",
                     "url": "https://www.reddit.com/user/Secret-Access9909"
-                }
-            ]
-        },
-        {
-            "id": "16tpdz5",
-            "url": "/r/shortcuts/comments/16tpdz5/expand_the_action_button_on_the_iphone_15_pro/",
-            "external_url": "https://www.reddit.com/r/shortcuts/comments/16tpdz5/expand_the_action_button_on_the_iphone_15_pro/",
-            "title": "Expand The Action Button on the iPhone 15 Pro with two or three presses (also for older iPhones/iPads)",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/16tpdz5/expand_the_action_button_on_the_iphone_15_pro/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/16tpdz5/expand_the_action_button_on_the_iphone_15_pro/'>Reddit</a></caption><div><br></div><div><p>I collaborated with Appletips.nl to create a shortcut for the Action Button. This allows the Action Button to have multiple Shortcuts associated with it, and have a shortcut executed by pressing 1x, 2x or 3x on the Action Button. For users without an iPhone 15 Pro (Max), there is an alternative by placing a shortcut on your home screen. The explanation of how to install this is described in this article (perfectly translatable via your browser).</p>\n<p>Setting up Shortcuts requires several steps, sorry for that. It is a very comprehensive shortcut that works with Focus mode and the Files app to temporarily save data.</p>\n<p>You can find the explanation how to install the shortcuts here: <a href=\"https://www.appletips.nl/actieknop-iphone-uitbreiden/\">https://www.appletips.nl/actieknop-iphone-uitbreiden/</a> (article is in Dutch, but you can translate it via your browser)</p>\n<p>I am curious to hear what you guys think of my Shortcut.</p></div>",
-            "date_published": "2023-09-27T16:38:07+00:00",
-            "authors": [
-                {
-                    "name": "quintenm94",
-                    "url": "https://www.reddit.com/user/quintenm94"
                 }
             ]
         }
