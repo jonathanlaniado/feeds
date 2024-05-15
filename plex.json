@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1csokl4",
+            "url": "/r/PleX/comments/1csokl4/video_playback_speed_control_has_been_implemented/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/1csokl4/video_playback_speed_control_has_been_implemented/",
+            "title": "Video Playback Speed Control has been implemented",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1csokl4/video_playback_speed_control_has_been_implemented/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1csokl4/video_playback_speed_control_has_been_implemented/'>Reddit</a></caption><div><br></div><p>For users with Plex Pass subscription and should be available on most clients with the latest version.</p>\n<p>You can choose speeds of <code>0.5x</code>, <code>0.75x</code>, <code>Normal</code>, <code>1.25x</code>, <code>1.5x</code>, <code>1.75x</code>, and <code>2x.</code></p>\n<p><a href=\"https://support.plex.tv/articles/video-playback-speed-controls/\">https://support.plex.tv/articles/video-playback-speed-controls/</a></p>",
+            "date_published": "2024-05-15T16:08:39+00:00",
+            "authors": [
+                {
+                    "name": "AmUnlikelyAFish",
+                    "url": "https://www.reddit.com/user/AmUnlikelyAFish"
+                }
+            ]
+        },
+        {
             "id": "1cgfr38",
             "url": "/r/PleX/comments/1cgfr38/bye_roku_what_options_do_i_have/",
             "external_url": "https://arstechnica.com/?p=2020463",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "manofoz",
                     "url": "https://www.reddit.com/user/manofoz"
-                }
-            ]
-        },
-        {
-            "id": "16soje5",
-            "url": "/r/PleX/comments/16soje5/confused_about_sound_source/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/16soje5/confused_about_sound_source/",
-            "title": "Confused about sound source",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16soje5/confused_about_sound_source/'>Reddit</a></caption><div><br></div><div><p>I've downloaded interstellar and running through plex media server. There are 2 audio sources (DTS-HD 5.1 and AC3 5.1). \nWhen I select DTS, my atmos capable soundbar states the source is PCM stero. Do I disregard this and assume it is actually playing DTS? \nWhen I select AC3, it actually shows up as dolby digital plus. </p>\n<p>Or am I misinformed? Which sound quality is better?</p></div>",
-            "date_published": "2023-09-26T13:50:23+00:00",
-            "authors": [
-                {
-                    "name": "Waste_Philosopher993",
-                    "url": "https://www.reddit.com/user/Waste_Philosopher993"
                 }
             ]
         }
