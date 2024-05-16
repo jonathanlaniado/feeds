@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1cti1h4",
+            "url": "/r/OpenAI/comments/1cti1h4/thank_god_maybe_the_posts_will_stop_now/",
+            "external_url": "https://i.redd.it/su4mo7mjmt0d1.jpeg",
+            "title": "Thank God. Maybe the posts will stop now?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1cti1h4/thank_god_maybe_the_posts_will_stop_now/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1cti1h4/thank_god_maybe_the_posts_will_stop_now/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/su4mo7mjmt0d1.jpeg\" />",
+            "date_published": "2024-05-16T17:10:42+00:00",
+            "authors": [
+                {
+                    "name": "jimmy9120",
+                    "url": "https://www.reddit.com/user/jimmy9120"
+                }
+            ]
+        },
+        {
             "id": "1cs5w9b",
             "url": "/r/OpenAI/comments/1cs5w9b/ilyas_departure_from_openai/",
             "external_url": "https://www.reddit.com/r/OpenAI/comments/1cs5w9b/ilyas_departure_from_openai/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "NuseAI",
                     "url": "https://www.reddit.com/user/NuseAI"
-                }
-            ]
-        },
-        {
-            "id": "18jgtki",
-            "url": "/r/OpenAI/comments/18jgtki/github_copilot_chat_has_started_to_be_lazy_and/",
-            "external_url": "https://www.reddit.com/r/OpenAI/comments/18jgtki/github_copilot_chat_has_started_to_be_lazy_and/",
-            "title": "Github copilot chat has started to be lazy and refuse to write unit tests",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/18jgtki/github_copilot_chat_has_started_to_be_lazy_and/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/18jgtki/github_copilot_chat_has_started_to_be_lazy_and/'>Reddit</a></caption><div><br></div><p>This is the majority of the value IMO of copilot, is to be able to see some code and generate test cases that otherwise would be laborious to set up and think through. It used to work fine for me and ChatGPT has worked OK for a while too, but recently Github copilot won't write them for me. It will give me the bare minimum setup and then provide a line like:</p>\n<p>\"# Add your specific assertions here based on your expectations\"</p>\n<p>&#x200B;</p>\n<p>And when I ask it to write that part it refuses to and says that coding is complex so I should do it. I get that but I really know the tool is capable of it. </p>\n<p>&#x200B;</p>\n<p>Has anyone else noticed it getting lazy and not helping anymore?</p>",
-            "date_published": "2023-12-16T02:19:42+00:00",
-            "authors": [
-                {
-                    "name": "shoegraze",
-                    "url": "https://www.reddit.com/user/shoegraze"
                 }
             ]
         }
