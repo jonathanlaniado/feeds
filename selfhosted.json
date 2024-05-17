@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1cu2dow",
+            "url": "/r/selfhosted/comments/1cu2dow/my_very_biased_personal_review_of_several/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1cu2dow/my_very_biased_personal_review_of_several/",
+            "title": "My very biased personal review of several self-hosted reverse proxy solutions for home use",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1cu2dow/my_very_biased_personal_review_of_several/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1cu2dow/my_very_biased_personal_review_of_several/'>Reddit</a></caption><div><br></div><p>(This was originally a comment, but I decided to make it a post to share with others.)</p>\n<p>Over the past few months, I've tested several self-hosted reverse proxy solutions for my local network and I decided to share my experience for anyone else in the market. Full disclosure: I'm not an advanced user, nor am I an authority on this subject whatsoever. I mainly use reverse proxies for accessing simple local services with SSL behind memorable URLs and haven't dipped my toes into anything more complex than integrating Authentik for SSO. I prefer file-based configuration, avoid complexity, and don't need advanced features; so this list certainly won't be valuable for everyone. Feel free to share your opinions; I'd love to hear what everyone else is using.</p>\n<p>Here's my opinionated review of the reverse proxy solutions I've tried, ranked from most likely to recommend to newcomers to least likely:</p>\n<ol>\n<li><a href=\"https://caddyserver.com/docs/quick-starts/reverse-proxy\">Caddy</a>: As easy as it could possibly get, and by far the most painless reverse proxy I've used. It's extremely lightweight, performant, and modular with plenty of extensions. Being able to configure my entire home network's reverse proxy hosts from a single, elegantly formatted Caddyfile is a godsend. Combined with the <a href=\"https://github.com/coder/code-server\">VS Code Server</a> for easy configuration from a browser, I couldn't recommend a more painless solution for beginners who simply want to access their local services behind a TLD without browser warnings. Since I have my own FQDN through Cloudflare but don't have any public-facing services, I personally use the <a href=\"https://github.com/caddy-dns/cloudflare\">Cloudflare DNS provider Caddy addon</a> to benefit from full SSL using just a single line of configuration. Though, if your setup is complex enough to require using the JSON config, or you rely heavily on Docker, you might also consider Traefik.</li>\n<li><a href=\"https://doc.traefik.io/traefik/\">Traefik</a>: Probably the most powerful and versatile option I've tried, with the necessary complexity and learning curve that entails. Can do everything Caddy can do (perhaps even better depending on who you ask). I still use it on systems I haven't migrated away from Docker as the label system is fantastic. I find the multiple approaches to configuration and the corresponding documentation hard to wrap my head around sometimes, but it's still intuitive. Whether or not I'd recommend Traefik to \"newcomers\" depends entirely on what type of newcomer we're talking about: Someone already self-hosting a few services that knows the basics? Absolutely. My dad who just got a Synology for his birthday? There's probably better options.</li>\n<li><a href=\"https://zoraxy.arozos.com/#home\">Zoraxy</a>: The best GUI-based reverse proxy solution I'm familiar with, despite being relatively new to the scene. I grew out of it quickly as it was missing very basic features like SSL via DNS challenges when I last tried it, but I'm still placing it high on the list solely for providing the only viable option for people with a phobia of config files that I currently know of. It also has a really sleek interface, although I can't say anything about long-term stability or performance. YMMV.</li>\n<li><a href=\"https://www.f5.com/go/product/welcome-to-nginx\">NGINX</a>: Old reliable. It's only this far down the list because I prefer Traefik over vanilla NGINX for more complex use cases these days and haven't used it for proxy purposes in recent memory. I have absolutely nothing bad to say about NGINX (besides finding the configuration a bit ugly) and I use it for public-facing services all the time. If you're already using NGINX, you probably have a good reason to, and this list will have zero value to you.</li>\n<li><a href=\"https://youtu.be/9bV5zQbrp_Q?t=9\">NGINX Proxy Manager</a>: Unreliable. It's this far down the list because I'd prefer anything over NPM. Don't let its shiny user-friendly frontend fool you, as underneath lies a trove of deceit that will inevitably lead you down a rabbit hole of stale issues and nonexistent documentation. \"I've been using NPM for months and have never had an issue with it.\" WRONG. By the time you've read this, half of your proxy hosts are offline, and the frontend login has inexplicably stopped working. Hyperbole aside, my reasoning for not recommending NPM isn't that it totally broke for me on multiple occasions, but the fact that a major rewrite (v3) is supposedly in the works and the current version probably isn't updated as much as it  should be. If you're starting from scratch right now, I'd recommend anything else for now. Just my experience though, and I'm curious how common this sentiment is.</li>\n</ol>\n<p><strong>Honorable mentions</strong>:</p>\n<ul>\n<li><a href=\"https://docs.linuxserver.io/general/swag/\">SWAG</a>: Haven't used this one since I moved away from Docker, but I've seen it recommended a ton and it seems the <a href=\"http://linuxserver.io\">linuxserver.io</a> guys are held in pretty high regard. It's definitely worth a look if you use Docker or want an alternative Traefik.</li>\n<li><a href=\"https://www.haproxy.org/\">HAProxy</a><strong>:</strong> I didn't include it in the list because I was using the OPNsense addon and nearly went insane in the process. It might have just been the GUI, but it's the only reverse proxy solution I've used that made me actively feel like a moron. Definitely has its purpose, but I personally had no reason to keep putting myself through that   </li>\n</ul>\n<p>Edit: Clarified my reasoning for the NPM listing a bit more as it came off a bit inflammatory, sorry. I lost a lot of sleepless nights to some of those issues.</p>",
+            "date_published": "2024-05-17T11:02:06+00:00",
+            "authors": [
+                {
+                    "name": "dipplersdelight",
+                    "url": "https://www.reddit.com/user/dipplersdelight"
+                }
+            ]
+        },
+        {
             "id": "1csqq3r",
             "url": "/r/selfhosted/comments/1csqq3r/no_homeserver_dashboard_is_like_what_i_want_but/",
             "external_url": "https://i.redd.it/obek55cdmm0d1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Tolriq",
                     "url": "https://www.reddit.com/user/Tolriq"
-                }
-            ]
-        },
-        {
-            "id": "17kwvwm",
-            "url": "/r/selfhosted/comments/17kwvwm/just_this_took_me_so_long_folder_mapping_and/",
-            "external_url": "https://i.redd.it/qybdoblu2mxb1.jpg",
-            "title": "Just this took me so long. Folder mapping and permissions.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/17kwvwm/just_this_took_me_so_long_folder_mapping_and/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/17kwvwm/just_this_took_me_so_long_folder_mapping_and/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/qybdoblu2mxb1.jpg\" />",
-            "date_published": "2023-10-31T22:11:49+00:00",
-            "authors": [
-                {
-                    "name": "pennanbeach",
-                    "url": "https://www.reddit.com/user/pennanbeach"
                 }
             ]
         }
