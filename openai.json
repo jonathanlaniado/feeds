@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1cv0cwl",
+            "url": "/r/OpenAI/comments/1cv0cwl/editing_dalle_images_is_now_possible/",
+            "external_url": "https://i.redd.it/x2svoeooi71d1.jpeg",
+            "title": "Editing DALLE images is now possible",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1cv0cwl/editing_dalle_images_is_now_possible/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1cv0cwl/editing_dalle_images_is_now_possible/'>Reddit</a></caption><div><br></div><p>Today is the first time I\u2019ve seen this feature on my iOS app. </p><div><br></div><img src=\"https://i.redd.it/x2svoeooi71d1.jpeg\" />",
+            "date_published": "2024-05-18T15:54:01+00:00",
+            "authors": [
+                {
+                    "name": "bloodpomegranate",
+                    "url": "https://www.reddit.com/user/bloodpomegranate"
+                }
+            ]
+        },
+        {
             "id": "1cti1h4",
             "url": "/r/OpenAI/comments/1cti1h4/thank_god_maybe_the_posts_will_stop_now/",
             "external_url": "https://i.redd.it/su4mo7mjmt0d1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "baobobs",
                     "url": "https://www.reddit.com/user/baobobs"
-                }
-            ]
-        },
-        {
-            "id": "18jsy1h",
-            "url": "/r/OpenAI/comments/18jsy1h/openai_suspends_bytedances_account_after_it_used/",
-            "external_url": "https://www.reddit.com/r/OpenAI/comments/18jsy1h/openai_suspends_bytedances_account_after_it_used/",
-            "title": "OpenAI suspends ByteDance's account after it used GPT to train its own AI model",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/OpenAI/comments/18jsy1h/openai_suspends_bytedances_account_after_it_used/'>Apollo</a> | <a href='https://reddit.com/r/OpenAI/comments/18jsy1h/openai_suspends_bytedances_account_after_it_used/'>Reddit</a></caption><div><br></div><ul>\n<li>\n<p>OpenAI has suspended ByteDance's account for violating the developer license by using GPT-generated data to train its own AI model in China.</p>\n</li>\n<li>\n<p>ByteDance's account has been suspended while OpenAI further investigates the situation.</p>\n</li>\n<li>\n<p>If ByteDance's usage is found to be in violation of OpenAI's usage policies, necessary changes will be requested or the account will be terminated.</p>\n</li>\n<li>\n<p>Most of ByteDance's GPT usage has been through Microsoft's Azure platform, not directly through OpenAI.</p>\n</li>\n<li>\n<p>It is not yet known if Microsoft will also suspend ByteDance's access.</p>\n</li>\n</ul>\n<p>Source: https://www.theverge.com/2023/12/15/24003542/openai-suspends-bytedances-account-after-it-used-gpt-to-train-its-own-ai-model</p>",
-            "date_published": "2023-12-16T14:58:35+00:00",
-            "authors": [
-                {
-                    "name": "NuseAI",
-                    "url": "https://www.reddit.com/user/NuseAI"
                 }
             ]
         }
