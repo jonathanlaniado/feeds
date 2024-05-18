@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1cv2l3q",
+            "url": "/r/selfhosted/comments/1cv2l3q/security_psa_for_anyone_using_docker_on_a/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1cv2l3q/security_psa_for_anyone_using_docker_on_a/",
+            "title": "Security PSA for anyone using Docker on a publicly accessible host. You may be exposing ports you\u2019re not aware of\u2026",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1cv2l3q/security_psa_for_anyone_using_docker_on_a/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1cv2l3q/security_psa_for_anyone_using_docker_on_a/'>Reddit</a></caption><div><br></div><p>I have been using Docker for years now and never knew this until about 20min ago. I have never seen this mentioned anywhere or in any tutorial I have ever followed. </p>\n<p>When you spin up a docker container using the host network its port mappings will override your firewall rules and open those ports, even if you already created a rule to block that port. Might not be that big of a deal unless you\u2019re on a publicly accessible system like a VPS! </p>\n<p>When you\u2019re setting up a container you need to modify your port bindings for any ports you don\u2019t want accessible over the internet. </p>\n<p>Using NGINX Proxy Manager as an example:</p>\n<p><code>ports:\n    - \u201880:80\u2019\n    - \u2018443:443\u2019\n    - \u201881:81\u2019</code></p>\n<p>Using these default port bindings will open all those ports to the internet including the admin UI on port 81. I would assume most of us would rather manage things through a VPN and only have the ports open that we truly need open. Especially considering that port 81 in this case is standard http and not encrypted. </p>\n<p>To fix this was surprisingly easy. You need to bind the port to the interface you want. So if you only want local access use <code>127.0.0.1</code> but in my example I\u2019m using Tailscale. </p>\n<p><code>ports:\n    - \u201880:80\u2019\n    - \u2018443:443\u2019\n    - \u2018100.0.0.1:81:81\u2019</code></p>\n<p>This will still allow access to port 81 for management, but only through my Tailscale interface. So now port 81 is no longer open to the internet, but I can still access it through Tailscale. </p>\n<p>Hopefully this is redundant for a lot of people. However I assume if I have gone this long without knowing this then I\u2019m probably not the only one. Hopefully this helps someone. </p>",
+            "date_published": "2024-05-18T17:34:54+00:00",
+            "authors": [
+                {
+                    "name": "RoleAwkward6837",
+                    "url": "https://www.reddit.com/user/RoleAwkward6837"
+                }
+            ]
+        },
+        {
             "id": "1cu2dow",
             "url": "/r/selfhosted/comments/1cu2dow/my_very_biased_personal_review_of_several/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1cu2dow/my_very_biased_personal_review_of_several/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Illuminated_Humanoid",
                     "url": "https://www.reddit.com/user/Illuminated_Humanoid"
-                }
-            ]
-        },
-        {
-            "id": "17lyd3j",
-            "url": "/r/selfhosted/comments/17lyd3j/dev_symfonium_music_player_cast_the_self_hosted/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/17lyd3j/dev_symfonium_music_player_cast_the_self_hosted/",
-            "title": "[DEV] Symfonium: Music player & cast, the self hosted music player",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/17lyd3j/dev_symfonium_music_player_cast_the_self_hosted/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/17lyd3j/dev_symfonium_music_player_cast_the_self_hosted/'>Reddit</a></caption><div><br></div><p>I never officially introduced Symfonium here and if this breaks the rules please remove the post.</p>\n<p>&#x200B;</p>\n<p>So with version 6.0.0 just released Symfonium is now feature complete, to fully embrace most self hosted music scenario as it was planned to be. Took me some more time than planned :)</p>\n<p>&#x200B;</p>\n<p>So Symfonium is an advanced Android music player (Paid app with free trial) that support most self hosted music solutions to fully enjoy your music anywhere and allows aggregation of multiple servers.</p>\n<p>It currently support:</p>\n<p>- The local storage of the phone (SDCard,...)</p>\n<p>- Emby</p>\n<p>- Jellyfin</p>\n<p>- Subsonic</p>\n<p>- OpenSubsonic (A long term effort that I started to improve Subsonic clients and servers <a href=\"https://github.com/opensubsonic/open-subsonic-api\">https://github.com/opensubsonic/open-subsonic-api</a>. Already quite a few new features for some servers)</p>\n<p>- Kodi</p>\n<p>- Plex</p>\n<p>- Samba (SMB v2/v3)</p>\n<p>- WebDAV</p>\n<p>- Internet Radio</p>\n<p>&#x200B;</p>\n<p>It's an offline first solution with tons of features, like AutoEQ support, smart filters, personal mixes, transcoding, replaygain, ...</p>\n<p>But I don't want to make this post a long list of features, just wanted more people to be aware of this relatively new music player dedicated to self hosting.</p>\n<p>&#x200B;</p>\n<p>And if there's other well established music self hosting solution with a proper API do not hesitate to ask for support so I can look into it.</p>\n<p>&#x200B;</p>\n<p>Website: <a href=\"https://symfonium.app/\">https://symfonium.app/</a></p>\n<p>PlayStore: <a href=\"https://play.google.com/store/apps/details?id=app.symfonik.music.player\">https://play.google.com/store/apps/details?id=app.symfonik.music.player</a></p>",
-            "date_published": "2023-11-02T07:49:43+00:00",
-            "authors": [
-                {
-                    "name": "Tolriq",
-                    "url": "https://www.reddit.com/user/Tolriq"
                 }
             ]
         }
