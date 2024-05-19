@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1cvsu9m",
+            "url": "/r/selfhosted/comments/1cvsu9m/stirling_pdf_is_a_cool_project/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1cvsu9m/stirling_pdf_is_a_cool_project/",
+            "title": "Stirling PDF is a cool project",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1cvsu9m/stirling_pdf_is_a_cool_project/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1cvsu9m/stirling_pdf_is_a_cool_project/'>Reddit</a></caption><div><br></div><p>Just wanted to mention that Stirling PDF is a very cool project <a href=\"https://github.com/Stirling-Tools/Stirling-PDF\">https://github.com/Stirling-Tools/Stirling-PDF</a>  You can perform numerous tasks on PDF documents all from a central website.</p>",
+            "date_published": "2024-05-19T16:56:53+00:00",
+            "authors": [
+                {
+                    "name": "Slow_Wafer3174",
+                    "url": "https://www.reddit.com/user/Slow_Wafer3174"
+                }
+            ]
+        },
+        {
             "id": "1cv2l3q",
             "url": "/r/selfhosted/comments/1cv2l3q/security_psa_for_anyone_using_docker_on_a/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1cv2l3q/security_psa_for_anyone_using_docker_on_a/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Creapermann",
                     "url": "https://www.reddit.com/user/Creapermann"
-                }
-            ]
-        },
-        {
-            "id": "17o6s12",
-            "url": "/r/selfhosted/comments/17o6s12/my_experience_of_selfhosting_email_unpopular/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/17o6s12/my_experience_of_selfhosting_email_unpopular/",
-            "title": "My experience of self-hosting email (unpopular opinion)",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/17o6s12/my_experience_of_selfhosting_email_unpopular/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/17o6s12/my_experience_of_selfhosting_email_unpopular/'>Reddit</a></caption><div><br></div><p>Considering everything I have read in this Subreddit regarding self-hosting email, I am expecting to be downvoted into the pits of hell for even daring to say this out loud, and that's okay with me because I feel it must be said for others who are searching here for answers and advice like I once was. I don't want them to be discouraged because of FUD, as they say in the crypto community. Here goes...  </p>\n<p>I am the type of person who loves to solve problems and am always up for a challenge. Since getting into the self-hosting hobby, I have continuously searched for the next fun and practical service to self-host, which I am sure is what all of us do quite regularly. For me, that next service was email. I didn't have a clue where to begin, so I began to read into it, and immediately I noticed a pattern that was clear as day and consistent across all discussion boards including this one, and that message was \"self-hosting email is not worth the trouble\". The warnings made me very curious, and I just had to try for myself to see what this fearmongering about self-hosted email was. Well, I'm here to tell you that in my experience, all the warnings and cautions were nonsense and so far non-existent. I'll tell you right off the bat that there was zero magic involved. All I did was the following:  </p>\n<p>#1. Obtained a static IP from my ISP<br />\n#2. Chose Synology MailPlus on my NAS as my mail server<br />\n#3. Purchased a domain on <a href=\"https://www.porkbun.com\">www.porkbun.com</a> <br />\n#4. Followed the instructions on <a href=\"https://youtu.be/o66UFsodUYo?si=4GDATwQJtYsY2IT2\">this video</a><br />\n#5. Made sure all firewall rules on both my router and NAS are properly configured  </p>\n<p>That's it. Simple as that. Works great for sending and receiving mail. I have run numerous tests, and it's been rock solid for about 6 months now. Never had a single email lost or end up in junk mail folders with any of the big email providers. My advice is, if you are interested in hosting your own email and are on the fence because of the FUD that has been peddled across self-hosting communities, don't buy into that cynicism. It's perfectly doable, and I didn't find a single moment of it to be frustrating, despite not being exactly the most advanced user in this field.  </p>\n<p>If this post encourages just one person to pull the trigger, I'm happy</p>",
-            "date_published": "2023-11-05T07:29:30+00:00",
-            "authors": [
-                {
-                    "name": "Illuminated_Humanoid",
-                    "url": "https://www.reddit.com/user/Illuminated_Humanoid"
                 }
             ]
         }
