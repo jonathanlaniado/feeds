@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1cw6qh3",
+            "url": "/r/macapps/comments/1cw6qh3/i_created_an_opensource_screen_recorder_for_macos/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1cw6qh3/i_created_an_opensource_screen_recorder_for_macos/",
+            "title": "I created an open-source screen recorder for macOS, and it\u2019s time to show it to everyone",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1cw6qh3/i_created_an_opensource_screen_recorder_for_macos/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1cw6qh3/i_created_an_opensource_screen_recorder_for_macos/'>Reddit</a></caption><div><br></div><p><strong>HomePage:</strong> <a href=\"https://lihaoyun6.github.io/quickrecorder/\">https://lihaoyun6.github.io/quickrecorder/</a></p>\n<p><strong>Github:</strong> <a href=\"https://github.com/lihaoyun6/QuickRecorder/\">https://github.com/lihaoyun6/QuickRecorder/</a></p>\n<p>I created this project about a month ago to provide an <strong>open-source</strong> and <strong>free</strong> option for guys who need high quality screen recording. And I think it's time to show it to everyone.</p>\n<p>QuickRecorder is based on Apple's ScreenCapture Kit API, and it's supports most of the necessary features needed for a \"modern\" screen recording tool:</p>\n<ul>\n<li>App is only about 10MB</li>\n<li>Recording up to 8K@240FPS</li>\n<li>Driver-free audio loopback recording</li>\n<li>Hide any windows or applications you don't need</li>\n<li>Add camera or iPhone/iPad screen to your recording</li>\n<li>Simultaneous recording from microphone, cursor highlighting, screen magnifier...</li>\n<li>Even the \"<strong>Presenter Overlay</strong>\" in macOS 14 <em>(which most screen recorder do not support)</em></li>\n</ul>\n<p><strong>If you need a lightweight, powerful, easy-to-use and FREE screen recorder, this is it!</strong></p>\n<p><a href=\"https://preview.redd.it/z1dener6ai1d1.jpg?width=1085&amp;format=pjpg&amp;auto=webp&amp;s=743b92708b23d780fdc633bd113a025da3ee59aa\">Feature introduction</a></p>",
+            "date_published": "2024-05-20T04:06:12+00:00",
+            "authors": [
+                {
+                    "name": "Terrible-Poetry-8827",
+                    "url": "https://www.reddit.com/user/Terrible-Poetry-8827"
+                }
+            ]
+        },
+        {
             "id": "1cvj05j",
             "url": "/r/macapps/comments/1cvj05j/a_new_way_to_play_windows_games_on_macos/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1cvj05j/a_new_way_to_play_windows_games_on_macos/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "fscheps",
                     "url": "https://www.reddit.com/user/fscheps"
-                }
-            ]
-        },
-        {
-            "id": "17kh5wu",
-            "url": "/r/macapps/comments/17kh5wu/what_apps_would_you_love_to_have_that_dont_exist/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/17kh5wu/what_apps_would_you_love_to_have_that_dont_exist/",
-            "title": "What Apps Would You Love To Have That Don\u2019t Exist Yet?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17kh5wu/what_apps_would_you_love_to_have_that_dont_exist/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17kh5wu/what_apps_would_you_love_to_have_that_dont_exist/'>Reddit</a></caption><div><br></div><p>Just what utility/app would u all love and what would u pay for it?</p>",
-            "date_published": "2023-10-31T09:39:57+00:00",
-            "authors": [
-                {
-                    "name": "danmartinvela",
-                    "url": "https://www.reddit.com/user/danmartinvela"
                 }
             ]
         }
