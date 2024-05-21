@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "1cwufhr",
+            "url": "/r/MacOS/comments/1cwufhr/how_do_i_convince_my_dad_i_dont_need_av_on_new_mac/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/1cwufhr/how_do_i_convince_my_dad_i_dont_need_av_on_new_mac/",
+            "title": "How do I convince my Dad I don\u2019t need AV on new Mac?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOS/comments/1cwufhr/how_do_i_convince_my_dad_i_dont_need_av_on_new_mac/'>Winston</a> | <a href='https://reddit.com/r/MacOS/comments/1cwufhr/how_do_i_convince_my_dad_i_dont_need_av_on_new_mac/'>Reddit</a></caption><div><br></div><p>My parents just recently got me a Macbook Air as a graduation present and I will use it largely for college related stuff. From what I\u2019ve found Mac OS has its own form of AV and installing a third party will just make it slower. The problem is my dad is super stubborn and has also been scammed before. He bought a new microsoft and clicked on a pop up and ended up on the phone with a fake microsoft person. I also have tried to explain to him that I just finished taking computer science as a class in high school and we spent a good three weeks dedicated to malware, phishing, etc. </p>\n<p>TLDR: Got a new Mac and my dad is pushing really hard to get Norton installed on it but im pretty sure it doesn\u2019t need it and will just make it slower. </p>",
+            "date_published": "2024-05-21T00:04:05+00:00",
+            "authors": [
+                {
+                    "name": "UpsetGrapefruit5203",
+                    "url": "https://www.reddit.com/user/UpsetGrapefruit5203"
+                }
+            ]
+        },
+        {
             "id": "1ctp57o",
             "url": "/r/MacOS/comments/1ctp57o/opinion_macos_should_go_back_to_using_space/",
             "external_url": "https://www.reddit.com/gallery/1ctp57o",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "antdude",
                     "url": "https://www.reddit.com/user/antdude"
-                }
-            ]
-        },
-        {
-            "id": "16zp7k2",
-            "url": "/r/MacOS/comments/16zp7k2/my_school_has_an_all_apple_environment_and_is/",
-            "external_url": "https://www.reddit.com/r/MacOS/comments/16zp7k2/my_school_has_an_all_apple_environment_and_is/",
-            "title": "My school has an all Apple environment and is forcing MDM onto students\u2019 private devices. What should I do?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/MacOS/comments/16zp7k2/my_school_has_an_all_apple_environment_and_is/'>Apollo</a> | <a href='https://reddit.com/r/MacOS/comments/16zp7k2/my_school_has_an_all_apple_environment_and_is/'>Reddit</a></caption><div><br></div><p>I know they can block features such as erase all content and settings, which is abhorrent as I have paid for my devices and the school does not own them. </p>\n<p>I also know that if I do a hard reset, the macbook will boot to the MDM menu and not a clean install of macOS. </p>\n<p>What do you recommend I do?</p>",
-            "date_published": "2023-10-04T14:49:18+00:00",
-            "authors": [
-                {
-                    "name": "LePiracyEnjoyer69",
-                    "url": "https://www.reddit.com/user/LePiracyEnjoyer69"
                 }
             ]
         }
