@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1cwsquy",
+            "url": "/r/PleX/comments/1cwsquy/lifetime_plexpass_on_sale_for_9599/",
+            "external_url": "https://www.plex.tv/plex-pass/",
+            "title": "Lifetime plexpass on sale for $95.99",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1cwsquy/lifetime_plexpass_on_sale_for_9599/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1cwsquy/lifetime_plexpass_on_sale_for_9599/'>Reddit</a></caption><div><br></div><p>Fairly sure I paid $89.95 years ago. Well worth the investment. </p>",
+            "date_published": "2024-05-20T22:45:23+00:00",
+            "authors": [
+                {
+                    "name": "jazzdabb",
+                    "url": "https://www.reddit.com/user/jazzdabb"
+                }
+            ]
+        },
+        {
             "id": "1cvxjng",
             "url": "/r/PleX/comments/1cvxjng/this_is_a_joke_but_i_swear_most_threads_on_this/",
             "external_url": "https://i.redd.it/uz9ia6ztzf1d1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "dalabera",
                     "url": "https://www.reddit.com/user/dalabera"
-                }
-            ]
-        },
-        {
-            "id": "16sphg7",
-            "url": "/r/PleX/comments/16sphg7/content_hosted_on_nas/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/16sphg7/content_hosted_on_nas/",
-            "title": "Content hosted on NAS",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16sphg7/content_hosted_on_nas/'>Reddit</a></caption><div><br></div><div><p>Would there be any issues hosting content on a NAS? To be clear I don\u2019t mean having the plex server on a nas, I would have a dedicated server for the Plex server, but host the media files on a NAS.  Any latency issues with that? I\u2019m assuming no as I\u2019ve had no issues hosting media files on an external hard drive.</p></div>",
-            "date_published": "2023-09-26T14:27:49+00:00",
-            "authors": [
-                {
-                    "name": "Total-Guest-4141",
-                    "url": "https://www.reddit.com/user/Total-Guest-4141"
                 }
             ]
         }
