@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1cy9vx8",
+            "url": "/r/macapps/comments/1cy9vx8/inspired_by_rewindai_my_journey_with_recall/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1cy9vx8/inspired_by_rewindai_my_journey_with_recall/",
+            "title": "Inspired by RewindAI: My Journey with Recall\n",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1cy9vx8/inspired_by_rewindai_my_journey_with_recall/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1cy9vx8/inspired_by_rewindai_my_journey_with_recall/'>Reddit</a></caption><div><br></div><p>Hey everyone,</p>\n<p>I wanted to share a bit of my journey with you all and maybe get some advice or find some folks interested in collaborating.</p>\n<p>About six months ago, I was really inspired by RewindAI and decided to create my own local memory app called \"Recall\". The idea was to build something that could capture and index digital activity, making it easy to remember and find information later.</p>\n<p>After months of hard work, I finally got Recall to a point where it was working well. I've managed to ask him for information on my activity  from a week ago with details and all that locally with local llms! It was exciting to see it come together and actually do what I hoped it would.</p>\n<p>But then, I found out yesterday that the new Copilot+ laptops have a feature called \"Recall\" that does pretty much the same thing but better. It was a bit of a shock. Here I was, thinking I had something unique, only to see it already out there in a big way.</p>\n<p>So, now I'm not sure what to think. Instead of giving up, I decided to open-source Recall and rename it reMind. I believe that by sharing it, maybe some of you might have ideas or want to help improve it. If you\u2019re interested, I\u2019d love to hear from you!</p>\n<p>Here\u2019s the GitHub link: <a href=\"https://github.com/DonTizi/ReMind/\">Github Repo</a></p>\n<p>Best,</p>",
+            "date_published": "2024-05-22T20:05:11+00:00",
+            "authors": [
+                {
+                    "name": "DonTizi",
+                    "url": "https://www.reddit.com/user/DonTizi"
+                }
+            ]
+        },
+        {
             "id": "1cx9n9d",
             "url": "/r/macapps/comments/1cx9n9d/little_snitch_6_released/",
             "external_url": "https://obdev.at/products/littlesnitch/index.html",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "alin23",
                     "url": "https://www.reddit.com/user/alin23"
-                }
-            ]
-        },
-        {
-            "id": "17lcve8",
-            "url": "/r/macapps/comments/17lcve8/building_a_mac_app_to_help_designers_prototype/",
-            "external_url": "https://v.redd.it/0cux14pmtqxb1",
-            "title": "Building a mac app to help designers prototype for AR/VR experiences!",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17lcve8/building_a_mac_app_to_help_designers_prototype/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17lcve8/building_a_mac_app_to_help_designers_prototype/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-11-01T14:04:00+00:00",
-            "authors": [
-                {
-                    "name": "v-mohan",
-                    "url": "https://www.reddit.com/user/v-mohan"
                 }
             ]
         }
