@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1cyunlc",
+            "url": "/r/ArcBrowser/comments/1cyunlc/arc_for_windows_update_131/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1cyunlc/arc_for_windows_update_131/",
+            "title": "Arc for Windows Update - 1.3.1",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1cyunlc/arc_for_windows_update_131/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1cyunlc/arc_for_windows_update_131/'>Reddit</a></caption><div><br></div><p>May 23, 2024</p>\n<blockquote>\n<ul>\n<li>We\u2019ve added the Audio Player! Click away from any tab playing audio and you\u2019ll notice a small audio controller appear at the bottom of your Sidebar. To remove the Audio Player from your sidebar, simply click the \"X\" or close button on the controller.</li>\n<li>We\u2019ve added vertical Split Views! To create a Vertical Split you click the Split icon next to the minimize window control icon and select Add Top Split or Add Bottom Split. You can also create a vertical Split View from the Command Bar (Ctrl+T) and typing \u201cadd top split\u201d or \u201cadd bottom split\u201d.</li>\n<li>You can now set an icon for your Spaces!</li>\n<li>To change your Space icon, right click on your Space &gt; click \u2018Change Space icon\u2019 &gt; select an emoji.</li>\n<li>To remove a Space icon, right click on your Space &gt; click \u2018Change Space icon\u2019 &gt; click the trash icon.</li>\n<li>Space icons will Sync across your Arc installs on Windows and Mac.</li>\n<li>You can now use the back/forward buttons on your mouse to switch Spaces</li>\n<li>You can now drag downloads from the Downloads menu (Ctrl+J) into web contents</li>\n<li>You can now drag links from web contents into your Sidebar to create a new tab</li>\n<li>We now automatically freeze background tabs that use too much CPU</li>\n<li>We fixed an issue where Settings (Ctrl+,) would open behind the main Arc window</li>\n<li>We fixed an issue where opening a new tab from Ctrl+T and selecting one of the Command Bar suggestions in a Space associated with a non-Default Profile would cause a forced focus switch to the first Space in your Default Profile</li>\n<li>Various crash fixes and performance improvements</li>\n</ul>\n</blockquote>\n<p><a href=\"https://resources.arc.net/hc/en-us/articles/22513842649623-Arc-for-Windows-2023-2024-Release-Notes\"><strong>Release Notes</strong></a> \u2013 <a href=\"https://releases.arc.net/windows/ArcInstaller.exe\"><strong>Download Arc for Windows</strong></a></p>",
+            "date_published": "2024-05-23T14:50:50+00:00",
+            "authors": [
+                {
+                    "name": "Ultim8Chaos06",
+                    "url": "https://www.reddit.com/user/Ultim8Chaos06"
+                }
+            ]
+        },
+        {
             "id": "1cgu8nq",
             "url": "/r/ArcBrowser/comments/1cgu8nq/so_not_beta_anymore/",
             "external_url": "https://v.redd.it/xfl0ocl1nmxc1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "JaceThings",
                     "url": "https://www.reddit.com/user/JaceThings"
-                }
-            ]
-        },
-        {
-            "id": "17rjr0d",
-            "url": "/r/ArcBrowser/comments/17rjr0d/everyone_i_try_to_convince_to_use_arc_says_im_in/",
-            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/17rjr0d/everyone_i_try_to_convince_to_use_arc_says_im_in/",
-            "title": "Everyone I try to convince to use Arc says I'm in a cult. How do y'all describe it to people? (Alternatively, are we in a cult?)",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/17rjr0d/everyone_i_try_to_convince_to_use_arc_says_im_in/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/17rjr0d/everyone_i_try_to_convince_to_use_arc_says_im_in/'>Reddit</a></caption><div><br></div><p>As a user of Arc, what is your sales pitch? </p>\n<p>I can't get anyone to use this thing. Been using as default browser since December and haven't converted anyone. </p>\n<p>I'm probably not very good at articulating the benefits. But Arc is more than just the features. It's the entire experience, the onboarding, the release notes, the company's journey...</p>\n<p>Edit for clarity: I'm not going door to door trying to get people to convert to Arc. It's usually in response to a screenshare or like, general discussion about browsers. I don't know how to succinctly describe Arc, without -apparently- getting too excited and talking about philosophical shifts in how we treat the internet.</p>",
-            "date_published": "2023-11-09T18:37:40+00:00",
-            "authors": [
-                {
-                    "name": "Abm7b5",
-                    "url": "https://www.reddit.com/user/Abm7b5"
                 }
             ]
         }
