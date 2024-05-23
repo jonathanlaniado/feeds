@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1cyto25",
+            "url": "/r/selfhosted/comments/1cyto25/after_years_of_procrastination_godaddy_finally/",
+            "external_url": "https://i.redd.it/tpcok027o62d1.jpeg",
+            "title": "After years of procrastination, GoDaddy finally put the final nail in the coffin by cutting API access. Good riddance!",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1cyto25/after_years_of_procrastination_godaddy_finally/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1cyto25/after_years_of_procrastination_godaddy_finally/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/tpcok027o62d1.jpeg\" />",
+            "date_published": "2024-05-23T14:08:17+00:00",
+            "authors": [
+                {
+                    "name": "farva_06",
+                    "url": "https://www.reddit.com/user/farva_06"
+                }
+            ]
+        },
+        {
             "id": "1cvsu9m",
             "url": "/r/selfhosted/comments/1cvsu9m/stirling_pdf_is_a_cool_project/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1cvsu9m/stirling_pdf_is_a_cool_project/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "elusiveporcupine",
                     "url": "https://www.reddit.com/user/elusiveporcupine"
-                }
-            ]
-        },
-        {
-            "id": "17onhqa",
-            "url": "/r/selfhosted/comments/17onhqa/librum_finally_a_modern_ebook_reader_follow_up/",
-            "external_url": "https://v.redd.it/gcytfi4jtlyb1",
-            "title": "Librum - Finally a modern E-Book Reader (Follow up)",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/17onhqa/librum_finally_a_modern_ebook_reader_follow_up/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/17onhqa/librum_finally_a_modern_ebook_reader_follow_up/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-11-05T22:23:52+00:00",
-            "authors": [
-                {
-                    "name": "Creapermann",
-                    "url": "https://www.reddit.com/user/Creapermann"
                 }
             ]
         }
