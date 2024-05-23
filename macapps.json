@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1cypn3k",
+            "url": "/r/macapps/comments/1cypn3k/menubar_weather_app/",
+            "external_url": "https://www.reddit.com/gallery/1cypn3k",
+            "title": "Menubar weather app",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1cypn3k/menubar_weather_app/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1cypn3k/menubar_weather_app/'>Reddit</a></caption><div><br></div><p>This is a really simple, yet effective app, that lives silently within your menubar. Updates every hour (or every significant location change). It takes little to no resources snd uses Apple Weather. No data is collected, no network requests outside of Apple Weather is executed.</p>\n<p>The app page for macOS is here for those who don\u2019t care about the code: Here's the link: https://apps.apple.com/gb/app/menubar-weather/id1662381447</p>\n<p>Otherwise anyone who would like to contribute or just newcomers in SwiftUI would like to see how a simple app is created and structured then feel free to message me around with it: https://github.com/Nathan1258/Menubar-Weather</p>\n<p>On another note, any feature requests/changes you\u2019d like let me know! The app does support Celsius, Fahrenheit, 12/24 hour time format and you can make the dynamic gradients based on the weather just a single colour for accessibility. Some gradients (I know) make some text hard to see, especially in snowy conditions but I\u2019m getting around to fixing that. </p>\n<p>Hope you like it! </p>",
+            "date_published": "2024-05-23T10:33:56+00:00",
+            "authors": [
+                {
+                    "name": "nathan12581",
+                    "url": "https://www.reddit.com/user/nathan12581"
+                }
+            ]
+        },
+        {
             "id": "1cy9vx8",
             "url": "/r/macapps/comments/1cy9vx8/inspired_by_rewindai_my_journey_with_recall/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1cy9vx8/inspired_by_rewindai_my_journey_with_recall/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Cindori",
                     "url": "https://www.reddit.com/user/Cindori"
-                }
-            ]
-        },
-        {
-            "id": "17lfzpj",
-            "url": "/r/macapps/comments/17lfzpj/music_decoy_stop_launching_the_music_app_whenever/",
-            "external_url": "https://github.com/FuzzyIdeas/MusicDecoy",
-            "title": "Music Decoy: Stop launching the Music app whenever you press \u25b6 Play",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17lfzpj/music_decoy_stop_launching_the_music_app_whenever/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17lfzpj/music_decoy_stop_launching_the_music_app_whenever/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-11-01T16:27:19+00:00",
-            "authors": [
-                {
-                    "name": "alin23",
-                    "url": "https://www.reddit.com/user/alin23"
                 }
             ]
         }
