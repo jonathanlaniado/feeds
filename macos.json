@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "1d0goo4",
+            "url": "/r/MacOS/comments/1d0goo4/my_school_installed_mdm_on_my_personal_macbook_is/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/1d0goo4/my_school_installed_mdm_on_my_personal_macbook_is/",
+            "title": "My school installed MDM on my PERSONAL MacBook, is this normal?? What control do they have? ",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOS/comments/1d0goo4/my_school_installed_mdm_on_my_personal_macbook_is/'>Winston</a> | <a href='https://reddit.com/r/MacOS/comments/1d0goo4/my_school_installed_mdm_on_my_personal_macbook_is/'>Reddit</a></caption><div><br></div><p>https://preview.redd.it/gobp7kviul2d1.png?width=1463&amp;format=png&amp;auto=webp&amp;s=e82b71e35b4ddec2a0128e0b0655576755f10b2a</p>\n<p>So when I came to the school, they asked me to erase my MacBook and give it to them. Strange, but I made a Time Machine backup and gave it to them. They had it for an entire night, and when I got it back, I restored my backup. But then I checked the profiles section, and now I've realised why they had to erase it. Is this normal?? </p>\n<p><a href=\"https://preview.redd.it/3zk0b27yul2d1.png?width=576&amp;format=png&amp;auto=webp&amp;s=fe18672a005b0f99fe39e8d42516ee0f1f09ac60\">It allows me to remove the MDM Profile only and nothing else, should I remove it??</a></p>",
+            "date_published": "2024-05-25T17:13:59+00:00",
+            "authors": [
+                {
+                    "name": "Delicious_One_7887",
+                    "url": "https://www.reddit.com/user/Delicious_One_7887"
+                }
+            ]
+        },
+        {
             "id": "1cxc52s",
             "url": "/r/MacOS/comments/1cxc52s/guys_finder_isnt_feeling_good_today_what_should_i/",
             "external_url": "https://i.redd.it/hkxlgmm04t1d1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Repulsive-Focus1488",
                     "url": "https://www.reddit.com/user/Repulsive-Focus1488"
-                }
-            ]
-        },
-        {
-            "id": "179vvlp",
-            "url": "/r/MacOS/comments/179vvlp/new_game_launcher_for_mac_coming_soon/",
-            "external_url": "https://www.reddit.com/r/MacOS/comments/179vvlp/new_game_launcher_for_mac_coming_soon/",
-            "title": "New game launcher for mac coming soon!",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/MacOS/comments/179vvlp/new_game_launcher_for_mac_coming_soon/'>Apollo</a> | <a href='https://reddit.com/r/MacOS/comments/179vvlp/new_game_launcher_for_mac_coming_soon/'>Reddit</a></caption><div><br></div><p>Hey, I've been developing a game launcher for a while now. I just thought I wanted to share it around on the sub. It's called Mythic (it's not released), and I'm designing it to be the game launcher that puts macOS first. It's built on SwiftUI and is designed to be as small as possible. (Base app currently only \\~30MB in size)</p>\n<p>...And did I mention it's open-source?</p>\n<p>It's an epic games launcher alternative, and a UI frontend for <a href=\"https://github.com/derrod/legendary\">Legendary</a>. (Don't worry, guys. It can launch non-epic games as well \ud83d\ude05) It's simply meant to be like heroic, but this time putting macOS first.</p>\n<p>This is THE game launcher for a mac.</p>\n<p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/b09kw1lhwqub1.png?width=2024&amp;format=png&amp;auto=webp&amp;s=844c8540cb00275d9f1dc5647fc8541a96f45128\">Mythic 0.1.0 (1336) -- unreleased</a></p>\n<p>I forgot to mention, IT PLAYS WINDOWS GAMES! \ud83d\ude0e</p>\n<p>It uses game porting toolkit (our best friend) in order to play Windows games on a mac (That's right, even M1 and M2 macs, and supports macOS games as well. All of this is achieved while still being user friendly and easy to use.</p>\n<p>The good thing about it being open-source is that if you want to change something, you can download the source code and fiddle around with it yourself.</p>\n<p><a href=\"https://discord.gg/y2TMjThy4e\">Join the discord</a> so you can stay tuned when it launches!</p>\n<p>You can find the repo <a href=\"https://github.com/blackxfiied/Mythic\">here</a> (it's still privated, Mythic is a work in progress) And you can find the website <a href=\"https://mythic.blackxfiied.xyz/\">here</a> additionally, you can find my original post on r/macgaming <a href=\"https://www.reddit.com/r/macgaming/comments/1772tmi/new_game_launcher_for_mac_coming_soon/\">here</a>.</p>\n<p>Thanks for taking your time to see my post \ud83d\ude01 Have a wonderful day! (Stay tuned, Mythic'll be complete very soon!)</p>\n<p>Join the mythic train (you are uncool if you dont)</p>",
-            "date_published": "2023-10-17T11:09:38+00:00",
-            "authors": [
-                {
-                    "name": "SeperatedEntity",
-                    "url": "https://www.reddit.com/user/SeperatedEntity"
                 }
             ]
         }
