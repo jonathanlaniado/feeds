@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1d0ncvm",
+            "url": "/r/macapps/comments/1d0ncvm/cant_justify_using_arc_browser/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1d0ncvm/cant_justify_using_arc_browser/",
+            "title": "Can't Justify Using Arc Browser",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1d0ncvm/cant_justify_using_arc_browser/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1d0ncvm/cant_justify_using_arc_browser/'>Reddit</a></caption><div><br></div><p>Arc Browser seems really nice. I gave it a go and enjoyed the experience... with the exception of the fact that it's a battery drain and makes my computer overheat. Safari remains FAR more practical for me given the aforementioned.</p>\n<p>How can this problem linger for so long? People were literally posting about this a year ago.</p>",
+            "date_published": "2024-05-25T22:33:44+00:00",
+            "authors": [
+                {
+                    "name": "DancingDocOnTikTok",
+                    "url": "https://www.reddit.com/user/DancingDocOnTikTok"
+                }
+            ]
+        },
+        {
             "id": "1cypn3k",
             "url": "/r/macapps/comments/1cypn3k/menubar_weather_app/",
             "external_url": "https://www.reddit.com/gallery/1cypn3k",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "techsparrowlionpie",
                     "url": "https://www.reddit.com/user/techsparrowlionpie"
-                }
-            ]
-        },
-        {
-            "id": "17le9i5",
-            "url": "/r/macapps/comments/17le9i5/announcing_backdrop_the_wallpaper_engine_for_macos/",
-            "external_url": "https://cindori.com/backdrop",
-            "title": "Announcing Backdrop: The Wallpaper Engine for macOS",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17le9i5/announcing_backdrop_the_wallpaper_engine_for_macos/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17le9i5/announcing_backdrop_the_wallpaper_engine_for_macos/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-11-01T15:09:09+00:00",
-            "authors": [
-                {
-                    "name": "Cindori",
-                    "url": "https://www.reddit.com/user/Cindori"
                 }
             ]
         }
