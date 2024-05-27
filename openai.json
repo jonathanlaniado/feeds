@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1d1xui0",
+            "url": "/r/OpenAI/comments/1d1xui0/speculation_gpt4o_is_a_heavily_distilled_version/",
+            "external_url": "https://www.reddit.com/r/OpenAI/comments/1d1xui0/speculation_gpt4o_is_a_heavily_distilled_version/",
+            "title": "speculation: GPT-4o is a heavily distilled version of their most powerful unreleased model",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1d1xui0/speculation_gpt4o_is_a_heavily_distilled_version/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1d1xui0/speculation_gpt4o_is_a_heavily_distilled_version/'>Reddit</a></caption><div><br></div><p>My bet is that GPT-4o is a (heavily) distilled version of a more powerful model, perhaps GPT-next (5?) for which the per-training is either complete or still ongoing.</p>\n<p>For anyone unfamiliar with <a href=\"https://arxiv.org/abs/1503.02531\">this concept</a>, it's basically using the output of a larger more powerful model (the teacher) to train a smaller model (the student) such that the student achieves a higher performance than would be possible by training it from scratch, by itself.</p>\n<p>This may seem like magic, but the reason for why this works is that the training data is significantly enriched. For LLM self-supervised pre-training, the training signal is transformed from an indication of which token should be predicted next, into a probability distribution over all tokens by taking into account the prediction of the larger model. So the probability mass is distributed over all tokens in a meaningful way. A concrete example would be that the smaller model learns synonyms much faster, because the teacher has similar prediction probabilities for synonyms given a context. But this goes way beyond synonyms, it allows the student network to learn complex prediction targets, to take advantage of the \"wisdom\" of the teacher network, with far fewer parameters.</p>\n<p>Given a capable enough teacher and a well-designed distillation approach, it is plausible to get GPT-4 level performance, with half the parameters (or even fewer). </p>\n<p>This would make sense from a compute perspective. Because given a large enough user base, the compute required for training is quickly dwarfed by the compute required for inference. A teacher model can be impractically large for large-scale usage, but for distillation, inference is done only once for the training data of the student. For instance they could have a 5 trillion parameter model distilled into a 500 billion one, that still is better than GPT-4.</p>\n<p>This strategy would also allow controlled, gradual increase of capability of new releases, just enough to stay ahead of the competition, and not cause too much surprise and unwanted attention from the doomer crowd. </p>",
+            "date_published": "2024-05-27T18:07:27+00:00",
+            "authors": [
+                {
+                    "name": "trajo123",
+                    "url": "https://www.reddit.com/user/trajo123"
+                }
+            ]
+        },
+        {
             "id": "1czufuv",
             "url": "/r/OpenAI/comments/1czufuv/prompted_chatgpt_to_save_joe_bidens_campaign_and/",
             "external_url": "https://v.redd.it/q0xyw5g7of2d1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "DannyVFilms",
                     "url": "https://www.reddit.com/user/DannyVFilms"
-                }
-            ]
-        },
-        {
-            "id": "18x0a68",
-            "url": "/r/OpenAI/comments/18x0a68/lego_spec_ad_using_midjourney_v6_and_gen2_were_so/",
-            "external_url": "https://v.redd.it/z6dapof0d3ac1",
-            "title": "LEGO Spec Ad using Midjourney V6 and Gen-2. We\u2019re so close to television ready ads\u2026",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/18x0a68/lego_spec_ad_using_midjourney_v6_and_gen2_were_so/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/18x0a68/lego_spec_ad_using_midjourney_v6_and_gen2_were_so/'>Reddit</a></caption><div><br></div><p>Plus a little scripting help from GPT-4 :)</p>",
-            "date_published": "2024-01-02T21:03:55+00:00",
-            "authors": [
-                {
-                    "name": "NEXTONNOW",
-                    "url": "https://www.reddit.com/user/NEXTONNOW"
                 }
             ]
         }
