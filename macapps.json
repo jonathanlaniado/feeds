@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1d2dkxt",
+            "url": "/r/macapps/comments/1d2dkxt/some_of_my_favorite_underrated_apps/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1d2dkxt/some_of_my_favorite_underrated_apps/",
+            "title": "Some of my favorite underrated apps",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1d2dkxt/some_of_my_favorite_underrated_apps/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1d2dkxt/some_of_my_favorite_underrated_apps/'>Reddit</a></caption><div><br></div><p>Most of use the popular apps like Raycast, Alfred, Arc etc but I wanted to share a list of some of the underrated/unknown apps that I use on my mac and now I can't live without them. Hope you find the list useful!</p>\n<ol>\n<li>\n<p><a href=\"https://tryklack.com/\">Klack</a> - This is one of the most interesting apps I've used. It adds mechanical keyboard sounds to keypresses and what I love about it is that all sounds have slight variations so it sounds very realistic. I use a magic keyboard and this app brings it to life.</p>\n</li>\n<li>\n<p><a href=\"https://lookaway.app\">LookAway</a> - An awesome break reminder app which helps me stay productive without any fatigue even when I am working long hours. Can't recommend this enough.</p>\n</li>\n<li>\n<p><a href=\"https://github.com/dwarvesf/hidden\">Hidden Bar</a> - A free alternative to Bartender which just works. </p>\n</li>\n<li>\n<p><a href=\"https://gif.ski/\">Gifski</a> - A super fast and to the point video to gif converter. It outputs the smalles and high quality gifs.</p>\n</li>\n<li>\n<p><a href=\"https://handbrake.fr/\">Handbrake</a> - This app has been in my toolkit since forever. A super fast video converter with lots of customization options.</p>\n</li>\n<li>\n<p><a href=\"https://eternalstorms.at/yoink/mac/\">Yoink</a> - A great tiny utility app which makes dragging and dropping files a piece of cake.</p>\n</li>\n<li>\n<p><a href=\"https://httpie.io/\">HTTPie</a> - A lightweight alternative to Postman without the bullshit.</p>\n</li>\n</ol>\n<p>And that's all! Hope this list helps and I would love to see what underrated apps you all use.</p>",
+            "date_published": "2024-05-28T07:17:30+00:00",
+            "authors": [
+                {
+                    "name": "RemarkableEvent4",
+                    "url": "https://www.reddit.com/user/RemarkableEvent4"
+                }
+            ]
+        },
+        {
             "id": "1d0ncvm",
             "url": "/r/macapps/comments/1d0ncvm/cant_justify_using_arc_browser/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1d0ncvm/cant_justify_using_arc_browser/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "eguchi1904",
                     "url": "https://www.reddit.com/user/eguchi1904"
-                }
-            ]
-        },
-        {
-            "id": "17memua",
-            "url": "/r/macapps/comments/17memua/is_there_an_app_that_lets_you_launch_and_quit_a/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/17memua/is_there_an_app_that_lets_you_launch_and_quit_a/",
-            "title": "Is there an app that lets you launch and quit a bunch of selected or grouped apps ?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17memua/is_there_an_app_that_lets_you_launch_and_quit_a/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17memua/is_there_an_app_that_lets_you_launch_and_quit_a/'>Reddit</a></caption><div><br></div><p>For example, I want to group apps for a specific context. I want to do software development work now, it opens apps I choose specific to that context - VS Code, Iterm2, Arc, Slack, etc. Another group could be writing - opens Notion, Arc, Email app, etc.</p>\n<p>&#x200B;</p>\n<p>I want to be able to quickly:</p>\n<ol>\n<li>open them up.</li>\n<li>close only those window them all as well</li>\n</ol>\n<p>&#x200B;</p>\n<p>Does something like this exist? Do people also have interest in this ?</p>",
-            "date_published": "2023-11-02T21:42:11+00:00",
-            "authors": [
-                {
-                    "name": "techsparrowlionpie",
-                    "url": "https://www.reddit.com/user/techsparrowlionpie"
                 }
             ]
         }
