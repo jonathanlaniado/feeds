@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1d3iyxo",
+            "url": "/r/macapps/comments/1d3iyxo/how_many_apps_did_raycast_replace_for_you/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1d3iyxo/how_many_apps_did_raycast_replace_for_you/",
+            "title": "How Many Apps Did Raycast Replace For You?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1d3iyxo/how_many_apps_did_raycast_replace_for_you/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1d3iyxo/how_many_apps_did_raycast_replace_for_you/'>Reddit</a></caption><div><br></div><p>I've been a Raycast user for aout six months. I'd been a Launchbar user for nearly 18 years and it was hard to convince me to try something new. After making the move to Raycast, it was still hard to give up some of the tools I had paid for and was used to for the Raycast alternative. I think I'm finally there now. </p>\n<p><a href=\"https://amerpie.lol/2024/04/25/my-favorite-raycast.html\">My Raycast Favorites - How They Work - What they Replaced</a></p>\n<ol>\n<li>Emoji Search - I gave up Rocket</li>\n<li>Clipboard Manager - I gave up PastePal</li>\n<li>Windows Management - I gave up Divvy</li>\n<li>Image Modification - I quit using Photoshop Elements (mostly)</li>\n<li>Unsplash - I no longer go to the website for images. I use the extension.</li>\n<li>Bitly - I shorten URLS on the clipboard now using an extension</li>\n<li>Kill process - I use the Raycast extension instead of the native tools</li>\n<li>Passwords - I never open the app for my password manager anymore since Raycast can search it.</li>\n<li>Homebrew - I can check my packages for updates without using the command line \n   now.</li>\n</ol>\n<p>10 AI - no separate app needed. You can query various LLMs within Raycast even without a Pro account.</p>",
+            "date_published": "2024-05-29T18:18:31+00:00",
+            "authors": [
+                {
+                    "name": "amerpie",
+                    "url": "https://www.reddit.com/user/amerpie"
+                }
+            ]
+        },
+        {
             "id": "1d2dkxt",
             "url": "/r/macapps/comments/1d2dkxt/some_of_my_favorite_underrated_apps/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1d2dkxt/some_of_my_favorite_underrated_apps/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ArimaJain",
                     "url": "https://www.reddit.com/user/ArimaJain"
-                }
-            ]
-        },
-        {
-            "id": "17mx4jg",
-            "url": "/r/macapps/comments/17mx4jg/strflow_mac_native_app_for_instant_notetaking/",
-            "external_url": "https://i.redd.it/nek37qdq75yb1.jpg",
-            "title": "Strflow: Mac native app for instant note-taking",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17mx4jg/strflow_mac_native_app_for_instant_notetaking/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17mx4jg/strflow_mac_native_app_for_instant_notetaking/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/nek37qdq75yb1.jpg\" />",
-            "date_published": "2023-11-03T15:05:08+00:00",
-            "authors": [
-                {
-                    "name": "eguchi1904",
-                    "url": "https://www.reddit.com/user/eguchi1904"
                 }
             ]
         }
