@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1d4a9vp",
+            "url": "/r/macapps/comments/1d4a9vp/working_on_a_live_wallpaper_and_screen_effects/",
+            "external_url": "https://v.redd.it/82i6r8yfsl3d1",
+            "title": "Working on a live wallpaper and screen effects app! Curious to get people's opinions on this. The effects are written in Swift with SpriteKit, and are rendered in real time (along with the splashing on the dock/bottom). There will also be fireflies, snow, and other effects.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1d4a9vp/working_on_a_live_wallpaper_and_screen_effects/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1d4a9vp/working_on_a_live_wallpaper_and_screen_effects/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-05-30T18:05:00+00:00",
+            "authors": [
+                {
+                    "name": "GoodnessScrapes",
+                    "url": "https://www.reddit.com/user/GoodnessScrapes"
+                }
+            ]
+        },
+        {
             "id": "1d3o8iv",
             "url": "/r/macapps/comments/1d3o8iv/dynamiclake_pro_for_macos/",
             "external_url": "https://i.redd.it/7njrda1fwf3d1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "plazman30",
                     "url": "https://www.reddit.com/user/plazman30"
-                }
-            ]
-        },
-        {
-            "id": "17nmzzr",
-            "url": "/r/macapps/comments/17nmzzr/finder_path_finder_replacement_alternatives/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/17nmzzr/finder_path_finder_replacement_alternatives/",
-            "title": "Finder & Path Finder replacement alternatives",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17nmzzr/finder_path_finder_replacement_alternatives/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17nmzzr/finder_path_finder_replacement_alternatives/'>Reddit</a></caption><div><br></div><p>Some years back I started using Total Finder, unfortunately the team stopped its development. So I switched to Path Finder, now I am having the feeling that Path Finder si really not further developing the product as before. Support takes forever to reply, literally 1 month in several opportunities.   </p>\n<p>I am looking for a replacement to Finder and Path Finder. I am looking for certain functionalities to easily cut and paste through a queue to avoid chocking myEthernett connection when moving files around.  </p>\n<p>I want something way more flexible than what Finder offers.  </p>\n<p>Thank you for sharing your thoughts</p>",
-            "date_published": "2023-11-04T14:37:02+00:00",
-            "authors": [
-                {
-                    "name": "fscheps",
-                    "url": "https://www.reddit.com/user/fscheps"
                 }
             ]
         }
