@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1d5ns1z",
+            "url": "/r/OpenAI/comments/1d5ns1z/yann_lecun_confidently_predicted_that_llms_will/",
+            "external_url": "https://v.redd.it/ab3qxm7cwy3d1",
+            "title": "Yann LeCun confidently predicted that LLMs will never be able to do basic spatial reasoning. 1 year later, GPT-4 proved him wrong.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1d5ns1z/yann_lecun_confidently_predicted_that_llms_will/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1d5ns1z/yann_lecun_confidently_predicted_that_llms_will/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-06-01T14:08:06+00:00",
+            "authors": [
+                {
+                    "name": "dlaltom",
+                    "url": "https://www.reddit.com/user/dlaltom"
+                }
+            ]
+        },
+        {
             "id": "1d40fqx",
             "url": "/r/OpenAI/comments/1d40fqx/i_got_tired_of_hearing_that_yc_fired_sam_so_heres/",
             "external_url": "https://i.redd.it/gwsyysjrej3d1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "RefrigeratorPale2304",
                     "url": "https://www.reddit.com/user/RefrigeratorPale2304"
-                }
-            ]
-        },
-        {
-            "id": "194ws2h",
-            "url": "/r/OpenAI/comments/194ws2h/its_so_stupidly_easy_to_leak_gpts_and_its_files/",
-            "external_url": "https://www.reddit.com/gallery/194ws2h",
-            "title": "It's so stupidly easy to leak gpts and its files.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/194ws2h/its_so_stupidly_easy_to_leak_gpts_and_its_files/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/194ws2h/its_so_stupidly_easy_to_leak_gpts_and_its_files/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-01-12T14:47:33+00:00",
-            "authors": [
-                {
-                    "name": "friuns",
-                    "url": "https://www.reddit.com/user/friuns"
                 }
             ]
         }
