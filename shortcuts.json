@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1d5199o",
+            "url": "/r/shortcuts/comments/1d5199o/4_band_resistor_color_code_identifier/",
+            "external_url": "https://i.redd.it/cdszxon1ss3d1.jpeg",
+            "title": "4 Band Resistor Color Code Identifier",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1d5199o/4_band_resistor_color_code_identifier/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1d5199o/4_band_resistor_color_code_identifier/'>Reddit</a></caption><div><br></div><p>Just a shortcut I wanted to make for myself for the convenience of identifying a resistor faster! I know there\u2019s an app for it / online calculators, but I figured I\u2019d toy around with creating an identifier myself to help me learn what\u2019s what. Feel free to tweak anything, this is just a simple 4 band version since it\u2019s most common for me. I\u2019ll probably try making different versions in the future. Thanks for looking!</p>\n<p>https://www.icloud.com/shortcuts/4b72c913d13a4055aa343d3c3f72a63c</p><div><br></div><img src=\"https://i.redd.it/cdszxon1ss3d1.jpeg\" />",
+            "date_published": "2024-05-31T17:32:10+00:00",
+            "authors": [
+                {
+                    "name": "gloomygumby",
+                    "url": "https://www.reddit.com/user/gloomygumby"
+                }
+            ]
+        },
+        {
             "id": "1d07rea",
             "url": "/r/shortcuts/comments/1d07rea/morning_routine_shortcut/",
             "external_url": "https://www.reddit.com/gallery/1d07rea",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "jerprovost",
                     "url": "https://www.reddit.com/user/jerprovost"
-                }
-            ]
-        },
-        {
-            "id": "16ul8nj",
-            "url": "/r/shortcuts/comments/16ul8nj/action_buttonfocus_mode_help/",
-            "external_url": "https://i.redd.it/h4fo40a611rb1.jpg",
-            "title": "Action button/focus mode help",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/16ul8nj/action_buttonfocus_mode_help/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/16ul8nj/action_buttonfocus_mode_help/'>Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/h4fo40a611rb1.jpg\" />",
-            "date_published": "2023-09-28T16:55:01+00:00",
-            "authors": [
-                {
-                    "name": "ItsBrenOakes",
-                    "url": "https://www.reddit.com/user/ItsBrenOakes"
                 }
             ]
         }
