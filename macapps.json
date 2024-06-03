@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1d7033b",
+            "url": "/r/macapps/comments/1d7033b/airbattery_get_the_battery_usage_of_all_your/",
+            "external_url": "https://i.redd.it/of4be9dvob4d1.jpeg",
+            "title": "AirBattery: Get the battery usage of all your devices on your Mac!",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1d7033b/airbattery_get_the_battery_usage_of_all_your/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1d7033b/airbattery_get_the_battery_usage_of_all_your/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/of4be9dvob4d1.jpeg\" />",
+            "date_published": "2024-06-03T09:08:22+00:00",
+            "authors": [
+                {
+                    "name": "Terrible-Poetry-8827",
+                    "url": "https://www.reddit.com/user/Terrible-Poetry-8827"
+                }
+            ]
+        },
+        {
             "id": "1d6jh22",
             "url": "/r/macapps/comments/1d6jh22/notchnook_a_way_to_make_the_notch_useful_it_also/",
             "external_url": "https://v.redd.it/cclhyu37974d1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "infinitely_zero",
                     "url": "https://www.reddit.com/user/infinitely_zero"
-                }
-            ]
-        },
-        {
-            "id": "17ohx3e",
-            "url": "/r/macapps/comments/17ohx3e/paragon_software_ntfs_for_mac_gone_downhill/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/17ohx3e/paragon_software_ntfs_for_mac_gone_downhill/",
-            "title": "Paragon Software - NTFS for Mac - Gone' Downhill",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17ohx3e/paragon_software_ntfs_for_mac_gone_downhill/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17ohx3e/paragon_software_ntfs_for_mac_gone_downhill/'>Reddit</a></caption><div><br></div><p>I have been using Paragon Software primarily their NTFS for Mac app for years; they have always been solid.</p>\n<p>Recently (Last week) they released version 16 which has seemed to break existing licensing for a ton of people. I have reached out to them on X (They have not posted since 2020); I opened a support ticket immediately, and bump every day (not a single response or acknowledgment). Their forums are loaded with pretty pissed off users (rightfully so). </p>\n<p>ok ok, end rant on a company that seems to have pulled a fast one. </p>\n<p>Long story short, any recommendations on similar applications? </p>\n<p>My only other option is to export all of the data on the NTFS drives I have, and format them to a read and writable format for macOS. These are primarily used as my offline/local backups. Currently because NTFS for Mac is not working with my license, I only have read only access on the trial (which expires today). I refuse to buy another license from a company like this.</p>",
-            "date_published": "2023-11-05T18:15:35+00:00",
-            "authors": [
-                {
-                    "name": "deanfx",
-                    "url": "https://www.reddit.com/user/deanfx"
                 }
             ]
         }
