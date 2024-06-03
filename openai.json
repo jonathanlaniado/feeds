@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1d767k3",
+            "url": "/r/OpenAI/comments/1d767k3/gpt4_didnt_ace_the_bar_exam_after_all_mit/",
+            "external_url": "https://www.livescience.com/technology/artificial-intelligence/gpt-4-didnt-ace-the-bar-exam-after-all-mit-research-suggests-it-barely-passed",
+            "title": "GPT-4 didn't ace the bar exam after all, MIT research suggests \u2014 it didn't even break the 70th percentile",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1d767k3/gpt4_didnt_ace_the_bar_exam_after_all_mit/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1d767k3/gpt4_didnt_ace_the_bar_exam_after_all_mit/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-06-03T14:46:22+00:00",
+            "authors": [
+                {
+                    "name": "FreshBlinkOnReddit",
+                    "url": "https://www.reddit.com/user/FreshBlinkOnReddit"
+                }
+            ]
+        },
+        {
             "id": "1d5ns1z",
             "url": "/r/OpenAI/comments/1d5ns1z/yann_lecun_confidently_predicted_that_llms_will/",
             "external_url": "https://v.redd.it/ab3qxm7cwy3d1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Chop1n",
                     "url": "https://www.reddit.com/user/Chop1n"
-                }
-            ]
-        },
-        {
-            "id": "199sbm0",
-            "url": "/r/OpenAI/comments/199sbm0/i_made_a_script_to_storyboard_ai_tool_that/",
-            "external_url": "https://v.redd.it/lu72nlcss7dc1",
-            "title": "I made a script to storyboard AI tool that automatically ensures character, scene, and style consistency.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/199sbm0/i_made_a_script_to_storyboard_ai_tool_that/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/199sbm0/i_made_a_script_to_storyboard_ai_tool_that/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-01-18T15:12:01+00:00",
-            "authors": [
-                {
-                    "name": "RefrigeratorPale2304",
-                    "url": "https://www.reddit.com/user/RefrigeratorPale2304"
                 }
             ]
         }
