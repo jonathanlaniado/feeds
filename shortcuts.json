@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1d7mqyd",
+            "url": "/r/shortcuts/comments/1d7mqyd/optimized_multistop_navigation/",
+            "external_url": "https://i.redd.it/0tx23ywgxg4d1.jpeg",
+            "title": "Optimized multi-stop navigation",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1d7mqyd/optimized_multistop_navigation/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1d7mqyd/optimized_multistop_navigation/'>Reddit</a></caption><div><br></div><h1><a href=\"https://routinehub.co/shortcut/18833/\">Navigate multiple destinations in the fastest/shortest order</a></h1>\n<p><em>Drive smart, not hard</em></p>\n<p>Specify three or more locations and this Shortcut will compute the optimal ordering of stops. Can specify locations from a few different sources, including being able to paste in a list of addresses.</p>\n<p>You can specify whether to optimize for travel time, travel distance, or straight line distance. Straight line distance runs faster because it takes a few seconds to compute driving times using maps. You can also retain the input order of the route if desired.</p>\n<p>This is similar to what the <a href=\"https://apps.apple.com/us/app/roadwarrior-route-planner/id959621658\">RoadWarrior</a> app does, but you get it for free as a vanilla shortcut!.</p><div><br></div><img src=\"https://i.redd.it/0tx23ywgxg4d1.jpeg\" />",
+            "date_published": "2024-06-04T02:45:19+00:00",
+            "authors": [
+                {
+                    "name": "twilsonco",
+                    "url": "https://www.reddit.com/user/twilsonco"
+                }
+            ]
+        },
+        {
             "id": "1d5199o",
             "url": "/r/shortcuts/comments/1d5199o/4_band_resistor_color_code_identifier/",
             "external_url": "https://i.redd.it/cdszxon1ss3d1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MJaz-Studio",
                     "url": "https://www.reddit.com/user/MJaz-Studio"
-                }
-            ]
-        },
-        {
-            "id": "16vbk91",
-            "url": "/r/shortcuts/comments/16vbk91/automatically_convert_apple_pay_transactions_with/",
-            "external_url": "https://www.reddit.com/r/shortcuts/comments/16vbk91/automatically_convert_apple_pay_transactions_with/",
-            "title": "Automatically Convert Apple Pay Transactions with iOS 17",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/16vbk91/automatically_convert_apple_pay_transactions_with/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/16vbk91/automatically_convert_apple_pay_transactions_with/'>Reddit</a></caption><div><br></div><div><p>I'm from the US but live in Chile. My Apple Pay transactions all happen in Chilean Pesos, which tend to fluctuate quite a bit compared to the US Dollar. I set up a personal automation that automatically converts my Apple Pay transactions into my preferred currency using the new Transaction Automation in Shortcuts. Thought it would be useful to share for those who live in another country or just want to set this up before an international trip.</p>\n<p>https://preview.redd.it/6ix7ewta37rb1.jpg?width=1125&amp;format=pjpg&amp;auto=webp&amp;s=e5c2f56c93e8e1c164595029761219c259a83006</p>\n<p>Getting this configured takes a few steps, but isn\u2019t too hard. I'm sharing the base shortcut here, which makes it easier to get started.</p>\n<p>First install <a href=\"https://apps.apple.com/app/id1494942612\">Morpho Converter</a> to do the currency conversion (full disclosure: I am a developer on this app). Run the app once to make sure its currencies are populated. Then install the <a href=\"https://www.icloud.com/shortcuts/56c18846112f4c279a1462e3e821e973\">Apple Pay Conversion shortcut</a>. During setup you will be asked to configure the currency payments are made in and the currency you would like to convert to.</p>\n<p>Then you have to configure your personal automation. Open the <strong>Shortcuts</strong> app and navigate to the <strong>Automations</strong> tab. Tap the <strong>+</strong> button to add a new automation. Scroll down to and select <strong>Transaction</strong>.</p>\n<p>https://preview.redd.it/5567cu4d37rb1.jpg?width=1125&amp;format=pjpg&amp;auto=webp&amp;s=99d31dbe700bfd424d1a00fc5b95d33521a72560</p>\n<p>The next screen allows you to select which cards and categories you want this automation to apply to. I keep all selected. But at the bottom of the screen choose <strong>Run Immediately</strong> to avoid having to manually confirm that you want the conversion to run. You can keep <strong>Notify When Run</strong> turned off, as the shortcut itself will end up sending you a notification. Tap <strong>Next</strong> to continue.</p>\n<p>https://preview.redd.it/slrw6efg37rb1.jpg?width=1125&amp;format=pjpg&amp;auto=webp&amp;s=77ff7e25a8e66a3934cbf2bb0ea185be19c1ede5</p>\n<p>Transaction automations have a unique shortcut input that we\u2019ll need to configure, so rather than choosing your shortcut directly, choose <strong>New Blank Automation</strong>. Inside your new automation, tap <strong>Add Action</strong> and add a <strong>Run Shortcut</strong> action.</p>\n<p>Tap <strong>Shortcut</strong> and choose the newly installed <strong>Apple Pay Conversion</strong> shortcut. To ensure it receives the correct input, tap the button to expand the shortcut. Tap <strong>Choose Variable</strong> and choose <strong>Shortcut Input</strong>. Here\u2019s the non-obvious part: tap again where it now says <strong>Shortcut Input</strong> to configure which part of the transaction gets passed in for conversion. You\u2019ll want to select <strong>Amount</strong>.</p>\n<p>https://preview.redd.it/h8nyoq7i37rb1.jpg?width=1125&amp;format=pjpg&amp;auto=webp&amp;s=52ad32992d7816075b4f981367708c79d1ca1f24</p>\n<p>&#x200B;</p>\n<p>Your automation is now configured. Just tap <strong>Done</strong> and you\u2019re good to go. Would love to hear if anyone has ideas to improve the shortcut or automation. Hope you find it helpful.</p></div>",
-            "date_published": "2023-09-29T13:23:04+00:00",
-            "authors": [
-                {
-                    "name": "jerprovost",
-                    "url": "https://www.reddit.com/user/jerprovost"
                 }
             ]
         }
