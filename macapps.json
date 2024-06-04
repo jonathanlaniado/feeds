@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1d7zv56",
+            "url": "/r/macapps/comments/1d7zv56/streaming_apps_for_atmos_from_m1m2_to_homepods/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1d7zv56/streaming_apps_for_atmos_from_m1m2_to_homepods/",
+            "title": "Streaming apps for Atmos from m1/m2 to Homepods- ATV only?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1d7zv56/streaming_apps_for_atmos_from_m1m2_to_homepods/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1d7zv56/streaming_apps_for_atmos_from_m1m2_to_homepods/'>Reddit</a></caption><div><br></div><p>I had a question about mac apps for atmos on OG pods-</p>\n<p>I keep reading that you can \"only do atms through pods by way of airplay 2 on atv 4k-\"</p>\n<p>Is that true though? Couldn't you just use infuse or optimus for ex and airplay atmos mixed movies from a mac to a stereo pair?</p>\n<p>Thanks for your input!</p>",
+            "date_published": "2024-06-04T15:23:39+00:00",
+            "authors": [
+                {
+                    "name": "Bother_Altruistic",
+                    "url": "https://www.reddit.com/user/Bother_Altruistic"
+                }
+            ]
+        },
+        {
             "id": "1d7033b",
             "url": "/r/macapps/comments/1d7033b/airbattery_get_the_battery_usage_of_all_your/",
             "external_url": "https://i.redd.it/of4be9dvob4d1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "x74353",
                     "url": "https://www.reddit.com/user/x74353"
-                }
-            ]
-        },
-        {
-            "id": "17p73hd",
-            "url": "/r/macapps/comments/17p73hd/i_built_a_native_macos_app_to_track_your_uscis/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/17p73hd/i_built_a_native_macos_app_to_track_your_uscis/",
-            "title": "I built a native macOS app to track your USCIS cases (Green Card / H1B / Naturalization / etc.)",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17p73hd/i_built_a_native_macos_app_to_track_your_uscis/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17p73hd/i_built_a_native_macos_app_to_track_your_uscis/'>Reddit</a></caption><div><br></div><p>Hey r/macapps!</p>\n<p>I'm a long-time lurker and a deep appreciator of beautiful &amp; native &amp; functional macOS software.</p>\n<p>Over the last decade I've been going through the US immigration grinder (and I'm still in it). I noticed that are some decent iOS apps to track your cases, but nothing native for macOS.</p>\n<p>So I decided to build <a href=\"https://apps.apple.com/us/app/grant-uscis-case-tracker/id6450695507?mt=12\"><strong>Grant</strong></a>! It started as a fun side project (maybe a way to channel the immigration anxieties?), but as I kept improving it, I thought others could find it valuable as well. So I took it further with design polish and some useful features:</p>\n<ol>\n<li><strong>Tracking is instant</strong> - it pulls your case status directly instead of going through any servers, so the status is always up to date and updates are instant (I've noticed that other apps often won't reflect status updates for many hours because they funnel requests through their own services)</li>\n<li><strong>Full privacy</strong> - you don't need an account, there's no data harvesting, no ads, nothing goes to any proprietary servers. It's all under your iCloud account.</li>\n<li><strong>Case history &amp; import</strong> - the app will record your case's history from the time you add it. If you already have your history from other apps or your online USCIS account, you can import it manually.</li>\n<li><strong>One-click Emma</strong> - you can launch the Emma chat in one click to check on your case status, ask questions, and chat with agents. It also lets you save your chat transcripts for future reference.</li>\n<li><strong>Case notes</strong> - space to jot down important details about the case like tracking / reference numbers, addresses, to-do's, etc.</li>\n<li><strong>Case documents</strong> - you can keep &amp; view all the important case documents in one place like your USCIS receipt notices, emails copies, application files, etc. The documents are stored locally and backed up to your iCloud privately.</li>\n<li>Dark / light modes, simple design, native SwiftUI, and more nice touches.</li>\n<li><em>(Coming soon)</em> Grant for iOS that syncs with your macOS app.</li>\n</ol>\n<p>If you're an immigrant /family with a currently pending green card / h1b / etc. or planning to file soon, <a href=\"https://apps.apple.com/us/app/grant-uscis-case-tracker/id6450695507?mt=12\">Grant</a> can help you in your journey. The app is free for basic use - you can track up to 4 cases &amp; track case history. The other features are paid - for now I'm just hoping to cover my costs as it's a pretty niche app. My design &amp; privacy sensitivities prevented me from going the Ads route, even though that's what most apps use in the space. I'm happy to extend a free promo code for a free month to anyone who wants to try the extra features, just let me know in the comments (if you like the app &amp; don't like subscriptions, there's a lifetime purchase option!).</p>\n<p>Bonus: if you want to make Grant even more personal, you can <a href=\"https://getgrant.app/#custom-icons\">set your own customized icon</a> - choose from 9 extra icons I designed.</p>\n<p>---</p>\n<p><strong>TL;DR</strong>: I designed and built <a href=\"https://apps.apple.com/us/app/grant-uscis-case-tracker/id6450695507?mt=12\">Grant</a> - a free app (with some paid features) to track &amp; manage your USCIS cases on macOS.</p>",
-            "date_published": "2023-11-06T16:50:11+00:00",
-            "authors": [
-                {
-                    "name": "infinitely_zero",
-                    "url": "https://www.reddit.com/user/infinitely_zero"
                 }
             ]
         }
