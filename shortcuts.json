@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1d9u241",
+            "url": "/r/shortcuts/comments/1d9u241/heres_what_my_action_button_does/",
+            "external_url": "https://i.redd.it/h8kpgqpiu05d1.jpeg",
+            "title": "here\u2019s what my action button does",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1d9u241/heres_what_my_action_button_does/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1d9u241/heres_what_my_action_button_does/'>Reddit</a></caption><div><br></div><p>hi guys! kinda late but i want to share what i did with my action button. basically i wanted a button that changes based on the situation where I am. So here\u2019s a map of how my action button works based on focus mode (also other parameters like if it\u2019s locked or in which orientation the phone is) It\u2019s easier than you think. \nIf you want to say something that can improve it and help me say it!!\nlet me know what you think guys and If you have any question about it (screen/video), I would love to answer!</p>\n<p>\ufffc</p><div><br></div><img src=\"https://i.redd.it/h8kpgqpiu05d1.jpeg\" />",
+            "date_published": "2024-06-06T21:44:26+00:00",
+            "authors": [
+                {
+                    "name": "Beautiful_Disk_9646",
+                    "url": "https://www.reddit.com/user/Beautiful_Disk_9646"
+                }
+            ]
+        },
+        {
             "id": "1d7mqyd",
             "url": "/r/shortcuts/comments/1d7mqyd/optimized_multistop_navigation/",
             "external_url": "https://i.redd.it/0tx23ywgxg4d1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Avieshek",
                     "url": "https://www.reddit.com/user/Avieshek"
-                }
-            ]
-        },
-        {
-            "id": "16va96w",
-            "url": "/r/shortcuts/comments/16va96w/basic_automation_everyone_need_to_have/",
-            "external_url": "https://www.reddit.com/r/shortcuts/comments/16va96w/basic_automation_everyone_need_to_have/",
-            "title": "Basic Automation everyone need to have",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/16va96w/basic_automation_everyone_need_to_have/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/16va96w/basic_automation_everyone_need_to_have/'>Reddit</a></caption><div><br></div><div><p>Please share some cool automation that will be useful for anyone. I use the following</p>\n<ol>\n<li>Toggle Orientation Lock when apps like YouTube are turned on</li>\n<li>A timer that rings when the phone is fully charged</li>\n<li>A timer for 15 minutes that starts when I open Instagram</li>\n<li>A set of things done automatically when any alarm before 7 am in the morning is turned off</li>\n<li>Some things are done when the charger is disconnected</li>\n</ol></div>",
-            "date_published": "2023-09-29T12:25:43+00:00",
-            "authors": [
-                {
-                    "name": "MJaz-Studio",
-                    "url": "https://www.reddit.com/user/MJaz-Studio"
                 }
             ]
         }
