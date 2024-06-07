@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1d9xlw6",
+            "url": "/r/PleX/comments/1d9xlw6/well_boys_it_finally_happened_to_me_had_to_do_a/",
+            "external_url": "https://i.redd.it/qo5j723vm15d1.png",
+            "title": "Well boys, it finally happened to me... Had to do a fresh reinstall and forgot to disable the Week In Review emails to my users. Got busted watching the titty anime show. RIP Me 1991-2024.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1d9xlw6/well_boys_it_finally_happened_to_me_had_to_do_a/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1d9xlw6/well_boys_it_finally_happened_to_me_had_to_do_a/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/qo5j723vm15d1.png\" />",
+            "date_published": "2024-06-07T00:25:50+00:00",
+            "authors": [
+                {
+                    "name": "NoDadYouShutUp",
+                    "url": "https://www.reddit.com/user/NoDadYouShutUp"
+                }
+            ]
+        },
+        {
             "id": "1d51uny",
             "url": "/r/PleX/comments/1d51uny/1_month_and_20tb_in_d/",
             "external_url": "https://www.reddit.com/gallery/1d51uny",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "breid7718",
                     "url": "https://www.reddit.com/user/breid7718"
-                }
-            ]
-        },
-        {
-            "id": "16sqi5c",
-            "url": "/r/PleX/comments/16sqi5c/raspberry_pi_as_a_playback_device/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/16sqi5c/raspberry_pi_as_a_playback_device/",
-            "title": "Raspberry Pi as a playback device",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16sqi5c/raspberry_pi_as_a_playback_device/'>Reddit</a></caption><div><br></div><div><p>Hi, I have been having issues with my TV playing back my files. With my laptop plugged into the TV, they play back just fine, so I have narrowed it down to my TV. I wanted to know how well a Raspberry Pi works as a playback device and if anyone here uses one. If so, what do you prefer to use to playback media from Plex? </p></div>",
-            "date_published": "2023-09-26T15:06:17+00:00",
-            "authors": [
-                {
-                    "name": "SunBro0341",
-                    "url": "https://www.reddit.com/user/SunBro0341"
                 }
             ]
         }
