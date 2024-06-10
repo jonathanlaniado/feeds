@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1dcigvr",
+            "url": "/r/selfhosted/comments/1dcigvr/dont_become_a_cloudflare_victim/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1dcigvr/dont_become_a_cloudflare_victim/",
+            "title": "Don't become a Cloudflare victim",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1dcigvr/dont_become_a_cloudflare_victim/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1dcigvr/dont_become_a_cloudflare_victim/'>Reddit</a></caption><div><br></div><p>There is a <a href=\"https://bravado.co/war-room/posts/cloudflare-ceo-publicly-calls-out-sales-team-in-worst-earnings-call-to-date\">letter floating around the Internet</a> where the Cloudflare CEO complains that their sales-team is not doing their job, and that they \u201care now in the process of quickly rotating out those members of our team who have been underperforming.\u201d Those still with a job at Cloudflare are put under high pressure, and they pass-on the pressure to customers.</p>\n<p><a href=\"https://www.reddit.com/r/CloudFlare/comments/1d14zrf/cloudflare_took_down_our_website_after_trying_to/\">There are posts on Reddit</a> where customers are asked to fork over 120k$ within 24h, or be shut down. There are many complaints of pressure tactics trying to move customers up to the next Cloudflare tier.</p>\n<p>While this mostly affects corporate customers, us homelabbers and selfhosters should keep a wary eye on these developments. We mostly use the free, or maybe the cheapo business tier.\u00a0 Cloudflare wants to make money, and they are not making enough. Once you get hooked and dependent on their free stuff, prepare to eventually be asked for money, or be kicked out.</p>\n<p>Therefore:</p>\n<ul>\n<li><strong>Do not get dependent on Cloudflare.</strong> Always ask yourself what to do if they shut you down.</li>\n<li><strong>Always keep your domain registration separate from Cloudflare</strong>. \u00a0Register the domain elsewhere, delegate DNS to Cloudflare. If things get nasty, simply delegate your DNS away, and point it straight to your website.</li>\n<li>Without Cloudflare caching, your website would be a bit slower, but you are still up and running, and you can look for another CDN vendor.</li>\n<li>For those of us using the nifty cloudflared tunnel to run stuff at home without exposing our private parts to the Internet, being shut out from Cloudflare won\u2019t be the end. <a href=\"https://slashdot.org/software/p/Cloudflare-Tunnel/alternatives\"><strong>There are alternatives</strong></a> <strong>(maybe.)</strong>  Push comes to shove, we could go ghetto until a better solution is found, and stick one of those cheapo mini-PCs into the  DMZ before the router/firewall, and treat&amp;administer it like a VPS rented elsewhere.</li>\n</ul>\n<p>Should Cloudflare ever kick you out of their free paradise, you shouldn\u2019t be down for more than a few minutes. If you are down for hours, or days, you are not doing it right.\u00a0 Don\u2019t get me wrong, I love Cloudflare, and I use it a lot. But we should be prepared for the love-affair turning sour.</p>",
+            "date_published": "2024-06-10T10:40:59+00:00",
+            "authors": [
+                {
+                    "name": "Knurpel",
+                    "url": "https://www.reddit.com/user/Knurpel"
+                }
+            ]
+        },
+        {
             "id": "1dabulx",
             "url": "/r/selfhosted/comments/1dabulx/i_built_an_opensource_event_ticketing_platform/",
             "external_url": "https://i.redd.it/352m7zt9r55d1.gif",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "absolutesantaja",
                     "url": "https://www.reddit.com/user/absolutesantaja"
-                }
-            ]
-        },
-        {
-            "id": "17tkq79",
-            "url": "/r/selfhosted/comments/17tkq79/dockge_a_fancy_easytouse_selfhosted_docker/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/17tkq79/dockge_a_fancy_easytouse_selfhosted_docker/",
-            "title": "Dockge - a fancy, easy-to-use self-hosted docker compose.yaml stack-oriented manager",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/17tkq79/dockge_a_fancy_easytouse_selfhosted_docker/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/17tkq79/dockge_a_fancy_easytouse_selfhosted_docker/'>Reddit</a></caption><div><br></div><p>&#x200B;</p>\n<p>https://preview.redd.it/ra343yd71xzb1.png?width=1903&amp;format=png&amp;auto=webp&amp;s=c28993a7b5a6ebe2d09b0d08896190e8e3349e0f</p>\n<p>GitHub: <a href=\"https://github.com/louislam/dockge\">https://github.com/louislam/dockge</a></p>\n<p>This is my second self-hosted project. If you still remember me, I am the one who created Uptime Kuma, and I had posted here 2 years ago.</p>\n<p>After joining this subreddit, I somehow fell into love with this community and also started enjoying using docker-compose to manage my containers.</p>\n<p>However, I always interacted with docker-compose using the CLI only, as I couldn't find a web app that focuses on docker-compose management. Although Portainer has the ability to do that, it do not display any progress during \"docker-compose up or pull\" unfortunately, which makes me prefer to use the CLI.</p>\n<p>So this time I tried to create my own stack-oriented manager to manage my compose.yaml files.</p>\n<p>- Manage docker compose.yaml files<br />\n- Interactive compose.yaml editor<br />\n- Interactive web terminal<br />\n- The UI/UX is very similar to Uptime Kuma</p>\n<p>A short introduction video:  <a href=\"https://youtu.be/AWAlOQeNpgU?t=48\">https://youtu.be/AWAlOQeNpgU?t=48</a></p>\n<p>It is really fully focused on docker compose, so please don't expect to manage a single container.</p>\n<p>Don't forget to \u2b50 the project on GitHub if you love it!</p>\n<p>A little update for Uptime Kuma:<br />\nUptime Kuma reached over 40,000 \u2b50 on GitHub and over 48,000,000 pulls on Docker Hub!!! It is a big gift for me, thank you everyone! Uptime Kuma V2 is still under development, stay tuned!</p>\n<p>&#x200B;</p>",
-            "date_published": "2023-11-12T13:56:25+00:00",
-            "authors": [
-                {
-                    "name": "louislamlam",
-                    "url": "https://www.reddit.com/user/louislamlam"
                 }
             ]
         }
