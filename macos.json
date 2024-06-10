@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "1dcry2x",
+            "url": "/r/MacOS/comments/1dcry2x/he_really_know/",
+            "external_url": "https://www.reddit.com/gallery/1dcry2x",
+            "title": "He really know ",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOS/comments/1dcry2x/he_really_know/'>Winston</a> | <a href='https://reddit.com/r/MacOS/comments/1dcry2x/he_really_know/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-06-10T17:58:54+00:00",
+            "authors": [
+                {
+                    "name": "matiaaquimo",
+                    "url": "https://www.reddit.com/user/matiaaquimo"
+                }
+            ]
+        },
+        {
             "id": "1dcs440",
             "url": "/r/MacOS/comments/1dcs440/new_macos_features/",
             "external_url": "https://i.redd.it/8xozfd63bs5d1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Mimikyu_Lov3r",
                     "url": "https://www.reddit.com/user/Mimikyu_Lov3r"
-                }
-            ]
-        },
-        {
-            "id": "17jeefa",
-            "url": "/r/MacOS/comments/17jeefa/what_simple_functions_should_be_built_into_the/",
-            "external_url": "https://www.reddit.com/r/MacOS/comments/17jeefa/what_simple_functions_should_be_built_into_the/",
-            "title": "What simple functions should be built into the MacOS that aren't already?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/MacOS/comments/17jeefa/what_simple_functions_should_be_built_into_the/'>Apollo</a> | <a href='https://reddit.com/r/MacOS/comments/17jeefa/what_simple_functions_should_be_built_into_the/'>Reddit</a></caption><div><br></div><p>I think if you drag an Application to the trash, you should get a dialogue asking if you want to delete all system files etc related to that application. I know there are third party solutions for this, but I feel it <em>should</em> be baked in.</p>\n<p>What other things would make life 1% easier?</p>",
-            "date_published": "2023-10-29T22:25:28+00:00",
-            "authors": [
-                {
-                    "name": "CrocodileJock",
-                    "url": "https://www.reddit.com/user/CrocodileJock"
                 }
             ]
         }
