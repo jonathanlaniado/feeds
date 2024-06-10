@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1dcrwry",
+            "url": "/r/macapps/comments/1dcrwry/rip_rectangle_rip_magnet/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1dcrwry/rip_rectangle_rip_magnet/",
+            "title": "RIP rectangle RIP magnet",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1dcrwry/rip_rectangle_rip_magnet/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1dcrwry/rip_rectangle_rip_magnet/'>Reddit</a></caption><div><br></div><p>its been fun</p>",
+            "date_published": "2024-06-10T17:57:23+00:00",
+            "authors": [
+                {
+                    "name": "kysasqu",
+                    "url": "https://www.reddit.com/user/kysasqu"
+                }
+            ]
+        },
+        {
             "id": "1dashi8",
             "url": "/r/macapps/comments/1dashi8/affinity_v2_suite_50_off/",
             "external_url": "https://i.redd.it/mmflbjhbe95d1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "GhastlyAggression",
                     "url": "https://www.reddit.com/user/GhastlyAggression"
-                }
-            ]
-        },
-        {
-            "id": "17ukqqt",
-            "url": "/r/macapps/comments/17ukqqt/pearcleaner_app_uninstaller_and_file_cleaner/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/17ukqqt/pearcleaner_app_uninstaller_and_file_cleaner/",
-            "title": "Pearcleaner - App uninstaller and file cleaner",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17ukqqt/pearcleaner_app_uninstaller_and_file_cleaner/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17ukqqt/pearcleaner_app_uninstaller_and_file_cleaner/'>Reddit</a></caption><div><br></div><p>Hey everyone,</p>\n<p>Wanted to see if there's any interest in the following app I just finished up. I'm fairly new to Swift so I'm still learning, if you find any issues or have feature requests, feel free to submit in the repo.</p>\n<p>It's a fully open-source app cleaner, inspired by Freemacsoft's AppCleaner and Sun Knudsen's privacy guide's post on their open source app-cleaner script. It searches the drive for leftover files as good as it can based on a combination of app name and bundle id. It also has a file monitor that you can optionally enable which will pop up the app if you trash an application, suggesting remaining files to also delete.</p>\n<p>Note: Since I don't have a paid developer account, I don't notarize the app so you might have to right click + open the first time if it shows untrusted. Feel free to look over the code before downloading if you're not comfortable with that.</p>\n<p>Main Repo: <a href=\"https://github.com/alienator88/Pearcleaner\">https://github.com/alienator88/Pearcleaner</a></p>\n<p>Download: <a href=\"https://github.com/alienator88/Pearcleaner/releases\">https://github.com/alienator88/Pearcleaner/releases</a></p>",
-            "date_published": "2023-11-13T21:00:06+00:00",
-            "authors": [
-                {
-                    "name": "-alienator-",
-                    "url": "https://www.reddit.com/user/-alienator-"
                 }
             ]
         }
