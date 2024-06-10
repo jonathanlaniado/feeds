@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_6y39uf/styles/communityIcon_33jhf9tu7ck91.png",
     "items": [
         {
+            "id": "1dbsfgu",
+            "url": "/r/raycastapp/comments/1dbsfgu/best_global_hotkeys/",
+            "external_url": "https://www.reddit.com/r/raycastapp/comments/1dbsfgu/best_global_hotkeys/",
+            "title": "Best Global Hotkeys? ",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/raycastapp/comments/1dbsfgu/best_global_hotkeys/'>Winston</a> | <a href='https://reddit.com/r/raycastapp/comments/1dbsfgu/best_global_hotkeys/'>Reddit</a></caption><div><br></div><p>What are the best hotkey modifiers on raycast to use that are likely to have no conflicts with other programs?   </p>\n<p>It's been suprisingly hard to find a clear answer to this question on the web, so wanted to ask the community. </p>\n<ul>\n<li>Alt + a-z, is the one that is recommended by Raycast and haven't run into really any issues with that so far. [Using this as my main way to search within an app, YouTube, Notion, Finder, Music, etc]</li>\n<li>Hyper Key + a-z seems to be pretty safe to use as well. [Using this as my main app launcher hotkeys]</li>\n</ul>\n<p>Are there any others that most programs don't use? I would like 3rd hotkey set for quick funtions - this just helps me to remember what hotkeys are set to what. </p>\n<ul>\n<li>Is [Command + Control + alt] + a-z used often anywhere?  </li>\n<li>Also seen people recommend [Command + Control] + a-z, but the letters Q, F and N seem to be used already by defualt. </li>\n</ul>",
+            "date_published": "2024-06-09T12:17:58+00:00",
+            "authors": [
+                {
+                    "name": "Shousetsu",
+                    "url": "https://www.reddit.com/user/Shousetsu"
+                }
+            ]
+        },
+        {
             "id": "1d3y8ee",
             "url": "/r/raycastapp/comments/1d3y8ee/how_about_pinned_a_post_to_share_the_trial_code/",
             "external_url": "https://www.reddit.com/r/raycastapp/comments/1d3y8ee/how_about_pinned_a_post_to_share_the_trial_code/",
