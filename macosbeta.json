@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1dd8f1y",
+            "url": "/r/MacOSBeta/comments/1dd8f1y/nonnotarised_apps_much_harder_to_open_in_macos/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1dd8f1y/nonnotarised_apps_much_harder_to_open_in_macos/",
+            "title": "Non-Notarised Apps much harder to open in macOS 15.0 DB1",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOSBeta/comments/1dd8f1y/nonnotarised_apps_much_harder_to_open_in_macos/'>Winston</a> | <a href='https://reddit.com/r/MacOSBeta/comments/1dd8f1y/nonnotarised_apps_much_harder_to_open_in_macos/'>Reddit</a></caption><div><br></div><p>As the title suggests it is now much harder to open Non-Notarised apps on macOS Sequoia, the right click open service no longer works, you have to use the command xattr -cr *app path* in the terminal from now on.</p>\n<p>https://reddit.com/link/1dd8f1y/video/ga1kvdnfbw5d1/player</p>\n<p>This is a huge blow to those who can't afford the Apple Developer Account fees or just doesn't want to pay them.</p>",
+            "date_published": "2024-06-11T07:35:18+00:00",
+            "authors": [
+                {
+                    "name": "Bentheminernz",
+                    "url": "https://www.reddit.com/user/Bentheminernz"
+                }
+            ]
+        },
+        {
             "id": "1dd7wj1",
             "url": "/r/MacOSBeta/comments/1dd7wj1/apple_id_is_now_apple_account_in_sequoia/",
             "external_url": "https://i.redd.it/kcpwkx0y4w5d1.png",
