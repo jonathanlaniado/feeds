@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1ddf1ag",
+            "url": "/r/macapps/comments/1ddf1ag/devtoys_20_is_now_available/",
+            "external_url": "https://www.reddit.com/gallery/1ddf1ag",
+            "title": "DevToys 2.0 is now available",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1ddf1ag/devtoys_20_is_now_available/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1ddf1ag/devtoys_20_is_now_available/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-06-11T14:08:57+00:00",
+            "authors": [
+                {
+                    "name": "traditionalbaguette",
+                    "url": "https://www.reddit.com/user/traditionalbaguette"
+                }
+            ]
+        },
+        {
             "id": "1dcsvy2",
             "url": "/r/macapps/comments/1dcsvy2/wwdc_24_apple_just_killed_most_of_ai/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1dcsvy2/wwdc_24_apple_just_killed_most_of_ai/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Lekowski",
                     "url": "https://www.reddit.com/user/Lekowski"
-                }
-            ]
-        },
-        {
-            "id": "17xk9c6",
-            "url": "/r/macapps/comments/17xk9c6/introducing_macpacker_simplifying_archive/",
-            "external_url": "https://macpacker.app/",
-            "title": "Introducing MacPacker: Simplifying Archive Navigation on macOS, One Peek at a Time!",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/17xk9c6/introducing_macpacker_simplifying_archive/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/17xk9c6/introducing_macpacker_simplifying_archive/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-11-17T17:30:02+00:00",
-            "authors": [
-                {
-                    "name": "sarensw",
-                    "url": "https://www.reddit.com/user/sarensw"
                 }
             ]
         }
