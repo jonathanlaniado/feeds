@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1de5j2d",
+            "url": "/r/PleX/comments/1de5j2d/plex_cracks_down_on_media_server_hacks/",
+            "external_url": "https://torrentfreak.com/plex-cracks-down-on-media-server-hacks-240612/",
+            "title": "Plex Cracks Down on Media Server \u2018Hacks\u2019",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1de5j2d/plex_cracks_down_on_media_server_hacks/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1de5j2d/plex_cracks_down_on_media_server_hacks/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-06-12T12:33:04+00:00",
+            "authors": [
+                {
+                    "name": "Draakonys",
+                    "url": "https://www.reddit.com/user/Draakonys"
+                }
+            ]
+        },
+        {
             "id": "1daagu0",
             "url": "/r/PleX/comments/1daagu0/i_know_its_not_much_but_after_curating_my_plex/",
             "external_url": "https://i.redd.it/7canotxxg55d1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "five0first",
                     "url": "https://www.reddit.com/user/five0first"
-                }
-            ]
-        },
-        {
-            "id": "16sr0xe",
-            "url": "/r/PleX/comments/16sr0xe/the_ever_lasting_issue_with_episode_names/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/16sr0xe/the_ever_lasting_issue_with_episode_names/",
-            "title": "The ever lasting issue with episode names...",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16sr0xe/the_ever_lasting_issue_with_episode_names/'>Reddit</a></caption><div><br></div><div><p>I fully admit I don't know what else to do after googling a million different things.</p>\n<p>My issue: I have episodes of Top Gear that are specials, they are on TVDB as specials with the numbering system \"S00E23 - Polar Challenge\" and I have tried just about everything in my power to get the Plex Agent to recognize the goddamn correct episode.</p>\n<p>The name of the file is \"Top Gear - S00E23 - Polar Challenge {tvdb-331957}\", I have tried every agent (that then checks MY ENTIRE LIBRARY again) I can pick. I tried deleting the file, scrapping everything in its meta data, then uploading it with a new name that's similar but not quite the same. I am aware that the tvdb tag is probably supposed to be only for recognizing TV shows, not singular episodes, but I was getting desperate.</p>\n<p><a href=\"https://thetvdb.com/series/top-gear/episodes/331957\">https://thetvdb.com/series/top-gear/episodes/331957</a></p>\n<p>It'll always default to \"Series 12 Best Of (2)\", which is S00E31. I'm also for some reason missing the old \"Fix Match\" button on both web client and Plex App...</p>\n<p>I have the same issues with Stargate, where the very first episode breaks every consequent episode since it's a 2-part episode, the naming scheme used in the following link does nothing (as you can see with Top Gear..)</p>\n<p><a href=\"https://support.plex.tv/articles/naming-and-organizing-your-tv-show-files/\">https://support.plex.tv/articles/naming-and-organizing-your-tv-show-files/</a></p>\n<p>Call me dumb or something, I just want to know what the hell I'm doing wrong...  </p></div>",
-            "date_published": "2023-09-26T15:26:20+00:00",
-            "authors": [
-                {
-                    "name": "Emriyss",
-                    "url": "https://www.reddit.com/user/Emriyss"
                 }
             ]
         }
