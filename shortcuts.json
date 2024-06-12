@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1de8mzg",
+            "url": "/r/shortcuts/comments/1de8mzg/optimized_multistop_navigation_v14_now_supports/",
+            "external_url": "https://www.reddit.com/r/shortcuts/comments/1d94di2/optimized_multistop_navigation_v11_add_locations/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button",
+            "title": "Optimized multi-stop navigation v1.4, now supports Google Maps and Apple Maps",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1de8mzg/optimized_multistop_navigation_v14_now_supports/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1de8mzg/optimized_multistop_navigation_v14_now_supports/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-06-12T14:55:08+00:00",
+            "authors": [
+                {
+                    "name": "twilsonco",
+                    "url": "https://www.reddit.com/user/twilsonco"
+                }
+            ]
+        },
+        {
             "id": "1ddflxn",
             "url": "/r/shortcuts/comments/1ddflxn/ios_ipados_18_beta_notes/",
             "external_url": "https://www.reddit.com/gallery/1ddflxn",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Hero2296",
                     "url": "https://www.reddit.com/user/Hero2296"
-                }
-            ]
-        },
-        {
-            "id": "1707ufr",
-            "url": "/r/shortcuts/comments/1707ufr/remote_start_your_pc_no_smart_outlet_needed/",
-            "external_url": "https://www.reddit.com/r/shortcuts/comments/1707ufr/remote_start_your_pc_no_smart_outlet_needed/",
-            "title": "Remote Start your PC! No smart outlet needed! (Windows)",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/1707ufr/remote_start_your_pc_no_smart_outlet_needed/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/1707ufr/remote_start_your_pc_no_smart_outlet_needed/'>Reddit</a></caption><div><br></div><p>Essentially, just like the title states, this is how you can remote start your PC WITHOUT a smart outlet using shortcuts/Siri- and no, this is NOT from a sleep state! You can do this when your PC is completely off! Note- this guide is only for LOCAL remote starts. It's possible to do it remotely, but I won't be going over that in this post- it just takes some extra elbow grease!</p>\n<p>Things you'll need-</p>\n<p>-An apple device that can run shortcuts<br />\n-Ethernet connection from router to PC<br />\n-Wolow App  (I use the paid version, not sure if the free one let's you do the same thing)<br />\n-Wolow Companion App for PC (Not required, but nice if you want to remote shut-down/restart your PC as well)<br />\n<a href=\"https://wolow.site/\">Wolow - Wake on LAN</a> (They have their own guide as well!)  </p>\n<ol>\n<li>\n<p>Make sure WOL is enabled for your PC (I had to go into bios and enable \" Power On By PCI-E\"). You may have to open your ethernet adapter properties-&gt;networking-&gt;configure-&gt;advanced-&gt;Enable Wake on Magic Packet  </p>\n</li>\n<li>\n<p>BE SURE YOUR PC HAS A STATIC IP ADDRESS, OTHERWISE YOU'LL HAVE TO CONSTANTLY UPDATE IT MANUALLY. I bumped into issues when I assigned it in my network settings <strong>on my PC</strong>, so instead I opened my <strong>router settings</strong> and reserved the IP under the \"devices\" section for my PC.(This will vary from one router to another, you'll just have to google how to do this for your own)<br />\n<strong>Note:</strong> I'm not sure if WOLOW companion automatically updates the IP address of your device. If it does, then I guess you can just skip step 2, unless you want to setup a remote start outside of your local network.  </p>\n</li>\n<li>\n<p>If I remember correctly, if you use the paid version with Wolow Companion, you can just press \"Scan Network\" in the Wolow App, and it should automatically fill in the information for whichever PC it finds on your network. If this is the case for you, then skip to step 6- If not, go to step 4!  </p>\n</li>\n<li>\n<p>Note the following information (Can be found by doing \"ipconfig /all\" in the command prompt )--MAC &amp; IP Address of the computer you want to remote start-Ping Address (IPv4 address)-Wake on LAN (WoL) port, which is usually 9,7, or 0 (9 is most common)  </p>\n</li>\n<li>\n<p>Open up the Wolow app, add new device, type in the information from step 3 (You can name it whatever you want)  </p>\n</li>\n<li>\n<p>If you did everything correctly, once you have your device selected, it should show the awake status as \"Awake\" and give you a response time on the right. It will now start when you press the power button in the middle!  </p>\n</li>\n<li>\n<p>Go into your shortcuts app, create a new shortcut, select \"Wake up device\", choose your PC on the selection screen, rename the shortcut to whatever you want!(You don't HAVE to rename the shortcut- I only did so I can just say \"Siri, <strong>Start my PC</strong>\"- do whatever you want though!)<br />\n<strong>Note:</strong> You can also create a shutdown shortcut, though you need the Wolow Companion app in order for it to work.</p>\n</li>\n</ol>\n<p>Hopefully this guide helps some of you! If you guys have any questions just let me know, I'll try my best to answer them!</p>\n<p>Edit: Formatting</p>",
-            "date_published": "2023-10-05T03:44:49+00:00",
-            "authors": [
-                {
-                    "name": "CarterTodd2",
-                    "url": "https://www.reddit.com/user/CarterTodd2"
                 }
             ]
         }
