@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1de0onl",
+            "url": "/r/selfhosted/comments/1de0onl/my_home_assistant_dashboard/",
+            "external_url": "https://i.redd.it/kbifug86d36d1.png",
+            "title": "My Home Assistant Dashboard",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1de0onl/my_home_assistant_dashboard/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1de0onl/my_home_assistant_dashboard/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/kbifug86d36d1.png\" />",
+            "date_published": "2024-06-12T07:17:12+00:00",
+            "authors": [
+                {
+                    "name": "Similar_Option_7408",
+                    "url": "https://www.reddit.com/user/Similar_Option_7408"
+                }
+            ]
+        },
+        {
             "id": "1dcigvr",
             "url": "/r/selfhosted/comments/1dcigvr/dont_become_a_cloudflare_victim/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1dcigvr/dont_become_a_cloudflare_victim/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "softwarebuyer2015",
                     "url": "https://www.reddit.com/user/softwarebuyer2015"
-                }
-            ]
-        },
-        {
-            "id": "17v48t8",
-            "url": "/r/selfhosted/comments/17v48t8/budibase_will_soon_limit_users_on_oss_self_hosted/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/17v48t8/budibase_will_soon_limit_users_on_oss_self_hosted/",
-            "title": "Budibase Will Soon Limit Users on OSS Self Hosted Version",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/17v48t8/budibase_will_soon_limit_users_on_oss_self_hosted/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/17v48t8/budibase_will_soon_limit_users_on_oss_self_hosted/'>Reddit</a></caption><div><br></div><p>Just received the email over the weekend but if your self hosting Budibase you will soon be limited to 20 users even on the open source version. This is very unfortunate for me because I was running a bunch of volunteer community projects on there and really liked how they didn't hide SSO behind a paywall. Not everyone using apps like these are companies trying to save money and having to pay $5 per user isn't feasible for volunteer projects that don't have any money to begin with.  </p>\n<p>See <a href=\"https://budibase.com/blog/updates/pricing-v3/\">https://budibase.com/blog/updates/pricing-v3/</a></p>",
-            "date_published": "2023-11-14T15:09:24+00:00",
-            "authors": [
-                {
-                    "name": "absolutesantaja",
-                    "url": "https://www.reddit.com/user/absolutesantaja"
                 }
             ]
         }
