@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1dfvw9k",
+            "url": "/r/shortcuts/comments/1dfvw9k/introducing_natural_calendar_schedule_your_day/",
+            "external_url": "https://www.reddit.com/r/shortcuts/comments/1dfvw9k/introducing_natural_calendar_schedule_your_day/",
+            "title": "Introducing Natural Calendar: Schedule your day with Natural Language",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1dfvw9k/introducing_natural_calendar_schedule_your_day/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1dfvw9k/introducing_natural_calendar_schedule_your_day/'>Reddit</a></caption><div><br></div><p>Hey everyone!</p>\n<p><a href=\"https://preview.redd.it/cec2q6a5kk6d1.png?width=1928&amp;format=png&amp;auto=webp&amp;s=34059633856008af40ecbac7bb834353c383d26d\">Introducing Natural Calendar</a></p>\n<p>I\u2019m excited to introduce Natural Calendar, a new Siri Shortcut that simplifies how you schedule your calendar.</p>\n<p>Adding multiple events to Apple Calendar is rather cumbersome... Natural Calendar takes your voice input in natural language, transcribes it, and uses the ChatGPT app to create calendar events instantly. Just describe your day, and watch your calendar populate in seconds!</p>\n<ul>\n<li>Supports relative time references like \u201ctonight,\u201d \u201cin 2 days,\u201d or \u201cin an hour\u201d.</li>\n<li>Powered by GPT-3.5 (by default) for fast and reliable output</li>\n<li>Requires the ChatGPT app on your Mac, iPad, iPhone, or Apple Vision</li>\n</ul>\n<p>You can say things like: \u201cSchedule my jog at 7 AM tomorrow, a team meeting at 3 PM on Thursday, and dinner with Sarah at 8 PM next Friday. Also, book a doctor\u2019s appointment for next Monday at 10 AM.\", and it will add it your calendar.</p>\n<p>Natural Calendar is now available for free in the iTech Everything Siri Shortcut Collection. I can\u2019t wait for you to try it out and save time in your planning workflow!</p>\n<p>A demo of Natural Calendar in action is included in the announcement post on my website \ud83d\udc47\ud83c\udffb</p>\n<p>Read more from the announcement<a href=\"https://www.icloud.com/shortcuts/4a6b12e7424e4c4da274d027736e2073\">:</a> <a href=\"https://www.itecheverything.com/post/introducing-natural-calendar-use-natural-language-to-schedule-your-day\">https://www.itecheverything.com/post/introducing-natural-calendar-use-natural-language-to-schedule-your-day</a></p>\n<p>Install it by clicking <a href=\"http://itecheverything.com/natural-calendar\">here</a>.</p>",
+            "date_published": "2024-06-14T17:09:31+00:00",
+            "authors": [
+                {
+                    "name": "ITechEverything_YT",
+                    "url": "https://www.reddit.com/user/ITechEverything_YT"
+                }
+            ]
+        },
+        {
             "id": "1de8mzg",
             "url": "/r/shortcuts/comments/1de8mzg/optimized_multistop_navigation_v14_now_supports/",
             "external_url": "https://www.reddit.com/r/shortcuts/comments/1d94di2/optimized_multistop_navigation_v11_add_locations/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "vrachamis",
                     "url": "https://www.reddit.com/user/vrachamis"
-                }
-            ]
-        },
-        {
-            "id": "170tfhl",
-            "url": "/r/shortcuts/comments/170tfhl/screenshots_compressor_a_shortcut_that_saves_a/",
-            "external_url": "https://www.reddit.com/r/shortcuts/comments/170tfhl/screenshots_compressor_a_shortcut_that_saves_a/",
-            "title": "Screenshots Compressor. A Shortcut that saves a lot of storage space.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/170tfhl/screenshots_compressor_a_shortcut_that_saves_a/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/170tfhl/screenshots_compressor_a_shortcut_that_saves_a/'>Reddit</a></caption><div><br></div><p>If you are a person who takes a lot of screenshots and never delete them (like hundred or thousands), they can take up a lot of space like a lot more than you think and it can even be one of the reasons why you\u2019re low on phone storage.</p>\n<p>The problem is that Apple decided the screenshot to be created in .png format and that was great at the time because the quality of screenshots would be perfect with it, but then for some reason they decided to just stick with that format even after they introduce the .heif/.heic format.</p>\n<p>&#x200B;</p>\n<p><strong><em>What does this shortcut do?</em></strong></p>\n<p>It converts the screenshot from png format to heic format and in almost every case it reduces the file size by 10-30 times. Yes you read that right.And once it verifies that all the screenshots have been converted then the shortcut will delete the original screenshot for you (although you can find the deleted screenshots in the \u201crecently deleted\u201d in photos app, if for any reason you want to recover the original screenshots)And after that's done it also shows a notification with how much space the original screenshot took and how much space the new converted screenshots take.</p>\n<p>&#x200B;</p>\n<p><strong><em>Prerequisite:</em></strong></p>\n<p><strong>THIS IS VERY IMPORTANT</strong>. Create an album in photos app with the name \u201cCompressed Screenshots\u201d<br />\nDownload the shortcut here : <a href=\"https://www.icloud.com/shortcuts/7fe87865257a4bb683d8c1d6101fd8bf\">ScreenshotCompressor</a><br />\nDownload another required shortcut : <a href=\"https://www.icloud.com/shortcuts/3e1b04fd262b41b59fd3d6d4b0732a75\">SizeCalculator</a></p>\n<p>&#x200B;</p>\n<p><strong><em>How to use the Screenshot?</em></strong></p>\n<p>Two Ways</p>\n<ol>\n<li>Create an Automation for it to start on its own daily or weekly at your preferred time. Maybe night time after you've fallen asleep so this happens while you arent using your phone.  (Recommended)<strong>OR</strong></li>\n<li>Just use it manually whenever you want to compress the screenshots.</li>\n</ol>\n<p>&#x200B;</p>\n<p>PS - If you have a large number of Screenshots, it will take a significant of time for them to be converted and saved so be patient during your first time using this and if possible just clear out and close all other apps and maybe restart your phone before starting the process (only for the first time and only if you have hundreds or thousands of screenshots)</p>\n<p><strong><em>Also you would need to allow the shortcut to access/save a multiple images.</em></strong></p>\n<p>&#x200B;</p>\n<p>&#x200B;</p>\n<p>https://preview.redd.it/4n07zi56wfsb1.png?width=1170&amp;format=png&amp;auto=webp&amp;s=ff794a70f411ef507f4be2b26869a0db5d17abd8</p>",
-            "date_published": "2023-10-05T21:08:43+00:00",
-            "authors": [
-                {
-                    "name": "Hero2296",
-                    "url": "https://www.reddit.com/user/Hero2296"
                 }
             ]
         }
