@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1diqmfc",
+            "url": "/r/PleX/comments/1diqmfc/is_there_some_integration_like_this_for_plex_that/",
+            "external_url": "https://i.redd.it/rxovusa40c7d1.png",
+            "title": "Is there some integration like this for Plex that will read my library?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1diqmfc/is_there_some_integration_like_this_for_plex_that/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1diqmfc/is_there_some_integration_like_this_for_plex_that/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/rxovusa40c7d1.png\" />",
+            "date_published": "2024-06-18T13:25:09+00:00",
+            "authors": [
+                {
+                    "name": "NotAnADC",
+                    "url": "https://www.reddit.com/user/NotAnADC"
+                }
+            ]
+        },
+        {
             "id": "1de5j2d",
             "url": "/r/PleX/comments/1de5j2d/plex_cracks_down_on_media_server_hacks/",
             "external_url": "https://torrentfreak.com/plex-cracks-down-on-media-server-hacks-240612/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ZeldaFandboy",
                     "url": "https://www.reddit.com/user/ZeldaFandboy"
-                }
-            ]
-        },
-        {
-            "id": "16sribe",
-            "url": "/r/PleX/comments/16sribe/unique_no_connection_issue/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/16sribe/unique_no_connection_issue/",
-            "title": "Unique No connection Issue",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16sribe/unique_no_connection_issue/'>Reddit</a></caption><div><br></div><div><p>I have a friend who has access to my plex server which is out of my local network. Their access to this server works on and off randomly with no signs or network configuration changes on either of our ends. When the connection is \"down\" this friend is still able to access other plex servers from other friends, and on my end, I still have other users who can access my server. There is something that neither of us is seeing as to why they are unable to connect at times. In their home, it is not limited to one device that is unable to connect. When the connection shows down, it's the whole household. No device is able to connect to my server, just to give some context in terms of troubleshooting. </p>\n<p>Has anyone experienced this? I really am hoping for some help here. I don't even know how to search for this type of issue.</p></div>",
-            "date_published": "2023-09-26T15:45:21+00:00",
-            "authors": [
-                {
-                    "name": "five0first",
-                    "url": "https://www.reddit.com/user/five0first"
                 }
             ]
         }
