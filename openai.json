@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1dkcjyx",
+            "url": "/r/OpenAI/comments/1dkcjyx/claude_35_sonnet/",
+            "external_url": "https://www.reddit.com/r/OpenAI/comments/1dkcjyx/claude_35_sonnet/",
+            "title": "Claude 3.5 Sonnet",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1dkcjyx/claude_35_sonnet/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1dkcjyx/claude_35_sonnet/'>Reddit</a></caption><div><br></div><p><a href=\"https://www.anthropic.com/news/claude-3-5-sonnet\">https://www.anthropic.com/news/claude-3-5-sonnet</a></p>\n<p>Faster, smarter and cheaper than OpenAI and the rest(?)</p>",
+            "date_published": "2024-06-20T14:08:42+00:00",
+            "authors": [
+                {
+                    "name": "Particular_Base3390",
+                    "url": "https://www.reddit.com/user/Particular_Base3390"
+                }
+            ]
+        },
+        {
             "id": "1djo82k",
             "url": "/r/OpenAI/comments/1djo82k/ilya_is_starting_a_new_company/",
             "external_url": "https://i.redd.it/1ttfli218k7d1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "davealexis97",
                     "url": "https://www.reddit.com/user/davealexis97"
-                }
-            ]
-        },
-        {
-            "id": "1arm4ff",
-            "url": "/r/OpenAI/comments/1arm4ff/things_are_moving_way_too_fast_openai_on_x/",
-            "external_url": "https://twitter.com/OpenAI/status/1758192957386342435",
-            "title": "Things are moving way too fast... OpenAI on X: \"Introducing Sora, our text-to-video model. Sora can create videos of up to 60 seconds featuring highly detailed scenes, complex camera motion, and multiple characters with vibrant emotions.\"",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1arm4ff/things_are_moving_way_too_fast_openai_on_x/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1arm4ff/things_are_moving_way_too_fast_openai_on_x/'>Reddit</a></caption><div><br></div><div><br></div><blockquote class=\"twitter-tweet\" align=\"center\"><p lang=\"en\" dir=\"ltr\">Introducing Sora, our text-to-video model.<br><br>Sora can create videos of up to 60 seconds featuring highly detailed scenes, complex camera motion, and multiple characters with vibrant emotions.                                 <a href=\"https://t.co/7j2JN27M3W\">https://t.co/7j2JN27M3W</a><br><br>Prompt: \u201cBeautiful, snowy\u2026 <a href=\"https://t.co/ruTEWn87vf\">pic.twitter.com/ruTEWn87vf</a></p>&mdash; OpenAI (@OpenAI) <a href=\"https://twitter.com/OpenAI/status/1758192957386342435?ref_src=twsrc%5Etfw\">February 15, 2024</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
-            "date_published": "2024-02-15T18:18:14+00:00",
-            "authors": [
-                {
-                    "name": "melted-dashboard",
-                    "url": "https://www.reddit.com/user/melted-dashboard"
                 }
             ]
         }
