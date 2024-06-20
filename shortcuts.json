@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1dkhm72",
+            "url": "/r/shortcuts/comments/1dkhm72/optimized_multistop_navigation_adds_support_for/",
+            "external_url": "https://routinehub.co/shortcut/18833/",
+            "title": "Optimized multi-stop navigation adds support for bicycle routing (minimize distance + elevation gain)",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1dkhm72/optimized_multistop_navigation_adds_support_for/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1dkhm72/optimized_multistop_navigation_adds_support_for/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-06-20T17:40:11+00:00",
+            "authors": [
+                {
+                    "name": "twilsonco",
+                    "url": "https://www.reddit.com/user/twilsonco"
+                }
+            ]
+        },
+        {
             "id": "1dfvw9k",
             "url": "/r/shortcuts/comments/1dfvw9k/introducing_natural_calendar_schedule_your_day/",
             "external_url": "https://www.reddit.com/r/shortcuts/comments/1dfvw9k/introducing_natural_calendar_schedule_your_day/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ishtiaq156",
                     "url": "https://www.reddit.com/user/ishtiaq156"
-                }
-            ]
-        },
-        {
-            "id": "171bggm",
-            "url": "/r/shortcuts/comments/171bggm/another_expenses_tracker_shortcut_but_with/",
-            "external_url": "https://www.reddit.com/r/shortcuts/comments/171bggm/another_expenses_tracker_shortcut_but_with/",
-            "title": "Another Expenses tracker Shortcut but with special skills",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/171bggm/another_expenses_tracker_shortcut_but_with/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/171bggm/another_expenses_tracker_shortcut_but_with/'>Reddit</a></caption><div><br></div><p>This Shortcut was kindly requested by u/m_imm0723.        </p>\n<p>I know.. there\u2019re plenty of them out there, but I took my chances with this one.        </p>\n<p><strong>Features</strong>       </p>\n<ul>\n<li>Add Quick transaction by just entering an amount (adopts current date/time)</li>\n<li>Add Detailed transaction (custom date/time + attach a receipt option)</li>\n<li>Extremely fast <strong>Search Engine</strong> for finding and viewing transactions data in a given period of time.    </li>\n<li>Attach a receipt from Photos Library, Files or take an instant photo. You may attach it while adding a new transaction or at a later time.   </li>\n<li>Add/View/Edit/Delete receipts </li>\n<li>Remove unwanted transactions </li>\n<li>Export data with conditions </li>\n<li>Export to Numbers app</li>\n<li>Export to iCloud or locally </li>\n<li>Conditional menus           </li>\n</ul>\n<p><strong>Notice:</strong> This is a big, stand alone shortcut. Please report any bugs. No configuration needed. No dependencies. Just run it!             </p>\n<p><a href=\"https://www.icloud.com/shortcuts/b7b8878e0b064ec38a011c2502839dca\"><strong>Expenses Tracker</strong></a>          </p>\n<p><strong>A user may add expenses as a negative number &amp; income as positive, in order to use the Shortcut as a Income-Expense tracker and for having balance correctly calculated</strong></p>\n<p><strong>Edit</strong>: It\u2019s official: There will be an update early next week including a <em>Settings</em> menu for:   <br />\n<em> Add/Edit Expense Categories          <br />\n</em> Advanced Search for finding transactions based on Categories criteria         <br />\n<em> Select currency symbol       <br />\n</em> Backup &amp; Restore database</p>",
-            "date_published": "2023-10-06T12:48:57+00:00",
-            "authors": [
-                {
-                    "name": "vrachamis",
-                    "url": "https://www.reddit.com/user/vrachamis"
                 }
             ]
         }
