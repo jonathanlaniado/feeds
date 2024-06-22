@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s2gv/styles/communityIcon_4y2jhgq6cl511.jpg",
     "items": [
         {
+            "id": "1dlw3f4",
+            "url": "/r/MacOS/comments/1dlw3f4/moved_back_to_mac_after_8_years_and_impressed/",
+            "external_url": "https://www.reddit.com/r/MacOS/comments/1dlw3f4/moved_back_to_mac_after_8_years_and_impressed/",
+            "title": "Moved back to Mac after 8 years and impressed with how many Windows features I took for granted",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOS/comments/1dlw3f4/moved_back_to_mac_after_8_years_and_impressed/'>Winston</a> | <a href='https://reddit.com/r/MacOS/comments/1dlw3f4/moved_back_to_mac_after_8_years_and_impressed/'>Reddit</a></caption><div><br></div><p>As a dedicated Apple fan, I made the switch to using an iPad Pro as my primary computer back in 2017, while relying on my work laptop solely for work-related tasks. Now that I\u2019ve entered the professional world (I was a student back in 2017), I\u2019m SHOCKED at how many Windows features boost my productivity compared to standard macOS.</p>\n<ol>\n<li>\n<p>Alt-Tab Functionality: Apple's decision to switch between applications rather than individual app windows using Command-Tab is puzzling. In my opinion, Windows' Alt-Tab is WAY BETTER. I installed an app called \"Alt-Tab\" to replicate this feature on macOS, but it has occasional bugs and isn't as seamless as Windows' built-in functionality.</p>\n</li>\n<li>\n<p>Window Snapping: This is a HUGE feature that I can't work without. I use an app called Rectangle on macOS, which works almost perfectly. Fortunately, macOS Sequoia is introducing this feature natively (I miss the cat names \ud83e\udd7a).</p>\n</li>\n<li>\n<p>Cutting Files with Ctrl+X: It's baffling that this isn\u2019t a built-in feature on macOS. I installed \"Command X,\" and it works great, but it should be a standard feature.</p>\n</li>\n<li>\n<p>Zooming with the Mouse Scroll Wheel: THIS IS A BIG ONE. On Windows, you can simply hold the Control key and scroll to zoom in and out. On a Mac, I have to use Command +, which disrupts my workflow. I\u2019ve configured my Logitech mouse to enable zoom with a middle click, but it requires moving the entire mouse, which is neither easy nor ergonomic. It feels like this feature is DELIBERATELY MISSING to encourage purchases of Apple's Magic Mouse or Magic Trackpad for pinch-to-zoom functionality.</p>\n</li>\n<li>\n<p>Excel Accelerator Keys: On Windows, holding the Alt key and pressing a combination of letters or numbers allows quick access to any feature in the ribbon, significantly speeding up cell editing. This feature is missing in Excel for macOS, likely by design. I tried a third-party app called Accelerator Keys, but I refuse to pay for a subscription to enhance a feature that\u2019s native on another platform. I\u2019ll probably just map my most-used shortcuts manually. The same issue applies to PowerPoint.</p>\n</li>\n<li>\n<p>Fullscreen Video in Safari: When you go fullscreen with a video in Safari, the entire window moves to a new space, which slows down switching between apps. This is MADDENING during my online classes where I frequently switch to a note-taking app. Firefox fixes this, but I prefer using Safari.</p>\n</li>\n<li>\n<p>External Monitor Support: Windows handles scaling much better than macOS. Many users on YouTube have had to downgrade from 4K displays to 1440p ones because macOS makes non-native resolutions look blurry. I use Better Display Tool to manage this, but Windows still does it better.</p>\n</li>\n</ol>\n<p>Despite these challenges, I still love macOS and the build quality of my new M3 MacBook Air. It\u2019s fascinating to see how different these operating systems are after eight years. While the Mac excels in many areas, Windows has several features that significantly enhance productivity, which I previously took for granted.</p>",
+            "date_published": "2024-06-22T13:48:50+00:00",
+            "authors": [
+                {
+                    "name": "rotkiv3451",
+                    "url": "https://www.reddit.com/user/rotkiv3451"
+                }
+            ]
+        },
+        {
             "id": "1ddvd9r",
             "url": "/r/MacOS/comments/1ddvd9r/do_you_want_dark_icons_to_be_available_in_macos/",
             "external_url": "https://i.redd.it/rfg20go9s16d1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Rabid_Russian",
                     "url": "https://www.reddit.com/user/Rabid_Russian"
-                }
-            ]
-        },
-        {
-            "id": "17lh9p1",
-            "url": "/r/MacOS/comments/17lh9p1/the_coolest_mac_os_app_install/",
-            "external_url": "https://i.redd.it/izhjg7n0trxb1.png",
-            "title": "The coolest mac os app Install",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/MacOS/comments/17lh9p1/the_coolest_mac_os_app_install/'>Apollo</a> | <a href='https://reddit.com/r/MacOS/comments/17lh9p1/the_coolest_mac_os_app_install/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/izhjg7n0trxb1.png\" />",
-            "date_published": "2023-11-01T17:22:49+00:00",
-            "authors": [
-                {
-                    "name": "A-questioner",
-                    "url": "https://www.reddit.com/user/A-questioner"
                 }
             ]
         }
