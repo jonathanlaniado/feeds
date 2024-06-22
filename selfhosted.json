@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1dls0ku",
+            "url": "/r/selfhosted/comments/1dls0ku/today_selfhosting_made_me_the_hero_of_the_day_for/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1dls0ku/today_selfhosting_made_me_the_hero_of_the_day_for/",
+            "title": "Today selfhosting made me the hero of the day for my partner \ud83d\ude05",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1dls0ku/today_selfhosting_made_me_the_hero_of_the_day_for/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1dls0ku/today_selfhosting_made_me_the_hero_of_the_day_for/'>Reddit</a></caption><div><br></div><p>I've been selfhosting a bunch of stuff for a few years now, game servers, HomeAssistant, VPN, PiHole, Docker Registry, you name it basically. Mostly for myself/hobby,  but I'm pleased to announce today was the day where it truly made a difference for my partner \ud83d\ude02</p>\n<p>Partner started making and ordering physical photo albums of our kid, one per year per grandparent, yesterday. When she was about to pick it back up today, images from the first year was missing in the album designer and the Google Shared Album we've used for these yearly albums. </p>\n<p>Immediate distress!</p>\n<p>Enter our Nextcloud photo sync for all raw images &amp; the backups I've taken of the Google Shared Albums every year in January when the previous year was \"settled\".</p>\n<p>Partner was excited to say the least \ud83d\ude05</p>\n<p>Just wanted to share this with someone who would understand the feeling the gave me to be able to help my partner through what is essential my hobby \ud83c\udf89</p>",
+            "date_published": "2024-06-22T09:42:10+00:00",
+            "authors": [
+                {
+                    "name": "Vezajin2",
+                    "url": "https://www.reddit.com/user/Vezajin2"
+                }
+            ]
+        },
+        {
             "id": "1dey224",
             "url": "/r/selfhosted/comments/1dey224/my_apache_dashboard/",
             "external_url": "https://i.redd.it/4zctyws84c6d1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "altran1502",
                     "url": "https://www.reddit.com/user/altran1502"
-                }
-            ]
-        },
-        {
-            "id": "17wyqyn",
-            "url": "/r/selfhosted/comments/17wyqyn/selfhosting_got_me_a_job_offer/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/17wyqyn/selfhosting_got_me_a_job_offer/",
-            "title": "Selfhosting got me a job offer",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/17wyqyn/selfhosting_got_me_a_job_offer/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/17wyqyn/selfhosting_got_me_a_job_offer/'>Reddit</a></caption><div><br></div><p>I still barely believe it honestly. I'm a student \"freshly\" outta school with no experience, and I've been struggling finding a job for a while.</p>\n<p>I had a (first) job interview recently and while I didn't have much to offer, I seemed to somewhat impress them with my home labbing. I run Proxmox at home for my self-hosted things and got a decent amount of experience with it, and it's what they use a lot as well. It's not that common in my age group to be interested in stuff like this, apparently.</p>\n<p>Anyway, this is barely worthy of a post, but I'm really excited. I don't really know how it'll work out as I still got plenty to learn, but it's a big step forwards for me.</p>",
-            "date_published": "2023-11-16T22:01:03+00:00",
-            "authors": [
-                {
-                    "name": "Anejey",
-                    "url": "https://www.reddit.com/user/Anejey"
                 }
             ]
         }
