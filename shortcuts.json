@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1dlt1zs",
+            "url": "/r/shortcuts/comments/1dlt1zs/ios_18_beta_fyi_using_the_new_built_in_option_to/",
+            "external_url": "https://www.reddit.com/gallery/1dlt1zs",
+            "title": "[iOS 18 Beta] FYI, Using the new built in option to Require Face ID may prevent some of your automations from running",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1dlt1zs/ios_18_beta_fyi_using_the_new_built_in_option_to/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1dlt1zs/ios_18_beta_fyi_using_the_new_built_in_option_to/'>Reddit</a></caption><div><br></div><p>This may be obvious to some but I promise there will be users that run into this scenario and create a post to inquire about it down the line. Should you choose to lock an app behind Face ID and I\u2019m assuming Touch ID as I can\u2019t test that, that your automations set for actions of that app may not work due to needing the authentication. This is if you\u2019re using the new option to Require Face ID to open an app byway of tapping and holding onto an app icon on your Home Screen or App Library and selecting the new option.</p>\n<p>So for example, if you rely on the Files app to store and retrieve variables within .txt files at a scheduled time and you're not using your device, your automation will fail if you've locked the Files app behind Face ID.</p>\n<p>Using the Toolbox Pro and Actions app ways of \u201clocking an app\u201d is not affected by this other than to actually open the app, but also isn\u2019t a solid secure way of doing so. </p>",
+            "date_published": "2024-06-22T10:55:34+00:00",
+            "authors": [
+                {
+                    "name": "iBanks3",
+                    "url": "https://www.reddit.com/user/iBanks3"
+                }
+            ]
+        },
+        {
             "id": "1dkznuo",
             "url": "/r/shortcuts/comments/1dkznuo/remove_instagram_shareid/",
             "external_url": "https://i.redd.it/b602rj706w7d1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Objective_Focus4634",
                     "url": "https://www.reddit.com/user/Objective_Focus4634"
-                }
-            ]
-        },
-        {
-            "id": "173llkm",
-            "url": "/r/shortcuts/comments/173llkm/screenshot_sorter/",
-            "external_url": "https://www.reddit.com/gallery/173llkm",
-            "title": "Screenshot Sorter",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/173llkm/screenshot_sorter/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/173llkm/screenshot_sorter/'>Reddit</a></caption><div><br></div><p>Hey!\nI need a shortcut for screenshots sorter\nLike every time i take screenshots shortcuts runs and ask to save in which album and send a prompt after saving</p>\n<p>I have made something but it is not working with physical buttons</p>",
-            "date_published": "2023-10-09T07:09:19+00:00",
-            "authors": [
-                {
-                    "name": "Guptarajul14",
-                    "url": "https://www.reddit.com/user/Guptarajul14"
                 }
             ]
         }
