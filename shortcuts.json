@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1dningt",
+            "url": "/r/shortcuts/comments/1dningt/i_made_an_ios_shortcut_to_find_your_top_played/",
+            "external_url": "https://www.reddit.com/gallery/1dningt",
+            "title": "I made an iOS Shortcut to find your top played songs, albums, and artists, all based on total playcount and shown an a cool-looking webpage! More info and link in post body.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1dningt/i_made_an_ios_shortcut_to_find_your_top_played/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1dningt/i_made_an_ios_shortcut_to_find_your_top_played/'>Reddit</a></caption><div><br></div><h1>\u266b Top Tunes \u266b</h1>\n<h3><em>Discover Your Top Songs, Albums, and Artists</em></h3>\n<ul>\n<li><a href=\"https://routinehub.co/shortcut/18977/\">Routinhub Link</a></li>\n<li><a href=\"https://www.icloud.com/shortcuts/890314f078f04f70a9c097fc613d6c8e\">Shortcut Download Link</a></li>\n</ul>\n<p>Top Tunes is designed to be an easy-to-use and effective shortcut to uncover your most played songs, albums, and artists. The fast analysis coupled with the friendly and cool webpage UI provides a professional feeling and entertaining time. </p>\n<p>Along with showing your most played musical media, Top Tunes has a Quick Lists summary page, condensing the data into screenshot-able and shareable content (perfect to brag to your friends!). Finally, there is a consistency page which shows your artists and albums with the top average plays per song.</p>\n<blockquote>\n<p><em>The most consistent albums and artists are those with the highest average playcount per song. To qualify as an album, it must contain at least 8 songs, ensuring that a single with a high playcount doesn't overshadow a full album. Similarly, an artist must have at least 25 songs to be considered, preventing a one-hit-wonder with a high-playcount single from being the most consistent artist.</em></p>\n</blockquote>\n<p>This shortcut may glitch out the first couple of times running it. You will get several notifications saying <strong>Allow \u201cTop Tunes\u201d to open \u201cSafari\u201d with 3000+ music items</strong>. It is important to click <strong>Always Allow</strong> so the shortcut runs smoothly from then on. Note that this shortcut does not use internet at all, so if you feel uncomfortable with the possibility of this shortcut stealing and sharing this data, feel free to turn your wifi off for added peace of mind. You can also review the shortcut code, but I guarantee it is safe to download and use.</p>\n<h2>Customization</h2>\n<p>There are a few ways to customize the shortcut to better tailor your needs. All of these customizations are within the shortcut. They can be found by editing the shortcut and reading its comments. </p>\n<ul>\n<li><strong>Places Shown</strong> (defaults to 15): This is the number of top songs/artists/albums to show. It defaults to the top 15.</li>\n<li><strong>AVERAGE_ALBUM_THRESHOLD</strong> (defaults to 8): This is the number of songs an album must have to be considered for the most consistent albums. There needs to be a threshold, because otherwise an album with only two songs, both of which are highly played, would overshadow a complete album for average playcount per song.</li>\n<li><strong>AVERAGE_ARTIST_THRESHOLD</strong> (defaults to 25): This is the number of songs an artist must have to be considered for the most consistent artists. There needs to be a threshold because otherwise, a one-hit-wonder with one highly played song could overshadow one of your favourite artists for average playcount per song.</li>\n<li><strong>Album Cover Resizing</strong>: For the visual webpage, albums are resized to either 200x200 (for large album display) and 50x50 (for small album display). However, if you have a larger device, the images may be blurry. To fix this, you can increase the album resizing (these options are in the middle of the shortcut).<blockquote>\n<p><em>Note: increasing </em><em>Places Shown</em><em> or </em><em>Album Cover Resizing</em><em> will result in more data handled, which may cause the shortcut to glitch out.</em></p>\n</blockquote>\n</li>\n</ul>\n<h2>Troubleshooting</h2>\n<blockquote>\n<p><em>Note: This shortcut may not work for everyone due to the massive amount of data handled and the device it runs on.</em></p>\n</blockquote>\n<p><strong>Is it glitching out or failing due to some error?</strong></p>\n<p>Top Tunes throws a massive amount of data around to generate the stats and album images. This immense information may cause the shortcut break. You can try several things to fix this:\n- Rerun the shortcut\n- Restart your phone.\n- Near the top of the shortcut, there is a Number action defaulting to 15. This is the number of songs/artists/albums to show in the top list. Setting the number lower, like the top 10, will use less data, so the shortcut may work.\n- In the middle of the shortcut, album covers are resized to either 200x200 for large images or 50x50 for small images. If you resize them smaller, the shortcut may work.</p>\n<p><strong>Does the webpage look bad?</strong></p>\n<p>The webpage is mobile-designed, meaning it may not look the best on an iPad or iMac. If you have any concerns or advice, feel free to contact me.</p>\n<p><strong>Is the data shifted around so the album covers, song titles, and artist names don't match?</strong></p>\n<p>The shortcut only works when every song has a title, album, artist, and album cover. Sometimes, downloaded audio files will be saved to your Apple Music (mostly on the Mac). If this is the case, they may mess up the data. In this case, your best bet would be to try it on your phone instead or delete the audio files.</p>\n<p><strong>Why were two artists conjoined?</strong></p>\n<p>There is absolutely no way to differentiate between artists with the same name. So if you have two artists named Bill Evans, they will sadly be assumed the same artist, and their discography will be combined.</p>\n<p><strong>Feedback</strong>\nI always welcome feedback, suggestions, and other feature requests.</p>\n<p>- Wesley Ormsby</p>",
+            "date_published": "2024-06-24T17:06:41+00:00",
+            "authors": [
+                {
+                    "name": "wesley_ormsby",
+                    "url": "https://www.reddit.com/user/wesley_ormsby"
+                }
+            ]
+        },
+        {
             "id": "1dmz2ht",
             "url": "/r/shortcuts/comments/1dmz2ht/photo_mosaic_create_beautiful_photo_mosaics_using/",
             "external_url": "https://routinehub.co/shortcut/18978/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "dgddffrrd433",
                     "url": "https://www.reddit.com/user/dgddffrrd433"
-                }
-            ]
-        },
-        {
-            "id": "173yz3j",
-            "url": "/r/shortcuts/comments/173yz3j/shortcuts_are_literally_unusable_in_ios_1703/",
-            "external_url": "https://www.reddit.com/r/shortcuts/comments/173yz3j/shortcuts_are_literally_unusable_in_ios_1703/",
-            "title": "Shortcuts are literally unusable in iOS 17.0.3",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/173yz3j/shortcuts_are_literally_unusable_in_ios_1703/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/173yz3j/shortcuts_are_literally_unusable_in_ios_1703/'>Reddit</a></caption><div><br></div><p>I can\u2019t even drag new lines of code without it glitching and freezing and auto dropping the code in the wrong spot. Anyone else? Using a 14 Pro Max.</p>",
-            "date_published": "2023-10-09T18:22:23+00:00",
-            "authors": [
-                {
-                    "name": "trippbaby17",
-                    "url": "https://www.reddit.com/user/trippbaby17"
                 }
             ]
         }
