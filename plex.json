@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1dnkn4i",
+            "url": "/r/PleX/comments/1dnkn4i/windows_intel_igpu_tonemapping_support_will/",
+            "external_url": "https://i.redd.it/8sgt9t2mbk8d1.png",
+            "title": "Windows Intel iGPU tonemapping support will likely be added to the official build 3 releases from now",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1dnkn4i/windows_intel_igpu_tonemapping_support_will/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1dnkn4i/windows_intel_igpu_tonemapping_support_will/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/8sgt9t2mbk8d1.png\" />",
+            "date_published": "2024-06-24T18:29:50+00:00",
+            "authors": [
+                {
+                    "name": "purpan-",
+                    "url": "https://www.reddit.com/user/purpan-"
+                }
+            ]
+        },
+        {
             "id": "1diqmfc",
             "url": "/r/PleX/comments/1diqmfc/is_there_some_integration_like_this_for_plex_that/",
             "external_url": "https://i.redd.it/rxovusa40c7d1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Brother_Farside",
                     "url": "https://www.reddit.com/user/Brother_Farside"
-                }
-            ]
-        },
-        {
-            "id": "16srks1",
-            "url": "/r/PleX/comments/16srks1/can_somebody_help_me_i_cant_acces_the_web/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/16srks1/can_somebody_help_me_i_cant_acces_the_web/",
-            "title": "Can somebody help me? I cant acces the web interface of my plex server",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16srks1/can_somebody_help_me_i_cant_acces_the_web/'>Reddit</a></caption><div><br></div><div><p>&#x200B;</p>\n<p><a href=\"https://preview.redd.it/8z8f73tbfmqb1.png?width=1023&amp;format=png&amp;auto=webp&amp;s=fe8923ad9b61f056863a9a0e2ceb585b40986eaa\">Installed via docker on ubuntu 20.04 </a></p></div>",
-            "date_published": "2023-09-26T15:47:55+00:00",
-            "authors": [
-                {
-                    "name": "ZeldaFandboy",
-                    "url": "https://www.reddit.com/user/ZeldaFandboy"
                 }
             ]
         }
