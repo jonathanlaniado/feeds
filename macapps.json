@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1dndyby",
+            "url": "/r/macapps/comments/1dndyby/i_made_ai_app_to_help_busy_lazy_people_like_me/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1dndyby/i_made_ai_app_to_help_busy_lazy_people_like_me/",
+            "title": "I Made AI App To Help Busy (Lazy) People Like Me Improve English Speaking skills",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1dndyby/i_made_ai_app_to_help_busy_lazy_people_like_me/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1dndyby/i_made_ai_app_to_help_busy_lazy_people_like_me/'>Reddit</a></caption><div><br></div><p>Hey\u00a0r/macapps! \ud83d\udc4b I\u2019m founder of Fluently and I\u2019d love to share the story of how I built the\u00a0<a href=\"http://getfluently.app/download\">Fluently App</a></p>\n<p>Fluently is a tool designed to help non-native professionals improve their English by giving instant feedback after online calls like those on Google Meet or Zoom. It\u2019s like having a personal coach who offers tips right after each call.</p>\n<p>Here is an example of the feedback:</p>\n<p>https://preview.redd.it/gx9tyhuxxi8d1.png?width=1600&amp;format=png&amp;auto=webp&amp;s=df1c7f3d15f60594a9390bed823b0bfae2335f74</p>\n<p><strong>How Did I Come Up with the Idea?</strong></p>\n<p>As a non-native English speaker I often made little mistakes during calls which sometimes led to awkward moments. Despite my decent grasp of English these errors were persistent.</p>\n<p>My background as an ML engineer got me thinking: What if AI could track and highlight my common mistakes, and assist me in correcting them? That\u2019s how Fluently was born.</p>\n<p><strong>How Fluently</strong>\u00a0<strong>works:</strong></p>\n<p>Right now, Fluently is an app for MacOS. Just download it and follow these three easy steps to start improving:</p>\n<ol>\n<li><strong>Start the app:</strong>\u00a0Fluently starts when you speak English during online meetings</li>\n<li><strong>Get feedback:</strong>\u00a0After each call Fluently gives you feedback tailored to your language challenges: it finds mistakes and tells you how to do better</li>\n<li><strong>Track progress:</strong>\u00a0Over time you can see where you\u2019re getting better and where you still need practice</li>\n</ol>\n<p>Fluently makes learning easier and boosts confidence for people like me who need to speak English well on their daily calls.</p>\n<p><strong>What Makes Fluently Unique?</strong></p>\n<p>Unlike generic language learning tools, Fluently provides feedback based on the language you use daily. Here are some of our key benefits and features:</p>\n<ul>\n<li><strong>Real-life feedback</strong>: Helps fix mistakes from real calls, not just in classrooms</li>\n<li><strong>Easy learning</strong>: No extra time needed \u2013 just learn from your usual meetings</li>\n<li><strong>English Level Assessment:</strong>\u00a0Fluently will evaluate your English level and figure out the strongest and weakest parts</li>\n<li><strong>AI Tutor:</strong>\u00a0To practice English when you don\u2019t have calls</li>\n</ul>\n<p><a href=\"https://preview.redd.it/6jyvi2o0yi8d1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=d6d56a00bc6fa847c020c2287b7723c8814a6321\">Try Fluently to evaluate your English level in 4 mins</a></p>\n<p>I just released the app afrer closed beta and hope you will enjoy it!</p>\n<p>Got questions or feedback? I\u2019m here to hear from you \ud83d\ude42</p>\n<p>--</p>\n<p>Use Code:\u00a0<strong>REDDIT</strong>, to get 30% discount.</p>\n<p>Link to download Fluently:\u00a0<a href=\"https://getfluently.app/download\">https://getfluently.app/download</a></p>",
+            "date_published": "2024-06-24T13:50:05+00:00",
+            "authors": [
+                {
+                    "name": "Excellent_Fly9717",
+                    "url": "https://www.reddit.com/user/Excellent_Fly9717"
+                }
+            ]
+        },
+        {
             "id": "1dncwg8",
             "url": "/r/macapps/comments/1dncwg8/i_started_a_subreddit_for_free_apps_without/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1dncwg8/i_started_a_subreddit_for_free_apps_without/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "QenTox",
                     "url": "https://www.reddit.com/user/QenTox"
-                }
-            ]
-        },
-        {
-            "id": "187h7r4",
-            "url": "/r/macapps/comments/187h7r4/picview_a_new_mac_image_viewer_with_windows_genes/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/187h7r4/picview_a_new_mac_image_viewer_with_windows_genes/",
-            "title": "Picview - A new Mac Image Viewer with Windows Genes",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/187h7r4/picview_a_new_mac_image_viewer_with_windows_genes/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/187h7r4/picview_a_new_mac_image_viewer_with_windows_genes/'>Reddit</a></caption><div><br></div><p>Hey, guys</p>\n<p>I have developed a macOS image viewer App called Picview, and have been working hard on it for several months. It is now stable and mature, and I am delighted to share it here.</p>\n<p>Here are its main features:\n- <strong>Windows-like operation features</strong>. Double-click to open an image, use left and right arrow keys to navigate, and scroll the mouse wheel to zoom in and out.\n- Clean and minimalistic design. Only necessary elements are displayed, without any unnecessary distractions.\n- <strong>Supports a wide range of image formats</strong>, including PNG, JPG, WEBP, BMP, ICO, GIF, CR2, CR3, NEF, HEIC, and more.\n- <strong>Offers various image viewing modes</strong>, including single-window and multiple-window viewing. Supports eight scaling modes, such as screen-fit, window-fit, actual size and so on.\n- <strong>Highly responsive, providing smooth image browsing and fast loading</strong>. Written in native Swift, with a small installation package size of only <strong>7.1MB</strong>.\n- User-friendly, with a rich set of keyboard shortcuts. It also supports image pinned and <strong>LiveText</strong>.</p>\n<p>Picview addresses the need for a Windows Photos-like image viewing experience on macOS. It can be downloaded for free from the <a href=\"https://apps.apple.com/us/app/picview-image-photo-browser/id6452016140?mt=12?mt=12\">App Store</a></p>\n<p>For more information, you can visit our <a href=\"https://enpicview.chitaner.com\">official website</a></p>\n<p>We would greatly appreciate it if you could provide us with your feedback and suggestions.</p>",
-            "date_published": "2023-11-30T12:18:01+00:00",
-            "authors": [
-                {
-                    "name": "coolnull",
-                    "url": "https://www.reddit.com/user/coolnull"
                 }
             ]
         }
