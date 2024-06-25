@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1dohic2",
+            "url": "/r/PleX/comments/1dohic2/can_we_please_limit_the_amount_of_can_a_minipc/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/1dohic2/can_we_please_limit_the_amount_of_can_a_minipc/",
+            "title": "Can we please limit the amount of \"Can a mini-PC run plex?\" posts?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1dohic2/can_we_please_limit_the_amount_of_can_a_minipc/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1dohic2/can_we_please_limit_the_amount_of_can_a_minipc/'>Reddit</a></caption><div><br></div><p>Day after day, week after week, there arequestions about running Plex on (typically) N100-based mini PC's by people who has made no research whatsoever on their own. I feel the number of posts have increased from weekly to daily or even multiple posts per day in the past few weeks.</p>\n<p>I think it's great that people want to run Plex, and mini PC's are a legit way to do it for some - but it's really getting tiresome with the same stuff being repeated over and over. Could we please limit or ban these questions, and instead refer to a stickied thread that's replaced (weekly, monthly, quarterly, I don't care)?</p>",
+            "date_published": "2024-06-25T21:34:32+00:00",
+            "authors": [
+                {
+                    "name": "rlnrlnrln",
+                    "url": "https://www.reddit.com/user/rlnrlnrln"
+                }
+            ]
+        },
+        {
             "id": "1dnkn4i",
             "url": "/r/PleX/comments/1dnkn4i/windows_intel_igpu_tonemapping_support_will/",
             "external_url": "https://i.redd.it/8sgt9t2mbk8d1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "etsvlone",
                     "url": "https://www.reddit.com/user/etsvlone"
-                }
-            ]
-        },
-        {
-            "id": "16sraip",
-            "url": "/r/PleX/comments/16sraip/im_new_i_have_questions_be_gentle/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/16sraip/im_new_i_have_questions_be_gentle/",
-            "title": "I'm new. I have questions. Be gentle.",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16sraip/im_new_i_have_questions_be_gentle/'>Reddit</a></caption><div><br></div><div><p>I have Plex on my laptop. I have the app on my Roku. I ripped a movie I have, uploaded, and everything works. Awesome, I'm sold.  </p>\n<p>Running Plex off my laptop is not a long-term solution. I don't leave it on 24/7 and storage will become an issue. I want to back up all of my physical media (DVDs) and enjoy the functionality of Plex.  </p>\n<p>So what do you all do? I see a lot about using a NAS. What does that entail? I know I need a NAS, then I need the HDs. Do I need software for this too?   </p>\n<p>Does anyone have any suggested guides? Youtube videos?  </p>\n<p>I'm new to all this and am not super tech-savvy, so I need it dumbed down.  </p>\n<p>Thanks!</p></div>",
-            "date_published": "2023-09-26T15:36:52+00:00",
-            "authors": [
-                {
-                    "name": "Brother_Farside",
-                    "url": "https://www.reddit.com/user/Brother_Farside"
                 }
             ]
         }
