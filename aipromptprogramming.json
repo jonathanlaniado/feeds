@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1do6xkj",
+            "url": "/r/aipromptprogramming/comments/1do6xkj/shorter_prompts_lead_to_40_better_code_generation/",
+            "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1do6xkj/shorter_prompts_lead_to_40_better_code_generation/",
+            "title": "Shorter prompts lead to 40% better code generation by LLMs",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1do6xkj/shorter_prompts_lead_to_40_better_code_generation/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1do6xkj/shorter_prompts_lead_to_40_better_code_generation/'>Reddit</a></caption><div><br></div><p>There was a recent paper I was digging into (<a href=\"https://arxiv.org/pdf/2406.08731\">Where Do Large Language Models Fail When Generating Code?</a>) and it had some interesting takeaways re the types of errors LLMs usually run into when generating code.</p>\n<p>But something I thought was particularly interesting was their analysis on error rates vs prompt length. </p>\n<p>There are a lot of variables at play of course, but these were the headlines: </p>\n<ul>\n<li>Shorter prompts (under 50 words) led to better performance across all models tested </li>\n<li>Longer prompts (150+ words) significantly increased error rates, resulting in garbage code or meaningless snippets. </li>\n</ul>\n<p>We've put together a detailed breakdown of the study <a href=\"https://www.prompthub.us/blog/using-llms-for-code-generation-a-guide-to-improving-accuracy-and-addressing-common-issues\">here</a>, including common error types and their frequencies across different models. If you're working with LLMs for code generation, you might find it useful.  </p>\n<p>Hope this helps improve your prompt engineering for code tasks!  </p>",
+            "date_published": "2024-06-25T14:09:48+00:00",
+            "authors": [
+                {
+                    "name": "dancleary544",
+                    "url": "https://www.reddit.com/user/dancleary544"
+                }
+            ]
+        },
+        {
             "id": "1dn1hmb",
             "url": "/r/aipromptprogramming/comments/1dn1hmb/ai_turns_wifi_routers_into_cameras_that_see/",
             "external_url": "https://v.redd.it/tq6dkxtj098d1",
