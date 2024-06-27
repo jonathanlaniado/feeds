@@ -8,6 +8,20 @@
     "favicon": "https://a.thumbs.redditmedia.com/C8S1EiCjt3YZ3GbvvB4_hXT6VRzCs9nxXEsDwRRvUF8.png",
     "items": [
         {
+            "id": "1dp7ta0",
+            "url": "/r/AppHookup/comments/1dp7ta0/meta_rapphookups_posting_rules_are_changing_to/",
+            "external_url": "https://www.reddit.com/r/AppHookup/comments/1dp7ta0/meta_rapphookups_posting_rules_are_changing_to/",
+            "title": "[Meta] r/Apphookup\u2019s posting rules are changing to keep up with offers that bypass AppStore IAP mechanisms.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/AppHookup/comments/1dp7ta0/meta_rapphookups_posting_rules_are_changing_to/'>Winston</a> | <a href='https://reddit.com/r/AppHookup/comments/1dp7ta0/meta_rapphookups_posting_rules_are_changing_to/'>Reddit</a></caption><div><br></div><ul>\n<li>\n<p>No developer -without exception- is allowed to <strong>offer anything on r/Apphookup that is not sold normally via the AppStore</strong>. \nWhy? To ensure that subscription-only apps, which do not sell lifetime licenses, cannot take advantage of r/Apphookup readers to inflate their AppStore rankings and also to ensure compliance with <a href=\"https://developer.apple.com/app-store/review/guidelines/#in-app-purchase\">Rule 3.1.1 of Apple\u2019s App Review Guidelines</a>: \n\u201cIn-App Purchase:\nIf you want to unlock features or functionality within your app, (by way of example: subscriptions, in-game currencies, game levels, access to premium content, or unlocking a full version), you must use in-app purchase. Apps may not use their own mechanisms to unlock content or functionality, such as license keys, augmented reality markers, QR codes, cryptocurrencies and cryptocurrency wallets, etc.\u201d</p>\n</li>\n<li>\n<p>If a developer wishes to offer a license to their app via registration of an in-app account (thereby bypassing AppStore IAPs) then it is <strong>compulsory to provide proof of acceptance of such an upgrade pathway by AppStore review team</strong> to the moderators beforehand via moderator mail and disclose such account requirement in the post. Provided that the in-app account is being created on your own servers (over which you have direct control of modification), the proof of purchase is available to you and not outsourced to a third-party receipt validator like RevenueCat or Adapty.io. To simplify, the app developer must have the means to directly restore the entitlement if it is somehow lost from their servers.</p>\n</li>\n<li>\n<p><strong>r/Apphookup does not recognise in-app entitlements made through RevenueCat or Adapty.io or similar solutions</strong> because app developers do not have direct control over the working of these services and cannot be trusted to restore such entitlements when lost without the means to do so (based on previous instances observed in r/Apphookup). To simplify, use AppStore IAPs and don\u2019t try to trick us.</p>\n</li>\n</ul>\n<p>Feel like we missed something? Do let us know in the comments.</p>",
+            "date_published": "2024-06-26T19:52:25+00:00",
+            "authors": [
+                {
+                    "name": "Singhvistaar",
+                    "url": "https://www.reddit.com/user/Singhvistaar"
+                }
+            ]
+        },
+        {
             "id": "1cscexs",
             "url": "/r/AppHookup/comments/1cscexs/ios_minecraft_699_199_discounted_for_its_upcoming/",
             "external_url": "https://apps.apple.com/us/app/minecraft/id479516143",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "silphatos",
                     "url": "https://www.reddit.com/user/silphatos"
-                }
-            ]
-        },
-        {
-            "id": "q2mw0m",
-            "url": "/r/AppHookup/comments/q2mw0m/ios_wordcation_ad_free_iap_299_free_coop/",
-            "external_url": "https://apps.apple.com/us/app/wordcation-crossword-collab/id1501855203",
-            "title": "[iOS] [Wordcation - Ad Free IAP] [$2.99 -> Free] [Co-Op Crossword Puzzle Game]",
-            "content_html": "<caption>Open in: <a href='https://apps.apple.com/us/app/wordcation-crossword-collab/id1501855203'>apps.apple.com</a> | <a href='https://reddit.com/r/AppHookup/comments/q2mw0m/ios_wordcation_ad_free_iap_299_free_coop/'>Reddit</a> | <a href='apollo://reddit.com/r/AppHookup/comments/q2mw0m/ios_wordcation_ad_free_iap_299_free_coop/'>Apollo</a></caption>",
-            "date_published": "2021-10-06T15:32:35+00:00",
-            "authors": [
-                {
-                    "name": "fcswzentail",
-                    "url": "https://www.reddit.com/user/fcswzentail"
                 }
             ]
         }
