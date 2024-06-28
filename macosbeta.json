@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1dqkbjm",
+            "url": "/r/MacOSBeta/comments/1dqkbjm/tip_resize_the_iphone_mirroring_window/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1dqkbjm/tip_resize_the_iphone_mirroring_window/",
+            "title": "Tip: Resize the iPhone Mirroring window",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOSBeta/comments/1dqkbjm/tip_resize_the_iphone_mirroring_window/'>Winston</a> | <a href='https://reddit.com/r/MacOSBeta/comments/1dqkbjm/tip_resize_the_iphone_mirroring_window/'>Reddit</a></caption><div><br></div><p>Quit iPhone Mirroring.</p>\n<p>Open Terminal and run <code>defaults write com.apple.ScreenContinuity showScalingControls 1</code>.</p>\n<p>The UI is a little wonky \u2014 there\u2019s a slider in the window titlebar that overlaps with the close/minimize controls \u2014 but it works. Hopefully it gets added officially in one of the next betas.</p>\n<p>Found this one by running <code>strings</code> on the app binary.</p>",
+            "date_published": "2024-06-28T14:00:37+00:00",
+            "authors": [
+                {
+                    "name": "freaktheclown",
+                    "url": "https://www.reddit.com/user/freaktheclown"
+                }
+            ]
+        },
+        {
             "id": "1do2ofj",
             "url": "/r/MacOSBeta/comments/1do2ofj/iphone_mirroring_faceid_authentication_uses_mac/",
             "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1do2ofj/iphone_mirroring_faceid_authentication_uses_mac/",
