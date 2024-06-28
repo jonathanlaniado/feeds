@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1dqo95f",
+            "url": "/r/selfhosted/comments/1dqo95f/unpopular_opinion_i_dont_need_new_features_i_just/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1dqo95f/unpopular_opinion_i_dont_need_new_features_i_just/",
+            "title": "Unpopular opinion: I don't need new features; I just want everything to function as intended, be rock solid, and work reliably...",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1dqo95f/unpopular_opinion_i_dont_need_new_features_i_just/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1dqo95f/unpopular_opinion_i_dont_need_new_features_i_just/'>Reddit</a></caption><div><br></div><p>What drives the relentless quest for new features?</p>",
+            "date_published": "2024-06-28T16:47:13+00:00",
+            "authors": [
+                {
+                    "name": "Zestyclose_Car1088",
+                    "url": "https://www.reddit.com/user/Zestyclose_Car1088"
+                }
+            ]
+        },
+        {
             "id": "1dls0ku",
             "url": "/r/selfhosted/comments/1dls0ku/today_selfhosting_made_me_the_hero_of_the_day_for/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1dls0ku/today_selfhosting_made_me_the_hero_of_the_day_for/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "quicklyalienated76",
                     "url": "https://www.reddit.com/user/quicklyalienated76"
-                }
-            ]
-        },
-        {
-            "id": "17xlmja",
-            "url": "/r/selfhosted/comments/17xlmja/hello_alex_from_immich_here_ive_gotten_a_chance/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/17xlmja/hello_alex_from_immich_here_ive_gotten_a_chance/",
-            "title": "Hello, Alex from Immich here. I've gotten a chance to be on the podcast with Self-hosted.show and want to share the podcast with you all!",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/17xlmja/hello_alex_from_immich_here_ive_gotten_a_chance/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/17xlmja/hello_alex_from_immich_here_ive_gotten_a_chance/'>Reddit</a></caption><div><br></div><p>Podcast link <a href=\"https://selfhosted.show/110?t=1198\">https://selfhosted.show/110?t=1198</a> </p>\n<p>Hello everybody, </p>\n<p>After the shout-out to Alex (from Self-hosted.show) from the comment section in my last post when I shared the Vergecast's episode about hardship in self-hosting, Alex and I got together, and we scheduled a session to talk about Immich this week. We talk about Immich, the team behind the application, its architecture, current features, future plans, and the sustainability aspect of the project.  I want to share the episode with you all.</p>\n<p>Have a great weekend!</p>\n<p>Alex</p>\n<p>&#x200B;</p>",
-            "date_published": "2023-11-17T18:31:05+00:00",
-            "authors": [
-                {
-                    "name": "altran1502",
-                    "url": "https://www.reddit.com/user/altran1502"
                 }
             ]
         }
