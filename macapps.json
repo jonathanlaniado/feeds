@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1dre5vy",
+            "url": "/r/macapps/comments/1dre5vy/33_off_monarch_v066_released_instant_send/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1dre5vy/33_off_monarch_v066_released_instant_send/",
+            "title": "33% off: Monarch v0.6.6 released: Instant Send (LaunchBar) + Superlinks. No subscription.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1dre5vy/33_off_monarch_v066_released_instant_send/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1dre5vy/33_off_monarch_v066_released_instant_send/'>Reddit</a></caption><div><br></div><p><a href=\"https://preview.redd.it/d8kjyi1q7j9d1.png?width=1724&amp;format=png&amp;auto=webp&amp;s=bfcdaf75047d960a1a821aca6d98a97da0b4d4a7\">Monarch Instant Send version 1</a></p>\n<p>Hey everyone! I've said for a while now that one of the goals of <a href=\"https://monarchlauncher.com\">Monarch</a> is to combine the best functionality of the best launchers. And one of the things people ask for a lot is LaunchBar's Instant Send / Universal Actions from Alfred. This update delivers on that!</p>\n<p>For those new to Monarch, you can think of it as a launcher to make everything easier and more intuitive on your Mac by providing as polished a user experience as possible. Just some highlights:</p>\n<ul>\n<li>Really thorough Clipboard History, allowing you to filter by application, search by link metadata &amp; webpage titles, multi-select, etc. (unlimited clipboard history, of course).</li>\n<li>Fully keyboard driven Audio Controller with \"Set Audio Device\" command, also allowing you to save output + input device combinations as audio presets. Perfect for use during zoom calls.</li>\n<li>Floating Notes-style mode that lets you take notes with simple markdown. Comes up seamlessly, even over fullscreen. (\u2318+dot by default)</li>\n<li>Link to anything with <a href=\"https://manual.monarchlauncher.com/superlinks\">Superlinks</a>, <em>significantly</em> more powerful than Quicklinks in Raycast allowing you to have fallback links, match checks, reorder parameters, custom icons, auto triggers etc.</li>\n<li>Custom themes + in-app theme editor.</li>\n<li>Zero telemetry, zero data collection, zero email marketing, 100% user-supported.</li>\n</ul>\n<p>Having said all that, there's still a long way to go, and I will say one more time that the project was opened to the public only in February of this year. But I hope that you can imagine what Monarch looks like this time next year, or 2, 5, or 10 years from now. This isn't a major update though, the next major update will be Monarch AI, which I'm quite excited for as I think that every AI app is going about AI in the wrong way, so I want to demo something new there!</p>\n<p>Monarch is updated at a blistering pace, but only thanks to the support you provide, thank you!</p>\n<p>Feel free to join the <a href=\"https://discord.gg/4aysbQVjus\">Discord</a>, so much of what's going into Monarch gets shaped there, but I try to comment on the <a href=\"https://monarchlauncher.featurebase.app/\">roadmap</a> as much as possible.</p>\n<p>Note: As of right now, you can't create your own custom actions for Monarch's Instant Send, but some of the groundwork for that is laid with this update, depending on how it is received, and it is something I want to do.</p>\n<p><a href=\"https://monarchlauncher.com\">Link to Monarch website &amp; more info</a></p>\n<p>Some questions that come up:</p>\n<p><strong>What's the difference between Luna/Freya licenses?</strong><br />\nLuna license is a lifetime license that will have access to all versions of Monarch from 1.0 to 2.0, 3.0 and beyond, for 0 upgrade costs for the rest of ever. Freya licenses will be similar to CleanShot X licenses in that you can optionally upgrade for a small fee.</p>\n<p><strong>Are there student discounts?</strong><br />\nYes -- 25% off for students outside NY/NJ, 40% for students inside NY/NJ because I really want to support the local developer scene here where I live. Email me at <a href=\"mailto:rmdashrfv@hey.com\">rmdashrfv@hey.com</a> for a code.</p>\n<p><strong>Is there a bundle deal?</strong><br />\nYes, buy one get one 50% off (for a limited time).</p>\n<p><strong>When are you adding Monarch to Homebrew?</strong><br />\nHopefully the end of this week. I really hope.</p>",
+            "date_published": "2024-06-29T15:48:49+00:00",
+            "authors": [
+                {
+                    "name": "thievingfour",
+                    "url": "https://www.reddit.com/user/thievingfour"
+                }
+            ]
+        },
+        {
             "id": "1dopzr0",
             "url": "/r/macapps/comments/1dopzr0/apps_that_transformed_my_relationship_with_my_mac/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1dopzr0/apps_that_transformed_my_relationship_with_my_mac/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "QenTox",
                     "url": "https://www.reddit.com/user/QenTox"
-                }
-            ]
-        },
-        {
-            "id": "18as1ui",
-            "url": "/r/macapps/comments/18as1ui/introducing_zen_free_opensource_adblocker_and/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/18as1ui/introducing_zen_free_opensource_adblocker_and/",
-            "title": "Introducing Zen: Free, Open-Source Ad-Blocker and Privacy Guard",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/18as1ui/introducing_zen_free_opensource_adblocker_and/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/18as1ui/introducing_zen_free_opensource_adblocker_and/'>Reddit</a></caption><div><br></div><p>Hello r/macapps community!</p>\n<p>I'm excited to share a project I've been working on called Zen. As a macOS user, I've always wanted a powerful solution to block ads and trackers across browsers, desktop applications, and the OS itself. All of the existing solutions are either paid or offered via a freemium model, which motivated me to create Zen.</p>\n<p><strong>What Makes Zen Unique</strong>: Zen operates system-wide, intercepting network requests from all applications. It efficiently blocks ads, tracking scripts, malware, and other unwanted content that traditional browser extensions might miss. This includes trackers in desktop apps and system components. Zen works across multiple platforms, is free and will always offer full functionality without additional payments.</p>\n<p>Zen is primarily licensed under the MIT License, with some components under different terms. To learn more about Zen and how it can help protect your digital privacy, visit our GitHub page: <a href=\"https://github.com/anfragment/zen\">Zen on GitHub</a>.</p>\n<p>Looking forward to your feedback to make Zen even better!</p>\n<p>https://preview.redd.it/1hetedf8xb4c1.png?width=994&amp;format=png&amp;auto=webp&amp;s=380896f8da94dcf229e89991af492e482299f716</p>",
-            "date_published": "2023-12-04T19:29:38+00:00",
-            "authors": [
-                {
-                    "name": "anfragment",
-                    "url": "https://www.reddit.com/user/anfragment"
                 }
             ]
         }
