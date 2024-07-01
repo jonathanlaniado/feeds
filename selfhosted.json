@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1dt2k5k",
+            "url": "/r/selfhosted/comments/1dt2k5k/immich_highperformance_selfhosted_photo_and_video/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1dt2k5k/immich_highperformance_selfhosted_photo_and_video/",
+            "title": "Immich - High-performance self-hosted photo and video management solution (AKA The Google Photos replacement you have been waiting for) - Progress update, July 2024 - Now with similarity deduplication, web translation, SMTP email notification, and public roadmap \ud83c\udf89",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1dt2k5k/immich_highperformance_selfhosted_photo_and_video/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1dt2k5k/immich_highperformance_selfhosted_photo_and_video/'>Reddit</a></caption><div><br></div><p><a href=\"https://github.com/immich-app/immich\">GitHub Repository</a></p>\n<p>Hello everybody! Alex from Immich here, and I am back with another development progress update for the project.</p>\n<p>Summer has returned once again, and the night sky is filled with stars; thank you for <strong>38_000 shining stars</strong> you have sent to our <a href=\"https://github.com/immich-app/immich\">GitHub repo</a>! Since the last announcement, several core contributors have started working full-time. Everything is going great with development, PRs get merged with <em>brrrrrrr</em> rate, conversation exchange between team members is on a new high, we met and are working with the great engineers at FUTO. The spirit is high, and we have a lot of things brewing that we think you will like.</p>\n<p>Let's go over some of the updates we had since the last post.</p>\n<h1>Container consolidation</h1>\n<p>Reduced the number of total containers from 5 to 4 by making the microservices threads get spawned directly in the server container. Woohoo, remember when Immich had 7 containers?</p>\n<h1>Email notifications SMTP</h1>\n<p>https://preview.redd.it/xbuff7myqy9d1.png?width=1342&amp;format=png&amp;auto=webp&amp;s=56007ddd86823ca0e0f020ade80d25f90d2f8bae</p>\n<p>We added  email notifications to the app with SMTP settings that you can configure for the following events:</p>\n<ul>\n<li>A new account is created for you.</li>\n<li>You are added to a shared album.</li>\n<li>New media is added to an album.</li>\n</ul>\n<h1>Versioned docs</h1>\n<p>https://preview.redd.it/dtxszggzqy9d1.png?width=224&amp;format=png&amp;auto=webp&amp;s=00d034a7f8a973c317cef7b3ba73be322f9dc703</p>\n<p>You can now jump back into the past or take a peek at the unreleased version of the documentation by selecting the version on the website.</p>\n<h1>Similarity deduplication</h1>\n<p><a href=\"https://preview.redd.it/yo64yhdsqy9d1.png?width=2620&amp;format=png&amp;auto=webp&amp;s=77b68a8d640fa593c544ee8636e894b12bb3f07e\">Similarity deduplication control panel</a></p>\n<p>With more machine learning and CLIP magic, we now have similarity deduplication built into the application where it will search for closely similar images and let you decide what to do with them; i.e keep or trash.</p>\n<h1>Permanent URL for assets on the web</h1>\n<p>The detail view for an asset now has a permanent URL, so you can easily share it with your loved ones.</p>\n<h1>Web app translations</h1>\n<p>https://preview.redd.it/1fi0pl41ry9d1.png?width=1149&amp;format=png&amp;auto=webp&amp;s=c405a3409d3d42af3f9d99b3fd514e39d9648dc6</p>\n<p>We now have a public Weblate project, which the community can use to translate the web app to their native languages. We are planning to port the mobile app translation to this platform as well. If you would like to contribute, you can take a look <a href=\"https://hosted.weblate.org/projects/immich/immich/\">here</a>. We're already close to 50% translations - we really appreciate everyone contributing to that!</p>\n<h1>Read-only/Editor mode on the shared album</h1>\n<p>As the owner of the album, you can choose if the shared user can edit the album or only view the content of the album without any modification.</p>\n<p>https://preview.redd.it/xdkx2sm3ry9d1.png?width=1206&amp;format=png&amp;auto=webp&amp;s=929d30f664bf77639f550c89f23000334b970373</p>\n<h1>Better video thumbnails</h1>\n<p>Immich now tries to find a descriptive video thumbnail instead of simply using the first frame. No more black images for thumbnails!</p>\n<h1>Public Roadmap</h1>\n<p>We now have a <a href=\"https://immich.app/roadmap\">public roadmap</a>, giving you a high-level overview of things the team is working on. The first goal of this roadmap is to bring Immich to a stable release, which is expected sometime later this year. Some of the highlights include</p>\n<ul>\n<li>Auto stacking - Auto stacking of burst photos</li>\n<li>Basic editor - Basic photo editing capabilities</li>\n<li>Workflows - Automate tasks with workflows</li>\n<li>Fine-grained access controls - Granular access controls for users and API keys</li>\n<li>Better background backups - Rework background backups to be more reliable</li>\n<li>Private/locked photos - Private assets with extra protections</li>\n</ul>\n<p>Beyond the items in the roadmap, we have <em>many many</em> more ideas for Immich. The team and I hope that you are enjoying the application, find it helpful in your life and we have nothing but the intention of building out great software for you all!</p>\n<p>Have an amazing Summer or Winter for those in the southern hemisphere! :D</p>\n<p>Until next time,</p>\n<p>Cheers! Alex</p>",
+            "date_published": "2024-07-01T20:03:47+00:00",
+            "authors": [
+                {
+                    "name": "altran1502",
+                    "url": "https://www.reddit.com/user/altran1502"
+                }
+            ]
+        },
+        {
             "id": "1dqo95f",
             "url": "/r/selfhosted/comments/1dqo95f/unpopular_opinion_i_dont_need_new_features_i_just/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1dqo95f/unpopular_opinion_i_dont_need_new_features_i_just/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Ironicbadger",
                     "url": "https://www.reddit.com/user/Ironicbadger"
-                }
-            ]
-        },
-        {
-            "id": "180fc2m",
-            "url": "/r/selfhosted/comments/180fc2m/taipy_v30_turns_data_and_ai_algorithms_into_full/",
-            "external_url": "https://github.com/Avaiga/taipy",
-            "title": "Taipy v.3.0 - Turns Data and AI algorithms into full web applications in no time.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/180fc2m/taipy_v30_turns_data_and_ai_algorithms_into_full/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/180fc2m/taipy_v30_turns_data_and_ai_algorithms_into_full/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-11-21T11:59:11+00:00",
-            "authors": [
-                {
-                    "name": "quicklyalienated76",
-                    "url": "https://www.reddit.com/user/quicklyalienated76"
                 }
             ]
         }
