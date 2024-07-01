@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1dsqscu",
+            "url": "/r/OpenAI/comments/1dsqscu/i_made_this_untold_potter_stories_a_short_movie/",
+            "external_url": "https://v.redd.it/fxj7h8vk8w9d1",
+            "title": "I made this \"Untold Potter Stories\" - A short movie made by ChatGPT+Midjourney+ElevenLabs+LumaAI",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1dsqscu/i_made_this_untold_potter_stories_a_short_movie/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1dsqscu/i_made_this_untold_potter_stories_a_short_movie/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-07-01T11:35:46+00:00",
+            "authors": [
+                {
+                    "name": "SharkyLV",
+                    "url": "https://www.reddit.com/user/SharkyLV"
+                }
+            ]
+        },
+        {
             "id": "1drcxhc",
             "url": "/r/OpenAI/comments/1drcxhc/gen3_is_in_beta_test_your_move_sora/",
             "external_url": "https://v.redd.it/139v9r7txi9d1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "xutw21",
                     "url": "https://www.reddit.com/user/xutw21"
-                }
-            ]
-        },
-        {
-            "id": "1auxr5p",
-            "url": "/r/OpenAI/comments/1auxr5p/gpt35_generating_documentation_for_entire/",
-            "external_url": "https://www.reddit.com/r/OpenAI/comments/1auxr5p/gpt35_generating_documentation_for_entire/",
-            "title": "GPT-3.5 generating documentation for entire codebases.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1auxr5p/gpt35_generating_documentation_for_entire/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1auxr5p/gpt35_generating_documentation_for_entire/'>Reddit</a></caption><div><br></div><p>We made a project that answered the question-- given the right slices of a codebase for every method, class, function, variable, etc., can GPT-3.5 generate documentation for entire codebases? What quality would these docs be?</p>\n<p>Here's Pandas: <a href=\"https://app.sage-ai.dev/demo/R_kgDOLLXuzg\">https://app.sage-ai.dev/demo/R_kgDOLLXuzg</a>. You can also try for free any Python/JS/Java repository you want: <a href=\"https://sage-ai.dev\">sage-ai.dev</a></p>\n<p>The results blew us away. A fully auto-generating, auto-updating code reference guide at the symbol level. </p>\n<p>We're also working on a pull request bot that reads your knowledge base to check if there is any documentation that needs to be updated.</p>\n<p>Open to feedback!</p>",
-            "date_published": "2024-02-19T20:31:12+00:00",
-            "authors": [
-                {
-                    "name": "plinifan999",
-                    "url": "https://www.reddit.com/user/plinifan999"
                 }
             ]
         }
