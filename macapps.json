@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1dsq76b",
+            "url": "/r/macapps/comments/1dsq76b/wired_buddy_the_missing_ethernet_icon_for_macos/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1dsq76b/wired_buddy_the_missing_ethernet_icon_for_macos/",
+            "title": "Wired Buddy - the missing ethernet icon for macOS",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1dsq76b/wired_buddy_the_missing_ethernet_icon_for_macos/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1dsq76b/wired_buddy_the_missing_ethernet_icon_for_macos/'>Reddit</a></caption><div><br></div><p>Hi all! I open-sourced something I worked on the past month. The application should show the state of an active ethernet connection as a cute little icon in your menu bar. When I switched from a Windows workstation to a Mac mini, I noticed that there is no such icon. The other menubar apps I found were either paid or did not integrate that well into the macOS look &amp; feel. Thats why I quickly developed something on my own.</p>\n<p><a href=\"https://github.com/yeahitsjan/WiredBuddy\">https://github.com/yeahitsjan/WiredBuddy</a></p>\n<p>https://preview.redd.it/tnoj87xa2w9d1.png?width=320&amp;format=png&amp;auto=webp&amp;s=c7e347b332c1ddc0345cba47425610d66515e68d</p>\n<p>The app is currently not released as binary as I still implement some features, including a cool cute AppIcon as well as localization. There will be some pushes rapidly the next time, but you can still try it out and give some feedback that will fit into the active development of this little app. It's free forever and MIT licensed ;-)</p>",
+            "date_published": "2024-07-01T11:00:54+00:00",
+            "authors": [
+                {
+                    "name": "dublin20",
+                    "url": "https://www.reddit.com/user/dublin20"
+                }
+            ]
+        },
+        {
             "id": "1ds3a6u",
             "url": "/r/macapps/comments/1ds3a6u/i_made_a_site_that_collects_free_or_more_cheaper/",
             "external_url": "https://onlyfewdollars.com",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Xyspade",
                     "url": "https://www.reddit.com/user/Xyspade"
-                }
-            ]
-        },
-        {
-            "id": "18h4nik",
-            "url": "/r/macapps/comments/18h4nik/a_definitive_window_manager_app_comparison/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/18h4nik/a_definitive_window_manager_app_comparison/",
-            "title": "A Definitive Window Manager App Comparison",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/18h4nik/a_definitive_window_manager_app_comparison/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/18h4nik/a_definitive_window_manager_app_comparison/'>Reddit</a></caption><div><br></div><p>Many here use window managers, but there are a bunch to choose from. How do they compare?<br />\nI've set up a crowdsourced comparison sheet that this community can contribute to and benefit from. Thanks to the various developers who helped contribute the initial data.</p>\n<p>View the crowdsourced feature comparison spreadsheet here: <a href=\"https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M/edit#gid=456166567\">Window Manager App List</a></p>\n<p><strong>To add additional Window Manager App columns automatically:</strong> <a href=\"https://forms.gle/HbgJ8UHS4HZ8WJgSA\">Contribute here</a></p>\n<p><strong>To make individual corrections:</strong> Right click a cell&gt;add a comment! (include citation link if possible). </p>\n<p>Previous Comparisons: <a href=\"https://www.reddit.com/r/macapps/comments/138ikin/a_definitive_note_app_comparison/\">Note Apps</a> | <a href=\"https://www.reddit.com/r/macapps/comments/135isnu/a_definitive_browser_comparison/\">Browsers</a> | <a href=\"https://www.reddit.com/r/macapps/comments/zj0hri/a_definitive_calendar_app_comparison/\">Calendar apps</a> |<a href=\"https://www.reddit.com/r/macapps/comments/x49fwh/a_definitive_email_client_comparison/\">Email clients</a> | <a href=\"https://www.reddit.com/r/macapps/comments/zvn6vv/a_definitive_password_manager_comparison/\">Password Managers</a> |<a href=\"https://www.reddit.com/r/macapps/comments/r0uplf/a_definitive_pdf_reader_comparison/\">PDF readers</a></p>\n<p>Post what window manager app you use below so more people can participate.<br />\nWhat comparison would you like to see next? Clipboard Managers? AI UI's?</p>",
-            "date_published": "2023-12-13T01:35:03+00:00",
-            "authors": [
-                {
-                    "name": "Mstormer",
-                    "url": "https://www.reddit.com/user/Mstormer"
                 }
             ]
         }
