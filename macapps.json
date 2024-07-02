@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1dtkved",
+            "url": "/r/macapps/comments/1dtkved/thriftmac_100_free_mac_apps/",
+            "external_url": "https://www.thriftmac.com/",
+            "title": "Thriftmac: 100% Free Mac Apps",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1dtkved/thriftmac_100_free_mac_apps/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1dtkved/thriftmac_100_free_mac_apps/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-07-02T12:41:19+00:00",
+            "authors": [
+                {
+                    "name": "alexk111",
+                    "url": "https://www.reddit.com/user/alexk111"
+                }
+            ]
+        },
+        {
             "id": "1dsq76b",
             "url": "/r/macapps/comments/1dsq76b/wired_buddy_the_missing_ethernet_icon_for_macos/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1dsq76b/wired_buddy_the_missing_ethernet_icon_for_macos/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "force4",
                     "url": "https://www.reddit.com/user/force4"
-                }
-            ]
-        },
-        {
-            "id": "18jxop5",
-            "url": "/r/macapps/comments/18jxop5/on_a_mission_to_keep_a_collection_of_old_intel/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/18jxop5/on_a_mission_to_keep_a_collection_of_old_intel/",
-            "title": "On a mission to keep a collection of old Intel Macs useful! What are your favorite apps for OS 10.5 through 10.13?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/macapps/comments/18jxop5/on_a_mission_to_keep_a_collection_of_old_intel/'>Apollo</a> | <a href='https://reddit.com/r/macapps/comments/18jxop5/on_a_mission_to_keep_a_collection_of_old_intel/'>Reddit</a></caption><div><br></div><p>Looking especially for <em>exclusives</em> that don't exist on Windows, and apps specifically designed to match OS X UI.  Any genre of apps will do, new or old, supported or unsupported, paid or free.  So far I know of:</p>\n<ul>\n<li>Firefox and Chromium Legacy</li>\n<li>iWork and iLife</li>\n<li>Logic and Final Cut</li>\n<li>Xcode</li>\n<li>Microsoft Office:mac</li>\n<li>Limechat</li>\n<li>VLC</li>\n<li>Permute</li>\n<li>Paintbrush</li>\n<li>Pixelmator</li>\n<li>Seahorse</li>\n<li>TextMate</li>\n<li>OpenEmu</li>\n<li>Yate</li>\n<li>Metadatics</li>\n<li>Parallels</li>\n<li>MacsFanControl</li>\n<li>Cyberduck</li>\n<li>Transmit</li>\n<li>Keka</li>\n<li>The Unarchiver</li>\n</ul>",
-            "date_published": "2023-12-16T18:44:58+00:00",
-            "authors": [
-                {
-                    "name": "Xyspade",
-                    "url": "https://www.reddit.com/user/Xyspade"
                 }
             ]
         }
