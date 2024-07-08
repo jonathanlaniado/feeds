@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1dy7v7q",
+            "url": "/r/iOSBeta/comments/1dy7v7q/ios_18_db1_i_accidentally_got_apple_ai_in_apple/",
+            "external_url": "https://www.reddit.com/gallery/1dy7v7q",
+            "title": "[IOS 18 DB1] I accidentally got Apple AI in Apple Notes",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1dy7v7q/ios_18_db1_i_accidentally_got_apple_ai_in_apple/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1dy7v7q/ios_18_db1_i_accidentally_got_apple_ai_in_apple/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-07-08T12:37:34+00:00",
+            "authors": [
+                {
+                    "name": "MAXYMOK",
+                    "url": "https://www.reddit.com/user/MAXYMOK"
+                }
+            ]
+        },
+        {
             "id": "1dxcr58",
             "url": "/r/iOSBeta/comments/1dxcr58/ios_18_db2_att_being_represented_by_its_former/",
             "external_url": "https://i.redd.it/2jytjvpch2bd1.jpeg",
@@ -1397,12 +1411,6 @@
                     "avatar": "https://www.redditstatic.com/avatars/avatar_default_03_A06A42.png"
                 }
             ]
-        },
-        {
-            "id": "0",
-            "url": "https://www.reddit.com/r/iosbeta",
-            "title": "r/iosbeta has been launched!",
-            "content_html": "<p>This feed will be populated as posts match the given criteria.</p>"
         }
     ]
 }
