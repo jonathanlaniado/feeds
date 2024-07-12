@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1e1edw6",
+            "url": "/r/PleX/comments/1e1edw6/i_discovered_plex_last_month_i_bought_an_8tb/",
+            "external_url": "https://i.redd.it/y13e11eye2cd1.jpeg",
+            "title": "I discovered Plex last month, I bought an 8TB drive and I even with shitty internet, I have 2.5TB left to play with. I love obscure movies.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1e1edw6/i_discovered_plex_last_month_i_bought_an_8tb/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1e1edw6/i_discovered_plex_last_month_i_bought_an_8tb/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/y13e11eye2cd1.jpeg\" />",
+            "date_published": "2024-07-12T10:32:29+00:00",
+            "authors": [
+                {
+                    "name": "DannyMThompson",
+                    "url": "https://www.reddit.com/user/DannyMThompson"
+                }
+            ]
+        },
+        {
             "id": "1e1ebmf",
             "url": "/r/PleX/comments/1e1ebmf/this_beautiful_image_was_created_as_i_scrolled/",
             "external_url": "https://i.redd.it/99e1qrhke2cd1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Harm_Tech",
                     "url": "https://www.reddit.com/user/Harm_Tech"
-                }
-            ]
-        },
-        {
-            "id": "16ssfbk",
-            "url": "/r/PleX/comments/16ssfbk/locked_out_of_server_how_do_i_get_back_in/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/16ssfbk/locked_out_of_server_how_do_i_get_back_in/",
-            "title": "Locked Out of Server. How do I get back in?",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16ssfbk/locked_out_of_server_how_do_i_get_back_in/'>Reddit</a></caption><div><br></div><div><p>Hi! i was out of town for a few days and when I came back I realized my Plex account was down. I checked the server/main computer the server is connected to and I received the message, \"Not authorized. You don't have access to this server.\" I realize now this randomly happens to people from time to time with Plex, but I have no idea how to fix it/claim it back. I'm using a Mac OS and I've tried the <a href=\"https://support.plex.tv/articles/204281528-why-am-i-locked-out-of-server-settings-and-how-do-i-get-in/\">troubleshooting instructions</a> from Plex, rebooting the server, etc. still nothing. Is there something I'm doing wrong? I also tried un-installing the package file and re-installing on my Synology DiskStation. Still nothing. I have no idea what to do now. Any help would be much appreciated! </p></div>",
-            "date_published": "2023-09-26T16:20:48+00:00",
-            "authors": [
-                {
-                    "name": "bananawriter",
-                    "url": "https://www.reddit.com/user/bananawriter"
                 }
             ]
         }
