@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1e26e8d",
+            "url": "/r/macapps/comments/1e26e8d/network_utility_is_back/",
+            "external_url": "https://i.redd.it/e0jep30e99cd1.jpeg",
+            "title": "Network Utility is Back!",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1e26e8d/network_utility_is_back/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1e26e8d/network_utility_is_back/'>Reddit</a></caption><div><br></div><p>From the very first edition of Mac OS X until Big Sur, Apple provided a tool called Network Utility, a GUI for common CLI tasks as well as an info screen:</p>\n<ul>\n<li>Ping</li>\n<li>Lookup</li>\n<li>Traceroute</li>\n<li>Whois</li>\n<li>Finger</li>\n<li>Port scan</li>\n</ul>\n<p>You could use these tools to get an overview of your network connection or to test the availability of remote servers or web sites. You could see if your connection in a hotel or coffee shop was usable or not. You could do the same thing through Terminal, but Network Utility provided a nice clean interface to see the same info.</p>\n<p>Devon Technologies has resurrected this beloved utility, added a speed test, and is providing it free of charge <a href=\"https://www.devontechnologies.com/blog/20240711-network-utility-10\">on its downloads page</a>.</p><div><br></div><img src=\"https://i.redd.it/e0jep30e99cd1.jpeg\" />",
+            "date_published": "2024-07-13T09:31:03+00:00",
+            "authors": [
+                {
+                    "name": "amerpie",
+                    "url": "https://www.reddit.com/user/amerpie"
+                }
+            ]
+        },
+        {
             "id": "1dyb5dx",
             "url": "/r/macapps/comments/1dyb5dx/affinity_designer_photo_and_publisher_are_now/",
             "external_url": "https://9to5mac.com/2024/07/08/affinity-designer-photo-and-publisher-are-now-free-for-6-months/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "QenTox",
                     "url": "https://www.reddit.com/user/QenTox"
-                }
-            ]
-        },
-        {
-            "id": "18kpzy5",
-            "url": "/r/macapps/comments/18kpzy5/master_list_of_definitive_app_comparisons_view/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/18kpzy5/master_list_of_definitive_app_comparisons_view/",
-            "title": "Master List of Definitive App Comparisons - View and Contribute - 2024 Update",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/18kpzy5/master_list_of_definitive_app_comparisons_view/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/18kpzy5/master_list_of_definitive_app_comparisons_view/'>Reddit</a></caption><div><br></div><p>Over the last year, <a href=\"https://www.reddit.com/r/macapps/\">r/macapps</a>  users have contributed large volumes of data to help you find the best  Mac-compatible apps in various major categories. This post represents a  culmination of those contributions in one place where all can benefit and continue contributing updates.</p>\n<p><em>Note:  Because these are populated to Google Sheets from user form submissions, the best viewing experience on mobile devices is through the Google Sheets app since it retains frozen columns/rows. Most mobile browsers disregard them and may not initially load the correct tab from the links below.</em></p>\n<p><strong>View the Definitive App Comparison sheet here</strong> (links go to the specific tab on desktop)<strong>:</strong> <br />\n<a href=\"https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M/edit#gid=1628450822\">Browsers</a> | <a href=\"https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M/edit#gid=583051238\">Calendar Apps</a> | <a href=\"https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M/edit#gid=1036735176\">Email Clients</a> | <a href=\"https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M/edit#gid=469491148\">Note Apps</a> | <a href=\"https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M/edit#gid=1102167413\">Password Managers</a> | <a href=\"https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M/edit#gid=110826423\">PDF Readers</a> | <a href=\"https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M/edit#gid=456166567\">Window Managers</a> <strong>[NEW] |</strong> AI Apps <em>[Pending Dev Input] |</em> Clipboard Managers <em>[Planned]</em></p>\n<p><strong>To contribute new apps, click a corresponding link to fill out a form with the details:</strong> <br />\n<a href=\"https://forms.gle/rbedZBnctSLVXCUU9\">Add a Browser</a> | <a href=\"https://forms.gle/p88rRjayYT2o43jB8\">Add a Calendar App</a> | <a href=\"https://forms.gle/QjuTGbVNTJZjsQPp7\">Add an Email Client</a> | <a href=\"https://forms.gle/cJwqGjkJ1GYgGE1o8\">Add a Note App</a> | <a href=\"https://forms.gle/ScoCcPuUHHdHECD2A\">Add a Password Manager</a> | <a href=\"https://forms.gle/K2WFtv1huAdjH8oX8\">Add a PDF Reader</a> | <a href=\"https://forms.gle/HbgJ8UHS4HZ8WJgSA\">Add a Window Manager</a> | Add an AI App <em>[Pending Dev Input]</em></p>\n<p>To suggest a specific correction to an already-listed app, comment on a cell or here below. Please link to the source of your info if possible.</p>\n<p>Are you looking for a specific feature that is not listed? Ask below or share what's so great about your app of choice. Feel free to suggest additional app comparison types for future consideration.</p>",
-            "date_published": "2023-12-17T20:10:51+00:00",
-            "authors": [
-                {
-                    "name": "Mstormer",
-                    "url": "https://www.reddit.com/user/Mstormer"
                 }
             ]
         }
