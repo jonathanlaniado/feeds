@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1e38c69",
+            "url": "/r/shortcuts/comments/1e38c69/wallpaper_selector/",
+            "external_url": "https://i.redd.it/dduwj38quicd1.jpeg",
+            "title": "Wallpaper Selector",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1e38c69/wallpaper_selector/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1e38c69/wallpaper_selector/'>Reddit</a></caption><div><br></div><p><strong>TLDR:</strong> Instantly refresh your iPhone's look. Switch custom Lock and Home wallpapers easily &amp; quickly.</p>\n<p><strong>Please read the <em>Quick Setup Steps</em> below. This shortcut needs an album called \"Wallpaper Collection\".</strong></p>\n<p><strong>Download it here:</strong></p>\n<p>https://routinehub.co/shortcut/19141/</p>\n<p>\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014</p>\n<p><strong><em>FULL POST</em></strong></p>\n<h2>Quick Wallpaper Customization</h2>\n<p>This shortcut is designed to quickly set wallpapers for the Lock Screen and/or Home Screen of a specific wallpaper slot, or to swiftly switch between different preset wallpaper slots. The wallpapers are sourced from a dedicated album named \"Wallpaper Collection\", which contains only images suitable for wallpapers. This approach helps users easily select and set wallpapers, and quickly switch between multiple wallpapers in the album whenever desired.</p>\n<h2>Quick Setup Steps</h2>\n<ol>\n<li>Create an album named \"Wallpaper Collection\" in your Photos app.</li>\n<li>Add images suitable for wallpapers to this album. You can start with just a few and add more later as needed.</li>\n<li>Run the shortcut and choose the feature you want to use.</li>\n</ol>\n<p><strong><em>Example of a \"Wallpaper Collection\" album:</em></strong></p>\n<p>[See the attached image of this post for a visual example]</p>\n<h2>Features</h2>\n<ul>\n<li>Select a single wallpaper for both Lock Screen and Home Screen</li>\n<li>Choose different wallpapers for Lock Screen and Home Screen sequentially</li>\n<li>Set Lock Screen wallpaper individually</li>\n<li>Set Home Screen wallpaper individually</li>\n<li>View the current wallpaper pair in the selected slot</li>\n<li>Easily switch between different wallpaper slots</li>\n</ul>\n<h2>Notes</h2>\n<ul>\n<li>\n<p>Some special types of wallpaper slots do not allow the shortcut to change wallpapers. These include:</p>\n<ul>\n<li>Photo Shuffle (e.g., shuffling between multiple wallpapers on the lock screen by tapping)</li>\n<li>Astronomy</li>\n<li>Kaleidoscope</li>\n<li>Emoji</li>\n<li>Apple may add more special wallpaper types in the future that can't be changed by shortcuts.</li>\n</ul>\n</li>\n<li>\n<p>In some wallpaper slots, users may unintentionally enable certain options:</p>\n<ul>\n<li><strong>\"Pair\" option</strong>: When enabled, this makes the Home Screen wallpaper match the Lock Screen wallpaper. This affects the \"Select Lock Screen wallpaper\" feature, preventing separate Lock Screen wallpaper changes. If \"pair\" is enabled, selecting the wallpaper for only the Lock Screen will also change the Home Screen to have the same wallpaper. To resolve this, uncheck the \"pair\" option.</li>\n<li><strong>\"Blur\" option</strong>: When enabled, the Home Screen wallpaper becomes blurred. For a clear Home Screen view, uncheck this option.</li>\n</ul>\n</li>\n</ul>\n<h2>Compatibility</h2>\n<ul>\n<li>Requires iOS 16 or later</li>\n<li>Works on iPhone and iPad</li>\n</ul>\n<h2>Feedback</h2>\n<p>If you encounter any issues, please leave a comment below. Your feedback is valuable and helps improve the shortcut for everyone.</p><div><br></div><img src=\"https://i.redd.it/dduwj38quicd1.jpeg\" />",
+            "date_published": "2024-07-14T17:46:37+00:00",
+            "authors": [
+                {
+                    "name": "Straight_Random_2211",
+                    "url": "https://www.reddit.com/user/Straight_Random_2211"
+                }
+            ]
+        },
+        {
             "id": "1e1fq6i",
             "url": "/r/shortcuts/comments/1e1fq6i/deleting_files_of_a_particular_type/",
             "external_url": "https://i.redd.it/pjjssgyjt2cd1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "username-changed",
                     "url": "https://www.reddit.com/user/username-changed"
-                }
-            ]
-        },
-        {
-            "id": "1796mcv",
-            "url": "/r/shortcuts/comments/1796mcv/garage_door_status_10_minutes_after_its_opened/",
-            "external_url": "https://i.redd.it/d2lkzqw7mkub1.jpg",
-            "title": "Garage door status 10 minutes after it\u2019s opened",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/1796mcv/garage_door_status_10_minutes_after_its_opened/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/1796mcv/garage_door_status_10_minutes_after_its_opened/'>Reddit</a></caption><div><br></div><p>So I\u2019m trying to create an automation that notifies me if the garage door is open or closed 10 min after it\u2019s opened. It\u2019s supposed to be a reminder so I don\u2019t forget to close it.  I\u2019m stuck at this point and can\u2019t figure out how to get the notification.  Appreciate the help \ud83d\ude4f</p><div><br></div><img src=\"https://i.redd.it/d2lkzqw7mkub1.jpg\" />",
-            "date_published": "2023-10-16T13:59:15+00:00",
-            "authors": [
-                {
-                    "name": "ig_sky",
-                    "url": "https://www.reddit.com/user/ig_sky"
                 }
             ]
         }
