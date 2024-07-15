@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1e3vedq",
+            "url": "/r/macapps/comments/1e3vedq/work_scheduling_is_now_available_in_lookaway_160/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1e3vedq/work_scheduling_is_now_available_in_lookaway_160/",
+            "title": "Work Scheduling is now available in LookAway 1.6.0 + 40% discount",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1e3vedq/work_scheduling_is_now_available_in_lookaway_160/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1e3vedq/work_scheduling_is_now_available_in_lookaway_160/'>Reddit</a></caption><div><br></div><p>Hello,</p>\n<p>First of all, thank you for using <a href=\"https://lookaway.app\">LookAway</a>, and helping me make a difference in people's lives. Your feedback and support means a lot.</p>\n<p>LookAway 1.6.0 is now released and here's what's new:</p>\n<h1>Work Schedule</h1>\n<p>https://preview.redd.it/32cgsk8psocd1.png?width=1317&amp;format=png&amp;auto=webp&amp;s=3e562500cd5ba245abc65b48ca5108c942e167b7</p>\n<p>Setting a work schedule in LookAway has been the most requested feature since the launch. You can now set a schedule and LookAway will only suggest breaks during those hours.</p>\n<h1>Custom Durations</h1>\n<p>https://preview.redd.it/36k6gwtysocd1.png?width=1339&amp;format=png&amp;auto=webp&amp;s=5f00b8ea6271445339f40e904263c0e7c095ca20</p>\n<p>You can now set custom durations for everything in the settings - including the idle time thresholds.</p>\n<h1>And more...</h1>\n<ul>\n<li>\n<p>LookAway now correctly detects any new cameras or mics that are connected while LookAway is already running. This makes the meeting detection even better.  </p>\n</li>\n<li>\n<p>Long break cycle is now reset when you cross your idle time reset threshold instead of focus time.</p>\n</li>\n</ul>\n<h1>Thank you!</h1>\n<p>Also, I am offering a 40% discount on all license options for a limited time. You can use the code MACAPPS40OFF at checkout to get a discount. The code will expire after 48 hours.</p>\n<p>And that's all! Thanks for reading, and helping me make LookAway better everyday. Please keep your feedback coming - it helps a lot!</p>",
+            "date_published": "2024-07-15T13:56:00+00:00",
+            "authors": [
+                {
+                    "name": "kushsolitary",
+                    "url": "https://www.reddit.com/user/kushsolitary"
+                }
+            ]
+        },
+        {
             "id": "1e337pd",
             "url": "/r/macapps/comments/1e337pd/did_you_know_you_can_switch_between_apps_windows/",
             "external_url": "https://v.redd.it/0vu7ce4erhcd1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "LinhSex",
                     "url": "https://www.reddit.com/user/LinhSex"
-                }
-            ]
-        },
-        {
-            "id": "18nqg6w",
-            "url": "/r/macapps/comments/18nqg6w/a_definitive_ai_app_comparison/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/18nqg6w/a_definitive_ai_app_comparison/",
-            "title": "A Definitive AI App Comparison",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/18nqg6w/a_definitive_ai_app_comparison/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/18nqg6w/a_definitive_ai_app_comparison/'>Reddit</a></caption><div><br></div><p>Three of the biggest challenges facing AI apps are how practical the implementation is, usability, and cost. This market has been absolutely flooded in the last year, and many attempts are not much more than a web wrapper with very little innovation. So, how do the better text generation AI MacApps compare?</p>\n<p>View the comparison here: <a href=\"https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M/edit#gid=1177164211\">AI App List</a>  </p>\n<p>This is a crowdsourced comparison. You can contribute an app to it <a href=\"https://forms.gle/39AF3nkh38KpV4iw5\">here</a>. <br />\nI asked \\~20 developers to contribute. If an app isn't listed yet, feel free to add it.</p>\n<p><strong>To make individual corrections:</strong> Right-click a cell&gt;add a comment! (include citation link if possible).</p>\n<p>Previous Comparisons: <a href=\"https://www.reddit.com/r/macapps/comments/138ikin/a_definitive_note_app_comparison/\">Note Apps</a> | <a href=\"https://www.reddit.com/r/macapps/comments/135isnu/a_definitive_browser_comparison/\">Browsers</a> | <a href=\"https://www.reddit.com/r/macapps/comments/zj0hri/a_definitive_calendar_app_comparison/\">Calendar apps</a> |<a href=\"https://www.reddit.com/r/macapps/comments/x49fwh/a_definitive_email_client_comparison/\">Email clients</a> | <a href=\"https://www.reddit.com/r/macapps/comments/zvn6vv/a_definitive_password_manager_comparison/\">Password Managers</a> |<a href=\"https://www.reddit.com/r/macapps/comments/r0uplf/a_definitive_pdf_reader_comparison/\">PDF readers</a> | <a href=\"https://www.reddit.com/r/macapps/comments/18h4nik/a_definitive_window_manager_app_comparison/\">Window Managers</a></p>\n<p>Are you using an AI-powered app, or are you just using ChatGPT/Claude/Bard online?</p>\n<p>What would you like to see enter this space? I'm looking forward to apps that give me more control over my system, such as advanced file sorting, tagging, naming, summarizing, etc. at the system level.</p>",
-            "date_published": "2023-12-21T16:07:04+00:00",
-            "authors": [
-                {
-                    "name": "Mstormer",
-                    "url": "https://www.reddit.com/user/Mstormer"
                 }
             ]
         }
