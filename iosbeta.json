@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1e45baq",
+            "url": "/r/iOSBeta/comments/1e45baq/ios_18_developer_beta_3_revision_public_beta/",
+            "external_url": "https://www.reddit.com/r/iOSBeta/comments/1e45baq/ios_18_developer_beta_3_revision_public_beta/",
+            "title": "iOS 18 Developer Beta 3 Revision & Public Beta Released",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1e45baq/ios_18_developer_beta_3_revision_public_beta/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1e45baq/ios_18_developer_beta_3_revision_public_beta/'>Reddit</a></caption><div><br></div><p>Please use the main 18 Beta 3 discussion thread to discuss.</p>\n<p>https://www.reddit.com/r/iOSBeta/s/rSesa9sGeN</p>",
+            "date_published": "2024-07-15T20:30:01+00:00",
+            "authors": [
+                {
+                    "name": "epmuscle",
+                    "url": "https://www.reddit.com/user/epmuscle"
+                }
+            ]
+        },
+        {
             "id": "1e417ak",
             "url": "/r/iOSBeta/comments/1e417ak/ios_18_db3_revised_build_emoji_picker_reverted_to/",
             "external_url": "https://i.imgur.com/L91imUd.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Moist-Knowledge01",
                     "url": "https://www.reddit.com/user/Moist-Knowledge01"
-                }
-            ]
-        },
-        {
-            "id": "p1ucat",
-            "url": "/r/iOSBeta/comments/p1ucat/new_weather_icon_ios_150_beta_5/",
-            "external_url": "https://i.imgur.com/cXT0VLl.jpg",
-            "title": "New Weather icon (iOS 15.0 beta 5)",
-            "content_html": "<caption>Open in: <a href='https://i.imgur.com/cXT0VLl.jpg'>i.imgur.com</a> | <a href='https://reddit.com/r/iOSBeta/comments/p1ucat/new_weather_icon_ios_150_beta_5/'>Reddit</a> | <a href='apollo://reddit.com/r/iOSBeta/comments/p1ucat/new_weather_icon_ios_150_beta_5/'>Apollo</a></caption>",
-            "date_published": "2021-08-10T17:46:00+00:00",
-            "authors": [
-                {
-                    "name": "DuraidAbdul",
-                    "url": "https://www.reddit.com/user/DuraidAbdul"
                 }
             ]
         }
