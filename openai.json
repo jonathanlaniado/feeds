@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1e4kyie",
+            "url": "/r/OpenAI/comments/1e4kyie/gpt4o_is_an_extreme_downgrade_over_gpt4tubro_and/",
+            "external_url": "https://www.reddit.com/r/OpenAI/comments/1e4kyie/gpt4o_is_an_extreme_downgrade_over_gpt4tubro_and/",
+            "title": "GPT4-o is an extreme downgrade over gpt4-tubro and I don't know what makes people say its even comparable to sonnet 3.5",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1e4kyie/gpt4o_is_an_extreme_downgrade_over_gpt4tubro_and/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1e4kyie/gpt4o_is_an_extreme_downgrade_over_gpt4tubro_and/'>Reddit</a></caption><div><br></div><p>So I am ML engineer and I work with these models not once in while but daily for 9 hours through API or otherwise. Here are my oberservations.</p>\n<ol>\n<li>The moment I changed my model from turbo to o for RAG, crazy hallucinations happened and I was embarresed in front of stakeholders for not writing good code.</li>\n<li>Whenever I will take its help while debugging, I will say please give me code only where you think changes are necessary and it just won't give fuck about this and completely return me code from start to finish thus burning thorough my daily limit without any reason.</li>\n<li>Model is extremly chatty and does not know when to stop. No to the points answers but huge paragraphs,</li>\n<li>For coding in python in my experience even models like Codestral from mistral are better than this and faster. Those models will be able to pick up fault in my question but this thing will go on loop.</li>\n</ol>\n<p>I honestly don't know how this has first rank on llmsys. It is not on par with sonnet in any case not even brainstorming. My guess is this is much smaller model compared with turbo model and thus its extremely unreliable. What has been your exprience in this regard?</p>",
+            "date_published": "2024-07-16T10:10:11+00:00",
+            "authors": [
+                {
+                    "name": "HappyDataGuy",
+                    "url": "https://www.reddit.com/user/HappyDataGuy"
+                }
+            ]
+        },
+        {
             "id": "1e3l0qj",
             "url": "/r/OpenAI/comments/1e3l0qj/ai_headlines_this_week/",
             "external_url": "https://i.redd.it/ljn3rszgrlcd1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Smartaces",
                     "url": "https://www.reddit.com/user/Smartaces"
-                }
-            ]
-        },
-        {
-            "id": "1b5airf",
-            "url": "/r/OpenAI/comments/1b5airf/guy_builds_an_aisteered_homingkiller_drone_in/",
-            "external_url": "https://i.redd.it/0l5x853nd2mc1.png",
-            "title": "Guy builds an AI-steered homing/killer drone in just a few hours",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1b5airf/guy_builds_an_aisteered_homingkiller_drone_in/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1b5airf/guy_builds_an_aisteered_homingkiller_drone_in/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/0l5x853nd2mc1.png\" />",
-            "date_published": "2024-03-03T06:35:04+00:00",
-            "authors": [
-                {
-                    "name": "Maxie445",
-                    "url": "https://www.reddit.com/user/Maxie445"
                 }
             ]
         }
