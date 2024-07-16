@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1e45vub",
+            "url": "/r/shortcuts/comments/1e45vub/remove_paywall/",
+            "external_url": "https://routinehub.co/shortcut/19150/",
+            "title": "Remove Paywall",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1e45vub/remove_paywall/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1e45vub/remove_paywall/'>Reddit</a></caption><div><br></div><p>Some of you may remember this shortcut I posted a few months ago. I've made some updates since then but more importantly am now hosting it on routinehub to make downloads accessible and easy to upgrade to the latest version!</p>\n<p>Description:</p>\n<p>No subscription? No problem.</p>\n<p>Remove Paywall is a shortcut that makes it quick and easy to access the information you're seeking in two simple taps! Simply select it from the share menu either directly from a webpage or as highlighted text then choose which service you'd prefer. In addition to taking you to the archived article, it will automatically copy the archived link to the clipboard so that you can quickly share it with others.</p>",
+            "date_published": "2024-07-15T20:52:31+00:00",
+            "authors": [
+                {
+                    "name": "fermi0nic",
+                    "url": "https://www.reddit.com/user/fermi0nic"
+                }
+            ]
+        },
+        {
             "id": "1e38c69",
             "url": "/r/shortcuts/comments/1e38c69/wallpaper_selector/",
             "external_url": "https://i.redd.it/dduwj38quicd1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "vrachamis",
                     "url": "https://www.reddit.com/user/vrachamis"
-                }
-            ]
-        },
-        {
-            "id": "17aqbmw",
-            "url": "/r/shortcuts/comments/17aqbmw/created_an_action_button_menu_with_remote_start/",
-            "external_url": "https://i.redd.it/cy6ifu3amyub1.jpg",
-            "title": "Created an Action Button Menu with remote start options for my Subaru Outback.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/17aqbmw/created_an_action_button_menu_with_remote_start/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/17aqbmw/created_an_action_button_menu_with_remote_start/'>Reddit</a></caption><div><br></div><p>A kind Redditor suggested I make this post. </p>\n<p>I created shortcuts to remote start my car with various climate control settings, as well as lock and unlock my car, and then created an Action Button Menu with all the shortcuts. The car control shortcuts use the command links that Subaru uses for their website and MySubaru app, and allows you to create inputs for all the climate control settings so you can heat or cool the car.</p>\n<p>This was my first time working with such an intricate shortcut, but a lot of fun to play around with and test!</p><div><br></div><img src=\"https://i.redd.it/cy6ifu3amyub1.jpg\" />",
-            "date_published": "2023-10-18T13:04:31+00:00",
-            "authors": [
-                {
-                    "name": "username-changed",
-                    "url": "https://www.reddit.com/user/username-changed"
                 }
             ]
         }
