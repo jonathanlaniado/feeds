@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1e5st8n",
+            "url": "/r/OpenAI/comments/1e5st8n/open_ai_custom_gpts_on_smythos/",
+            "external_url": "https://www.reddit.com/r/OpenAI/comments/1e5st8n/open_ai_custom_gpts_on_smythos/",
+            "title": "Open AI Custom GPTs on SmythOS?\n",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1e5st8n/open_ai_custom_gpts_on_smythos/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1e5st8n/open_ai_custom_gpts_on_smythos/'>Reddit</a></caption><div><br></div><p>Custom GPTs are tailored models designed to meet specific needs, enhancing both functionality and user interaction. OpenAI's customizable GPTs allow users to modify models to fit unique operational requirements, integrating seamlessly into diverse business environments.</p>\n<p>Custom GPTs move beyond basic informational tasks to perform complex, situation-specific functions. For example, a GPT tailored for a solar company can estimate customer costs based on inputs like roof size, directly interacting with external APIs to provide valuable data. This customization not only improves user experience but also drives efficiency by automating intricate tasks.</p>\n<p><a href=\"https://smythos.com/\">SmythOS</a> is a no-code AI agent platform that can enhance the capabilities of custom GPTs by facilitating seamless integration with APIs through its robust framework. This integration allows GPTs to handle complex tasks and interact smoothly with other software systems like Zapier, Notion, Inflow, WordPress, and just about any system out there with an API, significantly broadening their operational scope.</p>\n<p>With OpenAI's custom GPTs and SmythOS, businesses can unlock unprecedented efficiency and flexibility, driving innovation and enhancing business outcomes. Explore the extensive possibilities of custom GPTs with detailed documentation and tutorials from OpenAI and SmythOS.</p>\n<p>How would you use this?</p>",
+            "date_published": "2024-07-17T20:42:56+00:00",
+            "authors": [
+                {
+                    "name": "moonbunR",
+                    "url": "https://www.reddit.com/user/moonbunR"
+                }
+            ]
+        },
+        {
             "id": "1e4kyie",
             "url": "/r/OpenAI/comments/1e4kyie/gpt4o_is_an_extreme_downgrade_over_gpt4tubro_and/",
             "external_url": "https://www.reddit.com/r/OpenAI/comments/1e4kyie/gpt4o_is_an_extreme_downgrade_over_gpt4tubro_and/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "voyageraya",
                     "url": "https://www.reddit.com/user/voyageraya"
-                }
-            ]
-        },
-        {
-            "id": "1b5tibu",
-            "url": "/r/OpenAI/comments/1b5tibu/damn_gpt_vision_is_good/",
-            "external_url": "https://i.redd.it/wt4x20qiz6mc1.jpeg",
-            "title": "Damn\u2026 GPT Vision is good.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1b5tibu/damn_gpt_vision_is_good/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1b5tibu/damn_gpt_vision_is_good/'>Reddit</a></caption><div><br></div><p>I love reading with this thing as a study buddy.</p>\n<p>I have been trying to get my head round some AI/ ML papers, and boy it is an excellent helper in working through them.</p>\n<p>Here is how it explained the attached screenshot\u2026</p>\n<p>\u2018This part of the text is about a computer program that can make a clear picture from a very blurry or noisy one. It's like having a photo with lots of static that makes it hard to see, and then the program cleans it up step by step until it looks like a normal photo.</p>\n<p>Here\u2019s how it works using a fun example:</p>\n<p>Imagine you have a very messy room (this is like the noisy image). Each day for a week (each step or T step), you clean up a bit of the mess (this is the denoising part). Each night, your little brother comes in and messes up the room again, but less than before (this is adding noise back but less each time). By the end of the week, your room is clean (this is the real, clear image). The math in the text tells the computer exactly how to clean the room each day and how much mess your brother will make each night.\u2019</p>\n<p>I\u2019m sure it\u2019s not a perfect explanation\u2026 but it gives me the motivation to read on and keep trying.</p>\n<p>I have to say, I\u2019m generally having an awesome time with GPT4 nowadays. Yes it can be a bit unpredictable at times. But good lord, I feel like a superhuman with this thing by my side.</p>\n<p>Sincerest thanks to Sam and the Team. </p><div><br></div><img src=\"https://i.redd.it/wt4x20qiz6mc1.jpeg\" />",
-            "date_published": "2024-03-03T22:04:37+00:00",
-            "authors": [
-                {
-                    "name": "Smartaces",
-                    "url": "https://www.reddit.com/user/Smartaces"
                 }
             ]
         }
