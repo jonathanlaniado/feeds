@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1e8jvm0",
+            "url": "/r/macapps/comments/1e8jvm0/dockdoor_adds_extra_functionality_to_macos/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1e8jvm0/dockdoor_adds_extra_functionality_to_macos/",
+            "title": "DockDoor Adds Extra Functionality to macOS",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1e8jvm0/dockdoor_adds_extra_functionality_to_macos/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1e8jvm0/dockdoor_adds_extra_functionality_to_macos/'>Reddit</a></caption><div><br></div><p>https://preview.redd.it/p9ffdwiqtudd1.jpg?width=643&amp;format=pjpg&amp;auto=webp&amp;s=2b848ab636aa8b8ca725eecb7113fdafe45c74c4</p>\n<p>In Windows, when you hover over an app on the taskbar, the operating system show you the open windows for that app, a useful feature missing in macOS until now with the introduction of the free menu bar app DockDoor.</p>\n<p>Installing DockDoor requires granting access to Accessibility and Screen Recording settings. You can install if by <a href=\"https://github.com/ejbills/DockDoor\">downloading it from GitHub</a> or through Homebrew. Once you have it installed and running with the proper permissions, you will see a pop-up preview of the apps window (or windows) when you hover over the app in the dock, regardless of where you place the dock in your workspace. I have mine on the left side of the screen.</p>\n<p>If you choose to use it, the included window switcher moves between open Windows (not just between apps like the macOS default). I already use an app for window switching (Alt+Tab) and have it configured with shortcuts I like so I turned off this functionality in DockDoor.</p>\n<p>When you activate DockDoor from the dock, four traffic light buttons appear in the window pop-up, each with a different function.</p>\n<ul>\n<li>\ud83d\udfe3 Quit the window's app. You can hold the Option (\u2325) key while clicking to f<strong>orce</strong> quit.</li>\n<li>\ud83d\udd34 Close the window</li>\n<li>\ud83d\udfe1 Minimize the window</li>\n<li>\ud83d\udfe2 Enter the window to full screen</li>\n</ul>\n<p>DockDoor is highly customizable as seen in the preference windows below.</p>\n<p>https://preview.redd.it/e7ndcksttudd1.jpg?width=1650&amp;format=pjpg&amp;auto=webp&amp;s=f8f81ad775e165c4fb3b8a23aaab54b8c5cf903b</p>\n<p>https://preview.redd.it/6or65urwtudd1.jpg?width=1656&amp;format=pjpg&amp;auto=webp&amp;s=2eca6c731c5f4ca3549280ee53e148e2beb88c50</p>",
+            "date_published": "2024-07-21T11:08:03+00:00",
+            "authors": [
+                {
+                    "name": "amerpie",
+                    "url": "https://www.reddit.com/user/amerpie"
+                }
+            ]
+        },
+        {
             "id": "1e7e25g",
             "url": "/r/macapps/comments/1e7e25g/i_made_a_mac_note_app_that_aims_to_be_as/",
             "external_url": "https://i.redd.it/qc0yhp81fjdd1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Geartheworld",
                     "url": "https://www.reddit.com/user/Geartheworld"
-                }
-            ]
-        },
-        {
-            "id": "18qjydq",
-            "url": "/r/macapps/comments/18qjydq/super_todos_free_today/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/18qjydq/super_todos_free_today/",
-            "title": "Super ToDo's free today",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/18qjydq/super_todos_free_today/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/18qjydq/super_todos_free_today/'>Reddit</a></caption><div><br></div><p>To-Do app syncing via iCloud to all devices (iPhone, iPad, Watch, Mac).</p>\n<p>To-Do\u2019s, Lists, Notes, Due dates, Location Reminders, Widgets.</p>\n<p>Simple, good looking and functional!</p>\n<p><a href=\"https://apps.apple.com/sk/app/super-todos/id1195333305\">Super ToDo's</a> - 5,99 \u20ac =&gt; Free from time to time (so is today)! </p>\n<p>I just downloaded this few moments ago, my first impressions are really good, so I have decided to share my find with you as well.</p>",
-            "date_published": "2023-12-25T14:44:55+00:00",
-            "authors": [
-                {
-                    "name": "QenTox",
-                    "url": "https://www.reddit.com/user/QenTox"
                 }
             ]
         }
