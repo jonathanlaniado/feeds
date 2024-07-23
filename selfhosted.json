@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1ea8iim",
+            "url": "/r/selfhosted/comments/1ea8iim/wording_change_and_clarification_for_purchasing/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1ea8iim/wording_change_and_clarification_for_purchasing/",
+            "title": "Wording change and clarification for purchasing Immich",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1ea8iim/wording_change_and_clarification_for_purchasing/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1ea8iim/wording_change_and_clarification_for_purchasing/'>Reddit</a></caption><div><br></div><p>Announcement Thread <a href=\"https://github.com/immich-app/immich/discussions/11313\">https://github.com/immich-app/immich/discussions/11313</a></p>\n<p>Hello everybody,</p>\n<p>Alex here! After the last announcement on a wording change in response to our mishap of using the words <code>licensed</code> and <code>unlicensed</code>, the team and I gave it a long hard thought over the weekend.</p>\n<p>I thought about it when I went to bed, I thought about it in my dream, I thought about it while doing the dishes. Taking into consideration all of your feedback and suggestions, and on behalf of the team, I am happy to show you what we came up with.</p>\n<ul>\n<li>There will be no <code>license</code> or <code>unlicensed</code>.</li>\n<li>We will change <code>License Key</code> to <code>Product Key</code>.</li>\n<li>We will show a \"Buy Immich\" button as the call to action. The button will only be shown if the account age is older than 14 days.</li>\n<li>We will give you options to hide the button for 30 days or indefinitely.</li>\n</ul>\n<p>https://preview.redd.it/qsrbqrn3y9ed1.png?width=886&amp;format=png&amp;auto=webp&amp;s=ce958f44efd25718bb0438f1bdb12e57c8ab0166</p>\n<ul>\n<li>We will change the price to a whole number <code>$100</code> and <code>$25</code>. So get your product key now and you can save <code>$0.01</code> \ud83d\ude04</li>\n<li>We will add text to make our mission and intentions clear.</li>\n<li>We will refine the text about each option to clarify the content.</li>\n</ul>\n<p>https://preview.redd.it/qbkhzb43y9ed1.png?width=1053&amp;format=png&amp;auto=webp&amp;s=cd3bb965088009ebefedd90b05536c031b4bdf2a</p>\n<p>Last but not least, we will add a fancy <code>Supporter Badge</code> to recognize those who purchase the product. If you have any ideas for making it \"shinier,\" let us know!</p>\n<p><a href=\"https://github.com/user-attachments/assets/ff1edb43-1838-45b9-85ed-1944645291f8\">https://github.com/user-attachments/assets/ff1edb43-1838-45b9-85ed-1944645291f8</a></p>\n<p>Thank you again for your support and feedback. We are working on these changes and will roll out in the next release in a few days.</p>\n<p>Have a good week!</p>\n<p>Cheers, Immich Team</p>",
+            "date_published": "2024-07-23T13:58:21+00:00",
+            "authors": [
+                {
+                    "name": "altran1502",
+                    "url": "https://www.reddit.com/user/altran1502"
+                }
+            ]
+        },
+        {
             "id": "1dt2k5k",
             "url": "/r/selfhosted/comments/1dt2k5k/immich_highperformance_selfhosted_photo_and_video/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1dt2k5k/immich_highperformance_selfhosted_photo_and_video/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Livid_Bee_5150",
                     "url": "https://www.reddit.com/user/Livid_Bee_5150"
-                }
-            ]
-        },
-        {
-            "id": "180maoe",
-            "url": "/r/selfhosted/comments/180maoe/plex_crossed_a_line_with_your_week_in_review/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/180maoe/plex_crossed_a_line_with_your_week_in_review/",
-            "title": "Plex crossed a line with \"Your week in review\" emails today.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/180maoe/plex_crossed_a_line_with_your_week_in_review/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/180maoe/plex_crossed_a_line_with_your_week_in_review/'>Reddit</a></caption><div><br></div><p>As you may have seen Plex decided it was OK today to send an email showing me what my friends have been watching. To be clear, this is Plex telling other people what I've been watching from <em>my</em> server, with <em>my</em> files, and this is not OK. It also shows me what <em>they</em> have been watching on <em>their</em> server with <em>their</em> files. <strong>This is not OK!</strong></p>\n<p>https://imgur.com/a/DYR4wlh</p>\n<p>We all knew it was a matter of time before Plex started collecting data on our libraries and sharing it with advertisers. What happened to their \"we don't know, and don't want to know, what is on your server\"?. This, for me, is proof that those fears were absolutely founded in reality. On what planet would I ever want this information to be shared with friends on family on an OPT OUT basis? </p>\n<p>It's totally unacceptable to collect this data in the first place. It's totally unacceptable to share this information with uniquely identifiable information. And it's totally unacceptable to do this without explicitly asking me if it's OK. </p>\n<p>Unfortunately there is nothing you can do about this as a server admin, because technically these are <em>Plex</em> users and their marketing email preferences are controlled on the user side in the Plex website preferences. Not on your server.</p>\n<p><strong>This is an absolutely egregious overreach.</strong></p>\n<p>Thank goodness there are alternatives available in the form of Jellyfin and Emby. I left my Plex server up after the Jellyfin January challenge we did on the Self-Hosted podcast but because of this I feel that I have no choice but to take it down for good.</p>",
-            "date_published": "2023-11-21T17:25:17+00:00",
-            "authors": [
-                {
-                    "name": "Ironicbadger",
-                    "url": "https://www.reddit.com/user/Ironicbadger"
                 }
             ]
         }
