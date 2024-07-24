@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1eaff13",
+            "url": "/r/iOSBeta/comments/1eaff13/ios_18_db4_rotate_wifi_address/",
+            "external_url": "https://i.redd.it/0oy3ifr7cbed1.jpeg",
+            "title": "[IOS 18 DB4] Rotate Wi-Fi Address",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1eaff13/ios_18_db4_rotate_wifi_address/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1eaff13/ios_18_db4_rotate_wifi_address/'>Reddit</a></caption><div><br></div><p>Looks like the randomized MAC address will now change at random times too.</p><div><br></div><img src=\"https://i.redd.it/0oy3ifr7cbed1.jpeg\" />",
+            "date_published": "2024-07-23T18:38:37+00:00",
+            "authors": [
+                {
+                    "name": "Risino15",
+                    "url": "https://www.reddit.com/user/Risino15"
+                }
+            ]
+        },
+        {
             "id": "1eaelfo",
             "url": "/r/iOSBeta/comments/1eaelfo/ios_18_beta_4_released_discussion/",
             "external_url": "https://www.reddit.com/r/iOSBeta/comments/1eaelfo/ios_18_beta_4_released_discussion/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "SkyAndStorm",
                     "url": "https://www.reddit.com/user/SkyAndStorm"
-                }
-            ]
-        },
-        {
-            "id": "phs6hv",
-            "url": "/r/iOSBeta/comments/phs6hv/i_dont_think_they_have_nailed_notification/",
-            "external_url": "https://i.imgur.com/uPVVpjg.jpg",
-            "title": "I don\u2019t think they have nailed Notification Summary yet. This looks fatiguing.",
-            "content_html": "<caption>Open in: <a href='https://i.imgur.com/uPVVpjg.jpg'>i.imgur.com</a> | <a href='https://reddit.com/r/iOSBeta/comments/phs6hv/i_dont_think_they_have_nailed_notification/'>Reddit</a> | <a href='apollo://reddit.com/r/iOSBeta/comments/phs6hv/i_dont_think_they_have_nailed_notification/'>Apollo</a></caption>",
-            "date_published": "2021-09-04T14:07:19+00:00",
-            "authors": [
-                {
-                    "name": "HoomanHoliday",
-                    "url": "https://www.reddit.com/user/HoomanHoliday"
                 }
             ]
         }
