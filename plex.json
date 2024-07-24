@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1eazw2a",
+            "url": "/r/PleX/comments/1eazw2a/when_all_platforms_direct_play_4k/",
+            "external_url": "https://i.imgur.com/T5N66bA.jpeg",
+            "title": "When all platforms direct play 4K",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1eazw2a/when_all_platforms_direct_play_4k/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1eazw2a/when_all_platforms_direct_play_4k/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.imgur.com/T5N66bA.jpeg\" />",
+            "date_published": "2024-07-24T12:11:19+00:00",
+            "authors": [
+                {
+                    "name": "ProperNorf",
+                    "url": "https://www.reddit.com/user/ProperNorf"
+                }
+            ]
+        },
+        {
             "id": "1e1edw6",
             "url": "/r/PleX/comments/1e1edw6/i_discovered_plex_last_month_i_bought_an_8tb/",
             "external_url": "https://i.redd.it/y13e11eye2cd1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "astro-gazing",
                     "url": "https://www.reddit.com/user/astro-gazing"
-                }
-            ]
-        },
-        {
-            "id": "16ssdff",
-            "url": "/r/PleX/comments/16ssdff/plex_database_questions/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/16ssdff/plex_database_questions/",
-            "title": "Plex Database Questions",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16ssdff/plex_database_questions/'>Reddit</a></caption><div><br></div><div><p>Hey all, long time plex user, first time redditor.</p>\n<p>I have a nice server setup for media storage and docker. Long story short through experimentation I broke several things in ZFS which caused bad writes. I would like to reset several things and have it rebuild the credit detection and thumbnails. Is there any way to do this without wiping out the entire DB and having to basically start a fresh server? If that is the best/fastest alternative, i will do so.</p>\n<p>A pre-emptive thank you for your help!</p></div>",
-            "date_published": "2023-09-26T16:18:41+00:00",
-            "authors": [
-                {
-                    "name": "Harm_Tech",
-                    "url": "https://www.reddit.com/user/Harm_Tech"
                 }
             ]
         }
