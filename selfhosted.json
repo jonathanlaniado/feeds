@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1eb92an",
+            "url": "/r/selfhosted/comments/1eb92an/suddenly_our_self_hosted_application_became_more/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1eb92an/suddenly_our_self_hosted_application_became_more/",
+            "title": "Suddenly our Self Hosted application became more than just hobby.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1eb92an/suddenly_our_self_hosted_application_became_more/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1eb92an/suddenly_our_self_hosted_application_became_more/'>Reddit</a></caption><div><br></div><p>If you already don't know, Bangladesh was disconnected from the internet for majority of the last week due to government order. It was shut down without any warning. We were put under curfew 24/7, so no leaving home. </p>\n<p>On the second day of curfew, me, with nothing to do, figured the intranet in our country still worked. So I opened my Jellyfin service up and gave access to my immediate family and friends. Then we had people stepping up. One opened a simple chat application. Believe me, I never felt happier reading messages from a bunch of random people on the internet. Once people started communicating it only got better. We had a jitsi meet up and running within a few hours. People opened up their media library. Last couple of days, I almost didn't miss the traditional internet.</p>\n<p>I have to thank you guys for all the encouragement. \nAlso I do have a few questions for you guys.</p>\n<p>I'm fearing this will not be the last time we will be blocked from the world. What can we do to make things even better next time?\nOne major problem was TLS CERTS stopped working. So the communication was in http using IP address </p>\n<p>What are some apps to host if the same situation to arise again?</p>\n<p>Sorry for the bad English, not my first language.</p>",
+            "date_published": "2024-07-24T18:41:26+00:00",
+            "authors": [
+                {
+                    "name": "cs_antorkhan",
+                    "url": "https://www.reddit.com/user/cs_antorkhan"
+                }
+            ]
+        },
+        {
             "id": "1ea8iim",
             "url": "/r/selfhosted/comments/1ea8iim/wording_change_and_clarification_for_purchasing/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1ea8iim/wording_change_and_clarification_for_purchasing/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "milchshakee",
                     "url": "https://www.reddit.com/user/milchshakee"
-                }
-            ]
-        },
-        {
-            "id": "181hs7j",
-            "url": "/r/selfhosted/comments/181hs7j/what_radicalized_you_for_me_it_was_spore/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/181hs7j/what_radicalized_you_for_me_it_was_spore/",
-            "title": "What radicalized you? For me it was Spore.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/181hs7j/what_radicalized_you_for_me_it_was_spore/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/181hs7j/what_radicalized_you_for_me_it_was_spore/'>Reddit</a></caption><div><br></div><p>Some people get into self hosting just because they're interested in the mechanics of it, but many people I think got inducted by the fact that for example, Facebook or snapchat make it so difficult to save your own pictures or migrate to another service, or the possibility that Google is reading all of your emails, etc. Others may have been radicalized by a specific event, such as a service provider closing up business and therefore you lose your data.</p>\n<p>For me, it was Spore com. I loved Spore, from the time I got it for my 10th birthday to maybe the age of 16 or 17 I poured hundreds or probably thousands of hours into this game. As I got older I became less invested in the gameplay and more invested in the creative aspect of it. I designed some badass creatures and spaceships that I was really proud of. I had a whole line of Spaceships that all served different roles in my head cannon, with different races of aliens following different themes. </p>\n<p>EA/Maxis/whoever runs Spore now purged all of them from spore.com, and now they're gone. Years of my childhood essentially put into a locked box and the key thrown away. For me it was like losing a scrapbook in a fire. What right did they have? </p>\n<p>So I ask, What radicalized you?</p>",
-            "date_published": "2023-11-22T19:42:41+00:00",
-            "authors": [
-                {
-                    "name": "Livid_Bee_5150",
-                    "url": "https://www.reddit.com/user/Livid_Bee_5150"
                 }
             ]
         }
