@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1eax6do",
+            "url": "/r/iOSBeta/comments/1eax6do/ios_18_db_4_control_center_music_now_playing/",
+            "external_url": "https://www.reddit.com/gallery/1eax6do",
+            "title": "[iOS 18 DB 4] Control Center \u2014 Music Now Playing gradient removed",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1eax6do/ios_18_db_4_control_center_music_now_playing/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1eax6do/ios_18_db_4_control_center_music_now_playing/'>Reddit</a></caption><div><br></div><p>Might be a bug, not sure</p>",
+            "date_published": "2024-07-24T09:32:05+00:00",
+            "authors": [
+                {
+                    "name": "Leading-Control-8503",
+                    "url": "https://www.reddit.com/user/Leading-Control-8503"
+                }
+            ]
+        },
+        {
             "id": "1eajip6",
             "url": "/r/iOSBeta/comments/1eajip6/ios_18_db4_non_pro_15_models_have_the_new/",
             "external_url": "https://v.redd.it/er9oyclg5ced1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Beneficial_Cress1395",
                     "url": "https://www.reddit.com/user/Beneficial_Cress1395"
-                }
-            ]
-        },
-        {
-            "id": "pj1naj",
-            "url": "/r/iOSBeta/comments/pj1naj/ios_15_beta_8_apple_maps_automatically_zooms_out/",
-            "external_url": "https://www.reddit.com/gallery/pj1naj",
-            "title": "[iOS 15 beta 8] Apple Maps automatically zooms out to show traffic",
-            "content_html": "<caption>Open in: <a href='https://www.reddit.com/gallery/pj1naj'>www.reddit.com</a> | <a href='https://reddit.com/r/iOSBeta/comments/pj1naj/ios_15_beta_8_apple_maps_automatically_zooms_out/'>Reddit</a> | <a href='apollo://reddit.com/r/iOSBeta/comments/pj1naj/ios_15_beta_8_apple_maps_automatically_zooms_out/'>Apollo</a></caption>",
-            "date_published": "2021-09-06T15:31:33+00:00",
-            "authors": [
-                {
-                    "name": "plaid-knight",
-                    "url": "https://www.reddit.com/user/plaid-knight"
                 }
             ]
         }
