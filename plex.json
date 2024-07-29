@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1eeyfsd",
+            "url": "/r/PleX/comments/1eeyfsd/which_show_drives_you_absolutely_insane_to_index/",
+            "external_url": "https://i.redd.it/fkxirh59dgfd1.jpeg",
+            "title": "Which show drives you absolutely insane to index on Plex?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1eeyfsd/which_show_drives_you_absolutely_insane_to_index/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1eeyfsd/which_show_drives_you_absolutely_insane_to_index/'>Reddit</a></caption><div><br></div><p>I\u2019ll go first. </p>\n<ul>\n<li>Futurama</li>\n</ul>\n<p>I absolutely have no idea what season we\u2019re on right now. Some sources say 9 while others indicate 11 or 12. </p>\n<p>I know that some seasons are split into parts and that might contribute to a higher number but internet sources are even divided in how many episodes we have for season 1: 9 v 13. </p>\n<p>What a mess \ud83d\ude1e </p><div><br></div><img src=\"https://i.redd.it/fkxirh59dgfd1.jpeg\" />",
+            "date_published": "2024-07-29T12:37:29+00:00",
+            "authors": [
+                {
+                    "name": "iamgarffi",
+                    "url": "https://www.reddit.com/user/iamgarffi"
+                }
+            ]
+        },
+        {
             "id": "1eazw2a",
             "url": "/r/PleX/comments/1eazw2a/when_all_platforms_direct_play_4k/",
             "external_url": "https://i.imgur.com/T5N66bA.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MNISather",
                     "url": "https://www.reddit.com/user/MNISather"
-                }
-            ]
-        },
-        {
-            "id": "16stvqx",
-            "url": "/r/PleX/comments/16stvqx/plex_skipping_all_songs_from_an_artist_when/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/16stvqx/plex_skipping_all_songs_from_an_artist_when/",
-            "title": "Plex skipping all songs from an artist when casting",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16stvqx/plex_skipping_all_songs_from_an_artist_when/'>Reddit</a></caption><div><br></div><div><p>Hey all, I'm a new user trying to build up my music collection and use it with Plex. I bought the album <a href=\"https://www.qobuz.com/us-en/album/utopia-travis-scott/e2n5vm3w5y46a\">Utopia</a> yesterday, pasted the files in my music folder and as far as I can tell everything works well, EXCEPT casting. I got another album and some singles too and it skips all of them.</p>\n<p>I've tried removing some songs, all the songs from the other artists, downloading the albums again, used the website and Plex/Plexamp on android, it still skips over them. This doesn't happen with any other artist in my library. I bought all my music from Qobuz, all of them are flac files and the other ones work just fine.</p>\n<p>I don't know what could be the problem and what else I can do so any help is greatly appreciated.</p></div>",
-            "date_published": "2023-09-26T17:16:49+00:00",
-            "authors": [
-                {
-                    "name": "astro-gazing",
-                    "url": "https://www.reddit.com/user/astro-gazing"
                 }
             ]
         }
