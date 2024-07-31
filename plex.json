@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1egy36v",
+            "url": "/r/PleX/comments/1egy36v/1000000_tracks/",
+            "external_url": "https://i.redd.it/fdeg137d3xfd1.png",
+            "title": "1,000,000 Tracks",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1egy36v/1000000_tracks/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1egy36v/1000000_tracks/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/fdeg137d3xfd1.png\" />",
+            "date_published": "2024-07-31T20:52:41+00:00",
+            "authors": [
+                {
+                    "name": "az116",
+                    "url": "https://www.reddit.com/user/az116"
+                }
+            ]
+        },
+        {
             "id": "1eeyfsd",
             "url": "/r/PleX/comments/1eeyfsd/which_show_drives_you_absolutely_insane_to_index/",
             "external_url": "https://i.redd.it/fkxirh59dgfd1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "samwiseg0",
                     "url": "https://www.reddit.com/user/samwiseg0"
-                }
-            ]
-        },
-        {
-            "id": "16stpa6",
-            "url": "/r/PleX/comments/16stpa6/whats_the_best_cpu_if_transcoding_isnt_needed/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/16stpa6/whats_the_best_cpu_if_transcoding_isnt_needed/",
-            "title": "What's the best CPU if transcoding isn't needed?",
-            "content_html": "<caption>Open: <a href='https://reddit.com/r/PleX/comments/16stpa6/whats_the_best_cpu_if_transcoding_isnt_needed/'>Reddit</a></caption><div><br></div><div><p>Greetings!</p>\n<p>I'm trying to move my PMS off of my Synology, and I need advice on what CPU would be \"just enough.\" Here's the situation.</p>\n<p>To start, my collection is 99% 4K/1080p HDR HEVC x265. I am currently storing and hosting Plex on a Synology 923+ (so no hardware transcoding). This is fine most of the time. Me and 4 remote users all direct play on their home internet. </p>\n<p>I am helping someone replace their graphics card and power supply, so he is letting me buy his 1650 Super and 500W PSU for $50 (heyooo). From NVIDIA's chart, I saw that the 1650S should be able to transcode three 4K HDR HEVC streams. So the idea is to just complete the rest of a computer that can transcode my library and host my PMS. But what CPU should I use to power everything EXCEPT transcoding? Trying to use basically as little money as possible. </p>\n<p>CPU:?\nMobo:?\nRAM: any 2x8 DDR4\nGPU: 1650 Super\nStorage: 240GB Kingston SSD\nPSU: EVGA 500W White</p></div>",
-            "date_published": "2023-09-26T17:09:40+00:00",
-            "authors": [
-                {
-                    "name": "MNISather",
-                    "url": "https://www.reddit.com/user/MNISather"
                 }
             ]
         }
