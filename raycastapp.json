@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_6y39uf/styles/communityIcon_33jhf9tu7ck91.png",
     "items": [
         {
+            "id": "1ehogik",
+            "url": "/r/raycastapp/comments/1ehogik/changelog_window_layout_improvements/",
+            "external_url": "https://www.reddit.com/r/raycastapp/comments/1ehogik/changelog_window_layout_improvements/",
+            "title": "Changelog: \ud83e\ude9f Window Layout Improvements",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/raycastapp/comments/1ehogik/changelog_window_layout_improvements/'>Winston</a> | <a href='https://reddit.com/r/raycastapp/comments/1ehogik/changelog_window_layout_improvements/'>Reddit</a></caption><div><br></div><p><strong>Version 1.80.0</strong></p>\n<p>We improved the recently released\u00a0<a href=\"https://www.raycast.com/changelog/1-78-0\">Window Layouts</a>\u00a0with support for multiple monitors and opening files or links. This allows you to quickly open your code editor, browser, and terminal for a specific project with a single command.</p>\n<p>Here\u2019s what\u2019s new in short:</p>\n<ul>\n<li><strong>Multiple monitors:</strong>\u00a0Position and resize your windows on built-in and external monitors.</li>\n<li><strong>Open content:</strong>\u00a0Select a URL, file or Quicklink to open in your apps with the Window Layout.</li>\n</ul>\n<p>To get started, use the Create Window Layout Command. Then add a few apps, assign them to designated monitors, resize the windows as you want, and select a URL, file, or Quicklink to open.</p>\n<p><strong>Pro tip:</strong>\u00a0Assign a global hotkey to your Window Layouts to open them with a single keystroke.</p>\n<h1>\ud83d\udc8e Improvements</h1>\n<ul>\n<li><strong>Auto Quit:</strong>\u00a0Apps will not be automatically terminated while actively playing music or using your video camera/microphone. This feature is convenient for apps like Spotify or Zoom that you may want to put on hold when not used.</li>\n<li><strong>Auto Quit:</strong>\u00a0You can now choose the interval after which apps are automatically terminated. Search for an app, select \"Configure Application,\" and set the interval. The default is 3 minutes.</li>\n<li><strong>Store:</strong>\u00a0You can now see\u00a0<code>Past Contributors</code>\u00a0in the extension overview.</li>\n<li><strong>AI Chat:</strong>\u00a0Send Screen to AI Chat will now send the screen containing the mouse cursor.</li>\n<li><strong>AI Attachments:</strong>\u00a0Support Visual Studio Code file attachments using drag &amp; drop.</li>\n</ul>\n<h1>\ud83d\udc1e Fixes</h1>\n<ul>\n<li><strong>AI Chat:</strong>\u00a0Search is now cleared when continuing to AI Chat from Quick AI.</li>\n<li><strong>Create Snippets:</strong>\u00a0Fix URL being pasted twice in Snippet text field.</li>\n<li><strong>Hotkey:</strong>\u00a0Global hotkey now unhides app if windows are minimized.</li>\n<li><strong>Misc:</strong>\u00a0Fix bug causing macOS Sequoia beta freeze when Screen &amp; Audio Recording alert appears.</li>\n</ul>\n<p>Run <code>Check for Updates</code> to get the latest changes!</p>",
+            "date_published": "2024-08-01T18:48:01+00:00",
+            "authors": [
+                {
+                    "name": "ped____",
+                    "url": "https://www.reddit.com/user/ped____"
+                }
+            ]
+        },
+        {
             "id": "1ecoh9j",
             "url": "/r/raycastapp/comments/1ecoh9j/extensions_that_can_replace_other_apps/",
             "external_url": "https://www.reddit.com/r/raycastapp/comments/1ecoh9j/extensions_that_can_replace_other_apps/",
