@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1ejj8sj",
+            "url": "/r/PleX/comments/1ejj8sj/anyone_else_use_plex_just_for_their_own_enjoyment/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/1ejj8sj/anyone_else_use_plex_just_for_their_own_enjoyment/",
+            "title": "Anyone else use Plex just for their own enjoyment?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1ejj8sj/anyone_else_use_plex_just_for_their_own_enjoyment/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1ejj8sj/anyone_else_use_plex_just_for_their_own_enjoyment/'>Reddit</a></caption><div><br></div><p>Everyone I\u2019ve tried to share with doesn\u2019t know how to set it up and I don\u2019t feel like explaining so at this point, I\u2019m using it just for FLAC music streaming. I see posts on here about sharing with friends and family but is it worth using Plex if it\u2019s just for your own use? </p>",
+            "date_published": "2024-08-04T01:15:47+00:00",
+            "authors": [
+                {
+                    "name": "stitches31",
+                    "url": "https://www.reddit.com/user/stitches31"
+                }
+            ]
+        },
+        {
             "id": "1egy36v",
             "url": "/r/PleX/comments/1egy36v/1000000_tracks/",
             "external_url": "https://i.redd.it/fdeg137d3xfd1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Panic_1",
                     "url": "https://www.reddit.com/user/Panic_1"
-                }
-            ]
-        },
-        {
-            "id": "16tpsod",
-            "url": "/r/PleX/comments/16tpsod/new_public_pms_version_available_132675571cf77d501/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/16tpsod/new_public_pms_version_available_132675571cf77d501/",
-            "title": "New PUBLIC PMS Version Available - 1.32.6.7557-1cf77d501",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/PleX/comments/16tpsod/new_public_pms_version_available_132675571cf77d501/'>Apollo</a> | <a href='https://reddit.com/r/PleX/comments/16tpsod/new_public_pms_version_available_132675571cf77d501/'>Reddit</a></caption><div><br></div><div><p><strong>ITEMS ADDED:</strong></p>\n<p>None</p>\n<p><strong>ITEMS FIXED:</strong></p>\n<ul>\n<li>(Agents) Some attributes were missing from legacy agent api responses (#14436)</li>\n<li>(Analysis) MP4 Atom Parsing could fill logs (#14418)</li>\n<li>(Automatic Scanning) Symbolic links with missing targets could cause changes to later entries in a directory not to be detected (#14398)</li>\n<li>(DVR) Could not record a show if a show with the same name (such as a remake) and episode number already existed in the target library  (#13444)</li>\n<li>(DVR) Devices could fail to be recognized when IP addresses change (#13529)</li>\n<li>(DVR) Multi-lineup DVRs could be created as single-lineups (#14395)</li>\n<li>(DVR) Tuning in channels could fail for channel names containing special characters (#14391)</li>\n<li>(Debian) Remove GPG lower version limit</li>\n<li>(Filters) Filtering on dates before/after 1970-01-01 would result in an error (#14511)</li>\n<li>(Mac) Transcoder crashes would cause PMS to exit (#14414)</li>\n<li>(Music) Scanning music could be pathologically slow in some cases (#14389)</li>\n<li>(Music) Searches for lyrics could be run unnecessarily (#14513)</li>\n<li>(Playlist) Adding a Clip to a playlist would unexpectedly convert it to a photo playlist (#14381)</li>\n<li>(Thumbnails) Certain JPEG images caused PMS to exhibit unexpected behavior when generating thumbnails (#14407)</li>\n<li>(Transcoder) An incorrect fallback font could be used when burning subtitles in some cases (#14357)</li>\n<li>(Transcoder) Certain newer AMD GPU models couldn't be used for hardware transcoding on Linux (#14416)</li>\n<li>(Transcoder) Unexpected behavior when subtitles ended before the end of video (#14426)</li>\n<li>FreeBSD builds would crash on start-up (#14499)</li>\n<li>(Transcoding) Some HW encoded video would not play on Android (#14384)</li>\n<li>(Transcoding) Hardware transcoding failed on linux machines (#14553)</li>\n</ul>\n<p><strong>DOWNLOAD LINK:</strong> https://www.plex.tv/media-server-downloads/</p></div>",
-            "date_published": "2023-09-27T16:53:47+00:00",
-            "authors": [
-                {
-                    "name": "samwiseg0",
-                    "url": "https://www.reddit.com/user/samwiseg0"
                 }
             ]
         }
