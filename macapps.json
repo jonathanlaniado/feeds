@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1ejqaeb",
+            "url": "/r/macapps/comments/1ejqaeb/notchnook_not_ready_for_prime_time/",
+            "external_url": "https://i.redd.it/0us93c17wlgd1.jpeg",
+            "title": "NotchNook Not Ready for Prime Time",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1ejqaeb/notchnook_not_ready_for_prime_time/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1ejqaeb/notchnook_not_ready_for_prime_time/'>Reddit</a></caption><div><br></div><p>After reading about NotchNook on Reddit and seeing the 35% off offer from the $25 purchase price, I purchased it to test it out. I reenabled the notch on my MacBook, which I had turned off with Better Monitor. The installation was straightforward, requiring access to the camera, microphone and Apple Events.  </p>\n<p>NotchNook has two feature areas, the nook and the file tray. The nook is where the widgets are located. The currently supported widgets are media controls, shortcuts, calendar and mirror. There is a placeholder for notes, but it is not currently active. The media control widget offered to start Apple Music or YouTube. Once I opened Apple Music, the controls were no different than what is already available in Control Center with the exception of being able to use gestures to move between songs. You can add two shortcuts to the nook, but they do not support drag and drop nor do they act on files selected in the Finder rendering the usefulness limited.The calendar displays the current day and two days prior and after that. There is no way to choose a default calendar and when I added events to my system default calendar, they did not appear. The mirror widget displays an image from your built-in camera that is the literal size of a postage stamp with no way to enlarge it. I did not find it useful.  </p>\n<p>The second feature area is the file tray. It serves as a place to drag and keep files. Once you have a file there, there are no options to perform other actions, like compression or moving to cloud storage apps or any kind of image modification actions. It is strictly a holding area. There is a place holder that states additional file actions are coming, but as of now, they do not exist.  </p>\n<p>Because of the lack of depth on the features, I do not recommend purchasing this app right now. <a href=\"https://apps.apple.com/us/app/dropover-easier-drag-drop/id1355679052?mt=12a\">Dropover</a>, $5.99 app provides a huge variety of file actions. You can use Control Center for media control and add shortcuts to your dock or menu bar natively. If you still want to try Notch Nook, you can get it <a href=\"https://lo.cafe/notchnook\">on the developer's website.</a> Currently you can get a %35 discount if you tweet about the app.</p><div><br></div><img src=\"https://i.redd.it/0us93c17wlgd1.jpeg\" />",
+            "date_published": "2024-08-04T08:16:42+00:00",
+            "authors": [
+                {
+                    "name": "amerpie",
+                    "url": "https://www.reddit.com/user/amerpie"
+                }
+            ]
+        },
+        {
             "id": "1ei5pe8",
             "url": "/r/macapps/comments/1ei5pe8/money_keeper_for_mac_only_what_you_need/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1ei5pe8/money_keeper_for_mac_only_what_you_need/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "iquantumcoder",
                     "url": "https://www.reddit.com/user/iquantumcoder"
-                }
-            ]
-        },
-        {
-            "id": "18t7kb6",
-            "url": "/r/macapps/comments/18t7kb6/secrets_4_password_manager_free_lifetime/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/18t7kb6/secrets_4_password_manager_free_lifetime/",
-            "title": "Secrets 4 | Password Manager - free lifetime!",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/18t7kb6/secrets_4_password_manager_free_lifetime/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/18t7kb6/secrets_4_password_manager_free_lifetime/'>Reddit</a></caption><div><br></div><p>Todays 29.12.2023 is the <strong>Secrets 4 Password Manager</strong> Editing + Sharing lifetime license.</p>\n<p>Please note, that you might be able to see the free in-app purchase until it will be in your region (country) already 29.12.2023 - 00:00.</p>\n<p><a href=\"https://apps.apple.com/sk/app/secrets-4-password-manager/id1591056366\">App Store link</a></p>",
-            "date_published": "2023-12-28T23:12:27+00:00",
-            "authors": [
-                {
-                    "name": "QenTox",
-                    "url": "https://www.reddit.com/user/QenTox"
                 }
             ]
         }
