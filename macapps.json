@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1ekiggy",
+            "url": "/r/macapps/comments/1ekiggy/shakepin_open_source_project_i_made_within_the/",
+            "external_url": "https://v.redd.it/uo9yl0naxsgd1",
+            "title": "ShakePin, Open Source Project I Made Within The Last 2 Days Inspired by Dropover",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1ekiggy/shakepin_open_source_project_i_made_within_the/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1ekiggy/shakepin_open_source_project_i_made_within_the/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-08-05T08:15:12+00:00",
+            "authors": [
+                {
+                    "name": "No_Assistant1783",
+                    "url": "https://www.reddit.com/user/No_Assistant1783"
+                }
+            ]
+        },
+        {
             "id": "1ejthkm",
             "url": "/r/macapps/comments/1ejthkm/dynamicisland_apps_switcher_with_preview_and_push/",
             "external_url": "https://v.redd.it/digxp580zmgd1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ASHFAQSOLANGI",
                     "url": "https://www.reddit.com/user/ASHFAQSOLANGI"
-                }
-            ]
-        },
-        {
-            "id": "18w3aa8",
-            "url": "/r/macapps/comments/18w3aa8/peakhour_5_an_internet_dashboard_for_your_mac/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/18w3aa8/peakhour_5_an_internet_dashboard_for_your_mac/",
-            "title": "PeakHour 5, an Internet dashboard for your Mac menu bar",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/18w3aa8/peakhour_5_an_internet_dashboard_for_your_mac/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/18w3aa8/peakhour_5_an_internet_dashboard_for_your_mac/'>Reddit</a></caption><div><br></div><p>Hey r/macapps community!</p>\n<p>After 4 years of development, I'm pleased to announce the release of PeakHour 5, the biggest update to PeakHour yet and a game-changer for Internet performance monitoring on Mac.</p>\n<p>PeakHour is an Internet performance and latency monitoring tool that lives in your menu bar. It communicates with your router, and uses ICMP ping and traceroute to visualize your connectivity to the Internet, and show you potential bottlenecks and issues. It is highly configurable and supports industry standard SNMP and UPnP for querying routers, servers, Macs and more. Each monitor can be configured to show real-time or historical information, and output can be written to a CSV file later parsing if you wish.</p>\n<p><a href=\"https://preview.redd.it/audfl7wtiv9c1.png?width=1492&amp;format=png&amp;auto=webp&amp;s=7cd6b0fd0cedfb920afd24ef4ebd2d6123ac7915\">PeakHour's Internet Dashboard, showing a real-time view of latency and throughput.</a></p>\n<p>Some key new features of PeakHour 5:</p>\n<ul>\n<li><strong>Internet Dashboard</strong>: This new feature offers a single, comprehensive view of your internet connection's health, including local, ISP, and overall internet latency.</li>\n<li><strong>Multi-Host Latency Monitoring</strong>: Now, you can monitor latency between any two internet points, like your ISP and Google, for a better understanding of connection quality and latency.</li>\n<li><strong>Local Interface Monitoring</strong>: Monitor your Mac's network interfaces directly, without additional tool\u200bs.</li>\n<li><strong>More flexible window layout</strong>: More flexibility in arranging monitors, especially useful with multiple monitor\u200bs.</li>\n<li><strong>MacOS Sonoma Compatibility</strong>: Fully updated UI to match the latest macOS advancement\u200bs.</li>\n</ul>\n<p>And there's more \u2013 improved ping accuracy, horizontal scroll lock, streamlined First Time Setup and lots more.</p>\n<p>You can grab it now exclusively in the Mac Appstor\u200be. We have lots more updates planned in the future as well, including iCloud configuration sync, powerful new menu bar configuration and more, so stay tuned for future update\u200bs.</p>\n<p><a href=\"https://peakhourapp.com\">Web Site</a></p>\n<p><a href=\"https://apps.apple.com/us/app/peakhour/id1560576252?mt=12\">Mac Appstore</a></p>\n<p><a href=\"https://peakhourapp.com/blog/introducing-peakhour-5\">Blog Post</a></p>\n<p>Happy monitoring!</p>",
-            "date_published": "2024-01-01T18:42:36+00:00",
-            "authors": [
-                {
-                    "name": "EpaL",
-                    "url": "https://www.reddit.com/user/EpaL"
                 }
             ]
         }
