@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_6y39uf/styles/communityIcon_33jhf9tu7ck91.png",
     "items": [
         {
+            "id": "1eiersj",
+            "url": "/r/raycastapp/comments/1eiersj/raycast_file_search_privacy/",
+            "external_url": "https://www.reddit.com/r/raycastapp/comments/1eiersj/raycast_file_search_privacy/",
+            "title": "Raycast file search privacy ?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/raycastapp/comments/1eiersj/raycast_file_search_privacy/'>Winston</a> | <a href='https://reddit.com/r/raycastapp/comments/1eiersj/raycast_file_search_privacy/'>Reddit</a></caption><div><br></div><p>Hi everyone, quick question regarding Raycast and its privacy policy. Does anyone know if Raycast\u2019s file search features and operations (searching files on Mac, iCloud, etc.) are performed entirely offline and locally, or if any information is shared with Raycast or third parties?</p>\n<p>More specifically, does Raycast or a third party have knowledge of the names of the files stored on the different locations that we have granted Raycast access to? Or do they have access to information such as the number of files, their sizes, etc.?</p>\n<p>I\u2019ve done some research and haven\u2019t really found an answer, so if anyone here knows, I\u2019d appreciate it !</p>",
+            "date_published": "2024-08-02T16:40:57+00:00",
+            "authors": [
+                {
+                    "name": "pris_me_",
+                    "url": "https://www.reddit.com/user/pris_me_"
+                }
+            ]
+        },
+        {
             "id": "1ehogik",
             "url": "/r/raycastapp/comments/1ehogik/changelog_window_layout_improvements/",
             "external_url": "https://www.reddit.com/r/raycastapp/comments/1ehogik/changelog_window_layout_improvements/",
