@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1em9m9l",
+            "url": "/r/shortcuts/comments/1em9m9l/turn_off_annoying_shortcut_banner_when_opening_an/",
+            "external_url": "https://i.redd.it/dw0gj1hxb8hd1.jpeg",
+            "title": "Turn Off Annoying Shortcut Banner When Opening an App with Custom Icon",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1em9m9l/turn_off_annoying_shortcut_banner_when_opening_an/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1em9m9l/turn_off_annoying_shortcut_banner_when_opening_an/'>Reddit</a></caption><div><br></div><p>Hi folks,</p>\n<p>I think I found a workaround to turn off the banner that appears from Shortcuts when opening an app with a custom icon. Follow these simple steps:</p>\n<ol>\n<li>I believe we already know how to add a custom icon to any app using Shortcuts. (Hence not going into more details)</li>\n<li>Once everything is set up, search for the 'Nothing' action in the search bar below and add it.</li>\n<li>Tap &amp; hold the \u2018Nothing\u2019 action and drag it to the first position.</li>\n<li>You are all set. No more annoying shortcut banner when opening an app with a custom icon.</li>\n</ol>\n<p>P.S. I wanted to share a video walkthrough but couldn\u2019t due to community guidelines. Instead I am sharing a screenshot. I hope this helps!</p><div><br></div><img src=\"https://i.redd.it/dw0gj1hxb8hd1.jpeg\" />",
+            "date_published": "2024-08-07T11:44:05+00:00",
+            "authors": [
+                {
+                    "name": "Anxious-Bee9092",
+                    "url": "https://www.reddit.com/user/Anxious-Bee9092"
+                }
+            ]
+        },
+        {
             "id": "1ebs3o9",
             "url": "/r/shortcuts/comments/1ebs3o9/lots_of_new_glyphs_in_shortcuts/",
             "external_url": "https://www.reddit.com/gallery/1ebs3o9",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Paradigm27",
                     "url": "https://www.reddit.com/user/Paradigm27"
-                }
-            ]
-        },
-        {
-            "id": "17mobgn",
-            "url": "/r/shortcuts/comments/17mobgn/apple_pay_automation_on_apple_watch/",
-            "external_url": "https://i.redd.it/zkgt5x4wo2yb1.jpg",
-            "title": "Apple Pay automation on Apple Watch",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/17mobgn/apple_pay_automation_on_apple_watch/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/17mobgn/apple_pay_automation_on_apple_watch/'>Reddit</a></caption><div><br></div><p>Hi I\u2019m trying to create an automation using the Apple Pay transaction automation to keep track of my expenses automatically by saving the transactions into a csv file in iCloud. It works great on my iPhone but I\u2019m getting a shortcut error when I pay with my Apple Watch. Is Apple Pay not able to append text to a file? Is it\u2019s not able to anybody knows any other way to achieve this automation on Apple Watch?</p><div><br></div><img src=\"https://i.redd.it/zkgt5x4wo2yb1.jpg\" />",
-            "date_published": "2023-11-03T05:58:42+00:00",
-            "authors": [
-                {
-                    "name": "Zealousideal_Buy6469",
-                    "url": "https://www.reddit.com/user/Zealousideal_Buy6469"
                 }
             ]
         }
