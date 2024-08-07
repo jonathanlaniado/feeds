@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1emlw74",
+            "url": "/r/macapps/comments/1emlw74/minitube_for_youtube_is_free/",
+            "external_url": "https://apps.apple.com/us/app/minitube-for-youtube/id422006190?mt=12&src=AppAgg.com",
+            "title": "Minitube for YouTube is free",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1emlw74/minitube_for_youtube_is_free/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1emlw74/minitube_for_youtube_is_free/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-08-07T20:05:54+00:00",
+            "authors": [
+                {
+                    "name": "MichaelTheGeek",
+                    "url": "https://www.reddit.com/user/MichaelTheGeek"
+                }
+            ]
+        },
+        {
             "id": "1elitsc",
             "url": "/r/macapps/comments/1elitsc/whats_your_musthave_singlepurpose_mac_app_for/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1elitsc/whats_your_musthave_singlepurpose_mac_app_for/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "seungwoochoe",
                     "url": "https://www.reddit.com/user/seungwoochoe"
-                }
-            ]
-        },
-        {
-            "id": "18xru1f",
-            "url": "/r/macapps/comments/18xru1f/built_my_first_mac_app_uses_ai_to_automate_your/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/18xru1f/built_my_first_mac_app_uses_ai_to_automate_your/",
-            "title": "Built my first Mac app :) uses AI to automate your file work",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/18xru1f/built_my_first_mac_app_uses_ai_to_automate_your/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/18xru1f/built_my_first_mac_app_uses_ai_to_automate_your/'>Reddit</a></caption><div><br></div><p>Just got it working so it's still pretty early in development - but looking for people to help test it :)</p>\n<p>TLDR: local Mac app (your files are never uploaded), you select ur files, describe what you want done.</p>\n<p>eg: \"convert these files to png\", \"apply watermark to these videos\", \"rename files to xyz\"</p>\n<p>Should work with all types of files and tasks - looking fwd to see what people come up with! Happy to answer any q's.</p>\n<p>link: <a href=\"https://frankenfile.com/\">https://frankenfile.com</a></p>",
-            "date_published": "2024-01-03T19:35:08+00:00",
-            "authors": [
-                {
-                    "name": "roomDesignerAI",
-                    "url": "https://www.reddit.com/user/roomDesignerAI"
                 }
             ]
         }
