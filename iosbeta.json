@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1emaj88",
+            "url": "/r/iOSBeta/comments/1emaj88/ios_18_db5_swipe_to_text_and_predicition/",
+            "external_url": "https://i.redd.it/767m06z8k8hd1.jpeg",
+            "title": "[iOS 18 DB5] Swipe to Text and Predicition available in Greek.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1emaj88/ios_18_db5_swipe_to_text_and_predicition/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1emaj88/ios_18_db5_swipe_to_text_and_predicition/'>Reddit</a></caption><div><br></div><p>I don't know if it's mentioned, but Apple added support for swipe to text and prediction in Greek. Useless for many non Greek speakers tho.</p>\n<p>I don't know if this was available on previous betas, installed the beta just on Tuesday, so...</p><div><br></div><img src=\"https://i.redd.it/767m06z8k8hd1.jpeg\" />",
+            "date_published": "2024-08-07T12:30:43+00:00",
+            "authors": [
+                {
+                    "name": "_zurik_",
+                    "url": "https://www.reddit.com/user/_zurik_"
+                }
+            ]
+        },
+        {
             "id": "1eli8e2",
             "url": "/r/iOSBeta/comments/1eli8e2/ios_181_db1_randomly_got_this_new_keyboard_auto/",
             "external_url": "https://v.redd.it/kbzg6h8xs1hd1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "epmuscle",
                     "url": "https://www.reddit.com/user/epmuscle"
-                }
-            ]
-        },
-        {
-            "id": "17cjecm",
-            "url": "/r/iOSBeta/comments/17cjecm/ios_171_rc_2_is_out/",
-            "external_url": "https://www.reddit.com/r/iOSBeta/comments/17cjecm/ios_171_rc_2_is_out/",
-            "title": "iOS 17.1 RC 2 is out!!",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/iOSBeta/comments/17cjecm/ios_171_rc_2_is_out/'>Apollo</a> | <a href='https://reddit.com/r/iOSBeta/comments/17cjecm/ios_171_rc_2_is_out/'>Reddit</a></caption><div><br></div><p>only for iPhone 15 and pro models </p>\n<p>build number is 21B77</p>",
-            "date_published": "2023-10-20T19:32:04+00:00",
-            "authors": [
-                {
-                    "name": "alonso234",
-                    "url": "https://www.reddit.com/user/alonso234"
                 }
             ]
         }
