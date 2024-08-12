@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1eqga5b",
+            "url": "/r/selfhosted/comments/1eqga5b/i_created_a_new_jellyfin_client_for_ios_and/",
+            "external_url": "https://www.reddit.com/gallery/1eqga5b",
+            "title": "I created a new Jellyfin client for iOS and Android. Supports downloads and Chromecast. ",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1eqga5b/i_created_a_new_jellyfin_client_for_ios_and/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1eqga5b/i_created_a_new_jellyfin_client_for_ios_and/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-08-12T15:11:29+00:00",
+            "authors": [
+                {
+                    "name": "masterinthecage",
+                    "url": "https://www.reddit.com/user/masterinthecage"
+                }
+            ]
+        },
+        {
             "id": "1eptwxk",
             "url": "/r/selfhosted/comments/1eptwxk/psa_update_vaultwarden_as_soon_as_possible/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1eptwxk/psa_update_vaultwarden_as_soon_as_possible/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "RedWyvv",
                     "url": "https://www.reddit.com/user/RedWyvv"
-                }
-            ]
-        },
-        {
-            "id": "186ltbv",
-            "url": "/r/selfhosted/comments/186ltbv/changedetectionio_your_reddit_inspired_website/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/186ltbv/changedetectionio_your_reddit_inspired_website/",
-            "title": "changedetection.io - Your Reddit inspired website content monitoring tool releases 0.45.8",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/186ltbv/changedetectionio_your_reddit_inspired_website/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/186ltbv/changedetectionio_your_reddit_inspired_website/'>Reddit</a></caption><div><br></div><p>Hi all :) It's a been a while and I've been super busy, but here's another super nice release (thanks for the feedback!), support for xPath2.0/3.0 means you can use logic in your selectors (for example, give the count of the number of divs that contain certain text, and much more). UI improvements, Selectable browser (plug it into Bright Data's scraping browser!) and more, check it out! Much \u2764 from the changedetection team. <a href=\"https://github.com/dgtlmoon/changedetection.io\">https://github.com/dgtlmoon/changedetection.io</a> / changedetection.io</p>\n<p><a href=\"https://preview.redd.it/ocv82wb5d93c1.png?width=1131&amp;format=png&amp;auto=webp&amp;s=b8a3344859f4fefd55587eda3d9be7575cf128cf\">Website content monitoring and notification 'overview' list of websites being watched</a></p>",
-            "date_published": "2023-11-29T09:50:11+00:00",
-            "authors": [
-                {
-                    "name": "dgtlmoon123",
-                    "url": "https://www.reddit.com/user/dgtlmoon123"
                 }
             ]
         }
