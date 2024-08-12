@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1eqj5wu",
+            "url": "/r/iOSBeta/comments/1eqj5wu/ios_181_beta_2_released_discussion/",
+            "external_url": "https://www.reddit.com/r/iOSBeta/comments/1eqj5wu/ios_181_beta_2_released_discussion/",
+            "title": "iOS 18.1 Beta 2 Released - Discussion",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1eqj5wu/ios_181_beta_2_released_discussion/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1eqj5wu/ios_181_beta_2_released_discussion/'>Reddit</a></caption><div><br></div><p>This will serve as our iOS 18.1 Beta 2 discussion.</p>\n<p>Please use this thread to share any and all updates you discover while using the latest iOS/iPadOS 18 beta. This thread should be used for discussion of the betas that may not meet our submission guidelines, as well as troubleshooting small issues through the beta test cycle.</p>\n<p>Further discussion can be found on the <a href=\"https://discord.gg/iosbeta\">iOS Beta Discord</a>.</p>",
+            "date_published": "2024-08-12T17:04:07+00:00",
+            "authors": [
+                {
+                    "name": "AutoModerator",
+                    "url": "https://www.reddit.com/user/AutoModerator"
+                }
+            ]
+        },
+        {
             "id": "1ephdy9",
             "url": "/r/iOSBeta/comments/1ephdy9/ios_18_db5_new_design_for_the_feels_like_widget/",
             "external_url": "https://i.redd.it/w8rp4vqne0id1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "freaktheclown",
                     "url": "https://www.reddit.com/user/freaktheclown"
-                }
-            ]
-        },
-        {
-            "id": "17h2cpf",
-            "url": "/r/iOSBeta/comments/17h2cpf/apples_new_journal_app_available_for_ios_172/",
-            "external_url": "https://apps.apple.com/app/journal/id6447391597",
-            "title": "Apple's new Journal app available for iOS 17.2",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/iOSBeta/comments/17h2cpf/apples_new_journal_app_available_for_ios_172/'>Apollo</a> | <a href='https://reddit.com/r/iOSBeta/comments/17h2cpf/apples_new_journal_app_available_for_ios_172/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-10-26T17:56:23+00:00",
-            "authors": [
-                {
-                    "name": "MarvinCZ",
-                    "url": "https://www.reddit.com/user/MarvinCZ"
                 }
             ]
         }
