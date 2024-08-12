@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1eqkknf",
+            "url": "/r/MacOSBeta/comments/1eqkknf/151_beta_2_is_out/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1eqkknf/151_beta_2_is_out/",
+            "title": "15.1 Beta 2 is out!",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOSBeta/comments/1eqkknf/151_beta_2_is_out/'>Winston</a> | <a href='https://reddit.com/r/MacOSBeta/comments/1eqkknf/151_beta_2_is_out/'>Reddit</a></caption><div><br></div><p>15.1 Beta 2 is out!</p>\n<p>macOS Sequoia 15.1 Developer Beta 2 (24B5024e)</p>\n<p>Looks like it's essentially the same as <a href=\"https://developer.apple.com/documentation/macos-release-notes/macos-15-release-notes\">macOS Sequoia 15 Beta 6</a>:</p>\n<p><a href=\"https://developer.apple.com/documentation/macos-release-notes/macos-15_1-release-notes\">https://developer.apple.com/documentation/macos-release-notes/macos-15_1-release-notes</a></p>\n<h1>macOS Sequoia 15.1 Beta 2 Release Notes</h1>\n<p>Update your apps to use new features, and test your apps against API changes.</p>\n<h1><a href=\"https://developer.apple.com/documentation/macos-release-notes/macos-15_1-release-notes#Overview\">Overview</a></h1>\n<p>The macOS 15.1 SDK provides support to develop apps for Mac computers running Sequoia 15.1 beta 2. The SDK comes bundled with Xcode 16.1, available from the Mac App Store. For information on the compatibility requirements for Xcode 16.1, see\u00a0<a href=\"https://developer.apple.com/documentation/Xcode-Release-Notes/xcode-16_1-release-notes\">Xcode 16.1 Release Notes</a>.</p>\n<h1><a href=\"https://developer.apple.com/documentation/macos-release-notes/macos-15_1-release-notes#General\">General</a></h1>\n<h1><a href=\"https://developer.apple.com/documentation/macos-release-notes/macos-15_1-release-notes#Notes\">Notes</a></h1>\n<ul>\n<li>See the\u00a0<a href=\"https://developer.apple.com/documentation/macos-release-notes/macos-15-release-notes\">macOS Sequoia 15 Beta 6 Release Notes</a>\u00a0for additional details about new features, resolved issues, known issues, and deprecations. (132606748)</li>\n</ul>\n<h1><a href=\"https://developer.apple.com/documentation/macos-release-notes/macos-15_1-release-notes#System-Integrity-Protection\">System Integrity Protection</a></h1>\n<h1><a href=\"https://developer.apple.com/documentation/macos-release-notes/macos-15_1-release-notes#Resolved-Issues\">Resolved Issues</a></h1>\n<ul>\n<li>Fixed: Users might be incorrectly prompted when an app that is distributed through TestFlight attempts to access an application group container. (131606564) (FB14288230)</li>\n</ul>",
+            "date_published": "2024-08-12T17:58:40+00:00",
+            "authors": [
+                {
+                    "name": "chinese-telephone",
+                    "url": "https://www.reddit.com/user/chinese-telephone"
+                }
+            ]
+        },
+        {
             "id": "1eopjtw",
             "url": "/r/MacOSBeta/comments/1eopjtw/frustrated_that_the_macos_devs_cant_seem_to/",
             "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1eopjtw/frustrated_that_the_macos_devs_cant_seem_to/",
