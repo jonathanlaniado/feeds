@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1eqwi85",
+            "url": "/r/shortcuts/comments/1eqwi85/anyone_else_waiting_to_rebuild_shortcuts_til/",
+            "external_url": "https://www.reddit.com/r/shortcuts/comments/1eqwi85/anyone_else_waiting_to_rebuild_shortcuts_til/",
+            "title": "Anyone else waiting to (re)build shortcuts \u2018til after iOS 18 fully drops?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1eqwi85/anyone_else_waiting_to_rebuild_shortcuts_til/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1eqwi85/anyone_else_waiting_to_rebuild_shortcuts_til/'>Reddit</a></caption><div><br></div><p>I don\u2019t know what cool updates beyond the If statement update could be waiting for us so I don\u2019t want to reinvent my wheel by having to edit my shortcuts further to account for newer changes and improvements to Shortcuts in iOS 18.</p>\n<p>Anyone else feel this way?</p>",
+            "date_published": "2024-08-13T02:20:59+00:00",
+            "authors": [
+                {
+                    "name": "ZephyrBrightmoon",
+                    "url": "https://www.reddit.com/user/ZephyrBrightmoon"
+                }
+            ]
+        },
+        {
             "id": "1em9m9l",
             "url": "/r/shortcuts/comments/1em9m9l/turn_off_annoying_shortcut_banner_when_opening_an/",
             "external_url": "https://i.redd.it/dw0gj1hxb8hd1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "hensonhouse",
                     "url": "https://www.reddit.com/user/hensonhouse"
-                }
-            ]
-        },
-        {
-            "id": "17nxpj2",
-            "url": "/r/shortcuts/comments/17nxpj2/is_there_a_way_to_achieve_this_menu_without_the/",
-            "external_url": "https://i.redd.it/h2krxl1cteyb1.jpg",
-            "title": "Is there a way to achieve this menu without the action button?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/17nxpj2/is_there_a_way_to_achieve_this_menu_without_the/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/17nxpj2/is_there_a_way_to_achieve_this_menu_without_the/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/h2krxl1cteyb1.jpg\" />",
-            "date_published": "2023-11-04T22:44:57+00:00",
-            "authors": [
-                {
-                    "name": "Paradigm27",
-                    "url": "https://www.reddit.com/user/Paradigm27"
                 }
             ]
         }
