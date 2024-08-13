@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1eqkbli",
+            "url": "/r/iOSBeta/comments/1eqkbli/ios_18_db6_bluetooth_toggle_is_back_in_control/",
+            "external_url": "https://i.redd.it/whm2fb1kt9id1.jpeg",
+            "title": "[iOS 18 DB6] Bluetooth toggle is back in control center",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1eqkbli/ios_18_db6_bluetooth_toggle_is_back_in_control/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1eqkbli/ios_18_db6_bluetooth_toggle_is_back_in_control/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/whm2fb1kt9id1.jpeg\" />",
+            "date_published": "2024-08-12T17:48:48+00:00",
+            "authors": [
+                {
+                    "name": "maxime_lgde",
+                    "url": "https://www.reddit.com/user/maxime_lgde"
+                }
+            ]
+        },
+        {
             "id": "1eqlbyq",
             "url": "/r/iOSBeta/comments/1eqlbyq/ios_18_db6_icon_tints_now_linked_on_a/",
             "external_url": "https://v.redd.it/7nnffqtj0aid1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Matj242",
                     "url": "https://www.reddit.com/user/Matj242"
-                }
-            ]
-        },
-        {
-            "id": "17iirwf",
-            "url": "/r/iOSBeta/comments/17iirwf/ios_172_db1_sideloading_has_been_added_not_working/",
-            "external_url": "https://v.redd.it/cf9n20pubzwb1",
-            "title": "[iOS 17.2 DB1] Sideloading has been added! (Not Working)",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/iOSBeta/comments/17iirwf/ios_172_db1_sideloading_has_been_added_not_working/'>Apollo</a> | <a href='https://reddit.com/r/iOSBeta/comments/17iirwf/ios_172_db1_sideloading_has_been_added_not_working/'>Reddit</a></caption><div><br></div><p>I was airdropping an IPA file from my MacBook to install with AltStore and noticed it tried to install the app!</p>",
-            "date_published": "2023-10-28T17:36:10+00:00",
-            "authors": [
-                {
-                    "name": "omani805",
-                    "url": "https://www.reddit.com/user/omani805"
                 }
             ]
         }
