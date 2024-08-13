@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1eqmsb9",
+            "url": "/r/iOSBeta/comments/1eqmsb9/ios_18_pb2_home_bar_has_been_moved_lower_and_made/",
+            "external_url": "https://i.redd.it/f8hkgjtnaaid1.jpeg",
+            "title": "[iOS 18 PB2] Home Bar has been moved lower and made thinner",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1eqmsb9/ios_18_pb2_home_bar_has_been_moved_lower_and_made/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1eqmsb9/ios_18_pb2_home_bar_has_been_moved_lower_and_made/'>Reddit</a></caption><div><br></div><p>I\u2019ve searched Google and this sub and this hasn\u2019t been mentioned anywhere. I have confirmed with others in this sub comparing screenshots. </p>\n<p>In iOS 18, the Home Bar has been moved lower and made thinner. In some apps, it seems as if it\u2019s touching the border. </p>\n<p>In the attached screenshot, gray is the new iOS 18 Home Bar, and the black is iOS 17 Home Bar. </p><div><br></div><img src=\"https://i.redd.it/f8hkgjtnaaid1.jpeg\" />",
+            "date_published": "2024-08-12T19:24:40+00:00",
+            "authors": [
+                {
+                    "name": "GTA2014",
+                    "url": "https://www.reddit.com/user/GTA2014"
+                }
+            ]
+        },
+        {
             "id": "1eqkbli",
             "url": "/r/iOSBeta/comments/1eqkbli/ios_18_db6_bluetooth_toggle_is_back_in_control/",
             "external_url": "https://i.redd.it/whm2fb1kt9id1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "martinest9",
                     "url": "https://www.reddit.com/user/martinest9"
-                }
-            ]
-        },
-        {
-            "id": "17ilhsp",
-            "url": "/r/iOSBeta/comments/17ilhsp/ios_172_db1_announce_messages_scans_images_and/",
-            "external_url": "https://v.redd.it/l4w3c15bzzwb1",
-            "title": "[iOS 17.2 DB1] Announce messages scans images and describes them",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/iOSBeta/comments/17ilhsp/ios_172_db1_announce_messages_scans_images_and/'>Apollo</a> | <a href='https://reddit.com/r/iOSBeta/comments/17ilhsp/ios_172_db1_announce_messages_scans_images_and/'>Reddit</a></caption><div><br></div><p>I have this feature working on my AirPods and CarPlay.</p>",
-            "date_published": "2023-10-28T19:47:42+00:00",
-            "authors": [
-                {
-                    "name": "Matj242",
-                    "url": "https://www.reddit.com/user/Matj242"
                 }
             ]
         }
