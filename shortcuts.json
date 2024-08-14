@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1eroyfb",
+            "url": "/r/shortcuts/comments/1eroyfb/every_time_i_come_home_from_work_i_send_this/",
+            "external_url": "https://i.redd.it/smyr99148jid1.jpeg",
+            "title": "Every time I come home from work I send this image to my girlfriend.  I have to manually go into favourites and select it. What would be the best Siri activated shortcut to send this specific image to her? ",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1eroyfb/every_time_i_come_home_from_work_i_send_this/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1eroyfb/every_time_i_come_home_from_work_i_send_this/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/smyr99148jid1.jpeg\" />",
+            "date_published": "2024-08-14T01:26:42+00:00",
+            "authors": [
+                {
+                    "name": "Supercoolmanyeah",
+                    "url": "https://www.reddit.com/user/Supercoolmanyeah"
+                }
+            ]
+        },
+        {
             "id": "1eqwi85",
             "url": "/r/shortcuts/comments/1eqwi85/anyone_else_waiting_to_rebuild_shortcuts_til/",
             "external_url": "https://www.reddit.com/r/shortcuts/comments/1eqwi85/anyone_else_waiting_to_rebuild_shortcuts_til/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "AnthoPak",
                     "url": "https://www.reddit.com/user/AnthoPak"
-                }
-            ]
-        },
-        {
-            "id": "17ogjuu",
-            "url": "/r/shortcuts/comments/17ogjuu/sending_birthday_message_from_contacts/",
-            "external_url": "https://www.reddit.com/gallery/17ogjuu",
-            "title": "Sending birthday message from contacts",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/17ogjuu/sending_birthday_message_from_contacts/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/17ogjuu/sending_birthday_message_from_contacts/'>Reddit</a></caption><div><br></div><p>I found this great shortcut to help automate sending birthday messages, but the only problem is if multiple people have a birthday on the same day and I select multiple people, it sends the happy birthday message in a group text to everyone who\u2019s birthday it is, rather than sending an individual text to each person. Can anybody help me fix this?</p>\n<p>https://www.icloud.com/shortcuts/12ae006886384d4aa1c02c7a5b98e676</p>",
-            "date_published": "2023-11-05T17:13:44+00:00",
-            "authors": [
-                {
-                    "name": "hensonhouse",
-                    "url": "https://www.reddit.com/user/hensonhouse"
                 }
             ]
         }
