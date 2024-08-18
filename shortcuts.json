@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1evgq83",
+            "url": "/r/shortcuts/comments/1evgq83/one_click_to_bypass_paywall_on_ios_w_shortcut/",
+            "external_url": "https://www.reddit.com/r/shortcuts/comments/1evgq83/one_click_to_bypass_paywall_on_ios_w_shortcut/",
+            "title": "One click to bypass paywall on iOS (w/ shortcut using sharesheet)",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1evgq83/one_click_to_bypass_paywall_on_ios_w_shortcut/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1evgq83/one_click_to_bypass_paywall_on_ios_w_shortcut/'>Reddit</a></caption><div><br></div><p><a href=\"https://www.icloud.com/shortcuts/55a79760bd134b839c4ce52de543c717\">https://www.icloud.com/shortcuts/55a79760bd134b839c4ce52de543c717</a></p>\n<ul>\n<li>One click through to archived version of page</li>\n<li>Banner at top for options to try different archive sites if the first doesn't work</li>\n<li>Uses <a href=\"http://removepaywalls.com\">removepaywalls.com</a> </li>\n</ul>",
+            "date_published": "2024-08-18T18:50:22+00:00",
+            "authors": [
+                {
+                    "name": "lockardd",
+                    "url": "https://www.reddit.com/user/lockardd"
+                }
+            ]
+        },
+        {
             "id": "1eroyfb",
             "url": "/r/shortcuts/comments/1eroyfb/every_time_i_come_home_from_work_i_send_this/",
             "external_url": "https://i.redd.it/smyr99148jid1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Avieshek",
                     "url": "https://www.reddit.com/user/Avieshek"
-                }
-            ]
-        },
-        {
-            "id": "17pztsl",
-            "url": "/r/shortcuts/comments/17pztsl/homelights_lets_you_create_home_locationaware/",
-            "external_url": "https://v.redd.it/xbyg1caxnyyb1",
-            "title": "HomeLights lets you create home location-aware Shortcuts, for example \"AirPlay to nearest speaker\"",
-            "content_html": "<caption>Open: <a href='https://redirect.jonathanlaniado.com?url=apollo://www.reddit.com/r/shortcuts/comments/17pztsl/homelights_lets_you_create_home_locationaware/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/17pztsl/homelights_lets_you_create_home_locationaware/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-11-07T17:43:22+00:00",
-            "authors": [
-                {
-                    "name": "AnthoPak",
-                    "url": "https://www.reddit.com/user/AnthoPak"
                 }
             ]
         }
