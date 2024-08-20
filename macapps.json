@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1ewr0qt",
+            "url": "/r/macapps/comments/1ewr0qt/my_free_macos_apps/",
+            "external_url": "https://sindresorhus.com/apps/free#macos",
+            "title": "My free macOS apps",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1ewr0qt/my_free_macos_apps/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1ewr0qt/my_free_macos_apps/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-08-20T09:16:45+00:00",
+            "authors": [
+                {
+                    "name": "sindresorhus",
+                    "url": "https://www.reddit.com/user/sindresorhus"
+                }
+            ]
+        },
+        {
             "id": "1et98ad",
             "url": "/r/macapps/comments/1et98ad/a_voice_dictation_app_that_writes_just_like_you/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1et98ad/a_voice_dictation_app_that_writes_just_like_you/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "rasitayaz",
                     "url": "https://www.reddit.com/user/rasitayaz"
-                }
-            ]
-        },
-        {
-            "id": "1919nf1",
-            "url": "/r/macapps/comments/1919nf1/what_are_your_favourite_apps_on_macbook/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1919nf1/what_are_your_favourite_apps_on_macbook/",
-            "title": "What are your favourite apps on Macbook",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1919nf1/what_are_your_favourite_apps_on_macbook/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1919nf1/what_are_your_favourite_apps_on_macbook/'>Reddit</a></caption><div><br></div><p>I recently wiped my MBP as it was running pretty slow. Now looking to install some apps as I lost the majority of mine.  </p>\n<p>What apps do you recommend for virtual windows setup?</p>\n<p>What apps do you recommend for PDF editing?</p>\n<p>What apps do you recommend for Zip and unzipping files?   </p>\n<p>My current favourite apps I can't live without:</p>\n<p>-Magnet</p>\n<p>-Amphetamine</p>\n<p>-Cleanmymac x </p>\n<p>-Copy clip</p>",
-            "date_published": "2024-01-08T02:07:38+00:00",
-            "authors": [
-                {
-                    "name": "Dm51ran",
-                    "url": "https://www.reddit.com/user/Dm51ran"
                 }
             ]
         }
