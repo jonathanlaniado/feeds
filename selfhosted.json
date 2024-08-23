@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1ez52iv",
+            "url": "/r/selfhosted/comments/1ez52iv/finally_finished_organizing_my_selfhosted/",
+            "external_url": "https://i.redd.it/bl77cx07pckd1.png",
+            "title": "Finally finished organizing my self-hosted services. Thoughts on my setup? ",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1ez52iv/finally_finished_organizing_my_selfhosted/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1ez52iv/finally_finished_organizing_my_selfhosted/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/bl77cx07pckd1.png\" />",
+            "date_published": "2024-08-23T05:39:54+00:00",
+            "authors": [
+                {
+                    "name": "dipplersdelight",
+                    "url": "https://www.reddit.com/user/dipplersdelight"
+                }
+            ]
+        },
+        {
             "id": "1ewy6ke",
             "url": "/r/selfhosted/comments/1ewy6ke/i_am_loving_uptime_kuma/",
             "external_url": "https://i.redd.it/1tppzlzb5ujd1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "shai-ber",
                     "url": "https://www.reddit.com/user/shai-ber"
-                }
-            ]
-        },
-        {
-            "id": "18c9b8q",
-            "url": "/r/selfhosted/comments/18c9b8q/copilotkit_build_inapp_ai_chatbots_and_aipowered/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/18c9b8q/copilotkit_build_inapp_ai_chatbots_and_aipowered/",
-            "title": "CopilotKit: Build in-app AI chatbots and AI-powered <Textareas/> | Open-source, customizable and self-hostable",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/18c9b8q/copilotkit_build_inapp_ai_chatbots_and_aipowered/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/18c9b8q/copilotkit_build_inapp_ai_chatbots_and_aipowered/'>Reddit</a></caption><div><br></div><p>Hi self-hosters  \ud83d\udc4b</p>\n<p>I've built a library that makes it easy to integrate LLMs into any react app. We are launching on product hunt tomorrow, but wanted to give you an early look :) \ud83c\udf89</p>\n<p><strong>Github:</strong></p>\n<p><a href=\"https://github.com/CopilotKit/CopilotKit\">https://github.com/CopilotKit/CopilotKit</a></p>\n<p>&#x200B;</p>\n<p><strong>CopilotKit</strong> currently has two react components: </p>\n<ol>\n<li><CopilotPortal></li>\n<li>A \"chatGPT\" inside your app that can see the app state and take actions.</li>\n<li><CopilotTexarea/></li>\n<li>A drop-in replacement for any <textarea/> with the features of Github CopilotX (autocomplete, insertions, prompting). Context aware. </li>\n</ol>\n<p>Everything is open-source and fully customizable. It is plugged in to OpenAI by default but you can literally run everything locally, including the LLM. It's built to be deeply customized and still work. </p>\n<p>https://preview.redd.it/20rrkws3mp4c1.png?width=3071&amp;format=png&amp;auto=webp&amp;s=90072ad62138ef1f251c248074ac1e7ce588f8c3</p>\n<p>Please check it out and let us know what you think. If you like it, give us a <em>star\ud83c\udf1f</em> while you're there :) </p>\n<p>Come join our journey \ud83d\uddfa\ufe0f</p>\n<p>---</p>\n<p><strong>Discord:</strong> </p>\n<p><a href=\"https://discord.gg/6dffbvGU3D\">https://discord.gg/6dffbvGU3D</a></p>\n<p><strong>Github</strong>: </p>\n<p><a href=\"https://github.com/CopilotKit/CopilotKit\">https://github.com/CopilotKit/CopilotKit</a></p>",
-            "date_published": "2023-12-06T17:35:50+00:00",
-            "authors": [
-                {
-                    "name": "kindly_formation71",
-                    "url": "https://www.reddit.com/user/kindly_formation71"
                 }
             ]
         }
