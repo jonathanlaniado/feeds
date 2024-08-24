@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1f0i1jr",
+            "url": "/r/macapps/comments/1f0i1jr/i_spent_6_months_building_a_tool_to_help_devs/",
+            "external_url": "https://www.reddit.com/gallery/1f0i1jr",
+            "title": "I spent 6 months building a tool to help devs setup their Macs (using code)",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1f0i1jr/i_spent_6_months_building_a_tool_to_help_devs/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1f0i1jr/i_spent_6_months_building_a_tool_to_help_devs/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-08-24T22:59:10+00:00",
+            "authors": [
+                {
+                    "name": "_kevinwang",
+                    "url": "https://www.reddit.com/user/_kevinwang"
+                }
+            ]
+        },
+        {
             "id": "1eyrfjq",
             "url": "/r/macapps/comments/1eyrfjq/trace_a_free_macos_timetracker_that_shows_your/",
             "external_url": "https://www.reddit.com/gallery/1eyrfjq",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Dramatic_Law_4239",
                     "url": "https://www.reddit.com/user/Dramatic_Law_4239"
-                }
-            ]
-        },
-        {
-            "id": "193ds1j",
-            "url": "/r/macapps/comments/193ds1j/easily_access_the_current_apps_copy_history/",
-            "external_url": "https://v.redd.it/zsahcrgidnbc1",
-            "title": "Easily access the current app's copy history",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/193ds1j/easily_access_the_current_apps_copy_history/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/193ds1j/easily_access_the_current_apps_copy_history/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-01-10T17:29:50+00:00",
-            "authors": [
-                {
-                    "name": "CleanClip",
-                    "url": "https://www.reddit.com/user/CleanClip"
                 }
             ]
         }
