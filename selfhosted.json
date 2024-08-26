@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1f1s4vz",
+            "url": "/r/selfhosted/comments/1f1s4vz/my_isp_is_finally_allowing_me_to_get_static_ips/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1f1s4vz/my_isp_is_finally_allowing_me_to_get_static_ips/",
+            "title": "My ISP is finally allowing me to get static IP's and opened ports on my residential fiber connection....wohoo!!!",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1f1s4vz/my_isp_is_finally_allowing_me_to_get_static_ips/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1f1s4vz/my_isp_is_finally_allowing_me_to_get_static_ips/'>Reddit</a></caption><div><br></div><p>It's taken 12 years but they're finally allowing me to get 3 static IPV4 addresses for $30/mo and have all incoming ports opened on my residential 1000/250 fiber connection.</p>\n<p>I live in a town of 5K people so our only ISP options are 4G or the local telco.  We just got fiber from the telco in 2019 and before that it was DSL.</p>\n<p>Now I can play with things like CARP in OPNsense or just have a completely separate lab network with it's own public IP.</p>\n<p>I'm beyond exited!!!!</p>",
+            "date_published": "2024-08-26T16:14:32+00:00",
+            "authors": [
+                {
+                    "name": "Firestarter321",
+                    "url": "https://www.reddit.com/user/Firestarter321"
+                }
+            ]
+        },
+        {
             "id": "1ez52iv",
             "url": "/r/selfhosted/comments/1ez52iv/finally_finished_organizing_my_selfhosted/",
             "external_url": "https://i.redd.it/bl77cx07pckd1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Significant-Neat7754",
                     "url": "https://www.reddit.com/user/Significant-Neat7754"
-                }
-            ]
-        },
-        {
-            "id": "18czdl6",
-            "url": "/r/selfhosted/comments/18czdl6/winglang_new_opensource_programming_language_for/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/18czdl6/winglang_new_opensource_programming_language_for/",
-            "title": "Winglang: New open-source programming language for faster and simpler cloud development",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/18czdl6/winglang_new_opensource_programming_language_for/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/18czdl6/winglang_new_opensource_programming_language_for/'>Reddit</a></caption><div><br></div><p>Hi self-hosters \ud83d\udc4b</p>\n<p>A group of dedicated contributors and myself are working on <a href=\"https://github.com/winglang/wing\">Winglang</a>, a new programming language that reduces complexity and speeds up cloud development by allowing developers to work at a higher level of abstraction and test their applications locally with a fully functional simulator that provides instant feedback after code changes.</p>\n<p>Wing programs can be deployed to any cloud provider by changing the app's compilation target.</p>\n<h1>Key Features</h1>\n<ul>\n<li>Instant local simulation for visualizing, debugging, and testing apps without creating cloud mocks.</li>\n<li>Cloud services and distributed computing as first-class language primitives.</li>\n<li>Compiles to JavaScript and IaC (Terraform and Cloudformation, with support for more provisioning engines on the way).</li>\n<li>Same code compiles to different clouds (AWS, GCP, Azure).</li>\n<li>Compiler generates least-privilege IAM policies (and other cloud mechanics) based on intent.</li>\n<li><a href=\"https://docs.winglang.io/blog/2023/02/17/plugins\">Compiler plugins</a> for customizing the generated infrastructure definitions.</li>\n<li>JavaScript interoperability.</li>\n<li>Supports any Terraform resource.</li>\n</ul>\n<p>Check out this short <a href=\"https://www.youtube.com/watch?v=wzqCXrsKWbo&amp;t=661s\">demo video</a> to see Winglang and its local simulation tools in action, as well as the compilation of the same code to different clouds and provisioning engines.</p>\n<h1>My Motivation</h1>\n<p>As a developer, I've always felt that creating cloud applications should be easier. The process requires mastering various layers of the cloud stack, IAM roles, networking, and numerous tools, along with finding creative ways to test and debug code. In addition, long deployment times hinder iteration cycles and take me out of my creative flow.</p>\n<p>Other development disciplines have benefited from smart compilers that handle the lower levels of the stack and reduce developers' cognitive load. With Wing, we aim to bring the same benefits to cloud development with a language that treats the entire cloud as its target computer.</p>\n<h1>How to get Involved</h1>\n<p>We'd love to hear your feedback on any aspect of the project, and we're looking for developers to join our community to help shape Winglang's future.</p>\n<p>If you find Winglang interesting, please <a href=\"https://github.com/winglang/wing\">give us a \u2b50\ufe0f</a> on GitHub to bring the project to the attention of more developers \ud83d\ude4f. Your support is greatly appreciated!</p>\n<p>More Info</p>\n<p>You can find more info, including how to get started with Wing and why we're building it as a language, in our GitHub: <a href=\"https://github.com/winglang/wing\">https://github.com/winglang/wing</a>.</p>",
-            "date_published": "2023-12-07T16:29:15+00:00",
-            "authors": [
-                {
-                    "name": "shai-ber",
-                    "url": "https://www.reddit.com/user/shai-ber"
                 }
             ]
         }
