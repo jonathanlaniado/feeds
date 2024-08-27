@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1f2l3me",
+            "url": "/r/PleX/comments/1f2l3me/tidal_is_leaving_plex/",
+            "external_url": "https://i.redd.it/afg3kg1te8ld1.png",
+            "title": "TIDAL is leaving Plex ",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1f2l3me/tidal_is_leaving_plex/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1f2l3me/tidal_is_leaving_plex/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/afg3kg1te8ld1.png\" />",
+            "date_published": "2024-08-27T16:16:52+00:00",
+            "authors": [
+                {
+                    "name": "GameHostBros",
+                    "url": "https://www.reddit.com/user/GameHostBros"
+                }
+            ]
+        },
+        {
             "id": "1eys3h9",
             "url": "/r/PleX/comments/1eys3h9/plexing_sounds_easy_enough/",
             "external_url": "https://www.reddit.com/gallery/1eys3h9",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "mangustaeliberatoare",
                     "url": "https://www.reddit.com/user/mangustaeliberatoare"
-                }
-            ]
-        },
-        {
-            "id": "16wh8xg",
-            "url": "/r/PleX/comments/16wh8xg/prevent_plex_from_minimizing_video_during_credits/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/16wh8xg/prevent_plex_from_minimizing_video_during_credits/",
-            "title": "Prevent Plex from minimizing video during credits",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/PleX/comments/16wh8xg/prevent_plex_from_minimizing_video_during_credits/'>Apollo</a> | <a href='https://reddit.com/r/PleX/comments/16wh8xg/prevent_plex_from_minimizing_video_during_credits/'>Reddit</a></caption><div><br></div><div><p>Is there a way to stop this behavior? It's a recent change, I'm guessing modeled after how streaming services do it (e.g. Max, Netflix, etc.). It's a total mood-killer, though, and I was really disappointed to see Plex adopt this.</p></div>",
-            "date_published": "2023-09-30T20:39:51+00:00",
-            "authors": [
-                {
-                    "name": "ProperNomenclature",
-                    "url": "https://www.reddit.com/user/ProperNomenclature"
                 }
             ]
         }
