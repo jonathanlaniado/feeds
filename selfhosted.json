@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1f2ea4g",
+            "url": "/r/selfhosted/comments/1f2ea4g/jellybox_v184_jellyfin_desktop_and_mobile_client/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1f2ea4g/jellybox_v184_jellyfin_desktop_and_mobile_client/",
+            "title": "Jellybox v1.8.4 - Jellyfin desktop and mobile client",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1f2ea4g/jellybox_v184_jellyfin_desktop_and_mobile_client/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1f2ea4g/jellybox_v184_jellyfin_desktop_and_mobile_client/'>Reddit</a></caption><div><br></div><p><a href=\"https://preview.redd.it/nxaffv7ku6ld1.png?width=6741&amp;format=png&amp;auto=webp&amp;s=436c56fab1d14d36cb189927266b43b32a349409\">Desktop version</a></p>\n<p>Hey guys, it's been a while since I last posted about <a href=\"https://github.com/avdept/JellyBoxPlayer\">Jellybox</a> player - a player for your Jellyfin media library for MacOS, iOS and android platforms. It's a native app unlike official client, so it uses less memory, and more battery-efficient.</p>\n<p>Over past few months I've added a bunch of changes, fixes and improvements. The most notable are</p>\n<ul>\n<li>Playlist support - create/delete playlists, add/remove songs from playlists</li>\n<li>Media keys support on MacOS(play/pause next/prev)</li>\n<li>Dynamic progress bar color(matches album cover art dominant color)</li>\n<li>Sorting</li>\n</ul>\n<p>There are many more changes under the hood to make app more stable. App is fully open sourced and available to check here - <a href=\"https://github.com/avdept/JellyBoxPlayer\">https://github.com/avdept/JellyBoxPlayer</a></p>\n<p>Right now I support macOS, iOS and android as APK file in downloads section(soon I will release it to google play).</p>\n<p>There are few more features I currently work on, so stay tuned!</p>",
+            "date_published": "2024-08-27T11:06:16+00:00",
+            "authors": [
+                {
+                    "name": "avdept",
+                    "url": "https://www.reddit.com/user/avdept"
+                }
+            ]
+        },
+        {
             "id": "1f1s4vz",
             "url": "/r/selfhosted/comments/1f1s4vz/my_isp_is_finally_allowing_me_to_get_static_ips/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1f1s4vz/my_isp_is_finally_allowing_me_to_get_static_ips/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Jefferson-not-jackso",
                     "url": "https://www.reddit.com/user/Jefferson-not-jackso"
-                }
-            ]
-        },
-        {
-            "id": "18d2yob",
-            "url": "/r/selfhosted/comments/18d2yob/immich_will_have_breaking_changes_again_in_the/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/18d2yob/immich_will_have_breaking_changes_again_in_the/",
-            "title": "Immich will have breaking changes (again) in the next release",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/18d2yob/immich_will_have_breaking_changes_again_in_the/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/18d2yob/immich_will_have_breaking_changes_again_in_the/'>Reddit</a></caption><div><br></div><p>It should be fairly easy to understand. Remove the parts in the red and add the ones in the green, in the docker compose file.</p>\n<p>Do be careful when updating.</p>\n<p>https://github.com/immich-app/immich/releases/tag/v1.90.0</p>",
-            "date_published": "2023-12-07T19:10:52+00:00",
-            "authors": [
-                {
-                    "name": "Significant-Neat7754",
-                    "url": "https://www.reddit.com/user/Significant-Neat7754"
                 }
             ]
         }
