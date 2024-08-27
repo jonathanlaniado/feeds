@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1f2ojf9",
+            "url": "/r/selfhosted/comments/1f2ojf9/i_tried_with_a_diagram/",
+            "external_url": "https://i.redd.it/4587rghg39ld1.jpeg",
+            "title": "I tried with a diagram",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1f2ojf9/i_tried_with_a_diagram/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1f2ojf9/i_tried_with_a_diagram/'>Reddit</a></caption><div><br></div><p>Some recommendations?</p><div><br></div><img src=\"https://i.redd.it/4587rghg39ld1.jpeg\" />",
+            "date_published": "2024-08-27T18:34:55+00:00",
+            "authors": [
+                {
+                    "name": "timo_hzbs",
+                    "url": "https://www.reddit.com/user/timo_hzbs"
+                }
+            ]
+        },
+        {
             "id": "1f2ea4g",
             "url": "/r/selfhosted/comments/1f2ea4g/jellybox_v184_jellyfin_desktop_and_mobile_client/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1f2ea4g/jellybox_v184_jellyfin_desktop_and_mobile_client/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "BitterSparklingChees",
                     "url": "https://www.reddit.com/user/BitterSparklingChees"
-                }
-            ]
-        },
-        {
-            "id": "18eq15e",
-            "url": "/r/selfhosted/comments/18eq15e/tailscale_on_a_travel_router_game_changer/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/18eq15e/tailscale_on_a_travel_router_game_changer/",
-            "title": "Tailscale on a travel router: game changer",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/18eq15e/tailscale_on_a_travel_router_game_changer/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/18eq15e/tailscale_on_a_travel_router_game_changer/'>Reddit</a></caption><div><br></div><p>Took a business trip last week. In preparation, I picked up a GL.iNet GL-MT3000 travel router and installed Tailscale on it. I also picked up an Amazon Firestick and put Jellyfin on it. I connected the Firestick and my other devices to the router before I left. At the hotel, I plugged my router in, connected it the wifi, and all my devices were then connected. I then was able to seamlessly stream directly from my home server using jellyfin and tailscale. It was awesome.</p>",
-            "date_published": "2023-12-09T23:28:12+00:00",
-            "authors": [
-                {
-                    "name": "Jefferson-not-jackso",
-                    "url": "https://www.reddit.com/user/Jefferson-not-jackso"
                 }
             ]
         }
