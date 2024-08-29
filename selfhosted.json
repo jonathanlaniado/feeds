@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1f40tgt",
+            "url": "/r/selfhosted/comments/1f40tgt/psa_for_those_of_you_with_families_be_careful_you/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1f40tgt/psa_for_those_of_you_with_families_be_careful_you/",
+            "title": "PSA: For those of you with families, be careful you don't become an NPC Dad (or Mom)",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1f40tgt/psa_for_those_of_you_with_families_be_careful_you/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1f40tgt/psa_for_those_of_you_with_families_be_careful_you/'>Reddit</a></caption><div><br></div><p>I came across this <a href=\"https://www.reddit.com/r/NoStupidQuestions/comments/1f3e1ht/why_do_so_many_fathers_walk_away_from_their_kids/\">thread</a> today and it was really sad. </p>\n<p>A lot of the complaints were about disengaged dads who spend all of their time either working or on the computer. One redditor labeled them NPC dads. </p>\n<p>I've seen some comments on this subreddit from Dads who wonder if their kids appreciate the sweet setup they've created for them. If you feel that way, you may be confusing effort with value. Sure, you spend a lot of time and put in a lot of hard work, and it feels worth it. But for the rest of your family, it probably just looks like you're playing games, and if we're being fair, we kind of are -- we enjoy the challenge and the opportunity to learn soemthing new, which is basically makes selfhosting a semi productive game. </p>\n<p>Is it worth it? You may see yourself as a hero, but doesn't everybody want to be the hero of their own story? You might want to check with your family (your spouse included) if they think it's all worth your time, or if they'd rather you spent time with them or helped out in other ways. </p>",
+            "date_published": "2024-08-29T12:11:59+00:00",
+            "authors": [
+                {
+                    "name": "dscheffy",
+                    "url": "https://www.reddit.com/user/dscheffy"
+                }
+            ]
+        },
+        {
             "id": "1f2ojf9",
             "url": "/r/selfhosted/comments/1f2ojf9/i_tried_with_a_diagram/",
             "external_url": "https://i.redd.it/4587rghg39ld1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "altran1502",
                     "url": "https://www.reddit.com/user/altran1502"
-                }
-            ]
-        },
-        {
-            "id": "18evofr",
-            "url": "/r/selfhosted/comments/18evofr/a_word_of_caution_about_tailscale/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/18evofr/a_word_of_caution_about_tailscale/",
-            "title": "A word of caution about Tailscale",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/18evofr/a_word_of_caution_about_tailscale/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/18evofr/a_word_of_caution_about_tailscale/'>Reddit</a></caption><div><br></div><p>This probably won't be a popular opinion, but given the volume of Tailscale praising posts this sub gets, I think it's worth noting that while Tailscale is a cool service, it's very much not self-hosting and in is even against the reasons that many people choose to self-host.</p>\n<p>If you use Tailscale, you're outsourcing a piece of your network to a VC funded company. With a simple change to their TOS this company can do all sorts of things, including charging for a previously free product or monetizing whatever data that can get from you.</p>\n<p>If there's one thing that we should all already know about VC funded internet startups, it's that they can and will pull the rug from underneath you when their bottom line demands it. See: streaming services cutting content while raising costs, sites like youtube and reddit redesigning to add more and more ads, hashicorp going from open source to close source. There's countless others. </p>\n<p>In the beginning there is often a honey moon period when a company is flush from cash from VC rounds and is in a \"growth at all costs\" mentality where they essentially subsidize the cost of services for new users and often offer things like a free tier. This is where Tailscale is today. Over time they eventually shift into a profit mentality when they've shored up as much of the market as they can (which Tailscale has already done a great job of).</p>\n<p>I'm not saying don't use Tailscale, or that it's a bad service (on the contrary their product UX is incredible and you can't get better than free), just that it's praise in this subreddit feels misplaced. Relying on a software-as-a-service company for your networking feels very much against the philosophy of self hosting.</p>",
-            "date_published": "2023-12-10T04:42:02+00:00",
-            "authors": [
-                {
-                    "name": "BitterSparklingChees",
-                    "url": "https://www.reddit.com/user/BitterSparklingChees"
                 }
             ]
         }
