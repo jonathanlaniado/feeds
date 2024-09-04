@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1f8wcbs",
+            "url": "/r/macapps/comments/1f8wcbs/power_node_12_ive_made_the_app_free_for_24_hours/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1f8wcbs/power_node_12_ive_made_the_app_free_for_24_hours/",
+            "title": "Power Node 1.2 - I've made the app free for 24 hours for you",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1f8wcbs/power_node_12_ive_made_the_app_free_for_24_hours/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1f8wcbs/power_node_12_ive_made_the_app_free_for_24_hours/'>Reddit</a></caption><div><br></div><p>Hey there, last time I promised I would post more promo codes. But it looks like there's no more codes I can generate. So I made the app free for 24 hours. If you didn't get a code last time now is your chance to get the app :)</p>\n<p>All you have to do is go to https://apps.apple.com/app/power-node-mind-map/id1195518228 and download it. Run the app and press on any of the \"Buy\" buttons. You can then \"purchase\" the Full Version unlock for $0.00. And that's it. The app is yours :)</p>\n<p>(The message box at the start will tell you the price is $19.99 but that's just a display error - the app is still free, the App Store will tell you this when you go through the \"purchase\" process).</p>\n<p>If anyone is interested to know what's new in 1.2:</p>\n<ul>\n<li>\n<ul>\n<li>Support for opening .txt, .rtf, .docx, .md and .opml files (via File -&gt; Open)</li>\n</ul>\n</li>\n<li>\n<ul>\n<li>Export of OPML files (vie File -&gt; Export)</li>\n</ul>\n</li>\n<li>\n<ul>\n<li>You can paste in raw OPML code and the app will generate nodes from the structure (other Mind Mappers will just mindlessly paste in the OPML source code). Hint: You can ask all those AIs to format their output in OPML for easier pasting into Power Node</li>\n</ul>\n</li>\n<li>\n<ul>\n<li>A few bugfixes</li>\n</ul>\n</li>\n</ul>\n<p>I'd be thrilled to hear any feedback, feature requests, etc.! And if you like the app (or don't) you can leave a review/rating but please be honest :)</p>\n<p><em>Info: This promo runs until this post is 24 hours old. Then I'll change the price back.</em></p>",
+            "date_published": "2024-09-04T15:33:59+00:00",
+            "authors": [
+                {
+                    "name": "shroom_elemental",
+                    "url": "https://www.reddit.com/user/shroom_elemental"
+                }
+            ]
+        },
+        {
             "id": "1f86pnb",
             "url": "/r/macapps/comments/1f86pnb/affinity_is_now_free_for_education_accounts/",
             "external_url": "https://i.redd.it/jeb3pj00wmmd1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Traditional-Twist101",
                     "url": "https://www.reddit.com/user/Traditional-Twist101"
-                }
-            ]
-        },
-        {
-            "id": "197h9ep",
-            "url": "/r/macapps/comments/197h9ep/open_source_mac_apps_for_2024/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/197h9ep/open_source_mac_apps_for_2024/",
-            "title": "Open source Mac apps for 2024",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/197h9ep/open_source_mac_apps_for_2024/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/197h9ep/open_source_mac_apps_for_2024/'>Reddit</a></caption><div><br></div><p>Hi all, I've finally revamped this curation with new UI and updated the list with ongoing popular open source Mac apps that are relevant for 2024. Here you can search and filter to find the apps you need. I will keep improving this page, if you have any suggestions, feel free to suggest  </p>\n<p>I use many of these open-source apps myself, like Itsycal, Keyboard Cowboy, Ice Cubes, ...  </p>\n<p><a href=\"https://indiegoodies.com/awesome-open-source-mac-apps\">https://indiegoodies.com/awesome-open-source-mac-apps</a></p>",
-            "date_published": "2024-01-15T19:21:59+00:00",
-            "authors": [
-                {
-                    "name": "onmyway133",
-                    "url": "https://www.reddit.com/user/onmyway133"
                 }
             ]
         }
