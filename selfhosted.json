@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1f8smun",
+            "url": "/r/selfhosted/comments/1f8smun/change_my_mind_a_minipc_attached_storage_is_the/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1f8smun/change_my_mind_a_minipc_attached_storage_is_the/",
+            "title": "Change my mind : a mini-pc + attached storage is the most adequate home server solution for 90% of users",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1f8smun/change_my_mind_a_minipc_attached_storage_is_the/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1f8smun/change_my_mind_a_minipc_attached_storage_is_the/'>Reddit</a></caption><div><br></div><p>I know this might be controversial but I genuinely believe that a mini pc and some form of attached storage constitute for most users the most adequate home server solution. Of course I am not talking here about applications which involve serving dozens of devices and users with 99.99% uptime, I am talking home media server and some additional VMs/containers.</p>\n<p>Here is why:</p>\n<ul>\n<li>Can be bought used for cheap (&lt;200\u20ac for i5 10th gen, 100\u20ac for 5-bay DAS). Most of the time better value than prebuilt NASs.</li>\n<li>Very small form factor and noise, perfect to hide in a closet somewhere or in the corner of a room.</li>\n<li>Some models can also be fitted with a NIC to go beyond gigabit speeds (alternatively, many mini PCs on Aliexpress now come with 2.5G).</li>\n<li>Very low power consumption. Maybe more relevant for Europe where electricity is not cheap.</li>\n</ul>\n<p>Of course you could argue that:</p>\n<ul>\n<li>It is usually less expandable, in terms of CPU/RAM/storage. Regarding the storage, if you buy a sufficiently large DAS from the start, you have room for additional drives later on.</li>\n<li>These machines are typically less capable than full-on servers but I believe that not everybody actually needs a server rack and 512GB RAM at home.</li>\n<li>They are also less reliable (not UPS, redundant power supply, etc) but for home purposes, I believe this is less relevant.</li>\n<li>DAS are sometime considered unreliable, especially with RAID setups. </li>\n</ul>\n<p>That's all I have, interested to hear your thoughts.</p>",
+            "date_published": "2024-09-04T12:57:06+00:00",
+            "authors": [
+                {
+                    "name": "ValouMazMaz",
+                    "url": "https://www.reddit.com/user/ValouMazMaz"
+                }
+            ]
+        },
+        {
             "id": "1f7f8f4",
             "url": "/r/selfhosted/comments/1f7f8f4/i_built_an_ai_tool_to_handle_my_moms_invoices_and/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1f7f8f4/i_built_an_ai_tool_to_handle_my_moms_invoices_and/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "salslab",
                     "url": "https://www.reddit.com/user/salslab"
-                }
-            ]
-        },
-        {
-            "id": "18jr24p",
-            "url": "/r/selfhosted/comments/18jr24p/we_are_300k_strong/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/18jr24p/we_are_300k_strong/",
-            "title": "We are 300k strong!",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/selfhosted/comments/18jr24p/we_are_300k_strong/'>Apollo</a> | <a href='https://reddit.com/r/selfhosted/comments/18jr24p/we_are_300k_strong/'>Reddit</a></caption><div><br></div><p>May we reach a million soon. r/selfhosted rocks!</p>",
-            "date_published": "2023-12-16T13:19:08+00:00",
-            "authors": [
-                {
-                    "name": "a_sugarcane",
-                    "url": "https://www.reddit.com/user/a_sugarcane"
                 }
             ]
         }
