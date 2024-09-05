@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1f9ue5j",
+            "url": "/r/ArcBrowser/comments/1f9ue5j/hello_android/",
+            "external_url": "https://i.redd.it/gubsopg2g1nd1.jpeg",
+            "title": "Hello, Android.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1f9ue5j/hello_android/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1f9ue5j/hello_android/'>Reddit</a></caption><div><br></div><p>https://browserco.typeform.com/to/ayHU7UaR</p><div><br></div><img src=\"https://i.redd.it/gubsopg2g1nd1.jpeg\" />",
+            "date_published": "2024-09-05T18:59:37+00:00",
+            "authors": [
+                {
+                    "name": "Eyal-M",
+                    "url": "https://www.reddit.com/user/Eyal-M"
+                }
+            ]
+        },
+        {
             "id": "1e4rdz4",
             "url": "/r/ArcBrowser/comments/1e4rdz4/\ud835\ude8a_\ud835\ude95\ud835\ude92\ud835\ude95_\ud835\ude97\ud835\ude8a\ud835\ude9d\ud835\ude92\ud835\ude9f\ud835\ude8e_\ud835\ude8a\ud835\ude8d_\ud835\ude8b\ud835\ude95\ud835\ude98\ud835\ude8c\ud835\ude94\ud835\ude8e\ud835\ude9b_soon_on_mac_windows/",
             "external_url": "https://v.redd.it/epxft4drewcd1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MohamedxSalah",
                     "url": "https://www.reddit.com/user/MohamedxSalah"
-                }
-            ]
-        },
-        {
-            "id": "17ruqkm",
-            "url": "/r/ArcBrowser/comments/17ruqkm/the_was_inelegant_ux_for_a_number_of_reasons/",
-            "external_url": "https://v.redd.it/8tzxjyw7tfzb1",
-            "title": "\"The \"...\" was inelegant UX for a number of reasons, including a lot of people getting false positives where it'd jump out at them when they didn't need it. Curious what feels off about pinning extensions the current way, or using CMD-T to access them? Also, what about this:\" \u2013 Josh Miller via X",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/17ruqkm/the_was_inelegant_ux_for_a_number_of_reasons/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/17ruqkm/the_was_inelegant_ux_for_a_number_of_reasons/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-11-10T03:10:48+00:00",
-            "authors": [
-                {
-                    "name": "JaceThings",
-                    "url": "https://www.reddit.com/user/JaceThings"
                 }
             ]
         }
