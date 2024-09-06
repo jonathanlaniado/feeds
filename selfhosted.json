@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1fakrng",
+            "url": "/r/selfhosted/comments/1fakrng/this_goes_out_to_all_the_open_and_closeted_plex/",
+            "external_url": "https://i.redd.it/n8ah0u8v38nd1.jpeg",
+            "title": "This goes out to all the open and closeted Plex shills out there. Happy Friday!",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1fakrng/this_goes_out_to_all_the_open_and_closeted_plex/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1fakrng/this_goes_out_to_all_the_open_and_closeted_plex/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/n8ah0u8v38nd1.jpeg\" />",
+            "date_published": "2024-09-06T17:24:09+00:00",
+            "authors": [
+                {
+                    "name": "cloudswithflaire",
+                    "url": "https://www.reddit.com/user/cloudswithflaire"
+                }
+            ]
+        },
+        {
             "id": "1f9kt9h",
             "url": "/r/selfhosted/comments/1f9kt9h/we_moved_away_from_public_cloud_and_saved_76_in/",
             "external_url": "https://oneuptime.com/blog/post/2023-10-30-moving-from-aws-to-bare-metal",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "pinewoodranger",
                     "url": "https://www.reddit.com/user/pinewoodranger"
-                }
-            ]
-        },
-        {
-            "id": "18lj36i",
-            "url": "/r/selfhosted/comments/18lj36i/new_and_free_home_assistant_remote_access_looking/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/18lj36i/new_and_free_home_assistant_remote_access_looking/",
-            "title": "New (and Free!) Home Assistant Remote Access - Looking For Beta Testers",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/18lj36i/new_and_free_home_assistant_remote_access_looking/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/18lj36i/new_and_free_home_assistant_remote_access_looking/'>Reddit</a></caption><div><br></div><p>I'm looking for beta testers for a new project I'm working on to provide free, secure, and private remote access to Home Assistant! It's called <a href=\"https://homeway.io/?source=reddit_selfhost\">Homeway.io</a>!</p>\n<p>I want to put this upfront. I know privacy and security are essential to this subreddit, and they're very important to me as well. </p>\n<p><strong>Homeway has a very strong</strong> <a href=\"https://learn.homeway.io/privacy/\">privacy</a> <strong>and</strong> <a href=\"https://learn.homeway.io/security\">security</a> <strong>commitment; we will never sell, store, or give away your data.</strong> Homeway tunnels your data from your browser to your Home Assistant and back, then it's deleted. All of your data stays locally in your home, I'm just building a secure way to access it. I have written an <a href=\"https://learn.homeway.io/security\">extensive page describing our system security</a>; I would like feedback and scrutiny!</p>\n<p>There are other remote access solutions, but I'm trying to build an easy-as-possible-to-use system that requires no setup, so there's no way to misconfigure the system and expose it to the public internet. I have worked in software and security for 10 years, so I have seen the user benefits of systems that are drop-dead easy to set up and have seen the horrors of security issues resulting from poor attention to security.</p>\n<p>I want the service to be free so that as many people can secure their Home Assistant remote access. However, the service does cost money to operate, so users can opt into an option supporter role for $2.49/month, which helps fund the project. If you get the supporter role, you get higher limits on your data usage as a thank-you.</p>\n<p><strong>I'm looking for beta testers to run the project through its paces and send feedback</strong>. I'm an open book and would love to communicate with anyone on their thoughts, concerns, bugs, or whatever. For this initial set of beta testers, if you contribute feedback, as a thank you, <strong>I will give all beta testers \"Supporter Perks\" for life, essentially meaning unlimited free remote access forever.</strong></p>\n<p>If you're interested, <a href=\"https://homeway.io/getstarted?source=reddit_selfhost\">follow this link to get set up in about 20 seconds</a>. All you have to do is install the Homeway add-on and link your account.</p>\n<p>I'm excited to get some users into my project and see what you all think! I'm more than happy to answer any questions, fire away!</p>",
-            "date_published": "2023-12-18T20:46:38+00:00",
-            "authors": [
-                {
-                    "name": "quinbd",
-                    "url": "https://www.reddit.com/user/quinbd"
                 }
             ]
         }
