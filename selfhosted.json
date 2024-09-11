@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1fe2pq7",
+            "url": "/r/selfhosted/comments/1fe2pq7/introducing_airtrail_a_personal_flight_tracking/",
+            "external_url": "https://i.redd.it/94xg1x8v84od1.jpeg",
+            "title": "Introducing AirTrail, a personal flight tracking system",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1fe2pq7/introducing_airtrail_a_personal_flight_tracking/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1fe2pq7/introducing_airtrail_a_personal_flight_tracking/'>Reddit</a></caption><div><br></div><p>https://johanohly.github.io/AirTrail/</p>\n<p>The objective is to provide a simple and easy-to-use interface to track your flights, list them all and provide a way to analyze them. </p>\n<p>I mainly got the idea from myflightradar24, which is why it is currently the only supported import option. \nI have also looked at JetLog, which is another great open-source project that seems to be similar to this. The main reason I didn't just go with JetLog and made my own, is the missing authentication / user management, along with a few implementation details I wanted to change. </p>\n<p>Features:\n    World Map: View all your flights on an interactive world map.\n    Flight History: Keep track of all your flights in one place.\n    Statistics: Get insights into your flight history with statistics.\n    User Authentication: Allow multiple users and secure your data with user authentication.\n    Responsive Design: Use the application on any device with a responsive design.\n    Dark Mode: Switch between light and dark mode.\n    Import Flights: Import flights from various sources.</p>\n<p>AirTrail is still in active development, so feedback and suggestions are very much appreciated. </p><div><br></div><img src=\"https://i.redd.it/94xg1x8v84od1.jpeg\" />",
+            "date_published": "2024-09-11T05:28:45+00:00",
+            "authors": [
+                {
+                    "name": "Johnny_JTH",
+                    "url": "https://www.reddit.com/user/Johnny_JTH"
+                }
+            ]
+        },
+        {
             "id": "1fdcr2z",
             "url": "/r/selfhosted/comments/1fdcr2z/the_opensource_ai_data_web_builder_alternative_to/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1fdcr2z/the_opensource_ai_data_web_builder_alternative_to/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Blendman974",
                     "url": "https://www.reddit.com/user/Blendman974"
-                }
-            ]
-        },
-        {
-            "id": "18rgqkb",
-            "url": "/r/selfhosted/comments/18rgqkb/meta_why_do_you_selfhost_the_psychological_aspect/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/18rgqkb/meta_why_do_you_selfhost_the_psychological_aspect/",
-            "title": "Meta: Why do you selfhost? (The psychological aspect)",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/18rgqkb/meta_why_do_you_selfhost_the_psychological_aspect/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/18rgqkb/meta_why_do_you_selfhost_the_psychological_aspect/'>Reddit</a></caption><div><br></div><p>Anyone else selfhosting, at least partially, because they like the feeling of control that comes with it?</p>\n<p>I'm not talking about \"I don't want anyone to see my data!\" or \"I don't trust GoogleDropboxWhatever!\" I mean: Y<em>ou figure out how to make something work, get it to work, and feel good when it works.</em></p>\n<p>I've been selfhosting for years and the lightbulb just sort of clicked over the holidays -- that's why I do it. And it's also why I get irrationally frustrated when things I think I should be able to figure out (:::cough:::kubernetes:::cough:::) don't work like they should.</p>\n<p>Personal or work life a dumpster fire? Known and unknown unknowns everywhere you look? Fuckit -- I can make this lil' docker-compose.yml file do what I want.</p>",
-            "date_published": "2023-12-26T19:59:25+00:00",
-            "authors": [
-                {
-                    "name": "GWBrooks",
-                    "url": "https://www.reddit.com/user/GWBrooks"
                 }
             ]
         }
