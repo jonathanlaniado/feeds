@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1fe8j7o",
+            "url": "/r/selfhosted/comments/1fe8j7o/selfhsticons_a_collection_of_600_icons_selfhosted/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1fe8j7o/selfhsticons_a_collection_of_600_icons_selfhosted/",
+            "title": "selfh.st/icons - A collection of 600+ icons (self-hosted and more) for dashboards and documentation",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1fe8j7o/selfhsticons_a_collection_of_600_icons_selfhosted/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1fe8j7o/selfhsticons_a_collection_of_600_icons_selfhosted/'>Reddit</a></caption><div><br></div><p>Hey, r/selfhosted!</p>\n<p>Today I'm officially publishing and sharing the collection of icons I've built over the past several months to power <a href=\"https://selfh.st/apps/\">selfh.st/apps</a>, which I've since expanded to include 600+ assets spanning all types of software for the self-hosted and homelab dashboards often shared on this subreddit:</p>\n<p><a href=\"https://selfh.st/icons/\">selfh.st/icons</a></p>\n<p>Features include:</p>\n<ul>\n<li>A browsable directory of icons with buttons to easily copy links to the clipboard</li>\n<li>Sort (alphabetical, recently updated) and search functionality</li>\n<li>Alternate light icons for those that don't display well against dark backgrounds (with an eventual goal of providing a light version for each icon in the collection)</li>\n</ul>\n<p>The collection itself is stored on <a href=\"https://github.com/selfhst/icons\">GitHub</a> for several reasons:</p>\n<ul>\n<li>To make them publicly available for others to fork and use for their own projects if desired</li>\n<li>To leverage the <a href=\"https://www.jsdelivr.com/\">jsDelivr</a> CDN network</li>\n<li>To prevent downtime when my servers are down</li>\n<li>To easily manage and track <a href=\"https://github.com/selfhst/icons/discussions\">new requests via Discussions</a></li>\n</ul>\n<p>For <a href=\"https://github.com/gethomepage/homepage\">Homepage</a> users looking to integrate these icons into their dashboards, the team is releasing an update later today that will include native support for the collection without having to leverage clunky jsDelivr links.</p>\n<p>A ton of thanks to the <a href=\"https://github.com/walkxcode/dashboard-icons\">walkxcode/dashboard-icons</a> project, which initially provided icons for the directory and was the inspiration behind the standardization and naming conventions used in my collection.</p>\n<p>As usual, I'm completely open to feedback!</p>",
+            "date_published": "2024-09-11T12:09:51+00:00",
+            "authors": [
+                {
+                    "name": "shol-ly",
+                    "url": "https://www.reddit.com/user/shol-ly"
+                }
+            ]
+        },
+        {
             "id": "1fe2pq7",
             "url": "/r/selfhosted/comments/1fe2pq7/introducing_airtrail_a_personal_flight_tracking/",
             "external_url": "https://i.redd.it/94xg1x8v84od1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Alfagun74",
                     "url": "https://www.reddit.com/user/Alfagun74"
-                }
-            ]
-        },
-        {
-            "id": "18sudhm",
-            "url": "/r/selfhosted/comments/18sudhm/2023_dashboard/",
-            "external_url": "https://i.redd.it/9437bdjyi19c1.png",
-            "title": "2023 Dashboard",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/18sudhm/2023_dashboard/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/18sudhm/2023_dashboard/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/9437bdjyi19c1.png\" />",
-            "date_published": "2023-12-28T13:51:24+00:00",
-            "authors": [
-                {
-                    "name": "Blendman974",
-                    "url": "https://www.reddit.com/user/Blendman974"
                 }
             ]
         }
