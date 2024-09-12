@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1ff7rle",
+            "url": "/r/OpenAI/comments/1ff7rle/official_openai_o1_announcement/",
+            "external_url": "https://openai.com/index/learning-to-reason-with-llms/",
+            "title": "Official OpenAI o1 Announcement",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1ff7rle/official_openai_o1_announcement/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1ff7rle/official_openai_o1_announcement/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-09-12T17:09:20+00:00",
+            "authors": [
+                {
+                    "name": "CH1997H",
+                    "url": "https://www.reddit.com/user/CH1997H"
+                }
+            ]
+        },
+        {
             "id": "1ff7qhm",
             "url": "/r/OpenAI/comments/1ff7qhm/o1_confirmed/",
             "external_url": "https://i.redd.it/khm4ocmjueod1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "emperorhuncho",
                     "url": "https://www.reddit.com/user/emperorhuncho"
-                }
-            ]
-        },
-        {
-            "id": "1bd0l8b",
-            "url": "/r/OpenAI/comments/1bd0l8b/gpt_45_turbo_confirmed/",
-            "external_url": "https://i.redd.it/epox2p1gdxnc1.png",
-            "title": "GPT 4.5 Turbo Confirmed",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1bd0l8b/gpt_45_turbo_confirmed/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1bd0l8b/gpt_45_turbo_confirmed/'>Reddit</a></caption><div><br></div><p>You can see cached snippets in Bing and DuckduckGo.</p>\n<p>Search for \"OpenAI blog gpt-4.5 turbo\"</p><div><br></div><img src=\"https://i.redd.it/epox2p1gdxnc1.png\" />",
-            "date_published": "2024-03-12T15:53:06+00:00",
-            "authors": [
-                {
-                    "name": "Chika1472",
-                    "url": "https://www.reddit.com/user/Chika1472"
                 }
             ]
         }
