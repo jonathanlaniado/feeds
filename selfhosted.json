@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1ffytgc",
+            "url": "/r/selfhosted/comments/1ffytgc/in_response_to_i_expose_all_my_services_to_open/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1ffytgc/in_response_to_i_expose_all_my_services_to_open/",
+            "title": "In Response to \"I expose all my services to open web\"",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1ffytgc/in_response_to_i_expose_all_my_services_to_open/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1ffytgc/in_response_to_i_expose_all_my_services_to_open/'>Reddit</a></caption><div><br></div><p>That post is <a href=\"https://old.reddit.com/r/selfhosted/comments/1ffou9e/i_expose_all_my_services_to_open_web/\">here</a></p>\n<p>Summary of that post is that OP is using mTLS on the open internet to host his services, rather than a VPN.</p>\n<p>My creds: I am a security engineer with specialization in offensive embedded systems security research.</p>\n<p><strong>mTLS, or \"client certificate authentication\", is equally as secure as running a VPN.</strong> There was a lot of misinformation in that thread and I'd like to address it here:</p>\n<p>1: If you use TailScale, it is only an outbound connection from your home so no networks are exposed.</p>\n<p>This is a half-truth. With TailScale, TailScale itself exposes ports. You authenticate and connect to those ports, which then connect you back to the reverse connection from your home. Ports are exposed at TailScale. TailScale gets access to your home network. You would have a lower attack surface if you just opened a VPN port in your home. If your security requirements and threat model allow for using TailScale then it's totally fine to use it, but the idea that TailScale doesn't expose ports is a half-truth.</p>\n<p>2: If you use a reverse proxy the way OP does, attackers will be able to scan your web server, identify web server vulnerabilities, and pop into your network!</p>\n<p>No. mTLS requires the attacker to have a valid private key to authenticate to the reverse proxy. If a valid private key and certificate are not there, <strong>then the attacker cannot begin scanning the web app.</strong> The mTLS handshake happens before the attacker can probe the web service. If you don't believe me, use <a href=\"https://www.youtube.com/watch?v=a9eVf2uleaA\">WireShark and see how a TLS connection works</a>. Even over regular TLS, you will see that the TLS connection happens first, before any HTTP traffic is transmitted. Better yet, host your own mTLS instance, scan 443 without a private key and see what data you get back.</p>\n<p>3: If you expose a port, even if it requires a private key to connect to it, you are less secure than if you use WireGuard, which requires an authenticated packet before it responds.</p>\n<p>No. WireGuard allows you to avoid confirming or denying that a port is open, since it's over UDP and most systems don't respond if you try to interact to a nonexistent service over UDP. This, on its own, does not make WireGuard more secure than say TCP OpenVPN or mTLS. It does, however, prevent people looking at your IP address from knowing if you are running some sort of authentication-required service. If this increases your risk, then you can choose to use WireGuard, instead, but this is not the case for a vast majority of people.</p>\n<p>For more information on mTLS, see <a href=\"https://smallstep.com/docs/mtls/\">Hello mTLS</a> by the awesome people at Smallstep. They also have a cool tutorial on using Yubikeys with mTLS <a href=\"https://smallstep.com/blog/access-your-homelab-anywhere/\">here</a> to connect back to the homelab, similar to how OP is running his homelab.</p>\n<p>The great part about using Yubikeys for mTLS is it allows you to have a hardware-backed, two-factor authentication method at layer 6, rather than traditional MFA which is at layer 7. This allows MFA with a lower attack surface, since the attacker can't look for any web vulnerabilities to bypass MFA.</p>",
+            "date_published": "2024-09-13T16:21:12+00:00",
+            "authors": [
+                {
+                    "name": "SavingsMany4486",
+                    "url": "https://www.reddit.com/user/SavingsMany4486"
+                }
+            ]
+        },
+        {
             "id": "1fe8j7o",
             "url": "/r/selfhosted/comments/1fe8j7o/selfhsticons_a_collection_of_600_icons_selfhosted/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1fe8j7o/selfhsticons_a_collection_of_600_icons_selfhosted/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MyNameIsTito",
                     "url": "https://www.reddit.com/user/MyNameIsTito"
-                }
-            ]
-        },
-        {
-            "id": "18tapnp",
-            "url": "/r/selfhosted/comments/18tapnp/update_everyone_said_gamevaults_ui_was_garbage_so/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/18tapnp/update_everyone_said_gamevaults_ui_was_garbage_so/",
-            "title": "Update: Everyone said GameVault's UI was garbage, so we completely overhauled it.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/18tapnp/update_everyone_said_gamevaults_ui_was_garbage_so/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/18tapnp/update_everyone_said_gamevaults_ui_was_garbage_so/'>Reddit</a></caption><div><br></div><p>Hey folks,</p>\n<p>Thank you, everyone, for the feedback and the huge desire for a User Interface overhaul for GameVault on our Discord Poll.</p>\n<p><strong>In case you're wondering what GameVault is</strong>, it's like having your own video gaming platform for games on your server \u2013 think Plex, but for video games. If you are a self-hosting gamer, you most likely <a href=\"https://gamevau.lt\">want to check this out.</a></p>\n<p>With the brand new version 1.8, we've taken your feedback to heart and worked hard to give GameVault a fresh coat of paint!</p>\n<p><a href=\"https://i.imgur.com/kcy2D0W.jpg\">Here are some before/after pics</a> of how it used to look versus now so you can see the difference.</p>\n<p>The UI underwent a complete makeover, and aside from looking pretty awesome, it is much better in terms of usability as well.</p>\n<p>Just so you know: The first UI was kind of basic and only meant for us two developers, as we didn't initially plan to release this project to the public.</p>\n<p>Now that the traction is <strong>so huge</strong> and thousands of people are using this software, it would plainly feel wrong not to give it a facelift. So, every button and detail has been thoughtfully placed to make things <strong>way more user-friendly</strong>.</p>\n<p>If you weren't a fan of the old UI, now's the time to swing by and check out the changes.</p>\n<p>If you also want to steer the future development of GameVault, make sure to join our <a href=\"https://discord.gg/NEdNen2dSu\">Discord Server</a>.</p>\n<p><strong>You can check out GameVault</strong> <a href=\"https://gamevau.lt\"><strong>here</strong></a><strong>.</strong></p>",
-            "date_published": "2023-12-29T01:35:37+00:00",
-            "authors": [
-                {
-                    "name": "Alfagun74",
-                    "url": "https://www.reddit.com/user/Alfagun74"
                 }
             ]
         }
