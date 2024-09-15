@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1fhe1yd",
+            "url": "/r/selfhosted/comments/1fhe1yd/i_did_something_i_created_nothing_and_its/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1fhe1yd/i_did_something_i_created_nothing_and_its/",
+            "title": "I did something: I created Nothing \u2014 and it's self-hostable!",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1fhe1yd/i_did_something_i_created_nothing_and_its/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1fhe1yd/i_did_something_i_created_nothing_and_its/'>Reddit</a></caption><div><br></div><p>After working on <a href=\"https://github.com/remvze/moodist\">Moodist</a> for about a year, I took some time to reflect. Moodist is an app that helps you stay focused and productive; it encourages you to take action. But what if the best thing to do is nothing? What if the solution is to step away from our computers and let our minds rest? So, I created Nothing. It's an app that encourages you to do nothing, offering a break from the constant pressure to be productive. It's free, open-source, and self-hostable.</p>\n<p>\u2794 <a href=\"http://usenothing.com\">usenothing.com</a><br />\n\u2794 <a href=\"http://github.com/remvze/nothing\">github.com/remvze/nothing</a></p>",
+            "date_published": "2024-09-15T14:40:23+00:00",
+            "authors": [
+                {
+                    "name": "remvze",
+                    "url": "https://www.reddit.com/user/remvze"
+                }
+            ]
+        },
+        {
             "id": "1ffytgc",
             "url": "/r/selfhosted/comments/1ffytgc/in_response_to_i_expose_all_my_services_to_open/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1ffytgc/in_response_to_i_expose_all_my_services_to_open/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "aceberg_",
                     "url": "https://www.reddit.com/user/aceberg_"
-                }
-            ]
-        },
-        {
-            "id": "18td08s",
-            "url": "/r/selfhosted/comments/18td08s/you_all_know_its_true/",
-            "external_url": "https://i.redd.it/pmquh4zik59c1.png",
-            "title": "You all know it\u2019s true \ud83d\ude02",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/18td08s/you_all_know_its_true/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/18td08s/you_all_know_its_true/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/pmquh4zik59c1.png\" />",
-            "date_published": "2023-12-29T03:25:48+00:00",
-            "authors": [
-                {
-                    "name": "MyNameIsTito",
-                    "url": "https://www.reddit.com/user/MyNameIsTito"
                 }
             ]
         }
