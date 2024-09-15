@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1fgzdak",
+            "url": "/r/aipromptprogramming/comments/1fgzdak/the_o1_model_is_undeniably_powerful_i_tested_it/",
+            "external_url": "https://i.redd.it/zd7issvo3vod1.jpeg",
+            "title": "\ud83d\udca7 The O1 model is undeniably powerful. I tested it by replicating Drupal CMS, into Node.js. Amazingly It easily converted the entire codebase from PHP to JS.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1fgzdak/the_o1_model_is_undeniably_powerful_i_tested_it/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1fgzdak/the_o1_model_is_undeniably_powerful_i_tested_it/'>Reddit</a></caption><div><br></div><p>\ud83d\udca7 The O1 model is undeniably powerful. I tested it by replicating Drupal CMS, into Node.js. Amazingly It easily converted the entire codebase from PHP to JS. </p>\n<p>With a detailed prompt, outlining the structure, API, and taxonomy, the O1 preview generated a full implementation plan in seconds.</p>\n<p>After creating the functional Drupal.js, I then went into GPT-Engineer to design the UI. The entire process, from the backend to the user interface, took about an hour.</p>\n<p>What\u2019s truly amazing is that the O1 model didn\u2019t just replicate\u2014it completely cloned a PHP application into an entirely different language. </p>\n<p>It seamlessly transformed the codebase from PHP to JavaScript, showing how effortlessly it can handle cross-language transformations.</p>\n<p>Not only did the O1 model provide a clear specification, but it also built the required folder and file structure using a bash script, making setup effortless. </p>\n<p>This is a glimpse into the future, where creating or cloning any application could become as simple as pointing and commanding, \"build me that.\"</p>\n<p>We live in truly unprecedented times. </p>\n<p>Demo: \nhttps://github.com/ruvnet/drupaljs</p>\n<p>GitHub: https://drupaljs.gptengineer.run/</p><div><br></div><img src=\"https://i.redd.it/zd7issvo3vod1.jpeg\" />",
+            "date_published": "2024-09-14T23:47:49+00:00",
+            "authors": [
+                {
+                    "name": "Educational_Ice151",
+                    "url": "https://www.reddit.com/user/Educational_Ice151"
+                }
+            ]
+        },
+        {
             "id": "1fcfg4y",
             "url": "/r/aipromptprogramming/comments/1fcfg4y/self_driving_bus_in_china/",
             "external_url": "https://v.redd.it/r14jdg34innd1",
