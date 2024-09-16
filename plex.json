@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1fhwgul",
+            "url": "/r/PleX/comments/1fhwgul/transcode_to_hevc_coming_in_preview_this_week/",
+            "external_url": "https://www.plex.tv/zh/blog/plex-pro-week-24-make-my-cpu-hurt/",
+            "title": "Transcode to HEVC coming in preview this week",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1fhwgul/transcode_to_hevc_coming_in_preview_this_week/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1fhwgul/transcode_to_hevc_coming_in_preview_this_week/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-09-16T04:45:55+00:00",
+            "authors": [
+                {
+                    "name": "fkick",
+                    "url": "https://www.reddit.com/user/fkick"
+                }
+            ]
+        },
+        {
             "id": "1ff41zq",
             "url": "/r/PleX/comments/1ff41zq/introducing_plex_photos_beta/",
             "external_url": "https://www.reddit.com/r/PleX/comments/1ff41zq/introducing_plex_photos_beta/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Shaynoagogo",
                     "url": "https://www.reddit.com/user/Shaynoagogo"
-                }
-            ]
-        },
-        {
-            "id": "17lg0kf",
-            "url": "/r/PleX/comments/17lg0kf/introducing_discover_together/",
-            "external_url": "https://www.plex.tv/blog/discover-together/",
-            "title": "Introducing Discover Together",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/PleX/comments/17lg0kf/introducing_discover_together/'>Apollo</a> | <a href='https://reddit.com/r/PleX/comments/17lg0kf/introducing_discover_together/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-11-01T16:28:20+00:00",
-            "authors": [
-                {
-                    "name": "cdemi",
-                    "url": "https://www.reddit.com/user/cdemi"
                 }
             ]
         }
