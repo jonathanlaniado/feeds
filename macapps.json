@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1fi67lo",
+            "url": "/r/macapps/comments/1fi67lo/maccy_200_is_released/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1fi67lo/maccy_200_is_released/",
+            "title": "Maccy 2.0.0 is released!",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1fi67lo/maccy_200_is_released/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1fi67lo/maccy_200_is_released/'>Reddit</a></caption><div><br></div><p>Heads up - <a href=\"https://github.com/p0deje/Maccy/releases/tag/2.0.0\">Maccy 2.0.0</a>, the free clipboard manager is out.</p>",
+            "date_published": "2024-09-16T14:35:04+00:00",
+            "authors": [
+                {
+                    "name": "Wacko_66",
+                    "url": "https://www.reddit.com/user/Wacko_66"
+                }
+            ]
+        },
+        {
             "id": "1fhb41t",
             "url": "/r/macapps/comments/1fhb41t/i_just_updated_my_macos_app/",
             "external_url": "https://i.redd.it/y420b4gzsyod1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "QenTox",
                     "url": "https://www.reddit.com/user/QenTox"
-                }
-            ]
-        },
-        {
-            "id": "19ekcey",
-            "url": "/r/macapps/comments/19ekcey/mindmac_1817_internet_browsing_ollama_octoai/",
-            "external_url": "https://v.redd.it/ncf9n2jwjeec1",
-            "title": "MindMac 1.8.17: Internet Browsing, Ollama, OctoAI & TogetherAI & many more customizable UI. Lifetime license for 20 first users.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/19ekcey/mindmac_1817_internet_browsing_ollama_octoai/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/19ekcey/mindmac_1817_internet_browsing_ollama_octoai/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-01-24T15:57:24+00:00",
-            "authors": [
-                {
-                    "name": "hugovie",
-                    "url": "https://www.reddit.com/user/hugovie"
                 }
             ]
         }
