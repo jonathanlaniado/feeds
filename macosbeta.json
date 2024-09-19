@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1fkkrwa",
+            "url": "/r/MacOSBeta/comments/1fkkrwa/solved_failed_to_personalize_the_software_update/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1fkkrwa/solved_failed_to_personalize_the_software_update/",
+            "title": "SOLVED: Failed to Personalize the Software Update",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOSBeta/comments/1fkkrwa/solved_failed_to_personalize_the_software_update/'>Winston</a> | <a href='https://reddit.com/r/MacOSBeta/comments/1fkkrwa/solved_failed_to_personalize_the_software_update/'>Reddit</a></caption><div><br></div><p>I've been trying to install MacOS 15.1 beta 4 and kept getting the same error that everyone else is getting. I've seen a bunch of people around the internet saying the only solution was to put your mac in DFU mode, connect to another mac, and go through the recovery process. But, here's what I did to fix the problem:</p>\n<p>Step 1: Disable find my mac in icloud settings.</p>\n<p>Step 2: Install the update.</p>\n<p>That was it \ud83d\ude33</p>\n<p>Edit: Don't forget to re-enable find my mac. It won't turn itself back on!</p>",
+            "date_published": "2024-09-19T13:24:52+00:00",
+            "authors": [
+                {
+                    "name": "FoShoMyUsername",
+                    "url": "https://www.reddit.com/user/FoShoMyUsername"
+                }
+            ]
+        },
+        {
             "id": "1fjj8a6",
             "url": "/r/MacOSBeta/comments/1fjj8a6/anyone_getting_new_login_screen_after_installing/",
             "external_url": "https://i.redd.it/v2djx8c1khpd1.jpeg",
