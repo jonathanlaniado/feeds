@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1fkhb2l",
+            "url": "/r/OpenAI/comments/1fkhb2l/am_i_the_only_one_who_feels_like_this_about_o1/",
+            "external_url": "https://i.redd.it/vhuh1qfnqqpd1.jpeg",
+            "title": "Am I the only one who feels like this about o1?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1fkhb2l/am_i_the_only_one_who_feels_like_this_about_o1/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1fkhb2l/am_i_the_only_one_who_feels_like_this_about_o1/'>Reddit</a></caption><div><br></div><p>As seen in the meme. Sometimes o1 is impressive, but for complex tasks (algebra derivations, questions about biology) it feels like it is doing a ton of work for nothing, because any mistake in the \"thoughts\" derail pretty fast to wrong conclusions.</p>\n<p>Are you guys trying some prompt engineering or anything special to improve results?</p><div><br></div><img src=\"https://i.redd.it/vhuh1qfnqqpd1.jpeg\" />",
+            "date_published": "2024-09-19T10:11:44+00:00",
+            "authors": [
+                {
+                    "name": "bgighjigftuik",
+                    "url": "https://www.reddit.com/user/bgighjigftuik"
+                }
+            ]
+        },
+        {
             "id": "1ff7rle",
             "url": "/r/OpenAI/comments/1ff7rle/official_openai_o1_announcement/",
             "external_url": "https://openai.com/index/learning-to-reason-with-llms/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "pergessleismydaddy",
                     "url": "https://www.reddit.com/user/pergessleismydaddy"
-                }
-            ]
-        },
-        {
-            "id": "1bd2clq",
-            "url": "/r/OpenAI/comments/1bd2clq/whats_with_elons_obsession_with_openai/",
-            "external_url": "https://i.redd.it/3zwjeo3qpxnc1.jpeg",
-            "title": "What\u2019s with Elon\u2019s obsession with OpenAI?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1bd2clq/whats_with_elons_obsession_with_openai/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1bd2clq/whats_with_elons_obsession_with_openai/'>Reddit</a></caption><div><br></div><p>I understand they changed from a non-profit &amp; aren\u2019t open source but isn\u2019t his obsession a bit extreme? </p><div><br></div><img src=\"https://i.redd.it/3zwjeo3qpxnc1.jpeg\" />",
-            "date_published": "2024-03-12T17:01:55+00:00",
-            "authors": [
-                {
-                    "name": "emperorhuncho",
-                    "url": "https://www.reddit.com/user/emperorhuncho"
                 }
             ]
         }
