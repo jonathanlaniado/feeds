@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1fli0l5",
+            "url": "/r/PleX/comments/1fli0l5/rant_why_do_jellys_spend_so_much_time_in_the_plex/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/1fli0l5/rant_why_do_jellys_spend_so_much_time_in_the_plex/",
+            "title": "*RANT* Why do Jellys spend so much time in the Plex subreddit?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1fli0l5/rant_why_do_jellys_spend_so_much_time_in_the_plex/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1fli0l5/rant_why_do_jellys_spend_so_much_time_in_the_plex/'>Reddit</a></caption><div><br></div><p>I get it that Jellyfin is a solid alternative for some, as is Emby, and I'm sure there will be others. I dabble in all three and enjoy learning about them. Are there some things that I don't like about Plex? Yes. Are there things other platforms excel at, also yes. Does Plex do most of what Plex enthusiast are here for? Absolutely. But, going in to another subreddit to \"correct\" everyone on their \"ignorance\" or \"sins\" of supporting a platform, whether it's Plex or how you orient your toilet paper, is a bit abrasive. Very few Jellys post anything helpful. Oftentimes it's condescending towards those who are not well versed on networking and home server setups. If users need info on your platform, they will seek you out. Plex users don't post incessantly in the Jellyfin subreddit about it's virtues. No need to badger the ones that enjoy it. Instead offer solutions you found that may translate to solving issues users face with Plex. We CAN coexist peacefully.</p>\n<p>*End Rant* </p>",
+            "date_published": "2024-09-20T17:47:23+00:00",
+            "authors": [
+                {
+                    "name": "rsnumber2",
+                    "url": "https://www.reddit.com/user/rsnumber2"
+                }
+            ]
+        },
+        {
             "id": "1flfmaa",
             "url": "/r/PleX/comments/1flfmaa/3_announcements_for_the_same_thing_in_5_days_plex/",
             "external_url": "https://i.redd.it/4lxkd0ahmzpd1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "apollokami",
                     "url": "https://www.reddit.com/user/apollokami"
-                }
-            ]
-        },
-        {
-            "id": "17sgtfs",
-            "url": "/r/PleX/comments/17sgtfs/thank_youuu_plex/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/17sgtfs/thank_youuu_plex/",
-            "title": "THANK YOUUU PLEX",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/PleX/comments/17sgtfs/thank_youuu_plex/'>Apollo</a> | <a href='https://reddit.com/r/PleX/comments/17sgtfs/thank_youuu_plex/'>Reddit</a></caption><div><br></div><p>YOU GUYS DID IT. Automatic intro/outro skipping AND options to customize the autoplay timer!!!!! I can now properly binge shows without any delay!</p>\n<p>I\u2019ve been whining about this maybe for years, so it\u2019s my duty to thank you now. I don\u2019t even know when this update rolled out. I was just setting up a new TV and going through the settings and my jaw about hit the floor. </p>\n<p>Again, thank you! Seriously. Plex is basically feature complete for me now.</p>",
-            "date_published": "2023-11-10T23:21:27+00:00",
-            "authors": [
-                {
-                    "name": "Cressio",
-                    "url": "https://www.reddit.com/user/Cressio"
                 }
             ]
         }
