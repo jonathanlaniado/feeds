@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1fo1hwi",
+            "url": "/r/PleX/comments/1fo1hwi/noob_who_was_just_gifted_a_120tb_server_and_ups/",
+            "external_url": "https://www.reddit.com/gallery/1fo1hwi",
+            "title": "Noob who was just gifted a 120tb server and UPS ",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1fo1hwi/noob_who_was_just_gifted_a_120tb_server_and_ups/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1fo1hwi/noob_who_was_just_gifted_a_120tb_server_and_ups/'>Reddit</a></caption><div><br></div><p>Hi all, I was recently given a 120tb server and UPS that was recovered from a network upgrade a while ago. I want to primarily use it as my Plex media server (current Plex media server in second pic)  and possibly game servers like Beamng Drive MP and Assetto Corsa for example. I'm completely new to this sort of setup and don't really know where to start. I'll be putting the server under my house in the garage and I understand that I'll need to run 2 ethernet cables to it. I've heard things like Unraid and dockers are the way to go. Any suggestions or advice on how to get started in setting it up? Thanks in advance \ud83d\udc4d\ud83c\udffb</p>",
+            "date_published": "2024-09-24T01:55:49+00:00",
+            "authors": [
+                {
+                    "name": "Cue888",
+                    "url": "https://www.reddit.com/user/Cue888"
+                }
+            ]
+        },
+        {
             "id": "1fli0l5",
             "url": "/r/PleX/comments/1fli0l5/rant_why_do_jellys_spend_so_much_time_in_the_plex/",
             "external_url": "https://www.reddit.com/r/PleX/comments/1fli0l5/rant_why_do_jellys_spend_so_much_time_in_the_plex/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "NoDadYouShutUp",
                     "url": "https://www.reddit.com/user/NoDadYouShutUp"
-                }
-            ]
-        },
-        {
-            "id": "17ufdxa",
-            "url": "/r/PleX/comments/17ufdxa/i_dont_have_any_4k_movies_but_i_do_have_4k_movies/",
-            "external_url": "https://i.redd.it/ws5yzu5xd50c1.png",
-            "title": "I don't have any 4k movies, but I do have 4k movies.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/PleX/comments/17ufdxa/i_dont_have_any_4k_movies_but_i_do_have_4k_movies/'>Apollo</a> | <a href='https://reddit.com/r/PleX/comments/17ufdxa/i_dont_have_any_4k_movies_but_i_do_have_4k_movies/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/ws5yzu5xd50c1.png\" />",
-            "date_published": "2023-11-13T17:11:10+00:00",
-            "authors": [
-                {
-                    "name": "apollokami",
-                    "url": "https://www.reddit.com/user/apollokami"
                 }
             ]
         }
