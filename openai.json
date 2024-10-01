@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1ftsx3t",
+            "url": "/r/OpenAI/comments/1ftsx3t/i_now_owe_openai_almost_30k_but_why/",
+            "external_url": "https://i.redd.it/9ns18ut4d6sd1.jpeg",
+            "title": "I now owe OpenAI almost 30k - but why?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1ftsx3t/i_now_owe_openai_almost_30k_but_why/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1ftsx3t/i_now_owe_openai_almost_30k_but_why/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/9ns18ut4d6sd1.jpeg\" />",
+            "date_published": "2024-10-01T16:53:02+00:00",
+            "authors": [
+                {
+                    "name": "Maizeee",
+                    "url": "https://www.reddit.com/user/Maizeee"
+                }
+            ]
+        },
+        {
             "id": "1ftr2ys",
             "url": "/r/OpenAI/comments/1ftr2ys/next_time_somebody_says_ai_is_just_math_im_so/",
             "external_url": "https://i.redd.it/y8q34sxlz5sd1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ilaym712",
                     "url": "https://www.reddit.com/user/ilaym712"
-                }
-            ]
-        },
-        {
-            "id": "1bh6rkn",
-            "url": "/r/OpenAI/comments/1bh6rkn/i_used_webgpt_not_devin_to_build_a_topdown/",
-            "external_url": "https://v.redd.it/xm3hi60j8yoc1",
-            "title": "I used WebGPT\ud83e\udd16, not Devin, to build a top-down shooter with no code",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1bh6rkn/i_used_webgpt_not_devin_to_build_a_topdown/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1bh6rkn/i_used_webgpt_not_devin_to_build_a_topdown/'>Reddit</a></caption><div><br></div><p>You can try the game on desktop yourself: https://plugin.wegpt.ai/dynamic/edad522b_TopDownSurvivalGame/index.html</p>\n<p>To use the GPT it\u2019s just \u201cWebGPT\ud83e\udd16\u201d in the ChatGPT store (it\u2019s free).</p>",
-            "date_published": "2024-03-17T19:51:29+00:00",
-            "authors": [
-                {
-                    "name": "JD_2020",
-                    "url": "https://www.reddit.com/user/JD_2020"
                 }
             ]
         }
