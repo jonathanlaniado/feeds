@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_6y39uf/styles/communityIcon_33jhf9tu7ck91.png",
     "items": [
         {
+            "id": "1ftwjg6",
+            "url": "/r/raycastapp/comments/1ftwjg6/i_made_an_extension_for_the_shottr_app/",
+            "external_url": "https://www.reddit.com/r/raycastapp/comments/1ftwjg6/i_made_an_extension_for_the_shottr_app/",
+            "title": "I made an extension for the Shottr app",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/raycastapp/comments/1ftwjg6/i_made_an_extension_for_the_shottr_app/'>Winston</a> | <a href='https://reddit.com/r/raycastapp/comments/1ftwjg6/i_made_an_extension_for_the_shottr_app/'>Reddit</a></caption><div><br></div><p>Hi, </p>\n<p>it's my first time creating an extension for Raycast which add a support to take screenshots using Shottr. If anyone is interested in taking a look at it, here's the PR: <a href=\"https://github.com/raycast/extensions/pull/14750\">https://github.com/raycast/extensions/pull/14750</a></p>",
+            "date_published": "2024-10-01T19:19:49+00:00",
+            "authors": [
+                {
+                    "name": "jfernandogt",
+                    "url": "https://www.reddit.com/user/jfernandogt"
+                }
+            ]
+        },
+        {
             "id": "1frjcsa",
             "url": "/r/raycastapp/comments/1frjcsa/managing_mac_notifications_from_raycast/",
             "external_url": "https://www.reddit.com/r/raycastapp/comments/1frjcsa/managing_mac_notifications_from_raycast/",
