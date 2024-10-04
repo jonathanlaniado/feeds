@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1fw02zj",
+            "url": "/r/ArcBrowser/comments/1fw02zj/arc_search_for_android_is_now_in_open_beta/",
+            "external_url": "https://play.google.com/store/apps/details?id=company.thebrowser.arc",
+            "title": "Arc Search for Android is now in Open Beta! Download it here!",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1fw02zj/arc_search_for_android_is_now_in_open_beta/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1fw02zj/arc_search_for_android_is_now_in_open_beta/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-10-04T14:10:22+00:00",
+            "authors": [
+                {
+                    "name": "JaceThings",
+                    "url": "https://www.reddit.com/user/JaceThings"
+                }
+            ]
+        },
+        {
             "id": "1fod15v",
             "url": "/r/ArcBrowser/comments/1fod15v/tbc_has_increased_xyz3vas_bounty_from_2k_to_20k/",
             "external_url": "https://x.com/xyz3va/status/1838570171616686313",
@@ -1386,20 +1400,6 @@
             "title": "Horizontal Tab Bar Concept by Karri Saarinen (@karrisaarinen) \u2013 Via X",
             "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/17vchhm/horizontal_tab_bar_concept_by_karri_saarinen/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/17vchhm/horizontal_tab_bar_concept_by_karri_saarinen/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/kimnsl8oqd0c1.jpg\" />",
             "date_published": "2023-11-14T21:17:05+00:00",
-            "authors": [
-                {
-                    "name": "JaceThings",
-                    "url": "https://www.reddit.com/user/JaceThings"
-                }
-            ]
-        },
-        {
-            "id": "17va0mv",
-            "url": "/r/ArcBrowser/comments/17va0mv/why_do_so_many_of_you_want_arc_sidebar_on_the/",
-            "external_url": "https://i.redd.it/k98s3cln6d0c1.jpg",
-            "title": "\"Why do so many of you want Arc sidebar on the right?! We prototyped this, but learned Sidebar on right is inefficient ergonomically bc gravity of URLs is always top-left. Long way for cursors & eyes to travel! What are we missing tho? Open-minded! (thx @disco_lu for mocks)\" \u2013 Josh Miller via X",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/17va0mv/why_do_so_many_of_you_want_arc_sidebar_on_the/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/17va0mv/why_do_so_many_of_you_want_arc_sidebar_on_the/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/k98s3cln6d0c1.jpg\" />",
-            "date_published": "2023-11-14T19:24:36+00:00",
             "authors": [
                 {
                     "name": "JaceThings",
