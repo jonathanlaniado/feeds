@@ -1,0 +1,17 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "r/opensignups",
+    "description": "Open Tracker Signups, Applications, and Invites",
+    "home_page_url": "https://reddit.com",
+    "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/opensignups.json",
+    "icon": "https://styles.redditmedia.com/t5_34ntk/styles/communityIcon_kcuhvl4zdufc1.png",
+    "favicon": "https://styles.redditmedia.com/t5_34ntk/styles/communityIcon_kcuhvl4zdufc1.png",
+    "items": [
+        {
+            "id": "0",
+            "url": "https://www.reddit.com/r/opensignups",
+            "title": "r/opensignups has been launched!",
+            "content_html": "<p>This feed will be populated as posts match the given criteria.</p>"
+        }
+    ]
+}
