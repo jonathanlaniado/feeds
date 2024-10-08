@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_6y39uf/styles/communityIcon_33jhf9tu7ck91.png",
     "items": [
         {
+            "id": "1fyl1c3",
+            "url": "/r/raycastapp/comments/1fyl1c3/on_raycast_pro_plans_does_8_even_make_sense/",
+            "external_url": "https://www.reddit.com/r/raycastapp/comments/1fyl1c3/on_raycast_pro_plans_does_8_even_make_sense/",
+            "title": "On Raycast PRO Plans - does $8 even make sense?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/raycastapp/comments/1fyl1c3/on_raycast_pro_plans_does_8_even_make_sense/'>Winston</a> | <a href='https://reddit.com/r/raycastapp/comments/1fyl1c3/on_raycast_pro_plans_does_8_even_make_sense/'>Reddit</a></caption><div><br></div><p>I can understand $16 (PRO with advanced AI add-on) plan, and it's an excellent value. You get to chat with multiple advanced AI models, you get sync, custom window management commands, and soon to get floating notes...</p>\n<p>I don't understand the $8 (PRO) plan, though. I mean, you get the same GPT-4o that's already free to use in OpenAI's app? Or via DuckDuckGo, or via gazillion third-party interfaces? Why would you pay for that?</p>\n<p>In my opinion, a much better value would be a $4 plan, without AI at all. Just Raycast features (sync, themes, unlimited clipboard, custom window management, floating notes, etc).</p>\n<p>Because, I can see two use-cases:  </p>\n<ol>\n<li>Users paying for AI. They're going to decide on either ChatGPT Plus or Raycast PRO + Advanced AI.  </li>\n<li>Users not paying for AI. They would really benefit from the proposed $4 plan (for sync and notes, let's say). They already have that GPT-4o mini.</li>\n</ol>\n<p>I guess my question is, who is $8 plan for? Are you using it (for AI)? Would you like it to go $4 and lose AI window access?</p>",
+            "date_published": "2024-10-07T22:49:20+00:00",
+            "authors": [
+                {
+                    "name": "red_diter",
+                    "url": "https://www.reddit.com/user/red_diter"
+                }
+            ]
+        },
+        {
             "id": "1ftwjg6",
             "url": "/r/raycastapp/comments/1ftwjg6/i_made_an_extension_for_the_shottr_app/",
             "external_url": "https://www.reddit.com/r/raycastapp/comments/1ftwjg6/i_made_an_extension_for_the_shottr_app/",
