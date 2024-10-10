@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1g0fgh4",
+            "url": "/r/ArtificialInteligence/comments/1g0fgh4/create_your_ai_assisted_blog_for_free_pay_for/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1g0fgh4/create_your_ai_assisted_blog_for_free_pay_for/",
+            "title": "Create your AI assisted blog for free (pay for openai and server only)",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/1g0fgh4/create_your_ai_assisted_blog_for_free_pay_for/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/1g0fgh4/create_your_ai_assisted_blog_for_free_pay_for/'>Reddit</a></caption><div><br></div><p>I am maintainer of opens-source AdminForth framework for creating admin panels. Recently we added couple of OpenAI plugins which allow to complete text in fields and generate images. So as a showcase we created a blog example so you can host your own blog with AI assistance. </p>\n<p>Here is gif demo of how it works <a href=\"https://adminforth.dev/assets/images/nuxtBlog-d00baa7e1b41d87869b09d475045fa7b.gif\">https://adminforth.dev/assets/images/nuxtBlog-d00baa7e1b41d87869b09d475045fa7b.gif</a></p>\n<p>You can define any OpenAI model for completion and generation and tune it's parameters</p>\n<p>Here is a blog post with detailed steps how to spawn such blog <a href=\"https://adminforth.dev/blog/ai-blog/\">https://adminforth.dev/blog/ai-blog/</a> </p>\n<p><strong>Pricing:</strong><br />\nYou need AWS account for EC2 server (example uses micro which is $4.3 monthly), and S3 files storage (couple of cents per month). Also you will need to create OpneAI token.</p>",
+            "date_published": "2024-10-10T10:12:46+00:00",
+            "authors": [
+                {
+                    "name": "vanbrosh",
+                    "url": "https://www.reddit.com/user/vanbrosh"
+                }
+            ]
+        },
+        {
             "id": "1fv4tne",
             "url": "/r/ArtificialInteligence/comments/1fv4tne/openais_landmark_funding_the_66_billion_game/",
             "external_url": "/r/SmythOS_/comments/1fv4qst/openais_landmark_funding_the_66_billion_game/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Fit-Repair-4556",
                     "url": "https://www.reddit.com/user/Fit-Repair-4556"
-                }
-            ]
-        },
-        {
-            "id": "18kr1qu",
-            "url": "/r/ArtificialInteligence/comments/18kr1qu/dealing_with_ai_job_loss_anxiety/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/18kr1qu/dealing_with_ai_job_loss_anxiety/",
-            "title": "Dealing with AI job loss anxiety",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/18kr1qu/dealing_with_ai_job_loss_anxiety/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/18kr1qu/dealing_with_ai_job_loss_anxiety/'>Reddit</a></caption><div><br></div><p>I\u2019m a bioinformatics dev - I write data pipelines for biotech. It\u2019s less sexy than it sounds. Like most devs, most people in my field are still saying some version of \u201cour job is too complex to automate\u201d - I think they are wrong. </p>\n<p>To me, It feels like we are a small handful of innovations away from having the tech (if not the business integration) to replace most dev and data analysis positions. And at the speed of the past two years, that could be very soon. </p>\n<p>I\u2019m starting a family right now - my wife is pregnant and I\u2019m the sole breadwinner. What do you guys do to cope with the anxiety? I\u2019m worried about losing my job in 5-10 years and I believe those worries are justified.</p>\n<p>Fellow professional devs - what do you do?</p>",
-            "date_published": "2023-12-17T20:56:30+00:00",
-            "authors": [
-                {
-                    "name": "BroccoliOpposite",
-                    "url": "https://www.reddit.com/user/BroccoliOpposite"
                 }
             ]
         }
