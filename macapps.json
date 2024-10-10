@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1g0myjl",
+            "url": "/r/macapps/comments/1g0myjl/update_wblock_010_beta_is_live/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1g0myjl/update_wblock_010_beta_is_live/",
+            "title": "UPDATE: wBlock 0.1.0 beta is live!",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1g0myjl/update_wblock_010_beta_is_live/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1g0myjl/update_wblock_010_beta_is_live/'>Reddit</a></caption><div><br></div><p>I just wanted to follow up on the <a href=\"https://www.reddit.com/r/macapps/comments/1g02q1p/comment/lr8mmim/?context=3\">amazing post</a> from yesterday, where they shared my project, wBlock, with the community. I'm thrilled to announce that wBlock 0.1.0 is now live and available for download!</p>\n<p>For those of you who are new, wBlock is a free and open-source ad blocker for Safari that's designed to be fast, customizable, and effective. I've built it to block not just ads, but also trackers and malware, including scripted YouTube ads - and I'm committed to keeping it free and open for everyone to use and improve.</p>\n<p>As a solo developer, it's been a labor of love to get wBlock to this point, and I'm excited to hear your thoughts and feedback. If you encounter any issues, please don't hesitate to open an issue on GitHub.</p>\n<p><strong>Check out the first release here:</strong> <a href=\"https://github.com/0xCUB3/wBlock/releases/tag/0.1.0\">https://github.com/0xCUB3/wBlock/releases/tag/0.1.0</a></p>\n<p>Main repo: <a href=\"https://github.com/0xCUB3/wBlock\">https://github.com/0xCUB3/wBlock</a></p>",
+            "date_published": "2024-10-10T16:33:12+00:00",
+            "authors": [
+                {
+                    "name": "0xCUBE",
+                    "url": "https://www.reddit.com/user/0xCUBE"
+                }
+            ]
+        },
+        {
             "id": "1g0le53",
             "url": "/r/macapps/comments/1g0le53/polycapture_screen_camera_audio_recorder_macos/",
             "external_url": "https://i.redd.it/cvgqr9524ytd1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "idoop9",
                     "url": "https://www.reddit.com/user/idoop9"
-                }
-            ]
-        },
-        {
-            "id": "1b5ezzy",
-            "url": "/r/macapps/comments/1b5ezzy/does_anybody_know_the_name_of_these_tools_to/",
-            "external_url": "https://v.redd.it/q2f1f52ct3mc1",
-            "title": "Does anybody know the name of these tools to split your screen into thirds and swipe across workspaces?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1b5ezzy/does_anybody_know_the_name_of_these_tools_to/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1b5ezzy/does_anybody_know_the_name_of_these_tools_to/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-03-03T11:24:45+00:00",
-            "authors": [
-                {
-                    "name": "MistrLemon",
-                    "url": "https://www.reddit.com/user/MistrLemon"
                 }
             ]
         }
