@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_6y39uf/styles/communityIcon_33jhf9tu7ck91.png",
     "items": [
         {
+            "id": "1g4x0c0",
+            "url": "/r/raycastapp/comments/1g4x0c0/privacy_and_security_on_raycast/",
+            "external_url": "https://www.reddit.com/r/raycastapp/comments/1g4x0c0/privacy_and_security_on_raycast/",
+            "title": "privacy and security on raycast",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/raycastapp/comments/1g4x0c0/privacy_and_security_on_raycast/'>Winston</a> | <a href='https://reddit.com/r/raycastapp/comments/1g4x0c0/privacy_and_security_on_raycast/'>Reddit</a></caption><div><br></div><p>I've just discovered raycast and am loving it. I read through the privacy policy and it seems fine, but before I get too deep (and possibly go pro/ai) I just wanted to check:</p>\n<ol>\n<li>If I enable search files to cover \"name &amp; contents\" does all the indexing and search results remain local? I think the answer is it's fine, but just want to be sure I'm not enabling all my data to end up on a server. </li>\n<li>Does this change if I use pro sync?</li>\n<li>Can extensions from the store be trusted - do they get checked before being allowed in the store? If extensions have the same permissions of raycast, is there a risk of an extension having access to all my file contents/system and being used maliciously?</li>\n<li>If I use the pro+AI extension, my understanding is that raycast servers don't record the interaction, and it's a matter for OpenAI/Anthropic/etc policies. Is that correct? and if so, is there a way to ensure that data is not used by them for training, the way I can do when I use them with a direct subscription?</li>\n</ol>\n<p>Thanks</p>",
+            "date_published": "2024-10-16T11:23:16+00:00",
+            "authors": [
+                {
+                    "name": "OperaticGoats",
+                    "url": "https://www.reddit.com/user/OperaticGoats"
+                }
+            ]
+        },
+        {
             "id": "1g20xf4",
             "url": "/r/raycastapp/comments/1g20xf4/all_of_the_raycast_extensions_i_use/",
             "external_url": "https://www.reddit.com/r/raycastapp/comments/1g20xf4/all_of_the_raycast_extensions_i_use/",
