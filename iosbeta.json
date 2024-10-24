@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1gakh88",
+            "url": "/r/iOSBeta/comments/1gakh88/ios_182_db1_moving_apps_on_the_home_screen_no/",
+            "external_url": "https://i.redd.it/fa2i43blfkwd1.jpeg",
+            "title": "[ios 18.2 db1] Moving apps on the Home Screen no longer causes other apps to move",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1gakh88/ios_182_db1_moving_apps_on_the_home_screen_no/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1gakh88/ios_182_db1_moving_apps_on_the_home_screen_no/'>Reddit</a></caption><div><br></div><p>Previously if you moved or removed an app, the other apps would shift into its spot making customisation really annoying. Now the apps stay where they are!</p>\n<p>Best feature of the update for me!!</p><div><br></div><img src=\"https://i.redd.it/fa2i43blfkwd1.jpeg\" />",
+            "date_published": "2024-10-23T20:28:00+00:00",
+            "authors": [
+                {
+                    "name": "iCaptnSpaulding",
+                    "url": "https://www.reddit.com/user/iCaptnSpaulding"
+                }
+            ]
+        },
+        {
             "id": "1gaigdg",
             "url": "/r/iOSBeta/comments/1gaigdg/ios_182_db1_new_icon_for_adaptive_audio/",
             "external_url": "https://i.redd.it/wmdi9xzf0kwd1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Legoman718",
                     "url": "https://www.reddit.com/user/Legoman718"
-                }
-            ]
-        },
-        {
-            "id": "1ddpgb4",
-            "url": "/r/iOSBeta/comments/1ddpgb4/ios_18_db1_you_can_now_see_the_time_even_after/",
-            "external_url": "https://i.redd.it/lpamgrpfe06d1.jpeg",
-            "title": "[iOS 18 DB1] You can now see the time even after the phone is dead or charging.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1ddpgb4/ios_18_db1_you_can_now_see_the_time_even_after/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1ddpgb4/ios_18_db1_you_can_now_see_the_time_even_after/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/lpamgrpfe06d1.jpeg\" />",
-            "date_published": "2024-06-11T21:18:51+00:00",
-            "authors": [
-                {
-                    "name": "ant_t99",
-                    "url": "https://www.reddit.com/user/ant_t99"
                 }
             ]
         }
