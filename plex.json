@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1gb3gov",
+            "url": "/r/PleX/comments/1gb3gov/data_hoarders_nightmare_came_true/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/1gb3gov/data_hoarders_nightmare_came_true/",
+            "title": "Data hoarder's nightmare came true",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1gb3gov/data_hoarders_nightmare_came_true/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1gb3gov/data_hoarders_nightmare_came_true/'>Reddit</a></caption><div><br></div><p>Last week my house burned down. I was the last out so I already knew everyone else was safe, but within \\~5 minutes, as I watched flames tear through my home, I was thinking about my PLEX server and \\~15TB of films, music and TV curated over almost a decade. So, my question, is there ANY way to get some sort of skeleton file/folder list from PLEX so I can eventually start the process of re-acquiring everything I had? I know I'm probably pissing in the wind here but I thought I'd give it a shot.</p>",
+            "date_published": "2024-10-24T14:07:21+00:00",
+            "authors": [
+                {
+                    "name": "chilllwinstonnn",
+                    "url": "https://www.reddit.com/user/chilllwinstonnn"
+                }
+            ]
+        },
+        {
             "id": "1g246ez",
             "url": "/r/PleX/comments/1g246ez/gotta_rep_my_favorite_piece_of_software/",
             "external_url": "https://i.redd.it/zvdyugv3tcud1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "treemeizer",
                     "url": "https://www.reddit.com/user/treemeizer"
-                }
-            ]
-        },
-        {
-            "id": "185vmmg",
-            "url": "/r/PleX/comments/185vmmg/rather_annoying_new_plex_feature/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/185vmmg/rather_annoying_new_plex_feature/",
-            "title": "Rather annoying new Plex feature.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/PleX/comments/185vmmg/rather_annoying_new_plex_feature/'>Apollo</a> | <a href='https://reddit.com/r/PleX/comments/185vmmg/rather_annoying_new_plex_feature/'>Reddit</a></caption><div><br></div><p>Hi </p>\n<p>One of my Plex users has just pointed out to me that they\u2019ve started receiving a weekly email from Plex. Within the email they can see the watch history of other Plex users on my server. \nSome of my users might not be happy with others seeing their watch history, so I\u2019d like to change settings so the users can\u2019t see each others history (and ideally don\u2019t receive this email anymore!) </p>\n<p>I\u2019ve had a look through the Plex settings, but I can\u2019t see anything that allows me to turn this off. Does anyone have any ideas how I can do this please? </p>\n<p>Thanks</p>",
-            "date_published": "2023-11-28T13:07:28+00:00",
-            "authors": [
-                {
-                    "name": "Neither-Engine-5852",
-                    "url": "https://www.reddit.com/user/Neither-Engine-5852"
                 }
             ]
         }
