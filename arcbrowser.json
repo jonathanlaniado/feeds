@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1ge1inr",
+            "url": "/r/ArcBrowser/comments/1ge1inr/yall_are_insane/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1ge1inr/yall_are_insane/",
+            "title": "Ya\u2019ll are insane",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1ge1inr/yall_are_insane/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1ge1inr/yall_are_insane/'>Reddit</a></caption><div><br></div><p>I just started using Arc about 2 weeks ago and I love it. Fantastic product. I feel you guys must mostly agree with that if you\u2019re a part of this sub. </p>\n<p>Now the CEO announces that they are focusing on another project because Arc is essentially feature complete and most of you are acting like the sky is falling, making vast and wild assumptions about TBC and the founder that ring more as negative speculation than potentially accurate. </p>\n<p>Arc is a lovely product for me, as an internet power user. But I can already tell from trying to convince friends to jump onboard with it in the last two weeks that it\u2019s not really a mainstream product. </p>\n<p>If TBC feels that they want to release a new browser experience thats more mainstream I am in full support. Thank god they\u2019re not going the route of updating Arc one day to a completely different, more streamlined experience but instead they are creating something completely new and different. I personally am very excited to try it. </p>\n<p>The negative bandwagoning of Reddit culture is exhausting. Why is everyone so up in arms? You\u2019re acting like Chrome and Safari haven\u2019t essentially been just releasing stability and performance improvements for the last decade. </p>\n<p>Is anyone else just happy with Arc and also excited to see what else they\u2019re cooking up?</p>",
+            "date_published": "2024-10-28T13:04:32+00:00",
+            "authors": [
+                {
+                    "name": "joeliomartini",
+                    "url": "https://www.reddit.com/user/joeliomartini"
+                }
+            ]
+        },
+        {
             "id": "1gdald7",
             "url": "/r/ArcBrowser/comments/1gdald7/makes_sense/",
             "external_url": "https://i.redd.it/g5ux9ffrsaxd1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "JaceThings",
                     "url": "https://www.reddit.com/user/JaceThings"
-                }
-            ]
-        },
-        {
-            "id": "183rulg",
-            "url": "/r/ArcBrowser/comments/183rulg/theres_a_difference_between_memory_use_and_memory/",
-            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/183rulg/theres_a_difference_between_memory_use_and_memory/",
-            "title": "There's a difference between memory use and memory efficiency",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/183rulg/theres_a_difference_between_memory_use_and_memory/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/183rulg/theres_a_difference_between_memory_use_and_memory/'>Reddit</a></caption><div><br></div><p>I see many posts about Arc using this much ram, and that much ram.  That is a super simplistic way of determining whether or not Arc is good at memory management.  For example, just go and use Safari and you'll notice that it uses a lot of memory, but what you will also notice is that your memory pressure on the machine is much lower than it is with Arc or some other browser. Not even Edge can touch it.  </p>\n<p>But there are times when people will post that Arc sucks with memory use but when I look at the screen shot of their activity monitor I see that it's actually not doing a bad job.  Anyways, just wanted to throw that out there and let me know from real CS folk if I'm saying something stupid.</p>",
-            "date_published": "2023-11-25T19:48:43+00:00",
-            "authors": [
-                {
-                    "name": "momo1083",
-                    "url": "https://www.reddit.com/user/momo1083"
                 }
             ]
         }
