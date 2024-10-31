@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1ggde8n",
+            "url": "/r/ArcBrowser/comments/1ggde8n/if_you_feel_betrayed_by_arc_and_want_a_new/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1ggde8n/if_you_feel_betrayed_by_arc_and_want_a_new/",
+            "title": "If you feel betrayed by Arc and want a new browser, this post is for you.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1ggde8n/if_you_feel_betrayed_by_arc_and_want_a_new/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1ggde8n/if_you_feel_betrayed_by_arc_and_want_a_new/'>Reddit</a></caption><div><br></div><p>I'm taking time out of my day to help and guide people who want to move away from Arc due to the recent debacles and fiascos.  </p>\n<p>After Arc got exposed for secretly recording and logging the browsing data of all it's users last month, a lot of people started realizing that maybe forcing an account login on sensitive stuff like a browser is a recipe for disaster.</p>\n<p><strong>\\^</strong> <strong><em>(If you want to read about that, lookup \"kibty town arc\" on google, links aren't allowed on this sub)</em></strong></p>\n<p><strong>I'm here to help you do not worry.</strong>  </p>\n<p>First things first. If you're looking for the most private Chromium experience, and you're not ready to give up on the speed/feeling of  Chromium, you should go with Ungoogled Chromium.  </p>\n<p>Ungoogled Chromium is open source, and is exactly like Chrome, but  without all the Google spyware, which makes it extremely private. And  it's much, much faster than Chrome and Arc, because your browser doesn't need to make 400 API calls to Google servers everytime you launch the <br />\nbrowser.  </p>\n<p>2) Z3n Browser. If you want something similar to Arc, but once again you want something open source and private, with an insanely dedicated developer who listens to user feedback, this is the move. It's running  on the same engine as Firefox.  </p>\n<p>You'll find spaces, the \"peek function\", vertical tabs, etc. And  it's open source so you know for sure your browsing history isn't  getting recorded by Arc without your consent. New updates every week too  </p>",
+            "date_published": "2024-10-31T12:33:35+00:00",
+            "authors": [
+                {
+                    "name": "FlirtyGood",
+                    "url": "https://www.reddit.com/user/FlirtyGood"
+                }
+            ]
+        },
+        {
             "id": "1gfu0cd",
             "url": "/r/ArcBrowser/comments/1gfu0cd/clearing_up_10/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1gfu0cd/clearing_up_10/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "blacktrepreneur",
                     "url": "https://www.reddit.com/user/blacktrepreneur"
-                }
-            ]
-        },
-        {
-            "id": "184z7pg",
-            "url": "/r/ArcBrowser/comments/184z7pg/arc_is_amazing/",
-            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/184z7pg/arc_is_amazing/",
-            "title": "Arc is amazing",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/184z7pg/arc_is_amazing/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/184z7pg/arc_is_amazing/'>Reddit</a></caption><div><br></div><p>Arc is amazing. It looks like a book. Great !!!</p>\n<p><a href=\"https://preview.redd.it/o19lyefx1v2c1.png?width=3456&amp;format=png&amp;auto=webp&amp;s=df6f34926e2a4b13ac7f57ca47d84af6b9da2102\">OH . It seems to be an error, when I return to the tab, the color has changed to the same color as my vertical tab. Can't go back to white.</a></p>\n<p>&#x200B;</p>",
-            "date_published": "2023-11-27T09:39:16+00:00",
-            "authors": [
-                {
-                    "name": "LittleBoyQN",
-                    "url": "https://www.reddit.com/user/LittleBoyQN"
                 }
             ]
         }
