@@ -8,6 +8,20 @@
     "favicon": "",
     "items": [
         {
+            "id": "1ggmgfn",
+            "url": "/r/Softwarr/comments/1ggmgfn/i_present_managarr_a_tui_and_cli_to_manage_your/",
+            "external_url": "https://www.reddit.com/r/Softwarr/comments/1ggmgfn/i_present_managarr_a_tui_and_cli_to_manage_your/",
+            "title": "I present: Managarr - A TUI and CLI to manage your Servarr instances Media ",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/Softwarr/comments/1ggmgfn/i_present_managarr_a_tui_and_cli_to_manage_your/'>Winston</a> | <a href='https://reddit.com/r/Softwarr/comments/1ggmgfn/i_present_managarr_a_tui_and_cli_to_manage_your/'>Reddit</a></caption><div><br></div><p>After almost 3 years of work, I've finally managed to get this project stable enough to release an alpha version!</p>\n<p>I'm proud to present [Managarr - A TUI and CLI for managing your Servarr instances](https://github.com/Dark-Alex-17/managarr)! At the moment, the alpha version only supports Radarr.</p>\n<p>Not all features are implemented for the alpha version, like managing quality profiles or quality definitions, etc.</p>\n<p>Here's some screenshots of the TUI:</p>\n<p>https://preview.redd.it/g1bs45e155yd1.png?width=1903&amp;format=png&amp;auto=webp&amp;s=f72006c268bf56a64858ccfef2abcc64966fe37f</p>\n<p>https://preview.redd.it/6w4zj3d155yd1.png?width=1903&amp;format=png&amp;auto=webp&amp;s=28d224dfd1c9bcd88a3e0d1cb29b4705f1de8c74</p>\n<p>https://preview.redd.it/2ct0j4d155yd1.png?width=1903&amp;format=png&amp;auto=webp&amp;s=702d0c77f4657427166ad4da836cd148af25addc</p>\n<p>https://preview.redd.it/fiw4w5d155yd1.png?width=1903&amp;format=png&amp;auto=webp&amp;s=5a99792bc6e8aae072fcfa8d05792fd1e9aba773</p>\n<p>https://preview.redd.it/ngy74sd155yd1.png?width=1903&amp;format=png&amp;auto=webp&amp;s=696ed9fc9c20a3b6f548658266196ea5ec368c88</p>\n<p>https://preview.redd.it/w4pmn5d155yd1.png?width=1903&amp;format=png&amp;auto=webp&amp;s=65171cb01031f2c1ee5194756381319f1329b744</p>\n<p>https://preview.redd.it/ii0787d155yd1.png?width=1903&amp;format=png&amp;auto=webp&amp;s=7b9d59645f7ac38899486505f7e18922b9d77103</p>\n<p>Additionally, you can use it as a CLI for Radarr; For example, to search for a new film:</p>\n<p>`managarr radarr search-new-movie --query \"star wars\"`</p>\n<p>Or you can add a new movie by its TMDB ID:</p>\n<p>`managarr radarr add movie --tmdb-id 1895 --root-folder-path /nfs/movies --quality-profile-id 1`</p>\n<p>All features available in the TUI are also available via the CLI.</p>",
+            "date_published": "2024-10-31T19:12:02+00:00",
+            "authors": [
+                {
+                    "name": "Hamilcar_Barca_17",
+                    "url": "https://www.reddit.com/user/Hamilcar_Barca_17"
+                }
+            ]
+        },
+        {
             "id": "1g21hph",
             "url": "/r/Softwarr/comments/1g21hph/software/",
             "external_url": "https://www.reddit.com/r/Softwarr/comments/1g21hph/software/",
