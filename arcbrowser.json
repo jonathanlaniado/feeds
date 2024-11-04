@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1gjo5ur",
+            "url": "/r/ArcBrowser/comments/1gjo5ur/psa_clean_my_mac_surfacing_incorrect_arc_build/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1gjo5ur/psa_clean_my_mac_surfacing_incorrect_arc_build/",
+            "title": "PSA - Clean My Mac surfacing incorrect Arc build",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1gjo5ur/psa_clean_my_mac_surfacing_incorrect_arc_build/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1gjo5ur/psa_clean_my_mac_surfacing_incorrect_arc_build/'>Reddit</a></caption><div><br></div><p>Hi folks, we\u2019ve become aware that a prototyping build has somehow made its way into the Clean My Mac update flow, and is inadvertently being presented when you try to update Arc via this tool. </p>\n<p>If you run into this, please download the actual Arc DMG from arc.net. Working with the CMM folks to try get this build removed. Thanks!</p>",
+            "date_published": "2024-11-04T20:20:59+00:00",
+            "authors": [
+                {
+                    "name": "Patrick-BCNY",
+                    "url": "https://www.reddit.com/user/Patrick-BCNY"
+                }
+            ]
+        },
+        {
             "id": "1gjk654",
             "url": "/r/ArcBrowser/comments/1gjk654/wow_i_am_at_a_loss_for_words_after_the_recent/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1gjk654/wow_i_am_at_a_loss_for_words_after_the_recent/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "AnyAd5395",
                     "url": "https://www.reddit.com/user/AnyAd5395"
-                }
-            ]
-        },
-        {
-            "id": "1855wms",
-            "url": "/r/ArcBrowser/comments/1855wms/arcs_aesthetics_coupled_with_boosts_to_zap/",
-            "external_url": "https://i.redd.it/xizbxf07vw2c1.png",
-            "title": "Arc's aesthetics, coupled with Boosts to zap unwanted elements, makes the sexiest browser around. Change my mind.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/1855wms/arcs_aesthetics_coupled_with_boosts_to_zap/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1855wms/arcs_aesthetics_coupled_with_boosts_to_zap/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/xizbxf07vw2c1.png\" />",
-            "date_published": "2023-11-27T15:44:45+00:00",
-            "authors": [
-                {
-                    "name": "mohrbius",
-                    "url": "https://www.reddit.com/user/mohrbius"
                 }
             ]
         }
