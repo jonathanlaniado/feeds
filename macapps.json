@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1gjjf52",
+            "url": "/r/macapps/comments/1gjjf52/automatically_quit_apps_using_last_window_quits/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1gjjf52/automatically_quit_apps_using_last_window_quits/",
+            "title": "Automatically Quit Apps using \"Last Window Quits\" (new release)",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1gjjf52/automatically_quit_apps_using_last_window_quits/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1gjjf52/automatically_quit_apps_using_last_window_quits/'>Reddit</a></caption><div><br></div><p>Hello! I\u2019ve just published my second macOS app, which detects when the last window of an app is closed and quits that app. This helps prevent unnecessary memory usage by apps that are not actively being used. While macOS does have built-in memory management, I\u2019ve encountered situations where the system runs out of memory without closing inactive apps. I created this app to ensure all apps without open windows are closed. The app is free\u2014hope you enjoy it, and feel free to share any feedback. Cheers.</p>\n<p><a href=\"https://lawand.io/last-window-quits/\">https://lawand.io/last-window-quits/</a></p>",
+            "date_published": "2024-11-04T17:09:20+00:00",
+            "authors": [
+                {
+                    "name": "CharacterTomatillo64",
+                    "url": "https://www.reddit.com/user/CharacterTomatillo64"
+                }
+            ]
+        },
+        {
             "id": "1gisv45",
             "url": "/r/macapps/comments/1gisv45/mac_apps_that_are_mustinstalls_because_theyre/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1gisv45/mac_apps_that_are_mustinstalls_because_theyre/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Decaf_GT",
                     "url": "https://www.reddit.com/user/Decaf_GT"
-                }
-            ]
-        },
-        {
-            "id": "1c1gh69",
-            "url": "/r/macapps/comments/1c1gh69/looking_for_a_photo_album_app_appreciate_any/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1c1gh69/looking_for_a_photo_album_app_appreciate_any/",
-            "title": "Looking for a Photo Album app. Appreciate any recommendations!",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1c1gh69/looking_for_a_photo_album_app_appreciate_any/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1c1gh69/looking_for_a_photo_album_app_appreciate_any/'>Reddit</a></caption><div><br></div><p>Hi everyone! I\u2019m trying to figure out what app I can use to make a Photo Album/Collage that I can print by myself on a US Letter Paper. The apps I see when I search the Mac AppStore redirects to third party printing services that deliver the finished product to you.</p>\n<p>Previously when I was using MS Office on Windows, it was easy since all I had to do was use the Insert-Photo Album option and I can select how many photos per page I need. This was available on Word and PowerPoint. I didn\u2019t know this option was never available for Office on Mac, until I tried to find the feature for a document I\u2019m working on.</p>\n<p>There\u2019s the Media-Image Gallery route with Pages but it puts all photos (and can caption it) in one page that you have to flip one by one but it only prints the Photo on the foreground of the gallery. I know I can drag drop those photos into Office or Pages but we\u2019re looking at close to a thousand photos that I have to format and caption so anything that can make the job easy would help.</p>\n<p>I appreciate any recommendations, Paid or Free. Thanks!</p>",
-            "date_published": "2024-04-11T14:28:26+00:00",
-            "authors": [
-                {
-                    "name": "UpvoteBeast",
-                    "url": "https://www.reddit.com/user/UpvoteBeast"
                 }
             ]
         }
