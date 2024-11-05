@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_6y39uf/styles/communityIcon_33jhf9tu7ck91.png",
     "items": [
         {
+            "id": "1gjwl9h",
+            "url": "/r/raycastapp/comments/1gjwl9h/next_desktop_not_working_in_macos_sequoia/",
+            "external_url": "https://www.reddit.com/r/raycastapp/comments/1gjwl9h/next_desktop_not_working_in_macos_sequoia/",
+            "title": "\"Next Desktop\" not working in macOS Sequoia",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/raycastapp/comments/1gjwl9h/next_desktop_not_working_in_macos_sequoia/'>Winston</a> | <a href='https://reddit.com/r/raycastapp/comments/1gjwl9h/next_desktop_not_working_in_macos_sequoia/'>Reddit</a></caption><div><br></div><p>I updated to Sequoia and after that the \"Next Desktop\" window management doesn't work anymore. Did anybody encounter that as well? When I use the command, it moves to next desktop for a sec (without the focused window) and comes back. Really weird. How can I fix this?</p>",
+            "date_published": "2024-11-05T02:39:34+00:00",
+            "authors": [
+                {
+                    "name": "ConsistentWasabi1884",
+                    "url": "https://www.reddit.com/user/ConsistentWasabi1884"
+                }
+            ]
+        },
+        {
             "id": "1ggl0sb",
             "url": "/r/raycastapp/comments/1ggl0sb/do_you_guys_use_raycast_to_uninstall_applications/",
             "external_url": "https://www.reddit.com/r/raycastapp/comments/1ggl0sb/do_you_guys_use_raycast_to_uninstall_applications/",
