@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1gkag8b",
+            "url": "/r/ArcBrowser/comments/1gkag8b/arc_updated_and_it_looks_completely_different/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1gkag8b/arc_updated_and_it_looks_completely_different/",
+            "title": "Arc Updated and it looks completely different!!! Please help!",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1gkag8b/arc_updated_and_it_looks_completely_different/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1gkag8b/arc_updated_and_it_looks_completely_different/'>Reddit</a></caption><div><br></div><p>I updated Arc this morning because it told me it needed a new update, and when I did it went from version 1.67.0 all the way to 9.99.0 (148431) for some reason, and it looks completely different. The icon changed to a B for some reason (I'll provide screenshots of the odd new looks), and the home menu ui looks completely different. My first thought was it glitched and it updated to an unreleased version of Arc that was being tested; another thought was maybe it gave me a Beta update, but I\u2019m not on beta testing mode, so I shouldn't be getting Beta updates. I'll show you images of the things I've found as of now. Also, the only Arc MAX feature that shows up is \"ChatGPT in the Command Bar,\" and all the rest are gone. I think it might be a glitch, and from my findings and screenshots what seemed to be changed in this 9.9.0 update is a complete home menu UI change, Perplexity-like AI Search engine whenever you search something, an AI chat for in-website questions, horizontal tabs for some reason, new icon, pretty much every Max features removed, new 'Boost' login thing. Oh yea... AND I CAN'T LOG BACK IN ;-;</p>\n<p>I don't know to flair this as 'help' or 'bug' because I don't know if this is a bug.</p>\n<p><a href=\"https://preview.redd.it/kou0ho5ng3zd1.png?width=3348&amp;format=png&amp;auto=webp&amp;s=cde0d006ae5ad3a8640f2e2ff8ee19c63280b5c3\">AND THIS is the completely new menu design that I opened up to when it updated (it deleted all my old tabs, and some things are inaccessible, and some things are new).</a></p>\n<p><a href=\"https://preview.redd.it/c7lor9gxg3zd1.png?width=848&amp;format=png&amp;auto=webp&amp;s=ccceaa42717e95a89f7ac5ed62e75da1d3afd054\">And yea, this is the completely new version that it is at for some reason.</a></p>\n<p><a href=\"https://preview.redd.it/tczlskyqh3zd1.png?width=3348&amp;format=png&amp;auto=webp&amp;s=9f3ae70a4ea9e8663752eb0bfed6137b5d98ecd0\">(I am making new discoveries as I type this.) I wanted to Google something (don't judge me, I was curious about the box office), so I typed in the \\\"Search or enter URL\\\" and it randomly started getting information like on Arc Search, and it came up with an answer. This is the craziest new thing that has happened on here.</a></p>\n<p><a href=\"https://preview.redd.it/m93vswpwm3zd1.png?width=3348&amp;format=png&amp;auto=webp&amp;s=f211e1088a052bfb814d2fa8c6aea147eefc7f5f\">I went to Duolingo to see features on any normal website, and now this \\\"Ask a question...\\\" shows up at the bottom, and if I ask multiple questions, it will have a \\\"Back to Chat\\\" icon on the lower left.</a></p>\n<p><a href=\"https://preview.redd.it/9qaopwqtn3zd1.png?width=3348&amp;format=png&amp;auto=webp&amp;s=9d96a0475a5a04790004f972cebca0861c5c2dd6\">This is the most cursed of them all, Arc with horizontal tabs. I don't know why, but when I pressed the sandwich icon that is supposed to make the screen size for the tabs bigger, it put all the tabs into horizontal mode.</a></p>\n<p><a href=\"https://preview.redd.it/c1p4fjedo3zd1.png?width=3348&amp;format=png&amp;auto=webp&amp;s=11d4298415ae241e93e92a6d87e42681dfd252c3\">This is how it looks on a blank tab.</a></p>\n<p><a href=\"https://preview.redd.it/f4jjf8npo3zd1.png?width=1690&amp;format=png&amp;auto=webp&amp;s=27bbd4a383a1b3d467e93e1edecae3054b03715f\">As you can see, I'm not on the Early Birds version or Stable but for some reason on this PR-28992 version. Is it some kind of early-early beta version or something?</a></p>\n<p><a href=\"https://preview.redd.it/mo3ozrktp3zd1.png?width=1696&amp;format=png&amp;auto=webp&amp;s=3fe1e967892cb1f6b069d04623ef426d2513942f\">This is the odd new icon that shows up by default.</a></p>\n<p><a href=\"https://preview.redd.it/e2n9taocq3zd1.png?width=1698&amp;format=png&amp;auto=webp&amp;s=f990361b8a4580ed99cd282e3e9f2de1bc84c446\">This is the only Arc Max feature that shows up available.</a></p>\n<p><a href=\"https://preview.redd.it/mkkhlbzzr3zd1.png?width=3004&amp;format=png&amp;auto=webp&amp;s=9fffb4fe684dd016ee88f118135539d8c0fa2a47\">I quit the app, and now when I reopened it, it asks me to log in again. It says, for some reason, \\\"Welcome back to Boost.\\\" What is Boost? I'll log in (or try) and see what happens next.</a></p>",
+            "date_published": "2024-11-05T16:18:00+00:00",
+            "authors": [
+                {
+                    "name": "Strwbry_M",
+                    "url": "https://www.reddit.com/user/Strwbry_M"
+                }
+            ]
+        },
+        {
             "id": "1gjo5ur",
             "url": "/r/ArcBrowser/comments/1gjo5ur/psa_clean_my_mac_surfacing_incorrect_arc_build/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1gjo5ur/psa_clean_my_mac_surfacing_incorrect_arc_build/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "JaceThings",
                     "url": "https://www.reddit.com/user/JaceThings"
-                }
-            ]
-        },
-        {
-            "id": "1867iwz",
-            "url": "/r/ArcBrowser/comments/1867iwz/arc_has_a_bookmark_manager/",
-            "external_url": "https://www.reddit.com/gallery/1867iwz",
-            "title": "Arc has a bookmark manager!",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/1867iwz/arc_has_a_bookmark_manager/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1867iwz/arc_has_a_bookmark_manager/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-11-28T21:37:52+00:00",
-            "authors": [
-                {
-                    "name": "AnyAd5395",
-                    "url": "https://www.reddit.com/user/AnyAd5395"
                 }
             ]
         }
