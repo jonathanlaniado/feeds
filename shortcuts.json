@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1gl48i2",
+            "url": "/r/shortcuts/comments/1gl48i2/prevent_screen_from_sleeping_during_recording/",
+            "external_url": "https://i.redd.it/k2fjg56qibzd1.jpeg",
+            "title": "Prevent screen from sleeping during recording audio?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1gl48i2/prevent_screen_from_sleeping_during_recording/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1gl48i2/prevent_screen_from_sleeping_during_recording/'>Reddit</a></caption><div><br></div><p>I\u2019ve created a shortcut to record audio, then using Deepgram and ChatGPT to create a transcript. </p>\n<p>The issue: when using the \u201cRecord audio\u201d action the screen will darken and the phone will lock causing the recording (and the rest of the shortcut) to stop prematurely. I\u2019ve tried to remedy this by adjusting \u201cAuto Lock\u201d to \u201cNever\u201d (I do this via the \u201cAuto Lock\u201d shortcut at the beginning of the sequence; this is a simple URL action shortcut). Even after setting auto lock to \u201cNever\u201d after the audio recording begins the screen will darken and turn off after about 30 seconds. I can prevent this by tapping the screen just in time but this is difficult to do while having a conversation. </p>\n<p>Does anyone know of any solutions or work around for this problem? Thanks in advance! </p><div><br></div><img src=\"https://i.redd.it/k2fjg56qibzd1.jpeg\" />",
+            "date_published": "2024-11-06T17:41:57+00:00",
+            "authors": [
+                {
+                    "name": "notheconor",
+                    "url": "https://www.reddit.com/user/notheconor"
+                }
+            ]
+        },
+        {
             "id": "1gl3qqo",
             "url": "/r/shortcuts/comments/1gl3qqo/siris_gone_mia/",
             "external_url": "https://i.redd.it/3ocrt321fbzd1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "HypeCrazedYT",
                     "url": "https://www.reddit.com/user/HypeCrazedYT"
-                }
-            ]
-        },
-        {
-            "id": "17ztdkp",
-            "url": "/r/shortcuts/comments/17ztdkp/toolbox_pro_gains_its_first_update_in_over_a_year/",
-            "external_url": "https://i.redd.it/y70lp8d5cj1c1.jpg",
-            "title": "Toolbox Pro gains its first update in over a year. Thanks to the Snailed It team for perusing this project from the late Mr. Alex Hay!",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/17ztdkp/toolbox_pro_gains_its_first_update_in_over_a_year/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/17ztdkp/toolbox_pro_gains_its_first_update_in_over_a_year/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/y70lp8d5cj1c1.jpg\" />",
-            "date_published": "2023-11-20T17:09:56+00:00",
-            "authors": [
-                {
-                    "name": "iBanks3",
-                    "url": "https://www.reddit.com/user/iBanks3"
                 }
             ]
         }
