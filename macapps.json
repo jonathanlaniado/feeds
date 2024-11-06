@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1gkrg9s",
+            "url": "/r/macapps/comments/1gkrg9s/an_app_to_make_an_chmcompiled_html_help_file_on/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1gkrg9s/an_app_to_make_an_chmcompiled_html_help_file_on/",
+            "title": "An app to make an chm(Compiled HTML Help) file on MacOS",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1gkrg9s/an_app_to_make_an_chmcompiled_html_help_file_on/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1gkrg9s/an_app_to_make_an_chmcompiled_html_help_file_on/'>Reddit</a></caption><div><br></div><p>Hi there, I've searching an app to make a chm<strong>(Compiled HTML Help)</strong> for years on mac, my findings were null because I found only chm readers like <a href=\"https://github.com/vit9696/ichm\">ichm</a> but I would like to have an app to make my own chm files </p>\n<p>If you know apps, please share i'd glad to hear your comments </p>",
+            "date_published": "2024-11-06T05:46:53+00:00",
+            "authors": [
+                {
+                    "name": "SpectyteCovelight",
+                    "url": "https://www.reddit.com/user/SpectyteCovelight"
+                }
+            ]
+        },
+        {
             "id": "1gkkodt",
             "url": "/r/macapps/comments/1gkkodt/zero_loss_compress_reduce_photo_library_size/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1gkkodt/zero_loss_compress_reduce_photo_library_size/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Yusuf-Dev",
                     "url": "https://www.reddit.com/user/Yusuf-Dev"
-                }
-            ]
-        },
-        {
-            "id": "1cpdie5",
-            "url": "/r/macapps/comments/1cpdie5/is_freetube_the_most_underrated_app_in_the_mac/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1cpdie5/is_freetube_the_most_underrated_app_in_the_mac/",
-            "title": "Is FreeTube the most underrated app in the Mac ecosystem?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1cpdie5/is_freetube_the_most_underrated_app_in_the_mac/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1cpdie5/is_freetube_the_most_underrated_app_in_the_mac/'>Reddit</a></caption><div><br></div><p>I honestly do not know why <a href=\"https://apps.louplummer.lol/post/freetube-maybe-the-most-underrated-app\">FreeTube</a> doesn't get talked about more on this reddit, considering some other apps that come up often. FreeTube is an open source privacy first YouTube client that allows you to subscribe to channels with no account. There are no ads and no data ever leaves your machine. Videos are either scraped or obtained through the Invidious API. FreeTube even has a one button download mechanism. You can make playlists and favorites lists.</p>\n<ul>\n<li><a href=\"https://apps.louplummer.lol/post/freetube-maybe-the-most-underrated-app\">Full Review</a></li>\n<li><a href=\"https://freetubeapp.io/\">Developer's Site</a></li>\n</ul>",
-            "date_published": "2024-05-11T09:22:48+00:00",
-            "authors": [
-                {
-                    "name": "amerpie",
-                    "url": "https://www.reddit.com/user/amerpie"
                 }
             ]
         }
