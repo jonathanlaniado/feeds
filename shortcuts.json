@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1gl3qqo",
+            "url": "/r/shortcuts/comments/1gl3qqo/siris_gone_mia/",
+            "external_url": "https://i.redd.it/3ocrt321fbzd1.jpeg",
+            "title": "Siri\u2019s gone MIA",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1gl3qqo/siris_gone_mia/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1gl3qqo/siris_gone_mia/'>Reddit</a></caption><div><br></div><p>Is anyone else missing the Siri voice in your shortcuts? I\u2019m using the speak action and until recently Siri appeared at the top. Now it\u2019s gone and I\u2019m just left with all the crappy robots. I\u2019m on 18.1 with Apple intelligence turned on.</p><div><br></div><img src=\"https://i.redd.it/3ocrt321fbzd1.jpeg\" />",
+            "date_published": "2024-11-06T17:21:13+00:00",
+            "authors": [
+                {
+                    "name": "Dynast",
+                    "url": "https://www.reddit.com/user/Dynast"
+                }
+            ]
+        },
+        {
             "id": "1gkb8y8",
             "url": "/r/shortcuts/comments/1gkb8y8/motivational_weight_change_report/",
             "external_url": "https://www.reddit.com/gallery/1gkb8y8",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "iBanks3",
                     "url": "https://www.reddit.com/user/iBanks3"
-                }
-            ]
-        },
-        {
-            "id": "17z7feo",
-            "url": "/r/shortcuts/comments/17z7feo/backseat_reminder_for_infants/",
-            "external_url": "https://www.reddit.com/r/shortcuts/comments/17z7feo/backseat_reminder_for_infants/",
-            "title": "Backseat Reminder for Infants",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/17z7feo/backseat_reminder_for_infants/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/17z7feo/backseat_reminder_for_infants/'>Reddit</a></caption><div><br></div><p>I was worried I might forget my new kid in the backseat so I made a shortcut.  I have it set up as an automation so that when the car disconnects from CarPlay or a cars Bluetooth it triggers.   It\u2019s a good reminder to check the backseat: https://www.icloud.com/shortcuts/d63bfc509280464593f61f01fa1bb88d</p>",
-            "date_published": "2023-11-19T21:26:03+00:00",
-            "authors": [
-                {
-                    "name": "wscottsanders",
-                    "url": "https://www.reddit.com/user/wscottsanders"
                 }
             ]
         }
