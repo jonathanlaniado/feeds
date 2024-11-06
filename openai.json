@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1gl3rr6",
+            "url": "/r/OpenAI/comments/1gl3rr6/what_a_trump_presidency_means_for_openai/",
+            "external_url": "https://www.reddit.com/r/OpenAI/comments/1gl3rr6/what_a_trump_presidency_means_for_openai/",
+            "title": "What a Trump presidency means for OpenAI",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1gl3rr6/what_a_trump_presidency_means_for_openai/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1gl3rr6/what_a_trump_presidency_means_for_openai/'>Reddit</a></caption><div><br></div><p>With Trump promising to assign a new government efficieny role to Elon Musk (with auditing powers), I predict he will use that power to undermine OpenAI in favour of his own AI company or personal beef.</p>",
+            "date_published": "2024-11-06T17:22:23+00:00",
+            "authors": [
+                {
+                    "name": "Mr_Whispers",
+                    "url": "https://www.reddit.com/user/Mr_Whispers"
+                }
+            ]
+        },
+        {
             "id": "1gkytyh",
             "url": "/r/OpenAI/comments/1gkytyh/a_web_ai_agent_framework_im_planning_on_open/",
             "external_url": "https://www.reddit.com/r/OpenAI/comments/1gkytyh/a_web_ai_agent_framework_im_planning_on_open/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Dhomeboi",
                     "url": "https://www.reddit.com/user/Dhomeboi"
-                }
-            ]
-        },
-        {
-            "id": "1bnjnbd",
-            "url": "/r/OpenAI/comments/1bnjnbd/just_released_sora_first_use_outside_of_openai/",
-            "external_url": "https://openai.com/blog/sora-first-impressions",
-            "title": "Just released: Sora first use outside of OpenAI",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1bnjnbd/just_released_sora_first_use_outside_of_openai/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1bnjnbd/just_released_sora_first_use_outside_of_openai/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-03-25T17:36:26+00:00",
-            "authors": [
-                {
-                    "name": "Butterscotch_Crazy",
-                    "url": "https://www.reddit.com/user/Butterscotch_Crazy"
                 }
             ]
         }
