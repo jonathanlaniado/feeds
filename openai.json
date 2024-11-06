@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1gkytyh",
+            "url": "/r/OpenAI/comments/1gkytyh/a_web_ai_agent_framework_im_planning_on_open/",
+            "external_url": "https://www.reddit.com/r/OpenAI/comments/1gkytyh/a_web_ai_agent_framework_im_planning_on_open/",
+            "title": "A Web AI agent framework I'm planning on open sourcing",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1gkytyh/a_web_ai_agent_framework_im_planning_on_open/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1gkytyh/a_web_ai_agent_framework_im_planning_on_open/'>Reddit</a></caption><div><br></div><p>Hey! I\u2019ve been building a simple framework called Dendrite for interacting with websites using natural language. Instead of having to find brittle css selectors or xpaths you can describe them with natural language.</p>\n<p><code>browser.click(\u201cthe sign in button\u201d)</code></p>\n<p>The selectors are then cached so the next time you want to get an element you don\u2019t need any interference. For the developers who like their code typed, specify what data you want with a Pydantic BaseModel and Dendrite returns it in that format with one simple function call. Built on top of playwright for a robust experience. This is an easy way to give your AI agents the same web browsing capabilities as humans have. Integrates easily with frameworks such as\u00a0 Langchain, CrewAI, Llamaindex and more.</p>\n<p>I\u2019m planning on <strong>open sourcing</strong> everything the coming month so feel free to reach out if you\u2019re interested in contributing</p>\n<p>Github: <a href=\"https://github.com/dendrite-systems/dendrite-python-sdk\">https://github.com/dendrite-systems/dendrite-python-sdk</a><br />\nDemo: <a href=\"https://www.youtube.com/watch?v=yChAUerKKxo&amp;feature=youtu.be\">https://www.youtube.com/watch?v=yChAUerKKxo</a></p>",
+            "date_published": "2024-11-06T13:45:11+00:00",
+            "authors": [
+                {
+                    "name": "rivernotch",
+                    "url": "https://www.reddit.com/user/rivernotch"
+                }
+            ]
+        },
+        {
             "id": "1gjyh4f",
             "url": "/r/OpenAI/comments/1gjyh4f/a_new_ai_startup_from_exmeta_researchers_is/",
             "external_url": "https://www.emergingtechbrew.com/stories/2024/07/30/evolutionaryscale-ex-meta-proteins-ai",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Butterscotch_Crazy",
                     "url": "https://www.reddit.com/user/Butterscotch_Crazy"
-                }
-            ]
-        },
-        {
-            "id": "1bnhyl1",
-            "url": "/r/OpenAI/comments/1bnhyl1/why_does_openai_cto_make_that_face_when_asked/",
-            "external_url": "https://i.redd.it/y7l681fhbiqc1.png",
-            "title": "Why does OpenAI CTO make that face when asked about \"What data was used to train Sora?\"",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1bnhyl1/why_does_openai_cto_make_that_face_when_asked/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1bnhyl1/why_does_openai_cto_make_that_face_when_asked/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/y7l681fhbiqc1.png\" />",
-            "date_published": "2024-03-25T16:29:20+00:00",
-            "authors": [
-                {
-                    "name": "Mammoth-Asparagus498",
-                    "url": "https://www.reddit.com/user/Mammoth-Asparagus498"
                 }
             ]
         }
