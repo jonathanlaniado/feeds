@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1gkxcy6",
+            "url": "/r/ArcBrowser/comments/1gkxcy6/why_is_this_browser_so_bad/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1gkxcy6/why_is_this_browser_so_bad/",
+            "title": "Why is this browser so bad?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1gkxcy6/why_is_this_browser_so_bad/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1gkxcy6/why_is_this_browser_so_bad/'>Reddit</a></caption><div><br></div><p>Don't take the title of this post as some sort of hate post against Arc.</p>\n<p>I've been loving the browser, having used it for a few months now I dig the simplistic UI and the features it has, but there are so many bugs on the Windows version and I haven't been able to fix any of it.</p>\n<p>I'm talking about tabs freezing and being completely unresponsive, if they're just one of the vertical tabs I can close them and re-open and they'll work just fine (before it happens again), but if they're one of the favorites at the top? Closing them does nothing and I literally have to re-open the entire browser for it to respond again. I have never experienced this on any other browser and these things happen so many times they add up over time and they got me wondering why I'm still using Arc - probably because replacing browsers is a hassle.</p>\n<p>I have a good PC too so it's not anything like that (7800X3D, 4080 Super, 64GB ram). No idea. If anyone has a similar experience on the Windows version and has any tips to share I'd love to hear it and try it out, otherwise if this keeps happening I'm gonna have to switch back to something else... really disappointing performance by this browser.</p>",
+            "date_published": "2024-11-06T12:28:43+00:00",
+            "authors": [
+                {
+                    "name": "LeoXVI",
+                    "url": "https://www.reddit.com/user/LeoXVI"
+                }
+            ]
+        },
+        {
             "id": "1gkw8xt",
             "url": "/r/ArcBrowser/comments/1gkw8xt/im_willing_to_bet_they_spent_more_time_writing/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1gkw8xt/im_willing_to_bet_they_spent_more_time_writing/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "chronocox",
                     "url": "https://www.reddit.com/user/chronocox"
-                }
-            ]
-        },
-        {
-            "id": "1895s9c",
-            "url": "/r/ArcBrowser/comments/1895s9c/love_the_new_placement_of_extensions/",
-            "external_url": "https://i.redd.it/q9w4b8hcew3c1.png",
-            "title": "LOVE the new placement of extensions",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/1895s9c/love_the_new_placement_of_extensions/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1895s9c/love_the_new_placement_of_extensions/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/q9w4b8hcew3c1.png\" />",
-            "date_published": "2023-12-02T15:14:03+00:00",
-            "authors": [
-                {
-                    "name": "sbr___",
-                    "url": "https://www.reddit.com/user/sbr___"
                 }
             ]
         }
