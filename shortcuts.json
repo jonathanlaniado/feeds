@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1gl8gah",
+            "url": "/r/shortcuts/comments/1gl8gah/12ftio_shortcut/",
+            "external_url": "https://www.reddit.com/r/shortcuts/comments/1gl8gah/12ftio_shortcut/",
+            "title": "12ft.io shortcut",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1gl8gah/12ftio_shortcut/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1gl8gah/12ftio_shortcut/'>Reddit</a></caption><div><br></div><p>Hey, I\u2019d like to know if exist a shortcut that automatically puts \u201c12ft.io/\u201c prefix on every article covered by paywall, in order to remove it.\nI would expect something that extrapolate a selected URL from the sharing option in the browser in order to modify it as written above.</p>",
+            "date_published": "2024-11-06T20:37:39+00:00",
+            "authors": [
+                {
+                    "name": "Legitimate_Wing_9134",
+                    "url": "https://www.reddit.com/user/Legitimate_Wing_9134"
+                }
+            ]
+        },
+        {
             "id": "1gl48i2",
             "url": "/r/shortcuts/comments/1gl48i2/prevent_screen_from_sleeping_during_recording/",
             "external_url": "https://i.redd.it/k2fjg56qibzd1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "myerrored",
                     "url": "https://www.reddit.com/user/myerrored"
-                }
-            ]
-        },
-        {
-            "id": "180p7nq",
-            "url": "/r/shortcuts/comments/180p7nq/what_do_you_guys_think_the_shortcuts_app_is/",
-            "external_url": "https://www.reddit.com/r/shortcuts/comments/180p7nq/what_do_you_guys_think_the_shortcuts_app_is/",
-            "title": "What do you guys think the Shortcuts app is lacking?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/180p7nq/what_do_you_guys_think_the_shortcuts_app_is/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/180p7nq/what_do_you_guys_think_the_shortcuts_app_is/'>Reddit</a></caption><div><br></div><p>For me, I would have to say control over the settings app.</p>",
-            "date_published": "2023-11-21T19:30:48+00:00",
-            "authors": [
-                {
-                    "name": "HypeCrazedYT",
-                    "url": "https://www.reddit.com/user/HypeCrazedYT"
                 }
             ]
         }
