@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1glm382",
+            "url": "/r/shortcuts/comments/1glm382/downloading_all_photos_from_icloud/",
+            "external_url": "https://i.redd.it/dt7u0gf20gzd1.jpeg",
+            "title": "Downloading all Photos from ICloud",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1glm382/downloading_all_photos_from_icloud/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1glm382/downloading_all_photos_from_icloud/'>Reddit</a></caption><div><br></div><p>Im trying to automize moving my old, non-favorite images to my backup and i think shortcuts offers a great solution for that as it allows to filter for favorites.</p>\n<p>I tested it and it works with recent pictures, however it seems to stop working when i use older photos. My assumption is that its because the originals are in the cloud.</p>\n<p>Is there any way to download all photos locally, but keep them synced to cloud? I think the \u201cKeep Originals on Phone\u201d option desyncs from cloud completly and that would mess up deleting the copies later on.</p>\n<p>Thanks in advance!</p><div><br></div><img src=\"https://i.redd.it/dt7u0gf20gzd1.jpeg\" />",
+            "date_published": "2024-11-07T08:46:16+00:00",
+            "authors": [
+                {
+                    "name": "greek_god_aesthetics",
+                    "url": "https://www.reddit.com/user/greek_god_aesthetics"
+                }
+            ]
+        },
+        {
             "id": "1glf6kp",
             "url": "/r/shortcuts/comments/1glf6kp/i_have_built_a_custom_gpt_to_help_build_shortcuts/",
             "external_url": "https://www.reddit.com/r/shortcuts/comments/1glf6kp/i_have_built_a_custom_gpt_to_help_build_shortcuts/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "firetrucks_go_WOOooo",
                     "url": "https://www.reddit.com/user/firetrucks_go_WOOooo"
-                }
-            ]
-        },
-        {
-            "id": "18bhaee",
-            "url": "/r/shortcuts/comments/18bhaee/siri_shortcuts_apps_list_of_apps_that_supports/",
-            "external_url": "https://appraven.net/collection/72625323",
-            "title": "Siri Shortcuts Apps - List of apps that supports the Shortcuts app is now on AppRaven for users to bookmark and keep an eye on apps and IAP\u2019s for when they go on sale",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/18bhaee/siri_shortcuts_apps_list_of_apps_that_supports/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/18bhaee/siri_shortcuts_apps_list_of_apps_that_supports/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-12-05T17:30:16+00:00",
-            "authors": [
-                {
-                    "name": "iBanks3",
-                    "url": "https://www.reddit.com/user/iBanks3"
                 }
             ]
         }
