@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1gllwma",
+            "url": "/r/ArcBrowser/comments/1gllwma/til_that_arc_has_fixed_the_responsive_layout_bug/",
+            "external_url": "https://v.redd.it/mp9xxyeexfzd1",
+            "title": "TIL that Arc has fixed the \"responsive\" layout bug on Windows Arc.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1gllwma/til_that_arc_has_fixed_the_responsive_layout_bug/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1gllwma/til_that_arc_has_fixed_the_responsive_layout_bug/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-11-07T08:31:38+00:00",
+            "authors": [
+                {
+                    "name": "a_sliceoflife",
+                    "url": "https://www.reddit.com/user/a_sliceoflife"
+                }
+            ]
+        },
+        {
             "id": "1gkxcy6",
             "url": "/r/ArcBrowser/comments/1gkxcy6/why_is_this_browser_so_bad/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1gkxcy6/why_is_this_browser_so_bad/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "JaceThings",
                     "url": "https://www.reddit.com/user/JaceThings"
-                }
-            ]
-        },
-        {
-            "id": "189i21c",
-            "url": "/r/ArcBrowser/comments/189i21c/for_those_struggling_with_extension_placement_try/",
-            "external_url": "https://i.redd.it/34u442radz3c1.png",
-            "title": "For those struggling with extension placement, try turning on the toolbar",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/189i21c/for_those_struggling_with_extension_placement_try/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/189i21c/for_those_struggling_with_extension_placement_try/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/34u442radz3c1.png\" />",
-            "date_published": "2023-12-03T01:13:33+00:00",
-            "authors": [
-                {
-                    "name": "chronocox",
-                    "url": "https://www.reddit.com/user/chronocox"
                 }
             ]
         }
