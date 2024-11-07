@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1gld98d",
+            "url": "/r/shortcuts/comments/1gld98d/driving_focus_when_carplay_and_wireless_charging/",
+            "external_url": "https://www.reddit.com/r/shortcuts/comments/1gld98d/driving_focus_when_carplay_and_wireless_charging/",
+            "title": "Driving Focus when CarPlay and wireless charging?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1gld98d/driving_focus_when_carplay_and_wireless_charging/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1gld98d/driving_focus_when_carplay_and_wireless_charging/'>Reddit</a></caption><div><br></div><p>Is there a way to enable driving focus when phone is in CarPlay AND wireless charging? And disable focus when either condition is disabled like when I pick up the phone from wireless charger. </p>",
+            "date_published": "2024-11-07T00:07:10+00:00",
+            "authors": [
+                {
+                    "name": "vinaygoel2000",
+                    "url": "https://www.reddit.com/user/vinaygoel2000"
+                }
+            ]
+        },
+        {
             "id": "1gl8gah",
             "url": "/r/shortcuts/comments/1gl8gah/12ftio_shortcut/",
             "external_url": "https://www.reddit.com/r/shortcuts/comments/1gl8gah/12ftio_shortcut/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Intelligent_Front977",
                     "url": "https://www.reddit.com/user/Intelligent_Front977"
-                }
-            ]
-        },
-        {
-            "id": "186saa1",
-            "url": "/r/shortcuts/comments/186saa1/when_im_asleep_turn_off_lamp/",
-            "external_url": "https://i.redd.it/dtpc49k24b3c1.jpg",
-            "title": "When I\u2019m Asleep Turn Off Lamp",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/186saa1/when_im_asleep_turn_off_lamp/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/186saa1/when_im_asleep_turn_off_lamp/'>Reddit</a></caption><div><br></div><p>I have an automation that turns off my bedroom lamp when my heart rate from my Apple Watch is 69 bpm or lower (lowest heart rate when in bed, usually) during a 4 hour span. The problem is that I get a \"automation took too long to run\" error message (4min later) when it actually runs but when running it manually, I get no error. Some tips on improving my automation or fixing it would help me out a lot.</p><div><br></div><img src=\"https://i.redd.it/dtpc49k24b3c1.jpg\" />",
-            "date_published": "2023-11-29T15:38:41+00:00",
-            "authors": [
-                {
-                    "name": "myerrored",
-                    "url": "https://www.reddit.com/user/myerrored"
                 }
             ]
         }
