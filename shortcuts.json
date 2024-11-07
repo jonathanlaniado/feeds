@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1gldymy",
+            "url": "/r/shortcuts/comments/1gldymy/carplay_medianav_siri_controlled_google_nav/",
+            "external_url": "https://www.icloud.com/shortcuts/f92e398de4e24602a0cab313deba7646",
+            "title": "CarPlay MediaNav (Siri controlled google nav, calendar events, spotify, etc.)",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1gldymy/carplay_medianav_siri_controlled_google_nav/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1gldymy/carplay_medianav_siri_controlled_google_nav/'>Reddit</a></caption><div><br></div><p>So I combined and edited some shortcuts on here from various people and tweaked it for my use. Thought I\u2019d share incase someone else wants a similar setup. I\u2019m a newbie when it comes to these but if anyone has any suggestions or recommendations, let me know and I\u2019ll try to implement them.</p>",
+            "date_published": "2024-11-07T00:40:26+00:00",
+            "authors": [
+                {
+                    "name": "DX-2",
+                    "url": "https://www.reddit.com/user/DX-2"
+                }
+            ]
+        },
+        {
             "id": "1gld98d",
             "url": "/r/shortcuts/comments/1gld98d/driving_focus_when_carplay_and_wireless_charging/",
             "external_url": "https://www.reddit.com/r/shortcuts/comments/1gld98d/driving_focus_when_carplay_and_wireless_charging/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "uglyasablasphemy",
                     "url": "https://www.reddit.com/user/uglyasablasphemy"
-                }
-            ]
-        },
-        {
-            "id": "187ggw4",
-            "url": "/r/shortcuts/comments/187ggw4/ask_me_and_i_will_make_any_shortcut_possible_for/",
-            "external_url": "https://www.reddit.com/r/shortcuts/comments/187ggw4/ask_me_and_i_will_make_any_shortcut_possible_for/",
-            "title": "Ask me and I will make any shortcut possible for you",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/187ggw4/ask_me_and_i_will_make_any_shortcut_possible_for/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/187ggw4/ask_me_and_i_will_make_any_shortcut_possible_for/'>Reddit</a></caption><div><br></div><p>You can ask your scenario and I will make a shortcut that fits it</p>",
-            "date_published": "2023-11-30T11:32:24+00:00",
-            "authors": [
-                {
-                    "name": "Intelligent_Front977",
-                    "url": "https://www.reddit.com/user/Intelligent_Front977"
                 }
             ]
         }
