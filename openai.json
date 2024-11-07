@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1gluqyp",
+            "url": "/r/OpenAI/comments/1gluqyp/i_asked_chatgpt_and_perplexity_where_to_eat/",
+            "external_url": "https://www.reddit.com/r/OpenAI/comments/1gluqyp/i_asked_chatgpt_and_perplexity_where_to_eat/",
+            "title": "I asked ChatGPT and Perplexity where to eat paella this Sunday, with a little extra research\u2026",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1gluqyp/i_asked_chatgpt_and_perplexity_where_to_eat/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1gluqyp/i_asked_chatgpt_and_perplexity_where_to_eat/'>Reddit</a></caption><div><br></div><p><a href=\"https://preview.redd.it/crmumi94cizd1.png?width=2822&amp;format=png&amp;auto=webp&amp;s=f6f320c9d8c7b022779bbe6072952f9f4db373f9\">General flow</a></p>\n<p>So I combined ChatGPT+Perplexity+Python to get the tool for a precise and up-to-date research.</p>\n<p>For example I send a simple question, like \"Where\u2019s the best place to enjoy paella this Sunday at 7 PM considering the weather?\"</p>\n<p><a href=\"https://preview.redd.it/nkzcuv07cizd1.png?width=2812&amp;format=png&amp;auto=webp&amp;s=4611f9b5384b5e836a82652fd349b16b92f45e56\">Request to GPT to Perplexity</a></p>\n<p>It goes to a Python node that checks today\u2019s date. Then, ChatGPT takes my question and makes it more detailed.</p>\n<p>This detailed question is sent to Perplexity, which finds the most recent information. All of this is sent back to ChatGPT, which gives me a complete list of places taking into account the weather forecast, the latest promos and current events.</p>\n<p>https://preview.redd.it/bv69isbacizd1.png?width=2818&amp;format=png&amp;auto=webp&amp;s=f9640a4a1f1f27a21161334b1dc60ad238f71fa4</p>\n<p>Basically, I use this combination for marketing analysis and research, though for the example, I showed a simple personal query. Neither Perplexity nor GPT performs well on their own, but together they make the perfect tool. What used to take hours now only takes about 10 minutes! It\u2019s especially helpful for spotting trends in e-commerce and SaaS, and all the information comes with links for easy fact-checking.</p>\n<p>If you want to give it a go, here's a <a href=\"https://drive.google.com/file/d/19okpeiYE84EAAeJxWy_4tNtl2T8evYgg/view?usp=sharing\">Google disk link</a> to the workflow. I built it on a no-code platform, <a href=\"https://www.scade.pro/\">Scade.pro</a> You can test my workflow using their free plan.</p>\n<p>Give it a try and let me know what you think!</p>",
+            "date_published": "2024-11-07T16:39:46+00:00",
+            "authors": [
+                {
+                    "name": "NickoGermish",
+                    "url": "https://www.reddit.com/user/NickoGermish"
+                }
+            ]
+        },
+        {
             "id": "1glf36g",
             "url": "/r/OpenAI/comments/1glf36g/sam_altman_ceo_chatgpt_responds_to_a_request_for/",
             "external_url": "https://i.redd.it/l0emu9r4vdzd1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "DownvoteAttractor_",
                     "url": "https://www.reddit.com/user/DownvoteAttractor_"
-                }
-            ]
-        },
-        {
-            "id": "1bqplcg",
-            "url": "/r/OpenAI/comments/1bqplcg/i_think_i_am_converted_claude_3_opus_api_smashing/",
-            "external_url": "https://www.reddit.com/r/OpenAI/comments/1bqplcg/i_think_i_am_converted_claude_3_opus_api_smashing/",
-            "title": "I think I am converted... Claude 3 Opus API Smashing Out the Code",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1bqplcg/i_think_i_am_converted_claude_3_opus_api_smashing/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1bqplcg/i_think_i_am_converted_claude_3_opus_api_smashing/'>Reddit</a></caption><div><br></div><p>So, I am a big GPT4 fanboy for coding, but well in the past 48 hours Claude 3 Opus has absolutely blown me away. </p>\n<p>I set this context message with it... </p>\n<p>you are an amazing python coder, helping me with my coding. you ensure that you only use the ai models and endpoints that i provide, as these are based on api standards that updated yesterday, so they are very new. you also do not modify or change any folder locations i am using.</p>\n<p>And it is just beautiful. No more hallucinated code sections. No more deleting chunks of my logic, or fill in this that and the other.</p>\n<p>I don't know if can go back to GPT4 for coding now. </p>\n<p>Let's see, but I am loving the experience. </p>\n<p>No doubt GPT5 will rock, but right now Claude Opus is really doing it for me. </p>",
-            "date_published": "2024-03-29T13:42:14+00:00",
-            "authors": [
-                {
-                    "name": "Smartaces",
-                    "url": "https://www.reddit.com/user/Smartaces"
                 }
             ]
         }
