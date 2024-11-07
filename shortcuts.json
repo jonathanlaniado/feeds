@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1glx93u",
+            "url": "/r/shortcuts/comments/1glx93u/shortcuts_and_folders_menu/",
+            "external_url": "https://www.reddit.com/gallery/1glx93u",
+            "title": "Shortcuts and folders menu",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1glx93u/shortcuts_and_folders_menu/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1glx93u/shortcuts_and_folders_menu/'>Reddit</a></caption><div><br></div><p>I have a simple shortcut which displays all shortcut folders and allows you to navigate, and run one. </p>\n<p>I\u2019d like to be able to place specific shortcuts above the folders, ie, a mixed menu of shortcuts and shortcut folders. </p>\n<p>Any ideas?</p>",
+            "date_published": "2024-11-07T18:23:38+00:00",
+            "authors": [
+                {
+                    "name": "caniacsince97",
+                    "url": "https://www.reddit.com/user/caniacsince97"
+                }
+            ]
+        },
+        {
             "id": "1glvmvx",
             "url": "/r/shortcuts/comments/1glvmvx/fall_asleepwake_up_up_trigger/",
             "external_url": "https://www.reddit.com/r/shortcuts/comments/1glvmvx/fall_asleepwake_up_up_trigger/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "General-Realistic",
                     "url": "https://www.reddit.com/user/General-Realistic"
-                }
-            ]
-        },
-        {
-            "id": "18cr1vt",
-            "url": "/r/shortcuts/comments/18cr1vt/what_is_your_most_frequently_used_shortcut/",
-            "external_url": "https://www.reddit.com/r/shortcuts/comments/18cr1vt/what_is_your_most_frequently_used_shortcut/",
-            "title": "What is your most frequently used shortcut?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/18cr1vt/what_is_your_most_frequently_used_shortcut/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/18cr1vt/what_is_your_most_frequently_used_shortcut/'>Reddit</a></caption><div><br></div><p>I am very curious.</p>",
-            "date_published": "2023-12-07T08:20:03+00:00",
-            "authors": [
-                {
-                    "name": "eyYoWhy",
-                    "url": "https://www.reddit.com/user/eyYoWhy"
                 }
             ]
         }
