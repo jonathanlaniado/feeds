@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1gm5vbv",
+            "url": "/r/shortcuts/comments/1gm5vbv/my_action_button_shortcut_that_changes_based_on/",
+            "external_url": "https://i.redd.it/gh6ll5impkzd1.jpeg",
+            "title": "My action button shortcut that changes based on location!",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1gm5vbv/my_action_button_shortcut_that_changes_based_on/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1gm5vbv/my_action_button_shortcut_that_changes_based_on/'>Reddit</a></caption><div><br></div><p>First things first. Is this overly-complicated? Yes. Is this likely unnecessary? Yes. Overkill? Definitely. Was it worth it? Absolutely!</p>\n<p>I wanted to make a shortcut for my action button that I would find useful regardless of the scenario I was in. This mainly came down to location so that was the main motivator here. </p>\n<p>I have my action button set to run the \u201cAction Button\u201d shortcut. It then checks if my phone is facing down. If it is then it toggles the flashlight. This is because you never know when you need a flashlight, but when you do you don\u2019t want to be messing with menus or anything. Quick, easy, simple. Then we check to see where the device is located so we can bring up so more context-related menus. That\u2019s where the \u201cLocation Category\u201d shortcut is ran which is the real meat and potatoes of this shortcut. </p>\n<p>I won\u2019t go into too much detail for the sake of my fingers, but it basically has a list of locations in a dictionary that I\u2019m interested in making a menu for. Each of those entries has a \u201cquery\u201d which is used to find that location with maps, as well as a tolerance which is the radius (in miles) of how close I have to be to make location\u2019s menu trigger. You may ask, \u201cwhy not just put a specified address for each of those locations and call it a day?\u201d Well to answer that, it\u2019s because I would like these menus to pop up no matter what location I\u2019m at, regardless of what gym, grocery store, movie theater, Walmart, etc. I decide to visit. With this approach, any location I\u2019m interested in making a menu for will always be covered under these general queries. Continuing on, the lower \u201crepeat with each\u201d block loops through each of the locations in the dictionary and queries maps with their respective \u201cquery\u201d and returns the closest x locations to me. Then with each of those it checks their distance from my current location. If it lies within the tolerance, I must be at that location. It will then return the location category back to the action button shortcut so it can run that specific menu. </p>\n<p>The upper \u201crepeat with each\u201d is a sort of caching mechanism and is a consequence of the overall querying taking a tad too long for my liking, especially at locations where service is spotty. It didn\u2019t ever take terribly long but I felt like when pushing the action button I should be able to see a menu right away and get to where I want to go with no time wasted. It basically looks for its cache file and loops through the lines, each of which with the format \u201ccategory:latitude,longitude\u201d, and compares it to my current location\u2019s latitude and longitude completely offline. It does this with the haversine formula which is accurate enough for this use case. If a match isn\u2019t found in the cache then it continues with the lower \u201crepeat with each\u201d block as previously explained and adds that location to the cache for faster access next time. This in practice cuts a whole lot of time off of the location checking and makes things almost instant. If a match isn\u2019t found then it returns nothing.</p>\n<p>Returning back to the \u201cAction Button\u201d shortcut, if something is returned from the \u201cLocation Category\u201d shortcut then it runs that category\u2019s menu. If nothing is returned then no match was found for the location and it simply opens the utility menu. The menus themselves contain actions that I might find useful in that scenario. Some are unfinished but it\u2019s a work in progress (always is).</p>\n<p>I tried mapping out the shortcut as best I could in the diagram in terms of control flow. Sorry for any fuzziness on the smaller fonts, it\u2019s the best I could do. Lots of work getting this idea to work (probably a little too much). Let me know if you have any questions!</p><div><br></div><img src=\"https://i.redd.it/gh6ll5impkzd1.jpeg\" />",
+            "date_published": "2024-11-08T00:36:38+00:00",
+            "authors": [
+                {
+                    "name": "dnvnxg",
+                    "url": "https://www.reddit.com/user/dnvnxg"
+                }
+            ]
+        },
+        {
             "id": "1glx93u",
             "url": "/r/shortcuts/comments/1glx93u/shortcuts_and_folders_menu/",
             "external_url": "https://www.reddit.com/gallery/1glx93u",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "IJohnDoe",
                     "url": "https://www.reddit.com/user/IJohnDoe"
-                }
-            ]
-        },
-        {
-            "id": "18dasuc",
-            "url": "/r/shortcuts/comments/18dasuc/shortcuts_cheat_sheet/",
-            "external_url": "https://www.reddit.com/r/shortcuts/comments/18dasuc/shortcuts_cheat_sheet/",
-            "title": "Shortcuts Cheat Sheet?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/18dasuc/shortcuts_cheat_sheet/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/18dasuc/shortcuts_cheat_sheet/'>Reddit</a></caption><div><br></div><p>Hello r/shortcuts! I can\u2019t seem to find the information that I am looking for either here or general internet searches. I very much want a full break down of shortcuts how to\u2019s. Like there are lots of functions I feel like I don\u2019t really understand even with the little blurb that Apple provides for the function. Is there a full cheat sheet out there that expands a bit more on most if not all of these functions?</p>\n<p>Thank you so very much for any insight on the matter!</p>",
-            "date_published": "2023-12-08T01:06:23+00:00",
-            "authors": [
-                {
-                    "name": "General-Realistic",
-                    "url": "https://www.reddit.com/user/General-Realistic"
                 }
             ]
         }
