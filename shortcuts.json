@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1gnjmjt",
+            "url": "/r/shortcuts/comments/1gnjmjt/can_we_please_get_shortcutstriggersresponses_that/",
+            "external_url": "https://www.reddit.com/r/shortcuts/comments/1gnjmjt/can_we_please_get_shortcutstriggersresponses_that/",
+            "title": "Can we please get shortcuts/triggers/responses that are specific to specific apps like Reddit, Discord, YouTube, etc.?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1gnjmjt/can_we_please_get_shortcutstriggersresponses_that/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1gnjmjt/can_we_please_get_shortcutstriggersresponses_that/'>Reddit</a></caption><div><br></div><p>Please, Apple. Please take a page out of IFTTT\u2019s book!</p>",
+            "date_published": "2024-11-09T20:50:31+00:00",
+            "authors": [
+                {
+                    "name": "Nintendo_Pro_03",
+                    "url": "https://www.reddit.com/user/Nintendo_Pro_03"
+                }
+            ]
+        },
+        {
             "id": "1gn8c7u",
             "url": "/r/shortcuts/comments/1gn8c7u/need_help_with_wait_shortcut/",
             "external_url": "https://i.redd.it/r7nud62n5vzd1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "iBanks3",
                     "url": "https://www.reddit.com/user/iBanks3"
-                }
-            ]
-        },
-        {
-            "id": "18eqeta",
-            "url": "/r/shortcuts/comments/18eqeta/shortcut_hub_major_update/",
-            "external_url": "https://i.redd.it/yiqf1avcwc5c1.jpeg",
-            "title": "Shortcut Hub (Major Update)",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/18eqeta/shortcut_hub_major_update/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/18eqeta/shortcut_hub_major_update/'>Reddit</a></caption><div><br></div><p>I just updated \u201cShortcut Hub\u201d to version 3.0 with a major change: A new settings menu within the shortcut that lets you adjust settings seamlessly while running it. This took me hours to implement, so please check it out! </p>\n<p>If you\u2019re wondering what Shortcut Hub is, it gives you easy access to all your shortcuts in one list, so you can access them anywhere. It also has a search function.</p>\n<p>More info + Download: https://routinehub.co/shortcut/11981/</p><div><br></div><img src=\"https://i.redd.it/yiqf1avcwc5c1.jpeg\" />",
-            "date_published": "2023-12-09T23:47:16+00:00",
-            "authors": [
-                {
-                    "name": "Vgcmn5",
-                    "url": "https://www.reddit.com/user/Vgcmn5"
                 }
             ]
         }
