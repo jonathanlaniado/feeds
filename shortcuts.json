@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1gn8c7u",
+            "url": "/r/shortcuts/comments/1gn8c7u/need_help_with_wait_shortcut/",
+            "external_url": "https://i.redd.it/r7nud62n5vzd1.jpeg",
+            "title": "Need Help With Wait Shortcut",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1gn8c7u/need_help_with_wait_shortcut/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1gn8c7u/need_help_with_wait_shortcut/'>Reddit</a></caption><div><br></div><p>Is this reliable and will this wait for 10 minutes, then vibrate without randomly breaking?</p>\n<p>Or is it the same as with normal wait action \nwhich will time out after a few minutes?</p>\n<p>https://www.icloud.com/shortcuts/2798f33882e04cd996a93c83e9d4f11a</p><div><br></div><img src=\"https://i.redd.it/r7nud62n5vzd1.jpeg\" />",
+            "date_published": "2024-11-09T11:44:13+00:00",
+            "authors": [
+                {
+                    "name": "Broad-You4763",
+                    "url": "https://www.reddit.com/user/Broad-You4763"
+                }
+            ]
+        },
+        {
             "id": "1gm5vbv",
             "url": "/r/shortcuts/comments/1gm5vbv/my_action_button_shortcut_that_changes_based_on/",
             "external_url": "https://i.redd.it/gh6ll5impkzd1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Vgcmn5",
                     "url": "https://www.reddit.com/user/Vgcmn5"
-                }
-            ]
-        },
-        {
-            "id": "18e9y1u",
-            "url": "/r/shortcuts/comments/18e9y1u/whats_that_gpt_your_photo/",
-            "external_url": "https://www.reddit.com/gallery/18e9y1u",
-            "title": "What\u2019s That? | GPT your photo",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/shortcuts/comments/18e9y1u/whats_that_gpt_your_photo/'>Apollo</a> | <a href='https://reddit.com/r/shortcuts/comments/18e9y1u/whats_that_gpt_your_photo/'>Reddit</a></caption><div><br></div><p>Point your phone and run the shortcut. I added it to my home screen to make it easy. It\u2019s so fun to see the description it comes up with!</p>\n<p>Requires your openAI api key and GPT4 access</p>\n<p>https://www.icloud.com/shortcuts/3d61d45c7d31433c85c59f169518b15d</p>\n<p>Requirements, you need to have access to gpt4v according to this guide\nhttps://platform.openai.com/docs/guides/vision</p>",
-            "date_published": "2023-12-09T09:31:14+00:00",
-            "authors": [
-                {
-                    "name": "IJohnDoe",
-                    "url": "https://www.reddit.com/user/IJohnDoe"
                 }
             ]
         }
