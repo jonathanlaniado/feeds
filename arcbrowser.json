@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1gnj1ai",
+            "url": "/r/ArcBrowser/comments/1gnj1ai/browse_for_me_on_windows/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1gnj1ai/browse_for_me_on_windows/",
+            "title": "Browse for Me on Windows?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1gnj1ai/browse_for_me_on_windows/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1gnj1ai/browse_for_me_on_windows/'>Reddit</a></caption><div><br></div><p>Am I missing something or is Browse for Me not available on Arc for Windows?  Love the feature on Android </p>",
+            "date_published": "2024-11-09T20:23:07+00:00",
+            "authors": [
+                {
+                    "name": "Paulhulf",
+                    "url": "https://www.reddit.com/user/Paulhulf"
+                }
+            ]
+        },
+        {
             "id": "1gltns4",
             "url": "/r/ArcBrowser/comments/1gltns4/not_everyone_loved_our_android_designs_in_the/",
             "external_url": "https://v.redd.it/k8wmnqvf4izd1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "KeplerCorvus",
                     "url": "https://www.reddit.com/user/KeplerCorvus"
-                }
-            ]
-        },
-        {
-            "id": "18as6g7",
-            "url": "/r/ArcBrowser/comments/18as6g7/looks_like_max_is_sticking_around_for_longer_than/",
-            "external_url": "https://i.redd.it/cxqbtxapyb4c1.png",
-            "title": "Looks like Max is sticking around for longer than expected",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/18as6g7/looks_like_max_is_sticking_around_for_longer_than/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/18as6g7/looks_like_max_is_sticking_around_for_longer_than/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/cxqbtxapyb4c1.png\" />",
-            "date_published": "2023-12-04T19:34:53+00:00",
-            "authors": [
-                {
-                    "name": "JaceThings",
-                    "url": "https://www.reddit.com/user/JaceThings"
                 }
             ]
         }
