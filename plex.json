@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1gnd4eq",
+            "url": "/r/PleX/comments/1gnd4eq/minimal_plex_setup_achieved/",
+            "external_url": "https://i.redd.it/8u7wbr8mewzd1.jpeg",
+            "title": "Minimal Plex setup achieved!",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1gnd4eq/minimal_plex_setup_achieved/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1gnd4eq/minimal_plex_setup_achieved/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/8u7wbr8mewzd1.jpeg\" />",
+            "date_published": "2024-11-09T15:56:20+00:00",
+            "authors": [
+                {
+                    "name": "SaraCaterina",
+                    "url": "https://www.reddit.com/user/SaraCaterina"
+                }
+            ]
+        },
+        {
             "id": "1glu3on",
             "url": "/r/PleX/comments/1glu3on/got_creative/",
             "external_url": "https://www.reddit.com/r/PleX/comments/1glu3on/got_creative/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "TapTapTapTapTapTaps",
                     "url": "https://www.reddit.com/user/TapTapTapTapTapTaps"
-                }
-            ]
-        },
-        {
-            "id": "186egpq",
-            "url": "/r/PleX/comments/186egpq/the_ability_to_create_virtual_channels_that/",
-            "external_url": "https://forums.plex.tv/t/pseudotv/99226/173",
-            "title": "The ability to create virtual channels that integrates with live TV guide is currently being worked on by Plex",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/PleX/comments/186egpq/the_ability_to_create_virtual_channels_that/'>Apollo</a> | <a href='https://reddit.com/r/PleX/comments/186egpq/the_ability_to_create_virtual_channels_that/'>Reddit</a></caption><div><br></div><p>I bumped this feature request in the forums after it was dormant for some time and a Plex employee responded that they are hoping to add the feature at a later date. As someone that uses DizqueTV and Xteve with my HDhomerun, this is great news.</p>",
-            "date_published": "2023-11-29T02:33:49+00:00",
-            "authors": [
-                {
-                    "name": "keviac82",
-                    "url": "https://www.reddit.com/user/keviac82"
                 }
             ]
         }
