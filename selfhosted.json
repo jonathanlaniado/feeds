@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1go3qm8",
+            "url": "/r/selfhosted/comments/1go3qm8/puter_the_selfhostable_web_os_that_ive_been/",
+            "external_url": "https://github.com/heyputer/puter",
+            "title": "Puter: The self-hostable \"Web OS\" that I've been working on for more than 3 years",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1go3qm8/puter_the_selfhostable_web_os_that_ive_been/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1go3qm8/puter_the_selfhostable_web_os_that_ive_been/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-11-10T15:56:56+00:00",
+            "authors": [
+                {
+                    "name": "mitousa",
+                    "url": "https://www.reddit.com/user/mitousa"
+                }
+            ]
+        },
+        {
             "id": "1gnb5nx",
             "url": "/r/selfhosted/comments/1gnb5nx/windows_inside_a_docker_container/",
             "external_url": "https://github.com/dockur/windows",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ChiefAoki",
                     "url": "https://www.reddit.com/user/ChiefAoki"
-                }
-            ]
-        },
-        {
-            "id": "18xgcsu",
-            "url": "/r/selfhosted/comments/18xgcsu/my_dashboard_now_with_descriptions/",
-            "external_url": "https://i.redd.it/gbbdwxgxc7ac1.png",
-            "title": "My dashboard, now with descriptions",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/18xgcsu/my_dashboard_now_with_descriptions/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/18xgcsu/my_dashboard_now_with_descriptions/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/gbbdwxgxc7ac1.png\" />",
-            "date_published": "2024-01-03T10:32:19+00:00",
-            "authors": [
-                {
-                    "name": "Blendman974",
-                    "url": "https://www.reddit.com/user/Blendman974"
                 }
             ]
         }
