@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1gnqlav",
+            "url": "/r/ArcBrowser/comments/1gnqlav/they_kept_their_words_on_improving_the_browser/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1gnqlav/they_kept_their_words_on_improving_the_browser/",
+            "title": "They kept their words on improving the browser",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1gnqlav/they_kept_their_words_on_improving_the_browser/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1gnqlav/they_kept_their_words_on_improving_the_browser/'>Reddit</a></caption><div><br></div><p>Even though Arc got lots of negative after publishing their latest announcement, I keep using and experiencing it because of all the browser benefits given to me a few months ago. It completely changes how I browse the internet (spaces, V-tab, tiny tab, little-arc, etc..)<br />\nFinally, Arc now has the syncing tab function through devices like every browser. It makes me believe the TBC is doing what they promised, they keep improving the browser gradually.</p>\n<p>https://preview.redd.it/ioty2pygkzzd1.png?width=3024&amp;format=png&amp;auto=webp&amp;s=3cd2b5465020e16439e11c2d1fdadbacd33bbfc2</p>\n<p>https://preview.redd.it/vbldblygkzzd1.png?width=1179&amp;format=png&amp;auto=webp&amp;s=6053860f4da01b4710e70afec5d2aa4dd8ebbc7d</p>\n<p>Below is what I expect Arc will have:</p>\n<ul>\n<li>Private tab lock on MacOS (iOS does have it, but it still shows the name of the website at the top of the thumbnail)</li>\n<li>Export bookmark, history, and password</li>\n<li>Ability to know which Favourite tabs are running and manually close</li>\n<li>Remove the border interface or at least make it thinner (it annoys me every time I browse on Mac)</li>\n<li>Option to never archive tab</li>\n<li>Reader mode?</li>\n<li>Anything else? </li>\n</ul>",
+            "date_published": "2024-11-10T02:35:11+00:00",
+            "authors": [
+                {
+                    "name": "hoangtohcm",
+                    "url": "https://www.reddit.com/user/hoangtohcm"
+                }
+            ]
+        },
+        {
             "id": "1gnj1ai",
             "url": "/r/ArcBrowser/comments/1gnj1ai/browse_for_me_on_windows/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1gnj1ai/browse_for_me_on_windows/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "JaceThings",
                     "url": "https://www.reddit.com/user/JaceThings"
-                }
-            ]
-        },
-        {
-            "id": "18b0pe6",
-            "url": "/r/ArcBrowser/comments/18b0pe6/what_is_with_the_downloads_renaming_feature/",
-            "external_url": "https://i.redd.it/h9410299ud4c1.png",
-            "title": "What is with the downloads renaming feature",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/18b0pe6/what_is_with_the_downloads_renaming_feature/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/18b0pe6/what_is_with_the_downloads_renaming_feature/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/h9410299ud4c1.png\" />",
-            "date_published": "2023-12-05T01:53:14+00:00",
-            "authors": [
-                {
-                    "name": "KeplerCorvus",
-                    "url": "https://www.reddit.com/user/KeplerCorvus"
                 }
             ]
         }
