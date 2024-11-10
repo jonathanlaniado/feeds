@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "1gnxttc",
+            "url": "/r/apple/comments/1gnxttc/dynamic_island_now_for_your_mac_alcove/",
+            "external_url": "https://www.reddit.com/r/apple/comments/1gnxttc/dynamic_island_now_for_your_mac_alcove/",
+            "title": "Dynamic Island now for your Mac - Alcove",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/apple/comments/1gnxttc/dynamic_island_now_for_your_mac_alcove/'>Winston</a> | <a href='https://reddit.com/r/apple/comments/1gnxttc/dynamic_island_now_for_your_mac_alcove/'>Reddit</a></caption><div><br></div><p>Dynamic Island has now come to your Mac!</p>\n<p>Creator of Klack here, for those familiar with my previous app. I've been working on my new app called Alcove for several months now and I'm finally able to share it with everyone.</p>\n<p>I noticed that none of the current notch apps truly tried to replicate the Dynamic Island that was on the iPhone, which is exactly what I aimed out to do with Alcove. It's a 1:1 copy of the Dynamic Island for your iPhone, but now on your Mac. It shows you low battery alerts for both your Mac and your AirPods, it will show you that sweet 3D animation of AirPods when you're connecting them, as well as the battery level. It will let you know when you've entered focus mode. It also replaces your native HUD to better match the one on iOS.</p>\n<p>It fully replicates the media controls in the Dynamic Island on iOS. It even runs on your lock screen showing a little lock icon, just as you're already familiar with on your iPhone.</p>\n<p>I put an immense amount of time to ensure that the app would feel incredibly smooth and fluid, just as the original. I believe I truly achieved it, it's something that you need to try to really get a feel for it.</p>\n<p>There's a lot of features already in Alcove, many more are coming. This is just the beginning for the app. I hope you do enjoy it as much as I do, I generally create apps for myself to begin with.</p>\n<p>Please do check it out at\u00a0<a href=\"https://tryalcove.com/\">tryalcove.com</a>, where there is an interactive demo. It also has a trial, so you can completely decide if this is something for you.</p>",
+            "date_published": "2024-11-10T10:31:29+00:00",
+            "authors": [
+                {
+                    "name": "Quirino_Exile",
+                    "url": "https://www.reddit.com/user/Quirino_Exile"
+                }
+            ]
+        },
+        {
             "id": "1gnv5f2",
             "url": "/r/apple/comments/1gnv5f2/feelly_track_your_mood_find_balance/",
             "external_url": "https://www.reddit.com/r/apple/comments/1gnv5f2/feelly_track_your_mood_find_balance/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "favicondotico",
                     "url": "https://www.reddit.com/user/favicondotico"
-                }
-            ]
-        },
-        {
-            "id": "1co7eho",
-            "url": "/r/apple/comments/1co7eho/apple_apologizes_for_crush_ipad_pro_ad_that/",
-            "external_url": "https://9to5mac.com/2024/05/09/ipad-pro-crush-ad-apology/",
-            "title": "Apple apologizes for 'Crush' iPad Pro ad that sparked controversy",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/apple/comments/1co7eho/apple_apologizes_for_crush_ipad_pro_ad_that/'>Winston</a> | <a href='https://reddit.com/r/apple/comments/1co7eho/apple_apologizes_for_crush_ipad_pro_ad_that/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-05-09T20:40:45+00:00",
-            "authors": [
-                {
-                    "name": "MC_chrome",
-                    "url": "https://www.reddit.com/user/MC_chrome"
                 }
             ]
         }
