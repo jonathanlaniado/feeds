@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1go204e",
+            "url": "/r/PleX/comments/1go204e/my_minimal_plex_set_up/",
+            "external_url": "https://i.redd.it/ult7xv37530e1.jpeg",
+            "title": "MY minimal Plex set up",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1go204e/my_minimal_plex_set_up/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1go204e/my_minimal_plex_set_up/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/ult7xv37530e1.jpeg\" />",
+            "date_published": "2024-11-10T14:36:23+00:00",
+            "authors": [
+                {
+                    "name": "Full-Plenty661",
+                    "url": "https://www.reddit.com/user/Full-Plenty661"
+                }
+            ]
+        },
+        {
             "id": "1gnd4eq",
             "url": "/r/PleX/comments/1gnd4eq/minimal_plex_setup_achieved/",
             "external_url": "https://i.redd.it/8u7wbr8mewzd1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Vovikukr",
                     "url": "https://www.reddit.com/user/Vovikukr"
-                }
-            ]
-        },
-        {
-            "id": "186wqmb",
-            "url": "/r/PleX/comments/186wqmb/simple_plex_setup/",
-            "external_url": "https://i.redd.it/2ge7kmbo0c3c1.jpg",
-            "title": "Simple Plex Setup.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/PleX/comments/186wqmb/simple_plex_setup/'>Apollo</a> | <a href='https://reddit.com/r/PleX/comments/186wqmb/simple_plex_setup/'>Reddit</a></caption><div><br></div><p>Beelink S12\nSybia 8 bay\n160TB of storage</p>\n<p>Using 1/3 of the power of my previous full server.</p><div><br></div><img src=\"https://i.redd.it/2ge7kmbo0c3c1.jpg\" />",
-            "date_published": "2023-11-29T18:41:26+00:00",
-            "authors": [
-                {
-                    "name": "TapTapTapTapTapTaps",
-                    "url": "https://www.reddit.com/user/TapTapTapTapTapTaps"
                 }
             ]
         }
