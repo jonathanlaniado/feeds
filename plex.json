@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1goizpn",
+            "url": "/r/PleX/comments/1goizpn/my_plex_setup/",
+            "external_url": "https://i.redd.it/p7r8p5zc070e1.jpeg",
+            "title": "My Plex Setup",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1goizpn/my_plex_setup/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1goizpn/my_plex_setup/'>Reddit</a></caption><div><br></div><p>BeeLink SQ12 N100, 16GB, 500GB with an extra 1TB SSD installed for storage running OpenMediaVault 7 with Plex, Arrs and other containers</p>\n<p>QNAP TS-433\n4xWD40 drives = 10.90TB/9.78TB free</p>\n<p>Netgear ReadyNAS 314\n4xWD40 drives = 10.90TB/9.65TB free</p>\n<p>Synology DS218Play\n2xWD16TB HC500 refurbed drives = 14.6TB/5.9TB free</p>\n<p>I was running an old PC case I had with an i9 but decided it was too much so gave the i9 to the kids for a gaming machine (upgraded them from a Optiplex 9010) and went the BeeLink path. Already had the Netgear and Synology, just upgraded to the 16TB drives and got the QNAP and took the drives from the i9 system for that. So far I have not had any issues once I got my containers running properly and have had 10+ people streaming at once with 4 transcodes going. I only have 1080p content in my library so nothing too strenuous </p><div><br></div><img src=\"https://i.redd.it/p7r8p5zc070e1.jpeg\" />",
+            "date_published": "2024-11-11T03:36:01+00:00",
+            "authors": [
+                {
+                    "name": "Fleggy82",
+                    "url": "https://www.reddit.com/user/Fleggy82"
+                }
+            ]
+        },
+        {
             "id": "1go204e",
             "url": "/r/PleX/comments/1go204e/my_minimal_plex_set_up/",
             "external_url": "https://i.redd.it/ult7xv37530e1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "NelsonMinar",
                     "url": "https://www.reddit.com/user/NelsonMinar"
-                }
-            ]
-        },
-        {
-            "id": "1884fgh",
-            "url": "/r/PleX/comments/1884fgh/plex_logo_as_a_projector_wall_transition/",
-            "external_url": "https://i.redd.it/nz9hopppgm3c1.jpeg",
-            "title": "Plex logo as a projector wall transition",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/PleX/comments/1884fgh/plex_logo_as_a_projector_wall_transition/'>Apollo</a> | <a href='https://reddit.com/r/PleX/comments/1884fgh/plex_logo_as_a_projector_wall_transition/'>Reddit</a></caption><div><br></div><p>I had to keep half the wall white for the projector but doing it straight down the middle didn't look good. This on the other hand looks beautiful.</p><div><br></div><img src=\"https://i.redd.it/nz9hopppgm3c1.jpeg\" />",
-            "date_published": "2023-12-01T05:49:08+00:00",
-            "authors": [
-                {
-                    "name": "Vovikukr",
-                    "url": "https://www.reddit.com/user/Vovikukr"
                 }
             ]
         }
