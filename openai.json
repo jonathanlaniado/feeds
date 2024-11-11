@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1goomso",
+            "url": "/r/OpenAI/comments/1goomso/started_playing_around_with_the_image_generator/",
+            "external_url": "https://www.reddit.com/gallery/1goomso",
+            "title": "Started playing around with the image generator",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1goomso/started_playing_around_with_the_image_generator/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1goomso/started_playing_around_with_the_image_generator/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-11-11T09:46:22+00:00",
+            "authors": [
+                {
+                    "name": "Yank-here",
+                    "url": "https://www.reddit.com/user/Yank-here"
+                }
+            ]
+        },
+        {
             "id": "1go0ue3",
             "url": "/r/OpenAI/comments/1go0ue3/anthropic_founder_says_ai_skeptics_are_poorly/",
             "external_url": "https://www.reddit.com/gallery/1go0ue3",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Cloud_Reviews",
                     "url": "https://www.reddit.com/user/Cloud_Reviews"
-                }
-            ]
-        },
-        {
-            "id": "1c3gxi4",
-            "url": "/r/OpenAI/comments/1c3gxi4/gpt4_turbo_has_claimed_the_throne_back/",
-            "external_url": "https://i.redd.it/e86hhi2fdcuc1.jpeg",
-            "title": "GPT-4 Turbo has claimed the throne back",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1c3gxi4/gpt4_turbo_has_claimed_the_throne_back/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1c3gxi4/gpt4_turbo_has_claimed_the_throne_back/'>Reddit</a></caption><div><br></div><p>https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard </p><div><br></div><img src=\"https://i.redd.it/e86hhi2fdcuc1.jpeg\" />",
-            "date_published": "2024-04-14T00:44:30+00:00",
-            "authors": [
-                {
-                    "name": "py-net",
-                    "url": "https://www.reddit.com/user/py-net"
                 }
             ]
         }
