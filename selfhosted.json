@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1gplrtk",
+            "url": "/r/selfhosted/comments/1gplrtk/ever_been_turned_off_on_an_app_because_of_the/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1gplrtk/ever_been_turned_off_on_an_app_because_of_the/",
+            "title": "Ever been turned off on an app because of the developer's behavior?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1gplrtk/ever_been_turned_off_on_an_app_because_of_the/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1gplrtk/ever_been_turned_off_on_an_app_because_of_the/'>Reddit</a></caption><div><br></div><p>After a ridiculous back-and-forth with the Grocy developer (who called me \"stupid AF\" after I deleted a post on Reddit [A question with a one line answer that probably wouldn't have helped anyone else] and continued to insult me, I decided to look back at Tandoor and Mealie instead.</p>\n<p>So my question to you all is: What are your developer horror stories in the Self Hosted world? </p>\n<p>Conversely, are there any apps that are so good that you are willing to overlook a difficult, vocal developer?</p>",
+            "date_published": "2024-11-12T14:20:23+00:00",
+            "authors": [
+                {
+                    "name": "Purdue49OSU20",
+                    "url": "https://www.reddit.com/user/Purdue49OSU20"
+                }
+            ]
+        },
+        {
             "id": "1gpjzvl",
             "url": "/r/selfhosted/comments/1gpjzvl/tooljet_30_opencore_lowcode_platform_for_building/",
             "external_url": "https://blog.tooljet.com/tooljet-3-0-announcement/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "kroshira",
                     "url": "https://www.reddit.com/user/kroshira"
-                }
-            ]
-        },
-        {
-            "id": "1920ctv",
-            "url": "/r/selfhosted/comments/1920ctv/is_someone_trying_to_log_into_my_server_how_can_i/",
-            "external_url": "https://i.redd.it/mtzrv5s42bbc1.png",
-            "title": "Is someone trying to log into my server? How can I protect?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1920ctv/is_someone_trying_to_log_into_my_server_how_can_i/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1920ctv/is_someone_trying_to_log_into_my_server_how_can_i/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/mtzrv5s42bbc1.png\" />",
-            "date_published": "2024-01-09T00:02:08+00:00",
-            "authors": [
-                {
-                    "name": "2commadev",
-                    "url": "https://www.reddit.com/user/2commadev"
                 }
             ]
         }
