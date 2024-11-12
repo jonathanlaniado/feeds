@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1gpjzvl",
+            "url": "/r/selfhosted/comments/1gpjzvl/tooljet_30_opencore_lowcode_platform_for_building/",
+            "external_url": "https://blog.tooljet.com/tooljet-3-0-announcement/",
+            "title": "ToolJet 3.0 - Open-core low-code platform for building business applications. Now with workflow automation, improved performance, 50+ integrations, in-built database and more security features. Deploy using Docker, k8s, AWS AMI & more! Alternative to Retool, Power Apps & OutSystems.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1gpjzvl/tooljet_30_opencore_lowcode_platform_for_building/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1gpjzvl/tooljet_30_opencore_lowcode_platform_for_building/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-11-12T12:51:32+00:00",
+            "authors": [
+                {
+                    "name": "navaneethpk",
+                    "url": "https://www.reddit.com/user/navaneethpk"
+                }
+            ]
+        },
+        {
             "id": "1gow9jb",
             "url": "/r/selfhosted/comments/1gow9jb/launched_my_side_project_on_a_selfhosted_m1_mac/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1gow9jb/launched_my_side_project_on_a_selfhosted_m1_mac/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "2commadev",
                     "url": "https://www.reddit.com/user/2commadev"
-                }
-            ]
-        },
-        {
-            "id": "191m7iq",
-            "url": "/r/selfhosted/comments/191m7iq/a_reminder_that_if_you_dont_pay_for_the_product/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/191m7iq/a_reminder_that_if_you_dont_pay_for_the_product/",
-            "title": "A reminder that \"if you don't pay for the product, you are the product\"..",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/191m7iq/a_reminder_that_if_you_dont_pay_for_the_product/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/191m7iq/a_reminder_that_if_you_dont_pay_for_the_product/'>Reddit</a></caption><div><br></div><p>To preface: I basically never post, but I do read this sub almost daily, and appreciate having learned a lot here. I've started hosting many of my own services thanks to the advice and ideas here. I'm also security conscious, so one thing has me increasingly uneasy is how vocal people are about Tailscale as a good solution for \"self hosting\". I used Tailscale for a few months, but never found it quite as magical as some people seem to. Then, there was a post in December (<a href=\"https://www.reddit.com/r/selfhosted/comments/18evofr/a_word_of_caution_about_tailscale/\">https://www.reddit.com/r/selfhosted/comments/18evofr/a_word_of_caution_about_tailscale/</a>) that raised this point and led to a really good discussion, and I decided it wasn't a good fit for me.</p>\n<p>I understand that Tailscale is easy to use, trusting them with everything just doesn't feel right to me. They are a business (with VCs to answer to), not a charity. Sometimes incentives like this are okay, but as an example, I don't want to think about Google having access to my email, so I don't use Gmail anymore. I know enough to understand that they can't simply read my network traffic, but they control the keys to every host, and even more importantly they will have a lot of metadata about me, and where I connect from.  </p>\n<p>And that brings me to the reason I finally decided to post something about this.. I happened across this job listing, and it is exactly the kind of thing that makes me uneasy about ever trusting a seemingly well-intentioned company: <a href=\"https://echojobs.io/job/tailscale-data-software-engineer-3rqib\">https://echojobs.io/job/tailscale-data-software-engineer-3rqib</a> This all but confirms they are data mining their users (or plan to), and I just want to make people aware of what they are signing up for here.  </p>\n<p>Am I overreacting? Maybe. But I really just don't like the idea of trading one big brother for another, and giving up yet another bit of privacy, which is already extremely difficult to maintain these days.</p>",
-            "date_published": "2024-01-08T14:17:25+00:00",
-            "authors": [
-                {
-                    "name": "hanguy2283",
-                    "url": "https://www.reddit.com/user/hanguy2283"
                 }
             ]
         }
