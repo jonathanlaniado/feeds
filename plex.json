@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1gpwqvk",
+            "url": "/r/PleX/comments/1gpwqvk/i_see_we_are_posting_our_plex_setups/",
+            "external_url": "https://i.redd.it/4wouaevmlj0e1.jpeg",
+            "title": "I see we are posting our Plex setups...",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1gpwqvk/i_see_we_are_posting_our_plex_setups/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1gpwqvk/i_see_we_are_posting_our_plex_setups/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/4wouaevmlj0e1.jpeg\" />",
+            "date_published": "2024-11-12T21:58:41+00:00",
+            "authors": [
+                {
+                    "name": "takmsdsm",
+                    "url": "https://www.reddit.com/user/takmsdsm"
+                }
+            ]
+        },
+        {
             "id": "1gp8fsw",
             "url": "/r/PleX/comments/1gp8fsw/rogers_doesnt_allow_plex_libraries_anymore/",
             "external_url": "https://i.redd.it/k8eqm6becd0e1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "PowerTowerPro",
                     "url": "https://www.reddit.com/user/PowerTowerPro"
-                }
-            ]
-        },
-        {
-            "id": "188mutf",
-            "url": "/r/PleX/comments/188mutf/plexs_legally_required_page_to_opt_out_of_data/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/188mutf/plexs_legally_required_page_to_opt_out_of_data/",
-            "title": "Plex's (legally required) page to opt out of data sharing with 3rd party vendor appears to not actually save your opt-out",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/PleX/comments/188mutf/plexs_legally_required_page_to_opt_out_of_data/'>Apollo</a> | <a href='https://reddit.com/r/PleX/comments/188mutf/plexs_legally_required_page_to_opt_out_of_data/'>Reddit</a></caption><div><br></div><p>Several US states require software platforms to allow users to opt out of third party data sharing. Plex spun up https://www.plex.tv/vendors-us/ to allow users select that they would like to be opted out. </p>\n<p>However, as discussed over in <a href=\"https://www.reddit.com/r/PleX/comments/188ee3v/plex_statement_on_discover_together_optin/kblirxi/?context=1\">this thread</a>, that page appears to be completely broken. When selecting the opt-out radio buttons and saving your preferences, the only network requests sent are for Fullstory (a user tracking service) and Facebook. https://imgur.com/a/KoJlXgv</p>\n<p>Now, unless Plex is somehow managing their data sharing preferences through Fullstory (which would be <em>very</em> strange) and also has decided to for some reason not show you the opt-out state that's saved on their end, then they're not actually allowing their users to opt out of data sharing with a 3rd party vendor. </p>\n<p>If this assessment is wrong, it would be <strong>really helpful</strong> if someone from Plex could clarify.</p>\n<p>EDIT: See comments below, this may be broken only on some browsers?</p>",
-            "date_published": "2023-12-01T21:24:11+00:00",
-            "authors": [
-                {
-                    "name": "Realtrain",
-                    "url": "https://www.reddit.com/user/Realtrain"
                 }
             ]
         }
