@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1gpix2j",
+            "url": "/r/shortcuts/comments/1gpix2j/repost_for_update_on_shortcutgpt/",
+            "external_url": "https://www.reddit.com/r/shortcuts/comments/1gpix2j/repost_for_update_on_shortcutgpt/",
+            "title": "Repost for Update on ShortcutGPT",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1gpix2j/repost_for_update_on_shortcutgpt/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1gpix2j/repost_for_update_on_shortcutgpt/'>Reddit</a></caption><div><br></div><p>Reddit decided to remove my post because it didn\u2019t like the flair saying it wasn\u2019t relevant (even though people were liking and commenting) \ud83d\ude1c here it is again:</p>\n<p>Today I made some significant headway on collecting the data needed to train the GPT! A few more days and I should have a decent working GPT at that point I might ask if anyone would be willing to share more training data from the shortcuts you've built (excluding sensitive data).\nI would send over a shortcut that would collect the data from the shortcuts you'd like to share then you can send it through email! When the time comes who would be willing to share? Thank you in advance!</p>",
+            "date_published": "2024-11-12T11:49:12+00:00",
+            "authors": [
+                {
+                    "name": "Jgracier",
+                    "url": "https://www.reddit.com/user/Jgracier"
+                }
+            ]
+        },
+        {
             "id": "1gopwn6",
             "url": "/r/shortcuts/comments/1gopwn6/trying_to_create_a_shortcut_to_generate_dark_mode/",
             "external_url": "https://www.reddit.com/gallery/1gopwn6",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "SpareNeedleworker152",
                     "url": "https://www.reddit.com/user/SpareNeedleworker152"
-                }
-            ]
-        },
-        {
-            "id": "18ksh9w",
-            "url": "/r/shortcuts/comments/18ksh9w/action_button_shortcuts/",
-            "external_url": "https://i.redd.it/ywo5n8gngx6c1.jpeg",
-            "title": "Action button shortcuts",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/18ksh9w/action_button_shortcuts/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/18ksh9w/action_button_shortcuts/'>Reddit</a></caption><div><br></div><p>Currently trying to program more shortcuts into my shortcuts folder mapped to my action button. Anyone have any suggestions on any cool shortcuts I could map to it? </p>\n<p>In the picture above I\u2019ve got all the shortcuts I currently have</p>\n<p>Toggle vibrate\nTurn my phone from 5G to LTE\nopen the camera app\nSet my morning alarms\nAnd call my girlfriend</p><div><br></div><img src=\"https://i.redd.it/ywo5n8gngx6c1.jpeg\" />",
-            "date_published": "2023-12-17T22:00:47+00:00",
-            "authors": [
-                {
-                    "name": "MrPinney",
-                    "url": "https://www.reddit.com/user/MrPinney"
                 }
             ]
         }
