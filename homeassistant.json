@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1gqblih",
+            "url": "/r/homeassistant/comments/1gqblih/smart_drying_just_got_smarter/",
+            "external_url": "https://www.reddit.com/r/homeassistant/comments/1gqblih/smart_drying_just_got_smarter/",
+            "title": "Smart drying just got smarter! ",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1gqblih/smart_drying_just_got_smarter/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1gqblih/smart_drying_just_got_smarter/'>Reddit</a></caption><div><br></div><p>\ud83c\udf26\ufe0f Smart drying just got smarter! \ud83e\uddfa Check out my Home Assistant Laundry Monitor setup:</p>\n<p>\ud83d\udd0d First, a Bayesian probability calculation checks the likelihood of washing on the line (based on the washing machine status).<br />\n\ud83d\udcf8 If detected, AI identifies the laundry (Towel spotted!) and calculates estimated drying time using real-time weather conditions.<br />\n\ud83d\udcc9 Graphs track drying progress, and I can adjust with a single tap.<br />\n\u2601\ufe0f Today's challenge? High humidity and slow drying!</p>\n<p>https://preview.redd.it/jz8ng8rmvn0e1.png?width=1025&amp;format=png&amp;auto=webp&amp;s=c38e920b10cd546f1d740d0da5a2b1b5f96d08f3</p>",
+            "date_published": "2024-11-13T12:19:29+00:00",
+            "authors": [
+                {
+                    "name": "ByzantiumIT",
+                    "url": "https://www.reddit.com/user/ByzantiumIT"
+                }
+            ]
+        },
+        {
             "id": "1gpsh0j",
             "url": "/r/homeassistant/comments/1gpsh0j/saving_money_on_my_gas_bills_by_building_a_fully/",
             "external_url": "https://nycto.io/ha-smart-heating-part-1/",
