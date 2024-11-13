@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1gqpo70",
+            "url": "/r/selfhosted/comments/1gqpo70/tteck_has_passed_away/",
+            "external_url": "https://github.com/community-scripts/ProxmoxVE/discussions/237",
+            "title": "TTeck has passed away",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1gqpo70/tteck_has_passed_away/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1gqpo70/tteck_has_passed_away/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-11-13T22:36:29+00:00",
+            "authors": [
+                {
+                    "name": "-eschguy-",
+                    "url": "https://www.reddit.com/user/-eschguy-"
+                }
+            ]
+        },
+        {
             "id": "1gqc9b4",
             "url": "/r/selfhosted/comments/1gqc9b4/sick_of_overpaying_for_aws/",
             "external_url": "https://i.redd.it/hifni8ea2o0e1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "sk1nT7",
                     "url": "https://www.reddit.com/user/sk1nT7"
-                }
-            ]
-        },
-        {
-            "id": "195nnn5",
-            "url": "/r/selfhosted/comments/195nnn5/my_homelab_sits_on_top_of_my_fridge/",
-            "external_url": "https://www.reddit.com/gallery/195nnn5",
-            "title": "My homelab sits on top of my fridge",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/195nnn5/my_homelab_sits_on_top_of_my_fridge/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/195nnn5/my_homelab_sits_on_top_of_my_fridge/'>Reddit</a></caption><div><br></div><p>A few users were interested in my setup, so here are the pics after a I cable managed (almost everything). I'm using 2 mini PCs set up in a proxmox cluster (planning to add at least 2 more). Still waiting for my 8 port switch from ebay to come, but for now the router will do. The servers and router (as well as the WISP antenna) are all connected to a UPS too, which is pretty neat</p>\n<p>Feel free to ask questions! Power draw pics (low usage rn, 80-90 watts) attached :)</p>",
-            "date_published": "2024-01-13T13:09:11+00:00",
-            "authors": [
-                {
-                    "name": "nocturn99x",
-                    "url": "https://www.reddit.com/user/nocturn99x"
                 }
             ]
         }
