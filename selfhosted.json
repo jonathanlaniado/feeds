@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1gq8sg4",
+            "url": "/r/selfhosted/comments/1gq8sg4/genesis_of_cybersecurity/",
+            "external_url": "https://i.redd.it/h4clu5h3wm0e1.png",
+            "title": "Genesis of cybersecurity",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1gq8sg4/genesis_of_cybersecurity/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1gq8sg4/genesis_of_cybersecurity/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/h4clu5h3wm0e1.png\" />",
+            "date_published": "2024-11-13T09:03:16+00:00",
+            "authors": [
+                {
+                    "name": "reddit_lanre",
+                    "url": "https://www.reddit.com/user/reddit_lanre"
+                }
+            ]
+        },
+        {
             "id": "1gpwuir",
             "url": "/r/selfhosted/comments/1gpwuir/a_threat_actor_attempted_to_slipstream_a_malware/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1gpwuir/a_threat_actor_attempted_to_slipstream_a_malware/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "habskilla",
                     "url": "https://www.reddit.com/user/habskilla"
-                }
-            ]
-        },
-        {
-            "id": "193b76o",
-            "url": "/r/selfhosted/comments/193b76o/first_idiot_award_of_the_year_goes_to_me/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/193b76o/first_idiot_award_of_the_year_goes_to_me/",
-            "title": "First idiot award of the year goes to... me",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/193b76o/first_idiot_award_of_the_year_goes_to_me/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/193b76o/first_idiot_award_of_the_year_goes_to_me/'>Reddit</a></caption><div><br></div><p>10 days into 2024 and I just ran a <code>sudo rm -rf test /*</code> instead of <code>sudo rm -rf test/*</code>.</p>\n<p>RIP my server, I will have to travel back home to reinstall Debian \ud83e\udd72</p>",
-            "date_published": "2024-01-10T15:42:46+00:00",
-            "authors": [
-                {
-                    "name": "phlooo",
-                    "url": "https://www.reddit.com/user/phlooo"
                 }
             ]
         }
