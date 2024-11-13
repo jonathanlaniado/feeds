@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1gqc9b4",
+            "url": "/r/selfhosted/comments/1gqc9b4/sick_of_overpaying_for_aws/",
+            "external_url": "https://i.redd.it/hifni8ea2o0e1.jpeg",
+            "title": "Sick of overpaying for AWS",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1gqc9b4/sick_of_overpaying_for_aws/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1gqc9b4/sick_of_overpaying_for_aws/'>Reddit</a></caption><div><br></div><p>I have a few domains with low traffic, and I have it all in one instance of the cheapest, smallest AWS instances, but with storage, traffic and load balancer I end up paying a lot of money every month.</p>\n<p>So as I move to upgrade my main PC, I'll take my previous PC and turn it into my self hosted environment. I already have static IP with a solid ISP, and I'm buying a new PC anyways, so why not.</p>\n<p>I have some very specific needs, so this is what I'm doing:</p>\n<p>The PC on the left is my physics simulation machine. Not part of the setup. </p>\n<p>The one in the middle is my old PC. It now has Windows 11, running source control and CI. It also has VirtualBox with two (for now VMs).</p>\n<p>The first VM is an OpenBSD load balancer, which is the one that is connected to the outside world. Relayd does the reverse proxying with SNI, and the SSL certificates are provided by letsencrypt.</p>\n<p>The second VM is an Ubuntu Server machine, with a full LAMP attack for the various websites I have.</p>\n<p>The box on the right is a NAS, keeping backups of my source code, backups of the VM, and the daily builds of my game. </p>\n<p>Moving forward I'll only be using AWS for domain registration and DNS, but I may even move that somewhere else. </p>\n<p>What do you think of my setup?</p><div><br></div><img src=\"https://i.redd.it/hifni8ea2o0e1.jpeg\" />",
+            "date_published": "2024-11-13T12:57:07+00:00",
+            "authors": [
+                {
+                    "name": "pandapajama",
+                    "url": "https://www.reddit.com/user/pandapajama"
+                }
+            ]
+        },
+        {
             "id": "1gq8sg4",
             "url": "/r/selfhosted/comments/1gq8sg4/genesis_of_cybersecurity/",
             "external_url": "https://i.redd.it/h4clu5h3wm0e1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "nocturn99x",
                     "url": "https://www.reddit.com/user/nocturn99x"
-                }
-            ]
-        },
-        {
-            "id": "1950l08",
-            "url": "/r/selfhosted/comments/1950l08/whats_that_one_selfhosted_app_that_has_made_it/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1950l08/whats_that_one_selfhosted_app_that_has_made_it/",
-            "title": "What's that one selfhosted app that has made it all worth while?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1950l08/whats_that_one_selfhosted_app_that_has_made_it/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1950l08/whats_that_one_selfhosted_app_that_has_made_it/'>Reddit</a></caption><div><br></div><p>For me, it is 100% the UNIFI network controller. It used to run on my Windows 11 machine. It needed an old version of java. It was hell to upgrade. I had to create custom startup scripts. It was very painful. The pain went all away when I was finally able to replace it with the docker version running on my Ubuntu docker server.</p>\n<p>&#x200B;</p>\n<p>An honourable mention is docker. Docker on an Ubuntu machine has made a huge difference. I can't believe I resisted docker for so long.  Docker has reinvigorated my selfhosting journey.</p>",
-            "date_published": "2024-01-12T17:28:39+00:00",
-            "authors": [
-                {
-                    "name": "habskilla",
-                    "url": "https://www.reddit.com/user/habskilla"
                 }
             ]
         }
