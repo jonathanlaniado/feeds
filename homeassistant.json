@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1graane",
+            "url": "/r/homeassistant/comments/1graane/i_have_an_internetoftrash_list_for_things_that/",
+            "external_url": "https://www.reddit.com/r/homeassistant/comments/1graane/i_have_an_internetoftrash_list_for_things_that/",
+            "title": "I have an Internet-of-Trash list for things that don't work or work poorly with Home Assistant",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1graane/i_have_an_internetoftrash_list_for_things_that/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1graane/i_have_an_internetoftrash_list_for_things_that/'>Reddit</a></caption><div><br></div><p>I get why Home Assistant doesn't maintain this sort of thing - they're trying to get manufacturers to cooperate with them, and publicly shaming them isn't helpful for that.</p>\n<p>I don't want to waste time and money on things known to not work though, so I created the <a href=\"https://github.com/unixorn/internet-of-trash\">Internet of Trash</a> list a while back to make it easier to find out if something isn't going to work with HA <em>before</em> buying it.</p>\n<p>If you want to get something added to the list, please include why.</p>\n<p>Possible issues include but are definitely not limited to:</p>\n<ul>\n<li>A product that previously had API access has been locked down to require you to use the vendor's crapware</li>\n<li>A product that previously had a free API to control your devices is switching to paid subscription</li>\n<li>A product that used to work in a local-only mode is being \"upgraded\" to require a cloud service or cloud account to function</li>\n<li>An API that was usable to provide integrations to projects like Home Assistant and Hubitat has been disabled or removed</li>\n<li>Safety issues</li>\n<li>Security issues.</li>\n<li>Vendor has been actively hostile to developers using their API. Mazda sending a cease and desist letter to the Mazda integration author, for example.</li>\n</ul>\n<p>Edit: The best way to get something added is to make an Issue or PR on the github repository.</p>",
+            "date_published": "2024-11-14T17:35:22+00:00",
+            "authors": [
+                {
+                    "name": "jpb",
+                    "url": "https://www.reddit.com/user/jpb"
+                }
+            ]
+        },
+        {
             "id": "1gr6mv8",
             "url": "/r/homeassistant/comments/1gr6mv8/rip_tteckster/",
             "external_url": "https://www.reddit.com/r/homeassistant/comments/1gr6mv8/rip_tteckster/",
