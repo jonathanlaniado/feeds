@@ -8,6 +8,20 @@
     "favicon": "",
     "items": [
         {
+            "id": "1grarh8",
+            "url": "/r/Softwarr/comments/1grarh8/grabing_invalid_virus_file_types_use_declutarr/",
+            "external_url": "https://www.reddit.com/r/Softwarr/comments/1grarh8/grabing_invalid_virus_file_types_use_declutarr/",
+            "title": "Grabing invalid (virus) file types? Use Declutarr",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/Softwarr/comments/1grarh8/grabing_invalid_virus_file_types_use_declutarr/'>Winston</a> | <a href='https://reddit.com/r/Softwarr/comments/1grarh8/grabing_invalid_virus_file_types_use_declutarr/'>Reddit</a></caption><div><br></div><p>I've seen an uptick in posts about people having their *arr downloading invalid files (.lnk, .zipx, etc...)</p>\n<p>You can always exclude these extensions in your downloader, but that also affects legit non-video content, and your grab will stay stuck in your *arr activities.</p>\n<p>I found a better solution.</p>\n<p>https://github.com/ManiMatter/decluttarr</p>\n<p>https://hub.docker.com/r/bwnance/decluttarr</p>\n<p>Works AMAZINGLY given proper settings.</p>\n<p>It even does a bit more. Give it a try !</p>",
+            "date_published": "2024-11-14T17:54:32+00:00",
+            "authors": [
+                {
+                    "name": "Altheran",
+                    "url": "https://www.reddit.com/user/Altheran"
+                }
+            ]
+        },
+        {
             "id": "1ggmgfn",
             "url": "/r/Softwarr/comments/1ggmgfn/i_present_managarr_a_tui_and_cli_to_manage_your/",
             "external_url": "https://www.reddit.com/r/Softwarr/comments/1ggmgfn/i_present_managarr_a_tui_and_cli_to_manage_your/",
