@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1grx7kz",
+            "url": "/r/homeassistant/comments/1grx7kz/why_is_everyone_german/",
+            "external_url": "https://www.reddit.com/r/homeassistant/comments/1grx7kz/why_is_everyone_german/",
+            "title": "Why is everyone german?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1grx7kz/why_is_everyone_german/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1grx7kz/why_is_everyone_german/'>Reddit</a></caption><div><br></div><p>Why do germans love HA so much? Not to be mad at anyone, but every single post I've seen is from some german guy, especially posts with trash automations.</p>\n<p>Edit: Just found this <a href=\"https://analytics.home-assistant.io\">HA Statistics</a>. If you scroll all the way down under the 'installations' tab, you find a map... ~64k users in Germany, ~67k users in USA. I think I found my answer</p>",
+            "date_published": "2024-11-15T14:11:17+00:00",
+            "authors": [
+                {
+                    "name": "NoSteak5456",
+                    "url": "https://www.reddit.com/user/NoSteak5456"
+                }
+            ]
+        },
+        {
             "id": "1graane",
             "url": "/r/homeassistant/comments/1graane/i_have_an_internetoftrash_list_for_things_that/",
             "external_url": "https://www.reddit.com/r/homeassistant/comments/1graane/i_have_an_internetoftrash_list_for_things_that/",
