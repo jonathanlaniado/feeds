@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1gro4ad",
+            "url": "/r/shortcuts/comments/1gro4ad/simple_yet_functional_jamselector/",
+            "external_url": "https://www.reddit.com/gallery/1gro4ad",
+            "title": "Simple, yet functional. \u2018Jam-selector\u2019",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1gro4ad/simple_yet_functional_jamselector/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1gro4ad/simple_yet_functional_jamselector/'>Reddit</a></caption><div><br></div><p>Feeling Apple Music? Endel? Or Spotify? Use the app icon when adding to your home screen if you\u2019d like. Credit to chat-gpt 4 for the icon. </p>\n<p>https://www.icloud.com/shortcuts/b07daf2a820841c0b47bb244d5b348a0</p>",
+            "date_published": "2024-11-15T04:19:33+00:00",
+            "authors": [
+                {
+                    "name": "dadtraits",
+                    "url": "https://www.reddit.com/user/dadtraits"
+                }
+            ]
+        },
+        {
             "id": "1gpqo0s",
             "url": "/r/shortcuts/comments/1gpqo0s/wow_it_works_shortcutgpt_is_ready_to_be_tested/",
             "external_url": "https://www.reddit.com/r/shortcuts/comments/1gpqo0s/wow_it_works_shortcutgpt_is_ready_to_be_tested/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "cptsilvertooth",
                     "url": "https://www.reddit.com/user/cptsilvertooth"
-                }
-            ]
-        },
-        {
-            "id": "18ns24u",
-            "url": "/r/shortcuts/comments/18ns24u/actions_3_is_out/",
-            "external_url": "https://www.reddit.com/r/shortcuts/comments/18ns24u/actions_3_is_out/",
-            "title": "Actions 3 is out",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/18ns24u/actions_3_is_out/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/18ns24u/actions_3_is_out/'>Reddit</a></caption><div><br></div><p>https://github.com/sindresorhus/Actions</p>\n<p>The app now requires macOS 14 and iOS 17.</p>\n<hr />\n<p><strong>Restart your device after updating.</strong></p>\n<hr />\n<p><strong>New actions</strong>\n- Get Bluetooth Devices\n- Get Bluetooth Device\n- Authenticate (New)\n  - In contrast to the old authenticate action, this one returns the result directly instead of copying it to the clipboard.\n- Get Device Motion Data (iOS-only)\n- Is Device Moving (iOS-only)\n- Is Call Active (iOS-only)\n- Get Compass Heading (iOS-only)</p>\n<p>The most useful new action is probably \u201cGet Bluetooth Device\u201d. With it, you can detect where you are based on what Bluetooth devices are close by. For example, have the iPhone 15 Pro action button behave differently at home and outside.</p>",
-            "date_published": "2023-12-21T17:18:52+00:00",
-            "authors": [
-                {
-                    "name": "sindresorhus",
-                    "url": "https://www.reddit.com/user/sindresorhus"
                 }
             ]
         }
