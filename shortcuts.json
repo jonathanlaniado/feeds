@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1gtk8sb",
+            "url": "/r/shortcuts/comments/1gtk8sb/mileage_tracker/",
+            "external_url": "https://i.redd.it/vgxu4otaai1e1.jpeg",
+            "title": "Mileage Tracker",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1gtk8sb/mileage_tracker/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1gtk8sb/mileage_tracker/'>Reddit</a></caption><div><br></div><p>Hello, folks! I hope you're all doing well. I wanted to share one of my recent projects with you. I\u2019ve developed a set of shortcuts to help me efficiently track and manage my car\u2019s mileage. </p>\n<p>The mileage tracking is automated using Drivey, which starts recording as soon as my phone connects to CarPlay. This data is then processed and stored in a Data Jar list, where it is compared against a predefined oil change limit. This setup allows me to monitor when I\u2019m approaching the oil change threshold and receive notifications if I exceed it. When an oil change is performed, the shortcuts provide an option to reset the cycle and start fresh.</p>\n<p>Additionally, each month\u2019s mileage data is stored separately in a dedicated folder on my phone for easy reference and control.</p>\n<p>The Mileage Shortcut system is divided into three parts, which I\u2019ll outline below:</p>\n<p>1- Daily Mileage Update: https://www.icloud.com/shortcuts/f61240978b304ff7886a9edd2afaf11a</p>\n<p>2-Mileage Database: https://www.icloud.com/shortcuts/cee4c112ac0e4840a3677bfd2a8a7359</p>\n<p>3-Maintenance Report: https://www.icloud.com/shortcuts/c923c211f269435aae4052503d17432c</p>\n<p>Let me know what you think and if there is anything I can help with setting it up let me know.</p>\n<p>Best regards</p>\n<p>Created by Agenor Maradiaga<br />\nLinkedIn: http://linkedin.com/in/agenor-maradiaga-6410471a6  <br />\nEmail: amaradiagad26@gmail.com<br />\n\u00a9 2024 All rights reserved.</p><div><br></div><img src=\"https://i.redd.it/vgxu4otaai1e1.jpeg\" />",
+            "date_published": "2024-11-17T18:35:27+00:00",
+            "authors": [
+                {
+                    "name": "Known-Pay4058",
+                    "url": "https://www.reddit.com/user/Known-Pay4058"
+                }
+            ]
+        },
+        {
             "id": "1gtjvii",
             "url": "/r/shortcuts/comments/1gtjvii/i_want_to_make_a_shortcut_that_shows_me_a_menu_of/",
             "external_url": "https://i.redd.it/48u5bs0f7i1e1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Michael_TechYT",
                     "url": "https://www.reddit.com/user/Michael_TechYT"
-                }
-            ]
-        },
-        {
-            "id": "18y25l6",
-            "url": "/r/shortcuts/comments/18y25l6/shortcut_for_locking_screen_after_opening_app/",
-            "external_url": "https://i.redd.it/4phgmh077cac1.jpeg",
-            "title": "Shortcut for locking screen after opening app",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/18y25l6/shortcut_for_locking_screen_after_opening_app/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/18y25l6/shortcut_for_locking_screen_after_opening_app/'>Reddit</a></caption><div><br></div><p>Hey, so there was this person who mentioned that there is a way of shortcuts relocking the screen when opening the settings app. I tried to google it and searched in Reddit but every post mentioned it is not possible for shortcuts to lock the phone.</p>\n<p>I am confused about it. Can anyone clarify or provide a link to the mentioned shortcut?</p>\n<p>Thanks in advance :-)</p><div><br></div><img src=\"https://i.redd.it/4phgmh077cac1.jpeg\" />",
-            "date_published": "2024-01-04T02:46:55+00:00",
-            "authors": [
-                {
-                    "name": "questl0ve",
-                    "url": "https://www.reddit.com/user/questl0ve"
                 }
             ]
         }
