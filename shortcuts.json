@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1gtjvii",
+            "url": "/r/shortcuts/comments/1gtjvii/i_want_to_make_a_shortcut_that_shows_me_a_menu_of/",
+            "external_url": "https://i.redd.it/48u5bs0f7i1e1.jpeg",
+            "title": "I want to make a shortcut that shows me a menu of notes to select from an open, BUT all the notes from the menu should be from a specific folder. Is there a way?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1gtjvii/i_want_to_make_a_shortcut_that_shows_me_a_menu_of/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1gtjvii/i_want_to_make_a_shortcut_that_shows_me_a_menu_of/'>Reddit</a></caption><div><br></div><p>Title. </p>\n<p>I know how to make it open a specific note, or show me a menu of notes to choose from to open\u2026. However, I want the menu to be showing only notes from a specified folder.</p><div><br></div><img src=\"https://i.redd.it/48u5bs0f7i1e1.jpeg\" />",
+            "date_published": "2024-11-17T18:19:18+00:00",
+            "authors": [
+                {
+                    "name": "questionablesugar",
+                    "url": "https://www.reddit.com/user/questionablesugar"
+                }
+            ]
+        },
+        {
             "id": "1gt3q7t",
             "url": "/r/shortcuts/comments/1gt3q7t/run_app_on_nord_vpn_only_add_shortcut_to_home/",
             "external_url": "https://i.redd.it/t32jcvcnjd1e1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "questl0ve",
                     "url": "https://www.reddit.com/user/questl0ve"
-                }
-            ]
-        },
-        {
-            "id": "18wme0e",
-            "url": "/r/shortcuts/comments/18wme0e/is_it_possible_to_do_this/",
-            "external_url": "https://i.redd.it/0azqigf180ac1.jpeg",
-            "title": "Is it possible to do this?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/18wme0e/is_it_possible_to_do_this/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/18wme0e/is_it_possible_to_do_this/'>Reddit</a></caption><div><br></div><p>Hi I was wondering it it was possible to make this shortcut automatically choose the turn off option when launched.</p><div><br></div><img src=\"https://i.redd.it/0azqigf180ac1.jpeg\" />",
-            "date_published": "2024-01-02T10:30:16+00:00",
-            "authors": [
-                {
-                    "name": "Hyrule_Drunk",
-                    "url": "https://www.reddit.com/user/Hyrule_Drunk"
                 }
             ]
         }
