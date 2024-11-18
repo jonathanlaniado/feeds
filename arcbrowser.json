@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1gu13wa",
+            "url": "/r/ArcBrowser/comments/1gu13wa/connection_refuse_when_trying_to_open_sponsored/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1gu13wa/connection_refuse_when_trying_to_open_sponsored/",
+            "title": "'Connection Refuse' when trying to open Sponsored Google links, but no way to hide them either",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1gu13wa/connection_refuse_when_trying_to_open_sponsored/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1gu13wa/connection_refuse_when_trying_to_open_sponsored/'>Reddit</a></caption><div><br></div><p>When I Google something, the top result is often the page I want - but if it's marked as a Sponsored link, Arc is instead displaying a 'Connection Refused</p>\n<p>There is currently no way to install extensions to hide these links</p>\n<p>Is there any other way around the other than manually scrolling down to the first non-sponsorerd links?</p>",
+            "date_published": "2024-11-18T09:37:27+00:00",
+            "authors": [
+                {
+                    "name": "Scoobs525",
+                    "url": "https://www.reddit.com/user/Scoobs525"
+                }
+            ]
+        },
+        {
             "id": "1gogycl",
             "url": "/r/ArcBrowser/comments/1gogycl/what_would_you_be_willing_to_pay_monthly_to/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1gogycl/what_would_you_be_willing_to_pay_monthly_to/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "JaceThings",
                     "url": "https://www.reddit.com/user/JaceThings"
-                }
-            ]
-        },
-        {
-            "id": "18blhl8",
-            "url": "/r/ArcBrowser/comments/18blhl8/arc_for_apple_vision_pro_concept/",
-            "external_url": "https://www.reddit.com/gallery/18blhl8",
-            "title": "Arc for Apple Vision Pro concept",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/18blhl8/arc_for_apple_vision_pro_concept/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/18blhl8/arc_for_apple_vision_pro_concept/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-12-05T20:29:38+00:00",
-            "authors": [
-                {
-                    "name": "Jochev_v",
-                    "url": "https://www.reddit.com/user/Jochev_v"
                 }
             ]
         }
