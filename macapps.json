@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1gvm542",
+            "url": "/r/macapps/comments/1gvm542/two_free_apps_for_mac_os_installation_ease/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1gvm542/two_free_apps_for_mac_os_installation_ease/",
+            "title": "Two Free Apps for Mac OS Installation Ease",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1gvm542/two_free_apps_for_mac_os_installation_ease/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1gvm542/two_free_apps_for_mac_os_installation_ease/'>Reddit</a></caption><div><br></div><p><a href=\"https://preview.redd.it/1poozcre512e1.png?width=1099&amp;format=png&amp;auto=webp&amp;s=5c9b79722a27b7e2c1d7c4aa64c1269692314145\">Mist Menu</a></p>\n<p>On most modern Macs, the later Intel builds and all Apple Silicon models, you can boot into recovery mode, access disk utility and download and install a new operating system. Unless you can't. Then you have a problem. Or, maybe you are experimenting with <a href=\"https://apps.louplummer.lol/post/open-core-legacy-patcher\">Open Core Legacy Patcher</a> to install a later version of macOS on a device that doesn't officially support it. In that case, you are going to need a copy of an OS, preferably bootable, and some sort of media to copy that OS installation onto. You can do the installation through other methods, like target disk mode or various imaging applications too, but they take some know how. The other thing you can use these files for is when experimenting with virtual machines in something like Virtual Box, UTM or VMWare Fusion.</p>\n<p><strong>Mist</strong></p>\n<p>To get a copy of the firmware and OS you need, I know of no easier method than using <a href=\"https://github.com/ninxsoft/Mist?tab=readme-ov-file\">Mist</a>, a free app available on GitHub. With Mist, you can get everything from the latest beta, all the way back to Mac OS X 7.5. You can get Intel or Apple Silicon installers, or the universal installers available for macOS Big Sur and later.</p>\n<p><strong>Balena Etcher</strong></p>\n<p>If you are planning to use an SD card or a USB drive, things work better when you flash the media than when you try to fiddle with partitions and permissions on your own from the command line. Luckily, there is an app for that. It is <a href=\"https://etcher.balena.io/\">Balena Etcher</a>, a free app with built-in safeguards to keep you from erasing the wrong drive. Balena Etcher will also create bootable media for Windows and various Linux builds too.</p>",
+            "date_published": "2024-11-20T10:02:36+00:00",
+            "authors": [
+                {
+                    "name": "amerpie",
+                    "url": "https://www.reddit.com/user/amerpie"
+                }
+            ]
+        },
+        {
             "id": "1gkrg9s",
             "url": "/r/macapps/comments/1gkrg9s/an_app_to_make_an_chmcompiled_html_help_file_on/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1gkrg9s/an_app_to_make_an_chmcompiled_html_help_file_on/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "DryGanache7405",
                     "url": "https://www.reddit.com/user/DryGanache7405"
-                }
-            ]
-        },
-        {
-            "id": "1cr8zbf",
-            "url": "/r/macapps/comments/1cr8zbf/official_chatgpt_app_for_macos/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1cr8zbf/official_chatgpt_app_for_macos/",
-            "title": "Official ChatGPT App for MacOS",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1cr8zbf/official_chatgpt_app_for_macos/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1cr8zbf/official_chatgpt_app_for_macos/'>Reddit</a></caption><div><br></div><p>OpenAI just had an event, where they announced many cool things. Among them is a new official <a href=\"https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/\">ChatGPT Mac App</a>. It will start rolling out today to Plus users, and will be more broadly available in the coming weeks. What are your thoughts on this? I'm personally just wondering if this will be used to power the new Siri.</p>\n<p><a href=\"https://reddit.com/link/1cr8zbf/video/d7q4e5ds290d1/player\">Demo</a></p>",
-            "date_published": "2024-05-13T20:06:05+00:00",
-            "authors": [
-                {
-                    "name": "Yusuf-Dev",
-                    "url": "https://www.reddit.com/user/Yusuf-Dev"
                 }
             ]
         }
