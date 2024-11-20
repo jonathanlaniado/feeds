@@ -8,6 +8,20 @@
     "favicon": "",
     "items": [
         {
+            "id": "1gv96rk",
+            "url": "/r/Softwarr/comments/1gv96rk/introducing_newznabarr_a_plugin_framework_for_the/",
+            "external_url": "https://www.reddit.com/r/Softwarr/comments/1gv96rk/introducing_newznabarr_a_plugin_framework_for_the/",
+            "title": "Introducing Newznabarr: A Plugin Framework for the arr Apps \ud83d\ude80",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/Softwarr/comments/1gv96rk/introducing_newznabarr_a_plugin_framework_for_the/'>Winston</a> | <a href='https://reddit.com/r/Softwarr/comments/1gv96rk/introducing_newznabarr_a_plugin_framework_for_the/'>Reddit</a></caption><div><br></div><p>After using the *arr apps for years, I realized that while Usenet and torrents are great, they aren't always the best or only sources for content. Unfortunately, the *arr apps currently only support these two options. That\u2019s why I created <strong>Newznabarr</strong> \u2014 a Usenet plugin framework for the *arr ecosystem designed to fill that gap.</p>\n<p><strong>What is Newznabarr?</strong></p>\n<p>Newznabarr presents itself as a <strong>Newznab indexer</strong> and <strong>SABnzbd client</strong>, making it compatible with the *arr apps you\u2019re already using. However, the magic lies under the hood: <strong>all searches are handled by plugins</strong>, allowing for maximum flexibility and expandability. This means you can use Newznabarr to tap into other content sources beyond traditional Usenet and torrents.</p>\n<p><strong>Current Features:</strong></p>\n<ul>\n<li>Plugin-based search functionality for easy expandability.</li>\n<li>A <strong>Readarr plugin</strong> to integrate with a popular book site, providing better book search options than traditional methods.</li>\n<li>Designed to fit seamlessly into your existing *arr workflow.</li>\n</ul>\n<p><strong>Roadmap:</strong></p>\n<ul>\n<li><strong>YouTube Music for Lidarr</strong> (coming soon!) \ud83c\udfb6</li>\n<li><strong>RSS feed integration</strong> for the book site in Readarr (on the way!)</li>\n<li><strong>Music Streaming Sites Integration</strong> \ud83c\udfa7</li>\n<li><strong>Video Streaming Sites Integration</strong> \ud83d\udcfa</li>\n</ul>\n<p><strong>Contribute and Extend:</strong></p>\n<ul>\n<li><strong>Make Your Own Plugins:</strong> One of the core ideas behind Newznabarr is expandability. You can create and add your own plugins to enhance functionality or integrate with other content sources. If you have an idea for a plugin, feel free to fork the repo and start building!</li>\n<li><strong>Name Suggestion:</strong> If you think there\u2019s a better name for this project, feel free to suggest one! We\u2019re open to ideas.</li>\n<li><strong>Icon Design:</strong> If you're a designer or just have a creative idea, help us out with a unique icon for Newznabarr!</li>\n</ul>\n<p><strong>How to Get Started:</strong></p>\n<ul>\n<li><strong>Docker Hub:</strong> <a href=\"https://hub.docker.com/repository/docker/riffsphereha/newznabarr/general\">riffsphereha/newznabarr</a></li>\n<li><strong>GitHub:</strong> <a href=\"https://github.com/riffsphereha/newznabarr\">riffsphereha/newznabarr</a></li>\n</ul>\n<p>\u26a0\ufe0f <strong>Note:</strong> Newznabarr is in a very early alpha stage, so expect some bugs and rough edges. Feedback, suggestions, and contributions are welcome!</p>\n<p>Let me know what you think, and if you have any ideas for additional plugins, a new name, or an icon, I\u2019d love to hear them! \ud83c\udf1f</p>",
+            "date_published": "2024-11-19T21:57:52+00:00",
+            "authors": [
+                {
+                    "name": "RiffSphere",
+                    "url": "https://www.reddit.com/user/RiffSphere"
+                }
+            ]
+        },
+        {
             "id": "1grarh8",
             "url": "/r/Softwarr/comments/1grarh8/grabing_invalid_virus_file_types_use_declutarr/",
             "external_url": "https://www.reddit.com/r/Softwarr/comments/1grarh8/grabing_invalid_virus_file_types_use_declutarr/",
