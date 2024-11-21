@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1gw0xc5",
+            "url": "/r/PleX/comments/1gw0xc5/what_lol/",
+            "external_url": "https://i.redd.it/dvrvd36eu42e1.png",
+            "title": "what lol",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1gw0xc5/what_lol/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1gw0xc5/what_lol/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/dvrvd36eu42e1.png\" />",
+            "date_published": "2024-11-20T22:27:52+00:00",
+            "authors": [
+                {
+                    "name": "hl3official",
+                    "url": "https://www.reddit.com/user/hl3official"
+                }
+            ]
+        },
+        {
             "id": "1gs70b8",
             "url": "/r/PleX/comments/1gs70b8/how_mad_do_you_think_my_users_will_be/",
             "external_url": "https://i.redd.it/tnmi9d6ot41e1.gif",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Mike_v_E",
                     "url": "https://www.reddit.com/user/Mike_v_E"
-                }
-            ]
-        },
-        {
-            "id": "18arx06",
-            "url": "/r/PleX/comments/18arx06/what_seems_to_be_overlooked_in_this_discover/",
-            "external_url": "https://i.redd.it/t4als28lwb4c1.png",
-            "title": "What seems to be overlooked in this Discover Together debacle is that Plex is tracking our content libraries/watch history when their own Privacy Policy explicitly states that they don't do this. What am I missing here?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/PleX/comments/18arx06/what_seems_to_be_overlooked_in_this_discover/'>Apollo</a> | <a href='https://reddit.com/r/PleX/comments/18arx06/what_seems_to_be_overlooked_in_this_discover/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/t4als28lwb4c1.png\" />",
-            "date_published": "2023-12-04T19:23:59+00:00",
-            "authors": [
-                {
-                    "name": "duerra",
-                    "url": "https://www.reddit.com/user/duerra"
                 }
             ]
         }
