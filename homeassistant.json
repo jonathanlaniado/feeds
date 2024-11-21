@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1gwm823",
+            "url": "/r/homeassistant/comments/1gwm823/me_after_discovering_zigbee/",
+            "external_url": "https://i.redd.it/htvknnsara2e1.jpeg",
+            "title": "Me after discovering Zigbee ~__~",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1gwm823/me_after_discovering_zigbee/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1gwm823/me_after_discovering_zigbee/'>Reddit</a></caption><div><br></div><p>Bought these after setting up my Z2M and before tariffs applied in Jan (US) whatsoever. All of this costs me $80, including a bunch of contact sensor, motion sensor, water leak sensors, some bulbs, mini button and 2 dedicated repeaters. I have been an Aqara fan for so long but the price for these Zigbee sensors are so cheap, the little motion sensor cube even works faster than my Aqara motion sensor.</p>\n<p>Setup: Slzb-06 with Z2M and MQTT in separate LXCs in Proxmox. Slzb bought from Ali as well for $20 (new account coupon), regular price is $30.</p>\n<p>Any other Zigbee devices I should buy?</p><div><br></div><img src=\"https://i.redd.it/htvknnsara2e1.jpeg\" />",
+            "date_published": "2024-11-21T18:20:37+00:00",
+            "authors": [
+                {
+                    "name": "LastBitofCoffee",
+                    "url": "https://www.reddit.com/user/LastBitofCoffee"
+                }
+            ]
+        },
+        {
             "id": "1gvryu9",
             "url": "/r/homeassistant/comments/1gvryu9/sad_news/",
             "external_url": "https://www.reddit.com/r/homeassistant/comments/1gvryu9/sad_news/",
