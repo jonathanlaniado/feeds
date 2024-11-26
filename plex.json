@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1h0ahnu",
+            "url": "/r/PleX/comments/1h0ahnu/wife_wants_to_learn/",
+            "external_url": "https://i.redd.it/g8j6fgstm83e1.jpeg",
+            "title": "Wife wants to learn",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1h0ahnu/wife_wants_to_learn/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1h0ahnu/wife_wants_to_learn/'>Reddit</a></caption><div><br></div><p>I'm so damn happy. After using Plex for many years my wife finally asked me to teach her how it all works.    She's concerned if I'm not around to troubleshoot (I travel a lot for work, sometimes out of state) she wouldn't be able to watch her shows and movies. I started with baby steps today, labeled all the devices so she knows which one does what.</p><div><br></div><img src=\"https://i.redd.it/g8j6fgstm83e1.jpeg\" />",
+            "date_published": "2024-11-26T12:16:07+00:00",
+            "authors": [
+                {
+                    "name": "webghosthunter",
+                    "url": "https://www.reddit.com/user/webghosthunter"
+                }
+            ]
+        },
+        {
             "id": "1gz0dp7",
             "url": "/r/PleX/comments/1gz0dp7/will_we_have_the_ability_to_upload_our_own_png/",
             "external_url": "https://i.redd.it/ig13al8vqw2e1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "OldSpeckledHen",
                     "url": "https://www.reddit.com/user/OldSpeckledHen"
-                }
-            ]
-        },
-        {
-            "id": "18ognc6",
-            "url": "/r/PleX/comments/18ognc6/i_made_a_top_10_overlay_for_pmm_so_i_can_pretend/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/18ognc6/i_made_a_top_10_overlay_for_pmm_so_i_can_pretend/",
-            "title": "I made a Top 10 overlay for PMM so I can pretend to be Netflix",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/18ognc6/i_made_a_top_10_overlay_for_pmm_so_i_can_pretend/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/18ognc6/i_made_a_top_10_overlay_for_pmm_so_i_can_pretend/'>Reddit</a></caption><div><br></div><p>EDIT: For those asking for my config files, I've put them on GitHub: <a href=\"https://github.com/ryanito/plex-meta-manager-config\">https://github.com/ryanito/plex-meta-manager-config</a></p>\n<p>https://preview.redd.it/cqkwdhyazu7c1.png?width=2599&amp;format=png&amp;auto=webp&amp;s=a5f15ff2bfbcd18f79750ae132436f8bab095bf5</p>",
-            "date_published": "2023-12-22T14:51:23+00:00",
-            "authors": [
-                {
-                    "name": "bluznu",
-                    "url": "https://www.reddit.com/user/bluznu"
                 }
             ]
         }
