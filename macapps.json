@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1h078qk",
+            "url": "/r/macapps/comments/1h078qk/i_wanted_to_build_this_app_to_post_cropped/",
+            "external_url": "https://v.redd.it/535bh5y0j73e1",
+            "title": "I wanted to build this app to post cropped landscape video on the reels/shorts.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1h078qk/i_wanted_to_build_this_app_to_post_cropped/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1h078qk/i_wanted_to_build_this_app_to_post_cropped/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-11-26T08:33:14+00:00",
+            "authors": [
+                {
+                    "name": "Relevant_Motor_2613",
+                    "url": "https://www.reddit.com/user/Relevant_Motor_2613"
+                }
+            ]
+        },
+        {
             "id": "1gy0mvo",
             "url": "/r/macapps/comments/1gy0mvo/i_see_a_lot_of_top_free_apps_posts_what_are_your/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1gy0mvo/i_see_a_lot_of_top_free_apps_posts_what_are_your/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Terrible-Poetry-8827",
                     "url": "https://www.reddit.com/user/Terrible-Poetry-8827"
-                }
-            ]
-        },
-        {
-            "id": "1cvj05j",
-            "url": "/r/macapps/comments/1cvj05j/a_new_way_to_play_windows_games_on_macos/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1cvj05j/a_new_way_to_play_windows_games_on_macos/",
-            "title": "A new way to play Windows games on macOS!",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1cvj05j/a_new_way_to_play_windows_games_on_macos/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1cvj05j/a_new_way_to_play_windows_games_on_macos/'>Reddit</a></caption><div><br></div><p>Hi, reddit!!<br />\nFor the last 7 months, I've been creating a streamlined game launcher for macOS.<br />\nIt's called <strong>Mythic</strong>.</p>\n<p><strong>Its release is imminent</strong>, so gather around, and visit our <a href=\"https://getmythic.app/\">website</a> (shoutout <a href=\"https://github.com/jeremybosma\">jeremybosma</a> he my pookie) to sign up for the waitlist. For more information, here's our <a href=\"https://discord.gg/8aA7JRkEmQ\">discord</a>.</p>\n<p>Mythic is the best and easiest way to sort all of your games in one place, whether those games are Windows or macOS-based.  It comes with <strong>epic games support</strong> right out of the box (and <strong>steam support in the future</strong>), but if that doesn't quite meet your needs, you can always <strong>manually import</strong> your games into the launcher.</p>\n<p><a href=\"https://preview.redd.it/vieav1ccca1d1.png?width=2302&amp;format=png&amp;auto=webp&amp;s=0e69d2a37016c643e95d35d2499337aef517711b\">A screenshot of Mythic doing its thing! (note: this is a prerelease build as indicated by its semantic version.)</a></p>\n<p>Windows game support in Mythic is implemented (through game porting toolkit) thanks to tireless hours from the people at <a href=\"https://www.winehq.org/\">wine</a>, and <a href=\"https://getwhisky.app/\">whisky</a>'s contributors. Please support them and wine's maintainers if you can.</p>\n<p>Oh, and it's <a href=\"https://github.com/MythicApp/Mythic/\">open-source</a><strong>.</strong></p>\n<p>For ages, we've had to rely on launchers like Heroic, and the clunkiness of their Electron user interface.<br />\nFor ages, we've had to manually download games and deal with the files ourselves with GPTK.<br />\n<strong>Mythic combines those two in a streamlined, familiar user interface using SwiftUI.</strong></p>\n<p><em>Please note that Mythic is currently in its alpha stage of development; if you encounter bugs, please open a</em> <a href=\"https://github.com/MythicApp/Mythic/issues/new/choose\">GitHub issue</a><em>.</em></p>\n<p><a href=\"https://www.reddit.com/r/macgaming/comments/1cvcyxc/a_new_way_to_play_windows_games_on_macos/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button\">original post</a></p>",
-            "date_published": "2024-05-19T07:46:00+00:00",
-            "authors": [
-                {
-                    "name": "SeperatedEntity",
-                    "url": "https://www.reddit.com/user/SeperatedEntity"
                 }
             ]
         }
