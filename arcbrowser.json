@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1h1afmb",
+            "url": "/r/ArcBrowser/comments/1h1afmb/made_my_first_boost_a_privacy_screen_for_chatgpt/",
+            "external_url": "https://v.redd.it/3rd3i8lhgh3e1",
+            "title": "Made my first boost - a privacy screen for chatGPT. Injects a toggle for blurring chat names unless hovered.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1h1afmb/made_my_first_boost_a_privacy_screen_for_chatgpt/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1h1afmb/made_my_first_boost_a_privacy_screen_for_chatgpt/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-11-27T17:57:32+00:00",
+            "authors": [
+                {
+                    "name": "touchfuzzygetdizzy1",
+                    "url": "https://www.reddit.com/user/touchfuzzygetdizzy1"
+                }
+            ]
+        },
+        {
             "id": "1gxg5k3",
             "url": "/r/ArcBrowser/comments/1gxg5k3/darin_fisher_the_creator_of_chrome_and_former/",
             "external_url": "https://i.redd.it/nj1oeqeh8i2e1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "JaceThings",
                     "url": "https://www.reddit.com/user/JaceThings"
-                }
-            ]
-        },
-        {
-            "id": "18di36r",
-            "url": "/r/ArcBrowser/comments/18di36r/i_love_reading_arc_updates/",
-            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/18di36r/i_love_reading_arc_updates/",
-            "title": "I love reading Arc updates.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ArcBrowser/comments/18di36r/i_love_reading_arc_updates/'>Apollo</a> | <a href='https://reddit.com/r/ArcBrowser/comments/18di36r/i_love_reading_arc_updates/'>Reddit</a></caption><div><br></div><p>Can I just say how much I appreciate The Browser Company putting in the effort in their update changelogs? It's like getting free DLCs for a free game that I love and play every day.</p>",
-            "date_published": "2023-12-08T08:06:22+00:00",
-            "authors": [
-                {
-                    "name": "Jae_Kingsley",
-                    "url": "https://www.reddit.com/user/Jae_Kingsley"
                 }
             ]
         }
