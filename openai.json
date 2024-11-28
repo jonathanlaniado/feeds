@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1h1niwc",
+            "url": "/r/OpenAI/comments/1h1niwc/alibaba_qwq32b_outperforms_o1mini_o1preview_on/",
+            "external_url": "https://www.reddit.com/r/OpenAI/comments/1h1niwc/alibaba_qwq32b_outperforms_o1mini_o1preview_on/",
+            "title": "Alibaba QwQ-32B : Outperforms o1-mini, o1-preview on reasoning",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1h1niwc/alibaba_qwq32b_outperforms_o1mini_o1preview_on/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1h1niwc/alibaba_qwq32b_outperforms_o1mini_o1preview_on/'>Reddit</a></caption><div><br></div><p>Alibaba's latest reasoning model, QwQ has beaten o1-mini, o1-preview, GPT-4o and Claude 3.5 Sonnet as well on many benchmarks. The model is just 32b and is completely open-sourced as well\nCheckout how to use it : https://youtu.be/yy6cLPZrE9k?si=wKAPXuhKibSsC810</p>",
+            "date_published": "2024-11-28T04:11:10+00:00",
+            "authors": [
+                {
+                    "name": "mehul_gupta1997",
+                    "url": "https://www.reddit.com/user/mehul_gupta1997"
+                }
+            ]
+        },
+        {
             "id": "1h0cmlm",
             "url": "/r/OpenAI/comments/1h0cmlm/advanced_voice_reggae_radio_dj/",
             "external_url": "https://v.redd.it/agors1j2693e1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "gothic3020",
                     "url": "https://www.reddit.com/user/gothic3020"
-                }
-            ]
-        },
-        {
-            "id": "1cfooo1",
-            "url": "/r/OpenAI/comments/1cfooo1/nick_bostrom_superintelligence_could_happen_in/",
-            "external_url": "https://x.com/tsarnick/status/1784378045069217960",
-            "title": "Nick Bostrom: superintelligence could happen in timelines as short as a year and is the last invention we will ever need to make",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1cfooo1/nick_bostrom_superintelligence_could_happen_in/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1cfooo1/nick_bostrom_superintelligence_could_happen_in/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-04-29T03:00:08+00:00",
-            "authors": [
-                {
-                    "name": "Maxie445",
-                    "url": "https://www.reddit.com/user/Maxie445"
                 }
             ]
         }
