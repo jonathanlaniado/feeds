@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1h2m5fr",
+            "url": "/r/homeassistant/comments/1h2m5fr/live_espresso_machine_shot_information/",
+            "external_url": "https://i.redd.it/rb11jyuyhu3e1.png",
+            "title": "Live espresso machine shot information ",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1h2m5fr/live_espresso_machine_shot_information/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1h2m5fr/live_espresso_machine_shot_information/'>Reddit</a></caption><div><br></div><p>Still need to improve the updating on the graph as it flashes now in-between update, and implement the other features from the gaggiuino front-end such as preset selection.</p><div><br></div><img src=\"https://i.redd.it/rb11jyuyhu3e1.png\" />",
+            "date_published": "2024-11-29T13:48:04+00:00",
+            "authors": [
+                {
+                    "name": "rens224",
+                    "url": "https://www.reddit.com/user/rens224"
+                }
+            ]
+        },
+        {
             "id": "1h1w21j",
             "url": "/r/homeassistant/comments/1h1w21j/updated_my_esp32_epaper_display/",
             "external_url": "https://i.redd.it/3qyfe51lan3e1.jpeg",
