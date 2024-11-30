@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1h3ekzp",
+            "url": "/r/selfhosted/comments/1h3ekzp/my_homarr_dashboard/",
+            "external_url": "https://i.redd.it/8efigl1u124e1.png",
+            "title": "My homarr dashboard",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1h3ekzp/my_homarr_dashboard/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1h3ekzp/my_homarr_dashboard/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/8efigl1u124e1.png\" />",
+            "date_published": "2024-11-30T15:11:57+00:00",
+            "authors": [
+                {
+                    "name": "Faris_K",
+                    "url": "https://www.reddit.com/user/Faris_K"
+                }
+            ]
+        },
+        {
             "id": "1h292mx",
             "url": "/r/selfhosted/comments/1h292mx/this_past_year_i_grew_obsessed_with_selfhosting/",
             "external_url": "https://www.reddit.com/gallery/1h292mx",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "rickydg80",
                     "url": "https://www.reddit.com/user/rickydg80"
-                }
-            ]
-        },
-        {
-            "id": "198xseg",
-            "url": "/r/selfhosted/comments/198xseg/maker_management_platform_v100/",
-            "external_url": "https://github.com/Maker-Management-Platform/docs",
-            "title": "Maker Management Platform v1.0.0",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/198xseg/maker_management_platform_v100/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/198xseg/maker_management_platform_v100/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-01-17T14:28:20+00:00",
-            "authors": [
-                {
-                    "name": "knoker",
-                    "url": "https://www.reddit.com/user/knoker"
                 }
             ]
         }
