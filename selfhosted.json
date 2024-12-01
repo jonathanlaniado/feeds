@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1h46fzf",
+            "url": "/r/selfhosted/comments/1h46fzf/ive_themed_my_selfhosted_jellyfin_to_look_like/",
+            "external_url": "https://github.com/lscambo13/ElegantFin",
+            "title": "I've themed my self-hosted Jellyfin to look like JellySeerr.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1h46fzf/ive_themed_my_selfhosted_jellyfin_to_look_like/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1h46fzf/ive_themed_my_selfhosted_jellyfin_to_look_like/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-12-01T16:02:32+00:00",
+            "authors": [
+                {
+                    "name": "lscambo13",
+                    "url": "https://www.reddit.com/user/lscambo13"
+                }
+            ]
+        },
+        {
             "id": "1h3ekzp",
             "url": "/r/selfhosted/comments/1h3ekzp/my_homarr_dashboard/",
             "external_url": "https://i.redd.it/8efigl1u124e1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "furtugoth",
                     "url": "https://www.reddit.com/user/furtugoth"
-                }
-            ]
-        },
-        {
-            "id": "199mmyf",
-            "url": "/r/selfhosted/comments/199mmyf/so_glad_i_dumped_plex/",
-            "external_url": "https://i.redd.it/0xdso8ni86dc1.jpeg",
-            "title": "So glad I dumped Plex",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/199mmyf/so_glad_i_dumped_plex/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/199mmyf/so_glad_i_dumped_plex/'>Reddit</a></caption><div><br></div><p>Following all the drama around Plex and its increasing disregard for privacy, I turned off my Plex container about a month ago.</p>\n<p>Today I received this email showing my what my FIL had been watching. This could be so bad for some. I personally am not sensitive to this kind of thing, but I know there are plenty of my friends and family that are and would easily think this was something more.</p>\n<p>Bye Plex, you\u2019ll never see me again!</p><div><br></div><img src=\"https://i.redd.it/0xdso8ni86dc1.jpeg\" />",
-            "date_published": "2024-01-18T09:56:01+00:00",
-            "authors": [
-                {
-                    "name": "rickydg80",
-                    "url": "https://www.reddit.com/user/rickydg80"
                 }
             ]
         }
