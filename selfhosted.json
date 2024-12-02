@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1h4vtdt",
+            "url": "/r/selfhosted/comments/1h4vtdt/i_made_flisoa_free_modern_opensource_link/",
+            "external_url": "https://www.reddit.com/gallery/1h4vtdt",
+            "title": "I made Fli.so\u2014a free, modern open-source link shortener we built for our own needs. Now it\u2019s yours too!",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1h4vtdt/i_made_flisoa_free_modern_opensource_link/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1h4vtdt/i_made_flisoa_free_modern_opensource_link/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-12-02T14:11:15+00:00",
+            "authors": [
+                {
+                    "name": "ArtOfLess",
+                    "url": "https://www.reddit.com/user/ArtOfLess"
+                }
+            ]
+        },
+        {
             "id": "1h499u8",
             "url": "/r/selfhosted/comments/1h499u8/i_built_my_own_home_dashboard_after_trying_and/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1h499u8/i_built_my_own_home_dashboard_after_trying_and/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "nate4t",
                     "url": "https://www.reddit.com/user/nate4t"
-                }
-            ]
-        },
-        {
-            "id": "19eedzo",
-            "url": "/r/selfhosted/comments/19eedzo/how_the_heck_i_lived_without_it/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/19eedzo/how_the_heck_i_lived_without_it/",
-            "title": "How the heck i lived without it",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/19eedzo/how_the_heck_i_lived_without_it/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/19eedzo/how_the_heck_i_lived_without_it/'>Reddit</a></caption><div><br></div><p>Just wanted ti share my new favorite app to self host, nothing hard is just a docker plug and play.\nHave you ever used wetransfer? As always limits for free use, privacy etc etc\u2026 i found send, the foss and self hosted version and it is amazing, having linux/windows/mac system is a pain in the ads while sharing files and yes i could do samba but i need something faster for simple file sharing between devices in my home network. Clone the repo -&gt; docker compose up -d and you are ready to go.\nDon\u2019t really know why i\u2019m excited for this but maybe someone need the same \ud83d\ude02</p>\n<p>https://gitlab.com/timvisee/send</p>",
-            "date_published": "2024-01-24T10:50:47+00:00",
-            "authors": [
-                {
-                    "name": "Flowrome",
-                    "url": "https://www.reddit.com/user/Flowrome"
                 }
             ]
         }
