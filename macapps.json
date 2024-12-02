@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1h4ydsp",
+            "url": "/r/macapps/comments/1h4ydsp/was_gonna_discount_my_mac_app_for_cyber_monday/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1h4ydsp/was_gonna_discount_my_mac_app_for_cyber_monday/",
+            "title": "Was Gonna Discount My Mac App for Cyber Monday, But Screw It\u2014Let\u2019s Make It Free For Today Only (Until 12/3).",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1h4ydsp/was_gonna_discount_my_mac_app_for_cyber_monday/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1h4ydsp/was_gonna_discount_my_mac_app_for_cyber_monday/'>Reddit</a></caption><div><br></div><p>Happy Cyber Monday! I recently shared a\u00a0<a href=\"https://www.reddit.com/r/appletv/comments/1h2qonl/was_gonna_discount_my_apple_tv_apps_for_black/\">similar\u00a0offer\u00a0in\u00a0the\u00a0Apple\u00a0TV\u00a0sub</a>\u00a0for several of my Apple TV apps during Black Friday and was thrilled by the overwhelming response and gratitude. It inspired me to extend the same generosity to this sub with my macOS app for Cyber Monday! As a way to express my appreciation, I\u2019m making my Mac meeting app,\u00a0<strong>MeetingMenu</strong>, completely\u00a0<strong>FREE</strong>\u00a0until midnight on December 3, UTC! No subscriptions, no catch\u2014just download and enjoy.</p>\n<p>I\u2019m the developer of MeetingMenu, a Mac app I created to solve my own meeting management headaches. Like many of you, I find myself doing lots of meetings online across various apps. I\u2019m frequently accessing the same settings and tools during meetings, and I wanted a way to keep them all in one convenient place\u2014right in the menu bar.</p>\n<p>Most important for me was being able to see my next meeting at a glance, with a countdown timer and the ability to launch it with a single click\u2014right in the menu bar. That feature alone has been a game-changer for staying organized and never missing a meeting.</p>\n<p>In addition, I wanted tools to simplify screen sharing, like quickly hiding my desktop, icons, and wallpaper to avoid any awkward moments. I also built in a privacy browser to prevent my bookmarks or history from showing during meetings.</p>\n<p>As I kept using it, I realized there were even more tools I frequently needed that were buried within the user interfaces of various meeting apps. So, I bundled them all into one app:</p>\n<ul>\n<li>Tools to quickly check my mic volume and see how I look on camera before meetings.</li>\n<li>A quick meeting launcher for platforms like Zoom, Teams, and Google Meet.</li>\n<li>Custom time zone views to see meeting times in different regions.</li>\n</ul>\n<p>Other features include: sticky notes, in-meeting indicator, low power mode, WiFi signal check, audio quality test, and more\u2014all accessible from the menu bar.</p>\n<p>Yes, I know there are apps with overlapping features, but I needed something that combined everything I rely on in one place\u2014like a Swiss Army knife for meeting tools.</p>\n<p>That\u2019s how MeetingMenu came to life, and it\u2019s been a lifesaver for me. It\u2019s still relatively new, so I\u2019d really appreciate any feedback, feature suggestions, or tips to make it better for the community.</p>\n<p>\u23f3\u00a0<strong>This is a one-day offer, valid until midnight on December 3, UTC.</strong>\u00a0Must download today before it goes back to being paid.</p>\n<p>\ud83d\udc49\u00a0<a href=\"https://apps.apple.com/us/app/meetingmenu/id6538714770\">Download\u00a0MeetingMenu\u00a0for\u00a0Mac</a><br />\n\ud83d\udc49\u00a0<a href=\"https://meetingmenu.app/\">Visit\u00a0the\u00a0MeetingMenu\u00a0website</a></p>\n<p>Thanks again to this amazing community for your support\u2014you\u2019re the best! Enjoy the app, and let me know your thoughts in the comments! \ud83d\ude0a</p>",
+            "date_published": "2024-12-02T16:05:29+00:00",
+            "authors": [
+                {
+                    "name": "rabbimarshak",
+                    "url": "https://www.reddit.com/user/rabbimarshak"
+                }
+            ]
+        },
+        {
             "id": "1h4171w",
             "url": "/r/macapps/comments/1h4171w/made_my_first_mac_app_which_lets_you_rename_files/",
             "external_url": "https://v.redd.it/8ukqtq42184e1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "nathan12581",
                     "url": "https://www.reddit.com/user/nathan12581"
-                }
-            ]
-        },
-        {
-            "id": "1cy9vx8",
-            "url": "/r/macapps/comments/1cy9vx8/inspired_by_rewindai_my_journey_with_recall/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1cy9vx8/inspired_by_rewindai_my_journey_with_recall/",
-            "title": "Inspired by RewindAI: My Journey with Recall\n",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1cy9vx8/inspired_by_rewindai_my_journey_with_recall/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1cy9vx8/inspired_by_rewindai_my_journey_with_recall/'>Reddit</a></caption><div><br></div><p>Hey everyone,</p>\n<p>I wanted to share a bit of my journey with you all and maybe get some advice or find some folks interested in collaborating.</p>\n<p>About six months ago, I was really inspired by RewindAI and decided to create my own local memory app called \"Recall\". The idea was to build something that could capture and index digital activity, making it easy to remember and find information later.</p>\n<p>After months of hard work, I finally got Recall to a point where it was working well. I've managed to ask him for information on my activity  from a week ago with details and all that locally with local llms! It was exciting to see it come together and actually do what I hoped it would.</p>\n<p>But then, I found out yesterday that the new Copilot+ laptops have a feature called \"Recall\" that does pretty much the same thing but better. It was a bit of a shock. Here I was, thinking I had something unique, only to see it already out there in a big way.</p>\n<p>So, now I'm not sure what to think. Instead of giving up, I decided to open-source Recall and rename it reMind. I believe that by sharing it, maybe some of you might have ideas or want to help improve it. If you\u2019re interested, I\u2019d love to hear from you!</p>\n<p>Here\u2019s the GitHub link: <a href=\"https://github.com/DonTizi/ReMind/\">Github Repo</a></p>\n<p>Best,</p>",
-            "date_published": "2024-05-22T20:05:11+00:00",
-            "authors": [
-                {
-                    "name": "DonTizi",
-                    "url": "https://www.reddit.com/user/DonTizi"
                 }
             ]
         }
