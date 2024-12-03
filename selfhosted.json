@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1h5nn9m",
+            "url": "/r/selfhosted/comments/1h5nn9m/selfhsticons_update_900_icons_and_logos_for/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1h5nn9m/selfhsticons_update_900_icons_and_logos_for/",
+            "title": "selfh.st/icons Update: 900+ (!) icons and logos for dashboards and documentation",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1h5nn9m/selfhsticons_update_900_icons_and_logos_for/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1h5nn9m/selfhsticons_update_900_icons_and_logos_for/'>Reddit</a></caption><div><br></div><p>Hey, r/selfhosted! </p>\n<p><a href=\"https://selfh.st/icons\">selfh.st/icons</a> is a collection of various icons and logos (self-hosted and non-self-hosted) to be easily referenced when populating dashboards, documentation, etc. It features a browsable interface with quick links for copying and pasting various image formats (SVG, PNG, and WebP).</p>\n<p>Since launching earlier this year, the collection has hit a few milestones I thought might be worth sharing with the community:</p>\n<ul>\n<li>900+ icons! After starting at ~600, the collection has quickly grown based on community requests and as I've added new software to the <a href=\"https://selfh.st/apps\">selfh.st/apps</a> directory.</li>\n<li>The collection now has built-in support with <a href=\"https://gethomepage.dev/configs/services/#icons\">Homepage</a>, <a href=\"https://old.reddit.com/r/selfhosted/comments/1fyoog1/xpipe_a_connection_hub_for_all_your_servers/\">XPipe</a>, and <a href=\"https://github.com/homarr-labs/homarr/issues/1105\">Homarr in its upcoming v2 release</a></li>\n<li>Additional light icon support: I've been slowly adding alternative light versions to new and existing icons when possible, which are ideal for displaying in dashboards with dark backgrounds.</li>\n</ul>\n<p>As usual, feel free to reach out with feedback or drop a request in the <a href=\"https://github.com/selfhst/icons/discussions\">project's GitHub discussions</a> if I'm missing anything!</p>",
+            "date_published": "2024-12-03T13:41:55+00:00",
+            "authors": [
+                {
+                    "name": "shol-ly",
+                    "url": "https://www.reddit.com/user/shol-ly"
+                }
+            ]
+        },
+        {
             "id": "1h4vtdt",
             "url": "/r/selfhosted/comments/1h4vtdt/i_made_flisoa_free_modern_opensource_link/",
             "external_url": "https://www.reddit.com/gallery/1h4vtdt",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Forsaken-Ad-6752",
                     "url": "https://www.reddit.com/user/Forsaken-Ad-6752"
-                }
-            ]
-        },
-        {
-            "id": "19enncf",
-            "url": "/r/selfhosted/comments/19enncf/winglang_combining_infrastructure_and_runtime/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/19enncf/winglang_combining_infrastructure_and_runtime/",
-            "title": "Winglang: Combining infrastructure and runtime code in one language",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/19enncf/winglang_combining_infrastructure_and_runtime/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/19enncf/winglang_combining_infrastructure_and_runtime/'>Reddit</a></caption><div><br></div><p>Greetings, fellow self-hosters!</p>\n<p>I'm part of a team dedicated to crafting a groundbreaking cloud-oriented programming language called <a href=\"https://github.com/winglang/wing\">Winglang</a>. We are open source and our primary objective is to simplify complexity and accelerate the development process.</p>\n<h2>Accomplishing this Goal</h2>\n<p>There are multiple avenues, and I'll highlight just a few:</p>\n<ul>\n<li><strong>Instant Local Simulation:</strong></li>\n<li>Visualize, debug, and test apps locally without the need for creating cloud mockups.</li>\n<li><strong>Cloud Services Integration:</strong></li>\n<li>Treats cloud services and distributed computing as integral language primitives.</li>\n<li><strong>Cross-Compilation:</strong></li>\n<li>Compiles to JavaScript and IaC (Terraform and Cloudformation), with support for additional provisioning engines in the pipeline.</li>\n<li><strong>Multi-Cloud Support:</strong></li>\n<li>Code compatibility across different clouds such as AWS, GCP, and Azure.</li>\n<li><strong>Least-Privilege IAM Policies:</strong></li>\n<li>The compiler generates IAM policies and other cloud mechanics based on intent.</li>\n<li><a href=\"https://docs.winglang.io/blog/2023/02/17/plugins\"><strong>Compiler Plugins</strong></a><strong>:</strong></li>\n<li>Customize generated infrastructure definitions with ease.</li>\n<li><strong>JavaScript Interoperability:</strong></li>\n<li>Integration with JavaScript.</li>\n<li><strong>Terraform Resource Support:</strong></li>\n<li>Support for any Terraform resource.</li>\n</ul>\n<h2>Exploring the Language</h2>\n<p>Curious about playing with Winglang? Visit our <a href=\"https://www.winglang.io/play/\">playground</a> to experiment with the code and experience the local simulator in action.</p>\n<h2>Self-Hosting Your Winglang App</h2>\n<p><strong>Local Simulation:</strong> Instantly simulate and test your Winglang application locally without the need for creating cloud mocks. Visualize and debug your app in a controlled environment.</p>\n<p><strong>Deploy on Your Infrastructure:</strong> Once satisfied with your app's functionality, deploy it on your infrastructure. This could be your personal server, a cloud instance, or any environment where you have control.</p>\n<h2>Getting Involved</h2>\n<p>Your feedback is invaluable to us, covering every facet of the project. We're actively seeking developers to become part of our community, contributing their expertise to shape the future of Winglang.</p>\n<p>If Winglang intrigues you, a \u2b50\ufe0f on GitHub would mean the world to us. It helps bring the project to the attention of more developers \ud83d\ude4f, and your support is genuinely appreciated!</p>\n<h2>More Information</h2>\n<p>Explore further details, including how to kickstart your journey with Wing and the rationale behind building it as a language, on our GitHub: <a href=\"https://github.com/winglang/wing\">Winglang Repository</a>.</p>",
-            "date_published": "2024-01-24T18:39:03+00:00",
-            "authors": [
-                {
-                    "name": "nate4t",
-                    "url": "https://www.reddit.com/user/nate4t"
                 }
             ]
         }
