@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1h5lad6",
+            "url": "/r/macapps/comments/1h5lad6/im_sick_of_scam_promotions/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1h5lad6/im_sick_of_scam_promotions/",
+            "title": "I'm sick of scam promotions",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1h5lad6/im_sick_of_scam_promotions/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1h5lad6/im_sick_of_scam_promotions/'>Reddit</a></caption><div><br></div><p><strong>BoltAI</strong> as an example. It's a good piece of software and I was considering buying it. But I hate scammers.</p>\n<p>Premium price in October: $79 ~~$100~~</p>\n<p>Premium price in Nov, 5th: $79 ~~$100~~</p>\n<p>Premium price in Nov, 24th: $79 ~~$112~~ (Black Friday promotion)</p>\n<p>Premium price today: $89  ~~$112~~ (Cyber Monday promotion)</p>",
+            "date_published": "2024-12-03T11:26:18+00:00",
+            "authors": [
+                {
+                    "name": "GovernmentVast1699",
+                    "url": "https://www.reddit.com/user/GovernmentVast1699"
+                }
+            ]
+        },
+        {
             "id": "1h4ydsp",
             "url": "/r/macapps/comments/1h4ydsp/was_gonna_discount_my_mac_app_for_cyber_monday/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1h4ydsp/was_gonna_discount_my_mac_app_for_cyber_monday/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "DancingDocOnTikTok",
                     "url": "https://www.reddit.com/user/DancingDocOnTikTok"
-                }
-            ]
-        },
-        {
-            "id": "1cypn3k",
-            "url": "/r/macapps/comments/1cypn3k/menubar_weather_app/",
-            "external_url": "https://www.reddit.com/gallery/1cypn3k",
-            "title": "Menubar weather app",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1cypn3k/menubar_weather_app/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1cypn3k/menubar_weather_app/'>Reddit</a></caption><div><br></div><p>This is a really simple, yet effective app, that lives silently within your menubar. Updates every hour (or every significant location change). It takes little to no resources snd uses Apple Weather. No data is collected, no network requests outside of Apple Weather is executed.</p>\n<p>The app page for macOS is here for those who don\u2019t care about the code: Here's the link: https://apps.apple.com/gb/app/menubar-weather/id1662381447</p>\n<p>Otherwise anyone who would like to contribute or just newcomers in SwiftUI would like to see how a simple app is created and structured then feel free to message me around with it: https://github.com/Nathan1258/Menubar-Weather</p>\n<p>On another note, any feature requests/changes you\u2019d like let me know! The app does support Celsius, Fahrenheit, 12/24 hour time format and you can make the dynamic gradients based on the weather just a single colour for accessibility. Some gradients (I know) make some text hard to see, especially in snowy conditions but I\u2019m getting around to fixing that. </p>\n<p>Hope you like it! </p>",
-            "date_published": "2024-05-23T10:33:56+00:00",
-            "authors": [
-                {
-                    "name": "nathan12581",
-                    "url": "https://www.reddit.com/user/nathan12581"
                 }
             ]
         }
