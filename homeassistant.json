@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1h5pqno",
+            "url": "/r/homeassistant/comments/1h5pqno/ha_saved_me_from_a_flooded_basement_last_night/",
+            "external_url": "https://www.reddit.com/r/homeassistant/comments/1h5pqno/ha_saved_me_from_a_flooded_basement_last_night/",
+            "title": "HA saved me from a flooded basement last night",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1h5pqno/ha_saved_me_from_a_flooded_basement_last_night/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1h5pqno/ha_saved_me_from_a_flooded_basement_last_night/'>Reddit</a></caption><div><br></div><p>I setup an automation to flash the lights in any room that is occupied if any water leaks are detected in the house, and it woke me up last night.</p>\n<p>Turns out one of the pipes in my basement sprung a leak and I was able to stem the leak before it became a disaster, and had a plumber out to fix it this morning.</p>\n<p>Using Z-Wave water leak sensors strategically-placed around the house, Hue bulbs, and EP1 Occupancy Sensors from Everything Smart Home.</p>",
+            "date_published": "2024-12-03T15:17:26+00:00",
+            "authors": [
+                {
+                    "name": "chrico031",
+                    "url": "https://www.reddit.com/user/chrico031"
+                }
+            ]
+        },
+        {
             "id": "1h3hqfr",
             "url": "/r/homeassistant/comments/1h3hqfr/home_assistant_saved_my_house_thanks/",
             "external_url": "https://www.reddit.com/r/homeassistant/comments/1h3hqfr/home_assistant_saved_my_house_thanks/",
