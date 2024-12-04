@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1h6mga7",
+            "url": "/r/PleX/comments/1h6mga7/plex_is_ruining_my_marriage_thanks_guys/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/1h6mga7/plex_is_ruining_my_marriage_thanks_guys/",
+            "title": "Plex is ruining my marriage, thanks guys.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1h6mga7/plex_is_ruining_my_marriage_thanks_guys/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1h6mga7/plex_is_ruining_my_marriage_thanks_guys/'>Reddit</a></caption><div><br></div><p>I started down my Plex journey because I wanted to watch Westworld with my wife. I watched it while it was airing but she didn't watch it with me. Fast forward to her being on maternity leave and she wants to watch it now. No problem, let me check my Justwatch app, it's not streaming anywhere. I'll just see if I can find it cheap used somewhere. Nope. For the price difference between new and used, I'll just get it new and use the digital codes for Fandango at home..... the codes are expired and Warner Bros. absolutely refuses to do anything.</p>\n<p>Started watching Westworld, using my Xbox as the player. Audio was desync'd. Bad. I'll just buy a Blu-ray  drive and rip it all. And host it on... </p>\n<p>Research, research research. I'll set up a Plex server (not jellyfin) I had one 10 years ago and I liked it. </p>\n<p>Host it on my PC and quickly fill up half of my 2tb drive. </p>\n<p>Do some more research and decide to build a NAS, I have most of a computer in a box somewhere, so it won't cost me that much. My old i7-6700k, 32gb RAM and a 500gb nvme. Set it up with TrueNAS scale and order a few hdd to get started. </p>\n<p>So now I'm 2 weeks into ripping my 4k collection and adding all the tv shows I like or haven't seen yet, movies that I haven't watched in awhile and cartoons for the kids.</p>\n<p>Now I've bought 4 12TB hddd, used 10TB of my 31TB sthidden (1 drive is for parity), have 6 family/friends that watch my Plex library regularly and have gone down the ARRs rabbit hole. </p>\n<p>Oh yeah, how is Plex ruining my marriage? I've spent so much time and money on this thing that I think she's getting jealous. Lol</p>",
+            "date_published": "2024-12-04T17:56:12+00:00",
+            "authors": [
+                {
+                    "name": "gryphon5245",
+                    "url": "https://www.reddit.com/user/gryphon5245"
+                }
+            ]
+        },
+        {
             "id": "1h5wp0m",
             "url": "/r/PleX/comments/1h5wp0m/such_a_great_feeling_when_folks_start_using_the/",
             "external_url": "https://i.redd.it/d9rigxr0xo4e1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "HOWDEHPARDNER",
                     "url": "https://www.reddit.com/user/HOWDEHPARDNER"
-                }
-            ]
-        },
-        {
-            "id": "18tv29k",
-            "url": "/r/PleX/comments/18tv29k/my_plex_servers_biggest_fan/",
-            "external_url": "https://i.redd.it/4ule3tagba9c1.jpeg",
-            "title": "My Plex server\u2019s biggest fan",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/18tv29k/my_plex_servers_biggest_fan/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/18tv29k/my_plex_servers_biggest_fan/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/4ule3tagba9c1.jpeg\" />",
-            "date_published": "2023-12-29T19:23:04+00:00",
-            "authors": [
-                {
-                    "name": "StaticFanatic3",
-                    "url": "https://www.reddit.com/user/StaticFanatic3"
                 }
             ]
         }
