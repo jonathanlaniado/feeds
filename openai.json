@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1h82pl3",
+            "url": "/r/OpenAI/comments/1h82pl3/i_spent_8_hours_testing_o1_pro_200_vs_claude/",
+            "external_url": "https://www.reddit.com/r/OpenAI/comments/1h82pl3/i_spent_8_hours_testing_o1_pro_200_vs_claude/",
+            "title": "I spent 8 hours testing o1 Pro ($200) vs Claude Sonnet 3.5 ($20) - Here's what nobody tells you about the real-world performance difference",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1h82pl3/i_spent_8_hours_testing_o1_pro_200_vs_claude/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1h82pl3/i_spent_8_hours_testing_o1_pro_200_vs_claude/'>Reddit</a></caption><div><br></div><p>After seeing all the hype about o1 Pro's release, I decided to do an extensive comparison. The results were surprising, and I wanted to share my findings with the community.</p>\n<p>Testing Methodology I ran both models through identical scenarios, focusing on real-world applications rather than just benchmarks. Each test was repeated multiple times to ensure consistency.</p>\n<p>Key Findings</p>\n<ol>\n<li>Complex Reasoning * Winner: o1 Pro (but the margin is smaller than you'd expect) * Takes 20-30 seconds longer for responses * Claude Sonnet 3.5 achieves 90% accuracy in significantly less time</li>\n<li>Code Generation * Winner: Claude Sonnet 3.5 * Cleaner, more maintainable code * Better documentation * o1 Pro tends to overengineer solutions</li>\n<li>Advanced Mathematics * Winner: o1 Pro * Excels at PhD-level problems * Claude Sonnet 3.5 handles 95% of practical math tasks perfectly</li>\n<li>Vision Analysis * Winner: o1 Pro * Detailed image interpretation * Claude Sonnet 3.5 doesn't have advanced vision capabilities yet</li>\n<li>Scientific Reasoning * Tie * o1 Pro: deeper analysis * Claude Sonnet 3.5: clearer explanations</li>\n</ol>\n<p>Value Proposition Breakdown</p>\n<p>o1 Pro ($200/month): * Superior at PhD-level tasks * Vision capabilities * Deeper reasoning * That extra 5-10% accuracy in complex tasks</p>\n<p>Claude Sonnet 3.5 ($20/month): * Faster responses * More consistent performance * Superior coding assistance * Handles 90-95% of tasks just as well</p>\n<p>Interesting Observations * The response time difference is noticeable - o1 Pro often takes 20-30 seconds to \"think\" * Claude Sonnet 3.5's coding abilities are surprisingly superior * The price-to-performance ratio heavily favors Claude Sonnet 3.5 for most use cases</p>\n<p>Should You Pay 10x More?</p>\n<p>For most users, probably not. Here's why:</p>\n<ol>\n<li>The performance gap isn't nearly as wide as the price difference</li>\n<li>Claude Sonnet 3.5 handles most practical tasks exceptionally well</li>\n<li>The extra capabilities of o1 Pro are mainly beneficial for specialized academic or research work</li>\n</ol>\n<p>Who Should Use Each Model?</p>\n<p>Choose o1 Pro if: * You need vision capabilities * You work with PhD-level mathematical/scientific content * That extra 5-10% accuracy is crucial for your work * Budget isn't a primary concern</p>\n<p>Choose Claude Sonnet 3.5 if: * You need reliable, fast responses * You do a lot of coding * You want the best value for money * You need clear, practical solutions</p>\n<p>Unless you specifically need vision capabilities or that extra 5-10% accuracy for specialized tasks, Claude Sonnet 3.5 at $20/month provides better value for most users than o1 Pro at $200/month.</p>",
+            "date_published": "2024-12-06T14:36:02+00:00",
+            "authors": [
+                {
+                    "name": "Kakachia777",
+                    "url": "https://www.reddit.com/user/Kakachia777"
+                }
+            ]
+        },
+        {
             "id": "1h7cluv",
             "url": "/r/OpenAI/comments/1h7cluv/looks_like_o1_will_get_a_pro_mode/",
             "external_url": "https://i.redd.it/h661ljf2025e1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "jaketocake",
                     "url": "https://www.reddit.com/user/jaketocake"
-                }
-            ]
-        },
-        {
-            "id": "1cqq8ll",
-            "url": "/r/OpenAI/comments/1cqq8ll/autonomous_f16_fighters_are_roughly_even_with/",
-            "external_url": "https://nationalinterest.org/blog/buzz/autonomous-f-16-fighters-are-%E2%80%98roughly-even%E2%80%99-human-pilots-said-air-force-chief-210974",
-            "title": "Autonomous F-16 Fighters Are \u2018Roughly Even\u2019 With Human Pilots Said Air Force Chief",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1cqq8ll/autonomous_f16_fighters_are_roughly_even_with/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1cqq8ll/autonomous_f16_fighters_are_roughly_even_with/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-05-13T03:59:17+00:00",
-            "authors": [
-                {
-                    "name": "Maxie445",
-                    "url": "https://www.reddit.com/user/Maxie445"
                 }
             ]
         }
