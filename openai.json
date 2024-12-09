@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1haaqlk",
+            "url": "/r/OpenAI/comments/1haaqlk/soras_support_page_is_live/",
+            "external_url": "https://help.openai.com/en/articles/10250692-sora-supported-countries",
+            "title": "Sora's support page is live",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1haaqlk/soras_support_page_is_live/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1haaqlk/soras_support_page_is_live/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-12-09T14:19:40+00:00",
+            "authors": [
+                {
+                    "name": "Eyal-M",
+                    "url": "https://www.reddit.com/user/Eyal-M"
+                }
+            ]
+        },
+        {
             "id": "1h8uf4k",
             "url": "/r/OpenAI/comments/1h8uf4k/the_o1_model_is_just_strongly_watered_down/",
             "external_url": "https://www.reddit.com/r/OpenAI/comments/1h8uf4k/the_o1_model_is_just_strongly_watered_down/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "lemmeupvoteyou",
                     "url": "https://www.reddit.com/user/lemmeupvoteyou"
-                }
-            ]
-        },
-        {
-            "id": "1cr555j",
-            "url": "/r/OpenAI/comments/1cr555j/hello_gpt4o_openai/",
-            "external_url": "https://openai.com/index/hello-gpt-4o/",
-            "title": "Hello GPT-4o | OpenAI",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1cr555j/hello_gpt4o_openai/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1cr555j/hello_gpt4o_openai/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-05-13T17:32:43+00:00",
-            "authors": [
-                {
-                    "name": "UndeadPrs",
-                    "url": "https://www.reddit.com/user/UndeadPrs"
                 }
             ]
         }
