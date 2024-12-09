@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1hafgcc",
+            "url": "/r/homeassistant/comments/1hafgcc/mounted_the_new_pi_touch_display_v2_in_my/",
+            "external_url": "https://www.reddit.com/gallery/1hafgcc",
+            "title": "Mounted the new Pi touch display v2 in my plasterboard wall \ud83d\udcaf",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1hafgcc/mounted_the_new_pi_touch_display_v2_in_my/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1hafgcc/mounted_the_new_pi_touch_display_v2_in_my/'>Reddit</a></caption><div><br></div><p>Wanted a home assistant dashboard in my living room for multiple years now, as flush as possible. Not mainly for controlling lights, more for giving me info. It tells me if public transport is on time, which bin is emptied, wifi qr to access guest wifi etc. </p>\n<p>Connected to a Pi 5 running OS lite, which starts chromium in kiosk mode with zoom 125% for better readability. </p>\n<p>Stoked with the result!</p>",
+            "date_published": "2024-12-09T17:43:13+00:00",
+            "authors": [
+                {
+                    "name": "Puzzleheaded-Ad-6274",
+                    "url": "https://www.reddit.com/user/Puzzleheaded-Ad-6274"
+                }
+            ]
+        },
+        {
             "id": "1h8yog9",
             "url": "/r/homeassistant/comments/1h8yog9/just_finished_my_first_real_dashboard/",
             "external_url": "https://i.redd.it/jsbzteygyg5e1.jpeg",
