@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1hafy20",
+            "url": "/r/OpenAI/comments/1hafy20/sora_is_here/",
+            "external_url": "https://openai.com/index/sora-is-here/",
+            "title": "Sora is here",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1hafy20/sora_is_here/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1hafy20/sora_is_here/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-12-09T18:02:41+00:00",
+            "authors": [
+                {
+                    "name": "dayanruben",
+                    "url": "https://www.reddit.com/user/dayanruben"
+                }
+            ]
+        },
+        {
             "id": "1haaqlk",
             "url": "/r/OpenAI/comments/1haaqlk/soras_support_page_is_live/",
             "external_url": "https://help.openai.com/en/articles/10250692-sora-supported-countries",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Effective_Vanilla_32",
                     "url": "https://www.reddit.com/user/Effective_Vanilla_32"
-                }
-            ]
-        },
-        {
-            "id": "1cr5iwq",
-            "url": "/r/OpenAI/comments/1cr5iwq/gpt4o_will_be_free_for_everyone_in_the_next_weeks/",
-            "external_url": "https://i.redd.it/s4lycaqhe80d1.jpeg",
-            "title": "GPT-4o will be free for everyone in the next weeks",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1cr5iwq/gpt4o_will_be_free_for_everyone_in_the_next_weeks/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1cr5iwq/gpt4o_will_be_free_for_everyone_in_the_next_weeks/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/s4lycaqhe80d1.jpeg\" />",
-            "date_published": "2024-05-13T17:48:10+00:00",
-            "authors": [
-                {
-                    "name": "lemmeupvoteyou",
-                    "url": "https://www.reddit.com/user/lemmeupvoteyou"
                 }
             ]
         }
