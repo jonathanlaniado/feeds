@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1hbqzij",
+            "url": "/r/selfhosted/comments/1hbqzij/av_v010_free_no_strings_attached_and_opensource/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1hbqzij/av_v010_free_no_strings_attached_and_opensource/",
+            "title": "Av v0.1.0 - FREE (no strings attached) and Open-Source tool for stacked pull requests",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1hbqzij/av_v010_free_no_strings_attached_and_opensource/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1hbqzij/av_v010_free_no_strings_attached_and_opensource/'>Reddit</a></caption><div><br></div><p>Hey folks, how are you doing?</p>\n<p>_`av` is a completely free and open-source tool for managing stacked PRs._ </p>\n<p>There\u2019s been a ton of interest in `av`. From startups to Fortune 500s, the world\u2019s most effective engineering teams supercharge their developers with `av` - Slack, Figma, Doordash, Devrev, Square, Amplitude, Color and more!</p>\n<p>https://github.com/aviator-co/av</p>\n<p>At Aviator, our philosophy is to make every developer more productive and we aspire to give Google-level engineering tools to any and every developer out there!</p>\n<p>Av works with any build tool including Bazel, NX, Pants, Turborepo, or Gradle. Here are some of the features:</p>\n<p>- Completely FREE (no strings attached) and open source</p>\n<p>- Visualize your stack, and navigate across your stack using av stack tree</p>\n<p>- Split, fold and reorder your commits. Delete and rename branches and modify</p>\n<p>- Easily create stacked PRs and add them to your current stack</p>\n<p>Resolve conflicts quickly - No more fighting with merge conflicts across multiple PRs.</p>\n<p>- Smartly synchronize stacked branches when making changes.</p>\n<p>- Create PRs, and coordinate code reviews without worrying about managing child-parent relationships. The CLI tracks the entire stack to smartly create and modify PRs.</p>\n<p>- Stack-aware merge queue - Queue your entire stack or a partial stack to auto-merge using our stack-aware merge queue</p>\n<p>With our **latest release (v0.1.0)**, we\u2019ve also streamlined the syntax to make it easier than ever to use av:</p>\n<p>- Top-Level Commands: No more `av stack <command>` and `av commit <command>` \u2014 all commands are now top-level or integrated as flags for other commands.</p>\n<p>- Easier PR and Commit Creation: Commands like `av commit` and `av pr` now directly create commits and PRs.</p>\n<p>Special thank you to this community for giving us space to introduce everyone to av \u2764\ufe0f  </p>\n<p>If you\u2019d star our repo, it\u2019d be amazing! \u2b50</p>",
+            "date_published": "2024-12-11T10:59:12+00:00",
+            "authors": [
+                {
+                    "name": "mute927",
+                    "url": "https://www.reddit.com/user/mute927"
+                }
+            ]
+        },
+        {
             "id": "1hantrt",
             "url": "/r/selfhosted/comments/1hantrt/best_uncensored_chatbot_selfhosting/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1hantrt/best_uncensored_chatbot_selfhosting/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "somebeaver",
                     "url": "https://www.reddit.com/user/somebeaver"
-                }
-            ]
-        },
-        {
-            "id": "1amud3x",
-            "url": "/r/selfhosted/comments/1amud3x/when_business_doesnt_get_foss/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1amud3x/when_business_doesnt_get_foss/",
-            "title": "When business doesn\u2019t get FOSS",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1amud3x/when_business_doesnt_get_foss/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1amud3x/when_business_doesnt_get_foss/'>Reddit</a></caption><div><br></div><p>I sent my CIO a suggestion for a FOSS solution to further cost savings as things are tight. Here\u2019s his response;</p>\n<p><em>We avoid open-source and shareware software wherever possible, they are generally not secured very well and leave the business open to potential hacks.</em></p>\n<p><em>If it is docker based, then it\u2019s sending our documents which are potentially sensitive, confidential or contain PII to who knows where and again opens us up to another potential threat landscape.</em></p>\n<p><em>Whilst it\u2019s commendable to be looking for cheaper options and cost savings, especially now, I would rather be looking at some of the more established alternatives if we have to go down that route.</em></p>\n<p>Thoughts?</p>\n<p>Edit: I don\u2019t work in IT myself, but am a keen self-hoster.</p>",
-            "date_published": "2024-02-09T18:02:29+00:00",
-            "authors": [
-                {
-                    "name": "rickydg80",
-                    "url": "https://www.reddit.com/user/rickydg80"
                 }
             ]
         }
