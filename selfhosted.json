@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1hcm9lx",
+            "url": "/r/selfhosted/comments/1hcm9lx/i_fucked_up_really_bad/",
+            "external_url": "https://i.redd.it/mdt0dymygf6e1.png",
+            "title": "I fucked up Really Bad :(",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1hcm9lx/i_fucked_up_really_bad/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1hcm9lx/i_fucked_up_really_bad/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/mdt0dymygf6e1.png\" />",
+            "date_published": "2024-12-12T14:28:13+00:00",
+            "authors": [
+                {
+                    "name": "PracticalFig5702",
+                    "url": "https://www.reddit.com/user/PracticalFig5702"
+                }
+            ]
+        },
+        {
             "id": "1hcai5t",
             "url": "/r/selfhosted/comments/1hcai5t/i_made_a_us_and_canada_street_address_database/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1hcai5t/i_made_a_us_and_canada_street_address_database/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Nestramutat-",
                     "url": "https://www.reddit.com/user/Nestramutat-"
-                }
-            ]
-        },
-        {
-            "id": "1ao58wx",
-            "url": "/r/selfhosted/comments/1ao58wx/immich_is_changing_its_license_from_mit_to_agplv3/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1ao58wx/immich_is_changing_its_license_from_mit_to_agplv3/",
-            "title": "immich is changing its license from MIT to AGPLv3",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1ao58wx/immich_is_changing_its_license_from_mit_to_agplv3/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1ao58wx/immich_is_changing_its_license_from_mit_to_agplv3/'>Reddit</a></caption><div><br></div><p>https://github.com/immich-app/immich/discussions/7023</p>\n<p><strong>Immich is switching from MIT to the AGPLv3 License.</strong></p>\n<p>We are changing the license to protect Immich, its community, and the effort the contributors have put in to develop the application over the past two years.</p>\n<p><strong>Why AGPLv3?</strong></p>\n<p>In simple terms, we want to keep anyone from using the Immich source code without making their changes public or contributing back to the project. That includes ourselves, so you can rest assured that Immich will always stay free and open-source.</p>\n<p><strong>What does this mean for Immich? Is it going down the dark path?</strong></p>\n<p>No, Immich is always guaranteed to be free and open-source and will never have any paywalled features. All features will be available for all users.</p>\n<p><strong>What will happen to services like PikaPods or Cloudron</strong></p>\n<p>Services that offer Immich on their platform can continue to do that. If any of them modify Immich\u2019s source code, they will need to open their modifications of the source code under the same AGPL license and include a prominent notice to their users stating where this source code can be found.</p>\n<p>-copied message from immich developers on r/immich</p>",
-            "date_published": "2024-02-11T10:43:06+00:00",
-            "authors": [
-                {
-                    "name": "Tharunx",
-                    "url": "https://www.reddit.com/user/Tharunx"
                 }
             ]
         }
