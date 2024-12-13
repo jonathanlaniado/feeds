@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1hd86t7",
+            "url": "/r/aipromptprogramming/comments/1hd86t7/how_to_access_chatgpt_sora_in_europeuk/",
+            "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1hd86t7/how_to_access_chatgpt_sora_in_europeuk/",
+            "title": "How to access ChatGPT Sora in Europe/UK",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1hd86t7/how_to_access_chatgpt_sora_in_europeuk/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1hd86t7/how_to_access_chatgpt_sora_in_europeuk/'>Reddit</a></caption><div><br></div><p>OpenAI just dropped Sora, a new AI model, but unfortunately, the service is not yet officially accessible in <strong>Europe or UK.</strong></p>\n<p>Apparently, it is not only <strong>Europe and UK</strong>, but also <a href=\"https://help.openai.com/en/articles/10250692-sora-supported-countries\">many other countries</a> that still are waiting for this model to be available.\u00a0</p>\n<p>So while we wait for it to be released, I tried to figure out some workarounds here and found quite a good solution for it.\u00a0</p>\n<p><strong>How to access Sora:</strong></p>\n<ol>\n<li><strong>Set up a VPN.</strong> A VPN helps you get around region restrictions and access websites you might not be able to visit otherwise.</li>\n<li><strong>Connect to an Albanian server.</strong> This will give you a local Albanian IP address, which makes the website think you\u2019re browsing from that region.</li>\n<li><strong>Use Incognito Mode.</strong> Open sora.com in Incognito Mode (or Private Browsing, depending on your browser). This will help to avoid any problems with cached data or cookies.</li>\n<li><strong>Log in to your account.</strong> As of now, it seems that you can log in to Sora if you have a ChatGPT Plus or Pro account.\u00a0</li>\n</ol>\n<p><strong>What if you don\u2019t have a VPN?</strong></p>\n<p>If you don\u2019t have a VPN already, I found this <a href=\"https://www.reddit.com/r/VPN/comments/m736zt/vpn_comparison_table/\">comparison table</a> with quite detailed research. Choose one that suits your budget, as most premium providers should do the trick. In this case, I used NordVPN and it worked well for me.\u00a0</p>\n<p><strong>Possible error message:</strong></p>\n<p>Since a lot of people are trying to log in at the same time, you might run into an error. If that happens, just wait an hour or two and try again - everything should work fine after that.</p>\n<p>I hope this works for you and that you'll be able to try it yourself.</p>",
+            "date_published": "2024-12-13T08:53:28+00:00",
+            "authors": [
+                {
+                    "name": "CuteDiet",
+                    "url": "https://www.reddit.com/user/CuteDiet"
+                }
+            ]
+        },
+        {
             "id": "1h9tz9e",
             "url": "/r/aipromptprogramming/comments/1h9tz9e/best_ai_girlfriend_apps/",
             "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1h9tz9e/best_ai_girlfriend_apps/",
