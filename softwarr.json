@@ -8,6 +8,20 @@
     "favicon": "",
     "items": [
         {
+            "id": "1hdycxj",
+            "url": "/r/Softwarr/comments/1hdycxj/i_present_managarr_a_tui_and_cli_to_manage_your/",
+            "external_url": "https://www.reddit.com/r/Softwarr/comments/1hdycxj/i_present_managarr_a_tui_and_cli_to_manage_your/",
+            "title": "I present: Managarr - a TUI and CLI to manage your Servarr instances (Now with Sonarr support!)",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/Softwarr/comments/1hdycxj/i_present_managarr_a_tui_and_cli_to_manage_your/'>Winston</a> | <a href='https://reddit.com/r/Softwarr/comments/1hdycxj/i_present_managarr_a_tui_and_cli_to_manage_your/'>Reddit</a></caption><div><br></div><p>I was recently furloughed from work. So in between job applications and life, I decided to continue working on my side project. That said, I'm very proud to announce the beta release of Managarr with Sonarr support!</p>\n<p>In short: <a href=\"https://github.com/Dark-Alex-17/managarr\">Managarr is a TUI and CLI to help you manage your Servarr instances</a>.</p>\n<p>Thanks to everyone's feedback when I first announced the alpha release, this release has many performance improvements, UI improvements, and more. So thank you to anyone who took the time to give me some feedback!</p>\n<p>All features that are available in the UI are also available in the CLI so you can automate more things with scripts and whatnot.</p>\n<p>The following is a quick summary of the new features available for Sonarr support:</p>\n<ul>\n<li>View your library, downloads, blocklist, episodes</li>\n<li>View details of a specific series, or episode including description, history, downloaded file info, or the credits</li>\n<li>View your host and security configs from the CLI to programmatically fetch the API token, among other settings</li>\n<li>Search your library</li>\n<li>Add series to your library</li>\n<li>Delete series, downloads, indexers, root folders, and episode files</li>\n<li>Trigger automatic searches for series, seasons, or episodes</li>\n<li>Trigger refresh and disk scan for series and downloads</li>\n<li>Manually search for series, seasons, or episodes</li>\n<li>Edit your series and indexers</li>\n<li>Manage your tags</li>\n<li>Manage your root folders</li>\n<li>Manage your blocklist</li>\n<li>View and browse logs, tasks, events queues, and updates</li>\n<li>Manually trigger scheduled tasks</li>\n<li>Manually trigger scheduled tasks</li>\n<li>And more!</li>\n</ul>\n<p>Screenshots of the new Sonarr tab are <a href=\"https://github.com/Dark-Alex-17/managarr?tab=readme-ov-file#sonarr-1\">available on my repo</a>.</p>\n<p>Once again, thank you to all who gave feedback for the alpha release.</p>",
+            "date_published": "2024-12-14T08:16:18+00:00",
+            "authors": [
+                {
+                    "name": "Hamilcar_Barca_17",
+                    "url": "https://www.reddit.com/user/Hamilcar_Barca_17"
+                }
+            ]
+        },
+        {
             "id": "1gv96rk",
             "url": "/r/Softwarr/comments/1gv96rk/introducing_newznabarr_a_plugin_framework_for_the/",
             "external_url": "https://www.reddit.com/r/Softwarr/comments/1gv96rk/introducing_newznabarr_a_plugin_framework_for_the/",
