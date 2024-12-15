@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1hewmoc",
+            "url": "/r/selfhosted/comments/1hewmoc/would_this_be_enough_for_a_starter_server/",
+            "external_url": "https://www.reddit.com/gallery/1hewmoc",
+            "title": "Would this be enough for a starter server?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1hewmoc/would_this_be_enough_for_a_starter_server/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1hewmoc/would_this_be_enough_for_a_starter_server/'>Reddit</a></caption><div><br></div><p>I found this Dell Optiplex 7020 with 16 GB memory and 1TB HDD for $120. Could it be enough to start with for setting up my first linux distribution and tinkering with web servers/internet radio/Minecraft servers? Would I need to upgrade any of the components? Would it be better to just get an RPi 5?</p>",
+            "date_published": "2024-12-15T16:49:11+00:00",
+            "authors": [
+                {
+                    "name": "RadiatedMolecule",
+                    "url": "https://www.reddit.com/user/RadiatedMolecule"
+                }
+            ]
+        },
+        {
             "id": "1hcm9lx",
             "url": "/r/selfhosted/comments/1hcm9lx/i_fucked_up_really_bad/",
             "external_url": "https://i.redd.it/mdt0dymygf6e1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Samantha_ONeill",
                     "url": "https://www.reddit.com/user/Samantha_ONeill"
-                }
-            ]
-        },
-        {
-            "id": "1aq41bs",
-            "url": "/r/selfhosted/comments/1aq41bs/anyone_else_do_themed_names_for_their_machines/",
-            "external_url": "https://i.redd.it/yjjl2ye00fic1.png",
-            "title": "Anyone else do themed names for their machines?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1aq41bs/anyone_else_do_themed_names_for_their_machines/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1aq41bs/anyone_else_do_themed_names_for_their_machines/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/yjjl2ye00fic1.png\" />",
-            "date_published": "2024-02-13T20:45:26+00:00",
-            "authors": [
-                {
-                    "name": "Nestramutat-",
-                    "url": "https://www.reddit.com/user/Nestramutat-"
                 }
             ]
         }
