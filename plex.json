@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1hfbqbi",
+            "url": "/r/PleX/comments/1hfbqbi/plexamp_v4113_released/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/1hfbqbi/plexamp_v4113_released/",
+            "title": "Plexamp v4.11.3 Released",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1hfbqbi/plexamp_v4113_released/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1hfbqbi/plexamp_v4113_released/'>Reddit</a></caption><div><br></div><h2><a href=\"#p-3726013-plexamp-v4113-1\"></a>Plexamp v4.11.3</h2>\n<p>We wanted to push one more  for you before ! This one has a few great fixes and improvements.</p>\n<p>It might be a bit quiet for the next few months as we\u2019re going to be heads down on the near-mythical v5.0 release, but of course still active in the forums.</p>\n<h3><a href=\"#p-3726013-added-2\"></a>Added</h3>\n<ul>\n<li>Editing existing downloaded playlists and stations.</li>\n<li>Setting downloaded amount to \u201cmaximum\u201d for playlists.</li>\n<li>Adding tracks to track collections.</li>\n<li>New DJ Friendg\u00e4nger.</li>\n</ul>\n<h3><a href=\"#p-3726013-fixed-3\"></a>Fixed</h3>\n<ul>\n<li>Rare cases in which tracks could play simultaneously.</li>\n<li>When stopping playback (holding stop) the next track could appear for a split second.</li>\n<li>Avoid adding signed in user when offering to grant access to playlist.</li>\n<li>High CPU/battery usage after switching view type in playlist.</li>\n<li>Unexpected network usage on cellular.</li>\n<li>Allow refreshing download items while downloads are in progress.</li>\n<li>When refreshing all downloaded items, make sure to complete incomplete items.</li>\n<li>Make track artist display check case insensitive.</li>\n<li>Made download limit slider non-linear for improved control.</li>\n<li>Allow editing downloaded stations and artist shuffles.</li>\n<li>In some cases downloads could occur on cellular even when setting disallowed.</li>\n<li>Library screen didn\u2019t filter playlists by selected library.</li>\n<li>When losing and regaining network, CarPlay/Android Auto wouldn\u2019t reload properly.</li>\n<li>Top crash when audio streams are being closed.</li>\n<li>Manual collections can be used in filters.</li>\n<li>Android: In some cases, the app could delete recently accessed media cache files.</li>\n<li>iOS: Control Center track progress could be incorrect.</li>\n<li>iOS: Occasional crash when player state is updating.</li>\n<li>iOS: Crash when first opening cast menu.</li>\n<li>iOS: When doing quick player switching, music could start playing on device.</li>\n<li>iOS: Possible layout issues on iPhone 16s.</li>\n<li>Mesh: Improve reliability of player startup.</li>\n</ul>\n<p>Source: https://forums.plex.tv/t/221280/77</p>",
+            "date_published": "2024-12-16T05:02:39+00:00",
+            "authors": [
+                {
+                    "name": "samwiseg0",
+                    "url": "https://www.reddit.com/user/samwiseg0"
+                }
+            ]
+        },
+        {
             "id": "1hbs4t6",
             "url": "/r/PleX/comments/1hbs4t6/my_new_minimalistic_plex_setup_mini_pc_das/",
             "external_url": "https://i.redd.it/v28ehq28o76e1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Menotti",
                     "url": "https://www.reddit.com/user/Menotti"
-                }
-            ]
-        },
-        {
-            "id": "190rblo",
-            "url": "/r/PleX/comments/190rblo/the_hero_we_all_need/",
-            "external_url": "https://i.redd.it/prnuh3f4k0bc1.jpeg",
-            "title": "The hero we all need",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/190rblo/the_hero_we_all_need/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/190rblo/the_hero_we_all_need/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/prnuh3f4k0bc1.jpeg\" />",
-            "date_published": "2024-01-07T12:42:10+00:00",
-            "authors": [
-                {
-                    "name": "DeluxEquity",
-                    "url": "https://www.reddit.com/user/DeluxEquity"
                 }
             ]
         }
