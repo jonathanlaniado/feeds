@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1hfig7g",
+            "url": "/r/OpenAI/comments/1hfig7g/openai_o1_vs_claude_35_sonnet_which_ones_really/",
+            "external_url": "https://composio.dev/blog/openai-o1-vs-claude-3-5-sonnet/",
+            "title": "OpenAI o1 vs Claude 3.5 Sonnet: Which One\u2019s Really Worth Your $20?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1hfig7g/openai_o1_vs_claude_35_sonnet_which_ones_really/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1hfig7g/openai_o1_vs_claude_35_sonnet_which_ones_really/'>Reddit</a></caption><div><br></div>",
+            "date_published": "2024-12-16T12:54:59+00:00",
+            "authors": [
+                {
+                    "name": "kingai404",
+                    "url": "https://www.reddit.com/user/kingai404"
+                }
+            ]
+        },
+        {
             "id": "1hd2r2b",
             "url": "/r/OpenAI/comments/1hd2r2b/gemini_20_is_what_4o_was_supposed_to_be/",
             "external_url": "https://www.reddit.com/r/OpenAI/comments/1hd2r2b/gemini_20_is_what_4o_was_supposed_to_be/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Blissout91",
                     "url": "https://www.reddit.com/user/Blissout91"
-                }
-            ]
-        },
-        {
-            "id": "1cv0cwl",
-            "url": "/r/OpenAI/comments/1cv0cwl/editing_dalle_images_is_now_possible/",
-            "external_url": "https://i.redd.it/x2svoeooi71d1.jpeg",
-            "title": "Editing DALLE images is now possible",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1cv0cwl/editing_dalle_images_is_now_possible/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1cv0cwl/editing_dalle_images_is_now_possible/'>Reddit</a></caption><div><br></div><p>Today is the first time I\u2019ve seen this feature on my iOS app. </p><div><br></div><img src=\"https://i.redd.it/x2svoeooi71d1.jpeg\" />",
-            "date_published": "2024-05-18T15:54:01+00:00",
-            "authors": [
-                {
-                    "name": "bloodpomegranate",
-                    "url": "https://www.reddit.com/user/bloodpomegranate"
                 }
             ]
         }
