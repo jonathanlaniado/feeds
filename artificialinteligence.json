@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1hh55fh",
+            "url": "/r/ArtificialInteligence/comments/1hh55fh/will_ai_reduce_the_salaries_of_software_engineers/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1hh55fh/will_ai_reduce_the_salaries_of_software_engineers/",
+            "title": "Will AI reduce the salaries of software engineers",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/1hh55fh/will_ai_reduce_the_salaries_of_software_engineers/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/1hh55fh/will_ai_reduce_the_salaries_of_software_engineers/'>Reddit</a></caption><div><br></div><p>I've been a software engineer for 35+ years.  It was a lucrative career that allowed me to retire early, but I still code for fun.  I've been using AI a lot for a recent coding project and I'm blown away by how much easier the task is now, though my skills are still necessary to put the AI-generated pieces together into a finished product.   My prediction is that AI will not necessarily \"replace\" the job of a software engineer, but it will reduce the skill and time requirement so much that average salaries and education requirements will go down significantly.  Software engineering will no longer be a lucrative career.   And this threat is imminent, not long-term.  Thoughts?</p>",
+            "date_published": "2024-12-18T16:20:09+00:00",
+            "authors": [
+                {
+                    "name": "tophermiller",
+                    "url": "https://www.reddit.com/user/tophermiller"
+                }
+            ]
+        },
+        {
             "id": "1hby9s3",
             "url": "/r/ArtificialInteligence/comments/1hby9s3/anyone_else_just_completely_lost_interest_in_the/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1hby9s3/anyone_else_just_completely_lost_interest_in_the/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Senior_tasteey",
                     "url": "https://www.reddit.com/user/Senior_tasteey"
-                }
-            ]
-        },
-        {
-            "id": "191s6ly",
-            "url": "/r/ArtificialInteligence/comments/191s6ly/openai_says_its_impossible_to_create_ai_tools/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/191s6ly/openai_says_its_impossible_to_create_ai_tools/",
-            "title": "OpenAI says it's \u2018impossible\u2019 to create AI tools without copyrighted material",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/191s6ly/openai_says_its_impossible_to_create_ai_tools/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/191s6ly/openai_says_its_impossible_to_create_ai_tools/'>Reddit</a></caption><div><br></div><p><a href=\"https://openai.com/blog/openai-and-journalism\">OpenAI has stated</a> it's impossible to create advanced AI tools like ChatGPT without utilizing copyrighted material, amidst increasing scrutiny and lawsuits from entities like the New York Times and authors such as George RR Martin.</p>\n<p><strong>Key facts</strong></p>\n<ul>\n<li>OpenAI highlights the ubiquity of copyright in digital content, emphasizing the necessity of using such materials for training sophisticated AI like GPT-4.</li>\n<li>The company faces lawsuits from the New York Times and authors alleging unlawful use of copyrighted content, signifying growing legal challenges in the AI industry.</li>\n<li>OpenAI argues that restricting training data to public domain materials would lead to inadequate AI systems, unable to meet modern needs.</li>\n<li>The company leans on the \"fair use\" legal doctrine, asserting that copyright laws don't prohibit AI training, indicating a defense strategy against lawsuits.</li>\n</ul>\n<p>Source (<a href=\"https://www.theguardian.com/technology/2024/jan/08/ai-tools-chatgpt-copyrighted-material-openai\">The Guardian</a>)</p>\n<p><strong>PS: If you enjoyed this post</strong>, <a href=\"http://techpresso.xyz/\">you\u2019ll love my newsletter</a>. It\u2019s already being read by <strong>40,000+ professionals</strong> from <strong>OpenAI, Google, Meta</strong>\u2026</p>",
-            "date_published": "2024-01-08T18:32:51+00:00",
-            "authors": [
-                {
-                    "name": "Nalix01",
-                    "url": "https://www.reddit.com/user/Nalix01"
                 }
             ]
         }
