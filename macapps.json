@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1hkxwgz",
+            "url": "/r/macapps/comments/1hkxwgz/builtin_mac_dictation_was_awful_so_i_built_my_own/",
+            "external_url": "https://v.redd.it/6akaffi32o8e1",
+            "title": "Built-in Mac dictation was awful so I built my own called TalkText",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1hkxwgz/builtin_mac_dictation_was_awful_so_i_built_my_own/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1hkxwgz/builtin_mac_dictation_was_awful_so_i_built_my_own/'>Reddit</a></caption><div><br></div><p>I found built-in dictation awful for use day to day, especially when I had to think on the spot.</p>\n<p>So I built TalkText.io, a free to download macOS app that works anywhere you can type on your Mac. It allows you to speak naturally and not worry about every mistake in your speech being transcribed verbatim, unlocking many use cases.</p>\n<p>It also allows you to select and transform any text - you can select a sentence and ask for it to be rewritten in a certain style. Perhaps you\u2019d like it to be friendlier, more professional, or even to sound like it was written by a pirate - anything is possible.</p>\n<p>You can check it out at: https://talktext.io</p>\n<p>Keen to get some feedback \ud83d\ude00</p>",
+            "date_published": "2024-12-23T21:29:11+00:00",
+            "authors": [
+                {
+                    "name": "jamie452",
+                    "url": "https://www.reddit.com/user/jamie452"
+                }
+            ]
+        },
+        {
             "id": "1hg946x",
             "url": "/r/macapps/comments/1hg946x/regexmate_200_released_a_regex_tool_for_macos/",
             "external_url": "https://github.com/jaywcjlove/regex-mate",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Aviorrok",
                     "url": "https://www.reddit.com/user/Aviorrok"
-                }
-            ]
-        },
-        {
-            "id": "1d3iyxo",
-            "url": "/r/macapps/comments/1d3iyxo/how_many_apps_did_raycast_replace_for_you/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1d3iyxo/how_many_apps_did_raycast_replace_for_you/",
-            "title": "How Many Apps Did Raycast Replace For You?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1d3iyxo/how_many_apps_did_raycast_replace_for_you/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1d3iyxo/how_many_apps_did_raycast_replace_for_you/'>Reddit</a></caption><div><br></div><p>I've been a Raycast user for aout six months. I'd been a Launchbar user for nearly 18 years and it was hard to convince me to try something new. After making the move to Raycast, it was still hard to give up some of the tools I had paid for and was used to for the Raycast alternative. I think I'm finally there now. </p>\n<p><a href=\"https://amerpie.lol/2024/04/25/my-favorite-raycast.html\">My Raycast Favorites - How They Work - What they Replaced</a></p>\n<ol>\n<li>Emoji Search - I gave up Rocket</li>\n<li>Clipboard Manager - I gave up PastePal</li>\n<li>Windows Management - I gave up Divvy</li>\n<li>Image Modification - I quit using Photoshop Elements (mostly)</li>\n<li>Unsplash - I no longer go to the website for images. I use the extension.</li>\n<li>Bitly - I shorten URLS on the clipboard now using an extension</li>\n<li>Kill process - I use the Raycast extension instead of the native tools</li>\n<li>Passwords - I never open the app for my password manager anymore since Raycast can search it.</li>\n<li>Homebrew - I can check my packages for updates without using the command line \n   now.</li>\n</ol>\n<p>10 AI - no separate app needed. You can query various LLMs within Raycast even without a Pro account.</p>",
-            "date_published": "2024-05-29T18:18:31+00:00",
-            "authors": [
-                {
-                    "name": "amerpie",
-                    "url": "https://www.reddit.com/user/amerpie"
                 }
             ]
         }
