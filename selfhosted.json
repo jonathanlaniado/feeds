@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1hl3slu",
+            "url": "/r/selfhosted/comments/1hl3slu/1_day_after_aiming_for_100_uptime_for_1_year/",
+            "external_url": "https://i.redd.it/d3tqm7whkp8e1.jpeg",
+            "title": "1 day after aiming for 100% uptime for 1 year ",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1hl3slu/1_day_after_aiming_for_100_uptime_for_1_year/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1hl3slu/1_day_after_aiming_for_100_uptime_for_1_year/'>Reddit</a></caption><div><br></div><p>So the worst happened, a brief power outage because of a family member (haven't had city one in over 5 years) and because it was so brief that raspberry Pi the server is running on did not reboot properly. </p>\n<p>So let's hope 2025 goes better.</p>\n<p>Currently I'm just running a bit of a test, can a web server (along with some other basic services like this uptime Kuma) run uninterrupted on a raspberry pi. I tried using USB boot but found it to be so slow, it seams to be because the USB controller overheats and throttles, I have even found fast micro USBs to be slower than slower rated ones. I can only put it down to thermal throttling.</p>\n<p>Anyway, off we go again, to 100% (or 99.9999%).</p>\n<p>Thanks to StatusCake I was notified of the outage (free) so it would have been a lot longer and if I was on to it, could have resolved it within a few minutes.</p><div><br></div><img src=\"https://i.redd.it/d3tqm7whkp8e1.jpeg\" />",
+            "date_published": "2024-12-24T02:34:01+00:00",
+            "authors": [
+                {
+                    "name": "thelaughedking",
+                    "url": "https://www.reddit.com/user/thelaughedking"
+                }
+            ]
+        },
+        {
             "id": "1hkqtyc",
             "url": "/r/selfhosted/comments/1hkqtyc/greatful_to_you_guys_5000_users_in_last_3_months/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1hkqtyc/greatful_to_you_guys_5000_users_in_last_3_months/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "auron_py",
                     "url": "https://www.reddit.com/user/auron_py"
-                }
-            ]
-        },
-        {
-            "id": "1b85rq3",
-            "url": "/r/selfhosted/comments/1b85rq3/alternative_to_trello/",
-            "external_url": "https://i.redd.it/mdnrohz32rmc1.jpeg",
-            "title": "Alternative to Trello?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1b85rq3/alternative_to_trello/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1b85rq3/alternative_to_trello/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/mdnrohz32rmc1.jpeg\" />",
-            "date_published": "2024-03-06T17:34:50+00:00",
-            "authors": [
-                {
-                    "name": "deep_rathod",
-                    "url": "https://www.reddit.com/user/deep_rathod"
                 }
             ]
         }
