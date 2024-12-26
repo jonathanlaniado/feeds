@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1hmzf2b",
+            "url": "/r/shortcuts/comments/1hmzf2b/wallet_transaction_tap_numbers_budget_tracker/",
+            "external_url": "https://www.reddit.com/gallery/1hmzf2b",
+            "title": "Wallet Transaction (Tap) -> Numbers Budget Tracker",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1hmzf2b/wallet_transaction_tap_numbers_budget_tracker/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1hmzf2b/wallet_transaction_tap_numbers_budget_tracker/'>Reddit</a></caption><div><br></div><p>Set up an automation that automatically inputs data from when I tap at a business into my budget tracker. All I have to do still is manually input the category.</p>",
+            "date_published": "2024-12-26T22:08:33+00:00",
+            "authors": [
+                {
+                    "name": "lifeof_lyle",
+                    "url": "https://www.reddit.com/user/lifeof_lyle"
+                }
+            ]
+        },
+        {
             "id": "1h9k6gr",
             "url": "/r/shortcuts/comments/1h9k6gr/new_actions_in_the_actions_app/",
             "external_url": "https://www.reddit.com/r/shortcuts/comments/1h9k6gr/new_actions_in_the_actions_app/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "BoraxNumber8",
                     "url": "https://www.reddit.com/user/BoraxNumber8"
-                }
-            ]
-        },
-        {
-            "id": "1931ts5",
-            "url": "/r/shortcuts/comments/1931ts5/automatic_translation_using_shortcuts/",
-            "external_url": "https://i.redd.it/ne5dey125kbc1.jpeg",
-            "title": "Automatic Translation Using Shortcuts",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1931ts5/automatic_translation_using_shortcuts/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1931ts5/automatic_translation_using_shortcuts/'>Reddit</a></caption><div><br></div><p>The iPhone 15 Pro has or will have a special feature to live translate, linked to the action button. Would it be possible to recreate this feature using shortcuts? I would guess ChatGPT or any AI models could be used.  What do ya\u2019ll think \u2014 is it possible?</p><div><br></div><img src=\"https://i.redd.it/ne5dey125kbc1.jpeg\" />",
-            "date_published": "2024-01-10T06:33:18+00:00",
-            "authors": [
-                {
-                    "name": "tprclark",
-                    "url": "https://www.reddit.com/user/tprclark"
                 }
             ]
         }
