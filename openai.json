@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1hmv4v8",
+            "url": "/r/OpenAI/comments/1hmv4v8/chat_gpt_is_down/",
+            "external_url": "https://i.redd.it/kidl8f7dp89e1.png",
+            "title": "CHAT GPT IS DOWN.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1hmv4v8/chat_gpt_is_down/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1hmv4v8/chat_gpt_is_down/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/kidl8f7dp89e1.png\" />",
+            "date_published": "2024-12-26T18:55:29+00:00",
+            "authors": [
+                {
+                    "name": "Crystaleana",
+                    "url": "https://www.reddit.com/user/Crystaleana"
+                }
+            ]
+        },
+        {
             "id": "1hm7ao6",
             "url": "/r/OpenAI/comments/1hm7ao6/im_in_o3_closed_beta_i_am_a_quant_researcher_and/",
             "external_url": "https://i.redd.it/01cquzv9r19e1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "FreshBlinkOnReddit",
                     "url": "https://www.reddit.com/user/FreshBlinkOnReddit"
-                }
-            ]
-        },
-        {
-            "id": "1d5ns1z",
-            "url": "/r/OpenAI/comments/1d5ns1z/yann_lecun_confidently_predicted_that_llms_will/",
-            "external_url": "https://v.redd.it/ab3qxm7cwy3d1",
-            "title": "Yann LeCun confidently predicted that LLMs will never be able to do basic spatial reasoning. 1 year later, GPT-4 proved him wrong.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1d5ns1z/yann_lecun_confidently_predicted_that_llms_will/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1d5ns1z/yann_lecun_confidently_predicted_that_llms_will/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-06-01T14:08:06+00:00",
-            "authors": [
-                {
-                    "name": "dlaltom",
-                    "url": "https://www.reddit.com/user/dlaltom"
                 }
             ]
         }
