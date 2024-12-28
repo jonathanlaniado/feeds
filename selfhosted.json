@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1hnqtcl",
+            "url": "/r/selfhosted/comments/1hnqtcl/pihole_is_a_lot_worth_it_if_you_really_use_it_and/",
+            "external_url": "https://i.redd.it/nmbnevbhwg9e1.png",
+            "title": "Pihole is A LOT worth it if you really use it and put some good and big adlists",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1hnqtcl/pihole_is_a_lot_worth_it_if_you_really_use_it_and/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1hnqtcl/pihole_is_a_lot_worth_it_if_you_really_use_it_and/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/nmbnevbhwg9e1.png\" />",
+            "date_published": "2024-12-27T22:29:17+00:00",
+            "authors": [
+                {
+                    "name": "Aiko_133",
+                    "url": "https://www.reddit.com/user/Aiko_133"
+                }
+            ]
+        },
+        {
             "id": "1hndxbd",
             "url": "/r/selfhosted/comments/1hndxbd/the_big_list_rselfhosteds_most_recommended_tools/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1hndxbd/the_big_list_rselfhosteds_most_recommended_tools/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Aiko_133",
                     "url": "https://www.reddit.com/user/Aiko_133"
-                }
-            ]
-        },
-        {
-            "id": "1bgezig",
-            "url": "/r/selfhosted/comments/1bgezig/i_made_wanderer_a_selfhosted_trail_and_gps_track/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1bgezig/i_made_wanderer_a_selfhosted_trail_and_gps_track/",
-            "title": "I made wanderer - a self-hosted trail and GPS track database",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1bgezig/i_made_wanderer_a_selfhosted_trail_and_gps_track/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1bgezig/i_made_wanderer_a_selfhosted_trail_and_gps_track/'>Reddit</a></caption><div><br></div><p>https://preview.redd.it/bu1capuv7roc1.png?width=3232&amp;format=png&amp;auto=webp&amp;s=45cb59e5d303b8fb73490fb8bed1779408bcbb39</p>\n<p>Over the last two months, I developed wanderer. It is a self-hosted alternative to sites like <a href=\"https://alltrails.com\">alltrails.com</a> or in other words a self-hosted trail database. It started out more as a small hobby project to teach myself some new technologies but in the end, I decided to develop it into a fully-fledged application.</p>\n<p>Core Features:</p>\n<ul>\n<li>Manage your trails</li>\n<li>Extensive map integration and visualization</li>\n<li>Share trails with other people and explore theirs</li>\n<li>Advanced filter and search functionality</li>\n<li>Create custom lists to organize your trails further</li>\n<li>Chique design with a dark and light theme</li>\n<li>Fully mobile compatible</li>\n</ul>\n<p>wanderer is completely open-source. You can find the GitHub repo here:<br />\n<a href=\"https://github.com/Flomp/wanderer\">https://github.com/Flomp/wanderer</a></p>\n<p>wanderer is still under active development so if you encounter any bugs/errors or have suggestions please let me know here or open an issue on GitHub.</p>",
-            "date_published": "2024-03-16T20:13:17+00:00",
-            "authors": [
-                {
-                    "name": "Get_Flomped",
-                    "url": "https://www.reddit.com/user/Get_Flomped"
                 }
             ]
         }
