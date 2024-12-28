@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1ho60d7",
+            "url": "/r/selfhosted/comments/1ho60d7/is_this_a_good_list_so_far/",
+            "external_url": "https://i.imgur.com/EOaQwGL.jpeg",
+            "title": "Is this a good list so far ?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1ho60d7/is_this_a_good_list_so_far/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1ho60d7/is_this_a_good_list_so_far/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.imgur.com/EOaQwGL.jpeg\" />",
+            "date_published": "2024-12-28T13:49:07+00:00",
+            "authors": [
+                {
+                    "name": "MrPanda011",
+                    "url": "https://www.reddit.com/user/MrPanda011"
+                }
+            ]
+        },
+        {
             "id": "1hnqtcl",
             "url": "/r/selfhosted/comments/1hnqtcl/pihole_is_a_lot_worth_it_if_you_really_use_it_and/",
             "external_url": "https://i.redd.it/nmbnevbhwg9e1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "angel2503",
                     "url": "https://www.reddit.com/user/angel2503"
-                }
-            ]
-        },
-        {
-            "id": "1bgikup",
-            "url": "/r/selfhosted/comments/1bgikup/my_first_selfhosted_service/",
-            "external_url": "https://i.redd.it/6w7ubse41soc1.jpeg",
-            "title": "My first selfhosted service",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1bgikup/my_first_selfhosted_service/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1bgikup/my_first_selfhosted_service/'>Reddit</a></caption><div><br></div><p>I always dreamed of selfhosting something with docker and the only device I can do it is my phone, so I did it, plus dnscrypt with dnssec to have a cherry in top</p><div><br></div><img src=\"https://i.redd.it/6w7ubse41soc1.jpeg\" />",
-            "date_published": "2024-03-16T22:59:14+00:00",
-            "authors": [
-                {
-                    "name": "Aiko_133",
-                    "url": "https://www.reddit.com/user/Aiko_133"
                 }
             ]
         }
