@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1hozb4l",
+            "url": "/r/shortcuts/comments/1hozb4l/emergency_shortcut_for_your_loved_ones/",
+            "external_url": "https://www.reddit.com/gallery/1hozb4l",
+            "title": "Emergency shortcut for your loved ones. ",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1hozb4l/emergency_shortcut_for_your_loved_ones/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1hozb4l/emergency_shortcut_for_your_loved_ones/'>Reddit</a></caption><div><br></div><p>My gf has triggered emergency sos in her mobile at 1 am. She added me as emergency contact, so i got those messages. But i only saw it in the morning. I was worried about her, but luckily she is safe as she triggered it by mistake. So I have created a emergency shortcut to not miss any such crucial texts. </p>\n<p>How it works : When you receive a message from specified contacts( Maybe at 1 am ), then the alarm will be auto created at 1:01 am.  </p>\n<p>Added shortcut link below. Pls setup as per the attached screenshots. </p>\n<p>https://www.icloud.com/shortcuts/b5b05b97ff654de58f0971f1d742cc8b</p>",
+            "date_published": "2024-12-29T16:17:53+00:00",
+            "authors": [
+                {
+                    "name": "PappaKiPari143",
+                    "url": "https://www.reddit.com/user/PappaKiPari143"
+                }
+            ]
+        },
+        {
             "id": "1hmzf2b",
             "url": "/r/shortcuts/comments/1hmzf2b/wallet_transaction_tap_numbers_budget_tracker/",
             "external_url": "https://www.reddit.com/gallery/1hmzf2b",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "StudioAlz",
                     "url": "https://www.reddit.com/user/StudioAlz"
-                }
-            ]
-        },
-        {
-            "id": "193875k",
-            "url": "/r/shortcuts/comments/193875k/lock_iphone_from_apple_watch/",
-            "external_url": "https://www.reddit.com/gallery/193875k",
-            "title": "Lock iPhone From Apple Watch",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/193875k/lock_iphone_from_apple_watch/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/193875k/lock_iphone_from_apple_watch/'>Reddit</a></caption><div><br></div><p>Saw some old posts on here about locking your iPhone from your Apple Watch, while I was looking for ways to do it. Figured there\u2019d be people that would also find it useful.</p>\n<p>Pretty simple automation/shortcut, but useful nonetheless.</p>",
-            "date_published": "2024-01-10T13:24:30+00:00",
-            "authors": [
-                {
-                    "name": "BoraxNumber8",
-                    "url": "https://www.reddit.com/user/BoraxNumber8"
                 }
             ]
         }
