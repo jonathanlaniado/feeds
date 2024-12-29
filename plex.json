@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1hp02kb",
+            "url": "/r/PleX/comments/1hp02kb/overseerr_custom_gpt_a_plex_concierge/",
+            "external_url": "https://www.reddit.com/gallery/1hp02kb",
+            "title": "Overseerr \u292b Custom GPT - A Plex Concierge",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1hp02kb/overseerr_custom_gpt_a_plex_concierge/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1hp02kb/overseerr_custom_gpt_a_plex_concierge/'>Reddit</a></caption><div><br></div><p>I recently set up a media management tool by connecting ChatGPT's Custom GPT to Overseerr's API, and it turned out to be pretty useful. It lets you handle tasks like:</p>\n<ul>\n<li><strong>Adding movies and shows to Plex</strong> with simple commands.</li>\n<li><strong>Showing trailer links</strong> for titles you're curious about.</li>\n<li><strong>Distinguishing between 4K and non-4K content</strong> when making requests.</li>\n<li><strong>Providing progress updates and ETAs</strong> on downloads.</li>\n<li><strong>Offering direct links to watch content</strong> in Plex.</li>\n<li><strong>Supporting bulk requests</strong> (e.g., \"Add The Dark Knight, The Simpsons, and The Simpsons Movie.\")</li>\n<li><strong>Answering general questions and making recommendations</strong> about what to watch.</li>\n</ul>\n<h3>Why Did I Make This?</h3>\n<p>No big reason, really. I wanted to practice building Custom GPTs and had a bit of free time. It turned out to be pretty fun to use, especially for quickly finding and adding content. You can even share it with friends or family so they can make requests too.</p>\n<h3>Want to Try It Out?</h3>\n<p>If you already have Plex, Sonarr, Radarr, and Overseerr running, it only takes <strong>5-10 minutes</strong> to set up. You will also need a <strong>ChatGPT Plus subscription</strong>.</p>\n<p>I put together a <a href=\"https://github.com/UnderwaterOverground/Plex-Concierge\">GitHub Repo</a> with the steps and snippets I used for my setup. No need for extra hosting.</p>\n<p>Feel free to check it out and let me know if you give it a shot!</p>",
+            "date_published": "2024-12-29T16:52:51+00:00",
+            "authors": [
+                {
+                    "name": "UnderwaterOverground",
+                    "url": "https://www.reddit.com/user/UnderwaterOverground"
+                }
+            ]
+        },
+        {
             "id": "1hnc7tc",
             "url": "/r/PleX/comments/1hnc7tc/lifetime_plex_pass_on_sale_9599/",
             "external_url": "https://www.reddit.com/r/PleX/comments/1hnc7tc/lifetime_plex_pass_on_sale_9599/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "jl94x4",
                     "url": "https://www.reddit.com/user/jl94x4"
-                }
-            ]
-        },
-        {
-            "id": "19cwy6l",
-            "url": "/r/PleX/comments/19cwy6l/with_all_the_changes_plex_is_making_lately_is/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/19cwy6l/with_all_the_changes_plex_is_making_lately_is/",
-            "title": "With all the changes Plex is making lately, is there real concerns for private servers?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/19cwy6l/with_all_the_changes_plex_is_making_lately_is/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/19cwy6l/with_all_the_changes_plex_is_making_lately_is/'>Reddit</a></caption><div><br></div><p>Today is the first time i actually thought plex might stop private servers since even guides on direct playing is taking down, am i being paranoid? Do you think there is a chance plex pull the plug?</p>",
-            "date_published": "2024-01-22T14:32:57+00:00",
-            "authors": [
-                {
-                    "name": "studioleaks",
-                    "url": "https://www.reddit.com/user/studioleaks"
                 }
             ]
         }
