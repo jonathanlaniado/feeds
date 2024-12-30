@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1hparoc",
+            "url": "/r/PleX/comments/1hparoc/cool_new_plex_feature/",
+            "external_url": "https://i.redd.it/hrmt5uwjvv9e1.jpeg",
+            "title": "Cool new Plex Feature",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1hparoc/cool_new_plex_feature/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1hparoc/cool_new_plex_feature/'>Reddit</a></caption><div><br></div><p>(\u2026.ignore the 4th pic, it wasn\u2019t supposed to be in the collage)</p>\n<p>So AnyWho, a new feature I noticed on Plex is when you go to a movie/TV Show and if you click on that actor or actresses profile, not only will it show movies and TV shows that they\u2019ve been in as well as their bio but if that particular actor or actress has certain videos uploaded now Plex includes that when you look up their profile.</p>\n<p>As you can see with the example I used with Serial mom I clicked on the movie, clicked on Kathleen Turner, scroll downed and now it has the \u201cfeatured videos\u201d option</p>\n<p>May not seem like a cool thing to others, but I thought it was a pretty dope feature recently added to Plex</p><div><br></div><img src=\"https://i.redd.it/hrmt5uwjvv9e1.jpeg\" />",
+            "date_published": "2024-12-30T00:50:48+00:00",
+            "authors": [
+                {
+                    "name": "Kye_life",
+                    "url": "https://www.reddit.com/user/Kye_life"
+                }
+            ]
+        },
+        {
             "id": "1hp02kb",
             "url": "/r/PleX/comments/1hp02kb/overseerr_custom_gpt_a_plex_concierge/",
             "external_url": "https://www.reddit.com/gallery/1hp02kb",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "clanginator",
                     "url": "https://www.reddit.com/user/clanginator"
-                }
-            ]
-        },
-        {
-            "id": "19d60q0",
-            "url": "/r/PleX/comments/19d60q0/huge_new_things_coming_to_plex_in_2024_and_it/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/19d60q0/huge_new_things_coming_to_plex_in_2024_and_it/",
-            "title": "Huge new things coming to Plex in 2024 - and it doesn't make good reading",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/19d60q0/huge_new_things_coming_to_plex_in_2024_and_it/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/19d60q0/huge_new_things_coming_to_plex_in_2024_and_it/'>Reddit</a></caption><div><br></div><p>So firstly this is the article in question. </p>\n<p>https://thestreamable.com/news/plex-adding-ability-to-rent-purchase-movies-in-early-february</p>\n<p>Most of it is extracted from the paywalled original article;</p>\n<p>https://www.lowpass.cc/p/plex-store-movies-tv-shows-tvod-vod</p>\n<p>A few things stand out in this article, its quite clear whoever wrote the article has an inside scoop on the goings on at Plex for this year, teasing a \"significant\" redesign, but more crucially, uses the word \"currently\" when talking about Plex allowing users to have their own files on their servers.</p>\n<p>Couple this with a few DMCA takedowns recently (quite a coincidence that they're bringing out a store at the same time as employing a company to act on behalf of their takedowns.)</p>\n<p>Here is the signed form that Markscan is acting on behalf of Plex, for anyone unsure of the credibility.</p>\n<p>https://markscan.co.in/loa/Plex_LOA.pdf</p>\n<p>Anyone else worried this may be the end of our own media servers with Plex?</p>",
-            "date_published": "2024-01-22T20:52:48+00:00",
-            "authors": [
-                {
-                    "name": "jl94x4",
-                    "url": "https://www.reddit.com/user/jl94x4"
                 }
             ]
         }
