@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1hrfxyq",
+            "url": "/r/aipromptprogramming/comments/1hrfxyq/im_gonna_say_this_because_no_one_else_seems_to/",
+            "external_url": "https://i.redd.it/l1mbb8mwxgae1.jpeg",
+            "title": "\ud83c\udde8\ud83c\uddf3 I\u2019m gonna say this because no one else seems to want to: Chinese Open Source LLMs are essentially Trojan horses. Here\u2019s why.",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1hrfxyq/im_gonna_say_this_because_no_one_else_seems_to/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1hrfxyq/im_gonna_say_this_because_no_one_else_seems_to/'>Reddit</a></caption><div><br></div><p>In my various tests I noticed Deepseek and Qwen have a tendency subtly lie about known facts and suggest Chinese code libraries, many of which have known exploits. Digging a little deeper, I noticed that these quirks are actually hardcoded directly into the logic of the models themselves. </p>\n<p>Why?</p>\n<p>One of the easiest ways to influence large populations is by controlling the flow and framing of information. Historically, this was done through platforms like Google and social media networks. Think TikTok. </p>\n<p>With the rise of low-cost, highly capable Chinese LLMs like DeepSeek and Qwen, those barriers are falling. These models aren\u2019t just technologically advanced\u2014they\u2019re designed with built-in mechanisms for censorship and ideological manipulation. </p>\n<p>These models also distort information, actively denying events like the Tiananmen Square protests or reframed human rights abuses as falsehoods. </p>\n<p>These systems are subtle in their influence, embedding biases and distortions under the guise of neutrality. By making these tools widely accessible and affordable, China isn\u2019t just exporting technology\u2014it\u2019s exporting narratives, ideologies and technical exploits.</p>\n<p>The power of these LLMs lies in their ability to adapt and infiltrate new domains. Their low cost makes them appealing to industries and governments globally, embedding them into infrastructure where they can subtly manipulate information consumption and decision-making. </p>\n<p>The shift from platform-based control to model-based influence represents a seismic change, one that demands scrutiny and safeguards. </p>\n<p>This isn\u2019t just about technology; it\u2019s about who controls the truth. My suggestion is to avoid Chinese LLMs at all costs.</p><div><br></div><img src=\"https://i.redd.it/l1mbb8mwxgae1.jpeg\" />",
+            "date_published": "2025-01-01T23:41:24+00:00",
+            "authors": [
+                {
+                    "name": "Educational_Ice151",
+                    "url": "https://www.reddit.com/user/Educational_Ice151"
+                }
+            ]
+        },
+        {
             "id": "1ho87wb",
             "url": "/r/aipromptprogramming/comments/1ho87wb/deepseek_takes_its_censorship_propaganda_very/",
             "external_url": "https://i.redd.it/u2jah5801m9e1.jpeg",
