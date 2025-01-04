@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1htlgly",
+            "url": "/r/ArtificialInteligence/comments/1htlgly/hot_take_ai_will_probably_write_code_that_looks/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1htlgly/hot_take_ai_will_probably_write_code_that_looks/",
+            "title": "Hot take: AI will probably write code that looks like gibberish to humans (and why that makes sense)\n",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/1htlgly/hot_take_ai_will_probably_write_code_that_looks/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/1htlgly/hot_take_ai_will_probably_write_code_that_looks/'>Reddit</a></caption><div><br></div><p>Shower thought that's been living rent-free in my head:</p>\n<p>So I was thinking about how future AI will handle coding, and oh boy, this rabbit hole goes deeper than I initially thought \ud83d\udc40</p>\n<p>Here's my spicy take:</p>\n<ol>\n<li>AI doesn't need human-readable code - it can work with any format that's efficient for it</li>\n<li>Here's the kicker: <em>Eventually, maintaining human-readable programming languages and their libraries might become economically impractical</em></li>\n</ol>\n<p>Think about it:</p>\n<ul>\n<li>We created languages like Python, JavaScript, etc., because humans needed to understand and maintain code</li>\n<li>But if AI becomes the primary code writer/maintainer, why keep investing in making things human-readable?</li>\n<li>All those beautiful frameworks and libraries we love? They might become legacy code that's too expensive to maintain in human-readable form</li>\n</ul>\n<p>It's like keeping horse carriages after cars became mainstream - sure, some people still use them, but they're not the primary mode of transportation anymore.</p>\n<p>Maybe we're heading towards a future where:</p>\n<ul>\n<li>Current programming languages become \"legacy systems\"</li>\n<li>New, AI-optimized languages take over (looking like complete gibberish to us)</li>\n<li>Human-readable code becomes a luxury rather than the standard</li>\n</ul>\n<p>Wild thought: What if in 20 years, being able to read \"traditional\" code becomes a niche skill, like knowing COBOL is today? \ud83d\udcad</p>\n<p>What do y'all think? Am I smoking something, or does this actually make sense from a practical/economic perspective?</p>\n<p>Edit: Yes, I know current AI is focused on human-readable code. This is more about where things might go once AI becomes the primary maintainer of most codebases.</p>\n<p>TLDR: AI might make human-readable programming languages obsolete because maintaining them won't make economic sense anymore, just like how we stopped optimizing for horse-drawn carriages once cars took over.</p>",
+            "date_published": "2025-01-04T18:57:30+00:00",
+            "authors": [
+                {
+                    "name": "gizia",
+                    "url": "https://www.reddit.com/user/gizia"
+                }
+            ]
+        },
+        {
             "id": "1hnm7sg",
             "url": "/r/ArtificialInteligence/comments/1hnm7sg/godfather_of_ai_shortens_odds_of_the_technology/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1hnm7sg/godfather_of_ai_shortens_odds_of_the_technology/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Beranti93",
                     "url": "https://www.reddit.com/user/Beranti93"
-                }
-            ]
-        },
-        {
-            "id": "196txf5",
-            "url": "/r/ArtificialInteligence/comments/196txf5/googles_new_medical_aiamie_outperforms_real/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/196txf5/googles_new_medical_aiamie_outperforms_real/",
-            "title": "Google's new medical AI(AMIE) outperforms real doctors in every metric at diagnosing patients",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/196txf5/googles_new_medical_aiamie_outperforms_real/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/196txf5/googles_new_medical_aiamie_outperforms_real/'>Reddit</a></caption><div><br></div><p>Link to article here: https://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html?m=1</p>\n<p>Link to paper: \nhttps://arxiv.org/abs/2401.05654</p>\n<p>AMIE is an LLM that makes diagnoses by interacting with patients and asking them questions about their condition, a huge step up from Google's previous medical AI. AMIE outperforms real doctors in diagnosis accuracy, recommendations, and even empathy. What's interesting is LLM &gt; doctors + LLM, going against the idea that AI will be working with doctors rather than replacing them.</p>\n<p>What are your thoughts on how feasible this AI is in a real world setting and on the future of human vs AI doctors?</p>",
-            "date_published": "2024-01-14T23:39:32+00:00",
-            "authors": [
-                {
-                    "name": "Bchalup2348",
-                    "url": "https://www.reddit.com/user/Bchalup2348"
                 }
             ]
         }
