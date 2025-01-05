@@ -8,6 +8,20 @@
     "favicon": "",
     "items": [
         {
+            "id": "1hueo6y",
+            "url": "/r/Softwarr/comments/1hueo6y/auto_upscale_arr_stack/",
+            "external_url": "https://i.redd.it/e4p87pd768be1.png",
+            "title": "Auto upscale arr stack",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/Softwarr/comments/1hueo6y/auto_upscale_arr_stack/'>Winston</a> | <a href='https://reddit.com/r/Softwarr/comments/1hueo6y/auto_upscale_arr_stack/'>Reddit</a></caption><div><br></div><p>I'm am looking to set up an full arr stack in combination with my jellyfin. I want to be able to watch this content in 4k, always. This is just because I am somewhat of an pixel geek. For this I want to add an extra step in my setup but I don't know if that's possible. </p>\n<p>I added an image where I wrote ai upscale here. So the step between the download and moving it to the right folder for jellyfin to see it. Is it possible to set up a docker in truenas so it upscales the content to 4k and then moves it to the folder for jellyfin to see it. And if 4k already move it directly to the right folder. </p>\n<p>Already thanks for your help!</p><div><br></div><img src=\"https://i.redd.it/e4p87pd768be1.png\" />",
+            "date_published": "2025-01-05T19:16:01+00:00",
+            "authors": [
+                {
+                    "name": "Delicious-Height-258",
+                    "url": "https://www.reddit.com/user/Delicious-Height-258"
+                }
+            ]
+        },
+        {
             "id": "1hdycxj",
             "url": "/r/Softwarr/comments/1hdycxj/i_present_managarr_a_tui_and_cli_to_manage_your/",
             "external_url": "https://www.reddit.com/r/Softwarr/comments/1hdycxj/i_present_managarr_a_tui_and_cli_to_manage_your/",
