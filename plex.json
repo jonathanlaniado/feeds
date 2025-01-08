@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1hww55i",
+            "url": "/r/PleX/comments/1hww55i/this_makes_me_happy/",
+            "external_url": "https://i.redd.it/e9wbsyujdube1.jpeg",
+            "title": "This makes me happy!",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1hww55i/this_makes_me_happy/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1hww55i/this_makes_me_happy/'>Reddit</a></caption><div><br></div><p>I\u2019m incredibly pleased to see that all five users are direct playing. Very rewarding to see people enjoying it given the time I\u2019ve spent curating my collection\ud83d\udc4c</p>\n<p>Not the most users at one time, but the only time I\u2019ve managed to snap a screenshot of it \ud83d\ude02</p><div><br></div><img src=\"https://i.redd.it/e9wbsyujdube1.jpeg\" />",
+            "date_published": "2025-01-08T21:56:23+00:00",
+            "authors": [
+                {
+                    "name": "LyteUniverse",
+                    "url": "https://www.reddit.com/user/LyteUniverse"
+                }
+            ]
+        },
+        {
             "id": "1hvauis",
             "url": "/r/PleX/comments/1hvauis/plex_will_start_testing_its_new_tv_app_on_apple/",
             "external_url": "https://www.lowpass.cc/p/plex-apple-tv-app-relaunch-tvos-react-native",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Super_Bob",
                     "url": "https://www.reddit.com/user/Super_Bob"
-                }
-            ]
-        },
-        {
-            "id": "1ad3n84",
-            "url": "/r/PleX/comments/1ad3n84/i_got_greedy_and_upgraded_my_library_to_4k_and/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/1ad3n84/i_got_greedy_and_upgraded_my_library_to_4k_and/",
-            "title": "I got greedy and upgraded my Library to 4k and now I need more power",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1ad3n84/i_got_greedy_and_upgraded_my_library_to_4k_and/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1ad3n84/i_got_greedy_and_upgraded_my_library_to_4k_and/'>Reddit</a></caption><div><br></div><p>So I have an old PC that I have been using for Plex Media server. Around 60TB library. </p>\n<p>It has worked great for me and my family until last week I started upgrading media to 4k and now CPU is always 90-100% and yesterday only 2 users where watching and Plex was doing some media work in the background resulting in errors for viewer that movie stopped and they could not reach the server. </p>\n<p>Ideally I want to be able to have 5-8 connections at the same time. What GPU do I need for that? </p>\n<p>I currently have I7-2600 and 16gb RAM and no GPU. Advise needed.</p>",
-            "date_published": "2024-01-28T14:19:07+00:00",
-            "authors": [
-                {
-                    "name": "GunGun-Iceland",
-                    "url": "https://www.reddit.com/user/GunGun-Iceland"
                 }
             ]
         }
