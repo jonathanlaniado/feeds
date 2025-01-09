@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1hxcsb8",
+            "url": "/r/aipromptprogramming/comments/1hxcsb8/blind_coding_30_of_ai_centric_coding_involves/",
+            "external_url": "https://i.redd.it/mhypfl8uzybe1.jpeg",
+            "title": "Blind coding.. 30% of Ai centric coding involves fixing everything that worked 5 minutes ago. What are we really learning?",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1hxcsb8/blind_coding_30_of_ai_centric_coding_involves/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1hxcsb8/blind_coding_30_of_ai_centric_coding_involves/'>Reddit</a></caption><div><br></div><p>A recent tweet highlighted a trend I\u2019ve been noticing: non-engineers leveraging AI for coding often reach about 70% of their project effortlessly, only to stall when tackling the final 30%. </p>\n<p>This \u201c70% problem\u201d underscores a critical limitation in current AI-assisted development tools. Initially, tools like v0 or Cline seem almost magical, transforming vague ideas into functional prototypes with by asking a few questions. </p>\n<p>However, as projects advance, users encounter a frustrating cycle of bugs and fixes that AI struggles to resolve effectively.</p>\n<p>The bug rabbit hole.. The typical pattern unfolds like this: you fix a minor bug, the AI suggests a seemingly good change, only to introduce new issues. This loop continues, creating more problems than solutions.</p>\n<p>For non-engineers, this is especially challenging because they lack the deep understanding needed to diagnose and address these errors. Unlike seasoned developers who can draw on extensive experience to troubleshoot, non-engineers find themselves stuck in a game of whack-a-mole with their code randomly fixing issue without any real idea of what or how these bugs are being fixed.</p>\n<p>This reliance on AI hampers genuine learning. When code is generated without comprehension, users miss out on developing essential debugging skills, understanding fundamental patterns, and making informed architectural decisions. </p>\n<p>This dependency not only limits their ability to maintain and evolve their projects but also prevents them from gaining the expertise needed to overcome these inevitable hurdles independently. </p>\n<p>Don\u2019t ask me how I did it, I just it did it and it was hard. </p>\n<p>The 70% problem highlights a paradox: while AI democratizes coding, it may also impede the very learning it seeks to facilitate.</p><div><br></div><img src=\"https://i.redd.it/mhypfl8uzybe1.jpeg\" />",
+            "date_published": "2025-01-09T13:28:27+00:00",
+            "authors": [
+                {
+                    "name": "Educational_Ice151",
+                    "url": "https://www.reddit.com/user/Educational_Ice151"
+                }
+            ]
+        },
+        {
             "id": "1hsn76o",
             "url": "/r/aipromptprogramming/comments/1hsn76o/ai_coder_with_project_management_and_ability_to/",
             "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1hsn76o/ai_coder_with_project_management_and_ability_to/",
