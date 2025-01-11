@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1hyznft",
+            "url": "/r/PleX/comments/1hyznft/3d_printed_a_traveling_plex_media_center/",
+            "external_url": "https://www.reddit.com/gallery/1hyznft",
+            "title": "3d Printed a traveling Plex media center:",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1hyznft/3d_printed_a_traveling_plex_media_center/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1hyznft/3d_printed_a_traveling_plex_media_center/'>Reddit</a></caption><div><br></div><p>I 3d printed a \u201ccase\u201d to create a mobile media center. Basically by plugging this into any outlet, I can wirelessly stream my media via all our Plex devices. All in all it cost me $300 for all parts involved.</p>\n<p>It houses 5 individual parts: 1. A travel router that provides a wireless signal to connect to. It doesn\u2019t need internet; its purpose is to just broadcast Plex\u2019s content to our devices. 2. The server. A Zimaboard that runs Plex Media Server 3. The hard drive. It stores over 200TB of digital content. 4. A cooling fan to keep the server from over heating. 5. The extension cord. This, once plugged in, provides power to the devices listed above. </p>\n<p>It\u2019s \u201csmallish\u201d footprint allows me to leave it in my backpack, simply pull out the end of the extension cord, plug it in, and \u201cBob\u2019s your uncle\u201d, we can all watch our plex content regardless of sitting close to each other (the wireless router creates the network for us to connect to). Been a long time Plex user and this makes it even more useful for us.</p>",
+            "date_published": "2025-01-11T16:32:36+00:00",
+            "authors": [
+                {
+                    "name": "gedwards11",
+                    "url": "https://www.reddit.com/user/gedwards11"
+                }
+            ]
+        },
+        {
             "id": "1hww55i",
             "url": "/r/PleX/comments/1hww55i/this_makes_me_happy/",
             "external_url": "https://i.redd.it/e9wbsyujdube1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "shiruken",
                     "url": "https://www.reddit.com/user/shiruken"
-                }
-            ]
-        },
-        {
-            "id": "1aepwxm",
-            "url": "/r/PleX/comments/1aepwxm/streaming_media_company_plex_raises_40m_as_it/",
-            "external_url": "https://techcrunch.com/2024/01/29/streaming-media-company-plex-raises-new-funds-as-it-nears-profitability/",
-            "title": "Streaming media company Plex raises $40M as it nears profitability | TechCrunch",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1aepwxm/streaming_media_company_plex_raises_40m_as_it/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1aepwxm/streaming_media_company_plex_raises_40m_as_it/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-01-30T14:40:09+00:00",
-            "authors": [
-                {
-                    "name": "Super_Bob",
-                    "url": "https://www.reddit.com/user/Super_Bob"
                 }
             ]
         }
