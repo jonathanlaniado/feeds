@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1i3pvse",
+            "url": "/r/PleX/comments/1i3pvse/hvec_encoding_to_be_released_for_plex_next_week/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/1i3pvse/hvec_encoding_to_be_released_for_plex_next_week/",
+            "title": "HVEC Encoding to be released for Plex next week",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1i3pvse/hvec_encoding_to_be_released_for_plex_next_week/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1i3pvse/hvec_encoding_to_be_released_for_plex_next_week/'>Reddit</a></caption><div><br></div><p>After the HVEC encoding preview late last year, a Plex employee has confirmed it will be released publically next Wednesday 22nd January</p>\n<p><a href=\"https://forums.plex.tv/t/hevc-encoding-forum-preview/888127/731\">https://forums.plex.tv/t/hevc-encoding-forum-preview/888127/731</a></p>",
+            "date_published": "2025-01-17T20:27:34+00:00",
+            "authors": [
+                {
+                    "name": "kesawi2000",
+                    "url": "https://www.reddit.com/user/kesawi2000"
+                }
+            ]
+        },
+        {
             "id": "1i2s1ln",
             "url": "/r/PleX/comments/1i2s1ln/fyitil_firefox_now_supports_hevc_under_windows_no/",
             "external_url": "https://www.reddit.com/gallery/1i2s1ln",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Disgrace2029",
                     "url": "https://www.reddit.com/user/Disgrace2029"
-                }
-            ]
-        },
-        {
-            "id": "1agl92g",
-            "url": "/r/PleX/comments/1agl92g/the_new_posters_are_almost_entirely_worse/",
-            "external_url": "https://www.reddit.com/gallery/1agl92g",
-            "title": "The new posters are almost entirely worse.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1agl92g/the_new_posters_are_almost_entirely_worse/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1agl92g/the_new_posters_are_almost_entirely_worse/'>Reddit</a></caption><div><br></div><p>I knew Plex was changing it's source for movie posters and I thought it would be a neat but non-essential thing they're doing but god I didn't think it would be this bad. It makes every movie in my library look like straight to video Stephen King films. Literally every film that I hadn't changed myself previously now has the worst posters I've ever seen. This is page 40 of postersdb level.</p>\n<p>I have to go through almost every movie in my library apart from the ones I changed myself and change them one by one. What a goof up. Some of them are in other languages than the films they're off. Is anybody reeling from this?</p>",
-            "date_published": "2024-02-01T20:49:53+00:00",
-            "authors": [
-                {
-                    "name": "raphdonniemikeyleo",
-                    "url": "https://www.reddit.com/user/raphdonniemikeyleo"
                 }
             ]
         }
