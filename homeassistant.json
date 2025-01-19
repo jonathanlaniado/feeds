@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1i566dm",
+            "url": "/r/homeassistant/comments/1i566dm/i_found_a_use_for_my_old_ms_surface/",
+            "external_url": "https://www.reddit.com/gallery/1i566dm",
+            "title": "I found a use for my old MS Surface \ud83d\ude02",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1i566dm/i_found_a_use_for_my_old_ms_surface/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1i566dm/i_found_a_use_for_my_old_ms_surface/'>Reddit</a></caption><div><br></div><p>So... I finally found a constructive use for the old ms surface go 3.... Purists are probably turning in their grave seeing an Ubuntu (I ended up re-installing with fedora) next to window logo, but I think the end result turned out pretty nice .</p>\n<p>Despite the post on here earlier about these being pointless - it's really handy on the way out the door, to just tap a button to turn out all the lights rather than yell into the other room to Alexa! \ud83d\ude02</p>\n<p>Still got alot of work to do on the dashboard, but so far pretty pleased with the end result.</p>\n<p>For others wanting to use a surface in the future, I found fedora 41 KDE Plasma to be really quick and easy to get booting into Firefox / kiosk mode without any hassle...</p>\n<p>Only installed home assistant 2 weeks ago (previously was just Tado / hue / Wiz / tapo direct through their own apps or in Alexa app) - but I'm already hooked ..  this is gonna get expensive and time consuming \ud83d\ude02\ud83d\ude02</p>",
+            "date_published": "2025-01-19T19:07:49+00:00",
+            "authors": [
+                {
+                    "name": "Skonamonkey",
+                    "url": "https://www.reddit.com/user/Skonamonkey"
+                }
+            ]
+        },
+        {
             "id": "1i0i75a",
             "url": "/r/homeassistant/comments/1i0i75a/who_else_maintains_the_illusion_of_stability_by/",
             "external_url": "https://i.redd.it/cq9lgbj7isce1.jpeg",
