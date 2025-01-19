@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
     "items": [
         {
+            "id": "1i507j2",
+            "url": "/r/ChatGPTPro/comments/1i507j2/i_studied_openais_prompt_guidelines_so_you_dont/",
+            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1i507j2/i_studied_openais_prompt_guidelines_so_you_dont/",
+            "title": "I studied OpenAI's prompt guidelines so you don't have to",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/ChatGPTPro/comments/1i507j2/i_studied_openais_prompt_guidelines_so_you_dont/'>Winston</a> | <a href='https://reddit.com/r/ChatGPTPro/comments/1i507j2/i_studied_openais_prompt_guidelines_so_you_dont/'>Reddit</a></caption><div><br></div><p>I went through <a href=\"https://platform.openai.com/docs/guides/prompt-engineering\">OpenAI's guidelines</a>. Here's their framework for writing prompts that actually work:</p>\n<h1>The Framework:</h1>\n<ol>\n<li>Include detailed specifications</li>\n<li>Break down steps for completion</li>\n<li>Provide clear examples</li>\n<li>Specify output format</li>\n</ol>\n<h1>Here's how to use it (real example):</h1>\n<p><strong>Basic prompt (what most people write)</strong></p>\n<pre><code>Write Facebook ad copy for colorful socks targeting Gen Z\n</code></pre>\n<p><strong>Improved prompt framework</strong></p>\n<pre><code>[First Layer - Details]\n\nWrite Facebook ad copy for colorful socks targeting Gen Z. The socks feature bold geometric patterns and come in neon colors. They're sustainably made from recycled materials, priced at $12.99 per pair. The brand voice is quirky and bold. Main selling points: unique designs, sustainability, and self-expression. Target Gen Z's values of authenticity, environmental consciousness, and individual style.\n\n[Second Layer - Steps]\n\nSteps:\n1. Start with an attention-grabbing headline emphasizing uniqueness\n2. Write a compelling first line addressing a Gen Z pain point\n3. Present key features/benefits, emphasizing sustainability\n4. Include a clear call-to-action\n5. Keep tone conversational and authentic\n6. Use emojis strategically\n\n[Third Layer - Example]\n\nExample: \n\ud83c\udf08 Life's Too Short for Boring Socks Tired of blending in? Our neon geometric socks are made for those who dare to stand out. Sustainably crafted from recycled materials because your style shouldn't cost the Earth. \ud83c\udf0d Express yourself from the feet up!'\n\n[Fourth Layer - Format]\n\nFormat the output as:\n\n- Primary Text: [Main ad copy with emojis]\n- Headline: [Attention-grabbing headline]\n- Description: [2-3 lines of supporting text]\n- Call to Action: [Button text]\n</code></pre>\n<p>If you're interested in automating this process, I built a tool called Prompt Engine that generates framework-based prompts automatically. Happy to share more details via DM.</p>\n<p>Hope this helps!</p>",
+            "date_published": "2025-01-19T14:56:16+00:00",
+            "authors": [
+                {
+                    "name": "codewithbernard",
+                    "url": "https://www.reddit.com/user/codewithbernard"
+                }
+            ]
+        },
+        {
             "id": "1i2ysg6",
             "url": "/r/ChatGPTPro/comments/1i2ysg6/my_fav_chatgpt_fix/",
             "external_url": "https://i.redd.it/t0d4ksxg3fde1.jpeg",
