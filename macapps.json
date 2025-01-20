@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1i5o40d",
+            "url": "/r/macapps/comments/1i5o40d/guide_the_terminal_for_noobs_like_me/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1i5o40d/guide_the_terminal_for_noobs_like_me/",
+            "title": "Guide: The Terminal \u2013\u00a0For Noobs (Like Me)",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1i5o40d/guide_the_terminal_for_noobs_like_me/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1i5o40d/guide_the_terminal_for_noobs_like_me/'>Reddit</a></caption><div><br></div><p>Yesterday I suddenly spent 7 hours writing a guide I named \"<em><strong>The Terminal \u2013\u00a0For Noobs (Like Me)</strong></em>\" \u2013 so I wanted to share it!</p>\n<p>As the title suggests, I'm absolutely no expert when it comes to the terminal \u2013 but I've started to like it. And if you find the terminal a bit daunting, it might be useful to have a guide written by someone for whom it <em>isn't</em> second nature.</p>\n<p>I've done my best to provide accurate explanations, while still keeping them simple. But please let me know if I've missed the mark!</p>\n<p><strong>This is not meant for those who'll <em>live</em> in the terminal! I guess it's <em>mostly</em> for non-programmers, like myself. My intension is to make it seem more tempting to add to your arsenal of Mac tools. And to reduce the dread when you have to dive into the world of command lines.</strong></p>\n<h4>As it become longer than first expected, I decided to split it up into 3 parts:</h4>\n<ul>\n<li>**<a href=\"https://havn.blog/2025/01/19/the-terminal-for-noobs-like.html\">Part One:** The Basic Concepts</a> (<em>Terminal</em>, <em>CLI</em>, <em>Shell</em>, <em>Prompt</em>,)</li>\n<li>**<a href=\"https://havn.blog/2025/01/19/215237.html\">Part Two:** The <em>Why</em> and _What</a>_</li>\n<li>**<a href=\"https://havn.blog/2025/01/19/220119.html\">Part Three:** A More Noob-Friendly Terminal</a></li>\n</ul>\n<p>Feedback is greatly appreciated! Both from noobs (like me), and from pros.</p>\n<p>If you're a noob, did it help you at all? Does it need more images and examples?</p>\n<p>Am I giving some bad advice or inaccurate statements?</p>\n<p>How do <em>you</em> use the terminal? And what are your feelings toward it?</p>",
+            "date_published": "2025-01-20T11:26:19+00:00",
+            "authors": [
+                {
+                    "name": "ErlendHM",
+                    "url": "https://www.reddit.com/user/ErlendHM"
+                }
+            ]
+        },
+        {
             "id": "1i26sdt",
             "url": "/r/macapps/comments/1i26sdt/havent_used_a_mac_in_ten_years_when_i_was_a_loyal/",
             "external_url": "https://i.redd.it/3l7uvlhmq7de1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Affectionate_Fan9198",
                     "url": "https://www.reddit.com/user/Affectionate_Fan9198"
-                }
-            ]
-        },
-        {
-            "id": "1da7b1z",
-            "url": "/r/macapps/comments/1da7b1z/minimoon_music/",
-            "external_url": "https://i.redd.it/el6ni5a2m45d1.jpeg",
-            "title": "Minimoon Music",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1da7b1z/minimoon_music/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1da7b1z/minimoon_music/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/el6ni5a2m45d1.jpeg\" />",
-            "date_published": "2024-06-07T10:24:14+00:00",
-            "authors": [
-                {
-                    "name": "minnibur",
-                    "url": "https://www.reddit.com/user/minnibur"
                 }
             ]
         }
