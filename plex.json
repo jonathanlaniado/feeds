@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1i5q80g",
+            "url": "/r/PleX/comments/1i5q80g/a_couple_inappropriate_things_regarding_ads/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/1i5q80g/a_couple_inappropriate_things_regarding_ads/",
+            "title": "A couple inappropriate things regarding ads",
+            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1i5q80g/a_couple_inappropriate_things_regarding_ads/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1i5q80g/a_couple_inappropriate_things_regarding_ads/'>Reddit</a></caption><div><br></div><p>Plex lifetime pass holder, if it matters. I basically use Plex for watching my own media, and only very rarely stream Plex-hosted content, and even then its usually movies or shows from the 30s-50s. I pretty much stopped altogether once they started including advertisements though.</p>\n<p>First thing... If I happen to have a show or movie that Plex also offers via streaming, both versions of the media will show up in the Continue Watching section, which are virtually indestinguishable and the Plex-offered version contains ads. This freaked me out until I saw what was going on. The only way I can obviously tell the difference is that one contains a File Type option in a buried menu. I can't see a way to disable this from happening without disabling Plex streaming services entirely. This has been happening for a while and I'm curious if anyone has found a way around this, or if there's some new setting somewhere.</p>\n<p>Second... My wife was flipping around and we found a season of Price is Right from '82, so tried watching an episode. After about 10-ish mins, the very first ad it played was for Skyn condoms and fairly risque, and we were like wtf this is wildly inappropriate but kept watching anyway. When it got to the next ad break it was a 3 minutes cycle and in Spanish, so we just gave up watching altogether. Is there a way to at least keep the ads to G-rated ones, preferably in English?</p>\n<p>If I can't disable adult-oriented ads I'll need to disable Plex streaming entirely because of kids watching. The last thing I need is for Plex to show these types of commercials during kids cartoons or similar. Separate profiles are not a viable solution if we're all sitting together and watching something as a family.</p>",
+            "date_published": "2025-01-20T13:32:52+00:00",
+            "authors": [
+                {
+                    "name": "StriveForMediocrity",
+                    "url": "https://www.reddit.com/user/StriveForMediocrity"
+                }
+            ]
+        },
+        {
             "id": "1i3pvse",
             "url": "/r/PleX/comments/1i3pvse/hvec_encoding_to_be_released_for_plex_next_week/",
             "external_url": "https://www.reddit.com/r/PleX/comments/1i3pvse/hvec_encoding_to_be_released_for_plex_next_week/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "plewis32a",
                     "url": "https://www.reddit.com/user/plewis32a"
-                }
-            ]
-        },
-        {
-            "id": "1aiahzr",
-            "url": "/r/PleX/comments/1aiahzr/has_anyone_gotten_this_before/",
-            "external_url": "https://i.redd.it/cc2vqe1soggc1.jpeg",
-            "title": "Has anyone gotten this before?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1aiahzr/has_anyone_gotten_this_before/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1aiahzr/has_anyone_gotten_this_before/'>Reddit</a></caption><div><br></div><p>A friend of mine got one of these and I am just wondering how do they know if someone is making money? I know people who has a bunch of users on their PLEX and never got one of these. Also would it be worth it to dispute it?</p><div><br></div><img src=\"https://i.redd.it/cc2vqe1soggc1.jpeg\" />",
-            "date_published": "2024-02-04T00:17:47+00:00",
-            "authors": [
-                {
-                    "name": "Disgrace2029",
-                    "url": "https://www.reddit.com/user/Disgrace2029"
                 }
             ]
         }
