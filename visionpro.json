@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_8j837i/styles/communityIcon_nvv8j1jp384b1.png",
     "items": [
         {
+            "id": "1i7jk4d",
+            "url": "/r/VisionPro/comments/1i7jk4d/i_built_a_reallife_visionos_app_prototype_using/",
+            "external_url": "https://v.redd.it/jcsdqr6shlee1",
+            "title": "I built a real-life visionOS app prototype using frosted glass to pitch to a potential client. It took months of work, and I didn\u2019t get a response, so I at least want to share it with you.",
+            "content_html": "",
+            "date_published": "2025-01-22T19:27:27+00:00",
+            "authors": [
+                {
+                    "name": "spatiallyme",
+                    "url": "https://www.reddit.com/user/spatiallyme"
+                }
+            ]
+        },
+        {
             "id": "1i533pv",
             "url": "/r/VisionPro/comments/1i533pv/1_year_ago_today_was_waiting_for_the_preorders_to/",
             "external_url": "https://i.redd.it/fheesujyezde1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "hughred22",
                     "url": "https://www.reddit.com/user/hughred22"
-                }
-            ]
-        },
-        {
-            "id": "18yiup2",
-            "url": "/r/VisionPro/comments/18yiup2/vision_pro_example_of_environmental_occlusion/",
-            "external_url": "https://i.redd.it/9oum4wh9mgac1.jpeg",
-            "title": "Vision Pro example of environmental occlusion from WWDC- it is capable of it but will vary depending on apps.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/VisionPro/comments/18yiup2/vision_pro_example_of_environmental_occlusion/'>Winston</a> | <a href='https://reddit.com/r/VisionPro/comments/18yiup2/vision_pro_example_of_environmental_occlusion/'>Reddit</a></caption><div><br></div><p>There\u2019s a lot of nuance to this discussion. Vision Pro does scan your environment on the fly and is capable of occluding objects. In the example of the movie screen an object will temporarily occlude during placement then the screen will occlude anything in front of it for the purposes of not covering the images you\u2019re viewing.</p><div><br></div><img src=\"https://i.redd.it/9oum4wh9mgac1.jpeg\" />",
-            "date_published": "2024-01-04T17:38:29+00:00",
-            "authors": [
-                {
-                    "name": "Malkmus1979",
-                    "url": "https://www.reddit.com/user/Malkmus1979"
                 }
             ]
         }
