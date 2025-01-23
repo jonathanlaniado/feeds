@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1i816n4",
+            "url": "/r/macapps/comments/1i816n4/i_built_a_faster_than_your_launcher_launcher_for/",
+            "external_url": "https://www.youtube.com/watch?v=hzzQl5FOL-k",
+            "title": "I built a *faster than your launcher* launcher for macOS called Leader Key. It's the perfect sidekick for Raycast, Alfred, etc. And it's FREE and open source! Here's a video I made about it",
+            "content_html": "",
+            "date_published": "2025-01-23T11:21:23+00:00",
+            "authors": [
+                {
+                    "name": "mikker",
+                    "url": "https://www.reddit.com/user/mikker"
+                }
+            ]
+        },
+        {
             "id": "1i5o40d",
             "url": "/r/macapps/comments/1i5o40d/guide_the_terminal_for_noobs_like_me/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1i5o40d/guide_the_terminal_for_noobs_like_me/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "73ch_nerd",
                     "url": "https://www.reddit.com/user/73ch_nerd"
-                }
-            ]
-        },
-        {
-            "id": "1daftes",
-            "url": "/r/macapps/comments/1daftes/ice_menu_bar_manager/",
-            "external_url": "https://icemenubar.app",
-            "title": "Ice - Menu Bar Manager",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1daftes/ice_menu_bar_manager/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1daftes/ice_menu_bar_manager/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-06-07T17:02:12+00:00",
-            "authors": [
-                {
-                    "name": "Affectionate_Fan9198",
-                    "url": "https://www.reddit.com/user/Affectionate_Fan9198"
                 }
             ]
         }
