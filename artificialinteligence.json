@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1i7s5pl",
+            "url": "/r/ArtificialInteligence/comments/1i7s5pl/i_created_a_website_that_live_tracks_executive/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1i7s5pl/i_created_a_website_that_live_tracks_executive/",
+            "title": "I created a website that live tracks executive actions by POTUS and summarizes them using AI.",
+            "content_html": "<p>You can find it\u00a0<a href=\"https://potustracker.lukewin.es/\">here</a>, it's called POTUS Tracker.</p>\n<p>I pull automatically from the President's public schedule and\u00a0<a href=\"http://congress.gov/\">Congress.gov</a>\u00a0for bill summaries. <strong>No AI is used there.</strong></p>\n<p>The executive orders are scraped live from the White House website and fed into GPT-4o-mini with a prompt to summarize them in 300 characters. The backend will also send mobile push notifications to users who have added the site to their home screen.</p>\n<p>Earlier today, Trump signed an executive order designating the Houthis as a terror organization. POTUS Tracker send a notification to all subscribers with the AI summary minutes after his pen left the paper and before any major outlet. </p>\n<p>In the future, I plan to use a local model on the server for more detailed summaries. I also want to experiment with using AI to categorize presidential actions by topic, such as economics, environmental issues, national security, etc.</p>\n<p>I also will be implementing warnings for summaries I haven't reviewed for accuracy.</p>\n<p>Let me know what you think so far, and if there are any features you'd like!</p>",
+            "date_published": "2025-01-23T01:41:23+00:00",
+            "authors": [
+                {
+                    "name": "lukewines",
+                    "url": "https://www.reddit.com/user/lukewines"
+                }
+            ]
+        },
+        {
             "id": "1i7kjlf",
             "url": "/r/ArtificialInteligence/comments/1i7kjlf/anthropic_gets_another_1b_from_google/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1i7kjlf/anthropic_gets_another_1b_from_google/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "NecessaryAnemia",
                     "url": "https://www.reddit.com/user/NecessaryAnemia"
-                }
-            ]
-        },
-        {
-            "id": "199thgg",
-            "url": "/r/ArtificialInteligence/comments/199thgg/things_are_getting_weird/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/199thgg/things_are_getting_weird/",
-            "title": "Things are getting weird..",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/199thgg/things_are_getting_weird/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/199thgg/things_are_getting_weird/'>Reddit</a></caption><div><br></div><p>So yesterday my mom(43) confronted me with a video because she couldn\u2019t tell if it was real or AI. Usually I\u2019m pretty quick to decipher whether or not it\u2019s AI but this was the first time I really had to stop and do some research to find out the truth. The video was of Leonardo decaprio and two other celebrities doing silly stuff in front of a Christmas tree. Technology is accelerating faster than I can keep up with. Do you think we\u2019re approaching singularity and what do you think that will look like for our future generations. Btw I\u2019m 23</p>",
-            "date_published": "2024-01-18T16:03:22+00:00",
-            "authors": [
-                {
-                    "name": "3rd_eye_open333",
-                    "url": "https://www.reddit.com/user/3rd_eye_open333"
                 }
             ]
         }
