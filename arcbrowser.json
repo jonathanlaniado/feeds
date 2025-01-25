@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1i9yt2o",
+            "url": "/r/ArcBrowser/comments/1i9yt2o/dia_is_dead_openai_has_checkmated_tbc/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1i9yt2o/dia_is_dead_openai_has_checkmated_tbc/",
+            "title": "Dia is Dead. OpenAI has checkmated TBC.",
+            "content_html": "<p>OpenAI just released their own browser called <a href=\"https://openai.com/index/introducing-operator/\">Operator</a>. It is an agent that will autonomously browse for you. We already know <a href=\"https://www.linkedin.com/in/darin-fisher-7059ab/\">Darin Fisher</a> (inventor of Chrome) left TBC for OpenAI a few months ago. All the use cases for Dia are eliminated since Operator will be able to do it and more. </p>\n<p>Does anyone see a future for TBC with Arc and Dia both dead ? IMO they have been checkmated out of the ecosystem. </p>",
+            "date_published": "2025-01-25T22:25:39+00:00",
+            "authors": [
+                {
+                    "name": "getflowinsurance",
+                    "url": "https://www.reddit.com/user/getflowinsurance"
+                }
+            ]
+        },
+        {
             "id": "1i82z5n",
             "url": "/r/ArcBrowser/comments/1i82z5n/why_is_everyone_announcing_their_departure_its/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1i82z5n/why_is_everyone_announcing_their_departure_its/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "loek0110",
                     "url": "https://www.reddit.com/user/loek0110"
-                }
-            ]
-        },
-        {
-            "id": "18l63xp",
-            "url": "/r/ArcBrowser/comments/18l63xp/me_checking_my_gmail_every_hour_since_the_windows/",
-            "external_url": "https://i.redd.it/hjinjy4rb17c1.gif",
-            "title": "Me checking my gmail every hour since the windows announcement",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/18l63xp/me_checking_my_gmail_every_hour_since_the_windows/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/18l63xp/me_checking_my_gmail_every_hour_since_the_windows/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/hjinjy4rb17c1.gif\" />",
-            "date_published": "2023-12-18T11:02:35+00:00",
-            "authors": [
-                {
-                    "name": "MohamedxSalah",
-                    "url": "https://www.reddit.com/user/MohamedxSalah"
                 }
             ]
         }
