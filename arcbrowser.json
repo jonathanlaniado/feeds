@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1icb5bn",
+            "url": "/r/ArcBrowser/comments/1icb5bn/early_version_of_arc_sync_available_in_android/",
+            "external_url": "https://www.reddit.com/gallery/1icb5bn",
+            "title": "Early version of Arc sync available in Android",
+            "content_html": "<p>The latest update in Arc android (beta) has rolled out the feature of Arc sync (early version though).\nAre you excited?</p>",
+            "date_published": "2025-01-28T20:17:23+00:00",
+            "authors": [
+                {
+                    "name": "humid_mist",
+                    "url": "https://www.reddit.com/user/humid_mist"
+                }
+            ]
+        },
+        {
             "id": "1i9yt2o",
             "url": "/r/ArcBrowser/comments/1i9yt2o/dia_is_dead_openai_has_checkmated_tbc/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1i9yt2o/dia_is_dead_openai_has_checkmated_tbc/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "JaceThings",
                     "url": "https://www.reddit.com/user/JaceThings"
-                }
-            ]
-        },
-        {
-            "id": "18le5jq",
-            "url": "/r/ArcBrowser/comments/18le5jq/i_guess_the_invites_are_rolling/",
-            "external_url": "https://i.redd.it/g67mw849837c1.png",
-            "title": "I guess the invites are rolling",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/18le5jq/i_guess_the_invites_are_rolling/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/18le5jq/i_guess_the_invites_are_rolling/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/g67mw849837c1.png\" />",
-            "date_published": "2023-12-18T17:24:37+00:00",
-            "authors": [
-                {
-                    "name": "loek0110",
-                    "url": "https://www.reddit.com/user/loek0110"
                 }
             ]
         }
