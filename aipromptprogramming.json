@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1icfdvo",
+            "url": "/r/aipromptprogramming/comments/1icfdvo/i_created_a_brief_tutorial_on_how_to_create_an/",
+            "external_url": "https://i.redd.it/hpis92kzhtfe1.jpeg",
+            "title": "\ud83d\udc0b I created a brief tutorial on how to create an uncensored, self-hosted version DeepSeek R1 using Google Cloud Run.",
+            "content_html": "<p>This tutorial provides a step-by-step guide to deploying and fine-tuning an uncensored DeepSeek R1 Distill model using Google Cloud Run with GPU support. </p>\n<p>By following this guide, you'll set up a scalable API that handles both model inference and fine-tuning, enabling unrestricted AI interactions. </p>\n<p>https://gist.github.com/ruvnet/a4beba51960f6027edc003e05f3a350e</p><div><br></div><img src=\"https://i.redd.it/hpis92kzhtfe1.jpeg\" />",
+            "date_published": "2025-01-28T23:16:01+00:00",
+            "authors": [
+                {
+                    "name": "Educational_Ice151",
+                    "url": "https://www.reddit.com/user/Educational_Ice151"
+                }
+            ]
+        },
+        {
             "id": "1icds47",
             "url": "/r/aipromptprogramming/comments/1icds47/why_deep_seek_is_better_no_confusing_models_just/",
             "external_url": "https://i.redd.it/61wba7nf5tfe1.png",
