@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1iefg5n",
+            "url": "/r/aipromptprogramming/comments/1iefg5n/how_i_code_using_ai_hallucinations_yesterday/",
+            "external_url": "https://i.redd.it/5k6bkjkw5cge1.jpeg",
+            "title": "\ud83e\udde0 How I code using Ai Hallucinations. Yesterday, during the AI Hacker League live coding session, I explored this concept firsthand.",
+            "content_html": "<p>(See video below)</p>\n<p>AI \u201challucinations\u201d represent conjectures\u2014plausible concepts hinting at new possibilities yet to be realized. A conjecture, in its simplest terms, is an idea that appears true but hasn\u2019t been formally proven.</p>\n<p>One of the most interesting aspects of AI, particularly in reasoning models, is its ability to navigate the space between what has been proven and what has yet to be tested. This is where AI \u201challucinations\u201d become more than just mistakes\u2014they become glimpses into what might be possible. </p>\n<p>Many of these so-called hallucinations are not errors but conjectures, ideas that seem plausible yet have never been implemented. </p>\n<p>The challenge\u2014and opportunity\u2014is in recognizing which of these can be transformed into real, working systems.</p>\n<p>In computer science, these conjectures often represent novel solutions\u2014paths that haven\u2019t been taken, architectures that haven\u2019t been tested, ideas waiting for execution. </p>\n<p>The Cohen Conjecture, which I formulated and implemented live, is exactly this: a synthesis of agentic systems and neuro-symbolic reasoning, tested and deployed in under an hour.</p>\n<p>The real breakthrough isn\u2019t just in formulating these conjectures\u2014it\u2019s in proving them, rapidly. With tools like O1 Pro to generate the conjecture itself, Klein and Sonnet 3.5 to write the supporting code, and agentic systems coordinating everything, an entire framework was built, implemented, and deployed in real time. This wasn\u2019t theoretical. It was live, tangible, functional.</p>\n<p>This is where AI changes the game\u2014not by replacing humans, but by amplifying our ability to bridge the gap between theory and reality at speeds we\u2019ve never seen before. What once took months or years can now be tested, built, and deployed in an afternoon. </p>\n<p>The boundary between possibility and implementation has never been thinner.</p>\n<p>The Conjecture: \nhttps://gist.github.com/ruvnet/a872ec910082974116584f623a33b068</p>\n<p>The Implementation: \nhttps://github.com/ruvnet/nova/tree/main/conjecture</p>\n<p>Live Coding (video):</p>\n<p>https://www.kaltura.com/index.php/extwidget/preview/partner_id/5896392/uiconf_id/56085172/entry_id/1_o6vyp9mu/embed/dynamic</p><div><br></div><img src=\"https://i.redd.it/5k6bkjkw5cge1.jpeg\" />",
+            "date_published": "2025-01-31T14:02:08+00:00",
+            "authors": [
+                {
+                    "name": "Educational_Ice151",
+                    "url": "https://www.reddit.com/user/Educational_Ice151"
+                }
+            ]
+        },
+        {
             "id": "1idlj68",
             "url": "/r/aipromptprogramming/comments/1idlj68/what_really_happened/",
             "external_url": "https://i.redd.it/bukh5vqqg4ge1.jpeg",
