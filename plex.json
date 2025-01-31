@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1iegxjm",
+            "url": "/r/PleX/comments/1iegxjm/so_what_now/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/1iegxjm/so_what_now/",
+            "title": "So... what now?",
+            "content_html": "<p>Last April I heard about Plex and decided to give it a try.. before then I was using various USB sticks to move them around the house and play media.</p>\n<p>I happened to have an Intel NUC collecting dust, it was a \"recycled\" unit due to a bad HDMI port.. perfect. </p>\n<p>Fast forward, I have Proxmox set up on 2 PC's (one acting as a NAS, the other is for Plex) the *arrs, Overseerr, Immich, Nextcloud, Threadfin, Tdarr, Kometa, Tautulli, Disque all configured and working as I need/want them to. I also set up some extra services with Python that automate Tdarr and Maintainarr how I need them.</p>\n<p>Over the months I got a little bit addicted to setting things up and the dopamine rush you get once it works..</p>\n<p>Now here I am, my library is full and looks good thanks to Kometa.. I have watch/server stats set up with Tautulli and Trakt, my Tdarr is done normalizing my codecs and creating 2.0 stereo channels... It's quite strange seeing my CPU idling. </p>\n<p>So... what now? I guess I could watch something..</p>",
+            "date_published": "2025-01-31T15:12:00+00:00",
+            "authors": [
+                {
+                    "name": "producer_sometimes",
+                    "url": "https://www.reddit.com/user/producer_sometimes"
+                }
+            ]
+        },
+        {
             "id": "1idri8z",
             "url": "/r/PleX/comments/1idri8z/my_travel_plex_media_sarver/",
             "external_url": "https://www.reddit.com/gallery/1idri8z",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "A_TalkingWalnut",
                     "url": "https://www.reddit.com/user/A_TalkingWalnut"
-                }
-            ]
-        },
-        {
-            "id": "1av2nks",
-            "url": "/r/PleX/comments/1av2nks/holy_cow_plex_is_way_better_than_the_alternatives/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/1av2nks/holy_cow_plex_is_way_better_than_the_alternatives/",
-            "title": "Holy cow, Plex is way better than the alternatives",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1av2nks/holy_cow_plex_is_way_better_than_the_alternatives/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1av2nks/holy_cow_plex_is_way_better_than_the_alternatives/'>Reddit</a></caption><div><br></div><p>Over the past week or so, I've been having some playback issues with movies/shows. So as part of my troubleshooting process, I downloaded both Emby and Jellyfin in an attempt to see whether the issue was Plex or some other part of my system (the issue ended up being something unrelated to Plex).</p>\n<p>All I can say is, wow, Plex is way ahead of the others from what little I saw. I have heard time and time again that Emby and/or Jellyfin are better for x, y, or z reasons, but that was not my experience at all. Both of them organized my libraries horrendously, where Plex handles them like a champ. Sometimes even Plex fumbles the ball a little, but never have I seen such a disorganized mess than I did on those other platforms. </p>\n<p>Maybe it's too harsh to fault the others for poor library organization, but IMO that's a huge part of the experience of watching your content. If you can't even find the show or movie you want to watch from your library, what's even the point? </p>\n<p>I do hope the others can catch up to Plex, because we need good competition in this space. I don't want to feel like Plex is the only good option. But based on my experience the last couple of days, they have some work to do.</p>",
-            "date_published": "2024-02-19T23:42:45+00:00",
-            "authors": [
-                {
-                    "name": "Unhappy_Purpose_7655",
-                    "url": "https://www.reddit.com/user/Unhappy_Purpose_7655"
                 }
             ]
         }
