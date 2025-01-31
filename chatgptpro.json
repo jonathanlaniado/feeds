@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
     "items": [
         {
+            "id": "1ieij9t",
+            "url": "/r/ChatGPTPro/comments/1ieij9t/using_chatgpt_to_learn_prompt_included/",
+            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1ieij9t/using_chatgpt_to_learn_prompt_included/",
+            "title": "Using ChatGPT to learn. Prompt included.",
+            "content_html": "<p>Hello!</p>\n<p>This has been my favorite prompt this year. Using it to kick start my learning for any topic. It breaks down the learning process into actionable steps, complete with research, summarization, and testing. It builds out a framework for you. You'll still have to get it done.</p>\n<p><strong>Prompt:</strong></p>\n<pre><code>[SUBJECT]=Topic or skill to learn\n[CURRENT_LEVEL]=Starting knowledge level (beginner/intermediate/advanced)\n[TIME_AVAILABLE]=Weekly hours available for learning\n[LEARNING_STYLE]=Preferred learning method (visual/auditory/hands-on/reading)\n[GOAL]=Specific learning objective or target skill level\n\nStep 1: Knowledge Assessment\n1. Break down [SUBJECT] into core components\n2. Evaluate complexity levels of each component\n3. Map prerequisites and dependencies\n4. Identify foundational concepts\nOutput detailed skill tree and learning hierarchy\n\n~ Step 2: Learning Path Design\n1. Create progression milestones based on [CURRENT_LEVEL]\n2. Structure topics in optimal learning sequence\n3. Estimate time requirements per topic\n4. Align with [TIME_AVAILABLE] constraints\nOutput structured learning roadmap with timeframes\n\n~ Step 3: Resource Curation\n1. Identify learning materials matching [LEARNING_STYLE]:\n   - Video courses\n   - Books/articles\n   - Interactive exercises\n   - Practice projects\n2. Rank resources by effectiveness\n3. Create resource playlist\nOutput comprehensive resource list with priority order\n\n~ Step 4: Practice Framework\n1. Design exercises for each topic\n2. Create real-world application scenarios\n3. Develop progress checkpoints\n4. Structure review intervals\nOutput practice plan with spaced repetition schedule\n\n~ Step 5: Progress Tracking System\n1. Define measurable progress indicators\n2. Create assessment criteria\n3. Design feedback loops\n4. Establish milestone completion metrics\nOutput progress tracking template and benchmarks\n\n~ Step 6: Study Schedule Generation\n1. Break down learning into daily/weekly tasks\n2. Incorporate rest and review periods\n3. Add checkpoint assessments\n4. Balance theory and practice\nOutput detailed study schedule aligned with [TIME_AVAILABLE]\n</code></pre>\n<p>Make sure you update the variables in the first prompt: SUBJECT, CURRENT_LEVEL, TIME_AVAILABLE, LEARNING_STYLE, and GOAL</p>\n<p>If you don't want to type each prompt manually, you can run the\u00a0Agentic Workers, and it will run autonomously.</p>\n<p>Enjoy!</p>",
+            "date_published": "2025-01-31T16:22:03+00:00",
+            "authors": [
+                {
+                    "name": "CalendarVarious3992",
+                    "url": "https://www.reddit.com/user/CalendarVarious3992"
+                }
+            ]
+        },
+        {
             "id": "1i9dwhm",
             "url": "/r/ChatGPTPro/comments/1i9dwhm/o3mini_will_have_100_queries_a_week_for_plus_users/",
             "external_url": "https://i.redd.it/g3w8ta9g62fe1.jpeg",
