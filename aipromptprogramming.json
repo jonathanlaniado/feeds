@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1if7rmv",
+            "url": "/r/aipromptprogramming/comments/1if7rmv/the_difference_between_o3mini_and_deepseek_r1/",
+            "external_url": "https://i.redd.it/emwdhw5eijge1.jpeg",
+            "title": "\ud83e\udda6 The difference between O3\u2011Mini and DeepSeek R1 isn\u2019t just raw intelligence; it\u2019s about how they think.",
+            "content_html": "<p>It comes down to promoting\u2014O3 operates more like a just-in-time (JIT) compiler, executing structured, stepwise reasoning, while R1 functions more like a streaming processor, producing verbose, free-flowing outputs. </p>\n<p>These models are fundamentally different in how they handle complex tasks, which directly impacts how we prompt them.</p>\n<p>DeepSeek R1, with its 128K-token context window and 32K output limit, thrives on stream-of-consciousness reasoning. It\u2019s built to explore ideas freely, generating rich, expansive narratives that can uncover unexpected insights. But this makes it less predictable, often requiring active guidance to keep its thought process on track. </p>\n<p>For R1, effective prompting means shaping the flow of that stream\u2014guiding it with gentle nudges rather than strict boundaries.  Open-ended questions work well here, encouraging the model to expand, reflect, and refine.</p>\n<p>O3\u2011Mini, on the other hand, is structured. With a larger 200K-token input and a 100K-token output, it\u2019s designed for controlled, procedural reasoning. Unlike R1\u2019s fluid exploration, O3 functions like a step function\u2014each stage in its reasoning process is discrete and needs to be explicitly defined. This makes it ideal for agent workflows, where consistency and predictability matter. </p>\n<p>Prompts for O3 should be formatted with precision: system prompts defining roles, structured input-output pairs, and explicit step-by-step guidance. Less is more here\u2014clarity beats verbosity, and structure dictates performance.</p>\n<p>O3\u2011Mini excels in coding and agentic workflows, where a structured, predictable response is crucial. It\u2019s better suited for applications requiring function calling, API interactions, or stepwise logical execution\u2014think autonomous software agents handling iterative tasks or generating clean, well-structured code. </p>\n<p>If the task demands a model that can follow a predefined workflow and execute instructions with high reliability, O3 is the better choice.</p>\n<p>DeepSeek R1, by contrast, shines in research-oriented and broader logic tasks. When exploring complex concepts, synthesizing large knowledge bases, or engaging in deep reasoning across multiple disciplines, R1\u2019s open-ended, reflective nature gives it an advantage. </p>\n<p>Its ability to generate expansive thought processes makes it more useful for scientific analysis, theoretical discussions, or creative ideation where insight matters more than strict procedural accuracy.</p>\n<p>It\u2019s worth noting that combining multiple models within a workflow can be even more effective. You might use O3\u2011Mini to structure a complex problem into discrete steps, then pass those outputs into DeepSeek R1 or another model like Qwen for deeper analysis.</p>\n<p>The key is not to assume the same prompting strategies will work across all LLMs\u2014you need to rethink how you structure inputs based on the model\u2019s reasoning process and your desired final outcome.</p><div><br></div><img src=\"https://i.redd.it/emwdhw5eijge1.jpeg\" />",
+            "date_published": "2025-02-01T14:44:36+00:00",
+            "authors": [
+                {
+                    "name": "Educational_Ice151",
+                    "url": "https://www.reddit.com/user/Educational_Ice151"
+                }
+            ]
+        },
+        {
             "id": "1iefg5n",
             "url": "/r/aipromptprogramming/comments/1iefg5n/how_i_code_using_ai_hallucinations_yesterday/",
             "external_url": "https://i.redd.it/5k6bkjkw5cge1.jpeg",
