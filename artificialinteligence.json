@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1iiekzr",
+            "url": "/r/ArtificialInteligence/comments/1iiekzr/the_google_owner_alphabet_has_dropped_its_promise/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1iiekzr/the_google_owner_alphabet_has_dropped_its_promise/",
+            "title": "The Google owner, Alphabet, has dropped its promise not to use artificial intelligence for purposes such as developing weapons.",
+            "content_html": "<p>The Google owner, Alphabet, has dropped its promise not to use artificial intelligence for purposes such as developing weapons and surveillance tools.</p>\n<p>The US technology company said on Tuesday, just before it reported lower-than-forecast earnings, that it had updated its ethical guidelines around AI, and they no longer referred to not pursuing technologies that could \u201ccause or are likely to cause overall harm\u201d.</p>\n<p>Google\u2019s AI head, Demis Hassabis, said the guidelines were being overhauled in a changing world and that AI should protect \u201cnational security\u201d.</p>\n<p>In a blogpost defending the move, Hassabis and the company\u2019s senior vice-president for technology and society, James Manyika, wrote that as global competition for AI leadership increased, the company believed \u201cdemocracies should lead in AI development\u201d that was guided by \u201cfreedom, equality, and respect for human rights\u201d.</p>\n<p>They added: \u201cWe believe that companies, governments, and organisations sharing these values should work together to create AI that protects people, promotes global growth, and supports national security.\u201d</p>\n<p>Google\u2019s motto when it first floated was \u201cdon\u2019t be evil\u201d, although this was later downgraded in 2009 to a \u201cmantra\u201d and was not included in the code of ethics of Alphabet when the parent company was created in 2015.</p>\n<p>The rapid growth of AI has prompted a debate about how the new technology should be governed, and how to guard against its risks.</p>\n<p>The British computer scientist Stuart Russell has warned of the dangers of developing autonomous weapon systems, and argued for a system of global control, speaking in a Reith lecture on the BBC.</p>\n<p>The Google blogpost argued that since the company first published its AI principles in 2018, the technology had evolved rapidly. \u201cBillions of people are using AI in their everyday lives. AI has become a general-purpose technology, and a platform which countless organisations and individuals use to build applications,\u201d Hassabis and Manyika wrote.</p>\n<p>\u201cIt has moved from a niche research topic in the lab to a technology that is becoming as pervasive as mobile phones and the internet itself; one with numerous beneficial uses for society and people around the world, supported by a vibrant AI ecosystem of developers.\u201d</p>\n<p>https://www.theguardian.com/technology/2025/feb/05/google-owner-drops-promise-not-to-use-ai-for-weapons#:~:text=The%20Google%20owner%2C%20Alphabet%2C%20has,developing%20weapons%20and%20surveillance%20tools.</p>",
+            "date_published": "2025-02-05T16:52:02+00:00",
+            "authors": [
+                {
+                    "name": "AravRAndG",
+                    "url": "https://www.reddit.com/user/AravRAndG"
+                }
+            ]
+        },
+        {
             "id": "1ihalyo",
             "url": "/r/ArtificialInteligence/comments/1ihalyo/is_anyone_else_only_looking_forward_to_ai_because/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1ihalyo/is_anyone_else_only_looking_forward_to_ai_because/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "saffronfan",
                     "url": "https://www.reddit.com/user/saffronfan"
-                }
-            ]
-        },
-        {
-            "id": "19fkd41",
-            "url": "/r/ArtificialInteligence/comments/19fkd41/i_got_frustrated_trying_to_keep_characters_and/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/19fkd41/i_got_frustrated_trying_to_keep_characters_and/",
-            "title": "I got frustrated trying to keep characters and scenes consistent with MidJourney so we built an AI tool that solves this problem.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/19fkd41/i_got_frustrated_trying_to_keep_characters_and/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/19fkd41/i_got_frustrated_trying_to_keep_characters_and/'>Reddit</a></caption><div><br></div><p>It was taking me so much time and effort to achieve some level of consistency with MidJourney and other ai tools. So I figured there must be other people who have this problem.</p>\n<p>It took me and my team 8 months to build  and we are releasing <a href=\"http://katalist.ai\">Katalist.ai</a> in 2 weeks. Until then we offer free early access to everyone who joins our waitlist or our <a href=\"https://discord.gg/rWsWjqtz\">discord server.</a></p>\n<p>Main features:</p>\n<ul>\n<li>Import your script with 1 click and generate a consistent visual story</li>\n<li>Katalist keeps characters and scenes consistent</li>\n<li>Ability to switch characters and scenes throughout the whole story</li>\n</ul>\n<p>Soon we are also adding features like storyboards to video and inpaint.</p>\n<p>We are fine-tuning <a href=\"http://katalist.ai\">Katalist.ai</a> before the launch and would love to have some early adopters test out and provide feedback. Would love to hear your thoughts!</p>",
-            "date_published": "2024-01-25T21:27:39+00:00",
-            "authors": [
-                {
-                    "name": "ILuuigi",
-                    "url": "https://www.reddit.com/user/ILuuigi"
                 }
             ]
         }
