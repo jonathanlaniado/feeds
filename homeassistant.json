@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1inslnn",
+            "url": "/r/homeassistant/comments/1inslnn/why_are_you_still_using_mushroom_cards/",
+            "external_url": "https://www.reddit.com/r/homeassistant/comments/1inslnn/why_are_you_still_using_mushroom_cards/",
+            "title": "Why are you still using Mushroom cards? \ud83c\udf44",
+            "content_html": "<p>Hello \ud83d\udc4b</p>\n<p><a href=\"https://github.com/piitaya/lovelace-mushroom\"><strong>Mushroom</strong></a> card creator and <strong>Home Assistant</strong> front-end developer for Nabu Casa here.</p>\n<p>I launched <strong>Mushroom cards</strong> 3 years ago. It was only a side project as I could find something I liked for my dashboard. It's now one of the most used custom card in Home Assistant \ud83e\udd2f. Thank you all for your support \u2764\ufe0f.</p>\n<p>2 years ago, the <a href=\"https://www.home-assistant.io/dashboards/tile/\">tile card</a> has been introduced. The look and feel and many features are heavily inspired by Mushroom cards. Many people asked to add features from Mushroom to Home Assistant. Overtime, the official cards has been improved (tile, card features, badges, heading card, ...). And now... I get the inverse feedback : every time a new feature is added to official cards, I got the feature request for Mushroom \ud83d\ude43.</p>\n<p>If you have some time, I would be very grateful by your answer to these questions :</p>\n<p>- <strong>Why are you still using Mushroom cards?</strong></p>\n<p>- <strong>What features or reasons block you to switch to official Home Assistant cards</strong> (e.g. <a href=\"https://www.home-assistant.io/dashboards/tile/\">tile card</a> and <a href=\"https://www.home-assistant.io/dashboards/badges/\">badges</a>)?</p>\n<p>I already have a good idea of \u200b\u200bthe answers but I would like to have a more precise view to better guide the future development of Mushroom.</p>\n<p>The final goal is to have Mushroom cards as complementary cards instead of duplicating tile cards and badges to Mushroom.</p>\n<p>Thank you again for all the support \ud83c\udf44</p>",
+            "date_published": "2025-02-12T14:52:52+00:00",
+            "authors": [
+                {
+                    "name": "piiitaya",
+                    "url": "https://www.reddit.com/user/piiitaya"
+                }
+            ]
+        },
+        {
             "id": "1ihj88h",
             "url": "/r/homeassistant/comments/1ihj88h/using_an_aqara_window_contact_sensor_to_detect/",
             "external_url": "https://www.reddit.com/gallery/1ihj88h",
