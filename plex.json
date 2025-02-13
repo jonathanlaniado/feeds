@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1ioiyh7",
+            "url": "/r/PleX/comments/1ioiyh7/just_another_reason_why_plex_makes_sense/",
+            "external_url": "https://i.redd.it/s6qmlv42rwie1.jpeg",
+            "title": "Just another reason why Plex makes sense",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/s6qmlv42rwie1.jpeg\" />",
+            "date_published": "2025-02-13T13:24:51+00:00",
+            "authors": [
+                {
+                    "name": "motomat86",
+                    "url": "https://www.reddit.com/user/motomat86"
+                }
+            ]
+        },
+        {
             "id": "1io2w29",
             "url": "/r/PleX/comments/1io2w29/plex_randomly_sets_all_thumbnails_to_the_office/",
             "external_url": "https://i.redd.it/kkre2skp4sie1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "falsworth",
                     "url": "https://www.reddit.com/user/falsworth"
-                }
-            ]
-        },
-        {
-            "id": "1cap1jk",
-            "url": "/r/PleX/comments/1cap1jk/plex_meta_manager_has_been_rebranded_as_kometa/",
-            "external_url": "https://kometa.wiki/",
-            "title": "Plex Meta Manager has been rebranded as Kometa",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1cap1jk/plex_meta_manager_has_been_rebranded_as_kometa/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1cap1jk/plex_meta_manager_has_been_rebranded_as_kometa/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-04-22T23:06:12+00:00",
-            "authors": [
-                {
-                    "name": "shiruken",
-                    "url": "https://www.reddit.com/user/shiruken"
                 }
             ]
         }
