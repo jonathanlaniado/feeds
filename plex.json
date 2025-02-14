@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1ipgslu",
+            "url": "/r/PleX/comments/1ipgslu/howard_stern_uses_plex/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/1ipgslu/howard_stern_uses_plex/",
+            "title": "Howard Stern uses Plex",
+            "content_html": "<p>For the last couple of decades, he has had tech issues with his entertainment setup (probably AMX tounch panel or similar). </p>\n<p>Robin just asked how he is watching The Bachelorette early release episodes that are sent to him and he said 'Plex' server setup by his personal IT. </p>",
+            "date_published": "2025-02-14T18:06:29+00:00",
+            "authors": [
+                {
+                    "name": "jtho78",
+                    "url": "https://www.reddit.com/user/jtho78"
+                }
+            ]
+        },
+        {
             "id": "1ioiyh7",
             "url": "/r/PleX/comments/1ioiyh7/just_another_reason_why_plex_makes_sense/",
             "external_url": "https://i.redd.it/s6qmlv42rwie1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "AmUnlikelyAFish",
                     "url": "https://www.reddit.com/user/AmUnlikelyAFish"
-                }
-            ]
-        },
-        {
-            "id": "1cgfr38",
-            "url": "/r/PleX/comments/1cgfr38/bye_roku_what_options_do_i_have/",
-            "external_url": "https://arstechnica.com/?p=2020463",
-            "title": "Bye Roku. What options do I have?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1cgfr38/bye_roku_what_options_do_i_have/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1cgfr38/bye_roku_what_options_do_i_have/'>Reddit</a></caption><div><br></div><p>With each passing day Roku's anti-consumer practices get more and more egregious. A few months ago it was forced arbitration that only had an accept button, next they filed a patent about inserting ads over HDMI, and today they announced video ads on the home screen before anything is selected (see link). I know that the Amazon fire sticks do the same auto play video ads on the screen so that's off the table, so my question is what options do I have for new players that have both wired and wireless network connections that aren't too expensive (Nvidia shield) and will still play most files?</p>\n<p>I'm sad to see the enshitification of Roku. Their ultra model has been pretty solid for years.</p>",
-            "date_published": "2024-04-30T00:51:14+00:00",
-            "authors": [
-                {
-                    "name": "falsworth",
-                    "url": "https://www.reddit.com/user/falsworth"
                 }
             ]
         }
