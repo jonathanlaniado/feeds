@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1iu16z9",
+            "url": "/r/ArcBrowser/comments/1iu16z9/losing_arc_was_worse_than_a_breakup/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1iu16z9/losing_arc_was_worse_than_a_breakup/",
+            "title": "Losing Arc was worse than a breakup...",
+            "content_html": "<p>No other browser has this level of UI polish. Majority of the other Chromium browsers have some malformed implementation of material you. Super clunky.</p>\n<p>I have tried almost every other mainstream browser</p>\n<ul>\n<li>Chrome is the one with an acceptable level of UI polish but they just started forcing Manifest v3.</li>\n<li>Brave looks like doo doo. And no one over there cares about visual polish</li>\n<li>I don't know why people keep recommending Firefox when it's clunky and slow. Scrolling is nowhere close to the smoothness of Chromium browsers</li>\n<li>Zen, suffers from being built around Firefox.</li>\n<li>Edge, again weird UI mistakes. They haven't even centered the loading spinner on their new tabs.</li>\n<li>Vivaldi? It doesn't look native.</li>\n</ul>\n<p>That and no one else does keyboard shortcuts like Arc.</p>\n<p>Sure the browser works fine for now. But you know one day it won't. and theres no clear cut way to export stuff out of it.</p>\n<p>I could go on and on. This is not another 'I am leaving' post. Its a '<em>You can't just pull the rug on us like that man</em>' post. It's just baffling how something so wonderful and had a bright future got abandoned, and I think I'm still having withdrawals.</p>",
+            "date_published": "2025-02-20T15:32:49+00:00",
+            "authors": [
+                {
+                    "name": "ElectricalJob992",
+                    "url": "https://www.reddit.com/user/ElectricalJob992"
+                }
+            ]
+        },
+        {
             "id": "1irw1rf",
             "url": "/r/ArcBrowser/comments/1irw1rf/a_day_in_the_life_of_using_arc_on_mac/",
             "external_url": "https://i.redd.it/rsorf7jmtrje1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "JaceThings",
                     "url": "https://www.reddit.com/user/JaceThings"
-                }
-            ]
-        },
-        {
-            "id": "18ptyku",
-            "url": "/r/ArcBrowser/comments/18ptyku/i_am_sorry_but_what_the_fcuk_is_up_with_this/",
-            "external_url": "https://i.redd.it/nixwslabg88c1.jpeg",
-            "title": "I am sorry but what the fcuk is up with this storage size",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/18ptyku/i_am_sorry_but_what_the_fcuk_is_up_with_this/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/18ptyku/i_am_sorry_but_what_the_fcuk_is_up_with_this/'>Reddit</a></caption><div><br></div><p>As title</p><div><br></div><img src=\"https://i.redd.it/nixwslabg88c1.jpeg\" />",
-            "date_published": "2023-12-24T12:02:40+00:00",
-            "authors": [
-                {
-                    "name": "Dovahkiinn99",
-                    "url": "https://www.reddit.com/user/Dovahkiinn99"
                 }
             ]
         }
