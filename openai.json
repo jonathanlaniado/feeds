@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1ivumln",
+            "url": "/r/OpenAI/comments/1ivumln/sam_has_got_a_kid_now/",
+            "external_url": "https://i.redd.it/s1glpj9zlrke1.png",
+            "title": "Sam has got a kid now",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/s1glpj9zlrke1.png\" />",
+            "date_published": "2025-02-22T22:15:52+00:00",
+            "authors": [
+                {
+                    "name": "Outside-Iron-8242",
+                    "url": "https://www.reddit.com/user/Outside-Iron-8242"
+                }
+            ]
+        },
+        {
             "id": "1iu0dik",
             "url": "/r/OpenAI/comments/1iu0dik/protoclone_the_worlds_first_bipedal/",
             "external_url": "https://v.redd.it/obu10nkx5bke1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "rutan668",
                     "url": "https://www.reddit.com/user/rutan668"
-                }
-            ]
-        },
-        {
-            "id": "1fkhb2l",
-            "url": "/r/OpenAI/comments/1fkhb2l/am_i_the_only_one_who_feels_like_this_about_o1/",
-            "external_url": "https://i.redd.it/vhuh1qfnqqpd1.jpeg",
-            "title": "Am I the only one who feels like this about o1?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1fkhb2l/am_i_the_only_one_who_feels_like_this_about_o1/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1fkhb2l/am_i_the_only_one_who_feels_like_this_about_o1/'>Reddit</a></caption><div><br></div><p>As seen in the meme. Sometimes o1 is impressive, but for complex tasks (algebra derivations, questions about biology) it feels like it is doing a ton of work for nothing, because any mistake in the \"thoughts\" derail pretty fast to wrong conclusions.</p>\n<p>Are you guys trying some prompt engineering or anything special to improve results?</p><div><br></div><img src=\"https://i.redd.it/vhuh1qfnqqpd1.jpeg\" />",
-            "date_published": "2024-09-19T10:11:44+00:00",
-            "authors": [
-                {
-                    "name": "bgighjigftuik",
-                    "url": "https://www.reddit.com/user/bgighjigftuik"
                 }
             ]
         }
