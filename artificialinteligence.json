@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1iv7w5n",
+            "url": "/r/ArtificialInteligence/comments/1iv7w5n/ai_is_becoming_exhausting_i_feel_like_im_just_not/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1iv7w5n/ai_is_becoming_exhausting_i_feel_like_im_just_not/",
+            "title": "AI is Becoming Exhausting. I Feel Like I\u2019m Just Not Getting It",
+            "content_html": "<p>I consider myself AI forward. I'm currently fine-tuning a LLaMa model on some of our data because it was the best way to handle structured data against an NLP/scraping platform. I use ChatGPT every single day, \"Can you revise this paragraph?,\" or to learn about doing something new. Most recently, helping clarify some stuff that I'm interested in doing with XSDs. Copilot, while annoying at times, has been the single largest productivity boost that I've ever seen when writing simple predictable code, and saves tons of keystrokes as a nice autocomplete. </p>\n<p>With that said, will the hype just die already? Like, it's good at what it's good at. I actually like some of the integrations companies have done. But it's draining novelty in the space. Every new trending GitHub repo is yet another LLM wrapper or grift machine. Every YC acceptance video seems to be about how they've essentially built something that will be nullified by the next OpenAI patch. I just saw a post on LinkedIn yesterday where someone proclaimed that they \"Taught AI on every continent.\" What does that even mean??</p>\n<p>I feel like I'm just being a massive hater, but I just do not get it. 3 years later, their biggest and most expensive model still sucks at fixing a junior-level bug in a CRUD app, but is among \"the best programmers in the world.\" The AI art auction is just disgusting. I feel like I'm crazy for just not getting it and it leaves a fear of feeling like I'm being left behind. I'm in my 20s! Is there something I'm genuinely missing here? The utility is clear, but so is the grift. </p>",
+            "date_published": "2025-02-22T02:05:00+00:00",
+            "authors": [
+                {
+                    "name": "Jacksons123",
+                    "url": "https://www.reddit.com/user/Jacksons123"
+                }
+            ]
+        },
+        {
             "id": "1is41yr",
             "url": "/r/ArtificialInteligence/comments/1is41yr/so_obviously_musk_is_scraping_all_this_government/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1is41yr/so_obviously_musk_is_scraping_all_this_government/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Wolvaardtae",
                     "url": "https://www.reddit.com/user/Wolvaardtae"
-                }
-            ]
-        },
-        {
-            "id": "1amhctx",
-            "url": "/r/ArtificialInteligence/comments/1amhctx/openai_is_trouncing_google_because_they_are_lean/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1amhctx/openai_is_trouncing_google_because_they_are_lean/",
-            "title": "OpenAI is trouncing Google because they are lean and mean, with fewer than a thousand employees",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/1amhctx/openai_is_trouncing_google_because_they_are_lean/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/1amhctx/openai_is_trouncing_google_because_they_are_lean/'>Reddit</a></caption><div><br></div><p>Microsoft was brilliant in investing almost 14 billion dollars in openai, but granting them full control over what happens. with tens of thousands of employees and a traditional hierarchy, Google is way too top-heavy to get stuff done the right way fast. the only way they can change this dynamic is to create a division of a thousand of their top researchers and programmers, and grant the leaders of this new division major autonomous decision-making powers. they will have to learn a very valuable lesson in trust. if they don't do that, they will continue to evolve at a snail's pace, and too many cooks will continue to spoil their ai broth.</p>\n<p>I hope they will decide to pivot in this way, and perhaps it will serve as the new business model for progress in AI. the better google gets, the better openai will get, or within an ever improving and accelerating upward spiral.</p>",
-            "date_published": "2024-02-09T06:03:20+00:00",
-            "authors": [
-                {
-                    "name": "Georgeo57",
-                    "url": "https://www.reddit.com/user/Georgeo57"
                 }
             ]
         }
