@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1ivwe6u",
+            "url": "/r/PleX/comments/1ivwe6u/the_arc_a380_is_a_beast/",
+            "external_url": "https://i.redd.it/xcl4lk5y0ske1.jpeg",
+            "title": "The Arc A380 is a beast",
+            "content_html": "<p>Dropped an A380 into my plex server running in proxmox. Full 4k remux, 71mbps on the original file. Transcoded into 4k using HEVC. The 7th and 8th stream play but it drops two transcoded to below 1.0x. Although the others remain at 1.6x and plex seems to rotate which stream is less than 1.0x and all streams seem to play without stutters. The 9th transcode killed it. </p><div><br></div><img src=\"https://i.redd.it/xcl4lk5y0ske1.jpeg\" />",
+            "date_published": "2025-02-22T23:39:23+00:00",
+            "authors": [
+                {
+                    "name": "Weasel1088",
+                    "url": "https://www.reddit.com/user/Weasel1088"
+                }
+            ]
+        },
+        {
             "id": "1irvdnc",
             "url": "/r/PleX/comments/1irvdnc/_/",
             "external_url": "https://i.redd.it/5zkcivxo2rje1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Apptryiguess",
                     "url": "https://www.reddit.com/user/Apptryiguess"
-                }
-            ]
-        },
-        {
-            "id": "1d45x2i",
-            "url": "/r/PleX/comments/1d45x2i/upgraded_to_an_18_tb_drive_here_is_to_more_great/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/1d45x2i/upgraded_to_an_18_tb_drive_here_is_to_more_great/",
-            "title": "Upgraded to an 18 TB Drive. Here is to more great years of Plex",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1d45x2i/upgraded_to_an_18_tb_drive_here_is_to_more_great/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1d45x2i/upgraded_to_an_18_tb_drive_here_is_to_more_great/'>Reddit</a></caption><div><br></div><p>I've been a Plex user for 10 years now. Started off with a laptop and 500 GB drive. </p>\n<p>In 2018 I bought an 8 TB drive thinking I'd never see it's end. </p>\n<p>2024 we installed a new 18 TB drive because the 8 TB was old and at 95%. Aside from it taking 15 hours to copy all my content over, once I turned Plex back on it synced up. </p>\n<p>Here is to 10 more years of my version of stamp collecting.</p>\n<p>EDIT: Added my <a href=\"https://pcpartpicker.com/list/nVf3pB\">PC Build</a> for the curious. It's a Plex server/gaming PC.</p>",
-            "date_published": "2024-05-30T14:52:59+00:00",
-            "authors": [
-                {
-                    "name": "Slamb73",
-                    "url": "https://www.reddit.com/user/Slamb73"
                 }
             ]
         }
