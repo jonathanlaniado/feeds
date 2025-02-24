@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1iwq04q",
+            "url": "/r/PleX/comments/1iwq04q/account_hijacked/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/1iwq04q/account_hijacked/",
+            "title": "Account hijacked",
+            "content_html": "<p>About an hour ago, my plex account was accessed by some jabroni from Russia. They changed my password and my email address as soon as they got in.   Thank goodness that plex sends out an email with the email address change with an option to revert to the prior email address within 7 days.  I\u2019ve gotten my account back, changed the password and enable 2FA for future logins.  </p>\n<p>I just wanted to share and recommend 2FA for anyone else that runs a plex server.  Keep your account safe!</p>",
+            "date_published": "2025-02-24T01:16:22+00:00",
+            "authors": [
+                {
+                    "name": "iamtheshibby",
+                    "url": "https://www.reddit.com/user/iamtheshibby"
+                }
+            ]
+        },
+        {
             "id": "1ivwe6u",
             "url": "/r/PleX/comments/1ivwe6u/the_arc_a380_is_a_beast/",
             "external_url": "https://i.redd.it/xcl4lk5y0ske1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "NoDadYouShutUp",
                     "url": "https://www.reddit.com/user/NoDadYouShutUp"
-                }
-            ]
-        },
-        {
-            "id": "1d51uny",
-            "url": "/r/PleX/comments/1d51uny/1_month_and_20tb_in_d/",
-            "external_url": "https://www.reddit.com/gallery/1d51uny",
-            "title": "1 month and 20TB in :D",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1d51uny/1_month_and_20tb_in_d/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1d51uny/1_month_and_20tb_in_d/'>Reddit</a></caption><div><br></div><p>Decided to fully commit to plex a little over a month ago. Happy to finally have my own digital media collection. Any \"Must Watch\" items i should get ASAP? Also anything a newbie should know about plex that isn't super well known? Thanks :)</p>",
-            "date_published": "2024-05-31T17:58:16+00:00",
-            "authors": [
-                {
-                    "name": "Apptryiguess",
-                    "url": "https://www.reddit.com/user/Apptryiguess"
                 }
             ]
         }
