@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1j2q230",
+            "url": "/r/MacOSBeta/comments/1j2q230/154_developer_beta_2_released/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1j2q230/154_developer_beta_2_released/",
+            "title": "15.4 Developer Beta 2 Released",
+            "content_html": "<p>This resolves the system crash with VMs (really anything that touches <code>Hypervisor.framework</code>).</p>",
+            "date_published": "2025-03-03T18:47:16+00:00",
+            "authors": [
+                {
+                    "name": "Kina_Kai",
+                    "url": "https://www.reddit.com/user/Kina_Kai"
+                }
+            ]
+        },
+        {
             "id": "1iuzry8",
             "url": "/r/MacOSBeta/comments/1iuzry8/apple_seeds_first_beta_of_macos_sequoia_154/",
             "external_url": "https://www.macrumors.com/2025/02/21/apple-seeds-first-beta-of-macos-sequoia-15-4/",
@@ -1386,20 +1400,6 @@
             "title": "Imagine now if after 3 weeks of waiting beta 6 doesn't include universal control",
             "content_html": "<caption>Open in: <a href='https://i.redd.it/d55r5nratjk71.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/MacOSBeta/comments/pephs3/imagine_now_if_after_3_weeks_of_waiting_beta_6/'>Reddit</a> | <a href='apollo://reddit.com/r/MacOSBeta/comments/pephs3/imagine_now_if_after_3_weeks_of_waiting_beta_6/'>Apollo</a></caption>",
             "date_published": "2021-08-30T19:41:04+00:00",
-            "authors": [
-                {
-                    "name": "SevereBarracuda4",
-                    "url": "https://www.reddit.com/user/SevereBarracuda4"
-                }
-            ]
-        },
-        {
-            "id": "pc7kia",
-            "url": "/r/MacOSBeta/comments/pc7kia/lol_universal_control_is_giving_them_a_headache/",
-            "external_url": "https://i.redd.it/6xtup37zfrj71.jpg",
-            "title": "Lol\u2026 universal control is giving them a headache!",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/6xtup37zfrj71.jpg'>i.redd.it</a> | <a href='https://reddit.com/r/MacOSBeta/comments/pc7kia/lol_universal_control_is_giving_them_a_headache/'>Reddit</a> | <a href='apollo://reddit.com/r/MacOSBeta/comments/pc7kia/lol_universal_control_is_giving_them_a_headache/'>Apollo</a></caption>",
-            "date_published": "2021-08-26T20:15:55+00:00",
             "authors": [
                 {
                     "name": "SevereBarracuda4",
