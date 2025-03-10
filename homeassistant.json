@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1j86z2r",
+            "url": "/r/homeassistant/comments/1j86z2r/matter_server_gets_certified/",
+            "external_url": "https://www.home-assistant.io/blog/2025/03/10/matter-certification/",
+            "title": "Matter server gets certified",
+            "content_html": "",
+            "date_published": "2025-03-10T19:22:51+00:00",
+            "authors": [
+                {
+                    "name": "HTTP_404_NotFound",
+                    "url": "https://www.reddit.com/user/HTTP_404_NotFound"
+                }
+            ]
+        },
+        {
             "id": "1j6md1i",
             "url": "/r/homeassistant/comments/1j6md1i/undocumented_backdoor_found_in_esp32_bluetooth/",
             "external_url": "https://i.redd.it/k7k8j9qg5ine1.jpeg",
@@ -1392,12 +1406,6 @@
                     "url": "https://www.reddit.com/user/No-List-9396"
                 }
             ]
-        },
-        {
-            "id": "0",
-            "url": "https://www.reddit.com/r/homeassistant",
-            "title": "r/homeassistant has been launched!",
-            "content_html": "<p>This feed will be populated as posts match the given criteria.</p>"
         }
     ]
 }
