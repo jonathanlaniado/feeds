@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1j7j12s",
+            "url": "/r/aipromptprogramming/comments/1j7j12s/the_next_big_leap_in_agentics_wont_just_be_in/",
+            "external_url": "https://i.redd.it/wlm8evctlqne1.jpeg",
+            "title": "The next big leap in agentics won\u2019t just be in logic and reasoning, it\u2019s going to be in communication & MCP command and control.",
+            "content_html": "<p>the way agents relay information, interpret context, and coordinate actions, will define how useful and effective they actually are.</p>\n<p>I\u2019m getting pretty good at deploying multi coding agents in parallel to blast through projects. </p>\n<p>Generally I try to keep things simple. A shared directory ./plans/ where coding agents drop markdown notes and instructions lets them collectively communicate without overcomplicating things. It\u2019s a lightweight but powerful way to maintain context and allow multiple agents to build on each other\u2019s work. </p>\n<p>This works really well with the new Roo Code multiple instance feature rolled out last week. </p>\n<p>As these networks grow, structured, low-overhead coordination will be the key to making them work at scale. I\u2019ve been using a combination of Serverless functions and real time channels. This allows for distributed pub/sub where the agents can be invoked by various realtime events, but site dormant most of the time. I can scale these swarms in moments thanks 30 millisecond cold starts.</p>\n<p>Adding a MCP architecture take this further by providing a standardized way for agents to interact. Whether it\u2019s training AI models, device specific models, or backend coordination services, having a common protocol eliminates the need for endless custom integrations. Basically you just as your favorite coding agent to build a mcp server. </p>\n<p>The more seamless the communication, the more capable the system.</p>\n<p>What\u2019s really interesting is when agents start collaborating autonomously. Over time, they tend to shift from verbose, human-readable messages to a more symbolic, machine-oriented style, fusing shorthand, diagrams, and structured data to optimize their own exchanges. </p>\n<p>Guiding these emerging structures will be what makes agentic engineers extremely powerful.</p>\n<p>The smartest agent in the room won\u2019t just be the one that processes the most data, it\u2019ll be the one that communicates the best.</p><div><br></div><img src=\"https://i.redd.it/wlm8evctlqne1.jpeg\" />",
+            "date_published": "2025-03-09T22:05:11+00:00",
+            "authors": [
+                {
+                    "name": "Educational_Ice151",
+                    "url": "https://www.reddit.com/user/Educational_Ice151"
+                }
+            ]
+        },
+        {
             "id": "1j426nq",
             "url": "/r/aipromptprogramming/comments/1j426nq/created_this_game_under_an_hour_without_writing_a/",
             "external_url": "https://i.redd.it/igweh5mq9vme1.gif",
