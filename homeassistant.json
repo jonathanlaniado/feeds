@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1j8arqy",
+            "url": "/r/homeassistant/comments/1j8arqy/ha_is_now_officially_matter_certified/",
+            "external_url": "https://www.home-assistant.io/blog/2025/03/10/matter-certification/",
+            "title": "HA is now officially Matter certified!!!! \ud83c\udf8a\ud83c\udf8a\ud83c\udf8a\ud83c\udf8a\ud83c\udf8a",
+            "content_html": "<p>Text from Home Assistant\u2019s LinkedIn post </p>\n<p>\u201cWe're Matter certified!! \ud83c\udf89</p>\n<p>We've been ahead of the game with Matter implementation, and we're excited to announce both Home Assistant and the Open Home Foundation Matter Server are officially certified by the CSA. \ud83d\ude0c</p>\n<p>What does this mean for you? Find out on our blog \ud83d\udc47\ud83c\udffc</p>\n<p>Huge thanks to Resillion for helping us with the testing for certification! \ud83d\udc4f\ud83c\udffb\u201d</p>\n<p>We've been ahead of the game with Matter implementation, and we're excited to announce both Home Assistant and the Open Home Foundation Matter Server are officially certified by the CSA. \ud83d\ude0c</p>\n<p>What does this mean for you? Find out on our blog \ud83d\udc47\ud83c\udffc</p>\n<p>Huge thanks to Resillion for helping us with the testing for certification! </p>",
+            "date_published": "2025-03-10T22:02:13+00:00",
+            "authors": [
+                {
+                    "name": "n1976jmk",
+                    "url": "https://www.reddit.com/user/n1976jmk"
+                }
+            ]
+        },
+        {
             "id": "1j86z2r",
             "url": "/r/homeassistant/comments/1j86z2r/matter_server_gets_certified/",
             "external_url": "https://www.home-assistant.io/blog/2025/03/10/matter-certification/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "atika",
                     "url": "https://www.reddit.com/user/atika"
-                }
-            ]
-        },
-        {
-            "id": "16tfqn5",
-            "url": "/r/homeassistant/comments/16tfqn5/3d_printer_dashboard/",
-            "external_url": "https://i.redd.it/9rva8e5imrqb1.jpg",
-            "title": "3D Printer Dashboard",
-            "content_html": "<caption>Open: <a href='apollo://reddit.com/r/homeassistant/comments/16tfqn5/3d_printer_dashboard/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/16tfqn5/3d_printer_dashboard/'>Reddit</a></caption><div><br></div><img src=\"https://i.redd.it/9rva8e5imrqb1.jpg\" />",
-            "date_published": "2023-09-27T09:16:45+00:00",
-            "authors": [
-                {
-                    "name": "No-List-9396",
-                    "url": "https://www.reddit.com/user/No-List-9396"
                 }
             ]
         }
