@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1j89nto",
+            "url": "/r/selfhosted/comments/1j89nto/this_runs_my_website/",
+            "external_url": "https://i.redd.it/ypcg5ftqhxne1.jpeg",
+            "title": "This runs my website",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/ypcg5ftqhxne1.jpeg\" />",
+            "date_published": "2025-03-10T21:15:48+00:00",
+            "authors": [
+                {
+                    "name": "FlareOptiFX",
+                    "url": "https://www.reddit.com/user/FlareOptiFX"
+                }
+            ]
+        },
+        {
             "id": "1j1yzgc",
             "url": "/r/selfhosted/comments/1j1yzgc/selfmade_home_network_lab_framework/",
             "external_url": "https://www.reddit.com/gallery/1j1yzgc",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Eubank31",
                     "url": "https://www.reddit.com/user/Eubank31"
-                }
-            ]
-        },
-        {
-            "id": "1cenjeu",
-            "url": "/r/selfhosted/comments/1cenjeu/glance_a_minimal_dashboard_that_puts_all_the/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1cenjeu/glance_a_minimal_dashboard_that_puts_all_the/",
-            "title": "Glance: a minimal dashboard that puts all the information you care about in one place",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1cenjeu/glance_a_minimal_dashboard_that_puts_all_the/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1cenjeu/glance_a_minimal_dashboard_that_puts_all_the/'>Reddit</a></caption><div><br></div><p><a href=\"https://github.com/glanceapp/glance\">https://github.com/glanceapp/glance</a></p>\n<p>Finally, <a href=\"https://www.reddit.com/r/selfhosted/comments/1alazj2/\">the dashboard I teased 3 months ago</a> is now released. It started off as a project to help me learn Go and has evolved into something I use every day. There is still much to be done - an actual logo, more features, customizations, widgets, bug fixes, etc, and I'm looking forward to learning further and getting better at Go as I continue to work on this project.</p>\n<p>Configuring the dashboard has a bit of a learning curve to it but I've provided a simple <a href=\"https://github.com/glanceapp/glance/blob/main/docs/configuration.md#preconfigured-page\">preconfigured page</a> to help you get started.</p>\n<p>A docker container is available so installation is pretty straightforward, just make sure you have a valid <code>glance.yml</code> file:</p>\n<pre><code>docker run -d -p 8080:8080 \\\n  -v ./glance.yml:/app/glance.yml \\\n  -v /etc/timezone:/etc/timezone:ro \\\n  -v /etc/localtime:/etc/localtime:ro \\\n  glanceapp/glance\n</code></pre>\n<p>(localtime and timezone are required for the calendar to work properly)</p>\n<p>I don't blame you if you're skeptical about running random containers from projects that came out literally today - you absolutely should be! You are more than welcome to build the project yourself from source and run it however you prefer. So long as you have Go installed it's as simple as <code>go build .</code></p>\n<p>Can't wait to see what kind of page configurations and themes people come up with!</p>",
-            "date_published": "2024-04-27T20:03:15+00:00",
-            "authors": [
-                {
-                    "name": "SvilenMarkov",
-                    "url": "https://www.reddit.com/user/SvilenMarkov"
                 }
             ]
         }
