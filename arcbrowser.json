@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1jb2kw5",
+            "url": "/r/ArcBrowser/comments/1jb2kw5/arc_is_the_goat/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1jb2kw5/arc_is_the_goat/",
+            "title": "Arc is the GOAT",
+            "content_html": "<p>Just dropping in to say that Arc has changed my life. Spaces, profiles, vertical tabs, and pinned tabs are features I've been begging my browsers for (and hacking together as many as I could in Chrome and Firefox with plugins) for more than a decade now.</p>\n<p>I don't understand all the complaining I read in here, because if The Browser Company simply maintains Arc with its current feature-set (I'm a macOS user), it will still be a life-changer into the far future.</p>\n<p>Please keep Arc well-maintained, Browser Company! Thank you for what you've already brought to the world! \ud83d\ude4f</p>",
+            "date_published": "2025-03-14T12:19:40+00:00",
+            "authors": [
+                {
+                    "name": "junson",
+                    "url": "https://www.reddit.com/user/junson"
+                }
+            ]
+        },
+        {
             "id": "1ixfjwg",
             "url": "/r/ArcBrowser/comments/1ixfjwg/bcnys_designer_nate_parrott_has_left_for_anthropic/",
             "external_url": "https://x.com/nateparrott/status/1894118778461438207?s=61",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Not_Leaving_LV",
                     "url": "https://www.reddit.com/user/Not_Leaving_LV"
-                }
-            ]
-        },
-        {
-            "id": "18tz84f",
-            "url": "/r/ArcBrowser/comments/18tz84f/arc_should_start_focussing_on_optimization_now/",
-            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/18tz84f/arc_should_start_focussing_on_optimization_now/",
-            "title": "Arc should start focussing on optimization now",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/18tz84f/arc_should_start_focussing_on_optimization_now/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/18tz84f/arc_should_start_focussing_on_optimization_now/'>Reddit</a></caption><div><br></div><p>I've been using Arc browser on my MBA 16GB for 4 months now. I love most of its features - love the tiling mechanism, peek on links, Arc Max features, Little Arc, and the newest feature where we can search chatgpt directly from the new tab dialog box.  </p>\n<p>I guess they even added a functionality on my request - separate tab switching carousel for each space, and that just makes this browser even more special for me.  </p>\n<p>But the only thing I do not like is that it is a memory hog. The fact that this is based on chromium is most noticeable because of this behaviour to be honest. I am a CS student, so naturally have a lot of tabs open by default, using multiple web-apps from the sidebar and have vscode permanently open, with other utilities like Terminal/Warp, Obsidian, Preview and Spotify opened 80% of the time. So in most cases the memory consumption reaches 12GBs (very rarely exceeds that). But sometimes when Arc browser has been left opened for a long time (days) it sits on a lot of memory, which leads to bottlenecking and has led to swap usage (once). I tried shifting to Safari, but did not find it as comfortable as it lacked a lot of useful features.  </p>\n<p>The Arc team might be planning to shift from the chromium foundation to webkit (which is known for resource efficiency, eg: Safari, Orion) or an entirely new web engine in the long run (idk, #speculation), but starting with a little attention to the resource efficiency might be a good idea. Edge was also a chromium based browser, but they focussed on its memory aspect and now it is a solid competition to chrome for this. </p>",
-            "date_published": "2023-12-29T22:23:27+00:00",
-            "authors": [
-                {
-                    "name": "One-Procedure3601",
-                    "url": "https://www.reddit.com/user/One-Procedure3601"
                 }
             ]
         }
