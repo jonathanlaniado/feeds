@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1jawr34",
+            "url": "/r/homeassistant/comments/1jawr34/the_magic_mirror_in_my_bathroom_that_i_realized/",
+            "external_url": "https://i.redd.it/mokku7hrcloe1.jpeg",
+            "title": "The magic mirror in my bathroom, that I realized with Homeassistant",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/mokku7hrcloe1.jpeg\" />",
+            "date_published": "2025-03-14T05:30:46+00:00",
+            "authors": [
+                {
+                    "name": "Individual_Cod_4726",
+                    "url": "https://www.reddit.com/user/Individual_Cod_4726"
+                }
+            ]
+        },
+        {
             "id": "1j8arqy",
             "url": "/r/homeassistant/comments/1j8arqy/ha_is_now_officially_matter_certified/",
             "external_url": "https://www.home-assistant.io/blog/2025/03/10/matter-certification/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Danynovex",
                     "url": "https://www.reddit.com/user/Danynovex"
-                }
-            ]
-        },
-        {
-            "id": "16u9m2i",
-            "url": "/r/homeassistant/comments/16u9m2i/introducing_raspberry_pi_5/",
-            "external_url": "https://www.raspberrypi.com/news/introducing-raspberry-pi-5/",
-            "title": "Introducing: Raspberry Pi 5!",
-            "content_html": "<caption>Open: <a href='https://www.raspberrypi.com/news/introducing-raspberry-pi-5/'>www.raspberrypi.com</a> | <a href='https://reddit.com/r/homeassistant/comments/16u9m2i/introducing_raspberry_pi_5/'>Reddit</a></caption>",
-            "date_published": "2023-09-28T07:40:34+00:00",
-            "authors": [
-                {
-                    "name": "atika",
-                    "url": "https://www.reddit.com/user/atika"
                 }
             ]
         }
