@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1jb72f9",
+            "url": "/r/selfhosted/comments/1jb72f9/i_built_and_open_sourced_a_desktop_app_to_run/",
+            "external_url": "https://i.redd.it/2gm1vkd8fooe1.gif",
+            "title": "I built and open sourced a desktop app to run LLMs locally with built-in RAG knowledge base and note-taking capabilities.",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/2gm1vkd8fooe1.gif\" />",
+            "date_published": "2025-03-14T15:49:40+00:00",
+            "authors": [
+                {
+                    "name": "w-zhong",
+                    "url": "https://www.reddit.com/user/w-zhong"
+                }
+            ]
+        },
+        {
             "id": "1j9s414",
             "url": "/r/selfhosted/comments/1j9s414/this_is_why_i_love_the_self_hosted_community/",
             "external_url": "https://www.reddit.com/gallery/1j9s414",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Nitwel1",
                     "url": "https://www.reddit.com/user/Nitwel1"
-                }
-            ]
-        },
-        {
-            "id": "1cih617",
-            "url": "/r/selfhosted/comments/1cih617/cautionary_tale_on_automated_speed_tests/",
-            "external_url": "https://i.redd.it/0ghxpe5ix0yc1.jpeg",
-            "title": "Cautionary Tale on Automated Speed Tests",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1cih617/cautionary_tale_on_automated_speed_tests/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1cih617/cautionary_tale_on_automated_speed_tests/'>Reddit</a></caption><div><br></div><p>Quick cautionary tale for other tinkerers:</p>\n<p>I set up a scheduled Speedtest using <a href=\"https://github.com/alexjustesen/speedtest-tracker\">alexjustesen/speedtest-tracker</a> to run on my network so that I could keep track of my speeds throughout the day and throughout the month. We have a lot of issues with our Internet provider giving us iffy service from time to time, so I wanted proof. </p>\n<p>Well, apparently I had the Speedtest set for every five minutes, not every hour. Logged into our Internet provider a few days ago, and, wow.</p>\n<p>Changed it to hourly on 4/30, mid-day. 5/1 is the first full day with the change. I\u2019m sure my ISP hates me lol. \ufffc </p>\n<p>Lesson learned! Hope this helps someone else not accidentally get any ISP overage charges lol</p><div><br></div><img src=\"https://i.redd.it/0ghxpe5ix0yc1.jpeg\" />",
-            "date_published": "2024-05-02T14:32:12+00:00",
-            "authors": [
-                {
-                    "name": "heauxheauxheauxyall",
-                    "url": "https://www.reddit.com/user/heauxheauxheauxyall"
                 }
             ]
         }
