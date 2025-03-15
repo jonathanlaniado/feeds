@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1jbj1jq",
+            "url": "/r/aipromptprogramming/comments/1jbj1jq/the_golden_rules_of_vibe_coding_no_file_shall/",
+            "external_url": "https://i.redd.it/zle2osh52roe1.jpeg",
+            "title": "\ud83e\udd29 The Golden Rules of Vibe Coding: No file shall have more than 500 lines. Never hard code environmental variables, auto-document every feature, use a modular structure. Have fun.",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/zle2osh52roe1.jpeg\" />",
+            "date_published": "2025-03-15T00:40:54+00:00",
+            "authors": [
+                {
+                    "name": "Educational_Ice151",
+                    "url": "https://www.reddit.com/user/Educational_Ice151"
+                }
+            ]
+        },
+        {
             "id": "1jaattx",
             "url": "/r/aipromptprogramming/comments/1jaattx/how_true_is_this_lol/",
             "external_url": "https://i.redd.it/023kwoowagoe1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Educational_Ice151",
                     "url": "https://www.reddit.com/user/Educational_Ice151"
-                }
-            ]
-        },
-        {
-            "id": "16zgfwo",
-            "url": "/r/aipromptprogramming/comments/16zgfwo/a_hackers_guide_to_language_models_by_the_jeremy/",
-            "external_url": "https://www.youtube.com/watch?v=jkrNMKz9pWU&t=1904s&ab_channel=JeremyHoward",
-            "title": "A Hacker's Guide to Language Models by THE Jeremy Howard",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/aipromptprogramming/comments/16zgfwo/a_hackers_guide_to_language_models_by_the_jeremy/'>Apollo</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/16zgfwo/a_hackers_guide_to_language_models_by_the_jeremy/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-10-04T07:09:23+00:00",
-            "authors": [
-                {
-                    "name": "FearlessFollowing241",
-                    "url": "https://www.reddit.com/user/FearlessFollowing241"
                 }
             ]
         }
