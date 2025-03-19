@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1jey633",
+            "url": "/r/PleX/comments/1jey633/important_2025_plex_updates/",
+            "external_url": "https://www.plex.tv/blog/important-2025-plex-updates",
+            "title": "Important 2025 Plex Updates",
+            "content_html": "",
+            "date_published": "2025-03-19T14:23:37+00:00",
+            "authors": [
+                {
+                    "name": "jonarin",
+                    "url": "https://www.reddit.com/user/jonarin"
+                }
+            ]
+        },
+        {
             "id": "1jbkikq",
             "url": "/r/PleX/comments/1jbkikq/why_are_some_of_you_so_miserable/",
             "external_url": "https://www.reddit.com/r/PleX/comments/1jbkikq/why_are_some_of_you_so_miserable/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "purpan-",
                     "url": "https://www.reddit.com/user/purpan-"
-                }
-            ]
-        },
-        {
-            "id": "1diqmfc",
-            "url": "/r/PleX/comments/1diqmfc/is_there_some_integration_like_this_for_plex_that/",
-            "external_url": "https://i.redd.it/rxovusa40c7d1.png",
-            "title": "Is there some integration like this for Plex that will read my library?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1diqmfc/is_there_some_integration_like_this_for_plex_that/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1diqmfc/is_there_some_integration_like_this_for_plex_that/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/rxovusa40c7d1.png\" />",
-            "date_published": "2024-06-18T13:25:09+00:00",
-            "authors": [
-                {
-                    "name": "NotAnADC",
-                    "url": "https://www.reddit.com/user/NotAnADC"
                 }
             ]
         }
