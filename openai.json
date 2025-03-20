@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1jfygtz",
+            "url": "/r/OpenAI/comments/1jfygtz/this_is_the_best_way_to_remember_your_openai_api/",
+            "external_url": "https://i.redd.it/nhypi6zckwpe1.png",
+            "title": "This is the best way to remember your OpenAI API key",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/nhypi6zckwpe1.png\" />",
+            "date_published": "2025-03-20T20:17:19+00:00",
+            "authors": [
+                {
+                    "name": "eternviking",
+                    "url": "https://www.reddit.com/user/eternviking"
+                }
+            ]
+        },
+        {
             "id": "1jewkfs",
             "url": "/r/OpenAI/comments/1jewkfs/how_much_this_is_true/",
             "external_url": "https://i.redd.it/inr6s7w4bnpe1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MetaKnowing",
                     "url": "https://www.reddit.com/user/MetaKnowing"
-                }
-            ]
-        },
-        {
-            "id": "1gbjyfj",
-            "url": "/r/OpenAI/comments/1gbjyfj/openai_plans_to_release_its_next_big_ai_model_by/",
-            "external_url": "https://www.theverge.com/2024/10/24/24278999/openai-plans-orion-ai-model-release-december",
-            "title": "OpenAI plans to release its next big AI model by December",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1gbjyfj/openai_plans_to_release_its_next_big_ai_model_by/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1gbjyfj/openai_plans_to_release_its_next_big_ai_model_by/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-10-25T02:28:33+00:00",
-            "authors": [
-                {
-                    "name": "elec-tronic",
-                    "url": "https://www.reddit.com/user/elec-tronic"
                 }
             ]
         }
