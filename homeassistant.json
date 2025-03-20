@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1jfwnzu",
+            "url": "/r/homeassistant/comments/1jfwnzu/poe_mmwave_sensor_its_official/",
+            "external_url": "https://www.reddit.com/r/homeassistant/comments/1jfwnzu/poe_mmwave_sensor_its_official/",
+            "title": "PoE mmWave Sensor: It\u2019s Official!",
+            "content_html": "<p>Hi everyone! In our <a href=\"https://www.reddit.com/r/homeassistant/comments/1jahptr/should_we_launch_a_poe_mmwave_sensor_next/\">last post</a>, we asked whether we should make a PoE (Power over Ethernet) version of our existing mmWave sensor, the <a href=\"https://sensy-one.com/products/sensy-one-s1\">Sensy-One S1,</a> and your overwhelming response made our decision an easy one! We\u2019re excited to announce that the PoE version is now in development!</p>\n<p><a href=\"https://preview.redd.it/x7gr1gqw2wpe1.png?width=539&amp;format=png&amp;auto=webp&amp;s=83fcca643fbba98c81606c35cab2a5649514fe4d\">ESP32-S3-POE-ETH (dev)</a></p>\n<p>If you don\u2019t need PoE, the original Sensy-One S1 is still available, and if you want to be the first to know when the PoE model launches (targeting early to mid-April), make sure to <a href=\"https://sensy-one.com/\">subscribe</a> on our website for updates!</p>\n<p>In the meantime, you can check out our <a href=\"https://www.youtube.com/watch?v=H-Rij8gbK3s\">YouTube</a> video for an in-depth look at the S1 and explore our <a href=\"https://github.com/sensy-one/mmwave-sensor\">GitHub</a> repository for all the documentation. Thanks again for your support, and I can\u2019t wait to share more news soon!</p>",
+            "date_published": "2025-03-20T19:03:05+00:00",
+            "authors": [
+                {
+                    "name": "Technical_Raisin_246",
+                    "url": "https://www.reddit.com/user/Technical_Raisin_246"
+                }
+            ]
+        },
+        {
             "id": "1jf2j7v",
             "url": "/r/homeassistant/comments/1jf2j7v/is_shelly_trying_to_push_everyone_out_of_the/",
             "external_url": "https://i.redd.it/bdurqg0plope1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "jorgenE90",
                     "url": "https://www.reddit.com/user/jorgenE90"
-                }
-            ]
-        },
-        {
-            "id": "16y0w8z",
-            "url": "/r/homeassistant/comments/16y0w8z/im_pretty_much_done_with_my_main_view_much/",
-            "external_url": "https://i.redd.it/jjot4h78dtrb1.png",
-            "title": "I'm pretty much done with my main view! Much gratitude to the wonderful community that made this possible",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/16y0w8z/im_pretty_much_done_with_my_main_view_much/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/16y0w8z/im_pretty_much_done_with_my_main_view_much/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/jjot4h78dtrb1.png\" />",
-            "date_published": "2023-10-02T16:16:21+00:00",
-            "authors": [
-                {
-                    "name": "Ouity",
-                    "url": "https://www.reddit.com/user/Ouity"
                 }
             ]
         }
