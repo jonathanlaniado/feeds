@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1jj2h5z",
+            "url": "/r/selfhosted/comments/1jj2h5z/wake_up_babe_brand_new_vuln_dropped/",
+            "external_url": "https://i.imgur.com/4hI4svs.jpeg",
+            "title": "Wake up babe, brand new vuln dropped",
+            "content_html": "<div><br></div><img src=\"https://i.imgur.com/4hI4svs.jpeg\" />",
+            "date_published": "2025-03-24T21:27:16+00:00",
+            "authors": [
+                {
+                    "name": "alex2003super",
+                    "url": "https://www.reddit.com/user/alex2003super"
+                }
+            ]
+        },
+        {
             "id": "1jeyz7w",
             "url": "/r/selfhosted/comments/1jeyz7w/important_2025_plex_updates_remote_streaming/",
             "external_url": "https://www.plex.tv/blog/important-2025-plex-updates/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "sangwan_5688",
                     "url": "https://www.reddit.com/user/sangwan_5688"
-                }
-            ]
-        },
-        {
-            "id": "1cpsn0z",
-            "url": "/r/selfhosted/comments/1cpsn0z/jellyfin_release_1090/",
-            "external_url": "https://jellyfin.org/posts/jellyfin-release-10.9.0",
-            "title": "Jellyfin Release 10.9.0",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1cpsn0z/jellyfin_release_1090/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1cpsn0z/jellyfin_release_1090/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-05-11T22:13:47+00:00",
-            "authors": [
-                {
-                    "name": "tgp1994",
-                    "url": "https://www.reddit.com/user/tgp1994"
                 }
             ]
         }
