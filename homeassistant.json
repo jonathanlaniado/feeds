@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1jkk5oo",
+            "url": "/r/homeassistant/comments/1jkk5oo/new_chatgpt_model_great_for_creating_3d/",
+            "external_url": "https://www.reddit.com/gallery/1jkk5oo",
+            "title": "New ChatGPT model great for creating 3d floorplans of your rooms",
+            "content_html": "",
+            "date_published": "2025-03-26T19:21:09+00:00",
+            "authors": [
+                {
+                    "name": "GMScreech",
+                    "url": "https://www.reddit.com/user/GMScreech"
+                }
+            ]
+        },
+        {
             "id": "1ji8qnk",
             "url": "/r/homeassistant/comments/1ji8qnk/calendar_card_pro_for_home_assistant_v200_released/",
             "external_url": "https://www.reddit.com/gallery/1ji8qnk",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "BostonSwe",
                     "url": "https://www.reddit.com/user/BostonSwe"
-                }
-            ]
-        },
-        {
-            "id": "16zu3ct",
-            "url": "/r/homeassistant/comments/16zu3ct/202310_new_looks_and_more_tile_card_features/",
-            "external_url": "https://www.home-assistant.io/blog/2023/10/04/release-202310/",
-            "title": "2023.10: New looks and more tile card features!",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/16zu3ct/202310_new_looks_and_more_tile_card_features/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/16zu3ct/202310_new_looks_and_more_tile_card_features/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-10-04T18:02:03+00:00",
-            "authors": [
-                {
-                    "name": "frenck_nl",
-                    "url": "https://www.reddit.com/user/frenck_nl"
                 }
             ]
         }
