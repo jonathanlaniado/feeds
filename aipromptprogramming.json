@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1jl4g47",
+            "url": "/r/aipromptprogramming/comments/1jl4g47/openai_4o_image_generation_is_wild/",
+            "external_url": "https://i.redd.it/56u369vmm8re1.png",
+            "title": "OpenAI 4o image generation is Wild.",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/56u369vmm8re1.png\" />",
+            "date_published": "2025-03-27T13:54:44+00:00",
+            "authors": [
+                {
+                    "name": "AdPast1030",
+                    "url": "https://www.reddit.com/user/AdPast1030"
+                }
+            ]
+        },
+        {
             "id": "1jijnj0",
             "url": "/r/aipromptprogramming/comments/1jijnj0/you_know_if_you_know/",
             "external_url": "https://i.redd.it/2bze8zhqqkqe1.jpeg",
@@ -1386,20 +1400,6 @@
             "title": "I just created a U.S. Tax bot in 10 mins using new GPT creator: it knows the whole tax code (4000 pages), does complex calculations, cites laws, double-checks online, and generates a PDF for tax filing. Amazing.",
             "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/aipromptprogramming/comments/17rmmwl/i_just_created_a_us_tax_bot_in_10_mins_using_new/'>Apollo</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/17rmmwl/i_just_created_a_us_tax_bot_in_10_mins_using_new/'>Reddit</a></caption><div><br></div>",
             "date_published": "2023-11-09T20:48:00+00:00",
-            "authors": [
-                {
-                    "name": "Educational_Ice151",
-                    "url": "https://www.reddit.com/user/Educational_Ice151"
-                }
-            ]
-        },
-        {
-            "id": "17mtcfm",
-            "url": "/r/aipromptprogramming/comments/17mtcfm/pika_labs_recreated_a_real_advertisement_which/",
-            "external_url": "https://v.redd.it/i9mfhov16zxb1",
-            "title": "Pika Labs recreated a real advertisement, which took 30 people and a month of work to produce",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/aipromptprogramming/comments/17mtcfm/pika_labs_recreated_a_real_advertisement_which/'>Apollo</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/17mtcfm/pika_labs_recreated_a_real_advertisement_which/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-11-03T11:55:29+00:00",
             "authors": [
                 {
                     "name": "Educational_Ice151",
