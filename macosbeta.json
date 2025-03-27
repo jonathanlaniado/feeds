@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1jlbfqv",
+            "url": "/r/MacOSBeta/comments/1jlbfqv/rc_2_released/",
+            "external_url": "https://www.macrumors.com/2025/03/27/apple-seeds-macos-sequoia-15-4-rc-2/",
+            "title": "RC 2 released",
+            "content_html": "",
+            "date_published": "2025-03-27T18:49:28+00:00",
+            "authors": [
+                {
+                    "name": "Dave_OC",
+                    "url": "https://www.reddit.com/user/Dave_OC"
+                }
+            ]
+        },
+        {
             "id": "1je7wkd",
             "url": "/r/MacOSBeta/comments/1je7wkd/apple_seeds_fourth_beta_of_macos_sequoia_154_with/",
             "external_url": "https://forums.macrumors.com/threads/apple-seeds-fourth-beta-of-macos-sequoia-15-4-with-mail-categorization.2453331/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "techberg_",
                     "url": "https://www.reddit.com/user/techberg_"
-                }
-            ]
-        },
-        {
-            "id": "q7h1ga",
-            "url": "/r/MacOSBeta/comments/q7h1ga/universal_controlbeta10/",
-            "external_url": "https://i.redd.it/q9l541n9d9t71.png",
-            "title": "Universal Control\uff1fBeta10\uff01",
-            "content_html": "<caption>Open in: <a href='https://i.redd.it/q9l541n9d9t71.png'>i.redd.it</a> | <a href='https://reddit.com/r/MacOSBeta/comments/q7h1ga/universal_controlbeta10/'>Reddit</a> | <a href='apollo://reddit.com/r/MacOSBeta/comments/q7h1ga/universal_controlbeta10/'>Apollo</a></caption>",
-            "date_published": "2021-10-13T18:10:45+00:00",
-            "authors": [
-                {
-                    "name": "CraigWang",
-                    "url": "https://www.reddit.com/user/CraigWang"
                 }
             ]
         }
