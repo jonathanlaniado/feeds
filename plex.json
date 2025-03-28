@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1jltnln",
+            "url": "/r/PleX/comments/1jltnln/updated_reference_of_optimal_plex_settings_to/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/1jltnln/updated_reference_of_optimal_plex_settings_to/",
+            "title": "Updated reference of optimal Plex settings to disable for increased privacy (March 2025)",
+            "content_html": "<p>Hey, r/Plex! A few years ago I published a list of optimal Plex settings to disable for privacy-conscious users and recently updated it to add some of Plex's newer settings/privacy options.</p>\n<p>A direct link to the post with screenshots and detailed instructions is below, but for those who'd rather not click through to another site:</p>\n<ul>\n<li><a href=\"https://www.plex.tv/email-preferences/\">Marketing Email Preferences</a></li>\n<li><a href=\"https://www.plex.tv/vendors-us/\">Advertising Preferences</a></li>\n<li><a href=\"https://www.plex.tv/about/privacy-legal/privacy-preferences/#opd\">Playback Data Collection</a> (Expand 'You have the right to limit what activity data is sent from your Plex Media Server' under 'Your Plex Privacy Rights')</li>\n<li><a href=\"https://app.plex.tv/desktop/?ref=selfh.st#!/settings/account\">Profile Privacy Settings</a> (Click 'Account Visibility &amp; Activity Sharing')</li>\n<li><a href=\"https://app.plex.tv/desktop/#!/settings/account\">Watch States sync</a> (Scroll down to 'Sync my watch state and ratings')</li>\n<li><a href=\"https://app.plex.tv/desktop/?ref=selfh.st#!/settings/online-media-sources\">Online Media Sources and Friend Activity</a></li>\n<li><a href=\"https://app.plex.tv/desktop/#!/settings/manage-library-access\">Friends</a> (Click the 'View all friends' button)</li>\n<li><a href=\"https://preferences.plex.tv/\">Personal Data Requests</a> (Access, delete, transfer, or update)</li>\n</ul>\n<p>Feel free to let me know if I've missed something!</p>\n<hr />\n<p><a href=\"https://selfh.st/plex-privacy-settings/\">Optimal Plex Settings for Privacy-Conscious Users (selfh.st)</a></p>",
+            "date_published": "2025-03-28T12:14:57+00:00",
+            "authors": [
+                {
+                    "name": "shol-ly",
+                    "url": "https://www.reddit.com/user/shol-ly"
+                }
+            ]
+        },
+        {
             "id": "1jey633",
             "url": "/r/PleX/comments/1jey633/important_2025_plex_updates/",
             "external_url": "https://www.plex.tv/blog/important-2025-plex-updates",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "rlnrlnrln",
                     "url": "https://www.reddit.com/user/rlnrlnrln"
-                }
-            ]
-        },
-        {
-            "id": "1dnkn4i",
-            "url": "/r/PleX/comments/1dnkn4i/windows_intel_igpu_tonemapping_support_will/",
-            "external_url": "https://i.redd.it/8sgt9t2mbk8d1.png",
-            "title": "Windows Intel iGPU tonemapping support will likely be added to the official build 3 releases from now",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1dnkn4i/windows_intel_igpu_tonemapping_support_will/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1dnkn4i/windows_intel_igpu_tonemapping_support_will/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/8sgt9t2mbk8d1.png\" />",
-            "date_published": "2024-06-24T18:29:50+00:00",
-            "authors": [
-                {
-                    "name": "purpan-",
-                    "url": "https://www.reddit.com/user/purpan-"
                 }
             ]
         }
