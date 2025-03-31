@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1jnsp3n",
+            "url": "/r/macapps/comments/1jnsp3n/antinote_113_dropdown_mode_v_ocr_autopaste/",
+            "external_url": "https://v.redd.it/rbq6gxykawre1",
+            "title": "Antinote 1.1.3 - Dropdown mode. \u2318V OCR. AutoPaste. Raycast and Alfred extensions. Translucency. 8 new themes.",
+            "content_html": "<p>Hi! Johnson (dev) here! Excited to share some of these new features with the community.</p>\n<p><strong>Dropdown mode (Traditional menu mode)</strong> - Antinote can now live permanently in your menu bar, dropping down when needed. It will show over full-screen apps and also on all desktops. You can change how big you want Antinote to be in settings.</p>\n<p><strong>Cmd-V OCR</strong> - Any image you drag (and now paste) into Antinote will get automatically OCR'd into plain text. Perfect for catching things during screen-shares or hard-to-copy data tables.</p>\n<p><strong>AutoPaste</strong> - Type \"paste\" and Antinote will listen to your clipboard. Anything you put in the clipboard will be automatically pasted in the note. Change the delimiter to anything you like. Great to skip the tedious cmd-tab / cmd+v part of these quick workflows.</p>\n<p><strong>Raycast / Alfred Extensions -</strong> Thanks to <a href=\"https://github.com/sc0\">PanKacper</a>, we are now <a href=\"https://www.raycast.com/sc0/antinote\">officially in the Raycast Store</a>, and also have an <a href=\"https://github.com/sc0/antinote-alfred-workflow/tree/main\">Alfred Extension</a>. These will let you create notes (blank or with content), pin/unpin, and search your notes directly from your favourite super-app.</p>\n<p><strong>Translucency -</strong> (macOS 15+) - Make the background translucent with Apple's materials and change the opacity of the effect to blend it with your favourite theme.</p>\n<p><strong>8 new themes</strong> -  Piccolo, A24, Tartan, Agrabah, Maud'Dib, Knight, Sanrio, Shadow Moses. Not sure how many of you will get the references, but each is inspired by something from my childhood.</p>\n<p>Every single one of these were suggestions from the community. Please <a href=\"https://discord.gg/2SKQbJM9Mz\">join us on Discord.</a> </p>\n<p>Also - I wanted to shout out this YouTube channel (AppsNTips) for making the first Antinote video out in the wild: <a href=\"https://www.youtube.com/watch?v=kQKGOPgOiuI\">https://www.youtube.com/watch?v=kQKGOPgOiuI</a></p>\n<p><strong>Try it out here:</strong></p>\n<h1><a href=\"https://antinote.io\">Antinote.io</a></h1>\n<p>7 day free trial</p>\n<p><strong>$5 one-time.</strong> Forever updates.</p>",
+            "date_published": "2025-03-31T02:06:50+00:00",
+            "authors": [
+                {
+                    "name": "johnsonjohnson",
+                    "url": "https://www.reddit.com/user/johnsonjohnson"
+                }
+            ]
+        },
+        {
             "id": "1jlhu3w",
             "url": "/r/macapps/comments/1jlhu3w/quit_my_job_a_year_ago_to_build_a_notetaking_app/",
             "external_url": "https://www.reddit.com/gallery/1jlhu3w",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "rdalterego",
                     "url": "https://www.reddit.com/user/rdalterego"
-                }
-            ]
-        },
-        {
-            "id": "1dnfnj8",
-            "url": "/r/macapps/comments/1dnfnj8/dockdoor_a_free_and_open_source_dock_peeking/",
-            "external_url": "https://v.redd.it/rfnuiif1bj8d1",
-            "title": "DockDoor - a free and open source dock peeking application for macOS!\n",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1dnfnj8/dockdoor_a_free_and_open_source_dock_peeking/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1dnfnj8/dockdoor_a_free_and_open_source_dock_peeking/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-06-24T15:03:40+00:00",
-            "authors": [
-                {
-                    "name": "GoodnessScrapes",
-                    "url": "https://www.reddit.com/user/GoodnessScrapes"
                 }
             ]
         }
