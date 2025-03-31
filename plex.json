@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1jo3aie",
+            "url": "/r/PleX/comments/1jo3aie/its_go_time_the_new_plex_experience_is_here/",
+            "external_url": "https://www.plex.tv/blog/its-go-time-the-new-plex-experience-is-here/",
+            "title": "It\u2019s Go Time: The New Plex Experience Is Here",
+            "content_html": "",
+            "date_published": "2025-03-31T13:33:21+00:00",
+            "authors": [
+                {
+                    "name": "jonarin",
+                    "url": "https://www.reddit.com/user/jonarin"
+                }
+            ]
+        },
+        {
             "id": "1jltnln",
             "url": "/r/PleX/comments/1jltnln/updated_reference_of_optimal_plex_settings_to/",
             "external_url": "https://www.reddit.com/r/PleX/comments/1jltnln/updated_reference_of_optimal_plex_settings_to/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Butler342",
                     "url": "https://www.reddit.com/user/Butler342"
-                }
-            ]
-        },
-        {
-            "id": "1dohic2",
-            "url": "/r/PleX/comments/1dohic2/can_we_please_limit_the_amount_of_can_a_minipc/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/1dohic2/can_we_please_limit_the_amount_of_can_a_minipc/",
-            "title": "Can we please limit the amount of \"Can a mini-PC run plex?\" posts?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1dohic2/can_we_please_limit_the_amount_of_can_a_minipc/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1dohic2/can_we_please_limit_the_amount_of_can_a_minipc/'>Reddit</a></caption><div><br></div><p>Day after day, week after week, there arequestions about running Plex on (typically) N100-based mini PC's by people who has made no research whatsoever on their own. I feel the number of posts have increased from weekly to daily or even multiple posts per day in the past few weeks.</p>\n<p>I think it's great that people want to run Plex, and mini PC's are a legit way to do it for some - but it's really getting tiresome with the same stuff being repeated over and over. Could we please limit or ban these questions, and instead refer to a stickied thread that's replaced (weekly, monthly, quarterly, I don't care)?</p>",
-            "date_published": "2024-06-25T21:34:32+00:00",
-            "authors": [
-                {
-                    "name": "rlnrlnrln",
-                    "url": "https://www.reddit.com/user/rlnrlnrln"
                 }
             ]
         }
