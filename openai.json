@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1jopeki",
+            "url": "/r/OpenAI/comments/1jopeki/oops/",
+            "external_url": "https://i.redd.it/zownouz886se1.jpeg",
+            "title": "Oops.",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/zownouz886se1.jpeg\" />",
+            "date_published": "2025-04-01T06:55:05+00:00",
+            "authors": [
+                {
+                    "name": "CosmicCitizen0",
+                    "url": "https://www.reddit.com/user/CosmicCitizen0"
+                }
+            ]
+        },
+        {
             "id": "1jnd4us",
             "url": "/r/OpenAI/comments/1jnd4us/end_of_graphic_designers/",
             "external_url": "https://i.redd.it/mc6ga5rb3ure1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "sessionletter",
                     "url": "https://www.reddit.com/user/sessionletter"
-                }
-            ]
-        },
-        {
-            "id": "1gjwexq",
-            "url": "/r/OpenAI/comments/1gjwexq/google_claims_world_first_as_ai_finds_0day/",
-            "external_url": "https://www.forbes.com/sites/daveywinder/2024/11/04/google-claims-world-first-as-ai-finds-0-day-security-vulnerability/",
-            "title": "Google Claims World First As AI Finds 0-Day Security Vulnerability | An AI agent has discovered a previously unknown, zero-day, exploitable memory-safety vulnerability in widely used real-world software.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1gjwexq/google_claims_world_first_as_ai_finds_0day/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1gjwexq/google_claims_world_first_as_ai_finds_0day/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-11-05T02:30:18+00:00",
-            "authors": [
-                {
-                    "name": "MetaKnowing",
-                    "url": "https://www.reddit.com/user/MetaKnowing"
                 }
             ]
         }
