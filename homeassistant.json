@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1jqkr21",
+            "url": "/r/homeassistant/comments/1jqkr21/the_wife_approved_the_dashboard/",
+            "external_url": "https://www.reddit.com/gallery/1jqkr21",
+            "title": "The wife approved the dashboard",
+            "content_html": "<p>Been playing around with making a dashboard for the home and the wife approved it! Was quite fun to build and to be honest i was just playing around seeing how far i could push the UI and came up with this. </p>\n<p>It certainly wont be for everyone which is fine, we all have our own tastes hey! I like a clean 'ish' look so thats what i went with. In the end I only used 3 cards in total. The custom-layout card, custom-button card and a light slider card. Used quite a few variables to make building things a little quicker</p>\n<p>This was version 2 and condensed down to just one screen rather than sliding through menus like before.</p>\n<p>A quick screen grab for those interested<br />\n<a href=\"https://imgur.com/a/nfvbEQU\">https://imgur.com/a/nfvbEQU</a></p>",
+            "date_published": "2025-04-03T15:01:57+00:00",
+            "authors": [
+                {
+                    "name": "iamtherufus",
+                    "url": "https://www.reddit.com/user/iamtherufus"
+                }
+            ]
+        },
+        {
             "id": "1jmhj7p",
             "url": "/r/homeassistant/comments/1jmhj7p/well_that_escalated_quickly/",
             "external_url": "https://i.redd.it/xslagsrb6lre1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Evil_Weevil_Knievel",
                     "url": "https://www.reddit.com/user/Evil_Weevil_Knievel"
-                }
-            ]
-        },
-        {
-            "id": "176461z",
-            "url": "/r/homeassistant/comments/176461z/what_is_the_recommended_way_to_trigger_something/",
-            "external_url": "https://i.redd.it/t6b3k1wf5rtb1.jpg",
-            "title": "What is the recommended way to trigger something from further away than Zigbee might be able to (or simply where the Zigbee device would be unavailable all the time)? Imagine I sit in the car rolling to the garage and want it to open early enough, that I do not need to stop.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/176461z/what_is_the_recommended_way_to_trigger_something/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/176461z/what_is_the_recommended_way_to_trigger_something/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/t6b3k1wf5rtb1.jpg\" />",
-            "date_published": "2023-10-12T10:56:54+00:00",
-            "authors": [
-                {
-                    "name": "Auravendill",
-                    "url": "https://www.reddit.com/user/Auravendill"
                 }
             ]
         }
