@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1js667o",
+            "url": "/r/selfhosted/comments/1js667o/hoarder_is_rebranding_to_karakeep/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1js667o/hoarder_is_rebranding_to_karakeep/",
+            "title": "Hoarder is rebranding to Karakeep",
+            "content_html": "<p>As you might know from <a href=\"https://www.reddit.com/r/selfhosted/comments/1i29pi1/hoarder_the_name_is_being_stolen_from_me/\">my previous post</a>, Hoarder (<a href=\"https://github.com/hoarder-app/hoarder\">github link</a>) has been caught up in an ongoing trademark dispute. Since the legal process is still unresolved, I\u2019ll have to save the full story for another time. For now, I\u2019ve decided that the best path forward is to rebrand.</p>\n<p>Starting today, Hoarder is rebranding to Karakeep! </p>\n<p>The name Karakeep is inspired by the Arabic word \"\u0643\u0631\u0627\u0643\u064a\u0628\" (karakeeb), a colloquial term commonly used to refer to miscellaneous clutter, odds and ends, or items that may seem disorganized but often hold personal value or hidden usefulness. It evokes the image of a messy drawer or forgotten box, full of stuff you can't quite throw away\u2014because somehow, it matters (or more likely, because you're a hoarder!).</p>\n<p>Over the next couple of weeks, things will start getting renamed to Karakeep (the repo, apps, extensions, etc). <a href=\"https://hoarder.app\">hoarder.app</a> will soon also begin redirecting to our new domain: <a href=\"https://karakeep.app\">karakeep.app</a>.</p>\n<p>I took pride in coming up with \"hoarder\" as the name for the project. I've spent months searching for a different name, but nothing felt as good as hoarder was. But it's time to move on. I'm incredibly grateful for the support this community has shown throughout the whole thing. Hopefully, I can now focus my time and energy on what matters: building Karakeep.</p>\n<p>It goes without saying, but please refrain from contacting the other party in any way, shape, or form.</p>",
+            "date_published": "2025-04-05T15:36:53+00:00",
+            "authors": [
+                {
+                    "name": "MohamedBassem",
+                    "url": "https://www.reddit.com/user/MohamedBassem"
+                }
+            ]
+        },
+        {
             "id": "1js3a1k",
             "url": "/r/selfhosted/comments/1js3a1k/i_made_an_allinone_media_downloader_website/",
             "external_url": "https://downr.org",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "farva_06",
                     "url": "https://www.reddit.com/user/farva_06"
-                }
-            ]
-        },
-        {
-            "id": "1cvsu9m",
-            "url": "/r/selfhosted/comments/1cvsu9m/stirling_pdf_is_a_cool_project/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1cvsu9m/stirling_pdf_is_a_cool_project/",
-            "title": "Stirling PDF is a cool project",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1cvsu9m/stirling_pdf_is_a_cool_project/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1cvsu9m/stirling_pdf_is_a_cool_project/'>Reddit</a></caption><div><br></div><p>Just wanted to mention that Stirling PDF is a very cool project <a href=\"https://github.com/Stirling-Tools/Stirling-PDF\">https://github.com/Stirling-Tools/Stirling-PDF</a>  You can perform numerous tasks on PDF documents all from a central website.</p>",
-            "date_published": "2024-05-19T16:56:53+00:00",
-            "authors": [
-                {
-                    "name": "Slow_Wafer3174",
-                    "url": "https://www.reddit.com/user/Slow_Wafer3174"
                 }
             ]
         }
