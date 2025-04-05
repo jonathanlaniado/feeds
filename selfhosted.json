@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1js3a1k",
+            "url": "/r/selfhosted/comments/1js3a1k/i_made_an_allinone_media_downloader_website/",
+            "external_url": "https://downr.org",
+            "title": "I made an all-in-one media downloader website without ads",
+            "content_html": "<p><strong>Currently supported platforms:</strong><br />\nTiktok, Douyin, Capcut, Threads, Instagram, Facebook, Espn, Pinterest, imdb, imgur, ifunny, Izlesene, Reddit, Youtube, Twitter, Vimeo, Snapchat, Bilibili, Dailymotion, Sharechat, Likee, Linkedin, Tumblr, Hipi, Telegram, Getstickerpack, Bitchute, Febspot, 9GAG, ok.ru, Rumble, Streamable, Ted, SohuTv, Xvideos, Xnxx, Xiaohongshu, Ixigua, Weibo, Miaopai, Meipai, Xiaoying, National Video, Yingke, Sina, Vk-vkvideo, Soundcloud, Mixcloud, Spotify, Zingmp3, Bandcamp and more.</p>\n<p>There are lot of things yet to cover, such as: better UI, fixing the identified bugs, direct download option (you need to perform \"Download as\" option, as direct download isn't available right now. It require dedicated download server, app server isnt enough) . </p>\n<p>Also, working on some restrictions from some of the above platforms. </p>",
+            "date_published": "2025-04-05T13:19:16+00:00",
+            "authors": [
+                {
+                    "name": "willis7747",
+                    "url": "https://www.reddit.com/user/willis7747"
+                }
+            ]
+        },
+        {
             "id": "1jq5r4t",
             "url": "/r/selfhosted/comments/1jq5r4t/accidentally_got_sent_5_terabytes_of_ssd_drives/",
             "external_url": "https://i.redd.it/8lotz925wise1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Slow_Wafer3174",
                     "url": "https://www.reddit.com/user/Slow_Wafer3174"
-                }
-            ]
-        },
-        {
-            "id": "1cv2l3q",
-            "url": "/r/selfhosted/comments/1cv2l3q/security_psa_for_anyone_using_docker_on_a/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1cv2l3q/security_psa_for_anyone_using_docker_on_a/",
-            "title": "Security PSA for anyone using Docker on a publicly accessible host. You may be exposing ports you\u2019re not aware of\u2026",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1cv2l3q/security_psa_for_anyone_using_docker_on_a/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1cv2l3q/security_psa_for_anyone_using_docker_on_a/'>Reddit</a></caption><div><br></div><p>I have been using Docker for years now and never knew this until about 20min ago. I have never seen this mentioned anywhere or in any tutorial I have ever followed. </p>\n<p>When you spin up a docker container using the host network its port mappings will override your firewall rules and open those ports, even if you already created a rule to block that port. Might not be that big of a deal unless you\u2019re on a publicly accessible system like a VPS! </p>\n<p>When you\u2019re setting up a container you need to modify your port bindings for any ports you don\u2019t want accessible over the internet. </p>\n<p>Using NGINX Proxy Manager as an example:</p>\n<p><code>ports:\n    - \u201880:80\u2019\n    - \u2018443:443\u2019\n    - \u201881:81\u2019</code></p>\n<p>Using these default port bindings will open all those ports to the internet including the admin UI on port 81. I would assume most of us would rather manage things through a VPN and only have the ports open that we truly need open. Especially considering that port 81 in this case is standard http and not encrypted. </p>\n<p>To fix this was surprisingly easy. You need to bind the port to the interface you want. So if you only want local access use <code>127.0.0.1</code> but in my example I\u2019m using Tailscale. </p>\n<p><code>ports:\n    - \u201880:80\u2019\n    - \u2018443:443\u2019\n    - \u2018100.0.0.1:81:81\u2019</code></p>\n<p>This will still allow access to port 81 for management, but only through my Tailscale interface. So now port 81 is no longer open to the internet, but I can still access it through Tailscale. </p>\n<p>Hopefully this is redundant for a lot of people. However I assume if I have gone this long without knowing this then I\u2019m probably not the only one. Hopefully this helps someone. </p>",
-            "date_published": "2024-05-18T17:34:54+00:00",
-            "authors": [
-                {
-                    "name": "RoleAwkward6837",
-                    "url": "https://www.reddit.com/user/RoleAwkward6837"
                 }
             ]
         }
