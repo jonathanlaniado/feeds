@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1jtjdp9",
+            "url": "/r/OpenAI/comments/1jtjdp9/video_game_characters_playing_with_themselves/",
+            "external_url": "https://www.reddit.com/gallery/1jtjdp9",
+            "title": "Video game characters playing with themselves",
+            "content_html": "",
+            "date_published": "2025-04-07T11:52:50+00:00",
+            "authors": [
+                {
+                    "name": "Old_Employee_6535",
+                    "url": "https://www.reddit.com/user/Old_Employee_6535"
+                }
+            ]
+        },
+        {
             "id": "1jref64",
             "url": "/r/OpenAI/comments/1jref64/well_well_o3_full_and_o4_mini_gonna_launch_in_few/",
             "external_url": "https://i.redd.it/5hk8pauv4use1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Mr_Whispers",
                     "url": "https://www.reddit.com/user/Mr_Whispers"
-                }
-            ]
-        },
-        {
-            "id": "1gkytyh",
-            "url": "/r/OpenAI/comments/1gkytyh/a_web_ai_agent_framework_im_planning_on_open/",
-            "external_url": "https://www.reddit.com/r/OpenAI/comments/1gkytyh/a_web_ai_agent_framework_im_planning_on_open/",
-            "title": "A Web AI agent framework I'm planning on open sourcing",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1gkytyh/a_web_ai_agent_framework_im_planning_on_open/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1gkytyh/a_web_ai_agent_framework_im_planning_on_open/'>Reddit</a></caption><div><br></div><p>Hey! I\u2019ve been building a simple framework called Dendrite for interacting with websites using natural language. Instead of having to find brittle css selectors or xpaths you can describe them with natural language.</p>\n<p><code>browser.click(\u201cthe sign in button\u201d)</code></p>\n<p>The selectors are then cached so the next time you want to get an element you don\u2019t need any interference. For the developers who like their code typed, specify what data you want with a Pydantic BaseModel and Dendrite returns it in that format with one simple function call. Built on top of playwright for a robust experience. This is an easy way to give your AI agents the same web browsing capabilities as humans have. Integrates easily with frameworks such as\u00a0 Langchain, CrewAI, Llamaindex and more.</p>\n<p>I\u2019m planning on <strong>open sourcing</strong> everything the coming month so feel free to reach out if you\u2019re interested in contributing</p>\n<p>Github: <a href=\"https://github.com/dendrite-systems/dendrite-python-sdk\">https://github.com/dendrite-systems/dendrite-python-sdk</a><br />\nDemo: <a href=\"https://www.youtube.com/watch?v=yChAUerKKxo&amp;feature=youtu.be\">https://www.youtube.com/watch?v=yChAUerKKxo</a></p>",
-            "date_published": "2024-11-06T13:45:11+00:00",
-            "authors": [
-                {
-                    "name": "rivernotch",
-                    "url": "https://www.reddit.com/user/rivernotch"
                 }
             ]
         }
