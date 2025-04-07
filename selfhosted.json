@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1jtmtfe",
+            "url": "/r/selfhosted/comments/1jtmtfe/chartdb_opensource_database_diagrams_selfhosted/",
+            "external_url": "https://i.redd.it/8hjgx63fcfte1.png",
+            "title": "\ud83c\udf08 ChartDB \u2013 Open-Source Database Diagrams | Self-Hosted Alternative to dbdiagram.io & DrawSQL",
+            "content_html": "<p>Hi everyone! \ud83d\udc4b</p>\n<p>We\u2019re excited to share the latest updates to <strong>ChartDB</strong>, our <strong>self-hosted</strong>, <strong>open-source</strong> tool for visualizing and designing database diagrams - built as a free and flexible alternative to tools like dbdiagram[.]io, DrawSQL, and DBeaver's diagram feature.</p>\n<h1>Why ChartDB?</h1>\n<p>\u2705 <strong>Self-hosted</strong> \u2013 Full control, deployable anywhere via Docker<br />\n\u2705 <strong>Open-source</strong> \u2013 Actively developed and maintained by the community<br />\n\u2705 <strong>No AI/API required</strong> \u2013 Deterministic SQL export with no external dependencies<br />\n\u2705 <strong>Modern &amp; Fast</strong> \u2013 Built with React + Monaco Editor, optimized for performance<br />\n\u2705 <strong>Multi-DB support</strong> \u2013 PostgreSQL, MySQL, MSSQL, SQLite, ClickHouse, and now Cloudflare D1</p>\n<h1>Latest Updates (v1.8.0 \u2192 v1.10.0)</h1>\n<p>\ud83c\udd95 <strong>Cloudflare D1 Support</strong> - Import schemas via Wrangler CLI<br />\n\ud83c\udd95 <strong>Deterministic DDL Export</strong> - Replaced AI-based export with native SQL generation<br />\n\ud83c\udd95 <strong>Sidebar for Diagram Objects</strong> - Quickly navigate tables, fields, indexes, and FKs<br />\n\ud83c\udd95 <strong>Better Canvas UX</strong> - Right-click to create FKs, table drag-and-drop, better visibility controls<br />\n\ud83c\udd95 <strong>Internationalization</strong> - Added full French &amp; Ukrainian support</p>\n<h1>What\u2019s Next</h1>\n<ul>\n<li>Git integration for diagram versioning</li>\n<li>SQL import support (via DDL script)</li>\n<li>AI-powered table relationship (FKs) detection</li>\n<li>More database support and collaboration tools</li>\n</ul>\n<p>\ud83d\udd17 <strong>GitHub:</strong> <a href=\"https://github.com/chartdb/chartdb\">https://github.com/chartdb/chartdb</a><br />\n\ud83d\udd17 <strong>Docs:</strong> <a href=\"https://docs.chartdb.io\">https://docs.chartdb.io</a>  </p>\n<p>We\u2019d love your feedback, contributions, or just to hear how you\u2019re using it. Thanks</p><div><br></div><img src=\"https://i.redd.it/8hjgx63fcfte1.png\" />",
+            "date_published": "2025-04-07T14:38:36+00:00",
+            "authors": [
+                {
+                    "name": "MicahDowling",
+                    "url": "https://www.reddit.com/user/MicahDowling"
+                }
+            ]
+        },
+        {
             "id": "1jsw3so",
             "url": "/r/selfhosted/comments/1jsw3so/just_came_across_this_nice_selfhosted_push/",
             "external_url": "https://i.redd.it/7ycv8vk1b8te1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Mafyuh",
                     "url": "https://www.reddit.com/user/Mafyuh"
-                }
-            ]
-        },
-        {
-            "id": "1d4y0re",
-            "url": "/r/selfhosted/comments/1d4y0re/your_backup_is_a_separate_nas_my_backup_is_god/",
-            "external_url": "https://i.redd.it/fgyujlfj3s3d1.jpeg",
-            "title": "Your backup is a separate NAS, my backup is God\u2026",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1d4y0re/your_backup_is_a_separate_nas_my_backup_is_god/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1d4y0re/your_backup_is_a_separate_nas_my_backup_is_god/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/fgyujlfj3s3d1.jpeg\" />",
-            "date_published": "2024-05-31T15:14:49+00:00",
-            "authors": [
-                {
-                    "name": "franco84732",
-                    "url": "https://www.reddit.com/user/franco84732"
                 }
             ]
         }
