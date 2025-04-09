@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1jv5mn7",
+            "url": "/r/aipromptprogramming/comments/1jv5mn7/doctor_vibe_coding_whats_the_worst_that_could/",
+            "external_url": "https://i.redd.it/4gwre3vk8tte1.jpeg",
+            "title": "Doctor Vibe Coding. What\u2019s the worst that could happen?",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/4gwre3vk8tte1.jpeg\" />",
+            "date_published": "2025-04-09T13:21:09+00:00",
+            "authors": [
+                {
+                    "name": "Educational_Ice151",
+                    "url": "https://www.reddit.com/user/Educational_Ice151"
+                }
+            ]
+        },
+        {
             "id": "1jtvlgh",
             "url": "/r/aipromptprogramming/comments/1jtvlgh/who_got_this_realization_too/",
             "external_url": "https://i.redd.it/dg3akhwk2hte1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Educational_Ice151",
                     "url": "https://www.reddit.com/user/Educational_Ice151"
-                }
-            ]
-        },
-        {
-            "id": "184w5vg",
-            "url": "/r/aipromptprogramming/comments/184w5vg/stepbystep_intro_tutorial_to_build_assistants/",
-            "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/184w5vg/stepbystep_intro_tutorial_to_build_assistants/",
-            "title": "Step-by-step intro tutorial to build Assistants using OpenAI Assistants API",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/aipromptprogramming/comments/184w5vg/stepbystep_intro_tutorial_to_build_assistants/'>Apollo</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/184w5vg/stepbystep_intro_tutorial_to_build_assistants/'>Reddit</a></caption><div><br></div><p>Trying to build a simple application using Assistant API. I built a simple streamlit app to demo the McDonald's drive-through assistant here is the code walk through <a href=\"https://youtu.be/zL2kj85lOTc\">https://youtu.be/zL2kj85lOTc</a> and the code <a href=\"https://github.com/sarchak/AIAutomation\">https://github.com/sarchak/AIAutomation</a></p>",
-            "date_published": "2023-11-27T06:08:28+00:00",
-            "authors": [
-                {
-                    "name": "canhelp",
-                    "url": "https://www.reddit.com/user/canhelp"
                 }
             ]
         }
