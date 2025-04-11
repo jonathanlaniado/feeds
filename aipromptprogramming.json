@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1jwiaux",
+            "url": "/r/aipromptprogramming/comments/1jwiaux/best_ai_girlfriend_apps_in_2025/",
+            "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1jwiaux/best_ai_girlfriend_apps_in_2025/",
+            "title": "Best AI girlfriend apps in 2025?",
+            "content_html": "<p>I have seen so many different AI girlfriend apps on TikTok and on Reddit, but which one is the best one in your honest opinion? </p>",
+            "date_published": "2025-04-11T05:16:24+00:00",
+            "authors": [
+                {
+                    "name": "severedishonesty4",
+                    "url": "https://www.reddit.com/user/severedishonesty4"
+                }
+            ]
+        },
+        {
             "id": "1jvw3ei",
             "url": "/r/aipromptprogramming/comments/1jvw3ei/googles_new_agentspace_can_handle_complex_tasks/",
             "external_url": "https://v.redd.it/0e6kzvxeyzte1",
@@ -1386,20 +1400,6 @@
             "title": "Needle in a Haystack: Assistants API outperforms GPT-4 Turbo at 4% of the cost",
             "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/aipromptprogramming/comments/18bu4yj/needle_in_a_haystack_assistants_api_outperforms/'>Apollo</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/18bu4yj/needle_in_a_haystack_assistants_api_outperforms/'>Reddit</a></caption><div><br></div>",
             "date_published": "2023-12-06T03:00:03+00:00",
-            "authors": [
-                {
-                    "name": "Educational_Ice151",
-                    "url": "https://www.reddit.com/user/Educational_Ice151"
-                }
-            ]
-        },
-        {
-            "id": "187v0ui",
-            "url": "/r/aipromptprogramming/comments/187v0ui/excited_to_announce_the_opensourcing_of_my_full/",
-            "external_url": "https://github.com/ruvnet/gpts",
-            "title": "Excited to announce the open-sourcing of my full GPT collection under an MIT license. Find specialized GPTs like MedicGPT & LegalGPT in this GitHub repo, each tailored for unique uses. Includes detailed instructions & OpenAPI.json formats for easy integration.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/aipromptprogramming/comments/187v0ui/excited_to_announce_the_opensourcing_of_my_full/'>Apollo</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/187v0ui/excited_to_announce_the_opensourcing_of_my_full/'>Reddit</a></caption><div><br></div><p>In this comprehensive GitHub repository, you'll find a wide range of GPTs tailored for various applications. From MedicGPT, offering insights into medical topics, to LegalGPT, your friendly legal advisor, each model is designed to cater to specific needs. The collection also includes Idea Loop for creative ideation, Ad Creator for innovative advertising, and many more specialized GPTs.</p>\n<p>Each GPT comes with detailed instructions and is complemented by OpenAPI.json formats for API integration. This setup ensures a smooth and informative start for anyone interested in exploring and utilizing these AI models. </p>\n<p>Whether you're delving into AI for the first time or are a seasoned professional, this repository offers valuable resources to enhance your projects and research in AI.</p>",
-            "date_published": "2023-11-30T22:22:50+00:00",
             "authors": [
                 {
                     "name": "Educational_Ice151",
