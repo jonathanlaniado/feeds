@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1jyp0l7",
+            "url": "/r/ArcBrowser/comments/1jyp0l7/orion_is_the_first_webkit_browser_to_feature_an/",
+            "external_url": "https://v.redd.it/t9mvh4wqtpue1",
+            "title": "Orion is the first WebKit browser to feature an Arc-like navigation logic for vertical tabs",
+            "content_html": "<p>Just thought this was interesting. Their \"Saved Windows\" (quite similar to tab groups) are now organised side-by-side for easy switching - this was previously quite a burden.</p>\n<p>Note that Orion is <strong>NOT</strong> a clone - their philosophy is quite drastically different.</p>",
+            "date_published": "2025-04-14T03:01:22+00:00",
+            "authors": [
+                {
+                    "name": "DensityInfinite",
+                    "url": "https://www.reddit.com/user/DensityInfinite"
+                }
+            ]
+        },
+        {
             "id": "1jxfhm1",
             "url": "/r/ArcBrowser/comments/1jxfhm1/arc_is_dying_make_it_open_source/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1jxfhm1/arc_is_dying_make_it_open_source/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "JaceThings",
                     "url": "https://www.reddit.com/user/JaceThings"
-                }
-            ]
-        },
-        {
-            "id": "18ye141",
-            "url": "/r/ArcBrowser/comments/18ye141/has_anyone_even_got_access_to_arc_on_windows/",
-            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/18ye141/has_anyone_even_got_access_to_arc_on_windows/",
-            "title": "Has anyone even got access to ARC on windows?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/18ye141/has_anyone_even_got_access_to_arc_on_windows/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/18ye141/has_anyone_even_got_access_to_arc_on_windows/'>Reddit</a></caption><div><br></div><p>its already a new year, they said they will sending invites on Dec, its Jan 2024 now</p>",
-            "date_published": "2024-01-04T14:09:07+00:00",
-            "authors": [
-                {
-                    "name": "lightning_designer",
-                    "url": "https://www.reddit.com/user/lightning_designer"
                 }
             ]
         }
