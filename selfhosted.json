@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1jywd1x",
+            "url": "/r/selfhosted/comments/1jywd1x/this_subreddit_has_ruined_me/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1jywd1x/this_subreddit_has_ruined_me/",
+            "title": "This sub-reddit has ruined me",
+            "content_html": "<p>I used to be blissfully ignorant about data privacy. Now, thanks to you freaks, I'm a paranoid wreck analyzing privacy policies like they're nuclear launch codes.</p>\n<p>Case in point: <a href=\"https://www.familywall.com/\">Family Wall</a>. It's this brilliant app for normies that would solve all our family coordination problems - shared calendars, shopping lists, to-dos - the works. My wife and kids would actually use it. Beautiful UI. Works across all our devices <em>and I'm not responsible for maintenance / upkeep.</em></p>\n<p>But then I read their privacy policy: Google Analytics. Fuck. Third-party service providers with vague data collection permissions. Data potentially accessible to partners in \"business transfers.\"</p>\n<p>Two years ago, I would've clicked \"I Agree\" without a second thought. Now I'm drafting formal emails asking about their GDPR compliance and data processing agreements.</p>\n<p>Maybe I'm being ridiculous. But I can't unsee what this community has shown me about data ownership.</p>\n<p>The curse of knowledge, I suppose.</p>",
+            "date_published": "2025-04-14T11:17:44+00:00",
+            "authors": [
+                {
+                    "name": "Do_no_himsa",
+                    "url": "https://www.reddit.com/user/Do_no_himsa"
+                }
+            ]
+        },
+        {
             "id": "1jtmtfe",
             "url": "/r/selfhosted/comments/1jtmtfe/chartdb_opensource_database_diagrams_selfhosted/",
             "external_url": "https://i.redd.it/8hjgx63fcfte1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "PlagueCookie",
                     "url": "https://www.reddit.com/user/PlagueCookie"
-                }
-            ]
-        },
-        {
-            "id": "1d5tgf0",
-            "url": "/r/selfhosted/comments/1d5tgf0/got_my_first_it_job_cause_this_sub/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1d5tgf0/got_my_first_it_job_cause_this_sub/",
-            "title": "Got my first IT job cause this sub",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1d5tgf0/got_my_first_it_job_cause_this_sub/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1d5tgf0/got_my_first_it_job_cause_this_sub/'>Reddit</a></caption><div><br></div><p>I got into self hosting back in 2016 cause I was tired of having to pay for Netflix, Hulu just to watch 1 thing on that platform. Found Plex and found out how to download movies/TV shows.</p>\n<p>Then manually searching for content became a pain. So I automated the process with my Arr stack.</p>\n<p>Then in 2020 I found network chuck who introduced me to docker with his portainer video. Along with the basics of Linux &amp; Networking.</p>\n<p>Fast forward 4 years now (24 now)  I have a whole homelab infrastructure. 2 proxmox nodes, TrueNas, AWX, Cloud machines, authentik, probably 45 Virtual machines in total all for different services. 7 domains and countless subdomains, CI/CD for Git repos, etc. If it's open source and can be installed in a homelab, ive probably tried it.</p>\n<p>Anyway, before this I didn't know anything about Linux/tech. Was working a sales job. But this has became an addiction lol. I fully credit this subreddit for showing me what's all out there.</p>\n<p>I don't have any certs so getting IT job was gonna be hard.\nOne day I finally said I'm done with sales and applied for some IT jobs. Got an interview at a VOIP company and I didn't know a thing about VoIP but they were impressed with my homelab and understanding of systems, so they hired me.</p>\n<p>Now here I am 8 weeks later, working on PBX systems, SSH'ing into Linux servers and troubleshooting, remoting into clients networks, configuring VM's, etc. Basically exactly what I do at home. And doing so well some of the more advanced people in the office think I should moving up to sysadmin.</p>\n<p>Most of my coworkers all have A+, Net+ and Sec+ and I'm hanging right in there with them, I teach them things that I've learned by going the self hosted route, they teach me things from the certificate route.</p>\n<p>Anyways, I just wanted to thank this subreddit. Thanks for sharing your open source projects, thanks for all the help I've received over the last few years. I guess it is all starting to pay off. If I can do it you can too.</p>",
-            "date_published": "2024-06-01T18:29:29+00:00",
-            "authors": [
-                {
-                    "name": "Mafyuh",
-                    "url": "https://www.reddit.com/user/Mafyuh"
                 }
             ]
         }
