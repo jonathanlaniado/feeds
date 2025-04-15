@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1jzvdie",
+            "url": "/r/OpenAI/comments/1jzvdie/openai_is_building_its_own_social_network_to/",
+            "external_url": "https://i.redd.it/fb4mupc4t0ve1.jpeg",
+            "title": "OpenAI is building its own social network to rival Elon Musk's X, Verge reports.",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/fb4mupc4t0ve1.jpeg\" />",
+            "date_published": "2025-04-15T15:52:55+00:00",
+            "authors": [
+                {
+                    "name": "ajaanz",
+                    "url": "https://www.reddit.com/user/ajaanz"
+                }
+            ]
+        },
+        {
             "id": "1jyv8od",
             "url": "/r/OpenAI/comments/1jyv8od/bro_is_hype_posting_since_2016/",
             "external_url": "https://i.redd.it/a67slr88yrue1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MetaKnowing",
                     "url": "https://www.reddit.com/user/MetaKnowing"
-                }
-            ]
-        },
-        {
-            "id": "1gluqyp",
-            "url": "/r/OpenAI/comments/1gluqyp/i_asked_chatgpt_and_perplexity_where_to_eat/",
-            "external_url": "https://www.reddit.com/r/OpenAI/comments/1gluqyp/i_asked_chatgpt_and_perplexity_where_to_eat/",
-            "title": "I asked ChatGPT and Perplexity where to eat paella this Sunday, with a little extra research\u2026",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1gluqyp/i_asked_chatgpt_and_perplexity_where_to_eat/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1gluqyp/i_asked_chatgpt_and_perplexity_where_to_eat/'>Reddit</a></caption><div><br></div><p><a href=\"https://preview.redd.it/crmumi94cizd1.png?width=2822&amp;format=png&amp;auto=webp&amp;s=f6f320c9d8c7b022779bbe6072952f9f4db373f9\">General flow</a></p>\n<p>So I combined ChatGPT+Perplexity+Python to get the tool for a precise and up-to-date research.</p>\n<p>For example I send a simple question, like \"Where\u2019s the best place to enjoy paella this Sunday at 7 PM considering the weather?\"</p>\n<p><a href=\"https://preview.redd.it/nkzcuv07cizd1.png?width=2812&amp;format=png&amp;auto=webp&amp;s=4611f9b5384b5e836a82652fd349b16b92f45e56\">Request to GPT to Perplexity</a></p>\n<p>It goes to a Python node that checks today\u2019s date. Then, ChatGPT takes my question and makes it more detailed.</p>\n<p>This detailed question is sent to Perplexity, which finds the most recent information. All of this is sent back to ChatGPT, which gives me a complete list of places taking into account the weather forecast, the latest promos and current events.</p>\n<p>https://preview.redd.it/bv69isbacizd1.png?width=2818&amp;format=png&amp;auto=webp&amp;s=f9640a4a1f1f27a21161334b1dc60ad238f71fa4</p>\n<p>Basically, I use this combination for marketing analysis and research, though for the example, I showed a simple personal query. Neither Perplexity nor GPT performs well on their own, but together they make the perfect tool. What used to take hours now only takes about 10 minutes! It\u2019s especially helpful for spotting trends in e-commerce and SaaS, and all the information comes with links for easy fact-checking.</p>\n<p>If you want to give it a go, here's a <a href=\"https://drive.google.com/file/d/19okpeiYE84EAAeJxWy_4tNtl2T8evYgg/view?usp=sharing\">Google disk link</a> to the workflow. I built it on a no-code platform, <a href=\"https://www.scade.pro/\">Scade.pro</a> You can test my workflow using their free plan.</p>\n<p>Give it a try and let me know what you think!</p>",
-            "date_published": "2024-11-07T16:39:46+00:00",
-            "authors": [
-                {
-                    "name": "NickoGermish",
-                    "url": "https://www.reddit.com/user/NickoGermish"
                 }
             ]
         }
