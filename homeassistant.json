@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1k0epeg",
+            "url": "/r/homeassistant/comments/1k0epeg/my_work_in_progress_floorplan_dashboard/",
+            "external_url": "https://www.reddit.com/gallery/1k0epeg",
+            "title": "My (work in progress) Floorplan Dashboard",
+            "content_html": "<p>I've been using Home Assistant for many years, but I wanted to start a project to display information and controls on an easily accessible tablet mounted up in the house.  </p>\n<p>My goal was to create something aesthetic but also really simple and intuitive for my family and guests to use, and I think floorplan designs are really great for that. Lovelace is lovely, but once I start explaining which tab or section to find certain controls on, I can see eyes glaze over and I lose the people really quickly.  </p>\n<p>One of my inspirations is Madelena's really great dashboard:  <a href=\"https://www.reddit.com/r/homeassistant/comments/uc79cv/a_maximalist_approach_on_designing_the_ha/\">https://www.reddit.com/r/homeassistant/comments/uc79cv/a_maximalist_approach_on_designing_the_ha/</a>  <br />\nBut while I personally love the style of maximalist info overload, for my intended audience, I tried to only pack in as much information as I could without cluttering anything.  </p>\n<p>So I've been working on a whole new dashboard using ha-floorplan and just wanted to share my progress so far. This is a very rough work-in-progress with a lot of placeholder images and non-finalized styling.  I also have yet to add a lot of features:  </p>\n<ul>\n<li>media controls</li>\n<li>camera feeds</li>\n<li>RGB lighting visualizations</li>\n<li>device battery indicators</li>\n</ul>\n<p>I'd love to hear the thoughts from the community, and please throw me any suggestions and ideas to incorporate!</p>\n<p>Here are some vids to show the dash in action:<br />\n<a href=\"https://youtube.com/shorts/2gq_aCzacX0?feature=share\">https://youtube.com/shorts/2gq_aCzacX0?feature=share</a>  <br />\n<a href=\"https://youtube.com/shorts/Q2EmermGk48?feature=share\">https://youtube.com/shorts/Q2EmermGk48?feature=share</a>  </p>",
+            "date_published": "2025-04-16T07:34:13+00:00",
+            "authors": [
+                {
+                    "name": "tozim",
+                    "url": "https://www.reddit.com/user/tozim"
+                }
+            ]
+        },
+        {
             "id": "1jxo7cg",
             "url": "/r/homeassistant/comments/1jxo7cg/forget_wife_approval_i_got_the_coveted_mil/",
             "external_url": "https://www.reddit.com/r/homeassistant/comments/1jxo7cg/forget_wife_approval_i_got_the_coveted_mil/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "flossraptor",
                     "url": "https://www.reddit.com/user/flossraptor"
-                }
-            ]
-        },
-        {
-            "id": "176hz85",
-            "url": "/r/homeassistant/comments/176hz85/year_of_the_voice_chapter_4_wake_words/",
-            "external_url": "https://www.home-assistant.io/blog/2023/10/12/year-of-the-voice-chapter-4-wakewords/",
-            "title": "Year of the Voice - Chapter 4: Wake words",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/176hz85/year_of_the_voice_chapter_4_wake_words/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/176hz85/year_of_the_voice_chapter_4_wake_words/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-10-12T21:26:29+00:00",
-            "authors": [
-                {
-                    "name": "frenck_nl",
-                    "url": "https://www.reddit.com/user/frenck_nl"
                 }
             ]
         }
