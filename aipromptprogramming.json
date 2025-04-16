@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1k0cos5",
+            "url": "/r/aipromptprogramming/comments/1k0cos5/generated_an_animated_math_explainer_using_gemini/",
+            "external_url": "https://v.redd.it/9pfiyui7s4ve1",
+            "title": "Generated an animated math explainer using Gemini and Manim",
+            "content_html": "",
+            "date_published": "2025-04-16T05:14:58+00:00",
+            "authors": [
+                {
+                    "name": "aby-1",
+                    "url": "https://www.reddit.com/user/aby-1"
+                }
+            ]
+        },
+        {
             "id": "1jyomgj",
             "url": "/r/aipromptprogramming/comments/1jyomgj/google_gemini_is_killing_claude_in_both_cost_and/",
             "external_url": "https://i.redd.it/efq5x4nmqpue1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "friuns",
                     "url": "https://www.reddit.com/user/friuns"
-                }
-            ]
-        },
-        {
-            "id": "18h63jg",
-            "url": "/r/aipromptprogramming/comments/18h63jg/storytelling_app_i_made_for_my_niece_im_running/",
-            "external_url": "https://v.redd.it/kkbr3x0m2z5c1",
-            "title": "Storytelling app i made for my niece. Im running it with Nextjs, Dalle3, Whisper, GPT4 and a mountain of json :) (sped up for brevity)",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/aipromptprogramming/comments/18h63jg/storytelling_app_i_made_for_my_niece_im_running/'>Apollo</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/18h63jg/storytelling_app_i_made_for_my_niece_im_running/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-12-13T02:23:23+00:00",
-            "authors": [
-                {
-                    "name": "Distinct-Analysis740",
-                    "url": "https://www.reddit.com/user/Distinct-Analysis740"
                 }
             ]
         }
