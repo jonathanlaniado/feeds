@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1k273ar",
+            "url": "/r/OpenAI/comments/1k273ar/man_this_is_confusing/",
+            "external_url": "https://i.redd.it/z1mwo1t1zlve1.png",
+            "title": "Man this is confusing",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/z1mwo1t1zlve1.png\" />",
+            "date_published": "2025-04-18T15:03:42+00:00",
+            "authors": [
+                {
+                    "name": "MetaKnowing",
+                    "url": "https://www.reddit.com/user/MetaKnowing"
+                }
+            ]
+        },
+        {
             "id": "1k0liji",
             "url": "/r/OpenAI/comments/1k0liji/finally_good_news_hope_its_worth_wait/",
             "external_url": "https://i.redd.it/dbipn5esg7ve1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Yank-here",
                     "url": "https://www.reddit.com/user/Yank-here"
-                }
-            ]
-        },
-        {
-            "id": "1go0ue3",
-            "url": "/r/OpenAI/comments/1go0ue3/anthropic_founder_says_ai_skeptics_are_poorly/",
-            "external_url": "https://www.reddit.com/gallery/1go0ue3",
-            "title": "Anthropic founder says AI skeptics are poorly calibrated as to the state of progress",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1go0ue3/anthropic_founder_says_ai_skeptics_are_poorly/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1go0ue3/anthropic_founder_says_ai_skeptics_are_poorly/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-11-10T13:37:47+00:00",
-            "authors": [
-                {
-                    "name": "MetaKnowing",
-                    "url": "https://www.reddit.com/user/MetaKnowing"
                 }
             ]
         }
