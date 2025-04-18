@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1k2af7i",
+            "url": "/r/aipromptprogramming/comments/1k2af7i/generate_a_photo_of_a_man_wearing_an_outfit_from/",
+            "external_url": "https://www.reddit.com/gallery/1k2af7i",
+            "title": "Generate a photo of a man wearing an outfit from an image",
+            "content_html": "<p>Hi! Is there an easy way to generate a photo of a man wearing an outfit from a picture, similar to how ChatGPT does it? I just uploaded a photo of the outfit and asked to generate an image of a man wearing it \u2014 that\u2019s it.</p>",
+            "date_published": "2025-04-18T17:22:43+00:00",
+            "authors": [
+                {
+                    "name": "Diligent_Historian75",
+                    "url": "https://www.reddit.com/user/Diligent_Historian75"
+                }
+            ]
+        },
+        {
             "id": "1k0cos5",
             "url": "/r/aipromptprogramming/comments/1k0cos5/generated_an_animated_math_explainer_using_gemini/",
             "external_url": "https://v.redd.it/9pfiyui7s4ve1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "JD_2020",
                     "url": "https://www.reddit.com/user/JD_2020"
-                }
-            ]
-        },
-        {
-            "id": "18jm2b9",
-            "url": "/r/aipromptprogramming/comments/18jm2b9/programming_prompts_helpful_101_best_chatgpt/",
-            "external_url": "https://github.com/friuns2/BlackFriday-GPTs-Prompts/blob/main/Programming.md",
-            "title": "Programming Prompts - Helpful 101 Best ChatGPT Prompts for Coding",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/aipromptprogramming/comments/18jm2b9/programming_prompts_helpful_101_best_chatgpt/'>Apollo</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/18jm2b9/programming_prompts_helpful_101_best_chatgpt/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-12-16T07:31:24+00:00",
-            "authors": [
-                {
-                    "name": "friuns",
-                    "url": "https://www.reddit.com/user/friuns"
                 }
             ]
         }
