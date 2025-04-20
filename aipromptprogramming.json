@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1k3pgu8",
+            "url": "/r/aipromptprogramming/comments/1k3pgu8/i_gave_myself_2_weeks_to_build_a_full_product/",
+            "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1k3pgu8/i_gave_myself_2_weeks_to_build_a_full_product/",
+            "title": "I gave myself 2 weeks to build a full product using only AI. Here's what I learned.",
+            "content_html": "<p>I gave myself two weeks to build something from start to finish using only AI, and whatever latenight energy I had. What came out of it is a very cool marketing tool.</p>\n<p>Surprisingly, it turned out way more solid than I expected. Here are 10 things I learned from building a full product this way:</p>\n<ol>\n<li><strong>AI made the build fast</strong> I went from zero to working product in record time, mostly working nights. AI excels at rapidly handling repetitive or standardized tasks, significantly speeding up development. The speed boost from AI is no joke, especially for solo devs.</li>\n<li><strong>Mixing AI models is underrated</strong> Different AIs shine in different areas. I used ChatGPT, Claude, and Gemini depending on the task one for frontend, another for debugging, another for UX writing. That combo carried hard.</li>\n<li><strong>AI doesn\u2019t see the big picture</strong> It can ace small tasks but struggles to connect them meaningfully. You still need to be the architect. AI won\u2019t hold the full vision for you. It also tends to repeatedly rewrite functions that already exist, because it sometimes doesn\u2019t realize it\u2019s already solved a particular problem.</li>\n<li><strong>Lovable handled the entire UI</strong> I\u2019m not a frontend engineer in fact, I genuinely suck at it. Lovable was the tool that best helped me bring my vision to life without touching HTML or CSS directly. The frontend is 100% built with Lovable, and honestly, it looks way better than anything I would\u2019ve built myself. It still needs human polish, especially with color contrast and spacing, but it got me very close to what I imagined.</li>\n<li><strong>Cursor made the backend possible</strong> I used Cursor to build most of the backend. I still had to step in and code certain parts, but even those moments were smoother. For logicheavy stuff, it was a real timesaver.</li>\n<li><strong>Context is fragile</strong> AI forgets. A lot. I had to constantly remind it of previous decisions, or it would rewrite things back to how they were before. If I wanted a function to work a certain nonstandard way, I had to repeatedly clarify my intentions otherwise, the AI would inevitably revert it to a more conventional version</li>\n<li><strong>Debugging is mostly on you</strong> Once things get weird, AI starts guessing. Often, it\u2019s faster to dive in and fix it manually than go back and forth. To vibe code at 100% efficiency, you still need solid coding skills because you\u2019ll inevitably hit issues that require deeper understanding</li>\n<li><strong>AI code isn\u2019t secure by default</strong> AI gets you functional code fast, but securing it against hacks or vulnerabilities is still on you. AI won\u2019t naturally think through edge cases or malicious scenarios. Building something safe and reliable means manually adding those security layers. You\u2019ll need human oversight AI isn\u2019t thinking about who\u2019s trying to break your stuff</li>\n<li><strong>Sometimes AI gets really weird</strong> Occasionally, the AI starts doing totally bizarre things. At one point, Cursor\u2019s agent randomly decided it needed to build a GBA emulator in the middle of my backend logic. It genuinely tried. I have no idea why. But hey, AI vibes?</li>\n<li><strong>AI copywriting can go offscript</strong> Sometimes AIgenerated text is impressively good. But it often throws in random nonsense. It might invent imaginary features or spontaneously change product details like pricing. Tracking down when or why these things happen is tough often, it\u2019s easier to just rewrite the content from scratch.</li>\n</ol>\n<p>Using AI made it incredibly easy to get started but surprisingly hard to finish and polish the project. AI coding is definitely not perfect, but working this way was fun and didn\u2019t require much mental strain. It genuinely felt like vibing with the AI. Except, of course, when it descended into pure, rageinducing madness.</p>\n<p><strong>Final result?</strong><br />\n<strong>What I built is not a demo but a robust product built through AI and human coengineering.</strong></p>\n<p>It\u2019s a clean, useful, actuallyworking product that was built incredibly fast and really does bring value to users.</p>\n<p>AI built most of it. I directed it and cleaned up the mess it made. And yeah I\u2019m proud of what came out of two weeks of straight vibecoding.</p>\n<p>We\u2019re entering a wild era where you can vibe your way into building real stuff. And I\u2019m here for it.</p>\n<p>Edit: A few people asked for more context and screenshots, so here you go.</p>\n<p><a href=\"http://GenRank.app\">GenRank.app</a> helps you fine-tune your website or content so it shows up better in AI-generated search results (think Perplexity, ChatGPT Search or Google\u2019s SGE). Just drop in your content or a URL, and GenRank will analyze it, then give you a report with suggestions and scores to help AI understand and rank your stuff more clearly.</p>\n<p>https://reddit.com/link/1k3pgu8/video/9pgemcbzl0we1/player</p>",
+            "date_published": "2025-04-20T15:46:18+00:00",
+            "authors": [
+                {
+                    "name": "Lonely-Public2655",
+                    "url": "https://www.reddit.com/user/Lonely-Public2655"
+                }
+            ]
+        },
+        {
             "id": "1k2af7i",
             "url": "/r/aipromptprogramming/comments/1k2af7i/generate_a_photo_of_a_man_wearing_an_outfit_from/",
             "external_url": "https://www.reddit.com/gallery/1k2af7i",
@@ -1386,20 +1400,6 @@
             "title": "ChatGPT builds games you don\u2019t even need to install or copy/paste code to play",
             "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/18urlrj/chatgpt_builds_games_you_dont_even_need_to/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/18urlrj/chatgpt_builds_games_you_dont_even_need_to/'>Reddit</a></caption><div><br></div>",
             "date_published": "2023-12-30T22:26:08+00:00",
-            "authors": [
-                {
-                    "name": "JD_2020",
-                    "url": "https://www.reddit.com/user/JD_2020"
-                }
-            ]
-        },
-        {
-            "id": "18q0l05",
-            "url": "/r/aipromptprogramming/comments/18q0l05/i_created_a_custom_gpt_that_can_build_you_games/",
-            "external_url": "https://v.redd.it/tad3ze5yaa8c1",
-            "title": "I created a Custom GPT that can build you games right from your chat session that you play with one click",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/18q0l05/i_created_a_custom_gpt_that_can_build_you_games/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/18q0l05/i_created_a_custom_gpt_that_can_build_you_games/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-12-24T18:17:13+00:00",
             "authors": [
                 {
                     "name": "JD_2020",
