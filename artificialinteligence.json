@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1k4in34",
+            "url": "/r/ArtificialInteligence/comments/1k4in34/llms_are_cool_but_lets_stop_pretending_theyre/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1k4in34/llms_are_cool_but_lets_stop_pretending_theyre/",
+            "title": "LLMs are cool. But let\u2019s stop pretending they\u2019re smart.",
+            "content_html": "<p>They don\u2019t think.<br />\nThey autocomplete.  </p>\n<p>They can write code, emails, and fake essays, but they don\u2019t understand any of it.<br />\nNo memory. No learning after deployment. No goals.  </p>\n<p>Just really good statistical guesswork.<br />\nWe\u2019re duct-taping agents on top and calling it AGI.  </p>\n<p>It\u2019s useful. Just not intelligent. Let\u2019s be honest.</p>",
+            "date_published": "2025-04-21T17:06:19+00:00",
+            "authors": [
+                {
+                    "name": "Future_AGI",
+                    "url": "https://www.reddit.com/user/Future_AGI"
+                }
+            ]
+        },
+        {
             "id": "1k46wvw",
             "url": "/r/ArtificialInteligence/comments/1k46wvw/ai_is_becoming_the_new_google_and_nobodys_talking/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1k46wvw/ai_is_becoming_the_new_google_and_nobodys_talking/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "opulent1986",
                     "url": "https://www.reddit.com/user/opulent1986"
-                }
-            ]
-        },
-        {
-            "id": "1bfh0ca",
-            "url": "/r/ArtificialInteligence/comments/1bfh0ca/ai_will_mean_more_programmers_not_fewer/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1bfh0ca/ai_will_mean_more_programmers_not_fewer/",
-            "title": "AI will mean more programmers, not fewer",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/1bfh0ca/ai_will_mean_more_programmers_not_fewer/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/1bfh0ca/ai_will_mean_more_programmers_not_fewer/'>Reddit</a></caption><div><br></div><ul>\n<li>Jensen Huang and others have speculated about AI replacing programmers, citing the ability of AI systems like ChatGPT or Github's Copilot to generate code quickly.</li>\n<li>However, programmers perform critical tasks beyond mere coding, including problem-solving, analysis of complex issues, and iteration on solutions.</li>\n<li>While AI tools can expedite certain tasks, they lack the ability to reason, limiting their capabilities compared to human programmers.</li>\n<li>AI is expected to enhance the efficiency and productivity of programmers rather than replace them entirely.</li>\n<li>As AI tools become more prevalent, companies may require fewer programmers, but the value per developer is anticipated to increase.</li>\n<li>AI serves as a tool to assist programmers, emphasizing the continued importance of human creativity and imagination in software development.</li>\n</ul>\n<p>Source: https://app.daily.dev/posts/TzLCdXh3j</p>",
-            "date_published": "2024-03-15T15:45:02+00:00",
-            "authors": [
-                {
-                    "name": "High_Sleep3694",
-                    "url": "https://www.reddit.com/user/High_Sleep3694"
                 }
             ]
         }
