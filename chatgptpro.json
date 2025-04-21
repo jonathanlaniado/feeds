@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
     "items": [
         {
+            "id": "1k48fgr",
+            "url": "/r/ChatGPTPro/comments/1k48fgr/chatgpt_has_developed_an_extremely_patronizing/",
+            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1k48fgr/chatgpt_has_developed_an_extremely_patronizing/",
+            "title": "ChatGPT has developed an extremely patronizing new trait and it\u2019s driving me nuts.",
+            "content_html": "<p>I don\u2019t know if this is happening to anybody else or not and I can\u2019t put an exact timeframe on when this started but it\u2019s been going on for at least a month or two I would say if I had to guess. I tend to utilize advanced voice mode quite frequently, and sometime over the last little while no matter what I ask, chat, GPT always starts its response with something along the lines of \u201cOooh, good question!\u201c</p>\n<p>This shit is driving me bonkers, no matter how I update the custom instructions to explicitly say not to answer me in patronizing ways or even use the words good question or comment on the fact that it\u2019s a good question or do any of the flattering bullshit that it\u2019s doing it still does it every single time if it\u2019s not \u201cooh good question\u201d it\u2019s \u201coh what a great question!\u201d</p>\n<p>I\u2019ve even asked for ChatGPT to write a set of custom instructions in order to tell itself not to answer or behave in such manners, and it did an entire write up of how to edit the custom instructions to make sure it never responded like that and guess what it did when i asked if it worked in a new conversation?</p>\n<p>\u201cooooooh! Good question!!!\u201d</p>\n<p>It\u2019s enough to make me stop using voice mode. \nAnybody else experience this????</p>",
+            "date_published": "2025-04-21T08:22:00+00:00",
+            "authors": [
+                {
+                    "name": "chance-the-mance",
+                    "url": "https://www.reddit.com/user/chance-the-mance"
+                }
+            ]
+        },
+        {
             "id": "1jzyf6k",
             "url": "/r/ChatGPTPro/comments/1jzyf6k/openai_just_dropped_a_detailed_prompting_guide/",
             "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1jzyf6k/openai_just_dropped_a_detailed_prompting_guide/",
@@ -1392,12 +1406,6 @@
                     "url": "https://www.reddit.com/user/Salvoc40"
                 }
             ]
-        },
-        {
-            "id": "0",
-            "url": "https://www.reddit.com/r/chatgptpro",
-            "title": "r/chatgptpro has been launched!",
-            "content_html": "<p>This feed will be populated as posts match the given criteria.</p>"
         }
     ]
 }
