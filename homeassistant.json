@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1k56401",
+            "url": "/r/homeassistant/comments/1k56401/my_buddy_didnt_believe_me_when_i_told_him_this_is/",
+            "external_url": "https://i.redd.it/1q8zmkr30ewe1.jpeg",
+            "title": "My buddy didn\u2019t believe me when I told him this is Home Assistant",
+            "content_html": "<p>Just a little appreciation post, as I\u2019m becoming increasingly content with everything HA has to offer. To all the devs working hard out there feel free to drop your info so I can buy you a coffee. Your work does not go unnoticed :)</p><div><br></div><img src=\"https://i.redd.it/1q8zmkr30ewe1.jpeg\" />",
+            "date_published": "2025-04-22T13:19:20+00:00",
+            "authors": [
+                {
+                    "name": "-ManWhat",
+                    "url": "https://www.reddit.com/user/-ManWhat"
+                }
+            ]
+        },
+        {
             "id": "1k0epeg",
             "url": "/r/homeassistant/comments/1k0epeg/my_work_in_progress_floorplan_dashboard/",
             "external_url": "https://www.reddit.com/gallery/1k0epeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "GuySie",
                     "url": "https://www.reddit.com/user/GuySie"
-                }
-            ]
-        },
-        {
-            "id": "176qmxh",
-            "url": "/r/homeassistant/comments/176qmxh/m_o_u_n_t_e_d/",
-            "external_url": "https://www.reddit.com/gallery/176qmxh",
-            "title": "M O U N T E D",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/176qmxh/m_o_u_n_t_e_d/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/176qmxh/m_o_u_n_t_e_d/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-10-13T04:43:12+00:00",
-            "authors": [
-                {
-                    "name": "flossraptor",
-                    "url": "https://www.reddit.com/user/flossraptor"
                 }
             ]
         }
