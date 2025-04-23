@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1k68wre",
+            "url": "/r/macapps/comments/1k68wre/i_made_a_completely_free_mac_app_for_creating/",
+            "external_url": "https://v.redd.it/kcfyx7n8zmwe1",
+            "title": "I made a completely free Mac app for creating customizable countdown timer overlays",
+            "content_html": "<p>Hey r/macapps,</p>\n<p>I've been working on a macOS app called <strong>Countdown Timer Pro</strong> for a while, and I\u2019m excited to finally share the first version with you all!</p>\n<p><strong>What is it?</strong> <br />\nIt's an app that lets you create highly customizable timer overlays with a simple click-and-drag from your menu bar. Perfect for everything from quick cooking reminders to tracking long-term project deadlines visually, right on your screen.</p>\n<p><strong>Why did I build it?</strong> <br />\nI originally wanted a timer that was always visible on my screen, but didn't constantly block me from clicking on windows underneath it. That led to the \"pass-through\" feature, and from there, I kept finding new things I wanted to add, resulting in the app you see today.</p>\n<p>I\u2019m releasing it <strong>completely free</strong> on the App Store (no ads, no IAPs, no catches) to keep it accessible for anyone who might find it useful.</p>\n<p><strong>Here's what it can do (Key features):</strong></p>\n<ul>\n<li><strong>Super Easy Creation:</strong> Click the menu bar icon and drag \u2013 the farther you drag, the longer the timer.</li>\n<li><strong>Click-Through Timers (Pass-Through Mode):</strong> Timers fade slightly on hover, letting you click <em>right through</em> them to interact with content underneath.</li>\n<li><strong>On-Overlay Controls:</strong> Quickly resize, move, add/subtract time, pause, open the manager, or close the timer directly on the overlay itself.</li>\n<li><strong>Deep Appearance Customization:</strong> Fonts, backgrounds, colors, gradients, opacity, progress ring styles \u2013 make it look <em>exactly</em> how you want. Save your favorite color themes, too.</li>\n<li><strong>Default Timer Settings:</strong> Define your preferred style and behavior once, and all new timers will use those settings automatically.</li>\n<li><strong>Flexible Time Display:</strong> Show units from seconds up to years. Timers can auto-switch units (e.g., minutes to seconds when under 60s), and you can optionally display remaining time as a percentage.</li>\n<li><strong>Recurring Timers:</strong> Set timers to repeat daily, weekly, or at custom intervals.</li>\n<li><strong>Custom End Notifications:</strong> Create unique notifications for when specific timers complete.</li>\n<li><strong>Visible Across Spaces:</strong> Timers stay visible even when you switch between Spaces.</li>\n<li><strong>Countdown Manager:</strong> A central window to view, edit, and manage all your timers.</li>\n<li><strong>Window Behavior:</strong> Control whether timers float above everything, act like standard windows, or ignore screen boundaries.</li>\n<li><strong>And More:</strong> Includes keyboard shortcuts, options to hide timers until they start, reverse progress bar direction, and other useful features.</li>\n</ul>\n<p><strong>What's Next &amp; Feedback:</strong> <br />\nThis is just v1.0! I have a list of features and optimizations I'd love to add, especially if there's interest from the community.</p>\n<p>Please check it out! I'd love to hear what you think. Let me know about any bugs you find or features you'd like to see added.</p>\n<p><strong>Download link:</strong> <a href=\"https://apps.apple.com/us/app/countdown-timer-pro/id6744842468\">https://apps.apple.com/us/app/countdown-timer-pro/id6744842468</a></p>\n<p><strong>TL;DR:</strong> Made a free Mac app to create highly customizable, click-through countdown timer overlays. Drag to create. Lots of features. No ads, no IAPs.</p>",
+            "date_published": "2025-04-23T20:04:46+00:00",
+            "authors": [
+                {
+                    "name": "nicobakke",
+                    "url": "https://www.reddit.com/user/nicobakke"
+                }
+            ]
+        },
+        {
             "id": "1k2isa8",
             "url": "/r/macapps/comments/1k2isa8/sniffnet_free_open_source_similar_to_little_snitch/",
             "external_url": "https://i.redd.it/nve8znbihove1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "alexk111",
                     "url": "https://www.reddit.com/user/alexk111"
-                }
-            ]
-        },
-        {
-            "id": "1dsq76b",
-            "url": "/r/macapps/comments/1dsq76b/wired_buddy_the_missing_ethernet_icon_for_macos/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1dsq76b/wired_buddy_the_missing_ethernet_icon_for_macos/",
-            "title": "Wired Buddy - the missing ethernet icon for macOS",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1dsq76b/wired_buddy_the_missing_ethernet_icon_for_macos/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1dsq76b/wired_buddy_the_missing_ethernet_icon_for_macos/'>Reddit</a></caption><div><br></div><p>Hi all! I open-sourced something I worked on the past month. The application should show the state of an active ethernet connection as a cute little icon in your menu bar. When I switched from a Windows workstation to a Mac mini, I noticed that there is no such icon. The other menubar apps I found were either paid or did not integrate that well into the macOS look &amp; feel. Thats why I quickly developed something on my own.</p>\n<p><a href=\"https://github.com/yeahitsjan/WiredBuddy\">https://github.com/yeahitsjan/WiredBuddy</a></p>\n<p>https://preview.redd.it/tnoj87xa2w9d1.png?width=320&amp;format=png&amp;auto=webp&amp;s=c7e347b332c1ddc0345cba47425610d66515e68d</p>\n<p>The app is currently not released as binary as I still implement some features, including a cool cute AppIcon as well as localization. There will be some pushes rapidly the next time, but you can still try it out and give some feedback that will fit into the active development of this little app. It's free forever and MIT licensed ;-)</p>",
-            "date_published": "2024-07-01T11:00:54+00:00",
-            "authors": [
-                {
-                    "name": "dublin20",
-                    "url": "https://www.reddit.com/user/dublin20"
                 }
             ]
         }
