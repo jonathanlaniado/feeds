@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1k73ed8",
+            "url": "/r/macapps/comments/1k73ed8/wblock_v02_is_finally_released_lightweight_native/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1k73ed8/wblock_v02_is_finally_released_lightweight_native/",
+            "title": "wBlock v0.2 is (finally) released -- lightweight, native, free, and open-source Safari ad blocker",
+            "content_html": "<p>Hey everyone,</p>\n<p>I\u2019m excited to share a huge update for <strong>wBlock</strong>, the <strong>free and open-source</strong> ad blocker for Safari I\u2019ve been building!</p>\n<p><a href=\"https://preview.redd.it/bip3y3j7luwe1.png?width=986&amp;format=png&amp;auto=webp&amp;s=2e6f914612b11feeee3aad5ebf543122194b605a\">The homepage</a></p>\n<p>Over the past several months, I\u2019ve been hard at work (and reading every bit of your feedback here and on GitHub) to make wBlock faster, more powerful, and way easier to use. This update is honestly the one I\u2019m most proud of, so here\u2019s what\u2019s new and improved:</p>\n<ul>\n<li><strong>Keyboard Shortcuts + Cheat Sheet:</strong> You can now navigate and control wBlock with fast hotkeys. There\u2019s even an in-app cheat sheet\u2014your fingers never need to leave the keyboard.</li>\n<li><strong>Custom Filter Lists:</strong> Add, manage, and toggle any ad-blocking list you want\u2014besides the built-in ones. Imported lists? No problem. Sidebar toggle bugs and filter duplication are fixed too.</li>\n<li><strong>Epic Speed Boost (No More Lag!):</strong> The UI is dramatically faster. All the sluggishness, animation lag, and slow filter updates are gone\u2014background processing everywhere.</li>\n<li><strong>(Almost) Bulletproof YouTube Ad-Blocking:</strong> Ad scripts now inject <em>earlier</em> for much better blocking. Enjoy cleaner YouTube (including the homepage and while watching videos). Note that some users still have issues when visiting a YouTube video by pasting a link; YouTube is becoming really annoying when it comes to ads and I'll need some extra time to figure this out.</li>\n<li><strong>No More Annoying Permission Popups:</strong> You won\u2019t be bugged for data access every launch anymore! All that background permission nagging is fixed for good.</li>\n<li><strong>Built-in Language &amp; Custom Filters:</strong> Chinese, Spanish, Portuguese, and many international filters now work flawlessly. Got issues with AdGuard lists before? They\u2019re all fixed.</li>\n<li><strong>See What You\u2019re Blocking:</strong> Filter lists now show the real number of rules, and you can click to go right to the homepage/source.</li>\n<li><strong>Download Progress for Filter Updates:</strong> Never wonder \u201cis it hung?\u201d again\u2014there\u2019s now a live progress bar while updating filters.</li>\n<li><strong>Cleaner, Simpler Interface:</strong> The sidebar is gone, popups are more intuitive, and, finally, every log window and popup can be closed.</li>\n</ul>\n<p>There are ton of smaller bug fixes and UX tweaks too, from \u201crefresh all filters\u201d to improved default settings and support for more macOS versions. The menu, tooltips, and every page should feel easier and friendlier!</p>\n<p><strong>\ud83d\ude4f Thank you to everyone on Reddit and GitHub who\u2019s reported bugs, shared ideas, and encouraged me along the way.</strong> Your support and feedback have shaped every part of this project and made wBlock what it is today! This truly is built <em>for</em> the community, <em>by</em> the community.</p>\n<p>If you haven\u2019t tried wBlock yet, or you gave up on ad-blockers that \u201calmost\u201d worked\u2014give it a go! And if you enjoy it, please star the repo, open suggestions, or just spread the word.</p>\n<p>You can <a href=\"https://github.com/0xCUB3/wBlock\">check out the GitHub</a> or <a href=\"https://testflight.apple.com/join/DFGenhRn\">download it now using TestFlight</a>.</p>\n<p><em>(P.S Massive thanks again to everyone who gave honest feedback, feature ideas, or just a kind word along the way. You guys really keep me going :) )</em></p>",
+            "date_published": "2025-04-24T21:04:46+00:00",
+            "authors": [
+                {
+                    "name": "0xCUBE",
+                    "url": "https://www.reddit.com/user/0xCUBE"
+                }
+            ]
+        },
+        {
             "id": "1k68wre",
             "url": "/r/macapps/comments/1k68wre/i_made_a_completely_free_mac_app_for_creating/",
             "external_url": "https://v.redd.it/kcfyx7n8zmwe1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "QenTox",
                     "url": "https://www.reddit.com/user/QenTox"
-                }
-            ]
-        },
-        {
-            "id": "1dtkved",
-            "url": "/r/macapps/comments/1dtkved/thriftmac_100_free_mac_apps/",
-            "external_url": "https://www.thriftmac.com/",
-            "title": "Thriftmac: 100% Free Mac Apps",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1dtkved/thriftmac_100_free_mac_apps/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1dtkved/thriftmac_100_free_mac_apps/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-07-02T12:41:19+00:00",
-            "authors": [
-                {
-                    "name": "alexk111",
-                    "url": "https://www.reddit.com/user/alexk111"
                 }
             ]
         }
