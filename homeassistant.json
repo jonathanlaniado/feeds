@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1k71tcq",
+            "url": "/r/homeassistant/comments/1k71tcq/bin_counting_with_gemini/",
+            "external_url": "https://i.redd.it/4bddd2459uwe1.png",
+            "title": "Bin Counting With Gemini",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/4bddd2459uwe1.png\" />",
+            "date_published": "2025-04-24T19:59:10+00:00",
+            "authors": [
+                {
+                    "name": "daern2",
+                    "url": "https://www.reddit.com/user/daern2"
+                }
+            ]
+        },
+        {
             "id": "1k56401",
             "url": "/r/homeassistant/comments/1k56401/my_buddy_didnt_believe_me_when_i_told_him_this_is/",
             "external_url": "https://i.redd.it/1q8zmkr30ewe1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Jesus359",
                     "url": "https://www.reddit.com/user/Jesus359"
-                }
-            ]
-        },
-        {
-            "id": "1771ywu",
-            "url": "/r/homeassistant/comments/1771ywu/removal_of_mazda_connected_services_integration/",
-            "external_url": "https://www.home-assistant.io/blog/2023/10/13/removal-of-mazda-connected-services-integration/",
-            "title": "Removal of Mazda Connected Services integration",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/1771ywu/removal_of_mazda_connected_services_integration/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/1771ywu/removal_of_mazda_connected_services_integration/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-10-13T15:56:18+00:00",
-            "authors": [
-                {
-                    "name": "GuySie",
-                    "url": "https://www.reddit.com/user/GuySie"
                 }
             ]
         }
