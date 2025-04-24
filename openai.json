@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1k6p06i",
+            "url": "/r/OpenAI/comments/1k6p06i/new_plus_user_limits_04242025/",
+            "external_url": "https://i.redd.it/ckmw7928hrwe1.png",
+            "title": "New plus user limits? (04/24/2025)",
+            "content_html": "<p>https://help.openai.com/en/articles/9824962-openai-o3-and-o4-mini-usage-limits-on-chatgpt-and-the-api</p>\n<p>100 o3 per week\n300 o4 mini per day \n100 o4 mini - High per day</p>\n<p>They keep changing the limits! </p><div><br></div><img src=\"https://i.redd.it/ckmw7928hrwe1.png\" />",
+            "date_published": "2025-04-24T10:38:27+00:00",
+            "authors": [
+                {
+                    "name": "laowaiH",
+                    "url": "https://www.reddit.com/user/laowaiH"
+                }
+            ]
+        },
+        {
             "id": "1k53jbw",
             "url": "/r/OpenAI/comments/1k53jbw/finally_someone_use_ai_to_show_their_reality/",
             "external_url": "https://v.redd.it/he4qnfbwbdwe1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "umarmnaq",
                     "url": "https://www.reddit.com/user/umarmnaq"
-                }
-            ]
-        },
-        {
-            "id": "1grmvs8",
-            "url": "/r/OpenAI/comments/1grmvs8/frontiermath_is_a_new_math_benchmark_for_llms_to/",
-            "external_url": "https://i.redd.it/diueskl7fz0e1.png",
-            "title": "FrontierMath is a new Math benchmark for LLMs to test their limits. The current highest scoring model has scored only 2%.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1grmvs8/frontiermath_is_a_new_math_benchmark_for_llms_to/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1grmvs8/frontiermath_is_a_new_math_benchmark_for_llms_to/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/diueskl7fz0e1.png\" />",
-            "date_published": "2024-11-15T03:10:28+00:00",
-            "authors": [
-                {
-                    "name": "PixelatedXenon",
-                    "url": "https://www.reddit.com/user/PixelatedXenon"
                 }
             ]
         }
