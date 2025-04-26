@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1k8ijf3",
+            "url": "/r/homeassistant/comments/1k8ijf3/esphomebased_retro_voice_assistant/",
+            "external_url": "https://www.reddit.com/gallery/1k8ijf3",
+            "title": "ESPHome-based retro voice assistant",
+            "content_html": "<p>Not the first one with this idea but I wanted to build my own. This one has an ESP built into the handset with I2S microphone and speaker.</p>\n<p>The microphone is only listening when the handset is picked up, so I don't need any wake-word detection.</p>\n<p>The rotary dial is implemented as a Text-Sensor that publishes the number that was dialed and you can of course trigger any automation based on that.</p>\n<p>It connects like any other ESPHome device with home assistant and doesn't need any external hardware (except a USB-C cable to supply power)</p>",
+            "date_published": "2025-04-26T17:37:51+00:00",
+            "authors": [
+                {
+                    "name": "wunschpunsch3D",
+                    "url": "https://www.reddit.com/user/wunschpunsch3D"
+                }
+            ]
+        },
+        {
             "id": "1k71tcq",
             "url": "/r/homeassistant/comments/1k71tcq/bin_counting_with_gemini/",
             "external_url": "https://i.redd.it/4bddd2459uwe1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "BackHerniation",
                     "url": "https://www.reddit.com/user/BackHerniation"
-                }
-            ]
-        },
-        {
-            "id": "178ihb7",
-            "url": "/r/homeassistant/comments/178ihb7/what_cards_would_i_need_to_make_this_this_new/",
-            "external_url": "https://i.redd.it/lomiiv8z2eub1.png",
-            "title": "What cards would I need to make this? This new Google weather app and kid of like it.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/178ihb7/what_cards_would_i_need_to_make_this_this_new/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/178ihb7/what_cards_would_i_need_to_make_this_this_new/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/lomiiv8z2eub1.png\" />",
-            "date_published": "2023-10-15T16:00:42+00:00",
-            "authors": [
-                {
-                    "name": "Jesus359",
-                    "url": "https://www.reddit.com/user/Jesus359"
                 }
             ]
         }
