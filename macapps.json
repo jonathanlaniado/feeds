@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1k9sidr",
+            "url": "/r/macapps/comments/1k9sidr/i_got_tired_of_finance_apps_stealing_my_data_so_i/",
+            "external_url": "https://i.redd.it/pgap8d351kxe1.png",
+            "title": "I got tired of finance apps stealing my data, so I built my own. No logins. No ads. No tracking. Just peace of mind.",
+            "content_html": "<p>Hi everyone,</p>\n<p>Every finance app I tried either wanted me to hand over my login details, spam me with ads, or lock basic features behind a subscription.</p>\n<p>At some point, I thought... why does managing my own money mean giving up my privacy?</p>\n<p>So I built something just for myself: MoneyTool \u2014 a privacy-first, fully offline finance tracker.</p>\n<ul>\n<li>Track expenses, income, savings, investments, debts \u2014 all in one simple app.</li>\n<li>No logins, no syncing, no ads. Your data stays 100% on your device.</li>\n<li>Minimalist design \u2014 clean dashboards, no clutter, no overwhelm.</li>\n</ul>\n<p>It works on iPhone, iPad, and Mac (although Mac/iPad visuals still have a bit of polishing left &gt;&gt; work in progress!).</p>\n<p>I made this because I wanted to own my financial data again, not trade it away for convenience.</p>\n<p>Would love your thoughts:</p>\n<ul>\n<li>What do you hate most about finance apps today?</li>\n<li>How much do you care about privacy when it comes to your money?</li>\n</ul>\n<p>Here\u2019s a screenshot of how it looks: (attach screenshot here)</p>\n<p>If you want to try it out: <a href=\"https://themoneytool.com/download\">themoneytool.com/download</a></p>\n<p>Thanks so much for reading! Would love to hear your feedback or feature ideas!</p><div><br></div><img src=\"https://i.redd.it/pgap8d351kxe1.png\" />",
+            "date_published": "2025-04-28T10:46:08+00:00",
+            "authors": [
+                {
+                    "name": "nosleepfounder",
+                    "url": "https://www.reddit.com/user/nosleepfounder"
+                }
+            ]
+        },
+        {
             "id": "1k7j57g",
             "url": "/r/macapps/comments/1k7j57g/sidebar_the_modern_dock_replacement_for_macos/",
             "external_url": "https://i.redd.it/yrds8qjczywe1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "gary_king_001",
                     "url": "https://www.reddit.com/user/gary_king_001"
-                }
-            ]
-        },
-        {
-            "id": "1e26e8d",
-            "url": "/r/macapps/comments/1e26e8d/network_utility_is_back/",
-            "external_url": "https://i.redd.it/e0jep30e99cd1.jpeg",
-            "title": "Network Utility is Back!",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1e26e8d/network_utility_is_back/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1e26e8d/network_utility_is_back/'>Reddit</a></caption><div><br></div><p>From the very first edition of Mac OS X until Big Sur, Apple provided a tool called Network Utility, a GUI for common CLI tasks as well as an info screen:</p>\n<ul>\n<li>Ping</li>\n<li>Lookup</li>\n<li>Traceroute</li>\n<li>Whois</li>\n<li>Finger</li>\n<li>Port scan</li>\n</ul>\n<p>You could use these tools to get an overview of your network connection or to test the availability of remote servers or web sites. You could see if your connection in a hotel or coffee shop was usable or not. You could do the same thing through Terminal, but Network Utility provided a nice clean interface to see the same info.</p>\n<p>Devon Technologies has resurrected this beloved utility, added a speed test, and is providing it free of charge <a href=\"https://www.devontechnologies.com/blog/20240711-network-utility-10\">on its downloads page</a>.</p><div><br></div><img src=\"https://i.redd.it/e0jep30e99cd1.jpeg\" />",
-            "date_published": "2024-07-13T09:31:03+00:00",
-            "authors": [
-                {
-                    "name": "amerpie",
-                    "url": "https://www.reddit.com/user/amerpie"
                 }
             ]
         }
