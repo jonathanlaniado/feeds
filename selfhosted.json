@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1kcgw3c",
+            "url": "/r/selfhosted/comments/1kcgw3c/no_longer_free_to_stream_personal_content_on_plex/",
+            "external_url": "https://www.reddit.com/gallery/1kcgw3c",
+            "title": "No longer free to stream personal content on Plex",
+            "content_html": "<p>I just received this email from Plex. I'm just starting down the home server path and was considering streaming my own content instead of streaming services. I haven't gotten further than getting the hardware sourced. I was still trying to decide which platform to use. After today it looks like my choice just got easier. I'm going to build my library on Jellyfin, considering they aren't nickel and dimeing me at every turn like online streaming services are.</p>",
+            "date_published": "2025-05-01T19:09:11+00:00",
+            "authors": [
+                {
+                    "name": "Savings_Difficulty24",
+                    "url": "https://www.reddit.com/user/Savings_Difficulty24"
+                }
+            ]
+        },
+        {
             "id": "1kbedf9",
             "url": "/r/selfhosted/comments/1kbedf9/do_you_really_need_more_storage_yes_yes_i_do/",
             "external_url": "https://i.redd.it/5g337b5ulyxe1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Vezajin2",
                     "url": "https://www.reddit.com/user/Vezajin2"
-                }
-            ]
-        },
-        {
-            "id": "1dey224",
-            "url": "/r/selfhosted/comments/1dey224/my_apache_dashboard/",
-            "external_url": "https://i.redd.it/4zctyws84c6d1.png",
-            "title": "My Apache dashboard...",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1dey224/my_apache_dashboard/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1dey224/my_apache_dashboard/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/4zctyws84c6d1.png\" />",
-            "date_published": "2024-06-13T12:42:45+00:00",
-            "authors": [
-                {
-                    "name": "Naviios",
-                    "url": "https://www.reddit.com/user/Naviios"
                 }
             ]
         }
