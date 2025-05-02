@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1kd3whl",
+            "url": "/r/selfhosted/comments/1kd3whl/pangolin_130_support_for_external_identity/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1kd3whl/pangolin_130_support_for_external_identity/",
+            "title": "Pangolin 1.3.0: Support for external identity providers via OAuth2/OIDC (Authentik support), better UI, and many more updates!",
+            "content_html": "<p>Hello everyone,</p>\n<p>We\u2019re back with another big Pangolin update. It\u2019s been several weeks since our last post, and we\u2019ve been working steadily to improve both the core platform and the overall experience. This brings us closer to a feature complete self-hosted alternative to Cloudflare tunnels but we still have a lot of work to do!</p>\n<ul>\n<li>GitHub: <a href=\"https://github.com/fosrl/pangolin\">https://github.com/fosrl/pangolin</a></li>\n<li>Docs: <a href=\"https://docs.fossorial.io/\">https://docs.fossorial.io/</a></li>\n<li>Discord: <a href=\"https://discord.gg/HCJR8Xhme4\">https://discord.gg/HCJR8Xhme4</a></li>\n<li>Join the subreddit: r/PangolinReverseProxy (thank you to u/GoofyGills for setting this up)</li>\n</ul>\n<p><strong>External Identity Providers</strong></p>\n<p>We\u2019re excited to share that Pangolin now supports external identity providers. You can integrate any identity provider that supports OAuth2/OIDC. We plan to expand with native support for other platforms over time, as well as continue to bolster and add new authentication and access control tooling. See more in our <a href=\"https://docs.fossorial.io/Pangolin/Identity%20Providers/configuring-identity-providers\">docs</a></p>\n<p>Our focus is to make it easier to plug Pangolin into whatever ecosystem you\u2019re already using.</p>\n<p><strong>UI Refresh</strong></p>\n<p>Alongside that, we\u2019ve also launched a refreshed UI. This new layout is more maintainable, expandable, and aligned with the long-term direction of the project. Importantly, it still maintains a largely consistent user experience. We will continue shipping enhancements on top of this foundation. See screenshots and more on <a href=\"https://github.com/fosrl/pangolin\">GitHub</a>.</p>\n<p><a href=\"https://preview.redd.it/ywtz6n121eye1.png?width=2552&amp;format=png&amp;auto=webp&amp;s=aa7009a0929d4cfe234aab3ae0bf3071fdd91d0a\">Collage of screenshots showing UI refresh.</a></p>\n<p><strong>More Features</strong></p>\n<ul>\n<li>Full integration REST API with fine-grained access API keys</li>\n<li>Optionally set sticky sessions for load balancing</li>\n<li>Add a place to see and cancel open user invitations</li>\n<li>Optionally set TLS server name for use with SNI</li>\n<li>Optionally set custom host header</li>\n</ul>\n<p>Thank you to those of you who opened a PR this cycle.</p>\n<p><strong>Other Updates</strong></p>\n<p>Since our last update, Pangolin has continued to grow quickly. We crossed 5.2K stars at the 90-day mark, and just a few weeks later we\u2019re at 7,000 GitHub stars. To everyone who has starred, shared, or contributed in any way \u2014 thank you. And a special thank you to those who have supported the project financially through the Supporter Program.</p>\n<p>We also want to share that we\u2019ve introduced a new Professional Edition license. This is primarily aimed at businesses using Pangolin in production or commercial environments and provides access to some extra features and primarily dedicated support from us. This change helps us more predictably fund continued development and long-term maintenance of the project. Read more about this on our <a href=\"https://docs.fossorial.io/professional-edition\">docs</a>.</p>",
+            "date_published": "2025-05-02T15:32:23+00:00",
+            "authors": [
+                {
+                    "name": "jsiwks",
+                    "url": "https://www.reddit.com/user/jsiwks"
+                }
+            ]
+        },
+        {
             "id": "1kcgw3c",
             "url": "/r/selfhosted/comments/1kcgw3c/no_longer_free_to_stream_personal_content_on_plex/",
             "external_url": "https://www.reddit.com/gallery/1kcgw3c",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Zestyclose_Car1088",
                     "url": "https://www.reddit.com/user/Zestyclose_Car1088"
-                }
-            ]
-        },
-        {
-            "id": "1dls0ku",
-            "url": "/r/selfhosted/comments/1dls0ku/today_selfhosting_made_me_the_hero_of_the_day_for/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1dls0ku/today_selfhosting_made_me_the_hero_of_the_day_for/",
-            "title": "Today selfhosting made me the hero of the day for my partner \ud83d\ude05",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1dls0ku/today_selfhosting_made_me_the_hero_of_the_day_for/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1dls0ku/today_selfhosting_made_me_the_hero_of_the_day_for/'>Reddit</a></caption><div><br></div><p>I've been selfhosting a bunch of stuff for a few years now, game servers, HomeAssistant, VPN, PiHole, Docker Registry, you name it basically. Mostly for myself/hobby,  but I'm pleased to announce today was the day where it truly made a difference for my partner \ud83d\ude02</p>\n<p>Partner started making and ordering physical photo albums of our kid, one per year per grandparent, yesterday. When she was about to pick it back up today, images from the first year was missing in the album designer and the Google Shared Album we've used for these yearly albums. </p>\n<p>Immediate distress!</p>\n<p>Enter our Nextcloud photo sync for all raw images &amp; the backups I've taken of the Google Shared Albums every year in January when the previous year was \"settled\".</p>\n<p>Partner was excited to say the least \ud83d\ude05</p>\n<p>Just wanted to share this with someone who would understand the feeling the gave me to be able to help my partner through what is essential my hobby \ud83c\udf89</p>",
-            "date_published": "2024-06-22T09:42:10+00:00",
-            "authors": [
-                {
-                    "name": "Vezajin2",
-                    "url": "https://www.reddit.com/user/Vezajin2"
                 }
             ]
         }
