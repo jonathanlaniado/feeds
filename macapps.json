@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1kcs73f",
+            "url": "/r/macapps/comments/1kcs73f/rip_macupdater_01012026/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1kcs73f/rip_macupdater_01012026/",
+            "title": "RIP MacUpdater 01.01.2026 \ud83d\ude2d",
+            "content_html": "<p>It's now confirmed. One of the top 10 apps on MacOS is shutting down in 2026. Devastating news!  I wish they had charged $1 a month or $10 a year sub. I would've subscribed easily for the amount of time this app saves me.</p>\n<p>https://www.corecode.io/macupdater/</p>\n<blockquote>\n<p>As promised, all MacUpdater 3 licenses will be supported until 2026-01-01.\nAfter that date we will no longer continue to develop or support MacUpdater\nbut we hope to find some other company to continue the product or its technology:</p>\n</blockquote>\n<p>Similar thing happened with Windows (SUMo) and there's been no replacement other than using softpedia to get RSS updates for updated software. Unfortunately they don't support Mac apps, so we're screwed.</p>\n<p>Latest is the only alternative I know of, but it misses so many.</p>",
+            "date_published": "2025-05-02T04:12:48+00:00",
+            "authors": [
+                {
+                    "name": "IwuvNikoNiko",
+                    "url": "https://www.reddit.com/user/IwuvNikoNiko"
+                }
+            ]
+        },
+        {
             "id": "1kaki3z",
             "url": "/r/macapps/comments/1kaki3z/switched_back_to_mac_my_list_of_the_best_apps_ive/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1kaki3z/switched_back_to_mac_my_list_of_the_best_apps_ive/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "kushsolitary",
                     "url": "https://www.reddit.com/user/kushsolitary"
-                }
-            ]
-        },
-        {
-            "id": "1e337pd",
-            "url": "/r/macapps/comments/1e337pd/did_you_know_you_can_switch_between_apps_windows/",
-            "external_url": "https://v.redd.it/0vu7ce4erhcd1",
-            "title": "Did you know you can switch between apps (windows) also like this?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1e337pd/did_you_know_you_can_switch_between_apps_windows/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1e337pd/did_you_know_you_can_switch_between_apps_windows/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-07-14T14:10:05+00:00",
-            "authors": [
-                {
-                    "name": "QenTox",
-                    "url": "https://www.reddit.com/user/QenTox"
                 }
             ]
         }
