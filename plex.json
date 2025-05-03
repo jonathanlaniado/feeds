@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1kdutno",
+            "url": "/r/PleX/comments/1kdutno/after_the_stunt_plex_just_pulled_with_that_email/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/1kdutno/after_the_stunt_plex_just_pulled_with_that_email/",
+            "title": "After the stunt Plex just pulled with that email, I am removing their ability to contact my users",
+            "content_html": "<p>Plex tricked one of my users into purchasing a Remote Pass subscription when it wasn't needed. Over the years, I have now seen Plex send misleading emails to my users, change their home-screens to mostly ad-supported content, and hide my server on my users UI.</p>\n<p>I have decided to create new accounts for each of my users under my emails and disabled Online Media Access while at in. And since I control the new emails, Plex will have absolutely no ability to contact my users anymore to scam them.</p>\n<p>The years have continuously been such a hostile money grab and this is where I am at. If I didn't already pay for lifetime years ago I would've switched at this point. </p>",
+            "date_published": "2025-05-03T14:54:44+00:00",
+            "authors": [
+                {
+                    "name": "aeriose",
+                    "url": "https://www.reddit.com/user/aeriose"
+                }
+            ]
+        },
+        {
             "id": "1kcjyno",
             "url": "/r/PleX/comments/1kcjyno/visual_guide_for_the_recent_plex_changes/",
             "external_url": "https://i.redd.it/d1pq8fvul8ye1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "rwd_dc5",
                     "url": "https://www.reddit.com/user/rwd_dc5"
-                }
-            ]
-        },
-        {
-            "id": "1f2l3me",
-            "url": "/r/PleX/comments/1f2l3me/tidal_is_leaving_plex/",
-            "external_url": "https://i.redd.it/afg3kg1te8ld1.png",
-            "title": "TIDAL is leaving Plex ",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1f2l3me/tidal_is_leaving_plex/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1f2l3me/tidal_is_leaving_plex/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/afg3kg1te8ld1.png\" />",
-            "date_published": "2024-08-27T16:16:52+00:00",
-            "authors": [
-                {
-                    "name": "GameHostBros",
-                    "url": "https://www.reddit.com/user/GameHostBros"
                 }
             ]
         }
