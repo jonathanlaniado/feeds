@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1ke6oex",
+            "url": "/r/PleX/comments/1ke6oex/i_understand_people_not_wanting_to_have_to_start/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/1ke6oex/i_understand_people_not_wanting_to_have_to_start/",
+            "title": "I understand people not wanting to have to start paying. But on the other hand\u2026",
+            "content_html": "<p>It\u2019s fucking ridiculous. The amount of whinging on this sub about the \u201caudacity\u201d of plex is way past the point of reason. </p>\n<p>Did everyone forget about how Netflix, prime, max, YouTube tv, Hulu etc etc etc keep RAISING prices for existing services?</p>\n<p>How many of you \u201cjust deal with that\u201d, yet your world crumbles when a completely free service decides to start monetizing SOME of their product features??</p>\n<p>It\u2019s ridiculous. Yes, I know money is rare to come by these days-I\u2019ve been unemployed all but four weeks this YEAR. But Jfc, take a step back and see what you\u2019re getting for your money. If you don\u2019t value that, then bail. Use Jellyfin at Emby or whatever. </p>\n<p>Just stop whining so much about how deeply offended you are etc. I KNOW at least half of you pay for these shitty fucking streamers that keep raising your monthly cost, yet a one time lifetime charge is just out of the question for you with plex. </p>\n<p>\ud83e\udd26\ud83c\udffd\u200d\u2642\ufe0f</p>",
+            "date_published": "2025-05-03T23:55:28+00:00",
+            "authors": [
+                {
+                    "name": "Splitsurround",
+                    "url": "https://www.reddit.com/user/Splitsurround"
+                }
+            ]
+        },
+        {
             "id": "1kdutno",
             "url": "/r/PleX/comments/1kdutno/after_the_stunt_plex_just_pulled_with_that_email/",
             "external_url": "https://www.reddit.com/r/PleX/comments/1kdutno/after_the_stunt_plex_just_pulled_with_that_email/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Cyno01",
                     "url": "https://www.reddit.com/user/Cyno01"
-                }
-            ]
-        },
-        {
-            "id": "1f74t1k",
-            "url": "/r/PleX/comments/1f74t1k/since_everyone_is_sharing_theirs/",
-            "external_url": "https://www.reddit.com/gallery/1f74t1k",
-            "title": "Since everyone is sharing theirs.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1f74t1k/since_everyone_is_sharing_theirs/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1f74t1k/since_everyone_is_sharing_theirs/'>Reddit</a></caption><div><br></div><p>I'm running two e5 2683 v4 16core 2.2GHz\n128gb ram for now \nCurrently 8 12tb drives waiting on the remaining 6\nA gtx 1070 for Plex vm transcoding \nAnd a p4000 for an additional Plex vm transcoding </p>",
-            "date_published": "2024-09-02T11:50:26+00:00",
-            "authors": [
-                {
-                    "name": "rwd_dc5",
-                    "url": "https://www.reddit.com/user/rwd_dc5"
                 }
             ]
         }
