@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1kf2101",
+            "url": "/r/macapps/comments/1kf2101/title_my_top_mac_apps_that_actually_made_a/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1kf2101/title_my_top_mac_apps_that_actually_made_a/",
+            "title": "Title: My Top Mac Apps That Actually Made a Difference in 2025",
+            "content_html": "<p>This isn\u2019t one of those posts with 50 apps you\u2019ll never download. These are the 9 Mac tools that actually stuck around and became essential to how I work every day.</p>\n<ul>\n<li>\n<p>SoundSource: Separates volume control by app. I can crank up Zoom while keeping Spotify in the background.</p>\n</li>\n<li>\n<p>WillowVoice: I use this for everything from replying to emails to outlining ideas for projects. It\u2019s way faster than typing and surprisingly accurate even with background noise.</p>\n</li>\n<li>\n<p>Raycast: Replaces Spotlight with smarter commands and clipboard history. I didn\u2019t know how much I needed it until I started using it.</p>\n</li>\n<li>\n<p>FocusFrame: Great for reducing distractions. It literally dims all other windows except the one you\u2019re working in.</p>\n</li>\n<li>\n<p>DropOver: Drag-and-drop file holder. If you\u2019re working with screenshots, PDFs, or folders, this will save your life.</p>\n</li>\n<li>\n<p>PearCleaner: Cleans up junk and removes apps thoroughly.</p>\n</li>\n<li>\n<p>Stats: Menu bar system monitor that doesn\u2019t feel bloated.</p>\n</li>\n<li>\n<p>BatFi: Limits battery charging to 80%, which helped extend battery health significantly.</p>\n</li>\n<li>\n<p>MindNode: Best visual mind mapping tool I\u2019ve found so far.</p>\n</li>\n</ul>\n<p>If I had to keep only three, it would be WillowVoice, Raycast, and FocusFrame. What are your daily drivers?</p>",
+            "date_published": "2025-05-05T03:25:37+00:00",
+            "authors": [
+                {
+                    "name": "WaltzGold4201",
+                    "url": "https://www.reddit.com/user/WaltzGold4201"
+                }
+            ]
+        },
+        {
             "id": "1kcs73f",
             "url": "/r/macapps/comments/1kcs73f/rip_macupdater_01012026/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1kcs73f/rip_macupdater_01012026/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "chrisBhappy",
                     "url": "https://www.reddit.com/user/chrisBhappy"
-                }
-            ]
-        },
-        {
-            "id": "1e3vedq",
-            "url": "/r/macapps/comments/1e3vedq/work_scheduling_is_now_available_in_lookaway_160/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1e3vedq/work_scheduling_is_now_available_in_lookaway_160/",
-            "title": "Work Scheduling is now available in LookAway 1.6.0 + 40% discount",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1e3vedq/work_scheduling_is_now_available_in_lookaway_160/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1e3vedq/work_scheduling_is_now_available_in_lookaway_160/'>Reddit</a></caption><div><br></div><p>Hello,</p>\n<p>First of all, thank you for using <a href=\"https://lookaway.app\">LookAway</a>, and helping me make a difference in people's lives. Your feedback and support means a lot.</p>\n<p>LookAway 1.6.0 is now released and here's what's new:</p>\n<h1>Work Schedule</h1>\n<p>https://preview.redd.it/32cgsk8psocd1.png?width=1317&amp;format=png&amp;auto=webp&amp;s=3e562500cd5ba245abc65b48ca5108c942e167b7</p>\n<p>Setting a work schedule in LookAway has been the most requested feature since the launch. You can now set a schedule and LookAway will only suggest breaks during those hours.</p>\n<h1>Custom Durations</h1>\n<p>https://preview.redd.it/36k6gwtysocd1.png?width=1339&amp;format=png&amp;auto=webp&amp;s=5f00b8ea6271445339f40e904263c0e7c095ca20</p>\n<p>You can now set custom durations for everything in the settings - including the idle time thresholds.</p>\n<h1>And more...</h1>\n<ul>\n<li>\n<p>LookAway now correctly detects any new cameras or mics that are connected while LookAway is already running. This makes the meeting detection even better.  </p>\n</li>\n<li>\n<p>Long break cycle is now reset when you cross your idle time reset threshold instead of focus time.</p>\n</li>\n</ul>\n<h1>Thank you!</h1>\n<p>Also, I am offering a 40% discount on all license options for a limited time. You can use the code MACAPPS40OFF at checkout to get a discount. The code will expire after 48 hours.</p>\n<p>And that's all! Thanks for reading, and helping me make LookAway better everyday. Please keep your feedback coming - it helps a lot!</p>",
-            "date_published": "2024-07-15T13:56:00+00:00",
-            "authors": [
-                {
-                    "name": "kushsolitary",
-                    "url": "https://www.reddit.com/user/kushsolitary"
                 }
             ]
         }
