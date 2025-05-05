@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
     "items": [
         {
+            "id": "1kfnwoy",
+            "url": "/r/ChatGPTPro/comments/1kfnwoy/i_challenged_myself_to_make_a_2minute_short_film/",
+            "external_url": "https://v.redd.it/ebiaojjv91ze1",
+            "title": "I challenged myself to make a 2-minute short film using AI in under 2 hours. It went about as well as you'd expect:",
+            "content_html": "",
+            "date_published": "2025-05-05T21:44:34+00:00",
+            "authors": [
+                {
+                    "name": "Tupptupp_XD",
+                    "url": "https://www.reddit.com/user/Tupptupp_XD"
+                }
+            ]
+        },
+        {
             "id": "1kedpot",
             "url": "/r/ChatGPTPro/comments/1kedpot/anyone_use_google_much_anymore_since_the_arrival/",
             "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1kedpot/anyone_use_google_much_anymore_since_the_arrival/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Mysterious_Arm98",
                     "url": "https://www.reddit.com/user/Mysterious_Arm98"
-                }
-            ]
-        },
-        {
-            "id": "175rkib",
-            "url": "/r/ChatGPTPro/comments/175rkib/you_may_have_gpt_vision_and_not_even_know/",
-            "external_url": "https://www.reddit.com/gallery/175rkib",
-            "title": "You may have GPT Vision and not even know.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ChatGPTPro/comments/175rkib/you_may_have_gpt_vision_and_not_even_know/'>Apollo</a> | <a href='https://reddit.com/r/ChatGPTPro/comments/175rkib/you_may_have_gpt_vision_and_not_even_know/'>Reddit</a></caption><div><br></div><p>Hey all, just thought I'd share something I figured out just now since I've been like a lot of people here wondering when I was getting access to GPT Vision.</p>\n<p>The whole time I was looking under beta features or the GPT4 drop down when it's been right in front of my face. \ud83d\ude12 I rarely ever use plain GPT4 so it never occurred to me to check in there and of course there it was. </p>\n<p>TL;DR - open a new chat and make sure base GPT4 is selected and if it's not there then OpenAI just hates you.</p>",
-            "date_published": "2023-10-11T22:58:13+00:00",
-            "authors": [
-                {
-                    "name": "idkmanimtryin",
-                    "url": "https://www.reddit.com/user/idkmanimtryin"
                 }
             ]
         }
