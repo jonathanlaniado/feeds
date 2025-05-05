@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1kfjm44",
+            "url": "/r/ArcBrowser/comments/1kfjm44/dia_is_going_to_fail/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1kfjm44/dia_is_going_to_fail/",
+            "title": "Dia is going to fail",
+            "content_html": "<p>I <em>really</em> feel for Browser Company, including a few old coworkers of mine who now work there.</p>\n<p>I have access to Dia, and it makes absolutely no sense to me why the product exists. I know there\u2019s been plenty of chatter around this, but it\u2019s genuinely head scratching that I had to vent here.</p>\n<p>It\u2019s 100% possible to ship this entire product as an extension. Chrome extensions 100% supports tab awareness permissions, Safari App Extensions appear to as well - which would effectively give you the \u201cpowerful\u201d browser context that Dia is supposed to be unique for. </p>\n<p>Nothing about Dia is unique. It feels like the product team got distracted by what Windsurf, Cursor, Copilot etc. all shipped and felt like it would be a good idea to do the same thing. </p>\n<p>What they seem to also be (weirdly) bullish of is the idea that the already 100s of millions of happy users on Claude, ChatGPT, and Gemini would bail on their entire setup to use this bespoke desktop browser with a completely different dataset and history from the rest of their digital life. </p>\n<p>OpenAI already has a standalone app that has context, Claude Code most likely will expand beyond just developer focus tooling at some point, and Gemini has the luxury of just being a fun update for their existing Chrome users.</p>\n<p>Last vent/ramble. That tweet thread with the CEO back in Jan where he hinted that Arc would be positioned more as Enterprise\u2026.yeah. No fucking way. No idea who your target demographic of a company is for that, but as a security leader, you\u2019re not going to ever get approval from Eng/Legal/Sec on that. Too many enterprise tooling and expectations of patching will never allow for it, and it would arguably piss off a lot of employees as Arc while awesome..I\u2019d argue is a bit too complex for older folks/less savvy to ramp up on.</p>\n<p>Alright, I feel better now. Hopefully Dia never leaves preview and gets abandoned in the next few months, at which point Arc is the priority and they can figure out better monetization options beyond trying to target Enterprise. </p>",
+            "date_published": "2025-05-05T18:52:32+00:00",
+            "authors": [
+                {
+                    "name": "never_working_ever",
+                    "url": "https://www.reddit.com/user/never_working_ever"
+                }
+            ]
+        },
+        {
             "id": "1kactyh",
             "url": "/r/ArcBrowser/comments/1kactyh/i_cant_let_it_go_but_no_i_cant/",
             "external_url": "https://i.redd.it/o2hmzwoaloxe1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "JaceThings",
                     "url": "https://www.reddit.com/user/JaceThings"
-                }
-            ]
-        },
-        {
-            "id": "192gibb",
-            "url": "/r/ArcBrowser/comments/192gibb/anyone_else_just_get_their_invite/",
-            "external_url": "https://i.redd.it/2hwub7nnhfbc1.jpeg",
-            "title": "Anyone else just get their invite?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/192gibb/anyone_else_just_get_their_invite/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/192gibb/anyone_else_just_get_their_invite/'>Reddit</a></caption><div><br></div><p>Just got my invite through, assuming they\u2019ve sent it to a few people in a batch now!</p><div><br></div><img src=\"https://i.redd.it/2hwub7nnhfbc1.jpeg\" />",
-            "date_published": "2024-01-09T14:55:01+00:00",
-            "authors": [
-                {
-                    "name": "mughez",
-                    "url": "https://www.reddit.com/user/mughez"
                 }
             ]
         }
