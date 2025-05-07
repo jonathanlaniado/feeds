@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1kgrvgi",
+            "url": "/r/OpenAI/comments/1kgrvgi/lol/",
+            "external_url": "https://i.redd.it/2noko6hbgbze1.png",
+            "title": "Lol \ud83e\udd23..",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/2noko6hbgbze1.png\" />",
+            "date_published": "2025-05-07T07:57:17+00:00",
+            "authors": [
+                {
+                    "name": "PumpkinNarrow6339",
+                    "url": "https://www.reddit.com/user/PumpkinNarrow6339"
+                }
+            ]
+        },
+        {
             "id": "1kg71vb",
             "url": "/r/OpenAI/comments/1kg71vb/google_cooked_it_again_damn/",
             "external_url": "https://i.redd.it/5kl80q0qh6ze1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MetaKnowing",
                     "url": "https://www.reddit.com/user/MetaKnowing"
-                }
-            ]
-        },
-        {
-            "id": "1gygojc",
-            "url": "/r/OpenAI/comments/1gygojc/how_dataset_size_affects_gpt4s_mastery_of_jk/",
-            "external_url": "https://i.redd.it/xbaf5rhcgr2e1.png",
-            "title": "How Dataset Size Affects GPT-4\u2019s Mastery of J.K. Rowling\u2019s Writing Style",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1gygojc/how_dataset_size_affects_gpt4s_mastery_of_jk/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1gygojc/how_dataset_size_affects_gpt4s_mastery_of_jk/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/xbaf5rhcgr2e1.png\" />",
-            "date_published": "2024-11-24T02:32:55+00:00",
-            "authors": [
-                {
-                    "name": "peytoncasper",
-                    "url": "https://www.reddit.com/user/peytoncasper"
                 }
             ]
         }
