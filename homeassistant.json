@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1ki0o6m",
+            "url": "/r/homeassistant/comments/1ki0o6m/nice_way_to_clean_up_the_dashboard_using_expander/",
+            "external_url": "https://i.redd.it/7olr04k3dmze1.png",
+            "title": "Nice way to clean up the dashboard using Expander Card",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/7olr04k3dmze1.png\" />",
+            "date_published": "2025-05-08T20:41:36+00:00",
+            "authors": [
+                {
+                    "name": "chimph",
+                    "url": "https://www.reddit.com/user/chimph"
+                }
+            ]
+        },
+        {
             "id": "1kdip17",
             "url": "/r/homeassistant/comments/1kdip17/are_you_kidding_me/",
             "external_url": "https://www.reddit.com/r/homeassistant/comments/1kdip17/are_you_kidding_me/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "HAS696",
                     "url": "https://www.reddit.com/user/HAS696"
-                }
-            ]
-        },
-        {
-            "id": "179ul45",
-            "url": "/r/homeassistant/comments/179ul45/yet_anothe_rdasboard_for_a_wall_mounted_tablet/",
-            "external_url": "https://www.reddit.com/gallery/179ul45",
-            "title": "Yet anothe rdasboard for a wall mounted tablet (including pictures, details and code)",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/179ul45/yet_anothe_rdasboard_for_a_wall_mounted_tablet/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/179ul45/yet_anothe_rdasboard_for_a_wall_mounted_tablet/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-10-17T09:45:36+00:00",
-            "authors": [
-                {
-                    "name": "mathgoy",
-                    "url": "https://www.reddit.com/user/mathgoy"
                 }
             ]
         }
