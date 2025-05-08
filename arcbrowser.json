@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1khx88r",
+            "url": "/r/ArcBrowser/comments/1khx88r/arc_release_notes_formally_introduces_dia/",
+            "external_url": "https://www.reddit.com/gallery/1khx88r",
+            "title": "Arc Release Notes formally introduces Dia",
+            "content_html": "<p>In today's Arc <a href=\"https://arc.net/e/43AA4F54-FE7E-45D6-8FAB-1888C5776250\">Release Notes</a>, BCNY has formally introduced Dia:</p>\n<blockquote>\n<p>Dia is a smart browser where you can chat directly with your tabs. Our students have used it to break down lectures, draft project docs, quiz themselves, and do things we never could have anticipated.</p>\n</blockquote>\n<p>This should help clarify that Dia's audience is college students, whereas Arc's was for more general use cases.</p>",
+            "date_published": "2025-05-08T18:21:17+00:00",
+            "authors": [
+                {
+                    "name": "chrismessina",
+                    "url": "https://www.reddit.com/user/chrismessina"
+                }
+            ]
+        },
+        {
             "id": "1kfjm44",
             "url": "/r/ArcBrowser/comments/1kfjm44/dia_is_going_to_fail/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1kfjm44/dia_is_going_to_fail/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "mr_yoshi",
                     "url": "https://www.reddit.com/user/mr_yoshi"
-                }
-            ]
-        },
-        {
-            "id": "193dzsv",
-            "url": "/r/ArcBrowser/comments/193dzsv/the_browser_company_is_on_fire_andreas_storm/",
-            "external_url": "https://i.redd.it/hr7g6dsofnbc1.jpeg",
-            "title": "\"The Browser Company is on fire \ud83d\udd25\" \u2013 Andreas Storm (@avstorm) via X",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/193dzsv/the_browser_company_is_on_fire_andreas_storm/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/193dzsv/the_browser_company_is_on_fire_andreas_storm/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/hr7g6dsofnbc1.jpeg\" />",
-            "date_published": "2024-01-10T17:38:23+00:00",
-            "authors": [
-                {
-                    "name": "JaceThings",
-                    "url": "https://www.reddit.com/user/JaceThings"
                 }
             ]
         }
