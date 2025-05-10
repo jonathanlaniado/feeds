@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1kj89hy",
+            "url": "/r/shortcuts/comments/1kj89hy/i_might_have_made_apple_intelligence_before_apple/",
+            "external_url": "https://www.reddit.com/gallery/1kj89hy",
+            "title": "I might have made Apple Intelligence before Apple",
+            "content_html": "<h1>Hey everyone!</h1>\n<p>Some of you might know me from making <strong>Node</strong>, and AI assistant shortcut. Well, I have good news because version 5 is out now!</p>\n<h1>What's new:</h1>\n<p>- <strong>Silent Run feature</strong> \u2014\u00a0You can now automate when you run Node with a predetermined prompt. You can get things like a daily briefing or instant summaries of emails.</p>\n<p>- <strong>Share Sheet integration</strong> \u2014\u00a0Share PDF's, images, text, or articles with Node and ask about them, just click share.</p>\n<p>- <strong>Bug fixes</strong> \u2014\u00a0Fixed the memory system.</p>\n<h1>What Node can do:</h1>\n<p>- Node can add items like events, reminders, and notes</p>\n<p>- You can also ask it anything else, it's completely powered by <strong>Mistral AI.</strong></p>\n<p>- Complete integration with your phone, ask about your screen, schedule, or maybe the weather.</p>\n<p>- All through Apple Shortcuts, no apps needed.</p>\n<h1>Links:</h1>\n<p><strong>Download:</strong> <a href=\"https://www.icloud.com/shortcuts/925c128d0e9645b3b615c5fd3e84ee30\">https://www.icloud.com/shortcuts/925c128d0e9645b3b615c5fd3e84ee30</a></p>\n<p><strong>Download Silent Run:</strong> <a href=\"https://www.icloud.com/shortcuts/60019ec6e50c4e078fdd2a92e02fbfbf\">https://www.icloud.com/shortcuts/60019ec6e50c4e078fdd2a92e02fbfbf</a></p>\n<p><strong>My website:</strong> <a href=\"https://nodeshortcut.my.canva.site/\">https://nodeshortcut.my.canva.site/</a></p>\n<p><strong>Visit Mistral:</strong> <a href=\"https://console.mistral.ai/home\">https://console.mistral.ai/home</a></p>\n<p>Let me know what you think \u2014 feedback always welcome!</p>",
+            "date_published": "2025-05-10T11:40:16+00:00",
+            "authors": [
+                {
+                    "name": "Repulsive-Machine706",
+                    "url": "https://www.reddit.com/user/Repulsive-Machine706"
+                }
+            ]
+        },
+        {
             "id": "1kidjt3",
             "url": "/r/shortcuts/comments/1kidjt3/sharing_a_shortcut_of_the_tool_that_i_created_it/",
             "external_url": "https://www.icloud.com/shortcuts/826ddf69c45c4b64a7de730906a4d9e0",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "e4sy_143",
                     "url": "https://www.reddit.com/user/e4sy_143"
-                }
-            ]
-        },
-        {
-            "id": "1ac3ahc",
-            "url": "/r/shortcuts/comments/1ac3ahc/remove_paywall_archive_url/",
-            "external_url": "https://www.reddit.com/gallery/1ac3ahc",
-            "title": "Remove Paywall (archive url)",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1ac3ahc/remove_paywall_archive_url/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1ac3ahc/remove_paywall_archive_url/'>Reddit</a></caption><div><br></div><pre><code>\n</code></pre>\n<p>Download link: <a href=\"https://www.icloud.com/shortcuts/14cc5c294df54e7eac03c312e89db36d\">Remove Paywall</a></p>\n<p>This shortcut allows you to quickly archive web pages with the option to select between the following services:</p>\n<ul>\n<li>removepaywall.com</li>\n<li>1ft.io</li>\n<li>archive.org</li>\n<li>archive.is (recommended)</li>\n</ul>\n<p>As the name implies, these services are typically able to archive articles that are behind a paywall; if one service is unable to, another one almost always is. In addition, the archived url is automatically copied to the clipboard upon generation for quickly sharing with others.</p>\n<p>The included screenshots highlight example usage along with a screenshot of the \"About\" instructional screen.</p>\n<p>Feedback is appreciated and, as always, enjoy!</p>",
-            "date_published": "2024-01-27T05:19:25+00:00",
-            "authors": [
-                {
-                    "name": "fermi0nic",
-                    "url": "https://www.reddit.com/user/fermi0nic"
                 }
             ]
         }
