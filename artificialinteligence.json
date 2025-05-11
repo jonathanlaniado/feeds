@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1kk9cbh",
+            "url": "/r/ArtificialInteligence/comments/1kk9cbh/pope_leo_references_ai_in_his_explanation_of_why/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1kk9cbh/pope_leo_references_ai_in_his_explanation_of_why/",
+            "title": "Pope Leo references AI in his explanation of why he chose his papal name",
+            "content_html": "<p>\u201cI chose to take the name Leo XIV. There are different reasons for this, but mainly because Pope Leo XIII in his historic Encyclical Rerum Novarum addressed the social question in the context of the first great industrial revolution. In our own day, the Church offers to everyone the treasury of her social teaching in response to another industrial revolution and to developments in the field of artificial intelligence that pose new challenges for the defence of human dignity, justice and labour.\u201d</p>\n<p>Full article: https://www.theverge.com/news/664719/pope-leo-xiv-artificial-intelligence-concerns</p>",
+            "date_published": "2025-05-11T19:37:22+00:00",
+            "authors": [
+                {
+                    "name": "backyardstar",
+                    "url": "https://www.reddit.com/user/backyardstar"
+                }
+            ]
+        },
+        {
             "id": "1kjaaq3",
             "url": "/r/ArtificialInteligence/comments/1kjaaq3/russian_propaganda_has_now_infected_western_ai/",
             "external_url": "https://www.forbes.com/sites/torconstantino/2025/03/10/russian-propaganda-has-now-infected-western-ai-chatbots---new-study/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Rare_Adhesiveness518",
                     "url": "https://www.reddit.com/user/Rare_Adhesiveness518"
-                }
-            ]
-        },
-        {
-            "id": "1c3pqk6",
-            "url": "/r/ArtificialInteligence/comments/1c3pqk6/we_live_in_unbelievable_era_i_built_an_android/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1c3pqk6/we_live_in_unbelievable_era_i_built_an_android/",
-            "title": "We live in unbelievable era, i built an android app, and i\u2019ve never coded.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/1c3pqk6/we_live_in_unbelievable_era_i_built_an_android/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/1c3pqk6/we_live_in_unbelievable_era_i_built_an_android/'>Reddit</a></caption><div><br></div><p>We live in unbelievable era, i built an android app, and i\u2019ve never coded</p>\n<p>I can\u2019t believe this is actually real and working\nIn a span of 5 days, from never writing and running a code in my life, to build a functional android app that does a very good job\nAnd when prompted, it made the app look very good too</p>\n<p>HOW IS THIS REAL!!!</p>\n<p>By the way i used claude opus</p>\n<p>And It\u2019s a simple app that solves a huge problem on my business</p>\n<p>So i have a tailor store, any piece that we tailor goes through 5 steps before it\u2019s given to the customer And when we have a lot of orders there are pieces that take longer than expected, and sometimes we don\u2019t know where a piece exactly is and on what step</p>\n<p>We have a solution to have the receipt number as barcode on every piece, and if it passes any step we need to scan the barcode indicating that it\u2019s done from that step</p>\n<p>We are running low on budget so instead of having 5 computers on every step that will be connected with barcode scanners, i thought about making an android app ( since you can get cheep android phones ) and have one on every step</p>\n<p>And the app simply, first you choose on what step you are at, then read the barcodes, then submit</p>\n<p>After that the info will be written in a google spreadsheet, and in that, we track how long a piece took from going on one step to another And know exactly where every piece is And where is the bottlenecks and how to optimize making as many pieces as we can</p>",
-            "date_published": "2024-04-14T09:39:14+00:00",
-            "authors": [
-                {
-                    "name": "bhk0_",
-                    "url": "https://www.reddit.com/user/bhk0_"
                 }
             ]
         }
