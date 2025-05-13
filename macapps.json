@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1klkzwj",
+            "url": "/r/macapps/comments/1klkzwj/i_copied_apple_to_create_my_free_app_and_then/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1klkzwj/i_copied_apple_to_create_my_free_app_and_then/",
+            "title": "I copied Apple to create my free app, and then Apple copied me. And I'm proud of myself.",
+            "content_html": "<p>Earlier this year, I released <a href=\"https://github.com/Lospi/MacMotionCues\">Mac Motion Cues</a>, a copy of iOS Vehicle Motion Cues, but for Mac, using your AirPods' accelerometer to calculate the motion dots.</p>\n<p>Today, Apple announced the same feature that my app does: <a href=\"https://www.apple.com/newsroom/2025/05/apple-unveils-powerful-accessibility-features-coming-later-this-year/\">Vehicle Motion Cues are coming to macOS 16.</a> In the end, I copied them, and they copied me. But what matters is that we, the users, are winning in the situation.</p>\n<p>For those that used my app, I'm proud that I helped you make a better use of your Macs. But with the native solution, I'll be deprecating my app. Hope everyone made a great use of it.</p>\n<p>It will still be available for download for those who want to use my version, of course :)</p>",
+            "date_published": "2025-05-13T12:45:02+00:00",
+            "authors": [
+                {
+                    "name": "Lospi",
+                    "url": "https://www.reddit.com/user/Lospi"
+                }
+            ]
+        },
+        {
             "id": "1kj7vtq",
             "url": "/r/macapps/comments/1kj7vtq/pixelmator_version_history_beforeafter_apples/",
             "external_url": "https://i.redd.it/g2xngi2kuxze1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "amerpie",
                     "url": "https://www.reddit.com/user/amerpie"
-                }
-            ]
-        },
-        {
-            "id": "1e7e25g",
-            "url": "/r/macapps/comments/1e7e25g/i_made_a_mac_note_app_that_aims_to_be_as/",
-            "external_url": "https://i.redd.it/qc0yhp81fjdd1.png",
-            "title": "I made a Mac note app that aims to be as high-performing as native notes while offering comprehensive formats to express your ideas when needed.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1e7e25g/i_made_a_mac_note_app_that_aims_to_be_as/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1e7e25g/i_made_a_mac_note_app_that_aims_to_be_as/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/qc0yhp81fjdd1.png\" />",
-            "date_published": "2024-07-19T20:48:12+00:00",
-            "authors": [
-                {
-                    "name": "huy_cf",
-                    "url": "https://www.reddit.com/user/huy_cf"
                 }
             ]
         }
