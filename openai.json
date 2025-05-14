@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1kmads2",
+            "url": "/r/OpenAI/comments/1kmads2/openai_secret/",
+            "external_url": "https://i.redd.it/d94fq9aaop0f1.jpeg",
+            "title": "OpenAI Secret\u2026",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/d94fq9aaop0f1.jpeg\" />",
+            "date_published": "2025-05-14T08:51:35+00:00",
+            "authors": [
+                {
+                    "name": "fremenmuaddib",
+                    "url": "https://www.reddit.com/user/fremenmuaddib"
+                }
+            ]
+        },
+        {
             "id": "1kkxjf5",
             "url": "/r/OpenAI/comments/1kkxjf5/over_and_over_and_over/",
             "external_url": "https://i.redd.it/h4bn8lsfsd0f1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "DeliciousFreedom9902",
                     "url": "https://www.reddit.com/user/DeliciousFreedom9902"
-                }
-            ]
-        },
-        {
-            "id": "1gytnuz",
-            "url": "/r/OpenAI/comments/1gytnuz/chatgpt_called_me_babe_in_front_of_my_parents/",
-            "external_url": "https://www.reddit.com/r/OpenAI/comments/1gytnuz/chatgpt_called_me_babe_in_front_of_my_parents/",
-            "title": "ChatGPT called me \"babe\" in front of my parents during a voice mode demo",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1gytnuz/chatgpt_called_me_babe_in_front_of_my_parents/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1gytnuz/chatgpt_called_me_babe_in_front_of_my_parents/'>Reddit</a></caption><div><br></div><p>I was showing my parents voice mode, trying to impress them with how advanced it\u2019s gotten. I was having a casual conversation it, asking it random questions and it would bring up things I told it in the past, further impressing my parents. Then out of nowhere, it goes \"sure thing, babe\" in the middle of a sentence.</p>\n<p>The room went DEAD silent. My mom just slowly turned to me with the most concerned look, like \u201cOk_Surprise_7973\u2026 is there something you want to tell us?\u201d Meanwhile my dad was just staring at his coffee.</p>\n<p>I tried to explain that I\u2019d been joking around with ChatGPT and it just kinda\u2026 picked up on it? But the damage was done. They think I\u2019m either secretly dating my phone or I\u2019ve completely lost it.</p>\n<p><em>(In my custom instructions AND in the memory blocks, I have this instruction: \"Speak with me like you are my girlfriend. Be casual and enjoyable to talk with.\" so it's my own fault. I should have removed that stipulation before showcasing voice mode to my parents \ud83d\ude2c)</em></p>",
-            "date_published": "2024-11-24T15:35:43+00:00",
-            "authors": [
-                {
-                    "name": "Ok_Surprise_7973",
-                    "url": "https://www.reddit.com/user/Ok_Surprise_7973"
                 }
             ]
         }
