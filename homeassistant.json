@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1kmlnqa",
+            "url": "/r/homeassistant/comments/1kmlnqa/smart_laundry_scale/",
+            "external_url": "https://www.reddit.com/gallery/1kmlnqa",
+            "title": "Smart laundry scale",
+            "content_html": "<p>I\u2019ve always had trouble keeping up with laundry and ended up with a mountain of clothes before I realized it was time to wash them. So, I decided to fix the problem with a bit of home automation.</p>\n<p>This uses Home Assistant, ESPHome, an ESP32, and a few load cells with an HX711 board. Not gonna lie, I had to 3d print the load cell brackets to justify the Bambulab purchase. </p>\n<p>Now with just a quick glance I can see exactly how much laundry is waiting in the basket. And if it goes over 4 kg, I get a notification the next morning reminding me to load the washing machine before heading to work.</p>\n<p>No more last-minute laundry marathons!</p>",
+            "date_published": "2025-05-14T17:49:48+00:00",
+            "authors": [
+                {
+                    "name": "luchoelzurdo",
+                    "url": "https://www.reddit.com/user/luchoelzurdo"
+                }
+            ]
+        },
+        {
             "id": "1ki0o6m",
             "url": "/r/homeassistant/comments/1ki0o6m/nice_way_to_clean_up_the_dashboard_using_expander/",
             "external_url": "https://i.redd.it/7olr04k3dmze1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "linshunghuang",
                     "url": "https://www.reddit.com/user/linshunghuang"
-                }
-            ]
-        },
-        {
-            "id": "17a23gq",
-            "url": "/r/homeassistant/comments/17a23gq/ha_new_logo_as_a_lamp_in_ikea/",
-            "external_url": "https://i.redd.it/1qcl7gowfsub1.jpg",
-            "title": "HA new logo as a lamp in IKEA",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/17a23gq/ha_new_logo_as_a_lamp_in_ikea/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/17a23gq/ha_new_logo_as_a_lamp_in_ikea/'>Reddit</a></caption><div><br></div><p>Just saw this led lamp (limited edition) in an IKEA store</p><div><br></div><img src=\"https://i.redd.it/1qcl7gowfsub1.jpg\" />",
-            "date_published": "2023-10-17T16:18:08+00:00",
-            "authors": [
-                {
-                    "name": "HAS696",
-                    "url": "https://www.reddit.com/user/HAS696"
                 }
             ]
         }
