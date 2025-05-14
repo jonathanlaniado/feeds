@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1kmge6i",
+            "url": "/r/selfhosted/comments/1kmge6i/what_is_it_with_these_companies_rolling_into/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1kmge6i/what_is_it_with_these_companies_rolling_into/",
+            "title": "What is it with these companies rolling into\u00a0r/selfhosted\u00a0with their \"free products\" and then all the good features are locked behind a paywall?",
+            "content_html": "<p>Seriously, why do these companies keep doing this here? Can we look into making a rule against this? It's just frustrating when I setup a project, and then learn that half of the features are \"unavailable\" because I'm not a \"paying subscriber\" and I have to try something else.  </p>\n<p>For example; Defguard, multi-site, user count, etc.</p>\n<p>I'd want to connect: my home, parents' house, and a server I rent in a DC.</p>\n<p>Well, then I'd have to pay 179 eur (\\~$200USD) PER MONTH to have that feature. And the best part, they don't offer month-to-moth subscription options, so I'd have to pay $2,409 USD! </p>\n<p>That's JUST AS BAD as a professional solution offered by any other major player in the network space!</p>\n<p>They're not the only folks doing this; Rustdesk does it too, same song and dance, no monthly options, and all of the nicer features are locked behind a paywall. Kasm also does the same with branding, and connection limits. (5 is NOT enough for small teams!)</p>\n<p>I get it you want to make some money, I really do, but companies should really explore other avenues. Wireguard gets it right, they let individuals enjoy all the features the platform has to offer, and then hope they bring it to their company.</p>\n<p>I've had to go OUT OF MY WAY to find solutions to issues like this; i.e. searching for other developers liking a product so much that they develop a custom backend by reverse engineering the original software's backend. (Great example of this is Rustdesk-API! Someone reverse engineered the backend, and built their own that works great!) <a href=\"https://github.com/lejianwen/rustdesk-api\">https://github.com/lejianwen/rustdesk-api</a></p>\n<p>The point of selfhosted is to\u00a0<strong>NOT</strong>\u00a0rely on a subscription, the idea is to host whatever it is that's being offered onsite, with no cost, and with community support. That's the r/selfhosted that I'm happy to see, play with, and learn. Whatever this mess is that's been slowly creeping up on the subreddit has really been getting out of hand.</p>\n<p>There are exclusions, we all pay the \"Plex Tax\" but I have a feeling that's about to go south based on their recent changes, and some folk pay for solutions like UNRAID or HexOS, which I get, but they're entirely paywalled, because they're complete solutions.</p>",
+            "date_published": "2025-05-14T14:20:40+00:00",
+            "authors": [
+                {
+                    "name": "PhoenixTheDoggo",
+                    "url": "https://www.reddit.com/user/PhoenixTheDoggo"
+                }
+            ]
+        },
+        {
             "id": "1klp8sq",
             "url": "/r/selfhosted/comments/1klp8sq/pangolin_140_autoprovisioning_idp_users_and/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1klp8sq/pangolin_140_autoprovisioning_idp_users_and/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "DM_Me_Summits_In_UAE",
                     "url": "https://www.reddit.com/user/DM_Me_Summits_In_UAE"
-                }
-            ]
-        },
-        {
-            "id": "1eb92an",
-            "url": "/r/selfhosted/comments/1eb92an/suddenly_our_self_hosted_application_became_more/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1eb92an/suddenly_our_self_hosted_application_became_more/",
-            "title": "Suddenly our Self Hosted application became more than just hobby.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1eb92an/suddenly_our_self_hosted_application_became_more/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1eb92an/suddenly_our_self_hosted_application_became_more/'>Reddit</a></caption><div><br></div><p>If you already don't know, Bangladesh was disconnected from the internet for majority of the last week due to government order. It was shut down without any warning. We were put under curfew 24/7, so no leaving home. </p>\n<p>On the second day of curfew, me, with nothing to do, figured the intranet in our country still worked. So I opened my Jellyfin service up and gave access to my immediate family and friends. Then we had people stepping up. One opened a simple chat application. Believe me, I never felt happier reading messages from a bunch of random people on the internet. Once people started communicating it only got better. We had a jitsi meet up and running within a few hours. People opened up their media library. Last couple of days, I almost didn't miss the traditional internet.</p>\n<p>I have to thank you guys for all the encouragement. \nAlso I do have a few questions for you guys.</p>\n<p>I'm fearing this will not be the last time we will be blocked from the world. What can we do to make things even better next time?\nOne major problem was TLS CERTS stopped working. So the communication was in http using IP address </p>\n<p>What are some apps to host if the same situation to arise again?</p>\n<p>Sorry for the bad English, not my first language.</p>",
-            "date_published": "2024-07-24T18:41:26+00:00",
-            "authors": [
-                {
-                    "name": "cs_antorkhan",
-                    "url": "https://www.reddit.com/user/cs_antorkhan"
                 }
             ]
         }
