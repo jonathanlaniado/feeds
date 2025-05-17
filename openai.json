@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1koufnv",
+            "url": "/r/OpenAI/comments/1koufnv/kissing_on_the_lips_in_storytelling_is_against/",
+            "external_url": "https://www.reddit.com/gallery/1koufnv",
+            "title": "Kissing on the lips in storytelling is against guidelines now \ud83e\udd37\u200d\u2640\ufe0f",
+            "content_html": "<p>I\u2019m not sure if my model is hallucinating or if kissing on the lips is actually against policy now. I think it\u2019s ridiculous if kissing on the lips is against policy. They really need to roll out the adult mode. </p>",
+            "date_published": "2025-05-17T14:34:42+00:00",
+            "authors": [
+                {
+                    "name": "BeltWise6701",
+                    "url": "https://www.reddit.com/user/BeltWise6701"
+                }
+            ]
+        },
+        {
             "id": "1knf0t7",
             "url": "/r/OpenAI/comments/1knf0t7/with_googles_alphaevolve_we_have_evidence_that/",
             "external_url": "https://i.redd.it/qn8s6ngkiz0f1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "py-net",
                     "url": "https://www.reddit.com/user/py-net"
-                }
-            ]
-        },
-        {
-            "id": "1h1niwc",
-            "url": "/r/OpenAI/comments/1h1niwc/alibaba_qwq32b_outperforms_o1mini_o1preview_on/",
-            "external_url": "https://www.reddit.com/r/OpenAI/comments/1h1niwc/alibaba_qwq32b_outperforms_o1mini_o1preview_on/",
-            "title": "Alibaba QwQ-32B : Outperforms o1-mini, o1-preview on reasoning",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1h1niwc/alibaba_qwq32b_outperforms_o1mini_o1preview_on/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1h1niwc/alibaba_qwq32b_outperforms_o1mini_o1preview_on/'>Reddit</a></caption><div><br></div><p>Alibaba's latest reasoning model, QwQ has beaten o1-mini, o1-preview, GPT-4o and Claude 3.5 Sonnet as well on many benchmarks. The model is just 32b and is completely open-sourced as well\nCheckout how to use it : https://youtu.be/yy6cLPZrE9k?si=wKAPXuhKibSsC810</p>",
-            "date_published": "2024-11-28T04:11:10+00:00",
-            "authors": [
-                {
-                    "name": "mehul_gupta1997",
-                    "url": "https://www.reddit.com/user/mehul_gupta1997"
                 }
             ]
         }
