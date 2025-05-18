@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1kpki53",
+            "url": "/r/OpenAI/comments/1kpki53/openai_restricts_comparison_of_state_education/",
+            "external_url": "https://www.reddit.com/gallery/1kpki53",
+            "title": "OpenAI restricts comparison of state education standards",
+            "content_html": "<p>Saw another thread debating how well schools teach kids life skills like doing their own taxes. I was curious how many states require instruction on how U.S. tax brackets work since, in my experience, a lot of people struggle with the concept of different parts of their income being taxed at different rates. But ChatGPT told me it won\u2019t touch education policy. </p>\n<p>The frustrating thing is that OpenAI is selectively self censoring with no consistent logic. I tested some controversial topics like immigration and birthright citizenship afterward, and it provided answers without problem. You can\u2019t tell me that birthright citizenship, which just went before the Supreme Court, somehow has fewer \u201cpolitical implications\u201d than a question comparing state standards that schools in those respective states already have to follow. If OpenAI applied the same standards to other topics subject to controversy \u2014 especially if done in as sweeping of a manner as done here \u2014 then there would be nothing people could ask about. </p>",
+            "date_published": "2025-05-18T13:53:42+00:00",
+            "authors": [
+                {
+                    "name": "One_Perception_7979",
+                    "url": "https://www.reddit.com/user/One_Perception_7979"
+                }
+            ]
+        },
+        {
             "id": "1koufnv",
             "url": "/r/OpenAI/comments/1koufnv/kissing_on_the_lips_in_storytelling_is_against/",
             "external_url": "https://www.reddit.com/gallery/1koufnv",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MetaKnowing",
                     "url": "https://www.reddit.com/user/MetaKnowing"
-                }
-            ]
-        },
-        {
-            "id": "1h2nq84",
-            "url": "/r/OpenAI/comments/1h2nq84/is_this_a_worthy_gossip_to_hope_for_what_do_yall/",
-            "external_url": "https://i.redd.it/ry6yl7jovu3e1.jpeg",
-            "title": "Is this a worthy gossip to hope for? What do y\u2019all know about a OpenAI browser in consideration?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1h2nq84/is_this_a_worthy_gossip_to_hope_for_what_do_yall/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1h2nq84/is_this_a_worthy_gossip_to_hope_for_what_do_yall/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/ry6yl7jovu3e1.jpeg\" />",
-            "date_published": "2024-11-29T15:04:56+00:00",
-            "authors": [
-                {
-                    "name": "py-net",
-                    "url": "https://www.reddit.com/user/py-net"
                 }
             ]
         }
