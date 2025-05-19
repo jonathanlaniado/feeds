@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1kqfpz0",
+            "url": "/r/ArtificialInteligence/comments/1kqfpz0/the_first_generation_of_kids_raised_with_ai_as_a/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1kqfpz0/the_first_generation_of_kids_raised_with_ai_as_a/",
+            "title": "The first generation of kids raised with AI as a default will think completely differently, and we won\u2019t understand them",
+            "content_html": "<p>There\u2019s a whole generation growing up right now where AI isn\u2019t new. It\u2019s not impressive. It\u2019s just there... like Wi-Fi or electricity.</p>\n<p>To them, asking an AI assistant for help isn\u2019t futuristic... it\u2019s normal. They won\u2019t \u201clearn how to Google.\u201d They\u2019ll learn how to prompt.</p>\n<p>And that\u2019s going to reshape how they think. Less about remembering facts, more about navigating systems. Less trial-and-error, more rapid iteration. Less \u201cwhat do I know?\u201d and more \u201cwhat can I ask?\u201d</p>\n<p>We\u2019ve never had a group of people raised with machine logic embedded into their daily habits from age 4.</p>\n<p>So what happens when the foundational skills of curiosity, memory, and intuition get filtered through an algorithmic lens?</p>\n<p>Will they trust their own thoughts,,, or just the output?</p>\n<p>Will they form beliefs,,, or just fine-tune responses?</p>\n<p>Will they build new systems,,, or just learn to game the old ones faster?</p>\n<p>We\u2019ve spent years talking about how AI will change jobs and media, but the deeper transformation might be how it rewires the way future generations think, feel, and define intelligence itself.</p>",
+            "date_published": "2025-05-19T16:14:24+00:00",
+            "authors": [
+                {
+                    "name": "elektrikpann",
+                    "url": "https://www.reddit.com/user/elektrikpann"
+                }
+            ]
+        },
+        {
             "id": "1kpcp8y",
             "url": "/r/ArtificialInteligence/comments/1kpcp8y/stack_overflow_seems_to_be_almost_dead/",
             "external_url": "https://i.redd.it/kxfxq7by8h1f1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "moonbunR",
                     "url": "https://www.reddit.com/user/moonbunR"
-                }
-            ]
-        },
-        {
-            "id": "1ceaftk",
-            "url": "/r/ArtificialInteligence/comments/1ceaftk/whats_the_most_practical_thing_you_have_done_with/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1ceaftk/whats_the_most_practical_thing_you_have_done_with/",
-            "title": "What's the most practical thing you have done with ai?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/1ceaftk/whats_the_most_practical_thing_you_have_done_with/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/1ceaftk/whats_the_most_practical_thing_you_have_done_with/'>Reddit</a></caption><div><br></div><p>I'm curious to see what people have done with current ai tools that you would consider practical. Past the standard image generating and simple question answer prompts what have you done with ai that has been genuinely useful to you?</p>\n<p>Mine for example is creating a ui which let's you select a country, start year and end year aswell as an interval of months or years and when you hit send a series of prompts are sent to ollama asking it to provide a detailed description of what happened during that time period in that country, then saves all output to text files for me to read. Verry useful to find interesting history topics to learn more about and lookup.</p>",
-            "date_published": "2024-04-27T09:25:42+00:00",
-            "authors": [
-                {
-                    "name": "CodeCraftedCanvas",
-                    "url": "https://www.reddit.com/user/CodeCraftedCanvas"
                 }
             ]
         }
