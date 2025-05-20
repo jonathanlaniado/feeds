@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1kqt7ei",
+            "url": "/r/ArtificialInteligence/comments/1kqt7ei/i_used_chatgpt_to_apply_to_10000_software/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1kqt7ei/i_used_chatgpt_to_apply_to_10000_software/",
+            "title": "I used ChatGPT to apply to 10,000 software engineering jobs in 5 days.",
+            "content_html": "<p>No, I\u2019m not desperate or unemployed. I just wanted to get a real feel for what the global tech job market looks like in 2025.</p>\n<p><strong>Here\u2019s the background on the profile I used:</strong></p>\n<ul>\n<li>Master\u2019s degree in Computer Science from a top European university, graduated with honors</li>\n<li>5 solid years at a FAANG company</li>\n<li>Fluent in English, open to relocating or remote work</li>\n<li>Strong skills in Python, React, AWS, and systems thinking</li>\n</ul>\n<p>Basically, a pretty solid candidate. Nothing unusual, nothing risky.</p>\n<p><strong>And I didn\u2019t mass-blast a generic CV.</strong></p>\n<p>I used\u00a0ChatGPT to personalize all 10,000 CVs and cover letters based on each job description.<br />\nEvery application was custom-tailored using Laboro's AI agent and applied automatically.</p>\n<p>Here are the results:</p>\n<p>|Country|Applications|Human Interviews|AI Interviews|Assessments|Rejected|Ghosted|\n|:-|:-|:-|:-|:-|:-|:-|\n||\n|USA|1,974|4|5|12|733|1,220|\n|UK|1,449|2|4|12|480|951|\n|Canada|989|2|3|7|365|612|\n|Germany|914|1|3|3|330|577|\n|France|795|1|2|6|240|546|\n|India|727|0|2|4|290|431|\n|Australia|611|0|2|3|220|386|\n|Netherlands|516|0|2|3|198|313|\n|Spain|404|0|1|2|166|235|\n|Sweden|317|0|1|1|148|167|\n|Remote|2,371|3|8|14|1,011|1,335|</p>\n<p><strong>Definitions:</strong></p>\n<ul>\n<li><strong>Human interviews:</strong>\u00a0The rare moments when you actually get to speak with a recruiter or team member.</li>\n<li><strong>AI interviews:</strong>\u00a0Automated screenings with no human involvement.</li>\n<li><strong>Assessments:</strong>\u00a0Coding tests or challenges sent before any conversation.</li>\n<li><strong>Rejected:</strong>\u00a0Formal \u201cno\u201d responses.</li>\n<li><strong>Ghosted:</strong>\u00a0Nothing. Silence. The most common reply.</li>\n</ul>\n<p><strong>The takeaway?</strong></p>\n<p>If you\u2019re applying and hearing nothing back, it\u2019s not you. You\u2019re not broken or invisible.<br />\nThis is just how the hiring pipeline works in 2025, high noise, low signal.</p>",
+            "date_published": "2025-05-20T01:44:20+00:00",
+            "authors": [
+                {
+                    "name": "Elieroos",
+                    "url": "https://www.reddit.com/user/Elieroos"
+                }
+            ]
+        },
+        {
             "id": "1kqfpz0",
             "url": "/r/ArtificialInteligence/comments/1kqfpz0/the_first_generation_of_kids_raised_with_ai_as_a/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1kqfpz0/the_first_generation_of_kids_raised_with_ai_as_a/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "skrt_pls",
                     "url": "https://www.reddit.com/user/skrt_pls"
-                }
-            ]
-        },
-        {
-            "id": "1cgnb8e",
-            "url": "/r/ArtificialInteligence/comments/1cgnb8e/cycls_a_python_framework_for_ai_chatbot_deployment/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1cgnb8e/cycls_a_python_framework_for_ai_chatbot_deployment/",
-            "title": "Cycls - A python framework for AI chatbot deployment",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/1cgnb8e/cycls_a_python_framework_for_ai_chatbot_deployment/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/1cgnb8e/cycls_a_python_framework_for_ai_chatbot_deployment/'>Reddit</a></caption><div><br></div><p>Hello,</p>\n<p>We are excited to introduce Cycls, our new Python framework designed to streamline and simplify the deployment of AI applications. With Cycls, you can launch your chatbot with just a few lines of code, making it accessible via a public URL complete with a chat UI. This tool is perfect for developers looking to rapidly deploy and iterate on their AI projects, integrating seamlessly with popular Python libraries and APIs such as those provided by OpenAI.</p>\n<p>Having spent considerable time exploring LLMs and chatbots, we believe Cycls offers a transformative solution by significantly lowering the barriers to entry in this space. The framework not only facilitates the development process but also alleviates common headaches associated with continuous deployment and feature integration. </p>\n<p>We are currently inviting users to participate in our private beta. By joining the waitlist, you will gain early access to Cycls and can contribute to refining its features based on your specific needs and experiences. We are eager to hear your thoughts on what makes a framework useful and how Cycls can better serve the developer community.</p>\n<p>For those interested in joining the beta and helping shape the future of AI application deployment, please sign up here: <a href=\"https://cycls.typeform.com/waitlist/\">https://cycls.typeform.com/waitlist/</a> </p>\n<p>Thank you for your interest and enthusiasm. We look forward to your feedback. </p>",
-            "date_published": "2024-04-30T07:55:22+00:00",
-            "authors": [
-                {
-                    "name": "moonbunR",
-                    "url": "https://www.reddit.com/user/moonbunR"
                 }
             ]
         }
