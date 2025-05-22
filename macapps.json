@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1ksuin2",
+            "url": "/r/macapps/comments/1ksuin2/turn_your_screen_selection_into_a_mario_level/",
+            "external_url": "https://v.redd.it/yko68f45wc2f1",
+            "title": "Turn your screen selection into a Mario level (Nintendo don't sue me pls)",
+            "content_html": "<p>I've found this little cool project on the GitHub, originally called Screentendo. All it does is transforming any selection on macOS into a Mario level, which you actually can play. I was pretty excited to try this abandoned gem, but the last update was like 10 years ago, so it doesn't actually work with newer versions of macOS anymore. I've spent some time to port this stuff to support macOS &gt; 14 and make it a bit faster than it was originally. </p>\n<p>Hope it triggers someone's little inner kid as much as it did to me. Here's the repo with the updated version - <a href=\"https://github.com/macos-first/nintendifier\">https://github.com/macos-first/nintendifier</a></p>",
+            "date_published": "2025-05-22T16:05:45+00:00",
+            "authors": [
+                {
+                    "name": "sedatedcow420",
+                    "url": "https://www.reddit.com/user/sedatedcow420"
+                }
+            ]
+        },
+        {
             "id": "1ks80br",
             "url": "/r/macapps/comments/1ks80br/keyclu_see_all_macos_keyboard_shortcuts_quickly/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1ks80br/keyclu_see_all_macos_keyboard_shortcuts_quickly/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MichaelTheGeek",
                     "url": "https://www.reddit.com/user/MichaelTheGeek"
-                }
-            ]
-        },
-        {
-            "id": "1ecivpe",
-            "url": "/r/macapps/comments/1ecivpe/get_a_cat_fact_with_each_click/",
-            "external_url": "https://v.redd.it/x2cqmlq9mted1",
-            "title": "Get a Cat Fact with each click.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1ecivpe/get_a_cat_fact_with_each_click/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1ecivpe/get_a_cat_fact_with_each_click/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-07-26T08:21:03+00:00",
-            "authors": [
-                {
-                    "name": "Arthur_Smith_",
-                    "url": "https://www.reddit.com/user/Arthur_Smith_"
                 }
             ]
         }
