@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
     "items": [
         {
+            "id": "1ktljnp",
+            "url": "/r/ChatGPTPro/comments/1ktljnp/5_prompts_that_dramatically_improved_my_cognitive/",
+            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1ktljnp/5_prompts_that_dramatically_improved_my_cognitive/",
+            "title": "5 Prompts that dramatically improved my cognitive skill",
+            "content_html": "<p>Over the past few months, I\u2019ve been using ChatGPT as a sort of \u201cpersonal trainer\u201d for my thinking. It\u2019s been surprisingly effective. I\u2019ve caught blindspots I didn\u2019t even know I had and improved my overall life.</p>\n<p>Here are the prompts I\u2019ve found most useful. Try them out, they might sharpen your thinking too:</p>\n<p><strong>The Assumption Detector</strong><br />\nWhen you\u2019re feeling certain about something:<br />\nThis one has helped me avoid a few costly mistakes by exposing beliefs I had accepted without question.</p>\n<pre><code>I believe [your belief]. What hidden assumptions am I making? What evidence might contradict this?\n</code></pre>\n<p><strong>The Devil\u2019s Advocate</strong><br />\nWhen you\u2019re a little too in love with your own idea:<br />\nThis one stung, but it saved me from launching a business idea that had a serious, overlooked flaw.</p>\n<pre><code>I'm planning to [your idea]. If you were trying to convince me this is a terrible idea, what would be your strongest arguments?\n</code></pre>\n<p><strong>The Ripple Effect Analyzer</strong><br />\nBefore making a big move:<br />\nHelped me realize some longer-term ripple effects of a career decision I hadn\u2019t thought through.</p>\n<pre><code>I'm thinking about [potential decision]. Beyond the obvious first-order effects, what second or third-order consequences should I consider?\n</code></pre>\n<p><strong>The Fear Dissector</strong><br />\nWhen fear is driving your decisions:<br />\nThis has helped me move forward on things I was irrationally avoiding.</p>\n<pre><code>\"I'm hesitating because I'm afraid of [fear]. Is this fear rational? What\u2019s the worst that could realistically happen?\"\n</code></pre>\n<p><strong>The Feedback Forager</strong><br />\nWhen you\u2019re stuck in your own head:<br />\nGreat for breaking out of echo chambers and finding fresh perspectives.</p>\n<pre><code>Here\u2019s what I\u2019ve been thinking: [insert thought]. What would someone with a very different worldview say about this?\n</code></pre>\n<p><strong>The Time Capsule Test</strong><br />\nWhen weighing a decision you\u2019ll live with for a while:<br />\nA simple way to step outside the moment and tap into longer-term thinking.</p>\n<pre><code>If I looked back at this decision a year from now, what do I hope I\u2019ll have done\u2014and what might I regret?\n</code></pre>\n<p>Each of these prompts works a different part of your cognitive toolkit. Combined, they\u2019ve helped me think clearer, see further, and avoid some really dumb mistakes.</p>\n<p><strong>By the way\u2014if you're into crafting better prompts or want to sharpen how you use ChatGPT</strong> I built <a href=\"https://teachmetoprompt.com\"><strong>TeachMeToPrompt</strong></a>, a free tool that gives you instant feedback on your prompt and suggests stronger versions. It\u2019s like a writing coach, but for prompting\u2014super helpful if you\u2019re trying to get more thoughtful or useful answers out of AI. You can also explore curated prompt packs, save your favorites, and learn what actually works. Still early, but it\u2019s already making a big difference for users (and for me). Would love your feedback if you give it a try.</p>",
+            "date_published": "2025-05-23T14:53:00+00:00",
+            "authors": [
+                {
+                    "name": "speak2klein",
+                    "url": "https://www.reddit.com/user/speak2klein"
+                }
+            ]
+        },
+        {
             "id": "1ksyg1p",
             "url": "/r/ChatGPTPro/comments/1ksyg1p/chatgpts_new_filters_are_limiting_political/",
             "external_url": "https://www.reddit.com/gallery/1ksyg1p",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MattMose",
                     "url": "https://www.reddit.com/user/MattMose"
-                }
-            ]
-        },
-        {
-            "id": "17tj75z",
-            "url": "/r/ChatGPTPro/comments/17tj75z/are_all_of_you_really_uploading_libraries_of/",
-            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/17tj75z/are_all_of_you_really_uploading_libraries_of/",
-            "title": "Are all of you really uploading libraries of unique, proprietary, super-specialized data that can meaningfully differentiate your GPTs from ChatGPT4? Let me explain....",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ChatGPTPro/comments/17tj75z/are_all_of_you_really_uploading_libraries_of/'>Apollo</a> | <a href='https://reddit.com/r/ChatGPTPro/comments/17tj75z/are_all_of_you_really_uploading_libraries_of/'>Reddit</a></caption><div><br></div><p>I'm in the midst of making my own customized GPT, but I'm having second thoughts about even bothering.  Some of my experiences have me wondering \"What's the point?\"</p>\n<p>While checking out a few of OpenAI's customized GPTs, I asked them relevant, targeted questions and then asked regular ChatGPT4 the same questions.  In some cases, regular ChatGPT4 gave me superior advice than the so-called specialized engines.  Regular ChatGPT4 gave me objectively better advice about getting a stain out (a real problem I have at the moment) than the \"Laundry Buddy\" GPT.</p>\n<p>Then, here's the real kicker, I asked \"Laundry Buddy\" how to become president of the United States and it gladly told me.  It did qualify itself and say that it was mainly a laundry expert, but then lauded me for my lofty goals and told me the exact process, rules, laws, etc. to become the President.</p>\n<p>Hot Mods freely told me the history of Portugal at my request and didn't even qualify itself about being an image generator.</p>\n<p>DALL-E gladly told me how hand cream could help my chapped hands without qualification or hesitation.</p>\n<p>So basically if any customized GPT can answer any question, what's the point of putting a pretty package on the outside when the backend is identical?  Why cut yourself off at the knees claiming to be a specialized GPT when ChatGPT4 has access to all the same knowledge?</p>\n<p>Is your uploaded data really enough to make that much of a difference?</p>\n<p>edit: spelling</p>\n<p>&#x200B;</p>",
-            "date_published": "2023-11-12T12:25:21+00:00",
-            "authors": [
-                {
-                    "name": "YoungandCanadian",
-                    "url": "https://www.reddit.com/user/YoungandCanadian"
                 }
             ]
         }
