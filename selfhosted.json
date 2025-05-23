@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1ktm709",
+            "url": "/r/selfhosted/comments/1ktm709/to_all_the_naysayers_saying_never_to_host_your/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1ktm709/to_all_the_naysayers_saying_never_to_host_your/",
+            "title": "To all the naysayers saying never to host your own email...",
+            "content_html": "<p>You were right.</p>\n<p>I've spent over 100 hours trying to make Stalwart and various mail clients work. I've learned a lot on the way, including that I was right 15 years ago when I vowed to never again host my own email. lol</p>",
+            "date_published": "2025-05-23T15:19:15+00:00",
+            "authors": [
+                {
+                    "name": "dougmeredith",
+                    "url": "https://www.reddit.com/user/dougmeredith"
+                }
+            ]
+        },
+        {
             "id": "1kni8sb",
             "url": "/r/selfhosted/comments/1kni8sb/just_discovered_midnight_commander_on_linux/",
             "external_url": "https://i.redd.it/x82qb89i701f1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "-rch-",
                     "url": "https://www.reddit.com/user/-rch-"
-                }
-            ]
-        },
-        {
-            "id": "1eprw7t",
-            "url": "/r/selfhosted/comments/1eprw7t/just_scored_free_rack_servernow_what/",
-            "external_url": "https://i.redd.it/n7k6o31jw2id1.jpeg",
-            "title": "Just scored free rack server...now what?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1eprw7t/just_scored_free_rack_servernow_what/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1eprw7t/just_scored_free_rack_servernow_what/'>Reddit</a></caption><div><br></div><p>I got this HP ProLiant DL560 Gen9 rack server from work for free and will be getting 8 drives for it tomorrow as well from a coworker. I'm super psyched to have a new toy to play around with.</p>\n<p>I don't have any experience with rack servers. I've been using a mini PC and my first PC build as servers up until now. One has Ubuntu server for Plex, Minecraft, FoundryVTT, and probably some other things I can't remember. My other one has Proxmox set up for VMs. I'm hoping to get NextCloud and whatever else I can come up with set up on this thing.</p>\n<p>I don't have a lot of space for a rack server in my home, however. There is no room for rack anywhere at this point. Would it be fine if I just kept it on a shelf in my utility room like this? The vents aren't covered up or anything, but I'm not sure how warm the chassis will get when it is running. </p>\n<p>I'm open to suggestions of any kind! </p><div><br></div><img src=\"https://i.redd.it/n7k6o31jw2id1.jpeg\" />",
-            "date_published": "2024-08-11T18:32:59+00:00",
-            "authors": [
-                {
-                    "name": "CaptainKamikaZ",
-                    "url": "https://www.reddit.com/user/CaptainKamikaZ"
                 }
             ]
         }
