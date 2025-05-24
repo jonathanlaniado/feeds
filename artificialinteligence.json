@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1kucuz3",
+            "url": "/r/ArtificialInteligence/comments/1kucuz3/run_an_unlocked_nsfw_llm_on_your_desktop_in_15/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1kucuz3/run_an_unlocked_nsfw_llm_on_your_desktop_in_15/",
+            "title": "Run an unlocked NSFW LLM on your desktop in 15 minutes",
+            "content_html": "<p>If you\u2019re sick of seeing \u201cI\u2019m sorry, I can\u2019t help with that,\u201d or want unhinged responses to your inputs, here\u2019s how to run a NSFW LLM right on your computer in 15 minutes while being private, free, and with no rules.</p>\n<p>First Install the LLM Ollama on your computer </p>\n<p>Windows: Go to https://ollama.com/download and install it like any normal app.</p>\n<p>Mac/Linux: Open Terminal and run:\ncurl -fsSL https://ollama.com/install.sh | sh</p>\n<p>After that, run an unfiltered AI model by opening your terminal or command prompt and type:</p>\n<p>\u201collama run mistral\u201d</p>\n<p>or for a even more unfiltered experience:</p>\n<p>\u201collama run dolphin-mistral\u201d</p>\n<p>It\u2019ll download the model, then you\u2019ll get a prompt like: &gt;&gt;&gt;</p>\n<p>Boom. You\u2019re unlocked and ready to go. Now you can ask anything. No filters, no guardrails.</p>\n<p>Have fun, be safe, and let me know what you think or build. </p>",
+            "date_published": "2025-05-24T14:26:09+00:00",
+            "authors": [
+                {
+                    "name": "eeko_systems",
+                    "url": "https://www.reddit.com/user/eeko_systems"
+                }
+            ]
+        },
+        {
             "id": "1ktnn3j",
             "url": "/r/ArtificialInteligence/comments/1ktnn3j/ai_in_real_world_er_radiology_from_last_night_4/",
             "external_url": "https://www.reddit.com/gallery/1ktnn3j",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MateuszW93",
                     "url": "https://www.reddit.com/user/MateuszW93"
-                }
-            ]
-        },
-        {
-            "id": "1ckyiak",
-            "url": "/r/ArtificialInteligence/comments/1ckyiak/why_do_people_here_think_singularityabundance/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1ckyiak/why_do_people_here_think_singularityabundance/",
-            "title": "Why do people here think Singularity/\"Abundance\" would benefit the average person?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/1ckyiak/why_do_people_here_think_singularityabundance/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/1ckyiak/why_do_people_here_think_singularityabundance/'>Reddit</a></caption><div><br></div><p>I always read comments here and find them so naive</p>\n<p>Why do you think singularity or the supposed \"abundance\" that Sam \"corporate\" Altman throws around all the time would benefit the average person? It wouldnt</p>\n<p>You know why it wouldnt?</p>\n<p>Because abundance does not work with capitalism. It doesnt compute. And there is no way the western world is moving away from capitalism anytime soon.</p>",
-            "date_published": "2024-05-05T18:57:25+00:00",
-            "authors": [
-                {
-                    "name": "dabay7788",
-                    "url": "https://www.reddit.com/user/dabay7788"
                 }
             ]
         }
