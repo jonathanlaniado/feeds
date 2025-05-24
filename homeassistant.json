@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1kulr31",
+            "url": "/r/homeassistant/comments/1kulr31/home_assistant_community_day_in_utrecht_the/",
+            "external_url": "https://www.reddit.com/gallery/1kulr31",
+            "title": "Home Assistant Community Day in Utrecht, the Netherlands",
+            "content_html": "<p>On Saturday I visited the Home Assistant Community Day in Utrecht, the Netherlands. A gathering of about 200 people who have together 1 hobby! </p>\n<p>A lot of sharing experiences and getting new ideas. There was a pubquiz about Home Assistant where I ended up as 4th (without calculating the number 2 &amp; 3 who work for Home Assistant \ud83e\udd23). On the photo with Franck Nijhof  &amp; Ed (SmartHomeJunkie on e.g. YouTube).</p>\n<p>Overal a great afternoon.</p>\n<h1>HADay2025 #HomeAssistant #Smarthome</h1>",
+            "date_published": "2025-05-24T21:02:01+00:00",
+            "authors": [
+                {
+                    "name": "WHagenauw",
+                    "url": "https://www.reddit.com/user/WHagenauw"
+                }
+            ]
+        },
+        {
             "id": "1kmlnqa",
             "url": "/r/homeassistant/comments/1kmlnqa/smart_laundry_scale/",
             "external_url": "https://www.reddit.com/gallery/1kmlnqa",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ravan",
                     "url": "https://www.reddit.com/user/ravan"
-                }
-            ]
-        },
-        {
-            "id": "17aukj2",
-            "url": "/r/homeassistant/comments/17aukj2/thank_you_ratgdo/",
-            "external_url": "https://i.redd.it/u5ix5ccfkzub1.jpg",
-            "title": "Thank you ratgdo \ud83d\ude4f",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/17aukj2/thank_you_ratgdo/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/17aukj2/thank_you_ratgdo/'>Reddit</a></caption><div><br></div><p>Finally received my ratgdo yesterday and slapped it on immediately. I went with the ESPHome firmware. Everything is working great, I can even control lights. Can't be happier to delete the MyQ cloud integration.</p><div><br></div><img src=\"https://i.redd.it/u5ix5ccfkzub1.jpg\" />",
-            "date_published": "2023-10-18T16:15:55+00:00",
-            "authors": [
-                {
-                    "name": "linshunghuang",
-                    "url": "https://www.reddit.com/user/linshunghuang"
                 }
             ]
         }
