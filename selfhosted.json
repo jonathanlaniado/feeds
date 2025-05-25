@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1kva3pw",
+            "url": "/r/selfhosted/comments/1kva3pw/avoid_minio_developers_introduce_trojan_horse/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1kva3pw/avoid_minio_developers_introduce_trojan_horse/",
+            "title": "Avoid MinIO: developers introduce trojan horse update stripping community edition of most features in the UI",
+            "content_html": "<p>I noticed today that my MinIO docker image had been updated and the UI was stripped down to just an object browser. After some digging I found this <a href=\"https://github.com/minio/object-browser/pull/3509\">disgusting PR</a> that removes away all the features in the UI. 110k lines effectively removed and most features including admin functions gone. The discussion around this PR is locked and one of the developers points users to their commercial product instead. </p>",
+            "date_published": "2025-05-25T18:55:44+00:00",
+            "authors": [
+                {
+                    "name": "AssPounderr69",
+                    "url": "https://www.reddit.com/user/AssPounderr69"
+                }
+            ]
+        },
+        {
             "id": "1kv1euk",
             "url": "/r/selfhosted/comments/1kv1euk/my_xbox_homeserver_running_self_hosted_almost/",
             "external_url": "https://www.reddit.com/gallery/1kv1euk",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "PersianMG",
                     "url": "https://www.reddit.com/user/PersianMG"
-                }
-            ]
-        },
-        {
-            "id": "1eqga5b",
-            "url": "/r/selfhosted/comments/1eqga5b/i_created_a_new_jellyfin_client_for_ios_and/",
-            "external_url": "https://www.reddit.com/gallery/1eqga5b",
-            "title": "I created a new Jellyfin client for iOS and Android. Supports downloads and Chromecast. ",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1eqga5b/i_created_a_new_jellyfin_client_for_ios_and/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1eqga5b/i_created_a_new_jellyfin_client_for_ios_and/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-08-12T15:11:29+00:00",
-            "authors": [
-                {
-                    "name": "masterinthecage",
-                    "url": "https://www.reddit.com/user/masterinthecage"
                 }
             ]
         }
