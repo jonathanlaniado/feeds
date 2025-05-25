@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1kv1euk",
+            "url": "/r/selfhosted/comments/1kv1euk/my_xbox_homeserver_running_self_hosted_almost/",
+            "external_url": "https://www.reddit.com/gallery/1kv1euk",
+            "title": "My xbox homeserver running self hosted almost everything, completed 6000 hours today!",
+            "content_html": "",
+            "date_published": "2025-05-25T12:31:07+00:00",
+            "authors": [
+                {
+                    "name": "Stakeitdobby",
+                    "url": "https://www.reddit.com/user/Stakeitdobby"
+                }
+            ]
+        },
+        {
             "id": "1ktm709",
             "url": "/r/selfhosted/comments/1ktm709/to_all_the_naysayers_saying_never_to_host_your/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1ktm709/to_all_the_naysayers_saying_never_to_host_your/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "masterinthecage",
                     "url": "https://www.reddit.com/user/masterinthecage"
-                }
-            ]
-        },
-        {
-            "id": "1eptwxk",
-            "url": "/r/selfhosted/comments/1eptwxk/psa_update_vaultwarden_as_soon_as_possible/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1eptwxk/psa_update_vaultwarden_as_soon_as_possible/",
-            "title": "PSA: Update Vaultwarden as soon as possible",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1eptwxk/psa_update_vaultwarden_as_soon_as_possible/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1eptwxk/psa_update_vaultwarden_as_soon_as_possible/'>Reddit</a></caption><div><br></div><p>A new version (1.32.0) of Vaultwarden is out with security fixes:</p>\n<blockquote>\n<p>This release has several CVE Reports fixed and we recommend everybody to update to the latest version as soon as possible.</p>\n<p><a href=\"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-39924\">CVE-2024-39924</a>\u00a0Fixed via\u00a0<a href=\"https://github.com/dani-garcia/vaultwarden/pull/4715\">#4715</a></p>\n<p><a href=\"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-39925\">CVE-2024-39925</a>\u00a0Fixed via\u00a0<a href=\"https://github.com/dani-garcia/vaultwarden/pull/4837\">#4837</a></p>\n<p><a href=\"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-39926\">CVE-2024-39926</a>\u00a0Fixed via\u00a0<a href=\"https://github.com/dani-garcia/vaultwarden/pull/4737\">#4737</a></p>\n</blockquote>\n<p><a href=\"https://github.com/dani-garcia/vaultwarden/releases/tag/1.32.0\">Release page</a></p>",
-            "date_published": "2024-08-11T19:59:00+00:00",
-            "authors": [
-                {
-                    "name": "-rch-",
-                    "url": "https://www.reddit.com/user/-rch-"
                 }
             ]
         }
