@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1kv5p8h",
+            "url": "/r/ArtificialInteligence/comments/1kv5p8h/this_is_the_worst_ai_is_ever_going_to_be/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1kv5p8h/this_is_the_worst_ai_is_ever_going_to_be/",
+            "title": "This is the worst Ai is ever going to be",
+            "content_html": "<p>The fact Veo 3 is THIS good, is insane. It\u2019s only going to get better which would mean this is the worst it will ever be, having trouble wrapping my head around that!</p>",
+            "date_published": "2025-05-25T15:48:26+00:00",
+            "authors": [
+                {
+                    "name": "Jaguars147",
+                    "url": "https://www.reddit.com/user/Jaguars147"
+                }
+            ]
+        },
+        {
             "id": "1kv2891",
             "url": "/r/ArtificialInteligence/comments/1kv2891/googles_cofounder_says_ai_performs_best_when_you/",
             "external_url": "https://lifehacker.com/tech/googles-co-founder-says-ai-performs-best-when-you-threaten-it",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "NGNResearch",
                     "url": "https://www.reddit.com/user/NGNResearch"
-                }
-            ]
-        },
-        {
-            "id": "1clwkc8",
-            "url": "/r/ArtificialInteligence/comments/1clwkc8/does_anyone_else_hate_how_much_llms_try_to_please/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1clwkc8/does_anyone_else_hate_how_much_llms_try_to_please/",
-            "title": "Does anyone else hate how much LLMs try to please you and say you're right? Even when you're wrong?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/1clwkc8/does_anyone_else_hate_how_much_llms_try_to_please/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/1clwkc8/does_anyone_else_hate_how_much_llms_try_to_please/'>Reddit</a></caption><div><br></div><p>I recently strated running again</p>\n<p>I told it I did a run/walk routine for 24 mins, with intervals of 1 minute walking and 2 minutes running.</p>\n<p>It told me that's a great way to start improving your cardio, blah blah blah</p>\n<p>I then tested it again, and said I did a plan where I walked for 12 minutes and jogged for 30 seconds, and asked if that was enough to improve my cardio health (spoiler, it really isnt)</p>\n<p>It <strong>STILL</strong> said yes that's great for improving your cardio health</p>\n<p>Like bruh, just tell me no, thats not enough, you're wrong, etc </p>\n<p>I've seen this trend with basically anything. It will never straight out tell you you're wrong, or correct you</p>\n<p>Even worse it will never admit that it doesn't know the answer to something either</p>\n<p>Until this gets sorted out I feel like LLMs are not very useful tbh</p>",
-            "date_published": "2024-05-06T22:49:13+00:00",
-            "authors": [
-                {
-                    "name": "dabay7788",
-                    "url": "https://www.reddit.com/user/dabay7788"
                 }
             ]
         }
