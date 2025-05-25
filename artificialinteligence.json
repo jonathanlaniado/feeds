@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1kv2891",
+            "url": "/r/ArtificialInteligence/comments/1kv2891/googles_cofounder_says_ai_performs_best_when_you/",
+            "external_url": "https://lifehacker.com/tech/googles-co-founder-says-ai-performs-best-when-you-threaten-it",
+            "title": "Google's Co-Founder says AI performs best when you threaten it",
+            "content_html": "",
+            "date_published": "2025-05-25T13:13:07+00:00",
+            "authors": [
+                {
+                    "name": "longgestones",
+                    "url": "https://www.reddit.com/user/longgestones"
+                }
+            ]
+        },
+        {
             "id": "1kucuz3",
             "url": "/r/ArtificialInteligence/comments/1kucuz3/run_an_unlocked_nsfw_llm_on_your_desktop_in_15/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1kucuz3/run_an_unlocked_nsfw_llm_on_your_desktop_in_15/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "dabay7788",
                     "url": "https://www.reddit.com/user/dabay7788"
-                }
-            ]
-        },
-        {
-            "id": "1clh0fv",
-            "url": "/r/ArtificialInteligence/comments/1clh0fv/ive_created_a_polish_dubbing_for_fallout_4_using/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1clh0fv/ive_created_a_polish_dubbing_for_fallout_4_using/",
-            "title": "I've created a Polish dubbing for Fallout 4 using AI.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/1clh0fv/ive_created_a_polish_dubbing_for_fallout_4_using/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/1clh0fv/ive_created_a_polish_dubbing_for_fallout_4_using/'>Reddit</a></caption><div><br></div><p>Hi.<br />\nRecently, I wanted to replay Fallout 4 and thought it's a shame we didn't get dubbing in my country. Then, I thought about Elevenlabs, and you know what? I did it!</p>\n<p>Here is the result:\u00a0<a href=\"https://www.youtube.com/watch?v=pTnaw_mwCBo&amp;t=6s\">https://www.youtube.com/watch?v=pTnaw_mwCBo&amp;t=6s</a></p>\n<p>I had to create over 400 voices and generate 160,000 dialogues, but it's up and running, and people are loving it! I'm already planning to dub more games; the next one on the list is Fallout New Vegas.</p>\n<p>I understand that for the English-speaking community, this might not seem like a big deal, but for many Polish players, it's a game-changer. I'm aiming to release it to the public in 2 weeks.</p>",
-            "date_published": "2024-05-06T11:46:20+00:00",
-            "authors": [
-                {
-                    "name": "MateuszW93",
-                    "url": "https://www.reddit.com/user/MateuszW93"
                 }
             ]
         }
