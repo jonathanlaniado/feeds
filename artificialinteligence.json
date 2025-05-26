@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1kw2n7i",
+            "url": "/r/ArtificialInteligence/comments/1kw2n7i/our_approach_to_ai_is_close_to_worse_case_scenario/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1kw2n7i/our_approach_to_ai_is_close_to_worse_case_scenario/",
+            "title": "Our approach to AI is close to worse case scenario",
+            "content_html": "<p>Everyone pays lips service to AI safety but I\u2019m just not seeing it in practice. At this point we\u2019re full steam ahead developing AI in ways that almost guarantee lapses in safety.</p>\n<p>Examples:\n(1) Mad dash to AGI/SGI. Reaching AGI is priority #1 for all the biggest companies involved, around the world. There are no incentives to slow down; everyone is in total agreement that the first to AGI wins. Wins what exactly is not super clear, but they do win and it\u2019s difficult to impossible for competition to catch up.</p>\n<p>(2) Rush to market. The models are not in air gapped data centers where we can spend years assessing their behavior and capabilities. As soon as the new models pass some basic QA they are rushed to the market, given extensive capabilities to influence and interact with the world. We find out their full behavior and capabilities only after they are fully integrated into our lives.</p>\n<p>(3) We still have absolutely no clue how they work. Yes, we understand how learning works from a math and algorithms level, but we still have barely a clue what the inscrutable matrices of numbers actually encode in terms of knowledge and behavior.</p>\n<p>We\u2019re cooked fam.</p>",
+            "date_published": "2025-05-26T19:05:48+00:00",
+            "authors": [
+                {
+                    "name": "terrible-takealap",
+                    "url": "https://www.reddit.com/user/terrible-takealap"
+                }
+            ]
+        },
+        {
             "id": "1kvz8st",
             "url": "/r/ArtificialInteligence/comments/1kvz8st/doge_team_using_ai_to_scour_personal_data_to_root/",
             "external_url": "https://www.rawstory.com/doge-team-sensitive-private-data-2672192671/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "dinga_dong-",
                     "url": "https://www.reddit.com/user/dinga_dong-"
-                }
-            ]
-        },
-        {
-            "id": "1cnu3os",
-            "url": "/r/ArtificialInteligence/comments/1cnu3os/adult_entertainment_might_soon_replace_real/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1cnu3os/adult_entertainment_might_soon_replace_real/",
-            "title": "Adult Entertainment Might Soon Replace Real People With AI Stars - Are We Ready?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/1cnu3os/adult_entertainment_might_soon_replace_real/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/1cnu3os/adult_entertainment_might_soon_replace_real/'>Reddit</a></caption><div><br></div><p>The adult industry has a well-earned reputation for being an early adapter of new technologies, a tradition that stretches back to the printing press in the 15th century. This pioneering spirit continues today, with the industry experimenting with and integrating artificial intelligence (AI).</p>\n<p>Read the full story: https://www.ibtimes.co.uk/adult-entertainment-might-soon-replace-real-people-ai-stars-are-we-ready-1724598</p>",
-            "date_published": "2024-05-09T10:38:31+00:00",
-            "authors": [
-                {
-                    "name": "vinaylovestotravel",
-                    "url": "https://www.reddit.com/user/vinaylovestotravel"
                 }
             ]
         }
