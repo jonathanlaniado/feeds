@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1kw59gm",
+            "url": "/r/PleX/comments/1kw59gm/i_installed_jellyfin_alongside_plex/",
+            "external_url": "https://www.reddit.com/r/PleX/comments/1kw59gm/i_installed_jellyfin_alongside_plex/",
+            "title": "I installed Jellyfin alongside Plex",
+            "content_html": "<p>I understand one is a for-profit company with a lot of resources and one is a community project with much more resource limitations and everything that that means. I am not taking that fact away from them. But...</p>\n<p>There is no competition here. Even with the \"bad\" updates and the questionable choices, Plex is still vastly superior to Jellyfin.</p>\n<p>I was hoping the quality and feature gap would be much less given how long the two products have been available, but the rift is simply gigantic. This is disheartening because competition always breeds innovation. The Jellyfin devs simply can't seem to get out of their own way and deliver a quality product everybody can enjoy and use, rather than something that the devs deem good enough for their objectives.</p>\n<p>On the exact same hardware and the exact same media library Plex hums along nicely while Jellyfin consumes all host resources and is super slow for all actions. I would love to share my experiences with r/jellyfin but that sub is apparently not for general discussion and is meant only for product announcements. Again, no community involvement there.</p>\n<p>I've been a Plex lifetime subscription user for many years and have happily used it for that time. I've really been rooting for the Jellyfin guys for just as long. But alas, Plex is a superior product. Not simply because of more resources, but because of better product vision. Without a sea change at Jellyfin it will unfortunately remain that way.</p>",
+            "date_published": "2025-05-26T20:54:08+00:00",
+            "authors": [
+                {
+                    "name": "micush",
+                    "url": "https://www.reddit.com/user/micush"
+                }
+            ]
+        },
+        {
             "id": "1ko7nt9",
             "url": "/r/PleX/comments/1ko7nt9/plex_library_the_only_thing_more_organized_than/",
             "external_url": "https://www.reddit.com/r/PleX/comments/1ko7nt9/plex_library_the_only_thing_more_organized_than/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "WeirdoGame",
                     "url": "https://www.reddit.com/user/WeirdoGame"
-                }
-            ]
-        },
-        {
-            "id": "1feky0s",
-            "url": "/r/PleX/comments/1feky0s/open_sourced_plex_api_nfo_support_custom_agents/",
-            "external_url": "https://forums.plex.tv/t/plex-fireside-in-the-forum-2024/885879/319",
-            "title": "Open Sourced Plex API, NFO Support, Custom Agents, Dedicated Photos & Music Plex Apps and a new Server Management Experience - coming to Plex soon!",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1feky0s/open_sourced_plex_api_nfo_support_custom_agents/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1feky0s/open_sourced_plex_api_nfo_support_custom_agents/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-09-11T20:56:42+00:00",
-            "authors": [
-                {
-                    "name": "jl94x4",
-                    "url": "https://www.reddit.com/user/jl94x4"
                 }
             ]
         }
