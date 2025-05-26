@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1kw67cc",
+            "url": "/r/ArtificialInteligence/comments/1kw67cc/why_are_people_are_saying_veo_3_is_the_end_of_the/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1kw67cc/why_are_people_are_saying_veo_3_is_the_end_of_the/",
+            "title": "Why are people are saying VEO 3 is the end of the film industry?",
+            "content_html": "<p>Yes, my favorite YouTube coder said it's the end of a $1.7T industry. So people are saying it.</p>\n<p>But I work in this industry and wanted to dig deeper. So what you get right now for $250/month is about 83 clips generated (divide total tokens by tokens per video). Most scenes come out pretty good but the jank... the jank!!!!!</p>\n<p>Are you guys seriously telling me you would go into production with THIS amount of jank!???? </p>\n<p>For one thing, people blink in different directions. Then there is a big difference in quality between image to video and text to video with the latter being much better but much less in your control. On top of that, prompts can get rejected if it thinks your infringing on IP, which it doesn't always get right. Plus what horrible subtitles!! And the elephant in the room: combat. Any action scene is a complete joke. No one would go into production with NO ACTORS to reshoot these scenes that look like hand puppets mating.</p>\n<p>Look, I'm a HUGE fan of AI. I see it as a force multiplier when used as a tool. But I don't see how it's industry ending with the current model of VEO 3. It seems to have very arbitrary limitations that make it inflexible to a real production workflow.</p>",
+            "date_published": "2025-05-26T21:33:32+00:00",
+            "authors": [
+                {
+                    "name": "Agile-Egg-5681",
+                    "url": "https://www.reddit.com/user/Agile-Egg-5681"
+                }
+            ]
+        },
+        {
             "id": "1kw2n7i",
             "url": "/r/ArtificialInteligence/comments/1kw2n7i/our_approach_to_ai_is_close_to_worse_case_scenario/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1kw2n7i/our_approach_to_ai_is_close_to_worse_case_scenario/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Happy-Credit-3821",
                     "url": "https://www.reddit.com/user/Happy-Credit-3821"
-                }
-            ]
-        },
-        {
-            "id": "1co58ji",
-            "url": "/r/ArtificialInteligence/comments/1co58ji/3_prompts_to_generate_100_human_like_content_in/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1co58ji/3_prompts_to_generate_100_human_like_content_in/",
-            "title": "3 prompts to generate 100% human like content in ChatGPT",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/1co58ji/3_prompts_to_generate_100_human_like_content_in/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/1co58ji/3_prompts_to_generate_100_human_like_content_in/'>Reddit</a></caption><div><br></div><p>Hi. After a lot of research and practical experience I made this list of TOP 3 prompts to generate human like content. I\u2019ve personally tested out these prompts. All three prompts have passed writer and zerogpt\u2019s detectors by atleast 90% or more. Here are prompts to get human like content from LLMs:</p>\n<p><strong>1. Using Dependency Grammer:</strong></p>\n<p>Dependency grammar, a linguistic framework, connects words in a sentence based on their dependencies, showing how each word relies on a main word (like a verb) to form meaningful structures. You can test it out by copying and pasting the below prompt. But I can already perceive the content created by ChatGPT to be atleast 90% human written.</p>\n<p><strong><em>Prompt:</em></strong></p>\n<p><code>Use the dependency grammar linguistic framework to craft a [ARTICLE/POST/BLOG/ETC.]. The idea is that the closer together each pair of words you\u2019re connecting are, the easier the copy will be to comprehend. Here is the topic and additional details: [TITLE] [DETAILS]</code></p>\n<p><strong>2. Burstiness and Perplexity:</strong></p>\n<p>The provided prompt aims to guide large language models (LLMs) to generate content that closely resembles human-written text. It does this by emphasizing two key factors: \"perplexity\" and \"burstiness.\" Perplexity measures the complexity of the text, essentially how difficult it is to understand. By asking the model to incorporate a good amount of perplexity, the prompt encourages the generation of content with varying degrees of complexity, similar to what humans naturally produce.</p>\n<p><strong><em>Prompt:</em></strong>\u00a0</p>\n<p><code>When it comes to writing content, two factors are crucial, \"perplexity\" and \"burstiness.\" Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. Here is the topic and additional details: [TITLE] [DETAILS]</code></p>\n<p><strong>3. Assign Role to AI:</strong></p>\n<p>In this method we first assign a role to our friend AI. Although this method was very helpful to me as well but now I rather use the previous methods mentioned more. Prompting something like , \u201cWrite a blog on [TOPIC] as an expert 27 years old copywriter\u201d will give you good results. But to make the outcome even better and more like a human written content you should give AI instructions such as tone, words to use, role etc. Follow the below prompt to get an idea. However, depending on your topic you might want to modify the prompt.</p>\n<p><strong><em>Prompt:</em></strong>\u00a0</p>\n<p><code>You are an expert copywriter with massive experience in business writings. Please write a 500-word piece written on the following topic:</code><br />\n<code>When you sell your business, money is not the most important thing and what will make you happy in the long run is if your employees and customers get a good outcome from it.</code><br />\n<code>Write the text in the following voice:</code><br />\n<code>Direct</code><br />\n<code>Simple with no jargon</code><br />\n<code>Shorter sentences</code><br />\n<code>Personal</code><br />\n<code>Conversational</code><br />\n<code>In the tone of an advisor</code><br />\n<code>Colloquial</code><br />\n<code>Using the second person</code><br />\n<code>Using anecdotes and metaphors without trite phrases and without obvious ideas</code></p>\n<p>--------------------------------------------..........................--------------------------------------------</p>\n<p>I hope you guys found this post helpful. I run an AI tools directory called\u00a0seekme.ai. I\u2019ve listed over 13k AI tools there as well thousands of ChatGPT plugins that exists to make your prompting easier. Consider subscribing to my newsletter to get more of these tutorials and case studies on prompting.\u00a0<a href=\"https://seekme.ai/subscribe/newsletter\">Subscribe here</a></p>",
-            "date_published": "2024-05-09T19:10:20+00:00",
-            "authors": [
-                {
-                    "name": "dinga_dong-",
-                    "url": "https://www.reddit.com/user/dinga_dong-"
                 }
             ]
         }
