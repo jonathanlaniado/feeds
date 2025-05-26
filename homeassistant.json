@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1kvtoqx",
+            "url": "/r/homeassistant/comments/1kvtoqx/home_assistant_community_day_in_darmstadt_germany/",
+            "external_url": "https://www.reddit.com/gallery/1kvtoqx",
+            "title": "Home Assistant Community Day in Darmstadt Germany",
+            "content_html": "<p>Hello everyone,<br />\nSeeing the other posts pop up I thought we from Darmstadt don't want to miss the party. <br />\nI have attached my pictures for you to enjoy.</p>\n<p>Big thanks to the Chaos Computer Club in Darmstadt for offering their area to host the Home Assistant Community Day 2025 their.</p>\n<p>Also the Pizza was really tasty \ud83d\ude09</p>",
+            "date_published": "2025-05-26T12:57:12+00:00",
+            "authors": [
+                {
+                    "name": "Smartzeug",
+                    "url": "https://www.reddit.com/user/Smartzeug"
+                }
+            ]
+        },
+        {
             "id": "1kulr31",
             "url": "/r/homeassistant/comments/1kulr31/home_assistant_community_day_in_utrecht_the/",
             "external_url": "https://www.reddit.com/gallery/1kulr31",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "frenck_nl",
                     "url": "https://www.reddit.com/user/frenck_nl"
-                }
-            ]
-        },
-        {
-            "id": "17ba9zm",
-            "url": "/r/homeassistant/comments/17ba9zm/govee_inapp_api_survey_includes_option_for_home/",
-            "external_url": "https://i.redd.it/lbairpze33vb1.jpg",
-            "title": "Govee in-app API survey includes option for Home Assistant Integration - make your voice heard!",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/17ba9zm/govee_inapp_api_survey_includes_option_for_home/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/17ba9zm/govee_inapp_api_survey_includes_option_for_home/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/lbairpze33vb1.jpg\" />",
-            "date_published": "2023-10-19T04:07:41+00:00",
-            "authors": [
-                {
-                    "name": "ravan",
-                    "url": "https://www.reddit.com/user/ravan"
                 }
             ]
         }
