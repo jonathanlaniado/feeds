@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
     "items": [
         {
+            "id": "1kwt29q",
+            "url": "/r/ChatGPTPro/comments/1kwt29q/google_recently_released_a_68page_guide_on_prompt/",
+            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1kwt29q/google_recently_released_a_68page_guide_on_prompt/",
+            "title": "Google recently released a 68-page guide on prompt engineering. Here are the most interesting takeaways",
+            "content_html": "<p>I read through Google\u2019s\u00a0<a href=\"https://www.kaggle.com/whitepaper-prompt-engineering\">68-page</a>\u00a0prompt engineering guide. It strikes a great balance between beginner-friendly advice and deeper, more advanced insights. There\u2019s a ton of best practices scattered throughout, but here are the highlights that stood out:</p>\n<p>\u2013\u00a0<strong>Use high-quality examples:</strong>\u00a0Few-shot prompts help set the right expectations for format and tone. Adding edge cases can help\u2014just watch out for overfitting.<br />\n\u2013\u00a0<strong>Start simple:</strong>\u00a0Clear, concise, verb-driven prompts usually perform best. Less ambiguity = better results.<br />\n\u2013\u00a0<strong>Define the output:</strong>\u00a0Be explicit about structure, style, and length. For example, say \u201cGive a 3-sentence summary in bullet points.\u201d<br />\n\u2013\u00a0<strong>Prefer positive instructions:</strong>\u00a0Tell the model what\u00a0<em>to</em>\u00a0do rather than what\u00a0<em>not</em>\u00a0to do, unless you're enforcing strict safety rules.<br />\n\u2013\u00a0<strong>Use variables:</strong>\u00a0Add placeholders (like names, dates) to make prompts reusable and dynamic.<br />\n\u2013\u00a0<strong>Play with input styles:</strong>\u00a0Tables, lists, and schemas like JSON can guide the model\u2019s focus in useful ways.<br />\n\u2013\u00a0<strong>Keep testing:</strong>\u00a0Every model version responds differently. What worked for GPT-3.5 might not work the same with GPT-4.1.<br />\n\u2013\u00a0<strong>Ask for structured outputs:</strong>\u00a0Formats like JSON or CSV are easier to parse and often reduce follow-up cleanup.<br />\n\u2013\u00a0<strong>Team up:</strong>\u00a0Collaborating on prompts makes the process more efficient and helps uncover better patterns.<br />\n\u2013\u00a0<strong>Use Chain-of-Thought wisely:</strong>\u00a0Keep CoT prompts simple (\u201cLet\u2019s think step by step\u2026\u201d). Don\u2019t overuse it on reasoning-native models.<br />\n\u2013\u00a0<strong>Track your changes:</strong>\u00a0Log versions, results, and tweaks so you don\u2019t lose progress or repeat mistakes.</p>\n<p><strong>P.S.</strong>\u00a0If you like experimenting with prompts or want to get better results from AI, I\u2019m building\u00a0<a href=\"https://teachmetoprompt.com/\"><strong>TeachMeToPrompt</strong></a>, a tool that helps you\u00a0<strong>refine, grade, and improve your prompts</strong>\u00a0so you get clearer, smarter responses. You can also explore curated prompt packs, save your best ones, and learn what actually works. Still early, but it\u2019s already helping users level up how they use AI. Check it out and let me know what you think.</p>",
+            "date_published": "2025-05-27T17:20:19+00:00",
+            "authors": [
+                {
+                    "name": "speak2klein",
+                    "url": "https://www.reddit.com/user/speak2klein"
+                }
+            ]
+        },
+        {
             "id": "1ktljnp",
             "url": "/r/ChatGPTPro/comments/1ktljnp/5_prompts_that_dramatically_improved_my_cognitive/",
             "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1ktljnp/5_prompts_that_dramatically_improved_my_cognitive/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "caeseriscool",
                     "url": "https://www.reddit.com/user/caeseriscool"
-                }
-            ]
-        },
-        {
-            "id": "17wenfv",
-            "url": "/r/ChatGPTPro/comments/17wenfv/is_anyone_else_frustrated_with_the_apathy_of/",
-            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/17wenfv/is_anyone_else_frustrated_with_the_apathy_of/",
-            "title": "Is anyone else frustrated with the apathy of their peers towards ChatGPT (and Plus)?",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ChatGPTPro/comments/17wenfv/is_anyone_else_frustrated_with_the_apathy_of/'>Apollo</a> | <a href='https://reddit.com/r/ChatGPTPro/comments/17wenfv/is_anyone_else_frustrated_with_the_apathy_of/'>Reddit</a></caption><div><br></div><p>Bit of a rant here to what I hope is a sympathetic audience\u2026</p>\n<p>I work for a tech-forward hardware product development team. We\u2019re all enthusiastic and personally invested in applying cutting edge tech to new product designs. We\u2019re no stranger to implementing automation and software services in our jobs. So why am I the only one who seems to care about ChatGPT?</p>\n<p>I\u2019m, like, offended on ChatGPT (and all LLMs) behalf that my friends, family, and co-workers just don\u2019t seem to grasp the importance of this breakthrough tool. I feel like they treat it like the latest social networking app and they\u2019ll get around to looking at it eventually, once everyone else is using it. I\u2019ve found myself getting to the point of literally yelling (emphatically, not aggressively) at my friends and coworkers to please please please just start playing the free version with it to get comfortable with it. And also give me a good reason why you won\u2019t spend $20 to use the culmination of all of humanity\u2019s technological development\u2026 but you won\u2019t think twice about dropping $17 on a craft beer.</p>\n<p>I told my boss I would pay for a month of Plus subscriptions for my entire team <strong>out of my own pocket</strong> if they\u2019d just promise to try using it (prior to OpenAI halting new Plus accounts this morning). I told him \u201cTHAT\u2019s how enthusiastic I am about them learning to use the tool\u201d, but it was just met with a \u201cwow, you really are excited about this, huh?\u201d</p>\n<p>I proactively asked HR if I could give a company wide presentation on the various ways practical, time saving ways that I\u2019ve been able to utilize ChatGPT with the expressly stated intention of demystifying it and getting coworkers excited to use the tool. I don\u2019t feel like it moved the needle much.</p>\n<p>Even my IT staff are somewhat luke warm on the topic.</p>\n<p>Like, what the hell is going on? Am I (and the rest of us in this sub) really that much of an outlier within the tech community that we\u2019re still considered the early adopters?</p>\n<p>I\u2019m constantly torn between feeling like I\u2019m already behind the curve for not integrating this into my daily life fast enough and feeling like I\u2019m taking crazy pills because people are treating this like some annoying homework that they\u2019ll be forced to figure out against their will someday in the future.</p>\n<p>Now that OpenAI has stopped accepting new Plus accounts, I\u2019ll admit I\u2019m experiencing a bit of schadenfreude. I tried to help them, but they didn\u2019t want to be helped and now they lost their chance. If this pause on new Plus accounts goes on for more than a couple of weeks, it\u2019s going to really widen the gap between those who are fluent with all of the Plus features, and everyone else. </p>\n<p>If we were already the early adopters, we\u2019re about to widen our lead.</p>",
-            "date_published": "2023-11-16T05:02:45+00:00",
-            "authors": [
-                {
-                    "name": "MattMose",
-                    "url": "https://www.reddit.com/user/MattMose"
                 }
             ]
         }
