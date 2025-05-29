@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1ky8g6t",
+            "url": "/r/aipromptprogramming/comments/1ky8g6t/automate_your_job_search_with_ai_what_we_built/",
+            "external_url": "https://www.reddit.com/gallery/1ky8g6t",
+            "title": "Automate Your Job Search with AI; What We Built and Learned",
+            "content_html": "<p>It started as a tool to help me find jobs and cut down on the countless hours each week I spent filling out applications. Pretty quickly friends and coworkers were asking if they could use it as well, so I made it available to more people. </p>\n<p>To build a frontend we used Replit and their agent. At first their agent was Claude 3.5 Sonnet before they moved to 3.7, which was way more ambitious when making code changes.</p>\n<p>How It Works:\n1) Manual Mode: View your personal job matches with their score and apply yourself\n2) Semi-Auto Mode: You pick the jobs, we fill and submit the forms\n3) Full Auto Mode: We submit to every role with a \u226550% match</p>\n<p>Key Learnings \ud83d\udca1\n- 1/3 of users prefer selecting specific jobs over full automation\n- People want more listings, even if we can\u2019t auto-apply so our all relevant jobs are shown to users\n- We added an \u201cinterview likelihood\u201d score to help you focus on the roles you\u2019re most likely to land\n- Tons of people need jobs outside the US as well. This one may sound obvious but we now added support for 50 countries</p>\n<p>Our Mission is to Level the playing field by targeting roles that match your skills and experience, no spray-and-pray.</p>\n<p>Feel free to dive in right away, SimpleApply is live for everyone. Try the free tier and see what job matches you get along with some auto applies or upgrade for unlimited auto applies (with a money-back guarantee). Let us know what you think and any ways to improve!</p>",
+            "date_published": "2025-05-29T11:31:43+00:00",
+            "authors": [
+                {
+                    "name": "Accomplished-Leg3657",
+                    "url": "https://www.reddit.com/user/Accomplished-Leg3657"
+                }
+            ]
+        },
+        {
             "id": "1kph45l",
             "url": "/r/aipromptprogramming/comments/1kph45l/has_anyone_else_started_using_ai_instead_of/",
             "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1kph45l/has_anyone_else_started_using_ai_instead_of/",
@@ -1386,20 +1400,6 @@
             "title": "Run the strongest open-source LLM model: Llama3 70B with just a single 4GB GPU!",
             "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1ccq0sl/run_the_strongest_opensource_llm_model_llama3_70b/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1ccq0sl/run_the_strongest_opensource_llm_model_llama3_70b/'>Reddit</a></caption><div><br></div>",
             "date_published": "2024-04-25T11:54:42+00:00",
-            "authors": [
-                {
-                    "name": "Educational_Ice151",
-                    "url": "https://www.reddit.com/user/Educational_Ice151"
-                }
-            ]
-        },
-        {
-            "id": "1c8c40y",
-            "url": "/r/aipromptprogramming/comments/1c8c40y/to_not_be_bias/",
-            "external_url": "https://i.redd.it/9qan9lu90jvc1.jpeg",
-            "title": "To not be bias.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1c8c40y/to_not_be_bias/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1c8c40y/to_not_be_bias/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/9qan9lu90jvc1.jpeg\" />",
-            "date_published": "2024-04-20T00:07:23+00:00",
             "authors": [
                 {
                     "name": "Educational_Ice151",
