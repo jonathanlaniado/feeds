@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1kyao7w",
+            "url": "/r/selfhosted/comments/1kyao7w/would_anyone_be_interested_in_an_open_source/",
+            "external_url": "https://i.redd.it/w80hm0df2q3f1.jpeg",
+            "title": "Would anyone be interested in an open source Trading View alternative?",
+            "content_html": "<p>I\u2019ve been working on a charting tool for the last year, heavily debating if I should make it open source and try to foster a community around it. It\u2019s not really a developer aimed project and majority of users would be non technical so I don\u2019t know if I\u2019ll really get the open source benefit I expect.</p>\n<p>Would love your thoughts if you think it\u2019s a good idea. </p><div><br></div><img src=\"https://i.redd.it/w80hm0df2q3f1.jpeg\" />",
+            "date_published": "2025-05-29T13:22:41+00:00",
+            "authors": [
+                {
+                    "name": "ChartSpire_123",
+                    "url": "https://www.reddit.com/user/ChartSpire_123"
+                }
+            ]
+        },
+        {
             "id": "1kva3pw",
             "url": "/r/selfhosted/comments/1kva3pw/avoid_minio_developers_introduce_trojan_horse/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1kva3pw/avoid_minio_developers_introduce_trojan_horse/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "dipplersdelight",
                     "url": "https://www.reddit.com/user/dipplersdelight"
-                }
-            ]
-        },
-        {
-            "id": "1ewy6ke",
-            "url": "/r/selfhosted/comments/1ewy6ke/i_am_loving_uptime_kuma/",
-            "external_url": "https://i.redd.it/1tppzlzb5ujd1.png",
-            "title": "I am loving Uptime Kuma!",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1ewy6ke/i_am_loving_uptime_kuma/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1ewy6ke/i_am_loving_uptime_kuma/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/1tppzlzb5ujd1.png\" />",
-            "date_published": "2024-08-20T15:14:43+00:00",
-            "authors": [
-                {
-                    "name": "PersianMG",
-                    "url": "https://www.reddit.com/user/PersianMG"
                 }
             ]
         }
