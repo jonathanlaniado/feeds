@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1kz24nl",
+            "url": "/r/ArtificialInteligence/comments/1kz24nl/ai_isnt_taking_our_jobsits_exposing_how_many_jobs/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1kz24nl/ai_isnt_taking_our_jobsits_exposing_how_many_jobs/",
+            "title": "\"AI isn't 'taking our jobs'\u2014it's exposing how many jobs were just middlemen in the first place.\"",
+            "content_html": "<p>As everyone is panicking about AI taking jobs, nobody wants to acknowledge the number of jobs that just existed to process paperwork, forward emails, or sit in-between two actual decision-makers. Perhaps it's not AI we are afraid of, maybe it's 'the truth'.</p>",
+            "date_published": "2025-05-30T11:44:54+00:00",
+            "authors": [
+                {
+                    "name": "HussainBiedouh",
+                    "url": "https://www.reddit.com/user/HussainBiedouh"
+                }
+            ]
+        },
+        {
             "id": "1kye8lt",
             "url": "/r/ArtificialInteligence/comments/1kye8lt/my_industry_is_going_to_be_almost_completely/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1kye8lt/my_industry_is_going_to_be_almost_completely/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "QuantumQuicksilver",
                     "url": "https://www.reddit.com/user/QuantumQuicksilver"
-                }
-            ]
-        },
-        {
-            "id": "1g0fgh4",
-            "url": "/r/ArtificialInteligence/comments/1g0fgh4/create_your_ai_assisted_blog_for_free_pay_for/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1g0fgh4/create_your_ai_assisted_blog_for_free_pay_for/",
-            "title": "Create your AI assisted blog for free (pay for openai and server only)",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/1g0fgh4/create_your_ai_assisted_blog_for_free_pay_for/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/1g0fgh4/create_your_ai_assisted_blog_for_free_pay_for/'>Reddit</a></caption><div><br></div><p>I am maintainer of opens-source AdminForth framework for creating admin panels. Recently we added couple of OpenAI plugins which allow to complete text in fields and generate images. So as a showcase we created a blog example so you can host your own blog with AI assistance. </p>\n<p>Here is gif demo of how it works <a href=\"https://adminforth.dev/assets/images/nuxtBlog-d00baa7e1b41d87869b09d475045fa7b.gif\">https://adminforth.dev/assets/images/nuxtBlog-d00baa7e1b41d87869b09d475045fa7b.gif</a></p>\n<p>You can define any OpenAI model for completion and generation and tune it's parameters</p>\n<p>Here is a blog post with detailed steps how to spawn such blog <a href=\"https://adminforth.dev/blog/ai-blog/\">https://adminforth.dev/blog/ai-blog/</a> </p>\n<p><strong>Pricing:</strong><br />\nYou need AWS account for EC2 server (example uses micro which is $4.3 monthly), and S3 files storage (couple of cents per month). Also you will need to create OpneAI token.</p>",
-            "date_published": "2024-10-10T10:12:46+00:00",
-            "authors": [
-                {
-                    "name": "vanbrosh",
-                    "url": "https://www.reddit.com/user/vanbrosh"
                 }
             ]
         }
