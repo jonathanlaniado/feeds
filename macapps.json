@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1kztuya",
+            "url": "/r/macapps/comments/1kztuya/airpods_as_a_posture_coach_on_mac/",
+            "external_url": "https://v.redd.it/gr1t11axf34f1",
+            "title": "AirPods as a Posture Coach on Mac",
+            "content_html": "<p>Hi all,</p>\n<p>I\u2019m building a macOS app that uses your AirPods\u2019 sensors to detect bad posture in real time.</p>\n<p>How it works:</p>\n<ul>\n<li><strong>Real-time tilt tracking</strong> \u2013 Your AirPods already have the necessary sensors</li>\n<li><strong>Customizable alerts</strong> \u2013 Adjust the sensitivity so it only nudges you when needed</li>\n</ul>\n<p>Would you be interested in using it? It\u2019ll be free and 100% open source.\ud83d\ude4f</p>",
+            "date_published": "2025-05-31T10:24:40+00:00",
+            "authors": [
+                {
+                    "name": "gh0stsintheshell",
+                    "url": "https://www.reddit.com/user/gh0stsintheshell"
+                }
+            ]
+        },
+        {
             "id": "1kx0bvo",
             "url": "/r/macapps/comments/1kx0bvo/arc_browser_development_ends/",
             "external_url": "https://www.engadget.com/ai/the-browser-company-stops-active-development-of-arc-in-favor-of-new-ai-focused-product-153045276.html?src=rss",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "SmallAppProject",
                     "url": "https://www.reddit.com/user/SmallAppProject"
-                }
-            ]
-        },
-        {
-            "id": "1egjln4",
-            "url": "/r/macapps/comments/1egjln4/it_took_me_three_years_to_make_this_encrypted/",
-            "external_url": "https://www.reddit.com/gallery/1egjln4",
-            "title": "It took me three years to make this encrypted\u00a0to-do list, habit and mood tracker, journaling, life-tracking and notes app. And now, Lunatask comes with Relationship Tracking too! \ud83c\udf1f",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1egjln4/it_took_me_three_years_to_make_this_encrypted/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1egjln4/it_took_me_three_years_to_make_this_encrypted/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-07-31T10:18:38+00:00",
-            "authors": [
-                {
-                    "name": "mikekreeki2",
-                    "url": "https://www.reddit.com/user/mikekreeki2"
                 }
             ]
         }
