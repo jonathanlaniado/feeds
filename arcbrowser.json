@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1l055dq",
+            "url": "/r/ArcBrowser/comments/1l055dq/this_sub_is_infected_with_rzen_browser_users/",
+            "external_url": "https://i.redd.it/jnve7rok364f1.jpeg",
+            "title": "This sub is infected with r/zen_browser users",
+            "content_html": "<p>This sub has become a train wreck. Arc is a finished browser, Zen is getting closer. End of story. There is no reason to switch to Zen right now (especially for macOS users).</p>\n<p>I guess the internet has always proven it\u2019s a lot easier to hate on something than it is to praise. </p>\n<p>No reason to be on this sub anymore, really.</p><div><br></div><img src=\"https://i.redd.it/jnve7rok364f1.jpeg\" />",
+            "date_published": "2025-05-31T19:17:36+00:00",
+            "authors": [
+                {
+                    "name": "martipops",
+                    "url": "https://www.reddit.com/user/martipops"
+                }
+            ]
+        },
+        {
             "id": "1l01hgt",
             "url": "/r/ArcBrowser/comments/1l01hgt/an_ai_researchers_take_on_arc_and_the_dia_pivot/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1l01hgt/an_ai_researchers_take_on_arc_and_the_dia_pivot/",
@@ -1386,20 +1400,6 @@
             "title": "Arc on Windows roadmap coming soon\u2122\ufe0f",
             "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/19a1jzq/arc_on_windows_roadmap_coming_soon/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/19a1jzq/arc_on_windows_roadmap_coming_soon/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/00hrse42p9dc1.png\" />",
             "date_published": "2024-01-18T21:34:36+00:00",
-            "authors": [
-                {
-                    "name": "JaceThings",
-                    "url": "https://www.reddit.com/user/JaceThings"
-                }
-            ]
-        },
-        {
-            "id": "199vpf1",
-            "url": "/r/ArcBrowser/comments/199vpf1/arc_for_windows_update_050/",
-            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/199vpf1/arc_for_windows_update_050/",
-            "title": "Arc for Windows Update - 0.5.0",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/199vpf1/arc_for_windows_update_050/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/199vpf1/arc_for_windows_update_050/'>Reddit</a></caption><div><br></div><p>\ud83d\udcc6 January 18, 2024</p>\n<blockquote>\n<ul>\n<li>Profiles are now available! Hover over your Space name in your Sidebar &gt; click Edit &gt; Profile to assign and create Profiles for your Spaces</li>\n<li>You can enter full screen with Alt-Shift-F</li>\n<li>We added Ctrl-Shift-+ shortcut to open a new Split View</li>\n<li>When an Arc keyboard shortcut conflicts with a website's (e.g. Control-S) we'll give you the chance to run the Arc keyboard shortcut instead of the website's</li>\n<li>Space switching is now faster</li>\n<li>The current tab in a Pinned Folder will stay in view in your Sidebar even if the Folder is collapsed</li>\n<li>We've made improvements to Site Control Center</li>\n<li>Website right click menus now use native menus</li>\n<li>We fixed a bug stopping print dialogs from showing</li>\n<li>We fixed a bug preventing extension processes from exiting when their associated popups are closed</li>\n<li>We fixed a bug where Favorite Tab order would not stick after closing and reopening Arc</li>\n<li>We fixed a bug where sometimes the full screen button would not work on a video</li>\n<li>We fixed an issue with external protocol dialog preventing you from authenticating an external app in Arc for Windows</li>\n</ul>\n</blockquote>",
-            "date_published": "2024-01-18T17:36:47+00:00",
             "authors": [
                 {
                     "name": "JaceThings",
