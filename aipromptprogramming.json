@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1kzntx3",
+            "url": "/r/aipromptprogramming/comments/1kzntx3/im_building_an_aideveloped_app_with_zero_coding/",
+            "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1kzntx3/im_building_an_aideveloped_app_with_zero_coding/",
+            "title": "I\u2019m building an AI-developed app with zero coding experience. Here are 5 critical lessons I learned the hard way.",
+            "content_html": "<p>A few months ago, I had an idea: what if habit tracking felt more like a game?<br />\nSo, I decided to build\u00a0<strong>The Habit Hero</strong>\u00a0\u2014 a gamified habit tracker that uses friendly competition to help people stay on track.</p>\n<p>Here\u2019s the twist: I had\u00a0<strong>zero coding experience</strong>\u00a0when I started. I\u2019ve been learning and building everything using AI (mostly ChatGPT + Tempo + component libraries).</p>\n<p>These are some big tips I\u2019ve learned along the way:</p>\n<p><strong>1. Deploy early and often.</strong><br />\nIf you wait until \"it's ready,\" you'll find a bunch of unexpected errors stacked up.<br />\nThe longer you wait, the harder it is to fix them all at once.<br />\nNow I deploy constantly, even when I\u2019m just testing small pieces.</p>\n<p><strong>2. Tell your AI to only make changes it's 95%+ confident in.</strong><br />\nWithout this, AI will take wild guesses that might work \u2014 or might silently break other parts of your code.<br />\nA simple line like\u00a0<em>\u201conly make changes you're 95%+ confident in\u201d</em>\u00a0saves hours.</p>\n<p><strong>3. Always use component libraries when possible.</strong><br />\nThey make the UI look better, reduce bugs, and simplify your code.<br />\nLetting someone else handle the hard design/dev stuff is a cheat code for beginners.</p>\n<p><strong>4. Ask AI to fix the</strong>\u00a0<strong><em>root cause</em></strong>\u00a0<strong>of errors, not symptoms.</strong><br />\nAI sometimes patches errors without solving what actually caused them.<br />\nI literally prompt it to \u201cfind and fix all possible root causes of this error\u201d \u2014 and it almost always improves the result.</p>\n<p><strong>5. Pick one tech stack and stick with it.</strong><br />\nI bounced between tools at the start and couldn\u2019t make real progress.<br />\nEventually, I committed to one stack/tool and finally started making headway.<br />\nDon\u2019t let shiny tools distract you from learning deeply.</p>\n<p>If you're a non-dev building something with AI, you're not alone \u2014 and it's totally possible.<br />\nThis is my first app of hopefully many, it's not quite done, and I still have tons of learning to do. Happy to answer questions, swap stories or listen to feedback.</p>",
+            "date_published": "2025-05-31T03:52:46+00:00",
+            "authors": [
+                {
+                    "name": "JourneyTo1Percent",
+                    "url": "https://www.reddit.com/user/JourneyTo1Percent"
+                }
+            ]
+        },
+        {
             "id": "1kzdn4o",
             "url": "/r/aipromptprogramming/comments/1kzdn4o/i_scraped_1m_jobs_directly_from_corporate_websites/",
             "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1kzdn4o/i_scraped_1m_jobs_directly_from_corporate_websites/",
@@ -1386,20 +1400,6 @@
             "title": "Stack Overflow bans users en masse for rebelling against OpenAI partnership \u2014 users banned for deleting answers to prevent them being used to train ChatGPT",
             "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1cni2eq/stack_overflow_bans_users_en_masse_for_rebelling/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1cni2eq/stack_overflow_bans_users_en_masse_for_rebelling/'>Reddit</a></caption><div><br></div>",
             "date_published": "2024-05-08T22:57:24+00:00",
-            "authors": [
-                {
-                    "name": "Educational_Ice151",
-                    "url": "https://www.reddit.com/user/Educational_Ice151"
-                }
-            ]
-        },
-        {
-            "id": "1cjz395",
-            "url": "/r/aipromptprogramming/comments/1cjz395/this_guy_made_a_plant_pot_who_tells_him_what_his/",
-            "external_url": "https://v.redd.it/qpzrjwoy5dyc1",
-            "title": "This guy made a plant pot who tells him what his plant needs, using AI",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1cjz395/this_guy_made_a_plant_pot_who_tells_him_what_his/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1cjz395/this_guy_made_a_plant_pot_who_tells_him_what_his/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-05-04T12:23:12+00:00",
             "authors": [
                 {
                     "name": "Educational_Ice151",
