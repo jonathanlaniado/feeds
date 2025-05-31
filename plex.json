@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1kzqlr0",
+            "url": "/r/PleX/comments/1kzqlr0/consent_to_sell_my_personal_data/",
+            "external_url": "https://i.redd.it/ww1itf2oc24f1.jpeg",
+            "title": "Consent to sell my personal data?",
+            "content_html": "<p>This message just popped up on me.\nDid I miss something? I paid for Lifetime Pass, so why on earth would I want to agree on Plex selling my personal data?</p><div><br></div><img src=\"https://i.redd.it/ww1itf2oc24f1.jpeg\" />",
+            "date_published": "2025-05-31T06:41:29+00:00",
+            "authors": [
+                {
+                    "name": "muchacho1308",
+                    "url": "https://www.reddit.com/user/muchacho1308"
+                }
+            ]
+        },
+        {
             "id": "1kw59gm",
             "url": "/r/PleX/comments/1kw59gm/i_installed_jellyfin_alongside_plex/",
             "external_url": "https://www.reddit.com/r/PleX/comments/1kw59gm/i_installed_jellyfin_alongside_plex/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "fkick",
                     "url": "https://www.reddit.com/user/fkick"
-                }
-            ]
-        },
-        {
-            "id": "1ff41zq",
-            "url": "/r/PleX/comments/1ff41zq/introducing_plex_photos_beta/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/1ff41zq/introducing_plex_photos_beta/",
-            "title": "Introducing Plex Photos Beta",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1ff41zq/introducing_plex_photos_beta/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1ff41zq/introducing_plex_photos_beta/'>Reddit</a></caption><div><br></div><p>From the <a href=\"https://www.plex.tv/blog/the-future-of-plex-focused-streamlined-and-ready-for-feedback/\">Plex Blog</a>:</p>\n<p>\"<strong>Introducing Plex Photos Beta</strong>: We are thrilled to announce the release of the Plex Photos Beta, available today for\u00a0<a href=\"https://apps.apple.com/app/plex-photos/id6504519803\"><strong>iOS</strong></a>\u00a0and\u00a0<a href=\"https://play.google.com/store/apps/details?id=tv.plex.photos\"><strong>Android mobile</strong></a>. This new app is designed to provide you with a focused experience to engage with your photo libraries stored on Plex Media Servers. Whether you\u2019re reminiscing over family photos or sharing backups of your professional photography images, Plex Photos offers a streamlined experience that is easy to navigate and enjoyable to use. We encourage you to\u00a0<a href=\"https://apps.apple.com/app/plex-photos/id6504519803\"><strong>download the beta</strong></a>, explore its capabilities, and share your feedback with us\u00a0<a href=\"https://forums.plex.tv/t/photos-beta-feedback/885116\"><strong>in the forums</strong></a>. Your input is invaluable as we work to improve the app before its public release.\"</p>",
-            "date_published": "2024-09-12T14:33:55+00:00",
-            "authors": [
-                {
-                    "name": "WeirdoGame",
-                    "url": "https://www.reddit.com/user/WeirdoGame"
                 }
             ]
         }
