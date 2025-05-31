@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1kzysyy",
+            "url": "/r/selfhosted/comments/1kzysyy/a_promising_fork_of_sunshine_called_duo_appears/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1kzysyy/a_promising_fork_of_sunshine_called_duo_appears/",
+            "title": "A promising fork of Sunshine (called DUO) appears to be violating GPL \u2014 hoping the dev will do the right thing",
+            "content_html": "<p>Hey everyone,</p>\n<p>I wanted to bring attention to a project called DUO \u2014 it\u2019s a fork of Sunshine that adds multiseat gaming features. Honestly, the concept is super cool, and I was really excited to use it and potentially contribute.</p>\n<p>But after looking into it, I realized the developer is putting key features behind a paywall (via Patreon) and has only released partial source code, saying \u201cthe open source parts\u201d are available \u2014 while keeping the rest closed.</p>\n<p>Since Sunshine is licensed under the GPLv3, this is very likely a license violation. The GPL requires that if you modify or build on a GPL-licensed project and distribute it (even behind a paywall), you must also release all of the modified code under the same GPL license.</p>\n<p>I\u2019ve opened an issue on the DUO GitHub repo explaining this in detail and citing sources from the Free Software Foundation and the license itself:\n\ud83d\udc49 <a href=\"https://github.com/DuoStream/Duo/issues/294\">Here\u2019s the GitHub issue I filed</a></p>\n<p>I\u2019m not trying to attack the dev here \u2014 I know maintaining projects is hard work, and DUO clearly took effort. But I also don\u2019t think it\u2019s right to build on open source work and then close off large parts of the result. That\u2019s not how open source works, and it goes against the license that allowed this kind of innovation in the first place.</p>\n<p>If anyone else is concerned or can offer insight (especially if you\u2019ve dealt with GPL enforcement before), feel free to chime in on the issue or raise visibility. Hopefully with enough attention the developer will bring the project into compliance.</p>\n<p>Thanks!</p>",
+            "date_published": "2025-05-31T14:46:41+00:00",
+            "authors": [
+                {
+                    "name": "human_garbage_UwU",
+                    "url": "https://www.reddit.com/user/human_garbage_UwU"
+                }
+            ]
+        },
+        {
             "id": "1kz44m9",
             "url": "/r/selfhosted/comments/1kz44m9/thank_you_rselfhosted_couldnt_have_built_this/",
             "external_url": "https://i.redd.it/qsqqlgkj7x3f1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "avdept",
                     "url": "https://www.reddit.com/user/avdept"
-                }
-            ]
-        },
-        {
-            "id": "1f1s4vz",
-            "url": "/r/selfhosted/comments/1f1s4vz/my_isp_is_finally_allowing_me_to_get_static_ips/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1f1s4vz/my_isp_is_finally_allowing_me_to_get_static_ips/",
-            "title": "My ISP is finally allowing me to get static IP's and opened ports on my residential fiber connection....wohoo!!!",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1f1s4vz/my_isp_is_finally_allowing_me_to_get_static_ips/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1f1s4vz/my_isp_is_finally_allowing_me_to_get_static_ips/'>Reddit</a></caption><div><br></div><p>It's taken 12 years but they're finally allowing me to get 3 static IPV4 addresses for $30/mo and have all incoming ports opened on my residential 1000/250 fiber connection.</p>\n<p>I live in a town of 5K people so our only ISP options are 4G or the local telco.  We just got fiber from the telco in 2019 and before that it was DSL.</p>\n<p>Now I can play with things like CARP in OPNsense or just have a completely separate lab network with it's own public IP.</p>\n<p>I'm beyond exited!!!!</p>",
-            "date_published": "2024-08-26T16:14:32+00:00",
-            "authors": [
-                {
-                    "name": "Firestarter321",
-                    "url": "https://www.reddit.com/user/Firestarter321"
                 }
             ]
         }
