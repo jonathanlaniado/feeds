@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1l1ki91",
+            "url": "/r/ArtificialInteligence/comments/1l1ki91/ai_slop_is_human_slop/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1l1ki91/ai_slop_is_human_slop/",
+            "title": "AI Slop Is Human Slop",
+            "content_html": "<p>Behind every poorly written AI post is a human being that directed the AI to create it, (maybe) read the results, and decided to post it.</p>\n<p>LLMs are more than capable of good writing, but it takes effort. Low effort is low effort.</p>\n<p>EDIT: To clarify, I'm mostly referring to the phenomenon on Reddit where people often comment on a post by referring to it as \"AI slop.\"</p>",
+            "date_published": "2025-06-02T15:09:29+00:00",
+            "authors": [
+                {
+                    "name": "Gothmagog",
+                    "url": "https://www.reddit.com/user/Gothmagog"
+                }
+            ]
+        },
+        {
             "id": "1l0mdq5",
             "url": "/r/ArtificialInteligence/comments/1l0mdq5/ai_is_killing_my_industry_and_im_out_of_a_job/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1l0mdq5/ai_is_killing_my_industry_and_im_out_of_a_job/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Practical-Rate9734",
                     "url": "https://www.reddit.com/user/Practical-Rate9734"
-                }
-            ]
-        },
-        {
-            "id": "1h0bu0c",
-            "url": "/r/ArtificialInteligence/comments/1h0bu0c/understand_how_llms_work_a_quick_and_intuitive/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1h0bu0c/understand_how_llms_work_a_quick_and_intuitive/",
-            "title": "Understand How LLMs Work: A Quick and Intuitive Guide\n",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/1h0bu0c/understand_how_llms_work_a_quick_and_intuitive/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/1h0bu0c/understand_how_llms_work_a_quick_and_intuitive/'>Reddit</a></caption><div><br></div><p><strong>TL;DR:</strong></p>\n<p>I wrote a short and intuitive blog post explaining how actually Large Language Models (LLMs) work, from the revolutionary transformer architecture and self-attention mechanisms to how they process language and understand context.</p>\n<p>Learn why LLMs sometimes hallucinate, how they handle massive text data, and what makes their outputs so dynamic. If you\u2019re ready to dive deep into the core of modern AI, this post is for you :) </p>\n<p>Link to the full explanation:  <a href=\"https://open.substack.com/pub/diamantai/p/inside-large-language-models-how?r=336pe4&amp;utm_campaign=post&amp;utm_medium=web\">https://open.substack.com/pub/diamantai/p/inside-large-language-models-how?r=336pe4&amp;utm_campaign=post&amp;utm_medium=web</a></p>\n<p>(I got some good feedback about it so hope you'll benefit and like it)</p>",
-            "date_published": "2024-11-26T13:26:58+00:00",
-            "authors": [
-                {
-                    "name": "Diamant-AI",
-                    "url": "https://www.reddit.com/user/Diamant-AI"
                 }
             ]
         }
