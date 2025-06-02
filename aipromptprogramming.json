@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1l1ufwv",
+            "url": "/r/aipromptprogramming/comments/1l1ufwv/after_6_months_of_daily_ai_pair_programming_heres/",
+            "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1l1ufwv/after_6_months_of_daily_ai_pair_programming_heres/",
+            "title": "After 6 months of daily AI pair programming, here's what actually works (and what's just hype)",
+            "content_html": "<p>I've been doing AI pair programming daily for 6 months across multiple codebases. Cut through the noise here's what actually moves the needle:</p>\n<p><strong>The Game Changers:</strong>\n- <strong>Make AI Write a plan first, let AI critique it</strong>: eliminates 80% of \"AI got confused\" moments\n- <strong>Edit-test loops:</strong>: Make AI write failing test  \u2192 Review \u2192 AI fixes \u2192 repeat (TDD but AI does implementation)\n- <strong>File references (@path/file.rs:42-88) not code dumps</strong>: context bloat kills accuracy</p>\n<p><strong>What Everyone Gets Wrong:</strong>\n- Dumping entire codebases into prompts (destroys AI attention)\n- Expecting mind-reading instead of explicit requirements\n- Trusting AI with architecture decisions (you architect, AI implements)</p>\n<p><strong>Controversial take:</strong> AI pair programming beats human pair programming for most implementation tasks. No ego, infinite patience, perfect memory. But you still need humans for the hard stuff.</p>\n<p>The engineers seeing massive productivity gains aren't using magic prompts, they're using disciplined workflows.</p>\n<p>Full writeup with 12 concrete practices: <a href=\"https://forgecode.dev/blog/ai-agent-best-practices/\">here</a></p>\n<p>What's your experience? Are you seeing the productivity gains or still fighting with unnecessary changes in 100's of files?</p>",
+            "date_published": "2025-06-02T21:35:16+00:00",
+            "authors": [
+                {
+                    "name": "West-Chocolate2977",
+                    "url": "https://www.reddit.com/user/West-Chocolate2977"
+                }
+            ]
+        },
+        {
             "id": "1l1f7nd",
             "url": "/r/aipromptprogramming/comments/1l1f7nd/in_less_than_a_hour_using_the_new_perplexity_labs/",
             "external_url": "https://i.redd.it/mwnsy0zyxh4f1.jpeg",
@@ -1386,20 +1400,6 @@
             "title": "AI learns a trick in a video game to get infinite points",
             "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1d1pbjx/ai_learns_a_trick_in_a_video_game_to_get_infinite/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1d1pbjx/ai_learns_a_trick_in_a_video_game_to_get_infinite/'>Reddit</a></caption><div><br></div>",
             "date_published": "2024-05-27T11:25:46+00:00",
-            "authors": [
-                {
-                    "name": "Educational_Ice151",
-                    "url": "https://www.reddit.com/user/Educational_Ice151"
-                }
-            ]
-        },
-        {
-            "id": "1cz965j",
-            "url": "/r/aipromptprogramming/comments/1cz965j/ai_tools_now_allow_to_retexture_specific_areas_of/",
-            "external_url": "https://v.redd.it/h0tqos2a862d1",
-            "title": "AI tools now allow to retexture specific areas of 3D models",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1cz965j/ai_tools_now_allow_to_retexture_specific_areas_of/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1cz965j/ai_tools_now_allow_to_retexture_specific_areas_of/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-05-24T01:25:11+00:00",
             "authors": [
                 {
                     "name": "Educational_Ice151",
