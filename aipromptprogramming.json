@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1l1f7nd",
+            "url": "/r/aipromptprogramming/comments/1l1f7nd/in_less_than_a_hour_using_the_new_perplexity_labs/",
+            "external_url": "https://i.redd.it/mwnsy0zyxh4f1.jpeg",
+            "title": "In less than a hour, using the new Perplexity Labs, I developed a system that secretly tracks human movement through walls using standard WiFi routers.",
+            "content_html": "<p>No cameras. No LiDAR. Just my nighthawk mesh router, a research paper, and Perplexity Labs\u2019 runtime environment. I used it to build an entire DensePose-from-WiFi system that sees people, through walls, in real time.</p>\n<p>This dashboard isn\u2019t a concept. It\u2019s live. The system uses 3\u00d73 MIMO WiFi to capture phase/amplitude reflections, feeds it into a dual-branch encoder, captures CSI data, processes amplitude and phase through a neural network stack, and renders full human wireframes/video. </p>\n<p>It detects multiple people, tracks confidence per subject, and overlays pose data dynamically. I even added live video output streaming via RTMP, so you can broadcast the invisible. I can literally track anything anywhere invisbily with nothing more than a cheap $25 wifi router.</p>\n<p>Totally Bonkers? </p>\n<p>The wild part? I built this entire thing in under an hour, just for this LinkedIn post. Perplexity Labs handled deep research, code synthesis, and model wiring, all from a PDF.  </p>\n<p>I\u2019ll admit, getting my Nighthawk router to behave took about 20 minutes of local finagling. And no, this isn\u2019t the full repo drop. But honestly, pointing your favorite coding agent at the arXiv paper and my output should get you the rest of the way there.</p>\n<p>Perplexity Lab feature is more than a tool. It\u2019s a new way to prototype from pure thought to working system.</p>\n<p>See https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/128ed0182e73b2cbba51088d48a453a2/2e1df9f6-5c5a-4d3b-bbd8-51582d134357/index.html</p>\n<p>Perplexity Labs: https://www.perplexity.ai/search/create-full-implementation-of-g.TC1JIZQvWAifx85LpUcg?0=d&amp;1=d#1</p><div><br></div><img src=\"https://i.redd.it/mwnsy0zyxh4f1.jpeg\" />",
+            "date_published": "2025-06-02T11:07:34+00:00",
+            "authors": [
+                {
+                    "name": "Educational_Ice151",
+                    "url": "https://www.reddit.com/user/Educational_Ice151"
+                }
+            ]
+        },
+        {
             "id": "1kzu17u",
             "url": "/r/aipromptprogramming/comments/1kzu17u/ive_been_vibe_coding_with_ai_for_over_a_year_now/",
             "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1kzu17u/ive_been_vibe_coding_with_ai_for_over_a_year_now/",
@@ -1386,20 +1400,6 @@
             "title": "AI tools now allow to retexture specific areas of 3D models",
             "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1cz965j/ai_tools_now_allow_to_retexture_specific_areas_of/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1cz965j/ai_tools_now_allow_to_retexture_specific_areas_of/'>Reddit</a></caption><div><br></div>",
             "date_published": "2024-05-24T01:25:11+00:00",
-            "authors": [
-                {
-                    "name": "Educational_Ice151",
-                    "url": "https://www.reddit.com/user/Educational_Ice151"
-                }
-            ]
-        },
-        {
-            "id": "1cpl0k2",
-            "url": "/r/aipromptprogramming/comments/1cpl0k2/anthropic_ai_launches_a_prompt_engineering_tool/",
-            "external_url": "https://v.redd.it/xhpleasgtpzc1",
-            "title": "Anthropic AI Launches a Prompt Engineering Tool that Lets You Generate Production-Ready Prompts in the Anthropic Console",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1cpl0k2/anthropic_ai_launches_a_prompt_engineering_tool/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1cpl0k2/anthropic_ai_launches_a_prompt_engineering_tool/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-05-11T16:15:44+00:00",
             "authors": [
                 {
                     "name": "Educational_Ice151",
