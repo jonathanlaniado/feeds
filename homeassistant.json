@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1l1d5ko",
+            "url": "/r/homeassistant/comments/1l1d5ko/designed_a_couchfriendly_touch_screen_for_quick/",
+            "external_url": "https://i.redd.it/45vxbfsvah4f1.jpeg",
+            "title": "Designed a couch-friendly touch screen for quick control of nearby devices",
+            "content_html": "<p>Wanted easy access to air con, door lock and volume controls from either side of the couch. I found these cheap round touch screens from Ali Express and programmed them using ESPHome and LVGL to control Home Assistant.</p>\n<p>Super convenient to be able to control:\n    \u2022   Air con\n    \u2022   Both front door and apartment intercom unlock (if someone rings the doorbell I can let them in without moving \ud83d\ude05)\n    \u2022   Volume (faster than 1 notch at a time Apple TV remote)\n    \u2022   Lights (100%, 15%, 0%)</p>\n<p>Means you don\u2019t need to figure out where your phone is and can quickly control this stuff. I\u2019ve got a screen on either side of the couch.</p><div><br></div><img src=\"https://i.redd.it/45vxbfsvah4f1.jpeg\" />",
+            "date_published": "2025-06-02T08:58:10+00:00",
+            "authors": [
+                {
+                    "name": "Samywamy10",
+                    "url": "https://www.reddit.com/user/Samywamy10"
+                }
+            ]
+        },
+        {
             "id": "1kvtoqx",
             "url": "/r/homeassistant/comments/1kvtoqx/home_assistant_community_day_in_darmstadt_germany/",
             "external_url": "https://www.reddit.com/gallery/1kvtoqx",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "DougEubanks",
                     "url": "https://www.reddit.com/user/DougEubanks"
-                }
-            ]
-        },
-        {
-            "id": "17bp76w",
-            "url": "/r/homeassistant/comments/17bp76w/security_audits_of_home_assistant/",
-            "external_url": "https://www.home-assistant.io/blog/2023/10/19/security-audits-of-home-assistant/",
-            "title": "Security audits of Home Assistant",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/17bp76w/security_audits_of_home_assistant/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/17bp76w/security_audits_of_home_assistant/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-10-19T17:56:12+00:00",
-            "authors": [
-                {
-                    "name": "frenck_nl",
-                    "url": "https://www.reddit.com/user/frenck_nl"
                 }
             ]
         }
