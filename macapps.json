@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1l2hiat",
+            "url": "/r/macapps/comments/1l2hiat/collected_some_awesome_opensource_macos_apps_made/",
+            "external_url": "https://v.redd.it/2r5xw4fjvq4f1",
+            "title": "Collected some awesome open-source macOS apps made with Swift \u2013 productivity, utilities, and more!",
+            "content_html": "<p>Hey everyone \ud83d\udc4b</p>\n<p>I\u2019ve put together a curated list of open-source macOS apps developed with <strong>Swift</strong>. The collection spans productivity tools, utilities, and system enhancements \u2014 all open-source, free to explore, and well-crafted.</p>\n<p>\ud83d\udc49 <a href=\"https://github.com/jaywcjlove/awesome-swift-macos-apps\">https://github.com/jaywcjlove/awesome-swift-macos-apps</a></p>\n<p>\ud83d\udd27 <strong>For developers</strong>, this list is a goldmine of real-world Swift implementations. You\u2019ll find great examples of macOS-specific UI design, performance optimization, menu bar integration, and more \u2014 perfect for learning or improving your skills.</p>\n<p>\ud83e\uddd1\u200d\ud83d\udcbb <strong>Not a developer?</strong> No problem! Many of these apps are user-friendly and ready to use. They\u2019re great free tools that can enhance your macOS experience.</p>\n<p>Check it out and feel free to share your favorites or suggest more great open-source Swift apps!</p>",
+            "date_published": "2025-06-03T17:11:36+00:00",
+            "authors": [
+                {
+                    "name": "wcjiang",
+                    "url": "https://www.reddit.com/user/wcjiang"
+                }
+            ]
+        },
+        {
             "id": "1kztuya",
             "url": "/r/macapps/comments/1kztuya/airpods_as_a_posture_coach_on_mac/",
             "external_url": "https://v.redd.it/gr1t11axf34f1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "amerpie",
                     "url": "https://www.reddit.com/user/amerpie"
-                }
-            ]
-        },
-        {
-            "id": "1ei5pe8",
-            "url": "/r/macapps/comments/1ei5pe8/money_keeper_for_mac_only_what_you_need/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1ei5pe8/money_keeper_for_mac_only_what_you_need/",
-            "title": "Money Keeper for Mac. Only What You Need \ud83c\udfe6\u2728",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1ei5pe8/money_keeper_for_mac_only_what_you_need/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1ei5pe8/money_keeper_for_mac_only_what_you_need/'>Reddit</a></caption><div><br></div><p>Hello MacApps community! \ud83d\ude0a\u2728</p>\n<p>I would like to take a moment for a brief self-promotion. I am the developer of this app. \ud83d\ude4f</p>\n<hr />\n<p>Fixed Expenses. Easy to Grasp at a Glance.</p>\n<p>Categories. Custom-Made for You.</p>\n<p>No Ads. No Data Collection.</p>\n<p>Regular Updates Based on User Feedback.</p>\n<p>Seamless Sync Across iPhone, iPad, and Mac, Just Like a Native Apple App.</p>\n<p><a href=\"https://apps.apple.com/app/id6514279917\">https://apps.apple.com/app/id6514279917</a></p>\n<hr />\n<p>As apps continue to grow more complex, I began to ponder: Are only feature-packed, multifaceted apps truly useful to people? Could a simple app, providing only the essential features, also be valuable?</p>\n<p>From this reflection, the Small App Project was born. The idea behind the Small App Project is to deliver \"Small Apps\" that focus on providing just the necessary features, without the complexity.</p>\n<p>Money Keeper embodies this philosophy. It\u2019s designed to be straightforward and efficient, offering only the essential functionalities you need to manage your finances effectively.</p>\n<p>I believe that a simple app can be just as useful, if not more so, than a complex one. Money Keeper aims to prove that by focusing on what truly matters.</p>\n<p>I hope this small, yet powerful, app will be helpful to many. I wish you happiness \ud83c\udf38\u2728</p>\n<p>You can download Money Keeper here: <a href=\"https://apps.apple.com/app/id6514279917\">https://apps.apple.com/app/id6514279917</a></p>\n<p>https://preview.redd.it/4dnts6kqy7gd1.jpg?width=2560&amp;format=pjpg&amp;auto=webp&amp;s=6268307b5b5aa8ba70846edaa3d06bd724c97850</p>\n<p>https://preview.redd.it/mci0j6kqy7gd1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=b6edfdb42c6ac10e00d49e0b3838bd5616d2733b</p>\n<p>https://preview.redd.it/h15j47kqy7gd1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=82017e392f4ffde0177f605465f9aad09cc49cbc</p>\n<p>https://preview.redd.it/axvxt6kqy7gd1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=37d2343a2fe2d5e0d8d0839fd58924829c6f643c</p>",
-            "date_published": "2024-08-02T09:26:37+00:00",
-            "authors": [
-                {
-                    "name": "SmallAppProject",
-                    "url": "https://www.reddit.com/user/SmallAppProject"
                 }
             ]
         }
