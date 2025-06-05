@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1l467he",
+            "url": "/r/aipromptprogramming/comments/1l467he/i_built_the_first_ai_job_board_for_tech_roles_ama/",
+            "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1l467he/i_built_the_first_ai_job_board_for_tech_roles_ama/",
+            "title": "I built the first AI Job Board for tech roles. AMA",
+            "content_html": "<p>It's called\u00a0<a href=\"http://laboro.co/\">laboro.co</a>, it's free to try, and how it works is very simple.</p>\n<p>Upload you CV, select jobs in bulk, auto-apply all with AI.</p>\n<p>We currently host approx. 800k tech jobs and i'd love to know if you manage to find relevant ones.</p>\n<p>Happy to share insights about:</p>\n<ul>\n<li>The journey so far (we got 60k visitors in our first month since launch)</li>\n<li>How the AI finds and filters roles</li>\n<li>How the auto-apply works (without spamming)</li>\n<li>What data we used to train the matching engine</li>\n<li>The tech stack behind it</li>\n<li>Early results from users (we're seeing 3\u20135x more callbacks)</li>\n</ul>\n<p>Or really, anything else.</p>",
+            "date_published": "2025-06-05T18:08:38+00:00",
+            "authors": [
+                {
+                    "name": "Interview_scouter",
+                    "url": "https://www.reddit.com/user/Interview_scouter"
+                }
+            ]
+        },
+        {
             "id": "1l30q5a",
             "url": "/r/aipromptprogramming/comments/1l30q5a/tony_stark_was_a_vibe_coder_before_the_term_even/",
             "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1l30q5a/tony_stark_was_a_vibe_coder_before_the_term_even/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "btcbooster",
                     "url": "https://www.reddit.com/user/btcbooster"
-                }
-            ]
-        },
-        {
-            "id": "1d3t41c",
-            "url": "/r/aipromptprogramming/comments/1d3t41c/i_made_a_camera_that_uses_ai_to_turn_photos_to_art/",
-            "external_url": "https://v.redd.it/hrdojl5k2h3d1",
-            "title": "I made a camera that uses AI to turn photos to art",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1d3t41c/i_made_a_camera_that_uses_ai_to_turn_photos_to_art/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1d3t41c/i_made_a_camera_that_uses_ai_to_turn_photos_to_art/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-05-30T02:09:53+00:00",
-            "authors": [
-                {
-                    "name": "theleastevildr",
-                    "url": "https://www.reddit.com/user/theleastevildr"
                 }
             ]
         }
