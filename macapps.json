@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1l3o6ke",
+            "url": "/r/macapps/comments/1l3o6ke/just_launched_haplo_ai_local_private_llms/",
+            "external_url": "https://v.redd.it/6d02j21h105f1",
+            "title": "Just launched Haplo AI: Local & Private LLMs (Lifetime Pro Giveaway)",
+            "content_html": "<p>Hey\u00a0r/macapps ! \ud83d\udc4b</p>\n<p>I built a Mac app (also available for iOS devices) because I wanted a <em>private</em>,\u00a0<em>offline</em>\u00a0way to chat with AI models\u2014no cloud processing, no data tracking, no weird permissions.</p>\n<p>So I made\u00a0<a href=\"https://apps.apple.com/us/app/haplo-ai-local-private-llms/id6746702574\">Haplo AI</a>\u00a0\u2014 an app that lets you download open-source LLMs (like Mistral, Phi, Gemma, etc.) and run them\u00a0<em>entirely on your Mac</em>. Everything stays on-device. No internet required.</p>\n<p>\ud83e\udde0 Why it\u2019s useful:<br />\n\u2705 Chat with AI anywhere, even offline<br />\n\u2705 Choose your model and customize how it responds<br />\n\u2705 Private, fast, and zero data leaves your phone</p>\n<p>I just launched, and I\u2019m giving away\u00a0<strong>Lifetime Pro</strong>\u00a0licenses to anyone who wants to try it. Drop a comment, upvote, and PM me and I\u2019ll send you a code!</p>\n<p>Once I run out of codes, it\u2019s just a one-time $4.99. No subscriptions (because nobody likes subscriptions!).</p>\n<p>Would love any criticism, feedback, questions, or feature ideas!</p>",
+            "date_published": "2025-06-05T02:33:20+00:00",
+            "authors": [
+                {
+                    "name": "D1no_nugg3t",
+                    "url": "https://www.reddit.com/user/D1no_nugg3t"
+                }
+            ]
+        },
+        {
             "id": "1l2hiat",
             "url": "/r/macapps/comments/1l2hiat/collected_some_awesome_opensource_macos_apps_made/",
             "external_url": "https://v.redd.it/2r5xw4fjvq4f1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Aviorrok",
                     "url": "https://www.reddit.com/user/Aviorrok"
-                }
-            ]
-        },
-        {
-            "id": "1ejqaeb",
-            "url": "/r/macapps/comments/1ejqaeb/notchnook_not_ready_for_prime_time/",
-            "external_url": "https://i.redd.it/0us93c17wlgd1.jpeg",
-            "title": "NotchNook Not Ready for Prime Time",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1ejqaeb/notchnook_not_ready_for_prime_time/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1ejqaeb/notchnook_not_ready_for_prime_time/'>Reddit</a></caption><div><br></div><p>After reading about NotchNook on Reddit and seeing the 35% off offer from the $25 purchase price, I purchased it to test it out. I reenabled the notch on my MacBook, which I had turned off with Better Monitor. The installation was straightforward, requiring access to the camera, microphone and Apple Events.  </p>\n<p>NotchNook has two feature areas, the nook and the file tray. The nook is where the widgets are located. The currently supported widgets are media controls, shortcuts, calendar and mirror. There is a placeholder for notes, but it is not currently active. The media control widget offered to start Apple Music or YouTube. Once I opened Apple Music, the controls were no different than what is already available in Control Center with the exception of being able to use gestures to move between songs. You can add two shortcuts to the nook, but they do not support drag and drop nor do they act on files selected in the Finder rendering the usefulness limited.The calendar displays the current day and two days prior and after that. There is no way to choose a default calendar and when I added events to my system default calendar, they did not appear. The mirror widget displays an image from your built-in camera that is the literal size of a postage stamp with no way to enlarge it. I did not find it useful.  </p>\n<p>The second feature area is the file tray. It serves as a place to drag and keep files. Once you have a file there, there are no options to perform other actions, like compression or moving to cloud storage apps or any kind of image modification actions. It is strictly a holding area. There is a place holder that states additional file actions are coming, but as of now, they do not exist.  </p>\n<p>Because of the lack of depth on the features, I do not recommend purchasing this app right now. <a href=\"https://apps.apple.com/us/app/dropover-easier-drag-drop/id1355679052?mt=12a\">Dropover</a>, $5.99 app provides a huge variety of file actions. You can use Control Center for media control and add shortcuts to your dock or menu bar natively. If you still want to try Notch Nook, you can get it <a href=\"https://lo.cafe/notchnook\">on the developer's website.</a> Currently you can get a %35 discount if you tweet about the app.</p><div><br></div><img src=\"https://i.redd.it/0us93c17wlgd1.jpeg\" />",
-            "date_published": "2024-08-04T08:16:42+00:00",
-            "authors": [
-                {
-                    "name": "amerpie",
-                    "url": "https://www.reddit.com/user/amerpie"
                 }
             ]
         }
