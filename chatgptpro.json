@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
     "items": [
         {
+            "id": "1l4vbj7",
+            "url": "/r/ChatGPTPro/comments/1l4vbj7/it_lies_so_much_in_projects_that_is_driving_me_mad/",
+            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1l4vbj7/it_lies_so_much_in_projects_that_is_driving_me_mad/",
+            "title": "It lies so much in projects that is driving me mad.",
+            "content_html": "<p>ChatGPT makes stuff up when you ask for general information. That much i get it, i can live with that, i fact check this kind of stuff if i really want to know.</p>\n<p>But whats gets to me is when it straight up lies on the documents that it has access to in its project. It goes out of its way to make shit up that is not there, it completly LIES and pretends is quoting directly from the document. And when i call it out, it makes more stuff up. Amazing. Like, it just cant fucking check the documents that has the info that i know it has.</p>\n<p>Then i open a new chat, ask for it to quote it, and it quoters perfectly what is present on the document. </p>\n<p>This is driving me mad. How am i suppose to do anything when is unreliable with the info it has and not only should be able to grab, but can, arbitrarily.</p>\n<p>And to build up in the annoyance, it comes with its fake apologies. \"You're right again. And I have no excuse.\" And then lie that is gonna do better and completly fail.</p>\n<p>If i want someone to lie to me, apologize, and then keep lying, i have friends for that already.</p>",
+            "date_published": "2025-06-06T15:29:57+00:00",
+            "authors": [
+                {
+                    "name": "DM-Oz",
+                    "url": "https://www.reddit.com/user/DM-Oz"
+                }
+            ]
+        },
+        {
             "id": "1l2egxk",
             "url": "/r/ChatGPTPro/comments/1l2egxk/openai_just_spent_65_billion_on_a_screenless_ai/",
             "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1l2egxk/openai_just_spent_65_billion_on_a_screenless_ai/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "wheelyboi2000",
                     "url": "https://www.reddit.com/user/wheelyboi2000"
-                }
-            ]
-        },
-        {
-            "id": "17y6bga",
-            "url": "/r/ChatGPTPro/comments/17y6bga/i_made_a_huge_list_of_all_gpts_scraped_from_the/",
-            "external_url": "https://github.com/friuns2/Awesome-GPTs-Big-List/",
-            "title": "I made a HUGE list of all GPTs scraped from the internet.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ChatGPTPro/comments/17y6bga/i_made_a_huge_list_of_all_gpts_scraped_from_the/'>Apollo</a> | <a href='https://reddit.com/r/ChatGPTPro/comments/17y6bga/i_made_a_huge_list_of_all_gpts_scraped_from_the/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-11-18T13:19:14+00:00",
-            "authors": [
-                {
-                    "name": "friuns",
-                    "url": "https://www.reddit.com/user/friuns"
                 }
             ]
         }
