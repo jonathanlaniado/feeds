@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1l4yu80",
+            "url": "/r/OpenAI/comments/1l4yu80/the_ubi_debate_begins_trumps_ai_czar_says_its_a/",
+            "external_url": "https://i.redd.it/hu2hkt3phc5f1.png",
+            "title": "The UBI debate begins. Trump's AI czar says it's a fantasy: \"it's not going to happen.\"",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/hu2hkt3phc5f1.png\" />",
+            "date_published": "2025-06-06T17:51:58+00:00",
+            "authors": [
+                {
+                    "name": "MetaKnowing",
+                    "url": "https://www.reddit.com/user/MetaKnowing"
+                }
+            ]
+        },
+        {
             "id": "1l2g8es",
             "url": "/r/OpenAI/comments/1l2g8es/memory_is_now_available_to_free_users/",
             "external_url": "https://i.redd.it/jy18jpn0nq4f1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "kingai404",
                     "url": "https://www.reddit.com/user/kingai404"
-                }
-            ]
-        },
-        {
-            "id": "1hd2r2b",
-            "url": "/r/OpenAI/comments/1hd2r2b/gemini_20_is_what_4o_was_supposed_to_be/",
-            "external_url": "https://www.reddit.com/r/OpenAI/comments/1hd2r2b/gemini_20_is_what_4o_was_supposed_to_be/",
-            "title": "Gemini 2.0 is what 4o was supposed to be",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1hd2r2b/gemini_20_is_what_4o_was_supposed_to_be/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1hd2r2b/gemini_20_is_what_4o_was_supposed_to_be/'>Reddit</a></caption><div><br></div><p>In my experience and opinion, 4o really sucks compared to what it was marketed as. It was supposed to be native multimodal in and out, sota performance, etc.</p>\n<p>They're just starting to give us voice mode, not talking of image out or 3d models or any of the cool stuff they overhyped more than half a year ago.</p>\n<p>Gemini 2.0 does all that.</p>\n<p>Honestly, with deep research (I know its search, but from what I've seen, its really good), super long 2MM context, and now this, I'm strongly considering switching to google.</p>\n<p>Excited for full 2.0</p>\n<p>Thoughts?</p>\n<p>By the way, you can check this out:\u00a0<a href=\"https://youtu.be/7RqFLp0TqV0?si=d7pIrKG_PE84HOrp\">https://youtu.be/7RqFLp0TqV0?si=d7pIrKG_PE84HOrp</a></p>\n<p>EDIT: As they said, it's out for early testers, but everyone will have it come 2025. Unlike OAI, who haven't given anyone access to these features, nor have they specified when they would be released. </p>",
-            "date_published": "2024-12-13T03:00:01+00:00",
-            "authors": [
-                {
-                    "name": "dp3471",
-                    "url": "https://www.reddit.com/user/dp3471"
                 }
             ]
         }
