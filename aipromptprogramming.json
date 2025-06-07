@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1l5uhk5",
+            "url": "/r/aipromptprogramming/comments/1l5uhk5/googles_notebook_lm_might_be_the_most_underrated/",
+            "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1l5uhk5/googles_notebook_lm_might_be_the_most_underrated/",
+            "title": "Google's Notebook LM might be the most underrated prompt engineering tool out right now",
+            "content_html": "<p>Everyone\u2019s talking about ChatGPT and Claude, but if you haven\u2019t used Google\u2019s Notebook LM, you're seriously missing out \u2014 especially for structured, chainable prompt design.</p>\n<p>It\u2019s not just a chat UI. It\u2019s like a prompt IDE.</p>\n<p>You can:</p>\n<p>Upload screenshots or PDFs to use as reference material</p>\n<p>Search sources like a research engine, then prompt off them</p>\n<p>Chain roles (marketing strategist \u2192 designer \u2192 copywriter \u2192 dev)</p>\n<p>I used it to build a 7-step prompt chain that produced:</p>\n<p>Business analysis</p>\n<p>Content strategy</p>\n<p>Visual identity</p>\n<p>UX layout</p>\n<p>SEO copy</p>\n<p>A full handoff-ready website</p>\n<p>All in one structured pipeline</p>\n<p>Then I dropped it into Manus AI, and it built an actual multi-page, professional website \u2014 no placeholders, all usable.</p>\n<p>If you\u2019re into prompt engineering at a system level, Notebook LM is a serious tool \u2014 just not talked about enough (yet).</p>",
+            "date_published": "2025-06-07T20:33:44+00:00",
+            "authors": [
+                {
+                    "name": "Last-Army-3594",
+                    "url": "https://www.reddit.com/user/Last-Army-3594"
+                }
+            ]
+        },
+        {
             "id": "1l467he",
             "url": "/r/aipromptprogramming/comments/1l467he/i_built_the_first_ai_job_board_for_tech_roles_ama/",
             "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1l467he/i_built_the_first_ai_job_board_for_tech_roles_ama/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Educational_Ice151",
                     "url": "https://www.reddit.com/user/Educational_Ice151"
-                }
-            ]
-        },
-        {
-            "id": "1dewoyj",
-            "url": "/r/aipromptprogramming/comments/1dewoyj/amazon_is_giving_230_million_in_aws_credits_to/",
-            "external_url": "https://newslinker.co/amazon-invests-230-million-in-ai-startups-via-aws-credits/",
-            "title": "Amazon is giving $230 million in AWS credits to generative AI startups. The AWS Generative AI Accelerator program offers up to $1 million in credits per startup. AI-driven demand is boosting AWS's revenue",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1dewoyj/amazon_is_giving_230_million_in_aws_credits_to/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1dewoyj/amazon_is_giving_230_million_in_aws_credits_to/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-06-13T11:26:43+00:00",
-            "authors": [
-                {
-                    "name": "btcbooster",
-                    "url": "https://www.reddit.com/user/btcbooster"
                 }
             ]
         }
