@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1l5lzvc",
+            "url": "/r/homeassistant/comments/1l5lzvc/i_recycled_my_iphone_to_make_a_3d_printed_clock/",
+            "external_url": "https://i.redd.it/jxz0r1edli5f1.jpeg",
+            "title": "I recycled my iPhone to make a 3D printed clock that displays a simple dashboard",
+            "content_html": "<p>At that time it displays time, today\u2019s weather and door lock and alarm states. It also shows if plants need to be watered and if it\u2019s garbage and/or recycle day.</p>\n<p>Home modeled and printed stand, with a wireless charger inside. On a Zigbee plug to keep it charged between 25% and 75%.</p>\n<p>I am also waiting for a Zigbee presence sensor to monitor if the screen has to be on or off.</p><div><br></div><img src=\"https://i.redd.it/jxz0r1edli5f1.jpeg\" />",
+            "date_published": "2025-06-07T14:23:05+00:00",
+            "authors": [
+                {
+                    "name": "yozzzzzz",
+                    "url": "https://www.reddit.com/user/yozzzzzz"
+                }
+            ]
+        },
+        {
             "id": "1l1d5ko",
             "url": "/r/homeassistant/comments/1l1d5ko/designed_a_couchfriendly_touch_screen_for_quick/",
             "external_url": "https://i.redd.it/45vxbfsvah4f1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "serbiz",
                     "url": "https://www.reddit.com/user/serbiz"
-                }
-            ]
-        },
-        {
-            "id": "17bsg3c",
-            "url": "/r/homeassistant/comments/17bsg3c/i_smelled_something_burning_found_my_zwave_stick/",
-            "external_url": "https://imgur.com/XLfexkR",
-            "title": "I smelled something burning, found my Zwave stick melting.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/17bsg3c/i_smelled_something_burning_found_my_zwave_stick/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/17bsg3c/i_smelled_something_burning_found_my_zwave_stick/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.imgur.com/XLfexkR.jpg\" />",
-            "date_published": "2023-10-19T20:15:06+00:00",
-            "authors": [
-                {
-                    "name": "DougEubanks",
-                    "url": "https://www.reddit.com/user/DougEubanks"
                 }
             ]
         }
