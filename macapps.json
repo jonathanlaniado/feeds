@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1l6p55h",
+            "url": "/r/macapps/comments/1l6p55h/working_on_a_free_individual_volume_control_app/",
+            "external_url": "https://i.redd.it/6z1plb828s5f1.png",
+            "title": "Working on a FREE individual volume control app (Suggestions Please!)",
+            "content_html": "<p>I\u2019m currently building a free macOS app that lets you control the volume of <strong>individual apps separately</strong> \u2014 something macOS doesn\u2019t natively support. Think of it like Volume Mixer on Windows, but for macOS.</p>\n<p>It\u2019s still in early development, and I\u2019d <strong>love your suggestions</strong> on features, UX, and anything else you\u2019d want from such a tool.</p><div><br></div><img src=\"https://i.redd.it/6z1plb828s5f1.png\" />",
+            "date_published": "2025-06-08T22:46:10+00:00",
+            "authors": [
+                {
+                    "name": "Cyber_pill",
+                    "url": "https://www.reddit.com/user/Cyber_pill"
+                }
+            ]
+        },
+        {
             "id": "1l5wg0r",
             "url": "/r/macapps/comments/1l5wg0r/dory_an_app_switcher_for_people_who_cant_remember/",
             "external_url": "https://v.redd.it/b57tsid4tk5f1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MichaelTheGeek",
                     "url": "https://www.reddit.com/user/MichaelTheGeek"
-                }
-            ]
-        },
-        {
-            "id": "1elitsc",
-            "url": "/r/macapps/comments/1elitsc/whats_your_musthave_singlepurpose_mac_app_for/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1elitsc/whats_your_musthave_singlepurpose_mac_app_for/",
-            "title": "What's your must-have, single-purpose Mac app for daily use?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1elitsc/whats_your_musthave_singlepurpose_mac_app_for/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1elitsc/whats_your_musthave_singlepurpose_mac_app_for/'>Reddit</a></caption><div><br></div><p>What's that one single-purpose app you couldn't live without on a daily basis? I'm talking about those lean, focused utilities that do one job extremely well.</p>\n<p>Whether it's a clipboard manager, window tiler, Markdown editor, or something else entirely, I'd love to hear about the single-purpose apps that have become indispensable parts of your workflow.</p>\n<p>What makes your pick so great? How has it improved your productivity or made your Mac life easier? Any tips for getting the most out of the app?</p>\n<p>I personally use <a href=\"https://apps.apple.com/us/app/system-color-picker/id1545870783?mt=12\">Color Picker</a> because it's the only one that supports LCH format.</p>",
-            "date_published": "2024-08-06T14:11:49+00:00",
-            "authors": [
-                {
-                    "name": "sayzlim",
-                    "url": "https://www.reddit.com/user/sayzlim"
                 }
             ]
         }
