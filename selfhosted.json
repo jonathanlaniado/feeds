@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1l63fdc",
+            "url": "/r/selfhosted/comments/1l63fdc/wtf_man_youtube_is_specifically_sniping_the_foss/",
+            "external_url": "https://www.reddit.com/gallery/1l63fdc",
+            "title": "Wtf man. Youtube is specifically sniping the Foss and free alternative content",
+            "content_html": "<p>For context Jeff's yt channel got strike for showing \"DANGEROUS AND HARMFUL CONTENT\" to his videos of \"I replaced  my Apple TV - with a raspberry pi\" and his jellyfin on Nas also go strike after 2 years. I also using jellyfin and found his video quite useful. What are your thoughts about this. </p>",
+            "date_published": "2025-06-08T04:14:37+00:00",
+            "authors": [
+                {
+                    "name": "MrRagnarok2005",
+                    "url": "https://www.reddit.com/user/MrRagnarok2005"
+                }
+            ]
+        },
+        {
             "id": "1l30gq7",
             "url": "/r/selfhosted/comments/1l30gq7/we_have_a_world_server_throwing_championship/",
             "external_url": "https://www.reddit.com/gallery/1l30gq7",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "dscheffy",
                     "url": "https://www.reddit.com/user/dscheffy"
-                }
-            ]
-        },
-        {
-            "id": "1f2ojf9",
-            "url": "/r/selfhosted/comments/1f2ojf9/i_tried_with_a_diagram/",
-            "external_url": "https://i.redd.it/4587rghg39ld1.jpeg",
-            "title": "I tried with a diagram",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1f2ojf9/i_tried_with_a_diagram/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1f2ojf9/i_tried_with_a_diagram/'>Reddit</a></caption><div><br></div><p>Some recommendations?</p><div><br></div><img src=\"https://i.redd.it/4587rghg39ld1.jpeg\" />",
-            "date_published": "2024-08-27T18:34:55+00:00",
-            "authors": [
-                {
-                    "name": "timo_hzbs",
-                    "url": "https://www.reddit.com/user/timo_hzbs"
                 }
             ]
         }
