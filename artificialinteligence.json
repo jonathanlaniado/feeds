@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1l7cq82",
+            "url": "/r/ArtificialInteligence/comments/1l7cq82/openai_hit_10b_revenue_still_losing_millions/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1l7cq82/openai_hit_10b_revenue_still_losing_millions/",
+            "title": "OpenAI  hit $10B Revenue  - Still Losing Millions",
+            "content_html": "<p>CNBC just dropped a story that OpenAI has hit $10 billion in annual recurring revenue (ARR). That\u2019s double what they were doing last year.</p>\n<p>Apparently it\u2019s all driven by ChatGPT consumer subs, enterprise deals, and API usage. And get this: 500 million weekly users and 3 million+ business customers now. Wild.</p>\n<p>What\u2019s crazier is that this number doesn\u2019t include Microsoft licensing revenue so the real revenue footprint might be even bigger. </p>\n<p>Still not profitable though. They reportedly lost around $5B last year just keeping the lights on (compute is expensive, I guess). </p>\n<p>But they\u2019re aiming for $125B ARR by 2029??? </p>\n<p>If OpenAI keeps scaling like this, what do you think the AI landscape will look like in five years? Gamechanger or game over for the competition</p>",
+            "date_published": "2025-06-09T18:40:20+00:00",
+            "authors": [
+                {
+                    "name": "underbillion",
+                    "url": "https://www.reddit.com/user/underbillion"
+                }
+            ]
+        },
+        {
             "id": "1l6mb2f",
             "url": "/r/ArtificialInteligence/comments/1l6mb2f/its_very_unlikely_that_you_are_going_to_receive/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1l6mb2f/its_very_unlikely_that_you_are_going_to_receive/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Phoenix5869",
                     "url": "https://www.reddit.com/user/Phoenix5869"
-                }
-            ]
-        },
-        {
-            "id": "1hh55fh",
-            "url": "/r/ArtificialInteligence/comments/1hh55fh/will_ai_reduce_the_salaries_of_software_engineers/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1hh55fh/will_ai_reduce_the_salaries_of_software_engineers/",
-            "title": "Will AI reduce the salaries of software engineers",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/1hh55fh/will_ai_reduce_the_salaries_of_software_engineers/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/1hh55fh/will_ai_reduce_the_salaries_of_software_engineers/'>Reddit</a></caption><div><br></div><p>I've been a software engineer for 35+ years.  It was a lucrative career that allowed me to retire early, but I still code for fun.  I've been using AI a lot for a recent coding project and I'm blown away by how much easier the task is now, though my skills are still necessary to put the AI-generated pieces together into a finished product.   My prediction is that AI will not necessarily \"replace\" the job of a software engineer, but it will reduce the skill and time requirement so much that average salaries and education requirements will go down significantly.  Software engineering will no longer be a lucrative career.   And this threat is imminent, not long-term.  Thoughts?</p>",
-            "date_published": "2024-12-18T16:20:09+00:00",
-            "authors": [
-                {
-                    "name": "tophermiller",
-                    "url": "https://www.reddit.com/user/tophermiller"
                 }
             ]
         }
