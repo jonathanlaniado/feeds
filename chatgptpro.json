@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
     "items": [
         {
+            "id": "1l76qd6",
+            "url": "/r/ChatGPTPro/comments/1l76qd6/how_to_get_chatgpt_to_read_documents_in_full_and/",
+            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1l76qd6/how_to_get_chatgpt_to_read_documents_in_full_and/",
+            "title": "How to get ChatGPT to read documents in full and not hallucinate.",
+            "content_html": "<p>Noticed a lot of people having similar issues with adding documents and ChatGPT maybe giving some right answers when questions are asked about the attachments but also getting a lot of hallucinations and it making shit up. </p>\n<p>After working with 10k+ line documents I ran into this issue a lot. Sometimes it worked, sometimes it didn\u2019t, sometimes it would only read a part of the file. </p>\n<p>I started asking it <em>why</em> it was doing that and it shared this with me. </p>\n<p>It only reads in document or project files once. It <em>summarizes</em> the document in its own words and saves a snapshot for reference throughout the convo. It explained that when a file is too long, it will intentionally truncate its own snapshot summary. </p>\n<p>It doesn\u2019t continually reference documents after you attach them, only the snapshot. This is where you start running into issues when asking specific questions and it starts hallucinating or making things up to provide a contextual response.</p>\n<p>In order to solve this, it gave me a prompt: \u201cRead [filename/project files] fully to the end of the document and sync with them. Please acknowledge you have read them in its entirety for full continuity.\u201d </p>\n<p>Another thing you can do is instruct that it references the attachments or project files BEFORE every response.  </p>\n<p>Since making those changes I have not had any issues. Annoying but a workaround. If you get really fed up try Gemini (shameless plug) that doesn\u2019t seem to have any issues whatsoever with reading or working with extremely long files, but I\u2019ve noticed it does tend to give more canned answers than dynamic like GPT. </p>",
+            "date_published": "2025-06-09T14:47:56+00:00",
+            "authors": [
+                {
+                    "name": "Agitated-Ad-504",
+                    "url": "https://www.reddit.com/user/Agitated-Ad-504"
+                }
+            ]
+        },
+        {
             "id": "1l6yzaa",
             "url": "/r/ChatGPTPro/comments/1l6yzaa/yeah_this_scared_the_shit_out_of_me/",
             "external_url": "https://i.redd.it/ef4014bxxu5f1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ShadowDV",
                     "url": "https://www.reddit.com/user/ShadowDV"
-                }
-            ]
-        },
-        {
-            "id": "1812pq5",
-            "url": "/r/ChatGPTPro/comments/1812pq5/sam_altman_will_return_as_ceo_of_openai_with_a/",
-            "external_url": "https://twitter.com/openai/status/1727206187077370115?s=46&t=HUarsCF30BFrz3xURMUMPQ",
-            "title": "Sam Altman will return as CEO of OpenAI with a new board in place",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ChatGPTPro/comments/1812pq5/sam_altman_will_return_as_ceo_of_openai_with_a/'>Apollo</a> | <a href='https://reddit.com/r/ChatGPTPro/comments/1812pq5/sam_altman_will_return_as_ceo_of_openai_with_a/'>Reddit</a></caption><div><br></div><div><br></div><blockquote class=\"twitter-tweet\" align=\"center\"><p lang=\"en\" dir=\"ltr\">We have reached an agreement in principle for Sam Altman to return to OpenAI as CEO with a new initial board of Bret Taylor (Chair), Larry Summers, and Adam D&#39;Angelo.<br><br>We are collaborating to figure out the details. Thank you so much for your patience through this.</p>&mdash; OpenAI (@OpenAI) <a href=\"https://twitter.com/OpenAI/status/1727206187077370115?ref_src=twsrc%5Etfw\">November 22, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
-            "date_published": "2023-11-22T06:27:16+00:00",
-            "authors": [
-                {
-                    "name": "renoirm",
-                    "url": "https://www.reddit.com/user/renoirm"
                 }
             ]
         }
