@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1l7dgra",
+            "url": "/r/iOSBeta/comments/1l7dgra/ios_26_beta_1_discussion/",
+            "external_url": "https://www.reddit.com/r/iOSBeta/comments/1l7dgra/ios_26_beta_1_discussion/",
+            "title": "iOS 26 Beta 1 - Discussion",
+            "content_html": "<p>Summer beta season is upon us!</p>\n<p>Please use this thread to share any and all updates you discover while using the latest iOS/iPadOS 26 beta.</p>\n<p>This thread should be used for discussion of the betas that may not meet our submission guidelines, as well as troubleshooting small issues through the beta test cycle.</p>\n<p>Further discussion can be found on the\u00a0<a href=\"https://discord.gg/a9b9ftH7kT\">iOS Beta Discord</a></p>\n<p>New MOD action to counter spam.</p>\n<p>Spamming this discussion with comments about battery life, safari being snappier, etc will result in a ban from the sub moving forward.</p>",
+            "date_published": "2025-06-09T19:08:41+00:00",
+            "authors": [
+                {
+                    "name": "epmuscle",
+                    "url": "https://www.reddit.com/user/epmuscle"
+                }
+            ]
+        },
+        {
             "id": "1kgaysy",
             "url": "/r/iOSBeta/comments/1kgaysy/ios_185_rc_discussion/",
             "external_url": "https://www.reddit.com/r/iOSBeta/comments/1kgaysy/ios_185_rc_discussion/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "bebesh",
                     "url": "https://www.reddit.com/user/bebesh"
-                }
-            ]
-        },
-        {
-            "id": "1dpih0l",
-            "url": "/r/iOSBeta/comments/1dpih0l/ios_18_db2_apple_pay_taptocash_feature_enabled/",
-            "external_url": "https://i.redd.it/fdahryqni19d1.jpeg",
-            "title": "[iOS 18 DB2] Apple Pay Tap-to-Cash Feature Enabled",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1dpih0l/ios_18_db2_apple_pay_taptocash_feature_enabled/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1dpih0l/ios_18_db2_apple_pay_taptocash_feature_enabled/'>Reddit</a></caption><div><br></div><p>Accessible as control center button or through Send button on Apple Cash card.</p><div><br></div><img src=\"https://i.redd.it/fdahryqni19d1.jpeg\" />",
-            "date_published": "2024-06-27T04:16:15+00:00",
-            "authors": [
-                {
-                    "name": "reg278",
-                    "url": "https://www.reddit.com/user/reg278"
                 }
             ]
         }
