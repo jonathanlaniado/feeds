@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1l7fkrh",
+            "url": "/r/iOSBeta/comments/1l7fkrh/ios_26_db_1_reference_to_ios_19_in_airpods/",
+            "external_url": "https://i.redd.it/9fmw0i3koy5f1.jpeg",
+            "title": "[iOS 26 DB 1] Reference to iOS 19 in AirPods settings",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/9fmw0i3koy5f1.jpeg\" />",
+            "date_published": "2025-06-09T20:29:14+00:00",
+            "authors": [
+                {
+                    "name": "steelisheavy",
+                    "url": "https://www.reddit.com/user/steelisheavy"
+                }
+            ]
+        },
+        {
             "id": "1l7ghy7",
             "url": "/r/iOSBeta/comments/1l7ghy7/ios_26_db1_estimated_time_to_charge_level_on_lock/",
             "external_url": "https://i.imgur.com/6WVpTIp.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "vlobe42",
                     "url": "https://www.reddit.com/user/vlobe42"
-                }
-            ]
-        },
-        {
-            "id": "1dyg236",
-            "url": "/r/iOSBeta/comments/1dyg236/ios_18_beta_3_released_discussion_thread/",
-            "external_url": "https://www.reddit.com/r/iOSBeta/comments/1dyg236/ios_18_beta_3_released_discussion_thread/",
-            "title": "iOS 18 Beta 3 Released - Discussion Thread",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1dyg236/ios_18_beta_3_released_discussion_thread/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1dyg236/ios_18_beta_3_released_discussion_thread/'>Reddit</a></caption><div><br></div><p>This will serve as our iOS 18 Beta 3 discussion.</p>\n<p>Please use this thread to share any and all updates you discover while using the latest iOS/iPadOS 18 beta. This thread should be used for discussion of the betas that may not meet our submission guidelines, as well as troubleshooting small issues through the beta test cycle.</p>\n<p>Further discussion can be found on our Discord:\u00a0<a href=\"https://discord.gg/a9b9ftH7kT\">https://discord.gg/a9b9ftH7kT</a></p>",
-            "date_published": "2024-07-08T18:23:03+00:00",
-            "authors": [
-                {
-                    "name": "epmuscle",
-                    "url": "https://www.reddit.com/user/epmuscle"
                 }
             ]
         }
