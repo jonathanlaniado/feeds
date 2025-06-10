@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1l7kcrs",
+            "url": "/r/iOSBeta/comments/1l7kcrs/ios_26_db1_new_ui_tab_switching/",
+            "external_url": "https://v.redd.it/d7dduyveoz5f1",
+            "title": "[iOS 26 DB1] New UI tab switching",
+            "content_html": "<p>It appears that you can slide through different tabs, and when doing so the bubble moves with your finger. Kinda cool? </p>",
+            "date_published": "2025-06-09T23:50:12+00:00",
+            "authors": [
+                {
+                    "name": "WhomstIsMe",
+                    "url": "https://www.reddit.com/user/WhomstIsMe"
+                }
+            ]
+        },
+        {
             "id": "1l7fkrh",
             "url": "/r/iOSBeta/comments/1l7fkrh/ios_26_db_1_reference_to_ios_19_in_airpods/",
             "external_url": "https://i.redd.it/9fmw0i3koy5f1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Leading-Control-8503",
                     "url": "https://www.reddit.com/user/Leading-Control-8503"
-                }
-            ]
-        },
-        {
-            "id": "1dygfd4",
-            "url": "/r/iOSBeta/comments/1dygfd4/ios_18_db3_3rd_party_app_icons_are_automatically/",
-            "external_url": "https://i.redd.it/f3ug24tdacbd1.jpeg",
-            "title": "[iOS 18 DB3] 3rd party App icons are automatically adjusted for Dark Mode icons",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1dygfd4/ios_18_db3_3rd_party_app_icons_are_automatically/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1dygfd4/ios_18_db3_3rd_party_app_icons_are_automatically/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/f3ug24tdacbd1.jpeg\" />",
-            "date_published": "2024-07-08T18:37:45+00:00",
-            "authors": [
-                {
-                    "name": "vlobe42",
-                    "url": "https://www.reddit.com/user/vlobe42"
                 }
             ]
         }
