@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1l82yf7",
+            "url": "/r/homeassistant/comments/1l82yf7/who_manufactures_the_sun/",
+            "external_url": "https://i.redd.it/viesuqgqk46f1.jpeg",
+            "title": "Who manufactures the sun?",
+            "content_html": "<p>Kind of a philosophical question I guess </p><div><br></div><img src=\"https://i.redd.it/viesuqgqk46f1.jpeg\" />",
+            "date_published": "2025-06-10T16:18:30+00:00",
+            "authors": [
+                {
+                    "name": "Chemical-Tonight-390",
+                    "url": "https://www.reddit.com/user/Chemical-Tonight-390"
+                }
+            ]
+        },
+        {
             "id": "1l5lzvc",
             "url": "/r/homeassistant/comments/1l5lzvc/i_recycled_my_iphone_to_make_a_3d_printed_clock/",
             "external_url": "https://i.redd.it/jxz0r1edli5f1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "el_pezz",
                     "url": "https://www.reddit.com/user/el_pezz"
-                }
-            ]
-        },
-        {
-            "id": "17d28ws",
-            "url": "/r/homeassistant/comments/17d28ws/shelly_wave_1pm_after_taking_380_volts/",
-            "external_url": "https://i.redd.it/lc9c4o252kvb1.jpg",
-            "title": "Shelly wave 1pm after taking 380 volts",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/17d28ws/shelly_wave_1pm_after_taking_380_volts/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/17d28ws/shelly_wave_1pm_after_taking_380_volts/'>Reddit</a></caption><div><br></div><p>It worked like a charm on 220 volts though</p><div><br></div><img src=\"https://i.redd.it/lc9c4o252kvb1.jpg\" />",
-            "date_published": "2023-10-21T13:10:51+00:00",
-            "authors": [
-                {
-                    "name": "serbiz",
-                    "url": "https://www.reddit.com/user/serbiz"
                 }
             ]
         }
