@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1l8w86j",
+            "url": "/r/MacOSBeta/comments/1l8w86j/macos_tahoe_removes_compact_tab_view_in_safari/",
+            "external_url": "https://www.reddit.com/gallery/1l8w86j",
+            "title": "macOS Tahoe removes compact tab view in Safari",
+            "content_html": "<p>Wondering if I'm the only person who used this, but the compact tab view was fantastic. I felt it looked better to have everything all in one row, there's no reason to have the tab bar be a separate line from the address bar... hopefully, this is just because the new Liquid Glass design version wasn't quite ready in time for the first beta, and it comes back in a later version. Anyone else have strong feelings one way or the other about this?</p>",
+            "date_published": "2025-06-11T15:52:15+00:00",
+            "authors": [
+                {
+                    "name": "MajMin5",
+                    "url": "https://www.reddit.com/user/MajMin5"
+                }
+            ]
+        },
+        {
             "id": "1l8v6oe",
             "url": "/r/MacOSBeta/comments/1l8v6oe/safari_in_macos_tahoe_recovery_has_been_renamed/",
             "external_url": "https://www.reddit.com/gallery/1l8v6oe",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Applebuyer7610",
                     "url": "https://www.reddit.com/user/Applebuyer7610"
-                }
-            ]
-        },
-        {
-            "id": "1dd8f1y",
-            "url": "/r/MacOSBeta/comments/1dd8f1y/nonnotarised_apps_much_harder_to_open_in_macos/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1dd8f1y/nonnotarised_apps_much_harder_to_open_in_macos/",
-            "title": "Non-Notarised Apps much harder to open in macOS 15.0 DB1",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOSBeta/comments/1dd8f1y/nonnotarised_apps_much_harder_to_open_in_macos/'>Winston</a> | <a href='https://reddit.com/r/MacOSBeta/comments/1dd8f1y/nonnotarised_apps_much_harder_to_open_in_macos/'>Reddit</a></caption><div><br></div><p>As the title suggests it is now much harder to open Non-Notarised apps on macOS Sequoia, the right click open service no longer works, you have to use the command xattr -cr *app path* in the terminal from now on.</p>\n<p>https://reddit.com/link/1dd8f1y/video/ga1kvdnfbw5d1/player</p>\n<p>This is a huge blow to those who can't afford the Apple Developer Account fees or just doesn't want to pay them.</p>",
-            "date_published": "2024-06-11T07:35:18+00:00",
-            "authors": [
-                {
-                    "name": "Bentheminernz",
-                    "url": "https://www.reddit.com/user/Bentheminernz"
                 }
             ]
         }
