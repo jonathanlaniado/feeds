@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1l81uvi",
+            "url": "/r/iOSBeta/comments/1l81uvi/ios_26_db1_new_text_select_tool_in_messages/",
+            "external_url": "https://www.reddit.com/gallery/1l81uvi",
+            "title": "[iOS 26 DB1] New text select tool in Messages",
+            "content_html": "<p>A new text select tool is now available when you press-and-hold a message in Messages. This allows you to select any line of text instead of copying the entire message. </p>",
+            "date_published": "2025-06-10T15:35:30+00:00",
+            "authors": [
+                {
+                    "name": "SkyGuy182",
+                    "url": "https://www.reddit.com/user/SkyGuy182"
+                }
+            ]
+        },
+        {
             "id": "1l803ff",
             "url": "/r/iOSBeta/comments/1l803ff/ios_26_db_1_airpods_connection_splash_screen/",
             "external_url": "https://i.redd.it/l845r01n046f1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "lstrtd",
                     "url": "https://www.reddit.com/user/lstrtd"
-                }
-            ]
-        },
-        {
-            "id": "1e2vfiq",
-            "url": "/r/iOSBeta/comments/1e2vfiq/ios_18_db3_after_a_restart_some_controls_in/",
-            "external_url": "https://www.reddit.com/gallery/1e2vfiq",
-            "title": "[iOS 18 DB3] After a restart, some controls in Control Center were removed",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1e2vfiq/ios_18_db3_after_a_restart_some_controls_in/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1e2vfiq/ios_18_db3_after_a_restart_some_controls_in/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-07-14T06:25:07+00:00",
-            "authors": [
-                {
-                    "name": "LampMoritz",
-                    "url": "https://www.reddit.com/user/LampMoritz"
                 }
             ]
         }
