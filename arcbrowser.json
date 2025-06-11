@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1l8st9z",
+            "url": "/r/ArcBrowser/comments/1l8st9z/nostalgia/",
+            "external_url": "https://v.redd.it/lxdht5v0wa6f1",
+            "title": "Nostalgia",
+            "content_html": "",
+            "date_published": "2025-06-11T13:33:43+00:00",
+            "authors": [
+                {
+                    "name": "JaceThings",
+                    "url": "https://www.reddit.com/user/JaceThings"
+                }
+            ]
+        },
+        {
             "id": "1l87ff4",
             "url": "/r/ArcBrowser/comments/1l87ff4/arc_icon_on_macos_tahoe/",
             "external_url": "https://i.redd.it/s0nx2js4f56f1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Crrrot",
                     "url": "https://www.reddit.com/user/Crrrot"
-                }
-            ]
-        },
-        {
-            "id": "19d5xma",
-            "url": "/r/ArcBrowser/comments/19d5xma/my_personal_experience_of_arc_on_windows/",
-            "external_url": "https://i.redd.it/vs9bkuxo02ec1.png",
-            "title": "My personal experience of arc on windows",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/19d5xma/my_personal_experience_of_arc_on_windows/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/19d5xma/my_personal_experience_of_arc_on_windows/'>Reddit</a></caption><div><br></div><p>I'm using arc from last 2 days, I need to tell you that it's worth waiting.\n\u00b0 Smoothness- Overall scrolling experience is much more smoother compared to chrome or edge.\n\u00b0Looks - It look more beautiful than chrome and Firefox because it actually follows the windows 11 theme.\n\u00b0 Ram consumption - Its very similar to other browsers ( 600-700 mb with a single tab of 4k60fps stream) but even if you  get little careless and did't closed tabs, it can reach 2-3gb in no time. \nIt's very easy to forget about opened tabs in arc workspaces i.e \"Spaces\".\n\u00b0Remember that choppy animation when you enter  full screen or exit full screen on YouTube . Arc fixes that, with their own animation, and its smooth.\n\u00b0Extension support: more of chromium extension work as they should like ublock origin etc.\n\u00b0Color shit : Some people may experience color shift while entering exiting full screen on YouTube or other streaming sites on arc, Actually its a chromium problem for hardware acceleration i.e GPU acceleration, its even present on Chrome. It's easy to fix.</p>\n<p>Currently windows version is in very early stage i.e CBT and isn't suitable for daily use. It lacks even some basic features for now, like bookmarks etc. It just feels like a Skeleton for now. But it's heading in right direction. It will get better.\nLet me know if you have any questions..</p><div><br></div><img src=\"https://i.redd.it/vs9bkuxo02ec1.png\" />",
-            "date_published": "2024-01-22T20:49:12+00:00",
-            "authors": [
-                {
-                    "name": "amit29533",
-                    "url": "https://www.reddit.com/user/amit29533"
                 }
             ]
         }
