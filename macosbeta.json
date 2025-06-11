@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1l8o8jy",
+            "url": "/r/MacOSBeta/comments/1l8o8jy/im_in_love/",
+            "external_url": "https://i.redd.it/0u4gin8do96f1.jpeg",
+            "title": "I\u2019m in love!",
+            "content_html": "<p>Well, I will be when become more stable and fixable!\nBut for the a fist dev beta man! It\u2019s so good!</p><div><br></div><img src=\"https://i.redd.it/0u4gin8do96f1.jpeg\" />",
+            "date_published": "2025-06-11T09:27:46+00:00",
+            "authors": [
+                {
+                    "name": "Wolf1King",
+                    "url": "https://www.reddit.com/user/Wolf1King"
+                }
+            ]
+        },
+        {
             "id": "1l8986o",
             "url": "/r/MacOSBeta/comments/1l8986o/looks_much_better_in_light_mode_the_more_i_use_it/",
             "external_url": "https://www.reddit.com/gallery/1l8986o",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "viggobf",
                     "url": "https://www.reddit.com/user/viggobf"
-                }
-            ]
-        },
-        {
-            "id": "1dd6h63",
-            "url": "/r/MacOSBeta/comments/1dd6h63/feature_window_tiling_in_sequoia_db1_window/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1dd6h63/feature_window_tiling_in_sequoia_db1_window/",
-            "title": "[Feature] Window Tiling in Sequoia DB1: Window margins can be disabled",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOSBeta/comments/1dd6h63/feature_window_tiling_in_sequoia_db1_window/'>Winston</a> | <a href='https://reddit.com/r/MacOSBeta/comments/1dd6h63/feature_window_tiling_in_sequoia_db1_window/'>Reddit</a></caption><div><br></div><p>I was disappointed when the new window tiling/snapping feature was demoed in the keynote to see that window snapping apparently left a large margin around the snapped window \u2014 but these are actually optional! The switch under <em>System Settings &gt; Desktop &amp; Dock &gt; Windows &gt; \"Tiled windows have margins\"</em> lets you disable margins and snap windows fully to each half/quarter of the screen. </p>\n<p>While tools like Magnet still offer a lot more customisation and detail (and the snapping mechanics seem a bit janky on DB1), this will definitely be enough for most people once the quirks are ironed out.</p>",
-            "date_published": "2024-06-11T05:21:04+00:00",
-            "authors": [
-                {
-                    "name": "nuclear_wynter",
-                    "url": "https://www.reddit.com/user/nuclear_wynter"
                 }
             ]
         }
