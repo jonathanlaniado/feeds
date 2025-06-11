@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1l91168",
+            "url": "/r/macapps/comments/1l91168/updated_deskminder\u00b2_reminders_tasks_on_your/",
+            "external_url": "https://v.redd.it/npsygnxcec6f1",
+            "title": "[Updated] DeskMinder\u00b2 \u2013 Reminders & Tasks on your Desktop",
+            "content_html": "<p>Hi r/macapps, four months ago, I released my first macOS app, and when I shared it here, I received hundreds of reviews, dozens of great ideas, and a huge boost of motivation to keep working on it.</p>\n<p>Over the past couple of months, I\u2019ve been working on a new version, and today I\u2019m excited to share it with you. </p>\n<ul>\n<li>In this update, I\u2019ve added a mode switcher so you can not only create reminders quickly but also mark the start of your work on tasks.</li>\n<li>The entire interface has been redesigned \u2013 it\u2019s now truly transparent and fluid.</li>\n<li>Fullscreen notifications have been improved to deliver a smooth, pleasant animation and a unique blurred background effect.</li>\n<li>A new History mode is now available, complete with search and a cool animation in the menubar when a timer or task is active.</li>\n<li>One of the things I\u2019m most proud of is the\u00a0<strong>Audio-Haptic Experiences</strong>\u00a0\u2013 if you have a trackpad, you\u2019ll love how it feels to interact with the widget.</li>\n<li>Shortcuts have been improved too, and the app size has been reduced from 200MB to just 8MB.</li>\n</ul>\n<p>As always, I\u2019d love to hear your feedback, ideas, and impressions \u2013 you know I listen and implement them.</p>\n<p><strong>The price goes up in 48 hours</strong>, but you\u2019ll still get the best deal for a great product.</p>\n<p><a href=\"https://apps.apple.com/ua/app/deskminder-reminders-tasks/id6740942938?mt=12\">Try DeskMinder\u00b2</a></p>",
+            "date_published": "2025-06-11T18:59:52+00:00",
+            "authors": [
+                {
+                    "name": "Dmytro-Wakeup",
+                    "url": "https://www.reddit.com/user/Dmytro-Wakeup"
+                }
+            ]
+        },
+        {
             "id": "1l6p55h",
             "url": "/r/macapps/comments/1l6p55h/working_on_a_free_individual_volume_control_app/",
             "external_url": "https://i.redd.it/6z1plb828s5f1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "AdaobiN",
                     "url": "https://www.reddit.com/user/AdaobiN"
-                }
-            ]
-        },
-        {
-            "id": "1emlw74",
-            "url": "/r/macapps/comments/1emlw74/minitube_for_youtube_is_free/",
-            "external_url": "https://apps.apple.com/us/app/minitube-for-youtube/id422006190?mt=12&src=AppAgg.com",
-            "title": "Minitube for YouTube is free",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1emlw74/minitube_for_youtube_is_free/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1emlw74/minitube_for_youtube_is_free/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-08-07T20:05:54+00:00",
-            "authors": [
-                {
-                    "name": "MichaelTheGeek",
-                    "url": "https://www.reddit.com/user/MichaelTheGeek"
                 }
             ]
         }
