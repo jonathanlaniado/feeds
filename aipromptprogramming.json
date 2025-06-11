@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1l8q2rd",
+            "url": "/r/aipromptprogramming/comments/1l8q2rd/automate_your_job_search_with_ai_what_we_built/",
+            "external_url": "https://www.reddit.com/gallery/1l8q2rd",
+            "title": "Automate your Job Search with AI; What We Built and Learned",
+            "content_html": "<p>It started as a tool to help me find jobs and cut down on the countless hours each week I spent filling out applications. Pretty quickly friends and coworkers were asking if they could use it as well, so I made it available to more people. </p>\n<p>How It Works:\n1) Manual Mode: View your personal job matches with their score and apply yourself\n2) Semi-Auto Mode: You pick the jobs, we fill and submit the forms\n3) Full Auto Mode: We submit to every role with a \u226550% match</p>\n<p>Key Learnings \ud83d\udca1\n- 1/3 of users prefer selecting specific jobs over full automation\n- People want more listings, even if we can\u2019t auto-apply so our all relevant jobs are shown to users\n- We added an \u201cinterview likelihood\u201d score to help you focus on the roles you\u2019re most likely to land\n- Tons of people need jobs outside the US as well. This one may sound obvious but we now added support for 50 countries\n- While we support on-site and hybrid roles, we work best for remote jobs!</p>\n<p>Our Mission is to Level the playing field by targeting roles that match your skills and experience, no spray-and-pray.</p>\n<p>Feel free to use it right away, SimpleApply is live for everyone. Try the free tier and see what job matches you get along with some auto applies or upgrade for unlimited auto applies (with a money-back guarantee). Let us know what you think and any ways to improve!</p>",
+            "date_published": "2025-06-11T11:21:30+00:00",
+            "authors": [
+                {
+                    "name": "Accomplished-Leg3657",
+                    "url": "https://www.reddit.com/user/Accomplished-Leg3657"
+                }
+            ]
+        },
+        {
             "id": "1l6itox",
             "url": "/r/aipromptprogramming/comments/1l6itox/this_ai_agent_can_read_your_cv_find_matching_jobs/",
             "external_url": "https://v.redd.it/wcvecdg4vq5f1",
@@ -1386,20 +1400,6 @@
             "title": "Unstoppable $1,600 robot dog trained by RL",
             "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1dmm79b/unstoppable_1600_robot_dog_trained_by_rl/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1dmm79b/unstoppable_1600_robot_dog_trained_by_rl/'>Reddit</a></caption><div><br></div>",
             "date_published": "2024-06-23T13:30:51+00:00",
-            "authors": [
-                {
-                    "name": "Educational_Ice151",
-                    "url": "https://www.reddit.com/user/Educational_Ice151"
-                }
-            ]
-        },
-        {
-            "id": "1dl5wyr",
-            "url": "/r/aipromptprogramming/comments/1dl5wyr/killian_showed_a_fully_local_computercontrolling/",
-            "external_url": "https://v.redd.it/yf98ubtl8x7d1",
-            "title": "killian showed a fully local, computer-controlling AI a sticky note with wifi password. it got online. (more in comments)",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1dl5wyr/killian_showed_a_fully_local_computercontrolling/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1dl5wyr/killian_showed_a_fully_local_computercontrolling/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-06-21T14:53:15+00:00",
             "authors": [
                 {
                     "name": "Educational_Ice151",
