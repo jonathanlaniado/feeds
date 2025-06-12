@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1l911q3",
+            "url": "/r/MacOSBeta/comments/1l911q3/menu_bar_is_unreadable_on_bright_backgrounds/",
+            "external_url": "https://i.redd.it/bpcb8i8jic6f1.jpeg",
+            "title": "Menu Bar is unreadable on bright backgrounds.",
+            "content_html": "<p>Hoping Apple addd smart contrast detection in a future beta.</p><div><br></div><img src=\"https://i.redd.it/bpcb8i8jic6f1.jpeg\" />",
+            "date_published": "2025-06-11T19:00:24+00:00",
+            "authors": [
+                {
+                    "name": "RonnieBoxks",
+                    "url": "https://www.reddit.com/user/RonnieBoxks"
+                }
+            ]
+        },
+        {
             "id": "1l984ox",
             "url": "/r/MacOSBeta/comments/1l984ox/finder_from_developer_video_already_looks_much/",
             "external_url": "https://i.redd.it/7rdwxd07zd6f1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Bansheeback",
                     "url": "https://www.reddit.com/user/Bansheeback"
-                }
-            ]
-        },
-        {
-            "id": "1defvub",
-            "url": "/r/MacOSBeta/comments/1defvub/new_fullscreen_button_menu/",
-            "external_url": "https://i.redd.it/7ote5jnm476d1.png",
-            "title": "New Fullscreen Button Menu?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOSBeta/comments/1defvub/new_fullscreen_button_menu/'>Winston</a> | <a href='https://reddit.com/r/MacOSBeta/comments/1defvub/new_fullscreen_button_menu/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/7ote5jnm476d1.png\" />",
-            "date_published": "2024-06-12T19:55:55+00:00",
-            "authors": [
-                {
-                    "name": "rjdnl",
-                    "url": "https://www.reddit.com/user/rjdnl"
                 }
             ]
         }
