@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1l9y5gd",
+            "url": "/r/ArcBrowser/comments/1l9y5gd/well_i_tried_dia_is_a_product_for_no_one/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1l9y5gd/well_i_tried_dia_is_a_product_for_no_one/",
+            "title": "Well, I Tried. DIA is a product for no one.",
+            "content_html": "<p>I gave it my best shot. I tried using Dia yesterday at launch out of curiosity. Maybe they focused on it for a reason? Perhaps it was truly a better browser? I wanted to give them the benefit of the doubt since ARC literally changed my life and how I interact with the internet. Well, after about an hour and a half of using it, and I use \u201cusing\u201d very loosely here, I cannot for the life of me figure out what in the hell this product is meant to do other than overcomplicate and annoy me. Nothing about the UI/UX makes any sense, nor do any of the recommended use cases. They didn\u2019t even port over THE ONE THING THAT MADE ARC AMAZING: SPACES AND SIDEBAR NAVIGATION WITH TABS AND PINS. This is what is known as a \u201cproduct for no one that no one asked for and solves only made up problems that do not exist.\u201d There is absolutely no reason that they could not have built DIA into ARC itself from what I can tell, and they even seemed to be on the path to doing so with some of their actually kinda usable AI features in ARC. Confounding business decision that seems to be based on solely being able to generate new hype for a new product as opposed to making an old and supremely viable product better. Very disappointed to say the least. I don\u2019t want to pile on the people who made the product because I am sure they are working very hard to make it good, but the executive team at TBC needs a good slap upside the head and whichever investors invariably pushed them into this decision should be removed from the cap table. Ugh.</p>",
+            "date_published": "2025-06-12T21:15:17+00:00",
+            "authors": [
+                {
+                    "name": "jaffinthebox",
+                    "url": "https://www.reddit.com/user/jaffinthebox"
+                }
+            ]
+        },
+        {
             "id": "1l8st9z",
             "url": "/r/ArcBrowser/comments/1l8st9z/nostalgia/",
             "external_url": "https://v.redd.it/lxdht5v0wa6f1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "JaceThings",
                     "url": "https://www.reddit.com/user/JaceThings"
-                }
-            ]
-        },
-        {
-            "id": "19d6zzn",
-            "url": "/r/ArcBrowser/comments/19d6zzn/windows_beta_onboarding_progression_so_far/",
-            "external_url": "https://i.redd.it/8w8he3w382ec1.png",
-            "title": "Windows Beta Onboarding Progression So Far!",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/19d6zzn/windows_beta_onboarding_progression_so_far/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/19d6zzn/windows_beta_onboarding_progression_so_far/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/8w8he3w382ec1.png\" />",
-            "date_published": "2024-01-22T21:32:01+00:00",
-            "authors": [
-                {
-                    "name": "Crrrot",
-                    "url": "https://www.reddit.com/user/Crrrot"
                 }
             ]
         }
