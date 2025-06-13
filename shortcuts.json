@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1la9acu",
+            "url": "/r/shortcuts/comments/1la9acu/ai_run_javascript_in_browser/",
+            "external_url": "https://i.redd.it/2aze6pkt5n6f1.gif",
+            "title": "AI Run JavaScript in Browser",
+            "content_html": "<p>Fun little shortcut I made. Uses AI (Gemini) to perform any action in Safari. Just describe what you want to happen, and it will generate and execute the JavaScript. I\u2019ve found it useful for instance to select multiple objects on a page, or select all files in a list that match a certain parameter, or expand all drop down menus or accordions, scroll all the way to the bottom until all content is loaded, etc.</p>\n<p>Limitations:\n- limited to whatever JavaScript can usually do.\n- only functions on the current page\n- must be run in Safari, from page share sheet</p>\n<p>Caution:\n- it will automatically execute whatever code is generated without user review, so don\u2019t use for anything important\u2026.</p>\n<p>https://www.icloud.com/shortcuts/dcbc35c808714977a06436e279807785</p><div><br></div><img src=\"https://i.redd.it/2aze6pkt5n6f1.gif\" />",
+            "date_published": "2025-06-13T06:48:56+00:00",
+            "authors": [
+                {
+                    "name": "sevenlayercookie5",
+                    "url": "https://www.reddit.com/user/sevenlayercookie5"
+                }
+            ]
+        },
+        {
             "id": "1l7bqr9",
             "url": "/r/shortcuts/comments/1l7bqr9/automations_coming_to_shortcuts_on_the_mac_in/",
             "external_url": "https://i.imgur.com/SW25cSw.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "pikaaaaaachu",
                     "url": "https://www.reddit.com/user/pikaaaaaachu"
-                }
-            ]
-        },
-        {
-            "id": "1aehotp",
-            "url": "/r/shortcuts/comments/1aehotp/get_started_with_apis_in_shortcuts/",
-            "external_url": "https://www.reddit.com/r/shortcuts/comments/1aehotp/get_started_with_apis_in_shortcuts/",
-            "title": "Get started with API's in shortcuts",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1aehotp/get_started_with_apis_in_shortcuts/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1aehotp/get_started_with_apis_in_shortcuts/'>Reddit</a></caption><div><br></div><p>If someone is getting into api's or wanna have some fun with then, these are the free and easy to use i included in the 5 shortcuts listed down below\u2b07\ufe0f<br />\nList of api's <br />\n1. https://cataas.com/cat <br />\n2. https://coffee.alexflipnote.dev/random <br />\n3. https://meowfacts.herokuapp.com <br />\n4. https://api.github.com/users/prgrmr-yn<br />\n5.<a href=\"https://api.dictionaryapi.dev/api/v2/entries/en/hello\">https://api.dictionaryapi.dev/api/v2/entries/en/hello</a>  </p>\n<p>Download shortcuts from routine hub <br />\n1. Random cat: https://routinehub.co/shortcut/17355/ <br />\n2. Coffee photo: https://routinehub.co/shortcut/17356/ <br />\n3. Meow facts: https://routinehub.co/shortcut/17357/ <br />\n4. Get GitHub user location: https://routinehub.co/shortcut/17358/ <br />\n5. Get dictionary api: https://routinehub.co/shortcut/17359/</p>",
-            "date_published": "2024-01-30T06:14:36+00:00",
-            "authors": [
-                {
-                    "name": "prgrmr-yn",
-                    "url": "https://www.reddit.com/user/prgrmr-yn"
                 }
             ]
         }
