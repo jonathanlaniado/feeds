@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1lb2jt5",
+            "url": "/r/MacOSBeta/comments/1lb2jt5/window_corner_radius_in_macos_tahoe_depends_on/",
+            "external_url": "https://i.redd.it/ek2e0u3pdu6f1.png",
+            "title": "Window corner radius in macOS Tahoe depends on the presence or absence of a toolbar",
+            "content_html": "<p>Apple Docs: https://developer.apple.com/videos/play/wwdc2025/310</p><div><br></div><img src=\"https://i.redd.it/ek2e0u3pdu6f1.png\" />",
+            "date_published": "2025-06-14T07:06:07+00:00",
+            "authors": [
+                {
+                    "name": "lonelybeggar333",
+                    "url": "https://www.reddit.com/user/lonelybeggar333"
+                }
+            ]
+        },
+        {
             "id": "1lapt4d",
             "url": "/r/MacOSBeta/comments/1lapt4d/macos_26_tahoe_system_icons/",
             "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1lapt4d/macos_26_tahoe_system_icons/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Intelligent_Pin_8070",
                     "url": "https://www.reddit.com/user/Intelligent_Pin_8070"
-                }
-            ]
-        },
-        {
-            "id": "1dnjiet",
-            "url": "/r/MacOSBeta/comments/1dnjiet/apple_seeds_second_beta_of_macos_sequoia_to/",
-            "external_url": "https://forums.macrumors.com/threads/apple-seeds-second-beta-of-macos-sequoia-to-developers.2429965/",
-            "title": "Apple Seeds Second Beta of macOS Sequoia to Developers",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOSBeta/comments/1dnjiet/apple_seeds_second_beta_of_macos_sequoia_to/'>Winston</a> | <a href='https://reddit.com/r/MacOSBeta/comments/1dnjiet/apple_seeds_second_beta_of_macos_sequoia_to/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-06-24T17:42:42+00:00",
-            "authors": [
-                {
-                    "name": "jagajazzist",
-                    "url": "https://www.reddit.com/user/jagajazzist"
                 }
             ]
         }
