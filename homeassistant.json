@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1lbbxff",
+            "url": "/r/homeassistant/comments/1lbbxff/need_help/",
+            "external_url": "https://i.redd.it/uh39vh6uzw6f1.jpeg",
+            "title": "Need help",
+            "content_html": "<p>This item arrived in the mail recently. I've been working to set it up, but I can't seem to connect it to Bluetooth, WiFi, Zigbee or Z-wave. It does hold coffee, so I have made progress there. Is there a HACS or Add On I can use to automate this device?</p><div><br></div><img src=\"https://i.redd.it/uh39vh6uzw6f1.jpeg\" />",
+            "date_published": "2025-06-14T15:53:02+00:00",
+            "authors": [
+                {
+                    "name": "getridofwires",
+                    "url": "https://www.reddit.com/user/getridofwires"
+                }
+            ]
+        },
+        {
             "id": "1l82yf7",
             "url": "/r/homeassistant/comments/1l82yf7/who_manufactures_the_sun/",
             "external_url": "https://i.redd.it/viesuqgqk46f1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "udit39",
                     "url": "https://www.reddit.com/user/udit39"
-                }
-            ]
-        },
-        {
-            "id": "17dkyk5",
-            "url": "/r/homeassistant/comments/17dkyk5/mazda_slaps_developer_with_ceaseanddesist_for_diy/",
-            "external_url": "https://www.reddit.com/r/homeassistant/comments/17dkyk5/mazda_slaps_developer_with_ceaseanddesist_for_diy/",
-            "title": "Mazda Slaps Developer With Cease-and-Desist for DIY Smart Home Integration",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/17dkyk5/mazda_slaps_developer_with_ceaseanddesist_for_diy/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/17dkyk5/mazda_slaps_developer_with_ceaseanddesist_for_diy/'>Reddit</a></caption><div><br></div><p>Really Mazda?</p>\n<p>https://www.thedrive.com/news/mazda-slaps-developer-with-cease-and-desist-for-diy-smart-home-integration</p>",
-            "date_published": "2023-10-22T04:17:38+00:00",
-            "authors": [
-                {
-                    "name": "el_pezz",
-                    "url": "https://www.reddit.com/user/el_pezz"
                 }
             ]
         }
