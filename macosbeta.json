@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1lapt4d",
+            "url": "/r/MacOSBeta/comments/1lapt4d/macos_26_tahoe_system_icons/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1lapt4d/macos_26_tahoe_system_icons/",
+            "title": "macOS 26 Tahoe System Icons",
+            "content_html": "<p>Hello everybody! If anyone is interested in downloading new macOS Tahoe system icons, <a href=\"https://drive.google.com/drive/folders/1Hl9x6TIonjnKirn3bu0gJXRhDLpuIIT4?usp=share_link\">you can do so here.</a></p>\n<p>I have put together a list of all the icons I could find. Notably, all icons are presented in their light versions only.</p>\n<p>To my understanding, the recent implementation by Apple for rendering icons has made it challenging, if not impossible, to extract all color variants. Previously, application icons were stored in the Content/Resources folder, which is no longer applicable. This folder contains outdated static files from the pre-OS 26 era. Icons are no longer static.</p>\n<p>Icon creation is now managed through Icon Composer. During the development process, developers are no longer required to include static images in the assets/AppIcon set. Instead, the Icon Composer project file is directly copied to the Xcode application\u2019s project folder. Upon compilation, the system receives instructions on how to dynamically render the icon.</p>\n<p>Enjoy and have a beautiful day!</p>",
+            "date_published": "2025-06-13T20:10:10+00:00",
+            "authors": [
+                {
+                    "name": "radis234",
+                    "url": "https://www.reddit.com/user/radis234"
+                }
+            ]
+        },
+        {
             "id": "1l9tu8n",
             "url": "/r/MacOSBeta/comments/1l9tu8n/macos_tahoe_brings_a_new_disk_image_format/",
             "external_url": "https://eclecticlight.co/2025/06/12/macos-tahoe-brings-a-new-disk-image-format/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "jagajazzist",
                     "url": "https://www.reddit.com/user/jagajazzist"
-                }
-            ]
-        },
-        {
-            "id": "1digna8",
-            "url": "/r/MacOSBeta/comments/1digna8/how_to_activate_the_new_siri_ui_in_macos_sequoia/",
-            "external_url": "https://x.com/aaronp613/status/1802840896917893386",
-            "title": "How to activate the new Siri UI in MacOS Sequoia Developer Beta 1 ",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOSBeta/comments/1digna8/how_to_activate_the_new_siri_ui_in_macos_sequoia/'>Winston</a> | <a href='https://reddit.com/r/MacOSBeta/comments/1digna8/how_to_activate_the_new_siri_ui_in_macos_sequoia/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-06-18T03:07:29+00:00",
-            "authors": [
-                {
-                    "name": "Jmaster_888",
-                    "url": "https://www.reddit.com/user/Jmaster_888"
                 }
             ]
         }
