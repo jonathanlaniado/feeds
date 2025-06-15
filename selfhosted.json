@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1lbz3a6",
+            "url": "/r/selfhosted/comments/1lbz3a6/update_4_open_source_sonos_alternative_based_on/",
+            "external_url": "https://www.reddit.com/gallery/1lbz3a6",
+            "title": "Update 4: Open source sonos alternative based on raspberry pi (metadata & spotify)",
+            "content_html": "<p>23 days ago i started posting about the progress of building my own sonos alternative, based on open sources software. </p>\n<p>As people started to get confused and i don\u2019t wanna summarize everything and make super long posts, here\u2019s the post history: r/beatnikAudio.</p>\n<p>The main progress this week was the Spotify Connect integration.\nI added a section in the tutorial how to add the spotify stream. 2 important remarks: A.Spotify connect only works with Spotify Premium. B. No proper metadata yet. (details here:https://www.reddit.com/r/selfhosted/comments/1l9jlhm/update_35_spotify_open_source_sonos_alternative/)</p>\n<p>Airplay1 &amp; 2: MacOs/iOS\nI added a second Airplay stream to the tutorial. What is pretty nice, is that things like youtube, tidal and all the stuff is working using airplay.\nBut also here: metadata is sometimes not standardized. I guess i will have to look into how snapcast handles the streams and maybe map some lost metadata, anyone experience with this?</p>\n<p>Stream Components\nAdded some components in the app to manage streams. (see picture 3)</p>\n<p>You can find the updated repo here (v.0.0.2):\nhttps://github.com/byrdsandbytes/snapcast-pi</p>\n<p>Thanks to the wonderful people, that say annoying things like, \u201eI am still utterly confused as to what is snapcast pi and what ist beatnik.\u201c, i have to think about, explain &amp; name things. So i made a graph. (First pic). What do you think? Does that help?</p>\n<p>Next steps are going to clean up the messy web app and make a first release. Any suggestions which license? (GPLv3, AGPLv3, or go full anarchy with MIT?)</p>\n<p>Note: the first release is not gone be well documented, full of bugs &amp; therefore not production ready. </p>\n<p>Thanks for asking questions &amp; staring on github. I\u2019m enjoying this. \ud83c\udf88</p>",
+            "date_published": "2025-06-15T12:24:29+00:00",
+            "authors": [
+                {
+                    "name": "LeIdrimi",
+                    "url": "https://www.reddit.com/user/LeIdrimi"
+                }
+            ]
+        },
+        {
             "id": "1l63fdc",
             "url": "/r/selfhosted/comments/1l63fdc/wtf_man_youtube_is_specifically_sniping_the_foss/",
             "external_url": "https://www.reddit.com/gallery/1l63fdc",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "shol-ly",
                     "url": "https://www.reddit.com/user/shol-ly"
-                }
-            ]
-        },
-        {
-            "id": "1f40tgt",
-            "url": "/r/selfhosted/comments/1f40tgt/psa_for_those_of_you_with_families_be_careful_you/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1f40tgt/psa_for_those_of_you_with_families_be_careful_you/",
-            "title": "PSA: For those of you with families, be careful you don't become an NPC Dad (or Mom)",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1f40tgt/psa_for_those_of_you_with_families_be_careful_you/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1f40tgt/psa_for_those_of_you_with_families_be_careful_you/'>Reddit</a></caption><div><br></div><p>I came across this <a href=\"https://www.reddit.com/r/NoStupidQuestions/comments/1f3e1ht/why_do_so_many_fathers_walk_away_from_their_kids/\">thread</a> today and it was really sad. </p>\n<p>A lot of the complaints were about disengaged dads who spend all of their time either working or on the computer. One redditor labeled them NPC dads. </p>\n<p>I've seen some comments on this subreddit from Dads who wonder if their kids appreciate the sweet setup they've created for them. If you feel that way, you may be confusing effort with value. Sure, you spend a lot of time and put in a lot of hard work, and it feels worth it. But for the rest of your family, it probably just looks like you're playing games, and if we're being fair, we kind of are -- we enjoy the challenge and the opportunity to learn soemthing new, which is basically makes selfhosting a semi productive game. </p>\n<p>Is it worth it? You may see yourself as a hero, but doesn't everybody want to be the hero of their own story? You might want to check with your family (your spouse included) if they think it's all worth your time, or if they'd rather you spent time with them or helped out in other ways. </p>",
-            "date_published": "2024-08-29T12:11:59+00:00",
-            "authors": [
-                {
-                    "name": "dscheffy",
-                    "url": "https://www.reddit.com/user/dscheffy"
                 }
             ]
         }
