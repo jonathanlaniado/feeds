@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1ld7a9t",
+            "url": "/r/ArtificialInteligence/comments/1ld7a9t/openai_wins_200_million_us_defense_contract/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1ld7a9t/openai_wins_200_million_us_defense_contract/",
+            "title": "OpenAI wins $200 million U.S. defense contract",
+            "content_html": "<p><a href=\"https://www.cnbc.com/2025/06/16/openai-wins-200-million-us-defense-contract.html\">https://www.cnbc.com/2025/06/16/openai-wins-200-million-us-defense-contract.html</a></p>\n<p>OpenAI has secured a $200 million, one-year contract with the U.S. Defense Department to develop advanced AI tools for national security, marking its first such deal listed by the Pentagon. The work will be done mainly in the National Capital Region. This follows OpenAI\u2019s collaboration with defense firm Anduril and comes amid broader defense AI efforts, including rival Anthropic\u2019s work with Palantir and Amazon. OpenAI CEO Sam Altman has expressed support for national security projects. The deal is small relative to OpenAI\u2019s $10B+ in annual sales and follows major initiatives like the $500B Stargate project.</p>\n<p>It is about to go down! what can go wrong?</p>",
+            "date_published": "2025-06-16T22:51:29+00:00",
+            "authors": [
+                {
+                    "name": "azavio",
+                    "url": "https://www.reddit.com/user/azavio"
+                }
+            ]
+        },
+        {
             "id": "1lctky5",
             "url": "/r/ArtificialInteligence/comments/1lctky5/i_think_ai_will_replace_doctors_before_it/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1lctky5/i_think_ai_will_replace_doctors_before_it/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "h0l0gramco",
                     "url": "https://www.reddit.com/user/h0l0gramco"
-                }
-            ]
-        },
-        {
-            "id": "1htlgly",
-            "url": "/r/ArtificialInteligence/comments/1htlgly/hot_take_ai_will_probably_write_code_that_looks/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1htlgly/hot_take_ai_will_probably_write_code_that_looks/",
-            "title": "Hot take: AI will probably write code that looks like gibberish to humans (and why that makes sense)\n",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArtificialInteligence/comments/1htlgly/hot_take_ai_will_probably_write_code_that_looks/'>Winston</a> | <a href='https://reddit.com/r/ArtificialInteligence/comments/1htlgly/hot_take_ai_will_probably_write_code_that_looks/'>Reddit</a></caption><div><br></div><p>Shower thought that's been living rent-free in my head:</p>\n<p>So I was thinking about how future AI will handle coding, and oh boy, this rabbit hole goes deeper than I initially thought \ud83d\udc40</p>\n<p>Here's my spicy take:</p>\n<ol>\n<li>AI doesn't need human-readable code - it can work with any format that's efficient for it</li>\n<li>Here's the kicker: <em>Eventually, maintaining human-readable programming languages and their libraries might become economically impractical</em></li>\n</ol>\n<p>Think about it:</p>\n<ul>\n<li>We created languages like Python, JavaScript, etc., because humans needed to understand and maintain code</li>\n<li>But if AI becomes the primary code writer/maintainer, why keep investing in making things human-readable?</li>\n<li>All those beautiful frameworks and libraries we love? They might become legacy code that's too expensive to maintain in human-readable form</li>\n</ul>\n<p>It's like keeping horse carriages after cars became mainstream - sure, some people still use them, but they're not the primary mode of transportation anymore.</p>\n<p>Maybe we're heading towards a future where:</p>\n<ul>\n<li>Current programming languages become \"legacy systems\"</li>\n<li>New, AI-optimized languages take over (looking like complete gibberish to us)</li>\n<li>Human-readable code becomes a luxury rather than the standard</li>\n</ul>\n<p>Wild thought: What if in 20 years, being able to read \"traditional\" code becomes a niche skill, like knowing COBOL is today? \ud83d\udcad</p>\n<p>What do y'all think? Am I smoking something, or does this actually make sense from a practical/economic perspective?</p>\n<p>Edit: Yes, I know current AI is focused on human-readable code. This is more about where things might go once AI becomes the primary maintainer of most codebases.</p>\n<p>TLDR: AI might make human-readable programming languages obsolete because maintaining them won't make economic sense anymore, just like how we stopped optimizing for horse-drawn carriages once cars took over.</p>",
-            "date_published": "2025-01-04T18:57:30+00:00",
-            "authors": [
-                {
-                    "name": "gizia",
-                    "url": "https://www.reddit.com/user/gizia"
                 }
             ]
         }
