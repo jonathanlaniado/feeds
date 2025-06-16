@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1lcw90o",
+            "url": "/r/selfhosted/comments/1lcw90o/my_girlfriend_got_into_her_masters_program_thanks/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1lcw90o/my_girlfriend_got_into_her_masters_program_thanks/",
+            "title": "My girlfriend got into her master's program thanks to you",
+            "content_html": "<p>Hello everyone,</p>\n<p>I'm writing those lines to tell you a little story.\nIt's been 1 year and half that i'm on the board \"r/selfhosted\" and i deployed a lot of solutions at home.</p>\n<p>Thanks to your advises, i have a lot of tools running and used by my family.</p>\n<p>Recently, someone talk about Paperless Ngx and my girlfriend presented this for a master's program in documentary domain.</p>\n<p>Without this community, she would do something else so i wanna thanks this community to promote, support and propose new solutions and new tools !</p>\n<p>See you around</p>",
+            "date_published": "2025-06-16T15:44:50+00:00",
+            "authors": [
+                {
+                    "name": "hayzefr",
+                    "url": "https://www.reddit.com/user/hayzefr"
+                }
+            ]
+        },
+        {
             "id": "1lbz3a6",
             "url": "/r/selfhosted/comments/1lbz3a6/update_4_open_source_sonos_alternative_based_on/",
             "external_url": "https://www.reddit.com/gallery/1lbz3a6",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "sleepysiding22",
                     "url": "https://www.reddit.com/user/sleepysiding22"
-                }
-            ]
-        },
-        {
-            "id": "1f4tbi9",
-            "url": "/r/selfhosted/comments/1f4tbi9/this_week_in_selfhosted_30_august_2024/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1f4tbi9/this_week_in_selfhosted_30_august_2024/",
-            "title": "This Week in Self-Hosted (30 August 2024)",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1f4tbi9/this_week_in_selfhosted_30_august_2024/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1f4tbi9/this_week_in_selfhosted_30_august_2024/'>Reddit</a></caption><div><br></div><p>Happy Friday, r/selfhosted! Linked below is the latest edition of <em>This Week in Self-Hosted</em>, a weekly newsletter recap of the latest activity in self-hosted software.</p>\n<p>This week's features include:</p>\n<ul>\n<li>Plex's announcements on upcoming deprecated integrations and new Fediverse symbols</li>\n<li>Notable software updates (Umami now supports sessions!)</li>\n<li>New software launches (with the <a href=\"https://blog.thunderbird.net/2024/08/plan-less-do-more-introducing-appointment-by-thunderbird/?ref=selfh.st\">Thunderbird team also getting in on the action</a>)</li>\n<li>New additions to <a href=\"https://selfh.st/apps\">selfh.st/apps</a></li>\n<li>Featured articles and self-hosting guides written by the community</li>\n<li>A spotlight on <a href=\"https://github.com/crocodilestick/Calibre-Web-Automated?ref=selfh.st\">Calibre-Web Automated</a>, a consolidated web app for Calibre and Calibre-Web</li>\n</ul>\n<p>As usual, feel free to reach out with questions or comments about the newsletter. Thanks!</p>\n<hr />\n<p><a href=\"https://selfh.st/newsletter/2024-08-30/?ref=reddit\">This Week in Self-Hosted (30 August 2024)</a></p>",
-            "date_published": "2024-08-30T11:52:32+00:00",
-            "authors": [
-                {
-                    "name": "shol-ly",
-                    "url": "https://www.reddit.com/user/shol-ly"
                 }
             ]
         }
