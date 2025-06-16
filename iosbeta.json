@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1lchrbt",
+            "url": "/r/iOSBeta/comments/1lchrbt/ios_26_db1_spatial_effect_in_photos_makes/",
+            "external_url": "https://i.redd.it/q3w5fld0b77f1.gif",
+            "title": "[iOS 26 DB1] Spatial effect in Photos makes reflections dynamic",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/q3w5fld0b77f1.gif\" />",
+            "date_published": "2025-06-16T02:33:37+00:00",
+            "authors": [
+                {
+                    "name": "Iaa_eps",
+                    "url": "https://www.reddit.com/user/Iaa_eps"
+                }
+            ]
+        },
+        {
             "id": "1lanx03",
             "url": "/r/iOSBeta/comments/1lanx03/ios_26_db1_hotfix_beta_release_for_my_iphone_16/",
             "external_url": "https://i.imgur.com/mrYsBCt.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "International-Job553",
                     "url": "https://www.reddit.com/user/International-Job553"
-                }
-            ]
-        },
-        {
-            "id": "1eax6do",
-            "url": "/r/iOSBeta/comments/1eax6do/ios_18_db_4_control_center_music_now_playing/",
-            "external_url": "https://www.reddit.com/gallery/1eax6do",
-            "title": "[iOS 18 DB 4] Control Center \u2014 Music Now Playing gradient removed",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1eax6do/ios_18_db_4_control_center_music_now_playing/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1eax6do/ios_18_db_4_control_center_music_now_playing/'>Reddit</a></caption><div><br></div><p>Might be a bug, not sure</p>",
-            "date_published": "2024-07-24T09:32:05+00:00",
-            "authors": [
-                {
-                    "name": "Leading-Control-8503",
-                    "url": "https://www.reddit.com/user/Leading-Control-8503"
                 }
             ]
         }
