@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1ld4sum",
+            "url": "/r/iOSBeta/comments/1ld4sum/ios_26_db1_users_can_bypass_locked_apps_folders/",
+            "external_url": "https://v.redd.it/oxebwidwtc7f1",
+            "title": "[iOS 26 DB1] Users can bypass locked apps\u2019 folders authentication using the new Files UI.",
+            "content_html": "<p>For users that lock their apps, if that app creates its own folder in the Files application, that too will require either biometrics or the devices PIN to access. However, iOS 26 added some much needed MacOS like functionality to the files application in the form of drop-down arrows so users could browse a folder without leaving the screen they were on. You\u2019ll see however, that this does not require any form of authentication to access. FaceID is not triggered, nor am I prompted to input my PIN. I access the folder both using the new drop-down arrows as well as the traditional way for comparison. I have filed feedback on this, though I doubt something like this would slip through the cracks all the way to release.</p>",
+            "date_published": "2025-06-16T21:08:41+00:00",
+            "authors": [
+                {
+                    "name": "StellarAelwyd",
+                    "url": "https://www.reddit.com/user/StellarAelwyd"
+                }
+            ]
+        },
+        {
             "id": "1ld17mw",
             "url": "/r/iOSBeta/comments/1ld17mw/ios_186_beta_1_discussion/",
             "external_url": "https://www.reddit.com/r/iOSBeta/comments/1ld17mw/ios_186_beta_1_discussion/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "victor_wynne",
                     "url": "https://www.reddit.com/user/victor_wynne"
-                }
-            ]
-        },
-        {
-            "id": "1ef55wh",
-            "url": "/r/iOSBeta/comments/1ef55wh/ios_181_beta_1_released_discussion_thread/",
-            "external_url": "https://www.reddit.com/r/iOSBeta/comments/1ef55wh/ios_181_beta_1_released_discussion_thread/",
-            "title": "iOS 18.1 Beta 1 Released - Discussion Thread",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1ef55wh/ios_181_beta_1_released_discussion_thread/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1ef55wh/ios_181_beta_1_released_discussion_thread/'>Reddit</a></caption><div><br></div><p>This will serve as our iOS 18.1 Beta 1 discussion.</p>\n<p>Please use this thread to share any and all updates you discover while using the latest iOS/iPadOS 18 beta. This thread should be used for discussion of the betas that may not meet our submission guidelines, as well as troubleshooting small issues through the beta test cycle.</p>\n<p>Further discussion can be found on the <a href=\"https://discord.gg/iosbeta\">iOS Beta Discord</a>.</p>",
-            "date_published": "2024-07-29T17:19:06+00:00",
-            "authors": [
-                {
-                    "name": "epmuscle",
-                    "url": "https://www.reddit.com/user/epmuscle"
                 }
             ]
         }
