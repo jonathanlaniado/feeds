@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
     "items": [
         {
+            "id": "1lda3a6",
+            "url": "/r/ChatGPTPro/comments/1lda3a6/ive_started_using_chatgpt_as_an_extension_of_my/",
+            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1lda3a6/ive_started_using_chatgpt_as_an_extension_of_my/",
+            "title": "I\u2019ve started using ChatGPT as an extension of my own mind \u2014 anyone else?",
+            "content_html": "<p>Night time is when I often feel the most emotional and/or start to come up with interesting ideas, like shower thoughts. I recently started feeding some of these to ChatGPT, and it surprises me at how well it can validate and analyze my thoughts, and provide concrete action items.</p>\n<p>It makes me realize that some things I say reveal deeper truths about myself and my subconscious that I didn't even know before, so it also makes me understand myself better. I also found that GPT-4.5 is better than 4o on this imo. Can anyone else relate?</p>\n<p>Edit: A lot of people think it's a bad idea since it creates validation loops. That is absolutely true and I'm aware of that, so here's what I do to avoid it:</p>\n<ol>\n<li>\n<p>Use a prompt to ask it to be an analytical coach and point out things that are wrong instead of a 100% supporting therapist</p>\n</li>\n<li>\n<p>Always keep in mind that whatever it says are echoes of your own mind and a mere amplification of your thoughts, so take it with a grain of salt. Don't trust it blindly, treat the amplification as a magnifying lens to explore more about yourself.</p>\n</li>\n</ol>",
+            "date_published": "2025-06-17T01:02:11+00:00",
+            "authors": [
+                {
+                    "name": "No-Score712",
+                    "url": "https://www.reddit.com/user/No-Score712"
+                }
+            ]
+        },
+        {
             "id": "1ld27lu",
             "url": "/r/ChatGPTPro/comments/1ld27lu/3_months_off_chatgpt_plus_when_you_try_to_cancel/",
             "external_url": "https://i.redd.it/evgm9ulobc7f1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "bigwhitebird",
                     "url": "https://www.reddit.com/user/bigwhitebird"
-                }
-            ]
-        },
-        {
-            "id": "185tyl7",
-            "url": "/r/ChatGPTPro/comments/185tyl7/the_new_model_is_driving_me_insane/",
-            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/185tyl7/the_new_model_is_driving_me_insane/",
-            "title": "The new model is driving me insane.",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ChatGPTPro/comments/185tyl7/the_new_model_is_driving_me_insane/'>Apollo</a> | <a href='https://reddit.com/r/ChatGPTPro/comments/185tyl7/the_new_model_is_driving_me_insane/'>Reddit</a></caption><div><br></div><p>It just explains code you wrote rather than giving suggestions..</p>",
-            "date_published": "2023-11-28T11:31:45+00:00",
-            "authors": [
-                {
-                    "name": "alexcanton",
-                    "url": "https://www.reddit.com/user/alexcanton"
                 }
             ]
         }
