@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1ld17mw",
+            "url": "/r/iOSBeta/comments/1ld17mw/ios_186_beta_1_discussion/",
+            "external_url": "https://www.reddit.com/r/iOSBeta/comments/1ld17mw/ios_186_beta_1_discussion/",
+            "title": "iOS 18.6 Beta 1- Discussion",
+            "content_html": "<p>Please use this thread to share any and all updates you discover while using the latest iOS/iPadOS 18.6 beta. </p>\n<p>This thread should be used for discussion of the betas that may not meet our submission guidelines, as well as troubleshooting small issues through the beta test cycle.</p>\n<p>Further discussion can be found on the\u00a0<a href=\"https://discord.gg/a9b9ftH7kT\">iOS Beta Discord</a></p>",
+            "date_published": "2025-06-16T18:49:43+00:00",
+            "authors": [
+                {
+                    "name": "epmuscle",
+                    "url": "https://www.reddit.com/user/epmuscle"
+                }
+            ]
+        },
+        {
             "id": "1lcgasl",
             "url": "/r/iOSBeta/comments/1lcgasl/ios_26_db1_haze_sky_messages_background_leads_to/",
             "external_url": "https://v.redd.it/29k69bv8x67f1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "epmuscle",
                     "url": "https://www.reddit.com/user/epmuscle"
-                }
-            ]
-        },
-        {
-            "id": "1eefeu7",
-            "url": "/r/iOSBeta/comments/1eefeu7/gurman_ios_181_beta_with_apple_intelligence/",
-            "external_url": "https://9to5mac.com/2024/07/28/gurman-apple-intelligence-beta/",
-            "title": "Gurman: iOS 18.1 beta with Apple Intelligence launching as soon as this week",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1eefeu7/gurman_ios_181_beta_with_apple_intelligence/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1eefeu7/gurman_ios_181_beta_with_apple_intelligence/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-07-28T19:23:55+00:00",
-            "authors": [
-                {
-                    "name": "flogman12",
-                    "url": "https://www.reddit.com/user/flogman12"
                 }
             ]
         }
