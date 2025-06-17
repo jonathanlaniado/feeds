@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1ldy6t6",
+            "url": "/r/MacOSBeta/comments/1ldy6t6/different_liquid_glass_variants_using_private_apis/",
+            "external_url": "https://i.redd.it/b6bt9lposj7f1.png",
+            "title": "Different Liquid Glass variants - using private APIs",
+            "content_html": "<p>Apple <a href=\"https://developer.apple.com/documentation/appkit/nsglasseffectview\">provides</a> just two customizability options for Liquid glass \u2014 tint color and corner radius.</p>\n<p>Turns out they have several undocumented/private API's that result in different glass variants.</p>\n<p>`set_variant` `set_scrimState` `set_subduedState`</p>\n<p>source: <a href=\"https://github.com/Meridius-Labs/electron-liquid-glass\">https://github.com/Meridius-Labs/electron-liquid-glass</a> </p><div><br></div><img src=\"https://i.redd.it/b6bt9lposj7f1.png\" />",
+            "date_published": "2025-06-17T20:37:52+00:00",
+            "authors": [
+                {
+                    "name": "aitookmyj0b",
+                    "url": "https://www.reddit.com/user/aitookmyj0b"
+                }
+            ]
+        },
+        {
             "id": "1ldni7h",
             "url": "/r/MacOSBeta/comments/1ldni7h/aldente_is_now_working_with_macos_26/",
             "external_url": "https://i.redd.it/cc7kxidlrh7f1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "rozmarra",
                     "url": "https://www.reddit.com/user/rozmarra"
-                }
-            ]
-        },
-        {
-            "id": "1dtv5au",
-            "url": "/r/MacOSBeta/comments/1dtv5au/apple_logo_offcenter/",
-            "external_url": "https://i.redd.it/aaz0rgtfv5ad1.jpeg",
-            "title": "Apple logo off-center",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOSBeta/comments/1dtv5au/apple_logo_offcenter/'>Winston</a> | <a href='https://reddit.com/r/MacOSBeta/comments/1dtv5au/apple_logo_offcenter/'>Reddit</a></caption><div><br></div><p>just updated my macbook to mac os 15 beta 2 and it\u2019s stuck like this lmao</p><div><br></div><img src=\"https://i.redd.it/aaz0rgtfv5ad1.jpeg\" />",
-            "date_published": "2024-07-02T19:59:10+00:00",
-            "authors": [
-                {
-                    "name": "nickwzxx",
-                    "url": "https://www.reddit.com/user/nickwzxx"
                 }
             ]
         }
