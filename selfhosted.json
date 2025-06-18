@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1lebp62",
+            "url": "/r/selfhosted/comments/1lebp62/happy_world_backup_day/",
+            "external_url": "https://i.imgur.com/GEvB1zP.png",
+            "title": "Happy World Backup Day",
+            "content_html": "<div><br></div><img src=\"https://i.imgur.com/GEvB1zP.png\" />",
+            "date_published": "2025-06-18T08:17:45+00:00",
+            "authors": [
+                {
+                    "name": "goincybumsy",
+                    "url": "https://www.reddit.com/user/goincybumsy"
+                }
+            ]
+        },
+        {
             "id": "1lcw90o",
             "url": "/r/selfhosted/comments/1lcw90o/my_girlfriend_got_into_her_masters_program_thanks/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1lcw90o/my_girlfriend_got_into_her_masters_program_thanks/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Freika",
                     "url": "https://www.reddit.com/user/Freika"
-                }
-            ]
-        },
-        {
-            "id": "1f4x806",
-            "url": "/r/selfhosted/comments/1f4x806/postiz_opensource_social_media_scheduling_tool/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1f4x806/postiz_opensource_social_media_scheduling_tool/",
-            "title": "Postiz - open-source social media scheduling tool",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1f4x806/postiz_opensource_social_media_scheduling_tool/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1f4x806/postiz_opensource_social_media_scheduling_tool/'>Reddit</a></caption><div><br></div><p>Hi all, I am one of the builders of Postiz.</p>\n<p>Happy to get feedback and also some contributors :)</p>\n<p><a href=\"https://github.com/gitroomhq/postiz-app\">https://github.com/gitroomhq/postiz-app</a></p>\n<p>This social media scheduling tool is similar to traditional ones: Buffer, Hootsuite, SproutSocial, etc.</p>\n<p>Key features:</p>\n<ul>\n<li>Schedule for 9 social media platforms (Threads, Pinterest, Facebook, TikTok, Reddit, LinkedIn, Dribbble, YouTube, Instagram.)</li>\n<li>Basic analytics for almost all the social media platforms.</li>\n<li>AI Features: Copilots, AI Auto-complete, Canva-like editor.</li>\n<li>Team support: Invite your team members to manage social medias.</li>\n</ul>\n<p>Tech stack:</p>\n<ul>\n<li>NX (Monorepo)</li>\n<li>NextJS (React)</li>\n<li>NestJS</li>\n<li>Prisma (Default to PostgreSQL)</li>\n<li>Redis</li>\n<li>Resend (email notifications)</li>\n</ul>\n<p>Fully open-source (Apache-2)</p>",
-            "date_published": "2024-08-30T14:52:36+00:00",
-            "authors": [
-                {
-                    "name": "sleepysiding22",
-                    "url": "https://www.reddit.com/user/sleepysiding22"
                 }
             ]
         }
