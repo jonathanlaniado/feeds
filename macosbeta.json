@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1le8ovt",
+            "url": "/r/MacOSBeta/comments/1le8ovt/macos_tahoe_supports_taking_hdr_screenshotsvideo/",
+            "external_url": "https://i.redd.it/nfv41j71bm7f1.png",
+            "title": "macOS Tahoe supports taking HDR screenshots/video (natively)",
+            "content_html": "<p>Use CMD+SHIFT+5</p>\n<p>PS: Had to convert the image to PNG as Reddit doesn't support HEIF</p><div><br></div><img src=\"https://i.redd.it/nfv41j71bm7f1.png\" />",
+            "date_published": "2025-06-18T05:01:20+00:00",
+            "authors": [
+                {
+                    "name": "ToughAsparagus1805",
+                    "url": "https://www.reddit.com/user/ToughAsparagus1805"
+                }
+            ]
+        },
+        {
             "id": "1ldy6t6",
             "url": "/r/MacOSBeta/comments/1ldy6t6/different_liquid_glass_variants_using_private_apis/",
             "external_url": "https://i.redd.it/b6bt9lposj7f1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Minivansegway",
                     "url": "https://www.reddit.com/user/Minivansegway"
-                }
-            ]
-        },
-        {
-            "id": "1dye268",
-            "url": "/r/MacOSBeta/comments/1dye268/db2_this_looks_new/",
-            "external_url": "https://i.redd.it/isozevzdtbbd1.png",
-            "title": "[Db2] This looks new",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOSBeta/comments/1dye268/db2_this_looks_new/'>Winston</a> | <a href='https://reddit.com/r/MacOSBeta/comments/1dye268/db2_this_looks_new/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/isozevzdtbbd1.png\" />",
-            "date_published": "2024-07-08T17:02:39+00:00",
-            "authors": [
-                {
-                    "name": "rozmarra",
-                    "url": "https://www.reddit.com/user/rozmarra"
                 }
             ]
         }
