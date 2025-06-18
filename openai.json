@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1le8080",
+            "url": "/r/OpenAI/comments/1le8080/sam_altman_meta_is_offering_over_100_million/",
+            "external_url": "https://www.youtube.com/clip/UgkxPx-piHuWB8lBgztLZ-sQDy0LbLjLP3Tz",
+            "title": "Sam Altman: Meta is offering over $100 million salaries + $100 million bonus to attract OpenAI Researchers",
+            "content_html": "",
+            "date_published": "2025-06-18T04:21:21+00:00",
+            "authors": [
+                {
+                    "name": "Alex__007",
+                    "url": "https://www.reddit.com/user/Alex__007"
+                }
+            ]
+        },
+        {
             "id": "1lbec64",
             "url": "/r/OpenAI/comments/1lbec64/agi_will_create_new_jobs/",
             "external_url": "https://i.redd.it/elj7ti8eix6f1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Emotional-Metal4879",
                     "url": "https://www.reddit.com/user/Emotional-Metal4879"
-                }
-            ]
-        },
-        {
-            "id": "1hhygng",
-            "url": "/r/OpenAI/comments/1hhygng/gemini_20_flash_thinking_reasoning_free/",
-            "external_url": "https://www.reddit.com/r/OpenAI/comments/1hhygng/gemini_20_flash_thinking_reasoning_free/",
-            "title": "Gemini 2.0 Flash Thinking (reasoning, FREE)",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1hhygng/gemini_20_flash_thinking_reasoning_free/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1hhygng/gemini_20_flash_thinking_reasoning_free/'>Reddit</a></caption><div><br></div><p>Reasoning model released by google. IMO, super impressive, and openai is very much behind.</p>\n<p>Accessible for FREE via <a href=\"http://aistudio.google.com\">aistudio.google.com</a> !!!</p>\n<p>OAI has to step up their game</p>\n<p>1500 Free requests/day, 2024 knowledge cutoff.</p>\n<p><strong>you can steer the model VERY well because you can system prompt it</strong></p>\n<p>And for my tests for images, general questions (for recall for popular literature but specific details), math, and some other things, its on-par or better than o1 (worse than preview, but still). And free.</p>\n<p>Can't believe that I'm paying $20 for 50 messages / week of an inferior product.</p>",
-            "date_published": "2024-12-19T17:44:05+00:00",
-            "authors": [
-                {
-                    "name": "dp3471",
-                    "url": "https://www.reddit.com/user/dp3471"
                 }
             ]
         }
