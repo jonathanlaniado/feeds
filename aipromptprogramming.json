@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1lgg286",
+            "url": "/r/aipromptprogramming/comments/1lgg286/i_built_a_system_that_scrapes_every_company/",
+            "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1lgg286/i_built_a_system_that_scrapes_every_company/",
+            "title": "I built a system that scrapes every company career page in real time.",
+            "content_html": "<p>I realized most job openings are quietly posted on internal career pages, and about 90% of them go through one of these ATS platforms: Workday, Greenhouse, Lever, Ashby, Taleo, SmartRecruiters, iCIMS, Recruitee, Breezy, Jobvite, SuccessFactors, JazzHR, BambooHR, and a few others. We are talking about more than 50M jobs posted annually.</p>\n<p>So, I created a system that scans companies using these ATS every 6 hours and updates a massive job database. On top of that, I built a matching tool that reads your resume and shows you the most relevant jobs based on your skills, totally free (<a href=\"https://laboro.co/?utm_source=reddit&amp;utm_medium=organic&amp;utm_campaign=scrape3\">You can try it here</a>).</p>\n<p>There\u2019s also an auto-apply feature (currently paid, but I plan to make it free soon). In the meantime, feel free to try the matching tool.</p>\n<p>One of the most important things when applying is being fast, being first. That\u2019s why the system constantly monitors and updates the database, so you can catch fresh job postings before anyone else.</p>\n<p>I\u2019d really appreciate any feedback or suggestions, I\u2019m constantly working to improve this.</p>\n<p>P.S. If you're curious but don\u2019t want to share personal info, feel free to use a fake CV, the system only looks at relevant experience for matching, not personal data.</p>",
+            "date_published": "2025-06-20T21:48:13+00:00",
+            "authors": [
+                {
+                    "name": "Interview_scouter",
+                    "url": "https://www.reddit.com/user/Interview_scouter"
+                }
+            ]
+        },
+        {
             "id": "1lcg0u9",
             "url": "/r/aipromptprogramming/comments/1lcg0u9/how_i_hacked_the_job_market_ama/",
             "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1lcg0u9/how_i_hacked_the_job_market_ama/",
@@ -1386,20 +1400,6 @@
             "title": "Move AI just launched Move Live - create real-time 3D digital experiences, without suits or markers.",
             "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1e55qbv/move_ai_just_launched_move_live_create_realtime/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1e55qbv/move_ai_just_launched_move_live_create_realtime/'>Reddit</a></caption><div><br></div>",
             "date_published": "2024-07-17T01:26:26+00:00",
-            "authors": [
-                {
-                    "name": "Educational_Ice151",
-                    "url": "https://www.reddit.com/user/Educational_Ice151"
-                }
-            ]
-        },
-        {
-            "id": "1e4o24p",
-            "url": "/r/aipromptprogramming/comments/1e4o24p/my_submission_to_anthropics_build_with_claude/",
-            "external_url": "https://v.redd.it/6lkvfjlwlucd1",
-            "title": "My submission to Anthropic's Build with Claude June 2024 hackathon: Claude Dev, an autonomous software engineer right in your IDE. Open source and available on VSCode marketplace now!",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1e4o24p/my_submission_to_anthropics_build_with_claude/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1e4o24p/my_submission_to_anthropics_build_with_claude/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-07-16T13:01:13+00:00",
             "authors": [
                 {
                     "name": "Educational_Ice151",
