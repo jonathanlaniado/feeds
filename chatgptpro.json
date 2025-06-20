@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
     "items": [
         {
+            "id": "1lg9ek3",
+            "url": "/r/ChatGPTPro/comments/1lg9ek3/constant_falsehoods_have_eroded_my_trust_in/",
+            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1lg9ek3/constant_falsehoods_have_eroded_my_trust_in/",
+            "title": "Constant falsehoods have eroded my trust in ChatGPT.",
+            "content_html": "<p>I used to spend hours with ChatGPT, using it to work through concepts in physics, mathematics, engineering, philosophy. It helped me understand concepts that would have been exceedingly difficult to work through on my own, and was an absolute dream while it worked.</p>\n<p>Lately, all the models appear to spew out information that is often complete bogus. Even on simple topics, I'd estimate that around 20-30% of the claims are total bullsh*t. When corrected, the model hedges and then gives some equally BS excuse \u00e0 la \"I happened to see it from a different angle\" (even when the response was scientifically, factually wrong) or \"Correct. This has been disproven\". Not even an apology/admission of fault anymore, like it used to offer \u2013 because what would be the point anyway, when it's going to present more BS in the next response? Not without the obligatory \"It won't happen again\"s though. God, I hate this so much.</p>\n<p>I absolutely detest how OpenAI has apparently deprioritised factual accuracy and scientific rigour in favour of hyper-emotional agreeableness. No customisation can change this, as this is apparently a system-level change. The consequent constant bullsh*tting has completely eroded my trust in the models and the company.</p>\n<p>I'm now back to googling everything again like it's 2015, because that is a lot more insightful and reliable than whatever the current models are putting out.</p>\n<p>Edit: To those smooth brains who state \"Muh, AI hallucinates/gets things wrongs sometimes\" \u2013 <strong>this is not about \"sometimes\". This is about a 30% bullsh*t level when previously, it was closer to 1-3%.</strong> And people telling me to \"chill\" have zero grasp of how egregious an effect this can have on a wider culture which increasingly outsources its thinking and research to GPTs.</p>",
+            "date_published": "2025-06-20T17:10:58+00:00",
+            "authors": [
+                {
+                    "name": "Complex_Moment_8968",
+                    "url": "https://www.reddit.com/user/Complex_Moment_8968"
+                }
+            ]
+        },
+        {
             "id": "1lf5mo4",
             "url": "/r/ChatGPTPro/comments/1lf5mo4/chatgpts_impact_on_our_brains_according_to_an_mit/",
             "external_url": "https://www.reddit.com/gallery/1lf5mo4",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ShadowDV",
                     "url": "https://www.reddit.com/user/ShadowDV"
-                }
-            ]
-        },
-        {
-            "id": "18bb95s",
-            "url": "/r/ChatGPTPro/comments/18bb95s/gpt4_used_to_be_really_helpful_for_coding_issues/",
-            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/18bb95s/gpt4_used_to_be_really_helpful_for_coding_issues/",
-            "title": "GPT-4 used to be really helpful for coding issues",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ChatGPTPro/comments/18bb95s/gpt4_used_to_be_really_helpful_for_coding_issues/'>Apollo</a> | <a href='https://reddit.com/r/ChatGPTPro/comments/18bb95s/gpt4_used_to_be_really_helpful_for_coding_issues/'>Reddit</a></caption><div><br></div><p>It really sucks now. What has happened? This is not just a feeling, it really sucks on a daily basis. Making simple misstakes when coding, not spotting errors etc. The quality has dropped drastically. The feeling I get from the quality is the same as GPT 3.5. The reason I switched to pro was beacuse I thought GPT 3.5 was really stupid when the issues you were working on was a bit more complex. Well the Pro version is starting to become as useless as that now.</p>\n<p>Really sad to see, Im starting to consider dropping of the Pro version if this is the new standard. I have had it since february and have loved working together with GPT-4 on all kinds of issues.</p>",
-            "date_published": "2023-12-05T12:48:57+00:00",
-            "authors": [
-                {
-                    "name": "AkbarianTar",
-                    "url": "https://www.reddit.com/user/AkbarianTar"
                 }
             ]
         }
