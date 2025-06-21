@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1lgz46y",
+            "url": "/r/aipromptprogramming/comments/1lgz46y/linkedin_banned_me_for_automating_their_job/",
+            "external_url": "https://www.reddit.com/gallery/1lgz46y",
+            "title": "LinkedIn banned me for automating their Job Applications",
+            "content_html": "<p>LinkedIn banned me, my CTO, and 5 team members for building an AI Agent that auto-applied to jobs on LinkedIn (easy-apply jobs). We released it for free, it blew up (AI Hawk, 30K stars on github), and boom, all banned.</p>\n<p>We tried to communicate and negotiate, but they simply wanted the project down. And they were right, since we were breaking their ToS.</p>\n<p>So we took a long, deep breath, and we kill*d the project.</p>\n<p>But that wasn't the end of the story.</p>\n<p>We understood the problem wasn\u2019t LinkedIn, and we knew we had to get out of the LinkedIn ecosystem, to build something really scalable. A system that could work for any kind of job.</p>\n<p>So we built something bigger, an AI-First Job Board that scan every single job on the internet, match the most relevant to your resume, and let you apply hundreds of jobs in seconds using AI, across any ATS and company website online.</p>\n<p>Now we\u2019re back. And this time, our app can\u2019t be taken down.</p>\n<p>If you're curious, you can try it\u00a0<a href=\"https://laboro.co/?utm_source=reddit&amp;utm_medium=organic&amp;utm_campaign=linkedin2\">here</a></p>",
+            "date_published": "2025-06-21T15:25:27+00:00",
+            "authors": [
+                {
+                    "name": "Interview_scouter",
+                    "url": "https://www.reddit.com/user/Interview_scouter"
+                }
+            ]
+        },
+        {
             "id": "1lgg286",
             "url": "/r/aipromptprogramming/comments/1lgg286/i_built_a_system_that_scrapes_every_company/",
             "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1lgg286/i_built_a_system_that_scrapes_every_company/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Unfair_Row_1888",
                     "url": "https://www.reddit.com/user/Unfair_Row_1888"
-                }
-            ]
-        },
-        {
-            "id": "1e55qbv",
-            "url": "/r/aipromptprogramming/comments/1e55qbv/move_ai_just_launched_move_live_create_realtime/",
-            "external_url": "https://v.redd.it/dyb5zdhjowcd1",
-            "title": "Move AI just launched Move Live - create real-time 3D digital experiences, without suits or markers.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1e55qbv/move_ai_just_launched_move_live_create_realtime/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1e55qbv/move_ai_just_launched_move_live_create_realtime/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-07-17T01:26:26+00:00",
-            "authors": [
-                {
-                    "name": "Educational_Ice151",
-                    "url": "https://www.reddit.com/user/Educational_Ice151"
                 }
             ]
         }
