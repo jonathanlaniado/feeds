@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1lh7vmt",
+            "url": "/r/selfhosted/comments/1lh7vmt/cluely_raised_15_million_to_build_basic_ai/",
+            "external_url": "https://i.redd.it/gvvs8bn7qc8f1.jpeg",
+            "title": "Cluely raised $15 million to build basic AI Assistance, so I open-sourced it and giving it out to everyone!",
+            "content_html": "<p>Here's the open source: <a href=\"https://github.com/Tej-Sharma/horizon-overlay/tree/development\">https://github.com/Tej-Sharma/horizon-overlay/tree/development</a><br />\nOr the direct download: <a href=\"https://www.onhorizon.ai/\">https://www.onhorizon.ai/</a></p><div><br></div><img src=\"https://i.redd.it/gvvs8bn7qc8f1.jpeg\" />",
+            "date_published": "2025-06-21T21:54:25+00:00",
+            "authors": [
+                {
+                    "name": "SuperSaiyan1010",
+                    "url": "https://www.reddit.com/user/SuperSaiyan1010"
+                }
+            ]
+        },
+        {
             "id": "1lebp62",
             "url": "/r/selfhosted/comments/1lebp62/happy_world_backup_day/",
             "external_url": "https://i.imgur.com/GEvB1zP.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "SunilKumarDash",
                     "url": "https://www.reddit.com/user/SunilKumarDash"
-                }
-            ]
-        },
-        {
-            "id": "1f73ctc",
-            "url": "/r/selfhosted/comments/1f73ctc/dawarich_0120_selfhosted_google_location_history/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1f73ctc/dawarich_0120_selfhosted_google_location_history/",
-            "title": "Dawarich 0.12.0: Self-hosted Google Location History alternative update",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1f73ctc/dawarich_0120_selfhosted_google_location_history/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1f73ctc/dawarich_0120_selfhosted_google_location_history/'>Reddit</a></caption><div><br></div><p>Hello there good people of r/selfhosted! I'm here today to provide you with some changes I introduced in Dawarich.</p>\n<p>For those unfamiliar, <a href=\"https://github.com/Freika/dawarich\">Dawarich</a> is a self-hosted alternative to Google Location History and Owntracks</p>\n<p>https://preview.redd.it/lgqgouibhdmd1.png?width=3096&amp;format=png&amp;auto=webp&amp;s=e1c14ac4280aeefa50502d6856c5afe6f4f4d941</p>\n<p>So, the last time I posted an update here on Reddit, it was on Dawarich 0.7.0, more than two months ago. Today I'll share changes made to the application since, and in the future, I'm planning to post release updates on a monthly basis.</p>\n<p>I'll cover only significant changes, although there are also a whole lot of small ones. So, here we go!</p>\n<h1>Added</h1>\n<ul>\n<li>Fog of War. Yes, exactly like in your favorite RTS game!</li>\n<li>Primitive user management. The first user in the system is now the admin and can create new users. Nobody will be able to use your Dawarich instance without your knowledge.</li>\n<li>Full support for the <a href=\"https://support.google.com/maps/thread/264641290/export-full-location-timeline-data-in-json-or-similar-format-in-the-new-version-of-timeline?hl=en\">third</a> (yes, third) kind of Google's Takeout location history file.</li>\n<li>A simple notification system. You'll receive a notification when any of your background processes is finished. Non-live yet, requires a page reload.</li>\n<li>API endpoints</li>\n<li>`/api/v1/areas` (GET, POST)</li>\n<li>`/api/v1/area/:id` (PATCH/PUT, DELETE)</li>\n<li>`/api/v1/points` (GET)</li>\n<li>`/api/v1/point/:id` (DELETE)</li>\n<li>`/api/v1/visit/:id` (PATCH/PUT)</li>\n<li>`/api/v1/stats` (GET)</li>\n<li>Swagger docs for the API. Available at `/api-docs`.</li>\n<li>Support for multiple hosts. You can now provide multiple domains and IP addresses by which you want Dawarich to be available.</li>\n<li>Support for HTTPS protocol.</li>\n<li>Background jobs page, where you can start or re-start the reverse geocoding process for your points.</li>\n<li>Point can now be deleted right from the map. Just click on it, and then click on \"Delete\" in the popup.</li>\n<li>Some map settings can now be changed in user settings.</li>\n<li>Those who want to host their own Photon instance for reverse geocoding without limitations now can do that and point Dawarich to it with `PHOTON_API_HOST` env variable.</li>\n<li>Visits functionality. You can now draw an area on the map, give it a name (i.e. \"Parent's house\") and Dawarich will scan your visits there and suggest them to be confirmed or declined on the Visits page.</li>\n<li>Places &amp; Visit suggestion. Oooh this is huge. And it's still in beta. Basically, Dawarich scans through all your points, detects groups of them in space and time, and makes a suggestion: this is a Visit. If possible (and if reverse geocoding is enabled), it will also try to suggest a name of the place you visited.</li>\n<li>Map settings are moved directly to the map itself</li>\n</ul>\n<h1>Fixed</h1>\n<ul>\n<li>Hovering over a route on the Map page will no longer move the map. But click on a route will, it will move to show both the start and the finish of the route.</li>\n</ul>\n<h1>Changed</h1>\n<ul>\n<li>Registration is now disabled and new users can be only created by the very first user in the system (or an admin, or via console).</li>\n<li>Reverse geocoding process now saves all data it fetched, not just city and country</li>\n</ul>\n<p>So, I'd like to talk a bit about Visits suggestions. It's currently in its beta version, and the ultimate goal is to have Dawarich reliably suggest places you visited, also providing you with a list of names of potential places that you could have visited. Current implementation if a first step, and initial visits suggestion, depending on the amount of points you tracked or imported, might take a few hours and consume some considerable resources. With that in mind, it might be smart to limit resources (like that, for example: <a href=\"https://stackoverflow.com/questions/42345235/how-to-specify-memory-cpu-limit-in-docker-compose-version-3\">https://stackoverflow.com/questions/42345235/how-to-specify-memory-cpu-limit-in-docker-compose-version-3</a> ) available to Dawarich to not crash your server.</p>\n<p>The main focus for now would be probably honing existing features, especially the Visits suggestions feature, although I'll also be working on some other stuff, such as extending the API, supporting different types of export files, and some others. I invite you all to <a href=\"https://github.com/Freika/dawarich/discussions\">Github Discussions</a> to ask your questions and bring your ideas.</p>\n<p>Feel free to support the project on <a href=\"https://www.patreon.com/freika\">Patreon</a>, <a href=\"https://ko-fi.com/freika\">Ko-fi</a> or using crypto (address is in the project README) if you find it useful :)</p>\n<p>To save you a scroll:</p>\n<ul>\n<li><a href=\"https://github.com/Freika/dawarich\">https://github.com/Freika/dawarich</a></li>\n<li><a href=\"https://dawarich.app\">https://dawarich.app</a></li>\n</ul>\n<p>Cheers!</p>",
-            "date_published": "2024-09-02T10:23:10+00:00",
-            "authors": [
-                {
-                    "name": "Freika",
-                    "url": "https://www.reddit.com/user/Freika"
                 }
             ]
         }
