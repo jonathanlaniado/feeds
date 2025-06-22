@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1lhdlfv",
+            "url": "/r/MacOSBeta/comments/1lhdlfv/starting_with_macos_tahoe_beta_1_firewire_400_and/",
+            "external_url": "https://i.redd.it/qe06r3p37e8f1.png",
+            "title": "Starting with macOS Tahoe beta 1, FireWire 400 and FireWire 800 standards are no longer supported.",
+            "content_html": "<p>This type of connection was used by older iPods, MiniDV camcorders, or LaCie drives. Support may be added, but at the moment nothing happens when connecting retro devices to a Mac via adapters on the latest beta.</p><div><br></div><img src=\"https://i.redd.it/qe06r3p37e8f1.png\" />",
+            "date_published": "2025-06-22T02:48:10+00:00",
+            "authors": [
+                {
+                    "name": "Separate-Way5095",
+                    "url": "https://www.reddit.com/user/Separate-Way5095"
+                }
+            ]
+        },
+        {
             "id": "1lg9ez2",
             "url": "/r/MacOSBeta/comments/1lg9ez2/do_you_want_the_launchpad_back_here_you_go/",
             "external_url": "https://i.redd.it/1cekylzz548f1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "rozmarra",
                     "url": "https://www.reddit.com/user/rozmarra"
-                }
-            ]
-        },
-        {
-            "id": "1e5yz8h",
-            "url": "/r/MacOSBeta/comments/1e5yz8h/you_can_now_open_context_menus_using_the_keyboard/",
-            "external_url": "https://v.redd.it/2asy9ev3h6dd1",
-            "title": "You can now open context menus using the keyboard with Control-return! \ud83e\udd2f",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOSBeta/comments/1e5yz8h/you_can_now_open_context_menus_using_the_keyboard/'>Winston</a> | <a href='https://reddit.com/r/MacOSBeta/comments/1e5yz8h/you_can_now_open_context_menus_using_the_keyboard/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-07-18T01:13:28+00:00",
-            "authors": [
-                {
-                    "name": "WesleyWex",
-                    "url": "https://www.reddit.com/user/WesleyWex"
                 }
             ]
         }
