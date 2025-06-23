@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1lihffy",
+            "url": "/r/MacOSBeta/comments/1lihffy/macos26_db1_very_old_mail_icon_spotted_in_the/",
+            "external_url": "https://i.redd.it/0p52d7e1oo8f1.png",
+            "title": "[MacOS26 DB1] Very old Mail icon spotted in the Notes share menu!",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/0p52d7e1oo8f1.png\" />",
+            "date_published": "2025-06-23T14:03:51+00:00",
+            "authors": [
+                {
+                    "name": "GlucoseQuestionMark",
+                    "url": "https://www.reddit.com/user/GlucoseQuestionMark"
+                }
+            ]
+        },
+        {
             "id": "1lhdlfv",
             "url": "/r/MacOSBeta/comments/1lhdlfv/starting_with_macos_tahoe_beta_1_firewire_400_and/",
             "external_url": "https://i.redd.it/qe06r3p37e8f1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "nathan12581",
                     "url": "https://www.reddit.com/user/nathan12581"
-                }
-            ]
-        },
-        {
-            "id": "1ea7zun",
-            "url": "/r/MacOSBeta/comments/1ea7zun/macos_15_db3_iphone_mirroring_is_apples_it_just/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1ea7zun/macos_15_db3_iphone_mirroring_is_apples_it_just/",
-            "title": "[macOS 15 DB3] iPhone mirroring is Apple's \"it just works\" in a long time",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOSBeta/comments/1ea7zun/macos_15_db3_iphone_mirroring_is_apples_it_just/'>Winston</a> | <a href='https://reddit.com/r/MacOSBeta/comments/1ea7zun/macos_15_db3_iphone_mirroring_is_apples_it_just/'>Reddit</a></caption><div><br></div><p>There's no lag, no mis-touches. Works between devices, no common network needed. Keyboard, trackpad, mouse works. And notifications, so beautifully implemented. They've thought of edge scenarios and security - auto lock, remote login into mac with iPhone Mirroring, and so on.</p>\n<p>Sure, there are regular beta bugs in the overall OS as expected, but this feature - it just works.</p>",
-            "date_published": "2024-07-23T13:34:55+00:00",
-            "authors": [
-                {
-                    "name": "rozmarra",
-                    "url": "https://www.reddit.com/user/rozmarra"
                 }
             ]
         }
