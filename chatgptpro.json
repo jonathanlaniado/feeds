@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
     "items": [
         {
+            "id": "1libm99",
+            "url": "/r/ChatGPTPro/comments/1libm99/i_got_lost_in_the_woods_on_an_atv_chatgpt/",
+            "external_url": "https://www.reddit.com/gallery/1libm99",
+            "title": "I got lost in the woods on an ATV & ChatGPT literally saved my life. No, seriously.",
+            "content_html": "<p>Out biking with people who thought they knew the way.. they kept turning around thinking they were going the wrong way, then back fourth, back fourth.. which led to us getting lost for like 5 hours. Following a map is not very helpful in that situation so I decided to start screenshotting my location coordinates on the maps app and uploading them to ChatGPT to help me &amp; every 5-10 minutes sending current coordinates to make sure I was still on track. Every direction, road name, road condition, north south east &amp; west (yes it even had me using my compass app for the first time ever lol) bumpy/smooth terrain.. everything was 100% spot on. </p>\n<p>Blows my mind especially being in such a small unknown town, with backroads leading EVERYWHERE, tons of uncharted trails in the area, trails that are not listed on maps.. not even listed on maps specifically made for atv trails, &amp; the fact that it led me home do effortlessly. ChatGPT never ceases to amaze me \ud83d\ude29 definitely good for people to know if they\u2019re ever in a similar.. or especially a worse situation.</p>",
+            "date_published": "2025-06-23T08:53:19+00:00",
+            "authors": [
+                {
+                    "name": "Own_Analyst3795",
+                    "url": "https://www.reddit.com/user/Own_Analyst3795"
+                }
+            ]
+        },
+        {
             "id": "1lguvrl",
             "url": "/r/ChatGPTPro/comments/1lguvrl/chatgpt_is_smarter_ai_but_google_gemini_works/",
             "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1lguvrl/chatgpt_is_smarter_ai_but_google_gemini_works/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "chen19921337",
                     "url": "https://www.reddit.com/user/chen19921337"
-                }
-            ]
-        },
-        {
-            "id": "18hsgm6",
-            "url": "/r/ChatGPTPro/comments/18hsgm6/more_absolutely_neutered_features_legal_text/",
-            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/18hsgm6/more_absolutely_neutered_features_legal_text/",
-            "title": "More absolutely neutered features: Legal Text Generation",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/ChatGPTPro/comments/18hsgm6/more_absolutely_neutered_features_legal_text/'>Apollo</a> | <a href='https://reddit.com/r/ChatGPTPro/comments/18hsgm6/more_absolutely_neutered_features_legal_text/'>Reddit</a></caption><div><br></div><h2>Background</h2>\n<p>I run a startup, which means I'm working through dozens of contracts and agreements each month. As recently as October, I would upload or paste a document, say what needs to change, then ask GPT to export section by section, and eventually entire Word docs using extensions.  </p>\n<h3>December's neutering</h3>\n<p>I have been pounding my head against the wall with ChatGPT this month. It required a half-dozen responses just to confirm that I <em>will</em> have a lawyer look at the draft, and even then ChatGPT refuses to output anything but an outline, or abbreviated paragraphs that summarize the idea.  </p>\n<p>The whole point is that this is a language model -- it's built to create natural language based on an input. The guard rails are making that impossible.  </p>\n<h3>What's next?</h3>\n<p>All that said, does anyone have any suggestions on better legal language drafting LLMs?</p>",
-            "date_published": "2023-12-13T22:01:40+00:00",
-            "authors": [
-                {
-                    "name": "DeJeR",
-                    "url": "https://www.reddit.com/user/DeJeR"
                 }
             ]
         }
