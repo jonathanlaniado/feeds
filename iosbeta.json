@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1linqz4",
+            "url": "/r/iOSBeta/comments/1linqz4/ios_26_db2_default_ios_26_wallpaper_now_responds/",
+            "external_url": "https://v.redd.it/edwnwlnmvp8f1",
+            "title": "[iOS 26 DB2] Default iOS 26 wallpaper now responds to device motion",
+            "content_html": "<p>Default iOS 26 wallpaper now responds to device gyro/movement</p>",
+            "date_published": "2025-06-23T18:05:17+00:00",
+            "authors": [
+                {
+                    "name": "mvbalan",
+                    "url": "https://www.reddit.com/user/mvbalan"
+                }
+            ]
+        },
+        {
             "id": "1linbjl",
             "url": "/r/iOSBeta/comments/1linbjl/ios_26_db2_new_tab_button_has_been_moved_back_to/",
             "external_url": "https://i.imgur.com/J2dKeAx.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Zacatac_391",
                     "url": "https://www.reddit.com/user/Zacatac_391"
-                }
-            ]
-        },
-        {
-            "id": "1efk5kh",
-            "url": "/r/iOSBeta/comments/1efk5kh/ios_181_db1_siri_now_responds_to_all_requests/",
-            "external_url": "https://i.redd.it/5dqbix0xzkfd1.jpeg",
-            "title": "[iOS 18.1 DB1] Siri now responds to all requests with information about turmeric.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1efk5kh/ios_181_db1_siri_now_responds_to_all_requests/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1efk5kh/ios_181_db1_siri_now_responds_to_all_requests/'>Reddit</a></caption><div><br></div><p>Have tried multiple queries at this point but always get the same response back.</p><div><br></div><img src=\"https://i.redd.it/5dqbix0xzkfd1.jpeg\" />",
-            "date_published": "2024-07-30T04:11:38+00:00",
-            "authors": [
-                {
-                    "name": "max_retik",
-                    "url": "https://www.reddit.com/user/max_retik"
                 }
             ]
         }
