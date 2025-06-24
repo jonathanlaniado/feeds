@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1ljeqg0",
+            "url": "/r/OpenAI/comments/1ljeqg0/elon_musk_claims_he_does_not_use_a_computer_in/",
+            "external_url": "https://www.the-independent.com/tech/elon-musk-laptop-openai-lawsuit-b2775986.html",
+            "title": "Elon Musk claims he \u2018does not use a computer\u2019 in OpenAI lawsuit - despite posting several pictures of his laptop online",
+            "content_html": "",
+            "date_published": "2025-06-24T15:51:17+00:00",
+            "authors": [
+                {
+                    "name": "IAdmitILie",
+                    "url": "https://www.reddit.com/user/IAdmitILie"
+                }
+            ]
+        },
+        {
             "id": "1likqr5",
             "url": "/r/OpenAI/comments/1likqr5/learn_to_use_ai_or_uh/",
             "external_url": "https://i.redd.it/eele5c4fbp8f1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "TheStockInsider",
                     "url": "https://www.reddit.com/user/TheStockInsider"
-                }
-            ]
-        },
-        {
-            "id": "1hm5dze",
-            "url": "/r/OpenAI/comments/1hm5dze/ai_outperformed_doctors_on_reasoning_tasks/",
-            "external_url": "https://www.reddit.com/gallery/1hm5dze",
-            "title": "AI outperformed doctors on reasoning tasks. ",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/OpenAI/comments/1hm5dze/ai_outperformed_doctors_on_reasoning_tasks/'>Winston</a> | <a href='https://reddit.com/r/OpenAI/comments/1hm5dze/ai_outperformed_doctors_on_reasoning_tasks/'>Reddit</a></caption><div><br></div><p>AI outperformed doctors on reasoning tasks.</p>\n<p>Doctor = 30% correct diagnosis\nAI = 80% correct diagnosis</p>\n<p>These findings are from a study in arxiv which sought to evaluate OpenAI's o1-preview model, a model developed to increase run-time via chain of thought processes prior to generating a response.\nPerformance of large language models (LLMs) on medical tasks has traditionally been evaluated using multiple choice question benchmarks; however, such benchmarks are highly constrained, and have an unclear relationship to performance in real clinical scenarios</p>\n<p>Clinical reasoning, the process by which physicians employ critical thinking to gather and synthesize clinical data to diagnose and manage medical problems, remains an attractive benchmark for model performance.\nThe performance of o1-preview was characterized with five experiments including differential diagnosis, diagnostic reasoning, triage differential diagnosis, probabilistic reasoning, and management reasoning, adjudicated by physician experts with validated psychometrics.</p>\n<p>Significant improvements were observed with differential diagnosis generation and quality of diagnostic and management reasoning. However, no improvements were observed with probabilistic reasoning or triage differential diagnosis.Overall, this study highlights o1-preview's ability to perform strongly on tasks that require complex critical thinking such as diagnosis and management while its performance on probabilistic reasoning tasks was similar to past models.</p>",
-            "date_published": "2024-12-25T17:53:58+00:00",
-            "authors": [
-                {
-                    "name": "Mr_myatHtoo",
-                    "url": "https://www.reddit.com/user/Mr_myatHtoo"
                 }
             ]
         }
