@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1lj7sjb",
+            "url": "/r/homeassistant/comments/1lj7sjb/i_think_i_am_finally_done/",
+            "external_url": "https://www.reddit.com/gallery/1lj7sjb",
+            "title": "I Think I am Finally Done",
+            "content_html": "<p>This isn\u2019t meant to brag\u2014I\u2019ve learned so much from the amazing work shared by others in the community, and I\u2019d love to give back. I've been working on a project that I think some of you might find useful or inspiring. Below are six screenshots showcasing what I\u2019ve built so far.</p>\n<p>As usual, I\u2019ll include all the HACS integrations I\u2019ve used and give full credit to the incredible people whose work made this possible.</p>\n<p>I\u2019m planning to write up a proper GitHub page for it this weekend. If you're interested, here\u2019s the placeholder link: <a href=\"https://github.com/reylinux/Dark-Transparent-Tablet-Dashboard\"><strong>reylinux/Dark-Transparent-Tablet-Dashboard</strong></a></p>\n<p><strong>First Image Details</strong></p>\n<p>This is the homepage where you can find the most important stuffs.</p>\n<ul>\n<li>1st row: clock, date, weather forecast information, and room occupancy toggles (to trigger climate automation). Moving to the right we've got indoor / outdoor temp with climate control for the first tab, and sprinkler control on the other tab. Then we have a media with speaker count, and calendar to fit schedules of mine, wife, and special events, with alarm and a count of notification that links to the notification/weather panel/alarm that I will explain a bit later.</li>\n<li>2nd row: room cards with temp/humidity readings, light switch, a count of open door / windows (when applicable). </li>\n<li>3rd row: four main cameras for quick action. I had an issue with swipe card earlier so currently only displaying four of them.</li>\n</ul>\n<p><strong>Second Image Details</strong></p>\n<p>This is an example of a room. Let's divide this into three sections from left to right.</p>\n<ul>\n<li>Left section: lighting controls. You'll swipe left or right to control the brightness of the lights. And the bottom section is a collapsible card to make it tidy for the lights that we don't usually control.</li>\n<li>Middle section: Temp / Humidity readings with a waterfall card that has a similar hex value on each threshold. My lowest to the highest temperature gradient is deep purple &gt; purple &gt; light blue &gt; green &gt; yellow &gt; orange &gt; red. For humidity there are only red and green.</li>\n<li>Right section: this is only for a pure aesthetic to fill the page nicely and will have a night / day look into it depends on the time.</li>\n</ul>\n<p><strong>Third Image Details</strong></p>\n<p>This is a notification / weather panel. </p>\n<ul>\n<li>Left section: Currently it's only showing 1 speaker playing a music. It has hidden chips for recycle day, dryer / washing, etc.. Below it, will show what lights that currently active.</li>\n<li>Middle section: this area contains weather status, forecast, and warnings if any (currently there's none)</li>\n<li>Right section: an iframe from <a href=\"http://Windy.com\">Windy.com</a> which has plenty of other map variations.</li>\n</ul>\n<p><strong>Fourth Image Details</strong></p>\n<p>This page contains all the cameras. I am using Reolink CX410 / CX810, and E1 Pro. Under each camera, I've assigned the light switches in that area / the closest area for quick action.</p>\n<p><strong>Fifth Image Details</strong></p>\n<p>This page has scenes that I like. It is handled by automation and scripts to only run for hue lights in Living Area (10+ lights). There will be an off button once I run the scene, and it will only switch the lights back to normal where the sensors detect us and turn the rest of it gracefully with 2 seconds delay on each light in an order with 3s transition time.</p>\n<p><strong>Six Image Details</strong></p>\n<p>Last but not least, an Alarmo dedicated page. I've set this recently and it was super fun to turn the lights into red and run the alarm siren sound throughout the living area with 8x Google Minis.</p>",
+            "date_published": "2025-06-24T10:43:39+00:00",
+            "authors": [
+                {
+                    "name": "ElementZoom",
+                    "url": "https://www.reddit.com/user/ElementZoom"
+                }
+            ]
+        },
+        {
             "id": "1lbbxff",
             "url": "/r/homeassistant/comments/1lbbxff/need_help/",
             "external_url": "https://i.redd.it/uh39vh6uzw6f1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "privatesam",
                     "url": "https://www.reddit.com/user/privatesam"
-                }
-            ]
-        },
-        {
-            "id": "17enjt0",
-            "url": "/r/homeassistant/comments/17enjt0/matter_hits_version_12_adding_support_for_robot/",
-            "external_url": "https://www.theverge.com/2023/10/23/23925489/matter-1-2-smart-home-support-new-devices",
-            "title": "Matter hits version 1.2, adding support for robot vacuums, refrigerators, washing machines, dishwashers, smoke and CO alarms, air quality sensors, and more",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/17enjt0/matter_hits_version_12_adding_support_for_robot/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/17enjt0/matter_hits_version_12_adding_support_for_robot/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-10-23T15:46:57+00:00",
-            "authors": [
-                {
-                    "name": "udit39",
-                    "url": "https://www.reddit.com/user/udit39"
                 }
             ]
         }
