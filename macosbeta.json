@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1ljb3zq",
+            "url": "/r/MacOSBeta/comments/1ljb3zq/macos_tahoe_sidebar_is_an_abomination/",
+            "external_url": "https://i.redd.it/jr71y1tzlv8f1.png",
+            "title": "macOS Tahoe sidebar is an abomination",
+            "content_html": "<p>Coming over from Windows last year, the sidebar was one of my favorite UI elements used across the native macOS apps. Hard to believe it looks like this now.</p><div><br></div><img src=\"https://i.redd.it/jr71y1tzlv8f1.png\" />",
+            "date_published": "2025-06-24T13:28:00+00:00",
+            "authors": [
+                {
+                    "name": "ultravelocity",
+                    "url": "https://www.reddit.com/user/ultravelocity"
+                }
+            ]
+        },
+        {
             "id": "1lj74nc",
             "url": "/r/MacOSBeta/comments/1lj74nc/the_one_thing_i_hate_about_tahoe/",
             "external_url": "https://i.redd.it/wqhnluxfmu8f1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Able_Rip6699",
                     "url": "https://www.reddit.com/user/Able_Rip6699"
-                }
-            ]
-        },
-        {
-            "id": "1efxexa",
-            "url": "/r/MacOSBeta/comments/1efxexa/why_apple_didnt_bring_neural_engine_stats_to/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1efxexa/why_apple_didnt_bring_neural_engine_stats_to/",
-            "title": "Why apple didn\u2019t bring \u201cneural engine\u201d stats to Activity monitor?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOSBeta/comments/1efxexa/why_apple_didnt_bring_neural_engine_stats_to/'>Winston</a> | <a href='https://reddit.com/r/MacOSBeta/comments/1efxexa/why_apple_didnt_bring_neural_engine_stats_to/'>Reddit</a></caption><div><br></div><p>Since we are approaching the first apple intelligence release, why apple didn\u2019t provide a way to monitor neural engines?</p>",
-            "date_published": "2024-07-30T16:13:27+00:00",
-            "authors": [
-                {
-                    "name": "mfarid2",
-                    "url": "https://www.reddit.com/user/mfarid2"
                 }
             ]
         }
