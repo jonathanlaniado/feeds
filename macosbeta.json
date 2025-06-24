@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1lisimf",
+            "url": "/r/MacOSBeta/comments/1lisimf/macos_26_db2_new_option_to_show_menu_bar/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1lisimf/macos_26_db2_new_option_to_show_menu_bar/",
+            "title": "[macOS 26 DB2] New option to show menu bar background",
+            "content_html": "<p>Not a fan of the whole transparent menu bar look personally. Super glad theres a way to opt out now. Hopefully they do the same for the window corner radius!</p>\n<p>System Settings &gt; Menu Bar &gt; Show menu bar background</p>",
+            "date_published": "2025-06-23T21:08:08+00:00",
+            "authors": [
+                {
+                    "name": "therealFoxster",
+                    "url": "https://www.reddit.com/user/therealFoxster"
+                }
+            ]
+        },
+        {
             "id": "1liqe31",
             "url": "/r/MacOSBeta/comments/1liqe31/apple_music_controls_change_is_completely/",
             "external_url": "https://i.redd.it/wr8kxfjkcq8f1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "sicilian504",
                     "url": "https://www.reddit.com/user/sicilian504"
-                }
-            ]
-        },
-        {
-            "id": "1ef6c1s",
-            "url": "/r/MacOSBeta/comments/1ef6c1s/151_developer_beta/",
-            "external_url": "https://i.redd.it/rtqcnatezhfd1.png",
-            "title": "15.1 Developer Beta",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOSBeta/comments/1ef6c1s/151_developer_beta/'>Winston</a> | <a href='https://reddit.com/r/MacOSBeta/comments/1ef6c1s/151_developer_beta/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/rtqcnatezhfd1.png\" />",
-            "date_published": "2024-07-29T18:05:18+00:00",
-            "authors": [
-                {
-                    "name": "plastipar",
-                    "url": "https://www.reddit.com/user/plastipar"
                 }
             ]
         }
