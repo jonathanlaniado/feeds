@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1lk8j5r",
+            "url": "/r/MacOSBeta/comments/1lk8j5r/get_launchpad_back_macos_26/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1lk8j5r/get_launchpad_back_macos_26/",
+            "title": "Get Launchpad Back MacOS 26",
+            "content_html": "<p>This is the easiest way to get launchpad back without any app or any workaround\u2026 </p>\n<p>Just open your terminal:</p>\n<ol>\n<li>\n<p>Enter this command:\nsudo mkdir -p /Library/Preferences/FeatureFlags/Domain</p>\n</li>\n<li>\n<p>Enter your password</p>\n</li>\n<li>\n<p>Enter this command:\nsudo defaults write /Library/Preferences/FeatureFlags/Domain/SpotlightUI.plist SpotlightPlus -dict Enabled -bool false</p>\n</li>\n<li>\n<p>Reboot your Mac and enjoy!\ud83d\ude09 </p>\n</li>\n</ol>\n<p>(To get back, same steps with \u00ab\u00a0true\u00a0\u00bb at the end\u2026)</p>",
+            "date_published": "2025-06-25T15:21:31+00:00",
+            "authors": [
+                {
+                    "name": "MStratiote",
+                    "url": "https://www.reddit.com/user/MStratiote"
+                }
+            ]
+        },
+        {
             "id": "1ljwjuw",
             "url": "/r/MacOSBeta/comments/1ljwjuw/i_fixed_the_finder_icon_on_macos_26_tahoe/",
             "external_url": "https://www.reddit.com/gallery/1ljwjuw",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "fkick",
                     "url": "https://www.reddit.com/user/fkick"
-                }
-            ]
-        },
-        {
-            "id": "1ei3hpi",
-            "url": "/r/MacOSBeta/comments/1ei3hpi/repeatedly_showing_app_name_can_access_this/",
-            "external_url": "https://i.redd.it/1ru4rtqt77gd1.png",
-            "title": "Repeatedly showing \"App name can access this computer's screen and audio. Do you want to continue to allow access? popup",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOSBeta/comments/1ei3hpi/repeatedly_showing_app_name_can_access_this/'>Winston</a> | <a href='https://reddit.com/r/MacOSBeta/comments/1ei3hpi/repeatedly_showing_app_name_can_access_this/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/1ru4rtqt77gd1.png\" />",
-            "date_published": "2024-08-02T06:55:39+00:00",
-            "authors": [
-                {
-                    "name": "BTXYT",
-                    "url": "https://www.reddit.com/user/BTXYT"
                 }
             ]
         }
