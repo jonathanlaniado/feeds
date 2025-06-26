@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1lk93w4",
+            "url": "/r/iOSBeta/comments/1lk93w4/ios_26_db2_graphic_ui_glitches_on_14_pro/",
+            "external_url": "https://www.reddit.com/gallery/1lk93w4",
+            "title": "[iOS 26 DB2] Graphic UI glitches on 14 Pro",
+            "content_html": "<p>Hey everyone,\nSince updating to iOS 18 Developer Beta 2, I\u2019ve noticed a strange graphical glitch: pink pixel artifacts appear in various parts of the UI, especially in Safari\u2019s URL bar, buttons, and other interface elements.</p>\n<p>It looks like some sort of rendering issue\u2014small pink blocks or lines showing up where they shouldn\u2019t. I\u2019ve seen this across different apps, but it\u2019s most noticeable in Safari.</p>\n<p>Is anyone else experiencing this? Wondering if it\u2019s a known issue or something device-specific (iPhone 14 Pro here).</p>",
+            "date_published": "2025-06-25T15:43:38+00:00",
+            "authors": [
+                {
+                    "name": "Confident-College986",
+                    "url": "https://www.reddit.com/user/Confident-College986"
+                }
+            ]
+        },
+        {
             "id": "1ljhhp7",
             "url": "/r/iOSBeta/comments/1ljhhp7/ios_26_db2_swipe_recent_calls_for_reminder_option/",
             "external_url": "https://i.redd.it/hd2odmc3vw8f1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "cozimatic",
                     "url": "https://www.reddit.com/user/cozimatic"
-                }
-            ]
-        },
-        {
-            "id": "1ei214p",
-            "url": "/r/iOSBeta/comments/1ei214p/ios_181_db1_apple_intelligent_writing_tool_will/",
-            "external_url": "https://i.redd.it/0b73c6vrq6gd1.jpeg",
-            "title": "[iOS 18.1 DB1] Apple intelligent writing tool will warn u if u used profanity",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1ei214p/ios_181_db1_apple_intelligent_writing_tool_will/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1ei214p/ios_181_db1_apple_intelligent_writing_tool_will/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/0b73c6vrq6gd1.jpeg\" />",
-            "date_published": "2024-08-02T05:19:37+00:00",
-            "authors": [
-                {
-                    "name": "littleblack11111",
-                    "url": "https://www.reddit.com/user/littleblack11111"
                 }
             ]
         }
