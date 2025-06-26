@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1ll3fjo",
+            "url": "/r/shortcuts/comments/1ll3fjo/i_created_a_shortcut_to_navigate_directly_to_the/",
+            "external_url": "https://i.redd.it/lbbydkweka9f1.png",
+            "title": "I created a shortcut to navigate directly to the iOS settings page for the app currently open",
+            "content_html": "<p>See it in action here: <a href=\"https://imgur.com/a/nw55WQd\">https://imgur.com/a/nw55WQd</a></p>\n<p>Download it here: <a href=\"https://www.icloud.com/shortcuts/21f6cb2488444c5c95a3fc1e54aa965a\">https://www.icloud.com/shortcuts/21f6cb2488444c5c95a3fc1e54aa965a</a>  </p>\n<p>Add this shortcut to your control center and use it while in any app to get to that app's iOS settings page. It's only 4 actions!</p>\n<ol>\n<li>Gets the current app (as the bundle identifier)</li>\n<li>Creates the text for the URL to the settings page <code>App-prefs:[BundleIdentifier]</code></li>\n<li>Converts the text to a URL (might not even need this step)</li>\n<li>Opens the URL</li>\n</ol>\n<p>One caveat is that I am on iOS 26 Beta, hopefully that doesn't matter.</p><div><br></div><img src=\"https://i.redd.it/lbbydkweka9f1.png\" />",
+            "date_published": "2025-06-26T15:43:00+00:00",
+            "authors": [
+                {
+                    "name": "grillinmuffins",
+                    "url": "https://www.reddit.com/user/grillinmuffins"
+                }
+            ]
+        },
+        {
             "id": "1la9acu",
             "url": "/r/shortcuts/comments/1la9acu/ai_run_javascript_in_browser/",
             "external_url": "https://i.redd.it/2aze6pkt5n6f1.gif",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Jpasholk",
                     "url": "https://www.reddit.com/user/Jpasholk"
-                }
-            ]
-        },
-        {
-            "id": "1agl973",
-            "url": "/r/shortcuts/comments/1agl973/whats_your_most_complex_automation_or_the_ones/",
-            "external_url": "https://www.reddit.com/r/shortcuts/comments/1agl973/whats_your_most_complex_automation_or_the_ones/",
-            "title": "What's your most complex automation or the ones you are proud of having made yourself?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1agl973/whats_your_most_complex_automation_or_the_ones/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1agl973/whats_your_most_complex_automation_or_the_ones/'>Reddit</a></caption><div><br></div><p>I'm just curious to see what limits you can reach with the automations?</p>",
-            "date_published": "2024-02-01T20:50:01+00:00",
-            "authors": [
-                {
-                    "name": "pikaaaaaachu",
-                    "url": "https://www.reddit.com/user/pikaaaaaachu"
                 }
             ]
         }
