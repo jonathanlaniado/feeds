@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
     "items": [
         {
+            "id": "1lltwnb",
+            "url": "/r/ChatGPTPro/comments/1lltwnb/microsoft_is_struggling_to_sell_copilot_to/",
+            "external_url": "https://www.techradar.com/pro/microsoft-is-struggling-to-sell-copilot-to-corporations-because-their-employees-want-chatgpt-instead",
+            "title": "Microsoft is struggling to sell Copilot to corporations - because their employees want ChatGPT instead | TechRadar",
+            "content_html": "",
+            "date_published": "2025-06-27T13:29:00+00:00",
+            "authors": [
+                {
+                    "name": "Top-Figure7252",
+                    "url": "https://www.reddit.com/user/Top-Figure7252"
+                }
+            ]
+        },
+        {
             "id": "1ll7jgu",
             "url": "/r/ChatGPTPro/comments/1ll7jgu/chatgpt_added_a_random_number_to_my_account_and_a/",
             "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1ll7jgu/chatgpt_added_a_random_number_to_my_account_and_a/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Redditoridunn0",
                     "url": "https://www.reddit.com/user/Redditoridunn0"
-                }
-            ]
-        },
-        {
-            "id": "18optgi",
-            "url": "/r/ChatGPTPro/comments/18optgi/ask_chatgpt_to_create_a_sequence_diagram/",
-            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/18optgi/ask_chatgpt_to_create_a_sequence_diagram/",
-            "title": "Ask ChatGPT to create a sequence diagram",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ChatGPTPro/comments/18optgi/ask_chatgpt_to_create_a_sequence_diagram/'>Winston</a> | <a href='https://reddit.com/r/ChatGPTPro/comments/18optgi/ask_chatgpt_to_create_a_sequence_diagram/'>Reddit</a></caption><div><br></div><p>I've found sequence diagrams helpful over the years.  From a non-technical perspective, they can be helpful when asking a designer to create UX or infographic.  ChatGPT does a great job at them.</p>\n<p>Prompt:</p>\n<pre><code>create notation for sequencediagram.org without using aliases \nthat describes the steps to &lt;insert common process name and \nbasic description&gt;\n</code></pre>\n<p>Response from ChatGPT:</p>\n<pre><code>title Reddit Interaction Sequence\n\nparticipant User\nparticipant Account Creation Service\nparticipant Subreddit Selection Service\nparticipant Post Submission Service\nparticipant Vote Checking Service\n\nUser-&gt;Account Creation Service: Request Account Creation\nAccount Creation Service-&gt;User: Display Account Creation Form\nUser-&gt;Account Creation Service: Submit Account Creation Form\nAccount Creation Service-&gt;User: Confirm Account Creation\n\nUser-&gt;Subreddit Selection Service: Access Subreddit Selection\nSubreddit Selection Service-&gt;User: Display List of Subreddits\nUser-&gt;Subreddit Selection Service: Select a Subreddit\n\nUser-&gt;Post Submission Service: Access Post Submission Form\nPost Submission Service-&gt;User: Display Post Submission Form\nUser-&gt;Post Submission Service: Submit Post\nPost Submission Service-&gt;User: Confirm Post Submission\n\nNote over User: Wait for some time\n\nUser-&gt;Vote Checking Service: Check Post for Votes\nVote Checking Service-&gt;User: Display Upvotes/Downvotes\n</code></pre>\n<p>Copy and paste into <a href=\"https://sequencediagram.org\">sequencediagram.org</a></p>\n<p>&#x200B;</p>\n<p>https://preview.redd.it/aosmd1072x7c1.png?width=1566&amp;format=png&amp;auto=webp&amp;s=4a4dd757769a28e75e26a1e662ff8c604f249838</p>\n<p>Handy, right?</p>\n<p>&#x200B;</p>",
-            "date_published": "2023-12-22T21:47:38+00:00",
-            "authors": [
-                {
-                    "name": "PhotographMain3424",
-                    "url": "https://www.reddit.com/user/PhotographMain3424"
                 }
             ]
         }
