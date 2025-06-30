@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1lo7acj",
+            "url": "/r/ArtificialInteligence/comments/1lo7acj/mit_study_suggests_80_of_ai_medical_advice_is/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1lo7acj/mit_study_suggests_80_of_ai_medical_advice_is/",
+            "title": "MIT study suggests 80% of AI medical advice is false",
+            "content_html": "<p>Trying to balance all the break-neck progress news with some more grounded cautionary evidence. Medical use of AI has always been a big question for me, whether we trust patient care to AI, whether we can reduce medical expertise and hand it off to machine learning. Seems progress needs to be made on safety, transparency, and accountability.</p>\n<p>https://news.mit.edu/2025/llms-factor-unrelated-information-when-recommending-medical-treatments-0623</p>",
+            "date_published": "2025-06-30T13:17:30+00:00",
+            "authors": [
+                {
+                    "name": "redpandafire",
+                    "url": "https://www.reddit.com/user/redpandafire"
+                }
+            ]
+        },
+        {
             "id": "1lf5soy",
             "url": "/r/ArtificialInteligence/comments/1lf5soy/can_someone_help_me_understand_why_should_we_pump/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1lf5soy/can_someone_help_me_understand_why_should_we_pump/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "fbfaran",
                     "url": "https://www.reddit.com/user/fbfaran"
-                }
-            ]
-        },
-        {
-            "id": "1i6u1vl",
-            "url": "/r/ArtificialInteligence/comments/1i6u1vl/trump_to_announce_ai_infrastructure_investment/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1i6u1vl/trump_to_announce_ai_infrastructure_investment/",
-            "title": "Trump to announce AI infrastructure investment backed by Oracle, OpenAI and Softbank",
-            "content_html": "<p><a href=\"https://www.cnbc.com/2025/01/21/trump-ai-openai-oracle-softbank.html\">https://www.cnbc.com/2025/01/21/trump-ai-openai-oracle-softbank.html</a></p>\n<p>The companies are expected to commit to an initial $100 billion and up to $500 billion to the project over the next four years, according to\u00a0<a href=\"https://www.cbsnews.com/news/trump-announces-private-sector-ai-infrastructure-investment/\">CBS News</a>, which first reported details of the expected announcement.</p>",
-            "date_published": "2025-01-21T21:36:35+00:00",
-            "authors": [
-                {
-                    "name": "wonderingStarDusts",
-                    "url": "https://www.reddit.com/user/wonderingStarDusts"
                 }
             ]
         }
