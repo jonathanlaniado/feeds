@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1loug98",
+            "url": "/r/selfhosted/comments/1loug98/eu_wants_to_spy_in_your_chats_making_encryption/",
+            "external_url": "https://www.theverge.com/2024/6/19/24181214/eu-chat-control-law-propose-scanning-encrypted-messages-csam",
+            "title": "EU wants to spy in your chats, making encryption useless",
+            "content_html": "<p>Initially it was supposed to be just for pedophiles, and that sounded OK.</p>\n<p>But the problem is that obviously when you give up the full privacy and encryption, they can target whoever they want not just pedophiles.</p>\n<p>Now they clearly claim that it will be used to gather informations for any crime and not just that one.</p>\n<p>Freedom of speech would be under heavy pressure, we all know how these things end.</p>",
+            "date_published": "2025-07-01T06:21:17+00:00",
+            "authors": [
+                {
+                    "name": "Due-Photograph-5902",
+                    "url": "https://www.reddit.com/user/Due-Photograph-5902"
+                }
+            ]
+        },
+        {
             "id": "1lnil6j",
             "url": "/r/selfhosted/comments/1lnil6j/this_is_why_you_self_host/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1lnil6j/this_is_why_you_self_host/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "cloudswithflaire",
                     "url": "https://www.reddit.com/user/cloudswithflaire"
-                }
-            ]
-        },
-        {
-            "id": "1f9kt9h",
-            "url": "/r/selfhosted/comments/1f9kt9h/we_moved_away_from_public_cloud_and_saved_76_in/",
-            "external_url": "https://oneuptime.com/blog/post/2023-10-30-moving-from-aws-to-bare-metal",
-            "title": "We moved away from public cloud and saved 76% in cloud costs. ",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1f9kt9h/we_moved_away_from_public_cloud_and_saved_76_in/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1f9kt9h/we_moved_away_from_public_cloud_and_saved_76_in/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-09-05T12:07:52+00:00",
-            "authors": [
-                {
-                    "name": "OuPeaNut",
-                    "url": "https://www.reddit.com/user/OuPeaNut"
                 }
             ]
         }
