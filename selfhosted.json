@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1lptuty",
+            "url": "/r/selfhosted/comments/1lptuty/cloudflare_will_now_block_ai_crawlers_by_default/",
+            "external_url": "https://www.theverge.com/news/695501/cloudflare-block-ai-crawlers-default",
+            "title": "Cloudflare will now block AI crawlers by default",
+            "content_html": "<p>\ud83d\udc40</p>\n<p>Have your self-hosted services been crippled by AI bot scraping? Mine aren't popular or interesting enough, but I know plenty of yours are.</p>",
+            "date_published": "2025-07-02T11:53:39+00:00",
+            "authors": [
+                {
+                    "name": "gadgetb0y",
+                    "url": "https://www.reddit.com/user/gadgetb0y"
+                }
+            ]
+        },
+        {
             "id": "1loug98",
             "url": "/r/selfhosted/comments/1loug98/eu_wants_to_spy_in_your_chats_making_encryption/",
             "external_url": "https://www.theverge.com/2024/6/19/24181214/eu-chat-control-law-propose-scanning-encrypted-messages-csam",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "m4nz",
                     "url": "https://www.reddit.com/user/m4nz"
-                }
-            ]
-        },
-        {
-            "id": "1fakrng",
-            "url": "/r/selfhosted/comments/1fakrng/this_goes_out_to_all_the_open_and_closeted_plex/",
-            "external_url": "https://i.redd.it/n8ah0u8v38nd1.jpeg",
-            "title": "This goes out to all the open and closeted Plex shills out there. Happy Friday!",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1fakrng/this_goes_out_to_all_the_open_and_closeted_plex/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1fakrng/this_goes_out_to_all_the_open_and_closeted_plex/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/n8ah0u8v38nd1.jpeg\" />",
-            "date_published": "2024-09-06T17:24:09+00:00",
-            "authors": [
-                {
-                    "name": "cloudswithflaire",
-                    "url": "https://www.reddit.com/user/cloudswithflaire"
                 }
             ]
         }
