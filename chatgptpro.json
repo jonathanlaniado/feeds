@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
     "items": [
         {
+            "id": "1lpi67v",
+            "url": "/r/ChatGPTPro/comments/1lpi67v/chatgpt_paid_pro_models_getting_secretly/",
+            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1lpi67v/chatgpt_paid_pro_models_getting_secretly/",
+            "title": "Chatgpt paid Pro models getting secretly downgraded.",
+            "content_html": "<p>I use chatGPT a lot, I have 4 accounts. When I haven't been using it in a while it works great, answers are high quality I love it. But after an hour or two of heavy use, i've noticed my model quality for every single paid model gets downgraded significantly. Like unuseable significantly. You can tell bc they even change the UI a bit for some of the models like 3o and 4-mini from thinking to this smoothed border alternative that answers much quicker. 10x quicker. I've also noticed that changing to one of my 4 other paid accounts doesn't help as they also get downgraded. I'm at the point where chatGPT is so unreliable that i've cancelled two of my subscriptions, will probably cancel another one tomorrow and am looking for alternatives. More than being upset at OpenAI I just can't even get my work done because a lot of my hobbyist project i'm working on are too complex for me to make much progress on my own so I have to find alternatives. I'm also paying for these services so either tell me i've used too much or restrict the model entirely and I wouldn't even be mad, then i'd go on another paid account and continue from there, but this quality changing cross account issue is way too much especially since i'm paying over 50$ a month.</p>\n<p>I'm kind of ranting here but i'm also curious if other people have noticed something similar.</p>",
+            "date_published": "2025-07-02T00:32:55+00:00",
+            "authors": [
+                {
+                    "name": "Apprehensive_Tea_116",
+                    "url": "https://www.reddit.com/user/Apprehensive_Tea_116"
+                }
+            ]
+        },
+        {
             "id": "1lnvaxt",
             "url": "/r/ChatGPTPro/comments/1lnvaxt/gf_thinks_im_cheating_bc_of_my_chatgpt_history/",
             "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1lnvaxt/gf_thinks_im_cheating_bc_of_my_chatgpt_history/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "LittleHariSeldon",
                     "url": "https://www.reddit.com/user/LittleHariSeldon"
-                }
-            ]
-        },
-        {
-            "id": "18w914t",
-            "url": "/r/ChatGPTPro/comments/18w914t/personal_crm_with_google_sheets_customgpt_tutorial/",
-            "external_url": "https://v.redd.it/iykms3kyow9c1",
-            "title": "Personal CRM with Google Sheets + CustomGPT (Tutorial)",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ChatGPTPro/comments/18w914t/personal_crm_with_google_sheets_customgpt_tutorial/'>Winston</a> | <a href='https://reddit.com/r/ChatGPTPro/comments/18w914t/personal_crm_with_google_sheets_customgpt_tutorial/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-01-01T22:42:41+00:00",
-            "authors": [
-                {
-                    "name": "thedelusionist",
-                    "url": "https://www.reddit.com/user/thedelusionist"
                 }
             ]
         }
