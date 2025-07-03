@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1lqpeci",
+            "url": "/r/MacOSBeta/comments/1lqpeci/macos_tahoe_has_new_low_battery_notification/",
+            "external_url": "https://v.redd.it/jn1hdonrrnaf1",
+            "title": "macOS Tahoe has New Low Battery Notification",
+            "content_html": "<p>Potentially might already been reported already, but looks like alongside the new screen / keyboard brightness + volume HUD, theres also a notification for when you've got low battery. Noticed it for the first time today and hadn't seen any mention of it personally.</p>\n<p>Unlike the previous macOS versions, this notification doesn't stick around until you've plugged in, and in a matter of a few seconds it disappears. Not sure how I feel about that, because the persistent notification banner often was quite handy when I hit &lt;10% while AFAK. I would never miss it, whereas this quick fade in and out might be hard to miss, especially if I'm locked in focusing on a task. But visually it does look quite nice. </p>\n<p>Also note: I think the 11% in the popup is just a dev beta bug, as when I opened the battery menu bar item, it showed 9%. Alternatively this is a Day 1, 2020 MBP, that's been quite extensively, so could just be a poor reading on the aging battery. </p>",
+            "date_published": "2025-07-03T13:18:59+00:00",
+            "authors": [
+                {
+                    "name": "Ben917",
+                    "url": "https://www.reddit.com/user/Ben917"
+                }
+            ]
+        },
+        {
             "id": "1lq2ux4",
             "url": "/r/MacOSBeta/comments/1lq2ux4/this_thing_the_apps_app_is_worse_than_the_round/",
             "external_url": "https://i.redd.it/oq7bcegv2iaf1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "tysonedwards",
                     "url": "https://www.reddit.com/user/tysonedwards"
-                }
-            ]
-        },
-        {
-            "id": "1etotv5",
-            "url": "/r/MacOSBeta/comments/1etotv5/gatekeeper_can_be_disabled_via_spctl_again_as_of/",
-            "external_url": "https://i.redd.it/iqpnleiw21jd1.png",
-            "title": "Gatekeeper can be disabled via spctl again as of the most recent 15.0 dev betas (15.0 DB6)",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOSBeta/comments/1etotv5/gatekeeper_can_be_disabled_via_spctl_again_as_of/'>Winston</a> | <a href='https://reddit.com/r/MacOSBeta/comments/1etotv5/gatekeeper_can_be_disabled_via_spctl_again_as_of/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/iqpnleiw21jd1.png\" />",
-            "date_published": "2024-08-16T13:29:39+00:00",
-            "authors": [
-                {
-                    "name": "xbPorter",
-                    "url": "https://www.reddit.com/user/xbPorter"
                 }
             ]
         }
