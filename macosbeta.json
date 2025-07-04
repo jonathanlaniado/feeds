@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1lr10u2",
+            "url": "/r/MacOSBeta/comments/1lr10u2/why_i_think_liquidglass_elements_look_so_bad_on/",
+            "external_url": "https://i.redd.it/tpny22685qaf1.png",
+            "title": "Why I think LiquidGlass elements look so bad on Mac",
+            "content_html": "<p>I think it's because the drop shadows have, since basically forever, been used to denote a separate window or a context menu. When drop shadows are applied to individual buttons, not only does it feel more visually cluttered but it doesn't feel like a functional component to the surface it's floating above. It feels like the floating elements like the side bar and the toolbar buttons are the most confusing because they no longer belong to the surface they're intended to interact with. </p><div><br></div><img src=\"https://i.redd.it/tpny22685qaf1.png\" />",
+            "date_published": "2025-07-03T21:11:24+00:00",
+            "authors": [
+                {
+                    "name": "awol93",
+                    "url": "https://www.reddit.com/user/awol93"
+                }
+            ]
+        },
+        {
             "id": "1lquv7l",
             "url": "/r/MacOSBeta/comments/1lquv7l/macos_26_on_an_intel_mac/",
             "external_url": "https://i.redd.it/8k64eutjxoaf1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "justareddituser404",
                     "url": "https://www.reddit.com/user/justareddituser404"
-                }
-            ]
-        },
-        {
-            "id": "1f33u6x",
-            "url": "/r/MacOSBeta/comments/1f33u6x/sequoia_is_great/",
-            "external_url": "https://i.redd.it/yret6s35tcld1.png",
-            "title": "Sequoia is great!",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOSBeta/comments/1f33u6x/sequoia_is_great/'>Winston</a> | <a href='https://reddit.com/r/MacOSBeta/comments/1f33u6x/sequoia_is_great/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/yret6s35tcld1.png\" />",
-            "date_published": "2024-08-28T07:04:32+00:00",
-            "authors": [
-                {
-                    "name": "Classic_Slip_9370",
-                    "url": "https://www.reddit.com/user/Classic_Slip_9370"
                 }
             ]
         }
