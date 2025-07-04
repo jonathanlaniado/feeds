@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1lrflee",
+            "url": "/r/selfhosted/comments/1lrflee/yall_think_its_time_for_a_reboot/",
+            "external_url": "https://i.redd.it/86zg9w7z5uaf1.jpeg",
+            "title": "Y'all think it's time for a reboot?",
+            "content_html": "<p>Running Gameservers without downtime since 2016\ud83d\udcaa</p><div><br></div><img src=\"https://i.redd.it/86zg9w7z5uaf1.jpeg\" />",
+            "date_published": "2025-07-04T10:38:43+00:00",
+            "authors": [
+                {
+                    "name": "lilbiba400",
+                    "url": "https://www.reddit.com/user/lilbiba400"
+                }
+            ]
+        },
+        {
             "id": "1lptuty",
             "url": "/r/selfhosted/comments/1lptuty/cloudflare_will_now_block_ai_crawlers_by_default/",
             "external_url": "https://www.theverge.com/news/695501/cloudflare-block-ai-crawlers-default",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "obolikus",
                     "url": "https://www.reddit.com/user/obolikus"
-                }
-            ]
-        },
-        {
-            "id": "1fbn16x",
-            "url": "/r/selfhosted/comments/1fbn16x/plex_4k_streaming_across_the_planet_poor_mans_cdn/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1fbn16x/plex_4k_streaming_across_the_planet_poor_mans_cdn/",
-            "title": "Plex 4k streaming across the planet : Poor Man's CDN",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1fbn16x/plex_4k_streaming_across_the_planet_poor_mans_cdn/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1fbn16x/plex_4k_streaming_across_the_planet_poor_mans_cdn/'>Reddit</a></caption><div><br></div><p>I have a unique use case where the distance between my plex server and most of my users are over 7000 miles. This meant 4k streaming was pretty bad due to network congestion.</p>\n<p>Here is a blog post I wrote about how I solved it <a href=\"https://esc.sh/blog/plex-cross-continent-4k-streaming/\">https://esc.sh/blog/plex-cross-continent-4k-streaming/</a> </p>\n<p>I hope someone and their friends/family find use for it. </p>",
-            "date_published": "2024-09-08T01:58:06+00:00",
-            "authors": [
-                {
-                    "name": "m4nz",
-                    "url": "https://www.reddit.com/user/m4nz"
                 }
             ]
         }
