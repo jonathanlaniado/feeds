@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1lrijwl",
+            "url": "/r/homeassistant/comments/1lrijwl/hi_everyone_im_clooos_the_bubble_card_developer/",
+            "external_url": "https://www.reddit.com/gallery/1lrijwl",
+            "title": "Hi everyone! I'm Clooos, the Bubble Card developer, and it's been quite a while since I last posted here. Today, after 5 (incredible) months of development and beta testing, I\u2019m finally releasing Bubble Card 3 on HACS, the biggest update I\u2019ve ever released for this project \u2764\ufe0f",
+            "content_html": "<p>As you can see in these screenshots, the main new feature is the Module System, which brings something I\u2019ve wanted to include for a long time: better modularity, a smoother setup process, and more tools directly in the editor.</p>\n<p>With the new Module Store and Module Editor, you can now install, update, customize, and even create modules without ever leaving the editor. It makes everything feel much more easier and flexible, whether you're just exploring or building something more advanced. No more copying and pasting styles or templates into every card, now everything can be managed globally.</p>\n<p>You can even add your own form fields in the editor, just like with any Home Assistant feature (e.g. the color picker in one of these screenshots). This means you can now share your modules with anyone, even if they\u2019re not comfortable with code. And to make that even easier, the built-in Module Store lets you browse and install modules in a couple of clicks. Just like any app store!</p>\n<p>The community has already started sharing some amazing modules, and I believe this will really help bring everyone closer and make the whole ecosystem even more advanced.</p>\n<p>This update also introduces a brand new card: a full Calendar Card! Add to that better pop-up creation, smoother sliders, a more polished editor, dozens of improvements, and the fact that most of the code has been rewritten, and you get one of the biggest updates Bubble Card has ever had.</p>\n<p>I won\u2019t go into everything here, since the changelog is much longer. You can check it out here:<br />\n<a href=\"https://github.com/Clooos/Bubble-Card/releases/tag/v3.0.0\"><em>https://github.com/Clooos/Bubble-Card/releases/tag/v3.0.0</em></a></p>\n<p>I also made a short video showing the new features in action, feel free to check it out:<br />\n<a href=\"https://youtu.be/zL-z5GG3p7Y\"><em>https://youtu.be/zL-z5GG3p7Y</em></a></p>\n<p>Most importantly, I want to say thank you to all of you. For the kind words I get almost every day, for your help testing and sharing ideas, and for your support. I'm really proud of how far this release has come, and incredibly grateful for this amazing community.</p>\n<p>Have fun with this new version. I can\u2019t wait for your feedback, to see what you\u2019ll build with it and what new modules will show up in the store!  </p>\n<p>Cheers everyone! \ud83c\udf7b</p>",
+            "date_published": "2025-07-04T13:18:43+00:00",
+            "authors": [
+                {
+                    "name": "Clooooos",
+                    "url": "https://www.reddit.com/user/Clooooos"
+                }
+            ]
+        },
+        {
             "id": "1lqyodk",
             "url": "/r/homeassistant/comments/1lqyodk/a_new_home_assistant_theme_frosted_glass/",
             "external_url": "https://www.reddit.com/gallery/1lqyodk",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "imfm",
                     "url": "https://www.reddit.com/user/imfm"
-                }
-            ]
-        },
-        {
-            "id": "17gx5td",
-            "url": "/r/homeassistant/comments/17gx5td/using_epaper_displays_for_home_assistant/",
-            "external_url": "https://i.redd.it/1sb6nl16zjwb1.jpg",
-            "title": "Using ePaper displays for Home Assistant!",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/17gx5td/using_epaper_displays_for_home_assistant/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/17gx5td/using_epaper_displays_for_home_assistant/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/1sb6nl16zjwb1.jpg\" />",
-            "date_published": "2023-10-26T13:58:37+00:00",
-            "authors": [
-                {
-                    "name": "My-NameWasTaken",
-                    "url": "https://www.reddit.com/user/My-NameWasTaken"
                 }
             ]
         }
