@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1ls56i5",
+            "url": "/r/MacOSBeta/comments/1ls56i5/two_or_so_days_until_beta_3_what_do_you_feel/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1ls56i5/two_or_so_days_until_beta_3_what_do_you_feel/",
+            "title": "Two (or so) days until beta 3. What do you feel NEEDS to be fixed and changed?",
+            "content_html": "<p>I have a list of issues with the 26 beta:</p>\n<ul>\n<li>\n<p>On some spaces (displays), there's a memory leak type thing happening where HID inputs get delayed. It may be related to event taps? Everything becomes very stuttery too. It doesn't always seem to affect the same display</p>\n</li>\n<li>\n<p>Some liquid glass stuff needs to be fixed, there's no way they want <em>that</em> to be the design lmfao</p>\n</li>\n<li>\n<p>Finder, especially the sidebar and toolbar buttons</p>\n</li>\n<li>\n<p>Font issues crashing manya pps (need to reset fonts) and Window Server crashing on login when disabling \"displays have separate spaces\"</p>\n</li>\n</ul>\n<p>What do you feel absolutely cannot go unchanged by public beta (which beta 3 likely is)??</p>",
+            "date_published": "2025-07-05T08:34:06+00:00",
+            "authors": [
+                {
+                    "name": "Merlindru",
+                    "url": "https://www.reddit.com/user/Merlindru"
+                }
+            ]
+        },
+        {
             "id": "1lrta60",
             "url": "/r/MacOSBeta/comments/1lrta60/honestly_its_starting_to_grown_on_me/",
             "external_url": "https://i.redd.it/7r6h3nu09xaf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "DirectorX27",
                     "url": "https://www.reddit.com/user/DirectorX27"
-                }
-            ]
-        },
-        {
-            "id": "1fekrsy",
-            "url": "/r/MacOSBeta/comments/1fekrsy/macos_needs_a_new_volume_hud_asap/",
-            "external_url": "https://i.redd.it/jgshaqa4t8od1.jpeg",
-            "title": "macOS needs a new Volume HUD asap.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOSBeta/comments/1fekrsy/macos_needs_a_new_volume_hud_asap/'>Winston</a> | <a href='https://reddit.com/r/MacOSBeta/comments/1fekrsy/macos_needs_a_new_volume_hud_asap/'>Reddit</a></caption><div><br></div><p>macOS needs a new Volume HUD asap, I think everyone is annoyed by the current one. I personally have been hoping Apple updates it for every major release for about 3 years. But still in 2024 everything remains unchanged.</p><div><br></div><img src=\"https://i.redd.it/jgshaqa4t8od1.jpeg\" />",
-            "date_published": "2024-09-11T20:49:22+00:00",
-            "authors": [
-                {
-                    "name": "RealFerst",
-                    "url": "https://www.reddit.com/user/RealFerst"
                 }
             ]
         }
