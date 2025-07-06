@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
     "items": [
         {
+            "id": "1lt86j1",
+            "url": "/r/ChatGPTPro/comments/1lt86j1/will_you_use_chatgpt_if_it_includes_ads_in_it/",
+            "external_url": "https://i.redd.it/lhiazihqqabf1.jpeg",
+            "title": "Will you use ChatGPT if it includes ads in it?",
+            "content_html": "<p>Sam: We haven\u2019t done any advertising product yet... I\u2019m not totally against it... I can point to areas where I like ads... But I think it\u2019d be very hard \u2014 I mean, it would take a lot of care to get right</p><div><br></div><img src=\"https://i.redd.it/lhiazihqqabf1.jpeg\" />",
+            "date_published": "2025-07-06T18:23:30+00:00",
+            "authors": [
+                {
+                    "name": "ad_gar55",
+                    "url": "https://www.reddit.com/user/ad_gar55"
+                }
+            ]
+        },
+        {
             "id": "1lpi67v",
             "url": "/r/ChatGPTPro/comments/1lpi67v/chatgpt_paid_pro_models_getting_secretly/",
             "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1lpi67v/chatgpt_paid_pro_models_getting_secretly/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Redditoridunn0",
                     "url": "https://www.reddit.com/user/Redditoridunn0"
-                }
-            ]
-        },
-        {
-            "id": "18xxyr8",
-            "url": "/r/ChatGPTPro/comments/18xxyr8/26_principles_to_improve_the_quality_of_llm/",
-            "external_url": "https://i.redd.it/2vwwnoyaabac1.png",
-            "title": "26 principles to improve the quality of LLM responses by 50%",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ChatGPTPro/comments/18xxyr8/26_principles_to_improve_the_quality_of_llm/'>Winston</a> | <a href='https://reddit.com/r/ChatGPTPro/comments/18xxyr8/26_principles_to_improve_the_quality_of_llm/'>Reddit</a></caption><div><br></div><p>. \nhttps://arxiv.org/abs/2312.16171v1</p>\n<p>A new paper just identified 26 principles to improve the quality of LLM responses by 50%.</p>\n<p>The tests were done across LLaMA-1/2 (7B, 13B and 70B) and GPT-3.5/4.</p>\n<p>Here are some surprising prompts:\n- Add \u201cI\u2019m going to tip $for a better solution\n- Incorporate the following phrases: \u201cYou will be penalized\u201d\n- Repeat a specific word or phrase multiple times within a prompt.</p><div><br></div><img src=\"https://i.redd.it/2vwwnoyaabac1.png\" />",
-            "date_published": "2024-01-03T23:42:33+00:00",
-            "authors": [
-                {
-                    "name": "LittleHariSeldon",
-                    "url": "https://www.reddit.com/user/LittleHariSeldon"
                 }
             ]
         }
