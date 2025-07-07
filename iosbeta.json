@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1lu29vu",
+            "url": "/r/iOSBeta/comments/1lu29vu/ios_26_db3_major_liquid_glass_ui_visibility_tweaks/",
+            "external_url": "https://www.reddit.com/gallery/1lu29vu",
+            "title": "[iOS 26 DB3] Major Liquid Glass UI visibility tweaks",
+            "content_html": "<p>Many UI elements are much more readable now. I was using High Contrast before to deal with poor readability and low contrast, but now I\u2019ll be turning it off. No more complaints from me. Applies to both, dark and light mode.</p>",
+            "date_published": "2025-07-07T18:41:25+00:00",
+            "authors": [
+                {
+                    "name": "MAKES_PEOPLE_YAWN",
+                    "url": "https://www.reddit.com/user/MAKES_PEOPLE_YAWN"
+                }
+            ]
+        },
+        {
             "id": "1lk93w4",
             "url": "/r/iOSBeta/comments/1lk93w4/ios_26_db2_graphic_ui_glitches_on_14_pro/",
             "external_url": "https://www.reddit.com/gallery/1lk93w4",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "icedout223",
                     "url": "https://www.reddit.com/user/icedout223"
-                }
-            ]
-        },
-        {
-            "id": "1ej0tsq",
-            "url": "/r/iOSBeta/comments/1ej0tsq/app_settings_from_home_screen_would_be_nice/",
-            "external_url": "https://www.reddit.com/gallery/1ej0tsq",
-            "title": "App Settings from Home Screen would be nice",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1ej0tsq/app_settings_from_home_screen_would_be_nice/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1ej0tsq/app_settings_from_home_screen_would_be_nice/'>Reddit</a></caption><div><br></div><p>Instead of going to settings and then to apps and then to the app you want to change the permissions of, I think it would be nice if you can directly access that page by holding the app icon on your Home Screen and it being one of the options from the drop down list that appears. </p>",
-            "date_published": "2024-08-03T11:12:30+00:00",
-            "authors": [
-                {
-                    "name": "cozimatic",
-                    "url": "https://www.reddit.com/user/cozimatic"
                 }
             ]
         }
