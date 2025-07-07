@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1ltxpcc",
+            "url": "/r/MacOSBeta/comments/1ltxpcc/humor_it_happens_every_time/",
+            "external_url": "https://i.redd.it/vxgcj6e64hbf1.png",
+            "title": "[HUMOR] It happens every time.",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/vxgcj6e64hbf1.png\" />",
+            "date_published": "2025-07-07T15:50:00+00:00",
+            "authors": [
+                {
+                    "name": "Garabir",
+                    "url": "https://www.reddit.com/user/Garabir"
+                }
+            ]
+        },
+        {
             "id": "1ltc10e",
             "url": "/r/MacOSBeta/comments/1ltc10e/display_of_connected_accessories_with_battery/",
             "external_url": "https://i.redd.it/ps134eeejbbf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Matuteg",
                     "url": "https://www.reddit.com/user/Matuteg"
-                }
-            ]
-        },
-        {
-            "id": "1fj7uer",
-            "url": "/r/MacOSBeta/comments/1fj7uer/clean_up_available_in_eu_and_summarize/",
-            "external_url": "https://i.redd.it/7l6kjw6l4fpd1.jpeg",
-            "title": "Clean up available in EU and summarize notifications with Beta 4",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOSBeta/comments/1fj7uer/clean_up_available_in_eu_and_summarize/'>Winston</a> | <a href='https://reddit.com/r/MacOSBeta/comments/1fj7uer/clean_up_available_in_eu_and_summarize/'>Reddit</a></caption><div><br></div><p>I know clean up was available before but at least here in the eu from what i have read it wasnt and now it is showing up</p><div><br></div><img src=\"https://i.redd.it/7l6kjw6l4fpd1.jpeg\" />",
-            "date_published": "2024-09-17T19:08:30+00:00",
-            "authors": [
-                {
-                    "name": "Prals",
-                    "url": "https://www.reddit.com/user/Prals"
                 }
             ]
         }
