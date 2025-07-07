@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1lu2g3g",
+            "url": "/r/iOSBeta/comments/1lu2g3g/ios_26_db3_maps_now_uses_liquid_glass_for_its_top/",
+            "external_url": "https://www.reddit.com/gallery/1lu2g3g",
+            "title": "[iOS 26 DB3] Maps now uses Liquid Glass for its top bar in navigation mode.",
+            "content_html": "<p>Now the top bar is not a flat dark grey box anymore. It lets background details shine through. </p>",
+            "date_published": "2025-07-07T18:47:56+00:00",
+            "authors": [
+                {
+                    "name": "Lambor14",
+                    "url": "https://www.reddit.com/user/Lambor14"
+                }
+            ]
+        },
+        {
             "id": "1lu29vu",
             "url": "/r/iOSBeta/comments/1lu29vu/ios_26_db3_major_liquid_glass_ui_visibility_tweaks/",
             "external_url": "https://www.reddit.com/gallery/1lu29vu",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "AutoModerator",
                     "url": "https://www.reddit.com/user/AutoModerator"
-                }
-            ]
-        },
-        {
-            "id": "1ek6w15",
-            "url": "/r/iOSBeta/comments/1ek6w15/ios_181_pb1_apple_marking_a_phishing_email_as_a/",
-            "external_url": "https://i.redd.it/jnhdvjwwwpgd1.jpeg",
-            "title": "[iOS 18.1 PB1] Apple marking a phishing email as a \u201cpriority\u201d for me to open",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1ek6w15/ios_181_pb1_apple_marking_a_phishing_email_as_a/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1ek6w15/ios_181_pb1_apple_marking_a_phishing_email_as_a/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/jnhdvjwwwpgd1.jpeg\" />",
-            "date_published": "2024-08-04T21:47:50+00:00",
-            "authors": [
-                {
-                    "name": "icedout223",
-                    "url": "https://www.reddit.com/user/icedout223"
                 }
             ]
         }
