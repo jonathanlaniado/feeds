@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1luyscs",
+            "url": "/r/MacOSBeta/comments/1luyscs/noticing_a_much_smoother_experience_with_db3/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1luyscs/noticing_a_much_smoother_experience_with_db3/",
+            "title": "Noticing a Much Smoother Experience With DB3",
+            "content_html": "<p>Just installed DB3, and the system feels way snappier and more responsive. Animations, window management, and overall UI behavior all feel tighter than in DB2. In reality, it's what actually matters more in the long run than any visual changes.</p>\n<p>Like a lot of people, I\u2019m still disappointed by how much Liquid Glass got nerfed on iOS in DB3, but thankfully, macOS doesn\u2019t seem to have followed the same path (at least not yet). While I\u2019ve noticed a couple spots where it\u2019s been toned down, I\u2019ve also been surprised to see new areas where the effect looks better than before. Hoping it stays that way.</p>\n<p>Since I can't remember, were the first two DB'2 for macOS 18 also as sluggish the first two for macOS 26 were? Or has that been more unique to macOS 26?</p>",
+            "date_published": "2025-07-08T20:04:54+00:00",
+            "authors": [
+                {
+                    "name": "gggggmi99",
+                    "url": "https://www.reddit.com/user/gggggmi99"
+                }
+            ]
+        },
+        {
             "id": "1lv0umq",
             "url": "/r/MacOSBeta/comments/1lv0umq/aww_apple_does_listen_lol/",
             "external_url": "https://i.redd.it/b43thxdywpbf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "GetVladimir",
                     "url": "https://www.reddit.com/user/GetVladimir"
-                }
-            ]
-        },
-        {
-            "id": "1g4got7",
-            "url": "/r/MacOSBeta/comments/1g4got7/151_developer_beta_7_is_out_now/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1g4got7/151_developer_beta_7_is_out_now/",
-            "title": "15.1 Developer Beta 7 is out now.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOSBeta/comments/1g4got7/151_developer_beta_7_is_out_now/'>Winston</a> | <a href='https://reddit.com/r/MacOSBeta/comments/1g4got7/151_developer_beta_7_is_out_now/'>Reddit</a></caption><div><br></div><p>Once again it is time to hammer the update server.</p>",
-            "date_published": "2024-10-15T19:52:07+00:00",
-            "authors": [
-                {
-                    "name": "ekinnee",
-                    "url": "https://www.reddit.com/user/ekinnee"
                 }
             ]
         }
