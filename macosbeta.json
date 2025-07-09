@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1lv2ki2",
+            "url": "/r/MacOSBeta/comments/1lv2ki2/new_contacts_app_is_horribly_designed/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1lv2ki2/new_contacts_app_is_horribly_designed/",
+            "title": "New Contacts app is HORRIBLY designed",
+            "content_html": "<p>The new Contacts app takes after its iPhone and iPad counterpart ... but Apple didn't take into account the productivity uses for the Contacts app on desktop.</p>\n<p>With the old design, I could see all of a person's details without scrolling. With the new design, at the same window size, I can see one thing \u2014 their primary phone number. Everything else I have to scroll for.</p>\n<p>Already submitted feedback, but I'm surprised I haven't really seen anything about this mentioned. They could've taken design elements of the iPhone and iPad Contacts app and applied it to the desktop counterpart, while still making it denser and easier to find applicable information.</p>\n<p>https://preview.redd.it/wljb8xzfdqbf1.jpg?width=1990&amp;format=pjpg&amp;auto=webp&amp;s=19ed5f65afc61fafedb3935fe6adf8c02f7b8d6d</p>",
+            "date_published": "2025-07-08T22:37:59+00:00",
+            "authors": [
+                {
+                    "name": "iron_cam86",
+                    "url": "https://www.reddit.com/user/iron_cam86"
+                }
+            ]
+        },
+        {
             "id": "1luziea",
             "url": "/r/MacOSBeta/comments/1luziea/its_funny_how_the_sidebar_gets_gigantic_padding/",
             "external_url": "https://i.redd.it/loamh67onpbf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "PersonalityNo3031",
                     "url": "https://www.reddit.com/user/PersonalityNo3031"
-                }
-            ]
-        },
-        {
-            "id": "1g8z8um",
-            "url": "/r/MacOSBeta/comments/1g8z8um/the_clean_up_feature_in_photos_app_on_macos_151/",
-            "external_url": "https://v.redd.it/pj01ygkw06wd1",
-            "title": "The Clean Up feature in Photos app on macOS 15.1 RC (24B82)",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOSBeta/comments/1g8z8um/the_clean_up_feature_in_photos_app_on_macos_151/'>Winston</a> | <a href='https://reddit.com/r/MacOSBeta/comments/1g8z8um/the_clean_up_feature_in_photos_app_on_macos_151/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-10-21T20:02:02+00:00",
-            "authors": [
-                {
-                    "name": "GetVladimir",
-                    "url": "https://www.reddit.com/user/GetVladimir"
                 }
             ]
         }
