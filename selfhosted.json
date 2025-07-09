@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1lvimm5",
+            "url": "/r/selfhosted/comments/1lvimm5/i_can_no_longer_claim_999_uptime_on_my_server/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1lvimm5/i_can_no_longer_claim_999_uptime_on_my_server/",
+            "title": "I can no longer claim 99.9% uptime on my server",
+            "content_html": "<p>Apparently the cat I'm catsitting in my house has taken to sleeping on my old desktop which serves as my Truenas server and accidentally turning it off, thus interrupting my movie night. She has been forgiven though on account of her cuteness. I did not prepare for this in building my homeserver in the last few weeks.  </p>",
+            "date_published": "2025-07-09T13:20:29+00:00",
+            "authors": [
+                {
+                    "name": "riottto",
+                    "url": "https://www.reddit.com/user/riottto"
+                }
+            ]
+        },
+        {
             "id": "1ltcvuu",
             "url": "/r/selfhosted/comments/1ltcvuu/weve_issued_our_first_ip_address_certificate_now/",
             "external_url": "https://letsencrypt.org/2025/07/01/issuing-our-first-ip-address-certificate/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "shol-ly",
                     "url": "https://www.reddit.com/user/shol-ly"
-                }
-            ]
-        },
-        {
-            "id": "1fe2pq7",
-            "url": "/r/selfhosted/comments/1fe2pq7/introducing_airtrail_a_personal_flight_tracking/",
-            "external_url": "https://i.redd.it/94xg1x8v84od1.jpeg",
-            "title": "Introducing AirTrail, a personal flight tracking system",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1fe2pq7/introducing_airtrail_a_personal_flight_tracking/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1fe2pq7/introducing_airtrail_a_personal_flight_tracking/'>Reddit</a></caption><div><br></div><p>https://johanohly.github.io/AirTrail/</p>\n<p>The objective is to provide a simple and easy-to-use interface to track your flights, list them all and provide a way to analyze them. </p>\n<p>I mainly got the idea from myflightradar24, which is why it is currently the only supported import option. \nI have also looked at JetLog, which is another great open-source project that seems to be similar to this. The main reason I didn't just go with JetLog and made my own, is the missing authentication / user management, along with a few implementation details I wanted to change. </p>\n<p>Features:\n    World Map: View all your flights on an interactive world map.\n    Flight History: Keep track of all your flights in one place.\n    Statistics: Get insights into your flight history with statistics.\n    User Authentication: Allow multiple users and secure your data with user authentication.\n    Responsive Design: Use the application on any device with a responsive design.\n    Dark Mode: Switch between light and dark mode.\n    Import Flights: Import flights from various sources.</p>\n<p>AirTrail is still in active development, so feedback and suggestions are very much appreciated. </p><div><br></div><img src=\"https://i.redd.it/94xg1x8v84od1.jpeg\" />",
-            "date_published": "2024-09-11T05:28:45+00:00",
-            "authors": [
-                {
-                    "name": "Johnny_JTH",
-                    "url": "https://www.reddit.com/user/Johnny_JTH"
                 }
             ]
         }
