@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1lv7hyb",
+            "url": "/r/iOSBeta/comments/1lv7hyb/ios_26_db3_notification_bubble_escapes_folder/",
+            "external_url": "https://www.reddit.com/gallery/1lv7hyb",
+            "title": "[IOS 26 DB3] Notification bubble escapes folder window!",
+            "content_html": "<p>I noticed that the notif bubble in the upper right corner of app folders is actually crossing the folder boundary. I noticed this right away as I love symmetry. Just an interesting simple design overlook that I don't think others have noticed yet.\nYes I've reported in the feedback app.</p>",
+            "date_published": "2025-07-09T02:30:03+00:00",
+            "authors": [
+                {
+                    "name": "Liquid_Chicken_",
+                    "url": "https://www.reddit.com/user/Liquid_Chicken_"
+                }
+            ]
+        },
+        {
             "id": "1lulmyc",
             "url": "/r/iOSBeta/comments/1lulmyc/ios_26_db3_app_icon_customization_in_carplay/",
             "external_url": "https://i.redd.it/co6g1mwptmbf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "AppleCrasher",
                     "url": "https://www.reddit.com/user/AppleCrasher"
-                }
-            ]
-        },
-        {
-            "id": "1ekvtri",
-            "url": "/r/iOSBeta/comments/1ekvtri/ios_18_db5_photos_app_reworked_no_longer/",
-            "external_url": "https://i.redd.it/dewj3sgj6wgd1.png",
-            "title": "[iOS 18 DB5] Photos app reworked, no longer swipe-able horizontally",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1ekvtri/ios_18_db5_photos_app_reworked_no_longer/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1ekvtri/ios_18_db5_photos_app_reworked_no_longer/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/dewj3sgj6wgd1.png\" />",
-            "date_published": "2024-08-05T18:52:51+00:00",
-            "authors": [
-                {
-                    "name": "Risino15",
-                    "url": "https://www.reddit.com/user/Risino15"
                 }
             ]
         }
