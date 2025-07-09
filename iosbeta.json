@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1lvl75t",
+            "url": "/r/iOSBeta/comments/1lvl75t/ios_26_db3_asking_siri_to_set_a_timer_gives_me/",
+            "external_url": "https://i.redd.it/jb4lkoml6vbf1.jpeg",
+            "title": "[iOS 26 DB3] Asking Siri to set a timer gives me instructions on how to set a timer instead",
+            "content_html": "<p>Not sure if this is exclusive to my device or not as I haven\u2019t seen it posted before. Didn\u2019t have this issue on DB1 or DB2. </p><div><br></div><img src=\"https://i.redd.it/jb4lkoml6vbf1.jpeg\" />",
+            "date_published": "2025-07-09T15:08:02+00:00",
+            "authors": [
+                {
+                    "name": "exvidious",
+                    "url": "https://www.reddit.com/user/exvidious"
+                }
+            ]
+        },
+        {
             "id": "1lvais4",
             "url": "/r/iOSBeta/comments/1lvais4/ios_26_db3_updated_photo_and_file_icon_on_the/",
             "external_url": "https://i.redd.it/coyw5mlt8sbf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Erik9722",
                     "url": "https://www.reddit.com/user/Erik9722"
-                }
-            ]
-        },
-        {
-            "id": "1emaj88",
-            "url": "/r/iOSBeta/comments/1emaj88/ios_18_db5_swipe_to_text_and_predicition/",
-            "external_url": "https://i.redd.it/767m06z8k8hd1.jpeg",
-            "title": "[iOS 18 DB5] Swipe to Text and Predicition available in Greek.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1emaj88/ios_18_db5_swipe_to_text_and_predicition/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1emaj88/ios_18_db5_swipe_to_text_and_predicition/'>Reddit</a></caption><div><br></div><p>I don't know if it's mentioned, but Apple added support for swipe to text and prediction in Greek. Useless for many non Greek speakers tho.</p>\n<p>I don't know if this was available on previous betas, installed the beta just on Tuesday, so...</p><div><br></div><img src=\"https://i.redd.it/767m06z8k8hd1.jpeg\" />",
-            "date_published": "2024-08-07T12:30:43+00:00",
-            "authors": [
-                {
-                    "name": "_zurik_",
-                    "url": "https://www.reddit.com/user/_zurik_"
                 }
             ]
         }
