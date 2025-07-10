@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1lwj0e4",
+            "url": "/r/homeassistant/comments/1lwj0e4/after_3_years_of_tinkering_i_discovered_the_one/",
+            "external_url": "https://www.reddit.com/r/homeassistant/comments/1lwj0e4/after_3_years_of_tinkering_i_discovered_the_one/",
+            "title": "After 3 years of tinkering, I discovered the one automation that made my wife actually LOVE Home Assistant",
+            "content_html": "<p>You know that look. The one your partner gives you when you excitedly explain how you just spent 6 hours getting a temperature sensor to display correctly on your dashboard. Yeah, that look.</p>\n<p>I've been deep in the Home Assistant rabbit hole for 3 years now. Started with a few smart bulbs, now I have 187 entities, 4 ESP32 boards running ESPHome, custom Node-RED flows, and a dashboard that would make Tony Stark jealous. My wife? She just wanted the lights to work when she flipped the switch.</p>\n<p>Everything changed last month when our newborn arrived. Sleep deprivation hit HARD. One night at 3 AM, while stumbling to the nursery for the fifth time, I had an epiphany.</p>\n<p>I created what I call the \"Midnight Parent Mode\" automation. Here's what it does:</p>\n<ul>\n<li>Motion sensor detects movement in our bedroom between 11 PM - 6 AM</li>\n<li>Dims hallway lights to 5% warm white (just enough to see, not enough to wake you fully)</li>\n<li>Nursery door sensor triggers soft amber nightlight</li>\n<li>Temperature automatically adjusts to optimal baby sleep temp (68\u00b0F/20\u00b0C)</li>\n<li>White noise machine starts at low volume</li>\n<li>After 20 minutes of no motion, everything gradually fades back to off</li>\n</ul>\n<p>The kicker? I added a physical Zigbee button by the bed. One press activates \"feeding mode\" - slightly brighter lights, starts the bottle warmer (smart plug), and even logs the feeding time to a spreadsheet for the pediatrician.</p>\n<p>My wife's reaction? \"Why didn't you build THIS three years ago?!\"</p>\n<p>Now she's asking me to automate more things. ASKING. She even suggested we get presence sensors for the cars so the garage lights turn on automatically when we pull up.</p>\n<p><strong>The real lesson here:</strong> We get so caught up in what's technically possible that we forget to solve actual problems. Your family doesn't care about your perfect YAML or your 300ms response time. They care about things that make life easier.</p>\n<p>What's your \"spouse approval factor\" automation? I'm collecting ideas for Version 2.0 of Parent Mode!</p>",
+            "date_published": "2025-07-10T17:40:39+00:00",
+            "authors": [
+                {
+                    "name": "addicted-coffee",
+                    "url": "https://www.reddit.com/user/addicted-coffee"
+                }
+            ]
+        },
+        {
             "id": "1lvks1s",
             "url": "/r/homeassistant/comments/1lvks1s/after_3_years_of_home_assistant_i_finally_cracked/",
             "external_url": "https://www.reddit.com/r/homeassistant/comments/1lvks1s/after_3_years_of_home_assistant_i_finally_cracked/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "GuySie",
                     "url": "https://www.reddit.com/user/GuySie"
-                }
-            ]
-        },
-        {
-            "id": "17leybz",
-            "url": "/r/homeassistant/comments/17leybz/statement_from_chamberlain_cto_on_restricting/",
-            "external_url": "https://chamberlaingroup.com/press/a-message-about-our-decision-to-prevent-unauthorized-usage-of-myq",
-            "title": "Statement from Chamberlain CTO on Restricting Third-Party Access to MyQ",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/17leybz/statement_from_chamberlain_cto_on_restricting/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/17leybz/statement_from_chamberlain_cto_on_restricting/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-11-01T15:40:57+00:00",
-            "authors": [
-                {
-                    "name": "himbopilled",
-                    "url": "https://www.reddit.com/user/himbopilled"
                 }
             ]
         }
