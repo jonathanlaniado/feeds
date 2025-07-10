@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1lw7h14",
+            "url": "/r/MacOSBeta/comments/1lw7h14/macos_tahoe_beta_3_window_screenshots_png_no/",
+            "external_url": "https://i.redd.it/ja91jbc5c0cf1.jpeg",
+            "title": "[macOS Tahoe Beta 3] Window screenshots (PNG) no longer have transparent shadows/alpha layer.",
+            "content_html": "<p>Hey everyone,</p>\n<p>Since updating to macOS Tahoe Beta 3, I've run into an issue with the screen capture feature and was wondering if anyone else is experiencing the same thing.</p>\n<p>As of Beta 3, it seems there's no more alpha layer on window screenshots. When I use the\u00a0<strong>\"Capture Selected Window\" option</strong>\u00a0from the\u00a0<code>Cmd + Shift + 5</code>\u00a0menu, the resulting PNG file has a solid white border around it instead of a transparent alpha layer that includes the window shadow.</p>\n<p>This is a problem for me as I frequently use these screenshots in my presentations for a cleaner, more aesthetic look. Now, I just get a white box, like in the example slide I've attached.</p>\n<p>I've already filed a bug report, but I wanted to see if this is a widespread issue on the latest beta or if anyone has found a potential workaround.</p>\n<p>Thanks!</p><div><br></div><img src=\"https://i.redd.it/ja91jbc5c0cf1.jpeg\" />",
+            "date_published": "2025-07-10T08:28:15+00:00",
+            "authors": [
+                {
+                    "name": "Unfair-Lunch6301",
+                    "url": "https://www.reddit.com/user/Unfair-Lunch6301"
+                }
+            ]
+        },
+        {
             "id": "1lvuetv",
             "url": "/r/MacOSBeta/comments/1lvuetv/it_only_took_3_beta_versions_for_them_to_fix_it/",
             "external_url": "https://i.redd.it/2at5jv67ywbf1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "mfarid2",
                     "url": "https://www.reddit.com/user/mfarid2"
-                }
-            ]
-        },
-        {
-            "id": "1gkae2g",
-            "url": "/r/MacOSBeta/comments/1gkae2g/finally_got_image_playground_after_2_weeks/",
-            "external_url": "https://i.redd.it/42wvfc1ey3zd1.png",
-            "title": "Finally got Image Playground after 2 weeks!!",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOSBeta/comments/1gkae2g/finally_got_image_playground_after_2_weeks/'>Winston</a> | <a href='https://reddit.com/r/MacOSBeta/comments/1gkae2g/finally_got_image_playground_after_2_weeks/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/42wvfc1ey3zd1.png\" />",
-            "date_published": "2024-11-05T16:15:32+00:00",
-            "authors": [
-                {
-                    "name": "Hvalomi",
-                    "url": "https://www.reddit.com/user/Hvalomi"
                 }
             ]
         }
