@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1lxe6tx",
+            "url": "/r/shortcuts/comments/1lxe6tx/just_crossed_my_mind_that_travel_card_nfcs_can/",
+            "external_url": "https://i.redd.it/aafad2kydacf1.gif",
+            "title": "Just crossed my mind that travel card NFCs can also be used to trigger shortcuts",
+            "content_html": "<p>So i made a quick api grab shortcut from London TFL for live transport disruption reports. </p>\n<p>Every morning when I pick up my wallet I can tap and check status without having to open the app and see if I need to reroute my journey.</p>\n<p>(Shortcut below is specifically for London transport users. Go to automations, select NFC as trigger, scan the Oyster Card and call the attached shortcut.)</p>\n<p>https://www.icloud.com/shortcuts/df49dd5544b74e9c90957bae3a470f8b</p><div><br></div><img src=\"https://i.redd.it/aafad2kydacf1.gif\" />",
+            "date_published": "2025-07-11T18:16:54+00:00",
+            "authors": [
+                {
+                    "name": "heptanova",
+                    "url": "https://www.reddit.com/user/heptanova"
+                }
+            ]
+        },
+        {
             "id": "1ll3fjo",
             "url": "/r/shortcuts/comments/1ll3fjo/i_created_a_shortcut_to_navigate_directly_to_the/",
             "external_url": "https://i.redd.it/lbbydkweka9f1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "AJgamer2000",
                     "url": "https://www.reddit.com/user/AJgamer2000"
-                }
-            ]
-        },
-        {
-            "id": "1aghhtq",
-            "url": "/r/shortcuts/comments/1aghhtq/update_scsettings_version_07/",
-            "external_url": "https://i.redd.it/769tzojzl0gc1.jpeg",
-            "title": "[Update] SCSettings - Version 0.7",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1aghhtq/update_scsettings_version_07/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1aghhtq/update_scsettings_version_07/'>Reddit</a></caption><div><br></div><p>Yesterday I <a href=\"https://www.reddit.com/r/shortcuts/comments/1afdcu5/scsettings_quickly_access_and_toggle_settings/\">shared my Shortcut</a> with decent reception.</p>\n<p>A few people had some suggestions so I added them in this update.</p>\n<p>Let me know if there\u2019s anything else that would be useful to add.</p>\n<p><a href=\"https://routinehub.co/shortcut/17931/\">Get it from RoutineHub</a></p>\n<p>Version 0.7 Release Notes:</p>\n<ul>\n<li>Added Camera Format Settings link</li>\n<li>Added Private Relay Settings link</li>\n<li>Added Toggle Bluetooth</li>\n<li>FIxed spelling error</li>\n</ul><div><br></div><img src=\"https://i.redd.it/769tzojzl0gc1.jpeg\" />",
-            "date_published": "2024-02-01T18:13:17+00:00",
-            "authors": [
-                {
-                    "name": "Jpasholk",
-                    "url": "https://www.reddit.com/user/Jpasholk"
                 }
             ]
         }
