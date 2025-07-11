@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1lx47vv",
+            "url": "/r/selfhosted/comments/1lx47vv/omnitools_just_dropped_a_massive_update_imagepdf/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1lx47vv/omnitools_just_dropped_a_massive_update_imagepdf/",
+            "title": "OmniTools just dropped a massive update - Image/PDF editor, GIF maker, audio tools, and more - all self-hosted",
+            "content_html": "<p>Hi everyone!</p>\n<p>I'm excited to share that OmniTools v0.5.0 is out! It's a self-hosted web app that now bundles 100 useful tools into a clean, privacy-focused interface - all running locally in your browser.</p>\n<p>Project link: https://github.com/iib0011/omni-tools</p>\n<h2>What's New in v0.5.0:</h2>\n<p>There is a new logo and 15 new tools, including:</p>\n<h3>\ud83d\uddbc\ufe0f Image Tools</h3>\n<ul>\n<li>Image Editor (crop, rotate, add filters, watermark, annotate and more)</li>\n<li>Rotate Image</li>\n<li>Convert Images to JPG</li>\n</ul>\n<h3>\ud83d\udcc4 PDF Tools</h3>\n<ul>\n<li>PDF Editor (add text, images, signature, checkboxes)</li>\n<li>PDF to PNG</li>\n</ul>\n<h3>\ud83c\udfa5 Video Tools</h3>\n<ul>\n<li>Video to GIF</li>\n</ul>\n<h3>\ud83d\udd0a Audio Tools</h3>\n<ul>\n<li>Extract Audio</li>\n<li>Change Speed</li>\n<li>Trim Audio</li>\n<li>Merge Audio</li>\n</ul>\n<h3>\u23f1\ufe0f Time Tools</h3>\n<ul>\n<li>Crontab Explainer</li>\n<li>Check Leap Years</li>\n</ul>\n<h3>\ud83d\udd20 String &amp; Text Tools</h3>\n<ul>\n<li>Text Censor</li>\n</ul>\n<h3>\ud83e\uddfe XML Tools</h3>\n<ul>\n<li>XML Beautifier</li>\n<li>XML Validator</li>\n</ul>\n<p>Feedback, bug reports, or feature ideas welcome, and PRs even more so! I read all comments.</p>\n<p>Thanks r/selfhosted for the support.</p>",
+            "date_published": "2025-07-11T11:17:21+00:00",
+            "authors": [
+                {
+                    "name": "LegitimateRip3134",
+                    "url": "https://www.reddit.com/user/LegitimateRip3134"
+                }
+            ]
+        },
+        {
             "id": "1lvimm5",
             "url": "/r/selfhosted/comments/1lvimm5/i_can_no_longer_claim_999_uptime_on_my_server/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1lvimm5/i_can_no_longer_claim_999_uptime_on_my_server/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "SavingsMany4486",
                     "url": "https://www.reddit.com/user/SavingsMany4486"
-                }
-            ]
-        },
-        {
-            "id": "1fe8j7o",
-            "url": "/r/selfhosted/comments/1fe8j7o/selfhsticons_a_collection_of_600_icons_selfhosted/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1fe8j7o/selfhsticons_a_collection_of_600_icons_selfhosted/",
-            "title": "selfh.st/icons - A collection of 600+ icons (self-hosted and more) for dashboards and documentation",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1fe8j7o/selfhsticons_a_collection_of_600_icons_selfhosted/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1fe8j7o/selfhsticons_a_collection_of_600_icons_selfhosted/'>Reddit</a></caption><div><br></div><p>Hey, r/selfhosted!</p>\n<p>Today I'm officially publishing and sharing the collection of icons I've built over the past several months to power <a href=\"https://selfh.st/apps/\">selfh.st/apps</a>, which I've since expanded to include 600+ assets spanning all types of software for the self-hosted and homelab dashboards often shared on this subreddit:</p>\n<p><a href=\"https://selfh.st/icons/\">selfh.st/icons</a></p>\n<p>Features include:</p>\n<ul>\n<li>A browsable directory of icons with buttons to easily copy links to the clipboard</li>\n<li>Sort (alphabetical, recently updated) and search functionality</li>\n<li>Alternate light icons for those that don't display well against dark backgrounds (with an eventual goal of providing a light version for each icon in the collection)</li>\n</ul>\n<p>The collection itself is stored on <a href=\"https://github.com/selfhst/icons\">GitHub</a> for several reasons:</p>\n<ul>\n<li>To make them publicly available for others to fork and use for their own projects if desired</li>\n<li>To leverage the <a href=\"https://www.jsdelivr.com/\">jsDelivr</a> CDN network</li>\n<li>To prevent downtime when my servers are down</li>\n<li>To easily manage and track <a href=\"https://github.com/selfhst/icons/discussions\">new requests via Discussions</a></li>\n</ul>\n<p>For <a href=\"https://github.com/gethomepage/homepage\">Homepage</a> users looking to integrate these icons into their dashboards, the team is releasing an update later today that will include native support for the collection without having to leverage clunky jsDelivr links.</p>\n<p>A ton of thanks to the <a href=\"https://github.com/walkxcode/dashboard-icons\">walkxcode/dashboard-icons</a> project, which initially provided icons for the directory and was the inspiration behind the standardization and naming conventions used in my collection.</p>\n<p>As usual, I'm completely open to feedback!</p>",
-            "date_published": "2024-09-11T12:09:51+00:00",
-            "authors": [
-                {
-                    "name": "shol-ly",
-                    "url": "https://www.reddit.com/user/shol-ly"
                 }
             ]
         }
