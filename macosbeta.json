@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1lx43qu",
+            "url": "/r/MacOSBeta/comments/1lx43qu/macos_tahoe_dev_beta_3_adds_a_game_overlay_for/",
+            "external_url": "https://www.reddit.com/gallery/1lx43qu",
+            "title": "macOS Tahoe Dev Beta 3 adds a Game Overlay for any application that enables \"Game Mode\"",
+            "content_html": "<p>Today when I fired up a quick casual game, I noticed the \"Game Mode Enabled\" system notification had some new text suggesting to press `Globe + Shift + C` to open the Game Overlay.\u00a0</p>\n<p>Doing so presents this new system overlay with three tabs. One for quick system settings, another for as social options and finally one with Game Center integrations. It seems the overlay will also open via clicking on the Game Mode icon in the status bar. Several of the options then go ahead and open up more details in the overlay. Eg, viewing achievements, calling a friend, ect.\u00a0</p>\n<p>Sadly there doesn't seem to be any easy way to see any performance based metrics,\u00a0 eg FPS or CPU load which typically is common on other overlays. But still seems to be a nice improvement.</p>\n<p>I also connected an Xbox remote to my Mac to test it out. At this stage, I couldn't seem to activate the overlay via the remote, however the controller could fully navigate throughout the entire overlay and interact with elements such as pausing / skipping songs. I assume controller keybindings\u00a0 might be coming later.\u00a0</p>\n<p>As far as I saw, this didn't seem to be reported anywhere yet on reddit, and I couldn't find any mention of this keybinding anyway with a quick google search so fairly sure it's new functionality to this beta, but could have been added in beta 1 or 2.</p>",
+            "date_published": "2025-07-11T11:10:51+00:00",
+            "authors": [
+                {
+                    "name": "Ben917",
+                    "url": "https://www.reddit.com/user/Ben917"
+                }
+            ]
+        },
+        {
             "id": "1lwzfsc",
             "url": "/r/MacOSBeta/comments/1lwzfsc/updated_fanmade_liquid_glass_google_chrome_icon/",
             "external_url": "https://v.redd.it/xkbu9308r6cf1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "jagajazzist",
                     "url": "https://www.reddit.com/user/jagajazzist"
-                }
-            ]
-        },
-        {
-            "id": "1gvxkjq",
-            "url": "/r/MacOSBeta/comments/1gvxkjq/152_beta_4_out_now/",
-            "external_url": "https://i.redd.it/r3yw8fw3w32e1.png",
-            "title": "15.2 Beta 4 out now",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/MacOSBeta/comments/1gvxkjq/152_beta_4_out_now/'>Winston</a> | <a href='https://reddit.com/r/MacOSBeta/comments/1gvxkjq/152_beta_4_out_now/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/r3yw8fw3w32e1.png\" />",
-            "date_published": "2024-11-20T19:15:16+00:00",
-            "authors": [
-                {
-                    "name": "WholeIndividual0",
-                    "url": "https://www.reddit.com/user/WholeIndividual0"
                 }
             ]
         }
