@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1lxlgpm",
+            "url": "/r/MacOSBeta/comments/1lxlgpm/fanmade_discord_liquid_glass_icon/",
+            "external_url": "https://v.redd.it/wskb5mytvbcf1",
+            "title": "Fan-made Discord Liquid Glass icon",
+            "content_html": "<p>This is BY FAR the easiest icon I made so far. I just had to download an svg of the Discord icon, make it white, turn the color of the icon itself the Discord blue, and then the app just made the logo blue for dark mode automatically??</p>",
+            "date_published": "2025-07-11T23:18:37+00:00",
+            "authors": [
+                {
+                    "name": "Due-Beginning8863",
+                    "url": "https://www.reddit.com/user/Due-Beginning8863"
+                }
+            ]
+        },
+        {
             "id": "1lx43qu",
             "url": "/r/MacOSBeta/comments/1lx43qu/macos_tahoe_dev_beta_3_adds_a_game_overlay_for/",
             "external_url": "https://www.reddit.com/gallery/1lx43qu",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Kina_Kai",
                     "url": "https://www.reddit.com/user/Kina_Kai"
-                }
-            ]
-        },
-        {
-            "id": "1iuzry8",
-            "url": "/r/MacOSBeta/comments/1iuzry8/apple_seeds_first_beta_of_macos_sequoia_154/",
-            "external_url": "https://www.macrumors.com/2025/02/21/apple-seeds-first-beta-of-macos-sequoia-15-4/",
-            "title": "Apple Seeds First Beta of macOS Sequoia 15.4",
-            "content_html": "",
-            "date_published": "2025-02-21T19:45:16+00:00",
-            "authors": [
-                {
-                    "name": "jagajazzist",
-                    "url": "https://www.reddit.com/user/jagajazzist"
                 }
             ]
         }
