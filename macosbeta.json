@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1lxnjlo",
+            "url": "/r/MacOSBeta/comments/1lxnjlo/fan_made_minecraft_liquid_glass_icon/",
+            "external_url": "https://i.redd.it/6fn5he6ldccf1.jpeg",
+            "title": "Fan made Minecraft Liquid Glass icon",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/6fn5he6ldccf1.jpeg\" />",
+            "date_published": "2025-07-12T00:57:31+00:00",
+            "authors": [
+                {
+                    "name": "Different_Wind8260",
+                    "url": "https://www.reddit.com/user/Different_Wind8260"
+                }
+            ]
+        },
+        {
             "id": "1lxlgpm",
             "url": "/r/MacOSBeta/comments/1lxlgpm/fanmade_discord_liquid_glass_icon/",
             "external_url": "https://v.redd.it/wskb5mytvbcf1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "chinese-telephone",
                     "url": "https://www.reddit.com/user/chinese-telephone"
-                }
-            ]
-        },
-        {
-            "id": "1j2q230",
-            "url": "/r/MacOSBeta/comments/1j2q230/154_developer_beta_2_released/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1j2q230/154_developer_beta_2_released/",
-            "title": "15.4 Developer Beta 2 Released",
-            "content_html": "<p>This resolves the system crash with VMs (really anything that touches <code>Hypervisor.framework</code>).</p>",
-            "date_published": "2025-03-03T18:47:16+00:00",
-            "authors": [
-                {
-                    "name": "Kina_Kai",
-                    "url": "https://www.reddit.com/user/Kina_Kai"
                 }
             ]
         }
