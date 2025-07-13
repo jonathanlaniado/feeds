@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1lyqhjl",
+            "url": "/r/MacOSBeta/comments/1lyqhjl/when_worlds_collide/",
+            "external_url": "https://www.reddit.com/gallery/1lyqhjl",
+            "title": "When worlds collide..",
+            "content_html": "<p>This isn't running Tahoe, these are Beta 3 screenshots off of the M4 air, scaled down in Photoshop to 1024 x 768.</p>",
+            "date_published": "2025-07-13T11:26:26+00:00",
+            "authors": [
+                {
+                    "name": "PresentationAny389",
+                    "url": "https://www.reddit.com/user/PresentationAny389"
+                }
+            ]
+        },
+        {
             "id": "1ly6uyu",
             "url": "/r/MacOSBeta/comments/1ly6uyu/just_updated_to_tahoe_dev_beta_3/",
             "external_url": "https://i.redd.it/f41980uyfhcf1.png",
@@ -1386,20 +1400,6 @@
             "title": "Apple Seeds Second Beta of macOS Sequoia 15.5",
             "content_html": "",
             "date_published": "2025-04-14T17:45:54+00:00",
-            "authors": [
-                {
-                    "name": "jagajazzist",
-                    "url": "https://www.reddit.com/user/jagajazzist"
-                }
-            ]
-        },
-        {
-            "id": "1jpy1qs",
-            "url": "/r/MacOSBeta/comments/1jpy1qs/apple_seeds_first_beta_of_macos_sequoia_155/",
-            "external_url": "https://www.macrumors.com/2025/04/02/apple-seeds-first-beta-of-macos-sequoia-15-5/",
-            "title": "Apple Seeds First Beta of macOS Sequoia 15.5",
-            "content_html": "",
-            "date_published": "2025-04-02T19:52:56+00:00",
             "authors": [
                 {
                     "name": "jagajazzist",
