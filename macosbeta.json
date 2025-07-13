@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1lyu7lp",
+            "url": "/r/MacOSBeta/comments/1lyu7lp/did_safari_got_more_intuitive_vertical_tabs/",
+            "external_url": "https://www.reddit.com/gallery/1lyu7lp",
+            "title": "Did Safari got more intuitive \"vertical tabs\"?",
+            "content_html": "<p>In Tahoe, I noticed they\u2019ve added a way to close tabs in vertical sidebar mode. Two things I would love to see are: 1. An option to hide horizontal tabs when the sidebar is open for obvious reasons. 2. The sidebar should  follow the color scheme of the website as does the top bar; instead, it is only light and dark, which can look strange especially on dark websites, for example. I hope this makes sense. Very glad to see they acknowledge vertical tab management in Safari!! </p>",
+            "date_published": "2025-07-13T14:31:11+00:00",
+            "authors": [
+                {
+                    "name": "unchartedstory",
+                    "url": "https://www.reddit.com/user/unchartedstory"
+                }
+            ]
+        },
+        {
             "id": "1lypnat",
             "url": "/r/MacOSBeta/comments/1lypnat/getting_the_launchpad_back_on_macos_26/",
             "external_url": "https://www.reddit.com/gallery/1lypnat",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "fickledshumbinqg6",
                     "url": "https://www.reddit.com/user/fickledshumbinqg6"
-                }
-            ]
-        },
-        {
-            "id": "1k7zkdu",
-            "url": "/r/MacOSBeta/comments/1k7zkdu/stormscape_live_weather_effects_for_your_mac/",
-            "external_url": "https://v.redd.it/fwa6slubk2xe1",
-            "title": "\ud83c\udf28\ufe0f StormScape \u2013 Live Weather Effects for Your Mac \ud83c\udf27\ufe0f",
-            "content_html": "<p>Available Now At https://lambworks.org/stormscape</p>",
-            "date_published": "2025-04-25T23:55:27+00:00",
-            "authors": [
-                {
-                    "name": "devlamb231",
-                    "url": "https://www.reddit.com/user/devlamb231"
                 }
             ]
         }
