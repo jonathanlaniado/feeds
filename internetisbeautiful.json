@@ -8,6 +8,20 @@
     "favicon": "https://b.thumbs.redditmedia.com/k7fHE51fuhbYJRT2e9s1rXIp2ZtA7ks-cNFvQuNbfcE.png",
     "items": [
         {
+            "id": "1lyph0n",
+            "url": "/r/InternetIsBeautiful/comments/1lyph0n/i_made_a_website_for_tracking_what_the_us/",
+            "external_url": "https://civictracker.us",
+            "title": "I made a website for tracking what the U.S. President is doing. Now I expanded it into tracking what every federal politician is doing.",
+            "content_html": "",
+            "date_published": "2025-07-13T10:21:52+00:00",
+            "authors": [
+                {
+                    "name": "lukewines",
+                    "url": "https://www.reddit.com/user/lukewines"
+                }
+            ]
+        },
+        {
             "id": "1iowz39",
             "url": "/r/InternetIsBeautiful/comments/1iowz39/this_website_lets_you_spend_elon_musks_fortune_on/",
             "external_url": "https://www.spend-elon-fortune.com/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "frapus",
                     "url": "https://www.reddit.com/user/frapus"
-                }
-            ]
-        },
-        {
-            "id": "x3b2wd",
-            "url": "/r/InternetIsBeautiful/comments/x3b2wd/i_built_a_website_with_my_friends_to_make_to_make/",
-            "external_url": "http://finestrahealth.com/main",
-            "title": "I built a website with my friends to make to make medical prices searchable, now that that hospitals are now required to publicly publish prices. We collected close to 20 million prices from around 380 hospitals thus far, and we\u2019re adding more every other week",
-            "content_html": "<caption>Open in: <a href='http://finestrahealth.com/main'>finestrahealth.com</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/x3b2wd/i_built_a_website_with_my_friends_to_make_to_make/'>Reddit</a> | <a href='apollo://reddit.com/r/InternetIsBeautiful/comments/x3b2wd/i_built_a_website_with_my_friends_to_make_to_make/'>Apollo</a></caption>",
-            "date_published": "2022-09-01T15:50:51+00:00",
-            "authors": [
-                {
-                    "name": "taeyoungwoo",
-                    "url": "https://www.reddit.com/user/taeyoungwoo"
                 }
             ]
         }
