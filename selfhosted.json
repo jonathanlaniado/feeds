@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1lz280x",
+            "url": "/r/selfhosted/comments/1lz280x/selfhosted_emergency_sites/",
+            "external_url": "https://i.redd.it/gi0sldox5pcf1.png",
+            "title": "Self-hosted emergency sites?",
+            "content_html": "<p>I saw this ad today and wondered if there are any open-source options for easily self-hosting something like this. Obviously I could set it all up manually but that's a lot of work for little benefit. Seems like a cool thing to have (although likely will never need to be used).</p><div><br></div><img src=\"https://i.redd.it/gi0sldox5pcf1.png\" />",
+            "date_published": "2025-07-13T19:58:29+00:00",
+            "authors": [
+                {
+                    "name": "chill389cc",
+                    "url": "https://www.reddit.com/user/chill389cc"
+                }
+            ]
+        },
+        {
             "id": "1lynfps",
             "url": "/r/selfhosted/comments/1lynfps/bookstack_is_now_10_years_old/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1lynfps/bookstack_is_now_10_years_old/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Solokdsa56456",
                     "url": "https://www.reddit.com/user/Solokdsa56456"
-                }
-            ]
-        },
-        {
-            "id": "1fhsm6x",
-            "url": "/r/selfhosted/comments/1fhsm6x/retrom_a_selfhosted_emulation_library_service_and/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1fhsm6x/retrom_a_selfhosted_emulation_library_service_and/",
-            "title": "Retrom - A Self-Hosted Emulation Library Service and Frontend",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1fhsm6x/retrom_a_selfhosted_emulation_library_service_and/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1fhsm6x/retrom_a_selfhosted_emulation_library_service_and/'>Reddit</a></caption><div><br></div><p>Hey all, I'm here to share a new project I've been working on for the last handful of months. I've been a  self-hosting enthusiast for well over a decade now, from old game-servers for my friends and I in the mid-2000's on a centOS box in my garage to now having a full-fledged homelab serving content of all types.  I am incredibly excited to have created something that could presumably be used by others who might enjoy it in the same way that I have enjoyed these types of services for the greater part of my life!</p>\n<p>This project is called <strong>Retrom</strong>, and is most simply described as an emulation library frontend. However, the thing that sets Retrom apart is it's first-class support for centralized, self-hosted game libraries. I am aware that this is a bit of a niche that Retrom is targeting, but I am sure there are plenty of users here that have large libraries of retro games sitting on their NAS that could possibly see some use from this. I mean, how small could the intersection of retro game collectors, emulation enthusiasts, data archivists and home-lab enthusiasts be, really??</p>\n<blockquote>\n<p><strong>Download links, docs and source code can all be found at the</strong> <a href=\"https://github.com/jmberesford/retrom\"><strong>github repository</strong></a><strong>, for those interested</strong></p>\n</blockquote>\n<p>Retrom is still in the early stages of development, but I'm excited to share it with you all and get feedback. I'm certain there are bugs to be found, and I would not describe Retrom as <em>fully-featured</em> yet, but I'm excited to see what others think and would like to use the feedback to guide future development.</p>\n<h1>Here is a list of Retrom's main features:</h1>\n<ul>\n<li><strong>Self Hosted Game Libraries</strong>: Retrom is designed with self-hosted game libraries in mind. This means that you can host your own game library on your own server, and Retrom will be able to access it. Simply spin up the Retrom service in a docker container (binary distribution coming soon), and point it to your game library.</li>\n<li><strong>Game Metadata and Covers</strong>: Retrom will automatically download metadata and covers for your games, and display them in a beautiful and easy to use UI. Metadata and images are automatically sourced from supported providers, and can be manually edited if needed.</li>\n<li><strong>Desktop and Web Clients</strong>: Connect any amount of clients to your Retrom service, and they will all be able to manage, install and play your games. Large libraries need not take up space on your local machine, and you can access your games from anywhere.</li>\n<li><strong>Multi-platform</strong>: Retrom's desktop client is available for use on Windows, MacOS, and Linux. The web client is accessible on any device with a modern web browser, and can be easily deployed via docker alongside the service.</li>\n<li><strong>First Class Emulation Support</strong>: Retrom has first-class support for emulation, and is designed with flexibility in mind. You can configure the Retrom client to launch games with any emulator you have installed on your machine, and further configure launch profiles for each emulator (e.g. launch in fullscreen/launch in windowed profiles).</li>\n</ul>\n<h1>The next major milestones on the roadmap for Retrom are as follows:</h1>\n<ul>\n<li><strong>User Authentication and Permissions</strong>: Retrom will soon support user authentication and permissions. This means that you can create user accounts for your friends and family, and give them access to your game library.</li>\n<li><strong>Standalone Mode</strong>: Retrom will soon support a standalone mode, where the service and client are bundled together in a single binary. This will make it easier to get started with Retrom, and will be especially useful for users who don't want to host their own game library.</li>\n<li><strong>Fullscreen UI and Gamepad Support</strong>: The desktop client will soon have a fullscreen UI mode, and will support gamepad input. This will make Retrom a great choice for use on a TV or other large screen.</li>\n<li><strong>Cloud Save Support</strong>: Retrom will soon support cloud saves for your games. This means that you can save your game progress to your retrom service, and pick up where you left off on any device.</li>\n<li><strong>Built-in Emulator Profiles</strong>: Retrom will soon ship with built-in emulator profiles for popular emulators. This will make it easier to get started with emulation, and will make it easier to configure your emulators for use with Retrom.</li>\n<li><strong>Additional Metadata Providers</strong>: Retrom will soon support additional metadata providers. Currently, Retrom uses IGDB for metadata and cover images, but additional providers like SteamGridDB will be added in the future.</li>\n</ul>\n<h1>Screenshots</h1>\n<p><a href=\"https://preview.redd.it/32m27g1yf2pd1.jpg?width=1843&amp;format=pjpg&amp;auto=webp&amp;s=73aba91ae2fe3f3712ddffdb1ba05e645ef9accb\">Home screen</a></p>\n<p><a href=\"https://preview.redd.it/rbg5ch1yf2pd1.jpg?width=1623&amp;format=pjpg&amp;auto=webp&amp;s=551b8ff9181b9cd2c7173b132cec79da5cb67e6d\">Game view</a></p>",
-            "date_published": "2024-09-16T01:18:41+00:00",
-            "authors": [
-                {
-                    "name": "Volcaus",
-                    "url": "https://www.reddit.com/user/Volcaus"
                 }
             ]
         }
