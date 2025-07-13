@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1lypnat",
+            "url": "/r/MacOSBeta/comments/1lypnat/getting_the_launchpad_back_on_macos_26/",
+            "external_url": "https://www.reddit.com/gallery/1lypnat",
+            "title": "getting the launchpad back on macOS 26",
+            "content_html": "<p>sudo mkdir -p /Library/Preferences/FeatureFlags/Domain\nsudo defaults write /Library/Preferences/FeatureFlags/Domain/SpotlightUI.plist SpotlightPlus -dict Enabled -bool false</p>\n<p>disable:\nsudo rm /Library/Preferences/FeatureFlags/Domain/SpotlightUI.plist sudo rm /Library/Preferences/FeatureFlags/Domain/SpotlightUI.plist</p>\n<p>OR</p>\n<p>sudo defaults write /Library/Preferences/FeatureFlags/Domain/SpotlightUI.plist SpotlightPlus -dict Disabled -bool true</p>",
+            "date_published": "2025-07-13T10:33:15+00:00",
+            "authors": [
+                {
+                    "name": "bigganallzz",
+                    "url": "https://www.reddit.com/user/bigganallzz"
+                }
+            ]
+        },
+        {
             "id": "1lyqhjl",
             "url": "/r/MacOSBeta/comments/1lyqhjl/when_worlds_collide/",
             "external_url": "https://www.reddit.com/gallery/1lyqhjl",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "devlamb231",
                     "url": "https://www.reddit.com/user/devlamb231"
-                }
-            ]
-        },
-        {
-            "id": "1jz51k4",
-            "url": "/r/MacOSBeta/comments/1jz51k4/apple_seeds_second_beta_of_macos_sequoia_155/",
-            "external_url": "https://www.macrumors.com/2025/04/14/apple-seeds-macos-sequoia-15-5-beta-2/",
-            "title": "Apple Seeds Second Beta of macOS Sequoia 15.5",
-            "content_html": "",
-            "date_published": "2025-04-14T17:45:54+00:00",
-            "authors": [
-                {
-                    "name": "jagajazzist",
-                    "url": "https://www.reddit.com/user/jagajazzist"
                 }
             ]
         }
