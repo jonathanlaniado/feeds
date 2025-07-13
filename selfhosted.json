@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1lynfps",
+            "url": "/r/selfhosted/comments/1lynfps/bookstack_is_now_10_years_old/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1lynfps/bookstack_is_now_10_years_old/",
+            "title": "BookStack is now 10 years old!",
+            "content_html": "<p>Hello \ud83d\udc4b,</p>\n<p>I rarely post <a href=\"https://www.bookstackapp.com/\">BookStack</a> here myself since it already gets some frequent mentions in the sub, but thought I'd share this as a considerable milestone:</p>\n<p>It's now been a decade since I started building BookStack!</p>\n<p>A big thanks to all those that have supported me and the project in this sub, the project has generally had very positive and constructive feedback from this community since <a href=\"https://www.reddit.com/r/selfhosted/comments/3z06rb/bookstack_a_free_wikilike_information_store/\">originally sharing it in Jan 2016</a>, and this has been a key factor in the growth of the platform.</p>\n<p>On the BookStack blog I've written up a <a href=\"https://www.bookstackapp.com/blog/decade-of-bookstack/\">Decade of BookStack</a> post where I dive into a deeper update, specifically around project stats and finances.</p>\n<p>I've also <a href=\"https://www.youtube.com/watch?v=oPNdXF1WJ2g\">created a video</a> for this milestone, covering the points of the blogpost while also doing a community Q&amp;A which dives into subjects like the project origins, and mental health considerations of working on OSS full time.</p>\n<p>Once again, thanks for the kind support!\nDan</p>",
+            "date_published": "2025-07-13T08:03:41+00:00",
+            "authors": [
+                {
+                    "name": "ssddanbrown",
+                    "url": "https://www.reddit.com/user/ssddanbrown"
+                }
+            ]
+        },
+        {
             "id": "1ly7gat",
             "url": "/r/selfhosted/comments/1ly7gat/torrra_a_python_tool_that_lets_you_find_and/",
             "external_url": "https://i.redd.it/5g84576tkhcf1.gif",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Volcaus",
                     "url": "https://www.reddit.com/user/Volcaus"
-                }
-            ]
-        },
-        {
-            "id": "1fhe1yd",
-            "url": "/r/selfhosted/comments/1fhe1yd/i_did_something_i_created_nothing_and_its/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1fhe1yd/i_did_something_i_created_nothing_and_its/",
-            "title": "I did something: I created Nothing \u2014 and it's self-hostable!",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1fhe1yd/i_did_something_i_created_nothing_and_its/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1fhe1yd/i_did_something_i_created_nothing_and_its/'>Reddit</a></caption><div><br></div><p>After working on <a href=\"https://github.com/remvze/moodist\">Moodist</a> for about a year, I took some time to reflect. Moodist is an app that helps you stay focused and productive; it encourages you to take action. But what if the best thing to do is nothing? What if the solution is to step away from our computers and let our minds rest? So, I created Nothing. It's an app that encourages you to do nothing, offering a break from the constant pressure to be productive. It's free, open-source, and self-hostable.</p>\n<p>\u2794 <a href=\"http://usenothing.com\">usenothing.com</a><br />\n\u2794 <a href=\"http://github.com/remvze/nothing\">github.com/remvze/nothing</a></p>",
-            "date_published": "2024-09-15T14:40:23+00:00",
-            "authors": [
-                {
-                    "name": "remvze",
-                    "url": "https://www.reddit.com/user/remvze"
                 }
             ]
         }
