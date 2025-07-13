@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
     "items": [
         {
+            "id": "1lycaw7",
+            "url": "/r/ChatGPTPro/comments/1lycaw7/why_was_ocr_removed_from_scanned_pdfs_in_chatgpt/",
+            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1lycaw7/why_was_ocr_removed_from_scanned_pdfs_in_chatgpt/",
+            "title": "\"Why was OCR removed from scanned PDFs in ChatGPT? This breaks my workflow.\"",
+            "content_html": "<p>Up until recently, ChatGPT was able to extract text from scanned/image-based PDFs using built-in OCR. I relied on this heavily for study and work-related documents. It worked great \u2014 no extra tools needed.</p>\n<p>Suddenly, OCR for scanned PDFs just stopped working.</p>\n<p>Now:\n- If a PDF contains images instead of digital/selectable text, ChatGPT gives no output.\n- There's no error message or warning \u2014 just silence.\n- Support confirmed that OCR for PDFs is now only available for <strong>Enterprise</strong> users.</p>\n<p>This feature was quietly removed without any communication, changelog, or notice. That\u2019s incredibly frustrating and feels deceptive \u2014 especially for paying users (Plus/Pro) who relied on this functionality.</p>\n<p>I\u2019m now forced to use third-party OCR tools or convert everything into images before uploading \u2014 which defeats the point of using ChatGPT as an all-in-one tool.</p>\n<p>This is a huge downgrade, and it breaks entire workflows for people who work with scanned documents.</p>\n<p>Anyone else caught off guard by this change?<br />\nAny official response from OpenAI?<br />\nUpvote for visibility if you're affected too.</p>",
+            "date_published": "2025-07-12T21:59:27+00:00",
+            "authors": [
+                {
+                    "name": "DoctorAltay",
+                    "url": "https://www.reddit.com/user/DoctorAltay"
+                }
+            ]
+        },
+        {
             "id": "1lt86j1",
             "url": "/r/ChatGPTPro/comments/1lt86j1/will_you_use_chatgpt_if_it_includes_ads_in_it/",
             "external_url": "https://i.redd.it/lhiazihqqabf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "IversusAI",
                     "url": "https://www.reddit.com/user/IversusAI"
-                }
-            ]
-        },
-        {
-            "id": "18yj2es",
-            "url": "/r/ChatGPTPro/comments/18yj2es/quick_disclaimer/",
-            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/18yj2es/quick_disclaimer/",
-            "title": "Quick disclaimer",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ChatGPTPro/comments/18yj2es/quick_disclaimer/'>Winston</a> | <a href='https://reddit.com/r/ChatGPTPro/comments/18yj2es/quick_disclaimer/'>Reddit</a></caption><div><br></div><p>Any posts that are just people complaining about GPT's output quality and making a whole 30 paragraph rant about unsubscribing to GPT Plus and why they dont deserve your 20 dollars a month will be removed without a second thought.</p>\n<p>The ONLY exception is if you provide something important and relevant like potential solutions to the new issue of GPT-4 being \"lazy\".</p>\n<p>Look, I get it, the quality has gone down badly. But damn, coming to a subreddit that discusses professional usage of Chat GPT and starting a spiel on why GPT 4 doesnt deserve your twenty bucks is not only <strong>un</strong>helpful, but just contributes to the ever-increasing pile of low quality posts in the subreddit, which just gives the moderators more work. </p>\n<blockquote>\n<p>!Sorry, for the very unprofessional rant but god, it's annoying for everyone. Not just the mods, but the users!&lt;</p>\n</blockquote>",
-            "date_published": "2024-01-04T17:47:29+00:00",
-            "authors": [
-                {
-                    "name": "Redditoridunn0",
-                    "url": "https://www.reddit.com/user/Redditoridunn0"
                 }
             ]
         }
