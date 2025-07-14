@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
     "items": [
         {
+            "id": "1lzr4ek",
+            "url": "/r/ChatGPTPro/comments/1lzr4ek/i_was_tired_of_getting_onesided_ai_answers_so_i/",
+            "external_url": "https://i.redd.it/9udwmfsu9vcf1.png",
+            "title": "I Was Tired of Getting One-Sided AI Answers, So I Built a 'Conference Room' for AI Agents to Argue In",
+            "content_html": "<p>So i got a little inspired by an old prompt I came across, it was called the six hat thinking system, i think ChainBrainAI was the one who originally created it. Anyways this prompt gets the model to create 6 personas which was great, but had a limitation with the fact that you're actually only ever talking to\u00a0one\u00a0instance of a model.</p>\n<p>So, I built a tool that lets you create a virtual room full of specialised AI agents who can collaborate on your problem.</p>\n<p>Here's how it works:</p>\n<ol>\n<li><strong>You create 'Personas':</strong>\u00a0Think of them as your AI employees. You give each one a name, a specific role (e.g., \"Senior Software Architect,\" \"Cynical Marketing Expert\"), a detailed system prompt, and can even upload knowledge files (like PDFs) to give them specific domain context. Each persona is an individual instance with their own dedicated knowledge file (if you choose to add one)</li>\n<li><strong>You build a 'Room':</strong>\u00a0You then create a room and invite your cast of characters to join (you can add up to 6 of your custom personas). Every room also includes a master \"Room Controller\" AI that moderates the discussion and synthesises the key insights.</li>\n<li><strong>You start the conversation:</strong>\u00a0You give the room a task or a question. The magic is that they don't just reply to you\u2014they discuss it\u00a0among themselves, build on each other's ideas, can see what each other person wrote, challenge assumptions, and work towards a solution collaboratively. It's wild to watch a 'Creative Director' persona and a 'Data Analyst' persona debate the best approach.</li>\n</ol>\n<p>Is this a good idea? Or have i insanely over-engineered something that isn't even useful?</p>\n<p>Looking for thoughts, feedback and product validation not traffic.</p><div><br></div><img src=\"https://i.redd.it/9udwmfsu9vcf1.png\" />",
+            "date_published": "2025-07-14T16:30:58+00:00",
+            "authors": [
+                {
+                    "name": "Officiallabrador",
+                    "url": "https://www.reddit.com/user/Officiallabrador"
+                }
+            ]
+        },
+        {
             "id": "1lyrk36",
             "url": "/r/ChatGPTPro/comments/1lyrk36/i_thought_i_was_smart_but_after_attempting_ai_and/",
             "external_url": "https://i.redd.it/7vh42hqcxmcf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Parry11",
                     "url": "https://www.reddit.com/user/Parry11"
-                }
-            ]
-        },
-        {
-            "id": "193cxnx",
-            "url": "/r/ChatGPTPro/comments/193cxnx/chatgpt_team_only_25/",
-            "external_url": "https://i.redd.it/6msb5nuw7nbc1.png",
-            "title": "ChatGPT Team only $25",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ChatGPTPro/comments/193cxnx/chatgpt_team_only_25/'>Winston</a> | <a href='https://reddit.com/r/ChatGPTPro/comments/193cxnx/chatgpt_team_only_25/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/6msb5nuw7nbc1.png\" />",
-            "date_published": "2024-01-10T16:55:29+00:00",
-            "authors": [
-                {
-                    "name": "GPT-Store",
-                    "url": "https://www.reddit.com/user/GPT-Store"
                 }
             ]
         }
