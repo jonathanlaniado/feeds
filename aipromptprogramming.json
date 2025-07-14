@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1lz8gev",
+            "url": "/r/aipromptprogramming/comments/1lz8gev/i_cancelled_my_cursor_subscription_i_built/",
+            "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1lz8gev/i_cancelled_my_cursor_subscription_i_built/",
+            "title": "I cancelled my Cursor subscription. I built multi-agent swarms with Claude code instead. Here's why.",
+            "content_html": "<p>After spending way too many hours manually grinding through GitHub issues, I had a realization: Why am I doing this one by one when Claude can handle most of these tasks autonomously? So I cancelled my Cursor subscription and started building something completely different.</p>\n<p>Instead of one AI assistant helping you code, imagine deploying 10 AI agents simultaneously to work on 10 different GitHub issues. While you sleep. In parallel. Each in their own isolated environment. The workflow is stupidly simple: select your GitHub repo, pick multiple issues from a clean interface, click \"Deploy X Agents\", watch them work in real-time, then wake up to PRs ready for review.</p>\n<p>The traditional approach has you tackling issues sequentially, spending hours on repetitive bug fixes and feature requests. With SwarmStation, you deploy agents before bed and wake up to 10 PRs. Y</p>\n<p>ou focus your brain on architecture and complex problems while agents handle the grunt work. I'm talking about genuine 10x productivity for the mundane stuff that fills up your issue tracker.</p>\n<p>Each agent runs in its own Git worktree for complete isolation, uses Claude Code for intelligence, and integrates seamlessly with GitHub. No complex orchestration needed because Git handles merging naturally.</p>\n<p>The desktop app gives you a beautiful real-time dashboard showing live agent status and progress, terminal output from each agent, statistics on PRs created, and links to review completed work.</p>\n<p>In testing, agents successfully create PRs for 80% of issues, and most PRs need minimal changes.</p>\n<p>The time I saved compared to using Cursor or Windsurf is genuinely ridiculous.</p>\n<p>I'm looking for 50 beta testers who have GitHub repos with open issues, want to try parallel AI development, and can provide feedback..</p>\n<p>Join the beta on Discord:\u00a0<a href=\"https://discord.com/invite/ZP3YBtFZ\">https://discord.com/invite/ZP3YBtFZ</a></p>\n<p>Drop a comment if you're interested and I'll personally invite active contributors to test the early builds. This isn't just another AI coding assistant. It's a fundamentally different way of thinking about development workflow. Instead of human plus AI collaboration, it's human orchestration of AI swarms.</p>\n<p>What do you think? Looking for genuine feedback!</p>",
+            "date_published": "2025-07-14T00:30:57+00:00",
+            "authors": [
+                {
+                    "name": "Illustrious-King8421",
+                    "url": "https://www.reddit.com/user/Illustrious-King8421"
+                }
+            ]
+        },
+        {
             "id": "1lpyweo",
             "url": "/r/aipromptprogramming/comments/1lpyweo/how_automate_your_job_search_with_ai_agents_what/",
             "external_url": "https://www.reddit.com/gallery/1lpyweo",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Educational_Ice151",
                     "url": "https://www.reddit.com/user/Educational_Ice151"
-                }
-            ]
-        },
-        {
-            "id": "1e9f5mj",
-            "url": "/r/aipromptprogramming/comments/1e9f5mj/unlock_the_secrets_of_ai_content_creation_with/",
-            "external_url": "/r/ChatGPTPromptGenius/comments/1e80dzs/unlock_the_secrets_of_ai_content_creation_with/",
-            "title": "Unlock the Secrets of AI Content Creation with Astra Gallery's Free Course!\n",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1e9f5mj/unlock_the_secrets_of_ai_content_creation_with/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1e9f5mj/unlock_the_secrets_of_ai_content_creation_with/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-07-22T14:05:50+00:00",
-            "authors": [
-                {
-                    "name": "Amoxletsne",
-                    "url": "https://www.reddit.com/user/Amoxletsne"
                 }
             ]
         }
