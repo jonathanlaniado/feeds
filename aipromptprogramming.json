@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1lzhl01",
+            "url": "/r/aipromptprogramming/comments/1lzhl01/analyzing_300k_remote_job_postings_trends_and/",
+            "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1lzhl01/analyzing_300k_remote_job_postings_trends_and/",
+            "title": "Analyzing 300k Remote job postings: Trends and opportunities.",
+            "content_html": "<p>I realized many roles are only posted on internal career pages and never appear on classic job boards.\nSo I built an AI script that scrapes listings from 70k+ corporate websites.</p>\n<p>Then I wrote an ML matching script that filters only the jobs most aligned with your CV, and yes, it actually works.</p>\n<p>You can try it <a href=\"https://laboro.co/?utm_source=reddit&amp;utm_medium=organic&amp;utm_campaign=9\">here</a> (for free).  </p>\n<p>(If you\u2019re still skeptical but curious to test it, you can just upload a CV with fake personal information, those fields aren\u2019t used in the matching anyway.)</p>",
+            "date_published": "2025-07-14T09:07:16+00:00",
+            "authors": [
+                {
+                    "name": "Elieroos",
+                    "url": "https://www.reddit.com/user/Elieroos"
+                }
+            ]
+        },
+        {
             "id": "1lz8gev",
             "url": "/r/aipromptprogramming/comments/1lz8gev/i_cancelled_my_cursor_subscription_i_built/",
             "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1lz8gev/i_cancelled_my_cursor_subscription_i_built/",
@@ -1386,20 +1400,6 @@
             "title": "With this tool you can texture 3D models with AI",
             "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1eewxl9/with_this_tool_you_can_texture_3d_models_with_ai/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1eewxl9/with_this_tool_you_can_texture_3d_models_with_ai/'>Reddit</a></caption><div><br></div>",
             "date_published": "2024-07-29T11:17:58+00:00",
-            "authors": [
-                {
-                    "name": "Educational_Ice151",
-                    "url": "https://www.reddit.com/user/Educational_Ice151"
-                }
-            ]
-        },
-        {
-            "id": "1ea5yr1",
-            "url": "/r/aipromptprogramming/comments/1ea5yr1/google_has_released_the_worlds_first_ai_agents/",
-            "external_url": "https://v.redd.it/kvx0n56py7ed1",
-            "title": "Google has released the world's first \"AI Agents System\", Project Oscar, an open-source platform that enables development teams to create and utilize AI agents for managing software projects, particularly in monitoring issues and bugs.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1ea5yr1/google_has_released_the_worlds_first_ai_agents/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1ea5yr1/google_has_released_the_worlds_first_ai_agents/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-07-23T11:56:19+00:00",
             "authors": [
                 {
                     "name": "Educational_Ice151",
