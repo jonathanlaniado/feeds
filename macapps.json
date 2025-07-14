@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1lzxv7q",
+            "url": "/r/macapps/comments/1lzxv7q/is_is_just_me_or_has_there_been_a_pretty_big/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1lzxv7q/is_is_just_me_or_has_there_been_a_pretty_big/",
+            "title": "Is is just me, or has there been a pretty big increase in \"I built an app\" posts recently?",
+            "content_html": "<p>I hope I am wrong, but I'm wondering now if people are just using AI coding tools to crank out apps and throwing them up for sale quickly.</p>\n<p>I have no issue with competent developers using a programming LLM to speed up their coding. But if you're coding last ended with writing a small script to automate some task you had, I don't think that's going to help you code an app using an LLM, and be able to support bug fixes and security updates long-term.</p>",
+            "date_published": "2025-07-14T20:38:59+00:00",
+            "authors": [
+                {
+                    "name": "plazman30",
+                    "url": "https://www.reddit.com/user/plazman30"
+                }
+            ]
+        },
+        {
             "id": "1lumvak",
             "url": "/r/macapps/comments/1lumvak/discovered_the_app_blip_and_its_the_best_file/",
             "external_url": "https://www.reddit.com/gallery/1lumvak",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "leqote",
                     "url": "https://www.reddit.com/user/leqote"
-                }
-            ]
-        },
-        {
-            "id": "1eyhvhy",
-            "url": "/r/macapps/comments/1eyhvhy/time_to_call_dynamicisland_calls_notifications/",
-            "external_url": "https://v.redd.it/9ev5n9zvj7kd1",
-            "title": "Time to call - DynamicIsland calls notifications",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1eyhvhy/time_to_call_dynamicisland_calls_notifications/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1eyhvhy/time_to_call_dynamicisland_calls_notifications/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-08-22T12:19:54+00:00",
-            "authors": [
-                {
-                    "name": "Aviorrok",
-                    "url": "https://www.reddit.com/user/Aviorrok"
                 }
             ]
         }
