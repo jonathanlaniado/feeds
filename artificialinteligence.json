@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1lz8jvr",
+            "url": "/r/ArtificialInteligence/comments/1lz8jvr/the_ai_layoff_tsunami_is_coming_for_red_america/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1lz8jvr/the_ai_layoff_tsunami_is_coming_for_red_america/",
+            "title": "The AI Layoff Tsunami Is Coming for Red America",
+            "content_html": "<p><a href=\"https://theherocall.substack.com/p/the-ai-layoff-tsunami-is-coming-for\">https://theherocall.substack.com/p/the-ai-layoff-tsunami-is-coming-for</a></p>\n<p>For conservatives, the coming wave of AI-driven job displacement poses a deeper ideological crisis than most are ready to admit. It threatens not just workers, but the moral framework of the American right: the belief that work confers dignity, self-reliance sustains liberty, and markets reward effort.\u00a0<strong>But what happens when the labor market simply doesn\u2019t need the labor?</strong></p>\n<p>When AI systems can drive, code, file taxes, diagnose illness, write contracts, tutor students, and handle customer service, all at once, faster, and cheaper than humans, what exactly is the plan for the tens of millions of displaced workers, many of whom vote red?\u00a0<strong>How does a society that ties basic survival to employment absorb 30, 40, or even 50 million people who are not lazy or unmotivated, but simply rendered economically irrelevant?</strong></p>\n<p>This is where conservatives face a historic crossroads.\u00a0<strong>Either they cling to a fading vision of self-sufficiency and let economic obsolescence metastasize into populist rage, or they evolve, painfully, and pragmatically, toward a new social contract.</strong>\u00a0One that admits: if markets can no longer pay everyone for their time, then society must pay people simply for being citizens. Not as charity, but as compensation for being shut out of the machine they helped build.</p>",
+            "date_published": "2025-07-14T00:35:38+00:00",
+            "authors": [
+                {
+                    "name": "Flopdo",
+                    "url": "https://www.reddit.com/user/Flopdo"
+                }
+            ]
+        },
+        {
             "id": "1lwpycq",
             "url": "/r/ArtificialInteligence/comments/1lwpycq/israelis_are_asking_to_ban_grok_4_after_it/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1lwpycq/israelis_are_asking_to_ban_grok_4_after_it/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "unknownstudentoflife",
                     "url": "https://www.reddit.com/user/unknownstudentoflife"
-                }
-            ]
-        },
-        {
-            "id": "1i7s5pl",
-            "url": "/r/ArtificialInteligence/comments/1i7s5pl/i_created_a_website_that_live_tracks_executive/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1i7s5pl/i_created_a_website_that_live_tracks_executive/",
-            "title": "I created a website that live tracks executive actions by POTUS and summarizes them using AI.",
-            "content_html": "<p>You can find it\u00a0<a href=\"https://potustracker.lukewin.es/\">here</a>, it's called POTUS Tracker.</p>\n<p>I pull automatically from the President's public schedule and\u00a0<a href=\"http://congress.gov/\">Congress.gov</a>\u00a0for bill summaries. <strong>No AI is used there.</strong></p>\n<p>The executive orders are scraped live from the White House website and fed into GPT-4o-mini with a prompt to summarize them in 300 characters. The backend will also send mobile push notifications to users who have added the site to their home screen.</p>\n<p>Earlier today, Trump signed an executive order designating the Houthis as a terror organization. POTUS Tracker send a notification to all subscribers with the AI summary minutes after his pen left the paper and before any major outlet. </p>\n<p>In the future, I plan to use a local model on the server for more detailed summaries. I also want to experiment with using AI to categorize presidential actions by topic, such as economics, environmental issues, national security, etc.</p>\n<p>I also will be implementing warnings for summaries I haven't reviewed for accuracy.</p>\n<p>Let me know what you think so far, and if there are any features you'd like!</p>",
-            "date_published": "2025-01-23T01:41:23+00:00",
-            "authors": [
-                {
-                    "name": "lukewines",
-                    "url": "https://www.reddit.com/user/lukewines"
                 }
             ]
         }
