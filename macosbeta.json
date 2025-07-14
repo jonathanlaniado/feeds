@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1lzhw22",
+            "url": "/r/MacOSBeta/comments/1lzhw22/why_does_macos_tahoe_has_animated_lock_screen_but/",
+            "external_url": "https://v.redd.it/8xp12j7v5tcf1",
+            "title": "Why does macos Tahoe has animated lock screen, but desktop doesn't?",
+            "content_html": "<p>In DB3 I have video on lock screen and it looks amazing. But I'm wondering that wallpaper is still and not dynamic. Actually I have only Tahoe (Day) and it's not updating during the day. Is it only for me or this will be updated in a future? </p>",
+            "date_published": "2025-07-14T09:27:22+00:00",
+            "authors": [
+                {
+                    "name": "ekzotech",
+                    "url": "https://www.reddit.com/user/ekzotech"
+                }
+            ]
+        },
+        {
             "id": "1lzhssp",
             "url": "/r/MacOSBeta/comments/1lzhssp/flawlessly_upgrade_macos_26_tahoe_dp3_build/",
             "external_url": "https://www.reddit.com/gallery/1lzhssp",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "kbgames360",
                     "url": "https://www.reddit.com/user/kbgames360"
-                }
-            ]
-        },
-        {
-            "id": "1l14cor",
-            "url": "/r/MacOSBeta/comments/1l14cor/macos_26_rumored_name/",
-            "external_url": "https://i.redd.it/kbxkr5ajre4f1.jpeg",
-            "title": "macOS 26 Rumored Name\u2026",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/kbxkr5ajre4f1.jpeg\" />",
-            "date_published": "2025-06-02T00:26:10+00:00",
-            "authors": [
-                {
-                    "name": "TechOutonyt",
-                    "url": "https://www.reddit.com/user/TechOutonyt"
                 }
             ]
         }
