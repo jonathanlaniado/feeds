@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1m0c8rk",
+            "url": "/r/MacOSBeta/comments/1m0c8rk/macos_156_beta_3_released/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1m0c8rk/macos_156_beta_3_released/",
+            "title": "MacOS 15.6 Beta 3 Released !",
+            "content_html": "<p>It seems like nobody care about MacOS 15.6 beta, spotlight is now on macOS Tahoe . I just updated to 15.6 beta 3 and it's amazing. All bug I got since 15.5 has been fixed and the UI animation is really smooth as well.</p>",
+            "date_published": "2025-07-15T08:22:05+00:00",
+            "authors": [
+                {
+                    "name": "TimeDoctor3921",
+                    "url": "https://www.reddit.com/user/TimeDoctor3921"
+                }
+            ]
+        },
+        {
             "id": "1lzhw22",
             "url": "/r/MacOSBeta/comments/1lzhw22/why_does_macos_tahoe_has_animated_lock_screen_but/",
             "external_url": "https://v.redd.it/8xp12j7v5tcf1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "DepartureMoist9277",
                     "url": "https://www.reddit.com/user/DepartureMoist9277"
-                }
-            ]
-        },
-        {
-            "id": "1l7blq5",
-            "url": "/r/MacOSBeta/comments/1l7blq5/apple_announces_macos_26_tahoe_with_new_design/",
-            "external_url": "https://www.theverge.com/news/678268/macos-version-wwdc-2025-announcement",
-            "title": "Apple announces macOS 26 Tahoe with new design",
-            "content_html": "",
-            "date_published": "2025-06-09T17:56:39+00:00",
-            "authors": [
-                {
-                    "name": "kbgames360",
-                    "url": "https://www.reddit.com/user/kbgames360"
                 }
             ]
         }
