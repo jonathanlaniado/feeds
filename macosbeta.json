@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1m1jmyq",
+            "url": "/r/MacOSBeta/comments/1m1jmyq/since_launchpad_will_be_going_away_this_is_the/",
+            "external_url": "https://www.reddit.com/gallery/1m1jmyq",
+            "title": "Since Launchpad will be going away, this is the way to do it!",
+            "content_html": "<p>I don't know if everyone knows that and I'm just stating the obvious, but all the outrage about removing Launchpad in the next macOS seems unnecessary to me, since there's already a better alternative. So, here's how you can achieve a similar menu, in case you didn't know:</p>\n<ol>\n<li>Drag and drop the Applications folder from the Finder in the right/lower side of the dock (Macintosh HD &gt; Applications)</li>\n<li>Control + click it and set \"view content as\" to \"Grid\".</li>\n<li>Make smaller folders inside the Applications folder in Finder to organize your apps however you want.</li>\n<li>With the new folder customization coming in macOS Tahoe, you can also set any icon or emoji as well as a color for easier distinction between the folders.</li>\n</ol>\n<p>There is a caveat, though: Organizing your apps into different folders only works with third-party apps, not with Apple's own, preinstalled ones.</p>",
+            "date_published": "2025-07-16T17:58:09+00:00",
+            "authors": [
+                {
+                    "name": "Der_Bohne",
+                    "url": "https://www.reddit.com/user/Der_Bohne"
+                }
+            ]
+        },
+        {
             "id": "1m0pnrp",
             "url": "/r/MacOSBeta/comments/1m0pnrp/i_really_miss_my_organized_and_labeled_folders/",
             "external_url": "https://i.redd.it/ojdimippz2df1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Nuno-zh",
                     "url": "https://www.reddit.com/user/Nuno-zh"
-                }
-            ]
-        },
-        {
-            "id": "1l7f0n7",
-            "url": "/r/MacOSBeta/comments/1l7f0n7/sadly_safari_no_longer_has_the_option_for_the_tab/",
-            "external_url": "https://i.redd.it/62k1lsrmky5f1.jpeg",
-            "title": "Sadly Safari no longer has the option for the tab bar and url box to be integrated",
-            "content_html": "<p>Bring back the unified interface!</p><div><br></div><img src=\"https://i.redd.it/62k1lsrmky5f1.jpeg\" />",
-            "date_published": "2025-06-09T20:07:48+00:00",
-            "authors": [
-                {
-                    "name": "Training-Camera-1802",
-                    "url": "https://www.reddit.com/user/Training-Camera-1802"
                 }
             ]
         }
