@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1m2zsjt",
+            "url": "/r/MacOSBeta/comments/1m2zsjt/alternate_wallpaper_photos_in_macos_tahoe/",
+            "external_url": "https://i.redd.it/761xqxwcbmdf1.png",
+            "title": "Alternate wallpaper photos in MacOS Tahoe",
+            "content_html": "<p>Guys, one feature I missed besides the launchpad in MacOS Tahoe was the wallpaper toggle, which isn't yet present in MacOS Tahoe and was present in MacOS Sequoia. Does anyone know if there's a plan to return this?</p><div><br></div><img src=\"https://i.redd.it/761xqxwcbmdf1.png\" />",
+            "date_published": "2025-07-18T11:27:28+00:00",
+            "authors": [
+                {
+                    "name": "darkofthenight999",
+                    "url": "https://www.reddit.com/user/darkofthenight999"
+                }
+            ]
+        },
+        {
             "id": "1m38uyc",
             "url": "/r/MacOSBeta/comments/1m38uyc/whats_stopping_them_from_bringing_back_the_aqua/",
             "external_url": "https://i.redd.it/g3jynvxs5odf1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "soramac",
                     "url": "https://www.reddit.com/user/soramac"
-                }
-            ]
-        },
-        {
-            "id": "1l7iet6",
-            "url": "/r/MacOSBeta/comments/1l7iet6/spotlight_results_now_include_clipboard/",
-            "external_url": "https://i.redd.it/4m70c3av8z5f1.png",
-            "title": "Spotlight results now include clipboard",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/4m70c3av8z5f1.png\" />",
-            "date_published": "2025-06-09T22:23:24+00:00",
-            "authors": [
-                {
-                    "name": "jack2018g",
-                    "url": "https://www.reddit.com/user/jack2018g"
                 }
             ]
         }
