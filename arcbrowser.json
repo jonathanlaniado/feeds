@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1m483yq",
+            "url": "/r/ArcBrowser/comments/1m483yq/arcopy_macos_webkit_based_browser/",
+            "external_url": "https://v.redd.it/e315mqxdjwdf1",
+            "title": "Arcopy - macOS WebKit based browser",
+            "content_html": "<p>Was cool to see the other post here with the iPad version of Arc built using WebKit. And I thought maybe I should share my own experiment as well. I\u2019ve been working on this macOS WebKit browser, and I\u2019m quite happy with it!</p>\n<p>The command palette (\u2318+T and \u2318+L) uses fuzzy search that includes custom titles, original title, url + path to the saved tabs, so I can search e.g. \"bl arc\u201d to find this subreddit if I had it saved under something like \u201cNews and Blogs &gt; Reddit &gt; Arc Browser\"</p>\n<p>It also supports Passkeys, copy link without trackers, setting for when regular tabs (not-saved) will disappear from the sidebar, floating sidebar that shows up when the mouse hit the edge of the window when sidebar is toggled off (\u2318S), also direct search on a few different services when using prefixes like !yt + space +++</p>\n<p>What\u2019s your favorite Arc feature? For me it was mostly about the sidebar tab organization, command palette, and the minimal UI when sidebar is toggled off and small things like \u2318+\u21e7+C to copy url without trackers.</p>",
+            "date_published": "2025-07-19T21:52:34+00:00",
+            "authors": [
+                {
+                    "name": "supremeoctopus",
+                    "url": "https://www.reddit.com/user/supremeoctopus"
+                }
+            ]
+        },
+        {
             "id": "1lvrnf8",
             "url": "/r/ArcBrowser/comments/1lvrnf8/this_is_all_it_couldve_taken_to_save_arc/",
             "external_url": "https://i.redd.it/pqmltlqbfwbf1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Elegant_Fun_9005",
                     "url": "https://www.reddit.com/user/Elegant_Fun_9005"
-                }
-            ]
-        },
-        {
-            "id": "1b8x36e",
-            "url": "/r/ArcBrowser/comments/1b8x36e/arc_for_windows_update_0120/",
-            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1b8x36e/arc_for_windows_update_0120/",
-            "title": "Arc for Windows Update - 0.12.0",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1b8x36e/arc_for_windows_update_0120/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1b8x36e/arc_for_windows_update_0120/'>Reddit</a></caption><div><br></div><p>\ud83d\udcc6 Mar 7, 2024</p>\n<blockquote>\n<ul>\n<li>We now have full touch screen support</li>\n<li>Emoji inputs now work as expected with Win+.</li>\n<li>You can now right click/two finger tap on your Sidebar to bring up the Space options context menu</li>\n<li>We updated our toggle switches in Settings to be in line with Windows standards</li>\n<li>When hovering over links the status pill will now match your Sidebar theme</li>\n<li>We added tooltips for close window and minimize window when Arc is full screened</li>\n<li>We fixed an issue where a Space name will not get replaced with the placeholder name (Space 1, for example) when the Space name has been removed</li>\n<li>We fixed an issue where the Opera logo would not display when using Import from Another Browser</li>\n<li>We fixed an issue where extension icons would not load after install</li>\n<li>We fixed an issue where there would be a space for the download icon in the Sidebar even when the icon is hidden and no downloads are visible</li>\n<li>We fixed an issue where toggling switches in Site Settings caused a flicker</li>\n<li>We fixed a crash that occurred when using Import from Another Browser</li>\n<li>We have reduced the resource usage of background tabs</li>\n</ul>\n</blockquote>",
-            "date_published": "2024-03-07T15:14:24+00:00",
-            "authors": [
-                {
-                    "name": "JaceThings",
-                    "url": "https://www.reddit.com/user/JaceThings"
                 }
             ]
         }
