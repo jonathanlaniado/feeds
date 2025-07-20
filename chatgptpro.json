@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
     "items": [
         {
+            "id": "1m4njn7",
+            "url": "/r/ChatGPTPro/comments/1m4njn7/i_created_a_chrome_extension_to_improve_your/",
+            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1m4njn7/i_created_a_chrome_extension_to_improve_your/",
+            "title": "I created a chrome extension to improve your prompts, backup chat history & more!",
+            "content_html": "<p>I find creating good prompts is the hardest part of using ChatGPT which is why I created\u00a0a chrome extension called Miracly:\u00a0<a href=\"https://trymiracly.com/\">https://trymiracly.com</a>\u00a0</p>\n<p>It integrates into the ChatGPT UI and lets you improve prompts with the click of a button. You can also backup your chat history and organize it in folders and save your prompts into a prompt library to use them later by typing // into the ChatGPT input. I am using it myself and it speeds up the usual workflow a lot. I hope you find it useful as well!</p>\n<p>Please feel free to give it a try!</p>",
+            "date_published": "2025-07-20T12:19:32+00:00",
+            "authors": [
+                {
+                    "name": "Last_Knowledge8765",
+                    "url": "https://www.reddit.com/user/Last_Knowledge8765"
+                }
+            ]
+        },
+        {
             "id": "1m29sse",
             "url": "/r/ChatGPTPro/comments/1m29sse/most_people_doesnt_understand_how_llms_work/",
             "external_url": "https://i.redd.it/vgrwu1aa8gdf1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "McSnoo",
                     "url": "https://www.reddit.com/user/McSnoo"
-                }
-            ]
-        },
-        {
-            "id": "1952s1r",
-            "url": "/r/ChatGPTPro/comments/1952s1r/sudden_deletion_of_my_widelyused_gpt_from_the_gpt/",
-            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1952s1r/sudden_deletion_of_my_widelyused_gpt_from_the_gpt/",
-            "title": "Sudden Deletion of My Widely-Used GPT from the GPT Store: 1.5 Months of Hard Work and Promotion Gone in Vain",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ChatGPTPro/comments/1952s1r/sudden_deletion_of_my_widelyused_gpt_from_the_gpt/'>Winston</a> | <a href='https://reddit.com/r/ChatGPTPro/comments/1952s1r/sudden_deletion_of_my_widelyused_gpt_from_the_gpt/'>Reddit</a></caption><div><br></div><p>Over the past one and a half months, I've been passionately working on a GPT project named \u201cVideo Summarizer AI\u201d [<a href=\"https://chat.openai.com/g/g-GvcYCKPIH-video-summarizer-ai\">https://chat.openai.com/g/g-GvcYCKPIH-video-summarizer-ai</a>]. This project was designed to create educational summaries from videos submitted by users, aiming to improve their learning experience.</p>\n<p>With over 5000+ chats, the GPT was well-received, ranking 10th in the Education category. Some users were even euphoric about this solution. My role encompassed everything from backend development to testing, engaging with users, and refining their experience. I also personally funded its marketing and promotion.</p>\n<p>However, a sudden notification yesterday informed me of the GPT's removal from the store, without any specific reason. It hinted at a possible breach of the Terms of Service or Usage Policies, prompting me to carefully revise and correct any possible infractions.</p>\n<p>Despite this effort, today brought another unexplained removal notice, referring again to the same documents I had diligently reviewed. Notably, a legal expert I consulted identified no violations in my work.</p>\n<p>When the second notification arrived, I was only able to see its title on my phone, as the content wouldn't load. Once home, I accessed it on my laptop, only to find no detailed explanation for the removal and no possibility of restoring the GPT to the store or appealing the decision.</p>\n<p>This occurred even though there are copycats and similar GPTs in the store that clearly infringe on the 'YouTube' trademark in their GPT names and lack educational purposes, in contrast to my \"Video Summarizer AI\", yet they remain available.My aspiration was to actively contribute to the OpenAI Store's GPT development. This seems impossible now, given the unexplained removal of my project.</p>\n<p>If this is a final decision and not just a technical glitch, I urge Openai for transparency regarding any errors I might have made. Despite my earnest efforts, including legal consultation, the reason behind this decision remains a mystery.</p>\n<p>&#x200B;</p>\n<p>https://preview.redd.it/3x5bn83l22cc1.png?width=820&amp;format=png&amp;auto=webp&amp;s=c10be4adf0c5dfbd98df3332326f9cf016b8aad3</p>",
-            "date_published": "2024-01-12T18:59:58+00:00",
-            "authors": [
-                {
-                    "name": "mrtdex15",
-                    "url": "https://www.reddit.com/user/mrtdex15"
                 }
             ]
         }
