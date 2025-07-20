@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1m4ar5w",
+            "url": "/r/selfhosted/comments/1m4ar5w/me_when_enterprises_dump_their_hardware_that_cant/",
+            "external_url": "https://i.redd.it/fahxedj55xdf1.jpeg",
+            "title": "Me when Enterprises dump their hardware that can't have Windows 11 installed on it",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/fahxedj55xdf1.jpeg\" />",
+            "date_published": "2025-07-19T23:54:44+00:00",
+            "authors": [
+                {
+                    "name": "ottovonbizmarkie",
+                    "url": "https://www.reddit.com/user/ottovonbizmarkie"
+                }
+            ]
+        },
+        {
             "id": "1m31wo2",
             "url": "/r/selfhosted/comments/1m31wo2/just_installed_my_new_doorbell_selfhosted/",
             "external_url": "https://www.reddit.com/gallery/1m31wo2",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "UnmannedMedia",
                     "url": "https://www.reddit.com/user/UnmannedMedia"
-                }
-            ]
-        },
-        {
-            "id": "1glf06d",
-            "url": "/r/selfhosted/comments/1glf06d/official_v100_release_of_scraperr_the_selfhosted/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1glf06d/official_v100_release_of_scraperr_the_selfhosted/",
-            "title": "Official v1.0.0 Release of Scraperr, the self-hosted webscraperr",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1glf06d/official_v100_release_of_scraperr_the_selfhosted/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1glf06d/official_v100_release_of_scraperr_the_selfhosted/'>Reddit</a></caption><div><br></div><p>Hello everyone, just letting you guys know that I have published the first release of Scraperr, my self-hosted webscraper. If you have seen this project before, thats awesome, if not let me tell you about it. </p>\n<p>This is a fully functional webscraper, created with Next.js and Python, which allows easy scraping of webpages using xpaths. It has a decoupled frontend and backend, which means that you can spin the API up by itself, and submit jobs to it for your own project.</p>\n<p>Please leave comments with feedback or suggestions, or leave an issue on Github. Thanks.</p>\n<p><a href=\"https://github.com/jaypyles/Scraperr\">https://github.com/jaypyles/Scraperr</a></p>\n<p><a href=\"https://preview.redd.it/uloc9me8udzd1.png?width=2551&amp;format=png&amp;auto=webp&amp;s=97aaeef342dfb18a31b5dfa518ffc286f5d5b5bc\">Frontpage of the scraper</a></p>\n<p><a href=\"https://preview.redd.it/1ud0hmvbudzd1.png?width=2484&amp;format=png&amp;auto=webp&amp;s=9e57c4b0b752821f5b4e96d29fd82bd692172308\">An example job which scraped all comments from a post on Hacker News</a></p>",
-            "date_published": "2024-11-07T01:30:57+00:00",
-            "authors": [
-                {
-                    "name": "bluesanoo",
-                    "url": "https://www.reddit.com/user/bluesanoo"
                 }
             ]
         }
