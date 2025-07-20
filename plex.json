@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1m4hvte",
+            "url": "/r/PleX/comments/1m4hvte/reached_1000_movies_on_plex_took_about_9_months/",
+            "external_url": "https://www.reddit.com/gallery/1m4hvte",
+            "title": "Reached 1000 Movies on Plex, took about 9 months.",
+            "content_html": "",
+            "date_published": "2025-07-20T06:23:07+00:00",
+            "authors": [
+                {
+                    "name": "Time_Database1908",
+                    "url": "https://www.reddit.com/user/Time_Database1908"
+                }
+            ]
+        },
+        {
             "id": "1m3hduj",
             "url": "/r/PleX/comments/1m3hduj/plex_is_reversing_an_unpopular_part_of_its_app/",
             "external_url": "https://www.howtogeek.com/plex-photos-music-returning-to-core-app/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Cue888",
                     "url": "https://www.reddit.com/user/Cue888"
-                }
-            ]
-        },
-        {
-            "id": "1fli0l5",
-            "url": "/r/PleX/comments/1fli0l5/rant_why_do_jellys_spend_so_much_time_in_the_plex/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/1fli0l5/rant_why_do_jellys_spend_so_much_time_in_the_plex/",
-            "title": "*RANT* Why do Jellys spend so much time in the Plex subreddit?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1fli0l5/rant_why_do_jellys_spend_so_much_time_in_the_plex/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1fli0l5/rant_why_do_jellys_spend_so_much_time_in_the_plex/'>Reddit</a></caption><div><br></div><p>I get it that Jellyfin is a solid alternative for some, as is Emby, and I'm sure there will be others. I dabble in all three and enjoy learning about them. Are there some things that I don't like about Plex? Yes. Are there things other platforms excel at, also yes. Does Plex do most of what Plex enthusiast are here for? Absolutely. But, going in to another subreddit to \"correct\" everyone on their \"ignorance\" or \"sins\" of supporting a platform, whether it's Plex or how you orient your toilet paper, is a bit abrasive. Very few Jellys post anything helpful. Oftentimes it's condescending towards those who are not well versed on networking and home server setups. If users need info on your platform, they will seek you out. Plex users don't post incessantly in the Jellyfin subreddit about it's virtues. No need to badger the ones that enjoy it. Instead offer solutions you found that may translate to solving issues users face with Plex. We CAN coexist peacefully.</p>\n<p>*End Rant* </p>",
-            "date_published": "2024-09-20T17:47:23+00:00",
-            "authors": [
-                {
-                    "name": "rsnumber2",
-                    "url": "https://www.reddit.com/user/rsnumber2"
                 }
             ]
         }
