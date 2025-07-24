@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1m7tscb",
+            "url": "/r/iOSBeta/comments/1m7tscb/ios_26_db4_multiple_app_icons_have_been_tweaked/",
+            "external_url": "https://v.redd.it/op90hthxrqef1",
+            "title": "[iOS 26 DB4] Multiple app icons have been tweaked / updated - FaceTime, Calendar, Photos, Camera, Mail, Maps, Reminders, Books, Home, Wallet, Settings (DB1 vs DB4)",
+            "content_html": "<p>App icon changes in beta 4:</p>\n<p>FaceTime - more depth and whiter where the square and triangle meet to form the webcam shape.</p>\n<p>Calendar - red weekday text is less faded and more vibrant.</p>\n<p>Photos - darker petal colours but I think this was changed in a previous beta.</p>\n<p>Camera - new design with a bigger lens, looks more like the actual iPhone camera but I liked the previous iOS 6\u2019ish design.</p>\n<p>Mail - envelope is less blue and more white.</p>\n<p>Maps - highways are now white (previously grey), the Apple Park ring is more transparent, the direction circle is bigger and more glassy.</p>\n<p>Reminders - coloured circles are more pastel.</p>\n<p>Books - book is brighter and whiter.</p>\n<p>Home - soft glow around the house is gone.</p>\n<p>Wallet - card holder has more transparency letting the red card glow through more.</p>\n<p>Settings - updated cog design.</p>\n<p>Notifications badges are also slightly bigger and have a more pinkish red colour.</p>",
+            "date_published": "2025-07-24T03:31:06+00:00",
+            "authors": [
+                {
+                    "name": "SpaceKonk",
+                    "url": "https://www.reddit.com/user/SpaceKonk"
+                }
+            ]
+        },
+        {
             "id": "1m6lftb",
             "url": "/r/iOSBeta/comments/1m6lftb/ios_26_db4_wallpaper_dims_when_opening/",
             "external_url": "https://i.redd.it/a156yjxlugef1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "GTA2014",
                     "url": "https://www.reddit.com/user/GTA2014"
-                }
-            ]
-        },
-        {
-            "id": "1eqkbli",
-            "url": "/r/iOSBeta/comments/1eqkbli/ios_18_db6_bluetooth_toggle_is_back_in_control/",
-            "external_url": "https://i.redd.it/whm2fb1kt9id1.jpeg",
-            "title": "[iOS 18 DB6] Bluetooth toggle is back in control center",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1eqkbli/ios_18_db6_bluetooth_toggle_is_back_in_control/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1eqkbli/ios_18_db6_bluetooth_toggle_is_back_in_control/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/whm2fb1kt9id1.jpeg\" />",
-            "date_published": "2024-08-12T17:48:48+00:00",
-            "authors": [
-                {
-                    "name": "maxime_lgde",
-                    "url": "https://www.reddit.com/user/maxime_lgde"
                 }
             ]
         }
