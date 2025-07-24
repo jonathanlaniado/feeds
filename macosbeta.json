@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1m7xg0s",
+            "url": "/r/MacOSBeta/comments/1m7xg0s/psa_before_you_update_to_macos_26_beta_4_close/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1m7xg0s/psa_before_you_update_to_macos_26_beta_4_close/",
+            "title": "PSA before you update to macOS 26 Beta 4 - close all windows",
+            "content_html": "<p>There is a bug whereby upon the system rebooting after installing Beta 4, you see the WiFi selection window during set up. When you select your network, it will just keep spinning. Rebooting does not work. </p>\n<p>Apparently the issue is that if there were open windows before it rebooted, it will run into this issue and you will get stuck: https://www.reddit.com/r/MacOSBeta/s/mqAMXFE4LM</p>\n<p>The solution is to boot into Recovery Mode and reinstall macOS 26. </p>\n<p>To avoid this issue, close all windows and then update to Beta 4. </p>\n<p>The causality maybe something different but if you do run into the issue then at least this is the fix. </p>\n<p>Feedback ID # FB19039952</p>",
+            "date_published": "2025-07-24T06:58:33+00:00",
+            "authors": [
+                {
+                    "name": "new-to-reddit-accoun",
+                    "url": "https://www.reddit.com/user/new-to-reddit-accoun"
+                }
+            ]
+        },
+        {
             "id": "1m7i431",
             "url": "/r/MacOSBeta/comments/1m7i431/not_sure_when_these_icons_change_but_im_just/",
             "external_url": "https://www.reddit.com/gallery/1m7i431",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Colecperrine",
                     "url": "https://www.reddit.com/user/Colecperrine"
-                }
-            ]
-        },
-        {
-            "id": "1l8w86j",
-            "url": "/r/MacOSBeta/comments/1l8w86j/macos_tahoe_removes_compact_tab_view_in_safari/",
-            "external_url": "https://www.reddit.com/gallery/1l8w86j",
-            "title": "macOS Tahoe removes compact tab view in Safari",
-            "content_html": "<p>Wondering if I'm the only person who used this, but the compact tab view was fantastic. I felt it looked better to have everything all in one row, there's no reason to have the tab bar be a separate line from the address bar... hopefully, this is just because the new Liquid Glass design version wasn't quite ready in time for the first beta, and it comes back in a later version. Anyone else have strong feelings one way or the other about this?</p>",
-            "date_published": "2025-06-11T15:52:15+00:00",
-            "authors": [
-                {
-                    "name": "MajMin5",
-                    "url": "https://www.reddit.com/user/MajMin5"
                 }
             ]
         }
