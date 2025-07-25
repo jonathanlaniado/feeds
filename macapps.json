@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1m95m29",
+            "url": "/r/macapps/comments/1m95m29/i_built_a_privacyfirst_transcribing_summarizing/",
+            "external_url": "https://i.redd.it/6wgfwsxh22ff1.jpeg",
+            "title": "I built a privacy-first transcribing + summarizing tool that's FREE FOREVER",
+            "content_html": "<p>Hey all,</p>\n<p>I built a macOS app called\u00a0<a href=\"https://hyprnote.com\">Hyprnote</a>\u00a0- it\u2019s an AI-powered notepad that listens during meetings and turns your rough notes into clean, structured summaries. Everything runs locally on your Mac, so no data ever leaves your device. We even trained our own LLM for this.</p>\n<p>We used to manually scrub through recordings, stitch together notes, and try to make sense of scattered thoughts after every call. That sucked. So we built Hyprnote to fix it - no cloud, no copy-pasting, just fast, private note-taking.</p>\n<p>People from Fortune 100 companies to doctors, lawyers, therapists - even D&amp;D players - are using it. It works great in air-gapped environments, too.</p>\n<p>Would love your honest feedback. If you\u2019re in back-to-back calls or just want a cleaner way to capture ideas, give it a spin and let me know what you think.</p>\n<p>You can check it out at\u00a0<a href=\"https://hyprnote.com/\">hyprnote.com</a>.</p>\n<p>Oh we're also <a href=\"https://github.com/fastrepl/github\">open-source</a>.</p>\n<p>Thanks!</p><div><br></div><img src=\"https://i.redd.it/6wgfwsxh22ff1.jpeg\" />",
+            "date_published": "2025-07-25T17:36:52+00:00",
+            "authors": [
+                {
+                    "name": "beerbellyman4vr",
+                    "url": "https://www.reddit.com/user/beerbellyman4vr"
+                }
+            ]
+        },
+        {
             "id": "1m7ywqn",
             "url": "/r/macapps/comments/1m7ywqn/tuneful_27_is_out_native_playback_manager_for/",
             "external_url": "https://v.redd.it/upk6zvmi6sef1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MamaJojoPuddinCup",
                     "url": "https://www.reddit.com/user/MamaJojoPuddinCup"
-                }
-            ]
-        },
-        {
-            "id": "1f1770b",
-            "url": "/r/macapps/comments/1f1770b/monarch_v07_released_super_fast_file_search/",
-            "external_url": "https://www.reddit.com/gallery/1f1770b",
-            "title": "Monarch v0.7 released: Super fast File Search, Homebrew & much more in a launcher being built by the users!",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1f1770b/monarch_v07_released_super_fast_file_search/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1f1770b/monarch_v07_released_super_fast_file_search/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-08-25T21:18:17+00:00",
-            "authors": [
-                {
-                    "name": "thievingfour",
-                    "url": "https://www.reddit.com/user/thievingfour"
                 }
             ]
         }
