@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1m91nwl",
+            "url": "/r/ArcBrowser/comments/1m91nwl/can_we_round_up_the_people_that_are_trying_to/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1m91nwl/can_we_round_up_the_people_that_are_trying_to/",
+            "title": "Can we round up the people that are trying to make an OpenSource Arc replacement and work together towards something that is actually usable?",
+            "content_html": "<p>I get that everyone with the skills think they can make an Arc replacement (i've been one of them) but that is not the case.</p>\n<p>I tried looking through reddit for various posts and I've found different stages and goals.</p>\n<p>- The one that thinks he can sell an indie browser as a subscription service.<br />\n- The ones that opens Discord Servers to talk about names without actually having any idea of how anything works<br />\n- The ones that are actually making something but not opening the repo so they are by themselves.</p>\n<p>Me and various people I know would love to help in making an Arc OpenSource replacement (webkit based preferable).</p>",
+            "date_published": "2025-07-25T15:07:36+00:00",
+            "authors": [
+                {
+                    "name": "BrokeMonke2077",
+                    "url": "https://www.reddit.com/user/BrokeMonke2077"
+                }
+            ]
+        },
+        {
             "id": "1m7hz5m",
             "url": "/r/ArcBrowser/comments/1m7hz5m/the_browser_company_of_new_york_website_gets_a/",
             "external_url": "https://v.redd.it/dnkclkuw8oef1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MohamedxSalah",
                     "url": "https://www.reddit.com/user/MohamedxSalah"
-                }
-            ]
-        },
-        {
-            "id": "1bk7ynn",
-            "url": "/r/ArcBrowser/comments/1bk7ynn/the_browser_company_raises_50_million_at_550/",
-            "external_url": "https://techcrunch.com/2024/03/21/the-browser-company-raises-50-million-at-550-million-valuation/",
-            "title": "The Browser Company raises $50 million at $550 million valuation",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1bk7ynn/the_browser_company_raises_50_million_at_550/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1bk7ynn/the_browser_company_raises_50_million_at_550/'>Reddit</a></caption><div><br></div><p>That's a lot of OpenAI API requests...</p>",
-            "date_published": "2024-03-21T14:34:25+00:00",
-            "authors": [
-                {
-                    "name": "chrismessina",
-                    "url": "https://www.reddit.com/user/chrismessina"
                 }
             ]
         }
