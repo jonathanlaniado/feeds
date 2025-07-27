@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1maygjt",
+            "url": "/r/MacOSBeta/comments/1maygjt/dark_mode_for_pdf_in_preview_in_tahoe/",
+            "external_url": "https://i.redd.it/u927iocdlhff1.png",
+            "title": "Dark mode for PDF in Preview in Tahoe!?!",
+            "content_html": "<p>I've been wanting this feature for years! This is a life saver for those of us reading papers at night.</p>\n<p>Before this feature, I've been using a wonderful app called Negative for reading PDFs, however with it having a couple of rough edges, I'm more than happy to switch back to Preview for reading my PDFs at night!</p>\n<p>Tell me it really is a new feature and not just me being blind before?</p><div><br></div><img src=\"https://i.redd.it/u927iocdlhff1.png\" />",
+            "date_published": "2025-07-27T21:42:50+00:00",
+            "authors": [
+                {
+                    "name": "faiface",
+                    "url": "https://www.reddit.com/user/faiface"
+                }
+            ]
+        },
+        {
             "id": "1mahioz",
             "url": "/r/MacOSBeta/comments/1mahioz/tip_create_multiple_control_center_panels_ive_got/",
             "external_url": "https://www.reddit.com/gallery/1mahioz",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "lonelybeggar333",
                     "url": "https://www.reddit.com/user/lonelybeggar333"
-                }
-            ]
-        },
-        {
-            "id": "1lapt4d",
-            "url": "/r/MacOSBeta/comments/1lapt4d/macos_26_tahoe_system_icons/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1lapt4d/macos_26_tahoe_system_icons/",
-            "title": "macOS 26 Tahoe System Icons",
-            "content_html": "<p>Hello everybody! If anyone is interested in downloading new macOS Tahoe system icons, <a href=\"https://drive.google.com/drive/folders/1Hl9x6TIonjnKirn3bu0gJXRhDLpuIIT4?usp=share_link\">you can do so here.</a></p>\n<p>I have put together a list of all the icons I could find. Notably, all icons are presented in their light versions only.</p>\n<p>To my understanding, the recent implementation by Apple for rendering icons has made it challenging, if not impossible, to extract all color variants. Previously, application icons were stored in the Content/Resources folder, which is no longer applicable. This folder contains outdated static files from the pre-OS 26 era. Icons are no longer static.</p>\n<p>Icon creation is now managed through Icon Composer. During the development process, developers are no longer required to include static images in the assets/AppIcon set. Instead, the Icon Composer project file is directly copied to the Xcode application\u2019s project folder. Upon compilation, the system receives instructions on how to dynamically render the icon.</p>\n<p>Enjoy and have a beautiful day!</p>",
-            "date_published": "2025-06-13T20:10:10+00:00",
-            "authors": [
-                {
-                    "name": "radis234",
-                    "url": "https://www.reddit.com/user/radis234"
                 }
             ]
         }
