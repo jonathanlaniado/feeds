@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1mav5qj",
+            "url": "/r/homeassistant/comments/1mav5qj/i_was_at_the_store_the_other_day_and_heard_a/",
+            "external_url": "https://i.redd.it/syeit8c5xgff1.jpeg",
+            "title": "I was at the store the other day and heard a massive thunder crack. The cashier pulled out their phone and \"lightning tracker\" app and I thought \"hmm, I could do that!\"",
+            "content_html": "<p>Don't mind the fact that it was 1207km away, the storm had passed so I had to expand the range to pick up any lightning for testing. </p>\n<p>I've got it rate limited by a wait command so it doesn't overdo it on API calls to either Google maps (free tier) or the reverse geolocation API. </p><div><br></div><img src=\"https://i.redd.it/syeit8c5xgff1.jpeg\" />",
+            "date_published": "2025-07-27T19:26:40+00:00",
+            "authors": [
+                {
+                    "name": "zacharyd3",
+                    "url": "https://www.reddit.com/user/zacharyd3"
+                }
+            ]
+        },
+        {
             "id": "1lwj0e4",
             "url": "/r/homeassistant/comments/1lwj0e4/after_3_years_of_tinkering_i_discovered_the_one/",
             "external_url": "https://www.reddit.com/r/homeassistant/comments/1lwj0e4/after_3_years_of_tinkering_i_discovered_the_one/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "krisniem",
                     "url": "https://www.reddit.com/user/krisniem"
-                }
-            ]
-        },
-        {
-            "id": "17pd6od",
-            "url": "/r/homeassistant/comments/17pd6od/removal_of_myq_integration_in_home_assistant/",
-            "external_url": "https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/",
-            "title": "Removal of MyQ integration in Home Assistant 2023.12",
-            "content_html": "<caption>Open: <a href='https://redirect.jonathanlaniado.com?url=https://www.reddit.com/r/homeassistant/comments/17pd6od/removal_of_myq_integration_in_home_assistant/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/17pd6od/removal_of_myq_integration_in_home_assistant/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-11-06T21:10:32+00:00",
-            "authors": [
-                {
-                    "name": "GuySie",
-                    "url": "https://www.reddit.com/user/GuySie"
                 }
             ]
         }
