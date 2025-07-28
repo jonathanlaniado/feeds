@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1mbjemi",
+            "url": "/r/MacOSBeta/comments/1mbjemi/macos_tahoe_is_just_stunning_what_do_you_think/",
+            "external_url": "https://i.redd.it/iylaf8svvmff1.png",
+            "title": "MacOS Tahoe is just stunning. What do you think?",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/iylaf8svvmff1.png\" />",
+            "date_published": "2025-07-28T15:33:48+00:00",
+            "authors": [
+                {
+                    "name": "Miserable-Guide8844",
+                    "url": "https://www.reddit.com/user/Miserable-Guide8844"
+                }
+            ]
+        },
+        {
             "id": "1mauvc4",
             "url": "/r/MacOSBeta/comments/1mauvc4/i_wonder_if_they_will_fix_the_readability_issue/",
             "external_url": "https://i.redd.it/nvxvv5s0vgff1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "JTG005",
                     "url": "https://www.reddit.com/user/JTG005"
-                }
-            ]
-        },
-        {
-            "id": "1lb4ayr",
-            "url": "/r/MacOSBeta/comments/1lb4ayr/tahoe_brings_support_for_writing_avif_files/",
-            "external_url": "https://i.redd.it/np8xebtoyu6f1.png",
-            "title": "Tahoe brings support for writing AVIF files",
-            "content_html": "<p>To reveal use OPTION key when selecting file format.</p>\n<p>Still no webp support (writing).</p>\n<p>(lldb) po CGImageDestinationCopyTypeIdentifiers()</p>\n<p>&lt;__NSArrayM 0x75b344240&gt;(</p>\n<p>public.jpeg,</p>\n<p>public.png,</p>\n<p>com.compuserve.gif,</p>\n<p>public.tiff,</p>\n<p>public.jpeg-2000,</p>\n<p>com.apple.atx,</p>\n<p>org.khronos.ktx,</p>\n<p>org.khronos.ktx2,</p>\n<p>org.khronos.astc,</p>\n<p><a href=\"http://com.microsoft.dds\">com.microsoft.dds</a>,</p>\n<p>public.heic,</p>\n<p>public.heics,</p>\n<p>public.avif,</p>\n<p>com.microsoft.ico,</p>\n<p>com.microsoft.bmp,</p>\n<p>com.apple.icns,</p>\n<p>com.adobe.photoshop-image,</p>\n<p>com.adobe.pdf,</p>\n<p>com.truevision.tga-image,</p>\n<p>com.ilm.openexr-image,</p>\n<p>public.pbm,</p>\n<p>public.pvr</p>\n<p>)</p><div><br></div><img src=\"https://i.redd.it/np8xebtoyu6f1.png\" />",
-            "date_published": "2025-06-14T09:03:48+00:00",
-            "authors": [
-                {
-                    "name": "ToughAsparagus1805",
-                    "url": "https://www.reddit.com/user/ToughAsparagus1805"
                 }
             ]
         }
