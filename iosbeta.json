@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1mb2lz6",
+            "url": "/r/iOSBeta/comments/1mb2lz6/ios_26_pb1_i_made_an_app_that_enhances_apple/",
+            "external_url": "https://www.reddit.com/r/iOSBeta/comments/1mb2lz6/ios_26_pb1_i_made_an_app_that_enhances_apple/",
+            "title": "[IOS 26 PB1] I made an app that enhances Apple Intelligence with extra features!",
+            "content_html": "<p><a href=\"https://reddit.com/link/1mb2lz6/video/5aet3wz6jiff1/player\">App Demo</a></p>\n<p>Hi\u00a0<a href=\"https://www.reddit.com/r/iOSBeta/\">r/iOSBeta</a>!</p>\n<p>I made an app called Aeru: an app that expands on Apple Intelligence by giving features like multiple chats, document upload, and real-time web search! It's works offline and it's open source for the community!</p>\n<p>I built this app because Apple didn't give these features officially through their developer framework, so I went and built these features from the ground up using all native Swift libraries. It works just like an offline ChatGPT.</p>\n<p>To download it on TestFlight, your iOS device must be Apple Intelligence compatible (iPhone 15 Pro or higher end model), and you MUST be on iOS 26 Public Beta.</p>\n<p>Please give me feedback to improve the experience! Thank you!</p>\n<p>TestFlight link:\u00a0<a href=\"https://testflight.apple.com/join/6gaB7S1R\">https://testflight.apple.com/join/6gaB7S1R</a></p>\n<p>Github link:\u00a0<a href=\"https://github.com/sskarz/Aeru-AI\">https://github.com/sskarz/Aeru-AI</a></p>",
+            "date_published": "2025-07-28T00:52:32+00:00",
+            "authors": [
+                {
+                    "name": "sskarz1016",
+                    "url": "https://www.reddit.com/user/sskarz1016"
+                }
+            ]
+        },
+        {
             "id": "1m7tscb",
             "url": "/r/iOSBeta/comments/1m7tscb/ios_26_db4_multiple_app_icons_have_been_tweaked/",
             "external_url": "https://v.redd.it/op90hthxrqef1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "liason_1",
                     "url": "https://www.reddit.com/user/liason_1"
-                }
-            ]
-        },
-        {
-            "id": "1eqmsb9",
-            "url": "/r/iOSBeta/comments/1eqmsb9/ios_18_pb2_home_bar_has_been_moved_lower_and_made/",
-            "external_url": "https://i.redd.it/f8hkgjtnaaid1.jpeg",
-            "title": "[iOS 18 PB2] Home Bar has been moved lower and made thinner",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1eqmsb9/ios_18_pb2_home_bar_has_been_moved_lower_and_made/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1eqmsb9/ios_18_pb2_home_bar_has_been_moved_lower_and_made/'>Reddit</a></caption><div><br></div><p>I\u2019ve searched Google and this sub and this hasn\u2019t been mentioned anywhere. I have confirmed with others in this sub comparing screenshots. </p>\n<p>In iOS 18, the Home Bar has been moved lower and made thinner. In some apps, it seems as if it\u2019s touching the border. </p>\n<p>In the attached screenshot, gray is the new iOS 18 Home Bar, and the black is iOS 17 Home Bar. </p><div><br></div><img src=\"https://i.redd.it/f8hkgjtnaaid1.jpeg\" />",
-            "date_published": "2024-08-12T19:24:40+00:00",
-            "authors": [
-                {
-                    "name": "GTA2014",
-                    "url": "https://www.reddit.com/user/GTA2014"
                 }
             ]
         }
