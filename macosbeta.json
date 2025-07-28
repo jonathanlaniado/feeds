@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1mauvc4",
+            "url": "/r/MacOSBeta/comments/1mauvc4/i_wonder_if_they_will_fix_the_readability_issue/",
+            "external_url": "https://i.redd.it/nvxvv5s0vgff1.png",
+            "title": "I wonder if they will fix the readability issue. Sometimes I notice the problem that the text becomes difficult to read because of the contrast.",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/nvxvv5s0vgff1.png\" />",
+            "date_published": "2025-07-27T19:15:10+00:00",
+            "authors": [
+                {
+                    "name": "FR0GG1D",
+                    "url": "https://www.reddit.com/user/FR0GG1D"
+                }
+            ]
+        },
+        {
             "id": "1maygjt",
             "url": "/r/MacOSBeta/comments/1maygjt/dark_mode_for_pdf_in_preview_in_tahoe/",
             "external_url": "https://i.redd.it/u927iocdlhff1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ToughAsparagus1805",
                     "url": "https://www.reddit.com/user/ToughAsparagus1805"
-                }
-            ]
-        },
-        {
-            "id": "1lb2jt5",
-            "url": "/r/MacOSBeta/comments/1lb2jt5/window_corner_radius_in_macos_tahoe_depends_on/",
-            "external_url": "https://i.redd.it/ek2e0u3pdu6f1.png",
-            "title": "Window corner radius in macOS Tahoe depends on the presence or absence of a toolbar",
-            "content_html": "<p>Apple Docs: https://developer.apple.com/videos/play/wwdc2025/310</p><div><br></div><img src=\"https://i.redd.it/ek2e0u3pdu6f1.png\" />",
-            "date_published": "2025-06-14T07:06:07+00:00",
-            "authors": [
-                {
-                    "name": "lonelybeggar333",
-                    "url": "https://www.reddit.com/user/lonelybeggar333"
                 }
             ]
         }
