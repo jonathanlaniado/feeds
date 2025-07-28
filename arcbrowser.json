@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1mbayxi",
+            "url": "/r/ArcBrowser/comments/1mbayxi/safari_in_macos_26_looks_arcish/",
+            "external_url": "https://i.redd.it/7bnci7nxvkff1.png",
+            "title": "Safari in MacOS 26 looks Arc-ish",
+            "content_html": "<p>Would move to safari if it had auto-hide</p><div><br></div><img src=\"https://i.redd.it/7bnci7nxvkff1.png\" />",
+            "date_published": "2025-07-28T08:47:50+00:00",
+            "authors": [
+                {
+                    "name": "colinden",
+                    "url": "https://www.reddit.com/user/colinden"
+                }
+            ]
+        },
+        {
             "id": "1m91nwl",
             "url": "/r/ArcBrowser/comments/1m91nwl/can_we_round_up_the_people_that_are_trying_to/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1m91nwl/can_we_round_up_the_people_that_are_trying_to/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "max_blooms",
                     "url": "https://www.reddit.com/user/max_blooms"
-                }
-            ]
-        },
-        {
-            "id": "1bl8ref",
-            "url": "/r/ArcBrowser/comments/1bl8ref/i_cant_be_the_only_one/",
-            "external_url": "https://i.redd.it/u0nblzbhzxpc1.jpeg",
-            "title": "I can't be the only one",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1bl8ref/i_cant_be_the_only_one/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1bl8ref/i_cant_be_the_only_one/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/u0nblzbhzxpc1.jpeg\" />",
-            "date_published": "2024-03-22T20:08:07+00:00",
-            "authors": [
-                {
-                    "name": "MohamedxSalah",
-                    "url": "https://www.reddit.com/user/MohamedxSalah"
                 }
             ]
         }
