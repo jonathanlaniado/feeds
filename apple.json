@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "1mbl9g8",
+            "url": "/r/apple/comments/1mbl9g8/macos_spotlight_vulnerability_discovered_by/",
+            "external_url": "https://www.macrumors.com/2025/07/28/microsoft-macos-spotlight-vulnerability/",
+            "title": "macOS Spotlight Vulnerability Discovered by Microsoft",
+            "content_html": "",
+            "date_published": "2025-07-28T16:42:08+00:00",
+            "authors": [
+                {
+                    "name": "HelloitsWojan",
+                    "url": "https://www.reddit.com/user/HelloitsWojan"
+                }
+            ]
+        },
+        {
             "id": "1m6kvrf",
             "url": "/r/apple/comments/1m6kvrf/ios_26_beta_4_adds_more_liquid_back_to_liquid/",
             "external_url": "https://9to5mac.com/2025/07/22/ios-26-beta-4-adds-more-liquid-back-to-liquid-glass-design/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ICumCoffee",
                     "url": "https://www.reddit.com/user/ICumCoffee"
-                }
-            ]
-        },
-        {
-            "id": "1gewp7d",
-            "url": "/r/apple/comments/1gewp7d/apples_allnew_mac_mini_is_more_mighty_more_mini/",
-            "external_url": "https://www.apple.com/newsroom/2024/10/apples-new-mac-mini-is-more-mighty-more-mini-and-built-for-apple-intelligence/",
-            "title": "Apple\u2019s all-new Mac mini is more mighty, more mini, and built for Apple Intelligence",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/apple/comments/1gewp7d/apples_allnew_mac_mini_is_more_mighty_more_mini/'>Winston</a> | <a href='https://reddit.com/r/apple/comments/1gewp7d/apples_allnew_mac_mini_is_more_mighty_more_mini/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-10-29T15:00:33+00:00",
-            "authors": [
-                {
-                    "name": "ReverseSweep",
-                    "url": "https://www.reddit.com/user/ReverseSweep"
                 }
             ]
         }
