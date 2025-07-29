@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1mc9kaz",
+            "url": "/r/macapps/comments/1mc9kaz/brilliant_is_now_free/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1mc9kaz/brilliant_is_now_free/",
+            "title": "Brilliant is now free",
+            "content_html": "<h1>Yep, as the title says - Brilliant is now completely free.</h1>\n<p>For those who don't know, <a href=\"https://brilliant.design\">Brilliant</a> is extremely powerful and can be used for screen annotation, prototyping, brainstorming and much more.  </p>\n<p>Here's a tutorial on how to use Brilliant as a screen annotator to get you started:<br />\n<a href=\"https://www.youtube.com/watch?v=593b8tXQdbo\">https://www.youtube.com/watch?v=593b8tXQdbo</a></p>\n<p>And here's the link to Brilliant's documentation which includes everything from installation to customization: <a href=\"http://brilliant.design/docs\">brilliant.design/docs</a></p>\n<h1>Wait, how is it free? Are you mining my data?</h1>\n<p>Nothing you create ever leaves your computer. All your work is 100% local and private. Brilliant is built as a local-first tool and doesn't require anything your Mac doesn't already know how to do.</p>\n<h1>Okay, so how are you making money?</h1>\n<p>We'll be introducing a separate platform where you'll (optionally) be able to publish, sync and share the work you created in Brilliant. As part of our go-to-market strategy, we're giving away the client completely for free.</p>\n<h1>Windows/Linux version when?</h1>\n<p>The cross platform version (which will also be completely free) of Brilliant is 70% ready and a beta version will hopefully be available soon :)</p>\n<p>Feel free to drop any feedback, feature requests or questions in the comments. Looking forward to hear new users' experiences with Brilliant!</p>",
+            "date_published": "2025-07-29T12:03:23+00:00",
+            "authors": [
+                {
+                    "name": "amantinband",
+                    "url": "https://www.reddit.com/user/amantinband"
+                }
+            ]
+        },
+        {
             "id": "1m95m29",
             "url": "/r/macapps/comments/1m95m29/i_built_a_privacyfirst_transcribing_summarizing/",
             "external_url": "https://i.redd.it/6wgfwsxh22ff1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "amerpie",
                     "url": "https://www.reddit.com/user/amerpie"
-                }
-            ]
-        },
-        {
-            "id": "1f54es7",
-            "url": "/r/macapps/comments/1f54es7/for_those_who_use_english_dictionary_apps_on_macos/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1f54es7/for_those_who_use_english_dictionary_apps_on_macos/",
-            "title": "For those who use English dictionary apps on macOS\u2026",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1f54es7/for_those_who_use_english_dictionary_apps_on_macos/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1f54es7/for_those_who_use_english_dictionary_apps_on_macos/'>Reddit</a></caption><div><br></div><p><em>*Currently it is supported on Apple Silicon only for macOS. Future plans to make a dedicated macOS app. More details at the bottom.</em></p>\n<p>I\u2019m excited to share that I have recently created not just a dictionary app, but an entire dictionary from the ground up. It\u2019s completely free without ads. I call it\u00a0<a href=\"https://apps.apple.com/us/app/lngo-the-peoples-dictionary/id6596728974\">Lngo: The People's Dictionary</a>.\u00a0</p>\n<p><strong>Why did I do this?</strong>\u00a0I have a profound love for language, and I was continually frustrated with cancer-level ads on other dictionary apps, and the extortion of subscription fees. The free app alternatives often had outdated definitions, clunky designs, and missing features like saving or syncing words.</p>\n<p>I know a dedicated dictionary app might not be for everyone. Many people use a browser or iPhone\u2019s Spotlight search. This app is tailored for those who love diving deep into word definitions, exploring etymology, and actively trying to expand their vocabulary by saving words for future study and review.\u00a0</p>\n<p>I teamed up with a small group of software engineers and those with backgrounds in linguistics, to build this app. We all shared the same grievance with the lackluster dictionary options available on the Apple ecosystem. So we sifted through open-source dictionaries, cleaned up the clutter, removed duplicates, used AI to revise, and manually reviewed as many definitions as possible.</p>\n<p><strong>Here\u2019s what makes this app stand out:</strong></p>\n<ul>\n<li>250,000+ unique words</li>\n<li>Fully offline access</li>\n<li>The most comprehensive synonym and antonym search found on any app or website</li>\n<li>In-depth etymology and word history</li>\n<li>Multi-platform compatibility for iPhone, iPad, and Mac (Apple silicon only)</li>\n<li>iCloud sync for your saved words across all devices</li>\n<li>Integrated flashcard system for studying</li>\n<li>Specialized vocabulary sections for ACT, SAT, and GRE preparation that provide exposure to new words</li>\n<li>Modern user interface utilizing the full capabilities of SwiftUI</li>\n<li>Includes slang and curse words</li>\n<li>IPA pronunciation</li>\n<li>Export options (e.g., load saved words into Anki)</li>\n</ul>\n<p><strong>A quick comparison of other English dictionary apps:</strong></p>\n<p><a href=\"https://apps.apple.com/us/app/wordbook-universal/id364030280\">WordBook</a>: Great app and my previous go-to, but it lacks a Mac version, flashcards, and word antonyms. That was a dealbreaker for me.</p>\n<p><a href=\"https://apps.apple.com/us/app/lookup-dictionary-learn-daily/id872564448\">LookUp</a>: A beautifully designed app, but requires a subscription and doesn\u2019t sync saved words across devices. Also lacks offline access and rich synonyms/antonyms.</p>\n<p><a href=\"https://apps.apple.com/us/app/wordweb-dictionary/id309627313\">WordWeb</a>: Basic definitions with no antonyms, no sync, and no Mac version.</p>\n<p><a href=\"https://apps.apple.com/us/app/dictionary/id379450383\">The Free Dictionary</a>: Outdated interface and no Mac app.</p>\n<p>Merriam-Webster,\u00a0<a href=\"http://dictionary.com/\">Dictionary.com</a>, Oxford: Quality definitions, but the ads are insane, and the subscription fees are equally ridiculous. Additionally, they all require online access, and they don\u2019t have Mac apps for syncing favorites.\u00a0</p>\n<p><strong>Please use the app and enjoy! If you find it helpful, I'd appreciate it if you could leave a review and help spread the word. :)</strong></p>\n<p><em>*I do want to point out that I specifically optimized this app to be used on Macs. My purpose for creating one app version for all three platforms (iOS, iPadOS, macOS) was so that I can maintain one codebase and still distribute to the 3 platforms. Yet, within the Swift code itself I am performing checks to verify when the app is running on iOS, iPadOs, or macOS, so that I can perform actions and behaviors to best suit the device running it.</em>\u00a0</p>",
-            "date_published": "2024-08-30T19:52:31+00:00",
-            "authors": [
-                {
-                    "name": "MamaJojoPuddinCup",
-                    "url": "https://www.reddit.com/user/MamaJojoPuddinCup"
                 }
             ]
         }
