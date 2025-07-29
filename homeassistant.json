@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1mcgcyf",
+            "url": "/r/homeassistant/comments/1mcgcyf/shelly_has_officially_joined_the_works_with_home/",
+            "external_url": "https://www.howtogeek.com/shelly-devices-are-getting-home-assistant-certified/",
+            "title": "Shelly has officially joined the \"Works with Home Assistant\" program",
+            "content_html": "<p>Shelly has officially joined the \"Works with Home Assistant\" program</p>",
+            "date_published": "2025-07-29T16:38:31+00:00",
+            "authors": [
+                {
+                    "name": "rubernck21",
+                    "url": "https://www.reddit.com/user/rubernck21"
+                }
+            ]
+        },
+        {
             "id": "1mav5qj",
             "url": "/r/homeassistant/comments/1mav5qj/i_was_at_the_store_the_other_day_and_heard_a/",
             "external_url": "https://i.redd.it/syeit8c5xgff1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "mclardass",
                     "url": "https://www.reddit.com/user/mclardass"
-                }
-            ]
-        },
-        {
-            "id": "17pr9bk",
-            "url": "/r/homeassistant/comments/17pr9bk/got_my_epaper_tags_yesterday_this_is_just_what_i/",
-            "external_url": "https://www.reddit.com/gallery/17pr9bk",
-            "title": "Got my epaper tags yesterday, this is just what I was looking for! More information in comment.",
-            "content_html": "<caption>Open: <a href='https://redirect.jonathanlaniado.com?url=https://www.reddit.com/r/homeassistant/comments/17pr9bk/got_my_epaper_tags_yesterday_this_is_just_what_i/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/17pr9bk/got_my_epaper_tags_yesterday_this_is_just_what_i/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-11-07T10:24:33+00:00",
-            "authors": [
-                {
-                    "name": "krisniem",
-                    "url": "https://www.reddit.com/user/krisniem"
                 }
             ]
         }
