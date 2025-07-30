@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1mddbwd",
+            "url": "/r/ArcBrowser/comments/1mddbwd/bcny_never_completed_soc_2_our_data_hasnt_been/",
+            "external_url": "https://i.redd.it/51km9r66u1gf1.png",
+            "title": "BCNY never completed SOC 2 - our data hasn't been secure",
+            "content_html": "<p><a href=\"https://x.com/_opencv_/status/1950597662631403764\">https://x.com/_opencv_/status/1950597662631403764</a></p><div><br></div><img src=\"https://i.redd.it/51km9r66u1gf1.png\" />",
+            "date_published": "2025-07-30T17:47:58+00:00",
+            "authors": [
+                {
+                    "name": "_firebender_",
+                    "url": "https://www.reddit.com/user/_firebender_"
+                }
+            ]
+        },
+        {
             "id": "1mbayxi",
             "url": "/r/ArcBrowser/comments/1mbayxi/safari_in_macos_26_looks_arcish/",
             "external_url": "https://i.redd.it/7bnci7nxvkff1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "the_john19",
                     "url": "https://www.reddit.com/user/the_john19"
-                }
-            ]
-        },
-        {
-            "id": "1ccurlx",
-            "url": "/r/ArcBrowser/comments/1ccurlx/the_development_of_arc_on_android_has_officially/",
-            "external_url": "https://i.redd.it/sxbhyfpl8nwc1.jpeg",
-            "title": "The development of Arc on Android has officially begun !",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1ccurlx/the_development_of_arc_on_android_has_officially/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1ccurlx/the_development_of_arc_on_android_has_officially/'>Reddit</a></caption><div><br></div><p>Source : 1.40.0 Release Notes </p><div><br></div><img src=\"https://i.redd.it/sxbhyfpl8nwc1.jpeg\" />",
-            "date_published": "2024-04-25T15:25:20+00:00",
-            "authors": [
-                {
-                    "name": "max_blooms",
-                    "url": "https://www.reddit.com/user/max_blooms"
                 }
             ]
         }
