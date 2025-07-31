@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1mdyfip",
+            "url": "/r/MacOSBeta/comments/1mdyfip/transparency_needs_to_be_sorted_out_with_black/",
+            "external_url": "https://i.redd.it/js8jeya0x6gf1.png",
+            "title": "Transparency needs to be sorted out with black backgrounds",
+            "content_html": "<p>They need to sort this out, change the icons to white or make the transparent background grey or something.  I have given Apple feedback about it.</p><div><br></div><img src=\"https://i.redd.it/js8jeya0x6gf1.png\" />",
+            "date_published": "2025-07-31T10:57:26+00:00",
+            "authors": [
+                {
+                    "name": "RiotSloth",
+                    "url": "https://www.reddit.com/user/RiotSloth"
+                }
+            ]
+        },
+        {
             "id": "1md6zk0",
             "url": "/r/MacOSBeta/comments/1md6zk0/this_has_to_be_my_1_hated_part_of_tahoe/",
             "external_url": "https://i.redd.it/3yjpk1i5m0gf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "pfcnewbie",
                     "url": "https://www.reddit.com/user/pfcnewbie"
-                }
-            ]
-        },
-        {
-            "id": "1lco9bt",
-            "url": "/r/MacOSBeta/comments/1lco9bt/liquid_glass_extends_to_the_touch_bar/",
-            "external_url": "https://i.redd.it/o6huq9w3b97f1.png",
-            "title": "\"Liquid Glass\" extends to the Touch Bar!",
-            "content_html": "<p>macOS Tahoe Dev Beta 1 running on MacBook Pro 13\" with Intel Core i7-1068NG7</p><div><br></div><img src=\"https://i.redd.it/o6huq9w3b97f1.png\" />",
-            "date_published": "2025-06-16T09:20:29+00:00",
-            "authors": [
-                {
-                    "name": "BeastMode149",
-                    "url": "https://www.reddit.com/user/BeastMode149"
                 }
             ]
         }
