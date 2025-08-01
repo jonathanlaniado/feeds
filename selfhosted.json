@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1megq6w",
+            "url": "/r/selfhosted/comments/1megq6w/drop_v030_selfhost_your_own_steam/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1megq6w/drop_v030_selfhost_your_own_steam/",
+            "title": "Drop v0.3.0: Self-host your own Steam",
+            "content_html": "<p>G'day r/selfhosted</p>\n<p>I'm one of the core maintainers of Drop, the self-hosted Steam platform. It's our aim to replicate all the features of Steam for a self-hosted and FOSS application.</p>\n<p>We just released v0.3.0, which brings a bunch of new improvements. But since most of you will hear about Drop for the first time, here's what it can do:</p>\n<ul>\n<li><strong>Host your own game library</strong> and share it with multiple people (through SSO if you want!). Each user has their own collections of games they can pick from your libraries.</li>\n<li><strong>Mix and match your libraries</strong> through our 'library sources'. We support both our fancy format (with versioning) or a flat structure (without versioning). You can have more than one, and they all merge.</li>\n<li><strong>Import metadata about your game library</strong> through multiple providers (currently GiantBomb, IGDB, and PCGamingWiki).</li>\n<li><strong>Native Windows, macOS, and Linux desktop clients</strong> (both x64 and aarch64)</li>\n<li><strong>Docker images</strong> for both x86 and aarch64</li>\n</ul>\n<p>To give it a whirl, check out our docs: <a href=\"https://docs.droposs.org/docs/guides/quickstart\">https://docs.droposs.org/docs/guides/quickstart</a></p>\n<p>Our other links:</p>\n<ul>\n<li>Discord - <a href=\"https://discord.gg/NHx46XKJWA\">https://discord.gg/NHx46XKJWA</a></li>\n<li>Forum (GitHub discussions) - <a href=\"https://github.com/orgs/Drop-OSS/discussions\">https://github.com/orgs/Drop-OSS/discussions</a></li>\n<li>Matrix (bridged to Discord) - <a href=\"https://matrix.to/#/#drop-oss:matrix.org\">https://matrix.to/#/#drop-oss:matrix.org</a></li>\n<li>GitHub - <a href=\"https://github.com/Drop-OSS\">https://github.com/Drop-OSS</a></li>\n<li>Download client - <a href=\"https://droposs.org/download\">https://droposs.org/download</a></li>\n</ul>\n<p>Reddit isn't letting me upload images for some reason, but screenshots are available on our website: <a href=\"https://droposs.org/\">https://droposs.org/</a></p>",
+            "date_published": "2025-07-31T23:19:58+00:00",
+            "authors": [
+                {
+                    "name": "decduck",
+                    "url": "https://www.reddit.com/user/decduck"
+                }
+            ]
+        },
+        {
             "id": "1m836zu",
             "url": "/r/selfhosted/comments/1m836zu/warning_smtpget_indian_scam_steals_your_money/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1m836zu/warning_smtpget_indian_scam_steals_your_money/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "No_Paramedic_4881",
                     "url": "https://www.reddit.com/user/No_Paramedic_4881"
-                }
-            ]
-        },
-        {
-            "id": "1go3qm8",
-            "url": "/r/selfhosted/comments/1go3qm8/puter_the_selfhostable_web_os_that_ive_been/",
-            "external_url": "https://github.com/heyputer/puter",
-            "title": "Puter: The self-hostable \"Web OS\" that I've been working on for more than 3 years",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1go3qm8/puter_the_selfhostable_web_os_that_ive_been/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1go3qm8/puter_the_selfhostable_web_os_that_ive_been/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-11-10T15:56:56+00:00",
-            "authors": [
-                {
-                    "name": "mitousa",
-                    "url": "https://www.reddit.com/user/mitousa"
                 }
             ]
         }
