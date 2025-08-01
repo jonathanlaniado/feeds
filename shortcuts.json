@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1mf0ytp",
+            "url": "/r/shortcuts/comments/1mf0ytp/i_made_an_app_to_automatically_set_wallpapers_out/",
+            "external_url": "https://i.redd.it/693ikce6ofgf1.jpeg",
+            "title": "I made an app to automatically set wallpapers out of my Apple Music listening history with Shortcuts",
+            "content_html": "<p>Hey everyone! I'm Jack, an independent iOS developer and music lover. You may have seen me post here a year or two ago about my other app, <a href=\"https://apps.apple.com/us/app/iconic-app-icon-changer/id6454675338?uo=4\">Iconic, an icon themer for Shortcuts</a>. I wanted a way to make my wallpaper reflect my favorite music, <a href=\"https://apps.apple.com/us/app/opus-music-wallpaper/id6745432548\">so I built Opus - Music Wallpaper</a>. It integrates with shortcuts to automatically set your wallpaper each day.</p>\n<p>Opus turns your Apple Music listening history into personalized wallpapers. It offers a grid-style collage for free, and if you want to unlock more customization, there are other styles such as vinyl record layouts. You can filter by a specific playlist, top tracks, or recent plays, and Opus generates a wallpaper from the album art.</p>\n<p>Shortcuts automation really empowers this app though. I have mine set to change daily based on my recent music history, and it's really fun to see something different every day. If you have any questions or comments, I'd love to hear them! Thanks!</p><div><br></div><img src=\"https://i.redd.it/693ikce6ofgf1.jpeg\" />",
+            "date_published": "2025-08-01T16:23:23+00:00",
+            "authors": [
+                {
+                    "name": "Low_Sample3222",
+                    "url": "https://www.reddit.com/user/Low_Sample3222"
+                }
+            ]
+        },
+        {
             "id": "1lxe6tx",
             "url": "/r/shortcuts/comments/1lxe6tx/just_crossed_my_mind_that_travel_card_nfcs_can/",
             "external_url": "https://i.redd.it/aafad2kydacf1.gif",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Wonderful-Mammoth-39",
                     "url": "https://www.reddit.com/user/Wonderful-Mammoth-39"
-                }
-            ]
-        },
-        {
-            "id": "1ai5xky",
-            "url": "/r/shortcuts/comments/1ai5xky/auto_reply_with_chatgpt/",
-            "external_url": "https://www.reddit.com/gallery/1ai5xky",
-            "title": "Auto reply with chat-GPT",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1ai5xky/auto_reply_with_chatgpt/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1ai5xky/auto_reply_with_chatgpt/'>Reddit</a></caption><div><br></div><p>Is there any way you could use the ask chat-GPT, something I thought could work was if I used automations and had chat-GPT respond that the text and then send chat-GPT\u2019s response to the sender, I\u2019m going to attach what i made and what happens when someone texts me, for context I\u2019m going to ask for the quadratic formula. Also when you tap done all it does is generate a new reply and doesn\u2019t send it.</p>",
-            "date_published": "2024-02-03T20:53:48+00:00",
-            "authors": [
-                {
-                    "name": "AJgamer2000",
-                    "url": "https://www.reddit.com/user/AJgamer2000"
                 }
             ]
         }
