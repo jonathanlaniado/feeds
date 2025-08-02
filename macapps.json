@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1mg18uj",
+            "url": "/r/macapps/comments/1mg18uj/open_source_privacyfirst_macosnative_ai_meeting/",
+            "external_url": "https://i.redd.it/w2qlqfry7ogf1.jpeg",
+            "title": "Open Source, Privacy-First, macOS-Native AI Meeting Summary",
+            "content_html": "<p>Hey /macapps</p>\n<p>Saw a guy who stole my work, design and project and hosted it on Gitlab with malware. I decided to post the original work on macapps to prevent further unauthorized distribution(s) of Recap. Thank you. Open Source is \u2764\ufe0f </p>\n<p>Been working on this for so long. I have found no other open-source alternative that allows my data to stay on my device.</p>\n<p>Recap is an open-source, privacy-focused, macOS-native project to help you summarize your meetings. You could summarize audio of any app, not just meetings.</p>\n<p>I don't want to say too much here, my README contains everything you want :)</p>\n<p>https://github.com/rawandahmad698/Recap</p><div><br></div><img src=\"https://i.redd.it/w2qlqfry7ogf1.jpeg\" />",
+            "date_published": "2025-08-02T21:03:55+00:00",
+            "authors": [
+                {
+                    "name": "Soprano-C",
+                    "url": "https://www.reddit.com/user/Soprano-C"
+                }
+            ]
+        },
+        {
             "id": "1mcd3h0",
             "url": "/r/macapps/comments/1mcd3h0/im_building_a_native_macos_youtube_app/",
             "external_url": "https://www.reddit.com/gallery/1mcd3h0",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "KesoReal",
                     "url": "https://www.reddit.com/user/KesoReal"
-                }
-            ]
-        },
-        {
-            "id": "1f79mwa",
-            "url": "/r/macapps/comments/1f79mwa/switch_your_mouse_keyboard_and_monitor_to_another/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1f79mwa/switch_your_mouse_keyboard_and_monitor_to_another/",
-            "title": "Switch your mouse, keyboard and monitor to another computer without a KVM switch",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1f79mwa/switch_your_mouse_keyboard_and_monitor_to_another/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1f79mwa/switch_your_mouse_keyboard_and_monitor_to_another/'>Reddit</a></caption><div><br></div><ul>\n<li>In this video I show you how I switch my keyboard, which is a glove80, mouse, which is a logitech mx vertical, and monitor, which is an asus PA278CV, between my 2 computers, one is a mac mini, and a MacBook laptop. </li>\n<li>You don't need that keyboard, that's just what I use.</li>\n<li><a href=\"https://youtu.be/26r52tpzbY4\">link to the video here</a></li>\n<li>I don't use a KVM switch, but instead I rely on karabiner-elements with the hidapitester tool to switch the mouse over, then to switch the monitor I use betterdisplay. I use macos as my operating system, but this video will give you some ideas to get something going on your side. </li>\n</ul>\n<p>https://preview.redd.it/bjzrvtfmzemd1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=a327c47e71a3716eb5a6e277dd1e2c8edc60a748</p>",
-            "date_published": "2024-09-02T15:31:30+00:00",
-            "authors": [
-                {
-                    "name": "linkarzu",
-                    "url": "https://www.reddit.com/user/linkarzu"
                 }
             ]
         }
