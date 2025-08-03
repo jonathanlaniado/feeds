@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1mgr884",
+            "url": "/r/MacOSBeta/comments/1mgr884/tahoe_beta_4_has_added_3_more_live_wallpapers_can/",
+            "external_url": "https://i.redd.it/zuwkaublpugf1.png",
+            "title": "Tahoe Beta 4 has added 3 more live wallpapers. Can anyone please share them?",
+            "content_html": "<p>They are located in \" /Users/yourhomefoldername/Library/Application Support/com.apple.wallpaper/aerials/videos/\u00a0<strong>\"</strong></p>\n<p>But you would have to download them first from system settings -&gt; wallpaper menu</p><div><br></div><img src=\"https://i.redd.it/zuwkaublpugf1.png\" />",
+            "date_published": "2025-08-03T18:53:33+00:00",
+            "authors": [
+                {
+                    "name": "DutyIcy2056",
+                    "url": "https://www.reddit.com/user/DutyIcy2056"
+                }
+            ]
+        },
+        {
             "id": "1mgke7j",
             "url": "/r/MacOSBeta/comments/1mgke7j/i_didnt_like_the_new_trashcan_in_tahoe_so_i_made/",
             "external_url": "https://www.reddit.com/gallery/1mgke7j",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ToughAsparagus1805",
                     "url": "https://www.reddit.com/user/ToughAsparagus1805"
-                }
-            ]
-        },
-        {
-            "id": "1ldy6t6",
-            "url": "/r/MacOSBeta/comments/1ldy6t6/different_liquid_glass_variants_using_private_apis/",
-            "external_url": "https://i.redd.it/b6bt9lposj7f1.png",
-            "title": "Different Liquid Glass variants - using private APIs",
-            "content_html": "<p>Apple <a href=\"https://developer.apple.com/documentation/appkit/nsglasseffectview\">provides</a> just two customizability options for Liquid glass \u2014 tint color and corner radius.</p>\n<p>Turns out they have several undocumented/private API's that result in different glass variants.</p>\n<p>`set_variant` `set_scrimState` `set_subduedState`</p>\n<p>source: <a href=\"https://github.com/Meridius-Labs/electron-liquid-glass\">https://github.com/Meridius-Labs/electron-liquid-glass</a> </p><div><br></div><img src=\"https://i.redd.it/b6bt9lposj7f1.png\" />",
-            "date_published": "2025-06-17T20:37:52+00:00",
-            "authors": [
-                {
-                    "name": "aitookmyj0b",
-                    "url": "https://www.reddit.com/user/aitookmyj0b"
                 }
             ]
         }
