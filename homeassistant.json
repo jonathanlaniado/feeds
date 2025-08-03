@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1mgm6qv",
+            "url": "/r/homeassistant/comments/1mgm6qv/graphite_theme_now_has_eink_variants/",
+            "external_url": "https://www.reddit.com/gallery/1mgm6qv",
+            "title": "Graphite Theme Now Has E-Ink Variants",
+            "content_html": "<p><a href=\"https://my.home-assistant.io/redirect/hacs_repository/?owner=TilmanGriesel&amp;repository=graphite\">https://my.home-assistant.io/redirect/hacs_repository/?owner=TilmanGriesel&amp;repository=graphite</a></p>\n<p><a href=\"https://github.com/TilmanGriesel/graphite\">https://github.com/TilmanGriesel/graphite</a>  </p>\n<p>It is raining the last days in Germany, feels like fall, so I created two new themes: <strong>Graphite E-Ink Light</strong> and <strong>Graphite E-Ink Dark</strong>. Same design language and simplicity of Graphite, but tuned for E-Ink displays. Always wanted to do it, now I finally did. And the best part, the name finally feels spot on.</p>\n<p>It\u2019s the start of the E-Ink branch, so things might not be perfect, but I\u2019d love your feedback to help shape them! The light one already looks great with some basic dashboard on my ONYX BOOX Palma. I think it could also work great on som info dashboards.</p>\n<p>Also gave the Theme Patcher some love, it's now a bit more flexible and robust. If you\u2019re using it, I\u2019d really appreciate any thoughts!</p>",
+            "date_published": "2025-08-03T15:32:04+00:00",
+            "authors": [
+                {
+                    "name": "Alarming_Divide_1339",
+                    "url": "https://www.reddit.com/user/Alarming_Divide_1339"
+                }
+            ]
+        },
+        {
             "id": "1mcgcyf",
             "url": "/r/homeassistant/comments/1mcgcyf/shelly_has_officially_joined_the_works_with_home/",
             "external_url": "https://www.howtogeek.com/shelly-devices-are-getting-home-assistant-certified/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "GuySie",
                     "url": "https://www.reddit.com/user/GuySie"
-                }
-            ]
-        },
-        {
-            "id": "17q7byx",
-            "url": "/r/homeassistant/comments/17q7byx/this_smart_garage_door_controller_is_no_longer/",
-            "external_url": "https://www.theverge.com/23949612/chamberlain-myq-smart-garage-door-controller-homebridge-integrations",
-            "title": "This smart garage door controller is no longer very smart",
-            "content_html": "<caption>Open: <a href='https://redirect.jonathanlaniado.com?url=apollo://www.reddit.com/r/homeassistant/comments/17q7byx/this_smart_garage_door_controller_is_no_longer/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/17q7byx/this_smart_garage_door_controller_is_no_longer/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-11-07T23:06:19+00:00",
-            "authors": [
-                {
-                    "name": "mclardass",
-                    "url": "https://www.reddit.com/user/mclardass"
                 }
             ]
         }
