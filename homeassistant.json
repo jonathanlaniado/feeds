@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1mh9f19",
+            "url": "/r/homeassistant/comments/1mh9f19/now_this_is_why_i_keep_using_ai_notifications/",
+            "external_url": "https://i.redd.it/37mk4cxl8zgf1.png",
+            "title": "Now THIS is why I keep using AI notifications",
+            "content_html": "<p>Every now and again they still give me a nice chuckle </p><div><br></div><img src=\"https://i.redd.it/37mk4cxl8zgf1.png\" />",
+            "date_published": "2025-08-04T10:07:05+00:00",
+            "authors": [
+                {
+                    "name": "IRockSnackPacks",
+                    "url": "https://www.reddit.com/user/IRockSnackPacks"
+                }
+            ]
+        },
+        {
             "id": "1mgm6qv",
             "url": "/r/homeassistant/comments/1mgm6qv/graphite_theme_now_has_eink_variants/",
             "external_url": "https://www.reddit.com/gallery/1mgm6qv",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ClemsonJeeper",
                     "url": "https://www.reddit.com/user/ClemsonJeeper"
-                }
-            ]
-        },
-        {
-            "id": "17rgju0",
-            "url": "/r/homeassistant/comments/17rgju0/home_assistant_is_the_2nd_most_active_opensource/",
-            "external_url": "https://github.blog/2023-11-08-the-state-of-open-source-and-ai/#the-state-of-open-source",
-            "title": "Home Assistant is the 2nd most active open-source project in the world according to GitHub\u2019s 2023 Octoverse report",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/17rgju0/home_assistant_is_the_2nd_most_active_opensource/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/17rgju0/home_assistant_is_the_2nd_most_active_opensource/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-11-09T16:16:57+00:00",
-            "authors": [
-                {
-                    "name": "GuySie",
-                    "url": "https://www.reddit.com/user/GuySie"
                 }
             ]
         }
