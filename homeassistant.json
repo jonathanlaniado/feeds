@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1mi6xne",
+            "url": "/r/homeassistant/comments/1mi6xne/ah_recycling_is_this_week/",
+            "external_url": "https://i.redd.it/alhh7hw2v6hf1.jpeg",
+            "title": "Ah, recycling is this week.",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/alhh7hw2v6hf1.jpeg\" />",
+            "date_published": "2025-08-05T11:45:42+00:00",
+            "authors": [
+                {
+                    "name": "deanfourie1",
+                    "url": "https://www.reddit.com/user/deanfourie1"
+                }
+            ]
+        },
+        {
             "id": "1mh9f19",
             "url": "/r/homeassistant/comments/1mh9f19/now_this_is_why_i_keep_using_ai_notifications/",
             "external_url": "https://i.redd.it/37mk4cxl8zgf1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ApolloAutomation",
                     "url": "https://www.reddit.com/user/ApolloAutomation"
-                }
-            ]
-        },
-        {
-            "id": "17s7lwq",
-            "url": "/r/homeassistant/comments/17s7lwq/myq_you_will_not_be_missed/",
-            "external_url": "https://www.reddit.com/r/homeassistant/comments/17s7lwq/myq_you_will_not_be_missed/",
-            "title": "\u270c\ufe0f MyQ -- you will not be missed!!",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/17s7lwq/myq_you_will_not_be_missed/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/17s7lwq/myq_you_will_not_be_missed/'>Reddit</a></caption><div><br></div><p>MyQ and its draconian press release about their API last week can go kick rocks.</p>\n<p>Happily deleted MyQ and blocked the wifi on the two Chamberlain wall mounted openers after installing the new Ratgdo 2.5.  3D printed off a couple cases for them too and everything works flawlessly.  Even better than the cloud-based MyQ service did which would sometime take minutes to send notifications of door opening/closing.</p>\n<p><a href=\"https://imgur.com/a/JfN8MDL\">https://imgur.com/a/JfN8MDL</a></p>",
-            "date_published": "2023-11-10T16:23:09+00:00",
-            "authors": [
-                {
-                    "name": "ClemsonJeeper",
-                    "url": "https://www.reddit.com/user/ClemsonJeeper"
                 }
             ]
         }
