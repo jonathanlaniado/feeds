@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1mjahgo",
+            "url": "/r/selfhosted/comments/1mjahgo/introducing_finetic_a_modern_opensource_jellyfin/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1mjahgo/introducing_finetic_a_modern_opensource_jellyfin/",
+            "title": "Introducing Finetic \u2013 A Modern, Open-Source Jellyfin Web Client",
+            "content_html": "<p>Hey everyone!</p>\n<p>I\u2019m Ayaan, a 16-year-old developer from Toronto, and I've been working on something I\u2019m really excited to share.</p>\n<p>It's a Jellyfin client called <a href=\"https://finetic-jf.vercel.app/\">Finetic</a>, and I wanted to test the limits of what could be done with a media streaming platform.</p>\n<p>I made a quick demo walking through Finetic - you can check it out here:<br />\n\ud83d\udc49 <a href=\"https://www.loom.com/share/d49239d3568846d599009d7c5b93e11d\">Finetic - A Modern Jellyfin Client built w/ Next.js</a></p>\n<p>Key Features:</p>\n<ul>\n<li><strong>Navigator</strong> (AI assistant) \u2192 Natural language control like <em>\"Play Inception\"</em>, <em>\"Toggle dark mode\"</em>, or <em>\"What's in my continue watching?\"</em></li>\n<li><strong>Subtitle-aware Scene Navigation</strong> \u2192 Ask stuff like <em>\u201cSkip to the argument scene\u201d</em> or <em>\u201cGo to the twist\u201d</em> - it'll then parse the subtitles and jump to the right moment</li>\n<li><strong>Sleek Modern UI</strong> \u2192 Built with React 19, Next.js 15, and Tailwind 4 - light &amp; dark mode, and smooth transitions with Framer Motion</li>\n<li><strong>Powerful Media Playback</strong> \u2192 Direct + transcoded playback, chapters, subtitles, keyboard shortcuts</li>\n<li><strong>Fully Open Source</strong> \u2192 You can self-host it, contribute, or just use it as your new Jellyfin frontend</li>\n</ul>\n<p><strong>Finetic:</strong> <a href=\"https://finetic-jf.vercel.app/\">finetic-jf.vercel.app</a></p>\n<p><strong>GitHub:</strong> <a href=\"https://github.com/AyaanZaveri/finetic\">github.com/AyaanZaveri/finetic</a></p>\n<p>Would love to hear what you think - feedback, ideas, or bug reports are all welcome!</p>\n<p>If you like it, feel free to support with a coffee \u2615 (totally optional).</p>\n<p>Thanks for checking it out!</p>",
+            "date_published": "2025-08-06T17:10:29+00:00",
+            "authors": [
+                {
+                    "name": "aytoz21",
+                    "url": "https://www.reddit.com/user/aytoz21"
+                }
+            ]
+        },
+        {
             "id": "1mgq2e4",
             "url": "/r/selfhosted/comments/1mgq2e4/how_to_host_a_minecraft_server_thats_secure/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1mgq2e4/how_to_host_a_minecraft_server_thats_secure/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Purdue49OSU20",
                     "url": "https://www.reddit.com/user/Purdue49OSU20"
-                }
-            ]
-        },
-        {
-            "id": "1gpjzvl",
-            "url": "/r/selfhosted/comments/1gpjzvl/tooljet_30_opencore_lowcode_platform_for_building/",
-            "external_url": "https://blog.tooljet.com/tooljet-3-0-announcement/",
-            "title": "ToolJet 3.0 - Open-core low-code platform for building business applications. Now with workflow automation, improved performance, 50+ integrations, in-built database and more security features. Deploy using Docker, k8s, AWS AMI & more! Alternative to Retool, Power Apps & OutSystems.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1gpjzvl/tooljet_30_opencore_lowcode_platform_for_building/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1gpjzvl/tooljet_30_opencore_lowcode_platform_for_building/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-11-12T12:51:32+00:00",
-            "authors": [
-                {
-                    "name": "navaneethpk",
-                    "url": "https://www.reddit.com/user/navaneethpk"
                 }
             ]
         }
