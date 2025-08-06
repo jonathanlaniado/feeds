@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1mj4oo8",
+            "url": "/r/MacOSBeta/comments/1mj4oo8/we_can_now_change_the_lock_screen_clock_font_is/",
+            "external_url": "https://i.redd.it/35eqy91aiehf1.jpeg",
+            "title": "We can now change the lock screen clock font. Is this new?",
+            "content_html": "<p>Not sure how long this has been a thing, I couldn\u2019t find anything online about it, so I\u2019m presuming it\u2019s new. </p><div><br></div><img src=\"https://i.redd.it/35eqy91aiehf1.jpeg\" />",
+            "date_published": "2025-08-06T13:28:02+00:00",
+            "authors": [
+                {
+                    "name": "rcrter9194",
+                    "url": "https://www.reddit.com/user/rcrter9194"
+                }
+            ]
+        },
+        {
             "id": "1mixnyz",
             "url": "/r/MacOSBeta/comments/1mixnyz/tahoe_sidebar_is_logically_wrong/",
             "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1mixnyz/tahoe_sidebar_is_logically_wrong/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "freddyfreak1999",
                     "url": "https://www.reddit.com/user/freddyfreak1999"
-                }
-            ]
-        },
-        {
-            "id": "1lisimf",
-            "url": "/r/MacOSBeta/comments/1lisimf/macos_26_db2_new_option_to_show_menu_bar/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1lisimf/macos_26_db2_new_option_to_show_menu_bar/",
-            "title": "[macOS 26 DB2] New option to show menu bar background",
-            "content_html": "<p>Not a fan of the whole transparent menu bar look personally. Super glad theres a way to opt out now. Hopefully they do the same for the window corner radius!</p>\n<p>System Settings &gt; Menu Bar &gt; Show menu bar background</p>",
-            "date_published": "2025-06-23T21:08:08+00:00",
-            "authors": [
-                {
-                    "name": "therealFoxster",
-                    "url": "https://www.reddit.com/user/therealFoxster"
                 }
             ]
         }
