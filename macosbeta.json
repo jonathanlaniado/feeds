@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1mixnyz",
+            "url": "/r/MacOSBeta/comments/1mixnyz/tahoe_sidebar_is_logically_wrong/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1mixnyz/tahoe_sidebar_is_logically_wrong/",
+            "title": "Tahoe Sidebar is Logically Wrong",
+            "content_html": "<p>https://preview.redd.it/zsihlt4gjchf1.png?width=2032&amp;format=png&amp;auto=webp&amp;s=b43dea55999e4667d38805fdf577a2bca4402df7</p>\n<p>The sidebar is floating, which implies that it is temporary and that there is something underneath. This is not the case!!! The way the apps are laid out, the sidebar should be <em>attached</em> to the main content, not hovering over it.This shit is driving me insane\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d</p>",
+            "date_published": "2025-08-06T06:54:19+00:00",
+            "authors": [
+                {
+                    "name": "Miecza",
+                    "url": "https://www.reddit.com/user/Miecza"
+                }
+            ]
+        },
+        {
             "id": "1mihp4n",
             "url": "/r/MacOSBeta/comments/1mihp4n/looks_like_we_finally_have_an_updated_macintosh/",
             "external_url": "https://i.redd.it/53rfvtsby8hf1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "therealFoxster",
                     "url": "https://www.reddit.com/user/therealFoxster"
-                }
-            ]
-        },
-        {
-            "id": "1liqe31",
-            "url": "/r/MacOSBeta/comments/1liqe31/apple_music_controls_change_is_completely/",
-            "external_url": "https://i.redd.it/wr8kxfjkcq8f1.jpeg",
-            "title": "Apple Music controls change is completely nonsensical!",
-            "content_html": "<p>I happen to have my volume slider to the max and was struggling to find it amidst a confused state with unwanted sounds blaring in my face.  Apple keeps mucking with UI for no appreciable benefit.   You would think having it float like this is to have it disappear and fade out but it just lives there blocking your library.   Was this a decision to achieve more real estate?   It makes manipulating the controls so hard especially for people who might be visually impaired.   This is possibly the first time I hate the aesthetic's direction. </p><div><br></div><img src=\"https://i.redd.it/wr8kxfjkcq8f1.jpeg\" />",
-            "date_published": "2025-06-23T19:46:02+00:00",
-            "authors": [
-                {
-                    "name": "Negative_Avocado4573",
-                    "url": "https://www.reddit.com/user/Negative_Avocado4573"
                 }
             ]
         }
