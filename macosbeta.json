@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1mk6rb7",
+            "url": "/r/MacOSBeta/comments/1mk6rb7/apple_attention_to_detail/",
+            "external_url": "https://v.redd.it/9dpv34lgwmhf1",
+            "title": "Apple Attention to detail \u2764\ufe0f\u200d\ud83d\udd25",
+            "content_html": "",
+            "date_published": "2025-08-07T17:43:46+00:00",
+            "authors": [
+                {
+                    "name": "Daraneedd",
+                    "url": "https://www.reddit.com/user/Daraneedd"
+                }
+            ]
+        },
+        {
             "id": "1mjamzj",
             "url": "/r/MacOSBeta/comments/1mjamzj/macos_beta_5_they_removed_the_fps_cap/",
             "external_url": "https://i.redd.it/06msmbtymfhf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "tantimodz",
                     "url": "https://www.reddit.com/user/tantimodz"
-                }
-            ]
-        },
-        {
-            "id": "1lj4f9c",
-            "url": "/r/MacOSBeta/comments/1lj4f9c/whats_new_in_macos_tahoe_26_beta_2/",
-            "external_url": "https://www.reddit.com/gallery/1lj4f9c",
-            "title": "What's New in macOS Tahoe 26 beta 2",
-            "content_html": "<p>There is now an option to enable a background background for the top menu bar on Mac if needed.</p>",
-            "date_published": "2025-06-24T07:04:06+00:00",
-            "authors": [
-                {
-                    "name": "Separate-Way5095",
-                    "url": "https://www.reddit.com/user/Separate-Way5095"
                 }
             ]
         }
