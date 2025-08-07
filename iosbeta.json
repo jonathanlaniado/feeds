@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1mja1b4",
+            "url": "/r/iOSBeta/comments/1mja1b4/ios_26_db5_delete_and_stop_option_when_in_messages/",
+            "external_url": "https://i.redd.it/kgsexvn0jfhf1.jpeg",
+            "title": "[iOS 26 DB5] \u201cDelete and Stop\u201d option when in Messages",
+            "content_html": "<p>In iOS 26 dev beta 5, when deleting a text message, there's a \"Delete and Stop\" option when a \u201cstop\u201d option is offered in the message. \"Stop\", \"Stop2End\", and possibly other variations seem to trigger it. Perhaps I just missed it, but I had not seen this prior to dev beta 5.</p>\n<p>This makes me want to recover spam messages from Recently Deleted so I can click \"Delete and Stop\" for all of them.</p><div><br></div><img src=\"https://i.redd.it/kgsexvn0jfhf1.jpeg\" />",
+            "date_published": "2025-08-06T16:53:56+00:00",
+            "authors": [
+                {
+                    "name": "tpoholmes",
+                    "url": "https://www.reddit.com/user/tpoholmes"
+                }
+            ]
+        },
+        {
             "id": "1mika0s",
             "url": "/r/iOSBeta/comments/1mika0s/ios_26_db5_pulling_down_control_center_creates_a/",
             "external_url": "https://v.redd.it/xmwqv8gif9hf1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "epmuscle",
                     "url": "https://www.reddit.com/user/epmuscle"
-                }
-            ]
-        },
-        {
-            "id": "1ewo4bx",
-            "url": "/r/iOSBeta/comments/1ewo4bx/ios_18_db6_clock_will_now_sync_over_icloud/",
-            "external_url": "https://i.redd.it/0jsj0erldrjd1.jpeg",
-            "title": "[iOS 18 DB6] Clock will now sync over iCloud",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1ewo4bx/ios_18_db6_clock_will_now_sync_over_icloud/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1ewo4bx/ios_18_db6_clock_will_now_sync_over_icloud/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/0jsj0erldrjd1.jpeg\" />",
-            "date_published": "2024-08-20T05:55:38+00:00",
-            "authors": [
-                {
-                    "name": "ImaginaryTopic162",
-                    "url": "https://www.reddit.com/user/ImaginaryTopic162"
                 }
             ]
         }
