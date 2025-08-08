@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1mkx4uo",
+            "url": "/r/homeassistant/comments/1mkx4uo/home_assistant_and_a_20_aqara_sensor_saved_my/",
+            "external_url": "https://i.redd.it/wm1x9f0u5thf1.jpeg",
+            "title": "Home Assistant and a $20 Aqara sensor saved my brand new house",
+            "content_html": "<p>So, two days ago, u/Xibby posted <a href=\"https://www.reddit.com/r/homeassistant/s/tSOohTf1KB\">this PSA</a> about water leak sensors. I'm here to say that they are absolutely right. Gather round, boys and girls, because it's story time!</p>\n<p>Two days ago, we got a water softener installed in our new house. At first, it worked fine, and everything was completely normal - until, it wasn't.</p>\n<p>Last night, Home Assistant sent a notification to my phone that a leak sensor which I had placed next to the water softener had detected moisture. At first, I thought this was a little strange, and that perhaps the sensor was faulty. But, of course, I decided that I'd better go downstairs and investigate anyway.</p>\n<p>No sooner did I reach the basement that all hell broke loose. My utility room (which contains my server rack...thankfully untouched) and our storage room floors were FILLED with water. I still need to call the vendor that installed the water softener, but it appears to be an improper installation.</p>\n<p>Anyway, I went into full blown panic mode...I immediately shut off the water and called my wife, and we had to grab every mop and rag we could find to mop up all the water. And this was about 9pm, so I couldn't even run to Home Depot for...anything.</p>\n<p>Long story short, the leak was mostly contained to two rooms which concrete floors, although there is a wall that will likely need to be ripped open and inspected.</p>\n<p>But here's the kicker - I only installed that Aqara water leak sensor <em>yesterday afternoon</em> (one for the water tank, one for the softener) - about 5 hours before the leak.</p>\n<p>I can only shudder at the thought of how much worse this would have been if I hadn't set up the sensors when I did. Plus, the automation I set up only sent a single notification to my phone, which I only saw 10 minutes after it was sent.</p>\n<p>Before going to bed last night, I realized that if that sensor had been tripped in the middle of the night, things also would have been very different. But then I found a post by u/jpb on <a href=\"https://www.reddit.com/r/homeautomation/comments/xlxqts/i_got_home_assistant_to_use_pagerduty_to_notify_me/\">integrating PagerDuty notifications</a> into Home Assistant. Needless to say, my water leak sensors will now play an announcement on our Alexa speakers, as well as trigger a PD incident that will call and text me and my family repeatedly until we acknowledge the notifications.</p>\n<p>Water leak sensors are worth every penny...and needless to say, I will be buying a heck of a lot more of them. Every sink and toilet in the house is getting one of these!</p>\n<p>I cannot stress this enough - it doesn't matter what kind of house you have, or how old it is. You might think you don't need them, until you do. If you don't have water leak sensors...get them. <strong>Right freaking now.</strong></p><div><br></div><img src=\"https://i.redd.it/wm1x9f0u5thf1.jpeg\" />",
+            "date_published": "2025-08-08T14:44:59+00:00",
+            "authors": [
+                {
+                    "name": "Stealth022",
+                    "url": "https://www.reddit.com/user/Stealth022"
+                }
+            ]
+        },
+        {
             "id": "1mjpzej",
             "url": "/r/homeassistant/comments/1mjpzej/so_visual_llc_is_working_great/",
             "external_url": "https://i.redd.it/9b0ons4dtihf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "anco_vinyl",
                     "url": "https://www.reddit.com/user/anco_vinyl"
-                }
-            ]
-        },
-        {
-            "id": "17uvcbe",
-            "url": "/r/homeassistant/comments/17uvcbe/garage_owners_of_the_ha_sub_we_get_it_youve_all/",
-            "external_url": "https://www.reddit.com/r/homeassistant/comments/17uvcbe/garage_owners_of_the_ha_sub_we_get_it_youve_all/",
-            "title": "Garage owners of the HA sub. We get it, you've all got/getting rid of your MyQ",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/17uvcbe/garage_owners_of_the_ha_sub_we_get_it_youve_all/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/17uvcbe/garage_owners_of_the_ha_sub_we_get_it_youve_all/'>Reddit</a></caption><div><br></div><p>Most of us in parts of the world outside the US didn't even know that this device existed. But I'll hopefully speak for a number of us by saying we figured out it was a garbage device after the first few posts of people beginning to boycott it and badmouth it. The continuing posts are now just sub spam.</p>",
-            "date_published": "2023-11-14T05:32:45+00:00",
-            "authors": [
-                {
-                    "name": "gtwizzy8",
-                    "url": "https://www.reddit.com/user/gtwizzy8"
                 }
             ]
         }
