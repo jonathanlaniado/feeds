@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1mlbjbb",
+            "url": "/r/MacOSBeta/comments/1mlbjbb/macos_26_is_a_uiux_disaster/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1mlbjbb/macos_26_is_a_uiux_disaster/",
+            "title": "macOS 26 is a UI/UX disaster",
+            "content_html": "<p>MacOS 26 is the worst experience I\u2019ve had on a Mac.</p>\n<p>The UI feels like it\u2019s been redesigned by someone who\u2019s never actually used macOS before. Everything is bigger, clunkier, and slower to navigate. Common actions that used to be second nature now take extra clicks or have been buried in places that make zero sense.</p>\n<p>It\u2019s like Apple decided to chase \u201cmodern\u201d design trends at the expense of actual usability. Shadows, animations, and transparency everywhere, meanwhile, workflows that were smooth in previous versions now feel frustrating and broken.</p>\n<p>The UX changes are even worse. Menu bar spacing, Finder quirks, and Settings layouts have all regressed. Nothing feels cohesive. I\u2019m constantly hunting for basic functions because someone thought \u201cdifferent\u201d automatically meant \u201cbetter.\u201d Spoiler: it doesn\u2019t.</p>\n<p>macOS 26 isn\u2019t sleek or elegant, it\u2019s clumsy, inconsistent, and distracting.</p>\n<p>Hopefully this is something that is being addressed before the full release otherwise, I think they'll be having their own \"Vista\" moment.</p>\n<p>Anyone else feeling the same?</p>",
+            "date_published": "2025-08-09T00:19:27+00:00",
+            "authors": [
+                {
+                    "name": "CoffeeOverLann",
+                    "url": "https://www.reddit.com/user/CoffeeOverLann"
+                }
+            ]
+        },
+        {
             "id": "1mk6rb7",
             "url": "/r/MacOSBeta/comments/1mk6rb7/apple_attention_to_detail/",
             "external_url": "https://v.redd.it/9dpv34lgwmhf1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "potatoman93",
                     "url": "https://www.reddit.com/user/potatoman93"
-                }
-            ]
-        },
-        {
-            "id": "1lj11wv",
-            "url": "/r/MacOSBeta/comments/1lj11wv/macos_26_db2_safari_is_indeed_snappier_and_the/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1lj11wv/macos_26_db2_safari_is_indeed_snappier_and_the/",
-            "title": "[MacOS 26 DB2] Safari is indeed snappier, and the memory leak seems gone.",
-            "content_html": "<p>Safari seems back to normal, and the memory leak appears to be gone. No more waiting 10s to switch tabs, and no more closing Safari every few hours!</p>",
-            "date_published": "2025-06-24T03:42:52+00:00",
-            "authors": [
-                {
-                    "name": "tantimodz",
-                    "url": "https://www.reddit.com/user/tantimodz"
                 }
             ]
         }
