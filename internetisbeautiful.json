@@ -8,6 +8,20 @@
     "favicon": "https://b.thumbs.redditmedia.com/k7fHE51fuhbYJRT2e9s1rXIp2ZtA7ks-cNFvQuNbfcE.png",
     "items": [
         {
+            "id": "1mkzxvi",
+            "url": "/r/InternetIsBeautiful/comments/1mkzxvi/i_made_a_url_lengthener_it_makes_links_worse_on/",
+            "external_url": "https://www.namitjain.com/tools/url-lengthener",
+            "title": "I made a URL lengthener. It makes links worse on purpose.",
+            "content_html": "<p>Re Upload previous link was broken</p>",
+            "date_published": "2025-08-08T16:31:00+00:00",
+            "authors": [
+                {
+                    "name": "Namit2111",
+                    "url": "https://www.reddit.com/user/Namit2111"
+                }
+            ]
+        },
+        {
             "id": "1lyph0n",
             "url": "/r/InternetIsBeautiful/comments/1lyph0n/i_made_a_website_for_tracking_what_the_us/",
             "external_url": "https://civictracker.us",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "kinkare90",
                     "url": "https://www.reddit.com/user/kinkare90"
-                }
-            ]
-        },
-        {
-            "id": "x44rlw",
-            "url": "/r/InternetIsBeautiful/comments/x44rlw/i_made_a_simple_reddit_nsfw_frontend_for_browsing/",
-            "external_url": "https://gonewildbrowser.com/",
-            "title": "I made a simple Reddit NSFW frontend for browsing GoneWild-type posts.",
-            "content_html": "<caption>Open in: <a href='https://gonewildbrowser.com/'>gonewildbrowser.com</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/x44rlw/i_made_a_simple_reddit_nsfw_frontend_for_browsing/'>Reddit</a> | <a href='apollo://reddit.com/r/InternetIsBeautiful/comments/x44rlw/i_made_a_simple_reddit_nsfw_frontend_for_browsing/'>Apollo</a></caption>",
-            "date_published": "2022-09-02T15:43:40+00:00",
-            "authors": [
-                {
-                    "name": "frapus",
-                    "url": "https://www.reddit.com/user/frapus"
                 }
             ]
         }
