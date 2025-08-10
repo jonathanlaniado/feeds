@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1mmferf",
+            "url": "/r/homeassistant/comments/1mmferf/3d_printed_automatic_cabinet_door_for_a_hidden/",
+            "external_url": "https://www.reddit.com/gallery/1mmferf",
+            "title": "3D printed automatic cabinet door for a hidden Roborock station",
+            "content_html": "<p><a href=\"https://imgur.com/a/mDbMSst\">Video here</a></p>\n<p>I wanted to share my latest 3D print for anyone interested in integrating Home Assistant with their smart home hardware.</p>\n<p>I keep my Roborock S7 MaxV station hidden under an IKEA Metod kitchen cabinet. Unfortunately, the vacuum is just a bit too tall to fit under the door, so I had to come up with a workaround.</p>\n<p>I designed the entire mechanism in Rhino, calculating the exact opening angle so I could also add a kickboard and completely hide the base. For the motor, I went with an Aqara E1, normally meant for smart curtains, because I didn\u2019t want to bother with more complex custom electronics. It still provides more than enough torque to easily swing the door open.</p>\n<p>The door opens automatically based on the robot\u2019s status, and the Aqara is plugged into a smart outlet that turns on depending on the battery level, so it\u2019s only powered when needed.</p>\n<p>I\u2019ll be uploading the STL to Printables soon for anyone who wants to give it a try.</p>",
+            "date_published": "2025-08-10T10:45:46+00:00",
+            "authors": [
+                {
+                    "name": "hyper_ganged",
+                    "url": "https://www.reddit.com/user/hyper_ganged"
+                }
+            ]
+        },
+        {
             "id": "1mkx4uo",
             "url": "/r/homeassistant/comments/1mkx4uo/home_assistant_and_a_20_aqara_sensor_saved_my/",
             "external_url": "https://i.redd.it/wm1x9f0u5thf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Smeen89",
                     "url": "https://www.reddit.com/user/Smeen89"
-                }
-            ]
-        },
-        {
-            "id": "17wtb5k",
-            "url": "/r/homeassistant/comments/17wtb5k/repurposed_an_old_kindle_to_create_a_home/",
-            "external_url": "https://i.redd.it/iqfnb6h92r0c1.png",
-            "title": "Repurposed an old Kindle to create a Home Assistant dashboard",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/17wtb5k/repurposed_an_old_kindle_to_create_a_home/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/17wtb5k/repurposed_an_old_kindle_to_create_a_home/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/iqfnb6h92r0c1.png\" />",
-            "date_published": "2023-11-16T18:05:04+00:00",
-            "authors": [
-                {
-                    "name": "anco_vinyl",
-                    "url": "https://www.reddit.com/user/anco_vinyl"
                 }
             ]
         }
