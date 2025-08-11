@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1mnau7s",
+            "url": "/r/MacOSBeta/comments/1mnau7s/i_miss_launchpad_so_much_i_had_to_do_the_windows/",
+            "external_url": "https://i.redd.it/j5s66g2qodif1.png",
+            "title": "I miss Launchpad so much I had to do the Windows XP move of putting my apps on my desktop",
+            "content_html": "<p>If they just let us rearrange the icons in the App Library or in Dock pop-up folders, I'd have zero complaints, but being forced to look up my stuff in an alphabetically sorted list makes me so mad. I've had Wolfram Mathematica between my IDE and Sourcetree since 2015, just me rearrange my damn apps like on iOS.</p>\n<p>Wallpaper source: https://endeffect.com/1999-2001. Disk icons are from Ive Drives vol. III, I think.</p><div><br></div><img src=\"https://i.redd.it/j5s66g2qodif1.png\" />",
+            "date_published": "2025-08-11T11:50:58+00:00",
+            "authors": [
+                {
+                    "name": "ferrum_salvator",
+                    "url": "https://www.reddit.com/user/ferrum_salvator"
+                }
+            ]
+        },
+        {
             "id": "1mlbjbb",
             "url": "/r/MacOSBeta/comments/1mlbjbb/macos_26_is_a_uiux_disaster/",
             "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1mlbjbb/macos_26_is_a_uiux_disaster/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ultravelocity",
                     "url": "https://www.reddit.com/user/ultravelocity"
-                }
-            ]
-        },
-        {
-            "id": "1lj74nc",
-            "url": "/r/MacOSBeta/comments/1lj74nc/the_one_thing_i_hate_about_tahoe/",
-            "external_url": "https://i.redd.it/wqhnluxfmu8f1.png",
-            "title": "The one thing I HATE about Tahoe",
-            "content_html": "<p>This floating menu bar design is terrible. The buffer around the left edge/top/bottom, all of these lines intersecting, the colour difference. I know that if something goes beneath it, it appears as 'floating glass', but 99% of the time that doesn't happen. It doesn't look like glass and just looks like the shading is wrong. It just doesn't pull off the 'floating' side bar looks, and instead looks messy. I just wish this side menu was fogged glass like the dock.</p><div><br></div><img src=\"https://i.redd.it/wqhnluxfmu8f1.png\" />",
-            "date_published": "2025-06-24T10:02:53+00:00",
-            "authors": [
-                {
-                    "name": "potatoman93",
-                    "url": "https://www.reddit.com/user/potatoman93"
                 }
             ]
         }
