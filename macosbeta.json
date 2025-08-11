@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1mnmi8p",
+            "url": "/r/MacOSBeta/comments/1mnmi8p/notchless_macbook_teased/",
+            "external_url": "https://i.redd.it/6912zsb9yfif1.png",
+            "title": "Notchless Macbook Teased?",
+            "content_html": "<p>macOS Tahoe beta 6 welcoming guide</p><div><br></div><img src=\"https://i.redd.it/6912zsb9yfif1.png\" />",
+            "date_published": "2025-08-11T19:24:39+00:00",
+            "authors": [
+                {
+                    "name": "That_Gingerbread",
+                    "url": "https://www.reddit.com/user/That_Gingerbread"
+                }
+            ]
+        },
+        {
             "id": "1mnjbk9",
             "url": "/r/MacOSBeta/comments/1mnjbk9/apple_seeds_sixth_beta_of_macos_tahoe_to/",
             "external_url": "https://www.macrumors.com/2025/08/11/apple-seeds-macos-tahoe-beta-6/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ZeldaLover05",
                     "url": "https://www.reddit.com/user/ZeldaLover05"
-                }
-            ]
-        },
-        {
-            "id": "1ljbflh",
-            "url": "/r/MacOSBeta/comments/1ljbflh/is_this_not_basically_launchpad/",
-            "external_url": "https://i.redd.it/x7zmpvv6pv8f1.png",
-            "title": "Is this not basically launchpad?",
-            "content_html": "<p>I see a lot of people talking about wanting launchpad back. I have one of my hot corners set to open 'Apps' as in the screenshot. Is this not basically an organized version of Launchpad?</p>\n<p>The issue I then see though is when I've used that the cmd+space spotlight shortcut then just opens the app window again and not spotlight.</p><div><br></div><img src=\"https://i.redd.it/x7zmpvv6pv8f1.png\" />",
-            "date_published": "2025-06-24T13:42:04+00:00",
-            "authors": [
-                {
-                    "name": "Due-Form-9007",
-                    "url": "https://www.reddit.com/user/Due-Form-9007"
                 }
             ]
         }
