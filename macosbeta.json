@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1mnjbk9",
+            "url": "/r/MacOSBeta/comments/1mnjbk9/apple_seeds_sixth_beta_of_macos_tahoe_to/",
+            "external_url": "https://www.macrumors.com/2025/08/11/apple-seeds-macos-tahoe-beta-6/",
+            "title": "Apple Seeds Sixth Beta of macOS Tahoe to Developers",
+            "content_html": "",
+            "date_published": "2025-08-11T17:26:24+00:00",
+            "authors": [
+                {
+                    "name": "jagajazzist",
+                    "url": "https://www.reddit.com/user/jagajazzist"
+                }
+            ]
+        },
+        {
             "id": "1mnau7s",
             "url": "/r/MacOSBeta/comments/1mnau7s/i_miss_launchpad_so_much_i_had_to_do_the_windows/",
             "external_url": "https://i.redd.it/j5s66g2qodif1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Due-Form-9007",
                     "url": "https://www.reddit.com/user/Due-Form-9007"
-                }
-            ]
-        },
-        {
-            "id": "1ljb3zq",
-            "url": "/r/MacOSBeta/comments/1ljb3zq/macos_tahoe_sidebar_is_an_abomination/",
-            "external_url": "https://i.redd.it/jr71y1tzlv8f1.png",
-            "title": "macOS Tahoe sidebar is an abomination",
-            "content_html": "<p>Coming over from Windows last year, the sidebar was one of my favorite UI elements used across the native macOS apps. Hard to believe it looks like this now.</p><div><br></div><img src=\"https://i.redd.it/jr71y1tzlv8f1.png\" />",
-            "date_published": "2025-06-24T13:28:00+00:00",
-            "authors": [
-                {
-                    "name": "ultravelocity",
-                    "url": "https://www.reddit.com/user/ultravelocity"
                 }
             ]
         }
