@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1mnulaa",
+            "url": "/r/MacOSBeta/comments/1mnulaa/i_dont_like_new_launchpad_so_i_built_one_myself/",
+            "external_url": "https://www.reddit.com/gallery/1mnulaa",
+            "title": "I don\u2019t like new Launchpad so I built one myself",
+            "content_html": "<p>I just updated to Tahoe 2 days ago and no I can\u2019t use new launcher, I want to have my visual launcher with all apps in folders and its place. So I build one. </p>\n<p>But I decided to update it little bit with some features. \nSo what I have there:\n- folders as before\n- rearrange icons \n- hide app titles\n- change icons size\n- setup yoir own background image and turn off/on blur effect\n- opens/hide with cmd 4</p>\n<p>It\u2019s not perfect yet and I will work on it couple days to fix some issues with gesture and update some features and then I will drop the link do download app for free. I won\u2019t make it paid app but donate couple bucks if you want is good:)</p>\n<p>You can find my threads by name Sergey.newton and see thread with video of using my Launchpad and some updates. So if you want to get it, follow there to see the link soon </p>",
+            "date_published": "2025-08-12T00:49:39+00:00",
+            "authors": [
+                {
+                    "name": "Sergeykondukov",
+                    "url": "https://www.reddit.com/user/Sergeykondukov"
+                }
+            ]
+        },
+        {
             "id": "1mnmi8p",
             "url": "/r/MacOSBeta/comments/1mnmi8p/notchless_macbook_teased/",
             "external_url": "https://i.redd.it/6912zsb9yfif1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "TheTwelveYearOld",
                     "url": "https://www.reddit.com/user/TheTwelveYearOld"
-                }
-            ]
-        },
-        {
-            "id": "1ljjt14",
-            "url": "/r/MacOSBeta/comments/1ljjt14/launchpad_workaround_kinda/",
-            "external_url": "https://i.redd.it/u1uofk4lax8f1.jpeg",
-            "title": "Launchpad Workaround (Kinda)",
-            "content_html": "<p>idk if anyone has done this but i\u2019ve been using this \u201cworkaround\u201d to get the launchpad back cause i really don\u2019t like the new spotlight, it\u2019s like 3 extra steps to see your apps </p>\n<p>so i just added the applications folder to the dock and it kinda works as a launchpad (?) so i wanted to share it</p><div><br></div><img src=\"https://i.redd.it/u1uofk4lax8f1.jpeg\" />",
-            "date_published": "2025-06-24T19:01:39+00:00",
-            "authors": [
-                {
-                    "name": "ZeldaLover05",
-                    "url": "https://www.reddit.com/user/ZeldaLover05"
                 }
             ]
         }
