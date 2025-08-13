@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
     "items": [
         {
+            "id": "1mosznu",
+            "url": "/r/ChatGPTPro/comments/1mosznu/4o_is_backplus_a_thinking_switch_and_bigger_caps/",
+            "external_url": "https://i.redd.it/41nhvh19bpif1.png",
+            "title": "4o is back..plus a \u201cThinking\u201d switch and bigger caps",
+            "content_html": "<p>Sam just rolled out a solid ChatGPT update:</p>\n<p>Mode picker for GPT\u20115: Auto (let it decide), Fast (snappy), Thinking (slower, deeper) with a 196k context window.</p>\n<p>Higher limits: up to 3,000 Thinking messages/week; overflow routes to a lighter \u201cThinking mini.\u201d</p>\n<p>4o returns to the model list for paid users\u2014toggle \u201cShow additional models\u201d in settings if you don\u2019t see it.</p><div><br></div><img src=\"https://i.redd.it/41nhvh19bpif1.png\" />",
+            "date_published": "2025-08-13T02:52:23+00:00",
+            "authors": [
+                {
+                    "name": "AskGpts",
+                    "url": "https://www.reddit.com/user/AskGpts"
+                }
+            ]
+        },
+        {
             "id": "1ml184q",
             "url": "/r/ChatGPTPro/comments/1ml184q/i_feel_like_i_lost_a_friend/",
             "external_url": "https://i.redd.it/oq2zkzlexthf1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "sinkmyteethin",
                     "url": "https://www.reddit.com/user/sinkmyteethin"
-                }
-            ]
-        },
-        {
-            "id": "1arm620",
-            "url": "/r/ChatGPTPro/comments/1arm620/openai_introduces_sora_text_to_video/",
-            "external_url": "https://openai.com/sora",
-            "title": "OpenAI introduces Sora - Text to Video",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ChatGPTPro/comments/1arm620/openai_introduces_sora_text_to_video/'>Winston</a> | <a href='https://reddit.com/r/ChatGPTPro/comments/1arm620/openai_introduces_sora_text_to_video/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-02-15T18:20:07+00:00",
-            "authors": [
-                {
-                    "name": "InsertWittySaying",
-                    "url": "https://www.reddit.com/user/InsertWittySaying"
                 }
             ]
         }
