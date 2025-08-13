@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1mp8txo",
+            "url": "/r/MacOSBeta/comments/1mp8txo/my_app_liquidglassified_for_macos_tahoe_which/",
+            "external_url": "https://i.redd.it/kx2imqpiatif1.jpeg",
+            "title": "My app liquid-glassified for macOS Tahoe. Which version do you prefer?",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/kx2imqpiatif1.jpeg\" />",
+            "date_published": "2025-08-13T16:15:49+00:00",
+            "authors": [
+                {
+                    "name": "onodera-punpun",
+                    "url": "https://www.reddit.com/user/onodera-punpun"
+                }
+            ]
+        },
+        {
             "id": "1mo7yx6",
             "url": "/r/MacOSBeta/comments/1mo7yx6/loving_the_launchpad_replacement/",
             "external_url": "https://v.redd.it/g89yl57j5lif1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MStratiote",
                     "url": "https://www.reddit.com/user/MStratiote"
-                }
-            ]
-        },
-        {
-            "id": "1ljwjuw",
-            "url": "/r/MacOSBeta/comments/1ljwjuw/i_fixed_the_finder_icon_on_macos_26_tahoe/",
-            "external_url": "https://www.reddit.com/gallery/1ljwjuw",
-            "title": "I fixed the Finder icon on macOS 26 Tahoe",
-            "content_html": "<p>Well guys, since Apple changed the Finder icon to blue in the macOS 26 beta 2, I decided to fix it myself. I've attached the dark mode variations for demonstration purposes, but they should follow a better color selection in some elements to ensure everything is visible. However, that's Apple's job.</p>\n<p>If you like them, you can use these pictures with the Feedback Assistant to request some fixes like this one. </p>\n<p>I'm not a designer by any means, but I can understand why they chose to use the other side of the face to ensure it doesn't have sharp edges. However, for some reason, I find this approach more appropriate.</p>",
-            "date_published": "2025-06-25T04:35:19+00:00",
-            "authors": [
-                {
-                    "name": "Heezy999",
-                    "url": "https://www.reddit.com/user/Heezy999"
                 }
             ]
         }
