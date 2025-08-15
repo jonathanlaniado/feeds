@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1mqkwav",
+            "url": "/r/MacOSBeta/comments/1mqkwav/latest_260_beta_using_entire_hard_drive_for_system/",
+            "external_url": "https://i.redd.it/atiofjuaf3jf1.png",
+            "title": "Latest 26.0 beta using entire hard drive for system",
+            "content_html": "<p>See title. Decided to update my 16\" M3 pro macbook to the latest Tahoe beta because it's not my primary machine and boy was that a mistake. Supposedly system is using up 1.5 TB of my hard drive; I haven't figured out exactly how yet, because both system preferences and daisydisk are stuck \"calculating\" the usage. Anyone else having this issue or similar?</p><div><br></div><img src=\"https://i.redd.it/atiofjuaf3jf1.png\" />",
+            "date_published": "2025-08-15T02:23:59+00:00",
+            "authors": [
+                {
+                    "name": "personalist",
+                    "url": "https://www.reddit.com/user/personalist"
+                }
+            ]
+        },
+        {
             "id": "1mq0u1g",
             "url": "/r/MacOSBeta/comments/1mq0u1g/how_much_screen_area_lost_due_to_removal_of/",
             "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1mq0u1g/how_much_screen_area_lost_due_to_removal_of/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Few-Employ9640",
                     "url": "https://www.reddit.com/user/Few-Employ9640"
-                }
-            ]
-        },
-        {
-            "id": "1lklk1l",
-            "url": "/r/MacOSBeta/comments/1lklk1l/i_actually_prefer_the_beta_1_finder_icon/",
-            "external_url": "https://i.redd.it/d5ffptkbv59f1.jpeg",
-            "title": "I actually prefer the Beta 1 Finder icon",
-            "content_html": "<p>I didn't even notice that they flipped the colours, to be honest. I thought something was different but couldn't quite put my finger on it.</p>\n<p>Given the new Liquid Glass theme of \"pieces\" of glass layered on one another, I think it was a good way to update an existing logo to the new theme. I really liked it when they showed it.</p>\n<p>More importantly, I don't quite like how the new icon has more blue than white. Maybe white is easier to ignore, but it always seems like the Beta 1 icon has balanced the white and blue while Beta 2's has more blue than white. There's a lot of blue and I don't really like it.</p><div><br></div><img src=\"https://i.redd.it/d5ffptkbv59f1.jpeg\" />",
-            "date_published": "2025-06-25T23:56:11+00:00",
-            "authors": [
-                {
-                    "name": "notkishang",
-                    "url": "https://www.reddit.com/user/notkishang"
                 }
             ]
         }
