@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1mu4lxb",
+            "url": "/r/iOSBeta/comments/1mu4lxb/ios_26_db7_iphone_mirroring_now_works_at_the_same/",
+            "external_url": "https://i.redd.it/gzauemylnvjf1.jpeg",
+            "title": "[iOS 26 DB7] iPhone mirroring now works at the same time as Sidecar.",
+            "content_html": "<p>Apple removed the AirPlay issue that made us unable to use iPhone mirroring with Sidecar.</p><div><br></div><img src=\"https://i.redd.it/gzauemylnvjf1.jpeg\" />",
+            "date_published": "2025-08-19T01:16:27+00:00",
+            "authors": [
+                {
+                    "name": "Competitive-Kick1436",
+                    "url": "https://www.reddit.com/user/Competitive-Kick1436"
+                }
+            ]
+        },
+        {
             "id": "1mtt672",
             "url": "/r/iOSBeta/comments/1mtt672/ios_26_db7_adaptive_power_notifications_option/",
             "external_url": "https://i.redd.it/8a782ihxftjf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "GregWanta",
                     "url": "https://www.reddit.com/user/GregWanta"
-                }
-            ]
-        },
-        {
-            "id": "1fj5wm6",
-            "url": "/r/iOSBeta/comments/1fj5wm6/ios_181_db_4_connectivity_controls_redesigned_in/",
-            "external_url": "https://i.redd.it/erhdoo7zqepd1.jpeg",
-            "title": "[iOS 18.1 DB 4] Connectivity controls redesigned in Control Center",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1fj5wm6/ios_181_db_4_connectivity_controls_redesigned_in/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1fj5wm6/ios_181_db_4_connectivity_controls_redesigned_in/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/erhdoo7zqepd1.jpeg\" />",
-            "date_published": "2024-09-17T17:52:11+00:00",
-            "authors": [
-                {
-                    "name": "Leading-Control-8503",
-                    "url": "https://www.reddit.com/user/Leading-Control-8503"
                 }
             ]
         }
