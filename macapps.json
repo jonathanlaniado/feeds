@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1mviwyz",
+            "url": "/r/macapps/comments/1mviwyz/how_i_speed_up_my_mac_in_minutes_and_free_24_gb/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1mviwyz/how_i_speed_up_my_mac_in_minutes_and_free_24_gb/",
+            "title": "How I Speed Up My Mac in Minutes and Free 2\u20134 GB of Space. No cleanMyMac, no paid apps",
+            "content_html": "<p>Since a lot of you liked my previous posts, I\u2019ve decided to turn this into a mini series where I share hidden Mac features that save time and keep your computer clean. All without using any third-party apps.</p>\n<p>I kept seeing ads for paid <strong>\u201cspeed up your Mac\u201d</strong> apps, so I asked my friend who is a developer to make me a mini version using Automator and a shell script.</p>\n<p>Now I click one icon and it:</p>\n<p><strong>\u00b7</strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Empties the Trash</p>\n<p><strong>\u00b7</strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Clears system cache files</p>\n<p><strong>\u00b7</strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Deletes leftover DMG installers</p>\n<p><strong>\u00b7</strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Flushes DNS cache</p>\n<p><strong>\u00b7</strong>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Clears the temporary files that slow everything down</p>\n<p>It\u2019s just a tiny script wrapped in Automator. You already have everything you need to run it..</p>\n<p><strong>How I made it (3 minutes):</strong></p>\n<p><strong>1.</strong>\u00a0 Open <strong>Automator</strong>, Click <strong>New Document</strong>, choose <strong>Application</strong></p>\n<p><strong>2.</strong>\u00a0 In the left sidebar, search for <strong>Run Shell Script</strong> and drag it into the workflow</p>\n<p><strong>3.</strong>\u00a0 Paste this script:</p>\n<p><code># Empty Trash</code></p>\n<p><code>rm -rf ~/.Trash/*</code></p>\n<p><code># Delete user cache files</code></p>\n<p><code>rm -rf ~/Library/Caches/*</code></p>\n<p><code># Delete old DMG files from Downloads</code></p>\n<p><code>find ~/Downloads -name \"*.dmg\" -mtime +1 -delete</code></p>\n<p><strong>4.</strong> Save the file with a name like \u201c<strong>CleanUp.app</strong>\u201d and drop it on your desktop.</p>\n<p>Now I just double-click it once a week and my Mac feels faster instantly.</p>\n<p>It targets the exact same stuff those paid \u201ccleaner\u201d apps do, but it\u2019s free and transparent. I saved 3GB the first time I ran it and my Mac feels noticeably snappier, especially apps like Safari and Photoshop.</p>\n<p><strong>Let me know if you want more automations like this.</strong></p>",
+            "date_published": "2025-08-20T16:02:09+00:00",
+            "authors": [
+                {
+                    "name": "Tack911",
+                    "url": "https://www.reddit.com/user/Tack911"
+                }
+            ]
+        },
+        {
             "id": "1mur7ys",
             "url": "/r/macapps/comments/1mur7ys/my_downloads_folder_now_cleans_itself/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1mur7ys/my_downloads_folder_now_cleans_itself/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Otherwise-Yam3524",
                     "url": "https://www.reddit.com/user/Otherwise-Yam3524"
-                }
-            ]
-        },
-        {
-            "id": "1fetdy9",
-            "url": "/r/macapps/comments/1fetdy9/i_made_a_collection_of_the_100_best_mac_apps_i/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1fetdy9/i_made_a_collection_of_the_100_best_mac_apps_i/",
-            "title": "\ud83c\udf89 I made a collection of the 100 best Mac apps I found in three years",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1fetdy9/i_made_a_collection_of_the_100_best_mac_apps_i/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1fetdy9/i_made_a_collection_of_the_100_best_mac_apps_i/'>Reddit</a></caption><div><br></div><p><a href=\"https://bestmacapps.com\">bestmacapps.com</a></p>",
-            "date_published": "2024-09-12T03:44:50+00:00",
-            "authors": [
-                {
-                    "name": "Jolly-Swing-7726",
-                    "url": "https://www.reddit.com/user/Jolly-Swing-7726"
                 }
             ]
         }
