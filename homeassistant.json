@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1mxax1m",
+            "url": "/r/homeassistant/comments/1mxax1m/shelly_they_know_their_audience/",
+            "external_url": "https://youtu.be/ROKFXbfm2vo?si=_kx4_X9V5wk-RCou",
+            "title": "Shelly. They know their audience...",
+            "content_html": "",
+            "date_published": "2025-08-22T16:17:55+00:00",
+            "authors": [
+                {
+                    "name": "SuperSmudge90",
+                    "url": "https://www.reddit.com/user/SuperSmudge90"
+                }
+            ]
+        },
+        {
             "id": "1mspagf",
             "url": "/r/homeassistant/comments/1mspagf/frosted_glass_v12_is_here_cleaner_cards_faster_ui/",
             "external_url": "https://www.reddit.com/gallery/1mspagf",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "chench0",
                     "url": "https://www.reddit.com/user/chench0"
-                }
-            ]
-        },
-        {
-            "id": "18608lu",
-            "url": "/r/homeassistant/comments/18608lu/ikea_launching_a_trio_of_affordable_zigbee_home/",
-            "external_url": "https://www.theverge.com/2023/11/28/23977693/ikea-sensors-door-window-water-motion-price-date-specs",
-            "title": "Ikea launching a trio of affordable Zigbee home sensors under $10",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/18608lu/ikea_launching_a_trio_of_affordable_zigbee_home/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/18608lu/ikea_launching_a_trio_of_affordable_zigbee_home/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-11-28T16:35:07+00:00",
-            "authors": [
-                {
-                    "name": "udit39",
-                    "url": "https://www.reddit.com/user/udit39"
                 }
             ]
         }
