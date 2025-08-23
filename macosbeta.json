@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1mxn6vh",
+            "url": "/r/MacOSBeta/comments/1mxn6vh/i_found_a_screenshot_of_macos_tahoe_after_the/",
+            "external_url": "https://i.redd.it/hcgemmgcynkf1.png",
+            "title": "I found a screenshot of macOS Tahoe after the Developer Beta Release, it looks beautiful.",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/hcgemmgcynkf1.png\" />",
+            "date_published": "2025-08-23T00:26:38+00:00",
+            "authors": [
+                {
+                    "name": "Excellent-Class-7070",
+                    "url": "https://www.reddit.com/user/Excellent-Class-7070"
+                }
+            ]
+        },
+        {
             "id": "1mw9fu7",
             "url": "/r/MacOSBeta/comments/1mw9fu7/macos_still_uses_icons_from_preos_x_yosemite_lol/",
             "external_url": "https://i.redd.it/jhehenm68dkf1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "reddit_but_better",
                     "url": "https://www.reddit.com/user/reddit_but_better"
-                }
-            ]
-        },
-        {
-            "id": "1lm6pts",
-            "url": "/r/MacOSBeta/comments/1lm6pts/ui_feedback_isnt_complaining_its_helping_apple/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1lm6pts/ui_feedback_isnt_complaining_its_helping_apple/",
-            "title": "UI Feedback Isn\u2019t Complaining, It\u2019s Helping Apple Succeed",
-            "content_html": "<p>I\u2019ve observed that valid criticisms regarding UI inconsistencies in macOS are frequently dismissed on this subreddit with remarks such as \u201cit\u2019s just a beta\u201d or \u201cgrow up.\u201d However, it\u2019s important to recognize that if users do not express their concerns at this stage, Apple may interpret the current feedback as general approval of the system\u2019s user interface.</p>\n<p>Historically, Apple has not made substantial UI changes between the public beta and the final release. Numerous comparisons between Developer Beta 1 and the official public version support this, indicating that the interface typically remains largely unchanged. Therefore, the notion that \u201cApple will address these issues before release\u201d may be overly optimistic.</p>\n<p>I apologize if this comes across as a rant, but I firmly believe that now is the appropriate time to voice concerns. Failing to do so risks allowing UI issues to persist into the final release, which could result in broader public criticism particularly from non-technical users who may be less forgiving of such inconsistencies. In that sense, offering constructive feedback now is not only helpful but essential to supporting Apple\u2019s goal of delivering a polished and intuitive product.</p>",
-            "date_published": "2025-06-27T22:14:11+00:00",
-            "authors": [
-                {
-                    "name": "JTG005",
-                    "url": "https://www.reddit.com/user/JTG005"
                 }
             ]
         }
