@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1mzty0i",
+            "url": "/r/selfhosted/comments/1mzty0i/she_thought_i_was_on_rselfhosted_but_i_was/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1mzty0i/she_thought_i_was_on_rselfhosted_but_i_was/",
+            "title": "She thought I was on r/selfhosted\u2026 but I was actually planning a proposal \ud83e\udd2b",
+            "content_html": "<p>On Saturday, Jellyfin was an unexpected MVP in helping me propose to my (now) fianc\u00e9e. \ud83d\udc8d</p>\n<p>Throughout our day of fun and romantic plans, I was texting our photographer to coordinate \u2014 sending them updates on where we were, what we were wearing, and deciding last minute where the best spot would be. My girlfriend thought I was just deep in r/jellyfincommunity, r/selfhosted, or troubleshooting something for one of my users on my Jellyfin Discord server\u2026 and she didn\u2019t suspect a thing.</p>\n<p>By the time we got to our final stop, the photographer was perfectly disguised and in place, the timing was right, and she said yes. \u2764\ufe0f</p>\n<p>Now she knows the truth, but Jellyfin (and the alibi it provided) definitely helped make it all possible.</p>\n<p>I thought that was hilarious and just had to share. Thanks to Jellyfin and this community!</p>",
+            "date_published": "2025-08-25T15:40:51+00:00",
+            "authors": [
+                {
+                    "name": "nothingveryobvious",
+                    "url": "https://www.reddit.com/user/nothingveryobvious"
+                }
+            ]
+        },
+        {
             "id": "1mjahgo",
             "url": "/r/selfhosted/comments/1mjahgo/introducing_finetic_a_modern_opensource_jellyfin/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1mjahgo/introducing_finetic_a_modern_opensource_jellyfin/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "2sXy",
                     "url": "https://www.reddit.com/user/2sXy"
-                }
-            ]
-        },
-        {
-            "id": "1gplrtk",
-            "url": "/r/selfhosted/comments/1gplrtk/ever_been_turned_off_on_an_app_because_of_the/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1gplrtk/ever_been_turned_off_on_an_app_because_of_the/",
-            "title": "Ever been turned off on an app because of the developer's behavior?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1gplrtk/ever_been_turned_off_on_an_app_because_of_the/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1gplrtk/ever_been_turned_off_on_an_app_because_of_the/'>Reddit</a></caption><div><br></div><p>After a ridiculous back-and-forth with the Grocy developer (who called me \"stupid AF\" after I deleted a post on Reddit [A question with a one line answer that probably wouldn't have helped anyone else] and continued to insult me, I decided to look back at Tandoor and Mealie instead.</p>\n<p>So my question to you all is: What are your developer horror stories in the Self Hosted world? </p>\n<p>Conversely, are there any apps that are so good that you are willing to overlook a difficult, vocal developer?</p>",
-            "date_published": "2024-11-12T14:20:23+00:00",
-            "authors": [
-                {
-                    "name": "Purdue49OSU20",
-                    "url": "https://www.reddit.com/user/Purdue49OSU20"
                 }
             ]
         }
