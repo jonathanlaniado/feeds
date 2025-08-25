@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1mzzeox",
+            "url": "/r/MacOSBeta/comments/1mzzeox/tahoe_beta_8_new_darker_border_for_whiteonwhite/",
+            "external_url": "https://i.redd.it/v3r4wxtkq7lf1.png",
+            "title": "Tahoe Beta 8 - New darker border for white-on-white windows.",
+            "content_html": "<p>There is a new subtle black border around windows visible wherever there is a white window over another white background. Also applies in reverse for dark mode (White border on dark-on-dark windows) I like the added contrast without being too out of place</p><div><br></div><img src=\"https://i.redd.it/v3r4wxtkq7lf1.png\" />",
+            "date_published": "2025-08-25T19:01:46+00:00",
+            "authors": [
+                {
+                    "name": "rhyslikescake",
+                    "url": "https://www.reddit.com/user/rhyslikescake"
+                }
+            ]
+        },
+        {
             "id": "1mzx3yl",
             "url": "/r/MacOSBeta/comments/1mzx3yl/macos_26_beta_8_release_thread/",
             "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1mzx3yl/macos_26_beta_8_release_thread/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "jhalmos",
                     "url": "https://www.reddit.com/user/jhalmos"
-                }
-            ]
-        },
-        {
-            "id": "1lpqjhm",
-            "url": "/r/MacOSBeta/comments/1lpqjhm/macos_tahoes_sidebar_icon_for_any_pc_is_a_blue/",
-            "external_url": "https://www.reddit.com/gallery/1lpqjhm",
-            "title": "macOS Tahoe's sidebar icon for any PC is a blue screen sad face \" :( \"",
-            "content_html": "",
-            "date_published": "2025-07-02T08:31:36+00:00",
-            "authors": [
-                {
-                    "name": "Ok_Mousse_970",
-                    "url": "https://www.reddit.com/user/Ok_Mousse_970"
                 }
             ]
         }
