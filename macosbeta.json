@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1n0hnaj",
+            "url": "/r/MacOSBeta/comments/1n0hnaj/im_fine_with_liquid_glass_legibility_but_less/",
+            "external_url": "https://www.reddit.com/gallery/1n0hnaj",
+            "title": "I'm fine with Liquid Glass legibility, but less thrilled with THIS...",
+            "content_html": "<p>...because it's a perfect storm of incompatible ideas.</p>\n<p>Desktop icons always start at the top. That's where many of Apple's wallpapers/screensavers are bright due to having sky there. Which means it's extra important that desktop item text is legible on bright backgrounds, and always having the text be white (even when the menu bar understands that black is the only way to go) doesn't help.</p>\n<p>Worse, the black blur overlay that sits behind the menu text to improve contrast is placed <em>in front of</em> the desktop items, adding a grey tint over text that's barely legible to begin with. Surely that layer order can't be right. At least, this is what happens with the topmost Desktop item on non-Retina displays, as the first pic illustrates. If you look at the 2nd picture which is MBP 16\" native res (Retina), the overlay doesn't seem to be in front of the icon and text.</p>\n<p>I'm not affected personally as I always use dark wallpapers, but for people who prefer brighter ones this has to be an issue. Definitely one of the most half-baked aspects of the MacOS UI.</p>",
+            "date_published": "2025-08-26T09:58:39+00:00",
+            "authors": [
+                {
+                    "name": "Semantiques",
+                    "url": "https://www.reddit.com/user/Semantiques"
+                }
+            ]
+        },
+        {
             "id": "1n0bfle",
             "url": "/r/MacOSBeta/comments/1n0bfle/favorite_feature_so_far_for_those_of_us_who_keep/",
             "external_url": "https://i.imgur.com/7VTO7rQ.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "awol93",
                     "url": "https://www.reddit.com/user/awol93"
-                }
-            ]
-        },
-        {
-            "id": "1lquv7l",
-            "url": "/r/MacOSBeta/comments/1lquv7l/macos_26_on_an_intel_mac/",
-            "external_url": "https://i.redd.it/8k64eutjxoaf1.png",
-            "title": "MacOS 26 on an Intel Mac",
-            "content_html": "<p>MacOS 26 beta preforms well on intel macs, but only after indexing</p><div><br></div><img src=\"https://i.redd.it/8k64eutjxoaf1.png\" />",
-            "date_published": "2025-07-03T17:03:05+00:00",
-            "authors": [
-                {
-                    "name": "LXCorpBoss",
-                    "url": "https://www.reddit.com/user/LXCorpBoss"
                 }
             ]
         }
