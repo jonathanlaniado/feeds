@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1n16wf9",
+            "url": "/r/MacOSBeta/comments/1n16wf9/this_gotta_be_the_biggest_icon_downgrade_macos26/",
+            "external_url": "https://i.redd.it/b31ze7phihlf1.jpeg",
+            "title": "This gotta be the biggest icon downgrade, macOS26",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/b31ze7phihlf1.jpeg\" />",
+            "date_published": "2025-08-27T03:51:05+00:00",
+            "authors": [
+                {
+                    "name": "goodnytsleep",
+                    "url": "https://www.reddit.com/user/goodnytsleep"
+                }
+            ]
+        },
+        {
             "id": "1n0hnaj",
             "url": "/r/MacOSBeta/comments/1n0hnaj/im_fine_with_liquid_glass_legibility_but_less/",
             "external_url": "https://www.reddit.com/gallery/1n0hnaj",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "amyphetamine",
                     "url": "https://www.reddit.com/user/amyphetamine"
-                }
-            ]
-        },
-        {
-            "id": "1lr10u2",
-            "url": "/r/MacOSBeta/comments/1lr10u2/why_i_think_liquidglass_elements_look_so_bad_on/",
-            "external_url": "https://i.redd.it/tpny22685qaf1.png",
-            "title": "Why I think LiquidGlass elements look so bad on Mac",
-            "content_html": "<p>I think it's because the drop shadows have, since basically forever, been used to denote a separate window or a context menu. When drop shadows are applied to individual buttons, not only does it feel more visually cluttered but it doesn't feel like a functional component to the surface it's floating above. It feels like the floating elements like the side bar and the toolbar buttons are the most confusing because they no longer belong to the surface they're intended to interact with. </p><div><br></div><img src=\"https://i.redd.it/tpny22685qaf1.png\" />",
-            "date_published": "2025-07-03T21:11:24+00:00",
-            "authors": [
-                {
-                    "name": "awol93",
-                    "url": "https://www.reddit.com/user/awol93"
                 }
             ]
         }
