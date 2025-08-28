@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1n2hoby",
+            "url": "/r/MacOSBeta/comments/1n2hoby/macos_tahoe_clear_icons_vs_thirdparty_app_icons/",
+            "external_url": "https://i.redd.it/smvyceb8jslf1.png",
+            "title": "macOS Tahoe \u2013 Clear Icons vs Third-Party App Icons",
+            "content_html": "<p>I\u2019m running macOS Tahoe and love the new clear/glass app icons, but I\u2019ve noticed that apps downloaded outside the App Store don\u2019t match. They keep their own static color icons and break the look of the dock.</p>\n<p>Even when I try swapping the icons manually through <em>Get Info</em>, they sometimes revert after updates.</p>\n<p>Has anyone else run into this? Did you find a reliable <strong>website for clear icon replacements</strong> or a good <strong>editor/tool</strong> that can make third-party app icons match the Tahoe clear style?</p>\n<p>I\u2019d really like a consistent look across all my apps. Any tips or resources would be appreciated.</p><div><br></div><img src=\"https://i.redd.it/smvyceb8jslf1.png\" />",
+            "date_published": "2025-08-28T16:54:56+00:00",
+            "authors": [
+                {
+                    "name": "RefrigeratorNo2605",
+                    "url": "https://www.reddit.com/user/RefrigeratorNo2605"
+                }
+            ]
+        },
+        {
             "id": "1n16wf9",
             "url": "/r/MacOSBeta/comments/1n16wf9/this_gotta_be_the_biggest_icon_downgrade_macos26/",
             "external_url": "https://i.redd.it/b31ze7phihlf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "NeedleworkerVast9434",
                     "url": "https://www.reddit.com/user/NeedleworkerVast9434"
-                }
-            ]
-        },
-        {
-            "id": "1lr973x",
-            "url": "/r/MacOSBeta/comments/1lr973x/well_this_sucks_apple_is_phasing_out_support_for/",
-            "external_url": "https://i.redd.it/eh2o2lty5saf1.png",
-            "title": "Well, this sucks. Apple is phasing out support for Time Capsules",
-            "content_html": "<p>I went to check on my time capsule settings, and found this message waiting for me. This really sucks.</p><div><br></div><img src=\"https://i.redd.it/eh2o2lty5saf1.png\" />",
-            "date_published": "2025-07-04T03:55:59+00:00",
-            "authors": [
-                {
-                    "name": "amyphetamine",
-                    "url": "https://www.reddit.com/user/amyphetamine"
                 }
             ]
         }
