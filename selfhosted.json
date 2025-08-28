@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1n2f1dc",
+            "url": "/r/selfhosted/comments/1n2f1dc/300k_plex_media_server_instances_still_vulnerable/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1n2f1dc/300k_plex_media_server_instances_still_vulnerable/",
+            "title": "300k+ Plex Media Server instances still vulnerable to attack via CVE-2025-34158",
+            "content_html": "<p>Hey Friends, just sharing this as some of you might have public facing Plex servers.</p>\n<p>Make sure it's up to date!</p>\n<p>https://www.helpnetsecurity.com/2025/08/27/plex-media-server-cve-2025-34158-attack/</p>",
+            "date_published": "2025-08-28T15:15:33+00:00",
+            "authors": [
+                {
+                    "name": "phoenixdow",
+                    "url": "https://www.reddit.com/user/phoenixdow"
+                }
+            ]
+        },
+        {
             "id": "1mzty0i",
             "url": "/r/selfhosted/comments/1mzty0i/she_thought_i_was_on_rselfhosted_but_i_was/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1mzty0i/she_thought_i_was_on_rselfhosted_but_i_was/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "reddit_lanre",
                     "url": "https://www.reddit.com/user/reddit_lanre"
-                }
-            ]
-        },
-        {
-            "id": "1gpwuir",
-            "url": "/r/selfhosted/comments/1gpwuir/a_threat_actor_attempted_to_slipstream_a_malware/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1gpwuir/a_threat_actor_attempted_to_slipstream_a_malware/",
-            "title": "A threat actor attempted to slipstream a malware payload into yt-dlp's GitHub repo",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1gpwuir/a_threat_actor_attempted_to_slipstream_a_malware/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1gpwuir/a_threat_actor_attempted_to_slipstream_a_malware/'>Reddit</a></caption><div><br></div><p>I thought the subreddit might find this interesting. I came across this thread on X:</p>\n<p>https://x.com/vxunderground/status/1856450468945506615</p>",
-            "date_published": "2024-11-12T22:02:52+00:00",
-            "authors": [
-                {
-                    "name": "2sXy",
-                    "url": "https://www.reddit.com/user/2sXy"
                 }
             ]
         }
