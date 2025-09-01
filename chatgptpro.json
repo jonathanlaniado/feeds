@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
     "items": [
         {
+            "id": "1n5ohzy",
+            "url": "/r/ChatGPTPro/comments/1n5ohzy/using_gpt5_as_an_idea_editor_turned_out/",
+            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1n5ohzy/using_gpt5_as_an_idea_editor_turned_out/",
+            "title": "Using GPT-5 as an \u201cidea editor\u201d turned out surprisingly useful",
+            "content_html": "<p>I\u2019ve noticed that the less I ask the model to create for me, the more value I get.\nFor example:\n1) Asking it to write a whole story \u2192 results feel flat.\n2) Feeding it my rough draft and asking for edits \u2192 output becomes genuinely sharper.\n3) Dropping in a clumsy paragraph \u2192 it suggests rewrites that trigger totally new ideas.</p>\n<p>So GPT-5 ended up not as an author, but as a catalyst.\nSometimes its \u201cuseless\u201d answers spark solutions I wouldn\u2019t have reached otherwise.</p>\n<p>Have you experienced something similar? Do you use GPT more as a thought filter than a generator?</p>",
+            "date_published": "2025-09-01T13:19:22+00:00",
+            "authors": [
+                {
+                    "name": "FishUnlikely3134",
+                    "url": "https://www.reddit.com/user/FishUnlikely3134"
+                }
+            ]
+        },
+        {
             "id": "1n40i00",
             "url": "/r/ChatGPTPro/comments/1n40i00/chatgpt_gave_me_this_this_is_hella_fine_ngl/",
             "external_url": "https://i.redd.it/ckdusvaii5mf1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "xindex",
                     "url": "https://www.reddit.com/user/xindex"
-                }
-            ]
-        },
-        {
-            "id": "1c33b93",
-            "url": "/r/ChatGPTPro/comments/1c33b93/i_used_gpt_to_find_782466_tech_jobs/",
-            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1c33b93/i_used_gpt_to_find_782466_tech_jobs/",
-            "title": "I used GPT to find 782,466 tech jobs",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ChatGPTPro/comments/1c33b93/i_used_gpt_to_find_782466_tech_jobs/'>Winston</a> | <a href='https://reddit.com/r/ChatGPTPro/comments/1c33b93/i_used_gpt_to_find_782466_tech_jobs/'>Reddit</a></caption><div><br></div><p>The job search process sucks, I hate linkedin, indeed, random crap job boards. Why isn't there one place, ONE PLACE, on the internet that has ALL the jobs that are actually hiring.</p>\n<p>So, I built scrapers with scrapy to get jobs directly from company web pages (so there are never any old/spam jobs), and then used GPT 3.5 to summarize and derive insights to help the job seeker find the perfect role.</p>\n<p>My eventual goal is to have all the jobs on the internet.</p>\n<p>After a few iterations it's finally half decent, and I now exclusively use it for my own job search. Its available to everyone here: <a href=\"http://www.joby.ai/\">www.joby.ai</a></p>\n<p>Let me know if you have any questions, would love to get your feedback!</p>",
-            "date_published": "2024-04-13T14:32:01+00:00",
-            "authors": [
-                {
-                    "name": "zsar0299",
-                    "url": "https://www.reddit.com/user/zsar0299"
                 }
             ]
         }
