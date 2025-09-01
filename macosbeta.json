@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1n60vpa",
+            "url": "/r/MacOSBeta/comments/1n60vpa/why_is_tahoe_so_inconsistent/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1n60vpa/why_is_tahoe_so_inconsistent/",
+            "title": "Why is Tahoe so inconsistent?",
+            "content_html": "<p>Just updated to PB5 (was probably on PB1 or 2 before). Liquid Glass looks weirdly darker in some places, and these two menus specifically also just have totally different looks to them...</p>\n<p>https://preview.redd.it/7442p248cmmf1.png?width=642&amp;format=png&amp;auto=webp&amp;s=d3aa26e00d0cf7a36307715f24cff4f8c66168b7</p>\n<p>https://preview.redd.it/6oogcxm9cmmf1.png?width=648&amp;format=png&amp;auto=webp&amp;s=2267e830ee5d84a102fbd794b6f6ec707923e7a2</p>",
+            "date_published": "2025-09-01T21:10:40+00:00",
+            "authors": [
+                {
+                    "name": "TheEarthSpins",
+                    "url": "https://www.reddit.com/user/TheEarthSpins"
+                }
+            ]
+        },
+        {
             "id": "1n38ik2",
             "url": "/r/MacOSBeta/comments/1n38ik2/hmm/",
             "external_url": "https://i.redd.it/kfjqqhtuuylf1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "zsheII",
                     "url": "https://www.reddit.com/user/zsheII"
-                }
-            ]
-        },
-        {
-            "id": "1lrbhz4",
-            "url": "/r/MacOSBeta/comments/1lrbhz4/please_apple_im_begging_you_bring_back_compact/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1lrbhz4/please_apple_im_begging_you_bring_back_compact/",
-            "title": "Please apple, I'm begging you, bring back compact tabs on Safari 26 for MacOS",
-            "content_html": "<p>I've looked everywhere, not sure where it would have gone but I cannot find it for the life of me. I'm not someone who keeps a million tabs open, and if I do, I use tab groups on the side bar. </p>\n<p>Since most websites have far more vertical than horizontal area, maximizing vertical area is a must. Vertical tabs as on Edge and FF are a fine solution, better than a separate horizontal tab bar, but it's not perfect because it takes away horizontal area.</p>\n<p>Compact tabs were perfect. No compromise on horizontal area, maximum vertical area. Sure people were confused by them, and maybe they don't need to be a default feature. But they should absolutely be an option, because there's literally nothing else out there that compares. </p>\n<p>I see the huge blank space next to the massive search and address bar, and I just think \"what the fuck are we doing here man, why is this void taking away from my screen area\". Liquid glass looks great, but this does not. </p>\n<p>https://preview.redd.it/zurshf43usaf1.png?width=2982&amp;format=png&amp;auto=webp&amp;s=acaa869bc8b8ae3ea46beccde479fad4d1bf0dfb</p>",
-            "date_published": "2025-07-04T06:10:18+00:00",
-            "authors": [
-                {
-                    "name": "BosnianSerb31",
-                    "url": "https://www.reddit.com/user/BosnianSerb31"
                 }
             ]
         }
