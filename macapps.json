@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1n6oy2p",
+            "url": "/r/macapps/comments/1n6oy2p/open_source_make_your_mac_look_like_unlicensed/",
+            "external_url": "https://www.reddit.com/gallery/1n6oy2p",
+            "title": "[Open Source] Make your Mac look like unlicensed Windows",
+            "content_html": "<p>Basically it places a message identical to the Windows activation message in the lower right corner. You can customize the OS name. It has two versions, one with multiple languages \u200b\u200band one with just English (in case you think the message in English is cooler).</p>\n<p>I\u2019m not sure what this is supposed to be used for.</p>\n<p>Download the <a href=\"https://github.com/rafaelSwi/ActivateMacOverlay/releases/latest\">latest version by clicking here</a>.</p>\n<p><em>You may have seen this app before because it was posted on</em> r/badUIbattles<em>, but it was never posted here.</em></p>",
+            "date_published": "2025-09-02T16:56:01+00:00",
+            "authors": [
+                {
+                    "name": "Fragrant_Okra6671",
+                    "url": "https://www.reddit.com/user/Fragrant_Okra6671"
+                }
+            ]
+        },
+        {
             "id": "1n54a64",
             "url": "/r/macapps/comments/1n54a64/mac_apps_i_cant_live_without_whats_yours/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1n54a64/mac_apps_i_cant_live_without_whats_yours/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Romachamp10",
                     "url": "https://www.reddit.com/user/Romachamp10"
-                }
-            ]
-        },
-        {
-            "id": "1fi6gw8",
-            "url": "/r/macapps/comments/1fi6gw8/maccy_20/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1fi6gw8/maccy_20/",
-            "title": "Maccy 2.0",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1fi6gw8/maccy_20/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1fi6gw8/maccy_20/'>Reddit</a></caption><div><br></div><p>Maccy is an open source clipboard manager for macOS.</p>\n<p>After 15 beta versions and <a href=\"https://github.com/p0deje/Maccy/pull/869\">145 commits</a>, I'm happy to release <strong>Maccy 2.0</strong> to a broader audience. Grab it via auto-update, or download it from <a href=\"https://maccy.app\">the website</a> or <a href=\"https://github.com/p0deje/Maccy\">GitHub</a>. The App Store version is currently being reviewed and will be available shortly.</p>\n<p>You should not see a lot of differences, but it's a massive release on the inside with a completely different technology stack. It fixed a bunch of old issues and unlocked new features that could be added in the subsequent releases (e.g. drag &amp; drop, iCloud sync, iPhone version, etc.)</p>\n<p>Hope you folks enjoy the new version!</p>\n<h1>Highlights of 2.0</h1>\n<ul>\n<li>The user interface has been rewritten from AppKit + NSMenu to SwiftUI + NSPanel.</li>\n<li>Storage has been rewritten from Core Data to SwiftData.</li>\n<li>Requires macOS 14 Sonoma or newer.</li>\n<li>Backward compatibility with Maccy 1.x. You can downgrade to 1.0 if you don't like the new version or encounter bugs.</li>\n<li>No backward compatibility with Maccy\uff10.x.</li>\n<li>New setting to pop up at the last position Maccy was opened at (#829).</li>\n<li>New search highlight matches mode with a yellow color similar to Safari (#830).</li>\n<li>Improved memory usage for copying large images.</li>\n<li>Fixed multiple issues with Japanese/Chinese/Korean language input in search.</li>\n<li>Fixed an issue when Maccy could not be shown over password fields.</li>\n<li>Fixed an issue when Maccy would not paste to the Spotlight window.</li>\n<li>Fixed an issue when Maccy would not open over full-screen windows.</li>\n</ul>\n<h1>Differences from 1.0</h1>\n<ul>\n<li>The window can be resized like any other window and the history list is now scrollable.</li>\n<li>Pinned items are shown without dots and stick to the scrollable history list.</li>\n<li>Appearance preference <strong>Number of items</strong> removed. Instead, vertically resize the main panel window according to your needs.</li>\n<li>Appearance preference <strong>Title length</strong> removed. Instead, horizontally resize the main panel window according to your needs.</li>\n<li>Advanced preference <strong>Avoid taking application focus</strong> removed. The focus will always remain on the active application, similar to how Spotlight works.</li>\n<li>A pin letter \"V\" can no longer be used since it's reserved for a system paste shortcut.</li>\n</ul>",
-            "date_published": "2024-09-16T14:45:54+00:00",
-            "authors": [
-                {
-                    "name": "p0deje",
-                    "url": "https://www.reddit.com/user/p0deje"
                 }
             ]
         }
