@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1n6tjwv",
+            "url": "/r/MacOSBeta/comments/1n6tjwv/macos_ui_getting_more_inconsistent_and_liquid/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1n6tjwv/macos_ui_getting_more_inconsistent_and_liquid/",
+            "title": "MacOS UI getting more inconsistent and Liquid Glass not really liquid",
+            "content_html": "<p>Edit: I noticed that this post sounds quite negative, so I wanted to note that I still enjoy MacOS and do actually like the UI changes in general, especially on iOS and iPadOS \ud83d\ude05.</p>\n<p>We are in the 9th beta and I managed to find quite some inconsistencies still. These are present since the beginning of the developer beta program and I have reported them to the feedback app already.</p>\n<p>I feel like the UI of MacOS is getting less consistent. E.g. the segmented controls (shown in the video) are sometimes liquid glass with nice animations, and sometimes not. In the keynote, they also made a big deal about \"concentricity\", and how every border radius should be perfectly calculated so it matches the radius of the parent container. But again, some UI elements like shown below don't follow this rule.</p>\n<p>Also, Liquid Glass on iPad feels much more \"fluid\" and \"liquid\" than on Mac.</p>\n<p>I hope this will get fixed until the final release, but I have to say, I am little concerned since the last few betas didn't include many notable changes. Hopefully, they can give MacOS a bit more attention after the iOS release.</p>\n<p>Here are some examples:</p>\n<p>The language selection menu is missing the Liquid Glass background:</p>\n<p>https://preview.redd.it/i3o7mri00tmf1.png?width=746&amp;format=png&amp;auto=webp&amp;s=f90c283ecd0de3d4f3fd6876dc215b7cfd4a4508</p>\n<p>The border radius of the hover state is not concentric to the parent container:</p>\n<p>https://preview.redd.it/c38yd2750tmf1.png?width=600&amp;format=png&amp;auto=webp&amp;s=accf1c05dbe398cb933767b99dd1100e3fbfc0ca</p>\n<p>Some menus are still missing Liquid Glass background:</p>\n<p>https://preview.redd.it/kig7zp6b0tmf1.png?width=688&amp;format=png&amp;auto=webp&amp;s=9d5795a22308e563a4f3a91037ddf409036bea36</p>\n<p>Here the concentricity is completely off again:</p>\n<p>https://preview.redd.it/okhbzb9f0tmf1.png?width=1422&amp;format=png&amp;auto=webp&amp;s=226840d9dffc294135dd22e5d553c8b903000720</p>\n<p>Some segmented controls are made out of Liquid Glass and have nice animations, while others have not:</p>\n<p>https://reddit.com/link/1n6tjwv/video/kkmsp9dw0tmf1/player</p>\n<p>Being made out of \"liquid\" glass, it would be nice if the toolbar items would show some \"liquid\" animations like on iOS and iPadOS:</p>\n<p>https://reddit.com/link/1n6tjwv/video/hqo7to2f2tmf1/player</p>",
+            "date_published": "2025-09-02T19:48:15+00:00",
+            "authors": [
+                {
+                    "name": "Afraid_Couple_3935",
+                    "url": "https://www.reddit.com/user/Afraid_Couple_3935"
+                }
+            ]
+        },
+        {
             "id": "1n6pvq3",
             "url": "/r/MacOSBeta/comments/1n6pvq3/apple_seeds_ninth_beta_of_macos_tahoe_to/",
             "external_url": "https://www.macrumors.com/2025/09/02/apple-seeds-macos-tahoe-beta-9/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Garabir",
                     "url": "https://www.reddit.com/user/Garabir"
-                }
-            ]
-        },
-        {
-            "id": "1ltc10e",
-            "url": "/r/MacOSBeta/comments/1ltc10e/display_of_connected_accessories_with_battery/",
-            "external_url": "https://i.redd.it/ps134eeejbbf1.jpeg",
-            "title": "Display of connected accessories with battery percentage!",
-            "content_html": "<p>When I wake my MBP and jiggle my mouse to wake/connect, it shows this display. Super helpful to gauge when you should charge, especially since I prefer to charge overnight when I\u2019m not actively using it.</p><div><br></div><img src=\"https://i.redd.it/ps134eeejbbf1.jpeg\" />",
-            "date_published": "2025-07-06T21:04:09+00:00",
-            "authors": [
-                {
-                    "name": "p-unctuated",
-                    "url": "https://www.reddit.com/user/p-unctuated"
                 }
             ]
         }
