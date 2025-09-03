@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1n79w6d",
+            "url": "/r/homeassistant/comments/1n79w6d/i_might_have_a_dashboard_addiction/",
+            "external_url": "https://www.reddit.com/gallery/1n79w6d",
+            "title": "I might have a dashboard addiction... \ud83d\ude05",
+            "content_html": "<p>So\u2026 I told myself I\u2019d <em>stop tweaking my Home Assistant dashboard</em> weeks ago.<br />\nFast forward \u2192 here I am at 3AM adjusting shadows, animations, and card layouts like my life depends on it.</p>\n<p>I\u2019ll drop some screenshots below (because what\u2019s the point of sleepless nights if not to show off \ud83e\udd13).<br />\nA full YAML dump will come later once I clean up the chaos and make it shareable. </p>\n<p><strong>TL;DR</strong>:<br />\nIt\u2019s a Material Design 3 inspired dashboard that dynamically adapts with:</p>\n<ul>\n<li>Gesture navigation</li>\n<li>Waterfall cards</li>\n<li>Pop-up cards</li>\n<li>Tabs &amp; swipe cards</li>\n<li>Expanders</li>\n<li>\u2026and probably more things I forgot I added \ud83d\ude43</li>\n</ul>\n<p>Some of the cards are inspired by awesome people in the community who kindly shared their hard work \u2014 I\u2019ll be giving credit and including names in the<a href=\"https://github.com/reylinux/Material-Design-3-Dynamic-Dashboard/blob/main/README.md\"> GitHub repo</a> when I publish it. \ud83d\udc99</p>\n<p>Also worth noting: a few elements are hidden in the screenshots because of conditional rules I\u2019ve set up, so you\u2019re not seeing <em>everything</em> just yet. \ud83d\ude09</p>\n<p>Stay tuned for the <a href=\"https://github.com/reylinux/Material-Design-3-Dynamic-Dashboard/blob/main/README.md\">GitHub repo</a> + YAML! \ud83d\ude80</p>",
+            "date_published": "2025-09-03T09:11:04+00:00",
+            "authors": [
+                {
+                    "name": "ElementZoom",
+                    "url": "https://www.reddit.com/user/ElementZoom"
+                }
+            ]
+        },
+        {
             "id": "1n4d0wp",
             "url": "/r/homeassistant/comments/1n4d0wp/my_local_computer_store_has_a_shelly_section_now/",
             "external_url": "https://i.redd.it/6902m7w758mf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "busek0",
                     "url": "https://www.reddit.com/user/busek0"
-                }
-            ]
-        },
-        {
-            "id": "18gq6bx",
-            "url": "/r/homeassistant/comments/18gq6bx/silicon_labs_the_company_that_is_behind_zwave_and/",
-            "external_url": "https://www.home-assistant.io/blog/2023/12/12/silicon-labs-official-partnership-nabu-casa/",
-            "title": "Silicon Labs (the company that is behind Z-Wave and designs IoT chips for Z-Wave/Zigbee/Thread/more) partners with Nabu Casa to support Open Source",
-            "content_html": "<caption>Open: <a href='apollo://www.reddit.com/r/homeassistant/comments/18gq6bx/silicon_labs_the_company_that_is_behind_zwave_and/'>Apollo</a> | <a href='https://reddit.com/r/homeassistant/comments/18gq6bx/silicon_labs_the_company_that_is_behind_zwave_and/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2023-12-12T16:42:22+00:00",
-            "authors": [
-                {
-                    "name": "GuySie",
-                    "url": "https://www.reddit.com/user/GuySie"
                 }
             ]
         }
