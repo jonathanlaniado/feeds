@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1n87xho",
+            "url": "/r/selfhosted/comments/1n87xho/why_i_ditched_spotify_and_self_hosted_my_own/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1n87xho/why_i_ditched_spotify_and_self_hosted_my_own/",
+            "title": "Why I ditched Spotify and self hosted my own music stack",
+            "content_html": "<p>Spotify\u2019s convenient, but it\u2019s also rotten:\n- They pay artists fractions of a cent per stream, with most never seeing a dime.\n- They pad playlists with ghost artists and AI-generated garbage to cut royalty costs.\n- They\u2019re slow to act on AI impersonators even dead artists have had fake albums published under their names.\n- In the UK, they\u2019re rolling out biometric/ID checks just to listen to explicit tracks.</p>\n<p>why keep feeding this system when the alternatives are right there?</p>\n<p>I built my own stack with Navidrome + Lidarr + Docker, and detailed the whole process here:</p>\n<p>https://leshicodes.github.io/blog/spotify-migration/</p>\n<p>Would love feedback this is my first proper tech blog write up</p>",
+            "date_published": "2025-09-04T11:48:10+00:00",
+            "authors": [
+                {
+                    "name": "Saleen_af",
+                    "url": "https://www.reddit.com/user/Saleen_af"
+                }
+            ]
+        },
+        {
             "id": "1n6jaeg",
             "url": "/r/selfhosted/comments/1n6jaeg/crowdsec_v17_just_released_self_hosted_idsipswaf/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1n6jaeg/crowdsec_v17_just_released_self_hosted_idsipswaf/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "-eschguy-",
                     "url": "https://www.reddit.com/user/-eschguy-"
-                }
-            ]
-        },
-        {
-            "id": "1gqc9b4",
-            "url": "/r/selfhosted/comments/1gqc9b4/sick_of_overpaying_for_aws/",
-            "external_url": "https://i.redd.it/hifni8ea2o0e1.jpeg",
-            "title": "Sick of overpaying for AWS",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1gqc9b4/sick_of_overpaying_for_aws/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1gqc9b4/sick_of_overpaying_for_aws/'>Reddit</a></caption><div><br></div><p>I have a few domains with low traffic, and I have it all in one instance of the cheapest, smallest AWS instances, but with storage, traffic and load balancer I end up paying a lot of money every month.</p>\n<p>So as I move to upgrade my main PC, I'll take my previous PC and turn it into my self hosted environment. I already have static IP with a solid ISP, and I'm buying a new PC anyways, so why not.</p>\n<p>I have some very specific needs, so this is what I'm doing:</p>\n<p>The PC on the left is my physics simulation machine. Not part of the setup. </p>\n<p>The one in the middle is my old PC. It now has Windows 11, running source control and CI. It also has VirtualBox with two (for now VMs).</p>\n<p>The first VM is an OpenBSD load balancer, which is the one that is connected to the outside world. Relayd does the reverse proxying with SNI, and the SSL certificates are provided by letsencrypt.</p>\n<p>The second VM is an Ubuntu Server machine, with a full LAMP attack for the various websites I have.</p>\n<p>The box on the right is a NAS, keeping backups of my source code, backups of the VM, and the daily builds of my game. </p>\n<p>Moving forward I'll only be using AWS for domain registration and DNS, but I may even move that somewhere else. </p>\n<p>What do you think of my setup?</p><div><br></div><img src=\"https://i.redd.it/hifni8ea2o0e1.jpeg\" />",
-            "date_published": "2024-11-13T12:57:07+00:00",
-            "authors": [
-                {
-                    "name": "pandapajama",
-                    "url": "https://www.reddit.com/user/pandapajama"
                 }
             ]
         }
