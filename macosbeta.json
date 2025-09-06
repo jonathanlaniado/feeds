@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1n9udd4",
+            "url": "/r/MacOSBeta/comments/1n9udd4/db9_icon_lottery/",
+            "external_url": "https://i.redd.it/7kpfl29o6inf1.jpeg",
+            "title": "DB9 icon lottery",
+            "content_html": "<p>Help me understand what I'm even seeing here.</p>\n<p>Yes \"it's a beta\" but this mess isn't going to magically resolve itself with the release version...</p>\n<p>Studio: Default = squircle jail, Dark = large icon (same size as Safari icon circle) with actual black background, i.e. what a dark icon updated for Tahoe probably should look like.</p>\n<p>MBP: Neither gets squircle jailed, but both get the muddy grey background associated with squircle jail.</p>\n<p>mini M1: Both are textbook squircle jailed, and both show the original icon's white background reflecting the reality that Google hasn't provided a dark version yet.</p>\n<p>mini M1 remotely via MBP: Call me stupid but when I see a Dock icon via Remote Desktop, I've always taken for granted I was seeing icons the way they look on the remote machine. How do they get the appearance of the Chrome icon on the client? I mean, the client often doesn't even have the same apps as the host...</p>\n<p>tl;dr: Huh?</p><div><br></div><img src=\"https://i.redd.it/7kpfl29o6inf1.jpeg\" />",
+            "date_published": "2025-09-06T08:31:21+00:00",
+            "authors": [
+                {
+                    "name": "Semantiques",
+                    "url": "https://www.reddit.com/user/Semantiques"
+                }
+            ]
+        },
+        {
             "id": "1n99u76",
             "url": "/r/MacOSBeta/comments/1n99u76/launchme_beta_testflight_better_version_of/",
             "external_url": "https://i.redd.it/ro92ra1ehdnf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "LevexTech",
                     "url": "https://www.reddit.com/user/LevexTech"
-                }
-            ]
-        },
-        {
-            "id": "1lu6dno",
-            "url": "/r/MacOSBeta/comments/1lu6dno/26_beta_3_warning_if_displays_have_separate/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1lu6dno/26_beta_3_warning_if_displays_have_separate/",
-            "title": "26 Beta 3 warning: If \"Displays have separate Spaces\" is disabled, WindowServer will crash at login",
-            "content_html": "<p>I'm looking over the release notes for macOS 26 Beta 3, and saw the note below. I figured I'd share if as a warning and a fix for anyone using this setting.</p>\n<ul>\n<li>\n<p>If System Settings &gt; Desktop &amp; Dock &gt; Displays have separate Spaces is disabled, WindowServer will crash at login time. (153570422)</p>\n</li>\n<li>\n<p><strong>Workaround:</strong>\u00a0Boot into Recovery, then mount the Data volume on your partition. Launch Terminal and run\u00a0<code>rm /Volumes/&lt;Partition Name \"Macintosh HD\"&gt;/Users/&lt;user name&gt;/Library/Preferences/com.apple.Spaces.plist</code>.</p>\n</li>\n</ul>",
-            "date_published": "2025-07-07T21:19:17+00:00",
-            "authors": [
-                {
-                    "name": "Dazzling_Comfort5734",
-                    "url": "https://www.reddit.com/user/Dazzling_Comfort5734"
                 }
             ]
         }
