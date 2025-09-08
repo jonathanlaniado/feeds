@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1nc0hto",
+            "url": "/r/selfhosted/comments/1nc0hto/plex_breached_20250909_action_required_notice_of/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1nc0hto/plex_breached_20250909_action_required_notice_of/",
+            "title": "Plex Breached 2025-09-09: \"Action required: Notice of a potential security incident\"",
+            "content_html": "<p><strong>1. Reset passwords immediately.</strong></p>\n<p><a href=\"https://jellyfin.org/\">2. Consider Jellyfin.</a></p>\n<hr />\n<p>Full text below: \nhttps://i.imgur.com/0PMRvVY.png</p>\n<hr />\n<blockquote>\n<pre><code>Dear Plex User,\n\nWe have recently experienced a security incident that may potentially involve your Plex account information. We believe the actual impact of this incident is limited; however, action is required from you to ensure your account remains secure.\n\nWhat happened \nAn unauthorized third party accessed a limited subset of customer data from one of our databases. While we quickly contained the incident, information that was accessed included emails, usernames, and securely hashed passwords.\n\nAny account passwords that may have been accessed were securely hashed, in accordance with best practices, meaning they cannot be read by a third party. Out of an abundance of caution, we recommend you immediately reset your password by visiting https://plex.tv/reset. Rest assured that we do not store credit card data on our servers, so this information was not compromised in this incident.\n\nWhat we're doing \nWe've already addressed the method that this third party used to gain access to the system, and we're undergoing additional reviews to ensure that the security of all of our systems is further hardened to prevent future attacks.\n\nWhat you must do \nWe kindly request that you reset your Plex account password immediately by visiting https://plex.tv/reset. When doing so, there's a checkbox to \"Sign out connected devices after password change,\" which we recommend you enable. This will sign you out of all your devices (including any Plex Media Server you own) for your security, and you will then need to sign back in with your new password. We understand that this means a little more work for you, but it will provide additional security to your account.\n\nAdditional Security Measures \nYou Can Take We remind you that no one at Plex will ever reach out to you over email to ask for a password or credit card number for payments. For further account protection, we also recommend enabling two-factor authentication on your Plex account if you haven\u2019t already done so.\n\nLastly, we sincerely apologize for any inconvenience this situation may cause you. We take pride in our security systems, which helped us quickly detect this incident, and we want to assure you that we are working swiftly to prevent potential future incidents from occurring.\n\nFor step-by-step instructions on how to reset your password, visit: https://support.plex.tv/articles/account-requires-password-reset\n\nThank you,\n\nThe Plex Team\n</code></pre>\n</blockquote>",
+            "date_published": "2025-09-08T21:30:19+00:00",
+            "authors": [
+                {
+                    "name": "GroovyMelodicBliss",
+                    "url": "https://www.reddit.com/user/GroovyMelodicBliss"
+                }
+            ]
+        },
+        {
             "id": "1n87xho",
             "url": "/r/selfhosted/comments/1n87xho/why_i_ditched_spotify_and_self_hosted_my_own/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1n87xho/why_i_ditched_spotify_and_self_hosted_my_own/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ka-ch",
                     "url": "https://www.reddit.com/user/ka-ch"
-                }
-            ]
-        },
-        {
-            "id": "1gqpo70",
-            "url": "/r/selfhosted/comments/1gqpo70/tteck_has_passed_away/",
-            "external_url": "https://github.com/community-scripts/ProxmoxVE/discussions/237",
-            "title": "TTeck has passed away",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1gqpo70/tteck_has_passed_away/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1gqpo70/tteck_has_passed_away/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-11-13T22:36:29+00:00",
-            "authors": [
-                {
-                    "name": "-eschguy-",
-                    "url": "https://www.reddit.com/user/-eschguy-"
                 }
             ]
         }
