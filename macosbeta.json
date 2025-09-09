@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1ncr4xu",
+            "url": "/r/MacOSBeta/comments/1ncr4xu/apple_seeds_macos_tahoe_release_candidate/",
+            "external_url": "https://www.macrumors.com/2025/09/09/apple-seeds-macos-tahoe-rc/",
+            "title": "Apple Seeds macOS Tahoe Release Candidate",
+            "content_html": "",
+            "date_published": "2025-09-09T18:38:39+00:00",
+            "authors": [
+                {
+                    "name": "No_Confusion7932",
+                    "url": "https://www.reddit.com/user/No_Confusion7932"
+                }
+            ]
+        },
+        {
             "id": "1ncdzix",
             "url": "/r/MacOSBeta/comments/1ncdzix/who_thought_this_would_be_a_good_idea/",
             "external_url": "https://i.redd.it/aiclfttev3of1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Dazzling_Comfort5734",
                     "url": "https://www.reddit.com/user/Dazzling_Comfort5734"
-                }
-            ]
-        },
-        {
-            "id": "1lun642",
-            "url": "/r/MacOSBeta/comments/1lun642/the_unsightly_drop_shadow_effects_on_the_title/",
-            "external_url": "https://i.redd.it/afhf38mf7nbf1.png",
-            "title": "The unsightly drop shadow effects on the title bar buttons appear to have finally been removed.",
-            "content_html": "<p>I am not a developer, but I saw this in a YouTube video about Beta 3. Could someone who has actually installed the beta confirm whether this is true?</p><div><br></div><img src=\"https://i.redd.it/afhf38mf7nbf1.png\" />",
-            "date_published": "2025-07-08T12:23:33+00:00",
-            "authors": [
-                {
-                    "name": "JTG005",
-                    "url": "https://www.reddit.com/user/JTG005"
                 }
             ]
         }
