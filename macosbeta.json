@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1ne61k5",
+            "url": "/r/MacOSBeta/comments/1ne61k5/discord_and_sky_go_are_categorised_under/",
+            "external_url": "https://i.redd.it/o086ovofriof1.png",
+            "title": "Discord and Sky Go are categorised under Developer Tools",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/o086ovofriof1.png\" />",
+            "date_published": "2025-09-11T11:16:02+00:00",
+            "authors": [
+                {
+                    "name": "digidude23",
+                    "url": "https://www.reddit.com/user/digidude23"
+                }
+            ]
+        },
+        {
             "id": "1ncx1mi",
             "url": "/r/MacOSBeta/comments/1ncx1mi/apple_announces_macos_tahoe_to_be_released_on/",
             "external_url": "https://www.apple.com/os/macos/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "JTG005",
                     "url": "https://www.reddit.com/user/JTG005"
-                }
-            ]
-        },
-        {
-            "id": "1luyscs",
-            "url": "/r/MacOSBeta/comments/1luyscs/noticing_a_much_smoother_experience_with_db3/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1luyscs/noticing_a_much_smoother_experience_with_db3/",
-            "title": "Noticing a Much Smoother Experience With DB3",
-            "content_html": "<p>Just installed DB3, and the system feels way snappier and more responsive. Animations, window management, and overall UI behavior all feel tighter than in DB2. In reality, it's what actually matters more in the long run than any visual changes.</p>\n<p>Like a lot of people, I\u2019m still disappointed by how much Liquid Glass got nerfed on iOS in DB3, but thankfully, macOS doesn\u2019t seem to have followed the same path (at least not yet). While I\u2019ve noticed a couple spots where it\u2019s been toned down, I\u2019ve also been surprised to see new areas where the effect looks better than before. Hoping it stays that way.</p>\n<p>Since I can't remember, were the first two DB'2 for macOS 18 also as sluggish the first two for macOS 26 were? Or has that been more unique to macOS 26?</p>",
-            "date_published": "2025-07-08T20:04:54+00:00",
-            "authors": [
-                {
-                    "name": "gggggmi99",
-                    "url": "https://www.reddit.com/user/gggggmi99"
                 }
             ]
         }
