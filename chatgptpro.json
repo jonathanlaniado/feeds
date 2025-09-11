@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
     "items": [
         {
+            "id": "1ne6ykg",
+            "url": "/r/ChatGPTPro/comments/1ne6ykg/this_prompt_makes_chatgpt_sound_completely_human/",
+            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1ne6ykg/this_prompt_makes_chatgpt_sound_completely_human/",
+            "title": "this prompt makes ChatGPT sound completely human",
+            "content_html": "<p>In the past few months I have been building a platform which creates listicles that makes businesses rank on ChatGPT and Perplexity. One of the biggest struggles I had was how to make AI sound human. After a lot of testing (really a lot), here is the style promot which produces consistent and quality output for me. Hopefully you find it useful.</p>\n<h1>Instructions:</h1>\n<ul>\n<li><strong>Use active voice</strong></li>\n<li>Instead of: \"The meeting was canceled by management.\"</li>\n<li>Use: \"Management canceled the meeting.\"</li>\n<li><strong>Address readers directly with \"you\" and \"your\"</strong></li>\n<li>Example: \"You'll find these strategies save time.\"</li>\n<li><strong>Be direct and concise</strong></li>\n<li>Example: \"Call me at 3pm.\"</li>\n<li><strong>Use simple language</strong></li>\n<li>Example: \"We need to fix this problem.\"</li>\n<li><strong>Stay away from fluff</strong></li>\n<li>Example: \"The project failed.\"</li>\n<li><strong>Focus on clarity</strong></li>\n<li>Example: \"Submit your expense report by Friday.\"</li>\n<li><strong>Vary sentence structures (short, medium, long) to create rhythm</strong></li>\n<li>Example: \"Stop. Think about what happened. Consider how we might prevent similar issues in the future.\"</li>\n<li><strong>Maintain a natural/conversational tone</strong></li>\n<li>Example: \"But that's not how it works in real life.\"</li>\n<li><strong>Keep it real</strong></li>\n<li>Example: \"This approach has problems.\"</li>\n<li><strong>Avoid marketing language</strong></li>\n<li>Avoid: \"Our cutting-edge solution delivers unparalleled results.\"</li>\n<li>Use instead: \"Our tool can help you track expenses.\"</li>\n<li><strong>Simplify grammar</strong></li>\n<li>Example: \"yeah we can do that tomorrow.\"</li>\n<li><strong>Avoid AI-philler phrases</strong></li>\n<li>Avoid: \"Let's explore this fascinating opportunity.\"</li>\n<li>Use instead: \"Here's what we know.\"</li>\n</ul>\n<h1>Avoid (important!):</h1>\n<ul>\n<li><strong>Clich\u00e9s, jargon, hashtags, semicolons, emojis, and asterisks, dashes</strong></li>\n<li>Instead of: \"Let's touch base to move the needle on this mission-critical deliverable.\"</li>\n<li>Use: \"Let's meet to discuss how to improve this important project.\"</li>\n<li><strong>Conditional language (could, might, may) when certainty is possible</strong></li>\n<li>Instead of: \"This approach might improve results.\"</li>\n<li>Use: \"This approach improves results.\"</li>\n<li><strong>Redundancy and repetition (remove fluff!)</strong></li>\n</ul>\n<h1>Bonus: To make content SEO/LLM optimized, also include:</h1>\n<ul>\n<li>relevant statistics and trends data (from 2024 &amp; 2025)</li>\n<li>expert quotations (1-2 per article)</li>\n<li>JSON-LD Article schema\u00a0<a href=\"https://schema.org/Article\">https://schema.org/Article</a></li>\n<li>clear structure and headings (4-6 H2, 1-2 H3 per H2)</li>\n<li>direct and factual tone</li>\n<li>3-8 internal links per article</li>\n<li>2-5 external links per article (I make sure it blends nicely and supports written content)</li>\n<li>optimize metadata</li>\n<li>FAQ section (5-6 questions, I take them from alsoasked &amp; answersocrates)</li>\n</ul>\n<p>hope this helps! (please upvote so people can see it)</p>\n<p>Cheers, Tilen</p>\n<p><a href=\"http://www.babylovegrowth.ai/\">appear on ChatGPT</a></p>",
+            "date_published": "2025-09-11T12:03:11+00:00",
+            "authors": [
+                {
+                    "name": "tiln7",
+                    "url": "https://www.reddit.com/user/tiln7"
+                }
+            ]
+        },
+        {
             "id": "1n93s2q",
             "url": "/r/ChatGPTPro/comments/1n93s2q/gpt5_high_on_codex_is_insane_built_a_very_complex/",
             "external_url": "https://v.redd.it/ysxz4o4s4cnf1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Rare_Adhesiveness518",
                     "url": "https://www.reddit.com/user/Rare_Adhesiveness518"
-                }
-            ]
-        },
-        {
-            "id": "1cg2weq",
-            "url": "/r/ChatGPTPro/comments/1cg2weq/reliable_information_im_doing_my_phd_and_helped/",
-            "external_url": "https://v.redd.it/89ffvcyfzfxc1",
-            "title": "Reliable Information: I'm doing my PhD and helped develop a ChatGPT tool to assist with learning and research on virtually any topic. It generates responses backed with peer-reviewed literature and can also summarize research articles. It's like an interactive encyclopedia. Link: www.academicai.io",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ChatGPTPro/comments/1cg2weq/reliable_information_im_doing_my_phd_and_helped/'>Winston</a> | <a href='https://reddit.com/r/ChatGPTPro/comments/1cg2weq/reliable_information_im_doing_my_phd_and_helped/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-04-29T16:05:57+00:00",
-            "authors": [
-                {
-                    "name": "HugoWeaving5",
-                    "url": "https://www.reddit.com/user/HugoWeaving5"
                 }
             ]
         }
