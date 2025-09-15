@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1nhejp2",
+            "url": "/r/macapps/comments/1nhejp2/is_it_just_me_or_are_these_prices_ridiculous/",
+            "external_url": "https://i.redd.it/2z1g746lv9pf1.png",
+            "title": "Is it just me or are these prices ridiculous? Cheapest yearly plan is now $430",
+            "content_html": "<p>I didn't even receive an email about this ludicrous price increase. I don't think Setapp is worth it for me anymore. For the apps I use, half of them have decent free alternatives, and the other half I'll purchase this Black Friday.</p><div><br></div><img src=\"https://i.redd.it/2z1g746lv9pf1.png\" />",
+            "date_published": "2025-09-15T06:35:43+00:00",
+            "authors": [
+                {
+                    "name": "frizla",
+                    "url": "https://www.reddit.com/user/frizla"
+                }
+            ]
+        },
+        {
             "id": "1ng5isn",
             "url": "/r/macapps/comments/1ng5isn/wallper_just_passed_10k_active_users/",
             "external_url": "https://v.redd.it/m1d8kdb9azof1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ineedlesssleep",
                     "url": "https://www.reddit.com/user/ineedlesssleep"
-                }
-            ]
-        },
-        {
-            "id": "1fl7ctb",
-            "url": "/r/macapps/comments/1fl7ctb/iina_free_and_opensource_audiovideo_player/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1fl7ctb/iina_free_and_opensource_audiovideo_player/",
-            "title": "IINA - Free and Open-Source Audio/Video Player ",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1fl7ctb/iina_free_and_opensource_audiovideo_player/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1fl7ctb/iina_free_and_opensource_audiovideo_player/'>Reddit</a></caption><div><br></div><p>https://preview.redd.it/ip0c60lsfxpd1.jpg?width=900&amp;format=pjpg&amp;auto=webp&amp;s=bd4f2d2501e8344a7e8bb1266f46121a45b1f983</p>\n<p>I have been installing VLC on computers at work for over 20 years, it's been a standard part of the image in K12 and higher ed schools for such a long time because it just works. You can throw just about any type of video file at it and VLC will play it. Whenever someone tries to use something else and runs into a problem, I generally won't help them unless they try to use VLC first. So, you can imagine that I was rather dubious when I first encountered <a href=\"https://iina.io/\">IINA</a>, a free and open-source video and audio player. I do have to admit that it is way better looking. VLC is still rocking that Windows XP vibe and IINA has a sleek, post-Yosemite native macOS design aesthetic. It is lovely to look at. When I looked into it, I found that it is a front end for two rock solid CLI video platforms ff-mpeg and mpv. It can play just about anything VLC can play.</p>\n<h1>Other IINA Features</h1>\n<ul>\n<li>IINA is easy to customize. You can control playback speed, video rotation, aspect ratio adjustment, deinterlacing, and more.</li>\n<li>IINA plays online videos easily through URL support</li>\n<li>It has very strong sub-title support with built in search, language choice (be sure to set a default language in settings), size and adjustable timing</li>\n<li>Although it doesn't do editing, it can serve as a QuickTime replacement for playback</li>\n<li>Gesture control using a trackpad or Magic Mouse for most program features</li>\n<li>Supports picture in picture mode for multi-tasking</li>\n</ul>\n<p>You can get IINA on <a href=\"https://iina.io/\">the project's website</a> or on <a href=\"https://github.com/iina/iina\">GitHub</a>.</p>",
-            "date_published": "2024-09-20T08:43:52+00:00",
-            "authors": [
-                {
-                    "name": "amerpie",
-                    "url": "https://www.reddit.com/user/amerpie"
                 }
             ]
         }
