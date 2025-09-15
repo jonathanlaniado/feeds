@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1nhq9cz",
+            "url": "/r/homeassistant/comments/1nhq9cz/i_uh_dont_really_know_what_this_means/",
+            "external_url": "https://i.redd.it/azsi29mlscpf1.png",
+            "title": "I, uh, don't really know what this means",
+            "content_html": "<p>It doesnt seem to cause any issues or anything, just thought I'd share this funny bug I ran into. My server travels time, how about yours?</p><div><br></div><img src=\"https://i.redd.it/azsi29mlscpf1.png\" />",
+            "date_published": "2025-09-15T16:15:23+00:00",
+            "authors": [
+                {
+                    "name": "elbowe21",
+                    "url": "https://www.reddit.com/user/elbowe21"
+                }
+            ]
+        },
+        {
             "id": "1nheqq7",
             "url": "/r/homeassistant/comments/1nheqq7/manufacturers_are_now_mandated_to_give_free/",
             "external_url": "https://i.redd.it/428e1zuez9pf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "frenck_nl",
                     "url": "https://www.reddit.com/user/frenck_nl"
-                }
-            ]
-        },
-        {
-            "id": "18z3goi",
-            "url": "/r/homeassistant/comments/18z3goi/whats_your_worst_automation_you_know_the_one_that/",
-            "external_url": "https://i.redd.it/iqsp1yc0ilac1.jpeg",
-            "title": "What's your worst automation? You know - the one that you'd be afraid to admit to anyone else?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/18z3goi/whats_your_worst_automation_you_know_the_one_that/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/18z3goi/whats_your_worst_automation_you_know_the_one_that/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/iqsp1yc0ilac1.jpeg\" />",
-            "date_published": "2024-01-05T10:04:43+00:00",
-            "authors": [
-                {
-                    "name": "daern2",
-                    "url": "https://www.reddit.com/user/daern2"
                 }
             ]
         }
