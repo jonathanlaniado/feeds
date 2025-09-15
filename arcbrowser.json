@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1nhne0s",
+            "url": "/r/ArcBrowser/comments/1nhne0s/atlassian_please_i_cant_quit_arc/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1nhne0s/atlassian_please_i_cant_quit_arc/",
+            "title": "Atlassian, PLEASE -- I can't quit Arc",
+            "content_html": "<p>That's it. That's the message. Please don't mess this up. I've tried going back to Chrome twice now, and I just keep coming back to Arc, even w/ the bugs. I no longer use it for work (I'm a developer, and the browser doesn't render some things properly) but I still use it for personal browsing because I just can't get rid of it.</p>\n<p>PLEASE MAKE ARC GREAT AGAIN</p>",
+            "date_published": "2025-09-15T14:28:41+00:00",
+            "authors": [
+                {
+                    "name": "TrueSonMIZ",
+                    "url": "https://www.reddit.com/user/TrueSonMIZ"
+                }
+            ]
+        },
+        {
             "id": "1new4j4",
             "url": "/r/ArcBrowser/comments/1new4j4/arc_is_not_dead/",
             "external_url": "https://i.redd.it/x7nkpnfkjoof1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "RainSwiss",
                     "url": "https://www.reddit.com/user/RainSwiss"
-                }
-            ]
-        },
-        {
-            "id": "1fw02zj",
-            "url": "/r/ArcBrowser/comments/1fw02zj/arc_search_for_android_is_now_in_open_beta/",
-            "external_url": "https://play.google.com/store/apps/details?id=company.thebrowser.arc",
-            "title": "Arc Search for Android is now in Open Beta! Download it here!",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1fw02zj/arc_search_for_android_is_now_in_open_beta/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1fw02zj/arc_search_for_android_is_now_in_open_beta/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-10-04T14:10:22+00:00",
-            "authors": [
-                {
-                    "name": "JaceThings",
-                    "url": "https://www.reddit.com/user/JaceThings"
                 }
             ]
         }
