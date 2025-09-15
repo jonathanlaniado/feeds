@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1nheqq7",
+            "url": "/r/homeassistant/comments/1nheqq7/manufacturers_are_now_mandated_to_give_free/",
+            "external_url": "https://i.redd.it/428e1zuez9pf1.jpeg",
+            "title": "Manufacturers are now mandated to give free access to data in EU",
+            "content_html": "<p>Today I learned that European Union's data act came into effect last Friday. One of the effects  is that manufacturers are now mandated to give access to all data collected from machines in EU. According to a news that I read they must give access to real time data feed. Companies are facing up to 4% yearly turnover in penalties if they fail to comply.\nAlso it was said that after 12th September 2026 it is not allowed to sell equipment that does not have compatibility with the new data act.\nI believe this is huge thing for our cause. Please read more, I just made this quick post with few points. I didn't find anything about this here.</p><div><br></div><img src=\"https://i.redd.it/428e1zuez9pf1.jpeg\" />",
+            "date_published": "2025-09-15T06:48:14+00:00",
+            "authors": [
+                {
+                    "name": "_not_a_FBI",
+                    "url": "https://www.reddit.com/user/_not_a_FBI"
+                }
+            ]
+        },
+        {
             "id": "1ncjs02",
             "url": "/r/homeassistant/comments/1ncjs02/found_a_way_to_hide_my_new_zwave_antenna_zwa2/",
             "external_url": "https://i.redd.it/2ckp9beab5of1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "daern2",
                     "url": "https://www.reddit.com/user/daern2"
-                }
-            ]
-        },
-        {
-            "id": "18qrkuo",
-            "url": "/r/homeassistant/comments/18qrkuo/the_most_helpful_redditor_chiming_in_when_someone/",
-            "external_url": "https://i.redd.it/dpxfjhohei8c1.jpeg",
-            "title": "The most helpful Redditor chiming in when someone says an integration/hardware isn\u2019t working:",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/18qrkuo/the_most_helpful_redditor_chiming_in_when_someone/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/18qrkuo/the_most_helpful_redditor_chiming_in_when_someone/'>Reddit</a></caption><div><br></div><p>Problem solved</p><div><br></div><img src=\"https://i.redd.it/dpxfjhohei8c1.jpeg\" />",
-            "date_published": "2023-12-25T21:30:13+00:00",
-            "authors": [
-                {
-                    "name": "ayyycab",
-                    "url": "https://www.reddit.com/user/ayyycab"
                 }
             ]
         }
