@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1nhxid9",
+            "url": "/r/ArcBrowser/comments/1nhxid9/an_update_on_nook_our_opensource_webkit_effort/",
+            "external_url": "https://v.redd.it/oj117dq83epf1",
+            "title": "An Update on Nook, our open-source webkit effort",
+            "content_html": "<p>Coming along quite nicely!!</p>\n<p>We have <strong>profiles, spaces, PiP, DRM</strong> (out of box with webkit!)<strong>, Little Arc</strong>, <strong>space-specific pinned tabs,</strong> and some <em>limited</em> extension support (working on wiring up more!). I'm personally especially happy with the color blending for the background :) Folders are up next on our agenda haha. This doesn't show most of what we've been working on, but it gives a good idea of where things are at UI-wise!</p>\n<p>Really happy with where things are at!! We'll be releasing an alpha to the discord in the next couple months! We're easily the farthest along of the webkit browsers I've seen but I want to make sure things are in good shape before we bring anyone on board. You're welcome to build yourself and contribute code--we need contributors!!</p>\n<p>You can star our repo and join the discord <a href=\"https://github.com/nook-browser/Nook\">here</a>!</p>",
+            "date_published": "2025-09-15T20:40:59+00:00",
+            "authors": [
+                {
+                    "name": "LoquaciousFool",
+                    "url": "https://www.reddit.com/user/LoquaciousFool"
+                }
+            ]
+        },
+        {
             "id": "1nhne0s",
             "url": "/r/ArcBrowser/comments/1nhne0s/atlassian_please_i_cant_quit_arc/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1nhne0s/atlassian_please_i_cant_quit_arc/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "JaceThings",
                     "url": "https://www.reddit.com/user/JaceThings"
-                }
-            ]
-        },
-        {
-            "id": "1fxb5cn",
-            "url": "/r/ArcBrowser/comments/1fxb5cn/hot_take/",
-            "external_url": "https://i.redd.it/9pte6mtd93td1.jpeg",
-            "title": "Hot take",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1fxb5cn/hot_take/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1fxb5cn/hot_take/'>Reddit</a></caption><div><br></div><p>J</p><div><br></div><img src=\"https://i.redd.it/9pte6mtd93td1.jpeg\" />",
-            "date_published": "2024-10-06T07:30:31+00:00",
-            "authors": [
-                {
-                    "name": "RainSwiss",
-                    "url": "https://www.reddit.com/user/RainSwiss"
                 }
             ]
         }
