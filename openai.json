@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1nhuoxw",
+            "url": "/r/OpenAI/comments/1nhuoxw/sam_altman_just_announced_gpt5_codex_better_at/",
+            "external_url": "https://i.redd.it/zphb8e4ildpf1.png",
+            "title": "Sam Altman Just Announced GPT-5 Codex better at Agentic Coding",
+            "content_html": "<p>OpenAI has officially announced <strong>GPT-5 Codex</strong>, a specialized version of GPT-5 designed for <strong>agentic coding</strong>.</p>\n<h1>\ud83d\udd11 Key Highlights</h1>\n<ul>\n<li>Optimized for real-world engineering tasks: building projects end-to-end, adding tests, debugging, refactoring, and code reviews.</li>\n<li>Capable of dynamically adjusting its \u201cthinking time\u201d based on task complexity \u2014 from quick outputs to running independently for <strong>hours</strong> on long coding tasks.</li>\n<li>Tested on complex workflows like multi-hour refactors and large codebase integration, showing strong autonomous capabilities.</li>\n<li>Available as the default engine for cloud coding tasks, reviews, and locally through the <strong>Codex CLI / IDE extension</strong>.</li>\n</ul>\n<h1>\ud83d\udccc Official Blog</h1>\n<p>\ud83d\udd17 <a href=\"https://openai.com/index/introducing-upgrades-to-codex/?utm_source=chatgpt.com\">Introducing Upgrades to Codex \u2014 OpenAI</a></p><div><br></div><img src=\"https://i.redd.it/zphb8e4ildpf1.png\" />",
+            "date_published": "2025-09-15T18:57:48+00:00",
+            "authors": [
+                {
+                    "name": "AskGpts",
+                    "url": "https://www.reddit.com/user/AskGpts"
+                }
+            ]
+        },
+        {
             "id": "1nhu7c2",
             "url": "/r/OpenAI/comments/1nhu7c2/lets_goooo/",
             "external_url": "https://i.redd.it/d18o77qcidpf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Healthy-Guarantee807",
                     "url": "https://www.reddit.com/user/Healthy-Guarantee807"
-                }
-            ]
-        },
-        {
-            "id": "1j0xgo4",
-            "url": "/r/OpenAI/comments/1j0xgo4/what_is_this_lol/",
-            "external_url": "https://www.reddit.com/gallery/1j0xgo4",
-            "title": "What is this, LOL...",
-            "content_html": "",
-            "date_published": "2025-03-01T11:28:20+00:00",
-            "authors": [
-                {
-                    "name": "ClickNo3778",
-                    "url": "https://www.reddit.com/user/ClickNo3778"
                 }
             ]
         }
