@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1nir6cq",
+            "url": "/r/MacOSBeta/comments/1nir6cq/how_it_feels_seeing_all_the_tahoe_sucks_posts/",
+            "external_url": "https://i.redd.it/eo8nx60bvkpf1.gif",
+            "title": "How it feels seeing all the \"Tahoe sucks\" posts after Apple ignored our beta feedback",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/eo8nx60bvkpf1.gif\" />",
+            "date_published": "2025-09-16T19:27:21+00:00",
+            "authors": [
+                {
+                    "name": "GhostalMedia",
+                    "url": "https://www.reddit.com/user/GhostalMedia"
+                }
+            ]
+        },
+        {
             "id": "1nhszk0",
             "url": "/r/MacOSBeta/comments/1nhszk0/psa_turn_off_beta_updates_to_get_the_release_build/",
             "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1nhszk0/psa_turn_off_beta_updates_to_get_the_release_build/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Arthur_Morganreal",
                     "url": "https://www.reddit.com/user/Arthur_Morganreal"
-                }
-            ]
-        },
-        {
-            "id": "1lvjmfy",
-            "url": "/r/MacOSBeta/comments/1lvjmfy/new_smaller_sliders_on_db3/",
-            "external_url": "https://www.reddit.com/gallery/1lvjmfy",
-            "title": "New, smaller sliders on DB3",
-            "content_html": "<p>They made the sliders quite a bit smaller, not sure how I feel about it yet (old ones were definitely quite big though).</p>\n<p>The volume and brightness popups also have slightly thinner sliders than the normal draggable ones.</p>",
-            "date_published": "2025-07-09T14:03:59+00:00",
-            "authors": [
-                {
-                    "name": "TheEarthSpins",
-                    "url": "https://www.reddit.com/user/TheEarthSpins"
                 }
             ]
         }
