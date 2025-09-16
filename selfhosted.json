@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1nifc0r",
+            "url": "/r/selfhosted/comments/1nifc0r/linux_phones_are_more_important_now_than_ever/",
+            "external_url": "https://lemmy.ml/post/35675063",
+            "title": "Linux phones are more important now than ever",
+            "content_html": "<p>I think this is very relevant here.</p>",
+            "date_published": "2025-09-16T11:54:16+00:00",
+            "authors": [
+                {
+                    "name": "This_Head_7578",
+                    "url": "https://www.reddit.com/user/This_Head_7578"
+                }
+            ]
+        },
+        {
             "id": "1nc0hto",
             "url": "/r/selfhosted/comments/1nc0hto/plex_breached_20250909_action_required_notice_of/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1nc0hto/plex_breached_20250909_action_required_notice_of/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "edmonddantesofficial",
                     "url": "https://www.reddit.com/user/edmonddantesofficial"
-                }
-            ]
-        },
-        {
-            "id": "1h10xd2",
-            "url": "/r/selfhosted/comments/1h10xd2/my_simple_homepage/",
-            "external_url": "https://www.reddit.com/gallery/1h10xd2",
-            "title": "My simple Homepage",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1h10xd2/my_simple_homepage/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1h10xd2/my_simple_homepage/'>Reddit</a></caption><div><br></div><p>Recently tried Homepage and it kept me busy for a while. Now it\u2019s time to move on and get back to using my services.</p>",
-            "date_published": "2024-11-27T10:00:10+00:00",
-            "authors": [
-                {
-                    "name": "ka-ch",
-                    "url": "https://www.reddit.com/user/ka-ch"
                 }
             ]
         }
