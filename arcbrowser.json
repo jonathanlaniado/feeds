@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1nid33c",
+            "url": "/r/ArcBrowser/comments/1nid33c/the_icon_that_blinds_my_eyes_on_macos_tahoe/",
+            "external_url": "https://i.redd.it/yf8ht943thpf1.png",
+            "title": "The icon that blinds my eyes on macOS Tahoe",
+            "content_html": "<p>Changing the OS icon theme to dark looks great, but that bright Arc icon keeps staring at me. I can't seem to ignore it.</p>\n<p>Could TBC do something about this?</p><div><br></div><img src=\"https://i.redd.it/yf8ht943thpf1.png\" />",
+            "date_published": "2025-09-16T09:49:39+00:00",
+            "authors": [
+                {
+                    "name": "giladgiladd",
+                    "url": "https://www.reddit.com/user/giladgiladd"
+                }
+            ]
+        },
+        {
             "id": "1nhxid9",
             "url": "/r/ArcBrowser/comments/1nhxid9/an_update_on_nook_our_opensource_webkit_effort/",
             "external_url": "https://v.redd.it/oj117dq83epf1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MegaMinerDL",
                     "url": "https://www.reddit.com/user/MegaMinerDL"
-                }
-            ]
-        },
-        {
-            "id": "1fybgp0",
-            "url": "/r/ArcBrowser/comments/1fybgp0/arc_20_news_soon/",
-            "external_url": "https://i.redd.it/pwe2rwc0zctd1.png",
-            "title": "Arc 2.0 news Soon\u2122\ufe0f",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1fybgp0/arc_20_news_soon/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1fybgp0/arc_20_news_soon/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/pwe2rwc0zctd1.png\" />",
-            "date_published": "2024-10-07T16:10:40+00:00",
-            "authors": [
-                {
-                    "name": "JaceThings",
-                    "url": "https://www.reddit.com/user/JaceThings"
                 }
             ]
         }
