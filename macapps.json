@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1nl8g0m",
+            "url": "/r/macapps/comments/1nl8g0m/apphub_the_most_detailed_launchpad_replica_for/",
+            "external_url": "https://www.reddit.com/gallery/1nl8g0m",
+            "title": "AppHub: the most detailed Launchpad replica for macOS 26",
+            "content_html": "<p>After 3 months of development, I'm proud to finally unveil AppHub \u2013 the most sophisticated alternative to Apple Launchpad for macOS right now.</p>\n<p>When I installed macOS 26 beta, I realised that there's no way I will use this system with that \"Apps\" thing. There are some third party options already, but I wasn't impressed by any. That's why I created my own version that builds upon the original Launchpad, while also fixing its issues.</p>\n<p>Tried to put it on Mac App Store, but Apple rejected because my app \"looks and feels\" too much like Apple Launchpad. Proud of that \ud83d\ude0a</p>\n<p><strong>Features:</strong></p>\n<p>\u2022\u00a0 see the apps you need most and hide those that you don't need\u00a0<br />\n\u2022\u00a0 click on side areas to close AppHub\u00a0<br />\n\u2022\u00a0 create folders and move your apps on the grid as you wish\u00a0<br />\n\u2022\u00a0 enjoy pleasant animations, different ways to scroll, and quick folders renaming. No visual noise!\u00a0<br />\n\u2022\u00a0 build your custom layout with empty spaces\u00a0<br />\n\u2022\u00a0 use keyboard navigation\u00a0<br />\n\u2022\u00a0 works with Light and Dark mode\u00a0<br />\n\u2022\u00a0 works with app names in any language\u00a0<br />\n\u2022\u00a0 change background style\u00a0<br />\n\u2022\u00a0 right click on app icons or folders for quick access to options\u00a0<br />\n\u2022\u00a0 enable compact mode to move the window around, change its size to make icons bigger or smaller\u00a0<br />\n\u2022\u00a0 delete apps right from AppHub\u00a0<br />\n\u2022\u00a0 change icons size and grid scale to make it perfect for your monitor and macOS scaling preferences</p>\n<p>Many more features are on the way!\u00a0<br />\nYou can download full version or a trial here:</p>\n<p><a href=\"https://bringbacklaunchpad.com/apphub.html\">https://bringbacklaunchpad.com/apphub.html</a></p>\n<p>Lots of features already, therefore I added documentation .pdf to the Help section of the menu bar.\u00a0</p>\n<p>Would love to hear your feedback!</p>",
+            "date_published": "2025-09-19T16:34:56+00:00",
+            "authors": [
+                {
+                    "name": "BohdanKoles",
+                    "url": "https://www.reddit.com/user/BohdanKoles"
+                }
+            ]
+        },
+        {
             "id": "1nko0f9",
             "url": "/r/macapps/comments/1nko0f9/an_open_source_launchpad_for_macos_26/",
             "external_url": "https://i.redd.it/qmjtricge0qf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Baervan",
                     "url": "https://www.reddit.com/user/Baervan"
-                }
-            ]
-        },
-        {
-            "id": "1fp2eju",
-            "url": "/r/macapps/comments/1fp2eju/we_did_it_100000_members_strong/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1fp2eju/we_did_it_100000_members_strong/",
-            "title": "\ud83c\udf89 We Did It! 100,000 Members Strong! \ud83c\udf89",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1fp2eju/we_did_it_100000_members_strong/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1fp2eju/we_did_it_100000_members_strong/'>Reddit</a></caption><div><br></div><p><a href=\"https://i.redd.it/ytu3k317yxqd1.gif\">Made with Gifski</a></p>\n<p>Hey everyone,</p>\n<p>We are beyond thrilled to announce that our community has reached a major milestone - <strong>100,000 members</strong>! This is an incredible achievement, and it\u2019s all thanks to each and every one of you who has joined, contributed, and supported this subreddit.</p>\n<p>From the bottom of our hearts, thank you for making this community such a vibrant, engaging, and supportive place. Whether you\u2019ve been here since the beginning or are a new member, your participation has helped us grow into the amazing group we are today.</p>\n<p>To celebrate this milestone, u/sindresorhus is gifting us 40! codes (per app!!) for <a href=\"https://sindresorhus.com/dato\">Dato</a>, <a href=\"https://sindresorhus.com/scratchpad\">Scratchpad</a>, <a href=\"https://sindresorhus.com/online-check\">Online Check</a>, <a href=\"https://sindresorhus.com/one-task\">One Task</a>, <a href=\"https://sindresorhus.com/camera-preview\">Camera Preview</a>, <a href=\"https://sindresorhus.com/black-out\">Black Out</a>, <a href=\"https://sindresorhus.com/lungo\">Lungo</a> and <a href=\"https://sindresorhus.com/battery-indicator\">Battery Indicator</a>. Quite amazing really. We will randomly distribute them to anyone who's interested after in about a week or so. Simply let us know in a comment what app you'd like, or already have.</p>\n<p>Thank you again for being part of this. Thank you u/evolworks, u/0xCUBE &amp; u/Yusuf-Dev for your relentless work. And thank you Sindre for for being awesome. Here\u2019s to the next 100k members and beyond!</p>\n<p>With gratitude,</p>\n<p>Your Mods</p>",
-            "date_published": "2024-09-25T11:46:05+00:00",
-            "authors": [
-                {
-                    "name": "Pandemojo",
-                    "url": "https://www.reddit.com/user/Pandemojo"
                 }
             ]
         }
