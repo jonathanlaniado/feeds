@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1nko0f9",
+            "url": "/r/macapps/comments/1nko0f9/an_open_source_launchpad_for_macos_26/",
+            "external_url": "https://i.redd.it/qmjtricge0qf1.jpeg",
+            "title": "An open source Launchpad for MacOS 26",
+            "content_html": "<p>An open sourced version of Launchpad that I enhanced ,  you can import from old system Launchpad(just one click), and most of things looks same. There are also a lot of functions like adjust / display /hide icon size and title, localize icons</p>\n<p>Still quickly updating, feel free to open a pull request\ud83d\ude03</p>\n<p>Thank you.</p>\n<p>https://github.com/RoversX/LaunchNext</p><div><br></div><img src=\"https://i.redd.it/qmjtricge0qf1.jpeg\" />",
+            "date_published": "2025-09-18T23:38:52+00:00",
+            "authors": [
+                {
+                    "name": "no-shadowban-lmao",
+                    "url": "https://www.reddit.com/user/no-shadowban-lmao"
+                }
+            ]
+        },
+        {
             "id": "1nimpom",
             "url": "/r/macapps/comments/1nimpom/deskrest_appstore_launch_smart_break_and_posture/",
             "external_url": "https://www.reddit.com/gallery/1nimpom",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Pandemojo",
                     "url": "https://www.reddit.com/user/Pandemojo"
-                }
-            ]
-        },
-        {
-            "id": "1focdje",
-            "url": "/r/macapps/comments/1focdje/fresh_mac_apps_for_productivity_in_2024_to_give/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1focdje/fresh_mac_apps_for_productivity_in_2024_to_give/",
-            "title": "Fresh Mac Apps for Productivity in 2024 to Give Your Workflow a Boost",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1focdje/fresh_mac_apps_for_productivity_in_2024_to_give/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1focdje/fresh_mac_apps_for_productivity_in_2024_to_give/'>Reddit</a></caption><div><br></div><p>Hey all! I\u2019ve been hunting for some new productivity apps for my Mac, and after a bit of experimenting, I found some lesser-known gems that really helped me streamline my work. These apps are on the rise and definitely worth checking out:</p>\n<ol>\n<li><strong>Flow by Wispr</strong>: If you\u2019ve got a lot of ideas but not enough time to type them all out, Flow is a great voice-to-text app. It\u2019s not just about dictation\u2014it actually personalizes your written word to match your natural style. I\u2019ve found it super helpful when I\u2019m multitasking or trying to capture ideas on the fly.</li>\n<li><strong>Raycast</strong>: Similar to Alfred but sleeker and faster. It\u2019s a productivity launcher that lets you manage apps, scripts, and even GitHub or Slack right from your keyboard. It\u2019s perfect if you love hotkeys and avoiding the mouse altogether.</li>\n<li><strong>TickTick</strong>: A to-do list app that comes with an integrated Pomodoro timer and habit tracker. It\u2019s been my go-to for managing tasks and staying focused on one thing at a time. Plus, it\u2019s flexible enough for both work and personal use.</li>\n<li><strong>Superhuman</strong>: For anyone who deals with a flood of emails, this one\u2019s a game-changer. It\u2019s an email app that focuses on speed and minimalism, helping you get through your inbox faster than ever. Super helpful for cutting through the clutter!</li>\n<li><strong>Loom</strong>: Loom\u2019s a video messaging tool, but it\u2019s perfect for sending quick updates or feedback without typing long emails. I use it to create short video walk-throughs for my team, and it saves so much time compared to typing everything out.</li>\n</ol>\n<p>Lemme know if you've tried knew stuff that stuck!</p>",
-            "date_published": "2024-09-24T13:22:57+00:00",
-            "authors": [
-                {
-                    "name": "Tick_Tock_Snazzy",
-                    "url": "https://www.reddit.com/user/Tick_Tock_Snazzy"
                 }
             ]
         }
