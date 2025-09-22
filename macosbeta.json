@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1nnt9lf",
+            "url": "/r/MacOSBeta/comments/1nnt9lf/macos_tahoe_261/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1nnt9lf/macos_tahoe_261/",
+            "title": "macOS Tahoe 26.1",
+            "content_html": "<p>A beta version of macOS 26.1 has been released. The release notes don't mention any UI bug fixes. Waiting for 26.2?</p>\n<p><a href=\"https://developer.apple.com/documentation/macos-release-notes/macos-26_1-release-notes\">https://developer.apple.com/documentation/macos-release-notes/macos-26_1-release-notes</a></p>",
+            "date_published": "2025-09-22T17:44:44+00:00",
+            "authors": [
+                {
+                    "name": "syncraft",
+                    "url": "https://www.reddit.com/user/syncraft"
+                }
+            ]
+        },
+        {
             "id": "1nir6cq",
             "url": "/r/MacOSBeta/comments/1nir6cq/how_it_feels_seeing_all_the_tahoe_sucks_posts/",
             "external_url": "https://i.redd.it/eo8nx60bvkpf1.gif",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "bokunobokuu",
                     "url": "https://www.reddit.com/user/bokunobokuu"
-                }
-            ]
-        },
-        {
-            "id": "1lvowt5",
-            "url": "/r/MacOSBeta/comments/1lvowt5/who_loves_the_new_walls_paper_on_the_mac_os_tahoe/",
-            "external_url": "https://i.redd.it/vzj6nn7gwvbf1.jpeg",
-            "title": "Who loves the new walls paper on the Mac OS Tahoe",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/vzj6nn7gwvbf1.jpeg\" />",
-            "date_published": "2025-07-09T17:32:56+00:00",
-            "authors": [
-                {
-                    "name": "Arthur_Morganreal",
-                    "url": "https://www.reddit.com/user/Arthur_Morganreal"
                 }
             ]
         }
