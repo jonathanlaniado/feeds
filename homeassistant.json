@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1nnkwjj",
+            "url": "/r/homeassistant/comments/1nnkwjj/there_is_a_book_about_home_assistant/",
+            "external_url": "https://i.redd.it/dibqmeftkpqf1.jpeg",
+            "title": "There is a book about home assistant?",
+            "content_html": "<p>I just found this book in Germany, Cool lol!</p><div><br></div><img src=\"https://i.redd.it/dibqmeftkpqf1.jpeg\" />",
+            "date_published": "2025-09-22T12:19:07+00:00",
+            "authors": [
+                {
+                    "name": "ii3boodi_milke_man",
+                    "url": "https://www.reddit.com/user/ii3boodi_milke_man"
+                }
+            ]
+        },
+        {
             "id": "1nkaqfc",
             "url": "/r/homeassistant/comments/1nkaqfc/counterstrike_as_a_home_assistant_mqtt_device/",
             "external_url": "https://i.redd.it/pxcedaz3hxpf1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "d377377",
                     "url": "https://www.reddit.com/user/d377377"
-                }
-            ]
-        },
-        {
-            "id": "1f8xzvi",
-            "url": "/r/homeassistant/comments/1f8xzvi/20249_sections_go_big/",
-            "external_url": "https://www.home-assistant.io/blog/2024/09/04/release-20249/",
-            "title": "2024.9: Sections go BIG",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1f8xzvi/20249_sections_go_big/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1f8xzvi/20249_sections_go_big/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-09-04T16:40:18+00:00",
-            "authors": [
-                {
-                    "name": "missyquarry",
-                    "url": "https://www.reddit.com/user/missyquarry"
                 }
             ]
         }
