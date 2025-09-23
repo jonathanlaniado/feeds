@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1no65w8",
+            "url": "/r/MacOSBeta/comments/1no65w8/gentlemen_and_ladies_apple_has_finally_come_to/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1no65w8/gentlemen_and_ladies_apple_has_finally_come_to/",
+            "title": "Gentlemen and Ladies, Apple has finally come to their senses",
+            "content_html": "<p>and they have finally fixed the WindowServer and MTLComplilerService issue for glob knows why it keeps taking 60-80% of CPU process. My laptop is now cool to the touch. macOS26 is pretty stable to me with the only exception of those 2 issues for me. I'm now monitoring how good the battery is here compared to vanilla OS26 because I got almost 24-25hrs of sweet battery life over there.</p>\n<p>Edit: This is macOS26.1</p>\n<p>https://preview.redd.it/yc56u1syvtqf1.png?width=1612&amp;format=png&amp;auto=webp&amp;s=898ca4a2abc25fc7e0bf20aa3b3fd3d84b6c81db</p>",
+            "date_published": "2025-09-23T02:49:53+00:00",
+            "authors": [
+                {
+                    "name": "iamdpanda",
+                    "url": "https://www.reddit.com/user/iamdpanda"
+                }
+            ]
+        },
+        {
             "id": "1no2uuu",
             "url": "/r/MacOSBeta/comments/1no2uuu/macos_261_is_a_massive_improvement_in_battery/",
             "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1no2uuu/macos_261_is_a_massive_improvement_in_battery/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Due-Beginning8863",
                     "url": "https://www.reddit.com/user/Due-Beginning8863"
-                }
-            ]
-        },
-        {
-            "id": "1lw7h14",
-            "url": "/r/MacOSBeta/comments/1lw7h14/macos_tahoe_beta_3_window_screenshots_png_no/",
-            "external_url": "https://i.redd.it/ja91jbc5c0cf1.jpeg",
-            "title": "[macOS Tahoe Beta 3] Window screenshots (PNG) no longer have transparent shadows/alpha layer.",
-            "content_html": "<p>Hey everyone,</p>\n<p>Since updating to macOS Tahoe Beta 3, I've run into an issue with the screen capture feature and was wondering if anyone else is experiencing the same thing.</p>\n<p>As of Beta 3, it seems there's no more alpha layer on window screenshots. When I use the\u00a0<strong>\"Capture Selected Window\" option</strong>\u00a0from the\u00a0<code>Cmd + Shift + 5</code>\u00a0menu, the resulting PNG file has a solid white border around it instead of a transparent alpha layer that includes the window shadow.</p>\n<p>This is a problem for me as I frequently use these screenshots in my presentations for a cleaner, more aesthetic look. Now, I just get a white box, like in the example slide I've attached.</p>\n<p>I've already filed a bug report, but I wanted to see if this is a widespread issue on the latest beta or if anyone has found a potential workaround.</p>\n<p>Thanks!</p><div><br></div><img src=\"https://i.redd.it/ja91jbc5c0cf1.jpeg\" />",
-            "date_published": "2025-07-10T08:28:15+00:00",
-            "authors": [
-                {
-                    "name": "Unfair-Lunch6301",
-                    "url": "https://www.reddit.com/user/Unfair-Lunch6301"
                 }
             ]
         }
