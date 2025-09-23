@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1nnwbwb",
+            "url": "/r/iOSBeta/comments/1nnwbwb/ios_261_db1_widgets_now_have_a_gradient_by_default/",
+            "external_url": "https://v.redd.it/cim4eglbrrqf1",
+            "title": "[iOS 26.1 DB1] Widgets now have a gradient by default",
+            "content_html": "<p>All widgets now have a shading of light to dark gradient by default (even in Light Mode)</p>",
+            "date_published": "2025-09-22T19:39:07+00:00",
+            "authors": [
+                {
+                    "name": "mvbalan",
+                    "url": "https://www.reddit.com/user/mvbalan"
+                }
+            ]
+        },
+        {
             "id": "1no04e8",
             "url": "/r/iOSBeta/comments/1no04e8/ios_261_db1_apple_music_now_has_swipe_to_skip/",
             "external_url": "https://v.redd.it/pwpn6tvuhsqf1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "fluidiot_",
                     "url": "https://www.reddit.com/user/fluidiot_"
-                }
-            ]
-        },
-        {
-            "id": "1fydlr8",
-            "url": "/r/iOSBeta/comments/1fydlr8/ios_181_db6_new_splash_screen_for_mail/",
-            "external_url": "https://i.redd.it/z9oq745vedtd1.jpeg",
-            "title": "[iOS 18.1 DB6] New splash screen for Mail",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1fydlr8/ios_181_db6_new_splash_screen_for_mail/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1fydlr8/ios_181_db6_new_splash_screen_for_mail/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/z9oq745vedtd1.jpeg\" />",
-            "date_published": "2024-10-07T17:39:03+00:00",
-            "authors": [
-                {
-                    "name": "freaktheclown",
-                    "url": "https://www.reddit.com/user/freaktheclown"
                 }
             ]
         }
