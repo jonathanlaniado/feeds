@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1no2uuu",
+            "url": "/r/MacOSBeta/comments/1no2uuu/macos_261_is_a_massive_improvement_in_battery/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1no2uuu/macos_261_is_a_massive_improvement_in_battery/",
+            "title": "Macos 26.1 is a MASSIVE improvement in battery life and potentially performance",
+            "content_html": "<p>First off, there's a MASSIVE, and I mean MASSIVE improvement in battery life, I cannot believe how much better it is. My macbook air used to drain about 10% every 25 minutes or so of normal use in 26.0, now I've been using 26.1, and it has only drained 30% in 3.5 hours.</p>\n<p>Also, spotlight and control center, which consistently used 500-600 MB before, are now using 200/100MB respectively. Overall RAM usage seems to be quite a bit down, and the OS feels smoother, but I can't quite tell if it's actually better or it's just placebo.</p>\n<p>I also noticed some UI improvements:</p>\n<p>1: on external displays or non-notch macbooks, the menubar (when in auto-hide) FINALLY renders properly, it now has, EVERY TIME, a solid background. It's insane to me this was ever an issue in the first place but hey, something is something</p>\n<ol>\n<li>Animations are improved somewhat. The HORRID LAG when opening the notification center from the trackpad gesture (2 finger swipe from the right edge) is much less horrid (still somewhat there, but not as bad). It used to be 3fps and now it's like, 40. Also, the following animations are improved (but still not great): slide in/out animations when you open the widget pannel (though it still drops frames), closing notifications from a group of notifications (where the blur/scale down is used, instead of the \"disperse glass\" that's used for single notifications or whole notification groups), opening control center tiles (it's less linear and a bit smoother, still really bad though, specially  to iOS). Also, the subtle blur+opacity animation when opening/closing windows is applied every time now (yay!)</li>\n</ol>\n<p>There's also a new animation for control center: it first blurs, and then the toggles progressively \"fade down\" into the scene. It's pretty short and subtle, which is very good on the mac. Coupled with the (now) widely applied opening and closing window animations, make the OS feel substantially smoother at no cost in speed (since the animations are very quick and unintrusive)</p>\n<p>EDIT: Yeah, it's DEFINITELY smoother, The mission control, stage manager and control center animations specially, but overall animations are so much better. There's some other UI improvements too \ud83e\udd73, like inspector bars in Finder now have concentric radius in all four corners, and the '+' button at the left corner of the preview sidebar for pdfs is finally correctly rendered, it doesn't cut out into the border anymore, the pathbar on finder is FINALLY the same material as the status bar and solid toolbars (it was a different material and it was making me insane)</p>",
+            "date_published": "2025-09-23T00:10:31+00:00",
+            "authors": [
+                {
+                    "name": "Financial_Cover6789",
+                    "url": "https://www.reddit.com/user/Financial_Cover6789"
+                }
+            ]
+        },
+        {
             "id": "1nnt9lf",
             "url": "/r/MacOSBeta/comments/1nnt9lf/macos_tahoe_261/",
             "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1nnt9lf/macos_tahoe_261/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Unfair-Lunch6301",
                     "url": "https://www.reddit.com/user/Unfair-Lunch6301"
-                }
-            ]
-        },
-        {
-            "id": "1lvuetv",
-            "url": "/r/MacOSBeta/comments/1lvuetv/it_only_took_3_beta_versions_for_them_to_fix_it/",
-            "external_url": "https://i.redd.it/2at5jv67ywbf1.png",
-            "title": "it only took 3 beta versions for them to fix it ... but im just happy graphite turns the \ud83d\udea5 buttons gray again, thats my only wish really hahah \ud83e\udd23\ud83e\udd23",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/2at5jv67ywbf1.png\" />",
-            "date_published": "2025-07-09T21:08:49+00:00",
-            "authors": [
-                {
-                    "name": "bokunobokuu",
-                    "url": "https://www.reddit.com/user/bokunobokuu"
                 }
             ]
         }
