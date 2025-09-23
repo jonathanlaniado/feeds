@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1nodrsl",
+            "url": "/r/homeassistant/comments/1nodrsl/my_ios_inspired_tablet_dashboard/",
+            "external_url": "https://www.reddit.com/gallery/1nodrsl",
+            "title": "My iOS Inspired Tablet Dashboard",
+            "content_html": "<p>Over the past few months (pretty much since 'finishing' my<a href=\"https://www.reddit.com/r/homeassistant/comments/1eyzvlv/my_ios_inspired_dashboard/\"> iOS inspired dashboard</a>) I\u2019ve been designing and refining a custom Home Assistant dashboard for an iPad Pro that lives on our kitchen counter which acts as our central command for glanceable info and (occasional) smart home control. </p>\n<p>The goal was to create something that felt polished, flexible, and easy to use - something that both looks good and is functional. Most of the interface is built using custom:button-card, with dynamic behaviour driven by input_select helpers and templated YAML. </p>\n<p>The design is very much inspired by iOS and Liquid Glass, while the layout is basically an open-source version of the Amazon Echo Show 15.</p>\n<p><strong>Overview</strong></p>\n<p><strong>Header (Top Row)</strong></p>\n<p>The top of the screen shows key conditional info as chips like \u201cWashing Finished\u201d, \u201cDishwasher has X remaining\u201d, \u201cGarage Door Open\u201d, or how long our one year old has been asleep. These update automatically based on sensor states or automations.</p>\n<p><strong>Footer (Bottom Row)</strong></p>\n<p>The bottom row stays consistent across pages. It provides:</p>\n<ul>\n<li>Quick access to popups (for lights and climate) using custom:bubble-card</li>\n<li>Media now playing in the kitchen/living zone (also has popups to control music / TV)</li>\n<li>Garage door status and control</li>\n<li>A shortcut to launch Assist via voice or text on the tablet</li>\n</ul>\n<p><strong>Swipeable Body (Middle Section)</strong></p>\n<p>The main body of the dashboard is a two-row, four-column layout that swipes between two \u201cpages\u201d. The cards within it dynamically change depending on real-world conditions, using input_select helpers to determine which custom card template to show in each slot.</p>\n<p>For Example:</p>\n<ul>\n<li>If the weather forecast predicts rain, the Weather Radar card will automatically replace the Calendar card.</li>\n<li>If there\u2019s a game on, a live scorecard replaces the Shortcuts card (which is still accessible via the footer).</li>\n<li>If music is playing on the kitchen HomePod, the music tile will move to the first page, swapping with the Shortcuts card.</li>\n</ul>\n<p>Each card is built as a reusable custom:button-card template and saved at the top of my YAML config, making it easy to rearrange or reuse cards elsewhere and minimising the amount of YAML in the actual dashboard itself.</p>\n<p><strong>Hardware / Setup</strong></p>\n<ul>\n<li>The dashboard runs full-screen in the companion app on an iPad Pro (overkill, I know), with Guided Access enabled to lock it in place and prevent exiting the app (which can of course still be done with a password if someone wants to use the iPad as an iPad).</li>\n<li>An invisible push notification (sent from Home Assistant) wakes the screen when motion is detected in the kitchen - making it feel responsive and alive without any interaction.</li>\n</ul>\n<p><strong>What\u2019s Next</strong></p>\n<p>This is still a work in progress and I\u2019m always tweaking and trying to improve it.\u00a0</p>\n<p>Some ideas include:</p>\n<ul>\n<li>A brief news headline card for real-time traffic and news updates (probably using ChatGPT to figure out which news headlines I actually care about / want to see)</li>\n<li>A way for my wife (and eventually my son) to leave quick written notes, like digital Post-Its</li>\n<li>Displaying family photos via <a href=\"https://immich.app\">Immich</a> running on a Raspberry Pi (when I finally get around to setting it up)</li>\n</ul>\n<p>^(PS You'll notice some of the attached screenshots are from earlier in the year, I've been meaning to post this for a while!)</p>",
+            "date_published": "2025-09-23T10:30:34+00:00",
+            "authors": [
+                {
+                    "name": "Pivotonian",
+                    "url": "https://www.reddit.com/user/Pivotonian"
+                }
+            ]
+        },
+        {
             "id": "1nnkwjj",
             "url": "/r/homeassistant/comments/1nnkwjj/there_is_a_book_about_home_assistant/",
             "external_url": "https://i.redd.it/dibqmeftkpqf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "mrmp17",
                     "url": "https://www.reddit.com/user/mrmp17"
-                }
-            ]
-        },
-        {
-            "id": "1gnp3qj",
-            "url": "/r/homeassistant/comments/1gnp3qj/finally_installed_a_wall_panel_in_kitchen/",
-            "external_url": "https://www.reddit.com/gallery/1gnp3qj",
-            "title": "Finally installed a wall panel in kitchen!",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1gnp3qj/finally_installed_a_wall_panel_in_kitchen/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1gnp3qj/finally_installed_a_wall_panel_in_kitchen/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-11-10T01:14:27+00:00",
-            "authors": [
-                {
-                    "name": "d377377",
-                    "url": "https://www.reddit.com/user/d377377"
                 }
             ]
         }
