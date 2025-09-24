@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1npml45",
+            "url": "/r/selfhosted/comments/1npml45/my_plex_server_has_started_an_addiction/",
+            "external_url": "https://www.reddit.com/gallery/1npml45",
+            "title": "My Plex server has started an addiction",
+            "content_html": "<p>It started about a month or two ago when I got a new OLED TV and wanted to make sure I was playing the highest quality content on it. I realized streaming services were absolutely terrible in terms of bitrate &amp; surround sound, so I got back into pirating.</p>\n<p>It started by me using my PC to run Plex, then I realized that was annoying, so I moved to my old laptop, but I quickly ran out of space there.. so I went back to the PC, added a few cheap nvme drives, and that worked fine for about a week.</p>\n<p>Then I ran out of space again, so I started buying some external HDD enclosures. I had 2 26TB HDDs running with StableBit Drivepool so I could have it as one drive. I added a third HDD so I could get parity. I realized those were slow (at least for the quick 100GB transfers of movie files/TV shows I needed) &amp; also a bad idea for safety (unplugging during writes can cause corruption). This also meant adding drives to the pool over time would not gracefully rebalance automatically. So I got a 9460i 16 raid card and began plugging the drives directly into the card (which is connected to the mobo).</p>\n<p>That was fine until one night I was working late and heard popcorn popping. I also noticed that my (fairly small) office was getting warmer than usual. It was the drives. At this point I 6 26TB HDDs that I was trying to store my media on. I couldn't deal with the sound &amp; the heat.</p>\n<p>I returned the drives, did a bunch more research, and realized I needed at least RAID6 if I was planning on having any real level of redundancy. So I purchased 4 16TB enterprise SAS SSDs off of eBay (used, but still 90-99% health left on them!!). These run quiet, cool, and are way smaller. I ran this off of my own PC for a bit but realized I hated that my torrenting VPN would cause issues with my work apps &amp; browsing. I had to decide between work or torrenting, and I do a lot of both so that got annoying quickly.</p>\n<p>What finally pushed me to get a dedicated rig was when my sister &amp; one of my friends both tried to watch something from my library at the same time and both had to transcode. They began stuttering &amp; buffering. I need great uptime because I really want this to be a dedicated reliable library of high quality ad-free movies &amp; shows.</p>\n<p>I built a custom (overkill - I might run something else on it some day) Plex PC running Windows 11 (I know, please don't kill me lol. I just wanted something that worked easily and didn't require a lot more time investment from me right now). I put a 7600X, 32GB, Arc B580, and the raid card + drives into the case and it was awesome.. for a day or two. It took me like a week of debugging to realize that it *had* to be set to PCIE3 speeds &amp; run off of a dedicated connection to the CPU (forgetting the proper name for this). Once I did that the drives stopped randomly going offline and it's been running reliably since (for about a week now). This morning I added 2 more 16TB ssds and with RAID6 I'm now at 83.7TB of drives. 55.8TB of usable capacity after 2 drive parity and 21TB of it used. One thing I could not figure out is how to wire things nicely in the N5 case with the SSDs. I managed to get 3 of them to appear in the front bottom of the case (second pic) but the other 3 are tucked in the back. There just wasn't long enough cabling to make things fit nicely in the bays, and the bays also would allow me to mount SAS, but no way to output anything beside SATA (as far as I can figure out).</p>\n<p>I know I've made a lot of mistakes and I'm probably still messing something up - but the moments where I can sit down on my couch and watch some 80Mbps 5.1/7.1 Blurays from a giant Plex library while seeing that my friends/family are doing the same make it totally worth it.</p>\n<p>I'm now looking for anyone who might be interested in helping test the rig out. I download things in the highest quality I can get and I'm constantly expanding, maybe 2-4TB of content per week. I don't have any dedicated system to request content (but you can ask me), nor can I guarantee uptime (but I'm trying to improve constantly). If you are interested in helping me test the rig out send me a DM with your Plex User/Email and I'll send you an invite. (P.S. I primarily have English audio tracks, sorry!)</p>\n<p>Happy to answer any questions or take any advice! Thanks for reading my word wall.</p>",
+            "date_published": "2025-09-24T20:08:37+00:00",
+            "authors": [
+                {
+                    "name": "IndividualLucky",
+                    "url": "https://www.reddit.com/user/IndividualLucky"
+                }
+            ]
+        },
+        {
             "id": "1nifc0r",
             "url": "/r/selfhosted/comments/1nifc0r/linux_phones_are_more_important_now_than_ever/",
             "external_url": "https://lemmy.ml/post/35675063",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Faris_K",
                     "url": "https://www.reddit.com/user/Faris_K"
-                }
-            ]
-        },
-        {
-            "id": "1h292mx",
-            "url": "/r/selfhosted/comments/1h292mx/this_past_year_i_grew_obsessed_with_selfhosting/",
-            "external_url": "https://www.reddit.com/gallery/1h292mx",
-            "title": "This past year, I grew obsessed with self-hosting. What's missing from my setup?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1h292mx/this_past_year_i_grew_obsessed_with_selfhosting/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1h292mx/this_past_year_i_grew_obsessed_with_selfhosting/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-11-28T23:59:48+00:00",
-            "authors": [
-                {
-                    "name": "edmonddantesofficial",
-                    "url": "https://www.reddit.com/user/edmonddantesofficial"
                 }
             ]
         }
