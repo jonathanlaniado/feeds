@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1nqpz2b",
+            "url": "/r/homeassistant/comments/1nqpz2b/426_inch_epaper_with_magnet_you_can_stick_them_as/",
+            "external_url": "https://www.reddit.com/gallery/1nqpz2b",
+            "title": "4.26 inch ePaper with magnet. You can stick them as you like~ What do you think?",
+            "content_html": "",
+            "date_published": "2025-09-26T02:39:46+00:00",
+            "authors": [
+                {
+                    "name": "Miserable_Bluejay663",
+                    "url": "https://www.reddit.com/user/Miserable_Bluejay663"
+                }
+            ]
+        },
+        {
             "id": "1nodrsl",
             "url": "/r/homeassistant/comments/1nodrsl/my_ios_inspired_tablet_dashboard/",
             "external_url": "https://www.reddit.com/gallery/1nodrsl",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "nyctomanica",
                     "url": "https://www.reddit.com/user/nyctomanica"
-                }
-            ]
-        },
-        {
-            "id": "1go50q8",
-            "url": "/r/homeassistant/comments/1go50q8/i_made_an_industrialgrade_home_assistant/",
-            "external_url": "https://i.redd.it/x3jf43nnt30e1.gif",
-            "title": "I made an industrial-grade Home Assistant controller!",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1go50q8/i_made_an_industrialgrade_home_assistant/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1go50q8/i_made_an_industrialgrade_home_assistant/'>Reddit</a></caption><div><br></div><p>I was always somewhat disappointed with the tactile experience of smart home devices\u2014touchscreens, mushy buttons, you name it. I wanted a controller that feels substantial, that makes you feel like you're doing something serious.</p>\n<p>So I made\u00a0Home Buttons Industrial, a Home Assistant controller that looks and feels like an industrial device, with an aluminum housing, four satisfyingly clicky, backlit buttons, and an emergency-stop mushroom switch to smash when you've had enough of everything.</p>\n<p>It\u2019s open source, powered by USB (or a DC power supply), connects directly to Wi-Fi, and integrates seamlessly with Home Assistant.</p>\n<p>Available on Tindie. In stock and shipping worldwide:\u00a0https://www.tindie.com/products/plab/home-buttons-industrial/ </p><div><br></div><img src=\"https://i.redd.it/x3jf43nnt30e1.gif\" />",
-            "date_published": "2024-11-10T16:53:05+00:00",
-            "authors": [
-                {
-                    "name": "mrmp17",
-                    "url": "https://www.reddit.com/user/mrmp17"
                 }
             ]
         }
