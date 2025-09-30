@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1nu8xon",
+            "url": "/r/homeassistant/comments/1nu8xon/v300_is_live_my_dashboard_just_had_a_makeover/",
+            "external_url": "https://www.reddit.com/gallery/1nu8xon",
+            "title": "\u2728 v3.0.0 is live \u2013 my dashboard just had a makeover! \ud83d\ude80",
+            "content_html": "<p>Hey folks! I\u2019ve been tinkering again and pushed out a fresh update to my Home Assistant dashboard. Here\u2019s what\u2019s new:</p>\n<ul>\n<li>\ud83d\uddc2 <strong>New tab navigation</strong> with the Simple Tabs Card \u2013 faster, smoother, prettier.</li>\n<li>\ud83c\udfa8 <strong>MD3 glow-up</strong> \u2013 more consistent look across the board, with polished light/dark modes.</li>\n<li>\ud83c\udf26 <strong>Weather revamp</strong> \u2013 forecast split into its own interactive pop-up, plus shiny new combo graphs: rainfall \u00d7 temperature and wind speed \u00d7 direction.</li>\n<li>\ud83e\uddf9 <strong>Under-the-hood cleanups</strong> \u2013 more decluttering_templates, simplified layouts, and overall a cleaner, minimal design.</li>\n</ul>\n<p>Feels way more responsive and polished now. Even the wife gave me a small nod of approval (which is basically a standing ovation in WAF terms \ud83d\ude02).</p>\n<p>If you want to check it out or use parts of it, the code\u2019s up on my <a href=\"https://github.com/ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard\">GitHub</a>. I can also help design your dashboard if you\u2019d like a custom setup\u2014just send me a chat. And if you\u2019d like to support my work, there\u2019s a Ko-fi link on the GitHub page \u2615</p>",
+            "date_published": "2025-09-30T09:49:35+00:00",
+            "authors": [
+                {
+                    "name": "ElementZoom",
+                    "url": "https://www.reddit.com/user/ElementZoom"
+                }
+            ]
+        },
+        {
             "id": "1nqpz2b",
             "url": "/r/homeassistant/comments/1nqpz2b/426_inch_epaper_with_magnet_you_can_stick_them_as/",
             "external_url": "https://www.reddit.com/gallery/1nqpz2b",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ByzantiumIT",
                     "url": "https://www.reddit.com/user/ByzantiumIT"
-                }
-            ]
-        },
-        {
-            "id": "1gpsh0j",
-            "url": "/r/homeassistant/comments/1gpsh0j/saving_money_on_my_gas_bills_by_building_a_fully/",
-            "external_url": "https://nycto.io/ha-smart-heating-part-1/",
-            "title": "Saving money on my gas bills, by building a fully custom smart heating system!",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1gpsh0j/saving_money_on_my_gas_bills_by_building_a_fully/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1gpsh0j/saving_money_on_my_gas_bills_by_building_a_fully/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-11-12T19:02:27+00:00",
-            "authors": [
-                {
-                    "name": "nyctomanica",
-                    "url": "https://www.reddit.com/user/nyctomanica"
                 }
             ]
         }
