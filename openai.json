@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1nuaopt",
+            "url": "/r/OpenAI/comments/1nuaopt/imagine_the_existential_horror_of_finding_out/",
+            "external_url": "https://i.redd.it/m7j0pt83easf1.png",
+            "title": "Imagine the existential horror of finding out you're an AI inside Minecraft",
+            "content_html": "<p>\"I built a small language model in Minecraft using no command blocks or datapacks!  </p>\n<p>The model has 5,087,280 parameters, trained in Python on the TinyChat dataset of basic English conversations. It has an embedding dimension of 240, vocabulary of 1920 tokens, and consists of 6 layers. The context window size is 64 tokens, which is enough for (very) short conversations. Most weights were quantized to 8 bits, although the embedding and LayerNorm weights are stored at 18 and 24 bits respectively. The quantized weights are linked below; they are split into hundreds of files corresponding to the separate sections of ROM in the build.  </p>\n<p>The build occupies a volume of 1020x260x1656 blocks. Due to its immense size, the Distant Horizons mod was used to capture footage of the whole build; this results in distant redstone components looking strange as they are being rendered at a lower level of detail.  </p>\n<p>It can produce a response in about 2 hours when the tick rate is increased using MCHPRS (Minecraft High Performance Redstone Server) to about 40,000x speed.\"  </p>\n<p>Source: <a href=\"https://www.youtube.com/watch?v=VaeI9YgE1o8\">https://www.youtube.com/watch?v=VaeI9YgE1o8</a></p><div><br></div><img src=\"https://i.redd.it/m7j0pt83easf1.png\" />",
+            "date_published": "2025-09-30T11:31:39+00:00",
+            "authors": [
+                {
+                    "name": "MetaKnowing",
+                    "url": "https://www.reddit.com/user/MetaKnowing"
+                }
+            ]
+        },
+        {
             "id": "1nsln5t",
             "url": "/r/OpenAI/comments/1nsln5t/rchatgpt_needs_to_grow_up/",
             "external_url": "https://i.redd.it/iea5meh32wrf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "eternviking",
                     "url": "https://www.reddit.com/user/eternviking"
-                }
-            ]
-        },
-        {
-            "id": "1jewkfs",
-            "url": "/r/OpenAI/comments/1jewkfs/how_much_this_is_true/",
-            "external_url": "https://i.redd.it/inr6s7w4bnpe1.jpeg",
-            "title": "How much this is TRUE?...\ud83d\udc40",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/inr6s7w4bnpe1.jpeg\" />",
-            "date_published": "2025-03-19T13:08:32+00:00",
-            "authors": [
-                {
-                    "name": "ClickNo3778",
-                    "url": "https://www.reddit.com/user/ClickNo3778"
                 }
             ]
         }
