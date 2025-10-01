@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1nvkxgc",
+            "url": "/r/selfhosted/comments/1nvkxgc/immich_v200_stable_release_of_immich/",
+            "external_url": "https://github.com/immich-app/immich/discussions/22546",
+            "title": "Immich V2.0.0 - Stable Release of Immich",
+            "content_html": "<p>Immich V2.0.0 is out now</p>",
+            "date_published": "2025-10-01T21:20:44+00:00",
+            "authors": [
+                {
+                    "name": "Hairy_Ostrich3946",
+                    "url": "https://www.reddit.com/user/Hairy_Ostrich3946"
+                }
+            ]
+        },
+        {
             "id": "1npml45",
             "url": "/r/selfhosted/comments/1npml45/my_plex_server_has_started_an_addiction/",
             "external_url": "https://www.reddit.com/gallery/1npml45",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "lscambo13",
                     "url": "https://www.reddit.com/user/lscambo13"
-                }
-            ]
-        },
-        {
-            "id": "1h3ekzp",
-            "url": "/r/selfhosted/comments/1h3ekzp/my_homarr_dashboard/",
-            "external_url": "https://i.redd.it/8efigl1u124e1.png",
-            "title": "My homarr dashboard",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1h3ekzp/my_homarr_dashboard/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1h3ekzp/my_homarr_dashboard/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/8efigl1u124e1.png\" />",
-            "date_published": "2024-11-30T15:11:57+00:00",
-            "authors": [
-                {
-                    "name": "Faris_K",
-                    "url": "https://www.reddit.com/user/Faris_K"
                 }
             ]
         }
