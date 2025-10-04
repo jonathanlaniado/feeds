@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1nxn8dw",
+            "url": "/r/selfhosted/comments/1nxn8dw/finally_hosted_my_own_server_now_i_spend_more/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1nxn8dw/finally_hosted_my_own_server_now_i_spend_more/",
+            "title": "Finally hosted my own server\u2026 now I spend more time fixing it than using it",
+            "content_html": "<p>So I set up my very first self-hosted service thinking it would save me time and make me feel like a tech wizard\u2026 fast forward a week, I\u2019m knee-deep in logs, broken configs, and endless updates. Anyone else start self-hosting and instantly regret nothing\u2026 or is it just me?</p>",
+            "date_published": "2025-10-04T07:05:58+00:00",
+            "authors": [
+                {
+                    "name": "No_Government_3172",
+                    "url": "https://www.reddit.com/user/No_Government_3172"
+                }
+            ]
+        },
+        {
             "id": "1nvkxgc",
             "url": "/r/selfhosted/comments/1nvkxgc/immich_v200_stable_release_of_immich/",
             "external_url": "https://github.com/immich-app/immich/discussions/22546",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Sanjeet990",
                     "url": "https://www.reddit.com/user/Sanjeet990"
-                }
-            ]
-        },
-        {
-            "id": "1h46fzf",
-            "url": "/r/selfhosted/comments/1h46fzf/ive_themed_my_selfhosted_jellyfin_to_look_like/",
-            "external_url": "https://github.com/lscambo13/ElegantFin",
-            "title": "I've themed my self-hosted Jellyfin to look like JellySeerr.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1h46fzf/ive_themed_my_selfhosted_jellyfin_to_look_like/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1h46fzf/ive_themed_my_selfhosted_jellyfin_to_look_like/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-12-01T16:02:32+00:00",
-            "authors": [
-                {
-                    "name": "lscambo13",
-                    "url": "https://www.reddit.com/user/lscambo13"
                 }
             ]
         }
