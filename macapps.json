@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1nxusr7",
+            "url": "/r/macapps/comments/1nxusr7/timescroll_is_now_open_source_find_anything_you/",
+            "external_url": "https://www.reddit.com/gallery/1nxusr7",
+            "title": "TimeScroll is now open source! \u2014 find anything you saw on your Mac",
+            "content_html": "<p>hi everyone!</p>\n<p>i'm the developer of <a href=\"https://timescroll.muzhen.org/\">TimeScroll</a> and today I have a few significant updates. since it's a new month i'm able to post again.</p>\n<p>TimeScroll is a free, lightweight utility that lets you find anything you saw on your Mac. it captures your screen at regular intervals so you can search or play it back later.</p>\n<p>first - the app is now fully <a href=\"https://github.com/XInTheDark/TimeScrollApp\">open source</a>! I understand privacy is a very important part of the app, and this was a top feedback. Thanks to everyone for the feedback and encouragement!</p>\n<p>other new features since my last post include:</p>\n<ul>\n<li>A new search experience</li>\n<li>Encryption: your snapshots can now be stored in a secure vault, encrypted at rest.</li>\n<li>AI search mode: uses local NLP to enable smart semantic search, so you can find what you're looking for, even if you don't remember the exact words.</li>\n</ul>\n<p>quick note: the app is in alpha phase, I am actively developing, and things may not work as expected \u2014 please file an issue on GitHub if something breaks for you.</p>\n<p>If you have any questions or suggestions please feel free to drop a comment below!</p>",
+            "date_published": "2025-10-04T14:01:43+00:00",
+            "authors": [
+                {
+                    "name": "XInTheDark",
+                    "url": "https://www.reddit.com/user/XInTheDark"
+                }
+            ]
+        },
+        {
             "id": "1nuc725",
             "url": "/r/macapps/comments/1nuc725/100_yearly_licences_giveaway_alter_talk_your_mac/",
             "external_url": "https://v.redd.it/0xcrqaojy9sf1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "0xCUBE",
                     "url": "https://www.reddit.com/user/0xCUBE"
-                }
-            ]
-        },
-        {
-            "id": "1g0le53",
-            "url": "/r/macapps/comments/1g0le53/polycapture_screen_camera_audio_recorder_macos/",
-            "external_url": "https://i.redd.it/cvgqr9524ytd1.png",
-            "title": "PolyCapture \u2014 Screen, Camera & Audio Recorder (macOS)",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1g0le53/polycapture_screen_camera_audio_recorder_macos/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1g0le53/polycapture_screen_camera_audio_recorder_macos/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/cvgqr9524ytd1.png\" />",
-            "date_published": "2024-10-10T15:25:47+00:00",
-            "authors": [
-                {
-                    "name": "mrtnlxo",
-                    "url": "https://www.reddit.com/user/mrtnlxo"
                 }
             ]
         }
