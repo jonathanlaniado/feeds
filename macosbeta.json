@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1nxfywc",
+            "url": "/r/MacOSBeta/comments/1nxfywc/track_which_electron_apps_slow_down_your_macos/",
+            "external_url": "https://avarayr.github.io/shamelectron/",
+            "title": "Track which Electron apps slow down your MacOS Tahoe 26",
+            "content_html": "",
+            "date_published": "2025-10-04T00:34:18+00:00",
+            "authors": [
+                {
+                    "name": "aitookmyj0b",
+                    "url": "https://www.reddit.com/user/aitookmyj0b"
+                }
+            ]
+        },
+        {
             "id": "1nvmylc",
             "url": "/r/MacOSBeta/comments/1nvmylc/the_new_network_icon_on_tahoe_261_beta_1_is/",
             "external_url": "https://i.redd.it/by4df0v2wksf1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Due-Beginning8863",
                     "url": "https://www.reddit.com/user/Due-Beginning8863"
-                }
-            ]
-        },
-        {
-            "id": "1lx43qu",
-            "url": "/r/MacOSBeta/comments/1lx43qu/macos_tahoe_dev_beta_3_adds_a_game_overlay_for/",
-            "external_url": "https://www.reddit.com/gallery/1lx43qu",
-            "title": "macOS Tahoe Dev Beta 3 adds a Game Overlay for any application that enables \"Game Mode\"",
-            "content_html": "<p>Today when I fired up a quick casual game, I noticed the \"Game Mode Enabled\" system notification had some new text suggesting to press `Globe + Shift + C` to open the Game Overlay.\u00a0</p>\n<p>Doing so presents this new system overlay with three tabs. One for quick system settings, another for as social options and finally one with Game Center integrations. It seems the overlay will also open via clicking on the Game Mode icon in the status bar. Several of the options then go ahead and open up more details in the overlay. Eg, viewing achievements, calling a friend, ect.\u00a0</p>\n<p>Sadly there doesn't seem to be any easy way to see any performance based metrics,\u00a0 eg FPS or CPU load which typically is common on other overlays. But still seems to be a nice improvement.</p>\n<p>I also connected an Xbox remote to my Mac to test it out. At this stage, I couldn't seem to activate the overlay via the remote, however the controller could fully navigate throughout the entire overlay and interact with elements such as pausing / skipping songs. I assume controller keybindings\u00a0 might be coming later.\u00a0</p>\n<p>As far as I saw, this didn't seem to be reported anywhere yet on reddit, and I couldn't find any mention of this keybinding anyway with a quick google search so fairly sure it's new functionality to this beta, but could have been added in beta 1 or 2.</p>",
-            "date_published": "2025-07-11T11:10:51+00:00",
-            "authors": [
-                {
-                    "name": "Ben917",
-                    "url": "https://www.reddit.com/user/Ben917"
                 }
             ]
         }
