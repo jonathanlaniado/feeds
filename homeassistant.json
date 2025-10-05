@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1nyy1e6",
+            "url": "/r/homeassistant/comments/1nyy1e6/absolutely_chuffed_with_my_new_dashboard/",
+            "external_url": "https://i.redd.it/idagrl62kctf1.gif",
+            "title": "Absolutely chuffed with my new Dashboard!",
+            "content_html": "<p>I got board of the generic HA dashboard I had, so took The Weekend to design my own. I sometimes make a mess of doing stuff like this, but I'm really pleased with how it came out; picture is a GIF to show the neat sliding card in action <a href=\"https://emojipedia.org/smiling-face-with-smiling-eyes\">\ud83d\ude0a</a></p><div><br></div><img src=\"https://i.redd.it/idagrl62kctf1.gif\" />",
+            "date_published": "2025-10-05T19:46:11+00:00",
+            "authors": [
+                {
+                    "name": "Medium-Room1078",
+                    "url": "https://www.reddit.com/user/Medium-Room1078"
+                }
+            ]
+        },
+        {
             "id": "1nvwan7",
             "url": "/r/homeassistant/comments/1nvwan7/found_this_ha_dashboard_at_a_beach_resort/",
             "external_url": "https://www.reddit.com/gallery/1nvwan7",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "jpb",
                     "url": "https://www.reddit.com/user/jpb"
-                }
-            ]
-        },
-        {
-            "id": "1gr6mv8",
-            "url": "/r/homeassistant/comments/1gr6mv8/rip_tteckster/",
-            "external_url": "https://www.reddit.com/r/homeassistant/comments/1gr6mv8/rip_tteckster/",
-            "title": "RIP tteckster ",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1gr6mv8/rip_tteckster/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1gr6mv8/rip_tteckster/'>Reddit</a></caption><div><br></div><p>https://github.com/community-scripts/ProxmoxVE/discussions/237?fbclid=IwY2xjawGi7kBleHRuA2FlbQIxMQABHaPsthXOKQjJfRp0S1CkDns3xHRLuoXmjFZ7YoaWmhAs9cC1zsR96EpKsw_aem_BS8Eb28eBcENr8iEEBRTKw</p>",
-            "date_published": "2024-11-14T14:58:48+00:00",
-            "authors": [
-                {
-                    "name": "Davecl66",
-                    "url": "https://www.reddit.com/user/Davecl66"
                 }
             ]
         }
