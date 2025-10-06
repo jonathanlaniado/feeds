@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1nz6tco",
+            "url": "/r/macapps/comments/1nz6tco/open_source_disable_liquid_glass_with_solidglass/",
+            "external_url": "https://www.reddit.com/gallery/1nz6tco",
+            "title": "[Open Source] Disable Liquid Glass with SolidGlass",
+            "content_html": "<p>SolidGlass\u00a0is a lightweight, open-source SwiftUI application that lets you disable the Liquid Glass effect for specific apps or system-wide.</p>\n<p><strong>Download latest version</strong> <a href=\"https://github.com/rafaelSwi/SolidGlass/releases/latest\"><strong>clicking here</strong></a><strong>. Github repository</strong> <a href=\"https://github.com/rafaelSwi/SolidGlass\"><strong>here</strong></a><strong>.</strong></p>\n<p><em>Since I don\u2019t have a paid Apple Developer license, you may see a warning saying that the app cannot be opened because it is from an unidentified developer.</em></p>\n<p><em>To run it, go to</em>\u00a0<strong><em>System Settings \u2192 Privacy &amp; Security \u2192 (scroll down) \u2192 Open Anyway</em></strong><em>.</em></p>",
+            "date_published": "2025-10-06T02:05:59+00:00",
+            "authors": [
+                {
+                    "name": "Fragrant_Okra6671",
+                    "url": "https://www.reddit.com/user/Fragrant_Okra6671"
+                }
+            ]
+        },
+        {
             "id": "1nxusr7",
             "url": "/r/macapps/comments/1nxusr7/timescroll_is_now_open_source_find_anything_you/",
             "external_url": "https://www.reddit.com/gallery/1nxusr7",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "No_Assistant1783",
                     "url": "https://www.reddit.com/user/No_Assistant1783"
-                }
-            ]
-        },
-        {
-            "id": "1g0myjl",
-            "url": "/r/macapps/comments/1g0myjl/update_wblock_010_beta_is_live/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1g0myjl/update_wblock_010_beta_is_live/",
-            "title": "UPDATE: wBlock 0.1.0 beta is live!",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1g0myjl/update_wblock_010_beta_is_live/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1g0myjl/update_wblock_010_beta_is_live/'>Reddit</a></caption><div><br></div><p>I just wanted to follow up on the <a href=\"https://www.reddit.com/r/macapps/comments/1g02q1p/comment/lr8mmim/?context=3\">amazing post</a> from yesterday, where they shared my project, wBlock, with the community. I'm thrilled to announce that wBlock 0.1.0 is now live and available for download!</p>\n<p>For those of you who are new, wBlock is a free and open-source ad blocker for Safari that's designed to be fast, customizable, and effective. I've built it to block not just ads, but also trackers and malware, including scripted YouTube ads - and I'm committed to keeping it free and open for everyone to use and improve.</p>\n<p>As a solo developer, it's been a labor of love to get wBlock to this point, and I'm excited to hear your thoughts and feedback. If you encounter any issues, please don't hesitate to open an issue on GitHub.</p>\n<p><strong>Check out the first release here:</strong> <a href=\"https://github.com/0xCUB3/wBlock/releases/tag/0.1.0\">https://github.com/0xCUB3/wBlock/releases/tag/0.1.0</a></p>\n<p>Main repo: <a href=\"https://github.com/0xCUB3/wBlock\">https://github.com/0xCUB3/wBlock</a></p>",
-            "date_published": "2024-10-10T16:33:12+00:00",
-            "authors": [
-                {
-                    "name": "0xCUBE",
-                    "url": "https://www.reddit.com/user/0xCUBE"
                 }
             ]
         }
