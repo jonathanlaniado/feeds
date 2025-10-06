@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1nzl7mi",
+            "url": "/r/macapps/comments/1nzl7mi/chronoid_time_tracking_productivity_giveaway/",
+            "external_url": "https://v.redd.it/oi154rcq8itf1",
+            "title": "Chronoid - Time Tracking & Productivity - [Giveaway Lifetime Promo Codes]",
+            "content_html": "<p>Hey everyone,</p>\n<p>I\u2019m Vu, indie dev + freelancer, been on mac for more than 10 years. A few months ago I shared Chronoid here and the response was honestly amazing. Thanks to all the feedback from this sub I\u2019ve been shipping a lot of updates and it\u2019s grown quite a bit since then.</p>\n<p>For those who missed it last time:</p>\n<p>Chronoid is a mac app that automatically tracks your time, keeps everything 100% local on your machine, and has no subscription crap. I originally built it for myself cause I kept forgetting to start timers and it was literally costing me money.</p>\n<p><strong>What\u2019s new:</strong></p>\n<p>Since the last post I pushed around 15 version updates. some of the highlights:</p>\n<ul>\n<li>smarter website blocker that works nicely with zen, comet, dia browsers</li>\n<li>full pomodoro timer + break reminders (similar vibe to lookaway app)</li>\n<li>new productivity trends dashboard so you can spot where focus time actually goes</li>\n<li>local AI categorization (beta), or connect your own local/cloud LLM for chat based insights</li>\n<li>better bulk editing, hierarchical projects, improved reports</li>\n</ul>\n<p><strong>Core features:</strong></p>\n<ul>\n<li>runs in background, no start/stop needed</li>\n<li>tracks apps, websites, documents automatically</li>\n<li>all data stays on your mac, sqlite db in Application Support</li>\n<li>beautiful reports, daily/weekly/monthly views</li>\n<li>distraction tracking with prebuilt rules for common sites</li>\n<li>smart rules system to auto categorize by keywords, domains or file paths</li>\n<li>optional AI chat so you can ask stuff like \u201cwhere did my time go yesterday?\u201d</li>\n</ul>\n<h1>Pricing:</h1>\n<p>right now it\u2019s $40 lifetime, one time payment, no account.   </p>\n<h1>Giveaway</h1>\n<p>to say thanks to this community, I\u2019ve got a few 100% off codes to give away.</p>\n<p>just upvote + comment if you want in, I\u2019ll DM some random folks over the next few days</p>\n<p>\ud83d\udc49 <a href=\"https://chronoid.app?utm=macapps1025\">chronoid.app</a></p>",
+            "date_published": "2025-10-06T14:51:38+00:00",
+            "authors": [
+                {
+                    "name": "tuanvuvn007",
+                    "url": "https://www.reddit.com/user/tuanvuvn007"
+                }
+            ]
+        },
+        {
             "id": "1nz6tco",
             "url": "/r/macapps/comments/1nz6tco/open_source_disable_liquid_glass_with_solidglass/",
             "external_url": "https://www.reddit.com/gallery/1nz6tco",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Glubker",
                     "url": "https://www.reddit.com/user/Glubker"
-                }
-            ]
-        },
-        {
-            "id": "1g1whdi",
-            "url": "/r/macapps/comments/1g1whdi/i_rewrote_shakepin_from_scratch_for_3_weeks_its/",
-            "external_url": "https://v.redd.it/0m9n8n03oaud1",
-            "title": "I rewrote ShakePin from scratch for 3 weeks. It's an open source Dropover alternative that i shared 2 months ago.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1g1whdi/i_rewrote_shakepin_from_scratch_for_3_weeks_its/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1g1whdi/i_rewrote_shakepin_from_scratch_for_3_weeks_its/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-10-12T09:33:20+00:00",
-            "authors": [
-                {
-                    "name": "No_Assistant1783",
-                    "url": "https://www.reddit.com/user/No_Assistant1783"
                 }
             ]
         }
