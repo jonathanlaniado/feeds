@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1nzcovn",
+            "url": "/r/ArtificialInteligence/comments/1nzcovn/google_just_cut_off_90_of_the_internet_from_ai_no/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1nzcovn/google_just_cut_off_90_of_the_internet_from_ai_no/",
+            "title": "Google just cut off 90% of the internet from AI - no one\u2019s talking about it",
+            "content_html": "<p>Last month Google quietly removed the <code>num=100</code> search parameter, the trick that let you see 100 results on one page instead of the default 10. It sounds small, but it is not. You can no longer view 100 results at once. The new hard limit is 10.</p>\n<p>Here is why this matters. Most large language models like OpenAI, Anthropic, and Perplexity rely directly or indirectly on Google's indexed results to feed their retrieval systems and crawlers. By cutting off the long tail of results, Google just reduced what these systems can see by roughly 90 percent. The web just got shallower not only for humans but for AI as well.</p>\n<p>The impact was immediate. According to Search Engine Land, about 88 percent of websites saw a drop in impressions. Sites that ranked in positions 11 to 100 basically disappeared. Reddit, which often ranks deep in search results, saw its LLM citations drop sharply.</p>\n<p>This is not just an SEO story. It is an AI supply chain issue. Google quietly made it harder for external models to access the depth of the web. The training data pipeline that fuels modern AI just got thinner.</p>\n<p>For startups this change is brutal. Visibility is harder. Organic discovery is weaker. Even if you build a great product, no one will find it unless you first crack distribution. If people cannot find you they will never get to evaluate you.</p>\n<p>Google did not just tweak a search setting. It reshaped how information flows online and how AI learns from it. Welcome to the new era of algorithmic visibility. \ud83c\udf10</p>",
+            "date_published": "2025-10-06T07:35:06+00:00",
+            "authors": [
+                {
+                    "name": "reddit20305",
+                    "url": "https://www.reddit.com/user/reddit20305"
+                }
+            ]
+        },
+        {
             "id": "1n7g93o",
             "url": "/r/ArtificialInteligence/comments/1n7g93o/trump_just_blamed_ai_for_a_trash_bag_getting/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1n7g93o/trump_just_blamed_ai_for_a_trash_bag_getting/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ZombroAlpha",
                     "url": "https://www.reddit.com/user/ZombroAlpha"
-                }
-            ]
-        },
-        {
-            "id": "1icnay2",
-            "url": "/r/ArtificialInteligence/comments/1icnay2/ai_being_forced_on_every_app_sucks/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1icnay2/ai_being_forced_on_every_app_sucks/",
-            "title": "AI being forced on every app sucks",
-            "content_html": "<p>This post was banned on r/unpopularopinion because I used the word \u201cAI.\u201d I didn\u2019t realize Redditors weren\u2019t able to have an opinion on that topic on that thread, and I find it disconcerting that that\u2019s the case, but anyways, here\u2019s what I tried to post there: </p>\n<p>I do not like AI being incorporated into every app and program I use on my phone and computer. </p>\n<p>I just had to update Microsoft Word and Adobe Reader, now I keep getting prompts to use the new AI tools to make my work \u201ceasier\u201d for me. (I also have to get a new computer later this year because mine will be out of date soon even though it works fine.)</p>\n<p>I also just updated to the newest IOS on iPhone and opened up my guitar tabs app. It opened up with a questionnaire to \u201cstreamline my experience\u201d and didn\u2019t give me an option to cancel out of it. I just wanted to look up a tab and play a song but was forced to feed an algorithm to get to the service I pay for. </p>\n<p>There might be some ways this new technology will prove to be useful, but give me the choice to decide that for myself, because it doesn\u2019t fit my needs. I\u2019m getting ready to go back to a pen and pad to get avoid this. </p>",
-            "date_published": "2025-01-29T06:04:24+00:00",
-            "authors": [
-                {
-                    "name": "nowlan_shane",
-                    "url": "https://www.reddit.com/user/nowlan_shane"
                 }
             ]
         }
