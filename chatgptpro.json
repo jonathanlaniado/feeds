@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_7r4jvp/styles/communityIcon_1dxejt5cu1sa1.png",
     "items": [
         {
+            "id": "1nzqm7z",
+            "url": "/r/ChatGPTPro/comments/1nzqm7z/openai_just_dropped_agentkit_a_draganddrop_ai/",
+            "external_url": "https://i.redd.it/pwpm0yg48jtf1.jpeg",
+            "title": "OpenAI just dropped \u201cAgentKit, A drag-and-drop AI agent builder. No code, just logic.",
+            "content_html": "<p>At DevDay 2025, Greg Brockman unveiled AgentKit, a visual development tool that lets anyone build and customize AI agents without writing code.</p>\n<p>Using a drag-and-drop interface, developers can connect logic nodes, guardrails, and evals to design intelligent, production-ready workflows.\nIn an 8-minute live demo, Brockman created a fully functional DevDay agenda agent from scratch \u2014 right before the 9-minute timer hit.</p>\n<p>AgentKit represents a big step toward accessible, modular agent development, making it possible to rapidly prototype and deploy AI agents for real-world use cases across industries.</p><div><br></div><img src=\"https://i.redd.it/pwpm0yg48jtf1.jpeg\" />",
+            "date_published": "2025-10-06T18:09:38+00:00",
+            "authors": [
+                {
+                    "name": "AskGpts",
+                    "url": "https://www.reddit.com/user/AskGpts"
+                }
+            ]
+        },
+        {
             "id": "1nn1xh8",
             "url": "/r/ChatGPTPro/comments/1nn1xh8/openai_is_about_to_boost_new_projects_with_heavy/",
             "external_url": "https://i.redd.it/n22i37vppkqf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "grind_till_forbes",
                     "url": "https://www.reddit.com/user/grind_till_forbes"
-                }
-            ]
-        },
-        {
-            "id": "1cr6n52",
-            "url": "/r/ChatGPTPro/comments/1cr6n52/gpt4o_available_for_all_free_users/",
-            "external_url": "https://www.reddit.com/r/ChatGPTPro/comments/1cr6n52/gpt4o_available_for_all_free_users/",
-            "title": "GPT4-o Available for ALL FREE users",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ChatGPTPro/comments/1cr6n52/gpt4o_available_for_all_free_users/'>Winston</a> | <a href='https://reddit.com/r/ChatGPTPro/comments/1cr6n52/gpt4o_available_for_all_free_users/'>Reddit</a></caption><div><br></div><p>Just recently, OpenAI announced their latest model GPT-4o which was the im-a-good-gpt-chatbot that appeared on the LYMSYS battle mode. This will be available to all free users.</p>\n<p>https://reddit.com/link/1cr6n52/video/a05037ahm80d1/player</p>\n<p><a href=\"https://twitter.com/ArDeved/status/1790080561010077809\">Here is ALL the key takeaways from the event (No sign up)</a></p>",
-            "date_published": "2024-05-13T18:33:11+00:00",
-            "authors": [
-                {
-                    "name": "ArFiction",
-                    "url": "https://www.reddit.com/user/ArFiction"
                 }
             ]
         }
