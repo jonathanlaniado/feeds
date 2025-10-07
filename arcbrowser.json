@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1o0r6hb",
+            "url": "/r/ArcBrowser/comments/1o0r6hb/remember_when_we_begged_tbc_to_opensource_arc_the/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1o0r6hb/remember_when_we_begged_tbc_to_opensource_arc_the/",
+            "title": "Remember when we begged TBC to open-source Arc? The original Arc devs just did us one better - meet Nook",
+            "content_html": "<p>Hey everyone, I've got some exciting news! \ud83c\udf89</p>\n<p>I know many of us, myself included, have been hoping that <strong>Arc Browser</strong> would rise from the ashes someday, or that The Browser Company would at least open-source it so the community could continue the project independently.</p>\n<p>But today's news is, in my opinion, <strong>the best thing to happen to our browser community since Arc</strong>.</p>\n<hr />\n<h3>Introducing <strong>Nook</strong> \u2014 a new browser from former Arc team members</h3>\n<p>Built on <strong>WebKit</strong>, it's being created as a reimagining of modern browsers in the spirit of Arc, but with a focus on <strong>local-first architecture, openness, and a calm interface</strong>.</p>\n<p><strong>Core principles of Nook:</strong>\n- <strong>Spaces, not tab sprawl</strong> \u2014 no endless tabs, everything organized into intuitive <em>Spaces</em>\n- <strong>Rooms</strong> \u2014 combine work, hobbies, and research rabbit holes into calm rooms you can instantly switch between with a single hotkey\n- <strong>Local-first &amp; private</strong> \u2014 your data stays on your device. One click to export or delete everything\n- <strong>Open by design</strong> \u2014 sensible defaults, community-driven development, extensions work without ecosystem lock-in\n- <strong>Peek</strong>, <strong>Split View</strong>, and other multitasking features built-in natively</p>\n<hr />\n<h3>\ud83d\udc65 The Nook Team</h3>\n<p>[Full team on the official page]:</p>\n<ul>\n<li><strong>Jamie Liu</strong> \u2014 CEO, former Product Designer at Arc (created the Spaces system)</li>\n<li><strong>Markus Dahlen</strong> \u2014 CTO, former Frontend Engineer at Arc (built the sidebar and Command Bar)</li>\n<li><strong>Elena Petrova</strong> \u2014 Head of AI Experience, former UX Researcher at Arc and Notion AI</li>\n<li><strong>David Cho</strong> \u2014 Software Engineer, worked on Arc's performance and infrastructure</li>\n<li><strong>Riley Tan</strong> \u2014 Lead Visual Designer, former Motion Designer at Arc, creator of visual transitions and animations</li>\n</ul>\n<p>The team also includes developers from <strong>Notion</strong>, <strong>Linear</strong>, and <strong>Rewind AI</strong>, which explains Nook's focus on productivity, elegance, and privacy.</p>\n<hr />\n<h3>\ud83e\uddea Alpha testing is live!</h3>\n<p>As of today, <strong>alpha testing is open</strong>, and the app is already <strong>available on GitHub</strong>.\nThe project is positioned as an <strong>open-source next-generation browser</strong>, and it looks like the real answer to what we've been hoping Arc would become.</p>",
+            "date_published": "2025-10-07T21:02:34+00:00",
+            "authors": [
+                {
+                    "name": "Gorduy_Pti4ka",
+                    "url": "https://www.reddit.com/user/Gorduy_Pti4ka"
+                }
+            ]
+        },
+        {
             "id": "1nkklhv",
             "url": "/r/ArcBrowser/comments/1nkklhv/this_subreddit_in_a_nutchel/",
             "external_url": "https://i.redd.it/tjppesdqozpf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "weIIokay38",
                     "url": "https://www.reddit.com/user/weIIokay38"
-                }
-            ]
-        },
-        {
-            "id": "1gc2fxx",
-            "url": "/r/ArcBrowser/comments/1gc2fxx/arc_officially_not_getting_new_features_only/",
-            "external_url": "https://i.redd.it/iv5vr3kvdywd1.png",
-            "title": "Arc Officially Not Getting New Features, only Stability, Performance & Security Improvements.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1gc2fxx/arc_officially_not_getting_new_features_only/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1gc2fxx/arc_officially_not_getting_new_features_only/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/iv5vr3kvdywd1.png\" />",
-            "date_published": "2024-10-25T19:24:15+00:00",
-            "authors": [
-                {
-                    "name": "JaceThings",
-                    "url": "https://www.reddit.com/user/JaceThings"
                 }
             ]
         }
