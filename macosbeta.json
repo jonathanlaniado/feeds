@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1o2f1b3",
+            "url": "/r/MacOSBeta/comments/1o2f1b3/tahoe_261_beta_2_fuzzy_animations_for_minimizing/",
+            "external_url": "https://v.redd.it/jf6ty0cjy4uf1",
+            "title": "Tahoe 26.1 Beta 2 Fuzzy Animations for minimizing and maximizing windows",
+            "content_html": "<p>Hey all, after updating to 26.1 Beta 2 I notice the animation for minimizing and maximizing windows to the dock is fuzzy and looks very strange.<br />\nI have reported the bug, but wondering if anyone else is noticing this?</p>\n<p>I tried checking on a different monitor but it is the same everywhere.  </p>\n<p>Macbook Pro M4 Pro 14 Inch.</p>",
+            "date_published": "2025-10-09T19:15:55+00:00",
+            "authors": [
+                {
+                    "name": "aegasyir",
+                    "url": "https://www.reddit.com/user/aegasyir"
+                }
+            ]
+        },
+        {
             "id": "1nztt0r",
             "url": "/r/MacOSBeta/comments/1nztt0r/defaultdark_widgets_in_261_beta_2_are_now/",
             "external_url": "https://i.redd.it/jifh0iv7sjtf1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "basically_ar",
                     "url": "https://www.reddit.com/user/basically_ar"
-                }
-            ]
-        },
-        {
-            "id": "1lxpsbq",
-            "url": "/r/MacOSBeta/comments/1lxpsbq/either_im_going_insane_or_chrome_updated_the/",
-            "external_url": "https://i.redd.it/hrt8uzdyxccf1.jpeg",
-            "title": "Either I\u2019m going insane or Chrome updated the YouTube Ui for MacOS Tahoe",
-            "content_html": "<p>Once I installed Beta 3 I realized that the Chrome Ui looks totally different and has similarities to Tahoe. </p><div><br></div><img src=\"https://i.redd.it/hrt8uzdyxccf1.jpeg\" />",
-            "date_published": "2025-07-12T02:51:41+00:00",
-            "authors": [
-                {
-                    "name": "ibe_vkillin",
-                    "url": "https://www.reddit.com/user/ibe_vkillin"
                 }
             ]
         }
