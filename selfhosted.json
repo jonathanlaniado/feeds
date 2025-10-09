@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1o23q0s",
+            "url": "/r/selfhosted/comments/1o23q0s/old_surface_pro_new_departure_board/",
+            "external_url": "https://i.redd.it/q2ixbtifq2uf1.jpeg",
+            "title": "old Surface Pro: new Departure Board",
+            "content_html": "<p>tell me if this is the wrong subreddit. here\u2019s a decade-old Surface tablet which had no use.</p>\n<p>add it to the list of scavenged kit in my living room running Debian Linux and giving me some satisfaction in unemployment downtime.</p>\n<p>made with Ink (React for CLI) and deployed with systemd. machine is fully SSH-able, remote deploy a breeze.</p><div><br></div><img src=\"https://i.redd.it/q2ixbtifq2uf1.jpeg\" />",
+            "date_published": "2025-10-09T11:46:05+00:00",
+            "authors": [
+                {
+                    "name": "Nine_Mazes",
+                    "url": "https://www.reddit.com/user/Nine_Mazes"
+                }
+            ]
+        },
+        {
             "id": "1nxn8dw",
             "url": "/r/selfhosted/comments/1nxn8dw/finally_hosted_my_own_server_now_i_spend_more/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1nxn8dw/finally_hosted_my_own_server_now_i_spend_more/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ArtOfLess",
                     "url": "https://www.reddit.com/user/ArtOfLess"
-                }
-            ]
-        },
-        {
-            "id": "1h499u8",
-            "url": "/r/selfhosted/comments/1h499u8/i_built_my_own_home_dashboard_after_trying_and/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1h499u8/i_built_my_own_home_dashboard_after_trying_and/",
-            "title": "I Built My Own Home Dashboard After Trying (and Disliking) Everything Else",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1h499u8/i_built_my_own_home_dashboard_after_trying_and/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1h499u8/i_built_my_own_home_dashboard_after_trying_and/'>Reddit</a></caption><div><br></div><p>After trying almost every possible home dashboard solution, I realized none of them really fit my needs. My priorities were simple:</p>\n<ul>\n<li><strong>Good-looking and feature-packed</strong></li>\n<li>Manage all my links in different folders</li>\n<li>A <strong>to-do list</strong> to organize my tasks</li>\n<li>A <strong>snippet manager</strong> for developer essentials</li>\n<li><strong>TOTP integration</strong> (so I don\u2019t need to grab my phone every time for an OTP)</li>\n<li>Quick notifications from apps</li>\n<li>A way to <strong>check devices on my home network</strong></li>\n</ul>\n<p>Unfortunately, most solutions I found either lacked features or were too rigid. But hey, one of the perks of being a developer is that when you can't find what you need, you can build it yourself!</p>\n<p>So I built my own home dashboard, and here\u2019s what it does:</p>\n<h1>Features:</h1>\n<ol>\n<li><strong>Built on the MERN stack</strong></li>\n<li><strong>Deploys as a single Docker stack</strong></li>\n<li><strong>Multi-user support</strong> (different dashboards for work and home setups)</li>\n<li><strong>Multiple themes</strong> (light and dark options)</li>\n<li><strong>Wake-on-LAN</strong> for devices on my network</li>\n<li>Stream <strong>IP cameras</strong> (RTSP, HLS)</li>\n<li><strong>Weather display</strong></li>\n<li><strong>Categorized links manager</strong> for organizing bookmarks</li>\n<li><strong>TOTP integration</strong> for seamless two-factor authentication</li>\n<li>A <strong>to-do list</strong> to keep me on track</li>\n<li>A <strong>snippet manager</strong> to store those handy code snippets</li>\n<li>Real-time <strong>device monitoring</strong> on my home network</li>\n</ol>\n<p>And there\u2019s <strong>more</strong> I\u2019m planning to add as I keep iterating.</p>\n<p>Here are some screenshots of the dashboard. I\u2019d love to hear your thoughts!</p>\n<p>What do you think? If you\u2019ve tried something similar or have ideas for improvements, I\u2019d love to hear them. Building this has been super fun and rewarding\u2014especially since it now perfectly fits my workflow.</p>\n<p>Would you want a detailed walkthrough or even a public repo? \ud83d\udc40</p>\n<p><a href=\"https://preview.redd.it/hkf6z44y1a4e1.png?width=2553&amp;format=png&amp;auto=webp&amp;s=41aba010d6a9cef845dc629608b6205060db9048\">Home page with links and integrations for NGINX proxy manager, proxmox and portainer in action</a></p>\n<p><a href=\"https://preview.redd.it/76mdh6qy1a4e1.png?width=2550&amp;format=png&amp;auto=webp&amp;s=a96531f56aace9502eb4fa39786bc9e60bc964e8\">Links arranged im folders. Folders can be placed in sidebar or inside other folders</a></p>\n<p><a href=\"https://preview.redd.it/h0zwamkz1a4e1.png?width=2558&amp;format=png&amp;auto=webp&amp;s=5ae0e5ac566979c1cfb4676f4d47e374b940bcdf\">Youtube links with Youtube integration</a></p>\n<p><a href=\"https://preview.redd.it/cem6jnp02a4e1.png?width=2557&amp;format=png&amp;auto=webp&amp;s=31bf26722d567cc0157f82ff7620581ac0edd594\">Todos... </a></p>\n<p><a href=\"https://preview.redd.it/2mf00h412a4e1.png?width=2555&amp;format=png&amp;auto=webp&amp;s=e046f8d523ff1186400adb5d7ae965aa307a0057\">Ah! Snippet manager allows me to access my snippets on any machine on my network</a></p>\n<p><a href=\"https://preview.redd.it/1p51noo12a4e1.png?width=2555&amp;format=png&amp;auto=webp&amp;s=dc20daaa76e2cc62a4d242b5fc6f8ce80bbc2630\">I can keep an eye around me \ud83d\udc40</a></p>\n<p><a href=\"https://preview.redd.it/0hwfbv722a4e1.png?width=2557&amp;format=png&amp;auto=webp&amp;s=b2c9c580f2da3c87cfb35b02c945442606ec8795\">All devices on network are listed with IP and MAC.</a></p>\n<p><a href=\"https://preview.redd.it/cr42get22a4e1.png?width=2555&amp;format=png&amp;auto=webp&amp;s=6be1a175a4402838e540e3e6640557e6ccc5d4fa\">I can even wake other devices on LAN</a></p>\n<p><a href=\"https://preview.redd.it/exeetsi32a4e1.png?width=378&amp;format=png&amp;auto=webp&amp;s=e9269d488c2241c2614755d8de9bffc822de9f03\">And... No need to pick the phone up for TOTPs</a></p>",
-            "date_published": "2024-12-01T18:05:19+00:00",
-            "authors": [
-                {
-                    "name": "Sanjeet990",
-                    "url": "https://www.reddit.com/user/Sanjeet990"
                 }
             ]
         }
