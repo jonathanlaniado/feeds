@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1o367rr",
+            "url": "/r/MacOSBeta/comments/1o367rr/am_i_holding_it_wrong/",
+            "external_url": "https://i.redd.it/o1hulgf5dbuf1.png",
+            "title": "Am I holding it wrong?",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/o1hulgf5dbuf1.png\" />",
+            "date_published": "2025-10-10T16:48:15+00:00",
+            "authors": [
+                {
+                    "name": "AJ20ist",
+                    "url": "https://www.reddit.com/user/AJ20ist"
+                }
+            ]
+        },
+        {
             "id": "1o337ts",
             "url": "/r/MacOSBeta/comments/1o337ts/macos_26_most_useful_electron_apps_are_now_fixed/",
             "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1o337ts/macos_26_most_useful_electron_apps_are_now_fixed/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "PresentationAny389",
                     "url": "https://www.reddit.com/user/PresentationAny389"
-                }
-            ]
-        },
-        {
-            "id": "1ly6uyu",
-            "url": "/r/MacOSBeta/comments/1ly6uyu/just_updated_to_tahoe_dev_beta_3/",
-            "external_url": "https://i.redd.it/f41980uyfhcf1.png",
-            "title": "Just updated to Tahoe Dev Beta 3",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/f41980uyfhcf1.png\" />",
-            "date_published": "2025-07-12T18:03:02+00:00",
-            "authors": [
-                {
-                    "name": "Ok_Hornet_6689",
-                    "url": "https://www.reddit.com/user/Ok_Hornet_6689"
                 }
             ]
         }
