@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1o37crn",
+            "url": "/r/selfhosted/comments/1o37crn/i_want_ads_in_my_jellfinplex/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1o37crn/i_want_ads_in_my_jellfinplex/",
+            "title": "I want ads in my jellfin/plex",
+            "content_html": "<p>Bait title is bait. </p>\n<p>But essentially, I want ad breaks for my kids/me to keep ontop of things and have healthy breaks of activity during the days we lounge about.</p>\n<p>Ideally these would be mandatory/unskippable \"ads\" that play for 30s-5min and either display a living task list from HA of chores they need to do or (for me) a brief workout challenge like \"wall sit for 3 minutes / do X amount of push ups\" via a static image or video file.</p>\n<p>Is there any way to accomplish this?</p>",
+            "date_published": "2025-10-10T17:30:16+00:00",
+            "authors": [
+                {
+                    "name": "Endure94",
+                    "url": "https://www.reddit.com/user/Endure94"
+                }
+            ]
+        },
+        {
             "id": "1o23q0s",
             "url": "/r/selfhosted/comments/1o23q0s/old_surface_pro_new_departure_board/",
             "external_url": "https://i.redd.it/q2ixbtifq2uf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "shol-ly",
                     "url": "https://www.reddit.com/user/shol-ly"
-                }
-            ]
-        },
-        {
-            "id": "1h4vtdt",
-            "url": "/r/selfhosted/comments/1h4vtdt/i_made_flisoa_free_modern_opensource_link/",
-            "external_url": "https://www.reddit.com/gallery/1h4vtdt",
-            "title": "I made Fli.so\u2014a free, modern open-source link shortener we built for our own needs. Now it\u2019s yours too!",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1h4vtdt/i_made_flisoa_free_modern_opensource_link/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1h4vtdt/i_made_flisoa_free_modern_opensource_link/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-12-02T14:11:15+00:00",
-            "authors": [
-                {
-                    "name": "ArtOfLess",
-                    "url": "https://www.reddit.com/user/ArtOfLess"
                 }
             ]
         }
