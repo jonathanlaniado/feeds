@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1o4u8m0",
+            "url": "/r/shortcuts/comments/1o4u8m0/when_i_leave_work_it_texts_my_partner_with_my/",
+            "external_url": "https://www.reddit.com/gallery/1o4u8m0",
+            "title": "When I leave work, it texts my partner with my arrival time",
+            "content_html": "<p>Create a <em>Shortcut</em> that does the following:</p>\n<ol>\n<li>\n<p><strong>Street Address</strong>: Enter your home address</p>\n</li>\n<li>\n<p><strong>Get</strong>: Driving time from (enter work address) to [Street Address]</p>\n</li>\n<li>\n<p><strong>Text</strong>: Write a polite message and include the Arrival time. You can change this to how long it will take if you prefer that instead. </p>\n</li>\n<li>\n<p><strong>Send</strong>: Text to my partner</p>\n</li>\n</ol>\n<p>Create an <em>Automation</em> that triggers the above <em>Shortcut</em> when I leave work. I set it to a time range so if I run out during lunch it will not trigger it. </p>",
+            "date_published": "2025-10-12T16:55:01+00:00",
+            "authors": [
+                {
+                    "name": "ScoYello",
+                    "url": "https://www.reddit.com/user/ScoYello"
+                }
+            ]
+        },
+        {
             "id": "1o26etg",
             "url": "/r/shortcuts/comments/1o26etg/when_my_partner_texts_what_do_you_want_for_dinner/",
             "external_url": "https://www.reddit.com/gallery/1o26etg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Higginbotham",
                     "url": "https://www.reddit.com/user/Higginbotham"
-                }
-            ]
-        },
-        {
-            "id": "1at69tq",
-            "url": "/r/shortcuts/comments/1at69tq/why_does_in_the_last_x_hours_always_return_true/",
-            "external_url": "https://i.redd.it/g057q8vdd6jc1.jpeg",
-            "title": "Why does \u201cin the last X hours\u201d always return true?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1at69tq/why_does_in_the_last_x_hours_always_return_true/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1at69tq/why_does_in_the_last_x_hours_always_return_true/'>Reddit</a></caption><div><br></div><p>I have been fighting with this app all morning and just realized part of the issue is that it\u2019s returning TRUE for \u201cif dates is in the last 12 hours\u201d even when it is clearly in the future. I got so fed up that I added this code (see image) and sure enough it shows me the alert even though it\u2019s impossible for a time to be both in the future and the past \ud83e\udd26\ud83c\udffd\u200d\u2642\ufe0f</p><div><br></div><img src=\"https://i.redd.it/g057q8vdd6jc1.jpeg\" />",
-            "date_published": "2024-02-17T16:48:06+00:00",
-            "authors": [
-                {
-                    "name": "BiggBill7",
-                    "url": "https://www.reddit.com/user/BiggBill7"
                 }
             ]
         }
