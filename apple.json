@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "1o5mznw",
+            "url": "/r/apple/comments/1o5mznw/apple_tv_being_rebranded_as_apple_tv/",
+            "external_url": "https://www.macrumors.com/2025/10/13/apple-tv-plus-rebrand/",
+            "title": "Apple TV+ Being Rebranded as Apple TV",
+            "content_html": "",
+            "date_published": "2025-10-13T15:33:01+00:00",
+            "authors": [
+                {
+                    "name": "exjr_",
+                    "url": "https://www.reddit.com/user/exjr_"
+                }
+            ]
+        },
+        {
             "id": "1o5ez0w",
             "url": "/r/apple/comments/1o5ez0w/apple_iphone_fold_could_be_more_affordable_than/",
             "external_url": "https://www.notebookcheck.net/Apple-iPhone-Fold-could-be-more-affordable-than-expected-as-hinge-costs-drop-to-around-70-80.1137020.0.html",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "somewhat_asleep",
                     "url": "https://www.reddit.com/user/somewhat_asleep"
-                }
-            ]
-        },
-        {
-            "id": "1gnxttc",
-            "url": "/r/apple/comments/1gnxttc/dynamic_island_now_for_your_mac_alcove/",
-            "external_url": "https://www.reddit.com/r/apple/comments/1gnxttc/dynamic_island_now_for_your_mac_alcove/",
-            "title": "Dynamic Island now for your Mac - Alcove",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/apple/comments/1gnxttc/dynamic_island_now_for_your_mac_alcove/'>Winston</a> | <a href='https://reddit.com/r/apple/comments/1gnxttc/dynamic_island_now_for_your_mac_alcove/'>Reddit</a></caption><div><br></div><p>Dynamic Island has now come to your Mac!</p>\n<p>Creator of Klack here, for those familiar with my previous app. I've been working on my new app called Alcove for several months now and I'm finally able to share it with everyone.</p>\n<p>I noticed that none of the current notch apps truly tried to replicate the Dynamic Island that was on the iPhone, which is exactly what I aimed out to do with Alcove. It's a 1:1 copy of the Dynamic Island for your iPhone, but now on your Mac. It shows you low battery alerts for both your Mac and your AirPods, it will show you that sweet 3D animation of AirPods when you're connecting them, as well as the battery level. It will let you know when you've entered focus mode. It also replaces your native HUD to better match the one on iOS.</p>\n<p>It fully replicates the media controls in the Dynamic Island on iOS. It even runs on your lock screen showing a little lock icon, just as you're already familiar with on your iPhone.</p>\n<p>I put an immense amount of time to ensure that the app would feel incredibly smooth and fluid, just as the original. I believe I truly achieved it, it's something that you need to try to really get a feel for it.</p>\n<p>There's a lot of features already in Alcove, many more are coming. This is just the beginning for the app. I hope you do enjoy it as much as I do, I generally create apps for myself to begin with.</p>\n<p>Please do check it out at\u00a0<a href=\"https://tryalcove.com/\">tryalcove.com</a>, where there is an interactive demo. It also has a trial, so you can completely decide if this is something for you.</p>",
-            "date_published": "2024-11-10T10:31:29+00:00",
-            "authors": [
-                {
-                    "name": "Quirino_Exile",
-                    "url": "https://www.reddit.com/user/Quirino_Exile"
                 }
             ]
         }
