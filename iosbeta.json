@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1o5qhrc",
+            "url": "/r/iOSBeta/comments/1o5qhrc/ios_261_db3_control_center_animation_is_more/",
+            "external_url": "https://v.redd.it/uta44p8x0xuf1",
+            "title": "[iOS 26.1 DB3] control center animation is more bouncy",
+            "content_html": "<p>The animation is slower and the icons move back and forth instead of just stretching. Better than the old animation IMO.</p>",
+            "date_published": "2025-10-13T17:38:22+00:00",
+            "authors": [
+                {
+                    "name": "NoFall2205",
+                    "url": "https://www.reddit.com/user/NoFall2205"
+                }
+            ]
+        },
+        {
             "id": "1o5qzq5",
             "url": "/r/iOSBeta/comments/1o5qzq5/ios_261_db3_new_apple_tv_app_icon/",
             "external_url": "https://i.redd.it/qq2c2zq24xuf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "classiczac",
                     "url": "https://www.reddit.com/user/classiczac"
-                }
-            ]
-        },
-        {
-            "id": "1g8v0qf",
-            "url": "/r/iOSBeta/comments/1g8v0qf/ios_181_release_candidate_discussion/",
-            "external_url": "https://www.reddit.com/r/iOSBeta/comments/1g8v0qf/ios_181_release_candidate_discussion/",
-            "title": "iOS 18.1 Release Candidate - Discussion",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1g8v0qf/ios_181_release_candidate_discussion/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1g8v0qf/ios_181_release_candidate_discussion/'>Reddit</a></caption><div><br></div><p>This will serve as our iOS 18.1 Release Candidate discussion.</p>\n<p>Please use this thread to share any and all updates you discover while using the latest iOS/iPadOS 18.1 beta. This thread should be used for discussion of the betas that may not meet our submission guidelines, as well as troubleshooting small issues through the beta test cycle.</p>\n<p>Further discussion can be found on the <a href=\"https://discord.gg/iosbeta\">iOS Beta Discord</a>.</p>",
-            "date_published": "2024-10-21T17:12:19+00:00",
-            "authors": [
-                {
-                    "name": "epmuscle",
-                    "url": "https://www.reddit.com/user/epmuscle"
                 }
             ]
         }
