@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1o9svah",
+            "url": "/r/ArtificialInteligence/comments/1o9svah/nvidia_ceo_told_everyone_to_skip_coding_and_learn/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1o9svah/nvidia_ceo_told_everyone_to_skip_coding_and_learn/",
+            "title": "Nvidia CEO told everyone to skip coding and learn AI. Then told everyone to skip coding and become plumbers.",
+            "content_html": "<p>So Jensen Huang keeps saying the most contradictory stuff and I don't get why nobody's calling it out.</p>\n<p>February 2024. World Government Summit. Huang gets on stage and drops this: \"Nobody needs to program anymore. AI handles it. Programming language is human now. Everybody in the world is now a programmer.\" Tells people to focus on biology manufacturing farming. Not coding. AI's got that covered.</p>\n<p>I remember seeing that and thinking okay so I guess all these CS majors are screwed now.</p>\n<p>October 2025. Same guy. Complete 180.</p>\n<p>Now he's telling Gen Z skip coding and become plumbers, electricians and carpenters instead. Says AI boom creating massive demand for skilled trades. Data centers need physical infrastructure.</p>\n<p>He said - \"If you're an electrician, a plumber. a carpenter we're going to need hundreds of thousands of them. If I were a student today I'd choose physical sciences over software.\"</p>\n<p>I had to read this twice. So are we all programmers now or should we all be plumbers or electricians ? Which one is it?</p>\n<p>Here's what clicked for me -</p>\n<p>Huang runs Nvidia right. Makes the chips that power AI. His whole job is hyping AI so people buy more GPUs. When he says \"everyone's a programmer now\" he's literally just selling you on AI tools. More people using AI means more compute power needed means more Nvidia chips getting sold. When he says \"become a plumber\" it's because they're building all these massive data centers and can't find enough electricians and plumbers to actually wire them up and keep them cool.</p>\n<p>Both statements just help Nvidia make money. Has nothing to do with actual career advice for you or me. It's like <strong>when everyone is digging for gold sell shovels</strong>.</p>\n<p>Okay to be fair he's kinda right about trades being in demand. Electricians, plumbers or carpenters can make serious money right now like six figures in some cities. But that's not because of AI data centers. That's because for the past 20 years everyone kept pushing kids to go to college and nobody wanted to learn trades. So now there's this massive shortage. AI boom is just adding to demand that was already there. Didn't create it.</p>\n<p>Also it's kinda funny how this billionaire CEO whose company needs AI to succeed is telling working class kids to become plumbers while his own kids probably went to like Stanford or MIT.</p>\n<p><strong>TLDR</strong></p>\n<p>Jensen Huang said everyone's a programmer now because of AI back in February. Then in October said forget coding become a plumber instead. Both statements just help Nvidia make money. First one sells AI tools second one fixes their labor shortage for building data centers. A human just beat OpenAI's AI in a coding competition even with all these tools. We've been hearing coding is dead for 30 years and still don't have enough programmers. Trades demand is real but it's not because of AI. Don't base your whole future on what some billionaire needs for his quarterly earnings report.</p>\n<p><strong>Sources:</strong></p>\n<p>Jensen Huang plumber statement: <a href=\"https://fortune.com/2025/09/30/nvidia-ceo-jensen-huang-demand-for-gen-z-skilled-trade-workers-electricans-plumbers-carpenters-data-center-growth-six-figure-salaries/\">https://fortune.com/2025/09/30/nvidia-ceo-jensen-huang-demand-for-gen-z-skilled-trade-workers-electricans-plumbers-carpenters-data-center-growth-six-figure-salaries/</a></p>\n<p>Jensen Huang Dubai statement: <a href=\"https://www.techradar.com/pro/nvidia-ceo-predicts-the-death-of-coding-jensen-huang-says-ai-will-do-the-work-so-kids-dont-need-to-learn\">https://www.techradar.com/pro/nvidia-ceo-predicts-the-death-of-coding-jensen-huang-says-ai-will-do-the-work-so-kids-dont-need-to-learn</a></p>",
+            "date_published": "2025-10-18T11:03:44+00:00",
+            "authors": [
+                {
+                    "name": "reddit20305",
+                    "url": "https://www.reddit.com/user/reddit20305"
+                }
+            ]
+        },
+        {
             "id": "1o6cow1",
             "url": "/r/ArtificialInteligence/comments/1o6cow1/anthropic_cofounder_admits_he_is_now_deeply/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1o6cow1/anthropic_cofounder_admits_he_is_now_deeply/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "LcuBeatsWorking",
                     "url": "https://www.reddit.com/user/LcuBeatsWorking"
-                }
-            ]
-        },
-        {
-            "id": "1iec67l",
-            "url": "/r/ArtificialInteligence/comments/1iec67l/how_one_youtuber_is_trying_to_poison_the_ai_bots/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1iec67l/how_one_youtuber_is_trying_to_poison_the_ai_bots/",
-            "title": "How one YouTuber is trying to poison the AI bots stealing her content",
-            "content_html": "<p>\"It's not hard to find YouTubers complaining about a flood of these faceless channels stealing their embedded transcript files and running them through AI summarizers to generate their own instant knock-offs. But one YouTuber is trying to fight back, seeding her transcripts with junk data that is invisible to humans but poisonous to any AI that dares to try to work from a poached transcript file.\"</p>\n<p><a href=\"https://arstechnica.com/ai/2025/01/how-one-youtuber-is-trying-to-poison-the-ai-bots-stealing-her-content/\">How one YouTuber is trying to poison the AI bots stealing her content - Ars Technica</a></p>",
-            "date_published": "2025-01-31T10:52:01+00:00",
-            "authors": [
-                {
-                    "name": "ope_poe",
-                    "url": "https://www.reddit.com/user/ope_poe"
                 }
             ]
         }
