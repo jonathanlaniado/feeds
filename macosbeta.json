@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1obpacc",
+            "url": "/r/MacOSBeta/comments/1obpacc/261_beta_4_available/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1obpacc/261_beta_4_available/",
+            "title": "26.1 beta 4 available",
+            "content_html": "<p>new setting to change liquid glass transparency</p>",
+            "date_published": "2025-10-20T18:13:52+00:00",
+            "authors": [
+                {
+                    "name": "Acrobatic-Monitor516",
+                    "url": "https://www.reddit.com/user/Acrobatic-Monitor516"
+                }
+            ]
+        },
+        {
             "id": "1o5r8hp",
             "url": "/r/MacOSBeta/comments/1o5r8hp/least_important_thing_but_this_seems_new_to_me/",
             "external_url": "https://v.redd.it/lpikfdlg5xuf1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Evelyn-Leung",
                     "url": "https://www.reddit.com/user/Evelyn-Leung"
-                }
-            ]
-        },
-        {
-            "id": "1lyu7lp",
-            "url": "/r/MacOSBeta/comments/1lyu7lp/did_safari_got_more_intuitive_vertical_tabs/",
-            "external_url": "https://www.reddit.com/gallery/1lyu7lp",
-            "title": "Did Safari got more intuitive \"vertical tabs\"?",
-            "content_html": "<p>In Tahoe, I noticed they\u2019ve added a way to close tabs in vertical sidebar mode. Two things I would love to see are: 1. An option to hide horizontal tabs when the sidebar is open for obvious reasons. 2. The sidebar should  follow the color scheme of the website as does the top bar; instead, it is only light and dark, which can look strange especially on dark websites, for example. I hope this makes sense. Very glad to see they acknowledge vertical tab management in Safari!! </p>",
-            "date_published": "2025-07-13T14:31:11+00:00",
-            "authors": [
-                {
-                    "name": "unchartedstory",
-                    "url": "https://www.reddit.com/user/unchartedstory"
                 }
             ]
         }
