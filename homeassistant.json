@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1obhcot",
+            "url": "/r/homeassistant/comments/1obhcot/finally_took_a_shot_at_building_a_interactive/",
+            "external_url": "https://i.redd.it/nj109w7yc9wf1.jpeg",
+            "title": "Finally took a shot at building a interactive floorplan of my room",
+            "content_html": "<p>Hello! I\u2019ve started using home assistant recently, and I\u2019m not really a tech savvy guy. I really liked the idea of building something like this, but I always thought it would be way too complicated for me. Finally took at shot at it and I\u2019m really happy with the results. WAY easier than It looks. Give it a try!</p><div><br></div><img src=\"https://i.redd.it/nj109w7yc9wf1.jpeg\" />",
+            "date_published": "2025-10-20T12:11:17+00:00",
+            "authors": [
+                {
+                    "name": "Pstck",
+                    "url": "https://www.reddit.com/user/Pstck"
+                }
+            ]
+        },
+        {
             "id": "1o9d3aj",
             "url": "/r/homeassistant/comments/1o9d3aj/i_converted_a_busted_chromebook_to_a_custom_3d/",
             "external_url": "https://www.reddit.com/gallery/1o9d3aj",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "DVXT",
                     "url": "https://www.reddit.com/user/DVXT"
-                }
-            ]
-        },
-        {
-            "id": "1grx7kz",
-            "url": "/r/homeassistant/comments/1grx7kz/why_is_everyone_german/",
-            "external_url": "https://www.reddit.com/r/homeassistant/comments/1grx7kz/why_is_everyone_german/",
-            "title": "Why is everyone german?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1grx7kz/why_is_everyone_german/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1grx7kz/why_is_everyone_german/'>Reddit</a></caption><div><br></div><p>Why do germans love HA so much? Not to be mad at anyone, but every single post I've seen is from some german guy, especially posts with trash automations.</p>\n<p>Edit: Just found this <a href=\"https://analytics.home-assistant.io\">HA Statistics</a>. If you scroll all the way down under the 'installations' tab, you find a map... ~64k users in Germany, ~67k users in USA. I think I found my answer</p>",
-            "date_published": "2024-11-15T14:11:17+00:00",
-            "authors": [
-                {
-                    "name": "NoSteak5456",
-                    "url": "https://www.reddit.com/user/NoSteak5456"
                 }
             ]
         }
