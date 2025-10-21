@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1ocjw38",
+            "url": "/r/ArcBrowser/comments/1ocjw38/openais_atlas_browser_seems_to_be_fond_of_arc/",
+            "external_url": "https://v.redd.it/nfpiomty6iwf1",
+            "title": "OpenAI's Atlas Browser seems to be fond of Arc Mobile's fidget spinner",
+            "content_html": "",
+            "date_published": "2025-10-21T17:54:05+00:00",
+            "authors": [
+                {
+                    "name": "JaceThings",
+                    "url": "https://www.reddit.com/user/JaceThings"
+                }
+            ]
+        },
+        {
             "id": "1o0r6hb",
             "url": "/r/ArcBrowser/comments/1o0r6hb/remember_when_we_begged_tbc_to_opensource_arc_the/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1o0r6hb/remember_when_we_begged_tbc_to_opensource_arc_the/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "vista-vision",
                     "url": "https://www.reddit.com/user/vista-vision"
-                }
-            ]
-        },
-        {
-            "id": "1gd37q6",
-            "url": "/r/ArcBrowser/comments/1gd37q6/insane_that_the_browser_company_is_dropping/",
-            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1gd37q6/insane_that_the_browser_company_is_dropping/",
-            "title": "Insane that The Browser Company is dropping support for their browser to build something that \"they're not sure is a browser\".",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1gd37q6/insane_that_the_browser_company_is_dropping/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1gd37q6/insane_that_the_browser_company_is_dropping/'>Reddit</a></caption><div><br></div><p>I mean their name is literally The Browser Company. It's in the title. How do you drop support for the thing that's in your name, that you've been saying you built the entire company to do, and instead just go off and do some other AI bullshit?</p>\n<p>Arc Search on mobile seems to be doing... alright I guess. But Perplexity is pumping out free trials for Pro like there's no tomorrow (all Comcast customers get a <em>full year</em> of free Pro). Every company under the sun is trying and has so far failed to turn LLMs into things that can \"think\" or be \"agentic\" or whatever the fuck, and every single one of them has failed to make a compelling product that is a sustainable business that won't crumple the minute Microsoft or AWS start charging normal prices for compute (instead of the rate we have now that is slashed in half).</p>\n<p>I also do not know a single person (parents, grandparents, people who are bad with tech) that I would recommend use AI shit. They are too confused by technology to be able to know to check the LLM's outputs because every single goddamn piece of generative AI technology CAN JUST LIE TO YOU. IT MAKES UP BULLSHIT. And yes, that includes the Whisper model that just does transcription (apparently at medical institutions it is hallucinating racist shit into transcriptions of patient / doctor interactions). If you give something to people that don't understand tech and that talks authoritatively about stuff, it's going to go bad. Really bad. </p>\n<p>Also why would I want an LLM interacting with my websites for me?? In what world would I ever want that? </p>\n<p>Think about it for a second. My browser has direct access to the most private and sensitive information about me. Emails. Messages. Bank account details. All of my social media. In order to automate use of a browser with AI, you're going to have to ship the web page off to a server somewhere because there are currently no local LLM models that can interact with a fucking browser lmao. So what happens if I let this LLM navigate my browser for me, and it accidentally for some reason sends off my bank account number, or my social security number, or my emails, or my texts, anything (just by accident) to one of these services? Those outputs are <em>absolutely</em> going to be used to train the next models (despite what these companies might claim) and they're for sure going to be stored somewhere. That sounds like a security and privacy nightmare. </p>\n<p>Nobody wants this. Nobody is asking for this. The technology to automate a browser is currently and (for the foreseeable future) will not be there because it is not cost effective and the LLMs are EXTREMELY bad at anything that isn't basic summarization. Claude's new computer use model boils an ocean every five seconds because in order to work it has to analyze huge screenshot on your computer and count the # of pixels it needs to click on stuff. That is not cost effective and there is no world in which it magically becomes so. Rabbit tried (and failed) to do it via the accessibility tree for Android and Windows apps. There have been multiple other browser extensions and AI startups who try to automate browser use and absolutely nobody uses them because they all suck, get stuck in a loop, or lie to you. </p>",
-            "date_published": "2024-10-27T04:37:21+00:00",
-            "authors": [
-                {
-                    "name": "weIIokay38",
-                    "url": "https://www.reddit.com/user/weIIokay38"
                 }
             ]
         }
