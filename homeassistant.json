@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1ocbebl",
+            "url": "/r/homeassistant/comments/1ocbebl/raise_your_hand_if_your_setup_was_unaffected_by/",
+            "external_url": "https://www.reddit.com/r/homeassistant/comments/1ocbebl/raise_your_hand_if_your_setup_was_unaffected_by/",
+            "title": "Raise your hand if your setup was unaffected by the AWS outage",
+            "content_html": "<p>TBH, I did not know AWS had gone out at all.  Most of my smart devices are Kasa and run locally.</p>\n<p>What about you?</p>",
+            "date_published": "2025-10-21T12:19:36+00:00",
+            "authors": [
+                {
+                    "name": "Academic-Swimming919",
+                    "url": "https://www.reddit.com/user/Academic-Swimming919"
+                }
+            ]
+        },
+        {
             "id": "1obhcot",
             "url": "/r/homeassistant/comments/1obhcot/finally_took_a_shot_at_building_a_interactive/",
             "external_url": "https://i.redd.it/nj109w7yc9wf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "cornflakesandchubbs",
                     "url": "https://www.reddit.com/user/cornflakesandchubbs"
-                }
-            ]
-        },
-        {
-            "id": "1gs1rp5",
-            "url": "/r/homeassistant/comments/1gs1rp5/my_zigbee_network_has_more_connections_than_my/",
-            "external_url": "https://i.redd.it/9ekl47ulo31e1.png",
-            "title": "My Zigbee network has more connections than my social life.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1gs1rp5/my_zigbee_network_has_more_connections_than_my/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1gs1rp5/my_zigbee_network_has_more_connections_than_my/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/9ekl47ulo31e1.png\" />",
-            "date_published": "2024-11-15T17:32:36+00:00",
-            "authors": [
-                {
-                    "name": "DVXT",
-                    "url": "https://www.reddit.com/user/DVXT"
                 }
             ]
         }
