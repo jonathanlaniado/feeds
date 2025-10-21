@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1oc7ahq",
+            "url": "/r/MacOSBeta/comments/1oc7ahq/new_extended_apple_intelligence_in_261_beta_4/",
+            "external_url": "https://i.redd.it/tsibuitdcfwf1.png",
+            "title": "New Extended Apple Intelligence in 26.1 beta 4",
+            "content_html": "<p>Some strange things I noticed with Apple Intelligence and ChatGPT in the latest beta. I can't change any settings and it looks like they are prepping for a bigger ChatGPT integration and AI improvements.</p><div><br></div><img src=\"https://i.redd.it/tsibuitdcfwf1.png\" />",
+            "date_published": "2025-10-21T08:19:34+00:00",
+            "authors": [
+                {
+                    "name": "moebis",
+                    "url": "https://www.reddit.com/user/moebis"
+                }
+            ]
+        },
+        {
             "id": "1obqhfq",
             "url": "/r/MacOSBeta/comments/1obqhfq/261_b4_new_liquid_glass_toggle_switch/",
             "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1obqhfq/261_b4_new_liquid_glass_toggle_switch/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "TimeDoctor3921",
                     "url": "https://www.reddit.com/user/TimeDoctor3921"
-                }
-            ]
-        },
-        {
-            "id": "1lzhw22",
-            "url": "/r/MacOSBeta/comments/1lzhw22/why_does_macos_tahoe_has_animated_lock_screen_but/",
-            "external_url": "https://v.redd.it/8xp12j7v5tcf1",
-            "title": "Why does macos Tahoe has animated lock screen, but desktop doesn't?",
-            "content_html": "<p>In DB3 I have video on lock screen and it looks amazing. But I'm wondering that wallpaper is still and not dynamic. Actually I have only Tahoe (Day) and it's not updating during the day. Is it only for me or this will be updated in a future? </p>",
-            "date_published": "2025-07-14T09:27:22+00:00",
-            "authors": [
-                {
-                    "name": "ekzotech",
-                    "url": "https://www.reddit.com/user/ekzotech"
                 }
             ]
         }
