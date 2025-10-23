@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1odtaeu",
+            "url": "/r/ArcBrowser/comments/1odtaeu/breaking_news_vertical_tabs_are_coming_to_comet/",
+            "external_url": "https://i.redd.it/93ulw8w1aswf1.png",
+            "title": "\ud83d\udea8 Breaking News: Vertical Tabs are coming to Comet (and likely Atlas soon too).",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/93ulw8w1aswf1.png\" />",
+            "date_published": "2025-10-23T03:49:31+00:00",
+            "authors": [
+                {
+                    "name": "Enigma_101",
+                    "url": "https://www.reddit.com/user/Enigma_101"
+                }
+            ]
+        },
+        {
             "id": "1ocjw38",
             "url": "/r/ArcBrowser/comments/1ocjw38/openais_atlas_browser_seems_to_be_fond_of_arc/",
             "external_url": "https://v.redd.it/nfpiomty6iwf1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "joeliomartini",
                     "url": "https://www.reddit.com/user/joeliomartini"
-                }
-            ]
-        },
-        {
-            "id": "1gdald7",
-            "url": "/r/ArcBrowser/comments/1gdald7/makes_sense/",
-            "external_url": "https://i.redd.it/g5ux9ffrsaxd1.jpeg",
-            "title": "Makes Sense",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1gdald7/makes_sense/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1gdald7/makes_sense/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/g5ux9ffrsaxd1.jpeg\" />",
-            "date_published": "2024-10-27T13:09:19+00:00",
-            "authors": [
-                {
-                    "name": "vista-vision",
-                    "url": "https://www.reddit.com/user/vista-vision"
                 }
             ]
         }
