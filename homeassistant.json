@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1oedn3q",
+            "url": "/r/homeassistant/comments/1oedn3q/vacuum_cleaner_doors_opening_with_knight_rider/",
+            "external_url": "https://www.youtube.com/watch?v=SrqpMGikY9g",
+            "title": "Vacuum cleaner doors opening with Knight Rider theme",
+            "content_html": "<p>Home Assistant integration with Roborock.</p>\n<ul>\n<li>Aqara Roller Shade Driver E1 over Zigbee</li>\n<li>Automatic Cabinet Door Mechanism for Robot Vacuum (IKEA Metod + Aqara E1) - https://www.printables.com/model/1381371-a...</li>\n<li>QuinLED-dig2go - <a href=\"https://quinled.info/quinled-dig2go/\">https://quinled.info/quinled-dig2go/</a></li>\n</ul>",
+            "date_published": "2025-10-23T20:06:08+00:00",
+            "authors": [
+                {
+                    "name": "Perfect-Register7216",
+                    "url": "https://www.reddit.com/user/Perfect-Register7216"
+                }
+            ]
+        },
+        {
             "id": "1ocbebl",
             "url": "/r/homeassistant/comments/1ocbebl/raise_your_hand_if_your_setup_was_unaffected_by/",
             "external_url": "https://www.reddit.com/r/homeassistant/comments/1ocbebl/raise_your_hand_if_your_setup_was_unaffected_by/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Lumpy_Stranger_1056",
                     "url": "https://www.reddit.com/user/Lumpy_Stranger_1056"
-                }
-            ]
-        },
-        {
-            "id": "1gtcuqd",
-            "url": "/r/homeassistant/comments/1gtcuqd/my_eink_dashboard_with_wooden_frame/",
-            "external_url": "https://www.reddit.com/gallery/1gtcuqd",
-            "title": "My e-ink dashboard with wooden frame",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1gtcuqd/my_eink_dashboard_with_wooden_frame/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1gtcuqd/my_eink_dashboard_with_wooden_frame/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-11-17T12:49:33+00:00",
-            "authors": [
-                {
-                    "name": "cornflakesandchubbs",
-                    "url": "https://www.reddit.com/user/cornflakesandchubbs"
                 }
             ]
         }
