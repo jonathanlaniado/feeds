@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1of41kh",
+            "url": "/r/macapps/comments/1of41kh/worth_building_dynamic_dock_for_mac/",
+            "external_url": "https://i.redd.it/1mt98etbh3xf1.jpeg",
+            "title": "Worth Building? - Dynamic Dock for Mac",
+            "content_html": "<p><strong>Anyone interested in this idea?</strong><br />\nI don\u2019t have a lot of time since I\u2019m also working on other projects, so I\u2019d like to know if people are actually interested in this concept first.<br />\nI already have a prototype, but it still needs a lot of polishing.</p>\n<p><strong>Let me know if you think this is worth developing and what other apps might benefit from having a dynamic widget in the dock and how.</strong></p>\n<p>Edit: This isnt my idea i got the Screenshot from a youtube Concept video and havent found anyone who built this yet</p><div><br></div><img src=\"https://i.redd.it/1mt98etbh3xf1.jpeg\" />",
+            "date_published": "2025-10-24T17:32:39+00:00",
+            "authors": [
+                {
+                    "name": "lilkatho2",
+                    "url": "https://www.reddit.com/user/lilkatho2"
+                }
+            ]
+        },
+        {
             "id": "1o6hufc",
             "url": "/r/macapps/comments/1o6hufc/bloom_has_replaced_a_bunch_of_other_software_for/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1o6hufc/bloom_has_replaced_a_bunch_of_other_software_for/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "amerpie",
                     "url": "https://www.reddit.com/user/amerpie"
-                }
-            ]
-        },
-        {
-            "id": "1gabcij",
-            "url": "/r/macapps/comments/1gabcij/hazel_6_just_got_released/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1gabcij/hazel_6_just_got_released/",
-            "title": "Hazel 6 just got released",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1gabcij/hazel_6_just_got_released/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1gabcij/hazel_6_just_got_released/'>Reddit</a></caption><div><br></div><p>According to the email I got it has several awesome new features:</p>\n<ul>\n<li>On-the-fly text recognition. When matching against a file\u2019s contents, Hazel can do text recognition on PDFs that haven\u2019t been OCRed. Works on images, too!</li>\n<li>Ability to read encrypted PDFs. You can now supply a password in your rule to unlock any encrypted PDFs so that Hazel can read their contents. Passwords are stored securely in your keychain.</li>\n<li>Revert File: you can now access Hazel functionality in Finder. If Hazel put a file somewhere you didn\u2019t intend, you can select the file in Finder, right-click it and select Revert to put it back. You can undo file moves, renames, tag and comment changes.</li>\n<li>New custom list attribute to allow you match and store lists of items. You can match against other lists or text. With these, you can copy tags between files or assign tags from files.</li>\n<li>New actions to lock/unlock files and to pause a rule.</li>\n</ul>\n<p>I\u2019m so happy to throw money at this dev. I don\u2019t know how much time Hazel saved me, but it is a lot. Everyone is talking about Inbox zero but this piece of software helped me to achieve Downloads folder zero which is something I wouldn\u2019t have done without it.</p>",
-            "date_published": "2024-10-23T14:03:46+00:00",
-            "authors": [
-                {
-                    "name": "Johnkree",
-                    "url": "https://www.reddit.com/user/Johnkree"
                 }
             ]
         }
