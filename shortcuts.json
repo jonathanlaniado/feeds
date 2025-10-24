@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1oeuqna",
+            "url": "/r/shortcuts/comments/1oeuqna/dynamic_abstract_wallpaper_shortcut_apple/",
+            "external_url": "https://www.reddit.com/gallery/1oeuqna",
+            "title": "Dynamic Abstract Wallpaper Shortcut (Apple Intelligence, Weather-Based )",
+            "content_html": "<p>Apple Intelligence is now available in the Shortcuts since iOS 26, iPad OS 26, and macOS 26. That means we can build some really cool and useful automation based on that.</p>\n<p>I created a shortcut that takes advantage of this by generating an abstract wallpaper that reflects the current weather and automatically applying sets it as your system wallpaper. (Image Playground)</p>\n<p>The most amazing part is that the whole process happens locally on your devices without an internet connection, which means no data usage, privacy issues, or quotas.</p>\n<h1>What it does</h1>\n<ul>\n<li>Generates an abstract wallpaper based mainly on weather and date/time.</li>\n<li>Additionally, it utilizes the current calendar appointment, focus mode and currently used application. This is to ensure diversity in wallpaper styles.</li>\n<li>It performs locally and does not require sending anything to the server.</li>\n<li>Changes the system wallpaper to the generated one.</li>\n</ul>\n<h1>Shortcut Link</h1>\n<p><a href=\"https://www.icloud.com/shortcuts/0ac357bd3eba4dbc9a64df1bc0288dd2\">https://www.icloud.com/shortcuts/0ac357bd3eba4dbc9a64df1bc0288dd2</a></p>\n<h1>Minimum Requirements</h1>\n<ul>\n<li>iOS 26, iPadOS 26 or macOS 26 or higher</li>\n<li>Devices that support Apple Intelligence</li>\n</ul>",
+            "date_published": "2025-10-24T11:03:50+00:00",
+            "authors": [
+                {
+                    "name": "MiserableDeer6547",
+                    "url": "https://www.reddit.com/user/MiserableDeer6547"
+                }
+            ]
+        },
+        {
             "id": "1o4u8m0",
             "url": "/r/shortcuts/comments/1o4u8m0/when_i_leave_work_it_texts_my_partner_with_my/",
             "external_url": "https://www.reddit.com/gallery/1o4u8m0",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "cancerous_rhinoceros",
                     "url": "https://www.reddit.com/user/cancerous_rhinoceros"
-                }
-            ]
-        },
-        {
-            "id": "1auubal",
-            "url": "/r/shortcuts/comments/1auubal/ask_chatgpt_to_create_a_playlist_based_on_the/",
-            "external_url": "https://routinehub.co/shortcut/18088/",
-            "title": "Ask ChatGPT to create a playlist based on the current song.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1auubal/ask_chatgpt_to_create_a_playlist_based_on_the/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1auubal/ask_chatgpt_to_create_a_playlist_based_on_the/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-02-19T18:18:52+00:00",
-            "authors": [
-                {
-                    "name": "Higginbotham",
-                    "url": "https://www.reddit.com/user/Higginbotham"
                 }
             ]
         }
