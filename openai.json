@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1og9oi1",
+            "url": "/r/OpenAI/comments/1og9oi1/openai_employee_talks_about_how_the_company/",
+            "external_url": "https://i.redd.it/x7la5v49ddxf1.jpeg",
+            "title": "OpenAI employee talks about how the company actually makes decisions",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/x7la5v49ddxf1.jpeg\" />",
+            "date_published": "2025-10-26T02:44:17+00:00",
+            "authors": [
+                {
+                    "name": "jiweep",
+                    "url": "https://www.reddit.com/user/jiweep"
+                }
+            ]
+        },
+        {
             "id": "1oe42et",
             "url": "/r/OpenAI/comments/1oe42et/fair_question/",
             "external_url": "https://i.redd.it/ungppt5xavwf1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "lilythstern",
                     "url": "https://www.reddit.com/user/lilythstern"
-                }
-            ]
-        },
-        {
-            "id": "1jvtgce",
-            "url": "/r/OpenAI/comments/1jvtgce/o3_full_and_o4_mini_soon/",
-            "external_url": "https://i.redd.it/41d6lw304zte1.jpeg",
-            "title": "O3 full and o4 mini soon",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/41d6lw304zte1.jpeg\" />",
-            "date_published": "2025-04-10T09:06:13+00:00",
-            "authors": [
-                {
-                    "name": "Independent-Wind4462",
-                    "url": "https://www.reddit.com/user/Independent-Wind4462"
                 }
             ]
         }
