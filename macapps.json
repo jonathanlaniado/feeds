@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1ohr66b",
+            "url": "/r/macapps/comments/1ohr66b/pearcleaner_its_also_a_free_homebrew_gui/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1ohr66b/pearcleaner_its_also_a_free_homebrew_gui/",
+            "title": "Pearcleaner... it's also a free Homebrew GUI!",
+            "content_html": "<p>With the latest update, Pearcleaner has taken a step that I have been waiting for for a long time: becoming a graphical interface for homebrew: search, installation, cleaning, etc.</p>\n<p><a href=\"https://preview.redd.it/6yvznhvp2qxf1.png?width=2024&amp;format=png&amp;auto=webp&amp;s=524391120957250474afa428298c7115f6f8611f\">Pearcleaner homepage GUI for Homebrew</a></p>",
+            "date_published": "2025-10-27T21:30:07+00:00",
+            "authors": [
+                {
+                    "name": "The_Blinded",
+                    "url": "https://www.reddit.com/user/The_Blinded"
+                }
+            ]
+        },
+        {
             "id": "1of41kh",
             "url": "/r/macapps/comments/1of41kh/worth_building_dynamic_dock_for_mac/",
             "external_url": "https://i.redd.it/1mt98etbh3xf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MichaelTheGeek",
                     "url": "https://www.reddit.com/user/MichaelTheGeek"
-                }
-            ]
-        },
-        {
-            "id": "1gcgu3r",
-            "url": "/r/macapps/comments/1gcgu3r/virtual_buddy_run_mac_and_linux_vms_with_ease_on/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1gcgu3r/virtual_buddy_run_mac_and_linux_vms_with_ease_on/",
-            "title": "Virtual Buddy - Run Mac and Linux VMs with Ease on Apple Silicon for Free",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1gcgu3r/virtual_buddy_run_mac_and_linux_vms_with_ease_on/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1gcgu3r/virtual_buddy_run_mac_and_linux_vms_with_ease_on/'>Reddit</a></caption><div><br></div><p><a href=\"https://preview.redd.it/0xyu6ieze2xd1.jpg?width=900&amp;format=pjpg&amp;auto=webp&amp;s=093dc9738b91549b55dd622f7254feee984e80ff\">Virtual Buddy Showcase</a></p>\n<p>If you want to test out betas without endangering your primary machine or if or if your a developer looking to test backwards compatibility with previous versions of macOS with your app or even if you just want a safe way to test software you want to try before adding it to your daily driver, take a look at Virtual Buddy, by developer Guilherme Rambo, <a href=\"https://github.com/insidegui/VirtualBuddy\">a GitHub release with 5.1K stars</a>. It also runs several Linux distros if you have a need for that.</p>\n<p>You can choose a Mac release (including betas) from a long list ranging from macOS 13.3 all the way to macOS 15.1 RC1. If you have a URL for another IPSW or an IPSW you have already downloaded, you can use them as well.</p>\n<p>If you want to install a beta of a version higher than what you are running on your host computer, all you need to do is download the latest device support package from Apple which you can sometimes download from their website but cal always get if you install the latest Xcode beta.</p>\n<p>The developer lists these features:</p>\n<ul>\n<li>Ability to boot any version of macOS 12 or macOS 13, including betas</li>\n<li>Ability to boot some ARM-based Linux distros (tested with Ubuntu Server and Ubuntu Desktop)</li>\n<li>Built-in installation wizard</li>\n<li>Select from a collection of restore images available on Apple's servers</li>\n<li>Install the latest stable version of macOS</li>\n<li>Local restore image IPSW file</li>\n<li>Custom restore image URL</li>\n<li>Install a Linux distro from a local .iso file</li>\n<li>Select from a collection of Linux distros</li>\n<li>Install Linux from URL</li>\n<li>Boot into recovery mode (in order to disable SIP, for example)</li>\n<li>Networking and file sharing support</li>\n<li>Clipboard sharing</li>\n<li>Customize virtual machine hardware configuration</li>\n<li>Save and restore macOS virtual machine state</li>\n</ul>\n<p><a href=\"https://github.com/insidegui/VirtualBuddy\">Download from GitHub.</a></p>",
-            "date_published": "2024-10-26T08:57:03+00:00",
-            "authors": [
-                {
-                    "name": "amerpie",
-                    "url": "https://www.reddit.com/user/amerpie"
                 }
             ]
         }
