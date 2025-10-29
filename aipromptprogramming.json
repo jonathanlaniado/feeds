@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1oj5pat",
+            "url": "/r/aipromptprogramming/comments/1oj5pat/use_this_exact_prompt_to_make_chatgpt_finally/",
+            "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1oj5pat/use_this_exact_prompt_to_make_chatgpt_finally/",
+            "title": "Use this exact prompt to make ChatGPT finally give critical, humanized, to the point answers",
+            "content_html": "<p>Hey everyone. I use this custom instructions prompt that really improved my ChatGPT outputs.</p>\n<p>I see everyone complaining daily about ChatGPT being too agreeable, so I thought this will be useful to some of you.</p>\n<p>1/ Add it to your custom instructions inside Settings &gt; Personalization.</p>\n<p>2/ Use \"ChatGPT-Thinking\" rather than \"Instant\" for best results!</p>\n<p>Full Prompt:</p>\n<p>\u259b\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u259c<br />\n\u258c GOD.MODE.GPT :: MAX\u2590<br />\n\u2599\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u259f</p>\n<p>\u27e8THINK\u27e9<br />\nStrip.assumptions | Invert | 2nd/3rd.order | Systems\u2192loops/leverage/emergence | Question.everything</p>\n<p>\u27e8FRAMEWORKS\u27e9<br />\nSteelman[disagree] | Premortem[strategy] | Incentives[policy] | Base.rate[predict] | Falsify[claims]</p>\n<p>\u27e8ANALYZE\u27e9<br />\nExpose.hidden | Find.constraint | Spot.bias | Acknowledge.gaps\u2192decide.anyway</p>\n<p>\u27e8ADAPT\u27e9<br />\nTech\u2192precision | Emotional\u2192empathy | Strategy\u2192ruthless | Facts\u2192accuracy | Creative\u2192explore</p>\n<p>\u27e8VOICE\u27e9<br />\nVary.rhythm | Fragments.ok | I/you/we | Contractions | Start.mid-thought | End.on.image | Coworker.not.bot | Shortlong</p>\n<p>\u27e8BAN\u27e9<br />\nEm-dashes(\u2014)\u2192use.commas/periods | Semicolons | \"Great question!\" | \"I'd be happy to\" | \"Both have merit\"</p>\n<p>\u27e8AGREE\u27e9<br />\nFacts=facts | Never.without.reason | Sound\u2192say.so+what.missed | No.fake.disagreement</p>\n<p>\u27e8COMMUNICATE\u27e9<br />\nShow.uncertainty | Disagree\u2192\"won't.work.because\" | Wrong\u2192say+better</p>\n<p>\u27e8CORE\u27e9<br />\nUseful&gt;polite | Truth&gt;validation | Help.win.not.feel.good<br />\n\u2582\u2582\u2582\u2582\u2582\u2582\u2582\u2582\u2582\u2582\u2582\u2582\u2582\u2582\u2582\u2582\u2582\u2582\u2582\u2582\u2582\u2582\u2582\u2582\u259f<br />\n\u26a1 EXECUTE \u26a1</p>\n<p>---END PROMPT---</p>\n<p>If you found this useful, <a href=\"https://godofprompt.beehiiv.com/\">subscribe to my newsletter</a> for more weekly drops of AI prompts, tips, &amp; workflows.</p>",
+            "date_published": "2025-10-29T14:15:30+00:00",
+            "authors": [
+                {
+                    "name": "whenyoupeeupsidedown",
+                    "url": "https://www.reddit.com/user/whenyoupeeupsidedown"
+                }
+            ]
+        },
+        {
             "id": "1nda1ey",
             "url": "/r/aipromptprogramming/comments/1nda1ey/ai_agents_and_automation_no_code_n8n_zapier_rags/",
             "external_url": "/r/UnderstandingAI/comments/1nd8sjk/ai_agents_and_automation_no_code_n8n_zapier_rags/",
@@ -1386,20 +1400,6 @@
             "title": "Self driving bus in China",
             "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1fcfg4y/self_driving_bus_in_china/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1fcfg4y/self_driving_bus_in_china/'>Reddit</a></caption><div><br></div>",
             "date_published": "2024-09-09T02:51:37+00:00",
-            "authors": [
-                {
-                    "name": "Educational_Ice151",
-                    "url": "https://www.reddit.com/user/Educational_Ice151"
-                }
-            ]
-        },
-        {
-            "id": "1fagag3",
-            "url": "/r/aipromptprogramming/comments/1fagag3/the_new_agent_capability_in_replit_is_mind/",
-            "external_url": "https://v.redd.it/13yxn4bi67nd1",
-            "title": "The new agent capability in Replit is mind blowing to say the least. It built an entire functional app in under two minutes.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1fagag3/the_new_agent_capability_in_replit_is_mind/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1fagag3/the_new_agent_capability_in_replit_is_mind/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-09-06T14:16:58+00:00",
             "authors": [
                 {
                     "name": "Educational_Ice151",
