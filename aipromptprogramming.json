@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1ol20wo",
+            "url": "/r/aipromptprogramming/comments/1ol20wo/built_this_app_with_vibecoding_now_im_stuck/",
+            "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1ol20wo/built_this_app_with_vibecoding_now_im_stuck/",
+            "title": "Built this app with VibeCoding, now I\u2019m stuck",
+            "content_html": "<p>Hey everyone, I built <a href=\"https://www.studystream.live/home?utm_source=reddit&amp;utm_medium=organic&amp;utm_campaign=61\">this app</a> using VibeCoding with Claude, and honestly it\u2019s been amazing so far.<br />\nThe app runs fine front-end, backend, everything is smooth. It\u2019s basically a minimal \u201cfocus/live study\u201d tool where users can create sessions and join others in real time.</p>\n<p>The problem is: now that it actually works, I have no idea how to move forward.<br />\nLike how do I properly add new features without breaking everything Claude already helped me build?</p>\n<p>Every time I try to ask Claude to \u201cadd\u201d something (like a small leaderboard, login system, or notifications), it either overwrites a bunch of working code or gives me half-correct snippets with no idea where to put them.<br />\nI\u2019ve tried uploading the project files and telling it to \u201cextend this functionality,\u201d but it still loses track of the app\u2019s structure after a few turns.</p>\n<p>What\u2019s the best workflow here?<br />\nDo you guys start new sessions every time you add something, or do you somehow \u201ctrain\u201d Claude on your existing repo so it remembers where things are?<br />\nI don\u2019t want to rebuild from scratch every time I want a new feature.</p>\n<p>Any advice or examples would be super appreciated \ud83d\ude4f</p>",
+            "date_published": "2025-10-31T18:14:46+00:00",
+            "authors": [
+                {
+                    "name": "Quiet-Custard137",
+                    "url": "https://www.reddit.com/user/Quiet-Custard137"
+                }
+            ]
+        },
+        {
             "id": "1oj5pat",
             "url": "/r/aipromptprogramming/comments/1oj5pat/use_this_exact_prompt_to_make_chatgpt_finally/",
             "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1oj5pat/use_this_exact_prompt_to_make_chatgpt_finally/",
@@ -1386,20 +1400,6 @@
             "title": "\ud83d\udca7 The O1 model is undeniably powerful. I tested it by replicating Drupal CMS, into Node.js. Amazingly It easily converted the entire codebase from PHP to JS.",
             "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1fgzdak/the_o1_model_is_undeniably_powerful_i_tested_it/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1fgzdak/the_o1_model_is_undeniably_powerful_i_tested_it/'>Reddit</a></caption><div><br></div><p>\ud83d\udca7 The O1 model is undeniably powerful. I tested it by replicating Drupal CMS, into Node.js. Amazingly It easily converted the entire codebase from PHP to JS. </p>\n<p>With a detailed prompt, outlining the structure, API, and taxonomy, the O1 preview generated a full implementation plan in seconds.</p>\n<p>After creating the functional Drupal.js, I then went into GPT-Engineer to design the UI. The entire process, from the backend to the user interface, took about an hour.</p>\n<p>What\u2019s truly amazing is that the O1 model didn\u2019t just replicate\u2014it completely cloned a PHP application into an entirely different language. </p>\n<p>It seamlessly transformed the codebase from PHP to JavaScript, showing how effortlessly it can handle cross-language transformations.</p>\n<p>Not only did the O1 model provide a clear specification, but it also built the required folder and file structure using a bash script, making setup effortless. </p>\n<p>This is a glimpse into the future, where creating or cloning any application could become as simple as pointing and commanding, \"build me that.\"</p>\n<p>We live in truly unprecedented times. </p>\n<p>Demo: \nhttps://github.com/ruvnet/drupaljs</p>\n<p>GitHub: https://drupaljs.gptengineer.run/</p><div><br></div><img src=\"https://i.redd.it/zd7issvo3vod1.jpeg\" />",
             "date_published": "2024-09-14T23:47:49+00:00",
-            "authors": [
-                {
-                    "name": "Educational_Ice151",
-                    "url": "https://www.reddit.com/user/Educational_Ice151"
-                }
-            ]
-        },
-        {
-            "id": "1fcfg4y",
-            "url": "/r/aipromptprogramming/comments/1fcfg4y/self_driving_bus_in_china/",
-            "external_url": "https://v.redd.it/r14jdg34innd1",
-            "title": "Self driving bus in China",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1fcfg4y/self_driving_bus_in_china/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1fcfg4y/self_driving_bus_in_china/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-09-09T02:51:37+00:00",
             "authors": [
                 {
                     "name": "Educational_Ice151",
