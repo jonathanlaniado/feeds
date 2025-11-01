@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1olb7v0",
+            "url": "/r/selfhosted/comments/1olb7v0/is_there_a_way_for_admins_to_ban_users_for/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1olb7v0/is_there_a_way_for_admins_to_ban_users_for/",
+            "title": "Is there a way for admins to ban users for posting apps that are entirely vibe coded with clearly AI written posts? This is getting absurd.",
+            "content_html": "<p>I get that some apps are made with vibe coding and that\u2019s not the end of the world. But I am constantly seeing apps on here and it\u2019s seemingly multiple per day at this point that are all clearly 100% shitty ai and they don\u2019t even write their own posts.</p>",
+            "date_published": "2025-11-01T00:57:04+00:00",
+            "authors": [
+                {
+                    "name": "CalebWest02",
+                    "url": "https://www.reddit.com/user/CalebWest02"
+                }
+            ]
+        },
+        {
             "id": "1ob69tl",
             "url": "/r/selfhosted/comments/1ob69tl/jellyfin_10110_has_been_released_this_is_a_major/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1ob69tl/jellyfin_10110_has_been_released_this_is_a_major/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "bluntmonument1",
                     "url": "https://www.reddit.com/user/bluntmonument1"
-                }
-            ]
-        },
-        {
-            "id": "1h7z9js",
-            "url": "/r/selfhosted/comments/1h7z9js/what_do_you_think_about_my_new_home_server/",
-            "external_url": "https://i.redd.it/e1wpcyb2r75e1.jpeg",
-            "title": "What do you think about my new Home Server?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1h7z9js/what_do_you_think_about_my_new_home_server/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1h7z9js/what_do_you_think_about_my_new_home_server/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/e1wpcyb2r75e1.jpeg\" />",
-            "date_published": "2024-12-06T11:26:32+00:00",
-            "authors": [
-                {
-                    "name": "La_wand",
-                    "url": "https://www.reddit.com/user/La_wand"
                 }
             ]
         }
