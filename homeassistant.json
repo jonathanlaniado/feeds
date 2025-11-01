@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1olmwl6",
+            "url": "/r/homeassistant/comments/1olmwl6/i_made_my_coffeemaker_even_smarter/",
+            "external_url": "https://www.reddit.com/gallery/1olmwl6",
+            "title": "I made my coffeemaker even smarter!",
+            "content_html": "<p>Two weeks ago I made my coffeemaker remotely controllable: https://www.reddit.com/r/homeassistant/comments/1oa09xf/i_made_my_coffeemaker_smart/</p>\n<p>Now I reversed engineered the UART-Connection between the LLC and the display to get stuff that the display shows\u2026 So now I can see the temperature in HA (MQTT via ESP32) and know when it is heated up!\nAlso everything fits inside the Maschine and it didn\u2019t lost any functionality\u2026</p>\n<p>For those who want to do the same thing and also have a PL81T:\nIt\u2019s a 9600 baud UART connection and the data has to be read encoded (not ASCII) and be synced on the 3F bit\u2026 the algorithm to get the temperature is a bit to complicated to describe here, but just DM me if you want to know how it works\u2026</p>",
+            "date_published": "2025-11-01T12:45:19+00:00",
+            "authors": [
+                {
+                    "name": "Soft-Program-947",
+                    "url": "https://www.reddit.com/user/Soft-Program-947"
+                }
+            ]
+        },
+        {
             "id": "1ojdeeu",
             "url": "/r/homeassistant/comments/1ojdeeu/there_are_two_types_of_home_assistant_users_and_i/",
             "external_url": "https://i.redd.it/qmz24adam3yf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "chrispgriffin",
                     "url": "https://www.reddit.com/user/chrispgriffin"
-                }
-            ]
-        },
-        {
-            "id": "1gwm823",
-            "url": "/r/homeassistant/comments/1gwm823/me_after_discovering_zigbee/",
-            "external_url": "https://i.redd.it/htvknnsara2e1.jpeg",
-            "title": "Me after discovering Zigbee ~__~",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1gwm823/me_after_discovering_zigbee/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1gwm823/me_after_discovering_zigbee/'>Reddit</a></caption><div><br></div><p>Bought these after setting up my Z2M and before tariffs applied in Jan (US) whatsoever. All of this costs me $80, including a bunch of contact sensor, motion sensor, water leak sensors, some bulbs, mini button and 2 dedicated repeaters. I have been an Aqara fan for so long but the price for these Zigbee sensors are so cheap, the little motion sensor cube even works faster than my Aqara motion sensor.</p>\n<p>Setup: Slzb-06 with Z2M and MQTT in separate LXCs in Proxmox. Slzb bought from Ali as well for $20 (new account coupon), regular price is $30.</p>\n<p>Any other Zigbee devices I should buy?</p><div><br></div><img src=\"https://i.redd.it/htvknnsara2e1.jpeg\" />",
-            "date_published": "2024-11-21T18:20:37+00:00",
-            "authors": [
-                {
-                    "name": "LastBitofCoffee",
-                    "url": "https://www.reddit.com/user/LastBitofCoffee"
                 }
             ]
         }
