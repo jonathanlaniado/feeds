@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1omjwmr",
+            "url": "/r/homeassistant/comments/1omjwmr/garbage_collection_info_machine/",
+            "external_url": "https://www.reddit.com/gallery/1omjwmr",
+            "title": "Garbage Collection info \"machine\"",
+            "content_html": "<p>I don't have a 3D printer, so I had to cut and drill a plastic box. An ESP32 retrieves the collection schedule information for the garbage bins from the local waste management. HA triggers white LEDs and indicates which bin will be collected the following day,also plays a melody through passive speaker inside the box. Information appears on a display (in a rotating menu): when is the next collection for which garbage bin</p>",
+            "date_published": "2025-11-02T15:17:12+00:00",
+            "authors": [
+                {
+                    "name": "dittmeyer",
+                    "url": "https://www.reddit.com/user/dittmeyer"
+                }
+            ]
+        },
+        {
             "id": "1olmwl6",
             "url": "/r/homeassistant/comments/1olmwl6/i_made_my_coffeemaker_even_smarter/",
             "external_url": "https://www.reddit.com/gallery/1olmwl6",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ElementZoom",
                     "url": "https://www.reddit.com/user/ElementZoom"
-                }
-            ]
-        },
-        {
-            "id": "1gy3c17",
-            "url": "/r/homeassistant/comments/1gy3c17/i_am_loving_these_doorbell_notifications_i_set_up/",
-            "external_url": "https://i.imgur.com/d83lf8B.png",
-            "title": "I am loving these doorbell notifications I set up using Reolink + LLM Vision integrations",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1gy3c17/i_am_loving_these_doorbell_notifications_i_set_up/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1gy3c17/i_am_loving_these_doorbell_notifications_i_set_up/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.imgur.com/d83lf8B.png\" />",
-            "date_published": "2024-11-23T16:21:16+00:00",
-            "authors": [
-                {
-                    "name": "chrispgriffin",
-                    "url": "https://www.reddit.com/user/chrispgriffin"
                 }
             ]
         }
