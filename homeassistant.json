@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1omskh2",
+            "url": "/r/homeassistant/comments/1omskh2/my_minimalist_dashboard/",
+            "external_url": "https://i.redd.it/650b9d7ypwyf1.jpeg",
+            "title": "My minimalist dashboard",
+            "content_html": "<p>I'm pretty happy with it (I'm 15 btw)</p><div><br></div><img src=\"https://i.redd.it/650b9d7ypwyf1.jpeg\" />",
+            "date_published": "2025-11-02T20:53:22+00:00",
+            "authors": [
+                {
+                    "name": "Uninterested_Viewer",
+                    "url": "https://www.reddit.com/user/Uninterested_Viewer"
+                }
+            ]
+        },
+        {
             "id": "1omjwmr",
             "url": "/r/homeassistant/comments/1omjwmr/garbage_collection_info_machine/",
             "external_url": "https://www.reddit.com/gallery/1omjwmr",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "sysvival",
                     "url": "https://www.reddit.com/user/sysvival"
-                }
-            ]
-        },
-        {
-            "id": "1gyz5nh",
-            "url": "/r/homeassistant/comments/1gyz5nh/gemini_ai_is_roasting_my_family/",
-            "external_url": "https://i.redd.it/nz9jkdqnhw2e1.jpeg",
-            "title": "Gemini AI is roasting my family \ud83e\udd10",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1gyz5nh/gemini_ai_is_roasting_my_family/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1gyz5nh/gemini_ai_is_roasting_my_family/'>Reddit</a></caption><div><br></div><p>Finally set up my camera with LLM Vision. Inspired by the redditor below. See below link for walkthrough how to set up.</p>\n<p>Everyone should try this out at least once!</p>\n<p>https://www.reddit.com/r/homeassistant/s/zypQbVGpBI</p><div><br></div><img src=\"https://i.redd.it/nz9jkdqnhw2e1.jpeg\" />",
-            "date_published": "2024-11-24T19:25:47+00:00",
-            "authors": [
-                {
-                    "name": "ElementZoom",
-                    "url": "https://www.reddit.com/user/ElementZoom"
                 }
             ]
         }
