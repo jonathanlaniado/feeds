@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1oq3zd5",
+            "url": "/r/ArcBrowser/comments/1oq3zd5/native_icloud_keychain_passkey_support/",
+            "external_url": "https://i.redd.it/a8mc1aqa1ozf1.png",
+            "title": "Native iCloud Keychain Passkey support!",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/a8mc1aqa1ozf1.png\" />",
+            "date_published": "2025-11-06T16:45:10+00:00",
+            "authors": [
+                {
+                    "name": "Maxdme124",
+                    "url": "https://www.reddit.com/user/Maxdme124"
+                }
+            ]
+        },
+        {
             "id": "1ogmf3m",
             "url": "/r/ArcBrowser/comments/1ogmf3m/arc_is_still_mkbhds_main_browser/",
             "external_url": "https://youtu.be/Ga8RdTxzL2w?si=WWTubAv_jyQDLqmq&t=1775",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "holzpuppet",
                     "url": "https://www.reddit.com/user/holzpuppet"
-                }
-            ]
-        },
-        {
-            "id": "1ggde8n",
-            "url": "/r/ArcBrowser/comments/1ggde8n/if_you_feel_betrayed_by_arc_and_want_a_new/",
-            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1ggde8n/if_you_feel_betrayed_by_arc_and_want_a_new/",
-            "title": "If you feel betrayed by Arc and want a new browser, this post is for you.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1ggde8n/if_you_feel_betrayed_by_arc_and_want_a_new/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1ggde8n/if_you_feel_betrayed_by_arc_and_want_a_new/'>Reddit</a></caption><div><br></div><p>I'm taking time out of my day to help and guide people who want to move away from Arc due to the recent debacles and fiascos.  </p>\n<p>After Arc got exposed for secretly recording and logging the browsing data of all it's users last month, a lot of people started realizing that maybe forcing an account login on sensitive stuff like a browser is a recipe for disaster.</p>\n<p><strong>\\^</strong> <strong><em>(If you want to read about that, lookup \"kibty town arc\" on google, links aren't allowed on this sub)</em></strong></p>\n<p><strong>I'm here to help you do not worry.</strong>  </p>\n<p>First things first. If you're looking for the most private Chromium experience, and you're not ready to give up on the speed/feeling of  Chromium, you should go with Ungoogled Chromium.  </p>\n<p>Ungoogled Chromium is open source, and is exactly like Chrome, but  without all the Google spyware, which makes it extremely private. And  it's much, much faster than Chrome and Arc, because your browser doesn't need to make 400 API calls to Google servers everytime you launch the <br />\nbrowser.  </p>\n<p>2) Z3n Browser. If you want something similar to Arc, but once again you want something open source and private, with an insanely dedicated developer who listens to user feedback, this is the move. It's running  on the same engine as Firefox.  </p>\n<p>You'll find spaces, the \"peek function\", vertical tabs, etc. And  it's open source so you know for sure your browsing history isn't  getting recorded by Arc without your consent. New updates every week too  </p>",
-            "date_published": "2024-10-31T12:33:35+00:00",
-            "authors": [
-                {
-                    "name": "FlirtyGood",
-                    "url": "https://www.reddit.com/user/FlirtyGood"
                 }
             ]
         }
