@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1opyegc",
+            "url": "/r/homeassistant/comments/1opyegc/ikeas_announces_new_smart_home_collection_of_21/",
+            "external_url": "https://www.theverge.com/news/814241/ikea-smart-home-matter-thread-lights-sensors-remote-control",
+            "title": "Ikea\u2019s announces new smart home collection of 21 new Matter-over-Thread devices and sensors",
+            "content_html": "",
+            "date_published": "2025-11-06T13:06:10+00:00",
+            "authors": [
+                {
+                    "name": "fuzzbinn",
+                    "url": "https://www.reddit.com/user/fuzzbinn"
+                }
+            ]
+        },
+        {
             "id": "1omskh2",
             "url": "/r/homeassistant/comments/1omskh2/my_minimalist_dashboard/",
             "external_url": "https://i.redd.it/650b9d7ypwyf1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "loapmail",
                     "url": "https://www.reddit.com/user/loapmail"
-                }
-            ]
-        },
-        {
-            "id": "1gzehz1",
-            "url": "/r/homeassistant/comments/1gzehz1/map_powered_by_2812_and_ha/",
-            "external_url": "https://www.reddit.com/gallery/1gzehz1",
-            "title": "Map powered by 2812 and HA",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1gzehz1/map_powered_by_2812_and_ha/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1gzehz1/map_powered_by_2812_and_ha/'>Reddit</a></caption><div><br></div><p>Thought I would show my weekend project. Its really just a map with a bunch of 2812 leds behind it. The leds represent the physical location of an iPhone using the companion app. </p>\n<p>The map is powered by a raspberry pi zero, and it gets the location of the devices using the HA API every 60 seconds. </p>",
-            "date_published": "2024-11-25T08:46:23+00:00",
-            "authors": [
-                {
-                    "name": "sysvival",
-                    "url": "https://www.reddit.com/user/sysvival"
                 }
             ]
         }
