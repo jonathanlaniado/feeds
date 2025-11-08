@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1orp1e4",
+            "url": "/r/selfhosted/comments/1orp1e4/termix_180_selfhosted_ssh_serer_management/",
+            "external_url": "https://i.redd.it/3juu7apv810g1.jpeg",
+            "title": "Termix 1.8.0 - Self-hosted SSH serer management alternative to Termius for all platforms (Website, Windows, macOS, Linux, iOS, and Android)",
+            "content_html": "<p><a href=\"https://github.com/Termix-SSH/Termix\">GitHub</a></p>\n<p><a href=\"https://discord.gg/jVQGdvHDrf\">Discord</a></p>\n<p>Hello,</p>\n<p>It's been a while since I've made a post here, so I'd like to make an update. If you didn't already know: Termix is an open-source, forever-free, self-hosted all-in-one server management platform. It provides a multi-platform solution for managing your servers and infrastructure through a single, intuitive interface. Termix offers SSH terminal access, SSH tunneling capabilities, and remote file management, with additional tools to be introduced in the future. Termix is the perfect free and self-hosted alternative to Termius available for all platforms.</p>\n<p>As of a few days ago, v1.8.0 has been released. With this update, it means Termix is available for installation on the following platforms, all synced together with the self-hosted Docker container:</p>\n<ul>\n<li>Website (any modern browser on any platform, like Chrome, Safari, and Firefox)</li>\n<li>Windows (x64/ia32)</li>\n<li>Portable</li>\n<li>MSI Installer</li>\n<li>Chocolatey Package Manager (waiting for approval)</li>\n<li>Linux (x64/ia32)</li>\n<li>Portable</li>\n<li>AppImage</li>\n<li>Deb</li>\n<li>Flatpak (waiting for approval)</li>\n<li>macOS (x64/ia32 on v12.0+)</li>\n<li>Apple App Store (waiting for approval)</li>\n<li>DMG</li>\n<li>Homebrew (waiting for approval)</li>\n<li>iOS/iPadOS (v15.1+)</li>\n<li>Apple App Store</li>\n<li>ISO</li>\n<li>Android (v7.0+)</li>\n<li>Google Play Store</li>\n<li>APK</li>\n</ul>\n<p>With these changes, I'm hoping it provides a solution to ditch the Termius monthly subscription with a no bullshit alternative. Some more notable features include:</p>\n<ul>\n<li>SSH Terminal Access - Full-featured terminal with split-screen support (up to 4 panels) with a browser-like tab system. Includes support for customizing the terminal, including common terminal themes, fonts, and other components</li>\n<li>SSH Tunnel Management - Create and manage SSH tunnels with automatic reconnection and health monitoring</li>\n<li>Remote File Manager - Manage files directly on remote servers with support for viewing and editing code, images, audio, and video. Upload, download, rename, delete, and move files seamlessly</li>\n<li>SSH Host Manager - Save, organize, and manage your SSH connections with tags and folders, and easily save reusable login info while being able to automate the deployment of SSH keys</li>\n<li>Server Stats - View CPU, memory, and disk usage along with network, uptime, and system information on any SSH server</li>\n<li>Dashboard - View server information at a glance on your dashboard</li>\n<li>User Authentication - Secure user management with admin controls and OIDC and 2FA (TOTP) support. View active user sessions across all platforms and revoke permissions.</li>\n<li>Database Encryption - Backend stored as encrypted SQLite database files</li>\n<li>Data Export/Import - Export and import SSH hosts, credentials, and file manager data</li>\n<li>Automatic SSL Setup - Built-in SSL certificate generation and management with HTTPS redirects</li>\n<li>Modern UI - Clean desktop/mobile-friendly interface built with React, Tailwind CSS, and Shadcn</li>\n<li>Languages - Built-in support for English, Chinese, German, and Portuguese</li>\n<li>Platform Support - Available as a web app, desktop application (Windows, Linux, and macOS), and dedicated mobile/tablet app for iOS and Android.</li>\n<li>SSH Tools - Create reusable command snippets that execute with a single click. Run one command simultaneously across multiple open terminals.</li>\n</ul>\n<p>Before you comment, I am aware that server stats show the server as offline if you add a new host. It's already been fixed, but the release will be out within a week. Instead of commenting here for support, I highly recommend you open a <a href=\"https://github.com/Termix-SSH/Support/issues/new/choose\">GitHub Issue</a>.  </p>\n<p>Thanks for reading,<br />\nLuke</p><div><br></div><img src=\"https://i.redd.it/3juu7apv810g1.jpeg\" />",
+            "date_published": "2025-11-08T13:10:43+00:00",
+            "authors": [
+                {
+                    "name": "VizeKarma",
+                    "url": "https://www.reddit.com/user/VizeKarma"
+                }
+            ]
+        },
+        {
             "id": "1olb7v0",
             "url": "/r/selfhosted/comments/1olb7v0/is_there_a_way_for_admins_to_ban_users_for/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1olb7v0/is_there_a_way_for_admins_to_ban_users_for/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "mute927",
                     "url": "https://www.reddit.com/user/mute927"
-                }
-            ]
-        },
-        {
-            "id": "1hantrt",
-            "url": "/r/selfhosted/comments/1hantrt/best_uncensored_chatbot_selfhosting/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1hantrt/best_uncensored_chatbot_selfhosting/",
-            "title": "Best Uncensored Chatbot - Selfhosting",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1hantrt/best_uncensored_chatbot_selfhosting/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1hantrt/best_uncensored_chatbot_selfhosting/'>Reddit</a></caption><div><br></div><p>Tired of chatbots that are filtering, denying, dodging questions. In your opinion what is the most uncensored chatbot out there that you can selfhost?</p>",
-            "date_published": "2024-12-09T23:35:07+00:00",
-            "authors": [
-                {
-                    "name": "bluntmonument1",
-                    "url": "https://www.reddit.com/user/bluntmonument1"
                 }
             ]
         }
