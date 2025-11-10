@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1otd2y6",
+            "url": "/r/MacOSBeta/comments/1otd2y6/apple_finally_updated_the_miniplayer_design_on/",
+            "external_url": "https://i.redd.it/48ol8tuegf0g1.png",
+            "title": "Apple finally updated the MiniPlayer design on Tahoe 26.2! Albeit, kind of buggy.",
+            "content_html": "<p>Looks pretty weird to me that they cut off the album art when displaying the title, and oh who can not notice the bugged layout beneath the art?</p><div><br></div><img src=\"https://i.redd.it/48ol8tuegf0g1.png\" />",
+            "date_published": "2025-11-10T12:59:42+00:00",
+            "authors": [
+                {
+                    "name": "dandee_08",
+                    "url": "https://www.reddit.com/user/dandee_08"
+                }
+            ]
+        },
+        {
             "id": "1oq70vd",
             "url": "/r/MacOSBeta/comments/1oq70vd/first_macos_tahoe_262_beta_now_available_to/",
             "external_url": "https://www.macrumors.com/2025/11/06/apple-seeds-macos-tahoe-26-2-beta-1/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ZodiacPigeon",
                     "url": "https://www.reddit.com/user/ZodiacPigeon"
-                }
-            ]
-        },
-        {
-            "id": "1m2zsjt",
-            "url": "/r/MacOSBeta/comments/1m2zsjt/alternate_wallpaper_photos_in_macos_tahoe/",
-            "external_url": "https://i.redd.it/761xqxwcbmdf1.png",
-            "title": "Alternate wallpaper photos in MacOS Tahoe",
-            "content_html": "<p>Guys, one feature I missed besides the launchpad in MacOS Tahoe was the wallpaper toggle, which isn't yet present in MacOS Tahoe and was present in MacOS Sequoia. Does anyone know if there's a plan to return this?</p><div><br></div><img src=\"https://i.redd.it/761xqxwcbmdf1.png\" />",
-            "date_published": "2025-07-18T11:27:28+00:00",
-            "authors": [
-                {
-                    "name": "darkofthenight999",
-                    "url": "https://www.reddit.com/user/darkofthenight999"
                 }
             ]
         }
