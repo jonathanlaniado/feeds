@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1ovhn3g",
+            "url": "/r/MacOSBeta/comments/1ovhn3g/second_macos_tahoe_262_beta_now_available_to/",
+            "external_url": "https://www.macrumors.com/2025/11/12/apple-seeds-macos-tahoe-26-2-beta-2/",
+            "title": "Second macOS Tahoe 26.2 Beta Now Available to Developers",
+            "content_html": "",
+            "date_published": "2025-11-12T21:11:50+00:00",
+            "authors": [
+                {
+                    "name": "jagajazzist",
+                    "url": "https://www.reddit.com/user/jagajazzist"
+                }
+            ]
+        },
+        {
             "id": "1ovhwmf",
             "url": "/r/MacOSBeta/comments/1ovhwmf/macos_tahoe_262_beta_2_update_released/",
             "external_url": "https://www.techturco.com/apple/macos-tahoe-262-beta-2-guncellemesi-yayimlandi-103094",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "soramac",
                     "url": "https://www.reddit.com/user/soramac"
-                }
-            ]
-        },
-        {
-            "id": "1m6jzfs",
-            "url": "/r/MacOSBeta/comments/1m6jzfs/apple_seeds_fourth_beta_of_macos_tahoe_to/",
-            "external_url": "https://www.macrumors.com/2025/07/22/apple-seeds-macos-tahoe-beta-4/",
-            "title": "Apple Seeds Fourth Beta of macOS Tahoe to Developers",
-            "content_html": "",
-            "date_published": "2025-07-22T17:14:34+00:00",
-            "authors": [
-                {
-                    "name": "jagajazzist",
-                    "url": "https://www.reddit.com/user/jagajazzist"
                 }
             ]
         }
