@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1p09z9w",
+            "url": "/r/selfhosted/comments/1p09z9w/cloudflare_is_having_issues_again/",
+            "external_url": "https://i.redd.it/crblxzbb802g1.png",
+            "title": "Cloudflare is having issues again",
+            "content_html": "<p>Thought I should post this here since a lot of us make use of CF Proxy and Zero Trust.</p>\n<p>Source: https://www.cloudflarestatus.com/</p><div><br></div><img src=\"https://i.redd.it/crblxzbb802g1.png\" />",
+            "date_published": "2025-11-18T11:55:25+00:00",
+            "authors": [
+                {
+                    "name": "mfdali",
+                    "url": "https://www.reddit.com/user/mfdali"
+                }
+            ]
+        },
+        {
             "id": "1ox8da8",
             "url": "/r/selfhosted/comments/1ox8da8/ironmount_backup_automation_gui_for_your/",
             "external_url": "https://i.redd.it/0gwch8soaa1g1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "PracticalFig5702",
                     "url": "https://www.reddit.com/user/PracticalFig5702"
-                }
-            ]
-        },
-        {
-            "id": "1hcai5t",
-            "url": "/r/selfhosted/comments/1hcai5t/i_made_a_us_and_canada_street_address_database/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1hcai5t/i_made_a_us_and_canada_street_address_database/",
-            "title": "I made a US and Canada street address database you can download (over 150 million addresses)",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1hcai5t/i_made_a_us_and_canada_street_address_database/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1hcai5t/i_made_a_us_and_canada_street_address_database/'>Reddit</a></caption><div><br></div><p>I compiled hundreds of government address data sources, cleaned them up, and build a 35GB indexed SQLite database of over 150 million addresses.  Each address has a house number, USPS-formatted street name, city, state, postal code, latitude, longitude, and source attribution.</p>\n<p>There's a \"lite\" version that's about 14GB smaller because the latitude, longitude, and source columns have been dropped.</p>\n<p>Here's a page with all the info and downloads: <a href=\"https://netsyms.com/gis/addresses\">https://netsyms.com/gis/addresses</a></p>\n<p>Collections of facts are not considered creative work and are public domain under U.S. copyright law, which means you can do whatever you want with this data. All I ask in return is you pay what it's worth to you, even if that's $0.</p>\n<p><a href=\"https://preview.redd.it/yawubjbuqb6e1.png?width=5936&amp;format=png&amp;auto=webp&amp;s=99614b6d2942967fdc4b82db3ce83caa84b3034b\">Coverage map</a></p>\n<p>I started this endeavor because I didn't want to pay Google for address autofill services on my websites, but I'm sure you can think of something else to do with it too!  As far as I know, this database is the most complete and cleaned up one you can get without paying an undisclosed and large sum of money.</p>",
-            "date_published": "2024-12-12T02:05:27+00:00",
-            "authors": [
-                {
-                    "name": "netsyms",
-                    "url": "https://www.reddit.com/user/netsyms"
                 }
             ]
         }
