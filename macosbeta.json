@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1p1sbmv",
+            "url": "/r/MacOSBeta/comments/1p1sbmv/macos_262_beta_fixes_electron_gpu_bug/",
+            "external_url": "https://avarayr.github.io/shamelectron",
+            "title": "MacOS 26.2 Beta Fixes Electron GPU Bug",
+            "content_html": "",
+            "date_published": "2025-11-20T03:08:55+00:00",
+            "authors": [
+                {
+                    "name": "aitookmyj0b",
+                    "url": "https://www.reddit.com/user/aitookmyj0b"
+                }
+            ]
+        },
+        {
             "id": "1ozntis",
             "url": "/r/MacOSBeta/comments/1ozntis/macos_tahoe_262_beta_3_is_released/",
             "external_url": "https://i.redd.it/jk88ebmyzu1g1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "NullCalorie",
                     "url": "https://www.reddit.com/user/NullCalorie"
-                }
-            ]
-        },
-        {
-            "id": "1m6ofnt",
-            "url": "/r/MacOSBeta/comments/1m6ofnt/tahoe_beta_4_less_rounded_corners/",
-            "external_url": "https://i.redd.it/f5h8in7eehef1.jpeg",
-            "title": "Tahoe Beta 4 - Less rounded corners",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/f5h8in7eehef1.jpeg\" />",
-            "date_published": "2025-07-22T19:59:33+00:00",
-            "authors": [
-                {
-                    "name": "soramac",
-                    "url": "https://www.reddit.com/user/soramac"
                 }
             ]
         }
