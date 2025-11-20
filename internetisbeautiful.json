@@ -8,6 +8,20 @@
     "favicon": "https://b.thumbs.redditmedia.com/k7fHE51fuhbYJRT2e9s1rXIp2ZtA7ks-cNFvQuNbfcE.png",
     "items": [
         {
+            "id": "1p0tcj7",
+            "url": "/r/InternetIsBeautiful/comments/1p0tcj7/i_built_a_downdetector_for_downdetector_after/",
+            "external_url": "https://downdetectorsdowndetector.com",
+            "title": "I built a DownDetector for DownDetector after DownDetector went down",
+            "content_html": "<p>After DownDetector went down with the CloudFlare outage today I decided to build a robust, independent tool which can act as a\u00a0<a href=\"https://downdetectorsdowndetector.com\">DownDetector for DownDetector</a></p>",
+            "date_published": "2025-11-19T00:46:32+00:00",
+            "authors": [
+                {
+                    "name": "timeguessr",
+                    "url": "https://www.reddit.com/user/timeguessr"
+                }
+            ]
+        },
+        {
             "id": "1mkzxvi",
             "url": "/r/InternetIsBeautiful/comments/1mkzxvi/i_made_a_url_lengthener_it_makes_links_worse_on/",
             "external_url": "https://www.namitjain.com/tools/url-lengthener",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "PaywallGhost",
                     "url": "https://www.reddit.com/user/PaywallGhost"
-                }
-            ]
-        },
-        {
-            "id": "x4qmmg",
-            "url": "/r/InternetIsBeautiful/comments/x4qmmg/download_public_domain_artworks/",
-            "external_url": "https://www.artvee.com",
-            "title": "Download public domain artworks",
-            "content_html": "<caption>Open in: <a href='https://www.artvee.com'>www.artvee.com</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/x4qmmg/download_public_domain_artworks/'>Reddit</a> | <a href='apollo://reddit.com/r/InternetIsBeautiful/comments/x4qmmg/download_public_domain_artworks/'>Apollo</a></caption>",
-            "date_published": "2022-09-03T09:52:05+00:00",
-            "authors": [
-                {
-                    "name": "kinkare90",
-                    "url": "https://www.reddit.com/user/kinkare90"
                 }
             ]
         }
