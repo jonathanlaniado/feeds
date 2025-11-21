@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1p2zg7g",
+            "url": "/r/selfhosted/comments/1p2zg7g/tandoor_20_next_level_recipe_management/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1p2zg7g/tandoor_20_next_level_recipe_management/",
+            "title": "\ud83c\udf55 Tandoor 2.0 - Next level Recipe management",
+            "content_html": "<p>More than 2 years have passed since I last updated you on the progress of <a href=\"https://github.com/TandoorRecipes/recipes\">Tandoor</a>. Today I am happy to share some great developments with you and answer all your questions.</p>\n<p>After more than 1.5 years of work Tandoor 2 was finally released on the 31.07.2025. While you can read all about it in the <a href=\"https://github.com/TandoorRecipes/recipes/releases/tag/2.0.0\">changelog </a>I want to highlight some aspects.</p>\n<p>If you don't want to read and just see what's new, take a look at the <a href=\"https://imgur.com/a/tandoor-2-overview-owUAO46\">gallery</a>.</p>\n<h1>New Single Page Frontend</h1>\n<p>While Tandoor 1 already used Vue 2 for most of its pages Tandoor 2 is now a modern single page application based on Vue 3 with Vuetify 3 providing elegant and efficient UI components.</p>\n<p>Not only does this make Tandoor 2 a whole lot faster than the old version, but it also resolves lots of the small little quirks and rough edges that, at times, created a frustrating experience.</p>\n<p>https://preview.redd.it/bunydpr21m2g1.png?width=2307&amp;format=png&amp;auto=webp&amp;s=651530e6cc0afd6abc13f2df066170b6f894d3f8</p>\n<p>I have also spent a great deal of time on building a great framework to make developing new features a lot easier than it used to be. With that I have already been able to add several interesting new features since the initial release of Tandoor 2.</p>\n<h1>AI</h1>\n<p>While I am not a fan of the AI hype and adding AI to everything, there are a few things I always wanted to have in Tandoor that work great with AI. Currently you can import recipes from images and PDF or text files, convert external recipes, automatically generate nutritional values and sort ingredients and steps. </p>\n<p>https://preview.redd.it/q7qiygdb5m2g1.png?width=1396&amp;format=png&amp;auto=webp&amp;s=460854903a96c6b603acd0d4d83de060ce2d0ed0</p>\n<p>To given you the maximum possible freedom you can configure as many AI Providers as you want directly from the UI, select them for different tasks and even log and limit your usage to prevent accidental costs. This of course works with self-hosted LLM providers as well.</p>\n<p>There are many interesting ideas still planned to solve more day-to-day problems using AI. Feel free to add your ideas and feedback <a href=\"https://github.com/TandoorRecipes/recipes/issues/3840\">here</a>.</p>\n<h1>Batch editing</h1>\n<p>Batch editing was something I always wanted to do properly and while Tandoor 1 had a bare minimum batch Keyword assigner it always lacked this functionality.<br />\nWith Tandoor 2 you can now quickly batch edit all fields that make sense in both Recipes and Foods. It is also possible to batch delete all different kinds of objects and batch merge all objects that support merging.</p>\n<p>https://preview.redd.it/rnxjkm4l5m2g1.png?width=1195&amp;format=png&amp;auto=webp&amp;s=842110bc076be52ea3330112c818f1f5b4b5c757</p>\n<p>The general support for all models has also improved: Every model has its own, searchable, list page and custom editors that you can link to and that will warn you when trying to close them without saving. Many models also have advanced delete pages, allowing you to see how deleting something will affect the rest of your data.</p>\n<h1>Other Highlights</h1>\n<p>While the changelog will show you all the updates here are a few more of my personal favourites in no particular order</p>\n<ul>\n<li>Add Shopping List Entries manually directly from the Meal Plan page</li>\n<li>Quickly create conversions an add missing properties from the recipe view and see which ingredients make up the different property types</li>\n<li>Summary of ingredients used by a recipe</li>\n<li>New Space setup wizard to set basic preferences and data</li>\n<li>Direct linking to all search views</li>\n<li>AI based automatic conversion of external recipes</li>\n<li>Much improved plugin architecture</li>\n</ul>\n<p>Thank you all for reading and the continued support this Sub has given to my project. The development of Tandoor 2 started in January of 2024. Since then, hundreds if not thousands of hours of work have been put into building the foundation for Tandoors future. If you want to help me in continuing this effort, feel free to <a href=\"https://github.com/sponsors/vabene1111\">sponsor this project</a>.</p>",
+            "date_published": "2025-11-21T14:04:05+00:00",
+            "authors": [
+                {
+                    "name": "vabene1111",
+                    "url": "https://www.reddit.com/user/vabene1111"
+                }
+            ]
+        },
+        {
             "id": "1p09z9w",
             "url": "/r/selfhosted/comments/1p09z9w/cloudflare_is_having_issues_again/",
             "external_url": "https://i.redd.it/crblxzbb802g1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "RadiatedMolecule",
                     "url": "https://www.reddit.com/user/RadiatedMolecule"
-                }
-            ]
-        },
-        {
-            "id": "1hcm9lx",
-            "url": "/r/selfhosted/comments/1hcm9lx/i_fucked_up_really_bad/",
-            "external_url": "https://i.redd.it/mdt0dymygf6e1.png",
-            "title": "I fucked up Really Bad :(",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1hcm9lx/i_fucked_up_really_bad/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1hcm9lx/i_fucked_up_really_bad/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/mdt0dymygf6e1.png\" />",
-            "date_published": "2024-12-12T14:28:13+00:00",
-            "authors": [
-                {
-                    "name": "PracticalFig5702",
-                    "url": "https://www.reddit.com/user/PracticalFig5702"
                 }
             ]
         }
