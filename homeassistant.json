@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1p2ydpy",
+            "url": "/r/homeassistant/comments/1p2ydpy/congrats_to_home_assistant_for_once_again_earning/",
+            "external_url": "https://www.reddit.com/r/homeassistant/comments/1p2ydpy/congrats_to_home_assistant_for_once_again_earning/",
+            "title": "Congrats to Home Assistant for once again earning the top spot in the list of users' favorite software from this year's Self-Host User Survey!",
+            "content_html": "<p>Every year, I facilitate a user survey over at <a href=\"https://selfh.st\">selfh.st</a> to gauge interests, habits, trends, etc. across the self-hosted community and always include a question asking users what their favorite self-hosted software is.</p>\n<p>Home Assistant almost always tops that list, and per this year's results (linked below), it easily took first place with 588 of ~3,700 responses to the question.</p>\n<p>I'm personally a big fan of the platform and developers, so I'm especially excited to see the continued excitement from users.</p>\n<p>Congrats!</p>\n<p><a href=\"https://selfh.st/survey/2025-results/\">2025 Self-Host User Survey Results</a></p>",
+            "date_published": "2025-11-21T13:18:22+00:00",
+            "authors": [
+                {
+                    "name": "shol-ly",
+                    "url": "https://www.reddit.com/user/shol-ly"
+                }
+            ]
+        },
+        {
             "id": "1p1ib2e",
             "url": "/r/homeassistant/comments/1p1ib2e/home_assistant_connect_zbt2_announced/",
             "external_url": "https://www.home-assistant.io/connect/zbt-2",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "chrico031",
                     "url": "https://www.reddit.com/user/chrico031"
-                }
-            ]
-        },
-        {
-            "id": "1h3hqfr",
-            "url": "/r/homeassistant/comments/1h3hqfr/home_assistant_saved_my_house_thanks/",
-            "external_url": "https://www.reddit.com/r/homeassistant/comments/1h3hqfr/home_assistant_saved_my_house_thanks/",
-            "title": "Home Assistant saved my house. Thanks!",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1h3hqfr/home_assistant_saved_my_house_thanks/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1h3hqfr/home_assistant_saved_my_house_thanks/'>Reddit</a></caption><div><br></div><p>Interesting day. Yesterday my genius son left a pot on the range unattended, it burned the pan and contents and filled the bottom floor and middle floor of the house with smoke. I was alerted on the top floor when the smoke detector went off on that level and turned on all the lights in the house (thanks Z-Wave smoke detectors!). Went down he was already taking the smoking pan outside, house was a smoke filled mess. Opened the doors on the lower level and windows to vent out. Then closed up and went out for the evening.</p>\n<p>Last night it got below freezing outside and I went over to spend the night with a friend. Was woken at 2am by my phone alarming that the bottom floor inside temp sensor had passed below 37 degrees F (2-3d C). Called the house and found that wonder child had decided to open the downstairs windows *AGAIN* to further air out the house and had gone to bed. On a below freezing night. After turning off the mini split heat.....</p>\n<p>Woke up said wonder boy and wife, and they closed the windows. Remotely turned on the lower floor mini-split heat as well as the old furnace (tied into HA with relay override controls) to warm the lower level and keep the pipes from freezing. Watched the temps come back up, went to sleep, came home and all was well.</p>\n<p>If HA had not been around I probably would have come home this morning to frozen and broken pipes. As it was it just turned out to be some nighttime calls. And if I hadn't been able to reach someone I could have either driven back to close the windows or turned off the water main with the HA controlled main water shut off valve.</p>\n<p>So thank you HA for saving me some serious money and plumber time today. Much appreciated!</p>",
-            "date_published": "2024-11-30T17:34:45+00:00",
-            "authors": [
-                {
-                    "name": "lightfoot_labs",
-                    "url": "https://www.reddit.com/user/lightfoot_labs"
                 }
             ]
         }
