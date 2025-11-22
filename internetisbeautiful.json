@@ -8,6 +8,20 @@
     "favicon": "https://b.thumbs.redditmedia.com/k7fHE51fuhbYJRT2e9s1rXIp2ZtA7ks-cNFvQuNbfcE.png",
     "items": [
         {
+            "id": "1p3c9yg",
+            "url": "/r/InternetIsBeautiful/comments/1p3c9yg/jmail_a_clone_of_the_gmail_interface_where_you/",
+            "external_url": "https://jmail.world/",
+            "title": "Jmail, a clone of the Gmail interface where you are signed into Epstein's account",
+            "content_html": "",
+            "date_published": "2025-11-21T22:23:07+00:00",
+            "authors": [
+                {
+                    "name": "error521",
+                    "url": "https://www.reddit.com/user/error521"
+                }
+            ]
+        },
+        {
             "id": "1p0tcj7",
             "url": "/r/InternetIsBeautiful/comments/1p0tcj7/i_built_a_downdetector_for_downdetector_after/",
             "external_url": "https://downdetectorsdowndetector.com",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "furloughgroup",
                     "url": "https://www.reddit.com/user/furloughgroup"
-                }
-            ]
-        },
-        {
-            "id": "xafsr6",
-            "url": "/r/InternetIsBeautiful/comments/xafsr6/paywall_bot_mention_upaywallghost_in_a_reddit/",
-            "external_url": "https://paywallghost.com/",
-            "title": "Paywall bot - Mention \"u/PaywallGhost\" in a Reddit post containing a paywalled link and you'll get a message with a new link to bypass the paywalled site.",
-            "content_html": "<caption>Open in: <a href='https://paywallghost.com/'>paywallghost.com</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/xafsr6/paywall_bot_mention_upaywallghost_in_a_reddit/'>Reddit</a> | <a href='apollo://reddit.com/r/InternetIsBeautiful/comments/xafsr6/paywall_bot_mention_upaywallghost_in_a_reddit/'>Apollo</a></caption>",
-            "date_published": "2022-09-10T04:20:00+00:00",
-            "authors": [
-                {
-                    "name": "PaywallGhost",
-                    "url": "https://www.reddit.com/user/PaywallGhost"
                 }
             ]
         }
