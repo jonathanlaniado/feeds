@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1p3xrrl",
+            "url": "/r/OpenAI/comments/1p3xrrl/just_cancelled_my_subscription_that_i_had_since/",
+            "external_url": "https://i.redd.it/dnm0cjae7u2g1.png",
+            "title": "Just cancelled my subscription that I had since early 2024",
+            "content_html": "<p>I have predominantly used Chat for work related things, from large tables and data analysis to formatting my CVs, or my higher degree university-related research. There is literally nothing that could have profiled me as a minor (and I have no kids either), so I guess this is goodbye. The enshittification after 4o hit hard. </p><div><br></div><img src=\"https://i.redd.it/dnm0cjae7u2g1.png\" />",
+            "date_published": "2025-11-22T16:42:21+00:00",
+            "authors": [
+                {
+                    "name": "Cr0Dev",
+                    "url": "https://www.reddit.com/user/Cr0Dev"
+                }
+            ]
+        },
+        {
             "id": "1p24jlp",
             "url": "/r/OpenAI/comments/1p24jlp/chatgpt_makes_101021_possible/",
             "external_url": "https://i.redd.it/s7cmqpij9f2g1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Alex__007",
                     "url": "https://www.reddit.com/user/Alex__007"
-                }
-            ]
-        },
-        {
-            "id": "1k6p06i",
-            "url": "/r/OpenAI/comments/1k6p06i/new_plus_user_limits_04242025/",
-            "external_url": "https://i.redd.it/ckmw7928hrwe1.png",
-            "title": "New plus user limits? (04/24/2025)",
-            "content_html": "<p>https://help.openai.com/en/articles/9824962-openai-o3-and-o4-mini-usage-limits-on-chatgpt-and-the-api</p>\n<p>100 o3 per week\n300 o4 mini per day \n100 o4 mini - High per day</p>\n<p>They keep changing the limits! </p><div><br></div><img src=\"https://i.redd.it/ckmw7928hrwe1.png\" />",
-            "date_published": "2025-04-24T10:38:27+00:00",
-            "authors": [
-                {
-                    "name": "laowaiH",
-                    "url": "https://www.reddit.com/user/laowaiH"
                 }
             ]
         }
