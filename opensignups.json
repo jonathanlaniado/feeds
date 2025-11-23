@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_34ntk/styles/communityIcon_kcuhvl4zdufc1.png",
     "items": [
         {
+            "id": "1p4s7z1",
+            "url": "/r/OpenSignups/comments/1p4s7z1/samaritano/",
+            "external_url": "https://www.reddit.com/r/OpenSignups/comments/1p4s7z1/samaritano/",
+            "title": "Samaritano",
+            "content_html": "<p>General brazilian tracker <a href=\"http://samaritano.cc\">samaritano.cc</a></p>\n<p>Total torrents: 3448</p>\n<p>Active users: 1197</p>",
+            "date_published": "2025-11-23T17:17:53+00:00",
+            "authors": [
+                {
+                    "name": "Daniel08s",
+                    "url": "https://www.reddit.com/user/Daniel08s"
+                }
+            ]
+        },
+        {
             "id": "1p14xy0",
             "url": "/r/OpenSignups/comments/1p14xy0/fappaizuri/",
             "external_url": "https://www.reddit.com/r/OpenSignups/comments/1p14xy0/fappaizuri/",
@@ -1392,12 +1406,6 @@
                     "url": "https://www.reddit.com/user/IronHidee"
                 }
             ]
-        },
-        {
-            "id": "0",
-            "url": "https://www.reddit.com/r/opensignups",
-            "title": "r/opensignups has been launched!",
-            "content_html": "<p>This feed will be populated as posts match the given criteria.</p>"
         }
     ]
 }
