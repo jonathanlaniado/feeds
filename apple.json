@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "1p4lz2x",
+            "url": "/r/apple/comments/1p4lz2x/built_a_100_free_subscription_manager_app_no_ads/",
+            "external_url": "https://www.reddit.com/r/apple/comments/1p4lz2x/built_a_100_free_subscription_manager_app_no_ads/",
+            "title": "Built a 100% free subscription manager app \u2013 no ads, no paywalls, lifetime updates",
+            "content_html": "<p>Hey everyone, I\u2019ve built a\u00a0<strong>completely free</strong>\u00a0subscription tracking app -\u00a0<strong>Subpli</strong>.\u00a0<strong>No ads, no paywalls, no catch</strong>, and you can even try it without creating an account. All current features and future updates are included for free.</p>\n<p><strong>App Store:</strong>\u00a0<a href=\"https://apps.apple.com/us/app/subscription-manager-subpli/id6752722752?utm_source=chatgpt.com\">https://apps.apple.com/us/app/subscription-manager-subpli/id6752722752</a><br />\n<strong>Google Play:</strong>\u00a0<a href=\"https://play.google.com/store/apps/details?id=com.zappira.subpli\">https://play.google.com/store/apps/details?id=com.zappira.subpli</a></p>\n<p>What it does:</p>\n<ul>\n<li><strong>Quick add:</strong>\u00a0Log subscriptions in seconds with name, price, cycle, notes, and custom icons.</li>\n<li><strong>Smart catalog:</strong>\u00a0Autofill popular services (streaming, productivity, AI, fitness, and more).</li>\n<li><strong>Renewal reminders:</strong>\u00a0Choose when to be alerted (e.g., 1, 3, or 7 days before).</li>\n<li><strong>Dashboard overview:</strong>\u00a0See monthly/yearly totals, upcoming charges, and trends.</li>\n<li><strong>Multiple currencies:</strong>\u00a0Pick your preferred currency; totals update automatically.</li>\n<li><strong>Filter &amp; search:</strong>\u00a0Organize by category, next charge, price, or name.</li>\n<li><strong>Guest mode:</strong>\u00a0Try all features without creating an account.</li>\n</ul>\n<p>I built it because I kept losing track of small subscriptions and trials that quietly stacked up, and spreadsheets were too annoying to maintain. I wanted something simple that just focuses on recurring payments and reminders.</p>\n<p>I\u2019d love to hear what you think. Feedback, ideas - bring it on.</p>",
+            "date_published": "2025-11-23T12:52:02+00:00",
+            "authors": [
+                {
+                    "name": "Pengi123",
+                    "url": "https://www.reddit.com/user/Pengi123"
+                }
+            ]
+        },
+        {
             "id": "1p29vv2",
             "url": "/r/apple/comments/1p29vv2/iphone_users_can_now_airdrop_files_to_android/",
             "external_url": "https://www.macrumors.com/2025/11/20/iphone-android-airdrop-quickshare/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "atalkingfish",
                     "url": "https://www.reddit.com/user/atalkingfish"
-                }
-            ]
-        },
-        {
-            "id": "1gy2c5u",
-            "url": "/r/apple/comments/1gy2c5u/metro_bosses_committed_to_iphone_ticket_plan/",
-            "external_url": "https://www.bbc.com/news/articles/c87xn3vp9l1o",
-            "title": "Metro bosses 'committed' to iPhone ticket plan",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/apple/comments/1gy2c5u/metro_bosses_committed_to_iphone_ticket_plan/'>Winston</a> | <a href='https://reddit.com/r/apple/comments/1gy2c5u/metro_bosses_committed_to_iphone_ticket_plan/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-11-23T15:37:36+00:00",
-            "authors": [
-                {
-                    "name": "Riikkkii",
-                    "url": "https://www.reddit.com/user/Riikkkii"
                 }
             ]
         }
