@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1p5fg68",
+            "url": "/r/selfhosted/comments/1p5fg68/borg_ui_web_interface_for_borgbackup_for_your/",
+            "external_url": "https://www.reddit.com/gallery/1p5fg68",
+            "title": "Borg UI - Web interface for BorgBackup for your Home lab",
+            "content_html": "<p>Hi folks!</p>\n<p>I had been using\u00a0<strong>BorgBackup</strong>\u00a0via command line for a while to create backups of my\u00a0<strong>Immich</strong>\u00a0<strong>library</strong>\u00a0(self-hosted photo management tool). It felt very tedious to continuously monitor, and maintain while creating a backup, scheduling or restoring, especially via SSH. I have docker containers for everything else, so I thought why don't I put together a\u00a0<a href=\"https://github.com/karanhudia/borg-ui\">Web UI</a>\u00a0that makes it easier to manage.</p>\n<p>It runs as a Docker container (no config needed) and includes:</p>\n<ul>\n<li>Backups, Restores with visual scheduling</li>\n<li>Live progress tracking with notifications</li>\n<li>Browse and manage your archives like regular folders</li>\n<li>Built-in SSH key manager</li>\n</ul>\n<p>I am currently using it on my home setup (Odroid + Raspberry Pi) and I am pretty happy with it. Would appreciate any feedback if you give it a try. Still actively working on it, so feature requests welcome.</p>\n<p><strong>GitHub</strong>:\u00a0<a href=\"https://github.com/karanhudia/borg-ui\">https://github.com/karanhudia/borg-ui</a></p>",
+            "date_published": "2025-11-24T12:12:31+00:00",
+            "authors": [
+                {
+                    "name": "karanhudia",
+                    "url": "https://www.reddit.com/user/karanhudia"
+                }
+            ]
+        },
+        {
             "id": "1p2zg7g",
             "url": "/r/selfhosted/comments/1p2zg7g/tandoor_20_next_level_recipe_management/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1p2zg7g/tandoor_20_next_level_recipe_management/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "sean_999",
                     "url": "https://www.reddit.com/user/sean_999"
-                }
-            ]
-        },
-        {
-            "id": "1hewmoc",
-            "url": "/r/selfhosted/comments/1hewmoc/would_this_be_enough_for_a_starter_server/",
-            "external_url": "https://www.reddit.com/gallery/1hewmoc",
-            "title": "Would this be enough for a starter server?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1hewmoc/would_this_be_enough_for_a_starter_server/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1hewmoc/would_this_be_enough_for_a_starter_server/'>Reddit</a></caption><div><br></div><p>I found this Dell Optiplex 7020 with 16 GB memory and 1TB HDD for $120. Could it be enough to start with for setting up my first linux distribution and tinkering with web servers/internet radio/Minecraft servers? Would I need to upgrade any of the components? Would it be better to just get an RPi 5?</p>",
-            "date_published": "2024-12-15T16:49:11+00:00",
-            "authors": [
-                {
-                    "name": "RadiatedMolecule",
-                    "url": "https://www.reddit.com/user/RadiatedMolecule"
                 }
             ]
         }
