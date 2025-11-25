@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1p68ne5",
+            "url": "/r/homeassistant/comments/1p68ne5/v400_the_update_that_finally_changes_everything/",
+            "external_url": "https://www.reddit.com/gallery/1p68ne5",
+            "title": "v4.0.0: The Update That Finally Changes Everything",
+            "content_html": "<p>I\u2019ve wrapped up the v4.0.0 upgrade of my Material Design 3 Home Assistant tablet dashboard, and this version changes the workflow in a big way. The dashboard is now built around a much more modular structure, using streamline templates that handle most of the heavy lifting behind the scenes. Instead of digging through long YAML sections, I can map entities through the UI and the cards adapt automatically. It makes setup faster and the whole system far easier to maintain.</p>\n<p>The visual style stays consistent with the MD3 design goals. Dynamic color theming, transparent cards and clean spacing bring everything together, whether it\u2019s lights, climate controls, weather data, security sensors, irrigation or cameras. The entire smart home still feels unified in one polished interface.</p>\n<p>I also added a few smaller improvements along the way. The overview page now includes a dedicated media player, the layout is a bit more balanced and pop-ups are used more intentionally to keep the main view uncluttered.</p>\n<p>I've shared all of the card examples in the <a href=\"https://github.com/ElementZoom/Material-Design-3-Dynamic-Tablet-Dashboard\">Github</a>. I hope it helps!</p>",
+            "date_published": "2025-11-25T10:01:21+00:00",
+            "authors": [
+                {
+                    "name": "ElementZoom",
+                    "url": "https://www.reddit.com/user/ElementZoom"
+                }
+            ]
+        },
+        {
             "id": "1p2ydpy",
             "url": "/r/homeassistant/comments/1p2ydpy/congrats_to_home_assistant_for_once_again_earning/",
             "external_url": "https://www.reddit.com/r/homeassistant/comments/1p2ydpy/congrats_to_home_assistant_for_once_again_earning/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "TheMiningCow",
                     "url": "https://www.reddit.com/user/TheMiningCow"
-                }
-            ]
-        },
-        {
-            "id": "1h5pqno",
-            "url": "/r/homeassistant/comments/1h5pqno/ha_saved_me_from_a_flooded_basement_last_night/",
-            "external_url": "https://www.reddit.com/r/homeassistant/comments/1h5pqno/ha_saved_me_from_a_flooded_basement_last_night/",
-            "title": "HA saved me from a flooded basement last night",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1h5pqno/ha_saved_me_from_a_flooded_basement_last_night/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1h5pqno/ha_saved_me_from_a_flooded_basement_last_night/'>Reddit</a></caption><div><br></div><p>I setup an automation to flash the lights in any room that is occupied if any water leaks are detected in the house, and it woke me up last night.</p>\n<p>Turns out one of the pipes in my basement sprung a leak and I was able to stem the leak before it became a disaster, and had a plumber out to fix it this morning.</p>\n<p>Using Z-Wave water leak sensors strategically-placed around the house, Hue bulbs, and EP1 Occupancy Sensors from Everything Smart Home.</p>",
-            "date_published": "2024-12-03T15:17:26+00:00",
-            "authors": [
-                {
-                    "name": "chrico031",
-                    "url": "https://www.reddit.com/user/chrico031"
                 }
             ]
         }
