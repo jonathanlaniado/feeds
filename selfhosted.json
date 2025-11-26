@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1p7kavs",
+            "url": "/r/selfhosted/comments/1p7kavs/please_backup_your_important_data/",
+            "external_url": "https://i.redd.it/dps9sys95o3g1.jpeg",
+            "title": "Please backup your important data!",
+            "content_html": "<p>Sad story from my local news where data going back 18 years was deleted. Can't imagine losing that much progress.</p>\n<p>The IT guy didn't give any info. Anyone have any guesses on what might have happened?</p>\n<p>What's the worst you've lost?</p>\n<p>(I've translated the original text in the photo)</p><div><br></div><img src=\"https://i.redd.it/dps9sys95o3g1.jpeg\" />",
+            "date_published": "2025-11-26T21:37:39+00:00",
+            "authors": [
+                {
+                    "name": "Aging_Shower",
+                    "url": "https://www.reddit.com/user/Aging_Shower"
+                }
+            ]
+        },
+        {
             "id": "1p5fg68",
             "url": "/r/selfhosted/comments/1p5fg68/borg_ui_web_interface_for_borgbackup_for_your/",
             "external_url": "https://www.reddit.com/gallery/1p5fg68",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "altran1502",
                     "url": "https://www.reddit.com/user/altran1502"
-                }
-            ]
-        },
-        {
-            "id": "1hhtuzp",
-            "url": "/r/selfhosted/comments/1hhtuzp/mealie_quick_add_firefox_extension/",
-            "external_url": "https://addons.mozilla.org/en-US/firefox/addon/mealie-context-menu/",
-            "title": "Mealie Quick Add Firefox Extension",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1hhtuzp/mealie_quick_add_firefox_extension/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1hhtuzp/mealie_quick_add_firefox_extension/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-12-19T14:17:56+00:00",
-            "authors": [
-                {
-                    "name": "sean_999",
-                    "url": "https://www.reddit.com/user/sean_999"
                 }
             ]
         }
