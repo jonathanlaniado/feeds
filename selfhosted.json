@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1p919xj",
+            "url": "/r/selfhosted/comments/1p919xj/pls_no_more_vibecoded_apps/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1p919xj/pls_no_more_vibecoded_apps/",
+            "title": "Pls no more vibe-coded apps",
+            "content_html": "<p>I'm so tired of all the vibe-coded apps and services being promoted here :( \n(everywhere tbh, but mostly in the fun, tech/hobby-related subreddits)</p>\n<p>I hate how much AI has affected software development in terms of not producing real, quality work that isn't a metaphorical re-skin of an existing service that is made up of bloated code with poor readability, lacks security given the former, and probably isn't even reliably maintained.</p>\n<p>Anyways, just something to get off my chest. I hope this doesn't get me banned but it's just not fun to browse certain subs anymore due to how many posts are just people promoting their vibe-coded apps/services.</p>\n<p>That's all. :(</p>",
+            "date_published": "2025-11-28T17:51:42+00:00",
+            "authors": [
+                {
+                    "name": "picks-",
+                    "url": "https://www.reddit.com/user/picks-"
+                }
+            ]
+        },
+        {
             "id": "1p84w1t",
             "url": "/r/selfhosted/comments/1p84w1t/selfhosting_is_not_a_hobby_anymore_its_a_way_of/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1p84w1t/selfhosting_is_not_a_hobby_anymore_its_a_way_of/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "thelaughedking",
                     "url": "https://www.reddit.com/user/thelaughedking"
-                }
-            ]
-        },
-        {
-            "id": "1hkqtyc",
-            "url": "/r/selfhosted/comments/1hkqtyc/greatful_to_you_guys_5000_users_in_last_3_months/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1hkqtyc/greatful_to_you_guys_5000_users_in_last_3_months/",
-            "title": "greatful to you guys, 5000+ users in last 3 months, now opensourced ;)",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1hkqtyc/greatful_to_you_guys_5000_users_in_last_3_months/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1hkqtyc/greatful_to_you_guys_5000_users_in_last_3_months/'>Reddit</a></caption><div><br></div><p>Hello everyone. Its my third post here and I am so happy to tell that I have got like 5000 active users in the last 2 months, with 1000 repeating users. Let me start from starting, I built <a href=\"https://www.mldl.study/\">https://www.mldl.study/</a> back 2-3 months back. It provides proper roadmap for someone to go into field of AI. It has proper roadmap from ml prerequisite like maths and python to ml roadmap, dl roadmap, and even now genAI roadmap. I opensourced the site around 1 month ago and got great responses from everyone here. I was so happy that after my endsems got complete, I started working more on it. Now with the current update I have added genAI roadmap too and also a research paper section where there is all major research papers that you should read.</p>\n<p>The site has everything from video lectures, articles, visualizations, simulations, research papers, project work, competitions etc. Its a great site for anyone who really want to learn AI.</p>\n<p>Now even though i open sourced it back 1 month ago, I still did not got contributions that I had thought I would. I really really want you guys to contribute to the resources and help the community. I just want your support everyone , and I appreciate everyone who supported me in my last 2 posts and motivated me to work more on it.</p>\n<p>genAI roadmap is not completed and i really want you guys to contribute to the resources there. here is the link to the repo <a href=\"https://github.com/anshaneja5/mldl.study\">https://github.com/anshaneja5/mldl.study</a> . I would love if you guys want to give any suggestions too ;)</p>\n<p>I appreciate your time and patience, thanks guys ;)</p>\n<p>https://preview.redd.it/4emr1i1tfm8e1.png?width=1558&amp;format=png&amp;auto=webp&amp;s=d2e4bc1972c32fb7d1d193b51933f791d1364696</p>",
-            "date_published": "2024-12-23T16:02:26+00:00",
-            "authors": [
-                {
-                    "name": "Grouchy-Breakfast-20",
-                    "url": "https://www.reddit.com/user/Grouchy-Breakfast-20"
                 }
             ]
         }
