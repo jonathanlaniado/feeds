@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1patdlj",
+            "url": "/r/aipromptprogramming/comments/1patdlj/i_thought_ai_was_okay_until_i_tested_these_prompt/",
+            "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1patdlj/i_thought_ai_was_okay_until_i_tested_these_prompt/",
+            "title": "I thought AI was \u201cokay\u201d until I tested these prompt patterns for weeks straight",
+            "content_html": "<p>A few months ago I was using GPT every day, but honestly the results felt random.<br />\nSometimes useful, sometimes shallow. I kept thinking, \u201cMaybe this is just how AI is.\u201d</p>\n<p>Then I decided to stop guessing and actually <strong>test prompt structures systematically</strong>.<br />\nFor weeks I tried different formats, rewrote them, compared outputs, failed a lot, kept the ones that actually worked.</p>\n<p>Here are <strong>10 of the free patterns</strong> that already boosted my results a lot:</p>\n<ol>\n<li><strong>\u201cRestate my goal in your own words, then point out what I might be missing.\u201d</strong></li>\n<li><strong>\u201cGive me a fast rough answer first, then a refined expert version.\u201d</strong></li>\n<li><strong>\u201cList 5 mistakes people usually make with this problem before solving it.\u201d</strong></li>\n<li><strong>\u201cExplain this twice. Once simply, once for an advanced user.\u201d</strong></li>\n<li><strong>\u201cGenerate options, but also rank them by risk level.\u201d</strong></li>\n<li><strong>\u201cTurn this idea into a step by step execution plan with milestones.\u201d</strong></li>\n<li><strong>\u201cAssume my idea is flawed. Try to break it, then fix it.\u201d</strong></li>\n<li><strong>\u201cCreate a checklist I can actually follow in real life.\u201d</strong></li>\n<li><strong>\u201cSummarize the core insight in one sentence, then expand.\u201d</strong></li>\n<li><strong>\u201cIf this fails, what are the 3 most likely reasons why.\u201d</strong></li>\n</ol>\n<p>Just these 10 changed how I work with AI. The outputs became clearer, more realistic, more actionable.</p>\n<p>But here is the interesting part.</p>\n<p>After a lot of testing, failures, and real use cases, I ended up collecting <strong>120+ high-leverage prompt templates</strong> across business, writing, marketing, automation, coding, productivity and strategy.<br />\nThose are <strong>not free</strong>. They took serious time, testing, iteration and real projects to refine.</p>\n<p>If you learn how to use them properly, these prompts do not just give nicer answers.<br />\nThey <strong>save time, sharpen decisions, and in many cases can literally help you earn several times more than what they cost</strong> through better execution and smarter strategies.</p>\n<p>I am not posting that full pack publicly.<br />\nIf you are genuinely interested and want details, you can message me.</p>\n<p>For everyone else, feel free to use the 10 free ones above.<br />\nIf even one of them improves your workflow, that alone is a win.</p>\n<p>Curious to hear which prompt pattern gave you the biggest jump in output quality.</p>",
+            "date_published": "2025-11-30T21:01:59+00:00",
+            "authors": [
+                {
+                    "name": "peover56",
+                    "url": "https://www.reddit.com/user/peover56"
+                }
+            ]
+        },
+        {
             "id": "1ol20wo",
             "url": "/r/aipromptprogramming/comments/1ol20wo/built_this_app_with_vibecoding_now_im_stuck/",
             "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1ol20wo/built_this_app_with_vibecoding_now_im_stuck/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Zumcddo",
                     "url": "https://www.reddit.com/user/Zumcddo"
-                }
-            ]
-        },
-        {
-            "id": "1fgzdak",
-            "url": "/r/aipromptprogramming/comments/1fgzdak/the_o1_model_is_undeniably_powerful_i_tested_it/",
-            "external_url": "https://i.redd.it/zd7issvo3vod1.jpeg",
-            "title": "\ud83d\udca7 The O1 model is undeniably powerful. I tested it by replicating Drupal CMS, into Node.js. Amazingly It easily converted the entire codebase from PHP to JS.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1fgzdak/the_o1_model_is_undeniably_powerful_i_tested_it/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1fgzdak/the_o1_model_is_undeniably_powerful_i_tested_it/'>Reddit</a></caption><div><br></div><p>\ud83d\udca7 The O1 model is undeniably powerful. I tested it by replicating Drupal CMS, into Node.js. Amazingly It easily converted the entire codebase from PHP to JS. </p>\n<p>With a detailed prompt, outlining the structure, API, and taxonomy, the O1 preview generated a full implementation plan in seconds.</p>\n<p>After creating the functional Drupal.js, I then went into GPT-Engineer to design the UI. The entire process, from the backend to the user interface, took about an hour.</p>\n<p>What\u2019s truly amazing is that the O1 model didn\u2019t just replicate\u2014it completely cloned a PHP application into an entirely different language. </p>\n<p>It seamlessly transformed the codebase from PHP to JavaScript, showing how effortlessly it can handle cross-language transformations.</p>\n<p>Not only did the O1 model provide a clear specification, but it also built the required folder and file structure using a bash script, making setup effortless. </p>\n<p>This is a glimpse into the future, where creating or cloning any application could become as simple as pointing and commanding, \"build me that.\"</p>\n<p>We live in truly unprecedented times. </p>\n<p>Demo: \nhttps://github.com/ruvnet/drupaljs</p>\n<p>GitHub: https://drupaljs.gptengineer.run/</p><div><br></div><img src=\"https://i.redd.it/zd7issvo3vod1.jpeg\" />",
-            "date_published": "2024-09-14T23:47:49+00:00",
-            "authors": [
-                {
-                    "name": "Educational_Ice151",
-                    "url": "https://www.reddit.com/user/Educational_Ice151"
                 }
             ]
         }
