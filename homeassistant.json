@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1pbzkix",
+            "url": "/r/homeassistant/comments/1pbzkix/amazons_magic_trick_make_a_normal_price_look_like/",
+            "external_url": "https://i.redd.it/eurpepzs1q4g1.jpeg",
+            "title": "Amazon\u2019s magic trick - make a normal price look like a Cyber Monday deal",
+            "content_html": "<p>I was checking out this Reolink Camera on Amazon during the Cyber Monday sale, but the price graph made me realise that the discount is sketchy.</p>\n<p>The price actually went down to $83.99 around early October and stayed there till nov 14 and then right before the Black friday sale the price bumped upto $139. Now during the Cyber Monday sale, it\u2019s sitting at $99.99 with a 29% off tag (Cyber Monday Deal), but technically that\u2019s higher than its recent lowest price which I found using the Buyhatke Chrome extension.</p>\n<p>So now I\u2019m wondering if $99.99 is actually a good deal for reolink or I should choose Tapo TP Link cameras for my home</p><div><br></div><img src=\"https://i.redd.it/eurpepzs1q4g1.jpeg\" />",
+            "date_published": "2025-12-02T04:52:10+00:00",
+            "authors": [
+                {
+                    "name": "notion4everyone",
+                    "url": "https://www.reddit.com/user/notion4everyone"
+                }
+            ]
+        },
+        {
             "id": "1p68ne5",
             "url": "/r/homeassistant/comments/1p68ne5/v400_the_update_that_finally_changes_everything/",
             "external_url": "https://www.reddit.com/gallery/1p68ne5",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Puzzleheaded-Ad-6274",
                     "url": "https://www.reddit.com/user/Puzzleheaded-Ad-6274"
-                }
-            ]
-        },
-        {
-            "id": "1h8yog9",
-            "url": "/r/homeassistant/comments/1h8yog9/just_finished_my_first_real_dashboard/",
-            "external_url": "https://i.redd.it/jsbzteygyg5e1.jpeg",
-            "title": "Just finished my first real dashboard!",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1h8yog9/just_finished_my_first_real_dashboard/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1h8yog9/just_finished_my_first_real_dashboard/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/jsbzteygyg5e1.jpeg\" />",
-            "date_published": "2024-12-07T18:23:54+00:00",
-            "authors": [
-                {
-                    "name": "TheMiningCow",
-                    "url": "https://www.reddit.com/user/TheMiningCow"
                 }
             ]
         }
