@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1pczrny",
+            "url": "/r/macapps/comments/1pczrny/macos_still_doesnt_have_perapp_volume_control_so/",
+            "external_url": "https://i.redd.it/bwgsbcmqiy4g1.png",
+            "title": "macOS still doesn\u2019t have per-app volume control\u2026 so I\u2019m building it. Thoughts?",
+            "content_html": "<p>I am working on a small macOS utility called <strong>AppVolume</strong> that adds per-app volume control accessible from the menu bar or dock. The first prototype is coming together nicely, and I have included a small sneak preview.</p>\n<p>Right now I am waiting for Apple to approve the system entitlements the app needs before I can share an early test build. In the meantime I would love to hear what the r/macapps community would expect or want from a per-app volume tool.</p>\n<p>If you are interested in following progress or trying early builds, there is a waitlist at <a href=\"https://appvolume.app\"><strong>appvolume.app</strong></a>, but feedback here is just as valuable.</p>\n<p>Cheers,</p>\n<p>Jeroen</p><div><br></div><img src=\"https://i.redd.it/bwgsbcmqiy4g1.png\" />",
+            "date_published": "2025-12-03T09:28:43+00:00",
+            "authors": [
+                {
+                    "name": "brouwerj",
+                    "url": "https://www.reddit.com/user/brouwerj"
+                }
+            ]
+        },
+        {
             "id": "1pc9p9b",
             "url": "/r/macapps/comments/1pc9p9b/a_realistic_offline_unlimited_texttospeech_app/",
             "external_url": "https://v.redd.it/h4us8hvevs4g1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "0xCUBE",
                     "url": "https://www.reddit.com/user/0xCUBE"
-                }
-            ]
-        },
-        {
-            "id": "1gjwx7v",
-            "url": "/r/macapps/comments/1gjwx7v/mac_app_sales/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1gjwx7v/mac_app_sales/",
-            "title": "mac app sales",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1gjwx7v/mac_app_sales/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1gjwx7v/mac_app_sales/'>Reddit</a></caption><div><br></div><p>any deals or bundles on sale you all are looking forward to this coming black friday/holiday season?</p>",
-            "date_published": "2024-11-05T02:56:57+00:00",
-            "authors": [
-                {
-                    "name": "Few_Association_775",
-                    "url": "https://www.reddit.com/user/Few_Association_775"
                 }
             ]
         }
