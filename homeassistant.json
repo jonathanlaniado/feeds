@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1pd9ism",
+            "url": "/r/homeassistant/comments/1pd9ism/psa_chamberlainliftmaster_up_to_more_shady_things/",
+            "external_url": "https://www.reddit.com/r/homeassistant/comments/1pd9ism/psa_chamberlainliftmaster_up_to_more_shady_things/",
+            "title": "PSA: Chamberlain/Liftmaster up to more shady things.  BE AWARE if purchasing a new garage door opener",
+            "content_html": "<p>New Garage Door Openers will come with Security+ 3.0.  This is a new protocol aimed at completely locking out third parties from local control.  For those of you that use Konnected or ratgdo devices, new openers <em>will not be compatible</em>.  Apparently, the new protocol uses Bluetooth and whitelisting to ensure that only Chamberlain-\"approved\" devices can be paired with their openers.  Additionally, since it uses bluetooth, this is a physical hardware change and cannot be mitigated with a firmware update.  This is clearly a means to lock you into their ecosystem so they can charge subscription fees for their \"services\".</p>\n<p>Fuck Chamberlain.  I will never purchase another opener from them again.</p>\n<p>Raising this for visibility, but see this other thread for more details: <a href=\"https://www.reddit.com/r/homeassistant/comments/1op65z5/ratgdo_on_new_myq_security_30/\">https://www.reddit.com/r/homeassistant/comments/1op65z5/ratgdo_on_new_myq_security_30/</a></p>\n<p>EDIT: Should clarify that Security+ 3.0 only uses the wires to power the devices.  No data is sent, so theres no real way to \"hack the protocol\".</p>",
+            "date_published": "2025-12-03T16:52:58+00:00",
+            "authors": [
+                {
+                    "name": "jgilbs",
+                    "url": "https://www.reddit.com/user/jgilbs"
+                }
+            ]
+        },
+        {
             "id": "1pbzkix",
             "url": "/r/homeassistant/comments/1pbzkix/amazons_magic_trick_make_a_normal_price_look_like/",
             "external_url": "https://i.redd.it/eurpepzs1q4g1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "pinkpigeon548",
                     "url": "https://www.reddit.com/user/pinkpigeon548"
-                }
-            ]
-        },
-        {
-            "id": "1hafgcc",
-            "url": "/r/homeassistant/comments/1hafgcc/mounted_the_new_pi_touch_display_v2_in_my/",
-            "external_url": "https://www.reddit.com/gallery/1hafgcc",
-            "title": "Mounted the new Pi touch display v2 in my plasterboard wall \ud83d\udcaf",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1hafgcc/mounted_the_new_pi_touch_display_v2_in_my/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1hafgcc/mounted_the_new_pi_touch_display_v2_in_my/'>Reddit</a></caption><div><br></div><p>Wanted a home assistant dashboard in my living room for multiple years now, as flush as possible. Not mainly for controlling lights, more for giving me info. It tells me if public transport is on time, which bin is emptied, wifi qr to access guest wifi etc. </p>\n<p>Connected to a Pi 5 running OS lite, which starts chromium in kiosk mode with zoom 125% for better readability. </p>\n<p>Stoked with the result!</p>",
-            "date_published": "2024-12-09T17:43:13+00:00",
-            "authors": [
-                {
-                    "name": "Puzzleheaded-Ad-6274",
-                    "url": "https://www.reddit.com/user/Puzzleheaded-Ad-6274"
                 }
             ]
         }
