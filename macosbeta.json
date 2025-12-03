@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1pdeya7",
+            "url": "/r/MacOSBeta/comments/1pdeya7/macos_262_rc_is/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1pdeya7/macos_262_rc_is/",
+            "title": "MacOS 26.2 RC is..",
+            "content_html": "<p>so responsive and snappy. \ud83e\udd2f I mean usually when I turn on my laptop and immediately open an app, it takes 2-3 icon bounce animation before it opens. Like safari and such. Holy crap..</p>",
+            "date_published": "2025-12-03T20:07:28+00:00",
+            "authors": [
+                {
+                    "name": "iamdpanda",
+                    "url": "https://www.reddit.com/user/iamdpanda"
+                }
+            ]
+        },
+        {
             "id": "1pdd6nh",
             "url": "/r/MacOSBeta/comments/1pdd6nh/macos_tahoe_262_release_candidate_now_available/",
             "external_url": "https://www.macrumors.com/2025/12/03/apple-seeds-macos-tahoe-26-2-rc/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "RealAirPods",
                     "url": "https://www.reddit.com/user/RealAirPods"
-                }
-            ]
-        },
-        {
-            "id": "1m6w44f",
-            "url": "/r/MacOSBeta/comments/1m6w44f/db4_i_wish_i_could_read_what_my_tabs_are_called/",
-            "external_url": "https://i.redd.it/yxpj4hfxzief1.png",
-            "title": "DB4 - I wish I could read what my tabs are called",
-            "content_html": "<p>Yes, I have reported it. Yes I know it's a beta. </p><div><br></div><img src=\"https://i.redd.it/yxpj4hfxzief1.png\" />",
-            "date_published": "2025-07-23T01:22:10+00:00",
-            "authors": [
-                {
-                    "name": "Tjhw007",
-                    "url": "https://www.reddit.com/user/Tjhw007"
                 }
             ]
         }
