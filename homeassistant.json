@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1pdso94",
+            "url": "/r/homeassistant/comments/1pdso94/i_hope_memes_are_allowed/",
+            "external_url": "https://i.redd.it/ukhrr71nq45g1.jpeg",
+            "title": "I hope memes are allowed",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/ukhrr71nq45g1.jpeg\" />",
+            "date_published": "2025-12-04T06:16:36+00:00",
+            "authors": [
+                {
+                    "name": "nahylink",
+                    "url": "https://www.reddit.com/user/nahylink"
+                }
+            ]
+        },
+        {
             "id": "1pd9ism",
             "url": "/r/homeassistant/comments/1pd9ism/psa_chamberlainliftmaster_up_to_more_shady_things/",
             "external_url": "https://www.reddit.com/r/homeassistant/comments/1pd9ism/psa_chamberlainliftmaster_up_to_more_shady_things/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Localmax",
                     "url": "https://www.reddit.com/user/Localmax"
-                }
-            ]
-        },
-        {
-            "id": "1hb6oss",
-            "url": "/r/homeassistant/comments/1hb6oss/updated_my_home_lab_and_house_dashboards/",
-            "external_url": "https://www.reddit.com/gallery/1hb6oss",
-            "title": "Updated my home lab and house dashboards",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1hb6oss/updated_my_home_lab_and_house_dashboards/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1hb6oss/updated_my_home_lab_and_house_dashboards/'>Reddit</a></caption><div><br></div><p>Thought I\u2019d share after I\u2019d previously shared the more desktop based dashboard of my homelab</p>",
-            "date_published": "2024-12-10T17:11:14+00:00",
-            "authors": [
-                {
-                    "name": "pinkpigeon548",
-                    "url": "https://www.reddit.com/user/pinkpigeon548"
                 }
             ]
         }
