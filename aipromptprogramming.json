@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1pdm22b",
+            "url": "/r/aipromptprogramming/comments/1pdm22b/i_was_convinced_my_prompts_were_fine_until_one/",
+            "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1pdm22b/i_was_convinced_my_prompts_were_fine_until_one/",
+            "title": "I was convinced my prompts were \u201cfine\u201d until one small change proved me wrong",
+            "content_html": "<p>For months I kept telling myself my prompts were okay.<br />\nI was getting answers. Sometimes even good ones. But deep down I knew something was missing. Everything still felt a bit\u2026 random.</p>\n<p>One night while debugging a small automation script, I tried a different way of talking to the model. I didn\u2019t change the task \u2014 I changed the <em>structure</em> of the prompt.</p>\n<p>That single change flipped a switch.</p>\n<p>Suddenly the model started:</p>\n<ul>\n<li>Asking smarter questions</li>\n<li>Showing clearer reasoning</li>\n<li>Producing results I could actually use without rewriting everything</li>\n</ul>\n<p>Since a few people here often ask what \u201cgood prompt structure\u201d actually looks like in practice, here are <strong>10 prompt patterns I use daily</strong>:</p>\n<ol>\n<li><strong>\u201cBefore answering, ask me the 3 most important clarifying questions.\u201d</strong></li>\n<li><strong>\u201cThink step-by-step and explain your reasoning as you go.\u201d</strong></li>\n<li><strong>\u201cAct as a senior expert in [field] and give me a practical plan.\u201d</strong></li>\n<li><strong>\u201cGive me 3 versions: fast solution, optimal solution, and safe solution.\u201d</strong></li>\n<li><strong>\u201cSummarize this first, then expand it into actionable steps.\u201d</strong></li>\n<li><strong>\u201cChallenge my assumptions and show where I might be wrong.\u201d</strong></li>\n<li><strong>\u201cCompare 3 approaches and recommend one with justification.\u201d</strong></li>\n<li><strong>\u201cTurn these messy notes into a clean logical outline.\u201d</strong></li>\n<li><strong>\u201cWhat information is missing for you to answer this properly?\u201d</strong></li>\n<li><strong>\u201cIf this fails, what would be the most likely reasons?\u201d</strong></li>\n</ol>\n<p>These aren\u2019t \u201cmagic prompts\u201d. They\u2019re just <strong>reliable thinking frameworks</strong> that make everything downstream better.</p>\n<p>After collecting and testing many of these patterns over time, I ended up organizing a much larger library for my own use. I shared the basic ones above, but if anyone wants to explore more variations, I keep the rest here:</p>\n<p>\ud83d\udc49 <a href=\"http://allneedshere.blog\">allneedshere.blog</a></p>\n<p>Would love to know \u2014 which of these patterns do you already use, if any?</p>",
+            "date_published": "2025-12-04T00:53:51+00:00",
+            "authors": [
+                {
+                    "name": "peover56",
+                    "url": "https://www.reddit.com/user/peover56"
+                }
+            ]
+        },
+        {
             "id": "1patdlj",
             "url": "/r/aipromptprogramming/comments/1patdlj/i_thought_ai_was_okay_until_i_tested_these_prompt/",
             "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1patdlj/i_thought_ai_was_okay_until_i_tested_these_prompt/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Educational_Ice151",
                     "url": "https://www.reddit.com/user/Educational_Ice151"
-                }
-            ]
-        },
-        {
-            "id": "1fm033u",
-            "url": "/r/aipromptprogramming/comments/1fm033u/im_looking_for_ai_image_generators_that_make_art/",
-            "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1fm033u/im_looking_for_ai_image_generators_that_make_art/",
-            "title": "I'm looking for AI image generators that make art based on the image(s) you provide ?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1fm033u/im_looking_for_ai_image_generators_that_make_art/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1fm033u/im_looking_for_ai_image_generators_that_make_art/'>Reddit</a></caption><div><br></div><p>Hi, </p>\n<p>instead of text-to-image AI generators, I'm wondering if there are any alternatives to The Looking Glass AI. The Looking Glass AI asks you for an image, to generate images based on them and a theme input. </p>\n<p>I tried looking for alternatives myself but I was only able to come across text-to-image generators so far.</p>",
-            "date_published": "2024-09-21T10:35:13+00:00",
-            "authors": [
-                {
-                    "name": "Zumcddo",
-                    "url": "https://www.reddit.com/user/Zumcddo"
                 }
             ]
         }
