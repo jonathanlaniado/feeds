@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1pdg2y0",
+            "url": "/r/iOSBeta/comments/1pdg2y0/ios_262_rc_promotion_fixed_home_screen_finally_at/",
+            "external_url": "https://www.reddit.com/r/iOSBeta/comments/1pdg2y0/ios_262_rc_promotion_fixed_home_screen_finally_at/",
+            "title": "[iOS 26.2 RC] ProMotion FIXED + Home Screen Finally at 120Hz",
+            "content_html": "<p>Just installed the 26.2 Release Candidate and\u2026 wow. After months of waiting, the ProMotion bug is actually fixed. The home screen finally runs at a smooth, consistent 120Hz, and the difference is instantly noticeable. Swiping between pages, opening folders, even subtle animations all feel dramatically more responsive.</p>\n<p>It\u2019s not just smoother, it feels like the whole UI has woken up. No dips, no weird hiccups, no falling back to lower refresh rates in random moments. This is the experience many of us expected from day one\u2026</p>\n<p>If this RC goes out unchanged, 26.2 is going to be a huge quality-of-life update. Anyone else feeling the upgrade? Let\u2019s hear your impressions..</p>",
+            "date_published": "2025-12-03T20:50:19+00:00",
+            "authors": [
+                {
+                    "name": "LogicLabyrinth0",
+                    "url": "https://www.reddit.com/user/LogicLabyrinth0"
+                }
+            ]
+        },
+        {
             "id": "1ovrbj2",
             "url": "/r/iOSBeta/comments/1ovrbj2/ios_262_db2_silent_mode_indicator_is_now_liquid/",
             "external_url": "https://v.redd.it/wv0i07778y0g1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "svdomer09",
                     "url": "https://www.reddit.com/user/svdomer09"
-                }
-            ]
-        },
-        {
-            "id": "1gc7x9y",
-            "url": "/r/iOSBeta/comments/1gc7x9y/ios_182_db1_image_playground_waiting_list/",
-            "external_url": "https://i.redd.it/z6h1dhxxmzwd1.jpeg",
-            "title": "[iOS 18.2 DB1] Image Playground Waiting List Expansion",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1gc7x9y/ios_182_db1_image_playground_waiting_list/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1gc7x9y/ios_182_db1_image_playground_waiting_list/'>Reddit</a></caption><div><br></div><p>I know a lot of people have waited days to get off the wait list while others have seemingly managed to get in immediately, according to Apple\u2019s SVP we\u2019re looking at in the \u2018coming weeks\u2019 they will expand access further to more people.</p><div><br></div><img src=\"https://i.redd.it/z6h1dhxxmzwd1.jpeg\" />",
-            "date_published": "2024-10-25T23:35:56+00:00",
-            "authors": [
-                {
-                    "name": "KieranRosevearIO",
-                    "url": "https://www.reddit.com/user/KieranRosevearIO"
                 }
             ]
         }
