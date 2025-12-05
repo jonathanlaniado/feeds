@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_80hi9u/styles/communityIcon_c37lf89zihxa1.png",
     "items": [
         {
+            "id": "1peu4vq",
+            "url": "/r/aipromptprogramming/comments/1peu4vq/i_used_ai_the_wrong_way_for_months_heres_what/",
+            "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1peu4vq/i_used_ai_the_wrong_way_for_months_heres_what/",
+            "title": "I used AI the wrong way for months \u2014 here\u2019s what happened when I finally fixed my prompting style",
+            "content_html": "<p>For a long time I thought I was \u201cpretty good\u201d with AI.<br />\nI used it for code experiments, planning, drafting ideas\u2026 but the results were inconsistent.</p>\n<p>Some days GPT felt brilliant.<br />\nOther days it felt like a confused intern.</p>\n<h1>Here\u2019s what my workflow looked like BEFORE:</h1>\n<ul>\n<li>I wrote prompts the way I <em>think</em>, not the way AI <em>understands</em></li>\n<li>Answers were generic, repetitive, sometimes totally unusable</li>\n<li>Every bigger task required multiple rewrites</li>\n<li>I kept thinking, \u201cWhy does GPT not get what I mean?\u201d</li>\n<li>Output quality depended on luck more than structure</li>\n</ul>\n<p>At some point I realized \u2014 the problem wasn\u2019t the model.<br />\nIt was <strong>my prompting architecture</strong>.</p>\n<p>So I rebuilt my approach completely.<br />\nNot with more words, not with longer prompts\u2026<br />\nbut with <strong>structured frameworks</strong>.</p>\n<h1>And AFTER switching to structured prompting, everything changed:</h1>\n<p>\u2705 AI began asking clarifying questions before responding<br />\n\u2705 Longer tasks turned into step-by-step actionable plans<br />\n\u2705 Coding prompts finally produced readable, fixable logic<br />\n\u2705 I started getting multiple versions instead of 1 flat answer<br />\n\u2705 The \u201cluck factor\u201d disappeared \u2014 results became consistent</p>\n<h1>Here are 4 frameworks that made the biggest difference:</h1>\n<ol>\n<li><strong>\u201cBefore answering, ask me 3 clarifying questions.\u201d</strong> Stops misunderstandings before they happen.</li>\n<li><strong>\u201cExplain like I\u2019m 12, then like an industry expert.\u201d</strong> Great for learning, debugging, and restructuring ideas.</li>\n<li><strong>\u201cGive me 3 versions: creative, practical, and execution-ready.\u201d</strong> Perfect when you want variety instead of a single attempt.</li>\n<li><strong>\u201cThink step-by-step and show your reasoning.\u201d</strong> Turns vague answers into solid, structured logic.</li>\n</ol>\n<p>These small shifts completely changed how I use AI daily.</p>\n<p>I\u2019ve tested dozens of frameworks like these and collected the most useful ones in a single place.<br />\nIf you want to explore them, here\u2019s the link:<br />\n\ud83d\udc49 <a href=\"http://allneedshere.blog/\"><strong>http://allneedshere.blog/</strong></a></p>\n<p>What about you?<br />\nWhat was your biggest \u201cbefore \u2192 after\u201d moment with prompting?</p>",
+            "date_published": "2025-12-05T12:44:49+00:00",
+            "authors": [
+                {
+                    "name": "peover56",
+                    "url": "https://www.reddit.com/user/peover56"
+                }
+            ]
+        },
+        {
             "id": "1pdm22b",
             "url": "/r/aipromptprogramming/comments/1pdm22b/i_was_convinced_my_prompts_were_fine_until_one/",
             "external_url": "https://www.reddit.com/r/aipromptprogramming/comments/1pdm22b/i_was_convinced_my_prompts_were_fine_until_one/",
@@ -1386,20 +1400,6 @@
             "title": "New paper by Anthropic and Stanford researchers finds LLMs are capable of introspection, which has implications for the moral status of AI",
             "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1g7y28c/new_paper_by_anthropic_and_stanford_researchers/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1g7y28c/new_paper_by_anthropic_and_stanford_researchers/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/zguztyre5tvd1.png\" />",
             "date_published": "2024-10-20T12:55:40+00:00",
-            "authors": [
-                {
-                    "name": "Educational_Ice151",
-                    "url": "https://www.reddit.com/user/Educational_Ice151"
-                }
-            ]
-        },
-        {
-            "id": "1g4wx1z",
-            "url": "/r/aipromptprogramming/comments/1g4wx1z/mathprompt_to_jailbreak_any_llm/",
-            "external_url": "https://www.reddit.com/gallery/1g4v4id",
-            "title": "MathPrompt to jailbreak any LLM",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/aipromptprogramming/comments/1g4wx1z/mathprompt_to_jailbreak_any_llm/'>Winston</a> | <a href='https://reddit.com/r/aipromptprogramming/comments/1g4wx1z/mathprompt_to_jailbreak_any_llm/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-10-16T11:17:35+00:00",
             "authors": [
                 {
                     "name": "Educational_Ice151",
