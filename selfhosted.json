@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1phsnf9",
+            "url": "/r/selfhosted/comments/1phsnf9/plex_submits_35_bid_for_warner_brothers/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1phsnf9/plex_submits_35_bid_for_warner_brothers/",
+            "title": "Plex submits $35 bid for Warner Brothers",
+            "content_html": "<p>https://theonion.com/plex-submits-35-bid-for-warner-bros/</p>\n<p>I thought you all would enjoy this bit of satire.</p>",
+            "date_published": "2025-12-09T00:00:58+00:00",
+            "authors": [
+                {
+                    "name": "compromised_roomba",
+                    "url": "https://www.reddit.com/user/compromised_roomba"
+                }
+            ]
+        },
+        {
             "id": "1pbbg0j",
             "url": "/r/selfhosted/comments/1pbbg0j/i_built_an_opensource_crm_that_you_can_selfhost/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1pbbg0j/i_built_an_opensource_crm_that_you_can_selfhost/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Dear_Rope_8819",
                     "url": "https://www.reddit.com/user/Dear_Rope_8819"
-                }
-            ]
-        },
-        {
-            "id": "1hmx314",
-            "url": "/r/selfhosted/comments/1hmx314/bricktracker_a_selfhosted_web_app_for_tracking/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1hmx314/bricktracker_a_selfhosted_web_app_for_tracking/",
-            "title": "BrickTracker - A self-hosted web app for tracking your LEGO collection, missing pieces, and more!",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1hmx314/bricktracker_a_selfhosted_web_app_for_tracking/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1hmx314/bricktracker_a_selfhosted_web_app_for_tracking/'>Reddit</a></caption><div><br></div><p>I'm excited to share BrickTracker, a project born out of frustration with existing LEGO tracking solutions. After reaching 350+ sets in my collection and now helping my son manage his own LEGO journey, I found that Brickset, Rebrickable, BaseBrick, Peeron, and Bricklink all fell short when it came to tracking sets and especially missing pieces across multiple copies of the same set.</p>\n<h1>Why I Built This</h1>\n<p>I keep all my sets inventoried in separate containers, and I wanted a simple way to track which sets are complete and which have missing pieces. When you're managing hundreds of sets and pieces occasionally go missing (as they do!), it becomes really challenging to keep track of everything with existing tools.</p>\n<h1>What can it do?</h1>\n<ul>\n<li><strong>Track multiple copies of the same set</strong> - Each set gets a unique ID, so you can track different missing pieces across duplicate sets</li>\n<li><strong>Manage missing pieces</strong> - Keep track of what's missing across your entire collection</li>\n<li><strong>View your complete inventory</strong> - See all parts and minifigures across your sets</li>\n<li><strong>Smart image handling</strong> - Images are downloaded once and stored locally, so you're not constantly hitting Rebrickable's API</li>\n<li><strong>Instructions management</strong> - Add PDF instructions for easy access</li>\n<li><strong>Wishlist support</strong> - Keep track of sets you want to add to your collection</li>\n</ul>\n<h1>Screenshots</h1>\n<ul>\n<li><a href=\"https://xbackbone.baerentsen.space/LaMU8/koLAhiWe94.png/raw\">Main interface with set overview</a></li>\n<li><a href=\"https://xbackbone.baerentsen.space/LaMU8/MeXaYuVI44.png/raw\">Parts inventory</a></li>\n<li><a href=\"https://xbackbone.baerentsen.space/LaMU8/YEPEKOsE50.png/raw\">Missing pieces tracker</a></li>\n<li><a href=\"https://xbackbone.baerentsen.space/LaMU8/RuWoduFU08.png/raw\">Minifigure collection</a></li>\n<li><a href=\"https://xbackbone.baerentsen.space/LaMU8/hACAbArO44.png/raw\">Wishlist</a></li>\n</ul>\n<h1>Tech</h1>\n<p>It's built with Python3, Flask and SQLite, runs in Docker, and only requires a Rebrickable API key to get started. All the code is available on my <a href=\"https://gitea.baerentsen.space/FrederikBaerentsen/BrickTracker\">Gitea</a> instance, and setup is pretty straightforward with Docker Compose.</p>\n<h1>Note</h1>\n<p>This has been a hobby project that's grown over time, so don't expect enterprise-grade code! It's built to solve real problems I've had managing my LEGO collection, and I figured others might find it useful too.</p>\n<h1>Try it out!</h1>\n<p>You can find the project here: https://gitea.baerentsen.space/FrederikBaerentsen/BrickTracker\nIf you have any questions or run into issues, feel free to ask. I'd love to hear your feedback and suggestions!</p>\n<p>Once set up, it runs locally and only calls Rebrickable when adding new sets.</p>",
-            "date_published": "2024-12-26T20:23:10+00:00",
-            "authors": [
-                {
-                    "name": "public_fred",
-                    "url": "https://www.reddit.com/user/public_fred"
                 }
             ]
         }
