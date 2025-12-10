@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1pj1n0p",
+            "url": "/r/selfhosted/comments/1pj1n0p/my_favorite_selfhosted_apps_launched_in_2025/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1pj1n0p/my_favorite_selfhosted_apps_launched_in_2025/",
+            "title": "My Favorite Self-Hosted Apps Launched in 2025 (selfh.st)",
+            "content_html": "<p>Hey, r/selfhosted! Continuing a <a href=\"https://selfh.st/post/2024-favorite-new-apps?ref=rselfhosted\">tradition started last year</a>, I recently published a list of my favorite self-hosted software released in 2025 and thought everyone here might find it interesting.</p>\n<p>As usual, the article itself includes screenshots and brief descriptions, but I've also provided a list below with links for those who'd prefer not to click through. </p>\n<p>Additionally, these apps can also be viewed directly in my app directory using the following shortcut: <a href=\"https://slfh.st/2025\">slfh.st/2025</a></p>\n<p><a href=\"https://selfh.st/post/2025-favorite-new-apps?ref=rselfhosted\">My Favorite Apps Launched in 2025</a></p>\n<ul>\n<li><a href=\"https://github.com/getarcaneapp/arcane?ref=selfh.st\">Arcane</a> (Deployment/Management)</li>\n<li><a href=\"https://github.com/alam00000/bentopdf?ref=selfh.st\">BentoPDF</a> (PDF Toolkit)</li>\n<li><a href=\"https://github.com/booklore-app/booklore?ref=selfh.st\">BookLore</a> (Book Library/Reader)</li>\n<li><a href=\"https://github.com/ajnart/dcm?ref=selfh.st\">Docker Compose Maker</a> (Deployment)</li>\n<li><a href=\"https://github.com/ironcalc/IronCalc?ref=selfh.st\">IronCalc</a> (Spreadsheet Engine)</li>\n<li><a href=\"https://github.com/clemcer/loggifly?ref=selfh.st\">LoggiFly</a> (Log-based Notifications)</li>\n<li>Mail Archival (Various)</li>\n<li><a href=\"https://github.com/rustmailer/bichon?ref=selfh.st\">Bichon</a></li>\n<li><a href=\"https://github.com/Dacid99/Eonvelope?ref=selfh.st\">Eonvelope</a></li>\n<li><a href=\"https://github.com/s1t5/mail-archiver?ref=selfh.st\">Mail Archiver</a></li>\n<li><a href=\"https://github.com/LogicLabs-OU/OpenArchiver?ref=selfh.st\">OpenArchiver</a></li>\n<li><a href=\"https://github.com/Gururagavendra/gmail-cleaner?ref=selfh.st\">Gmail Cleaner</a></li>\n<li>Media Management (Various)</li>\n<li><a href=\"https://github.com/MoldyTaint/Cinephage?ref=selfh.st\">Cinephage</a></li>\n<li><a href=\"https://github.com/maxdorninger/MediaManager?ref=selfh.st\">MediaManager</a></li>\n<li><a href=\"https://github.com/getmydia/mydia?ref=selfh.st\">Mydia</a></li>\n<li><a href=\"https://github.com/gamosoft/NoteDiscovery?ref=selfh.st\">NoteDiscovery</a> (Note-Taking)</li>\n<li><a href=\"https://github.com/fosrl/pangolin?ref=selfh.st\">Pangolin</a> (Reverse Proxy)</li>\n<li><a href=\"https://github.com/papra-hq/papra?ref=selfh.st\">Papra</a> (Document Management)</li>\n<li><a href=\"https://github.com/PatchMon/PatchMon?ref=selfh.st\">PatchMon</a> (Linux Patch Monitoring)</li>\n<li><a href=\"https://github.com/RostislavDugin/postgresus?ref=selfh.st\">Postgresus</a> (Database Backups)</li>\n<li><a href=\"https://github.com/timothepoznanski/poznote?ref=selfh.st\">Poznote</a> (Note-Taking)</li>\n<li><a href=\"https://github.com/rybbit-io/rybbit?ref=selfh.st\">Rybbit</a> (Web Analytics)</li>\n<li><a href=\"https://github.com/Sync-in/server?ref=selfh.st\">Sync-in</a> (Cloud Storage)</li>\n<li><a href=\"https://github.com/steveiliop56/tinyauth?ref=selfh.st\">Tinyauth</a> (Authentication)</li>\n<li><a href=\"https://github.com/johnwarne/upvote-rss?ref=selfh.st\">Upvote RSS</a> (RSS Aggregator)</li>\n<li><a href=\"https://github.com/sassanix/Warracker?ref=selfh.st\">Warracker</a> (Warranty Tracking)</li>\n<li><a href=\"https://github.com/nicotsx/zerobyte?ref=selfh.st\">Zerobyte</a> (Backups)</li>\n</ul>",
+            "date_published": "2025-12-10T12:43:51+00:00",
+            "authors": [
+                {
+                    "name": "shol-ly",
+                    "url": "https://www.reddit.com/user/shol-ly"
+                }
+            ]
+        },
+        {
             "id": "1phsnf9",
             "url": "/r/selfhosted/comments/1phsnf9/plex_submits_35_bid_for_warner_brothers/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1phsnf9/plex_submits_35_bid_for_warner_brothers/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Aiko_133",
                     "url": "https://www.reddit.com/user/Aiko_133"
-                }
-            ]
-        },
-        {
-            "id": "1hndxbd",
-            "url": "/r/selfhosted/comments/1hndxbd/the_big_list_rselfhosteds_most_recommended_tools/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1hndxbd/the_big_list_rselfhosteds_most_recommended_tools/",
-            "title": "The Big List: r/selfhosted's Most Recommended Tools for 2024 (with GitHub links)",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1hndxbd/the_big_list_rselfhosteds_most_recommended_tools/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1hndxbd/the_big_list_rselfhosteds_most_recommended_tools/'>Reddit</a></caption><div><br></div><p>Four days to go before we step into 2025, and we thought we'll share a collection of the most recommended and loved self-hosted tools from our community.  </p>\n<p><a href=\"https://www.osswire.com/r-selfhosted-recommends-essential-self-hosted-tools-of-2024/\">https://www.osswire.com/r-selfhosted-recommends-essential-self-hosted-tools-of-2024/</a>  </p>\n<p>Compared to most lists, this one\u2019s powered by posts, comments, and conversations right here in r/selfhosted.\u00a0It is also vetted and reviewed by us and almost all of those we have tired ourselves.</p>\n<p>Check it out and let us know what\u2019s missing. We will use comments here to make that list even better for everyone.  </p>\n<p>We shared this yesterday, but took it down after some of you caught a few errors (thanks for the sharp eyes!). We've gone through all the feedback and made the necessary corrections. Thanks for helping make this resource better.  </p>\n<p>Happy holidays!</p>",
-            "date_published": "2024-12-27T12:33:22+00:00",
-            "authors": [
-                {
-                    "name": "Dear_Rope_8819",
-                    "url": "https://www.reddit.com/user/Dear_Rope_8819"
                 }
             ]
         }
