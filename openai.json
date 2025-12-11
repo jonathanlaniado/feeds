@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1pk74o6",
+            "url": "/r/OpenAI/comments/1pk74o6/this_must_be_a_new_record_or_something/",
+            "external_url": "https://i.redd.it/yjrmccoiqm6g1.jpeg",
+            "title": "This must be a new record or something:",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/yjrmccoiqm6g1.jpeg\" />",
+            "date_published": "2025-12-11T19:51:49+00:00",
+            "authors": [
+                {
+                    "name": "JLeonsarmiento",
+                    "url": "https://www.reddit.com/user/JLeonsarmiento"
+                }
+            ]
+        },
+        {
             "id": "1pi9b6o",
             "url": "/r/OpenAI/comments/1pi9b6o/openai_profit/",
             "external_url": "https://i.redd.it/vku2uvwoy66g1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "fremenmuaddib",
                     "url": "https://www.reddit.com/user/fremenmuaddib"
-                }
-            ]
-        },
-        {
-            "id": "1kkxjf5",
-            "url": "/r/OpenAI/comments/1kkxjf5/over_and_over_and_over/",
-            "external_url": "https://i.redd.it/h4bn8lsfsd0f1.png",
-            "title": "Over... and over... and over...",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/h4bn8lsfsd0f1.png\" />",
-            "date_published": "2025-05-12T16:52:59+00:00",
-            "authors": [
-                {
-                    "name": "MetaKnowing",
-                    "url": "https://www.reddit.com/user/MetaKnowing"
                 }
             ]
         }
