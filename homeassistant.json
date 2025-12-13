@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1plpry8",
+            "url": "/r/homeassistant/comments/1plpry8/brought_a_20_year_old_car_into_home_assistant/",
+            "external_url": "https://i.redd.it/ridli8kb207g1.jpeg",
+            "title": "Brought a 20+ Year Old car into Home Assistant. (Building Blocks in Comments)",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/ridli8kb207g1.jpeg\" />",
+            "date_published": "2025-12-13T16:42:48+00:00",
+            "authors": [
+                {
+                    "name": "NRG1975",
+                    "url": "https://www.reddit.com/user/NRG1975"
+                }
+            ]
+        },
+        {
             "id": "1pkq695",
             "url": "/r/homeassistant/comments/1pkq695/santa_tracker/",
             "external_url": "https://i.redd.it/wwo23f6fjr6g1.gif",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "CannoliConnoisseur",
                     "url": "https://www.reddit.com/user/CannoliConnoisseur"
-                }
-            ]
-        },
-        {
-            "id": "1hjc2mf",
-            "url": "/r/homeassistant/comments/1hjc2mf/bye_bye_siri/",
-            "external_url": "https://i.redd.it/ct000cqyz78e1.jpeg",
-            "title": "Bye Bye Siri",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1hjc2mf/bye_bye_siri/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1hjc2mf/bye_bye_siri/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/ct000cqyz78e1.jpeg\" />",
-            "date_published": "2024-12-21T15:28:39+00:00",
-            "authors": [
-                {
-                    "name": "harrisoncassidy",
-                    "url": "https://www.reddit.com/user/harrisoncassidy"
                 }
             ]
         }
