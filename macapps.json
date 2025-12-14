@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1pmqph7",
+            "url": "/r/macapps/comments/1pmqph7/macusb_easily_create_macosos_x_bootable_drives/",
+            "external_url": "https://www.reddit.com/gallery/1pmqph7",
+            "title": "macUSB \u2013 Easily create macOS/OS X bootable drives for all Macs, even when working from Apple Silicon",
+            "content_html": "<p>Hello everyone!</p>\n<p>While using my MacBook with\u00a0<strong>Apple Silicon</strong>, I kept running into recurring issues when trying to create a bootable USB drive containing older versions of macOS/OS X for Intel-based Macs. As a hobbyist and enthusiast of vintage models, I love to experiment with them, but this process was constantly frustrating.</p>\n<p>After a long search and testing various workarounds on how to create these installation drives,\u00a0<strong>I managed to condense all the necessary steps</strong>. To simplify future creations for myself, I decided to\u00a0<strong>automate the entire process and wrap it all up in a single application</strong>, making it quick and enjoyable. This is how\u00a0<strong>macUSB</strong>\u00a0was born.</p>\n<p>Since I am by no means a professional programmer\u2014the app was written using the\u00a0<em>Vibe Coding</em>\u00a0approach with the help of\u00a0<strong>Gemini 3 Pro</strong>. On top of that, this process also allowed me to learn a few new things and understand the reasoning behind different coding choices! After three weeks of work, I'm ready to share version\u00a0<strong>v1.0</strong>\u00a0with you all! I hope it helps you speed up or even finally enable the creation of such bootable USB drives in the future!</p>\n<p><strong>Download and check out the code on GitHub</strong>: <a href=\"https://github.com/Kruszoneq/macUSB\">macUSB</a></p>",
+            "date_published": "2025-12-14T22:17:36+00:00",
+            "authors": [
+                {
+                    "name": "Kruszoneq",
+                    "url": "https://www.reddit.com/user/Kruszoneq"
+                }
+            ]
+        },
+        {
             "id": "1pmdpdt",
             "url": "/r/macapps/comments/1pmdpdt/i_built_this_ai_app_to_block_your_procrastination/",
             "external_url": "https://v.redd.it/fqkde1hk567g1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "amerpie",
                     "url": "https://www.reddit.com/user/amerpie"
-                }
-            ]
-        },
-        {
-            "id": "1gkrg9s",
-            "url": "/r/macapps/comments/1gkrg9s/an_app_to_make_an_chmcompiled_html_help_file_on/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1gkrg9s/an_app_to_make_an_chmcompiled_html_help_file_on/",
-            "title": "An app to make an chm(Compiled HTML Help) file on MacOS",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1gkrg9s/an_app_to_make_an_chmcompiled_html_help_file_on/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1gkrg9s/an_app_to_make_an_chmcompiled_html_help_file_on/'>Reddit</a></caption><div><br></div><p>Hi there, I've searching an app to make a chm<strong>(Compiled HTML Help)</strong> for years on mac, my findings were null because I found only chm readers like <a href=\"https://github.com/vit9696/ichm\">ichm</a> but I would like to have an app to make my own chm files </p>\n<p>If you know apps, please share i'd glad to hear your comments </p>",
-            "date_published": "2024-11-06T05:46:53+00:00",
-            "authors": [
-                {
-                    "name": "SpectyteCovelight",
-                    "url": "https://www.reddit.com/user/SpectyteCovelight"
                 }
             ]
         }
