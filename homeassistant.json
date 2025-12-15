@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1pnehhj",
+            "url": "/r/homeassistant/comments/1pnehhj/just_started_my_smart_home_journey/",
+            "external_url": "https://i.redd.it/ijexi6u3se7g1.jpeg",
+            "title": "Just started my smart home journey",
+            "content_html": "<p>My wife is not nearly as invested in matching the warmth and brightness of our home to our circadian rhythms at all times. </p><div><br></div><img src=\"https://i.redd.it/ijexi6u3se7g1.jpeg\" />",
+            "date_published": "2025-12-15T18:10:36+00:00",
+            "authors": [
+                {
+                    "name": "-kwatz-",
+                    "url": "https://www.reddit.com/user/-kwatz-"
+                }
+            ]
+        },
+        {
             "id": "1plpry8",
             "url": "/r/homeassistant/comments/1plpry8/brought_a_20_year_old_car_into_home_assistant/",
             "external_url": "https://i.redd.it/ridli8kb207g1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "loapmail",
                     "url": "https://www.reddit.com/user/loapmail"
-                }
-            ]
-        },
-        {
-            "id": "1hk45wj",
-            "url": "/r/homeassistant/comments/1hk45wj/_/",
-            "external_url": "https://i.redd.it/fhxy8k9myf8e1.jpeg",
-            "title": ".... ._",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1hk45wj/_/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1hk45wj/_/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/fhxy8k9myf8e1.jpeg\" />",
-            "date_published": "2024-12-22T18:15:21+00:00",
-            "authors": [
-                {
-                    "name": "CannoliConnoisseur",
-                    "url": "https://www.reddit.com/user/CannoliConnoisseur"
                 }
             ]
         }
