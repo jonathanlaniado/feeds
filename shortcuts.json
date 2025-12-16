@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1pnyy11",
+            "url": "/r/shortcuts/comments/1pnyy11/the_ios_automations_that_really_change_everyday/",
+            "external_url": "https://www.reddit.com/r/shortcuts/comments/1pnyy11/the_ios_automations_that_really_change_everyday/",
+            "title": "The iOS automations that really change everyday life (not the gimmicks)",
+            "content_html": "<p>I\u2019ve tested quite a few shortcuts and automations on iOS, and I have to admit that at first, I was a bit like a kid in a toy store. But over time, most of them end up gathering dust. They look \u201cwow\u201d on paper, but in day-to-day life, they don\u2019t hold up.</p>\n<p>In the end, I only kept the ones that truly save me time or lighten my mental load. Not the flashy stuff, but the ones that work quietly in the background.</p>\n<p>Here are a few that have stayed part of my daily routine:</p>\n<p>\u2013 Creating reminders automatically from a simple note. No need to type everything by hand anymore, it saves a lot of taps.\n\u2013 Smart date calculations for reminders, like handling working days or avoiding certain days of the week. A huge time saver.\n\u2013 Small contextual automations, the kind of \u201cwhen I do this, then that happens\u201d. Nothing too ambitious, just little helpers to avoid forgetting repetitive tasks.</p>\n<p>Of course, iOS still has its limits \u2014 VPN control, background automations, certain restrictions\u2026 But with a bit of cleverness, you can still create workflows that are genuinely useful.</p>\n<p>And you, which shortcuts do you really use over the long term? And which ones made you dream at first, only to end up abandoned?</p>",
+            "date_published": "2025-12-16T10:47:32+00:00",
+            "authors": [
+                {
+                    "name": "Maxxximeeee",
+                    "url": "https://www.reddit.com/user/Maxxximeeee"
+                }
+            ]
+        },
+        {
             "id": "1oeuqna",
             "url": "/r/shortcuts/comments/1oeuqna/dynamic_abstract_wallpaper_shortcut_apple/",
             "external_url": "https://www.reddit.com/gallery/1oeuqna",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Kilian6064756",
                     "url": "https://www.reddit.com/user/Kilian6064756"
-                }
-            ]
-        },
-        {
-            "id": "1avfe9u",
-            "url": "/r/shortcuts/comments/1avfe9u/one_tap_shuffle_all_spotify_liked_songs/",
-            "external_url": "https://i.redd.it/d44g0nbb6qjc1.jpeg",
-            "title": "One tap shuffle all Spotify Liked Songs",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1avfe9u/one_tap_shuffle_all_spotify_liked_songs/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1avfe9u/one_tap_shuffle_all_spotify_liked_songs/'>Reddit</a></caption><div><br></div><p>https://www.icloud.com/shortcuts/a41e2fca6508404180d69ddf730aeddd</p>\n<p>been loving having this quick little widget for shuffling my liked spotify songs. iPod Shuffle emulator in a way as i don't ever need to look at the app with this lol</p>\n<p>hope someone gets some use out of it \ud83e\udec2</p><div><br></div><img src=\"https://i.redd.it/d44g0nbb6qjc1.jpeg\" />",
-            "date_published": "2024-02-20T11:24:07+00:00",
-            "authors": [
-                {
-                    "name": "cancerous_rhinoceros",
-                    "url": "https://www.reddit.com/user/cancerous_rhinoceros"
                 }
             ]
         }
