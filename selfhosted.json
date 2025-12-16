@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1po595e",
+            "url": "/r/selfhosted/comments/1po595e/i_built_tracearr_account_sharing_detection_and/",
+            "external_url": "https://www.reddit.com/gallery/1po595e",
+            "title": "I built Tracearr - account sharing detection and monitoring for Plex, Jellyfin, and Emby",
+            "content_html": "<p>I run a Plex server for family. But \"family\" turned into friends, then friends of friends, then some guy my cousin works with. I started wondering who was actually using my server and if accounts were getting passed around.</p>\n<p>Other tools show you what happened. They don't tell you when something looks off. So I built Tracearr.</p>\n<h1>What it does</h1>\n<ul>\n<li><strong>Session tracking</strong> - who watched what, when, from where, on what device</li>\n<li><strong>IP geolocation</strong> - city, region, country for every stream</li>\n<li><strong>Sharing detection</strong> - five rule types:</li>\n<li>Impossible travel (NYC then London 30 min later)</li>\n<li>Simultaneous locations (same account, two cities, same time)</li>\n<li>Device velocity (way too many IPs in a short window)</li>\n<li>Concurrent streams (set limits per user)</li>\n<li>Geo restrictions (block countries)</li>\n<li><strong>Trust scores</strong> - users build or lose trust over time. Get alerts via Discord, ntfy, webhooks</li>\n<li><strong>Stream map</strong> - see where your streams are coming from on a map, live or historical</li>\n<li><strong>Multi-server</strong> - Plex, Jellyfin, Emby all in one place</li>\n<li><strong>Kill streams</strong> - terminate sessions from the UI</li>\n<li><strong>Import history</strong> - pull in your Tautulli or Jellystat data</li>\n</ul>\n<h1>What I've found on my own server</h1>\n<ul>\n<li>A \"family member\" who was streaming from Boston and Detroit on the same day</li>\n<li>One account shared between at least 3 people in 2 different countries</li>\n<li>Someone who hit 15 unique IPs in a single month</li>\n</ul>\n<h1>How it compares to Others</h1>\n<p>Same ideas as Tautulli and JellyStat - watch history, stats, session monitoring. Difference is Tracearr adds sharing detection rules on top. You can run both, they don't conflict.</p>\n<p>Other tools do watch history and stats well. But they slow down quickly with years of data, and if you run multiple servers you need multiple instances.</p>\n<p>Tech stack is Fastify + TimescaleDB. Uses continuous aggregates so queries stay fast even with years of history.</p>\n<h1>Privacy</h1>\n<p>100% self-hosted. No cloud, no telemetry, nothing phones home. Your data stays on your box.</p>\n<h1>Quick Start</h1>\n<p><a href=\"https://github.com/connorgallopo/Tracearr/blob/main/docker/docker-compose.supervised.yml\">All-in-one (includes Postgres + Redis)</a></p>\n<p><a href=\"https://github.com/connorgallopo/Tracearr/blob/main/docker/docker-compose.yml\">Three Service Stack (Tracearr, TimescaleDB, Redis)</a></p>\n<h1>Not done yet</h1>\n<ul>\n<li>Automated stream kills via rules (manual only right now)</li>\n<li>Email/Telegram (Discord and webhooks work)</li>\n<li>Mobile app exists but still in beta (Testflight now available!)</li>\n</ul>\n<h1>Links</h1>\n<ul>\n<li>GitHub: <a href=\"https://github.com/connorgallopo/Tracearr\">https://github.com/connorgallopo/Tracearr</a></li>\n<li>Discord: <a href=\"https://discord.gg/a7n3sFd2Yw\">https://discord.gg/a7n3sFd2Yw</a></li>\n</ul>\n<p>If anyone runs Jellyfin or Emby, I'd really like to know how it works for you. I've hammered on Plex but the other two need more real-world testing.</p>\n<p>What other detection rules would be useful? Anything you wish other monitoring tools did that they don't do now?</p>\n<p>Also, want to say a big  thanks to the early adopters from the Discord community - Bramble, killerbyte1985, nzbnate, SuperKing, and WildWayz , coyuya, Jam, IamSpartacus and Zass - who've been finding bugs and suggesting features since day one. A lot of what's in there now came from their feedback.</p>\n<p>Thank you for taking a look!</p>\n<p>Gallapagos</p>",
+            "date_published": "2025-12-16T15:46:26+00:00",
+            "authors": [
+                {
+                    "name": "GallapagosIsland",
+                    "url": "https://www.reddit.com/user/GallapagosIsland"
+                }
+            ]
+        },
+        {
             "id": "1pj1n0p",
             "url": "/r/selfhosted/comments/1pj1n0p/my_favorite_selfhosted_apps_launched_in_2025/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1pj1n0p/my_favorite_selfhosted_apps_launched_in_2025/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MrPanda011",
                     "url": "https://www.reddit.com/user/MrPanda011"
-                }
-            ]
-        },
-        {
-            "id": "1hnqtcl",
-            "url": "/r/selfhosted/comments/1hnqtcl/pihole_is_a_lot_worth_it_if_you_really_use_it_and/",
-            "external_url": "https://i.redd.it/nmbnevbhwg9e1.png",
-            "title": "Pihole is A LOT worth it if you really use it and put some good and big adlists",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1hnqtcl/pihole_is_a_lot_worth_it_if_you_really_use_it_and/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1hnqtcl/pihole_is_a_lot_worth_it_if_you_really_use_it_and/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/nmbnevbhwg9e1.png\" />",
-            "date_published": "2024-12-27T22:29:17+00:00",
-            "authors": [
-                {
-                    "name": "Aiko_133",
-                    "url": "https://www.reddit.com/user/Aiko_133"
                 }
             ]
         }
