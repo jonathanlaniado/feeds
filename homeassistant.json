@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1pp46jh",
+            "url": "/r/homeassistant/comments/1pp46jh/meet_our_new_commercial_partner_apollo_automation/",
+            "external_url": "https://newsletter.openhomefoundation.org/meet-our-new-partner-apollo-automation/",
+            "title": "Meet our new commercial partner: Apollo Automation",
+            "content_html": "",
+            "date_published": "2025-12-17T18:32:38+00:00",
+            "authors": [
+                {
+                    "name": "balloob",
+                    "url": "https://www.reddit.com/user/balloob"
+                }
+            ]
+        },
+        {
             "id": "1pnehhj",
             "url": "/r/homeassistant/comments/1pnehhj/just_started_my_smart_home_journey/",
             "external_url": "https://i.redd.it/ijexi6u3se7g1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "LegoBoyLuc",
                     "url": "https://www.reddit.com/user/LegoBoyLuc"
-                }
-            ]
-        },
-        {
-            "id": "1hkn6x3",
-            "url": "/r/homeassistant/comments/1hkn6x3/retro_dashboard/",
-            "external_url": "https://www.reddit.com/gallery/1hkn6x3",
-            "title": "Retro dashboard",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1hkn6x3/retro_dashboard/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1hkn6x3/retro_dashboard/'>Reddit</a></caption><div><br></div><p>I would like to show you (read \"flex here\") how is it going with my retro dasboard, now it supports \"windows\"</p>",
-            "date_published": "2024-12-23T12:57:08+00:00",
-            "authors": [
-                {
-                    "name": "loapmail",
-                    "url": "https://www.reddit.com/user/loapmail"
                 }
             ]
         }
