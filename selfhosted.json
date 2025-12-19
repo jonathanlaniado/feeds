@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1pqoyqc",
+            "url": "/r/selfhosted/comments/1pqoyqc/helmarr_is_now_available_on_the_apple_appstore/",
+            "external_url": "https://i.redd.it/xosonkzrh68g1.png",
+            "title": "Helmarr is now available on the Apple AppStore!",
+            "content_html": "<p>Hey r/selfhosted,</p>\n<p><strong>I'm insanely happy to announce that Helmarr is now available on the Apple AppStore!</strong> \ud83c\udf89</p>\n<p><strong>What is this?</strong></p>\n<p>Helmarr is my attempt at giving your whole media management stack a single, native home on Apple devices. It is built for iOS and iPadOS (optimized for both), and also available on macOS, so you can browse, manage, and keep track of everything in one place without bouncing between separate apps and web UIs.</p>\n<p><strong>Currently supported:</strong></p>\n<p>Sonarr, Radarr, Lidarr, Bazarr, Seerr (Overseerr &amp; Jellyseerr), Tautulli, Jellystat, SABnzbd, NZBGet, qBittorrent, Unraid, SSH, Wizarr, Transmission (coming soon).</p>\n<p><strong>Feature highlights:</strong></p>\n<ul>\n<li>Unified library browsing and management</li>\n<li>Requests (Overseerr, Jellyseerr, Seerr)</li>\n<li>Calendar for upcoming releases</li>\n<li>Activities like downloads, history, and status</li>\n<li>Release filters for video, audio quality and formats</li>\n<li>Add and manage media directly</li>\n<li>Release picker / release browser for better control over what gets grabbed</li>\n<li>Download management for SABnzbd, NZBGet and qBittorrent (pause, resume, reorder, speed limits, etc.)</li>\n<li>Push notifications for Sonarr, Radarr, Lidarr, Seerr and Tautulli</li>\n<li>Home screen widgets (queue, upcoming, stats, more are coming)</li>\n<li>Deep customization (accent colors, layout, tab bar, custom headers, etc.)</li>\n<li>Smart connectivity with multi-network support (primary + fallback hosts, auto switching LAN/WAN)</li>\n<li>Unraid monitoring + control (shares, parity, disks, warnings, Docker containers, VMs)</li>\n<li>SSH terminal access with live resource monitoring (CPU/RAM/Net)</li>\n<li>and so much more, try it out! </li>\n</ul>\n<p><strong>Pricing:</strong></p>\n<p>I see Helmarr as a paid app that you buy once and be done forever, but I still wanted it to be easy to try, so every service has a free mode that lets you explore most of its features.</p>\n<ul>\n<li>Lifetime unlocks: Purchase individual services, or get the \u201cAll Services\u201d lifetime option (best value). Family Sharing is included on all lifetime purchases, and the full unlock also covers any services added in the future.</li>\n<li>Ultra subscription: Unlocks everything as well. It doesn\u2019t add features beyond cosmetics, it\u2019s mainly for anyone who wants to support continued development. \ud83e\udef6</li>\n</ul>\n<p><strong>Beta and a huge thank you \u2764\ufe0f</strong></p>\n<p>The beta honestly went way beyond what I expected. We had over 3,000 people in TestFlight, with about 800 to 1,000 active every day and over 300 in the Discord. The amount of feedback, bug reports, and suggestions I got was insane, and it directly shaped the app into what it is now.</p>\n<p>Thank you to everyone who took the time to test, send screenshots, report issues, and point out the little details. I read everything, and I am not slowing down on feature development and bug fixing.</p>\n<p><strong>Links:</strong></p>\n<p><strong>App Store:</strong> <a href=\"https://apps.apple.com/us/app/helmarr/id1638624921\"><strong>https://apps.apple.com/us/app/helmarr/id1638624921</strong></a></p>\n<p><strong>Website:</strong> <a href=\"https://helmarr.com\"><strong>https://helmarr.com</strong></a></p>\n<p><strong>Discord:</strong> <a href=\"https://discord.gg/sJRqaXNtxs\"><strong>https://discord.gg/sJRqaXNtxs</strong></a></p><div><br></div><img src=\"https://i.redd.it/xosonkzrh68g1.png\" />",
+            "date_published": "2025-12-19T16:09:44+00:00",
+            "authors": [
+                {
+                    "name": "0xmort3m",
+                    "url": "https://www.reddit.com/user/0xmort3m"
+                }
+            ]
+        },
+        {
             "id": "1po595e",
             "url": "/r/selfhosted/comments/1po595e/i_built_tracearr_account_sharing_detection_and/",
             "external_url": "https://www.reddit.com/gallery/1po595e",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "CakePlanet75",
                     "url": "https://www.reddit.com/user/CakePlanet75"
-                }
-            ]
-        },
-        {
-            "id": "1ho60d7",
-            "url": "/r/selfhosted/comments/1ho60d7/is_this_a_good_list_so_far/",
-            "external_url": "https://i.imgur.com/EOaQwGL.jpeg",
-            "title": "Is this a good list so far ?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1ho60d7/is_this_a_good_list_so_far/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1ho60d7/is_this_a_good_list_so_far/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.imgur.com/EOaQwGL.jpeg\" />",
-            "date_published": "2024-12-28T13:49:07+00:00",
-            "authors": [
-                {
-                    "name": "MrPanda011",
-                    "url": "https://www.reddit.com/user/MrPanda011"
                 }
             ]
         }
