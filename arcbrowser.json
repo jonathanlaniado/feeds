@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1psa9ba",
+            "url": "/r/ArcBrowser/comments/1psa9ba/they_made_the_dia_advert_bigger_what_the_heck/",
+            "external_url": "https://i.redd.it/0q4udlc21l8g1.png",
+            "title": "They made the Dia advert bigger, what the heck!?",
+            "content_html": "<p>I entered to the Arc's website to see what's going on, and I see this big pop up. I remember it was smaller before saying: \"Meet Dia, a browser by the creators of Arc\".</p>\n<p>It's clear that TBC wants to abandon Arc and move everyone to Dia. </p><div><br></div><img src=\"https://i.redd.it/0q4udlc21l8g1.png\" />",
+            "date_published": "2025-12-21T16:19:17+00:00",
+            "authors": [
+                {
+                    "name": "Bieleteesw",
+                    "url": "https://www.reddit.com/user/Bieleteesw"
+                }
+            ]
+        },
+        {
             "id": "1oq3zd5",
             "url": "/r/ArcBrowser/comments/1oq3zd5/native_icloud_keychain_passkey_support/",
             "external_url": "https://i.redd.it/a8mc1aqa1ozf1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Patrick-BCNY",
                     "url": "https://www.reddit.com/user/Patrick-BCNY"
-                }
-            ]
-        },
-        {
-            "id": "1gjk654",
-            "url": "/r/ArcBrowser/comments/1gjk654/wow_i_am_at_a_loss_for_words_after_the_recent/",
-            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1gjk654/wow_i_am_at_a_loss_for_words_after_the_recent/",
-            "title": "Wow. I am at a loss for words. After the recent update. I guess thats it.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1gjk654/wow_i_am_at_a_loss_for_words_after_the_recent/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1gjk654/wow_i_am_at_a_loss_for_words_after_the_recent/'>Reddit</a></caption><div><br></div><p>Good evening, hope y'all are well</p>\n<p>So I recently wanted to make a medium article of the current battle of Arc vs SigmaOS vs Zen Browser... looks like I can save myself a lot of work.</p>\n<p>I didn't make major updates to Arc in quite a while and noticed that a bigger update is due today, so I made it, hoping that the bugs I had in Meta Ads Manager would go away. Boooy was I in for a treat.</p>\n<p>So what did happen suddenly?</p>\n<ul>\n<li>I had my side/tab bar neatly organized, with the url/title in there, the settings and extention icons very conveniently available from the left hand side; under there was a selection of pinned apps and websites+folders;</li>\n<li>The url/title is back in the middle now, turning the full screen experience into a shithole experience; also I have two pairs of chrome extension icons in my tab bar and in my title bar on the right, because I probably need two pairs, just in case I lose one.</li>\n<li>Folders are a thing of the past, website organisation seems to be as well. Good thing I moved my bookmark organisation to <a href=\"http://raindrop.io\">raindrop.io</a> before all of this </li>\n<li>What the heck is this \"Ask a question\" bar that is so ugly blocking the bottom edge of the screen? That is a whole lot of white space it occupies, how the top and bottom margin doesnt align, how you lack the possibility to MAKE IT DISAPPEAR...</li>\n</ul>\n<p>What the hell happened? Did everyone at TBC jump ship? Finished the data mining?</p>\n<p>Honestly, I don't even want Arc back at this point. I did my homework while Arc was showing the first signs of acting up (CPU spikes for no reason, random breaking bugs for vital websites, the telemetry and data privacy affairs..) and decided to have Zen Browser and SigmaOS as alternatives on my MacBook Pro</p>\n<p>I can recommend both, although SigmaOS (despite the shitty name) is running like butter on Mac and has a slight better resemblance of Arc. Zen Browser is a nice project with a lot of nice perks and Firefox as basis but the migration (as of now) is not as smooth.</p>\n<p>Judging from the reactions in this sub and my own emotional outbursts, this is a turning point for Arc. It was good while it lasted. All the best</p>",
-            "date_published": "2024-11-04T17:39:02+00:00",
-            "authors": [
-                {
-                    "name": "holzpuppet",
-                    "url": "https://www.reddit.com/user/holzpuppet"
                 }
             ]
         }
