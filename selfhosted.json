@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1ps63jt",
+            "url": "/r/selfhosted/comments/1ps63jt/a_diary_about_self_hosting/",
+            "external_url": "https://i.redd.it/qtjcrgjrqj8g1.png",
+            "title": "A diary about self hosting",
+            "content_html": "<p>dear diary:</p>\n<p>I always were a tech savy dude, but rarely got in touch with linux or self hosting before 2024.</p>\n<p>Early 2024 I started experimenting with a pihole + unbound on a rasperry 4, because I could'nt stand the amount of brainshrinking ads on the internet anymore.</p>\n<p>Mid 2024, after Microsoft announced the end of W10, I completly migrated to Linux within a month (Using PoP!_OS as my beloved daily driver since then), because W11 is the biggest fraud that could have been brought among humans.</p>\n<p>Then most streaming services raised there subscription prices like... monthly? This was the time I found out something named jellyfin existed. I bought a bunch of second hand media, some big HDDs and hosted everything on my main pc to tinker with. Shortly after I built a nice library. I cancelled all my subscriptions afterwards.</p>\n<p>All what followed explains itself - bought a NAS, more HDDs, more media, imported all my audiobooks, worked out some plans to safely backup my stuff. It became an addiction to own my data, and I understood its worth the work and the cost.</p>\n<p>Soon it became complicated and kinda unsecure hosting everything on my main pc, so I went to the next step and bought a mini PC to host my stuff in a better and convinient way. I learned about Proxmox and containerization.</p>\n<p>Thanks to llms I was able to vibe code a cool looking Dashboard where I can access all my services from, integrated Caldav, and my most visited sites. It legit became the startpage of my browser (I'm a Vivaldi enjoyer).</p>\n<p>Then my own documentation followed because my homenet grew and grew. I hosted Bookstack to keep tracks of my configurations, chasing the goal to keep track of what I did and learned the previous year.</p>\n<p>Thanks to great documentation and llms I ended up securing all my services behind Nginx and proper ufw roles (I never touched a firewall or proxy in my live before), I learned so much about this cool topic! Network security even became my favourite topic about self hosting.</p>\n<p>After my services were properly secured (hoping that at least) I looked at wireguard. I bought a linux tablet running ubuntu to stay in my ecosystem, and since then I was able to safely access all my data, my servers and everything I need from anywhere.</p>\n<p>My next step is to self host paperlessngx, which should lead me to the world of docker. I never used it, but I am very curious if this will work inside  proxmox.</p>\n<p>Here I am now, asking myself weekly what I should host next. The itch is strong...</p>\n<p><strong>Tldr:</strong> Began self hosting as an act of self-defense, got addicted by the feel of digital independence, and stayed because its funny and interesting.</p><div><br></div><img src=\"https://i.redd.it/qtjcrgjrqj8g1.png\" />",
+            "date_published": "2025-12-21T13:06:16+00:00",
+            "authors": [
+                {
+                    "name": "dannyk96",
+                    "url": "https://www.reddit.com/user/dannyk96"
+                }
+            ]
+        },
+        {
             "id": "1pqoyqc",
             "url": "/r/selfhosted/comments/1pqoyqc/helmarr_is_now_available_on_the_apple_appstore/",
             "external_url": "https://i.redd.it/xosonkzrh68g1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MrSlaw",
                     "url": "https://www.reddit.com/user/MrSlaw"
-                }
-            ]
-        },
-        {
-            "id": "1hsrade",
-            "url": "/r/selfhosted/comments/1hsrade/stop_killing_games_wants_to_allow_players_to_host/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1hsrade/stop_killing_games_wants_to_allow_players_to_host/",
-            "title": "Stop Killing Games wants to allow players to host their own games and be allowed to keep what they've bought",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1hsrade/stop_killing_games_wants_to_allow_players_to_host/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1hsrade/stop_killing_games_wants_to_allow_players_to_host/'>Reddit</a></caption><div><br></div><p>If you haven't heard, this is an international movement that's trying to stop <a href=\"https://www.youtube.com/clip/UgkxGdRKNKRidBehxwmm6COrUO87vR_uAMCY\">publishers bricking your games</a> so you buy sequels - a form of planned obsolescence.</p>\n<p>Sign here if you're an EU Citizen regardless of where you live (family and friends count too):\u00a0<a href=\"https://eci.ec.europa.eu/045/public/#/screen/home\">https://eci.ec.europa.eu/045/public/#/screen/home</a></p>\n<p>This FAQ has comprehensively thought through all the questions you can think of about the Initiative, so\u00a0<strong>please look through the timestamps in the description</strong>\u00a0<strong>before commenting about a concern</strong> you might have:\u00a0<a href=\"https://www.youtube.com/watch?v=sEVBiN5SKuA&amp;list=PLheQeINBJzWa6RmeCpWwu0KRHAidNFVTB&amp;index=41\">Giant FAQ on The European Initiative to Stop Destroying Games! - YouTube</a></p>\n<p><a href=\"https://citizens-initiative.europa.eu/how-it-works/faq_en#Data-protection\">https://citizens-initiative.europa.eu/how-it-works/faq_en#Data-protection</a></p>\n<p>Basically, do you want games to go back to being able to keep playing or hosting your games (ie being able to use things like Hamachi, GameRanger, Tunngle or some other end of life plan left up to the developer)? Or do you want to prevent live service implementations from happening to <a href=\"https://www.yahoo.com/tech/spent-70k-electric-car-now-070000533.html\">cars</a>, <a href=\"https://spectrum.ieee.org/bionic-eye-obsolete\">implants</a>, or <a href=\"https://www.youtube.com/watch?v=jvSMuzisgFE\">other things </a>relying on a central server which brick when the server is shut down? Then you support this movement. Spread the message to stop digital planned obsolescence.</p>\n<p><a href=\"https://www.youtube.com/clip/UgkxvUojNfWTe--2hGwwmWNPWjffZg0HPxHu\">\u2702\ufe0f The importance of being able to host your own online games</a></p>\n<p><a href=\"https://www.stopkillinggames.com/\">https://www.stopkillinggames.com/</a></p>",
-            "date_published": "2025-01-03T17:07:06+00:00",
-            "authors": [
-                {
-                    "name": "CakePlanet75",
-                    "url": "https://www.reddit.com/user/CakePlanet75"
                 }
             ]
         }
