@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1pwcla5",
+            "url": "/r/selfhosted/comments/1pwcla5/near_christmas_release_lidify_a_self_hosted_music/",
+            "external_url": "https://www.reddit.com/gallery/1pwcla5",
+            "title": "(near) Christmas release: Lidify, a self hosted music app with vibe matching and Discover Weekly",
+            "content_html": "<p>Merry Christmas everyone.</p>\n<p>I've been self hosting for about 2 years now. Nextcloud, Immich, Plex, Audiobookshelf, all that. Audio was the only thing that actively disappoints me. Jellyfin and Plex are OK for music but Jellyfin is finnicky AF and the Plex app for some reason doesn't send a keep-awake signal when listening to music so my TV will shut off. Just frustration after frustration.</p>\n<p>I've seen tons of posts on here asking for a FOSS music app like Spotify and have searched for that myself. Lidify is my answer to that. And yes, I regret the name since this turned into much more than a Lidarr frontend. Here's what's available now (with bugs I'm sure):</p>\n<ul>\n<li><strong>Vibe System:</strong> You ever listen to a song that just hits different in the moment? You don't know exactly what it is, you just know you're absolutely feeling it and then go on a journey trying to find other songs that give you that same feeling but come up empty? The vibe system is my solution to that. It analyzes tracks using data from MusicBrainz and <a href=\"http://Last.fm\">Last.fm</a> paired with ML analysis through Essentia. It'll be a forever work in progress but it works pretty well already.</li>\n<li><strong>Made For You playlists</strong> (era mixes, genre mixes, rediscover tracks you haven't played in a while)</li>\n<li><strong>Discover Weekly</strong> that actually downloads recommendations if you have Lidarr and/or Soulseek set up</li>\n<li><strong>Spotify/Deezer playlist import</strong> (also dependent on Lidarr + Soulseek)</li>\n<li><strong>Podcasts via RSS</strong></li>\n<li><strong>Audiobookshelf integration</strong></li>\n<li><strong>Multi user with 2FA</strong></li>\n</ul>\n<p>PWA works on mobile, native app coming later.</p>\n<p>This is a passion project I built for myself but I'd love input and feature ideas from everyone. GPL-3.0, so fork it, break it, make it your own.</p>\n<p><a href=\"https://github.com/Chevron7Locked/lidify/\">https://github.com/Chevron7Locked/lidify/</a></p>",
+            "date_published": "2025-12-26T19:24:28+00:00",
+            "authors": [
+                {
+                    "name": "kevinallen",
+                    "url": "https://www.reddit.com/user/kevinallen"
+                }
+            ]
+        },
+        {
             "id": "1ps63jt",
             "url": "/r/selfhosted/comments/1ps63jt/a_diary_about_self_hosting/",
             "external_url": "https://i.redd.it/qtjcrgjrqj8g1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Man1546",
                     "url": "https://www.reddit.com/user/Man1546"
-                }
-            ]
-        },
-        {
-            "id": "1i1yd7j",
-            "url": "/r/selfhosted/comments/1i1yd7j/guest_wifi_qr_code_crossstitch/",
-            "external_url": "https://i.redd.it/zqbdjwjy16de1.png",
-            "title": "Guest WiFi QR Code Cross-stitch",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/selfhosted/comments/1i1yd7j/guest_wifi_qr_code_crossstitch/'>Winston</a> | <a href='https://reddit.com/r/selfhosted/comments/1i1yd7j/guest_wifi_qr_code_crossstitch/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/zqbdjwjy16de1.png\" />",
-            "date_published": "2025-01-15T14:18:50+00:00",
-            "authors": [
-                {
-                    "name": "MrSlaw",
-                    "url": "https://www.reddit.com/user/MrSlaw"
                 }
             ]
         }
