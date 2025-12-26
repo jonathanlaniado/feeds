@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1pwdlc4",
+            "url": "/r/homeassistant/comments/1pwdlc4/automated_ipa_recycling_resin_curing_blinds_and/",
+            "external_url": "https://www.reddit.com/gallery/1pwdlc4",
+            "title": "Automated IPA Recycling, Resin curing, blinds, and more using the BTN-1 and ZWA-2 in the Apollo Workshop!",
+            "content_html": "<p>Happy Holidays from the Apollo team!</p>\n<p>We have been using the recently launched Apollo BTN-1 Macro Deck along with a Home Assistant blueprint and connect ZWA-2 to automate the Apollo workshop! (Thanks to u/jesserockz from ESPHome and u/smarthomesellout from Apollo for the blueprint) </p>\n<p>The BTN-1 gives you four physical buttons to use to automate your smart setup. Each button has a single, double, triple, and hold function to give you 16 different actions. It can be powered with USB-C or an optional battery, and it connects over Wi-Fi to Home Assistant.</p>\n<p>Apollo BTN-1: <a href=\"https://apolloautomation.com/products/btn-1-macro-deck\">https://apolloautomation.com/products/btn-1-macro-deck</a></p>\n<p>Home Assistant BTN-1 Blueprint: <a href=\"https://wiki.apolloautomation.com/products/btn1/examples/blueprint/?h=blueprint\">https://wiki.apolloautomation.com/products/btn1/examples/blueprint/?h=blueprint</a></p>\n<p>Home Assistant Connect ZWA-2: <a href=\"https://apolloautomation.com/products/home-assistant-connect-zwa-2\">https://apolloautomation.com/products/home-assistant-connect-zwa-2</a></p>\n<p><strong>BTN-1 automations so far!</strong></p>\n<p>IPA Recycler</p>\n<ul>\n<li>Automated an Apollo PUMP-1 to pump IPA from the IPA recycling machine into the wash station and vice versa. (<a href=\"https://apolloautomation.com/products/pump-1-fluid-pump\">https://apolloautomation.com/products/pump-1-fluid-pump</a>)</li>\n</ul>\n<p>Resin curing</p>\n<ul>\n<li>Automated the UV light for curing our resin 3D printed parts using a Z-wave smart plug</li>\n</ul>\n<p>Window Blinds</p>\n<ul>\n<li>Automated opening and closing of our Wi-Fi blinds</li>\n</ul>\n<p>Door Locks</p>\n<ul>\n<li>Automated locking and unlocking of our Z-wave door locks</li>\n</ul>\n<p>Lights</p>\n<ul>\n<li>Automated turning on and off our main LED workshop lights using Z-wave smart plugs</li>\n<li>Automated turning on and off our meeting room Wi-Fi lights</li>\n</ul>\n<p>We are still finding things to automate, so let us know if you have any thoughts or suggestions!</p>",
+            "date_published": "2025-12-26T20:05:55+00:00",
+            "authors": [
+                {
+                    "name": "ApolloAutomation",
+                    "url": "https://www.reddit.com/user/ApolloAutomation"
+                }
+            ]
+        },
+        {
             "id": "1pp46jh",
             "url": "/r/homeassistant/comments/1pp46jh/meet_our_new_commercial_partner_apollo_automation/",
             "external_url": "https://newsletter.openhomefoundation.org/meet-our-new-partner-apollo-automation/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "joao_2022",
                     "url": "https://www.reddit.com/user/joao_2022"
-                }
-            ]
-        },
-        {
-            "id": "1hlhi2t",
-            "url": "/r/homeassistant/comments/1hlhi2t/using_home_assistant_to_allow_the_internet_to/",
-            "external_url": "https://www.reddit.com/gallery/1hlhi2t",
-            "title": "Using home assistant to allow the internet to control my christmas lights.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1hlhi2t/using_home_assistant_to_allow_the_internet_to/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1hlhi2t/using_home_assistant_to_allow_the_internet_to/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-12-24T16:53:07+00:00",
-            "authors": [
-                {
-                    "name": "LegoBoyLuc",
-                    "url": "https://www.reddit.com/user/LegoBoyLuc"
                 }
             ]
         }
