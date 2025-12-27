@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1pwvxs8",
+            "url": "/r/selfhosted/comments/1pwvxs8/ninite_for_linux_the_missing_bulk_app_installer/",
+            "external_url": "https://i.redd.it/knplia0zhq9g1.png",
+            "title": "\"Ninite\" for Linux? THE MISSING BULK APP INSTALLER FOR LINUX",
+            "content_html": "<p>It\u2019s a web-based tool that generates a\u00a0<strong>single copy-paste command</strong>\u00a0or a distro-specific shell script to bulk-install your entire setup.</p>\n<p><strong>Why use it:</strong></p>\n<ul>\n<li><strong>Native Support:</strong>\u00a0Ubuntu/Debian, Arch (including AUR via\u00a0<code>yay</code>), Fedora, openSUSE, NixOS, Flatpak, and Snap.</li>\n<li><strong>Universal:</strong>\u00a0Integrated Flatpak and Snap support.</li>\n<li><strong>Smart Scripts:</strong>\u00a0Includes network retries, progress bars, and ETA - not just a list of names.</li>\n<li><strong>Fast UI:</strong>\u00a0150+ apps in 15 categories, fully navigable via\u00a0<strong>Vim keys</strong>\u00a0(<code>h</code>,\u00a0<code>j</code>,\u00a0<code>k</code>,\u00a0<code>l</code>).</li>\n<li><strong>Open Source:</strong>\u00a0GPL-3.0.</li>\n</ul>\n<p><strong>Live:</strong>\u00a0<a href=\"https://tuxmate.abusov.com/\">tuxmate.abusov.com</a></p>\n<p><strong>GitHub:</strong>\u00a0<a href=\"https://github.com/abusoww/tuxmate\">github.com/abusoww/tuxmate</a></p><div><br></div><img src=\"https://i.redd.it/knplia0zhq9g1.png\" />",
+            "date_published": "2025-12-27T11:43:53+00:00",
+            "authors": [
+                {
+                    "name": "N1C4T",
+                    "url": "https://www.reddit.com/user/N1C4T"
+                }
+            ]
+        },
+        {
             "id": "1pwcla5",
             "url": "/r/selfhosted/comments/1pwcla5/near_christmas_release_lidify_a_self_hosted_music/",
             "external_url": "https://www.reddit.com/gallery/1pwcla5",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "JasonLovesDoggo",
                     "url": "https://www.reddit.com/user/JasonLovesDoggo"
-                }
-            ]
-        },
-        {
-            "id": "1i7kzfw",
-            "url": "/r/selfhosted/comments/1i7kzfw/now_is_a_great_time_to_grab_a_wikipedia_backup/",
-            "external_url": "https://en.wikipedia.org/wiki/Wikipedia:Database_download",
-            "title": "Now is a great time to grab a Wikipedia backup",
-            "content_html": "",
-            "date_published": "2025-01-22T20:24:58+00:00",
-            "authors": [
-                {
-                    "name": "Man1546",
-                    "url": "https://www.reddit.com/user/Man1546"
                 }
             ]
         }
