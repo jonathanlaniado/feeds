@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1pwm0tv",
+            "url": "/r/OpenAI/comments/1pwm0tv/shrek_live_action/",
+            "external_url": "https://v.redd.it/xbf1eah4pn9g1",
+            "title": "Shrek Live Action",
+            "content_html": "<p>This is getting wild </p>",
+            "date_published": "2025-12-27T02:18:15+00:00",
+            "authors": [
+                {
+                    "name": "memerwala_londa",
+                    "url": "https://www.reddit.com/user/memerwala_londa"
+                }
+            ]
+        },
+        {
             "id": "1pvdu7j",
             "url": "/r/OpenAI/comments/1pvdu7j/how_can_you_think_about_that/",
             "external_url": "https://i.redd.it/6ynq57wbvc9g1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Juansero29",
                     "url": "https://www.reddit.com/user/Juansero29"
-                }
-            ]
-        },
-        {
-            "id": "1kpki53",
-            "url": "/r/OpenAI/comments/1kpki53/openai_restricts_comparison_of_state_education/",
-            "external_url": "https://www.reddit.com/gallery/1kpki53",
-            "title": "OpenAI restricts comparison of state education standards",
-            "content_html": "<p>Saw another thread debating how well schools teach kids life skills like doing their own taxes. I was curious how many states require instruction on how U.S. tax brackets work since, in my experience, a lot of people struggle with the concept of different parts of their income being taxed at different rates. But ChatGPT told me it won\u2019t touch education policy. </p>\n<p>The frustrating thing is that OpenAI is selectively self censoring with no consistent logic. I tested some controversial topics like immigration and birthright citizenship afterward, and it provided answers without problem. You can\u2019t tell me that birthright citizenship, which just went before the Supreme Court, somehow has fewer \u201cpolitical implications\u201d than a question comparing state standards that schools in those respective states already have to follow. If OpenAI applied the same standards to other topics subject to controversy \u2014 especially if done in as sweeping of a manner as done here \u2014 then there would be nothing people could ask about. </p>",
-            "date_published": "2025-05-18T13:53:42+00:00",
-            "authors": [
-                {
-                    "name": "One_Perception_7979",
-                    "url": "https://www.reddit.com/user/One_Perception_7979"
                 }
             ]
         }
