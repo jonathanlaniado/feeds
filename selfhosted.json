@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1py07qk",
+            "url": "/r/selfhosted/comments/1py07qk/how_have_i_only_just_discovered_nylon_labels/",
+            "external_url": "https://i.redd.it/b0bxncqgyz9g1.jpeg",
+            "title": "How have I only just discovered nylon labels?!",
+            "content_html": "<p>These things are brilliant for sticking to cables. Found a \u00a38 cartridge for my old Dymo D1 label maker.</p><div><br></div><img src=\"https://i.redd.it/b0bxncqgyz9g1.jpeg\" />",
+            "date_published": "2025-12-28T19:34:38+00:00",
+            "authors": [
+                {
+                    "name": "hometechgeek",
+                    "url": "https://www.reddit.com/user/hometechgeek"
+                }
+            ]
+        },
+        {
             "id": "1pwvxs8",
             "url": "/r/selfhosted/comments/1pwvxs8/ninite_for_linux_the_missing_bulk_app_installer/",
             "external_url": "https://i.redd.it/knplia0zhq9g1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "lukewines",
                     "url": "https://www.reddit.com/user/lukewines"
-                }
-            ]
-        },
-        {
-            "id": "1i8f9a2",
-            "url": "/r/selfhosted/comments/1i8f9a2/introducing_caddydefender_a_redditinspired_caddy/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1i8f9a2/introducing_caddydefender_a_redditinspired_caddy/",
-            "title": "Introducing Caddy-Defender: A Reddit-Inspired Caddy Module to Block Bots, Cloud Providers, and AI Scrapers!",
-            "content_html": "<p>Hey r/selfhosted!</p>\n<p>I\u2019m thrilled to share <a href=\"https://github.com/JasonLovesDoggo/caddy-defender\"><strong>Caddy-Defender</strong></a>, a new <a href=\"https://caddyserver.com/\">Caddy</a> module inspired by a discussion right <a href=\"https://www.reddit.com/r/selfhosted/comments/1i154h7/openai_not_respecting_robotstxt_and_being_sneaky/\">here</a> on this sub! A few days ago, I saw <a href=\"https://www.reddit.com/r/selfhosted/comments/1i154h7/comment/m73pj9t/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button\">this comment</a> about defending against unwanted traffic, and I thought, <em>\u201cHey, I can build that!\u201d</em></p>\n<h1>What is it?</h1>\n<p>Caddy-Defender is a <strong>lightweight module</strong> to help protect your self-hosted services from:</p>\n<ul>\n<li>\ud83e\udd16 <strong>Bots</strong></li>\n<li>\ud83d\udd75\ufe0f <strong>Malicious traffic</strong></li>\n<li>\u2601\ufe0f <strong>Entire cloud providers</strong> (like AWS, Google Cloud, even specific AWS regions)</li>\n<li>\ud83e\udd16 <strong>AI services</strong> (like OpenAI, Deepseek, GitHub Copilot)</li>\n</ul>\n<p>It\u2019s still in its early days, but it\u2019s already <strong>functional, customizable, and ready for testing!</strong></p>\n<h1>Why it\u2019s cool:</h1>\n<p>\u2705 <strong>Block Cloud Providers/AIs</strong>: Easily block IP ranges from AWS, Google Cloud, OpenAI, GitHub Copilot, and more.<br />\n\u2705 <strong>Dynamic or Prebuilt</strong>: Fetch IP ranges dynamically or use pre-generated lists for your own projects.<br />\n\u2705 <strong>Community-Driven</strong>: Literally started from a Reddit comment\u2014this is for <strong>you!</strong></p>\n<h1>Check it out here:</h1>\n<p>\ud83d\udc49 <a href=\"https://github.com/JasonLovesDoggo/caddy-defender\"><strong>Caddy-Defender on GitHub</strong></a></p>\n<p>I\u2019d love your <strong>feedback</strong>, <strong>stars</strong>, or <strong>contributions</strong>! Let\u2019s make this something awesome together. \ud83d\ude80</p>",
-            "date_published": "2025-01-23T21:57:37+00:00",
-            "authors": [
-                {
-                    "name": "JasonLovesDoggo",
-                    "url": "https://www.reddit.com/user/JasonLovesDoggo"
                 }
             ]
         }
