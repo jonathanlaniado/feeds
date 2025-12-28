@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1pxpbd2",
+            "url": "/r/shortcuts/comments/1pxpbd2/finally_dynamic_homekit_control_in_siri_shortcuts/",
+            "external_url": "https://www.reddit.com/r/shortcuts/comments/1pxpbd2/finally_dynamic_homekit_control_in_siri_shortcuts/",
+            "title": "Finally: dynamic HomeKit control in Siri Shortcuts (with live data)",
+            "content_html": "<p>One thing that always frustrated me with HomeKit + Shortcuts was how\u00a0<em>static</em>\u00a0everything felt.</p>\n<p>Most HomeKit-related actions in Shortcuts:</p>\n<ul>\n<li>Require preselected devices</li>\n<li>Don\u2019t support dynamic search/filtering</li>\n<li>Can\u2019t easily react to live sensor values</li>\n</ul>\n<p>Before getting into Shortcuts, the original problem I wanted to solve was search.</p>\n<p>On Apple platforms, system search (Spotlight / Search) is the fastest way to access anything \u2014 yet HomeKit devices don\u2019t really exist there. So I built <a href=\"https://apps.apple.com/us/app/homespot/id6757016819\">HomeSpot</a>, an app that makes HomeKit devices searchable across macOS, iOS, and iPadOS.</p>\n<p>This means:</p>\n<ul>\n<li>HomeKit devices, rooms, and scenes appear in system search</li>\n<li>On\u00a0<strong>macOS</strong>, devices can be\u00a0<strong>controlled directly from Spotlight</strong>\u00a0(toggle lights, switches, etc.)</li>\n<li>On\u00a0<strong>iOS / iPadOS</strong>, you can open a specific device or room straight from search instead of navigating the Home app</li>\n</ul>\n<p>Once that foundation existed, I turned to dynamic access to HomeKit data because Shortcuts is very limited in this area.</p>\n<p>While looking for solutions, I tried a few other apps that enable HomeKit control in Shortcuts. They worked fine when run manually, but they failed in automations, background execution, or locked-device scenarios. So I built on top of my same system-search foundation and exposed it properly to\u00a0<strong>Siri Shortcuts</strong>.</p>\n<p>What this enables:</p>\n<ul>\n<li>Search and filter HomeKit devices dynamically (by name, room, type, state, etc.)</li>\n<li>Pass\u00a0<strong>dynamic attributes</strong>\u00a0(brightness, power state, temperature, target state\u2026)</li>\n<li>Retrieve\u00a0<strong>live sensor data</strong>\u00a0directly inside Shortcuts</li>\n<li>Run while locked / in the background \u2192 usable in automations</li>\n<li>No UI required once set up</li>\n</ul>\n<p>This means you can finally build Shortcuts like:</p>\n<ul>\n<li>\u201cFind all lights that are currently on and dim them\u201d</li>\n<li>\u201cIf temperature sensor X is above Y, do Z\u201d</li>\n<li>\u201cToggle devices matching a search query\u201d</li>\n</ul>\n<p>Pricing-wise, HomeSpot is a one-time purchase. No subscriptions or ongoing fees. I wanted this to feel like a proper native utility, not another service you have to keep paying for.</p>",
+            "date_published": "2025-12-28T11:35:01+00:00",
+            "authors": [
+                {
+                    "name": "lenbu98",
+                    "url": "https://www.reddit.com/user/lenbu98"
+                }
+            ]
+        },
+        {
             "id": "1pnyy11",
             "url": "/r/shortcuts/comments/1pnyy11/the_ios_automations_that_really_change_everyday/",
             "external_url": "https://www.reddit.com/r/shortcuts/comments/1pnyy11/the_ios_automations_that_really_change_everyday/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Longjumping_Ear_6993",
                     "url": "https://www.reddit.com/user/Longjumping_Ear_6993"
-                }
-            ]
-        },
-        {
-            "id": "1b5ge2k",
-            "url": "/r/shortcuts/comments/1b5ge2k/new_youtube_downloader/",
-            "external_url": "https://routinehub.co/shortcut/18172",
-            "title": "New YouTube Downloader",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1b5ge2k/new_youtube_downloader/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1b5ge2k/new_youtube_downloader/'>Reddit</a></caption><div><br></div><p>Check out my YouTube Downloader I made with Shortcuts. Please leave some feedback as I\u2018m not that experienced with Shortcuts + this is the earliest version of it. It will auto-update search if you run it with an active WiFi-connection.</p>",
-            "date_published": "2024-03-03T12:47:12+00:00",
-            "authors": [
-                {
-                    "name": "Kilian6064756",
-                    "url": "https://www.reddit.com/user/Kilian6064756"
                 }
             ]
         }
