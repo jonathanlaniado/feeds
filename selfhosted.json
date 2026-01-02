@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1q20yew",
+            "url": "/r/selfhosted/comments/1q20yew/introducing_hypermind_a_fully_decentralized_p2p/",
+            "external_url": "https://i.redd.it/nq2m0eo1ayag1.png",
+            "title": "Introducing Hypermind: A fully decentralized, P2P, high-availability solution to a problem that doesn't exist.",
+            "content_html": "<p>Hey everyone, so you just finished setting up the *Arr stack and your dashboards lookin crisp. But you look at your <code>htop</code> and see... unused RAM.</p>\n<p>It\u2019s disgusting, isn't it?</p>\n<p>So I built <strong>Hypermind</strong>.</p>\n<p>Hypermind is a completely decentralized, peer-to-peer deployment counter. It does exactly one thing: <em>It solves the critical infrastructure challenge of knowing exactly how many other people are currently wasting 50MB of RAM running this specific container.</em></p>\n<p>That\u2019s it. That\u2019s the whole app.</p>\n<p>Despite being useless, the tech stack is actually kind of neat.</p>\n<ul>\n<li>No Central Server: This runs on the Hyperswarm DHT (Distributed Hash Table).</li>\n<li>P2P Discovery: Your node announces itself to the swarm and gossips with peers.</li>\n<li>Ephemeral: If everyone turns off their container, the network dies. If one person turns it on, they are the Creator of the Universe.</li>\n</ul>\n<p>How to join the Swarm</p>\n<p>If you have extra RAM you hate, run this:</p>\n<pre><code>docker run -d \\\n  --name hypermind \\\n  --network host \\\n  --restart unless-stopped \\\n  -e PORT=3000 \\\n  ghcr.io/lklynet/hypermind:latest\n</code></pre>\n<p><strong>Note:</strong> You must use <code>--network host</code> because P2P DHTs need to punch through NATs, and Docker networking hates fun.</p>\n<p>Open <code>http://localhost:3000</code>. You'll see a realtime counter of active nodes with a physical representation via the particle system.</p>\n<p>GitHub Repo: <a href=\"https://github.com/lklynet/hypermind\">https://github.com/lklynet/hypermind</a></p>\n<p>Let\u2019s see how high we can get this number before my gf asks why the electric bill went up.</p>\n<p>Remember that with Hypermind, you're never truly alone. \u2661 </p><div><br></div><img src=\"https://i.redd.it/nq2m0eo1ayag1.png\" />",
+            "date_published": "2026-01-02T15:07:28+00:00",
+            "authors": [
+                {
+                    "name": "ponzi_gg",
+                    "url": "https://www.reddit.com/user/ponzi_gg"
+                }
+            ]
+        },
+        {
             "id": "1q12fw3",
             "url": "/r/selfhosted/comments/1q12fw3/karakeep_2025_wrapped_v030/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1q12fw3/karakeep_2025_wrapped_v030/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "sevlonbhoi1",
                     "url": "https://www.reddit.com/user/sevlonbhoi1"
-                }
-            ]
-        },
-        {
-            "id": "1igr2l7",
-            "url": "/r/selfhosted/comments/1igr2l7/you_are_all_a_bunch_of_sick_freaks/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1igr2l7/you_are_all_a_bunch_of_sick_freaks/",
-            "title": "You are all a bunch of sick freaks",
-            "content_html": "<p>I stumbled onto this subreddit looking for tips on running a basic Plex server, and holy shit, you people are insane. Instead of finding normal humans, I find complete psychos debating ZFS configurations like they're discussing fine wine. \"Ah yes, this RAIDZ2 has subtle notes of data integrity.\u201d You are all a bunch of sick vitamin D deficient freaks.</p>\n<p>I actually work with and manage multiple Kubernetes, mission critical infrastructure that actually matters. I spend my entire day working with containerised applications, and what do I find when I load up Reddit? Ansible playbook writing maniacs trying to automate their light switches. You are all a bunch of sick freaks who probably dream in YAML and wake up in cold sweats wondering if you forgot to enable that cron job</p>\n<p>The worst part is how you enable each other. \"Hey guys, just finished my basic home automation setup\", and then you post a system diagram that looks like the blueprint for a nuclear reactor. Fourteen Docker containers just to manage a suite of 'internet of things connected shitware. You celebrate each others descent into madness with vomit inducing comments like \"Nice setup! Have you considered adding Prometheus monitoring?\" You are all a bunch of sick freaks, you make me ill.</p>\n<p>And the money you guys must spaff away... you've somehow convinced yourself that spending thousands on enterprise server equipment from 2012 is justified as it was originally 10x the cost. And then you refer to it as \u201cyour little setup\". \"Oh this? Just my Dual mirrored RAID 10 arrays with triple redundant UPS and backup diesel generator that kicks in if the power flickrs for more than 3 milliseconds. You know, for my Linux ISO collection\" Meanwhile your electricity meter spins so fast it could probably generate its own electricity. You are all a bunch of sick freaks, and you need help.</p>\n<p>I take solace in imagining what your home lives are like, I laugh as I imagine your families, having to sit through dinner listening to you explain why running Pi-hole with Unbound is superior to forwarding to Cloudflare. I bet your kids start crying when you mention DNS-over-HTTPS. Your wife just stares at you now, especially since you've replaced all your family photos with Grafana dashboards.</p>\n<p>I imagine you boiling over when when the women you made vows to asks \"why can\u2019t we just go back to using iCloud\" when your precious self-hosted photo library goes down during your third Photoprism upgrade this week. They completely ignore your \u2018impressive\u2019 (97% lol) uptime statistics and offsite backups. You are all a bunch of sick freaks, and your loved ones are losing hope.</p>\n<p>No, you don't need Kubernetes or 10gig network switches or 7u rack. You don't need any of these increasingly abstract layers of complexity that exist only to solve the problems created by your previous solutions. Your simple file server didn't need containers, those containers didn't need orchestration, that orchestration didn't need a service mesh, Yet here you are, staring at 10,000 lines of YAML, wondering if maybe just one more helm chart would finally make it all perfect. But I know you'll keep adding more, because you're all just a bunch of sick freaks.</p>",
-            "date_published": "2025-02-03T15:03:59+00:00",
-            "authors": [
-                {
-                    "name": "No-Raccoon-1993",
-                    "url": "https://www.reddit.com/user/No-Raccoon-1993"
                 }
             ]
         }
