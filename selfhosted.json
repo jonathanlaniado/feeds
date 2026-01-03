@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1q34537",
+            "url": "/r/selfhosted/comments/1q34537/complete_5tb_portable_media_server/",
+            "external_url": "https://i.redd.it/zclk5mbeu6bg1.png",
+            "title": "Complete: 5tb Portable Media Server",
+            "content_html": "<p>Features:</p>\n<ul>\n<li>Pi 4, in a Geekworm NASPI-lite case. Modified to fit the larger 5tb HDD, 20000mah battery and added power/status led button.</li>\n<li>5tb HDD, storing a mirrored/synced copy of my complete media library</li>\n<li>Two wifi adapters: A) Connecting to wifi for local/internet access B) Providing hotspot for streaming to local devices (ie offline playback)</li>\n<li>HDMI output, for connecting directly to TVs and playing via Kodi (with Jellyfin plug-in). Repurposed Firestick remote control.</li>\n<li>Tailscale so it automatically syncs from the remote master library whenever it's online</li>\n</ul>\n<p>Weight: 2lbs. Running time: 10 hours, streaming 4k video Cost: $170</p>\n<p>-------<br />\nFyi: This replaces WD My Passport Wireless Pro 2TB, which had most of the same features.</p>\n<p>The Passport:</p>\n<ul>\n<li>only 1.4 lbs</li>\n<li>2tb drive</li>\n<li>Running a limited Debian Linux repo (last firmware update 2019</li>\n<li>No fileshare access controls, anyone on the wifi/LAN has write access</li>\n<li>No HDMI/local playback</li>\n<li>Plex only (No Jellyfin) meaning flakey local only playback via smb</li>\n</ul>\n<p>I was able to get rsync and Tailscale installed, so it does do auto library syncing whenever I'm online</p>\n<p>Keeping the Passport for some grab and go uses.</p><div><br></div><img src=\"https://i.redd.it/zclk5mbeu6bg1.png\" />",
+            "date_published": "2026-01-03T19:47:30+00:00",
+            "authors": [
+                {
+                    "name": "LowerH8r",
+                    "url": "https://www.reddit.com/user/LowerH8r"
+                }
+            ]
+        },
+        {
             "id": "1q20yew",
             "url": "/r/selfhosted/comments/1q20yew/introducing_hypermind_a_fully_decentralized_p2p/",
             "external_url": "https://i.redd.it/nq2m0eo1ayag1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "PlannedObsolescence_",
                     "url": "https://www.reddit.com/user/PlannedObsolescence_"
-                }
-            ]
-        },
-        {
-            "id": "1iiu2de",
-            "url": "/r/selfhosted/comments/1iiu2de/a_big_part_of_my_selfhosted_setup_exist_because/",
-            "external_url": "https://www.instagram.com/novaspirittech/",
-            "title": "A big part of my self-hosted setup exist because of this guy. Rest in peace, brother.",
-            "content_html": "",
-            "date_published": "2025-02-06T04:17:02+00:00",
-            "authors": [
-                {
-                    "name": "sevlonbhoi1",
-                    "url": "https://www.reddit.com/user/sevlonbhoi1"
                 }
             ]
         }
