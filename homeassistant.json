@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1q55lpv",
+            "url": "/r/homeassistant/comments/1q55lpv/using_home_assistant_to_be_more_analog_in_2026/",
+            "external_url": "https://i.redd.it/jyn0t47pzmbg1.jpeg",
+            "title": "Using Home Assistant to be more analog in 2026",
+            "content_html": "<p>Trying to avoid looking at my phone immediately when I wake up. I grabbed a used Epson thermal receipt printer for $65, created a simple component to call it from HA, and have a 6:30am automation to print out my daily \u201cnewspaper\u201d as my kids call it. Very silly but I like sitting down to read it. I also like not having to deal with printer ink. </p><div><br></div><img src=\"https://i.redd.it/jyn0t47pzmbg1.jpeg\" />",
+            "date_published": "2026-01-06T02:03:58+00:00",
+            "authors": [
+                {
+                    "name": "zacs",
+                    "url": "https://www.reddit.com/user/zacs"
+                }
+            ]
+        },
+        {
             "id": "1pwdlc4",
             "url": "/r/homeassistant/comments/1pwdlc4/automated_ipa_recycling_resin_curing_blinds_and/",
             "external_url": "https://www.reddit.com/gallery/1pwdlc4",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "katschung",
                     "url": "https://www.reddit.com/user/katschung"
-                }
-            ]
-        },
-        {
-            "id": "1hoazkv",
-            "url": "/r/homeassistant/comments/1hoazkv/finally_got_rid_of_the_dumb_googleamazon_spyware/",
-            "external_url": "https://i.redd.it/qp7z3t4onm9e1.jpeg",
-            "title": "Finally got rid of the dumb  google/Amazon spyware ",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1hoazkv/finally_got_rid_of_the_dumb_googleamazon_spyware/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1hoazkv/finally_got_rid_of_the_dumb_googleamazon_spyware/'>Reddit</a></caption><div><br></div><p>Currently using with ChatGPT API. Tested llama with my server but it is to slow :/ </p><div><br></div><img src=\"https://i.redd.it/qp7z3t4onm9e1.jpeg\" />",
-            "date_published": "2024-12-28T17:50:35+00:00",
-            "authors": [
-                {
-                    "name": "joao_2022",
-                    "url": "https://www.reddit.com/user/joao_2022"
                 }
             ]
         }
