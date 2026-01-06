@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1q5k1hj",
+            "url": "/r/selfhosted/comments/1q5k1hj/i_built_a_selfhosted_ai_mirror_that_runs_locally/",
+            "external_url": "https://i.redd.it/8lp2eh9boqbg1.png",
+            "title": "I built a self-hosted AI mirror that runs locally and lives in my room",
+            "content_html": "<p><em>This is an AI-assisted application where the system design and UX are implemented manually,</em> with AI used as a runtime component.</p>\n<p>I wanted an AI assistant that doesn\u2019t live in the cloud or inside a browser.</p>\n<p>So I built a small self-hosted system that runs locally and exists as a mirror in my room. You talk to it by voice, it responds by voice, and then it fades back into the background.</p>\n<p>The idea was to give a local LLM a physical presence, not another UI.</p>\n<p>It\u2019s running on my own hardware (Raspberry Pi + local LLM stack), and the whole thing is open source.</p>\n<p>It\u2019s still early and rough in places, but the core interaction works.</p>\n<p>I\u2019m curious if anyone else here is interested in physical interfaces or non-screen-based ways of interacting with local AI.</p>\n<p>GitHub: <a href=\"https://github.com/orangekame3/mirrormate\">https://github.com/orangekame3/mirrormate</a></p><div><br></div><img src=\"https://i.redd.it/8lp2eh9boqbg1.png\" />",
+            "date_published": "2026-01-06T14:27:36+00:00",
+            "authors": [
+                {
+                    "name": "DirectorChance4012",
+                    "url": "https://www.reddit.com/user/DirectorChance4012"
+                }
+            ]
+        },
+        {
             "id": "1q34537",
             "url": "/r/selfhosted/comments/1q34537/complete_5tb_portable_media_server/",
             "external_url": "https://i.redd.it/zclk5mbeu6bg1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Genie-AJ",
                     "url": "https://www.reddit.com/user/Genie-AJ"
-                }
-            ]
-        },
-        {
-            "id": "1ijvgox",
-            "url": "/r/selfhosted/comments/1ijvgox/uk_orders_apple_to_grant_access_to_user_encrypted/",
-            "external_url": "https://archive.is/3Pp0U",
-            "title": "UK orders Apple to grant access to user' encrypted data, worldwide, and not disclose that it was ordered to.",
-            "content_html": "",
-            "date_published": "2025-02-07T13:52:50+00:00",
-            "authors": [
-                {
-                    "name": "PlannedObsolescence_",
-                    "url": "https://www.reddit.com/user/PlannedObsolescence_"
                 }
             ]
         }
