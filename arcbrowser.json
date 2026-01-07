@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1q6io1n",
+            "url": "/r/ArcBrowser/comments/1q6io1n/browser_company_just_hired_another_designer_from/",
+            "external_url": "https://i.redd.it/m5sxbqxa6ybg1.jpeg",
+            "title": "Browser Company just hired another designer from Apple",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/m5sxbqxa6ybg1.jpeg\" />",
+            "date_published": "2026-01-07T15:40:33+00:00",
+            "authors": [
+                {
+                    "name": "Rich-North",
+                    "url": "https://www.reddit.com/user/Rich-North"
+                }
+            ]
+        },
+        {
             "id": "1psa9ba",
             "url": "/r/ArcBrowser/comments/1psa9ba/they_made_the_dia_advert_bigger_what_the_heck/",
             "external_url": "https://i.redd.it/0q4udlc21l8g1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Strwbry_M",
                     "url": "https://www.reddit.com/user/Strwbry_M"
-                }
-            ]
-        },
-        {
-            "id": "1gjo5ur",
-            "url": "/r/ArcBrowser/comments/1gjo5ur/psa_clean_my_mac_surfacing_incorrect_arc_build/",
-            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1gjo5ur/psa_clean_my_mac_surfacing_incorrect_arc_build/",
-            "title": "PSA - Clean My Mac surfacing incorrect Arc build",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1gjo5ur/psa_clean_my_mac_surfacing_incorrect_arc_build/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1gjo5ur/psa_clean_my_mac_surfacing_incorrect_arc_build/'>Reddit</a></caption><div><br></div><p>Hi folks, we\u2019ve become aware that a prototyping build has somehow made its way into the Clean My Mac update flow, and is inadvertently being presented when you try to update Arc via this tool. </p>\n<p>If you run into this, please download the actual Arc DMG from arc.net. Working with the CMM folks to try get this build removed. Thanks!</p>",
-            "date_published": "2024-11-04T20:20:59+00:00",
-            "authors": [
-                {
-                    "name": "Patrick-BCNY",
-                    "url": "https://www.reddit.com/user/Patrick-BCNY"
                 }
             ]
         }
