@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1q8qm2w",
+            "url": "/r/homeassistant/comments/1q8qm2w/sometimes_you_need_an_impossibly_large_touchpanel/",
+            "external_url": "https://i.redd.it/63b7r5i9cfcg1.jpeg",
+            "title": "Sometimes you need an impossibly large touchpanel",
+            "content_html": "<p>For grins I picked up a Tempo Studio (think fitness screen).  It was $125 on FBM and I couldn\u2019t help myself.  Not sure what it will\nend up being (jukebox, arcade, a remote my kids can\u2019t lose).  Specs were surprisingly solid: Asus mini-its board, i5-9500c gtx1650.  I bumped the ram from 8gb to 16gb and swapped in a 500gb SSD to flash to Windows 11.  But for fun tonight I loaded up Home Assistant.</p><div><br></div><img src=\"https://i.redd.it/63b7r5i9cfcg1.jpeg\" />",
+            "date_published": "2026-01-10T01:24:14+00:00",
+            "authors": [
+                {
+                    "name": "jbmc00",
+                    "url": "https://www.reddit.com/user/jbmc00"
+                }
+            ]
+        },
+        {
             "id": "1q6pc0f",
             "url": "/r/homeassistant/comments/1q6pc0f/20261_home_is_where_the_dashboard_is/",
             "external_url": "https://www.home-assistant.io/blog/2026/01/07/release-20261/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "BadBreath911",
                     "url": "https://www.reddit.com/user/BadBreath911"
-                }
-            ]
-        },
-        {
-            "id": "1htlf97",
-            "url": "/r/homeassistant/comments/1htlf97/from_the_roborock_codeowner_a_reminder_that/",
-            "external_url": "https://www.reddit.com/r/homeassistant/comments/1htlf97/from_the_roborock_codeowner_a_reminder_that/",
-            "title": "From the Roborock codeowner: A reminder that Codeowners are (mainly) volunteers working on their integrations in their free time and your words do make an impact",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1htlf97/from_the_roborock_codeowner_a_reminder_that/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1htlf97/from_the_roborock_codeowner_a_reminder_that/'>Reddit</a></caption><div><br></div><p>Hi everyone,</p>\n<p>As the (current) sole codeowner of the Roborock integration (and a few others) (aka Lash-L on github), I'm sharing some thoughts that I hope will benefit the community.</p>\n<p>I volunteer my time to maintain these integrations alongside a full-time job, pursuing a master's degree, and preparing for the arrival of our first child. When I see rude or demeaning comments on GitHub or the forum, it genuinely affects me - I know it shouldn't, but it does. I understand frustration when things aren't working or features are missing, but my time is limited, and I have to prioritize.</p>\n<p>With 17k-65k users (a wide range, I know), each with different devices and setups, and Roborock constantly releasing new models, I often have to focus on reverse-engineering new functionality just to keep things working. This takes priority over new features.</p>\n<p>Just because you don't see new entities with every release doesn't mean there's no progress. I'm constantly working on maintaining functionality, preventing IP bans, addressing API changes and dependency issues, and even currently working on a major map image improvement (with help from core devs). These things take time.</p>\n<p>My point is: please remember you're interacting with a volunteer. Frustration is understandable, but expressing it rudely discourages me. I appreciate the vast majority of users who are patient, kind, and appreciative. A little empathy goes a long way.</p>\n<p>EDIT: I am very appreciative of all of the kind words people are leaving below - I'm also always appreciate of when users stand up for me within github issues when other users are being rude. So thank you to all of you, I hope everyone can keep this post in the back of their mind when they interact on issue boards in the future!</p>",
-            "date_published": "2025-01-04T18:55:52+00:00",
-            "authors": [
-                {
-                    "name": "DivergingDog",
-                    "url": "https://www.reddit.com/user/DivergingDog"
                 }
             ]
         }
