@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1q99wp7",
+            "url": "/r/macapps/comments/1q99wp7/screencap_to_remember_what_happened_yesterday/",
+            "external_url": "https://www.reddit.com/r/macapps/comments/1q99wp7/screencap_to_remember_what_happened_yesterday/",
+            "title": "Screencap - To remember what happened yesterday, share progress and break addictions",
+            "content_html": "<p>Opensource project, with main idea to inspire as many forks as possible. The project (both <a href=\"http://github.com/yahorbarkouski/screencap\">the app</a> and\u00a0<a href=\"https://github.com/yahorbarkouski/screencap-website\">social backend</a>) are free to use, encouraging everyone to customise and build their own Screencaps</p>\n<p><a href=\"https://reddit.com/link/1q99wp7/video/xhm5y3in3kcg1/player\">Day Wrapped Tray (+social) </a></p>\n<p>It started as a background project tracker, as I tend to have zero-to-few screenshots from months of work. Then came the addiction tracker, Spotify background player, End Of Day flow, activity popup, and end-to-end encrypted social network in the tray</p>\n<p><a href=\"https://reddit.com/link/1q99wp7/video/qpwrlf8r3kcg1/player\">Main app flow</a></p>\n<p><a href=\"https://reddit.com/link/1q99wp7/video/ulhnz0rr3kcg1/player\">End of Day flow</a></p>\n<p>Have no plans to monetise it, any contributions and feedback are very welcome</p>\n<p>Download: <a href=\"https://github.com/yahorbarkouski/screencap\">https://github.com/yahorbarkouski/screencap</a></p>",
+            "date_published": "2026-01-10T17:25:46+00:00",
+            "authors": [
+                {
+                    "name": "samewakefulinsomnia",
+                    "url": "https://www.reddit.com/user/samewakefulinsomnia"
+                }
+            ]
+        },
+        {
             "id": "1q74pon",
             "url": "/r/macapps/comments/1q74pon/xpipe_a_connection_hub_for_all_your_servers/",
             "external_url": "https://i.redd.it/l708dmnsm2cg1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "jamie452",
                     "url": "https://www.reddit.com/user/jamie452"
-                }
-            ]
-        },
-        {
-            "id": "1hg946x",
-            "url": "/r/macapps/comments/1hg946x/regexmate_200_released_a_regex_tool_for_macos/",
-            "external_url": "https://github.com/jaywcjlove/regex-mate",
-            "title": "RegexMate 2.0.0 Released: A regex tool for macOS with built-in examples to help you get started easily! ",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1hg946x/regexmate_200_released_a_regex_tool_for_macos/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1hg946x/regexmate_200_released_a_regex_tool_for_macos/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-12-17T12:01:02+00:00",
-            "authors": [
-                {
-                    "name": "wcjiang",
-                    "url": "https://www.reddit.com/user/wcjiang"
                 }
             ]
         }
