@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1q9yd9t",
+            "url": "/r/homeassistant/comments/1q9yd9t/hi_everyone_im_clooos_the_bubble_card_developer/",
+            "external_url": "https://i.redd.it/5kin6pa5ppcg1.png",
+            "title": "Hi everyone! I\u2019m Clooos the Bubble Card developer, and today after 4 months of work, I\u2019ve released v3.1.0, one of the biggest releases I have ever made. This update was a real challenge for many reasons, with many (many) major new features and fixes, making it more customizable, faster, and stable \u2764",
+            "content_html": "<p>My goal was to release the final version before the end of the year (well... early 2026 seems right as well). The reason is also a very happy one, I spent the last few days at the hospital with my wife for the birth of our second child! Everyone is doing great and I couldn't be happier! \u2764\ufe0f My development time will be limited for a while, so I worked harder than ever to release the best version of Bubble Card I could, and I truly hope you will love it!</p>\n<p>First, I'm really happy to say that the editor received a massive speed boost and is now up to 100 times faster (for real!) on large dashboards with many pop-ups! This version also brings support for Home Assistant 2026.1, as this update had made it impossible to create new cards in the editor.</p>\n<p>One of the biggest changes is <a href=\"https://github.com/Clooos/Bubble-Card-Tools\">Bubble Card Tools</a>, this is a custom integration for Home Assistant that handles the\u00a0Bubble Card\u00a0backend properly. Modules are now stored in individual YAML files, improving stability, reliability, backups, and making the whole system more future-proof, with an easier setup and automatic migration for existing users.</p>\n<p>Sub-buttons have been heavily upgraded with a new slider type! This one allows multiple controls like brightness, temperature, or scenes inside the same card. A brand new \u201cSub-buttons only\u201d card also makes it easy to create menus, quick actions, or information panels.</p>\n<p>But more importantly, this release finally introduces powerful new layout and customization features! You can now fully design your cards using the editor only, with sub-button groups, new placement options, individual sizing, icon positioning, copy and paste, new slider layout options... All of this gives you full control over your card layout without relying on custom styles or modules! (like in the picture above)</p>\n<p>The changelog is much (much) more longer than that and I invite you to take a look at it (I've added other screenshots as well):</p>\n<p><a href=\"https://github.com/Clooos/Bubble-Card/releases/tag/v3.1.0\">GitHub - Bubble Card 3.1.0</a></p>\n<p>I also want to give a big thank you (again) to everyone who tested the betas, reported issues, gave feedback\u2026 and to everyone for your continued support!</p>\n<p>Enjoy this update! \ud83c\udf7b</p><div><br></div><img src=\"https://i.redd.it/5kin6pa5ppcg1.png\" />",
+            "date_published": "2026-01-11T12:39:06+00:00",
+            "authors": [
+                {
+                    "name": "Clooooos",
+                    "url": "https://www.reddit.com/user/Clooooos"
+                }
+            ]
+        },
+        {
             "id": "1q8qm2w",
             "url": "/r/homeassistant/comments/1q8qm2w/sometimes_you_need_an_impossibly_large_touchpanel/",
             "external_url": "https://i.redd.it/63b7r5i9cfcg1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Skeeter1020",
                     "url": "https://www.reddit.com/user/Skeeter1020"
-                }
-            ]
-        },
-        {
-            "id": "1hv1l2h",
-            "url": "/r/homeassistant/comments/1hv1l2h/home_assistant_panel_picture_frame_with_2_tab_a9/",
-            "external_url": "https://www.reddit.com/gallery/1hv1l2h",
-            "title": "Home Assistant Panel... Picture frame with 2 Tab A9+ tablets.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1hv1l2h/home_assistant_panel_picture_frame_with_2_tab_a9/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1hv1l2h/home_assistant_panel_picture_frame_with_2_tab_a9/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2025-01-06T15:28:57+00:00",
-            "authors": [
-                {
-                    "name": "BadBreath911",
-                    "url": "https://www.reddit.com/user/BadBreath911"
                 }
             ]
         }
