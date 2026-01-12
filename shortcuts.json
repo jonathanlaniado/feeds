@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1qb1j74",
+            "url": "/r/shortcuts/comments/1qb1j74/i_made_a_shortcut_that_turns_your_actual_iphone/",
+            "external_url": "https://i.redd.it/agbrxsmf7ycg1.png",
+            "title": "I made a Shortcut that turns your actual iPhone Calendar events into a Lock Screen wallpaper. 100% local, no internet required.",
+            "content_html": "<p>Hi everyone! I\u2019ve always wanted a lock screen that displays my actual iPhone calendar events.</p>\n<p>Call me paranoid, but I\u2019ve never been comfortable with the idea of a web service generating my wallpaper on a remote server. I also prefer to keep my schedule private and know exactly what's being set on my lock screen.</p>\n<p>So, I built a Shortcut that\u00a0<strong>generates the wallpaper entirely on-device</strong>. It works 100% offline, so you can be sure your data stays yours.</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n<li><strong>Privacy First:</strong>\u00a0No internet connection needed. Everything is processed on-device.</li>\n<li><strong>Dot System:</strong>\u00a0Displays events as colored dots (matches your calendar colors).</li>\n<li><strong>Smart Priority:</strong>\u00a0Use tags like\u00a0<code>*1</code>,\u00a0<code>*2</code>\u00a0in your calendar names to prioritize which events show up on top.</li>\n<li><strong>Fully Automated:</strong>\u00a0Set it to run once a day via Shortcuts Automation and forget about it.</li>\n</ul>\n<p><strong>How it works:</strong></p>\n<ol>\n<li>Install the\u00a0<strong>Shortcut</strong>\u00a0and the\u00a0<strong>Scriptable</strong>\u00a0app (used for the image engine).</li>\n<li>Rename your calendars with a\u00a0<code>*</code>\u00a0(e.g.,\u00a0<code>*Work</code>,\u00a0<code>*1 Holidays</code>).</li>\n<li>Run the Shortcut and give it permissions.</li>\n</ol>\n<p><strong>Link to GitHub (Setup guide &amp; Download):</strong>\u00a0<a href=\"https://github.com/agaragou/LockScreen-Calendar-ShortCut\">https://github.com/agaragou/LockScreen-Calendar-ShortCut</a></p>\n<p><strong>You also can grab the Shortcut here:</strong> <a href=\"https://www.icloud.com/shortcuts/1d66f96379af4293b693d8f43afafca6\">https://www.icloud.com/shortcuts/1d66f96379af4293b693d8f43afafca6</a></p>\n<p><strong>Quick shortcut setup:</strong></p>\n<ol>\n<li>Make sure you have\u00a0<strong>Scriptable</strong>\u00a0installed (it\u2019s free).</li>\n<li>Add an asterisk (<code>*</code>) to the names of the calendars you want to display. You can either\u00a0<strong>rename your existing calendars</strong>\u00a0or\u00a0<strong>create new ones</strong>. For example, rename \"Vacations\" to\u00a0<code>*Vacations</code>. </li>\n<li>Make sure you actually have events in the calendars you\u2019ve selected (otherwise, the wallpaper will just show an year progress).</li>\n<li>\n<p><strong>Run &amp; Automate:</strong>\u00a0* Run the Shortcut manually for the first time to grant all necessary permissions.</p>\n</li>\n<li>\n<p>Create a\u00a0<strong>Personal Automation</strong>\u00a0in the Shortcuts app to run this daily (e.g., at 06:00 or when your alarm goes off) so your wallpaper stays up to date.</p>\n</li>\n</ol>\n<p><strong>Note on Calendar Settings:</strong>\u00a0By default, the week starts on\u00a0<strong>Monday</strong>. If you prefer your week to start on\u00a0<strong>Sunday</strong>, you can easily change this in script (shortcut section <strong>Run with</strong>):</p>\n<p><code>Find CONFIG</code>\u00a0section at the top of the script and change:</p>\n<pre><code>// Start of week: 0 = Sunday, 1 = Monday\n  firstDayOfWeek: 1,\n</code></pre>\n<p>Would love to hear your feedback or ideas for improvements!</p><div><br></div><img src=\"https://i.redd.it/agbrxsmf7ycg1.png\" />",
+            "date_published": "2026-01-12T17:41:09+00:00",
+            "authors": [
+                {
+                    "name": "agaragou",
+                    "url": "https://www.reddit.com/user/agaragou"
+                }
+            ]
+        },
+        {
             "id": "1q5whjs",
             "url": "/r/shortcuts/comments/1q5whjs/making_it_simpler_for_everyone_inflight_like/",
             "external_url": "https://i.redd.it/iq5dys3uwsbg1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "spenpal_dev",
                     "url": "https://www.reddit.com/user/spenpal_dev"
-                }
-            ]
-        },
-        {
-            "id": "1be2y1b",
-            "url": "/r/shortcuts/comments/1be2y1b/shot_on_iphone/",
-            "external_url": "https://i.redd.it/ro7619b436oc1.jpeg",
-            "title": "Shot on iPhone",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1be2y1b/shot_on_iphone/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1be2y1b/shot_on_iphone/'>Reddit</a></caption><div><br></div><p>https://www.icloud.com/shortcuts/30412fd5ec1848d9865ffeb4a15e9141</p><div><br></div><img src=\"https://i.redd.it/ro7619b436oc1.jpeg\" />",
-            "date_published": "2024-03-13T21:11:15+00:00",
-            "authors": [
-                {
-                    "name": "niibuyaa",
-                    "url": "https://www.reddit.com/user/niibuyaa"
                 }
             ]
         }
