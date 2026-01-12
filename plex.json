@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1qahuvm",
+            "url": "/r/PleX/comments/1qahuvm/250_cartoon_network_bumpers_2160p_for/",
+            "external_url": "https://www.reddit.com/gallery/1qahuvm",
+            "title": "250+ Cartoon Network Bumpers 2160p for Plex/Jellyfin/ersatzTv Post-roll",
+            "content_html": "<p>Put together this collection of 2160p 4k Quality 288 bumpers that were played between Cartoon Network TV Shows, most are 6-10 seconds long, with about 10 being 1 minute long. Useful for ersatzTV or similar TV emulation service that utilizes your Plex/Jellyfin server.</p>\n<p>All sourced from this original <a href=\"https://www.youtube.com/watch?v=Q6rBeODM2nc\">YouTube Video</a> . Total ZIP size is 3.88GB</p>\n<p><a href=\"https://drive.google.com/file/d/1F-HSffeBl6XAFTJ5X32JplSRMt5lBfEg/view?usp=drive_link\"><strong>Download Link</strong></a></p>\n<p><a href=\"https://archive.org/details/cn.bumpers\"><strong>Backup Download</strong></a></p>",
+            "date_published": "2026-01-12T01:46:55+00:00",
+            "authors": [
+                {
+                    "name": "Assassinz354",
+                    "url": "https://www.reddit.com/user/Assassinz354"
+                }
+            ]
+        },
+        {
             "id": "1pi2avl",
             "url": "/r/PleX/comments/1pi2avl/the_subscription_fee_increase_makes_sense_now/",
             "external_url": "https://i.redd.it/p6c9k1ix256g1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "SmokinABlunt",
                     "url": "https://www.reddit.com/user/SmokinABlunt"
-                }
-            ]
-        },
-        {
-            "id": "1gb3gov",
-            "url": "/r/PleX/comments/1gb3gov/data_hoarders_nightmare_came_true/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/1gb3gov/data_hoarders_nightmare_came_true/",
-            "title": "Data hoarder's nightmare came true",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1gb3gov/data_hoarders_nightmare_came_true/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1gb3gov/data_hoarders_nightmare_came_true/'>Reddit</a></caption><div><br></div><p>Last week my house burned down. I was the last out so I already knew everyone else was safe, but within \\~5 minutes, as I watched flames tear through my home, I was thinking about my PLEX server and \\~15TB of films, music and TV curated over almost a decade. So, my question, is there ANY way to get some sort of skeleton file/folder list from PLEX so I can eventually start the process of re-acquiring everything I had? I know I'm probably pissing in the wind here but I thought I'd give it a shot.</p>",
-            "date_published": "2024-10-24T14:07:21+00:00",
-            "authors": [
-                {
-                    "name": "chilllwinstonnn",
-                    "url": "https://www.reddit.com/user/chilllwinstonnn"
                 }
             ]
         }
