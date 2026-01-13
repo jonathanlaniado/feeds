@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1qbrcg5",
+            "url": "/r/macapps/comments/1qbrcg5/congratulations_to_our_rmacapps_for_reaching/",
+            "external_url": "https://i.redd.it/awovc4b3c4dg1.jpeg",
+            "title": "Congratulations to our r/macapps for reaching 200,000 users!",
+            "content_html": "<p>Congratulation to r/macapps</p>\n<p>Huge shout out to the mods, the developers, the reviewers, the users, and everyone who's a part of this community.</p>\n<p>Cheers! \ud83c\udf7b</p>\n<p>edit: wrote r/macapps in the title, changed to \"our favorite\", changed my mind - landed on \"our r/macapps\" \ud83d\ude02</p><div><br></div><img src=\"https://i.redd.it/awovc4b3c4dg1.jpeg\" />",
+            "date_published": "2026-01-13T13:30:32+00:00",
+            "authors": [
+                {
+                    "name": "UnluckyDuckyDuck",
+                    "url": "https://www.reddit.com/user/UnluckyDuckyDuck"
+                }
+            ]
+        },
+        {
             "id": "1q99wp7",
             "url": "/r/macapps/comments/1q99wp7/screencap_to_remember_what_happened_yesterday/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1q99wp7/screencap_to_remember_what_happened_yesterday/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "obviousoctopus",
                     "url": "https://www.reddit.com/user/obviousoctopus"
-                }
-            ]
-        },
-        {
-            "id": "1hkxwgz",
-            "url": "/r/macapps/comments/1hkxwgz/builtin_mac_dictation_was_awful_so_i_built_my_own/",
-            "external_url": "https://v.redd.it/6akaffi32o8e1",
-            "title": "Built-in Mac dictation was awful so I built my own called TalkText",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1hkxwgz/builtin_mac_dictation_was_awful_so_i_built_my_own/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1hkxwgz/builtin_mac_dictation_was_awful_so_i_built_my_own/'>Reddit</a></caption><div><br></div><p>I found built-in dictation awful for use day to day, especially when I had to think on the spot.</p>\n<p>So I built TalkText.io, a free to download macOS app that works anywhere you can type on your Mac. It allows you to speak naturally and not worry about every mistake in your speech being transcribed verbatim, unlocking many use cases.</p>\n<p>It also allows you to select and transform any text - you can select a sentence and ask for it to be rewritten in a certain style. Perhaps you\u2019d like it to be friendlier, more professional, or even to sound like it was written by a pirate - anything is possible.</p>\n<p>You can check it out at: https://talktext.io</p>\n<p>Keen to get some feedback \ud83d\ude00</p>",
-            "date_published": "2024-12-23T21:29:11+00:00",
-            "authors": [
-                {
-                    "name": "jamie452",
-                    "url": "https://www.reddit.com/user/jamie452"
                 }
             ]
         }
