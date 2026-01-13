@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1qc014a",
+            "url": "/r/selfhosted/comments/1qc014a/i_feel_like_the_selfhosted_and_foss_space_is/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1qc014a/i_feel_like_the_selfhosted_and_foss_space_is/",
+            "title": "I feel like the self-hosted and FOSS space is being flooded with vibe-coded AI slop.",
+            "content_html": "<p>I don\u2019t want to judge anyone, I use these tools too , but I think we need to build some kind of resilience to avoid the self-hosted / FOSS community being overwhelmed by AI slop. Right now, anyone with limited CS knowledge can vibe-code something, publish it on GitHub, and spam the communities.</p>\n<p>I\u2019m tired. I see hundreds of \u201cnew\u201d tools every week.<br />\nWhat should we do, fellow self-hosted bros?</p>",
+            "date_published": "2026-01-13T19:03:28+00:00",
+            "authors": [
+                {
+                    "name": "spurGeci",
+                    "url": "https://www.reddit.com/user/spurGeci"
+                }
+            ]
+        },
+        {
             "id": "1q69nfe",
             "url": "/r/selfhosted/comments/1q69nfe/xpipe_v20_a_connection_hub_for_all_your_servers/",
             "external_url": "https://www.reddit.com/gallery/1q69nfe",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Somachr",
                     "url": "https://www.reddit.com/user/Somachr"
-                }
-            ]
-        },
-        {
-            "id": "1imqwpx",
-            "url": "/r/selfhosted/comments/1imqwpx/this_sub_has_sparked_a_lifelong_passion_of_mine/",
-            "external_url": "https://www.reddit.com/gallery/1imqwpx",
-            "title": "This sub has sparked a lifelong passion of mine. Just wanted to say thanks.",
-            "content_html": "<p>Self hosting has brought a new level of joy to my life that I haven\u2019t felt since I was a kid. It all started with using PFsense to block ads, then Plex, then Docker, and the rabbit hole goes so far I don\u2019t even know where it\u2019d stop. Today I just setup my first Ubuntu server where I am currently hosting Plex, Homeassistant, Kuma,  and a few others. I successfully completed the migration over from Windows with no hiccups. Even managed to transfer 50TB of media with no losses. I have big plans for the future, and wouldn\u2019t be able to do any of it without this sub and the help you all have offered. This dashboard I created is optimized for mobile devices, so that\u2019s why the spacing may seem off.</p>\n<p>P.S. The wife finally approved of my self hosting hobby once I made HA look all pretty and usable. We can\u2019t go a day without it, mostly because the remote goes missing. </p>",
-            "date_published": "2025-02-11T04:59:06+00:00",
-            "authors": [
-                {
-                    "name": "-ManWhat",
-                    "url": "https://www.reddit.com/user/-ManWhat"
                 }
             ]
         }
