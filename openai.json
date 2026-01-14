@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1qcvoh6",
+            "url": "/r/OpenAI/comments/1qcvoh6/oh_man/",
+            "external_url": "https://v.redd.it/xdmndiw12ddg1",
+            "title": "Oh man",
+            "content_html": "<p>Made with Kling Motion Control by (I think?) AIWarper on X</p>",
+            "date_published": "2026-01-14T18:47:44+00:00",
+            "authors": [
+                {
+                    "name": "MetaKnowing",
+                    "url": "https://www.reddit.com/user/MetaKnowing"
+                }
+            ]
+        },
+        {
             "id": "1qa40at",
             "url": "/r/OpenAI/comments/1qa40at/chinese_ai_researchers_think_they_wont_catch_up/",
             "external_url": "https://i.redd.it/e9fcj7nd0rcg1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Independent-Ruin-376",
                     "url": "https://www.reddit.com/user/Independent-Ruin-376"
-                }
-            ]
-        },
-        {
-            "id": "1l1gj5d",
-            "url": "/r/OpenAI/comments/1l1gj5d/2025_the_year_brainfarts_became_startups/",
-            "external_url": "https://www.reddit.com/r/OpenAI/comments/1l1gj5d/2025_the_year_brainfarts_became_startups/",
-            "title": "2025. The year brainfarts became startups",
-            "content_html": "<p>Every random thought is now an app.\nEvery idea gets shipped.\nEvery clone is one API call away.</p>\n<p>The market isn't saturated with ideas.\nIt's saturated with execution.</p>\n<p>How fast can you ship before the clone does?\nHow do you stay signal in a noise economy?</p>\n<p>When everything is built, only the deep ideas survive.\nThe rest get buried under their own GitHub commits.</p>",
-            "date_published": "2025-06-02T12:18:03+00:00",
-            "authors": [
-                {
-                    "name": "StandardLovers",
-                    "url": "https://www.reddit.com/user/StandardLovers"
                 }
             ]
         }
