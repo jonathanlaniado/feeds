@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1qdgrob",
+            "url": "/r/macapps/comments/1qdgrob/introducing_freevoice_reader_for_apple_silicon/",
+            "external_url": "https://youtu.be/OAHKyf3nmYk?si=G08GuTm8aQwxaRy0",
+            "title": "Introducing FreeVoice Reader for Apple Silicon \u2013 Your Voice, Instantly Typed",
+            "content_html": "<p>I'm the developer of Freevoice Reader. </p>\n<p>I'm making a limited number of lifetime access codes available.</p>\n<p>Freevoice Reader is a Mac app (Apple Silicon only) that does \n- Instant dictation\n- Read selected text aloud in natural voices\n- Follow commands and edit text using AI</p>\n<p>There are a few other experimental features: \n- Voice Cloning\n- Subtitle generation \n- Meeting transcription and diarization</p>\n<p>Lifetime access unlocks all features including experimental features and all future features. You can use the code on up to 3 Macs.</p>\n<p>If you'd like a lifetime code:</p>\n<p>Upvote and leave a comment</p>\n<p>I'll reply with a code within the next day. Codes are shared privately and not posted publicly. </p>\n<p>Link: https://freevoicereader.com/mac-app</p>\n<p>What makes FreeVoice Reader different compared to other dictation apps:\n- Most dictation apps available for MacOS fail to leverage the Apple Silicon architecture as they support even the earlier chips. I built this app specifically for Apple Silicon chips (M1 and later) and the results are impressive. </p>\n<p>What models do we use: \nWe use the best open source models. \n- For dictation, you can choose between Parakeet V3 (25 languages), Parakeet V2, Whisper (99+ languages)\n- Reading aloud: KokoroTTS and a few others\n- Text editing: Apple Intelligence which can be swapped for Qwen 2.5 and a few other models</p>\n<p>Happy to answer any questions. Thanks for taking a look!</p>",
+            "date_published": "2026-01-15T11:10:12+00:00",
+            "authors": [
+                {
+                    "name": "Impressive-Sir9633",
+                    "url": "https://www.reddit.com/user/Impressive-Sir9633"
+                }
+            ]
+        },
+        {
             "id": "1qbrcg5",
             "url": "/r/macapps/comments/1qbrcg5/congratulations_to_our_rmacapps_for_reaching/",
             "external_url": "https://i.redd.it/awovc4b3c4dg1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "vigneshvp",
                     "url": "https://www.reddit.com/user/vigneshvp"
-                }
-            ]
-        },
-        {
-            "id": "1hmcbpk",
-            "url": "/r/macapps/comments/1hmcbpk/shortcat_lets_you_navigate_the_macos_ui_with_your/",
-            "external_url": "https://shortcat.app/",
-            "title": "ShortCat lets you navigate the MacOS UI with your keyboard",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1hmcbpk/shortcat_lets_you_navigate_the_macos_ui_with_your/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1hmcbpk/shortcat_lets_you_navigate_the_macos_ui_with_your/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-12-26T00:06:55+00:00",
-            "authors": [
-                {
-                    "name": "obviousoctopus",
-                    "url": "https://www.reddit.com/user/obviousoctopus"
                 }
             ]
         }
