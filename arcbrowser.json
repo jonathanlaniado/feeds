@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1qfugz7",
+            "url": "/r/ArcBrowser/comments/1qfugz7/chrome_with_vertical_pinned_tabs_is_basically_arc/",
+            "external_url": "https://v.redd.it/3uquqmkqb0eg1",
+            "title": "Chrome with Vertical Pinned Tabs is basically Arc?",
+            "content_html": "",
+            "date_published": "2026-01-18T01:03:09+00:00",
+            "authors": [
+                {
+                    "name": "Enigma_101",
+                    "url": "https://www.reddit.com/user/Enigma_101"
+                }
+            ]
+        },
+        {
             "id": "1qeh0g1",
             "url": "/r/ArcBrowser/comments/1qeh0g1/arc_for_ipad/",
             "external_url": "https://i.redd.it/wjakzpslypdg1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Last_Seaworthiness70",
                     "url": "https://www.reddit.com/user/Last_Seaworthiness70"
-                }
-            ]
-        },
-        {
-            "id": "1gkclem",
-            "url": "/r/ArcBrowser/comments/1gkclem/thankyou_tbc/",
-            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1gkclem/thankyou_tbc/",
-            "title": "Thankyou TBC",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1gkclem/thankyou_tbc/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1gkclem/thankyou_tbc/'>Reddit</a></caption><div><br></div><p>Thank you, TBC, for making me regret the choices I\u2019ve made. I\u2019m trying to find alternatives, but I can\u2019t switch because Arc is so easy to use. The UI is great, but please focus on memory management!   </p>\n<p><a href=\"https://preview.redd.it/rh5abonae4zd1.png?width=2494&amp;format=png&amp;auto=webp&amp;s=fa4778181c7159d114298b48d3f4f92fb1977d2d\">Crazy memory consumption </a></p>",
-            "date_published": "2024-11-05T17:47:20+00:00",
-            "authors": [
-                {
-                    "name": "TempleBridge",
-                    "url": "https://www.reddit.com/user/TempleBridge"
                 }
             ]
         }
