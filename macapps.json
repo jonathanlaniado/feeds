@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1qhiexg",
+            "url": "/r/macapps/comments/1qhiexg/os_i_built_an_opensource_volume_mixer_for_macos/",
+            "external_url": "https://www.reddit.com/gallery/1qhiexg",
+            "title": "[OS] I built an open-source Volume Mixer for macOS because Apple won't. Meet FineTune.",
+            "content_html": "<p>Hey everyone,</p>\n<p>I was frustrated that macOS lacks a native Volume Mixer. Specifically, I couldn't route Spotify to my external speakers while keeping other apps on my MacBook speakers.</p>\n<p>Existing solutions were either buggy on new macOS versions (BackgroundMusic) or expensive ($50+, like SoundSource).</p>\n<p>So I built <strong>FineTune</strong>.</p>\n<p>It\u2019s a native menu bar app (SwiftUI) that provides:</p>\n<ul>\n<li><strong>Volume Control &amp; Boost Per App</strong> </li>\n<li><strong>Audio Routing</strong> (send apps to different devices)</li>\n<li><strong>Per-App EQ with Pre-defined Presets</strong></li>\n<li><strong>Real-time VU Meters &amp; Persistent Settings</strong></li>\n</ul>\n<p><strong>Current Status:</strong> It\u2019s open-source and I\u2019m working on this as much as my free time allows. My priority is polishing the experience and fixing the bugs reported ASAP. I\u2019d also love to extend the project with new features that make sense, so let me know what you want to see!</p>\n<p><strong>Note on Flair:</strong> I\u2019ve flaired this as \"Vibe Coded\" per the new rules since I used AI tools to accelerate development. However, I am fully committed to maintaining this codebase and fully understand it.</p>\n<p><strong>Price:</strong> Free <br />\n<strong>Repo:</strong><a href=\"https://github.com/ronitsingh10/FineTune\">https://github.com/ronitsingh10/FineTune</a></p>",
+            "date_published": "2026-01-19T22:08:48+00:00",
+            "authors": [
+                {
+                    "name": "Stoned_Orangutan",
+                    "url": "https://www.reddit.com/user/Stoned_Orangutan"
+                }
+            ]
+        },
+        {
             "id": "1qdgrob",
             "url": "/r/macapps/comments/1qdgrob/introducing_freevoice_reader_for_apple_silicon/",
             "external_url": "https://youtu.be/OAHKyf3nmYk?si=G08GuTm8aQwxaRy0",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Which-Comment-8327",
                     "url": "https://www.reddit.com/user/Which-Comment-8327"
-                }
-            ]
-        },
-        {
-            "id": "1hpvt70",
-            "url": "/r/macapps/comments/1hpvt70/whats_the_best_mac_app_of_2024/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1hpvt70/whats_the_best_mac_app_of_2024/",
-            "title": "What\u2019s the Best Mac App of 2024?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1hpvt70/whats_the_best_mac_app_of_2024/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1hpvt70/whats_the_best_mac_app_of_2024/'>Reddit</a></caption><div><br></div><p>Hey everyone,</p>\n<p>As 2024 comes to a close, I\u2019m curious to know which Mac apps stood out for you this year. Whether it's for productivity, creativity, organization, or just pure fun, I\u2019d love to hear your recommendations.</p>\n<p>What\u2019s the one app you think every Mac user should check out in 2024?</p>",
-            "date_published": "2024-12-30T19:53:18+00:00",
-            "authors": [
-                {
-                    "name": "vigneshvp",
-                    "url": "https://www.reddit.com/user/vigneshvp"
                 }
             ]
         }
