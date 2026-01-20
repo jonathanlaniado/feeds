@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1qibpue",
+            "url": "/r/homeassistant/comments/1qibpue/an_opensource_sonosstyle_smart_speaker_for_home/",
+            "external_url": "https://www.reddit.com/gallery/1qibpue",
+            "title": "An Open-Source Sonos-Style Smart Speaker for Home Assistant \ud83c\udf89",
+            "content_html": "<p>Hello HA friends!</p>\n<p>For the past year, the <a href=\"http://FutureProofHomes.ai\">FutureProofHomes.ai</a> team has been on a bold quest to build what I'd describe as an, \"open-source Sonos One\u2013style smart speaker\". Today, I'm excited to say: it\u2019s here!</p>\n<p>Our goals were simple and ambitious:</p>\n<ul>\n<li>Best-in-class sound quality for the HA community</li>\n<li>Rock-solid, synchronized multi-room audio</li>\n<li>Native HA voice assistant support with on-board MicroWakeWord</li>\n<li>Sleek, modular, open design (not evil or creepy)</li>\n<li>As affordable as possible</li>\n</ul>\n<p>We\u2019re officially releasing the <strong>Smart Speaker Enclosure Kit</strong>, transforming your Satellite1 Voice Assistant Dev Kit into a beautifully crafted <strong>20-watt, two-way smart speaker</strong>.</p>\n<ul>\n<li>\ud83c\udfa5 Watch the <a href=\"https://www.youtube.com/watch?v=n5yNEhcAjWU\">official YouTube video</a></li>\n<li>\ud83d\uded2 Pre-order the kit <a href=\"https://futureproofhomes.net/products/satellite1-smart-speaker-enclosure-kit\">on our website</a></li>\n<li>\ud83d\udcda Read the <a href=\"https://docs.futureproofhomes.net/satellite1-smart-speaker-enclosure-kit/\">full documentation</a></li>\n</ul>\n<h1>Quick FAQs</h1>\n<ol>\n<li><strong>Pre-assembled option?</strong> Yes, coming soon. For now, it\u2019s a fun at-home build.</li>\n<li><strong>3D-printable?</strong> Yes. You can print the enclosure yourself, and a standalone electronics kit will be available soon.  For now we recommend purchasing the full Enclosure Kit.</li>\n<li><strong>Shipping timeline?</strong> Batch #1 ships in February, followed by monthly batches starting in March.</li>\n<li><strong>Multi-room audio protocols?</strong>  Today we ship with our ESP32-based Snapcast client which works really well with Music Assistant.  SendSpin (which gives us a path to AirPlay compatibility) is planned!</li>\n</ol>\n<h1>What\u2019s Next for FPH</h1>\n<ol>\n<li>Continue pushing microphone performance to the limit with XMOS firmware updates</li>\n<li>Ceiling-mounted Sat1 enclosures with powerful sensors</li>\n<li>Plastic injection molding as enclosure demand grows</li>\n<li>And of course.... share more updates, kick-off private beta, and launch our <a href=\"https://futureproofhomes.net/products/nexus\">Nexus AI Base Station</a>.</li>\n</ol>\n<h1>To the Community</h1>\n<p>Thank you for the incredible support and encouragement. We\u2019re a small team tackling a big challenge with multiple parallel work-streams on a shoestring budget, and we\u2019re having a blast doing it.</p>\n<p>If you want to help us move faster: submit PRs, join us <a href=\"https://discord.gg/BeBjWEPzMV\">on Discord</a>, and spread the word.</p>\n<p>Cheers friends!</p>\n<p><em>- FPH Team</em></p>",
+            "date_published": "2026-01-20T19:59:59+00:00",
+            "authors": [
+                {
+                    "name": "FutureProofHomes",
+                    "url": "https://www.reddit.com/user/FutureProofHomes"
+                }
+            ]
+        },
+        {
             "id": "1q9yd9t",
             "url": "/r/homeassistant/comments/1q9yd9t/hi_everyone_im_clooos_the_bubble_card_developer/",
             "external_url": "https://i.redd.it/5kin6pa5ppcg1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Skonamonkey",
                     "url": "https://www.reddit.com/user/Skonamonkey"
-                }
-            ]
-        },
-        {
-            "id": "1i0i75a",
-            "url": "/r/homeassistant/comments/1i0i75a/who_else_maintains_the_illusion_of_stability_by/",
-            "external_url": "https://i.redd.it/cq9lgbj7isce1.jpeg",
-            "title": "Who else maintains the illusion of stability by applying automations like duct tape?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1i0i75a/who_else_maintains_the_illusion_of_stability_by/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1i0i75a/who_else_maintains_the_illusion_of_stability_by/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/cq9lgbj7isce1.jpeg\" />",
-            "date_published": "2025-01-13T16:43:04+00:00",
-            "authors": [
-                {
-                    "name": "Skeeter1020",
-                    "url": "https://www.reddit.com/user/Skeeter1020"
                 }
             ]
         }
