@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1qi64pr",
+            "url": "/r/selfhosted/comments/1qi64pr/i_got_into_an_argument_on_discord_about_how/",
+            "external_url": "https://i.redd.it/eswczyx88jeg1.png",
+            "title": "I got into an argument on Discord about how inefficient CBR/CBZ is, so I wrote a new file format. It's 100x faster than CBZ.",
+            "content_html": "<p>Hello Everyone,</p>\n<p>A month or so ago, I found myself in an argument on the r/yuri_manga discord debating self-hosted manga archive options. The general consensus was \"CBZ is fine. It is what it is.\" I said I would make something better.</p>\n<p>So I did. My solution is the <strong>Bound Book Format</strong>.</p>\n<h2>The problems I've had with CBZ</h2>\n<ol>\n<li>No Random Access. CBZ spikes CPU usage when scrubbing through pages.</li>\n<li>Slow Integrity Checking. Integrity checks can be time-consuming with large libraries.</li>\n<li>If one file is corrupt, the whole thing won't open.</li>\n<li>Metadata isn't native to CBZ, you have to use a <code>ComicInfo.xml</code> file.</li>\n<li>If you have a long-running manhwa or manga, the same \"Credits.jpg\", \"ScanlationGroup.png\" or blank pages are stored hundreds of times, wasting gigabytes. </li>\n</ol>\n<h2>The Solution (BBF)</h2>\n<ol>\n<li>Zero-Copy Architecture. The file is 4KB-aligned. We map the file directly from disk to memory/GPU. No buffers, no copying. BBF is DirectStorage ready.</li>\n<li>XXH3 Parallel Hashing. Integrity checks are extremely fast.</li>\n<li>Native Metadata and Chapters. You can embed metadata in BBF files easily, without any XML parsing. You can also add custom Chapters and Sections.</li>\n<li>Footer-Based Index. BBF doesn't have to parse a central directory, it only has to read the footer to know where every page is.</li>\n<li>Content Deduplication. For those storing manhwa in CBZ format, CBZ stores duplicate images. BBF's content deduplication can result in several hundred deduplicated pages, saving lots of space.</li>\n<li>Per-Asset Hashes. Every asset (and the footer) has an associated XXH3 hash with it, so you can quickly verify the entire book or just a single page nearly instantly.</li>\n<li>Non-destructive. Images inside are bit-exact copies. No re-encoding.</li>\n</ol>\n<p>I have a more in-depth comparison on the <a href=\"https://github.com/ef1500/libbbf?tab=readme-ov-file#feature-comparison-digital-comic--archival-formats\">github repo</a>.</p>\n<h2><strong>\"B-but</strong> <a href=\"https://xkcd.com/927/\"><strong>XKCD 927</strong></a><strong>!\"</strong></h2>\n<p>I'm not creating a unifying standard for everyone's use case. I'm solving a few problems that have bugged me for years. CBZ is also just a ZIP file, it's not built for comics. BBF is.</p>\n<h2><strong>Where to get it</strong></h2>\n<p>This project is 100% open sourced, and licensed under the MIT license.</p>\n<ul>\n<li><strong>C++ Core &amp; Spec:</strong> <a href=\"https://github.com/ef1500/libbbf\">https://github.com/ef1500/libbbf</a></li>\n<li><strong>Python Bindings &amp; CLI Tools:</strong> <a href=\"https://github.com/ef1500/libbbf-python\">https://github.com/ef1500/libbbf-python</a> or <code>pip install libbbf</code></li>\n</ul>\n<p>The python bindings include conversion scripts to convert between CBZ and BBF (cbx2bbf, bbf2cbx). You won't lose your cbz files, and you can convert back to cbz at any time.</p>\n<p><em>(Note: The tool handles image data perfectly, but parsing existing XML metadata and nested folders is currently a work-in-progress.)</em></p>\n<h2><strong>How to get involved</strong></h2>\n<p>I have numbers to back me up. I've got binaries and python packages. What I need right now is adoption. I'm looking for feedback from other archivists, and for devs that are interested in adding support for this in their readers.</p>\n<p>Cheers :-)</p><div><br></div><img src=\"https://i.redd.it/eswczyx88jeg1.png\" />",
+            "date_published": "2026-01-20T16:42:59+00:00",
+            "authors": [
+                {
+                    "name": "ef1500_v2",
+                    "url": "https://www.reddit.com/user/ef1500_v2"
+                }
+            ]
+        },
+        {
             "id": "1qffpkq",
             "url": "/r/selfhosted/comments/1qffpkq/bentopdf_urgent_security_notice/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1qffpkq/bentopdf_urgent_security_notice/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "znhunter",
                     "url": "https://www.reddit.com/user/znhunter"
-                }
-            ]
-        },
-        {
-            "id": "1iuqoyi",
-            "url": "/r/selfhosted/comments/1iuqoyi/devs_please_put_screenshots_of_your_project_on/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1iuqoyi/devs_please_put_screenshots_of_your_project_on/",
-            "title": "Devs please put screenshots of your project on your GitHub pages!",
-            "content_html": "<p>This is my #1 pet peeve. I always tell devs, if you don't have screenshots you can say goodbye to a significant percentage to your potential user base. </p>\n<p>I'm not going to install something if I don't even know what the UI looks like. Especially if I can't have it up in less than 2 minutes or it requires a DB of some kind.</p>\n<p>Nothing pisses me off more than installing something, finding out I hate the UI and then have to uninstall it and drop any related DBs, when I could have saved all my time with a single screenshot on your GitHub.</p>",
-            "date_published": "2025-02-21T13:18:54+00:00",
-            "authors": [
-                {
-                    "name": "Darkchamber292",
-                    "url": "https://www.reddit.com/user/Darkchamber292"
                 }
             ]
         }
