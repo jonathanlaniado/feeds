@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1qj7i6h",
+            "url": "/r/macapps/comments/1qj7i6h/tired_of_500mb_pdf_editors_i_just_ported_my/",
+            "external_url": "https://v.redd.it/sse5y4gx6reg1",
+            "title": "Tired of 500MB PDF editors? I just ported my offline, 11MB editor to macOS and Linux. No ads, no sign-up.",
+            "content_html": "<p>Hey everyone,</p>\n<p>A while back I shared that I was working on a native PDF editor because I was frustrated with how bloated and cloud-dependent current tools have become. After a lot of late nights and debugging C++ memory issues, I\u2019ve finally ported the engine to <strong>macOS and Linux</strong>.</p>\n<p>I\u2019m releasing the desktop versions today <strong>completely free with all features unlocked</strong>. No ads, no sign-up, and it works 100% offline.</p>\n<p><strong>Why did I build this?</strong> Most 'editors' are actually just annotators. My engine (built on C++ and PDFium) allows you to actually manipulate the content, including complex XObjects that even the 'big names' sometimes struggle with on mobile and desktop.</p>\n<p><strong>The Tech Specs:</strong></p>\n<ul>\n<li><strong>Size:</strong> \\~11MB (No Electron, no web-wrappers).</li>\n<li><strong>Privacy:</strong> It never asks for internet permissions. Your docs stay on your machine.</li>\n<li><strong>Engine:</strong> Native C++ back-end with a thin Flutter UI.</li>\n<li><strong>Status:</strong> Android is already at 1k+ downloads (4.7 stars), and the iOS version is currently in the review phase and should be out soon.</li>\n</ul>\n<p>I\u2019m a solo dev, so I\u2019m really just looking for feedback from the desktop community. Does it handle your complex files? Is the UI responsive enough?</p>\n<p>I've attached a quick clip of me using it on my Mac to show how fast it handles edits.</p>\n<p>Would love to hear what features you think I should add next for the desktop version!</p>",
+            "date_published": "2026-01-21T19:24:41+00:00",
+            "authors": [
+                {
+                    "name": "Pawan315",
+                    "url": "https://www.reddit.com/user/Pawan315"
+                }
+            ]
+        },
+        {
             "id": "1qhiexg",
             "url": "/r/macapps/comments/1qhiexg/os_i_built_an_opensource_volume_mixer_for_macos/",
             "external_url": "https://www.reddit.com/gallery/1qhiexg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "WickedDogg",
                     "url": "https://www.reddit.com/user/WickedDogg"
-                }
-            ]
-        },
-        {
-            "id": "1huwfvu",
-            "url": "/r/macapps/comments/1huwfvu/fully_local_ai_app_for_realtime_meeting/",
-            "external_url": "https://v.redd.it/n06rmvy0tcbe1",
-            "title": "Fully Local AI App for Real-Time Meeting Transcription & Dictation (No Wi-Fi Needed)",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1huwfvu/fully_local_ai_app_for_realtime_meeting/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1huwfvu/fully_local_ai_app_for_realtime_meeting/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2025-01-06T10:55:00+00:00",
-            "authors": [
-                {
-                    "name": "Which-Comment-8327",
-                    "url": "https://www.reddit.com/user/Which-Comment-8327"
                 }
             ]
         }
