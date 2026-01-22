@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1qjlaym",
+            "url": "/r/shortcuts/comments/1qjlaym/i_just_bought_a_25_pack_of_nfc_tags_and_just/",
+            "external_url": "https://www.reddit.com/r/shortcuts/comments/1qjlaym/i_just_bought_a_25_pack_of_nfc_tags_and_just/",
+            "title": "I just bought a 25 pack of NFC tags and just discovered this subreddit and am can't believe I slept so long on NFC tags; please read my first 3 NFC tag setups and recommend some more, please!",
+            "content_html": "<p>I bought a 25 pack of little white (non-sticky) NFC tags online for $8 and they just sat on my desk for a month before I decided to finally open the scary \"Shortcuts\" app on my iPhone.</p>\n<p>Watched a tutorial and now have set up 3 NFC tags and love the functionality so much:</p>\n<ol>\n<li>\n<p>NFC #1 is placed on my office door and whenever I tap my iPhone to it, turns on/off my office lamp that has a HomeKit smart plug connected to it. For years I've always used either Control Center or Siri to turn off my \"Office Light\" and now I can easily just tap the NFC tag on my office door when im entering or exiting. This is a big deal for me considering the lamp and connected smart plug are in an awkward part of the office behind my couch.</p>\n</li>\n<li>\n<p>NFC#2 is affixed using double sided tape to my blood oxygen sensor that requires my finger to read my blood oxygen percentage. I have an older S4 Apple Watch that doesn't support blood oxygen readings and with this NFC tag attached to the bottom of the device, after the reading is complete, instead of me swiping down and typing \"Health\" and then opening the app and finding the blood oxygen option and adding data, it just opens it up to that specific portion of the health app and all I have to do is type in the current percentage reading. Saves me 5 seconds, but I dig this.</p>\n</li>\n<li>\n<p>NFC #3, finally an NFC tag placed with double sided tape underneath my electronic portable blood pressure machine and same thing like NFC tag #2, automatically opens up the Health app and I have to do is is enter my readings instead of typing for the health app and looking for the blood pressure view and tapping on 'add data'</p>\n</li>\n</ol>\n<p>Thanks for reading this far; I do have a question: If someone else with their iPhone was to tap on any of my NFC tags, would it perform the same action? Would it even recognize it? If not, im guessing there's a way to share it to other iPhone users? Would they need access first to my Home app accessories?</p>",
+            "date_published": "2026-01-22T04:53:00+00:00",
+            "authors": [
+                {
+                    "name": "NakedIanMalcolm",
+                    "url": "https://www.reddit.com/user/NakedIanMalcolm"
+                }
+            ]
+        },
+        {
             "id": "1qhpq53",
             "url": "/r/shortcuts/comments/1qhpq53/stupid_tint_on_new_ios_update/",
             "external_url": "https://i.redd.it/234yhaji9feg1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "yesomg1234",
                     "url": "https://www.reddit.com/user/yesomg1234"
-                }
-            ]
-        },
-        {
-            "id": "1bg228l",
-            "url": "/r/shortcuts/comments/1bg228l/whats_your_top_5_could_t_live_without_shortcuts/",
-            "external_url": "https://www.reddit.com/r/shortcuts/comments/1bg228l/whats_your_top_5_could_t_live_without_shortcuts/",
-            "title": "What\u2019s your top 5 (could t live without) shortcuts?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1bg228l/whats_your_top_5_could_t_live_without_shortcuts/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1bg228l/whats_your_top_5_could_t_live_without_shortcuts/'>Reddit</a></caption><div><br></div><p>News to shortcuts so wanted to get some inspiration\u2026</p>\n<p>What\u2019s your top 5 (most useful, couldn\u2019t live without) shortcuts </p>",
-            "date_published": "2024-03-16T09:16:04+00:00",
-            "authors": [
-                {
-                    "name": "philonik",
-                    "url": "https://www.reddit.com/user/philonik"
                 }
             ]
         }
