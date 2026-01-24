@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1ql8k2i",
+            "url": "/r/ArtificialInteligence/comments/1ql8k2i/i_built_a_tool_to_create_those_peter/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1ql8k2i/i_built_a_tool_to_create_those_peter/",
+            "title": "I built a tool to create those Peter Griffin/Stewie dialogue videos - here's how it works",
+            "content_html": "<p>You've probably seen them - Peter Griffin and Stewie arguing about random topics over Minecraft gameplay. They're everywhere on TikTok and Instagram.</p>\n<p>I spent 3 months building AutoClips to automate this entire process:</p>\n<p><strong>The Problem I Solved:</strong></p>\n<ul>\n<li>Writing scripts manually takes forever</li>\n<li>Voice generation tools sound robotic</li>\n<li>Syncing dialogue between two characters is a nightmare</li>\n<li>No tool let you upload your own gameplay backgrounds</li>\n</ul>\n<p><strong>What I Built:</strong></p>\n<ul>\n<li>Multi-character dialogue mode (AI writes natural back-and-forth conversation)</li>\n<li>Voice Cloning for custom character</li>\n<li>Custom character creation with AI-generated images</li>\n<li>Upload your own gameplay (Minecraft, GTA, whatever)</li>\n<li>6-step wizard: topic \u2192 characters \u2192 script \u2192 media \u2192 preview \u2192 export</li>\n</ul>\n<p>First video is free, no credit card required. Happy to answer technical questions.</p>\n<p>Try for free:\u00a0<a href=\"https://www.autoclips.app/character-explainer-videos\">https://www.autoclips.app/character-explainer-videos</a></p>\n<p>Demo Video: <a href=\"https://www.youtube.com/watch?v=h6620hbWzYQ\">https://www.youtube.com/watch?v=h6620hbWzYQ</a></p>\n<p>Happy to answer technical questions about the architecture or share what I learned building this.</p>",
+            "date_published": "2026-01-24T00:52:04+00:00",
+            "authors": [
+                {
+                    "name": "iayazalam",
+                    "url": "https://www.reddit.com/user/iayazalam"
+                }
+            ]
+        },
+        {
             "id": "1pm3yg6",
             "url": "/r/ArtificialInteligence/comments/1pm3yg6/ai_videos_need_to_be_banned_from_the_world/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1pm3yg6/ai_videos_need_to_be_banned_from_the_world/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Eliashuer",
                     "url": "https://www.reddit.com/user/Eliashuer"
-                }
-            ]
-        },
-        {
-            "id": "1jjh1im",
-            "url": "/r/ArtificialInteligence/comments/1jjh1im/apple_finally_steps_up_ai_game_reportedly_orders/",
-            "external_url": "https://www.pcguide.com/news/apple-finally-steps-up-ai-game-reportedly-orders-around-1b-worth-of-nvidia-gpus/",
-            "title": "Apple finally steps up AI game, reportedly orders around $1B worth of Nvidia GPUs",
-            "content_html": "",
-            "date_published": "2025-03-25T11:22:47+00:00",
-            "authors": [
-                {
-                    "name": "Odd-Onion-6776",
-                    "url": "https://www.reddit.com/user/Odd-Onion-6776"
                 }
             ]
         }
