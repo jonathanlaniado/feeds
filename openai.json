@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1qm4u9m",
+            "url": "/r/OpenAI/comments/1qm4u9m/vibe_coding_infinite_slop/",
+            "external_url": "https://i.redd.it/x6ydl2m0befg1.jpeg",
+            "title": "Vibe coding infinite slop?",
+            "content_html": "<p>I saw this post on LinkedIn (credit to user: Eduardo Ordax) - the text was too long but the meme / pic itself makes sense </p>\n<p>What\u2019s your take on this? To me it felt sad but true. </p>\n<p>Disclaimer: </p>\n<p>#openAi and AI fan in general (but not biased as such - so I love hearing out both sides. </p><div><br></div><img src=\"https://i.redd.it/x6ydl2m0befg1.jpeg\" />",
+            "date_published": "2026-01-25T01:07:53+00:00",
+            "authors": [
+                {
+                    "name": "Revolutionary_Ad2527",
+                    "url": "https://www.reddit.com/user/Revolutionary_Ad2527"
+                }
+            ]
+        },
+        {
             "id": "1qlqklw",
             "url": "/r/OpenAI/comments/1qlqklw/grok_removes_trump_from_pic_after_x_user_asks_it/",
             "external_url": "https://i.redd.it/h45de6zgkbfg1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Just-Grocery-2229",
                     "url": "https://www.reddit.com/user/Just-Grocery-2229"
-                }
-            ]
-        },
-        {
-            "id": "1lbadjv",
-            "url": "/r/OpenAI/comments/1lbadjv/llms_can_now_selfimprove_by_updating_their_own/",
-            "external_url": "https://i.redd.it/cw669qddnw6f1.png",
-            "title": "LLMs can now self-improve by updating their own weights",
-            "content_html": "<p>Paper: <a href=\"https://arxiv.org/abs/2506.10943\">https://arxiv.org/abs/2506.10943</a></p><div><br></div><img src=\"https://i.redd.it/cw669qddnw6f1.png\" />",
-            "date_published": "2025-06-14T14:45:25+00:00",
-            "authors": [
-                {
-                    "name": "MetaKnowing",
-                    "url": "https://www.reddit.com/user/MetaKnowing"
                 }
             ]
         }
