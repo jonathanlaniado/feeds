@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1qom03t",
+            "url": "/r/macapps/comments/1qom03t/popstack_dockstyle_folder_popovers_for_your/",
+            "external_url": "https://v.redd.it/ajph1cl9pxfg1",
+            "title": "PopStack \u2014 Dock-style folder popovers for your Desktop",
+            "content_html": "<p>Hi all!   </p>\n<p>My frustrations with macOS' Stacks feature forced my hand. I\u2019m launching\u00a0PopStack, a small macOS utility that makes Desktop folders feel \u201cinstant\u201d again<strong>.</strong> </p>\n<ul>\n<li>Folder Popovers:\u00a0Click a Desktop folder and PopStack opens a fast popover so you can peak &amp; access the contents right there (icon grid or list view), without opening Finder windows all over your screen.</li>\n<li>Optional Auto\u2011Sort:\u00a0If you want, PopStack can sort Desktop files via configurable rules into folders (a native Stacks-style alternative, but more customizable).</li>\n<li>Smart Icons (optional):\u00a0PopStack can automatically generate \u201cstacked thumbnail\u201d folder icons for folders it manages (again, to replace Stacks).</li>\n<li>Native + lightweight:\u00a0Built to feel Mac-native and stay snappy.</li>\n</ul>\n<p>I'm looking at a $6.99 one-time purchase (use code <em>MACAPPS</em>).   </p>\n<p>You can get it here: <a href=\"https://popstack.us\">popstack.us</a>   </p>\n<p>I'm definitely open to feedback! I have a couple nice improvements planned. I'm hoping it's as useful for others as it has been for me. If you happen to have an X/Twitter account and can <a href=\"https://x.com/chasegiunta\">like and share my post</a> \u2014\u00a0DM me there and I'll give you a code for $4.99 </p>",
+            "date_published": "2026-01-27T18:24:41+00:00",
+            "authors": [
+                {
+                    "name": "kiddjones",
+                    "url": "https://www.reddit.com/user/kiddjones"
+                }
+            ]
+        },
+        {
             "id": "1qkzyj3",
             "url": "/r/macapps/comments/1qkzyj3/i_just_switched_from_windows_to_mac_and_this/",
             "external_url": "https://i.redd.it/gxmop33ee5fg1.gif",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "aidanmavai",
                     "url": "https://www.reddit.com/user/aidanmavai"
-                }
-            ]
-        },
-        {
-            "id": "1hz09ph",
-            "url": "/r/macapps/comments/1hz09ph/list_of_the_best_free_apps_updated/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1hz09ph/list_of_the_best_free_apps_updated/",
-            "title": "List of the best free apps. [UPDATED]",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1hz09ph/list_of_the_best_free_apps_updated/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1hz09ph/list_of_the_best_free_apps_updated/'>Reddit</a></caption><div><br></div><p>Link: <a href=\"https://github.com/Axorax/awesome-free-apps\">https://github.com/Axorax/awesome-free-apps</a></p>\n<p>Now, there are more tags and you can also filter to see apps for a specific platform. I also added a lot more apps suggested by you guys!</p>\n<p>Star the project to save it and show support (you can also donate to help)! &lt;3</p>\n<p>Suggest more cools apps here!</p>\n<p>For the future, if it gets enough donations, I plan on buying a domain and making a website so it's easier to filter, search and find cool apps.</p>",
-            "date_published": "2025-01-11T16:59:46+00:00",
-            "authors": [
-                {
-                    "name": "axorax",
-                    "url": "https://www.reddit.com/user/axorax"
                 }
             ]
         }
