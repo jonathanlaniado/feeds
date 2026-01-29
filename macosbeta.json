@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1qpsaxw",
+            "url": "/r/MacOSBeta/comments/1qpsaxw/psa_do_not_upgrade_to_263_beta_3/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1qpsaxw/psa_do_not_upgrade_to_263_beta_3/",
+            "title": "[PSA] Do not upgrade to 26.3 Beta 3",
+            "content_html": "<p>This particular beta version is plagued with issues regarding managing the P-states of the Apple Silicon GPU unit. In short you are very likely to experience 3x lower performance in graphics-heavy workloads (such as gaming). The hardware simply refuses to use its full power.</p>\n<p>Usual symptoms for this release:</p>\n<p>- GPU sits about 330 MHz, occasionally going to 800 MHz with a power draw of 3-5W</p>\n<p>- Fans not spinning up to cool the unit</p>\n<p>I\u2019ve already sent a very detailed report to Apple about this, and so did the others that reported similar issues in this sub.</p>\n<p>The only solution is either waiting for a new beta release, or doing an erase to the stable Tahoe or Sequoia.</p>",
+            "date_published": "2026-01-28T23:52:27+00:00",
+            "authors": [
+                {
+                    "name": "SirDemonLord",
+                    "url": "https://www.reddit.com/user/SirDemonLord"
+                }
+            ]
+        },
+        {
             "id": "1qb2slq",
             "url": "/r/MacOSBeta/comments/1qb2slq/second_macos_tahoe_263_beta_now_available_for/",
             "external_url": "https://www.macrumors.com/2026/01/12/macos-tahoe-26-3-beta-2/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "new-to-reddit-accoun",
                     "url": "https://www.reddit.com/user/new-to-reddit-accoun"
-                }
-            ]
-        },
-        {
-            "id": "1m7i431",
-            "url": "/r/MacOSBeta/comments/1m7i431/not_sure_when_these_icons_change_but_im_just/",
-            "external_url": "https://www.reddit.com/gallery/1m7i431",
-            "title": "Not sure when these icons change, but I'm just noticing them after updating to DP4",
-            "content_html": "<p>I think these look really nice in dark mode + dark tint.  Personally, I would like to Disk Utility swap out the Apple logo on white, with a drive or NAND, but I can't blame them for going with this design. </p>",
-            "date_published": "2025-07-23T19:06:53+00:00",
-            "authors": [
-                {
-                    "name": "Dazzling_Comfort5734",
-                    "url": "https://www.reddit.com/user/Dazzling_Comfort5734"
                 }
             ]
         }
