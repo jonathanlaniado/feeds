@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1qs0q11",
+            "url": "/r/homeassistant/comments/1qs0q11/eink_remote_for_home_assistant/",
+            "external_url": "https://i.redd.it/8rlnop53cogg1.jpeg",
+            "title": "e-ink remote for Home Assistant",
+            "content_html": "<p>I'm not a huge fan of LCD displays to control my home, so i've been looking at the <a href=\"https://docs.m5stack.com/en/core/PaperS3\">M5PaperS3</a> and the <a href=\"https://lilygo.cc/products/t5-e-paper-s3-pro\">T5 E-Paper S3 Pro</a> lately, which are ESP32 devices with e-paper displays and touch support.</p>\n<p>I finally have something i like enough to share it on github: <a href=\"https://github.com/ugomeda/home-assistant-epaper-remote\">https://github.com/ugomeda/home-assistant-epaper-remote</a></p>\n<p>I've also put the 3D model of the case i've designed to mount the M5PaperS3 on furniture and hide the USB cable here: <a href=\"https://www.printables.com/model/1576382-wall-mount-for-m5-papers3\">https://www.printables.com/model/1576382-wall-mount-for-m5-papers3</a></p><div><br></div><img src=\"https://i.redd.it/8rlnop53cogg1.jpeg\" />",
+            "date_published": "2026-01-31T12:09:00+00:00",
+            "authors": [
+                {
+                    "name": "ZeKWork",
+                    "url": "https://www.reddit.com/user/ZeKWork"
+                }
+            ]
+        },
+        {
             "id": "1qizuaj",
             "url": "/r/homeassistant/comments/1qizuaj/finally_finished_my_kids_command_center/",
             "external_url": "https://www.reddit.com/gallery/1qizuaj",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Slight_Safe8745",
                     "url": "https://www.reddit.com/user/Slight_Safe8745"
-                }
-            ]
-        },
-        {
-            "id": "1i5tpgq",
-            "url": "/r/homeassistant/comments/1i5tpgq/i_really_really_really_dont_want_water_damage/",
-            "external_url": "https://i.redd.it/dk6dhs7ra6ee1.jpeg",
-            "title": "I really really really don't want water damage",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/homeassistant/comments/1i5tpgq/i_really_really_really_dont_want_water_damage/'>Winston</a> | <a href='https://reddit.com/r/homeassistant/comments/1i5tpgq/i_really_really_really_dont_want_water_damage/'>Reddit</a></caption><div><br></div><p>And I have a lot of bathrooms....</p>\n<p>18 aqara sensors lol </p><div><br></div><img src=\"https://i.redd.it/dk6dhs7ra6ee1.jpeg\" />",
-            "date_published": "2025-01-20T16:10:22+00:00",
-            "authors": [
-                {
-                    "name": "coderego",
-                    "url": "https://www.reddit.com/user/coderego"
                 }
             ]
         }
