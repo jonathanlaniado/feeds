@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1qw0ezj",
+            "url": "/r/MacOSBeta/comments/1qw0ezj/macos_263_rc_released_today_addressed_my/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1qw0ezj/macos_263_rc_released_today_addressed_my/",
+            "title": "macos 26.3 RC released today addressed my graphical performance issues",
+            "content_html": "<p>PoE2 at idle has risen from 21 to 83 FPS, and fans are now functioning as expected.</p>\n<p>Please chime in with your experiences.</p>",
+            "date_published": "2026-02-04T20:46:20+00:00",
+            "authors": [
+                {
+                    "name": "Sad_Designer452",
+                    "url": "https://www.reddit.com/user/Sad_Designer452"
+                }
+            ]
+        },
+        {
             "id": "1qvyg82",
             "url": "/r/MacOSBeta/comments/1qvyg82/macos_tahoe_263_release_candidate_now_available/",
             "external_url": "https://www.macrumors.com/2026/02/04/apple-seeds-macos-tahoe-26-3-rc/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "DiscombobulatedRace2",
                     "url": "https://www.reddit.com/user/DiscombobulatedRace2"
-                }
-            ]
-        },
-        {
-            "id": "1m8bsyj",
-            "url": "/r/MacOSBeta/comments/1m8bsyj/macos_tahoe_public_beta_1_released_the_future_of/",
-            "external_url": "https://www.newsz.io/tech/macos-tahoe-public-beta-1-release?utm_campaign=shareaholic&utm_medium=reddit&utm_source=news",
-            "title": "macOS Tahoe Public Beta 1 Released \u2014 The Future of Mac Begins Here",
-            "content_html": "",
-            "date_published": "2025-07-24T18:11:15+00:00",
-            "authors": [
-                {
-                    "name": "gismotrends",
-                    "url": "https://www.reddit.com/user/gismotrends"
                 }
             ]
         }
