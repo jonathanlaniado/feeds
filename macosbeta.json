@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1qvyg82",
+            "url": "/r/MacOSBeta/comments/1qvyg82/macos_tahoe_263_release_candidate_now_available/",
+            "external_url": "https://www.macrumors.com/2026/02/04/apple-seeds-macos-tahoe-26-3-rc/",
+            "title": "macOS Tahoe 26.3 Release Candidate Now Available",
+            "content_html": "",
+            "date_published": "2026-02-04T19:35:36+00:00",
+            "authors": [
+                {
+                    "name": "jagajazzist",
+                    "url": "https://www.reddit.com/user/jagajazzist"
+                }
+            ]
+        },
+        {
             "id": "1qpsaxw",
             "url": "/r/MacOSBeta/comments/1qpsaxw/psa_do_not_upgrade_to_263_beta_3/",
             "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1qpsaxw/psa_do_not_upgrade_to_263_beta_3/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "gismotrends",
                     "url": "https://www.reddit.com/user/gismotrends"
-                }
-            ]
-        },
-        {
-            "id": "1m7xg0s",
-            "url": "/r/MacOSBeta/comments/1m7xg0s/psa_before_you_update_to_macos_26_beta_4_close/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1m7xg0s/psa_before_you_update_to_macos_26_beta_4_close/",
-            "title": "PSA before you update to macOS 26 Beta 4 - close all windows",
-            "content_html": "<p>There is a bug whereby upon the system rebooting after installing Beta 4, you see the WiFi selection window during set up. When you select your network, it will just keep spinning. Rebooting does not work. </p>\n<p>Apparently the issue is that if there were open windows before it rebooted, it will run into this issue and you will get stuck: https://www.reddit.com/r/MacOSBeta/s/mqAMXFE4LM</p>\n<p>The solution is to boot into Recovery Mode and reinstall macOS 26. </p>\n<p>To avoid this issue, close all windows and then update to Beta 4. </p>\n<p>The causality maybe something different but if you do run into the issue then at least this is the fix. </p>\n<p>Feedback ID # FB19039952</p>",
-            "date_published": "2025-07-24T06:58:33+00:00",
-            "authors": [
-                {
-                    "name": "new-to-reddit-accoun",
-                    "url": "https://www.reddit.com/user/new-to-reddit-accoun"
                 }
             ]
         }
