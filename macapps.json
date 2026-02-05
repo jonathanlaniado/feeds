@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1qwkq38",
+            "url": "/r/macapps/comments/1qwkq38/os_thaw_a_fork_of_ice_menu_bar_manager_for_macos/",
+            "external_url": "https://github.com/stonerl/Thaw",
+            "title": "[OS] Thaw: A fork of Ice (Menu Bar Manager) for macOS 26",
+            "content_html": "<p>Hi everyone,</p>\n<p>Most of you are likely familiar with <a href=\"https://github.com/jordanbaird/Ice\">Ice</a>, the excellent menu bar manager for macOS. As many have noticed, development slowed down toward the end of 2024. With the release of macOS 26 (Tahoe), Ice has unfortunately become quite unstable.</p>\n<p>I\u2019ve spent the last few months working on fixes and tried to upstream them. I also reached out to become a co-maintainer but haven't heard back. To keep the project alive and functional for everyone on the latest macOS, I\u2019ve decided to fork Ice and launch <a href=\"https://github.com/stonerl/Thaw\"><strong>Thaw</strong></a>.</p>\n<h1>What is Thaw?</h1>\n<p>Thaw is built on the Ice beta branch that introduced macOS 26 support. I\u2019ve focused heavily on stability, memory management, and squashing the bugs that made the original beta difficult to use.</p>\n<h1>Key Fixes</h1>\n<ul>\n<li><strong>macOS 26 Stability:</strong> Fixed crashes and issues where items wouldn't display when \"Displays have separate spaces\" was disabled.</li>\n<li><strong>Performance:</strong> Significantly reduced memory leaks and UI flicker.</li>\n<li><strong>Vanishing Cursor:</strong> Fixed the bug where the cursor would randomly disappear.</li>\n<li><strong>Logic Fixes:</strong> Resolved issues with smart/timed rehide strategies and the \"Show on click\" listener.</li>\n<li><strong>UI Polish:</strong> The Appearance Editor is back to being a pop-over, and the Thaw icon itself won't accidentally hide itself anymore.</li>\n</ul>\n<h1>New Features</h1>\n<ul>\n<li><strong>Ice Importer:</strong> Migrating is easy\u2014Thaw can import your old Ice settings automatically.</li>\n<li><strong>Better Controls:</strong> Double-click the Thaw icon to reveal the \"Always Hidden\" section.</li>\n<li><strong>Smart Refresh:</strong> Thaw now restarts itself when connecting/disconnecting displays to ensure a clean state and prevent leaks.</li>\n<li><strong>Predictable Icons:</strong> New menu bar items now default to the visible section so you don't lose them.</li>\n</ul>\n<h1>Known Issues</h1>\n<p>If you are still on <strong>macOS 14 or 15</strong> and Ice is working perfectly for you, I recommend staying there for now. Thaw currently has some bugs regarding temporary icons in the floating \"Thaw bar\" that I am still investigating.</p>\n<h1>Outlook</h1>\n<p>My primary focus is stability. I want Thaw to be the most \"invisible\" and reliable menu bar manager available. While I\u2019m not adding major roadmap features yet, I\u2019m dedicated to making sure the core experience is rock solid.</p>\n<p><strong>GitHub:</strong> <a href=\"https://github.com/stonerl/Thaw\">stonerl/Thaw</a><br />\n<strong>Discord</strong> <a href=\"https://discord.gg/5cnKkKbMFd\">volvox/Thaw</a><br />\n<strong>Support the project:</strong> <a href=\"https://github.com/sponsors/stonerl\">GitHub Sponsors</a></p>\n<p>I'll be hanging out in the comments to answer questions or help with troubleshooting!</p>",
+            "date_published": "2026-02-05T13:03:58+00:00",
+            "authors": [
+                {
+                    "name": "stonerl",
+                    "url": "https://www.reddit.com/user/stonerl"
+                }
+            ]
+        },
+        {
             "id": "1qu05c8",
             "url": "/r/macapps/comments/1qu05c8/the_one_thing_missing_from_every_whisper/",
             "external_url": "https://i.redd.it/2w2urk9xz3hg1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "h4rryP",
                     "url": "https://www.reddit.com/user/h4rryP"
-                }
-            ]
-        },
-        {
-            "id": "1i1awjs",
-            "url": "/r/macapps/comments/1i1awjs/let_your_apps_flyin_a_pie/",
-            "external_url": "https://v.redd.it/rceavzoqrzce1",
-            "title": "Let your apps fly\u2014in a pie",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1i1awjs/let_your_apps_flyin_a_pie/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1i1awjs/let_your_apps_flyin_a_pie/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2025-01-14T17:09:08+00:00",
-            "authors": [
-                {
-                    "name": "mrtnlxo",
-                    "url": "https://www.reddit.com/user/mrtnlxo"
                 }
             ]
         }
