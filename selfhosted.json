@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1r08bd8",
+            "url": "/r/selfhosted/comments/1r08bd8/lets_get_a_selfhosted_discord_replacement_thread/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1r08bd8/lets_get_a_selfhosted_discord_replacement_thread/",
+            "title": "Let's get a self-hosted Discord \"replacement\" thread going for 2026.",
+            "content_html": "<p>We've all seen the big news: Discord is introducing facial ID as a requirement to actually use the app starting next month. Which means one thing: people are about to dig through dozens of ancient \"what's the best self-hosted Discord alternative?\" threads on here and find antiquated opinions and advice.</p>\n<p>What are we <em>actually</em> using? What are the clients that work well? What are options that pass the \"wife test\" of actually being something you could convince your not-techy friends and family to install on their phones? </p>\n<p>Let's get into it. I know I'm already anticipating self-hosting <em>something</em> to replace Discord for communities/friend groups who'll naturally slough off when face ID comes along.</p>",
+            "date_published": "2026-02-09T16:10:54+00:00",
+            "authors": [
+                {
+                    "name": "GavinGWhiz",
+                    "url": "https://www.reddit.com/user/GavinGWhiz"
+                }
+            ]
+        },
+        {
             "id": "1qrqj0x",
             "url": "/r/selfhosted/comments/1qrqj0x/saved_this_s10_from_the_trash_now_it_runs_a_247/",
             "external_url": "https://i.redd.it/ag7o1ikhnlgg1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "doolittledoolate",
                     "url": "https://www.reddit.com/user/doolittledoolate"
-                }
-            ]
-        },
-        {
-            "id": "1j89nto",
-            "url": "/r/selfhosted/comments/1j89nto/this_runs_my_website/",
-            "external_url": "https://i.redd.it/ypcg5ftqhxne1.jpeg",
-            "title": "This runs my website",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/ypcg5ftqhxne1.jpeg\" />",
-            "date_published": "2025-03-10T21:15:48+00:00",
-            "authors": [
-                {
-                    "name": "FlareOptiFX",
-                    "url": "https://www.reddit.com/user/FlareOptiFX"
                 }
             ]
         }
