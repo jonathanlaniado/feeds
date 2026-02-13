@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1r3sepa",
+            "url": "/r/macapps/comments/1r3sepa/from_free_to_paid_what_you_taught_me_while/",
+            "external_url": "https://v.redd.it/jzaeojhm7ajg1",
+            "title": "From free to paid: what you taught me while building Droppy",
+            "content_html": "<p>Hey\u00a0<a href=\"https://www.reddit.com/r/macapps/\">r/macapps</a>,</p>\n<p>A while back I shared Droppy here, it was free at first and after making it paid I got a lot of honest feedback. Some said it felt abrupt, and that's right. I should've communicated better. I took it seriously, fixed the rough parts quickly, and kept shipping updates daily.</p>\n<p>Droppy is now paid:\u00a0<strong>$6.99 one-time</strong>. Before asking anyone to pay, I added a\u00a0<strong>fully unlocked 3-day trial</strong>\u00a0right after it got paid (that was a mistake, to not add it right away) so people can really test everything first. It will always stay fully open source.</p>\n<p>And for this community:\u00a0<strong>30% off for 1 week</strong>\u00a0with code\u00a0<strong>MACAPPS.</strong>\u00a0That makes Droppy\u00a0<strong>$4.90</strong>\u00a0instead of\u00a0<strong>$6.99.</strong></p>\n<p><strong>One-time purchase. Lifetime updates.</strong></p>\n<ul>\n<li>Website:\u00a0<a href=\"https://getdroppy.app/\">https://getdroppy.app</a></li>\n</ul>\n<p>The biggest update from a couple of days ago was the Reminders/Calendar release, and it changed the app a lot:</p>\n<ul>\n<li>Apple Calendar + Apple Reminders sync</li>\n<li>Due-date chimes/alerts</li>\n<li>Live task editing directly inside Droppy</li>\n<li>Smoother, cleaner animations</li>\n<li>Huge one: create tasks with\u00a0<strong>natural language</strong>\u00a0(f.e. finish project thursday at 21:00)</li>\n</ul>\n<p><strong>And beyond that, Droppy also does a lot already:</strong></p>\n<p>\u2705 Rich clipboard manager with live video preview, OCR for images, real-time PDF viewer and flagging/favoriting and better organization.<br />\n\u2705 Floating Basket for files: store, convert, compress, custom video target sizes, create folders, unzip and an AI background removal.<br />\n\u2705 Notch Shelf to quickly stash files and do all of the above.<br />\n\u2705 Tons of extensions to scale from clean/simple to power-user mode:</p>\n<ul>\n<li>Menu bar manager (floating bar under it coming very soon, everything else already works!)</li>\n<li>Camera preview in the notch</li>\n<li>Keep Mac awake</li>\n<li>Terminal in the notch</li>\n<li>Window snapping (like on Windows, with shortcuts)</li>\n<li>Element capture with full screenshot editing tools</li>\n</ul>\n<p>I genuinely love building Droppy. I\u2019m very enthusiastic to make it more useful, cleaner, and better every single week.</p>",
+            "date_published": "2026-02-13T15:38:42+00:00",
+            "authors": [
+                {
+                    "name": "Low_Today5268",
+                    "url": "https://www.reddit.com/user/Low_Today5268"
+                }
+            ]
+        },
+        {
             "id": "1r1bwrm",
             "url": "/r/macapps/comments/1r1bwrm/made_a_list_of_native_mac_apps_because_im_sick_of/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1r1bwrm/made_a_list_of_native_mac_apps_because_im_sick_of/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "mikker",
                     "url": "https://www.reddit.com/user/mikker"
-                }
-            ]
-        },
-        {
-            "id": "1i5o40d",
-            "url": "/r/macapps/comments/1i5o40d/guide_the_terminal_for_noobs_like_me/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1i5o40d/guide_the_terminal_for_noobs_like_me/",
-            "title": "Guide: The Terminal \u2013\u00a0For Noobs (Like Me)",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/macapps/comments/1i5o40d/guide_the_terminal_for_noobs_like_me/'>Winston</a> | <a href='https://reddit.com/r/macapps/comments/1i5o40d/guide_the_terminal_for_noobs_like_me/'>Reddit</a></caption><div><br></div><p>Yesterday I suddenly spent 7 hours writing a guide I named \"<em><strong>The Terminal \u2013\u00a0For Noobs (Like Me)</strong></em>\" \u2013 so I wanted to share it!</p>\n<p>As the title suggests, I'm absolutely no expert when it comes to the terminal \u2013 but I've started to like it. And if you find the terminal a bit daunting, it might be useful to have a guide written by someone for whom it <em>isn't</em> second nature.</p>\n<p>I've done my best to provide accurate explanations, while still keeping them simple. But please let me know if I've missed the mark!</p>\n<p><strong>This is not meant for those who'll <em>live</em> in the terminal! I guess it's <em>mostly</em> for non-programmers, like myself. My intension is to make it seem more tempting to add to your arsenal of Mac tools. And to reduce the dread when you have to dive into the world of command lines.</strong></p>\n<h4>As it become longer than first expected, I decided to split it up into 3 parts:</h4>\n<ul>\n<li>**<a href=\"https://havn.blog/2025/01/19/the-terminal-for-noobs-like.html\">Part One:** The Basic Concepts</a> (<em>Terminal</em>, <em>CLI</em>, <em>Shell</em>, <em>Prompt</em>,)</li>\n<li>**<a href=\"https://havn.blog/2025/01/19/215237.html\">Part Two:** The <em>Why</em> and _What</a>_</li>\n<li>**<a href=\"https://havn.blog/2025/01/19/220119.html\">Part Three:** A More Noob-Friendly Terminal</a></li>\n</ul>\n<p>Feedback is greatly appreciated! Both from noobs (like me), and from pros.</p>\n<p>If you're a noob, did it help you at all? Does it need more images and examples?</p>\n<p>Am I giving some bad advice or inaccurate statements?</p>\n<p>How do <em>you</em> use the terminal? And what are your feelings toward it?</p>",
-            "date_published": "2025-01-20T11:26:19+00:00",
-            "authors": [
-                {
-                    "name": "ErlendHM",
-                    "url": "https://www.reddit.com/user/ErlendHM"
                 }
             ]
         }
