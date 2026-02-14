@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1r4uwun",
+            "url": "/r/ArcBrowser/comments/1r4uwun/i_built_a_macos_app_that_brings_arcs_sidebar_link/",
+            "external_url": "https://v.redd.it/kj1x7uogpijg1",
+            "title": "I built a macOS app that brings Arc's sidebar link organization to any browser",
+            "content_html": "<p>I've been an Arc user for a while now. Tried switching to other browsers once they completely moved on to Dia, but so far one thing I've been missing everywhere is the quality sidebar with workspaces, folders, and the same kind of link organization.</p>\n<p>I had some free time last week and I built <strong>Arcmark</strong>, which is a native macOS bookmark manager that attaches to any browser window as a sidebar, mimicking how Arc organizes tabs and bookmarks. It's open source and fully local.   </p>\n<p>Here is how it works:</p>\n<ul>\n<li>Floats as a sidebar attached to the browser window (Chrome, Safari, Brave, Zen, whatever you switch to) and follows it as you move the window</li>\n<li>Workspaces with custom colors - just like Arc's Spaces</li>\n<li>Nested folders with drag-and-drop</li>\n<li><strong>Imports directly from Arc</strong> - it reads your \u2060StorableSidebar.json (which is where Arc stores all the links locally) and recreates the exact Spaces and folder structure</li>\n<li>Works standalone too if you don't want the sidebar attachment</li>\n</ul>\n<p>It uses macOS Accessibility APIs to detect and attach to the active browser window. But it works fine as a standalone window without them too.</p>\n<p>This is v0.1.0. Very early. If you think this could be helpful, would love to hear your thoughts. </p>\n<p>Let me know if you'd like to try it out, would be happy to share the link to Github, it's open source and completely free</p>",
+            "date_published": "2026-02-14T20:24:12+00:00",
+            "authors": [
+                {
+                    "name": "ahmed_sulajman",
+                    "url": "https://www.reddit.com/user/ahmed_sulajman"
+                }
+            ]
+        },
+        {
             "id": "1r34siy",
             "url": "/r/ArcBrowser/comments/1r34siy/even_the_release_notes_forgot_arc_exists/",
             "external_url": "https://i.redd.it/6kvkwuf1i4jg1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Cool-Jicama-7127",
                     "url": "https://www.reddit.com/user/Cool-Jicama-7127"
-                }
-            ]
-        },
-        {
-            "id": "1gku0u7",
-            "url": "/r/ArcBrowser/comments/1gku0u7/will_the_new_product_be_available_on_windows_or/",
-            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1gku0u7/will_the_new_product_be_available_on_windows_or/",
-            "title": "Will the new product be available on windows or we'd have to wait again for years to get a windows version?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1gku0u7/will_the_new_product_be_available_on_windows_or/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1gku0u7/will_the_new_product_be_available_on_windows_or/'>Reddit</a></caption><div><br></div><p>Pretty much the title?</p>",
-            "date_published": "2024-11-06T08:42:16+00:00",
-            "authors": [
-                {
-                    "name": "Automatic-Award-6587",
-                    "url": "https://www.reddit.com/user/Automatic-Award-6587"
                 }
             ]
         }
