@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1r6jdcz",
+            "url": "/r/MacOSBeta/comments/1r6jdcz/compact_tabs_in_safari_seem_to_be_back_in_the/",
+            "external_url": "https://www.reddit.com/gallery/1r6jdcz",
+            "title": "Compact tabs in Safari seem to be back in the Tahoe Beta 4",
+            "content_html": "",
+            "date_published": "2026-02-16T19:31:16+00:00",
+            "authors": [
+                {
+                    "name": "gh0stofoctober",
+                    "url": "https://www.reddit.com/user/gh0stofoctober"
+                }
+            ]
+        },
+        {
             "id": "1qw0ezj",
             "url": "/r/MacOSBeta/comments/1qw0ezj/macos_263_rc_released_today_addressed_my/",
             "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1qw0ezj/macos_263_rc_released_today_addressed_my/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Sinrra",
                     "url": "https://www.reddit.com/user/Sinrra"
-                }
-            ]
-        },
-        {
-            "id": "1m8pb1n",
-            "url": "/r/MacOSBeta/comments/1m8pb1n/feedback_generates_results/",
-            "external_url": "https://i.redd.it/4p9vq0ox1yef1.png",
-            "title": "Feedback Generates Results",
-            "content_html": "<p>Despite most feedbacks staying unresolved, it is worth it to continue communicating Apple the bugs experienced in a beta. I reported an Apple Music bug and they fixed the issue based on my report. Do not give up!</p><div><br></div><img src=\"https://i.redd.it/4p9vq0ox1yef1.png\" />",
-            "date_published": "2025-07-25T04:00:44+00:00",
-            "authors": [
-                {
-                    "name": "DiscombobulatedRace2",
-                    "url": "https://www.reddit.com/user/DiscombobulatedRace2"
                 }
             ]
         }
