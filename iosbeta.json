@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1r6kfr7",
+            "url": "/r/iOSBeta/comments/1r6kfr7/ios_264_db1_has_the_rcs_30_e2e_encryption_in_beta/",
+            "external_url": "https://i.redd.it/4s2uzv2vywjg1.jpeg",
+            "title": "[iOS 26.4 DB1] has the RCS 3.0 E2E Encryption in Beta",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/4s2uzv2vywjg1.jpeg\" />",
+            "date_published": "2026-02-16T20:10:08+00:00",
+            "authors": [
+                {
+                    "name": "WhiteLotus_1776",
+                    "url": "https://www.reddit.com/user/WhiteLotus_1776"
+                }
+            ]
+        },
+        {
             "id": "1r6ju1t",
             "url": "/r/iOSBeta/comments/1r6ju1t/ios_264_db1_generate_playlists_with_ai_in_music/",
             "external_url": "https://i.redd.it/qj0ezl2xuwjg1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Ok-Affect-7503",
                     "url": "https://www.reddit.com/user/Ok-Affect-7503"
-                }
-            ]
-        },
-        {
-            "id": "1gjl8om",
-            "url": "/r/iOSBeta/comments/1gjl8om/ios_182_beta_2_discussion/",
-            "external_url": "https://www.reddit.com/r/iOSBeta/comments/1gjl8om/ios_182_beta_2_discussion/",
-            "title": "iOS 18.2 Beta 2 - Discussion",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1gjl8om/ios_182_beta_2_discussion/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1gjl8om/ios_182_beta_2_discussion/'>Reddit</a></caption><div><br></div><p>This will serve as our iOS 18.2 Beta 2 discussion.</p>\n<p>Please use this thread to share any and all updates you discover while using the latest iOS/iPadOS 18.2 beta. This thread should be used for discussion of the betas that may not meet our submission guidelines, as well as troubleshooting small issues through the beta test cycle.</p>\n<p>Further discussion can be found on the <a href=\"https://discord.gg/iosbeta\">iOS Beta Discord</a>.</p>",
-            "date_published": "2024-11-04T18:22:12+00:00",
-            "authors": [
-                {
-                    "name": "epmuscle",
-                    "url": "https://www.reddit.com/user/epmuscle"
                 }
             ]
         }
