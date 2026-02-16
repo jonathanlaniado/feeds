@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1r6lmvy",
+            "url": "/r/shortcuts/comments/1r6lmvy/ios_264_beta_new_actions_for_getting_and_setting/",
+            "external_url": "https://i.redd.it/5khtyiuo6xjg1.jpeg",
+            "title": "iOS 26.4 Beta: New actions for getting and setting the battery charge limit",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/5khtyiuo6xjg1.jpeg\" />",
+            "date_published": "2026-02-16T20:54:38+00:00",
+            "authors": [
+                {
+                    "name": "freaktheclown",
+                    "url": "https://www.reddit.com/user/freaktheclown"
+                }
+            ]
+        },
+        {
             "id": "1qyix95",
             "url": "/r/shortcuts/comments/1qyix95/list_of_all_apple_actions/",
             "external_url": "https://i.redd.it/hepqfq44s3ig1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "spenpal_dev",
                     "url": "https://www.reddit.com/user/spenpal_dev"
-                }
-            ]
-        },
-        {
-            "id": "1bi36ps",
-            "url": "/r/shortcuts/comments/1bi36ps/menu_with_sf_symbols/",
-            "external_url": "https://i.redd.it/s0abgzaez5pc1.jpeg",
-            "title": "Menu with SF Symbols",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1bi36ps/menu_with_sf_symbols/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1bi36ps/menu_with_sf_symbols/'>Reddit</a></caption><div><br></div><p>Hi all,</p>\n<p>I created a simple shortcut to build a menu with SF Symbols. It relies on one action from Action app.</p>\n<p>You need to make sure that every menu option has a corresponding shortcut with the same name.</p>\n<p>https://www.icloud.com/shortcuts/e2d31414492a413b883d991eea1587e9</p><div><br></div><img src=\"https://i.redd.it/s0abgzaez5pc1.jpeg\" />",
-            "date_published": "2024-03-18T21:54:31+00:00",
-            "authors": [
-                {
-                    "name": "Gel0_F",
-                    "url": "https://www.reddit.com/user/Gel0_F"
                 }
             ]
         }
