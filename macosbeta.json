@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1r6hlwj",
+            "url": "/r/MacOSBeta/comments/1r6hlwj/first_macos_tahoe_264_beta_now_available_for/",
+            "external_url": "https://www.macrumors.com/2026/02/16/first-macos-tahoe-26-4-beta/",
+            "title": "First macOS Tahoe 26.4 Beta Now Available for Developers",
+            "content_html": "",
+            "date_published": "2026-02-16T18:28:39+00:00",
+            "authors": [
+                {
+                    "name": "jagajazzist",
+                    "url": "https://www.reddit.com/user/jagajazzist"
+                }
+            ]
+        },
+        {
             "id": "1r6jdcz",
             "url": "/r/MacOSBeta/comments/1r6jdcz/compact_tabs_in_safari_seem_to_be_back_in_the/",
             "external_url": "https://www.reddit.com/gallery/1r6jdcz",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Dreaming_Blackbirds",
                     "url": "https://www.reddit.com/user/Dreaming_Blackbirds"
-                }
-            ]
-        },
-        {
-            "id": "1m9eqzl",
-            "url": "/r/MacOSBeta/comments/1m9eqzl/is_tahoe_reliable_now/",
-            "external_url": "https://i.redd.it/xb1mc0cox3ff1.png",
-            "title": "Is Tahoe reliable now?",
-            "content_html": "<p>What\u2019s your experience with the new public beta? I'm a video editor using FCP, I\u2019m wondering if it\u2019s worth trying</p><div><br></div><img src=\"https://i.redd.it/xb1mc0cox3ff1.png\" />",
-            "date_published": "2025-07-25T23:49:25+00:00",
-            "authors": [
-                {
-                    "name": "Sinrra",
-                    "url": "https://www.reddit.com/user/Sinrra"
                 }
             ]
         }
