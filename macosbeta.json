@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1r6tdjc",
+            "url": "/r/MacOSBeta/comments/1r6tdjc/apple_finally_kills_the_hideous_macos_263_cc/",
+            "external_url": "https://i.redd.it/6gipux5qpyjg1.png",
+            "title": "Apple finally kills the hideous macOS 26.3 CC shadow in 26.4 DB 1",
+            "content_html": "<p>In macOS 26.3, Apple introduced a horrible shadow overlay from the Control Center that covered much of the screen and featured noticeable banding artifacts.</p>\n<p>This shadow has been removed in macOS 26.4 beta 1 \ud83d\ude42</p>\n<p>Related posts:  </p>\n<p><a href=\"https://www.reddit.com/r/MacOS/comments/1plf8pn/tell_me_this_doesnt_look_ugly/\">Post 1</a><br />\n<a href=\"https://www.reddit.com/r/MacOS/comments/1qofgdh/macos_control_center_concept/\">Post 2</a></p><div><br></div><img src=\"https://i.redd.it/6gipux5qpyjg1.png\" />",
+            "date_published": "2026-02-17T02:10:19+00:00",
+            "authors": [
+                {
+                    "name": "Heezy999",
+                    "url": "https://www.reddit.com/user/Heezy999"
+                }
+            ]
+        },
+        {
             "id": "1r6hlwj",
             "url": "/r/MacOSBeta/comments/1r6hlwj/first_macos_tahoe_264_beta_now_available_for/",
             "external_url": "https://www.macrumors.com/2026/02/16/first-macos-tahoe-26-4-beta/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "faiface",
                     "url": "https://www.reddit.com/user/faiface"
-                }
-            ]
-        },
-        {
-            "id": "1mahioz",
-            "url": "/r/MacOSBeta/comments/1mahioz/tip_create_multiple_control_center_panels_ive_got/",
-            "external_url": "https://www.reddit.com/gallery/1mahioz",
-            "title": "tip: create multiple Control Center panels. I've got 2 now.",
-            "content_html": "",
-            "date_published": "2025-07-27T08:52:13+00:00",
-            "authors": [
-                {
-                    "name": "Dreaming_Blackbirds",
-                    "url": "https://www.reddit.com/user/Dreaming_Blackbirds"
                 }
             ]
         }
