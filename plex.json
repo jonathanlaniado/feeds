@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1r892wd",
+            "url": "/r/PleX/comments/1r892wd/i_solved_my_4k_apple_tv_stuttering_with_just_a_pc/",
+            "external_url": "https://i.redd.it/alh32295eakg1.jpeg",
+            "title": "I solved my 4K Apple tv stuttering with just a pc fan",
+            "content_html": "<p>Like many others I had dropped frames occur when watching 4K movies on my Apple TV 2022 4K, I didnt want to switch to Infuse and figured I could probably solve it with some parts I had laying around and my 3D printer. </p>\n<p>I wrote a [blog post](https://marcus604.github.io/blog/2026/02/14/apple-tv-thermal-throttling.html) going in detail about how I measured the temperature and validated my solution. I included some additional details of the hardware used and how I automated it with a smart plug and Tautulli.</p>\n<p>TLDR is just attach a fan and small heatsink (possibly optional) to the top of the Apple TV and it keeps it cool off to prevent frames from dropping. </p>\n<p>I used a 120mm pc fan and a 10mm thick cob led heatsink I had laying around. Then I [designed and printed a rack mount](https://makerworld.com/en/models/2409221-apple-tv-4k-2022-rack-mount-with-fan-mount#profileId-2641351) that houses it all in a neat package. I've included a model that isnt rack mounted if you have your Apple TV sitting on a shelf. </p>\n<p>Hope this is able to help anyone who has similar issues. </p><div><br></div><img src=\"https://i.redd.it/alh32295eakg1.jpeg\" />",
+            "date_published": "2026-02-18T17:18:58+00:00",
+            "authors": [
+                {
+                    "name": "AllTextAllTheWay",
+                    "url": "https://www.reddit.com/user/AllTextAllTheWay"
+                }
+            ]
+        },
+        {
             "id": "1qahuvm",
             "url": "/r/PleX/comments/1qahuvm/250_cartoon_network_bumpers_2160p_for/",
             "external_url": "https://www.reddit.com/gallery/1qahuvm",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "SaraCaterina",
                     "url": "https://www.reddit.com/user/SaraCaterina"
-                }
-            ]
-        },
-        {
-            "id": "1glu3on",
-            "url": "/r/PleX/comments/1glu3on/got_creative/",
-            "external_url": "https://www.reddit.com/r/PleX/comments/1glu3on/got_creative/",
-            "title": "Got creative",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1glu3on/got_creative/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1glu3on/got_creative/'>Reddit</a></caption><div><br></div><p>My friend won't answer their phone in like 2 months but still watching One Piece on my server all the time, well drunk me decided to entirely replace the next few episodes of their show with videos of myself acting drunkenly disappointed in them.\nStill no answer but they definitely saw em and not using the server anymore \ud83e\udd23 \nThis happened around 3 AM for him, lmao homie just trying to watch wano but got <a href=\"https://youtu.be/E-vCzRExLKw?si=p5MIiRIDR8T56J4N\">me</a> instead!</p>\n<p>Edit:\nI had been thinking about changing the theme song to a recording of me for a bit but it wasn't that good of an idea, this better idea came to me halfway through a fifth of fireball</p>",
-            "date_published": "2024-11-07T16:12:40+00:00",
-            "authors": [
-                {
-                    "name": "SmokinABlunt",
-                    "url": "https://www.reddit.com/user/SmokinABlunt"
                 }
             ]
         }
