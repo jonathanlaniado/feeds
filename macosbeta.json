@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1rcpud1",
+            "url": "/r/MacOSBeta/comments/1rcpud1/264_developer_beta_2_released/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1rcpud1/264_developer_beta_2_released/",
+            "title": "26.4 Developer Beta 2 Released",
+            "content_html": "<p>Release notes appear to not have been updated, so it is unclear whether or not the HFS+ issue has been resolved in this build.</p>",
+            "date_published": "2026-02-23T18:39:50+00:00",
+            "authors": [
+                {
+                    "name": "Kina_Kai",
+                    "url": "https://www.reddit.com/user/Kina_Kai"
+                }
+            ]
+        },
+        {
             "id": "1r8wgbe",
             "url": "/r/MacOSBeta/comments/1r8wgbe/264_pb1_im_enjoying_the_return_of_compact_tabs/",
             "external_url": "https://i.redd.it/75jr7lwkofkg1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "samuelaweeks",
                     "url": "https://www.reddit.com/user/samuelaweeks"
-                }
-            ]
-        },
-        {
-            "id": "1mbjemi",
-            "url": "/r/MacOSBeta/comments/1mbjemi/macos_tahoe_is_just_stunning_what_do_you_think/",
-            "external_url": "https://i.redd.it/iylaf8svvmff1.png",
-            "title": "MacOS Tahoe is just stunning. What do you think?",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/iylaf8svvmff1.png\" />",
-            "date_published": "2025-07-28T15:33:48+00:00",
-            "authors": [
-                {
-                    "name": "Miserable-Guide8844",
-                    "url": "https://www.reddit.com/user/Miserable-Guide8844"
                 }
             ]
         }
