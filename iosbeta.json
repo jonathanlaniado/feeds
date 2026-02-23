@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1rcozwb",
+            "url": "/r/iOSBeta/comments/1rcozwb/ios_264_beta_2_discussion/",
+            "external_url": "https://www.reddit.com/r/iOSBeta/comments/1rcozwb/ios_264_beta_2_discussion/",
+            "title": "iOS 26.4 Beta 2 - Discussion",
+            "content_html": "<p>Use this thread to share any changes &amp; bugs you discover while using the latest iOS/iPadOS 26 beta.</p>\n<p>This thread should be used for discussion of the betas that may not meet our submission guidelines, as well as troubleshooting small issues through the beta test cycle.</p>\n<p>Further discussion can be found on the <a href=\"https://discord.gg/5DBxfzmds3\">iOS Beta Discord</a></p>\n<p><strong>New MOD action to counter spam.</strong></p>\n<p>Spamming this discussion with comments about battery life, safari being snappier, etc will result in a ban from the sub moving forward.</p>",
+            "date_published": "2026-02-23T18:10:47+00:00",
+            "authors": [
+                {
+                    "name": "epmuscle",
+                    "url": "https://www.reddit.com/user/epmuscle"
+                }
+            ]
+        },
+        {
             "id": "1r6p5nq",
             "url": "/r/iOSBeta/comments/1r6p5nq/ios_264_db2_add_to_multiple_playlists_at_once_on/",
             "external_url": "https://i.redd.it/bsonfnvquxjg1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "B00Bryn",
                     "url": "https://www.reddit.com/user/B00Bryn"
-                }
-            ]
-        },
-        {
-            "id": "1gkaqaa",
-            "url": "/r/iOSBeta/comments/1gkaqaa/ios_182_db2_image_playground_forces_you_to_smile/",
-            "external_url": "https://i.redd.it/9bvu94px04zd1.jpeg",
-            "title": "[iOS 18.2 DB2] Image Playground forces you to smile",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1gkaqaa/ios_182_db2_image_playground_forces_you_to_smile/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1gkaqaa/ios_182_db2_image_playground_forces_you_to_smile/'>Reddit</a></caption><div><br></div><p>The prompt for this was \"me looking angry.\" In every outcome, I have a weird forced smile. This is for any emotion I choose. I tried \"me crying\" and \"me and it was just goofy grins in every result.</p><div><br></div><img src=\"https://i.redd.it/9bvu94px04zd1.jpeg\" />",
-            "date_published": "2024-11-05T16:29:45+00:00",
-            "authors": [
-                {
-                    "name": "maxintosh1",
-                    "url": "https://www.reddit.com/user/maxintosh1"
                 }
             ]
         }
