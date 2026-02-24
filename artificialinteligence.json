@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1rds2sj",
+            "url": "/r/ArtificialInteligence/comments/1rds2sj/sales_guy_convinced_ceo_to_implement_openclaw_on/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1rds2sj/sales_guy_convinced_ceo_to_implement_openclaw_on/",
+            "title": "Sales guy convinced CEO to implement OpenClaw on a local Mac mini.",
+            "content_html": "<p>So a sales guy has recently convinced our CEO that openclaw is a revolution. He\u2019s convinced him that it can run our entire back office, automating sales emails, information analysis, and internal document tracking, etc.</p>\n<p>He wants to setup a $5k Mac Pro and run this openclaw on our internal network. He keeps saying he\u2019ll have stop gaps to prevent it from exposing our data, but he knows nothing about databases or networking.</p>\n<p>I have cautioned about the fact we can\u2019t really contain it and how no matter how many guardrails you place, it will still be a risk.</p>\n<p>The sales guy has refuted me by asking claude to find a solution.</p>\n<p>What definitive evidence can I put in front of the CEO to show this is a bad idea?</p>",
+            "date_published": "2026-02-24T20:43:05+00:00",
+            "authors": [
+                {
+                    "name": "JungleDiamonds1",
+                    "url": "https://www.reddit.com/user/JungleDiamonds1"
+                }
+            ]
+        },
+        {
             "id": "1r89i3r",
             "url": "/r/ArtificialInteligence/comments/1r89i3r/anyone_else_seeing_their_coworkers_getting_dumber/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1r89i3r/anyone_else_seeing_their_coworkers_getting_dumber/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "esporx",
                     "url": "https://www.reddit.com/user/esporx"
-                }
-            ]
-        },
-        {
-            "id": "1jnjtbw",
-            "url": "/r/ArtificialInteligence/comments/1jnjtbw/apple_reportedly_wants_to_replicate_your_doctor/",
-            "external_url": "https://9to5mac.com/2025/03/30/apple-health-doctor-project-mulberry/",
-            "title": "Apple reportedly wants to \u2018replicate\u2019 your doctor next year with new Project Mulberry",
-            "content_html": "<p>Apple\u2019s Project Mulberry aims to revamp the Health app with an AI health coach, offering personalized guidance. Set to debut in iOS 19.4, it will analyze user data to provide tailored health recommendations. The app will feature educational videos from various health experts and may integrate with the iPhone\u2019s camera to assess workouts, potentially enhancing Apple Fitness+.  \ufffc</p>\n<p>https://9to5mac.com/2025/03/30/apple-health-doctor-project-mulberry/</p>",
-            "date_published": "2025-03-30T19:03:48+00:00",
-            "authors": [
-                {
-                    "name": "WauiMowie",
-                    "url": "https://www.reddit.com/user/WauiMowie"
                 }
             ]
         }
