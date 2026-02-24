@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1rcvroe",
+            "url": "/r/iOSBeta/comments/1rcvroe/ios_26_db2_system_data_bug_finally_fixed/",
+            "external_url": "https://i.redd.it/ry59dxjcjblg1.jpeg",
+            "title": "[iOS 26 DB2] System Data bug finally fixed!",
+            "content_html": "<p>The infamous system data bug is reportedly finally patched! Crazy how it went this long without being addressed. </p><div><br></div><img src=\"https://i.redd.it/ry59dxjcjblg1.jpeg\" />",
+            "date_published": "2026-02-23T22:14:04+00:00",
+            "authors": [
+                {
+                    "name": "TheBB99",
+                    "url": "https://www.reddit.com/user/TheBB99"
+                }
+            ]
+        },
+        {
             "id": "1rculo9",
             "url": "/r/iOSBeta/comments/1rculo9/ios_264_db2_apple_music_now_has_a_shortcut_to/",
             "external_url": "https://i.redd.it/nszqwezlbblg1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "the_k_nine_2",
                     "url": "https://www.reddit.com/user/the_k_nine_2"
-                }
-            ]
-        },
-        {
-            "id": "1gp1dzx",
-            "url": "/r/iOSBeta/comments/1gp1dzx/ios_182_db3_require_screen_on_option_for_camera/",
-            "external_url": "https://i.redd.it/wpefvaovub0e1.jpeg",
-            "title": "[iOS 18.2 DB3] \u201cRequire Screen On\u201d option for Camera Control",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/iOSBeta/comments/1gp1dzx/ios_182_db3_require_screen_on_option_for_camera/'>Winston</a> | <a href='https://reddit.com/r/iOSBeta/comments/1gp1dzx/ios_182_db3_require_screen_on_option_for_camera/'>Reddit</a></caption><div><br></div><p>Opt</p><div><br></div><img src=\"https://i.redd.it/wpefvaovub0e1.jpeg\" />",
-            "date_published": "2024-11-11T19:54:11+00:00",
-            "authors": [
-                {
-                    "name": "freaktheclown",
-                    "url": "https://www.reddit.com/user/freaktheclown"
                 }
             ]
         }
