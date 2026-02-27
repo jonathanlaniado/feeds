@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1rfroov",
+            "url": "/r/selfhosted/comments/1rfroov/update_large_us_company_came_after_me_for/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1rfroov/update_large_us_company_came_after_me_for/",
+            "title": "Update : Large US company came after me for releasing a free open source self-hostable alternative - Resolved in our favor",
+            "content_html": "<p>This is a follow up to my <a href=\"https://www.reddit.com/r/selfhosted/comments/1rbkx5e/large_us_company_came_after_me_for_releasing_a/\">previous post</a> regarding the C&amp;D notice I received. I have some incredible news for the community: the matter is officially resolved in favor of the entire drone community.</p>\n<p><strong>TLDR:</strong> <strong>AirData UAV</strong> has complied with community concerns, implemented a robust data takeout solution, and we have settled the matter gracefully.</p>\n<p><strong>The free OSS project in question :</strong> <a href=\"https://www.opendronelog.com\"><strong>www.opendronelog.com</strong></a></p>\n<p>---------------</p>\n<p>Since the legal threat is no longer active, I can finally name the company. It was <strong>AirData UAV</strong>, a US based drone log analysis and reporting service. Eran said it's my choice to name them or not name them here in this update post, I choose to name, because I don't have anything bad to say anymore.</p>\n<p>Despite the first approach was a C&amp;D, the final outcome was actually better than I hoped for (surprised actually!). A massive thank you goes to u/Archiver_test4, who acted as my legal representative pro bono (for free!! and denied donations). He prepared a powerful response and helped me pass this with confidence. He has even started a new subreddit, <a href=\"https://www.reddit.com/r/Opensource_legalAid/\">r/Opensource_legalAid</a>, to help other indie devs in similar situations.</p>\n<h1>The Meeting with the Airdata UAV CEO Eran Steiner</h1>\n<p>In response to the traction the <a href=\"https://www.google.com/search?q=https://www.reddit.com/r/selfhosted/comments/1rbkx5e/large_us_community_came_after_me_for_releasing_a/\">original post</a> gained, AirData CEO <strong>Eran Steiner</strong> reached out for a face to face meeting via email within 6 hours of the post going live. He expressed regret over the legal route they initially took (he took the responsibility for that as well as CEO) and personally saw to it that the following changes were made before we even spoke:</p>\n<ul>\n<li><strong>Official Data Takeout Solution:</strong> This was the <strong>main goal</strong> (and my demand for data portability and fairness, because it's painful to export files one by one, clicking one after another and waiting). <strong>AirData UAV</strong> now provides a <strong>central takeout solution</strong>, making them fully GDPR compliant. You can now download your data in its original format without needing my 3rd party automation \"patch.\". If you are interested, <a href=\"https://github.com/arpanghosh8453/open-dronelog#airdata-exports\">please check out here</a>.</li>\n<li><strong>Trademark Resolution:</strong> We agreed that fair representation and disclaimers are the way to go. I have already added these to my project, and I am free to use their name when representing truthful facts, as permitted by EU laws. I won't go into more technical/legal aspects than this of what trademark rights they actually hold or not.</li>\n<li><strong>Account Restoration:</strong> As a gesture of goodwill, they have <strong>fully restored my account</strong> and all my log files before I asked. \u2764\ufe0f</li>\n<li>We agreed to drop all allegations and, in the future, talk through any issues personally rather than involving lawyers.</li>\n</ul>\n<p>I am just a solo dev working in my free time, and I have no intention of competing with an established company. I am just thrilled that the community now has true data portability as I hoped for, and they are free to choose as they please based on what features/interface they like. Thank you Eran for making this happen so quick without any drama/delay or missed promise. AirData no longer \"holds your data\" to keep you on their platform. To be fair, they do have a functional and data rich toolset that many in the community still enjoy (including myself!) - They also have a very robust data sync solution which works very well. I am not paid or bribed or sponsored by them, I am just giving credit where it's due.</p>\n<p>Thank you r/selfhosted for all for the support. It made all the difference! Open Source for the WIN!</p>",
+            "date_published": "2026-02-27T00:31:48+00:00",
+            "authors": [
+                {
+                    "name": "funyflyer",
+                    "url": "https://www.reddit.com/user/funyflyer"
+                }
+            ]
+        },
+        {
             "id": "1rawdyg",
             "url": "/r/selfhosted/comments/1rawdyg/this_how_i_feel_but_only_thing_i_do_is_copying/",
             "external_url": "https://i.redd.it/watepg8gqvkg1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "alex2003super",
                     "url": "https://www.reddit.com/user/alex2003super"
-                }
-            ]
-        },
-        {
-            "id": "1jeyz7w",
-            "url": "/r/selfhosted/comments/1jeyz7w/important_2025_plex_updates_remote_streaming/",
-            "external_url": "https://www.plex.tv/blog/important-2025-plex-updates/",
-            "title": "Important 2025 Plex Updates (Remote Streaming becoming a Plex Pass feature)",
-            "content_html": "",
-            "date_published": "2025-03-19T15:00:03+00:00",
-            "authors": [
-                {
-                    "name": "Jacksaur",
-                    "url": "https://www.reddit.com/user/Jacksaur"
                 }
             ]
         }
