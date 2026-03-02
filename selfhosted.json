@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1rirc31",
+            "url": "/r/selfhosted/comments/1rirc31/this_will_be_interesting_to_selfhost/",
+            "external_url": "https://i.redd.it/u0bleflojmmg1.png",
+            "title": "This will be interesting to self-host.",
+            "content_html": "<p>When I bought my first GoPro (hero 8) I also bought a 256 GB micro SD card and GoPro's cloud storage subscription for $5/month. I rode my bicycle around town and to work every day, I went to family outings at the lake, had conversations with friends who I just don't talk to anymore (one is dead), and certain experiences that I just don't have anymore, I just press record and either mount my GoPro somewhere or strap it to my head and forget about it. Eventually I got the media mod that exposed the charging port, bought a 30,000 mAh battery and had a long USBC cable run from my battery in my backpack to my camera on my head/helmet, so I was able to record for literally hours. </p>\n<p>All that changed when I found out that GoPro uses AWS for its cloud storage. Now I'm figuring out how to get this kind of storage as fast as possible, and I need to do this preferably before GoPro collapses as a company.</p><div><br></div><img src=\"https://i.redd.it/u0bleflojmmg1.png\" />",
+            "date_published": "2026-03-02T12:19:38+00:00",
+            "authors": [
+                {
+                    "name": "blakealanm",
+                    "url": "https://www.reddit.com/user/blakealanm"
+                }
+            ]
+        },
+        {
             "id": "1rfroov",
             "url": "/r/selfhosted/comments/1rfroov/update_large_us_company_came_after_me_for/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1rfroov/update_large_us_company_came_after_me_for/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ObjectiveTeary",
                     "url": "https://www.reddit.com/user/ObjectiveTeary"
-                }
-            ]
-        },
-        {
-            "id": "1jj2h5z",
-            "url": "/r/selfhosted/comments/1jj2h5z/wake_up_babe_brand_new_vuln_dropped/",
-            "external_url": "https://i.imgur.com/4hI4svs.jpeg",
-            "title": "Wake up babe, brand new vuln dropped",
-            "content_html": "<div><br></div><img src=\"https://i.imgur.com/4hI4svs.jpeg\" />",
-            "date_published": "2025-03-24T21:27:16+00:00",
-            "authors": [
-                {
-                    "name": "alex2003super",
-                    "url": "https://www.reddit.com/user/alex2003super"
                 }
             ]
         }
