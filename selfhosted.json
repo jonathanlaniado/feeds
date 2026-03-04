@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1rkqf09",
+            "url": "/r/selfhosted/comments/1rkqf09/why_the_hell_do_you_all_just_give_away_this/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1rkqf09/why_the_hell_do_you_all_just_give_away_this/",
+            "title": "why the hell do you all just give away this awesome shit for free?",
+            "content_html": "<p>first off, thank you. legitimately. i work i finance. i have zero technical expertise in this area, but y'all have made this so fucking simple that even a dumbass like me can selfhost a server with a bunch of rad life-improving tools. and this community has been really great, both to follow, and for help/support.</p>\n<p>but why the hell do you all just give these things away for free? i ask this as a genuine question. i don't really understand how this works. </p>\n<p>-is it career development? does writing/maintaining/contributing to open source projects help pad resumes?</p>\n<p>-i know a lot of projects have a small group of dedicated maintainers, but there are a lot of projects where thousands of people have made contributions. is contributing actually easy for someone with your skill set? i understand building something from the ground up is a significant investment. and i understand that everyone has competencies and proficiencies in their respective fields. but all of this is greek to me. how difficult is it for those of you who are technically skilled in this area to make bug fixes or other contributions?</p>\n<p>-separately, what motivates you to do that for free? or are there a lot of people who are employed by companies that rely on open source projects that pay their devs and engineers to maintain upstream products as well?</p>\n<p>-how much of this is companies getting people to try their product at home and then advocate for it in the office when they see its benefits?</p>\n<p>i live near the trailhead of an awesome group of hiking/mtb trails. i will go out occasionally with a group once or twice a year to do some trail maintenance. is it anything like that? </p>\n<p>all of this to say, i have no idea why you all do this, but i am sincerely grateful. i've tried to buy a coffee for almost every major project i use, but that feels like small gratitude for what i've got in return. this is such a fun hobby, one i never would've guessed would even be possible for someone with my background and limited capability, but its captured me like nothing else really. so thank you to everyone!</p>",
+            "date_published": "2026-03-04T16:44:05+00:00",
+            "authors": [
+                {
+                    "name": "scootsy",
+                    "url": "https://www.reddit.com/user/scootsy"
+                }
+            ]
+        },
+        {
             "id": "1rirc31",
             "url": "/r/selfhosted/comments/1rirc31/this_will_be_interesting_to_selfhost/",
             "external_url": "https://i.redd.it/u0bleflojmmg1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MostEquivalent7124",
                     "url": "https://www.reddit.com/user/MostEquivalent7124"
-                }
-            ]
-        },
-        {
-            "id": "1jml16o",
-            "url": "/r/selfhosted/comments/1jml16o/omnitools_release_your_selfhosted_swiss_army/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1jml16o/omnitools_release_your_selfhosted_swiss_army/",
-            "title": "OmniTools Release \u2013 Your Self-Hosted Swiss Army Knife Just Got Even better!",
-            "content_html": "<p>Hey everyone! <strong>OmniTools</strong> just got a major upgrade with 25+ new tools for PNGs, PDFs, text, JSON, videos, and more!</p>\n<p>I hope you enjoy version 0.2.0 as much as I appreciate all the amazing support for this project!\u00a0</p>\n<p>Project link: <a href=\"https://github.com/iib0011/omni-tools\">https://github.com/iib0011/omni-tools</a></p>\n<h1>What\u2019s New?</h1>\n<p><strong>PNG Magic</strong>: Remove backgrounds with AI, crop, or tweak opacity!<br />\n<strong>PDF Superpowers</strong>: Split &amp; rotate PDFs<br />\n<strong>Text</strong>: Reverse, truncate, randomize case, and even create palindromes!<br />\n<strong>Video Editing</strong>: Trim videos fast with zero nonsense.<br />\n<strong>JSON &amp; CSV</strong>: Convert, minify, validate<br />\n<strong>Time Tools</strong>: Convert, calculate, and manipulate dates effortlessly.<br />\n<strong>Number Tricks</strong>: Generate arithmetic sequences in seconds.</p>\n<p>Let me know what tool you want next!\u00a0</p>",
-            "date_published": "2025-03-29T12:18:49+00:00",
-            "authors": [
-                {
-                    "name": "ObjectiveTeary",
-                    "url": "https://www.reddit.com/user/ObjectiveTeary"
                 }
             ]
         }
