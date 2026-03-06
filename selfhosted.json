@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1rmf78r",
+            "url": "/r/selfhosted/comments/1rmf78r/this_has_to_be_the_craziest_changelog_ive_ever/",
+            "external_url": "https://i.redd.it/cbp8tm4dofng1.png",
+            "title": "This has to be the craziest changelog I've ever seen",
+            "content_html": "<p><a href=\"https://github.com/Sportarr/Sportarr/releases/tag/v4.0.985.1060\">https://github.com/Sportarr/Sportarr/releases/tag/v4.0.985.1060</a></p><div><br></div><img src=\"https://i.redd.it/cbp8tm4dofng1.png\" />",
+            "date_published": "2026-03-06T14:18:20+00:00",
+            "authors": [
+                {
+                    "name": "pairofcrocs",
+                    "url": "https://www.reddit.com/user/pairofcrocs"
+                }
+            ]
+        },
+        {
             "id": "1rkqf09",
             "url": "/r/selfhosted/comments/1rkqf09/why_the_hell_do_you_all_just_give_away_this/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1rkqf09/why_the_hell_do_you_all_just_give_away_this/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "willis7747",
                     "url": "https://www.reddit.com/user/willis7747"
-                }
-            ]
-        },
-        {
-            "id": "1jq5r4t",
-            "url": "/r/selfhosted/comments/1jq5r4t/accidentally_got_sent_5_terabytes_of_ssd_drives/",
-            "external_url": "https://i.redd.it/8lotz925wise1.jpeg",
-            "title": "Accidentally got sent 5 terabytes of ssd drives.",
-            "content_html": "<p>I only ordered one but the vendor accidentally sent me a whole box of these cheap Chinese drives. I\u2019m just starting down the self hosting rabbit hole which was the original reason I ordered one, but I love all sort of pi/computer/electronic projects. I\u2019m kinda at a loss of what to do with all these. Is building some sorta nas feasible? I\u2019d just love any suggestions on what you would do with all these drives! </p><div><br></div><img src=\"https://i.redd.it/8lotz925wise1.jpeg\" />",
-            "date_published": "2025-04-03T01:29:29+00:00",
-            "authors": [
-                {
-                    "name": "MostEquivalent7124",
-                    "url": "https://www.reddit.com/user/MostEquivalent7124"
                 }
             ]
         }
