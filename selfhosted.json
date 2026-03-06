@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1rmiwgb",
+            "url": "/r/selfhosted/comments/1rmiwgb/apparently_we_cant_call_out_apps_as_ai_slop/",
+            "external_url": "https://i.redd.it/v73lg5ywcgng1.jpeg",
+            "title": "Apparently we can't call out apps as AI slop anymore...",
+            "content_html": "<p>Seems like a bad direction to take the selfhosted community. Looks like the mod team is fine with this sub being bombarded with insecure, AI drivel. Like I get that it was posted on Friday but I think if you use AI to \"build an app\" you should be required to disclose to what extent AI was used which wasn't disclosed by the OP. I think as a community we need to have higher standards for what we allow to be posted as vibe-coded projects can introduce very extensive security vulnerabilities we all learned with Huntarr and when things are vibe-coded the maintainer doesn't have the capability to fix the issue.</p><div><br></div><img src=\"https://i.redd.it/v73lg5ywcgng1.jpeg\" />",
+            "date_published": "2026-03-06T16:38:27+00:00",
+            "authors": [
+                {
+                    "name": "Key_Pace_2496",
+                    "url": "https://www.reddit.com/user/Key_Pace_2496"
+                }
+            ]
+        },
+        {
             "id": "1rmf78r",
             "url": "/r/selfhosted/comments/1rmf78r/this_has_to_be_the_craziest_changelog_ive_ever/",
             "external_url": "https://i.redd.it/cbp8tm4dofng1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MohamedBassem",
                     "url": "https://www.reddit.com/user/MohamedBassem"
-                }
-            ]
-        },
-        {
-            "id": "1js3a1k",
-            "url": "/r/selfhosted/comments/1js3a1k/i_made_an_allinone_media_downloader_website/",
-            "external_url": "https://downr.org",
-            "title": "I made an all-in-one media downloader website without ads",
-            "content_html": "<p><strong>Currently supported platforms:</strong><br />\nTiktok, Douyin, Capcut, Threads, Instagram, Facebook, Espn, Pinterest, imdb, imgur, ifunny, Izlesene, Reddit, Youtube, Twitter, Vimeo, Snapchat, Bilibili, Dailymotion, Sharechat, Likee, Linkedin, Tumblr, Hipi, Telegram, Getstickerpack, Bitchute, Febspot, 9GAG, ok.ru, Rumble, Streamable, Ted, SohuTv, Xvideos, Xnxx, Xiaohongshu, Ixigua, Weibo, Miaopai, Meipai, Xiaoying, National Video, Yingke, Sina, Vk-vkvideo, Soundcloud, Mixcloud, Spotify, Zingmp3, Bandcamp and more.</p>\n<p>There are lot of things yet to cover, such as: better UI, fixing the identified bugs, direct download option (you need to perform \"Download as\" option, as direct download isn't available right now. It require dedicated download server, app server isnt enough) . </p>\n<p>Also, working on some restrictions from some of the above platforms. </p>",
-            "date_published": "2025-04-05T13:19:16+00:00",
-            "authors": [
-                {
-                    "name": "willis7747",
-                    "url": "https://www.reddit.com/user/willis7747"
                 }
             ]
         }
