@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1rnkf47",
+            "url": "/r/selfhosted/comments/1rnkf47/just_saw_the_rules_update_i_removed_this/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1rnkf47/just_saw_the_rules_update_i_removed_this/",
+            "title": "Just saw the rules update: I removed this sub-reddit from my RSS reader",
+            "content_html": "<p>If the moderation team doesn't care, the users won't care, and if the users don't care, everyone is just going to accept that selfhosted apps just means slop.</p>\n<p>Good for people who do content creation around this stuff, but bad for people on social or on AI platforms (and search engines) that rely on the free curation performed by the people on social media.</p>\n<p>Hope the people that stick around enjoy the wild west this place is about to become!</p>",
+            "date_published": "2026-03-07T20:27:33+00:00",
+            "authors": [
+                {
+                    "name": "yoasif",
+                    "url": "https://www.reddit.com/user/yoasif"
+                }
+            ]
+        },
+        {
             "id": "1rngfd2",
             "url": "/r/selfhosted/comments/1rngfd2/tapmap_see_where_your_computer_connects_on_a/",
             "external_url": "https://i.redd.it/uh2fxxvlvnng1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MicahDowling",
                     "url": "https://www.reddit.com/user/MicahDowling"
-                }
-            ]
-        },
-        {
-            "id": "1jsw3so",
-            "url": "/r/selfhosted/comments/1jsw3so/just_came_across_this_nice_selfhosted_push/",
-            "external_url": "https://i.redd.it/7ycv8vk1b8te1.png",
-            "title": "Just came across this nice self-hosted push notification service",
-            "content_html": "<p>I was running some task on my server and I wanted to be notified in case something happens but I was too lazy to implement a solution myself \ud83d\ude05, That's when i came across this its simple and I can just send notification via rest API. Thought I should let you guys know, In case you find it helpful :)</p>\n<p>and here is the link <a href=\"https://ntfy.sh/\">https://ntfy.sh/</a></p>\n<p>oh and if you don't want to self host, you can start using it directly you don't even have to login,</p>\n<p>just visit <a href=\"https://ntfy.sh/somename-selfhosted\">https://ntfy.sh/somename-selfhosted</a></p>\n<p>and just curl here curl -d \"Nice notification!\" <a href=\"https://ntfy.sh/somename-selfhosted\">https://ntfy.sh/somename-selfhosted</a></p><div><br></div><img src=\"https://i.redd.it/7ycv8vk1b8te1.png\" />",
-            "date_published": "2025-04-06T15:01:55+00:00",
-            "authors": [
-                {
-                    "name": "26th_Official",
-                    "url": "https://www.reddit.com/user/26th_Official"
                 }
             ]
         }
