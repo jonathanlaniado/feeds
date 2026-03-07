@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1rngfd2",
+            "url": "/r/selfhosted/comments/1rngfd2/tapmap_see_where_your_computer_connects_on_a/",
+            "external_url": "https://i.redd.it/uh2fxxvlvnng1.png",
+            "title": "TapMap: see where your computer connects on a world map (open source)",
+            "content_html": "<p>I built a small open source tool that shows where your computer connects on a world map.</p>\n<p>It reads local socket connections, resolves IP addresses using MaxMind GeoLite2, and visualizes them with Plotly.</p>\n<p>Runs locally. No telemetry.</p>\n<p>Windows build available.</p>\n<p>GitHub:</p>\n<p><a href=\"https://github.com/olalie/tapmap\">https://github.com/olalie/tapmap</a></p><div><br></div><img src=\"https://i.redd.it/uh2fxxvlvnng1.png\" />",
+            "date_published": "2026-03-07T17:53:10+00:00",
+            "authors": [
+                {
+                    "name": "Old-Marketing6949",
+                    "url": "https://www.reddit.com/user/Old-Marketing6949"
+                }
+            ]
+        },
+        {
             "id": "1rmiwgb",
             "url": "/r/selfhosted/comments/1rmiwgb/apparently_we_cant_call_out_apps_as_ai_slop/",
             "external_url": "https://i.redd.it/v73lg5ywcgng1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "26th_Official",
                     "url": "https://www.reddit.com/user/26th_Official"
-                }
-            ]
-        },
-        {
-            "id": "1js667o",
-            "url": "/r/selfhosted/comments/1js667o/hoarder_is_rebranding_to_karakeep/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1js667o/hoarder_is_rebranding_to_karakeep/",
-            "title": "Hoarder is rebranding to Karakeep",
-            "content_html": "<p>As you might know from <a href=\"https://www.reddit.com/r/selfhosted/comments/1i29pi1/hoarder_the_name_is_being_stolen_from_me/\">my previous post</a>, Hoarder (<a href=\"https://github.com/hoarder-app/hoarder\">github link</a>) has been caught up in an ongoing trademark dispute. Since the legal process is still unresolved, I\u2019ll have to save the full story for another time. For now, I\u2019ve decided that the best path forward is to rebrand.</p>\n<p>Starting today, Hoarder is rebranding to Karakeep! </p>\n<p>The name Karakeep is inspired by the Arabic word \"\u0643\u0631\u0627\u0643\u064a\u0628\" (karakeeb), a colloquial term commonly used to refer to miscellaneous clutter, odds and ends, or items that may seem disorganized but often hold personal value or hidden usefulness. It evokes the image of a messy drawer or forgotten box, full of stuff you can't quite throw away\u2014because somehow, it matters (or more likely, because you're a hoarder!).</p>\n<p>Over the next couple of weeks, things will start getting renamed to Karakeep (the repo, apps, extensions, etc). <a href=\"https://hoarder.app\">hoarder.app</a> will soon also begin redirecting to our new domain: <a href=\"https://karakeep.app\">karakeep.app</a>.</p>\n<p>I took pride in coming up with \"hoarder\" as the name for the project. I've spent months searching for a different name, but nothing felt as good as hoarder was. But it's time to move on. I'm incredibly grateful for the support this community has shown throughout the whole thing. Hopefully, I can now focus my time and energy on what matters: building Karakeep.</p>\n<p>It goes without saying, but please refrain from contacting the other party in any way, shape, or form.</p>",
-            "date_published": "2025-04-05T15:36:53+00:00",
-            "authors": [
-                {
-                    "name": "MohamedBassem",
-                    "url": "https://www.reddit.com/user/MohamedBassem"
                 }
             ]
         }
