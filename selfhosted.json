@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1ro9oos",
+            "url": "/r/selfhosted/comments/1ro9oos/fully_remove_every_i_created_a_selfhosted_app/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1ro9oos/fully_remove_every_i_created_a_selfhosted_app/",
+            "title": "Fully remove every, \"I created a\", \"Selfhosted app!\" claude slop.",
+            "content_html": "<p><strong>im hating the idea, not the person ;), also look down for a temp solution</strong></p>\n<p>Title speaks for itself, almost every single post in the last few weeks is just someone promoting their vibecoded bs app that is either something simple like file transferring (there is already some well trusted ones that are faster better etc.), or something really complicated that ai cant do without security flaws... (Huntarr).</p>\n<p>idc how this post looks, how it sounds, if vibecoders get offended, i just want the mods to actually remove this and not just try to \"prevent\" it with the rules they changed..</p>\n<p>upvote if u think so 2 so it gets to the top, in my opinion commenting on someones post saying its slop wont do anything, wont help anyone.</p>\n<p><strong>shout out to</strong> u/masterio <strong>for this:</strong></p>\n<p>It's a shame the Vibe Code and Built with AI labels were removed as it made it incredibly easy to filter out these posts with ublock.</p>\n<pre><code>! Enough Vibe Coded bullshit\nsh.reddit.com,www.reddit.com##shreddit-post:has-text(/.*Vibe Coded \\(Fridays!\\).*/)\nsh.reddit.com,www.reddit.com##shreddit-post:has-text(/.*Built With AI \\(Fridays!\\).*/)\n</code></pre>\n<p>Another good way of filtering out the AI generated posts is filtering out on the characters that hardly anyone actually uses in casual online postings.</p>\n<pre><code>! AI Slop (No you don't really \"use\" EM dashes in informal discussion online) \n! See:\n! https://www.pieceofk.fr/the-rise-of-the-em-dash-in-ecology-abstracts/\n! https://www.reddit.com/r/dataisbeautiful/comments/1kfg9b8/oc_em_dash_usage_is_surging_in_tech_startup/\nsh.reddit.com,www.reddit.com##shreddit-post:has-text(/\u2014/i)\nsh.reddit.com,www.reddit.com##shreddit-comment:has-text(/\u2014/i)\n</code></pre>",
+            "date_published": "2026-03-08T16:48:29+00:00",
+            "authors": [
+                {
+                    "name": "Longjumping-Cup-6641",
+                    "url": "https://www.reddit.com/user/Longjumping-Cup-6641"
+                }
+            ]
+        },
+        {
             "id": "1rnkf47",
             "url": "/r/selfhosted/comments/1rnkf47/just_saw_the_rules_update_i_removed_this/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1rnkf47/just_saw_the_rules_update_i_removed_this/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Do_no_himsa",
                     "url": "https://www.reddit.com/user/Do_no_himsa"
-                }
-            ]
-        },
-        {
-            "id": "1jtmtfe",
-            "url": "/r/selfhosted/comments/1jtmtfe/chartdb_opensource_database_diagrams_selfhosted/",
-            "external_url": "https://i.redd.it/8hjgx63fcfte1.png",
-            "title": "\ud83c\udf08 ChartDB \u2013 Open-Source Database Diagrams | Self-Hosted Alternative to dbdiagram.io & DrawSQL",
-            "content_html": "<p>Hi everyone! \ud83d\udc4b</p>\n<p>We\u2019re excited to share the latest updates to <strong>ChartDB</strong>, our <strong>self-hosted</strong>, <strong>open-source</strong> tool for visualizing and designing database diagrams - built as a free and flexible alternative to tools like dbdiagram[.]io, DrawSQL, and DBeaver's diagram feature.</p>\n<h1>Why ChartDB?</h1>\n<p>\u2705 <strong>Self-hosted</strong> \u2013 Full control, deployable anywhere via Docker<br />\n\u2705 <strong>Open-source</strong> \u2013 Actively developed and maintained by the community<br />\n\u2705 <strong>No AI/API required</strong> \u2013 Deterministic SQL export with no external dependencies<br />\n\u2705 <strong>Modern &amp; Fast</strong> \u2013 Built with React + Monaco Editor, optimized for performance<br />\n\u2705 <strong>Multi-DB support</strong> \u2013 PostgreSQL, MySQL, MSSQL, SQLite, ClickHouse, and now Cloudflare D1</p>\n<h1>Latest Updates (v1.8.0 \u2192 v1.10.0)</h1>\n<p>\ud83c\udd95 <strong>Cloudflare D1 Support</strong> - Import schemas via Wrangler CLI<br />\n\ud83c\udd95 <strong>Deterministic DDL Export</strong> - Replaced AI-based export with native SQL generation<br />\n\ud83c\udd95 <strong>Sidebar for Diagram Objects</strong> - Quickly navigate tables, fields, indexes, and FKs<br />\n\ud83c\udd95 <strong>Better Canvas UX</strong> - Right-click to create FKs, table drag-and-drop, better visibility controls<br />\n\ud83c\udd95 <strong>Internationalization</strong> - Added full French &amp; Ukrainian support</p>\n<h1>What\u2019s Next</h1>\n<ul>\n<li>Git integration for diagram versioning</li>\n<li>SQL import support (via DDL script)</li>\n<li>AI-powered table relationship (FKs) detection</li>\n<li>More database support and collaboration tools</li>\n</ul>\n<p>\ud83d\udd17 <strong>GitHub:</strong> <a href=\"https://github.com/chartdb/chartdb\">https://github.com/chartdb/chartdb</a><br />\n\ud83d\udd17 <strong>Docs:</strong> <a href=\"https://docs.chartdb.io\">https://docs.chartdb.io</a>  </p>\n<p>We\u2019d love your feedback, contributions, or just to hear how you\u2019re using it. Thanks</p><div><br></div><img src=\"https://i.redd.it/8hjgx63fcfte1.png\" />",
-            "date_published": "2025-04-07T14:38:36+00:00",
-            "authors": [
-                {
-                    "name": "MicahDowling",
-                    "url": "https://www.reddit.com/user/MicahDowling"
                 }
             ]
         }
