@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1rp9pn0",
+            "url": "/r/PleX/comments/1rp9pn0/how_to_geek_thinks_we_dont_need_4k_remuxes_i/",
+            "external_url": "https://www.howtogeek.com/stop-wasting-plex-storage-on-these-amateur-mistakes/",
+            "title": "How to Geek thinks we don't need 4k remuxes. I kindly disagree.",
+            "content_html": "<p>HTG is judging me. I don't appreciate it. </p>",
+            "date_published": "2026-03-09T19:16:43+00:00",
+            "authors": [
+                {
+                    "name": "Me_gentleman",
+                    "url": "https://www.reddit.com/user/Me_gentleman"
+                }
+            ]
+        },
+        {
             "id": "1r892wd",
             "url": "/r/PleX/comments/1r892wd/i_solved_my_4k_apple_tv_stuttering_with_just_a_pc/",
             "external_url": "https://i.redd.it/alh32295eakg1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Full-Plenty661",
                     "url": "https://www.reddit.com/user/Full-Plenty661"
-                }
-            ]
-        },
-        {
-            "id": "1gnd4eq",
-            "url": "/r/PleX/comments/1gnd4eq/minimal_plex_setup_achieved/",
-            "external_url": "https://i.redd.it/8u7wbr8mewzd1.jpeg",
-            "title": "Minimal Plex setup achieved!",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1gnd4eq/minimal_plex_setup_achieved/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1gnd4eq/minimal_plex_setup_achieved/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/8u7wbr8mewzd1.jpeg\" />",
-            "date_published": "2024-11-09T15:56:20+00:00",
-            "authors": [
-                {
-                    "name": "SaraCaterina",
-                    "url": "https://www.reddit.com/user/SaraCaterina"
                 }
             ]
         }
