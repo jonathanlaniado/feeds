@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1rs275q",
+            "url": "/r/selfhosted/comments/1rs275q/psa_think_hard_before_you_deploy_booklore/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1rs275q/psa_think_hard_before_you_deploy_booklore/",
+            "title": "PSA: Think hard before you deploy BookLore",
+            "content_html": "<p>Wanted to flag some stuff about BookLore that I think people need to hear before they commit to it.</p>\n<p><strong>The code quality issue</strong></p>\n<p>There's been speculation for a while that BookLore is mostly AI-generated. The dev denied it. Then v2.0 landed and, well: crashes, data not saving, UI requiring Ctrl+F5 to show changes, the works. These are the kinds of bugs you get when nobody actually understands the codebase they're shipping.</p>\n<p>The dev is merging 20k-line PRs almost daily, each one bolting on some new feature while bugs from the last one go unfixed. And the code itself is a giveaway: it uses Spring JPA and Hibernate but is full of raw SQL everywhere. Anyone who actually built this by hand would keep the data layer generic. Instead, something like adding Postgres support is now a huge lift because of all the hardcoded shortcuts. That's not a style preference, that's what AI-generated code looks like when nobody's steering.</p>\n<p><strong>How contributors get treated</strong></p>\n<p>This part is what really bothers me.</p>\n<p>People submit real PRs. They sit for weeks, sometimes months. Then the dev uses AI to reimplement the same feature and merges his own version instead. Predictably, this pisses people off. At the time of writing this, the main dev has alienated almost all of the contributors that were regularly supporting, triaging issues and doing good work on features and bugfixes.</p>\n<p>When called out, he apologizes. Except the apologies are also AI-generated. And more than once he forgot to strip the prompt, so contributors got messages starting with something like \"Here's how you could apologize\u2014\"</p>\n<p>One example I'm familiar with, because I was following for this feature for a while (over 2 months?): someone spent serious time building KOReader integration. There was an open PR, 500+ messages of community discussion around it. The dev ignored it across multiple releases, then deleted the entire thread and kicked the contributor from the Discord. What shipped in that release instead? \"I overhauled OIDC today!\" Cool.</p>\n<p>Every time criticism picks up in the Discord, the channel gets wiped and new rules appear. This has happened multiple times now.</p>\n<p><strong>The licensing bait-and-switch</strong></p>\n<p>This is the part that should actually scare you if you're thinking about deploying this.</p>\n<p>BookLore is AGPL right now. The dev is planning to switch to BSL (Business Source License), which is explicitly <em>not</em> an open source license. He also plans to strip out code from contributors he's had falling-outs with. Everyone who contributed did so under AGPL terms. Changing that out from under them is a betrayal, full stop.</p>\n<p>The main dev had a full on crashout on another discord, accusing people of betrayal etc because they were....forking his code? I am not going to paste the screenshots of the crashout because it is honestly just unhinged and reflects badly on him, maybe its something he'll regret and walk back on - hopefully.</p>\n<p>It gets worse. There's a paid iOS app coming with a subscription model. What does that mean concretely? You'll be paying a subscription to download your own books offline to your phone. Books you host yourself. On your own hardware.</p>\n<p>The OIDC implementation, which should be a standard security feature, is being locked down specifically to block third-party apps from connecting, so the only mobile option is the paid one. Features the community helped build are being turned into a paywall funnel.</p>\n<p>The dev has said publicly that he considers forking to be \"stealing\" and wants to prevent it. He's also called community contributions \"AI slop.\" From the guy merging AI-written 20k-line PRs daily. Make of that what you will.</p>\n<p><strong>Bottom line</strong></p>\n<ul>\n<li>Contributors get ignored, reimplemented over, and kicked out</li>\n<li>AGPL \u2192 BSL relicense is coming, with contributor code being stripped</li>\n<li>Paid iOS app will charge you a subscription to access your own self-hosted books offline</li>\n<li>OIDC is being locked down to kill third-party app access</li>\n<li>The dev thinks forking is theft and has open contempt for OSS norms</li>\n</ul>\n<p>https://postimg.cc/gallery/R3WJKVC</p>\n<p>This is the huntarr situation all over again. Deploy with caution, or honestly, wait and see if a community fork shows up under a license that actually holds.</p>",
+            "date_published": "2026-03-12T20:28:33+00:00",
+            "authors": [
+                {
+                    "name": "Economy-Meat-9506",
+                    "url": "https://www.reddit.com/user/Economy-Meat-9506"
+                }
+            ]
+        },
+        {
             "id": "1rpsky6",
             "url": "/r/selfhosted/comments/1rpsky6/im_tired_of_this_sub/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1rpsky6/im_tired_of_this_sub/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MrCyclopede",
                     "url": "https://www.reddit.com/user/MrCyclopede"
-                }
-            ]
-        },
-        {
-            "id": "1k0fy89",
-            "url": "/r/selfhosted/comments/1k0fy89/finally_seven_factor_authentication/",
-            "external_url": "https://i.redd.it/9vnq8uzdx5ve1.png",
-            "title": "Finally! Seven Factor Authentication!",
-            "content_html": "<p>Has science gone too far?</p><div><br></div><img src=\"https://i.redd.it/9vnq8uzdx5ve1.png\" />",
-            "date_published": "2025-04-16T09:07:26+00:00",
-            "authors": [
-                {
-                    "name": "0xKaishakunin",
-                    "url": "https://www.reddit.com/user/0xKaishakunin"
                 }
             ]
         }
