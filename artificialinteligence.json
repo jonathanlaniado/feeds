@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1rrzphl",
+            "url": "/r/ArtificialInteligence/comments/1rrzphl/amazon_puts_humans_back_in_the_loop_as_its_retail/",
+            "external_url": "https://fortune.com/2026/03/12/amazon-retail-site-outages-ai-agent-inaccurate-advice/",
+            "title": "Amazon puts humans back in the loop as its retail website crashes from \"inaccurate advice\" that an AI agent took from an old wiki",
+            "content_html": "<p>Amazon repurposed its regular weekly retail technology meeting Tuesday to figure out why its retail website keeps breaking. The answer, buried in internal documents and then quickly deleted, according to the Financial Times: its own AI initiatives.</p>\n<p>Four high-severity incidents hit its retail website in a single week, including a six-hour meltdown last Thursday that locked shoppers out of checkout, account information and product pricing. The meeting, run by the senior vice president who oversees Amazon\u2019s ecommerce infrastructure, was framed as a \u201cdeep dive\u201d into what went wrong. What went wrong, it turns out, involves the very AI tools Amazon has been pushing its own engineers to adopt, according to the FT.</p>\n<p>An internal document prepared for the meeting initially identified \u201cGenAI-assisted changes\u201d as a factor in a pattern of incidents stretching back to Q3. That reference was deleted before the meeting took place, according to the Financial Times, which viewed both versions of the document. </p>\n<p>Read more: <a href=\"https://fortune.com/2026/03/12/amazon-retail-site-outages-ai-agent-inaccurate-advice/\">https://fortune.com/2026/03/12/amazon-retail-site-outages-ai-agent-inaccurate-advice/</a></p>",
+            "date_published": "2026-03-12T18:59:18+00:00",
+            "authors": [
+                {
+                    "name": "fortune",
+                    "url": "https://www.reddit.com/user/fortune"
+                }
+            ]
+        },
+        {
             "id": "1rrervz",
             "url": "/r/ArtificialInteligence/comments/1rrervz/big_tech_backs_anthropic_in_fight_against_trump/",
             "external_url": "https://www.bbc.com/news/articles/c4g7k7zdd0zo",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Future_AGI",
                     "url": "https://www.reddit.com/user/Future_AGI"
-                }
-            ]
-        },
-        {
-            "id": "1k46wvw",
-            "url": "/r/ArtificialInteligence/comments/1k46wvw/ai_is_becoming_the_new_google_and_nobodys_talking/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1k46wvw/ai_is_becoming_the_new_google_and_nobodys_talking/",
-            "title": "AI is becoming the new Google and nobody's talking about the LLM optimization games already happening",
-            "content_html": "<p>So I was checking out some product recommendations from ChatGPT today and realized something weird. my AI recommendations are getting super consistent lately, like suspiciously consistent</p>\n<p>Remember how Google used to actually show you different stuff before SEO got out of hand? now we're heading down the exact same path with AI except nobody's even talking about it</p>\n<p>My buddy who works at for a large corporate told me their marketing team already hired some algomizer LLM optimization service to make sure their products gets mentioned when people ask AI for recommendations in their category. Apparently there's a whole industry forming around this stuff already</p>\n<p>Probably explains why I have been seeing a ton more recommendations for products and services from big brands.. unlike before where the results seemed a bit more random but more organic</p>\n<p>The wild thing is how fast it's all happening. Google SEO took years to change search results. AI is getting optimized before most people even realize it's becoming the new main way to find stuff online</p>\n<p>anyone else noticing this? is there anyway to know which is which? Feels like we should be talking about this more before AI recommendations become just another version of search engine results where visibility can be engineered</p>",
-            "date_published": "2025-04-21T06:31:32+00:00",
-            "authors": [
-                {
-                    "name": "iamaguitarman",
-                    "url": "https://www.reddit.com/user/iamaguitarman"
                 }
             ]
         }
