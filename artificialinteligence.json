@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1rsiwsu",
+            "url": "/r/ArtificialInteligence/comments/1rsiwsu/why_do_al_company_logos_look_like_buttholes/",
+            "external_url": "https://i.redd.it/1mnd4jvv9sog1.jpeg",
+            "title": "Why do Al company logos look like buttholes?",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/1mnd4jvv9sog1.jpeg\" />",
+            "date_published": "2026-03-13T09:43:41+00:00",
+            "authors": [
+                {
+                    "name": "Background-Tear-1046",
+                    "url": "https://www.reddit.com/user/Background-Tear-1046"
+                }
+            ]
+        },
+        {
             "id": "1rrzphl",
             "url": "/r/ArtificialInteligence/comments/1rrzphl/amazon_puts_humans_back_in_the_loop_as_its_retail/",
             "external_url": "https://fortune.com/2026/03/12/amazon-retail-site-outages-ai-agent-inaccurate-advice/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Thamelia",
                     "url": "https://www.reddit.com/user/Thamelia"
-                }
-            ]
-        },
-        {
-            "id": "1k4in34",
-            "url": "/r/ArtificialInteligence/comments/1k4in34/llms_are_cool_but_lets_stop_pretending_theyre/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1k4in34/llms_are_cool_but_lets_stop_pretending_theyre/",
-            "title": "LLMs are cool. But let\u2019s stop pretending they\u2019re smart.",
-            "content_html": "<p>They don\u2019t think.<br />\nThey autocomplete.  </p>\n<p>They can write code, emails, and fake essays, but they don\u2019t understand any of it.<br />\nNo memory. No learning after deployment. No goals.  </p>\n<p>Just really good statistical guesswork.<br />\nWe\u2019re duct-taping agents on top and calling it AGI.  </p>\n<p>It\u2019s useful. Just not intelligent. Let\u2019s be honest.</p>",
-            "date_published": "2025-04-21T17:06:19+00:00",
-            "authors": [
-                {
-                    "name": "Future_AGI",
-                    "url": "https://www.reddit.com/user/Future_AGI"
                 }
             ]
         }
