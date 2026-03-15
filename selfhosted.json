@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1ruc04h",
+            "url": "/r/selfhosted/comments/1ruc04h/termix_v200_rdp_vnc_and_telnet_support_selfhosted/",
+            "external_url": "https://i.redd.it/o4hjn5pdk4pg1.png",
+            "title": "Termix v2.0.0 - RDP, VNC, and Telnet Support (self-hosted Termius alternative that syncs across all devices)",
+            "content_html": "<p>GitHub: <a href=\"https://github.com/Termix-SSH/Termix\">https://github.com/Termix-SSH/Termix</a></p>\n<p>Discord: <a href=\"https://discord.gg/jVQGdvHDrf\">https://discord.gg/jVQGdvHDrf</a></p>\n<p>YouTube Video: <a href=\"https://youtu.be/30QdFsktN0k\">https://youtu.be/30QdFsktN0k</a></p>\n<p>Hello!</p>\n<p>Thanks to the help of my community members, I've spent the last few months working on getting a remote desktop integration into Termix (only available on the desktop/web version for the time being). With that being said, I'm very proud to announce the release of v2.0.0, which brings support for RDP, VNC, and Telnet!</p>\n<p>This update allows you to connect to your computers through those 3 protocols like any other remote desktop application, except it's free/self-hosted and syncs across all your devices. You can customize many of the remote desktop features, which support split screen, and it's quite performant from my testing.</p>\n<p>Check out the <a href=\"https://docs.termix.site/remote-desktop\">docs</a> for more information on the setup. Here's a full list of Termix features:</p>\n<ul>\n<li><strong>SSH Terminal</strong> \u2013 Full SSH terminal with tabs, split-screen (up to 4 panels), themes, and font customization.</li>\n<li><strong>Remote Desktop</strong> \u2013 Browser-based RDP, VNC, and Telnet access with split-screen support.</li>\n<li><strong>SSH Tunnels</strong> \u2013 Create and manage tunnels with auto-reconnect and health monitoring.</li>\n<li><strong>Remote File Manager</strong> \u2013 Upload, download, edit, and manage remote files (with sudo support).</li>\n<li><strong>Docker Management</strong> \u2013 Start, stop, pause, remove containers, view stats, and open <code>docker exec</code> terminals.</li>\n<li><strong>SSH Host Manager</strong> \u2013 Organize SSH connections with folders, tags, saved credentials, and SSH key deployment.</li>\n<li><strong>Server Stats &amp; Dashboard</strong> \u2013 View CPU, memory, disk, network, and system info at a glance.</li>\n<li><strong>RBAC &amp; Auth</strong> \u2013 Role-based access control, OIDC, 2FA (TOTP), and session management.</li>\n<li><strong>Secure Storage</strong> \u2013 Encrypted SQLite database with import/export support.</li>\n<li><strong>Modern UI</strong> \u2013 React + Tailwind interface with dark/light mode and mobile support.</li>\n<li><strong>Cross Platform</strong> \u2013 Web app, desktop (Windows/Linux/macOS), PWA, and mobile (iOS/Android).</li>\n<li><strong>SSH Tools</strong> \u2013 Command snippets, multi-terminal execution, history, and quick connect.</li>\n<li><strong>Advanced SSH</strong> \u2013 Supports jump hosts, SOCKS5, TOTP logins, host verification, and more.</li>\n</ul>\n<p>Thanks for checking it out,<br />\nLuke</p><div><br></div><img src=\"https://i.redd.it/o4hjn5pdk4pg1.png\" />",
+            "date_published": "2026-03-15T11:46:21+00:00",
+            "authors": [
+                {
+                    "name": "VizeKarma",
+                    "url": "https://www.reddit.com/user/VizeKarma"
+                }
+            ]
+        },
+        {
             "id": "1rs5wze",
             "url": "/r/selfhosted/comments/1rs5wze/nothing_to_do/",
             "external_url": "https://i.redd.it/bc8vzm8q0pog1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MrCyclopede",
                     "url": "https://www.reddit.com/user/MrCyclopede"
-                }
-            ]
-        },
-        {
-            "id": "1k33oik",
-            "url": "/r/selfhosted/comments/1k33oik/switched_from_portainer_to_dockge_and_today_to/",
-            "external_url": "https://i.redd.it/g0m215llauve1.png",
-            "title": "Switched from Portainer to Dockge, and today to Komodo and I am very happy!",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/g0m215llauve1.png\" />",
-            "date_published": "2025-04-19T19:03:06+00:00",
-            "authors": [
-                {
-                    "name": "Jordy9922",
-                    "url": "https://www.reddit.com/user/Jordy9922"
                 }
             ]
         }
