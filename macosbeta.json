@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1ry7vs5",
+            "url": "/r/MacOSBeta/comments/1ry7vs5/264/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1ry7vs5/264/",
+            "title": "26.4",
+            "content_html": "<p>macOS 26.4 appears to address most of the major issues people have had. What issues did you have in the past that you think are much better? Personally, I\u2019m glad compact tabs are back. I didn\u2019t have any third party software error this time either. It seems like most of the changes have been improvements. What do you think?</p>",
+            "date_published": "2026-03-19T18:07:59+00:00",
+            "authors": [
+                {
+                    "name": "Jebus-Xmas",
+                    "url": "https://www.reddit.com/user/Jebus-Xmas"
+                }
+            ]
+        },
+        {
             "id": "1rp79ug",
             "url": "/r/MacOSBeta/comments/1rp79ug/fourth_macos_tahoe_264_beta_now_available_for/",
             "external_url": "https://www.macrumors.com/2026/03/09/apple-seeds-macos-tahoe-26-4-beta-4/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "DutyIcy2056",
                     "url": "https://www.reddit.com/user/DutyIcy2056"
-                }
-            ]
-        },
-        {
-            "id": "1mgke7j",
-            "url": "/r/MacOSBeta/comments/1mgke7j/i_didnt_like_the_new_trashcan_in_tahoe_so_i_made/",
-            "external_url": "https://www.reddit.com/gallery/1mgke7j",
-            "title": "I didn't like the new trashcan in Tahoe so I made my own mock up design in blender",
-            "content_html": "",
-            "date_published": "2025-08-03T14:17:35+00:00",
-            "authors": [
-                {
-                    "name": "nickisdoge",
-                    "url": "https://www.reddit.com/user/nickisdoge"
                 }
             ]
         }
