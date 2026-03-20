@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1ryoxiq",
+            "url": "/r/shortcuts/comments/1ryoxiq/actions_v40_over_20_new_actions/",
+            "external_url": "https://apps.apple.com/ca/app/actions/id1586435171",
+            "title": "Actions v4.0 over 20+ new actions",
+            "content_html": "<p>Saw that the third party app **Actions** had a big update with around 26 new actions to build even more powerful and useful shortcuts,</p>\n<p>**They also changed  the minimum iOS required is iOS 26**</p>\n<p>**New actions**</p>\n<p>Ask for Input with Dialog</p>\n<p>- Combine Audio Files</p>\n<p>- Counter</p>\n<p>- Keychain</p>\n<p>- Make Live Photo from Video</p>\n<p>- Create Temporary Folder</p>\n<p>- Find Workout</p>\n<p>- Generate Emojis</p>\n<p>- Filter List of Dictionaries</p>\n<p>- Sort List of Dictionaries</p>\n<p>- Remove Dictionary Values</p>\n<p>- Get Contents of URL (Extended)</p>\n<p>- Get Dates in Range</p>\n<p>- Get Image URLs from Web Page</p>\n<p>- Get Images from Web Page</p>\n<p>- Get Meta Tags of URL</p>\n<p>- Get Media Metadata</p>\n<p>- Get Raw Media Metadata</p>\n<p>- Convert Text File Encoding</p>\n<p>- Manage Shortcut Lock</p>\n<p>- Overlay Image (Extended)</p>\n<p>- Scan Barcodes in Image</p>\n<p>- Convert Number Base</p>\n<p>- Find Points of Interest</p>\n<p>- Calculate Bearing</p>\n<p>- Parse Markdown Table</p>\n<p>- Make Markdown Table</p>",
+            "date_published": "2026-03-20T06:37:21+00:00",
+            "authors": [
+                {
+                    "name": "Smith416",
+                    "url": "https://www.reddit.com/user/Smith416"
+                }
+            ]
+        },
+        {
             "id": "1ry2pd3",
             "url": "/r/shortcuts/comments/1ry2pd3/the_one_shortcuts_automation_i_actually_use_on_my/",
             "external_url": "https://www.reddit.com/gallery/1ry2pd3",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Jeronimon",
                     "url": "https://www.reddit.com/user/Jeronimon"
-                }
-            ]
-        },
-        {
-            "id": "1bnopy1",
-            "url": "/r/shortcuts/comments/1bnopy1/i_integrated_locally_running_mistral_with_siri/",
-            "external_url": "https://www.reddit.com/r/shortcuts/comments/1bnopy1/i_integrated_locally_running_mistral_with_siri/",
-            "title": "I integrated locally running mistral with Siri, far better than standard Siri. no more \"Here's what I found\"",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1bnopy1/i_integrated_locally_running_mistral_with_siri/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1bnopy1/i_integrated_locally_running_mistral_with_siri/'>Reddit</a></caption><div><br></div><p><a href=\"https://www.icloud.com/shortcuts/4dd1bb0d7bda4314926adcd3ffdfd80d\">Shortcut Link</a></p>\n<p>https://preview.redd.it/h7h9j1owmjqc1.png?width=424&amp;format=png&amp;auto=webp&amp;s=2fbe42f5eb4a13958973c4c80e52cda03026d23b</p>",
-            "date_published": "2024-03-25T20:54:06+00:00",
-            "authors": [
-                {
-                    "name": "0ssamaak0",
-                    "url": "https://www.reddit.com/user/0ssamaak0"
                 }
             ]
         }
