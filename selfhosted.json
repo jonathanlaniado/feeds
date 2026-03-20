@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1rywekd",
+            "url": "/r/selfhosted/comments/1rywekd/dont_expect_us_to_try_your_ai_app/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1rywekd/dont_expect_us_to_try_your_ai_app/",
+            "title": "Don't expect us to try your AI app",
+            "content_html": "<p>Developing a niche or custom tool with AI that solves your problem is great and it is changing the landscape for a few SAAS on a few specific services. But man...! Sooo many posts in the past few weeks either here or a few related subs, of self proclaimed Zuckerbergs promoting their ground breaking new flavor of the day AI apps... Don't expect most people (anyone really) to ever install or try it.</p>\n<p>There is a GIGANTIC gap (think of a giant gap, and do x10) between \"prompt and pray\" AI apps, and production ready, stable and SAFE products. DevOps and cybersecurity principles you do not know exist, and that your coding agent won't advertise because they're trained to be helpful, efficient and to take the path of least resistance.</p>\n<p>There is nothing user-friendly about 99% of these principles, your LLM  will avoid them by default, and if you don't know anything about software architecture, PLEASE, keep these apps to yourself.</p>\n<p>Also; NOT ALL IDEAS ARE WORTH SHARING. Most of them sucks actually, that's why they get peer reviewed in a real development environment.</p>\n<p>TLDR; if you don't know what stable and secured software architecture is - don't promote your AI coded app.</p>",
+            "date_published": "2026-03-20T13:35:00+00:00",
+            "authors": [
+                {
+                    "name": "TheOtherDudz",
+                    "url": "https://www.reddit.com/user/TheOtherDudz"
+                }
+            ]
+        },
+        {
             "id": "1ruc04h",
             "url": "/r/selfhosted/comments/1ruc04h/termix_v200_rdp_vnc_and_telnet_support_selfhosted/",
             "external_url": "https://i.redd.it/o4hjn5pdk4pg1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Gerudah",
                     "url": "https://www.reddit.com/user/Gerudah"
-                }
-            ]
-        },
-        {
-            "id": "1k41w7u",
-            "url": "/r/selfhosted/comments/1k41w7u/you_won_my_whiteboard_ide_is_now_opensource_and/",
-            "external_url": "https://i.redd.it/t4ocdutsc3we1.png",
-            "title": "You won, my whiteboard IDE is now open-source and self-hostable",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/t4ocdutsc3we1.png\" />",
-            "date_published": "2025-04-21T01:32:42+00:00",
-            "authors": [
-                {
-                    "name": "MrCyclopede",
-                    "url": "https://www.reddit.com/user/MrCyclopede"
                 }
             ]
         }
