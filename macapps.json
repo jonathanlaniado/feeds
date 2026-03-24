@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1s2jy1f",
+            "url": "/r/macapps/comments/1s2jy1f/i_built_a_native_macosios_ebook_reader_because/",
+            "external_url": "https://www.reddit.com/gallery/1s2jy1f",
+            "title": "I built a native macOS/iOS ebook reader because Calibre's UI makes me cry and Apple Books ignores EPUB3",
+            "content_html": "<p>Hey r/macapps,</p>\n<p>Solo indie dev here. I've been reading ebooks on Mac for years and always felt stuck between two bad options: Calibre (incredible power, Qt interface from 2008) and Apple Books (beautiful, ignores half the EPUB spec, no way to manage your own library properly).</p>\n<p>So I built BookShelves.</p>\n<p><strong>Problem</strong></p>\n<p>I wanted one app that could:</p>\n<ul>\n<li>Actually render EPUB3 properly (Apple Books still breaks complex layouts)</li>\n<li>Let me browse and download public domain books without leaving the app</li>\n<li>Sync my library between Mac and iPhone via iCloud</li>\n<li>Read comics (CBZ/CBR/CB7) alongside regular ebooks</li>\n<li>Talk to my Calibre library over the network</li>\n</ul>\n<p>No existing reader did all of this natively on macOS.</p>\n<p><strong>Compare</strong></p>\n<ul>\n<li>vs <strong>Apple Books</strong>: BookShelves handles EPUB3 properly, has an OPDS catalog browser, Calibre wireless sync, and doesn't lock you into Apple's ecosystem for book purchases</li>\n<li>vs <strong>Calibre</strong>: Native Swift UI that actually looks like a Mac app. Plus an iOS companion with iCloud sync</li>\n<li>vs <strong>Yomu</strong>: Both native, but BookShelves adds comic book support, OPDS server, Calibre integration, and a built-in free book catalog</li>\n<li>If you remember <strong>Marvin</strong> (RIP) -- BookShelves is the closest modern equivalent</li>\n</ul>\n<p><strong>What's included free:</strong></p>\n<ul>\n<li>Read up to 10 books (EPUB, PDF, CBZ/CBR/CB7)</li>\n<li>Browse and download from Standard Ebooks, Internet Archive, and others (100k+ public domain titles)</li>\n<li>Full reading experience -- pagination, bookmarks, highlights, search</li>\n</ul>\n<p><strong>Pricing</strong></p>\n<ul>\n<li>Free to use with up to 10 books</li>\n<li>Pro: $2.99 one-time (not a subscription, ever) -- unlocks unlimited books, iCloud sync, OPDS server, Calibre wireless sync, highlight export</li>\n<li>Tips available if you want to support development</li>\n</ul>\n<p>App Store: <a href=\"https://apps.apple.com/app/bookshelves-ebook-reader/id6475874726\">https://apps.apple.com/app/bookshelves-ebook-reader/id6475874726</a> </p>\n<p>Website: <a href=\"https://getbookshelves.app\">https://getbookshelves.app</a></p>\n<p>No account required. No tracking. No analytics that leave your device.</p>\n<p>Happy to answer questions about the tech, the reading engine, or anything else. This is a one-person project and I read every piece of feedback.</p>",
+            "date_published": "2026-03-24T17:13:29+00:00",
+            "authors": [
+                {
+                    "name": "Slight_Yesterday5484",
+                    "url": "https://www.reddit.com/user/Slight_Yesterday5484"
+                }
+            ]
+        },
+        {
             "id": "1ryvdei",
             "url": "/r/macapps/comments/1ryvdei/i_tested_every_lifetime_mac_app_posted_on/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1ryvdei/i_tested_every_lifetime_mac_app_posted_on/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Ikryanov",
                     "url": "https://www.reddit.com/user/Ikryanov"
-                }
-            ]
-        },
-        {
-            "id": "1indhkt",
-            "url": "/r/macapps/comments/1indhkt/psa_apple_now_lets_you_migrate_digital_purchases/",
-            "external_url": "https://support.apple.com/en-us/117294",
-            "title": "[PSA] Apple Now Lets You Migrate Digital Purchases From One Apple Account to Another",
-            "content_html": "<p>If an Apple Account is only used for making purchases, those purchases can be migrated to a primary Apple Account to consolidate them.</p>\n<p>Note: This feature isn\u2019t available to users in the European Union, United Kingdom, or India.</p>",
-            "date_published": "2025-02-12T00:00:43+00:00",
-            "authors": [
-                {
-                    "name": "73ch_nerd",
-                    "url": "https://www.reddit.com/user/73ch_nerd"
                 }
             ]
         }
