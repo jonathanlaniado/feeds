@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1s36znh",
+            "url": "/r/macapps/comments/1s36znh/actions_4_now_180_actions_to_elevate_the/",
+            "external_url": "https://apps.apple.com/app/id1586435171",
+            "title": "Actions 4 \u2014 Now 180+ actions to elevate the Shortcuts app",
+            "content_html": "<p>I just released a major update to my free Actions app after 8 months of work. Adds 30 new actions.</p>\n<p><a href=\"https://sindresorhus.com/actions#included-actions\">Full list of actions.</a></p>\n<p><strong>New actions</strong></p>\n<ul>\n<li>Ask for Input with Dialog</li>\n<li>Calculate Bearing</li>\n<li>Combine Audio Files</li>\n<li>Convert Number Base</li>\n<li>Convert Text File Encoding</li>\n<li>Counter</li>\n<li>Create Temporary Folder</li>\n<li>Filter List of Dictionaries</li>\n<li>Find Points of Interest</li>\n<li>Find Workout <em>(iOS only)</em></li>\n<li>Generate Emojis</li>\n<li>Get Contents of URL (Extended)</li>\n<li>Get Dates in Range</li>\n<li>Get Image URLs from Web Page</li>\n<li>Get Images from Web Page</li>\n<li>Get Media Metadata</li>\n<li>Get Meta Tags of URL</li>\n<li>Get Raw Media Metadata</li>\n<li>Keychain</li>\n<li>Make Live Photo from Video</li>\n<li>Make Markdown Table</li>\n<li>Manage Shortcut Lock</li>\n<li>Overlay Image (Extended)</li>\n<li>Parse Markdown Table</li>\n<li>Remove Dictionary Values</li>\n<li>Scan Barcodes in Image</li>\n<li>Sort List of Dictionaries</li>\n</ul>\n<p><strong>Problem</strong></p>\n<p>Shortcuts is powerful, but missing a lot of basic building blocks. Many workflows require awkward workarounds or aren\u2019t possible at all. Actions fixes that. </p>\n<p><strong>Comparison</strong></p>\n<p>Compared with Toolbox Pro and similar apps, Actions is a native Mac app and includes a much larger set of actions while covering most of the same capabilities, with a focus on simple, composable building blocks. It\u2019s also free.</p>\n<p><strong>Pricing</strong></p>\n<p>Free (App Store)</p>",
+            "date_published": "2026-03-25T10:30:31+00:00",
+            "authors": [
+                {
+                    "name": "sindresorhus",
+                    "url": "https://www.reddit.com/user/sindresorhus"
+                }
+            ]
+        },
+        {
             "id": "1s2jy1f",
             "url": "/r/macapps/comments/1s2jy1f/i_built_a_native_macosios_ebook_reader_because/",
             "external_url": "https://www.reddit.com/gallery/1s2jy1f",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "helloworldn",
                     "url": "https://www.reddit.com/user/helloworldn"
-                }
-            ]
-        },
-        {
-            "id": "1ixsymk",
-            "url": "/r/macapps/comments/1ixsymk/i_made_my_commercial_clipboard_manager_open/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1ixsymk/i_made_my_commercial_clipboard_manager_open/",
-            "title": "I made my commercial clipboard manager open source because it's right",
-            "content_html": "<p>We all know that clipboard managers handle sensitive data such as passwords, personal notes, API keys, etc. To trust one you need to be sure that it doesn't send your data to third parties or store it on remote servers.</p>\n<p>With closed-source apps, you have to take the developer\u2019s word for it. As a software engineer, I don't like that. Transparency matters.</p>\n<p>So, I decided to make my commercial <a href=\"https://clipbook.app\">clipboard manager</a> open source. Anyone can inspect the source code, verify that data stays local and never leaves the user's device. Anyone can <a href=\"https://github.com/vladimir-ikryanov/ClipBook/blob/main/README.md#building-clipbook\">build the app from source</a> and use it.</p>\n<p><strong>GitHub</strong>: <a href=\"https://github.com/vladimir-ikryanov/ClipBook\">https://github.com/vladimir-ikryanov/ClipBook</a></p>\n<p>At the same time, the app is still commercial, as I need to cover hosting, tooling, and development costs. I know this means anyone can build the app from source and use it for free. Or even rebrand and sell it, but I think the trade-off is worth it.</p>\n<p>What do you think about this approach? Would you trust an open-source commercial app more than a closed-source one? Do you think I made a mistake?</p>",
-            "date_published": "2025-02-25T11:36:30+00:00",
-            "authors": [
-                {
-                    "name": "Ikryanov",
-                    "url": "https://www.reddit.com/user/Ikryanov"
                 }
             ]
         }
