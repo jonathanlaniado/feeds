@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1s3i9nd",
+            "url": "/r/OpenAI/comments/1s3i9nd/rip_sora_here_are_the_best_alternative_models_in/",
+            "external_url": "https://v.redd.it/opb2fpe1c8rg1",
+            "title": "RIP Sora, here are the best alternative models in 2026",
+            "content_html": "<p>Sora is gone, and free AI models. Will always miss you Sora. It's annoying that I have to replace Sora with other models. I've tested the major video models on r/AtlasCloudAI and and here's my conclusion FYI.</p>\n<p><strong>Kling3.0</strong></p>\n<p>the strongest replacement right now. best overall balance, strongest ecosystem. Text-to-video and image-to-video both work. This is what I'd point most developers toward first.<br />\n0.153/s</p>\n<p><strong>Seedance2.0</strong> </p>\n<p>beats all the models, but its api is not available yet.   </p>\n<p><strong>Vidu Q3 pro</strong> </p>\n<p>next-gen cinematic quality, still building out API stability. Less established than Kling but showing promise. <br />\n0.06/s  </p>\n<p><strong>Wan 2.6</strong></p>\n<p>solid prompt following, less censorship<br />\n0.018/s</p>\n<p><strong>Veo 3.1</strong><br />\nmore mature product, and has actually dealt with IP concerns more explicitly. More expensive, but more stable.</p>\n<p>0.09/s</p>\n<p>I chose Kling, for its balance of quality, price, and API accessibility. It's the most practical Sora alternative for developers and businesses. </p>\n<p>Choose Seedance if you can get reliable access</p>\n<p>Choose Vidu if your priority is cinematic visuals</p>\n<p>Choose Wan if you need strong prompts following and price matters</p>\n<p>Choose Veo if you\u2019re in a more regulated or brand\u2011sensitive environment and need a mature product with clearer IP handling</p>\n<p>Wanna know what are you using for video generation, or any recommendations?...</p>",
+            "date_published": "2026-03-25T18:02:56+00:00",
+            "authors": [
+                {
+                    "name": "Which-Jello9157",
+                    "url": "https://www.reddit.com/user/Which-Jello9157"
+                }
+            ]
+        },
+        {
             "id": "1rqim4d",
             "url": "/r/OpenAI/comments/1rqim4d/if_elon_manipulate_the_algorithm_i_think_that/",
             "external_url": "https://i.redd.it/wvtwnvhb3cog1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "IAdmitILie",
                     "url": "https://www.reddit.com/user/IAdmitILie"
-                }
-            ]
-        },
-        {
-            "id": "1likqr5",
-            "url": "/r/OpenAI/comments/1likqr5/learn_to_use_ai_or_uh/",
-            "external_url": "https://i.redd.it/eele5c4fbp8f1.png",
-            "title": "Learn to use AI or... uh...",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/eele5c4fbp8f1.png\" />",
-            "date_published": "2025-06-23T16:12:26+00:00",
-            "authors": [
-                {
-                    "name": "MetaKnowing",
-                    "url": "https://www.reddit.com/user/MetaKnowing"
                 }
             ]
         }
