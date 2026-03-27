@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1s553nj",
+            "url": "/r/macapps/comments/1s553nj/i_built_droppy_because_macos_lacks_a_real_native/",
+            "external_url": "https://v.redd.it/cumxgxltdkrg1",
+            "title": "I built Droppy because macOS lacks a real native productivity layer",
+            "content_html": "<p>Hey r/macapps!  </p>\n<p>I built Droppy because a lot of quick tasks on macOS still feel more fragmented than they should. Staging files, controlling media, checking tasks, transcribing audio, compressing files, opening a quick terminal, or surfacing useful HUDs still often means bouncing between separate utilities.  </p>\n<p>The video shows the app better than screenshots, especially because a lot of it is customizable.  </p>\n<p><strong>Problem</strong>  </p>\n<p>I wanted one native app for the in-between actions macOS lacks and scatters across many separate tools (or needs multiple different apps). Droppy brings those workflows into one place, so it feels less like a niche utility and more like a broader all-in-one app for macOS users.  </p>\n<p><strong>A few examples:</strong>  </p>\n<p>- stage files in a shelf or basket, then move, convert, compress, zip, unzip, or share them<br />\n- use polished overlays and quick controls for media, system status, and everyday actions<br />\n- extend the app with workflows for capture, transcription, reminders, events, snapping, and more<br />\n- Droppy has beautiful lock screen widgets and media controls as well, that fit right in with the native design  </p>\n<p><strong>Comparison</strong>  </p>\n<p>A lot of apps in this space do one thing well. Droppy is meant to cover the in-between actions across a whole workflow, so you do not need to stitch together multiple separate apps.  </p>\n<p><strong>Pricing</strong>  </p>\n<p>- Fully unlocked 3-day trial<br />\n- \u20ac6.99 one-time purchase<br />\n- No subscription<br />\n<strong>- Code `MACAPPS` gives 30% off until April 10, 2026 at 23:59 CEST</strong><br />\n- Website: <a href=\"https://getdroppy.app\">https://getdroppy.app</a>  </p>\n<p><strong>Transparency</strong>  </p>\n<p>- I'm Jordy Spruit, the solo developer behind Droppy<br />\n- Contact: <a href=\"mailto:hi@getdroppy.app\">hi@getdroppy.app</a><br />\n- Privacy Policy: <a href=\"https://getdroppy.app/#privacy-policy\">https://getdroppy.app/#privacy-policy</a><br />\n- Terms of Service: <a href=\"https://getdroppy.app/#terms-of-service\">https://getdroppy.app/#terms-of-service</a>  </p>\n<p>Natively built in Swift, signed and notarized, and works on Macs with or without a physical notch.  </p>\n<p>If you try it, I'd love to hear which part fits your workflow best and what still needs work \ud83d\udc99</p>",
+            "date_published": "2026-03-27T14:07:09+00:00",
+            "authors": [
+                {
+                    "name": "iordv",
+                    "url": "https://www.reddit.com/user/iordv"
+                }
+            ]
+        },
+        {
             "id": "1s36znh",
             "url": "/r/macapps/comments/1s36znh/actions_4_now_180_actions_to_elevate_the/",
             "external_url": "https://apps.apple.com/app/id1586435171",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Atten_app",
                     "url": "https://www.reddit.com/user/Atten_app"
-                }
-            ]
-        },
-        {
-            "id": "1j2fgrw",
-            "url": "/r/macapps/comments/1j2fgrw/tuneful_enhance_your_spotify_and_apple_music/",
-            "external_url": "https://v.redd.it/jj6lyreo8gme1",
-            "title": "Tuneful - Enhance your Spotify and Apple Music experience",
-            "content_html": "",
-            "date_published": "2025-03-03T10:09:37+00:00",
-            "authors": [
-                {
-                    "name": "helloworldn",
-                    "url": "https://www.reddit.com/user/helloworldn"
                 }
             ]
         }
