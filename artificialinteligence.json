@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1s4t66w",
+            "url": "/r/ArtificialInteligence/comments/1s4t66w/exclusive_anthropic_is_testing_mythos_its_most/",
+            "external_url": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/",
+            "title": "Exclusive: Anthropic is testing 'Mythos' its 'most powerful AI model ever developed'",
+            "content_html": "<p>Anthropic is developing a new AI model that may be more powerful than any it has previously released, according to internal documents revealed in a recent data leak. The model, reportedly referred to as \u201cClaude Mythos,\u201d is currently being tested with a limited group of early-access users.</p>\n<p>The leak occurred after draft materials were accidentally left in a publicly accessible data cache due to a configuration error. The company later confirmed the exposure, describing the documents as early-stage content that was not intended for public release.</p>\n<p>According to the leaked information, the new system represents a \u201cstep change\u201d in performance, with major improvements in reasoning, coding, and cybersecurity capabilities. It is also described as more advanced than Anthropic\u2019s existing Opus-tier models.</p>\n<p>However, the documents also highlight serious concerns about the model\u2019s potential risks. The company noted that its capabilities could enable sophisticated cyberattacks, raising fears that such tools could be misused by malicious actors.</p>\n<p>Anthropic says it is taking a cautious approach, limiting access to select organizations while studying the model\u2019s impact. The development underscores a growing tension in AI advancement: rapidly increasing capability alongside rising concerns about security and control.</p>",
+            "date_published": "2026-03-27T03:34:55+00:00",
+            "authors": [
+                {
+                    "name": "Frosty_Jeweler911",
+                    "url": "https://www.reddit.com/user/Frosty_Jeweler911"
+                }
+            ]
+        },
+        {
             "id": "1s493x7",
             "url": "/r/ArtificialInteligence/comments/1s493x7/the_ai_is_replacing_software_engineers_narrative/",
             "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1s493x7/the_ai_is_replacing_software_engineers_narrative/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "dharmainitiative",
                     "url": "https://www.reddit.com/user/dharmainitiative"
-                }
-            ]
-        },
-        {
-            "id": "1kd70xo",
-            "url": "/r/ArtificialInteligence/comments/1kd70xo/most_ai_startups_will_crash_and_their_execs_know/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1kd70xo/most_ai_startups_will_crash_and_their_execs_know/",
-            "title": "Most AI startups will crash and their execs know this",
-            "content_html": "<p>Who else here feels that AI has no moat? nowadays most newer AIs are pretty close one to another and their users have zero loyalty (they will switch to another AI if the other AI make better improvements, etc.)</p>\n<p>i still remember when gemini was mocked for being far away from GPT but now it actually surpasses GPT for certain use cases.</p>\n<p>i feel that the only winners from AI race will be the usual suspects (think google, microsoft, or even apple once they figure it out). why? because they have the ecosystem. google can just install gemini to all android phones. something that the likes of claude or chatgpt cant do.</p>\n<p>and even if gemini or copilot in the future is like 5-10% dumber than the flagship gpt or claude model, it wont matter, most people dont need super intelligent AI, as long as they are good enough, that will be enough for them to not install new apps and just use the default offering out there.</p>\n<p>so what does it mean? it means AI startups will all crash and all the VCs will dump their equities, triggering a chain reaction effect. thoughts?</p>",
-            "date_published": "2025-05-02T17:41:20+00:00",
-            "authors": [
-                {
-                    "name": "Business-Hand6004",
-                    "url": "https://www.reddit.com/user/Business-Hand6004"
                 }
             ]
         }
