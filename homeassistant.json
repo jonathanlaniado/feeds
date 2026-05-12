@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1tbdt3g",
+            "url": "/r/homeassistant/comments/1tbdt3g/end_of_jason_end_of_an_era/",
+            "external_url": "https://www.reddit.com/r/homeassistant/comments/1tbdt3g/end_of_jason_end_of_an_era/",
+            "title": "End of Jason. End of an era.",
+            "content_html": "<p>For those who don't know, Jason is really just a random person whose MQTT server was completely unsecured with no password, and I made a post a while ago showing how I had access to most of their devices. Just wanna say, but my post was a completely different person than the OG.</p>\n<p>Every now and then, I connect to Jason's MQTT server to see if they have finally secured their server or not. Recently, when I tried to connect, I was met with a 401 Unauthorized Error. This means finally, after looping a script to turn on the lamp every 5 minutes and renaming all of his devices to \"Secure your MQTT!!!\", he listened.</p>\n<p>So secure your mqtt servers I guess because i'm on the lookout...</p>",
+            "date_published": "2026-05-12T20:31:35+00:00",
+            "authors": [
+                {
+                    "name": "DefaultReal0",
+                    "url": "https://www.reddit.com/user/DefaultReal0"
+                }
+            ]
+        },
+        {
             "id": "1qs0q11",
             "url": "/r/homeassistant/comments/1qs0q11/eink_remote_for_home_assistant/",
             "external_url": "https://i.redd.it/8rlnop53cogg1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "jake2547",
                     "url": "https://www.reddit.com/user/jake2547"
-                }
-            ]
-        },
-        {
-            "id": "1iaoach",
-            "url": "/r/homeassistant/comments/1iaoach/this_is_my_wood_case_for_a_home_assistant_touch/",
-            "external_url": "https://www.reddit.com/gallery/1iaoach",
-            "title": "This is my wood case for a home assistant touch display, the cover is made from an old t-shirt and the wood is machined from oak",
-            "content_html": "",
-            "date_published": "2025-01-26T19:47:46+00:00",
-            "authors": [
-                {
-                    "name": "Slight_Safe8745",
-                    "url": "https://www.reddit.com/user/Slight_Safe8745"
                 }
             ]
         }
