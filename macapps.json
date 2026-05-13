@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1tbyqu4",
+            "url": "/r/macapps/comments/1tbyqu4/os_a_tool_for_generating_macos_app_icons_with_ai/",
+            "external_url": "https://v.redd.it/gag1gqu1jw0h1",
+            "title": "[OS] A tool for generating macOS app icons with AI (free, open source)",
+            "content_html": "<p>I\u2019m Vladimir. I\u2019m a software engineer. In our company we often develop desktop apps for internal needs and prototyping. And every time I bump into the same problem: <em>how do I make an icon for the macOS app I have just built</em>?</p>\n<p>I could use the existing icon generators, but they are basically just image converters. You upload an existing image, and the tool generates the required icon sizes and formats from it.</p>\n<p>But I don\u2019t have an image, and I\u2019m not a designer. Asking designers to create an icon is not always an option.</p>\n<p>I wanted something that could help me actually <em>create</em> an icon. Something where I can describe an idea, iterate on it over several rounds, experiment with materials, lighting, composition, and gradually arrive at an icon that feels like a real native macOS app icon.</p>\n<p>Since I\u2019m an engineer, I built a small tool that allows generating a macOS app icon using AI. It\u2019s completely free and open source, so other engineers building desktop apps for macOS can use it too.</p>\n<p>The app lets you generate the app icons from prompts, refine them conversationally (\"make it more metallic\", \"simplify the shape\", \"add glass effect\", etc.), and export the final icon in the <code>*.icns</code> format (you can just put it into your macOS app bundle) along with a folder containing the icon in different dimensions.</p>\n<p>There are no subscriptions, no watermarking, no credits system, and the source code is fully available on GitHub.</p>\n<p><strong>Note 1:</strong> the app requires an OpenAI API key. I tried to use local models to generate images, but none of them can produce images with quality similar to Nano Banana 2 or ChatGPT.</p>\n<p><strong>Note 2:</strong> the generation speed varies from several seconds to up to a minute. I don\u2019t know hot to speed it up yet (maybe generate 1 variant instead of 3).</p>\n<p><strong>GitHub:</strong> <a href=\"https://github.com/TeamDev-IP/MoBrowser-App-Icon-Maker\">https://github.com/TeamDev-IP/MoBrowser-App-Icon-Maker</a></p>\n<p><strong>Download (signed &amp; notarized):</strong> <a href=\"https://github.com/TeamDev-IP/MoBrowser-App-Icon-Maker/releases/download/v1.0.2/Icon.Maker-1.0.2-arm64.dmg\">https://github.com/TeamDev-IP/MoBrowser-App-Icon-Maker/releases/download/v1.0.2/Icon.Maker-1.0.2-arm64.dmg</a></p>\n<p>Feel free to try it out. Happy to answer questions or discuss implementation details.</p>",
+            "date_published": "2026-05-13T12:52:01+00:00",
+            "authors": [
+                {
+                    "name": "Ikryanov",
+                    "url": "https://www.reddit.com/user/Ikryanov"
+                }
+            ]
+        },
+        {
             "id": "1t5z30h",
             "url": "/r/macapps/comments/1t5z30h/os_loop_a_free_opensource_radial_window_manager/",
             "external_url": "https://www.reddit.com/r/macapps/comments/1t5z30h/os_loop_a_free_opensource_radial_window_manager/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Goharyiii",
                     "url": "https://www.reddit.com/user/Goharyiii"
-                }
-            ]
-        },
-        {
-            "id": "1j9ez7q",
-            "url": "/r/macapps/comments/1j9ez7q/i_build_a_small_menu_bar_app_that_nudges_you_back/",
-            "external_url": "https://v.redd.it/gvzupts1t7oe1",
-            "title": "I build a small menu bar app that nudges you back into focus - launching today",
-            "content_html": "",
-            "date_published": "2025-03-12T07:56:58+00:00",
-            "authors": [
-                {
-                    "name": "ranft",
-                    "url": "https://www.reddit.com/user/ranft"
                 }
             ]
         }
