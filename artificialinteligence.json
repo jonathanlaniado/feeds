@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1tcswhi",
+            "url": "/r/ArtificialInteligence/comments/1tcswhi/state_of_the_art_llms/",
+            "external_url": "https://i.redd.it/andljcmrm21h1.png",
+            "title": "State of the art LLMs",
+            "content_html": "<p>Did ya get that thing I sent ya?</p>\n<p>Welp, thats 25,000$ down the drain, I couldve spent that on three Claude prompts :(</p><div><br></div><img src=\"https://i.redd.it/andljcmrm21h1.png\" />",
+            "date_published": "2026-05-14T09:24:43+00:00",
+            "authors": [
+                {
+                    "name": "Complete-Sea6655",
+                    "url": "https://www.reddit.com/user/Complete-Sea6655"
+                }
+            ]
+        },
+        {
             "id": "1tbb657",
             "url": "/r/ArtificialInteligence/comments/1tbb657/this_guy_used_ai_to_put_himself_in_game_of_thrones/",
             "external_url": "https://v.redd.it/087t9qxv6r0h1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "anobserver101",
                     "url": "https://www.reddit.com/user/anobserver101"
-                }
-            ]
-        },
-        {
-            "id": "1kigh6z",
-            "url": "/r/ArtificialInteligence/comments/1kigh6z/why_do_so_many_people_think_ai_wont_take_the_jobs/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1kigh6z/why_do_so_many_people_think_ai_wont_take_the_jobs/",
-            "title": "Why do so many people think AI won't take the jobs?",
-            "content_html": "<p>Hi, I've been reading a lot of comments lately ridiculing AI and its capabilities. A lot of IT and programmers have a very optimistic view that AI is more likely to increase the number of new positions, which I personally don't think at all.</p>\n<p>We are living in capitalism and web development etc. positions will instead decrease and there will be more pressure for efficiency, so 10 positions in 2025 will be done by 1 person in the near future.</p>\n<p>Is there something I'm missing here? Why should I pay a programmer 100k a year in a near future when AI agent will be able to design, program and even test it better than a human withing minutes?</p>\n<p>As hard as it sounds, the market doesn't care that someone has been in the craft for 20 years, as long as I can find a cheaper and faster variation, no one cares.</p>",
-            "date_published": "2025-05-09T11:47:01+00:00",
-            "authors": [
-                {
-                    "name": "Worth_Telephone_3450",
-                    "url": "https://www.reddit.com/user/Worth_Telephone_3450"
                 }
             ]
         }
