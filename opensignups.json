@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_34ntk/styles/communityIcon_kcuhvl4zdufc1.png",
     "items": [
         {
+            "id": "1tfm3l3",
+            "url": "/r/OpenSignups/comments/1tfm3l3/malayabitscc_2nd_year_anniversary_open_signups/",
+            "external_url": "https://www.reddit.com/r/OpenSignups/comments/1tfm3l3/malayabitscc_2nd_year_anniversary_open_signups/",
+            "title": "Malayabits.cc 2nd Year Anniversary Open Signups",
+            "content_html": "<p>We are celebrating our 2nd year anniversary on 1 June and we open for a month.</p>\n<p>Malayabits is a Malaysian Content Tracker for movie, tv &amp; music releases with English subtitle.</p>\n<p>Tracker Name:\u00a0<a href=\"http://malayabits.cc/\">Malayabits.cc</a>\u00a0Genre: Movie, TV &amp; Music Sign Up Link:\u00a0<a href=\"https://malayabits.cc/register\">https://malayabits.cc/register</a></p>\n<p>Closing Time: 6/15/2025</p>\n<p>Stats:</p>\n<ul>\n<li>Active users: 3,611</li>\n<li>Torrents: 2,555</li>\n<li>Seeders: 9,664</li>\n</ul>\n<p>Note: If you having issue to vaidate the account, reset the password and with new password the account should be validated.</p>",
+            "date_published": "2026-05-17T10:48:55+00:00",
+            "authors": [
+                {
+                    "name": "Flaming-Core",
+                    "url": "https://www.reddit.com/user/Flaming-Core"
+                }
+            ]
+        },
+        {
             "id": "1te9ybe",
             "url": "/r/OpenSignups/comments/1te9ybe/immortalseed_is_movies_tv_general_open_reg/",
             "external_url": "https://www.reddit.com/r/OpenSignups/comments/1te9ybe/immortalseed_is_movies_tv_general_open_reg/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "x-64",
                     "url": "https://www.reddit.com/user/x-64"
-                }
-            ]
-        },
-        {
-            "id": "1m3llpu",
-            "url": "/r/OpenSignups/comments/1m3llpu/looking_for_a_generic_tracker_for_mainly_movies/",
-            "external_url": "https://www.reddit.com/r/OpenSignups/comments/1m3llpu/looking_for_a_generic_tracker_for_mainly_movies/",
-            "title": "Looking for a generic tracker for mainly movies and maybe games.",
-            "content_html": "<p>I have been using torrent aggregators. My requirements are that it isn't mainly explicit, Isn't banned by many other trackers, and has either main stream movies or games. I hope to get into TL, but about anything in that criteria I would be glad to get into. I previously have been using torrent aggregators.</p>\n<p>I have been seeding public trackers with my combined router and storage server, for I'm guessing for the past six months. During that time I have built up a massive ratio. I was using nordvpn since my parents bought it, but as of yesterday I bought a VPN that supports port forwarding.</p>\n<p>The ratio is about all I have to go off, and I think it would be easy to spoof, but its almost all I have to go off. Though I have proof the router was configured to have torrents on it for that time. Though I am bad at committing my NixOS config so its some undefined amount of time earlier than the commit times. <a href=\"https://github.com/Silverdev2482/Router-Server/commit/4a5165655fef61297fa055a1ac7304e4af16e90a\">https://github.com/Silverdev2482/Router-Server/commit/4a5165655fef61297fa055a1ac7304e4af16e90a</a></p>\n<p><a href=\"https://imgur.com/a/YH4SoYr\">https://imgur.com/a/YH4SoYr</a></p>",
-            "date_published": "2025-07-19T03:00:35+00:00",
-            "authors": [
-                {
-                    "name": "wolf2482",
-                    "url": "https://www.reddit.com/user/wolf2482"
                 }
             ]
         }
