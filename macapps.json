@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1tgku6g",
+            "url": "/r/macapps/comments/1tgku6g/os_macusb_v22_the_all_in_one_usb_creator_for_mac/",
+            "external_url": "https://i.redd.it/mhfrgaud0w1h1.gif",
+            "title": "[OS] macUSB v2.2 - The all in one USB creator for Mac. Now with Linux & Windows support!",
+            "content_html": "<p>Hey! I'm back with another update. Thanks for the reactions to the previous posts, I appreciate the feedback!</p>\n<p>The new version adds support for creating Linux and Windows USB installers. For Linux, the app automatically detects the distribution, architecture, and system version. For Windows, it identifies the version and architecture, supporting standard and Server editions. The created Windows USB is <strong>UEFI only</strong> and supports Windows 8 and newer, alongside Windows Server 2012 and newer. The creation process includes automatic <strong>.wim</strong> file splitting to meet <strong>FAT32</strong> limitations using the free <strong><em>wimlib</em></strong> tool*.</p>\n<p><strong>[PROBLEM]</strong></p>\n<p>Creating bootable USBs for older macOS versions on Apple Silicon is complicated. Moreover, macOS lacks an intuitive app to smoothly create a Windows installer from start to finish.</p>\n<p>The lack of a true equivalent to <strong>Rufus</strong> on macOS became the main inspiration for the development path the app is taking. macUSB solves these issues by uniting all required functions in one native app.</p>\n<p><strong>[COMPARISON]</strong></p>\n<p><strong>Mist</strong> handles newer Apple systems well but has limitations when preparing older releases like Catalina on Apple Silicon.</p>\n<p><strong>BalenaEtcher</strong> allows flashing Linux but is a heavy Electron app. It also completely omits support for macOS and Windows.</p>\n<p><strong>[PRICE]</strong></p>\n<p>Free and open source. </p>\n<p><strong>Repository:</strong> <a href=\"https://github.com/Kruszoneq/macUSB\">macUSB Repo</a><br />\n<strong>Download:</strong> <a href=\"https://github.com/Kruszoneq/macUSB/releases\">GitHub Releases</a></p>\n<p><em>*The</em> <strong><em>wimlib</em></strong> <em>tool is not part of the app and requires manual installation. It is needed only when the</em> <strong><em>.wim</em></strong> <em>file exceeds the</em> <strong><em>FAT32</em></strong> <em>limit and needs splitting. The app automatically checks for its presence in the system.</em></p><div><br></div><img src=\"https://i.redd.it/mhfrgaud0w1h1.gif\" />",
+            "date_published": "2026-05-18T12:16:21+00:00",
+            "authors": [
+                {
+                    "name": "Kruszoneq",
+                    "url": "https://www.reddit.com/user/Kruszoneq"
+                }
+            ]
+        },
+        {
             "id": "1tbyqu4",
             "url": "/r/macapps/comments/1tbyqu4/os_a_tool_for_generating_macos_app_icons_with_ai/",
             "external_url": "https://v.redd.it/gag1gqu1jw0h1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "D1no_nugg3t",
                     "url": "https://www.reddit.com/user/D1no_nugg3t"
-                }
-            ]
-        },
-        {
-            "id": "1jc08n1",
-            "url": "/r/macapps/comments/1jc08n1/clipyboard_is_lifetime_free_for_the_next_24_hours/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1jc08n1/clipyboard_is_lifetime_free_for_the_next_24_hours/",
-            "title": "\ud83d\ude80 ClipyBoard is Lifetime Free for the Next 24 Hours! \ud83c\udf89",
-            "content_html": "<p>Hey everyone! </p>\n<p>I'm Gohary, the developer behind <strong>ClipyBoard</strong>, the ultimate autopaste keyboard app that\u2019s here to revolutionize your typing experience. For the next <strong>24 hours</strong>, I\u2019m making the app <strong>100% free!</strong> \ud83d\ude80</p>\n<p>\ud83d\udd25 What Makes ClipyBoard Special?</p>\n<p>\u2705 Copy &amp; organize text &amp; images easily</p>\n<p>\u2705 Extract text from images (OCR-powered magic \ud83e\ude84)</p>\n<p>\u2705 Create shortcuts for your most-used clips and recall them instantly</p>\n<p>\u2705 Lightning-fast search to find your saved clips in seconds</p>\n<p>No more endless copy-pasting or searching for the same text over and over again. With <strong>ClipyBoard</strong>, your favorite clips are just a shortcut away!</p>\n<p>We\u2019d love to hear your feedback and suggestions! Drop any questions or comments below, and I\u2019ll check in regularly to respond.</p>\n<p>If you find them useful, I\u2019d love to hear your thoughts! Also, if you enjoy the apps, a review would mean the world to me. \u2764\ufe0f</p>\n<p>How to claim your free upgrade:</p>\n<p>Download ClipyBoard: <a href=\"https://apps.apple.com/app/id6738871678\">https://apps.apple.com/app/id6738871678</a></p>\n<p>Open the app and head to Settings.</p>\n<p>Tap on Redeem Code and enter this code: \u201cgh45334k434343n\u201d. this code only work for next 24 hours , after that you can get the app lifetime discount with 75% off using this code \"gh343443b422332n3\"</p>\n<p>\u23f3 This offer is only available for the next 24 hours, so grab it while you can!</p>\n<p>Thank you for your support, and happy  Typing!</p>\n<p>Cheers, Gohary</p>\n<p>\u27a1\ufe0f Simply comment and upvote and share it with your friends \ud83e\udde1</p>",
-            "date_published": "2025-03-15T17:25:15+00:00",
-            "authors": [
-                {
-                    "name": "Goharyiii",
-                    "url": "https://www.reddit.com/user/Goharyiii"
                 }
             ]
         }
