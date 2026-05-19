@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1thhp7k",
+            "url": "/r/macapps/comments/1thhp7k/i_made_a_calm_little_app_that_your_eyes_will/",
+            "external_url": "https://v.redd.it/tx8qguzlc22h1",
+            "title": "I made a calm little app that your eyes will thank you for",
+            "content_html": "<p>This is Screen Rest.</p>\n<p>It's a calm, beautiful eye care app for Mac.</p>\n<p>It makes your eyes feel noticeably less fried by dinner.</p>\n<p>You just leave it running in the menu bar, and every 20 minutes it gently fades your screen out for 20 seconds so you can look at something far away.</p>\n<p>Or just enjoy the tiny countdown in your menu bar, ticking down to your next breather.</p>\n<p><strong>Problem:</strong></p>\n<p>Be honest. You've felt it. The 4pm headache. The weirdly dry eyes. The \"why does my face feel like it's been microwaved\" feeling after a long day on your Mac.</p>\n<p>Turns out it has a name*(Computer Vision Syndrome)* and it hits more than half of us, whether you're staring at screens for work, for Netflix, or for that one Reddit thread you can't stop reading.</p>\n<p>Eye doctors have a fix called the 20-20-20 rule. Every 20 minutes, look 20 feet away for 20 seconds. Simple, except nobody actually remembers to do it.</p>\n<p>I tried every existing app. They were either 200 MB of Electron sludge, looked like a Windows XP control panel, or popped up in the middle of a Zoom call like a complete sociopath.</p>\n<p>So I built Screen Rest to be the version I actually wanted: a tiny, native Mac app that nudges you to rest your eyes, but only when it's polite to do so.</p>\n<p><strong>Comparison:</strong></p>\n<p>Most eye-break apps treat you like a kid who needs a forced timeout. Screen Rest is the opposite:</p>\n<p>Your eyes feel better, fast. The breaks are calming and low-stim, timed long enough for your eyes to actually refocus instead of just yelling at you to stand up.</p>\n<p>It never embarrasses you on a call. Smart pause detects fullscreen apps, an active microphone, and known meeting apps like Zoom, Meet, and Teams, then politely waits its turn.</p>\n<p>Breaks you'll actually look forward to. Five full-screen themes (Classic, Midnight, Aurora, Forest, Sunset) with animated countdown rings. They feel more like a pretty screensaver than a popup.</p>\n<p>A friendly nudge, not a nag. Snooze 15m / 30m / 1h, skip with two taps of Esc, take a break instantly from the menu. It bends around your day, not the other way around.</p>\n<p>A bit of extra care. Guided box breathing, posture and blink reminders, and a weekly eye-health report so you can watch your habits improve.</p>\n<p>I made it simple to use, with a calm aesthetic that feels more like a reading lamp than a productivity app. Would love to hear your feedback and feature requests!\u00a0</p>\n<p><strong>Pricing:</strong></p>\n<p>$9.99 one time for lifetime access. Every future update included.</p>\n<p><strong>Trust/Transparency:</strong></p>\n<p>I'm Shrenik, a solo developer. My last app, couldn't be finished due to eye strain so I built this instead.</p>\n<p>The app runs completely locally and is Apple notarized.</p>\n<p>App Store:\u00a0<a href=\"https://apps.apple.com/us/app/screen-rest-blink-break-timer/id6762893008\">https://apps.apple.com/us/app/screen-rest-blink-break-timer/id6762893008</a></p>",
+            "date_published": "2026-05-19T09:32:44+00:00",
+            "authors": [
+                {
+                    "name": "NotMeThenWhoSnaps",
+                    "url": "https://www.reddit.com/user/NotMeThenWhoSnaps"
+                }
+            ]
+        },
+        {
             "id": "1tgku6g",
             "url": "/r/macapps/comments/1tgku6g/os_macusb_v22_the_all_in_one_usb_creator_for_mac/",
             "external_url": "https://i.redd.it/mhfrgaud0w1h1.gif",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Ok_Photograph2604",
                     "url": "https://www.reddit.com/user/Ok_Photograph2604"
-                }
-            ]
-        },
-        {
-            "id": "1jdss99",
-            "url": "/r/macapps/comments/1jdss99/just_launched_markdown2pdf_markdown_converter/",
-            "external_url": "https://v.redd.it/2mikb4ugmape1",
-            "title": "Just launched Markdown2PDF: Markdown Converter (Lifetime Pro Giveaway)",
-            "content_html": "<p>Hey r/macapps!</p>\n<p>I built a Mac app because I got tired of copying LLM responses into Word or Pages, only to have the formatting turn into absolute chaos (random spacing, weird font sizes, bullet points that look like they\u2019ve been through a blender).</p>\n<p>So I made\u00a0<a href=\"https://apps.apple.com/us/app/markdown2pdf-convert-markdown/id6743325583?mt=12\">Markdown2PDF</a>, a super simple, clean app that takes your markdown (from ChatGPT, Claude, Gemini, whatever you use) and turns it into a properly formatted PDF\u2014<strong>no headaches.</strong>\u00a0Just copy, paste, and export.</p>\n<p>\ud83d\ude80\u00a0<strong>Why I think it\u2019s useful:</strong><br />\n\u2705 Perfectly formatted PDFs every time<br />\n\u2705 No more weird copy/paste issues<br />\n\u2705 Works with any markdown source</p>\n<p>I just launched, so I\u2019m\u00a0<strong>giving away Lifetime Pro licenses</strong>\u00a0to folks who want to check it out.\u00a0<strong>PM me or drop a comment and I\u2019ll send you a code.</strong>\u00a0Would love to get your thoughts!</p>\n<p>Cheers!</p>",
-            "date_published": "2025-03-18T00:46:05+00:00",
-            "authors": [
-                {
-                    "name": "D1no_nugg3t",
-                    "url": "https://www.reddit.com/user/D1no_nugg3t"
                 }
             ]
         }
