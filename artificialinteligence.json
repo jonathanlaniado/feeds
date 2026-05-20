@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1tismyo",
+            "url": "/r/ArtificialInteligence/comments/1tismyo/300m_on_anthropic_tokens_zero_new_engineers_hired/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1tismyo/300m_on_anthropic_tokens_zero_new_engineers_hired/",
+            "title": "$300M on Anthropic tokens, zero new engineers hired - Salesforce is the clearest case study of where this is going",
+            "content_html": "<p>Been watching this Salesforce situation develop for a while. Benioff confirmed on the All-In podcast that the company will spend around $300 million on Anthropic tokens this year, mostly for internal coding work.</p>\n<p>What's interesting isn't just the number - it's the whole picture:</p>\n<ul>\n<li>Hired zero software engineers since January 2025</li>\n<li>AI now handles 30 to 50% of overall company workload</li>\n<li>Cut support staff from 9,000 to 5,000 using agents</li>\n<li>Agentforce just hit $800M ARR, up 169% year on year</li>\n</ul>\n<p>The money that used to go into payroll expansions is now going into token spend. That's a structural shift, not a cost-cutting round.</p>\n<p>Source: <a href=\"https://www.techloy.com/marc-benioff-says-salesforce-will-spend-300-million-on-anthropic-tokens-this-year/\">https://www.techloy.com/marc-benioff-says-salesforce-will-spend-300-million-on-anthropic-tokens-this-year/</a></p>\n<p>Full breakdown here if useful: <a href=\"https://youtu.be/WmZyStkMM1M\">https://youtu.be/WmZyStkMM1M</a></p>\n<p>Is Salesforce the template everyone else follows, or is this specific to companies that already have AI-native products to sell?</p>",
+            "date_published": "2026-05-20T17:28:57+00:00",
+            "authors": [
+                {
+                    "name": "MaJoR_-_007",
+                    "url": "https://www.reddit.com/user/MaJoR_-_007"
+                }
+            ]
+        },
+        {
             "id": "1th83ce",
             "url": "/r/ArtificialInteligence/comments/1th83ce/chatgpa_students_spent_years_getting_told_not_to/",
             "external_url": "https://pugetpress.com/2026/05/18/ai-glitch-skips-graduates-names-arizona-graduation/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "-random-name-",
                     "url": "https://www.reddit.com/user/-random-name-"
-                }
-            ]
-        },
-        {
-            "id": "1klj5q4",
-            "url": "/r/ArtificialInteligence/comments/1klj5q4/teachers_using_ai_to_grade_their_students_work/",
-            "external_url": "https://futurism.com/teachers-ai-grade-students",
-            "title": "Teachers Using AI to Grade Their Students' Work Sends a Clear Message: They Don't Matter, and Will Soon Be Obsolete",
-            "content_html": "",
-            "date_published": "2025-05-13T11:08:17+00:00",
-            "authors": [
-                {
-                    "name": "Beachbunny_07",
-                    "url": "https://www.reddit.com/user/Beachbunny_07"
                 }
             ]
         }
