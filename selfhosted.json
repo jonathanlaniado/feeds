@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1tior0l",
+            "url": "/r/selfhosted/comments/1tior0l/just_observing/",
+            "external_url": "https://i.redd.it/xlet5h307b2h1.jpeg",
+            "title": "just observing",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/xlet5h307b2h1.jpeg\" />",
+            "date_published": "2026-05-20T15:16:00+00:00",
+            "authors": [
+                {
+                    "name": "Flying-T",
+                    "url": "https://www.reddit.com/user/Flying-T"
+                }
+            ]
+        },
+        {
             "id": "1tg1sav",
             "url": "/r/selfhosted/comments/1tg1sav/profilarr_v2_is_out/",
             "external_url": "https://i.redd.it/ptvslmougr1h1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Stakeitdobby",
                     "url": "https://www.reddit.com/user/Stakeitdobby"
-                }
-            ]
-        },
-        {
-            "id": "1ktm709",
-            "url": "/r/selfhosted/comments/1ktm709/to_all_the_naysayers_saying_never_to_host_your/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1ktm709/to_all_the_naysayers_saying_never_to_host_your/",
-            "title": "To all the naysayers saying never to host your own email...",
-            "content_html": "<p>You were right.</p>\n<p>I've spent over 100 hours trying to make Stalwart and various mail clients work. I've learned a lot on the way, including that I was right 15 years ago when I vowed to never again host my own email. lol</p>",
-            "date_published": "2025-05-23T15:19:15+00:00",
-            "authors": [
-                {
-                    "name": "dougmeredith",
-                    "url": "https://www.reddit.com/user/dougmeredith"
                 }
             ]
         }
