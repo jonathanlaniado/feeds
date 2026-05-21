@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1tjl9n0",
+            "url": "/r/homeassistant/comments/1tjl9n0/i_designed_a_silent_opensource_curtain_opener/",
+            "external_url": "https://www.reddit.com/gallery/1tjl9n0",
+            "title": "I designed a silent, open-source curtain opener that runs on ESPHome",
+            "content_html": "<p>Hey r/homeassistant - I'm Daniel.</p>\n<p>About 6 years ago (ya, long time ago) I set out to build an automated curtain opener. I wanted something to open my curtains automatically in the morning, but there were no products out there. </p>\n<p>I initially open-sourced the project but it had many issues that I didn't have the time or skill to address. People have been reaching out to me over the years about it, so I finally decided to get it working again. I\u2019ve learned a lot in the last 6 years, and have completely redesigned it so it\u2019s working flawlessly.</p>\n<p>The Ropener:</p>\n<ul>\n<li>Retrofits onto your existing curtain rod. </li>\n<li>Silent TMC2209 stepper motor.</li>\n<li>ESPHome-native. Local-only. No cloud, no app. Drop the YAML in and it works. </li>\n<li>Matter optional via Matterbridge for Apple Home / Google / Alexa. </li>\n<li>Stall detection instead of end-stop switches (one less thing to align). Works on almost all curtain types.</li>\n</ul>\n<p>Everything is open source:</p>\n<ol>\n<li>STEP files + STLs on Printables: <a href=\"https://www.printables.com/model/1725737-\">https://www.printables.com/model/1725737-</a></li>\n<li>Firmware (ESPHome YAML) + PCB design (KiCad) + assembly docs on GitHub: <a href=\"https://github.com/Valar-Systems/Ropener\">https://github.com/Valar-Systems/Ropener</a></li>\n<li>License is Open Community License (OCL v1) - fork it freely for personal use.</li>\n</ol>\n<p>Fair disclosure: I started selling an assembled kit at my shop <a href=\"http://valarsystems.com\">valarsystems.com</a> for people who'd rather not source parts and print everything. But the open-source release is the default \u2014 buying the kit is just the convenience path for those who want it. Everything works standalone.</p>\n<p>Happy to answer anything about the hardware, firmware, ESPHome implementation, or the mechanical design. Will be hanging out in the comments for the next few hours.</p>\n<p>Full demo video (1 min): <a href=\"https://youtu.be/kw-FztIAOuc\">https://youtu.be/kw-FztIAOuc</a></p>",
+            "date_published": "2026-05-21T13:54:41+00:00",
+            "authors": [
+                {
+                    "name": "nutstobutts",
+                    "url": "https://www.reddit.com/user/nutstobutts"
+                }
+            ]
+        },
+        {
             "id": "1tbm80f",
             "url": "/r/homeassistant/comments/1tbm80f/my_wife_couldnt_remember_whether_she_had_taken/",
             "external_url": "https://i.redd.it/fu2qc61uct0h1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "piiitaya",
                     "url": "https://www.reddit.com/user/piiitaya"
-                }
-            ]
-        },
-        {
-            "id": "1ihj88h",
-            "url": "/r/homeassistant/comments/1ihj88h/using_an_aqara_window_contact_sensor_to_detect/",
-            "external_url": "https://www.reddit.com/gallery/1ihj88h",
-            "title": "Using an Aqara Window Contact Sensor to Detect Toilet Flushes",
-            "content_html": "",
-            "date_published": "2025-02-04T14:44:36+00:00",
-            "authors": [
-                {
-                    "name": "Duelion",
-                    "url": "https://www.reddit.com/user/Duelion"
                 }
             ]
         }
