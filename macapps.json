@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1tjs1ce",
+            "url": "/r/macapps/comments/1tjs1ce/alfred_6_is_compiling_a_warning/",
+            "external_url": "https://i.redd.it/b4q0r41m1j2h1.png",
+            "title": "Alfred 6 is compiling a warning \ud83d\udc80",
+            "content_html": "<p>Runs native. Stays local. Doesn\u2019t need cloud sync to pretend it\u2019s useful.</p><div><br></div><img src=\"https://i.redd.it/b4q0r41m1j2h1.png\" />",
+            "date_published": "2026-05-21T17:42:51+00:00",
+            "authors": [
+                {
+                    "name": "Unhappy-Tank9784",
+                    "url": "https://www.reddit.com/user/Unhappy-Tank9784"
+                }
+            ]
+        },
+        {
             "id": "1thhp7k",
             "url": "/r/macapps/comments/1thhp7k/i_made_a_calm_little_app_that_your_eyes_will/",
             "external_url": "https://v.redd.it/tx8qguzlc22h1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "johnsonjohnson",
                     "url": "https://www.reddit.com/user/johnsonjohnson"
-                }
-            ]
-        },
-        {
-            "id": "1jlhu3w",
-            "url": "/r/macapps/comments/1jlhu3w/quit_my_job_a_year_ago_to_build_a_notetaking_app/",
-            "external_url": "https://www.reddit.com/gallery/1jlhu3w",
-            "title": "Quit my job a year ago to build a note-taking app",
-            "content_html": "<p><strong>*Before we start:</strong> The app isn\u2019t fully optimized for Mac (support M chip series only) yet, but I'm considering dedicating more time to enhancing its Mac functionalities. Would you be interested in a version with more tailored features for Mac? Your feedback would really help guide my efforts.  </p>\n<p>I used to work as an iOS developer in a well-paying job, but I always had the urge to build something of my own rather than work on other people\u2019s ideas. Since I'm still young, I figured this was the perfect time to take the leap, quit my job, and give it a real shot.</p>\n<p>I've always been passionate about note-taking, so I decided to build one myself. I know the market is crowded, but I wanted to create something with features that stand out\u2014and make it\u00a0<strong><em>completely free</em></strong>\u00a0to use.</p>\n<p>The app,\u00a0<em>Notedrafts</em>, supports three different types of notes:</p>\n<ul>\n<li>PDF/Notebook-style notes</li>\n<li>Infinite Canvas (similar to Apple Freeform)</li>\n<li>Vertical Notes (like the Apple Notes app)</li>\n</ul>\n<p>On top of that, you can fully customize templates to suit your workflow. Notedrafts offers planners, habit trackers, and more\u2014and you can tweak them however you like, from changing dates to adjusting the number of habits you want to track.</p>\n<p>It's available on the App Store. It was mainly build for the iPad and Apple Pencil but you can also use it on your iPhone and draw with your finger:\u00a0<a href=\"https://apps.apple.com/app/id6743032079\">Notedrafts on App Store</a></p>",
-            "date_published": "2025-03-28T00:01:55+00:00",
-            "authors": [
-                {
-                    "name": "Ok_Photograph2604",
-                    "url": "https://www.reddit.com/user/Ok_Photograph2604"
                 }
             ]
         }
