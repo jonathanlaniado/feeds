@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1tlga7r",
+            "url": "/r/ArtificialInteligence/comments/1tlga7r/f_this_guy_graduation_speakers_keep_getting_booed/",
+            "external_url": "https://www.independent.co.uk/news/world/americas/ai-college-graduation-eric-schmidt-google-b2981383.html?utm_source=reddit&utm_medium=social&utm_campaign=artificialinteligence",
+            "title": "\u2018F*** this guy\u2019: Graduation speakers keep getting booed for talking about artificial intelligence",
+            "content_html": "",
+            "date_published": "2026-05-23T13:18:09+00:00",
+            "authors": [
+                {
+                    "name": "theindependentonline",
+                    "url": "https://www.reddit.com/user/theindependentonline"
+                }
+            ]
+        },
+        {
             "id": "1tkb16g",
             "url": "/r/ArtificialInteligence/comments/1tkb16g/microsoft_cancels_internal_anthropic_licenses_as/",
             "external_url": "https://www.thelowdownblog.com/2026/05/microsoft-cancels-internal-anthropic.html",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "nbcnews",
                     "url": "https://www.reddit.com/user/nbcnews"
-                }
-            ]
-        },
-        {
-            "id": "1klxfpx",
-            "url": "/r/ArtificialInteligence/comments/1klxfpx/mark_zuckerbergs_ai_vision_for_meta_looks_scary/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1klxfpx/mark_zuckerbergs_ai_vision_for_meta_looks_scary/",
-            "title": "Mark Zuckerberg's AI vision for Meta looks scary wrong",
-            "content_html": "<p>In a recent podcast, he laid out the vision for Meta AI - and he's clueless about how creepy it sounds. Facebook and Insta are already full of AI-generated junk. And Meta plans to rely on it as their core strategy, instead of fighting it.</p>\n<p>Mark wants an \"ultimate black box\" for ads, where businesses specify outcomes, and AI figures out whatever it takes to make it happen. Mainly by gathering all your data and hyper-personalizing your feed.</p>\n<p>Mark says Americans have just 3 close friends but \"demand\" for \\~15, suggesting AI could fill this gap. He outlines 3 epochs of content generation: real friends -&gt; creators -&gt; AI-generated content. The last one means feeds dominated by AI and recommendations.</p>\n<p>He claims AI friends will complement real friendships. But Meta\u2019s track record suggests they'll actually substitute real relationships.</p>\n<p>Zuck insists if people choose something, it's valuable. And that's bullshit - AI can manipulate users into purchases.\u00a0Good AI friends might exist, but given their goals and incentives, it's more likely they'll become addictive agents designed to exploit.</p>",
-            "date_published": "2025-05-13T21:06:13+00:00",
-            "authors": [
-                {
-                    "name": "LeoKhomenko",
-                    "url": "https://www.reddit.com/user/LeoKhomenko"
                 }
             ]
         }
