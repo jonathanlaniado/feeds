@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1toj80o",
+            "url": "/r/selfhosted/comments/1toj80o/i_built_a/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1toj80o/i_built_a/",
+            "title": "\u201cI built a\u2026\u201d",
+            "content_html": "<p>No, no you didn\u2019t. </p>",
+            "date_published": "2026-05-26T20:29:10+00:00",
+            "authors": [
+                {
+                    "name": "zee-eff-ess",
+                    "url": "https://www.reddit.com/user/zee-eff-ess"
+                }
+            ]
+        },
+        {
             "id": "1tkerv9",
             "url": "/r/selfhosted/comments/1tkerv9/plexs_lifetime_pass_is_basically_dead_heres_how/",
             "external_url": "https://gardinerbryant.com/plexs-lifetime-pass-is-basically-dead-heres-how-to-switch-to-jellyfin/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Folstorm91",
                     "url": "https://www.reddit.com/user/Folstorm91"
-                }
-            ]
-        },
-        {
-            "id": "1kyao7w",
-            "url": "/r/selfhosted/comments/1kyao7w/would_anyone_be_interested_in_an_open_source/",
-            "external_url": "https://i.redd.it/w80hm0df2q3f1.jpeg",
-            "title": "Would anyone be interested in an open source Trading View alternative?",
-            "content_html": "<p>I\u2019ve been working on a charting tool for the last year, heavily debating if I should make it open source and try to foster a community around it. It\u2019s not really a developer aimed project and majority of users would be non technical so I don\u2019t know if I\u2019ll really get the open source benefit I expect.</p>\n<p>Would love your thoughts if you think it\u2019s a good idea. </p><div><br></div><img src=\"https://i.redd.it/w80hm0df2q3f1.jpeg\" />",
-            "date_published": "2025-05-29T13:22:41+00:00",
-            "authors": [
-                {
-                    "name": "ChartSpire_123",
-                    "url": "https://www.reddit.com/user/ChartSpire_123"
                 }
             ]
         }
