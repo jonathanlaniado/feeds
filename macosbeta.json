@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1tp3vgf",
+            "url": "/r/MacOSBeta/comments/1tp3vgf/mods_can_we_get_a_rule_that_clarifies_this_sub_is/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1tp3vgf/mods_can_we_get_a_rule_that_clarifies_this_sub_is/",
+            "title": "Mods can we get a rule that clarifies this sub is only for OS based posts, not for promoting beta apps on macOS?",
+            "content_html": "<p>I\u2019ve noticed an uptick in vibe coded apps and AI slop promotions. When I went to report them I saw there was no rule I could cite as the reason for the report.</p>\n<p>If mods want help screening I\u2019m happy to help, even if it\u2019s just for this specific issue.</p>",
+            "date_published": "2026-05-27T12:19:10+00:00",
+            "authors": [
+                {
+                    "name": "quintsreddit",
+                    "url": "https://www.reddit.com/user/quintsreddit"
+                }
+            ]
+        },
+        {
             "id": "1t3oyk0",
             "url": "/r/MacOSBeta/comments/1t3oyk0/macos_265_rc_has_been_released/",
             "external_url": "https://i.redd.it/zltshrjyq5zg1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "squidkidzz",
                     "url": "https://www.reddit.com/user/squidkidzz"
-                }
-            ]
-        },
-        {
-            "id": "1mhb7p2",
-            "url": "/r/MacOSBeta/comments/1mhb7p2/beta_5_today/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1mhb7p2/beta_5_today/",
-            "title": "Beta 5 today?",
-            "content_html": "<p>Beta 5 hopefully comes out today :) What are you looking for in this beta?</p>\n<p>As for me...</p>\n<ul>\n<li>\n<p>There still are performance (input lag) issues on beta 4 on my M2 Max mbpro</p>\n</li>\n<li>\n<p>I also feel like they still need to change the animation of dialogs opening, its still the animation from Sequoia. The new animation style in all other UI elements seems to be no-bounce-back, ease-out animations. Like \"ease out <strong>expo</strong>\" on <a href=\"https://easings.net\">easings.net</a>, instead of \"ease out <strong>back</strong>\"</p>\n</li>\n<li>\n<p>Finder, Preview, System Settings etc still feel rough around the edges</p>\n</li>\n<li>\n<p>The spotlight icons for menu bar actions etc look very out of place</p>\n</li>\n</ul>",
-            "date_published": "2025-08-04T11:47:25+00:00",
-            "authors": [
-                {
-                    "name": "Merlindru",
-                    "url": "https://www.reddit.com/user/Merlindru"
                 }
             ]
         }
