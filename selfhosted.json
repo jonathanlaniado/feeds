@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1tp9wbd",
+            "url": "/r/selfhosted/comments/1tp9wbd/found_the_kryptonite_for_ai_seo_slop_posters/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1tp9wbd/found_the_kryptonite_for_ai_seo_slop_posters/",
+            "title": "Found the kryptonite for AI SEO slop posters",
+            "content_html": "<p>The reason many of these... creatures... post here, and on Reddit in general is for SEO.   </p>\n<p>Reddit ranks highly in search results, which humans and LLMs alike use.   </p>\n<p>I'm sure you have all seen the 'I have problem x, and have tried y and z. Curious what others are doing?' type posts. Then the promoted product is often (not always) inserted into the comments by an army of alt accounts sandwiched between actually good and established products to boost perceived authenticity further.</p>\n<p>Anyway, it turns out you can simply comment about how bad their shit is, and since this makes their efforts backfire, they swiftly delete their own slop. </p>\n<p>Delightful!</p>\n<p>Screenshot below for reference</p>\n<p>https://preview.redd.it/ts12w2f7dp3h1.png?width=1102&amp;format=png&amp;auto=webp&amp;s=b75a60099be2619818db860f6f2fea2fb92040df</p>",
+            "date_published": "2026-05-27T16:00:50+00:00",
+            "authors": [
+                {
+                    "name": "PigeonRipper",
+                    "url": "https://www.reddit.com/user/PigeonRipper"
+                }
+            ]
+        },
+        {
             "id": "1toj80o",
             "url": "/r/selfhosted/comments/1toj80o/i_built_a/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1toj80o/i_built_a/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "human_garbage_UwU",
                     "url": "https://www.reddit.com/user/human_garbage_UwU"
-                }
-            ]
-        },
-        {
-            "id": "1kz44m9",
-            "url": "/r/selfhosted/comments/1kz44m9/thank_you_rselfhosted_couldnt_have_built_this/",
-            "external_url": "https://i.redd.it/qsqqlgkj7x3f1.jpeg",
-            "title": "Thank You r/selfhosted, Couldn't Have Built This Without You!",
-            "content_html": "<p>Just wanted to take a moment to thank this amazing community for everything you\u2019ve built, shared, and taught. A massive shoutout to every developer, contributor, and helpful commenter who makes self-hosting possible for all of us. \ud83d\ude4c</p><div><br></div><img src=\"https://i.redd.it/qsqqlgkj7x3f1.jpeg\" />",
-            "date_published": "2025-05-30T13:23:49+00:00",
-            "authors": [
-                {
-                    "name": "Folstorm91",
-                    "url": "https://www.reddit.com/user/Folstorm91"
                 }
             ]
         }
