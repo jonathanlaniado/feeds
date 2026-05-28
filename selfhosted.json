@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1tq40zc",
+            "url": "/r/selfhosted/comments/1tq40zc/please_update_gitea_and_forgejo_private_container/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1tq40zc/please_update_gitea_and_forgejo_private_container/",
+            "title": "Please update Gitea and Forgejo,  Private Container Images Were Never Private",
+            "content_html": "<p>If you run a self-hosted Gitea instance with the container registry enabled, your \u201cprivate\u201d images were not private. CVE-2026-27771, disclosed this week, reveals that any unauthenticated person on the internet could pull container images marked as private from Gitea deployments, no account, no password, no credentials required. The flaw went undetected for close to four years and likely affects more than 30,000 deployments worldwide</p>\n<p><a href=\"https://byteiota.com/gitea-cve-2026-27771-private-container-images-were-never-private/\">https://byteiota.com/gitea-cve-2026-27771-private-container-images-were-never-private/</a></p>",
+            "date_published": "2026-05-28T13:42:18+00:00",
+            "authors": [
+                {
+                    "name": "Buildthehomelab",
+                    "url": "https://www.reddit.com/user/Buildthehomelab"
+                }
+            ]
+        },
+        {
             "id": "1tp9wbd",
             "url": "/r/selfhosted/comments/1tp9wbd/found_the_kryptonite_for_ai_seo_slop_posters/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1tp9wbd/found_the_kryptonite_for_ai_seo_slop_posters/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "stalerok",
                     "url": "https://www.reddit.com/user/stalerok"
-                }
-            ]
-        },
-        {
-            "id": "1kzysyy",
-            "url": "/r/selfhosted/comments/1kzysyy/a_promising_fork_of_sunshine_called_duo_appears/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1kzysyy/a_promising_fork_of_sunshine_called_duo_appears/",
-            "title": "A promising fork of Sunshine (called DUO) appears to be violating GPL \u2014 hoping the dev will do the right thing",
-            "content_html": "<p>Hey everyone,</p>\n<p>I wanted to bring attention to a project called DUO \u2014 it\u2019s a fork of Sunshine that adds multiseat gaming features. Honestly, the concept is super cool, and I was really excited to use it and potentially contribute.</p>\n<p>But after looking into it, I realized the developer is putting key features behind a paywall (via Patreon) and has only released partial source code, saying \u201cthe open source parts\u201d are available \u2014 while keeping the rest closed.</p>\n<p>Since Sunshine is licensed under the GPLv3, this is very likely a license violation. The GPL requires that if you modify or build on a GPL-licensed project and distribute it (even behind a paywall), you must also release all of the modified code under the same GPL license.</p>\n<p>I\u2019ve opened an issue on the DUO GitHub repo explaining this in detail and citing sources from the Free Software Foundation and the license itself:\n\ud83d\udc49 <a href=\"https://github.com/DuoStream/Duo/issues/294\">Here\u2019s the GitHub issue I filed</a></p>\n<p>I\u2019m not trying to attack the dev here \u2014 I know maintaining projects is hard work, and DUO clearly took effort. But I also don\u2019t think it\u2019s right to build on open source work and then close off large parts of the result. That\u2019s not how open source works, and it goes against the license that allowed this kind of innovation in the first place.</p>\n<p>If anyone else is concerned or can offer insight (especially if you\u2019ve dealt with GPL enforcement before), feel free to chime in on the issue or raise visibility. Hopefully with enough attention the developer will bring the project into compliance.</p>\n<p>Thanks!</p>",
-            "date_published": "2025-05-31T14:46:41+00:00",
-            "authors": [
-                {
-                    "name": "human_garbage_UwU",
-                    "url": "https://www.reddit.com/user/human_garbage_UwU"
                 }
             ]
         }
