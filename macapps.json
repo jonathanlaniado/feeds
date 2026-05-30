@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1ts7sxr",
+            "url": "/r/macapps/comments/1ts7sxr/dory_an_app_switcher_for_people_who_cant_remember/",
+            "external_url": "https://v.redd.it/e2o7b5xikb4h1",
+            "title": "Dory - An app switcher for people who can\u2019t remember shortcuts - celebrating one year \ud83c\udf89 [promo codes giveaway]",
+            "content_html": "<p>Hey everyone!\u00a0</p>\n<p>Dory was released exactly\u00a0one year ago and since then I\u2019ve received tons of great feedback that has helped me refine and improve the app.</p>\n<p><strong>As a small token of appreciation, upvote and leave a comment below, and I\u2019ll randomly share promo codes while supplies last.</strong></p>\n<p>--</p>\n<p>Dory is an app switcher and launcher for people who can\u2019t remember shortcuts.</p>\n<p>Just click your middle mouse button (or right Command key) and start typing the app name.<br />\nType the first letter, middle letters, an acronym, or a similar app name.<br />\nYou can also keep tapping the first letter to cycle through apps that start with it.</p>\n<p>Prefer tapping over holding? No problem. With Press Mode, you can open Dory\u2019s sleek UI using a global shortcut or a trackpad gesture.</p>\n<p>No extra shortcuts.<br />\nNo setup. Nothing to remember.</p>\n<p>Dory works right out of the box - and over time, it learns which apps you use most and prioritizes them.</p>\n<p>Simple. Fast. Effortless.</p>\n<p>----</p>\n<p><strong>Key Features:</strong></p>\n<p>\u2022 Switch apps by typing the first letter, middle letters, acronyms, or similar app names using\u00a0fuzzy search<br />\n\u2022 Keep tapping the same letter to cycle through matching apps<br />\n\u2022 Learns your habits and prioritizes the apps you use most<br />\n\u2022 Works instantly out of the box with no setup required<br />\n\u2022 Can be used as both an app switcher and an app launcher</p>\n<p><strong>Beautiful UI:</strong><br />\n\u2022 Three beautiful UI modes to choose from<br />\n\u2022 Multiple size options for each UI mode</p>\n<p><strong>Trigger Dory using:</strong></p>\n<p>\u2022 A mouse button<br />\n\u2022 Modifier key hold<br />\n\u2022 Modifier tap or double tap<br />\n\u2022 Modifier plus key combination<br />\n\u2022 Hyperkey<br />\n\u2022 Trackpad gesture</p>\n<p><strong>Keyboard Layout Support:</strong></p>\n<p>\u2022 QWERTY<br />\n\u2022 Dvorak<br />\n\u2022 AZERTY</p>\n<p>--</p>\n<p><strong>Comparison:</strong></p>\n<p>rcmd -\u00a0Before Dory, rcmd was my go-to app switcher. It's a fantastic app, and I used it daily for a long time. What led me to create Dory was a desire for a more visual experience and the ability to launch and switch between apps using the mouse.</p>\n<p>--</p>\n<p><strong>Pricing:</strong></p>\n<p>It's currently $9.99 on the\u00a0<a href=\"https://apps.apple.com/us/app/dory-app-switcher/id6746273626?mt=12\">App Store</a>\u00a0</p>\n<p>(<strong>One-time purchase</strong>.\u00a0<strong>No subscription. Privacy-first - no cloud, no data collection</strong>)</p>",
+            "date_published": "2026-05-30T18:39:23+00:00",
+            "authors": [
+                {
+                    "name": "segevs",
+                    "url": "https://www.reddit.com/user/segevs"
+                }
+            ]
+        },
+        {
             "id": "1tjs1ce",
             "url": "/r/macapps/comments/1tjs1ce/alfred_6_is_compiling_a_warning/",
             "external_url": "https://i.redd.it/b4q0r41m1j2h1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "jakecoolguy",
                     "url": "https://www.reddit.com/user/jakecoolguy"
-                }
-            ]
-        },
-        {
-            "id": "1jnsp3n",
-            "url": "/r/macapps/comments/1jnsp3n/antinote_113_dropdown_mode_v_ocr_autopaste/",
-            "external_url": "https://v.redd.it/rbq6gxykawre1",
-            "title": "Antinote 1.1.3 - Dropdown mode. \u2318V OCR. AutoPaste. Raycast and Alfred extensions. Translucency. 8 new themes.",
-            "content_html": "<p>Hi! Johnson (dev) here! Excited to share some of these new features with the community.</p>\n<p><strong>Dropdown mode (Traditional menu mode)</strong> - Antinote can now live permanently in your menu bar, dropping down when needed. It will show over full-screen apps and also on all desktops. You can change how big you want Antinote to be in settings.</p>\n<p><strong>Cmd-V OCR</strong> - Any image you drag (and now paste) into Antinote will get automatically OCR'd into plain text. Perfect for catching things during screen-shares or hard-to-copy data tables.</p>\n<p><strong>AutoPaste</strong> - Type \"paste\" and Antinote will listen to your clipboard. Anything you put in the clipboard will be automatically pasted in the note. Change the delimiter to anything you like. Great to skip the tedious cmd-tab / cmd+v part of these quick workflows.</p>\n<p><strong>Raycast / Alfred Extensions -</strong> Thanks to <a href=\"https://github.com/sc0\">PanKacper</a>, we are now <a href=\"https://www.raycast.com/sc0/antinote\">officially in the Raycast Store</a>, and also have an <a href=\"https://github.com/sc0/antinote-alfred-workflow/tree/main\">Alfred Extension</a>. These will let you create notes (blank or with content), pin/unpin, and search your notes directly from your favourite super-app.</p>\n<p><strong>Translucency -</strong> (macOS 15+) - Make the background translucent with Apple's materials and change the opacity of the effect to blend it with your favourite theme.</p>\n<p><strong>8 new themes</strong> -  Piccolo, A24, Tartan, Agrabah, Maud'Dib, Knight, Sanrio, Shadow Moses. Not sure how many of you will get the references, but each is inspired by something from my childhood.</p>\n<p>Every single one of these were suggestions from the community. Please <a href=\"https://discord.gg/2SKQbJM9Mz\">join us on Discord.</a> </p>\n<p>Also - I wanted to shout out this YouTube channel (AppsNTips) for making the first Antinote video out in the wild: <a href=\"https://www.youtube.com/watch?v=kQKGOPgOiuI\">https://www.youtube.com/watch?v=kQKGOPgOiuI</a></p>\n<p><strong>Try it out here:</strong></p>\n<h1><a href=\"https://antinote.io\">Antinote.io</a></h1>\n<p>7 day free trial</p>\n<p><strong>$5 one-time.</strong> Forever updates.</p>",
-            "date_published": "2025-03-31T02:06:50+00:00",
-            "authors": [
-                {
-                    "name": "johnsonjohnson",
-                    "url": "https://www.reddit.com/user/johnsonjohnson"
                 }
             ]
         }
