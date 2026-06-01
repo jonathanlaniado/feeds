@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1ttve5y",
+            "url": "/r/selfhosted/comments/1ttve5y/stravas_new_developer_program_just_killed_every/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1ttve5y/stravas_new_developer_program_just_killed_every/",
+            "title": "Strava's new developer program just killed every open-source, self-hosted Strava app",
+            "content_html": "<p>Strava posted an \"update to our developer program\" today and it basically means the end for people that were building their own tools around Strava's API:</p>\n<p><a href=\"https://communityhub.strava.com/insider-journal-9/an-update-to-our-developer-program-13428\">https://communityhub.strava.com/insider-journal-9/an-update-to-our-developer-program-13428</a></p>\n<p>I'm the maintainer of \"<a href=\"https://github.com/robiningelbrecht/statistics-for-strava\">Statistics for Strava</a>\", a moderately successful self-hosted, open-source dashboard for your Strava data.</p>\n<p>At this moment in time I'm still kinda shocked. I poured my heart and soul into the project for the last 2 years and it seems like this announcement marks the end for this app. The article basically says that their API will be pay-walled, 100%. So only users with an active subscription can use their API.</p>\n<p>The whole purpose of Statistics for Strava was for people to own their data, their own health stats, that they upload and that's now goners....unless you pay up... to fetch your own data \ud83d\ude0e .</p>\n<blockquote>\n<p>At Strava, we care deeply about developers, and the health of the developer ecosystem</p>\n</blockquote>\n<p>Except they don't, the only thing they did is pay-walled their API and made sorry excuses for it. They have proven over and over again that they don't care about their users or their data.</p>\n<p>Not sure what to do, I feel gutted. Might be overreacting</p>",
+            "date_published": "2026-06-01T15:18:22+00:00",
+            "authors": [
+                {
+                    "name": "frogfuhrer",
+                    "url": "https://www.reddit.com/user/frogfuhrer"
+                }
+            ]
+        },
+        {
             "id": "1ttcqzt",
             "url": "/r/selfhosted/comments/1ttcqzt/when_the_server_finally_runs_stable_after_3_weeks/",
             "external_url": "https://i.redd.it/2purr0cgjk4h1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "LeIdrimi",
                     "url": "https://www.reddit.com/user/LeIdrimi"
-                }
-            ]
-        },
-        {
-            "id": "1l63fdc",
-            "url": "/r/selfhosted/comments/1l63fdc/wtf_man_youtube_is_specifically_sniping_the_foss/",
-            "external_url": "https://www.reddit.com/gallery/1l63fdc",
-            "title": "Wtf man. Youtube is specifically sniping the Foss and free alternative content",
-            "content_html": "<p>For context Jeff's yt channel got strike for showing \"DANGEROUS AND HARMFUL CONTENT\" to his videos of \"I replaced  my Apple TV - with a raspberry pi\" and his jellyfin on Nas also go strike after 2 years. I also using jellyfin and found his video quite useful. What are your thoughts about this. </p>",
-            "date_published": "2025-06-08T04:14:37+00:00",
-            "authors": [
-                {
-                    "name": "MrRagnarok2005",
-                    "url": "https://www.reddit.com/user/MrRagnarok2005"
                 }
             ]
         }
