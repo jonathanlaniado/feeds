@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1ttcqzt",
+            "url": "/r/selfhosted/comments/1ttcqzt/when_the_server_finally_runs_stable_after_3_weeks/",
+            "external_url": "https://i.redd.it/2purr0cgjk4h1.jpeg",
+            "title": "When the server finally runs stable after 3 weeks of debugging",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/2purr0cgjk4h1.jpeg\" />",
+            "date_published": "2026-06-01T00:49:13+00:00",
+            "authors": [
+                {
+                    "name": "Chapper_App",
+                    "url": "https://www.reddit.com/user/Chapper_App"
+                }
+            ]
+        },
+        {
             "id": "1tq40zc",
             "url": "/r/selfhosted/comments/1tq40zc/please_update_gitea_and_forgejo_private_container/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1tq40zc/please_update_gitea_and_forgejo_private_container/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MrRagnarok2005",
                     "url": "https://www.reddit.com/user/MrRagnarok2005"
-                }
-            ]
-        },
-        {
-            "id": "1l30gq7",
-            "url": "/r/selfhosted/comments/1l30gq7/we_have_a_world_server_throwing_championship/",
-            "external_url": "https://www.reddit.com/gallery/1l30gq7",
-            "title": "We have a world Server Throwing Championship",
-            "content_html": "<p>https://www.cloudfest.com/world-server-throwing-championship</p>",
-            "date_published": "2025-06-04T08:40:09+00:00",
-            "authors": [
-                {
-                    "name": "stalerok",
-                    "url": "https://www.reddit.com/user/stalerok"
                 }
             ]
         }
