@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1tuzyxy",
+            "url": "/r/selfhosted/comments/1tuzyxy/guys_its_time/",
+            "external_url": "https://stopmakingarrs.org",
+            "title": "Guys, it's time.",
+            "content_html": "<p>Made tongue in cheek and with good intentions. No death threats please.</p>",
+            "date_published": "2026-06-02T18:37:17+00:00",
+            "authors": [
+                {
+                    "name": "not_the_seltzer",
+                    "url": "https://www.reddit.com/user/not_the_seltzer"
+                }
+            ]
+        },
+        {
             "id": "1ttve5y",
             "url": "/r/selfhosted/comments/1ttve5y/stravas_new_developer_program_just_killed_every/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1ttve5y/stravas_new_developer_program_just_killed_every/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "hayzefr",
                     "url": "https://www.reddit.com/user/hayzefr"
-                }
-            ]
-        },
-        {
-            "id": "1lbz3a6",
-            "url": "/r/selfhosted/comments/1lbz3a6/update_4_open_source_sonos_alternative_based_on/",
-            "external_url": "https://www.reddit.com/gallery/1lbz3a6",
-            "title": "Update 4: Open source sonos alternative based on raspberry pi (metadata & spotify)",
-            "content_html": "<p>23 days ago i started posting about the progress of building my own sonos alternative, based on open sources software. </p>\n<p>As people started to get confused and i don\u2019t wanna summarize everything and make super long posts, here\u2019s the post history: r/beatnikAudio.</p>\n<p>The main progress this week was the Spotify Connect integration.\nI added a section in the tutorial how to add the spotify stream. 2 important remarks: A.Spotify connect only works with Spotify Premium. B. No proper metadata yet. (details here:https://www.reddit.com/r/selfhosted/comments/1l9jlhm/update_35_spotify_open_source_sonos_alternative/)</p>\n<p>Airplay1 &amp; 2: MacOs/iOS\nI added a second Airplay stream to the tutorial. What is pretty nice, is that things like youtube, tidal and all the stuff is working using airplay.\nBut also here: metadata is sometimes not standardized. I guess i will have to look into how snapcast handles the streams and maybe map some lost metadata, anyone experience with this?</p>\n<p>Stream Components\nAdded some components in the app to manage streams. (see picture 3)</p>\n<p>You can find the updated repo here (v.0.0.2):\nhttps://github.com/byrdsandbytes/snapcast-pi</p>\n<p>Thanks to the wonderful people, that say annoying things like, \u201eI am still utterly confused as to what is snapcast pi and what ist beatnik.\u201c, i have to think about, explain &amp; name things. So i made a graph. (First pic). What do you think? Does that help?</p>\n<p>Next steps are going to clean up the messy web app and make a first release. Any suggestions which license? (GPLv3, AGPLv3, or go full anarchy with MIT?)</p>\n<p>Note: the first release is not gone be well documented, full of bugs &amp; therefore not production ready. </p>\n<p>Thanks for asking questions &amp; staring on github. I\u2019m enjoying this. \ud83c\udf88</p>",
-            "date_published": "2025-06-15T12:24:29+00:00",
-            "authors": [
-                {
-                    "name": "LeIdrimi",
-                    "url": "https://www.reddit.com/user/LeIdrimi"
                 }
             ]
         }
