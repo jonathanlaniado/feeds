@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1tyioyy",
+            "url": "/r/ArtificialInteligence/comments/1tyioyy/a_company_just_sent_me_the_most_detailed/",
+            "external_url": "https://i.redd.it/xv8ehtat9o5h1.jpeg",
+            "title": "A company just sent me the most detailed rejection email I\u2019ve ever received",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/xv8ehtat9o5h1.jpeg\" />",
+            "date_published": "2026-06-06T14:26:27+00:00",
+            "authors": [
+                {
+                    "name": "whenyoupeeupsidedown",
+                    "url": "https://www.reddit.com/user/whenyoupeeupsidedown"
+                }
+            ]
+        },
+        {
             "id": "1txlh2j",
             "url": "/r/ArtificialInteligence/comments/1txlh2j/the_popes_new_ai_manifesto_is_a_massive_pitch_for/",
             "external_url": "https://i.redd.it/u8acmp8zxg5h1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Beachbunny_07",
                     "url": "https://www.reddit.com/user/Beachbunny_07"
-                }
-            ]
-        },
-        {
-            "id": "1kowm4j",
-            "url": "/r/ArtificialInteligence/comments/1kowm4j/honest_and_candid_observations_from_a_data/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1kowm4j/honest_and_candid_observations_from_a_data/",
-            "title": "Honest and candid observations from a data scientist on this sub",
-            "content_html": "<p>Not to be rude, but the level of data literacy and basic understanding of LLMs, AI, data science etc on this sub is very low, to the point where every 2nd post is catastrophising about the end of humanity, or AI stealing your job. Please educate yourself about how LLMs work, what they can do, what they aren't and the limitations of current LLM transformer methodology. In my experience we are 20-30 years away from true AGI (artificial general intelligence) - what the old school definition of AI was - sentience, self-learning, adaptive, recursive AI model. LLMs are not this and for my 2 cents, never will be - AGI will require a real step change in methodology and probably a scientific breakthrough along the magnitude of 1st computers, or theory of relativity etc.</p>\n<p>TLDR - please calm down the doomsday rhetoric and educate yourself on LLMs.</p>\n<p>EDIT: LLM's are not true 'AI' in the classical sense, there is no sentience, or critical thinking, or objectivity and we have not delivered artificial general intelligence (AGI) yet - the new fangled way of saying true AI. They are in essence just sophisticated next-word prediction systems. They have fancy bodywork, a nice paint job and do a very good approximation of AGI, but it's just a neat magic trick.</p>\n<p>They cannot predict future events, pick stocks, understand nuance or handle ethical/moral questions. They lie when they cannot generate the data, make up sources and straight up misinterpret news.</p>",
-            "date_published": "2025-05-17T16:10:27+00:00",
-            "authors": [
-                {
-                    "name": "disaster_story_69",
-                    "url": "https://www.reddit.com/user/disaster_story_69"
                 }
             ]
         }
