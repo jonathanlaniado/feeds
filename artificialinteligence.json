@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1tzsw30",
+            "url": "/r/ArtificialInteligence/comments/1tzsw30/nvidias_vp_says_compute_now_costs_more_than/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1tzsw30/nvidias_vp_says_compute_now_costs_more_than/",
+            "title": "Nvidia's VP says compute now costs more than employees. Uber just proved it by burning its entire AI budget in 4 months.",
+            "content_html": "<p>Nvidia's VP of applied deep learning said publicly that for his team, the cost of compute now exceeds what they pay their people. That is the company building the chips that power the whole industry saying that out loud.</p>\n<p>Uber's CTO confirmed the same math from the other side. The full 2026 AI coding budget is gone by April. Engineers were generating $500 to $2,000 a month in token costs alone, not licenses, not hardware, just prompts.</p>\n<p>At what point does the token pricing model have to change?</p>\n<p>Source: <a href=\"https://fortune.com/2026/04/28/nvidia-executive-cost-of-ai-is-greater-than-cost-of-employees/\">https://fortune.com/2026/04/28/nvidia-executive-cost-of-ai-is-greater-than-cost-of-employees/</a></p>\n<p>Made a short visual breakdown of these numbers: AI narrated, cinematic style, about 3 minutes: <a href=\"https://youtu.be/a1zR986ID9s\">https://youtu.be/a1zR986ID9s</a></p>",
+            "date_published": "2026-06-08T00:34:38+00:00",
+            "authors": [
+                {
+                    "name": "MaJoR_-_007",
+                    "url": "https://www.reddit.com/user/MaJoR_-_007"
+                }
+            ]
+        },
+        {
             "id": "1tz7539",
             "url": "/r/ArtificialInteligence/comments/1tz7539/water_please/",
             "external_url": "https://i.redd.it/anqhi2uitt5h1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Cadowyn",
                     "url": "https://www.reddit.com/user/Cadowyn"
-                }
-            ]
-        },
-        {
-            "id": "1kr9qwl",
-            "url": "/r/ArtificialInteligence/comments/1kr9qwl/microsoft_strikes_deal_with_musk_to_host_grok_ai/",
-            "external_url": "https://www.indiaweekly.biz/microsoft-elon-musk-grok-ai-azure/",
-            "title": "Microsoft strikes deal with Musk to host Grok AI in its cloud servers",
-            "content_html": "",
-            "date_published": "2025-05-20T16:48:15+00:00",
-            "authors": [
-                {
-                    "name": "intelerks",
-                    "url": "https://www.reddit.com/user/intelerks"
                 }
             ]
         }
