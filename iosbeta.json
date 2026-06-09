@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1u0kn3h",
+            "url": "/r/iOSBeta/comments/1u0kn3h/ios_27_db_1_siris_feedback_error_reporting_gives/",
+            "external_url": "https://i.redd.it/8yq9zfesh46h1.jpeg",
+            "title": "[iOS 27 DB 1] Siri\u2019s Feedback Error reporting gives out full LLM instructions",
+            "content_html": "<p>The new Siri seems really good from my very limited testing, but when I asked to make a reminder urgent for tomorrow, it didn\u2019t work. When I went to report it, I noticed in the error reporting feedback a file named <em>Siri Diagnostics</em>. I was curious as to what it entailed and looked at it. Turns out, there\u2019s the FULL instruction given to the LLM model in it. I feel like it might not be allowed to share the whole thing, so I\u2019ll simply share a screenshot of the first line. Test it yourselves if you want the whole thing, or be braver than me and share it in the comments. It\u2019s very VERY long though, scrolling through made my iPhone lag.</p><div><br></div><img src=\"https://i.redd.it/8yq9zfesh46h1.jpeg\" />",
+            "date_published": "2026-06-08T20:59:38+00:00",
+            "authors": [
+                {
+                    "name": "julienberthelot",
+                    "url": "https://www.reddit.com/user/julienberthelot"
+                }
+            ]
+        },
+        {
             "id": "1u0lqkw",
             "url": "/r/iOSBeta/comments/1u0lqkw/ios_27_db_1_new_workout_ui_layout/",
             "external_url": "https://i.redd.it/yz6vts65p46h1.jpeg",
@@ -1386,20 +1400,6 @@
             "title": "iOS 26 Beta 1 - Discussion",
             "content_html": "<p>Summer beta season is upon us!</p>\n<p>Please use this thread to share any and all updates you discover while using the latest iOS/iPadOS 26 beta.</p>\n<p>This thread should be used for discussion of the betas that may not meet our submission guidelines, as well as troubleshooting small issues through the beta test cycle.</p>\n<p>Further discussion can be found on the\u00a0<a href=\"https://discord.gg/a9b9ftH7kT\">iOS Beta Discord</a></p>\n<p>New MOD action to counter spam.</p>\n<p>Spamming this discussion with comments about battery life, safari being snappier, etc will result in a ban from the sub moving forward.</p>",
             "date_published": "2025-06-09T19:08:41+00:00",
-            "authors": [
-                {
-                    "name": "epmuscle",
-                    "url": "https://www.reddit.com/user/epmuscle"
-                }
-            ]
-        },
-        {
-            "id": "1kgaysy",
-            "url": "/r/iOSBeta/comments/1kgaysy/ios_185_rc_discussion/",
-            "external_url": "https://www.reddit.com/r/iOSBeta/comments/1kgaysy/ios_185_rc_discussion/",
-            "title": "iOS 18.5 RC - Discussion",
-            "content_html": "<p>Please use this thread to share any and all updates you discover while using the latest iOS/iPadOS 18.5 beta. </p>\n<p>This thread should be used for discussion of the betas that may not meet our submission guidelines, as well as troubleshooting small issues through the beta test cycle.</p>\n<p>Further discussion can be found on the\u00a0<a href=\"https://discord.gg/a9b9ftH7kT\">iOS Beta Discord</a></p>",
-            "date_published": "2025-05-06T17:52:41+00:00",
             "authors": [
                 {
                     "name": "epmuscle",
