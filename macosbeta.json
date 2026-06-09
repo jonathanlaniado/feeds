@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1u1e52m",
+            "url": "/r/MacOSBeta/comments/1u1e52m/the_possibilities_are_endless/",
+            "external_url": "https://www.reddit.com/gallery/1u1e52m",
+            "title": "The possibilities are endless",
+            "content_html": "",
+            "date_published": "2026-06-09T18:52:21+00:00",
+            "authors": [
+                {
+                    "name": "ax1xxm",
+                    "url": "https://www.reddit.com/user/ax1xxm"
+                }
+            ]
+        },
+        {
             "id": "1u1aqs8",
             "url": "/r/MacOSBeta/comments/1u1aqs8/macos_27_now_automatically_scales_properly_for/",
             "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1u1aqs8/macos_27_now_automatically_scales_properly_for/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ferrum_salvator",
                     "url": "https://www.reddit.com/user/ferrum_salvator"
-                }
-            ]
-        },
-        {
-            "id": "1mlbjbb",
-            "url": "/r/MacOSBeta/comments/1mlbjbb/macos_26_is_a_uiux_disaster/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1mlbjbb/macos_26_is_a_uiux_disaster/",
-            "title": "macOS 26 is a UI/UX disaster",
-            "content_html": "<p>MacOS 26 is the worst experience I\u2019ve had on a Mac.</p>\n<p>The UI feels like it\u2019s been redesigned by someone who\u2019s never actually used macOS before. Everything is bigger, clunkier, and slower to navigate. Common actions that used to be second nature now take extra clicks or have been buried in places that make zero sense.</p>\n<p>It\u2019s like Apple decided to chase \u201cmodern\u201d design trends at the expense of actual usability. Shadows, animations, and transparency everywhere, meanwhile, workflows that were smooth in previous versions now feel frustrating and broken.</p>\n<p>The UX changes are even worse. Menu bar spacing, Finder quirks, and Settings layouts have all regressed. Nothing feels cohesive. I\u2019m constantly hunting for basic functions because someone thought \u201cdifferent\u201d automatically meant \u201cbetter.\u201d Spoiler: it doesn\u2019t.</p>\n<p>macOS 26 isn\u2019t sleek or elegant, it\u2019s clumsy, inconsistent, and distracting.</p>\n<p>Hopefully this is something that is being addressed before the full release otherwise, I think they'll be having their own \"Vista\" moment.</p>\n<p>Anyone else feeling the same?</p>",
-            "date_published": "2025-08-09T00:19:27+00:00",
-            "authors": [
-                {
-                    "name": "CoffeeOverLann",
-                    "url": "https://www.reddit.com/user/CoffeeOverLann"
                 }
             ]
         }
