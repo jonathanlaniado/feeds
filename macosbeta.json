@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1u15hku",
+            "url": "/r/MacOSBeta/comments/1u15hku/macos_27_db1_macos_has_full_touchscreen_support/",
+            "external_url": "https://v.redd.it/4a1qww4jh96h1",
+            "title": "[macOS 27 DB1] macOS has full touchscreen support on Sidecar now",
+            "content_html": "<p>I guess that touchscreen MacBook really is coming huh?</p>",
+            "date_published": "2026-06-09T13:47:23+00:00",
+            "authors": [
+                {
+                    "name": "divensi",
+                    "url": "https://www.reddit.com/user/divensi"
+                }
+            ]
+        },
+        {
             "id": "1u0zk65",
             "url": "/r/MacOSBeta/comments/1u0zk65/done_installing_macos_golden_gate_beta/",
             "external_url": "https://i.redd.it/o6rzp0ul186h1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "rcrter9194",
                     "url": "https://www.reddit.com/user/rcrter9194"
-                }
-            ]
-        },
-        {
-            "id": "1mixnyz",
-            "url": "/r/MacOSBeta/comments/1mixnyz/tahoe_sidebar_is_logically_wrong/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1mixnyz/tahoe_sidebar_is_logically_wrong/",
-            "title": "Tahoe Sidebar is Logically Wrong",
-            "content_html": "<p>https://preview.redd.it/zsihlt4gjchf1.png?width=2032&amp;format=png&amp;auto=webp&amp;s=b43dea55999e4667d38805fdf577a2bca4402df7</p>\n<p>The sidebar is floating, which implies that it is temporary and that there is something underneath. This is not the case!!! The way the apps are laid out, the sidebar should be <em>attached</em> to the main content, not hovering over it.This shit is driving me insane\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d</p>",
-            "date_published": "2025-08-06T06:54:19+00:00",
-            "authors": [
-                {
-                    "name": "Miecza",
-                    "url": "https://www.reddit.com/user/Miecza"
                 }
             ]
         }
