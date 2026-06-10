@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1u1lxio",
+            "url": "/r/iOSBeta/comments/1u1lxio/ios_27_db1_new_aipowered_phone_app_feature_that/",
+            "external_url": "https://v.redd.it/hu5j33fxgc6h1",
+            "title": "[iOS 27 DB1] New AI-powered phone app feature that surfaces relevant information from other apps about the person you are calling.",
+            "content_html": "<p>WWDC used airline details when showing this feature, but it makes sense that birthdays would naturally be surfaced as well.</p>\n<p>If you pay attention, you can also see a new subtle zoom-in animation when the call is picked up. In addition, the \u2018leave a voicemail\u2019 voice is now the voice of the new Siri. </p>",
+            "date_published": "2026-06-09T23:49:05+00:00",
+            "authors": [
+                {
+                    "name": "AegisHBear",
+                    "url": "https://www.reddit.com/user/AegisHBear"
+                }
+            ]
+        },
+        {
             "id": "1u1qvp4",
             "url": "/r/iOSBeta/comments/1u1qvp4/ios_27_db1_clean_up_tool_now_has_generative_ai/",
             "external_url": "https://i.redd.it/94gflvhfld6h1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "jeremyw013",
                     "url": "https://www.reddit.com/user/jeremyw013"
-                }
-            ]
-        },
-        {
-            "id": "1l7kcrs",
-            "url": "/r/iOSBeta/comments/1l7kcrs/ios_26_db1_new_ui_tab_switching/",
-            "external_url": "https://v.redd.it/d7dduyveoz5f1",
-            "title": "[iOS 26 DB1] New UI tab switching",
-            "content_html": "<p>It appears that you can slide through different tabs, and when doing so the bubble moves with your finger. Kinda cool? </p>",
-            "date_published": "2025-06-09T23:50:12+00:00",
-            "authors": [
-                {
-                    "name": "WhomstIsMe",
-                    "url": "https://www.reddit.com/user/WhomstIsMe"
                 }
             ]
         }
