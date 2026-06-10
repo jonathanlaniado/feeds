@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1u1g0bq",
+            "url": "/r/iOSBeta/comments/1u1g0bq/ios_27_db1_airpods_equalizer_is_available/",
+            "external_url": "https://www.reddit.com/gallery/1u1g0bq",
+            "title": "[iOS 27 DB1] AirPods equalizer is available.",
+            "content_html": "<p>Just checked my AirPods and I have the new EQ setting available.</p>\n<p>EDIT: I have beta firmware enabled; this is on AirPods Pro 2, had the case charging near my phone at work when I noticed the update. It took around 20 min or so.</p>",
+            "date_published": "2026-06-09T19:59:13+00:00",
+            "authors": [
+                {
+                    "name": "Pal947",
+                    "url": "https://www.reddit.com/user/Pal947"
+                }
+            ]
+        },
+        {
             "id": "1u150n2",
             "url": "/r/iOSBeta/comments/1u150n2/ios_27_db1_audio_miniplayer_in_carplay/",
             "external_url": "https://i.redd.it/jpn6rgk8e96h1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "koheen",
                     "url": "https://www.reddit.com/user/koheen"
-                }
-            ]
-        },
-        {
-            "id": "1l7f4am",
-            "url": "/r/iOSBeta/comments/1l7f4am/ios_26_db1_adaptive_power_toggle/",
-            "external_url": "https://i.redd.it/v28xz3nfly5f1.jpeg",
-            "title": "[iOS 26 DB1] Adaptive Power toggle",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/v28xz3nfly5f1.jpeg\" />",
-            "date_published": "2025-06-09T20:11:43+00:00",
-            "authors": [
-                {
-                    "name": "SheepherderGood2955",
-                    "url": "https://www.reddit.com/user/SheepherderGood2955"
                 }
             ]
         }
