@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1u1qfg5",
+            "url": "/r/ArtificialInteligence/comments/1u1qfg5/cost_of_ai_or_revenue_of_ai_how_did_we_get_it/",
+            "external_url": "https://i.redd.it/duvtwnqvgd6h1.jpeg",
+            "title": "Cost of AI or Revenue of AI - How did we get it wrong?",
+            "content_html": "<p>Claude's Fable 5 is costing/earning pretty decent but the maths don't math in long term, it seems. Apart from the actual costs of LLMs, people using them efficiently may cost companies more than what AI displaced if you take into account AI is also likely to destroy the demand with so many displaced jobs. How did we not account this for?<br />\nThe context: Claude Fable 5 is \\~2x the price of Opus 4.8. $10/$50 per Mtok vs $5/$25. A Mythos-class model is brutally expensive to serve, and Anthropic doesn't have the GPUs to bundle it into subscriptions at scale yet. So:</p>\n<p>June 9\u201322: included on Pro/Max/Team at no extra cost\nJune 23: pulled from plans, switches to usage credits\nLater: restored as standard \"when capacity allows\"</p>\n<p>Frontier models will no longer be included in subs. You\u2019ll pay a fee and it will only get you access to older, much cheaper models.</p>\n<p>If you want access to that dank AI sour diesel, you\u2019re going to need to pay for every token you use. No more subsidies. And it make sense. The subsidies were just a Ponzi scheme.</p>\n<p>but this will also create a huge wealth and opportunity gap within each country and between countries too.</p>\n<p><a href=\"https://x.com/i/status/2064419409620250886\">https://x.com/i/status/2064419409620250886</a></p><div><br></div><img src=\"https://i.redd.it/duvtwnqvgd6h1.jpeg\" />",
+            "date_published": "2026-06-10T03:14:35+00:00",
+            "authors": [
+                {
+                    "name": "ranaji55",
+                    "url": "https://www.reddit.com/user/ranaji55"
+                }
+            ]
+        },
+        {
             "id": "1u0bpqs",
             "url": "/r/ArtificialInteligence/comments/1u0bpqs/arxiv_to_ban_researchers_for_a_year_if_they/",
             "external_url": "https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Real_Enthusiasm_2657",
                     "url": "https://www.reddit.com/user/Real_Enthusiasm_2657"
-                }
-            ]
-        },
-        {
-            "id": "1ks87yb",
-            "url": "/r/ArtificialInteligence/comments/1ks87yb/iphone_designer_jony_ive_joining_openai_as_part/",
-            "external_url": "https://www.cbsnews.com/news/jony-ive-iphone-designer-apple-openai/",
-            "title": "iPhone designer Jony Ive joining OpenAI as part of $6.5 billion deal",
-            "content_html": "",
-            "date_published": "2025-05-21T20:28:17+00:00",
-            "authors": [
-                {
-                    "name": "CBSnews",
-                    "url": "https://www.reddit.com/user/CBSnews"
                 }
             ]
         }
