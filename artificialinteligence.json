@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1u20tap",
+            "url": "/r/ArtificialInteligence/comments/1u20tap/models_are_hitting_diminishing_returns_within/",
+            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1u20tap/models_are_hitting_diminishing_returns_within/",
+            "title": "Models Are Hitting Diminishing Returns Within Software Engineering",
+            "content_html": "<p>For the creds: I'm a distinguished engineer at a hyperscaler and work in the space.</p>\n<p>We've seen Claude's Fable 5 release recently, and I've been having a go at it. Thus far, I wouldn't be able to tell if you did a blind test which model I was using. If you had put Opus 4.6, 4.7, 4.8 and Fable in my Claude Code setup, based on the work I do and how I work, I wouldn't be able to tell which is which.</p>\n<p>The reasoning is pretty straightforward, in that I never 'one-shot' a project. Since I need to understand every component inside and out, I work in small chunks - and I'm not alone. Moreover, models have had access to the Internet's wide suite of information such as API docs, best practices, etc for a while - which added 'intelligence' of a certain flavour to the models outputs.</p>\n<p>So when you look at how software engineers in industry work, we work in singular abstractions, test those abstractions and move on. I can almost do this today with local Gemma 4 models. This is also true for system architecture asks, where understanding every component is pretty crucial. And Fable still hallucinates on this.</p>\n<p>Example: Fable got the AWS ALB/ECS draining behaviour completely wrong, and confidently so. The only reason I was able to catch it is that I was already familiar with how those two pieces work together.</p>\n<p>So anyways, in short, we're hitting an asymptotic limit here. I'm not getting more value from every model release anymore, and the way I work isn't changing. Having spoken to my colleagues who are heavy AI enjoyers, my views also track with their own experiences as well.</p>\n<p>Anecdotally, by this time next year, I believe there will be local models you can run on a 128GB MacBook Pro that will provide 90% of the value Claude adds to my software engineering work today. I can already see this with the current suite of open source models. </p>",
+            "date_published": "2026-06-10T12:29:25+00:00",
+            "authors": [
+                {
+                    "name": "element-94",
+                    "url": "https://www.reddit.com/user/element-94"
+                }
+            ]
+        },
+        {
             "id": "1u1qfg5",
             "url": "/r/ArtificialInteligence/comments/1u1qfg5/cost_of_ai_or_revenue_of_ai_how_did_we_get_it/",
             "external_url": "https://i.redd.it/duvtwnqvgd6h1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Tiny-Independent273",
                     "url": "https://www.reddit.com/user/Tiny-Independent273"
-                }
-            ]
-        },
-        {
-            "id": "1ksvxvh",
-            "url": "/r/ArtificialInteligence/comments/1ksvxvh/claude_4_launched/",
-            "external_url": "https://www.anthropic.com/pricing#api",
-            "title": "Claude 4 Launched",
-            "content_html": "<p>Look at its price.</p>",
-            "date_published": "2025-05-22T17:02:34+00:00",
-            "authors": [
-                {
-                    "name": "Real_Enthusiasm_2657",
-                    "url": "https://www.reddit.com/user/Real_Enthusiasm_2657"
                 }
             ]
         }
