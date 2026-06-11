@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1u2qso4",
+            "url": "/r/MacOSBeta/comments/1u2qso4/the_reframe_tool_is_crazy_good/",
+            "external_url": "https://v.redd.it/ziop63h6gl6h1",
+            "title": "The Reframe Tool is crazy good",
+            "content_html": "<p>I was messing around trying the new AI features in the Photos app when I came across the Reframe tool. The result was absolutely mind-blowing considering how much the AI had to fill in for the empty space, and how extreme I set the perspectives. Did it mess up and garble some small text and detail in the background? Yes. But damn, even considering that I took this photo years ago on an Android and it was still able to be this accurate... I have a feeling Apple did something right this time.</p>",
+            "date_published": "2026-06-11T06:09:03+00:00",
+            "authors": [
+                {
+                    "name": "IlllIlilIIIIIlll",
+                    "url": "https://www.reddit.com/user/IlllIlilIIIIIlll"
+                }
+            ]
+        },
+        {
             "id": "1u230xv",
             "url": "/r/MacOSBeta/comments/1u230xv/macos_27_db_1_emoji_selector_window_has_a/",
             "external_url": "https://i.redd.it/9l8tdqrmog6h1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Sergeykondukov",
                     "url": "https://www.reddit.com/user/Sergeykondukov"
-                }
-            ]
-        },
-        {
-            "id": "1mnmi8p",
-            "url": "/r/MacOSBeta/comments/1mnmi8p/notchless_macbook_teased/",
-            "external_url": "https://i.redd.it/6912zsb9yfif1.png",
-            "title": "Notchless Macbook Teased?",
-            "content_html": "<p>macOS Tahoe beta 6 welcoming guide</p><div><br></div><img src=\"https://i.redd.it/6912zsb9yfif1.png\" />",
-            "date_published": "2025-08-11T19:24:39+00:00",
-            "authors": [
-                {
-                    "name": "That_Gingerbread",
-                    "url": "https://www.reddit.com/user/That_Gingerbread"
                 }
             ]
         }
