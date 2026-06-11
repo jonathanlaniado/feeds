@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1u2fn07",
+            "url": "/r/iOSBeta/comments/1u2fn07/ios_27_db1_ios_storage_allocation_now_shows/",
+            "external_url": "https://i.redd.it/7y594v5kxi6h1.jpeg",
+            "title": "[iOS 27 DB1] \u201ciOS\u201d Storage allocation now shows Reseved Auto-Update Space.",
+            "content_html": "<p>Scroll to the buttom of iPhone storage, then tap iOS\u2026</p>\n<p>Edit: If you don\u2019t have Automatic Updates on, you wont see this and to get rid of this, just turn off Automatic Updates in Software Updates settings.</p><div><br></div><img src=\"https://i.redd.it/7y594v5kxi6h1.jpeg\" />",
+            "date_published": "2026-06-10T21:33:00+00:00",
+            "authors": [
+                {
+                    "name": "VegetableHorse1",
+                    "url": "https://www.reddit.com/user/VegetableHorse1"
+                }
+            ]
+        },
+        {
             "id": "1u1lxio",
             "url": "/r/iOSBeta/comments/1u1lxio/ios_27_db1_new_aipowered_phone_app_feature_that/",
             "external_url": "https://v.redd.it/hu5j33fxgc6h1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Decent-Round-5961",
                     "url": "https://www.reddit.com/user/Decent-Round-5961"
-                }
-            ]
-        },
-        {
-            "id": "1l7mtnf",
-            "url": "/r/iOSBeta/comments/1l7mtnf/ios_26_db1_psa_safari_tab_bar_can_be_changed/",
-            "external_url": "https://i.redd.it/ofu7npew906f1.jpeg",
-            "title": "[iOS 26 DB1] PSA: safari tab bar can be changed!",
-            "content_html": "<p>because i can already see everyone complaining about the compact safari design, you can revert to the old one. you\u2019re welcome. i swear if someone ruins this for us again like with ios 15, i will not be happy.</p><div><br></div><img src=\"https://i.redd.it/ofu7npew906f1.jpeg\" />",
-            "date_published": "2025-06-10T01:50:39+00:00",
-            "authors": [
-                {
-                    "name": "jeremyw013",
-                    "url": "https://www.reddit.com/user/jeremyw013"
                 }
             ]
         }
