@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1u2ntmx",
+            "url": "/r/iOSBeta/comments/1u2ntmx/ios_27_db1_intelligent_connectivity/",
+            "external_url": "https://www.reddit.com/gallery/1u2ntmx",
+            "title": "[iOS 27 DB1] Intelligent Connectivity",
+            "content_html": "<p>Not sure if I see a meaningful difference. Tried running a speedtest on my 17p and my M5 mbp connected to the same wifi. </p>",
+            "date_published": "2026-06-11T03:35:11+00:00",
+            "authors": [
+                {
+                    "name": "boljy_rox",
+                    "url": "https://www.reddit.com/user/boljy_rox"
+                }
+            ]
+        },
+        {
             "id": "1u2fn07",
             "url": "/r/iOSBeta/comments/1u2fn07/ios_27_db1_ios_storage_allocation_now_shows/",
             "external_url": "https://i.redd.it/7y594v5kxi6h1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "joshuasaji123",
                     "url": "https://www.reddit.com/user/joshuasaji123"
-                }
-            ]
-        },
-        {
-            "id": "1l7y8fv",
-            "url": "/r/iOSBeta/comments/1l7y8fv/ios_26_db1_clean_back_camera_warning/",
-            "external_url": "https://i.redd.it/sfxebxgbm36f1.jpeg",
-            "title": "[IOS 26 DB1] Clean Back Camera Warning",
-            "content_html": "<p>I think this is a great feature since especially at night you can\u2019t tell if your lens is dirty or not.</p>\n<p>PS: Also i noticed a bug when posting this. If you enable faceid to open photos, apps can\u2019t acces your gallery.</p><div><br></div><img src=\"https://i.redd.it/sfxebxgbm36f1.jpeg\" />",
-            "date_published": "2025-06-10T13:05:35+00:00",
-            "authors": [
-                {
-                    "name": "Decent-Round-5961",
-                    "url": "https://www.reddit.com/user/Decent-Round-5961"
                 }
             ]
         }
