@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1u334e5",
+            "url": "/r/iOSBeta/comments/1u334e5/ios_27_db1_hold_assist_now_predicts_wait_times/",
+            "external_url": "https://i.redd.it/5lz6nid1fo6h1.jpeg",
+            "title": "[iOS 27 DB1] Hold Assist Now Predicts Wait Times",
+            "content_html": "<p>I don\u2019t know how it could possibly be doing this, but the Hold Assist feature introduced last year seems to be predicting call hold times until someone picks up. The call had only been going for 10 minutes at this point and that duration is accurately reflected on the call screen, and the number in the dynamic was steadily counting down. Very neat if it\u2019s accurate.</p><div><br></div><img src=\"https://i.redd.it/5lz6nid1fo6h1.jpeg\" />",
+            "date_published": "2026-06-11T15:59:51+00:00",
+            "authors": [
+                {
+                    "name": "cbro2afutk",
+                    "url": "https://www.reddit.com/user/cbro2afutk"
+                }
+            ]
+        },
+        {
             "id": "1u2zqkx",
             "url": "/r/iOSBeta/comments/1u2zqkx/ios_27_db1_multilingual_keyboards_now/",
             "external_url": "https://v.redd.it/n6numnfisn6h1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "SkyGuy182",
                     "url": "https://www.reddit.com/user/SkyGuy182"
-                }
-            ]
-        },
-        {
-            "id": "1l803ff",
-            "url": "/r/iOSBeta/comments/1l803ff/ios_26_db_1_airpods_connection_splash_screen/",
-            "external_url": "https://i.redd.it/l845r01n046f1.jpeg",
-            "title": "[iOS 26 DB 1] AirPods connection splash screen",
-            "content_html": "<p>New AirPods connection splash screen detailing new features; charging reminders, pause on sleep, and camera control</p><div><br></div><img src=\"https://i.redd.it/l845r01n046f1.jpeg\" />",
-            "date_published": "2025-06-10T14:25:54+00:00",
-            "authors": [
-                {
-                    "name": "Jealous-Drink-5442",
-                    "url": "https://www.reddit.com/user/Jealous-Drink-5442"
                 }
             ]
         }
