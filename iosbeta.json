@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1u3uh4j",
+            "url": "/r/iOSBeta/comments/1u3uh4j/ipados_27_db1_more_of_ui_can_be_navigated_by_a/",
+            "external_url": "https://v.redd.it/sjd035f9mu6h1",
+            "title": "[iPadOS 27 DB1] More of UI can be navigated by a gamepad",
+            "content_html": "<p>The iPad mini 6 feels just a little more like a Steam Deck. Shame that you still can't click stuff in apps and go back to home screen</p>",
+            "date_published": "2026-06-12T12:54:42+00:00",
+            "authors": [
+                {
+                    "name": "veave",
+                    "url": "https://www.reddit.com/user/veave"
+                }
+            ]
+        },
+        {
             "id": "1u3gv6g",
             "url": "/r/iOSBeta/comments/1u3gv6g/ios_27_db1_siriais_ability_to_end_convos/",
             "external_url": "https://www.reddit.com/r/iOSBeta/comments/1u3gv6g/ios_27_db1_siriais_ability_to_end_convos/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Avizum",
                     "url": "https://www.reddit.com/user/Avizum"
-                }
-            ]
-        },
-        {
-            "id": "1l8h75k",
-            "url": "/r/iOSBeta/comments/1l8h75k/ios_26_db1_glass_on_top_of_glass_refracts_to/",
-            "external_url": "https://v.redd.it/5j5hi31gj76f1",
-            "title": "[iOS 26 DB1] Glass on top of glass refracts to create a rainbow.",
-            "content_html": "<p>Not seen anyone mention this small detail, but it\u2019s hard to spot unless you have a solid background.</p>",
-            "date_published": "2025-06-11T02:16:43+00:00",
-            "authors": [
-                {
-                    "name": "BOOP-79",
-                    "url": "https://www.reddit.com/user/BOOP-79"
                 }
             ]
         }
