@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1u4wqnj",
+            "url": "/r/selfhosted/comments/1u4wqnj/psa_oracle_is_changing_free_tier_limits_update_by/",
+            "external_url": "https://www.reddit.com/gallery/1u4wqnj",
+            "title": "PSA: Oracle is changing free tier limits. Update by the 15th to avoid charges",
+            "content_html": "<p>Original post (can't crosspost): <a href=\"https://www.reddit.com/r/oraclecloud/s/jypxIpfvqT\">https://www.reddit.com/r/oraclecloud/s/jypxIpfvqT</a>  </p>\n<p><a href=\"https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm\">https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm</a></p>\n<p>New limits:</p>\n<p>- ARM: <strong>2 OCPUs and 12GB of RAM</strong> (from 4 OCPUs and 24GB of RAM)</p>\n<p><strong>-</strong> AMD: Not changing (1 CPU, 1 GB)</p>\n<p>Billing starts on the 15th (in 2 days). <strong>Update your instances by then, otherwise free instances will be shut down and PAYG instances will be charged $10-15 at the end of the month.</strong> Oracle decided to not notify their users about this...</p>\n<p>To update the instance:</p>\n<ol>\n<li>Back up any important data</li>\n<li>Log in to Oracle Cloud dashboard, head to the \"Instances\" section and click on your instance.</li>\n<li>Click on Actions -&gt; More actions -&gt; Edit (see 3rd image)</li>\n<li>Change \"Number of OCPUs\" to <strong>2</strong> and \"Amount of Memory\" to <strong>12</strong> (see 4th image)</li>\n<li>Click \"Save changes\". The new limits will be applied and your instance will restart.</li>\n</ol>",
+            "date_published": "2026-06-13T17:24:31+00:00",
+            "authors": [
+                {
+                    "name": "DigFancy3264",
+                    "url": "https://www.reddit.com/user/DigFancy3264"
+                }
+            ]
+        },
+        {
             "id": "1u2vflg",
             "url": "/r/selfhosted/comments/1u2vflg/i_think_i_might_be_living_with_some_disabilities/",
             "external_url": "https://i.redd.it/vet4ovqstm6h1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "SuperSaiyan1010",
                     "url": "https://www.reddit.com/user/SuperSaiyan1010"
-                }
-            ]
-        },
-        {
-            "id": "1lebp62",
-            "url": "/r/selfhosted/comments/1lebp62/happy_world_backup_day/",
-            "external_url": "https://i.imgur.com/GEvB1zP.png",
-            "title": "Happy World Backup Day",
-            "content_html": "<div><br></div><img src=\"https://i.imgur.com/GEvB1zP.png\" />",
-            "date_published": "2025-06-18T08:17:45+00:00",
-            "authors": [
-                {
-                    "name": "goincybumsy",
-                    "url": "https://www.reddit.com/user/goincybumsy"
                 }
             ]
         }
