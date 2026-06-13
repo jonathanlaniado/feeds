@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1u4iw89",
+            "url": "/r/MacOSBeta/comments/1u4iw89/apple_music_on_macos_should_autohide_the_liquid/",
+            "external_url": "https://i.redd.it/sn0ghkmlpz6h1.jpeg",
+            "title": "Apple Music on macOS should auto-hide the Liquid Glass controls in full-screen lyrics mode",
+            "content_html": "<p>Does anyone else feel that the three Liquid Glass controls in Apple Music\u2019s full-screen lyrics view on macOS are way too distracting?</p>\n<p>In full-screen mode, they just sit there permanently, which feels very awkward and visually inconsistent. They stand out too much and break the immersion, especially compared to the iPhone experience where the controls automatically disappear after a few seconds of inactivity and only reappear when you interact with the screen.</p>\n<p>I really think these controls should auto-hide after about 5 seconds of inactivity and come back when the mouse is moved.</p>\n<p>I\u2019ve always had the feeling that Apple Music on macOS and iPhone isn\u2019t being designed by the same team. There are a lot of small inconsistencies between the two platforms. Maybe we should all submit feedback to Apple and push for a more unified experience.</p>\n<p>Yes or No\ud83e\udd28\ud83e\uddd0\ud83e\udd14</p><div><br></div><img src=\"https://i.redd.it/sn0ghkmlpz6h1.jpeg\" />",
+            "date_published": "2026-06-13T05:58:41+00:00",
+            "authors": [
+                {
+                    "name": "Jacktai76",
+                    "url": "https://www.reddit.com/user/Jacktai76"
+                }
+            ]
+        },
+        {
             "id": "1u3ygvl",
             "url": "/r/MacOSBeta/comments/1u3ygvl/widget_update_macos_27_beta/",
             "external_url": "https://i.redd.it/fqnij8uzdv6h1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "0ssamaak0",
                     "url": "https://www.reddit.com/user/0ssamaak0"
-                }
-            ]
-        },
-        {
-            "id": "1mp8txo",
-            "url": "/r/MacOSBeta/comments/1mp8txo/my_app_liquidglassified_for_macos_tahoe_which/",
-            "external_url": "https://i.redd.it/kx2imqpiatif1.jpeg",
-            "title": "My app liquid-glassified for macOS Tahoe. Which version do you prefer?",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/kx2imqpiatif1.jpeg\" />",
-            "date_published": "2025-08-13T16:15:49+00:00",
-            "authors": [
-                {
-                    "name": "onodera-punpun",
-                    "url": "https://www.reddit.com/user/onodera-punpun"
                 }
             ]
         }
