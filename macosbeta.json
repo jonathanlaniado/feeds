@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1u5unm8",
+            "url": "/r/MacOSBeta/comments/1u5unm8/safari_describe_an_extension/",
+            "external_url": "https://i.redd.it/9hqqiqwqwa7h1.png",
+            "title": "Safari \"Describe an Extension\"",
+            "content_html": "<p>One thing I feel like isn't getting as much attention as it deserves is the \"Describe an Extension\" feature in Safari 27.0.  In case you're not familiar, you can use the foundation model to essentially vibe code a custom Safari extension to do whatever you want (within reason).  At first, I was a little lost on what I would actually use that I don't already have - and then it hit me.  I am all the time trying to scramble for a place to take notes, write down phone numbers, etc. especially when I'm on the phone with one hand and using the Mac to navigate with the other.  So here it is: a fully functioning Safari extension that give me place to type quick notes with a few formatting options and a share button to export to message, notes, and a few other apps with a click.  Not bad.</p>\n<p>What I wasn't able to get it to do yet was replace the formatting buttons and share buttons with SF symbols, even when providing the official name of each symbol.  If anyone is able to get it to drop SF symbols in their labels, please let me know how they phrased their prompt.</p>\n<p>What other ideas have you all come up with?</p>\n<p>Edit: I realize a note taking extension likely exists in the form of other extensions on either Safari or other browsers, but I'm pretty excited about the customization it offers me to build and extension (almost) the way I want it.</p><div><br></div><img src=\"https://i.redd.it/9hqqiqwqwa7h1.png\" />",
+            "date_published": "2026-06-14T19:42:30+00:00",
+            "authors": [
+                {
+                    "name": "AlarmedRange7258",
+                    "url": "https://www.reddit.com/user/AlarmedRange7258"
+                }
+            ]
+        },
+        {
             "id": "1u5p277",
             "url": "/r/MacOSBeta/comments/1u5p277/i_got_fast_on_the_trigger_went_better_than_i/",
             "external_url": "https://www.reddit.com/gallery/1u5p277",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "FammasMaz",
                     "url": "https://www.reddit.com/user/FammasMaz"
-                }
-            ]
-        },
-        {
-            "id": "1mqkwav",
-            "url": "/r/MacOSBeta/comments/1mqkwav/latest_260_beta_using_entire_hard_drive_for_system/",
-            "external_url": "https://i.redd.it/atiofjuaf3jf1.png",
-            "title": "Latest 26.0 beta using entire hard drive for system",
-            "content_html": "<p>See title. Decided to update my 16\" M3 pro macbook to the latest Tahoe beta because it's not my primary machine and boy was that a mistake. Supposedly system is using up 1.5 TB of my hard drive; I haven't figured out exactly how yet, because both system preferences and daisydisk are stuck \"calculating\" the usage. Anyone else having this issue or similar?</p><div><br></div><img src=\"https://i.redd.it/atiofjuaf3jf1.png\" />",
-            "date_published": "2025-08-15T02:23:59+00:00",
-            "authors": [
-                {
-                    "name": "personalist",
-                    "url": "https://www.reddit.com/user/personalist"
                 }
             ]
         }
