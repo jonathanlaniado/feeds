@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1u5h65f",
+            "url": "/r/iOSBeta/comments/1u5h65f/ios_27_db1_upcoming_transactions_from_connected/",
+            "external_url": "https://i.redd.it/qb4zgxi3287h1.jpeg",
+            "title": "[iOS 27 DB1] Upcoming transactions from connected bank accounts",
+            "content_html": "<p>Wallet now shows upcoming transactions for bank accounts connected by open banking. Opening the notification shows a calendar of expected transactions such as your salary coming in and bills coming out. </p><div><br></div><img src=\"https://i.redd.it/qb4zgxi3287h1.jpeg\" />",
+            "date_published": "2026-06-14T10:02:57+00:00",
+            "authors": [
+                {
+                    "name": "buss_lichtjaar",
+                    "url": "https://www.reddit.com/user/buss_lichtjaar"
+                }
+            ]
+        },
+        {
             "id": "1u4upow",
             "url": "/r/iOSBeta/comments/1u4upow/ios_27_db1_airpods_led_now_matches_in_the_popup/",
             "external_url": "https://www.reddit.com/gallery/1u4upow",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "thisisanonymous95",
                     "url": "https://www.reddit.com/user/thisisanonymous95"
-                }
-            ]
-        },
-        {
-            "id": "1l8tj4r",
-            "url": "/r/iOSBeta/comments/1l8tj4r/ios_26_db1_keyboard_typeface_changed_to_sf/",
-            "external_url": "https://i.redd.it/jyuy5epo1b6f1.png",
-            "title": "[iOS 26 DB1] Keyboard typeface changed to SF Compact Display",
-            "content_html": "<p>Personally not a fan of this change. Keys are also narrower, and keycap letters appear a bit vertically misaligned. I'm on a 13 mini though; maybe this isn't true on bigger phones or pads.</p><div><br></div><img src=\"https://i.redd.it/jyuy5epo1b6f1.png\" />",
-            "date_published": "2025-06-11T14:04:39+00:00",
-            "authors": [
-                {
-                    "name": "hova414",
-                    "url": "https://www.reddit.com/user/hova414"
                 }
             ]
         }
