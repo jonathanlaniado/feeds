@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1u5p277",
+            "url": "/r/MacOSBeta/comments/1u5p277/i_got_fast_on_the_trigger_went_better_than_i/",
+            "external_url": "https://www.reddit.com/gallery/1u5p277",
+            "title": "I got fast on the trigger - went better than I could dream of",
+            "content_html": "<p>So, I was thinking last few days and decided to pull the trigger.</p>\n<p>Updates all to 27. And as someone coming from public beta 26 - this what should look more like an \"alpha\" actually resolves tons of issues.</p>\n<p>My SAN time machine backups are running again, Little Snitch dropped a nightly build and works perfectly.</p>\n<p>Upgrading Apple TV which is a Hub for automation and Ipad Pro, from there - i'll ensure everyone in household devices are updates.</p>\n<p>What a job! This \"developers\" edition is far more stable and bug free than Public Beta. Glad I plugged the trigger on my main M3 Ultra.</p>\n<p>(Not affiliated with apple just pleasantly surprised).</p>",
+            "date_published": "2026-06-14T16:05:09+00:00",
+            "authors": [
+                {
+                    "name": "scertic",
+                    "url": "https://www.reddit.com/user/scertic"
+                }
+            ]
+        },
+        {
             "id": "1u4iw89",
             "url": "/r/MacOSBeta/comments/1u4iw89/apple_music_on_macos_should_autohide_the_liquid/",
             "external_url": "https://i.redd.it/sn0ghkmlpz6h1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "personalist",
                     "url": "https://www.reddit.com/user/personalist"
-                }
-            ]
-        },
-        {
-            "id": "1mq0u1g",
-            "url": "/r/MacOSBeta/comments/1mq0u1g/how_much_screen_area_lost_due_to_removal_of/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1mq0u1g/how_much_screen_area_lost_due_to_removal_of/",
-            "title": "How much screen area lost due to removal of compact option in safari",
-            "content_html": "<p>The removal of compact tabs option in safari is horrible making it even (slightly) worse than edge with horizontal tabs.</p>\n<p>Safari compact tabs <strong>was</strong> by far the best option in all browsers afaik. The current option made us lose more than 4% of the area for no reason</p>\n<p>all results at zoom 100%, 14 inch laptop</p>\n<p><a href=\"https://preview.redd.it/s8vzp7idlzif1.png?width=3248&amp;format=png&amp;auto=webp&amp;s=d211ef9f7dffae70caa9ccef6798727ade61b38c\">Safari: 1 tab only (same as compact)</a></p>\n<p><a href=\"https://preview.redd.it/y7j3d7idlzif1.png?width=3248&amp;format=png&amp;auto=webp&amp;s=59ad624a91ce619db7add6f91d84c1782d588cca\">Safari: tab bar shown (the only current option now)</a></p>\n<p><a href=\"https://preview.redd.it/dhznrdaelzif1.png?width=3248&amp;format=png&amp;auto=webp&amp;s=82bb1f0da16da7cac340a6cbbc4c51eb377b63b3\">Edge: Horizontal tabs</a></p>\n<p><a href=\"https://preview.redd.it/9tvdmfaelzif1.png?width=3248&amp;format=png&amp;auto=webp&amp;s=7a70c0ec81fa142eb69b17d33a60641d20a4490b\">Edge: Vertical tabs</a></p>",
-            "date_published": "2025-08-14T13:34:16+00:00",
-            "authors": [
-                {
-                    "name": "0ssamaak0",
-                    "url": "https://www.reddit.com/user/0ssamaak0"
                 }
             ]
         }
