@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1u6t56p",
+            "url": "/r/MacOSBeta/comments/1u6t56p/the_liquid_glass_distortion_on_the_dock_is/",
+            "external_url": "https://i.redd.it/qas7h49ffi7h1.png",
+            "title": "The liquid glass distortion on the dock is honestly so beautiful, I don't care what anyone says",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/qas7h49ffi7h1.png\" />",
+            "date_published": "2026-06-15T20:57:25+00:00",
+            "authors": [
+                {
+                    "name": "SuccinctJackalope",
+                    "url": "https://www.reddit.com/user/SuccinctJackalope"
+                }
+            ]
+        },
+        {
             "id": "1u5unm8",
             "url": "/r/MacOSBeta/comments/1u5unm8/safari_describe_an_extension/",
             "external_url": "https://i.redd.it/9hqqiqwqwa7h1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Acrobatic-Monitor516",
                     "url": "https://www.reddit.com/user/Acrobatic-Monitor516"
-                }
-            ]
-        },
-        {
-            "id": "1mtsu25",
-            "url": "/r/MacOSBeta/comments/1mtsu25/macos_tahoe_26_beta_7_now_available_to_developers/",
-            "external_url": "https://9to5mac.com/2025/08/18/macos-tahoe-26-beta-7-now-available-to-developers/",
-            "title": "macOS Tahoe 26 beta 7 now available to developers - 9to5Mac",
-            "content_html": "",
-            "date_published": "2025-08-18T17:37:38+00:00",
-            "authors": [
-                {
-                    "name": "FammasMaz",
-                    "url": "https://www.reddit.com/user/FammasMaz"
                 }
             ]
         }
