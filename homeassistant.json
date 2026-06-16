@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1u7ofy5",
+            "url": "/r/homeassistant/comments/1u7ofy5/custom_standing_desk_panel_running_home_assistant/",
+            "external_url": "https://www.reddit.com/gallery/1u7ofy5",
+            "title": "Custom Standing Desk Panel Running Home Assistant",
+            "content_html": "<p>Finally finished a project I\u2019ve been slowly working on for the last few weeks.</p>\n<p>I removed the original controller from my standing desk and replaced it with a touchscreen smart home panel mounted in the same location. It still controls the desk height, but now it also acts as a control centre for my entire office.</p>\n<p>From the panel I can:</p>\n<p>\u2022 Raise/lower the desk<br />\n\u2022 Trigger sitting and standing presets<br />\n\u2022 Control lights<br />\n\u2022 Open/close curtains<br />\n\u2022 Control music<br />\n\u2022 View doorbell and camera feeds<br />\n\u2022 Check room temperatures<br />\n\u2022 Run office automations and scenes</p>\n<p>The whole thing is running through Home Assistant on a custom touchscreen mounted in place of the original desk controller. All running on a Pi 5! I wanted something that felt fully integrated rather than just adding another tablet to the room.</p>\n<p>Happy to answer any questions.</p>",
+            "date_published": "2026-06-16T20:01:23+00:00",
+            "authors": [
+                {
+                    "name": "RedditUser0374729",
+                    "url": "https://www.reddit.com/user/RedditUser0374729"
+                }
+            ]
+        },
+        {
             "id": "1tqfizo",
             "url": "/r/homeassistant/comments/1tqfizo/i_tested_6_zigbee_door_and_window_sensors_from/",
             "external_url": "https://i.redd.it/ny6qo1tqux3h1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "umognog",
                     "url": "https://www.reddit.com/user/umognog"
-                }
-            ]
-        },
-        {
-            "id": "1itvbzg",
-            "url": "/r/homeassistant/comments/1itvbzg/my_first_porject_epaper_display_for_home/",
-            "external_url": "https://www.reddit.com/gallery/1itvbzg",
-            "title": "My First Porject - ePaper Display For Home Assistant! What do you think~",
-            "content_html": "",
-            "date_published": "2025-02-20T10:17:50+00:00",
-            "authors": [
-                {
-                    "name": "Miserable_Bluejay663",
-                    "url": "https://www.reddit.com/user/Miserable_Bluejay663"
                 }
             ]
         }
