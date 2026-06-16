@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1u6mpdt",
+            "url": "/r/iOSBeta/comments/1u6mpdt/ios_266_beta_2_discussion/",
+            "external_url": "https://www.reddit.com/r/iOSBeta/comments/1u6mpdt/ios_266_beta_2_discussion/",
+            "title": "iOS 26.6 Beta 2 - Discussion",
+            "content_html": "<p>Use this thread to share any changes &amp; bugs you discover while using the latest iOS/iPadOS 26 beta.</p>\n<p>This thread should be used for discussion of the betas that may not meet our submission guidelines, as well as troubleshooting small issues through the beta test cycle.</p>\n<p>Further discussion can be found on the\u00a0iOS Beta Discord</p>\n<p>Spamming this discussion with comments about battery life, safari being snappier, etc will result in a ban from the sub moving forward.</p>",
+            "date_published": "2026-06-15T17:09:47+00:00",
+            "authors": [
+                {
+                    "name": "epmuscle",
+                    "url": "https://www.reddit.com/user/epmuscle"
+                }
+            ]
+        },
+        {
             "id": "1u5h65f",
             "url": "/r/iOSBeta/comments/1u5h65f/ios_27_db1_upcoming_transactions_from_connected/",
             "external_url": "https://i.redd.it/qb4zgxi3287h1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "illegalbugtrader",
                     "url": "https://www.reddit.com/user/illegalbugtrader"
-                }
-            ]
-        },
-        {
-            "id": "1l9akqp",
-            "url": "/r/iOSBeta/comments/1l9akqp/ios_26_db1now_keyboard_displays_verification/",
-            "external_url": "https://i.redd.it/4agw3yskke6f1.jpeg",
-            "title": "[iOS 26 DB1]Now keyboard displays verification codes from any apps via notification text, not just Messages and Mail",
-            "content_html": "<p>This is such a great quality of life improvement. I get lots of my verification codes from google voice messages.</p><div><br></div><img src=\"https://i.redd.it/4agw3yskke6f1.jpeg\" />",
-            "date_published": "2025-06-12T01:56:08+00:00",
-            "authors": [
-                {
-                    "name": "thisisanonymous95",
-                    "url": "https://www.reddit.com/user/thisisanonymous95"
                 }
             ]
         }
