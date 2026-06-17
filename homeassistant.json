@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1u88y63",
+            "url": "/r/homeassistant/comments/1u88y63/when_your_kid_asks_for_a_5_kitchen_timer_but_you/",
+            "external_url": "https://streamable.com/u05sbq",
+            "title": "When your kid asks for a $5 kitchen timer but you have an ESP32 and zero impulse control",
+            "content_html": "<p>My son recently told me he needed a physical timer to keep track of his screen time and homework. Any normal parent would have gone to Amazon, spent five bucks on a cheap plastic kitchen timer, and called it a day.</p>\n<p>But I have an active Home Assistant setup and zero impulse control when it comes to tinkering.</p>\n<p>So instead of a plastic egg timer, he ended up with a round, glowing ESP32 touchscreen puck running ESPHome. And because I completely lose all self-control once a project gets fun, the timer part quickly became the least interesting thing about it.</p>\n<p>Before I knew it, I was adding a wake word so he could just say \"Alexa, set a timer,\" followed by a weather display, a music controller, and even a couple of actual arcade games (because I apparently had way too much coffee that weekend). The original timer he asked for is basically just one of the modes now.</p>\n<p>It was total overkill. I spent way too many hours squinting at my monitor trying to align custom UI elements on a tiny round screen just to count down ten minutes. But it was a ton of fun to build and I would absolutely do it again.</p>\n<p>It is still very much a work in progress, but if you want to check out my messy configuration or build something similar, I'm hosting the code on GitHub.</p>\n<p>Here is the device I used:\u00a0<a href=\"https://aliexpress.com/item/1005011771382178.html\">https://aliexpress.com/item/1005011771382178.html</a><br />\nAnd here is my WIP repo:\u00a0<a href=\"https://github.com/MichalZaniewicz/esphome-guition-jc3636k718c-va/\">https://github.com/MichalZaniewicz/esphome-guition-jc3636k718c-va/</a></p><div><br></div><div style=\"width: 100%; height: 0px; position: relative; padding-bottom: 100.0%;\"><iframe class=\"streamable-embed\" src=\"https://streamable.com/o/u05sbq\" frameborder=\"0\" scrolling=\"no\" style=\"width: 100%; height: 100%; position: absolute;\" allowfullscreen></iframe></div>",
+            "date_published": "2026-06-17T12:34:32+00:00",
+            "authors": [
+                {
+                    "name": "z4nsei",
+                    "url": "https://www.reddit.com/user/z4nsei"
+                }
+            ]
+        },
+        {
             "id": "1u7ofy5",
             "url": "/r/homeassistant/comments/1u7ofy5/custom_standing_desk_panel_running_home_assistant/",
             "external_url": "https://www.reddit.com/gallery/1u7ofy5",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "melancholytron",
                     "url": "https://www.reddit.com/user/melancholytron"
-                }
-            ]
-        },
-        {
-            "id": "1ix0h6r",
-            "url": "/r/homeassistant/comments/1ix0h6r/im_using_how_much_electricity/",
-            "external_url": "https://i.redd.it/esvuj4csu2le1.png",
-            "title": "I'm using HOW MUCH electricity?",
-            "content_html": "<p>Just for a giggle, obviously got something measuring wrong somewhere.</p><div><br></div><img src=\"https://i.redd.it/esvuj4csu2le1.png\" />",
-            "date_published": "2025-02-24T12:04:27+00:00",
-            "authors": [
-                {
-                    "name": "umognog",
-                    "url": "https://www.reddit.com/user/umognog"
                 }
             ]
         }
