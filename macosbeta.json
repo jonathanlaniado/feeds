@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1ubu8ol",
+            "url": "/r/MacOSBeta/comments/1ubu8ol/macos_27_db1_has_been_an_incredible_experience_on/",
+            "external_url": "https://i.redd.it/42dkgklcvn8h1.png",
+            "title": "macOS 27 DB1 has been an incredible experience on my M1 Pro, the system overall feels much snappier and responsive compared to Tahoe",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/42dkgklcvn8h1.png\" />",
+            "date_published": "2026-06-21T16:23:11+00:00",
+            "authors": [
+                {
+                    "name": "ngagner15",
+                    "url": "https://www.reddit.com/user/ngagner15"
+                }
+            ]
+        },
+        {
             "id": "1u6t56p",
             "url": "/r/MacOSBeta/comments/1u6t56p/the_liquid_glass_distortion_on_the_dock_is/",
             "external_url": "https://i.redd.it/qas7h49ffi7h1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "TheBobPony",
                     "url": "https://www.reddit.com/user/TheBobPony"
-                }
-            ]
-        },
-        {
-            "id": "1mu0htg",
-            "url": "/r/MacOSBeta/comments/1mu0htg/pb4_makes_control_center_less_glassy_on_m1/",
-            "external_url": "https://i.redd.it/5td9cyd6sujf1.jpeg",
-            "title": "PB4 makes control center less glassy on m1",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/5td9cyd6sujf1.jpeg\" />",
-            "date_published": "2025-08-18T22:20:17+00:00",
-            "authors": [
-                {
-                    "name": "Acrobatic-Monitor516",
-                    "url": "https://www.reddit.com/user/Acrobatic-Monitor516"
                 }
             ]
         }
