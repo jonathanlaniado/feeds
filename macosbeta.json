@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1ucqmsu",
+            "url": "/r/MacOSBeta/comments/1ucqmsu/golden_gate_beta_2_released/",
+            "external_url": "https://www.macrumors.com/2026/06/22/apple-seeds-macos-golden-gate-beta-2/",
+            "title": "Golden Gate Beta 2 released",
+            "content_html": "",
+            "date_published": "2026-06-22T17:12:59+00:00",
+            "authors": [
+                {
+                    "name": "jagajazzist",
+                    "url": "https://www.reddit.com/user/jagajazzist"
+                }
+            ]
+        },
+        {
             "id": "1ubu8ol",
             "url": "/r/MacOSBeta/comments/1ubu8ol/macos_27_db1_has_been_an_incredible_experience_on/",
             "external_url": "https://i.redd.it/42dkgklcvn8h1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Dreaming_Blackbirds",
                     "url": "https://www.reddit.com/user/Dreaming_Blackbirds"
-                }
-            ]
-        },
-        {
-            "id": "1mu3mta",
-            "url": "/r/MacOSBeta/comments/1mu3mta/macos_26_still_has_the_old_burn_disc_icon/",
-            "external_url": "https://i.redd.it/959gjopqfvjf1.png",
-            "title": "macOS 26 still has the old burn disc icon",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/959gjopqfvjf1.png\" />",
-            "date_published": "2025-08-19T00:32:25+00:00",
-            "authors": [
-                {
-                    "name": "TheBobPony",
-                    "url": "https://www.reddit.com/user/TheBobPony"
                 }
             ]
         }
