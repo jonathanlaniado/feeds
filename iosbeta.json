@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1ucrzn5",
+            "url": "/r/iOSBeta/comments/1ucrzn5/ios_27_db2_content_underneath_liquid_glass_is/",
+            "external_url": "https://v.redd.it/ezrsz5vxiv8h1",
+            "title": "[iOS 27 DB2] Content underneath Liquid Glass is much higher-res",
+            "content_html": "<p>Video for easier comparison</p>",
+            "date_published": "2026-06-22T18:02:30+00:00",
+            "authors": [
+                {
+                    "name": "hotlava436",
+                    "url": "https://www.reddit.com/user/hotlava436"
+                }
+            ]
+        },
+        {
             "id": "1u6w3tg",
             "url": "/r/iOSBeta/comments/1u6w3tg/ios_27_db1_crash_detection_shows_no_screen_nor/",
             "external_url": "https://i.redd.it/ph1ynmp60j7h1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "unfortunatelyrich",
                     "url": "https://www.reddit.com/user/unfortunatelyrich"
-                }
-            ]
-        },
-        {
-            "id": "1l9k8bj",
-            "url": "/r/iOSBeta/comments/1l9k8bj/ios_26_db1_kind_reminder_to_use_feedback_app/",
-            "external_url": "https://www.reddit.com/r/iOSBeta/comments/1l9k8bj/ios_26_db1_kind_reminder_to_use_feedback_app/",
-            "title": "[iOS 26 DB1] Kind reminder to use Feedback app.",
-            "content_html": "<p>There are a lot of people who install the beta to try new features, and after encountering weird bugs, they just go yap all around the internet.</p>\n<p>I wanted to remind everyone that IT IS THE FIRST DEVELOPER BETA, and it's expected to have bugs and visual glitches. To have fewer bugs in newer betas, please report everything in the Feedback app.</p>\n<p>Don't think those reports are ignored; they are really important...</p>",
-            "date_published": "2025-06-12T11:38:03+00:00",
-            "authors": [
-                {
-                    "name": "gusarking",
-                    "url": "https://www.reddit.com/user/gusarking"
                 }
             ]
         }
