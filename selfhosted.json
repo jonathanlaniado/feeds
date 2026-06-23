@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1udiof4",
+            "url": "/r/selfhosted/comments/1udiof4/how_a_spanish_football_league_broke_the_internet/",
+            "external_url": "https://i.redd.it/nnl411hxk19h1.jpeg",
+            "title": "How a Spanish Football League broke the internet (literally blocking Docker, Cloudflare, and ECH) for an entire country.",
+            "content_html": "<p>I was trying to download some local AI models (Ollama) to my home server recently, and my connection kept dying. After 40 minutes of tracing packets, I realized the issue wasn't my setup. It was football.</p>\n<p>In Spain, the professional football league (LaLiga) has been granted unprecedented, unmonitored power to combat piracy. Whenever there is a match, major ISPs activate dynamic, massive IP blocking.</p>\n<p>Because they are currently at war with Encrypted Client Hello (ECH), they are blindly blocking shared IPs (like Cloudflare's) instead of specific domains. The collateral damage is massive. Recently, this blind blocking took down Docker's entire infrastructure for Spanish users just because a match was playing.</p>\n<p>We even have a community website literally called \"hayahora.futbol\" (is there football right now) that developers use just to check if the Spanish internet is currently broken.</p>\n<p>I wrote a short post translating this situation and diving deeper into the technical aspects of how this absurd censorship works. <a href=\"https://mestik78.com/blog/2026/04/12/timeout/\">You can read the full breakdown here</a>.</p>\n<p>Have any other countries faced this level of collateral damage from corporate piracy enforcement?</p><div><br></div><img src=\"https://i.redd.it/nnl411hxk19h1.jpeg\" />",
+            "date_published": "2026-06-23T14:27:40+00:00",
+            "authors": [
+                {
+                    "name": "Mestik78",
+                    "url": "https://www.reddit.com/user/Mestik78"
+                }
+            ]
+        },
+        {
             "id": "1u4wqnj",
             "url": "/r/selfhosted/comments/1u4wqnj/psa_oracle_is_changing_free_tier_limits_update_by/",
             "external_url": "https://www.reddit.com/gallery/1u4wqnj",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Ok-Vegetable6618",
                     "url": "https://www.reddit.com/user/Ok-Vegetable6618"
-                }
-            ]
-        },
-        {
-            "id": "1lh7vmt",
-            "url": "/r/selfhosted/comments/1lh7vmt/cluely_raised_15_million_to_build_basic_ai/",
-            "external_url": "https://i.redd.it/gvvs8bn7qc8f1.jpeg",
-            "title": "Cluely raised $15 million to build basic AI Assistance, so I open-sourced it and giving it out to everyone!",
-            "content_html": "<p>Here's the open source: <a href=\"https://github.com/Tej-Sharma/horizon-overlay/tree/development\">https://github.com/Tej-Sharma/horizon-overlay/tree/development</a><br />\nOr the direct download: <a href=\"https://www.onhorizon.ai/\">https://www.onhorizon.ai/</a></p><div><br></div><img src=\"https://i.redd.it/gvvs8bn7qc8f1.jpeg\" />",
-            "date_published": "2025-06-21T21:54:25+00:00",
-            "authors": [
-                {
-                    "name": "SuperSaiyan1010",
-                    "url": "https://www.reddit.com/user/SuperSaiyan1010"
                 }
             ]
         }
