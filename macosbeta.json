@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1ude2rx",
+            "url": "/r/MacOSBeta/comments/1ude2rx/macos_27_golden_gate_beta_2_is_here_now_release/",
+            "external_url": "https://developer.apple.com/documentation/macos-release-notes/macos-27-release-notes",
+            "title": "macOS 27 Golden Gate Beta 2 is here now - Release Notes link for anybody who'd like review changes",
+            "content_html": "<p>Well none of my reported issues are fixed, but good to see Beta 2.</p>\n<p>Handy links:</p>\n<p><a href=\"https://developer.apple.com/documentation/macos-release-notes/macos-27-release-notes\">https://developer.apple.com/documentation/macos-release-notes/macos-27-release-notes</a></p>\n<p><a href=\"https://beta.apple.com/en-GB/guide#macos\">https://beta.apple.com/en-GB/guide#macos</a></p>\n<p><a href=\"https://developer.apple.com/download/os/\">https://developer.apple.com/download/os/</a></p>\n<p>macOS27 Beta2 ipsw: <a href=\"https://updates.cdn-apple.com/2026SummerSeed/fullrestores/140-20108/5D0C3865-B25E-4700-A8B0-A15D60451BF4/UniversalMac_27.0_26A5368g_Restore.ipsw\">https://updates.cdn-apple.com/2026SummerSeed/fullrestores/140-20108/5D0C3865-B25E-4700-A8B0-A15D60451BF4/UniversalMac_27.0_26A5368g_Restore.ipsw</a></p>",
+            "date_published": "2026-06-23T11:05:46+00:00",
+            "authors": [
+                {
+                    "name": "yadvr",
+                    "url": "https://www.reddit.com/user/yadvr"
+                }
+            ]
+        },
+        {
             "id": "1ucqmsu",
             "url": "/r/MacOSBeta/comments/1ucqmsu/golden_gate_beta_2_released/",
             "external_url": "https://www.macrumors.com/2026/06/22/apple-seeds-macos-golden-gate-beta-2/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Sufficient_Bid4293",
                     "url": "https://www.reddit.com/user/Sufficient_Bid4293"
-                }
-            ]
-        },
-        {
-            "id": "1mv99uv",
-            "url": "/r/MacOSBeta/comments/1mv99uv/my_1st_time_seeing_live_activities_from_iphone_on/",
-            "external_url": "https://www.reddit.com/gallery/1mv99uv",
-            "title": "my 1st time seeing Live Activities from iPhone on Mac. it's a groceries delivery. very handy",
-            "content_html": "",
-            "date_published": "2025-08-20T08:41:56+00:00",
-            "authors": [
-                {
-                    "name": "Dreaming_Blackbirds",
-                    "url": "https://www.reddit.com/user/Dreaming_Blackbirds"
                 }
             ]
         }
