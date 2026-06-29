@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1uixud6",
+            "url": "/r/OpenAI/comments/1uixud6/he_thought_its_a_challenge/",
+            "external_url": "https://i.redd.it/zicmhrwj39ah1.png",
+            "title": "he thought it's a challenge",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/zicmhrwj39ah1.png\" />",
+            "date_published": "2026-06-29T16:45:41+00:00",
+            "authors": [
+                {
+                    "name": "Far-Sock-3170",
+                    "url": "https://www.reddit.com/user/Far-Sock-3170"
+                }
+            ]
+        },
+        {
             "id": "1uh2m8s",
             "url": "/r/OpenAI/comments/1uh2m8s/us_ban_benchmark_updated_toetotoe_between_two_big/",
             "external_url": "https://i.redd.it/hduhc0s4tt9h1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "logkn",
                     "url": "https://www.reddit.com/user/logkn"
-                }
-            ]
-        },
-        {
-            "id": "1m8z5c0",
-            "url": "/r/OpenAI/comments/1m8z5c0/chatgpt_just_ordered_me_pizza_like_actually/",
-            "external_url": "https://i.redd.it/iceli0g3u0ff1.png",
-            "title": "ChatGPT just ordered me pizza. Like, actually.",
-            "content_html": "<p>I just used ChatGPT's new agent mode to order me a pizza.</p>\n<p>Not <em>help</em> me order. Not <em>tell me how</em> to order. It literally placed the order for me, paid, and everything. All I did was give it a prompt, and a one moment later <em>bam</em> Domino\u2019s confirmation, bank charge, and food on the way.</p>\n<p>Here\u2019s the exact prompt I used:</p>\n<p>I'm going to give you a bunch of personal information that will help you complete this task. I will put it at the end of the prompt.<br />\nOkay, so here's the deal.<br />\nI need you to go to Domino's and place an order for one large Meat Lovers pizza and one large cheese pizza with extra cheese. Just those two.<br />\nIf for some reason Domino's can't do that, then give up.</p>\n<p>Personal information: [Redacted for public post, obviously.]</p>\n<p>.</p>\n<p>In the future, I'm gonna train it on my usual order, so I\u2019ll just be able to say \u201cget me pizza,\u201d and done. One sentence, and then the doorbell rings.</p>\n<p>We are <em>so</em> living in the future.</p><div><br></div><img src=\"https://i.redd.it/iceli0g3u0ff1.png\" />",
-            "date_published": "2025-07-25T13:27:04+00:00",
-            "authors": [
-                {
-                    "name": "jakkbaker2002",
-                    "url": "https://www.reddit.com/user/jakkbaker2002"
                 }
             ]
         }
