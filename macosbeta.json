@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1uijtq8",
+            "url": "/r/MacOSBeta/comments/1uijtq8/health_warning_os_27_beta_is_not_as_stable_as/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1uijtq8/health_warning_os_27_beta_is_not_as_stable_as/",
+            "title": "Health warning: OS 27 beta is *not* as stable as some make out",
+            "content_html": "<p>I understand the enthusiasm for the '27 beta, especially given how slow and buggy Tahoe ('26) is and given the WWDC promise of a focus on bug fixes and efficiency. Actually <em>using</em> it as a dev machine for a while paints a picture of plentiful pseudorandom jank and some of the bugs are pretty nasty.</p>\n<p><strong>It is a beta</strong> and it's not reliable. It's not supposed to be.</p>\n<p>I very strongly recommend that any non-dev does <em>not</em> risk the install despite the positive messages. The beta is another modern Apple very early, very rough build. There has not been a magic epiphany within the last 12 months. It's not surprising; systemic, creeping architectural rot and evident cultural issues with velocity and QA do not get solved overnight, even if Apple are now on that journey (and we all hope they are!)</p>\n<p>Some bugs listed below. And yes, before anyone asks, I do send reports via Feedback Assistant.</p>\n<ul>\n<li>\n<p>Wake-from-sleep with external displays can sometimes result in a working lock screen complete with working clock, but which accepts no input at all; Caps Lock won't toggle, no haptics, force-reboot needed.</p>\n</li>\n<li>\n<p>The very old <code>airportd</code> spinning bug (typically VPN-related) is back; the ongoing <code>mediaanalysisd</code>\u00a0spinning bug is worse; <code>appstoreagent</code> has a new spinning bug; and all of this seems to just start at a whim on various devices with pretty much the direction of the prevailing wind; reboots <em>do not necessarily fix it</em>.</p>\n</li>\n<li>\n<p>Mission Control doesn't just lose windows per release notes. Dragging windows from one space to another is a total crapshoot and nearly always results in the window ending up placed a few pixels near the bottom-right on any external display.</p>\n</li>\n<li>\n<p>Drag reorder of spaces in Mission Control, or drag-to-make-full-screen is unreliable with ordering relatively unpredicatble. Lots of strange animation issues, black screens on transitions and so forth too. I'm not sure why this has fallen apart so much but it really is in bad shape.</p>\n</li>\n<li>\n<p>Despite a passing remark in WWDC, the OS' ability to put windows back into their correct places on a reboot or display configuration change, or its ability to even put a space on a correct display, does not seem to be improved. I might as well roll dice as guess about where a window might be restored under the same circumstances day to day. It seems genuinely just random.</p>\n</li>\n<li>\n<p>Terminal app often refuses to quit and force-quit is needed. On restart, it may or may not reload your previous tabs etc., so be warned, you might lose all your working state therein.</p>\n</li>\n<li>\n<p>Might be my imagination but palm rejection on the trackpad seems to have been messed up and typing this on the Mac has been a PITA of suddenly losing input focus as the pointer decides it's moved and been clicked elsewhere, or worse, having input focus jump up elsewhere in <em>this message</em> so input goes there. And of course macOS has always had very weird Undo, where each step undoes some apparently arbitrary amount of typing rather than character-by-character, so I have to undo the damage from the misplaced text and then retype however much the OS \"over-undoes\".</p>\n</li>\n<li>\n<p>It's infrequent, but Safari can sort of lose its mind and just start stuttering and stalling for no obvious reason with no particular CPU or other load signature. It just <em>stops responding</em> reliably, with pseudorandom lag. Quit-restart resolves every time, and it reloads all the tabs you had before.</p>\n</li>\n<li>\n<p>Note that <code>WindowServer</code> is <em>at times</em> very CPU hungry, so less efficient, not more; but it's a beta and that's understandable since it might be in a debug mode. If the Music app's main window is open (even if it's not playing music and there are no animations showing), WindowServer will use <em>much</em> more CPU, though; go figure. But again, this is all jankware territory, so sometimes it'll just run along at a very <em>low</em> CPU usage.</p>\n</li>\n<li>\n<p>If you use Accessibility -&gt; Zoom for full-screen zoom and have it follow the mouse pointer, note that this is broken in DB1 and DB2; the zoomed area does not move, regardless of settings. For some people that might actually be a critical failure.</p>\n</li>\n<li>\n<p>Lots of strange menu bar bugs with juddering up and down, strange aspect ratio distortions and so-on but DB2 is better than DB1 there.</p>\n</li>\n</ul>\n<p>The whole thing just feels fragile and unpredictable. There's no logic or pattern to many of the failures. That was one of the most alarming features of the Tahoe betas and it's not any better in 27.</p>\n<p>Unless you have a back from '26 you don't mind rolling back to, or you have a spare \"fall guy\" machine to try it on, <em>do not</em> install the beta.</p>",
+            "date_published": "2026-06-29T05:49:11+00:00",
+            "authors": [
+                {
+                    "name": "adh1003",
+                    "url": "https://www.reddit.com/user/adh1003"
+                }
+            ]
+        },
+        {
             "id": "1udmdfo",
             "url": "/r/MacOSBeta/comments/1udmdfo/macos_27_has_its_own_logo_in_settings_on_both/",
             "external_url": "https://www.reddit.com/gallery/1udmdfo",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Sky-Pala",
                     "url": "https://www.reddit.com/user/Sky-Pala"
-                }
-            ]
-        },
-        {
-            "id": "1mxn6vh",
-            "url": "/r/MacOSBeta/comments/1mxn6vh/i_found_a_screenshot_of_macos_tahoe_after_the/",
-            "external_url": "https://i.redd.it/hcgemmgcynkf1.png",
-            "title": "I found a screenshot of macOS Tahoe after the Developer Beta Release, it looks beautiful.",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/hcgemmgcynkf1.png\" />",
-            "date_published": "2025-08-23T00:26:38+00:00",
-            "authors": [
-                {
-                    "name": "Excellent-Class-7070",
-                    "url": "https://www.reddit.com/user/Excellent-Class-7070"
                 }
             ]
         }
