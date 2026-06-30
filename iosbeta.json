@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1uiyy8i",
+            "url": "/r/iOSBeta/comments/1uiyy8i/ios_266_beta_3_discussion/",
+            "external_url": "https://www.reddit.com/r/iOSBeta/comments/1uiyy8i/ios_266_beta_3_discussion/",
+            "title": "iOS 26.6 Beta 3 - Discussion",
+            "content_html": "<p>Use this thread to share any changes &amp; bugs you discover while using the latest iOS/iPadOS 26 beta.</p>\n<p>This thread should be used for discussion of the betas that may not meet our submission guidelines, as well as troubleshooting small issues through the beta test cycle.</p>\n<p>Further discussion can be found on the\u00a0iOS Beta Discord</p>\n<p>Spamming this discussion with comments about battery life, safari being snappier, etc will result in a ban from the sub moving forward.</p>",
+            "date_published": "2026-06-29T17:25:43+00:00",
+            "authors": [
+                {
+                    "name": "epmuscle",
+                    "url": "https://www.reddit.com/user/epmuscle"
+                }
+            ]
+        },
+        {
             "id": "1ud3l54",
             "url": "/r/iOSBeta/comments/1ud3l54/ios_27_db2_shortcut_automation_now_has_an_onoff/",
             "external_url": "https://i.redd.it/xh6qucsksx8h1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "epmuscle",
                     "url": "https://www.reddit.com/user/epmuscle"
-                }
-            ]
-        },
-        {
-            "id": "1lcgasl",
-            "url": "/r/iOSBeta/comments/1lcgasl/ios_26_db1_haze_sky_messages_background_leads_to/",
-            "external_url": "https://v.redd.it/29k69bv8x67f1",
-            "title": "[iOS 26 DB1] Haze sky messages background leads to insane exposure when repositioning cursor",
-            "content_html": "<p>I'm blinded by the light \ud83c\udfa4</p>",
-            "date_published": "2025-06-16T01:16:58+00:00",
-            "authors": [
-                {
-                    "name": "Secret_Page9282",
-                    "url": "https://www.reddit.com/user/Secret_Page9282"
                 }
             ]
         }
