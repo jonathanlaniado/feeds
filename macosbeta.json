@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1um93u2",
+            "url": "/r/MacOSBeta/comments/1um93u2/macos_27_beta_2_has_a_dasd_memory_leak_caused_by/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1um93u2/macos_27_beta_2_has_a_dasd_memory_leak_caused_by/",
+            "title": "macOS 27 Beta 2 has a dasd memory leak caused by BiomeAgent. Here's how to work around it (for now)",
+            "content_html": "<p>I recently woke up and received an out of memory popup, despite none of the apps using any significant RAM. Checked my activity monitor, dasd using <em>24GB</em>. Nice. After some checking, BiomeAgent (something responsible for Apple Intelligence and Siri/contextual stuff) was repeatedly registering an Apple Intelligence task called <code>com.apple.intelligenceplatform.IntelligencePlatformCore.ViewLive</code>. Because BiomeAgent was registering that\u00a0<code>ViewLive</code>\u00a0task over and over, it made dasd accumulate insane RAM usage. Might not happen on all devices. I have an M2 Pro 16GB.</p>\n<p>dasd\u00a0is the\u00a0Duet Activity Scheduler Daemon, a background system process on macOS that decides\u00a0when\u00a0deferred background tasks should actually run.</p>\n<p>I already reported this via Feedback, since it's most definitely a beta bug. But if anyone here comes across this issue, here's how to work around this. I mean, it's not clean, <strong>this might break Siri or Apple Intelligence features!!</strong> (so remember to un-do this workaround once this is fixed), but it works:</p>\n<p><strong>Temporary fix</strong></p>\n<pre><code>pkill -STOP -x BiomeAgent\nsudo pkill -9 -x dasd\n</code></pre>\n<p>dasd should restart by itself and stay small. Mine went from multiple GB back down to around 10 MB.</p>\n<p>Undo by restarting.</p>\n<p><strong>Persistent fix</strong></p>\n<pre><code>mkdir -p ~/bin ~/Library/LaunchAgents ~/Library/Logs\n\ncat &gt; ~/bin/unload-biomeagent-for-dasd.sh &lt;&lt;'EOF'\n#!/bin/zsh\n\nsleep 180\n\nuid=$(/usr/bin/id -u)\n/bin/launchctl bootout \"gui/$uid/com.apple.BiomeAgent\" 2&gt;/dev/null || true\n\nexit 0\nEOF\n\nchmod +x ~/bin/unload-biomeagent-for-dasd.sh\n\ncat &gt; ~/Library/LaunchAgents/com.$USER.unload-biomeagent-for-dasd.plist &lt;&lt;EOF\n&lt;?xml version=\"1.0\" encoding=\"UTF-8\"?&gt;\n&lt;!DOCTYPE plist PUBLIC \"-//Apple//DTD PLIST 1.0//EN\" \"http://www.apple.com/DTDs/PropertyList-1.0.dtd\"&gt;\n&lt;plist version=\"1.0\"&gt;\n&lt;dict&gt;\n  &lt;key&gt;Label&lt;/key&gt;\n  &lt;string&gt;com.$USER.unload-biomeagent-for-dasd&lt;/string&gt;\n\n  &lt;key&gt;ProgramArguments&lt;/key&gt;\n  &lt;array&gt;\n    &lt;string&gt;$HOME/bin/unload-biomeagent-for-dasd.sh&lt;/string&gt;\n  &lt;/array&gt;\n\n  &lt;key&gt;RunAtLoad&lt;/key&gt;\n  &lt;true/&gt;\n\n  &lt;key&gt;StandardOutPath&lt;/key&gt;\n  &lt;string&gt;$HOME/Library/Logs/unload-biomeagent-for-dasd.log&lt;/string&gt;\n\n  &lt;key&gt;StandardErrorPath&lt;/key&gt;\n  &lt;string&gt;$HOME/Library/Logs/unload-biomeagent-for-dasd.err&lt;/string&gt;\n&lt;/dict&gt;\n&lt;/plist&gt;\nEOF\n\nlaunchctl bootout \"gui/$(id -u)\" ~/Library/LaunchAgents/com.$USER.unload-biomeagent-for-dasd.plist 2&gt;/dev/null || true\nlaunchctl bootstrap \"gui/$(id -u)\" ~/Library/LaunchAgents/com.$USER.unload-biomeagent-for-dasd.plist\n</code></pre>\n<p>To verify:</p>\n<pre><code>launchctl print \"gui/$(id -u)/com.apple.BiomeAgent\"\nps -o pid,rss,etime,%mem,%cpu,comm -p \"$(pgrep -x dasd | head -1)\"\n</code></pre>\n<p>If the workaround is active, <code>launchctl print</code> may say it cannot find <code>com.apple.BiomeAgent</code>, which is expected. dasd memory/CPU should stop climbing.</p>\n<p>To undo the persistent workaround:</p>\n<pre><code>launchctl bootout \"gui/$(id -u)\" ~/Library/LaunchAgents/com.$USER.unload-biomeagent-for-dasd.plist 2&gt;/dev/null || true\nrm ~/Library/LaunchAgents/com.$USER.unload-biomeagent-for-dasd.plist\nrm ~/bin/unload-biomeagent-for-dasd.sh\n\nlaunchctl bootstrap \"gui/$(id -u)\" /System/Library/LaunchAgents/com.apple.BiomeAgent.plist 2&gt;/dev/null || true\nlaunchctl kickstart -k \"gui/$(id -u)/com.apple.BiomeAgent\"\n</code></pre>\n<p>Hope this helps someone that is also experiencing this here! :)</p>\n<p><strong>EDIT:</strong> I changed the script because the initial one I made for persistent was causing a freeze on boot lol</p>",
+            "date_published": "2026-07-03T08:54:20+00:00",
+            "authors": [
+                {
+                    "name": "snarkyalyx",
+                    "url": "https://www.reddit.com/user/snarkyalyx"
+                }
+            ]
+        },
+        {
             "id": "1uijtq8",
             "url": "/r/MacOSBeta/comments/1uijtq8/health_warning_os_27_beta_is_not_as_stable_as/",
             "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1uijtq8/health_warning_os_27_beta_is_not_as_stable_as/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "rhyslikescake",
                     "url": "https://www.reddit.com/user/rhyslikescake"
-                }
-            ]
-        },
-        {
-            "id": "1mzx3yl",
-            "url": "/r/MacOSBeta/comments/1mzx3yl/macos_26_beta_8_release_thread/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1mzx3yl/macos_26_beta_8_release_thread/",
-            "title": "MacOS 26 - Beta 8 - Release Thread",
-            "content_html": "<p>Build number: 25A5349a</p>",
-            "date_published": "2025-08-25T17:36:40+00:00",
-            "authors": [
-                {
-                    "name": "Sky-Pala",
-                    "url": "https://www.reddit.com/user/Sky-Pala"
                 }
             ]
         }
