@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1un5uzs",
+            "url": "/r/MacOSBeta/comments/1un5uzs/pointer_hasnt_updated_for_me_on_the_golden_gate/",
+            "external_url": "https://i.redd.it/009tz6rez6bh1.jpeg",
+            "title": "Pointer hasn\u2019t updated for me on the Golden Gate beta",
+            "content_html": "<p>MacBook Neo, macOS 27.0 Beta. The only reason I opted to update to the macOS 27 Beta was to get the change to the pointer, the Tahoe version I think we can all agree is pretty bad. But upon updating, nothing. Not sure if I\u2019m doing something wrong. I tried a restart to see if that would have any effect but to no avail.</p><div><br></div><img src=\"https://i.redd.it/009tz6rez6bh1.jpeg\" />",
+            "date_published": "2026-07-04T10:42:38+00:00",
+            "authors": [
+                {
+                    "name": "harish_wormley",
+                    "url": "https://www.reddit.com/user/harish_wormley"
+                }
+            ]
+        },
+        {
             "id": "1um93u2",
             "url": "/r/MacOSBeta/comments/1um93u2/macos_27_beta_2_has_a_dasd_memory_leak_caused_by/",
             "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1um93u2/macos_27_beta_2_has_a_dasd_memory_leak_caused_by/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "CutMountain0108",
                     "url": "https://www.reddit.com/user/CutMountain0108"
-                }
-            ]
-        },
-        {
-            "id": "1mzzeox",
-            "url": "/r/MacOSBeta/comments/1mzzeox/tahoe_beta_8_new_darker_border_for_whiteonwhite/",
-            "external_url": "https://i.redd.it/v3r4wxtkq7lf1.png",
-            "title": "Tahoe Beta 8 - New darker border for white-on-white windows.",
-            "content_html": "<p>There is a new subtle black border around windows visible wherever there is a white window over another white background. Also applies in reverse for dark mode (White border on dark-on-dark windows) I like the added contrast without being too out of place</p><div><br></div><img src=\"https://i.redd.it/v3r4wxtkq7lf1.png\" />",
-            "date_published": "2025-08-25T19:01:46+00:00",
-            "authors": [
-                {
-                    "name": "rhyslikescake",
-                    "url": "https://www.reddit.com/user/rhyslikescake"
                 }
             ]
         }
