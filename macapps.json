@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1un7biy",
+            "url": "/r/macapps/comments/1un7biy/after_almost_a_year_droppy_isnt_really_a_notch/",
+            "external_url": "https://v.redd.it/tx49kzhw67bh1",
+            "title": "After almost a year, Droppy isn't really a notch app anymore. It's the all-in-one utility macOS didn't ship.",
+            "content_html": "<p>Hey r/macapps!</p>\n<p>Almost a year ago I started building Droppy because many small, in-between tasks on macOS still feel more fragmented than they should. Staging files, controlling media, checking tasks, transcribing audio, compressing something, grabbing a color, opening a quick terminal, replying to a message, snapping a window... each one usually means reaching for a different utility.</p>\n<p>I've shipped a lot since my last post here, and today's release (14.1) is a genuinely big one, so I wanted to reintroduce Droppy properly. One thing up front: Droppy is not just a notch app. The notch is one of the places it lives, but underneath it's a native all-in-one utility for the actions macOS scatters across a dozen separate tools.</p>\n<p>The demo video shows it far better than screenshots, especially since so much of it is customizable.</p>\n<p><strong>The idea</strong></p>\n<p>One native app for the things macOS makes you juggle. Instead of stitching together a shelf/file tray app, a clipboard manager, a screenshot tool, a transcription app, a launcher, media controls, and lock screen widgets, Droppy brings them into one place that feels like it belongs to macOS.</p>\n<p><strong>A few of the few things it does:</strong></p>\n<ul>\n<li>File tray (Shelf + Basket): stage files from anywhere, then move, convert, compress, zip, unzip, rename, or share them, and drag them back out wherever you need. More on this just below, because it's the part I'm proudest of right now.</li>\n<li>Droppy Cloud: upload files to it, share them instantly with whoever needs it. A full WeTransfer-like environment, built within Droppy.</li>\n<li>Media: a notch mini-player with a live audio visualizer that moves to the actual sound, lyrics, an Apple Music Automix indicator, and lock screen media controls that fit the native design.</li>\n<li>Clipboard: a full native clipboard manager with tags, favorites, color and hex recognition, and an optional strip layout across the bottom of your screen.</li>\n<li>Screenshotting: area capture, OCR, scrolling, and color-picker capture, a screenshot editor, and one-click background removal.</li>\n<li>Everyday glue: notifications with inline iMessage and Whatsapp replies, voice transcription, tasks and calendar, window snapping, meeting controls, a quick terminal, and a Spotlight-style launcher.</li>\n<li>Lock screen widgets and system HUDs (volume, brightness, battery, AirPods) that quietly replace the stock macOS ones and look like they shipped with the OS.</li>\n</ul>\n<p><strong>The file tray, and macOS 27</strong><br />\nThis is the one I really want to call out. A lot of notch apps have quietly dropped their file tray because recent macOS releases broke the drag-and-drop it relied on, and several developers have said publicly that they're giving up on it. Droppy's file tray fully works on macOS 26 and the brand-new macOS 27. I re-engineered the entire drop pipeline, so catching files, stacking them, and dragging them back out of the notch stays rock-solid on the latest macOS. If a working file tray is what you're here for, this one still delivers.</p>\n<p><strong>Droplets: build your own Droppy</strong><br />\nDroppy is modular. The core gives you the shelf and the system HUDs, and on top of that you switch on \"Droplets\" (its extensions) for exactly the features you want and nothing you don't:</p>\n<p>Weather, Media, Notify Me, Voice Transcribe, Tasks &amp; Calendar, Notes, Thunderstorm (launcher), Element Capture, TermiNotch (terminal), Mechey (keyboard sounds), Pomodoro, High Alert, Pomodoro, Claude Code/Codex, Background Removal, and more.</p>\n<p>Turn on the three you'll actually use, or all of them. It stays light because you're never carrying features you don't touch, and every Droplet is built to feel native rather than bolted on. That modularity is really the heart of Droppy: it becomes the app you need it to be.</p>\n<p><strong>A bit of what's new in 14.1</strong></p>\n<ul>\n<li>Dynamic Glass: a new notch and island surface that fades from black into real Liquid Glass</li>\n<li>Multi Live Activities: a timer, recording, coding session, or call splits the notch iPhone-style while your music flows into its own floating pill</li>\n<li>The Notes droplet: an iOS-style shelf notepad with markdown, checklists, and two-way Apple Notes sync</li>\n<li>A rebuilt native Clipboard Manager, plus the new Alpha Clipboard strip</li>\n<li>Thunderstorm is now free for everyone: a Spotlight-style bar that can run system actions and pop an emoji picker anywhere</li>\n<li>Inline iMessage and Whatsapp replies straight from a notification</li>\n<li>And a huge amount of polish, performance work, and fixes on top</li>\n</ul>\n<p><strong>Comparison</strong><br />\nMost apps in this space do one thing well, or do a lot and feel 'sloppy'. Droppy is not only built with a ton of attention to detail and polish, but meant to cover the in-between actions across a whole workflow, so you don't need to run (and pay for) five separate utilities to get there. I think it's the most polished value for money I know of in this category.</p>\n<p><strong>Pricing</strong></p>\n<ul>\n<li>Fully unlocked 3-day trial</li>\n<li>6.99 EUR, one-time, discounted for this new release (will be increased to 9.99 at the end of this month)</li>\n<li>Lifetime updates, no subscription, ever</li>\n<li>Website: <a href=\"https://getdroppy.app\">https://getdroppy.app</a></li>\n</ul>\n<p><strong>Transparency</strong></p>\n<ul>\n<li>I'm Jordy Spruit, the solo developer behind Droppy. I've worked on it almost every day for close to a year and I ship updates regularly.</li>\n<li>Contact: <a href=\"mailto:hi@getdroppy.app\">hi@getdroppy.app</a></li>\n<li>Privacy Policy: <a href=\"https://getdroppy.app/#privacy-policy\">https://getdroppy.app/#privacy-policy</a></li>\n<li>Terms of Service: <a href=\"https://getdroppy.app/#terms-of-service\">https://getdroppy.app/#terms-of-service</a></li>\n</ul>\n<p>Natively built in Swift, signed and notarized, and works on Macs with or without a physical notch.</p>\n<p>If you try it, I'd love to hear which Droplet fits your workflow best, and what still needs work \ud83d\udc99</p>",
+            "date_published": "2026-07-04T12:02:51+00:00",
+            "authors": [
+                {
+                    "name": "iordv",
+                    "url": "https://www.reddit.com/user/iordv"
+                }
+            ]
+        },
+        {
             "id": "1ukwiip",
             "url": "/r/macapps/comments/1ukwiip/os_own_your_ai_our_biggest_update_yet_osaurus_is/",
             "external_url": "https://v.redd.it/e0z4k4wedoah1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "nicobakke",
                     "url": "https://www.reddit.com/user/nicobakke"
-                }
-            ]
-        },
-        {
-            "id": "1k2isa8",
-            "url": "/r/macapps/comments/1k2isa8/sniffnet_free_open_source_similar_to_little_snitch/",
-            "external_url": "https://i.redd.it/nve8znbihove1.png",
-            "title": "Sniffnet (Free & Open Source) similar to Little Snitch",
-            "content_html": "<p>Came across this app the other day, thought I'd share it with all y'all. <a href=\"https://sniffnet.net\">Sniffnet</a> is an open-source to monitor your network traffic. It allows you to set filters to apply to the observed traffic, views overall statistics, set custom notifications, and more.</p><div><br></div><img src=\"https://i.redd.it/nve8znbihove1.png\" />",
-            "date_published": "2025-04-18T23:32:14+00:00",
-            "authors": [
-                {
-                    "name": "FrediWest",
-                    "url": "https://www.reddit.com/user/FrediWest"
                 }
             ]
         }
