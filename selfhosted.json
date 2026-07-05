@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1uo1jgp",
+            "url": "/r/selfhosted/comments/1uo1jgp/banning_slop_posts/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1uo1jgp/banning_slop_posts/",
+            "title": "Banning Slop Posts",
+            "content_html": "<p>Can't we just ban them via a (more detailed) low-effort rule?</p>\n<p>I don't mean experienced and skilled developers using AI to assist in their projects. I am talking about reoccurring posts almost always in this scheme:</p>\n<p>- Tagged as non AI \"oh i thought it was about the post not the project\". (No, you lied.)</p>\n<p>- \"I sketched/architected/hand-designed the structure myself and only used AI to help me write code.\" (You did shit.)</p>\n<p>- \"The post was written by myself to describe my project.\" (It clearly wasn't. Everyone knows this.)</p>\n<p>Some of the time these projects are closed source too, looking for some free testers and/or aren't in any other means providing any value to this community.</p>\n<p>It isn't about just scrolling past them. It's about dishonest people flooding this sub trying to take advantage of the people in here.</p>",
+            "date_published": "2026-07-05T12:56:06+00:00",
+            "authors": [
+                {
+                    "name": "Best-Impression2077",
+                    "url": "https://www.reddit.com/user/Best-Impression2077"
+                }
+            ]
+        },
+        {
             "id": "1udiof4",
             "url": "/r/selfhosted/comments/1udiof4/how_a_spanish_football_league_broke_the_internet/",
             "external_url": "https://i.redd.it/nnl411hxk19h1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Prudent-Interest-428",
                     "url": "https://www.reddit.com/user/Prudent-Interest-428"
-                }
-            ]
-        },
-        {
-            "id": "1llqssz",
-            "url": "/r/selfhosted/comments/1llqssz/the_readarr_project_has_been_retired/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1llqssz/the_readarr_project_has_been_retired/",
-            "title": "The Readarr Project Has been Retired",
-            "content_html": "<p>The Readarr project is now officially dead. The GitHub <a href=\"https://github.com/Readarr/Readarr\">repository</a> has been archived and the following announcement was added:</p>\n<hr />\n<p>We would like to announce that the Readarr project has been retired. This difficult decision was made due to a combination of factors: the project's metadata has become unusable, we no longer have the time to remake or repair it, and the community effort to transition to using Open Library as the source has stalled without much progress.</p>\n<p>Third-party metadata mirrors exist, but as we're not involved with them at all, we cannot provide support for them. Use of them is entirely at your own risk. The most popular mirror appears to be rreading-glasses.</p>\n<p>Without anyone to take over Readarr development, we expect it to wither away, so we still encourage you to seek alternatives to Readarr.</p>\n<hr />\n<p>There was also a post on the Readarr subreddit <a href=\"https://www.reddit.com/r/Readarr/s/VS5PLLtYVH\">here</a> announcing the same. </p>\n<p>Such a shame, but not unexpected. </p>",
-            "date_published": "2025-06-27T10:48:20+00:00",
-            "authors": [
-                {
-                    "name": "Ok-Vegetable6618",
-                    "url": "https://www.reddit.com/user/Ok-Vegetable6618"
                 }
             ]
         }
