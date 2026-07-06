@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1up6feg",
+            "url": "/r/iOSBeta/comments/1up6feg/ios_27_db_3_now_in_control_center_we_can_see/",
+            "external_url": "https://i.redd.it/j4fu15gqnnbh1.jpeg",
+            "title": "[iOS 27 DB 3] Now in control center we can see cellular connection type when Wi-Fi is connected",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/j4fu15gqnnbh1.jpeg\" />",
+            "date_published": "2026-07-06T18:48:32+00:00",
+            "authors": [
+                {
+                    "name": "Veyron2K",
+                    "url": "https://www.reddit.com/user/Veyron2K"
+                }
+            ]
+        },
+        {
             "id": "1up63gn",
             "url": "/r/iOSBeta/comments/1up63gn/ios_27_db3_siri_orb_now_casts_light_on_the/",
             "external_url": "https://i.redd.it/p21qnatxlnbh1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Past_Fisherman5286",
                     "url": "https://www.reddit.com/user/Past_Fisherman5286"
-                }
-            ]
-        },
-        {
-            "id": "1ld4sum",
-            "url": "/r/iOSBeta/comments/1ld4sum/ios_26_db1_users_can_bypass_locked_apps_folders/",
-            "external_url": "https://v.redd.it/oxebwidwtc7f1",
-            "title": "[iOS 26 DB1] Users can bypass locked apps\u2019 folders authentication using the new Files UI.",
-            "content_html": "<p>For users that lock their apps, if that app creates its own folder in the Files application, that too will require either biometrics or the devices PIN to access. However, iOS 26 added some much needed MacOS like functionality to the files application in the form of drop-down arrows so users could browse a folder without leaving the screen they were on. You\u2019ll see however, that this does not require any form of authentication to access. FaceID is not triggered, nor am I prompted to input my PIN. I access the folder both using the new drop-down arrows as well as the traditional way for comparison. I have filed feedback on this, though I doubt something like this would slip through the cracks all the way to release.</p>",
-            "date_published": "2025-06-16T21:08:41+00:00",
-            "authors": [
-                {
-                    "name": "StellarAelwyd",
-                    "url": "https://www.reddit.com/user/StellarAelwyd"
                 }
             ]
         }
