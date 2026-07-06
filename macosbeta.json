@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1up6gro",
+            "url": "/r/MacOSBeta/comments/1up6gro/traffic_light_controls_show_black_border_when/",
+            "external_url": "https://www.reddit.com/gallery/1up6gro",
+            "title": "Traffic light controls show black border when window is inactive in Dark Mode",
+            "content_html": "<p>When a window becomes inactive after switching focus away, the red/yellow/green buttons seem to get a dark outline around them. It makes them look a bit smaller than usual and slightly weird in the inactive state.</p>\n<p>Not sure if this is intentional, but it looks a little off to me.</p>",
+            "date_published": "2026-07-06T18:49:52+00:00",
+            "authors": [
+                {
+                    "name": "Icy_Can611",
+                    "url": "https://www.reddit.com/user/Icy_Can611"
+                }
+            ]
+        },
+        {
             "id": "1up618d",
             "url": "/r/MacOSBeta/comments/1up618d/macos_27_db3_is_out/",
             "external_url": "https://i.redd.it/k38e851jlnbh1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "goodnytsleep",
                     "url": "https://www.reddit.com/user/goodnytsleep"
-                }
-            ]
-        },
-        {
-            "id": "1n0hnaj",
-            "url": "/r/MacOSBeta/comments/1n0hnaj/im_fine_with_liquid_glass_legibility_but_less/",
-            "external_url": "https://www.reddit.com/gallery/1n0hnaj",
-            "title": "I'm fine with Liquid Glass legibility, but less thrilled with THIS...",
-            "content_html": "<p>...because it's a perfect storm of incompatible ideas.</p>\n<p>Desktop icons always start at the top. That's where many of Apple's wallpapers/screensavers are bright due to having sky there. Which means it's extra important that desktop item text is legible on bright backgrounds, and always having the text be white (even when the menu bar understands that black is the only way to go) doesn't help.</p>\n<p>Worse, the black blur overlay that sits behind the menu text to improve contrast is placed <em>in front of</em> the desktop items, adding a grey tint over text that's barely legible to begin with. Surely that layer order can't be right. At least, this is what happens with the topmost Desktop item on non-Retina displays, as the first pic illustrates. If you look at the 2nd picture which is MBP 16\" native res (Retina), the overlay doesn't seem to be in front of the icon and text.</p>\n<p>I'm not affected personally as I always use dark wallpapers, but for people who prefer brighter ones this has to be an issue. Definitely one of the most half-baked aspects of the MacOS UI.</p>",
-            "date_published": "2025-08-26T09:58:39+00:00",
-            "authors": [
-                {
-                    "name": "Semantiques",
-                    "url": "https://www.reddit.com/user/Semantiques"
                 }
             ]
         }
