@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1up4wg7",
+            "url": "/r/iOSBeta/comments/1up4wg7/ios_27_db3_new_animation_when_opening_the/",
+            "external_url": "https://v.redd.it/3b06dbcpenbh1",
+            "title": "[iOS 27 DB3] New animation when opening the notification center in an app",
+            "content_html": "<p>Now the subject in the foreground appears first<br />\nScreen recording still very choppy in the release btw</p>",
+            "date_published": "2026-07-06T17:56:53+00:00",
+            "authors": [
+                {
+                    "name": "maxime_lgde",
+                    "url": "https://www.reddit.com/user/maxime_lgde"
+                }
+            ]
+        },
+        {
             "id": "1up5zfj",
             "url": "/r/iOSBeta/comments/1up5zfj/ios_27_db3_expressive_voice_preview_is_finally/",
             "external_url": "https://i.redd.it/ibtul8z8lnbh1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Nikolai197",
                     "url": "https://www.reddit.com/user/Nikolai197"
-                }
-            ]
-        },
-        {
-            "id": "1limvzc",
-            "url": "/r/iOSBeta/comments/1limvzc/ios_26_db2_background_more_blurred_in_control/",
-            "external_url": "https://www.reddit.com/gallery/1limvzc",
-            "title": "[iOS 26 DB2] Background more blurred in control center.",
-            "content_html": "<p>Right photo is DB1</p>",
-            "date_published": "2025-06-23T17:33:16+00:00",
-            "authors": [
-                {
-                    "name": "Maxwellxoxo_",
-                    "url": "https://www.reddit.com/user/Maxwellxoxo_"
                 }
             ]
         }
