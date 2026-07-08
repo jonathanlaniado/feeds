@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1uqxe6u",
+            "url": "/r/selfhosted/comments/1uqxe6u/wealthfolio_v36_released_the_localfirst/",
+            "external_url": "https://www.reddit.com/gallery/1uqxe6u",
+            "title": "Wealthfolio v3.6 released: the local-first investment tracker is now a full personal finance app (net worth, spending, goals, FIRE simulations), now with SSO",
+            "content_html": "<p>Wealthfolio is an open source, local-first finance tracker I've been building for a couple of years (\\~8k stars now). It started as an investment tracker, but as of this release it covers the whole picture: investments, net worth, spending, goals, and FIRE / retirement simulations (when can I stop working, what happens if I change my savings rate).</p>\n<p>New in 3.6, with self-hosters specifically in mind:<br />\n\u2022\u00a0<strong>SSO / OIDC authentication</strong>\u00a0\u2014 one of the most requested features here, so you can bring your own identity provider instead of a separate login<br />\n\u2022 Multilingual support, short positions, tax recording, and rebalancing</p>\n<p>Self-hosting is first-class: Dockerfile and compose.yml in the repo, plus Proxmox and Unraid guides. There are also desktop apps for macOS, Windows, and Linux if you prefer. Either way, everything lives in a\u00a0<strong>local SQLite database, no account required, and your financial data never touches our servers.</strong></p>\n<p>The app is\u00a0<strong>free and open source (AGPL).</strong>\u00a0The one optional paid add-on is automatic broker syncing, since the aggregator behind it charges per connection. Manual entry and CSV import are always free.</p>\n<p>Site: <a href=\"http://wealthfolio.app\">wealthfolio.app</a></p>\n<p>I'm the developer. Happy to answer setup questions or take feature requests.</p>",
+            "date_published": "2026-07-08T16:17:15+00:00",
+            "authors": [
+                {
+                    "name": "afadil",
+                    "url": "https://www.reddit.com/user/afadil"
+                }
+            ]
+        },
+        {
             "id": "1uo1jgp",
             "url": "/r/selfhosted/comments/1uo1jgp/banning_slop_posts/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1uo1jgp/banning_slop_posts/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Due-Photograph-5902",
                     "url": "https://www.reddit.com/user/Due-Photograph-5902"
-                }
-            ]
-        },
-        {
-            "id": "1lnil6j",
-            "url": "/r/selfhosted/comments/1lnil6j/this_is_why_you_self_host/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1lnil6j/this_is_why_you_self_host/",
-            "title": "This is why you self host",
-            "content_html": "<p>Source: Windows</p>\n<p>https://www.windowscentral.com/software-apps/onedrive-user-locked-out-of-30-years-worth-of-photos</p>",
-            "date_published": "2025-06-29T16:17:04+00:00",
-            "authors": [
-                {
-                    "name": "Prudent-Interest-428",
-                    "url": "https://www.reddit.com/user/Prudent-Interest-428"
                 }
             ]
         }
