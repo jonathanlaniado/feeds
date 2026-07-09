@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1us3el5",
+            "url": "/r/ArcBrowser/comments/1us3el5/open_ai_retires_atlas/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1us3el5/open_ai_retires_atlas/",
+            "title": "Open AI retires Atlas",
+            "content_html": "<p>Just ranting\u2026</p>\n<p>I saw that openAI decided to retire their Atlas browser for a more \u201cunified\u201d desktop app that includes Codex and their work agent. </p>\n<p>Hopefully Atlassian can look at the and realize how stupid an AI browser is, stop working on it give us the best browser back. </p>\n<p>Thanks, rant over.</p>",
+            "date_published": "2026-07-09T21:18:53+00:00",
+            "authors": [
+                {
+                    "name": "Fade_Yeti",
+                    "url": "https://www.reddit.com/user/Fade_Yeti"
+                }
+            ]
+        },
+        {
             "id": "1tjiihh",
             "url": "/r/ArcBrowser/comments/1tjiihh/nothing_has_come_even_remotely_close_to_arcs/",
             "external_url": "https://i.redd.it/210mei74eh2h1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "JaceThings",
                     "url": "https://www.reddit.com/user/JaceThings"
-                }
-            ]
-        },
-        {
-            "id": "1gllwma",
-            "url": "/r/ArcBrowser/comments/1gllwma/til_that_arc_has_fixed_the_responsive_layout_bug/",
-            "external_url": "https://v.redd.it/mp9xxyeexfzd1",
-            "title": "TIL that Arc has fixed the \"responsive\" layout bug on Windows Arc.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1gllwma/til_that_arc_has_fixed_the_responsive_layout_bug/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1gllwma/til_that_arc_has_fixed_the_responsive_layout_bug/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-11-07T08:31:38+00:00",
-            "authors": [
-                {
-                    "name": "a_sliceoflife",
-                    "url": "https://www.reddit.com/user/a_sliceoflife"
                 }
             ]
         }
