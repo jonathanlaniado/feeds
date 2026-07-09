@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1us0hs5",
+            "url": "/r/selfhosted/comments/1us0hs5/sparkyfitness_turns_one_a_selfhosted_alternative/",
+            "external_url": "https://www.reddit.com/gallery/1us0hs5",
+            "title": "SparkyFitness turns One - A Self-Hosted alternative for MyFitnessPal, Flo, Hevy, Shotsy & More",
+            "content_html": "<p>Hey All,</p>\n<p>I can't believe it's already been a year since this project started! When I created SparkyFitness, I never expected it to grow into a full-time passion project. Huge thanks to this community for giving me the opportunity to build a tool that helps you and your families stay healthy.</p>\n<p>We just crossed 4.5k+ users and have 73 amazing developers contributing to the project. We are scaling faster than ever and even gained over 1,000 GitHub stars in just the last month alone!</p>\n<p>We\u2019re evolving way past legacy calorie and exercise tracking. Recently, we\u2019ve added several major features:</p>\n<ul>\n<li>Period cycle and pregnancy tracking</li>\n<li>Comprehensive medication management</li>\n<li>GLP-1 medication tracking</li>\n</ul>\n<p>If you haven't tried SparkyFitness yet, I'd love for you to give it a spin and let us know what you think.</p>\n<p>The main reason for this post is to get your input on our upcoming Workout &amp; Exercise module for our mobile app. The third screenshot attached shows what we have accomplished so far. We want to ensure this enhancement is built exactly how you need it, so your feedback is crucial to our next steps.</p>\n<p>Please drop your suggestions in the comments below or preferably hop over to our GitHub discussion: <a href=\"https://github.com/CodeWithCJ/SparkyFitness/discussions/1692\">https://github.com/CodeWithCJ/SparkyFitness/discussions/1692</a></p>\n<p>Main Repo: <a href=\"https://github.com/CodeWithCJ/SparkyFitness\">https://github.com/CodeWithCJ/SparkyFitness</a></p>\n<h1>Core Features</h1>\n<ul>\n<li>Nutrition, exercise, hydration, sleep, fasting, mood and body measurement tracking</li>\n<li>Period Cycle, Pregnancy, Medication &amp; GLP1 tracking</li>\n<li>Goal setting and daily check-ins</li>\n<li>Interactive charts and long-term reports</li>\n<li>Multiple user profiles and family access</li>\n<li>AI Chatbot &amp; MCP Server</li>\n<li>Light and dark themes</li>\n<li>OIDC, TOTP, Passkey, MFA etc.</li>\n</ul>\n<h1>Health &amp; Device Integrations</h1>\n<p>SparkyFitness can sync data from multiple health and fitness platforms:</p>\n<ul>\n<li>Apple Health\u00a0(iOS)\u00a0<a href=\"https://apps.apple.com/us/app/sparkyfitness/id6757314392\">https://apps.apple.com/us/app/sparkyfitness/id</a></li>\n<li>Google Health Connect\u00a0(Android)\u00a0<a href=\"https://github.com/CodeWithCJ/SparkyFitness/wiki/Android-Mobile-App\">https://github.com/CodeWithCJ/SparkyFitness/wiki/Android-Mobile-App</a></li>\n<li>Google Health API</li>\n<li>Fitbit (will be decommissioned as google health API is the replacement )</li>\n<li>Garmin Connect</li>\n<li>Withings</li>\n<li>Polar Flow</li>\n<li>Hevy\u00a0(not tested)</li>\n<li>OpenFoodFacts</li>\n<li>USDA</li>\n<li>Fatsecret</li>\n<li>Nutritioninx</li>\n<li>Mealie</li>\n<li>Tandoor</li>\n<li>Strava\u00a0(partially tested)</li>\n<li>Norish</li>\n<li>Yazio\u00a0(uses unofficial API)</li>\n<li>Swiss Food Database</li>\n<li>Free Exercise DB\u00a0(Github)</li>\n<li>Wger</li>\n</ul>",
+            "date_published": "2026-07-09T19:31:30+00:00",
+            "authors": [
+                {
+                    "name": "ExceptionOccurred",
+                    "url": "https://www.reddit.com/user/ExceptionOccurred"
+                }
+            ]
+        },
+        {
             "id": "1uqxe6u",
             "url": "/r/selfhosted/comments/1uqxe6u/wealthfolio_v36_released_the_localfirst/",
             "external_url": "https://www.reddit.com/gallery/1uqxe6u",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "gadgetb0y",
                     "url": "https://www.reddit.com/user/gadgetb0y"
-                }
-            ]
-        },
-        {
-            "id": "1loug98",
-            "url": "/r/selfhosted/comments/1loug98/eu_wants_to_spy_in_your_chats_making_encryption/",
-            "external_url": "https://www.theverge.com/2024/6/19/24181214/eu-chat-control-law-propose-scanning-encrypted-messages-csam",
-            "title": "EU wants to spy in your chats, making encryption useless",
-            "content_html": "<p>Initially it was supposed to be just for pedophiles, and that sounded OK.</p>\n<p>But the problem is that obviously when you give up the full privacy and encryption, they can target whoever they want not just pedophiles.</p>\n<p>Now they clearly claim that it will be used to gather informations for any crime and not just that one.</p>\n<p>Freedom of speech would be under heavy pressure, we all know how these things end.</p>",
-            "date_published": "2025-07-01T06:21:17+00:00",
-            "authors": [
-                {
-                    "name": "Due-Photograph-5902",
-                    "url": "https://www.reddit.com/user/Due-Photograph-5902"
                 }
             ]
         }
