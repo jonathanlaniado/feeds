@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1ushs24",
+            "url": "/r/selfhosted/comments/1ushs24/girlfriend_approved_homeserver_setup/",
+            "external_url": "https://www.reddit.com/gallery/1ushs24",
+            "title": "Girlfriend approved homeserver setup",
+            "content_html": "<p>I recently moved in with my girlfriend and we were trying to find solutions for the computers and hard drives I want to have attached to the modem.</p>\n<p>We found this Ikea Gillersberg coffee table/shelf hybrid for 35\u20ac and it was a perfect solution!</p>",
+            "date_published": "2026-07-10T08:36:53+00:00",
+            "authors": [
+                {
+                    "name": "SolidOshawott",
+                    "url": "https://www.reddit.com/user/SolidOshawott"
+                }
+            ]
+        },
+        {
             "id": "1us0hs5",
             "url": "/r/selfhosted/comments/1us0hs5/sparkyfitness_turns_one_a_selfhosted_alternative/",
             "external_url": "https://www.reddit.com/gallery/1us0hs5",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "lilbiba400",
                     "url": "https://www.reddit.com/user/lilbiba400"
-                }
-            ]
-        },
-        {
-            "id": "1lptuty",
-            "url": "/r/selfhosted/comments/1lptuty/cloudflare_will_now_block_ai_crawlers_by_default/",
-            "external_url": "https://www.theverge.com/news/695501/cloudflare-block-ai-crawlers-default",
-            "title": "Cloudflare will now block AI crawlers by default",
-            "content_html": "<p>\ud83d\udc40</p>\n<p>Have your self-hosted services been crippled by AI bot scraping? Mine aren't popular or interesting enough, but I know plenty of yours are.</p>",
-            "date_published": "2025-07-02T11:53:39+00:00",
-            "authors": [
-                {
-                    "name": "gadgetb0y",
-                    "url": "https://www.reddit.com/user/gadgetb0y"
                 }
             ]
         }
