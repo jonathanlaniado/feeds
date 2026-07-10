@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "1usz9d9",
+            "url": "/r/apple/comments/1usz9d9/apple_sues_openai_accuses_exemployees_of_stealing/",
+            "external_url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+            "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+            "content_html": "<p>Apple has filed a lawsuit against OpenAI today, accusing the company of trade secret theft. Specifically, Apple alleges that its former employees have stolen trade secrets \u201cfor the benefit of OpenAI.\u201d</p>\n<p>\u201cThis case is about Apple\u2019s former employees stealing Apple\u2019s trade secrets for the benefit of OpenAI. Apple brings this suit to put a stop to it,\u201d the lawsuit says.</p>\n<p>In a statement to 9to5Mac, an Apple spokesperson said:</p>\n<blockquote>\n<p>\u201cAt Apple, our teams are constantly developing breakthrough technologies to create the best products and services in the world, and protecting their work and intellectual property is something we take very seriously. Recently, significant evidence has emerged suggesting individuals employed by OpenAI wrongfully took Apple\u2019s secret and confidential information regarding our unreleased technologies, processes, and products. We will always defend our teams\u2019 hard work and innovations, and we are taking all appropriate steps to do so.\u201d</p>\n</blockquote>",
+            "date_published": "2026-07-10T20:30:19+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1uf917u",
             "url": "/r/apple/comments/1uf917u/macbook_neo_is_now_starting_699_instead_of_599/",
             "external_url": "https://www.apple.com/shop/buy-mac/macbook-neo",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "skyyisland",
                     "url": "https://www.reddit.com/user/skyyisland"
-                }
-            ]
-        },
-        {
-            "id": "1i20869",
-            "url": "/r/apple/comments/1i20869/apple_may_have_solved_the_biggest_problem_with/",
-            "external_url": "https://9to5mac.com/2025/01/15/apple-may-have-solved-the-biggest-problem-with-embedding-face-id-in-the-display/",
-            "title": "Apple may have solved the biggest problem with embedding Face ID in the display",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/apple/comments/1i20869/apple_may_have_solved_the_biggest_problem_with/'>Winston</a> | <a href='https://reddit.com/r/apple/comments/1i20869/apple_may_have_solved_the_biggest_problem_with/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2025-01-15T15:43:09+00:00",
-            "authors": [
-                {
-                    "name": "Fertility18",
-                    "url": "https://www.reddit.com/user/Fertility18"
                 }
             ]
         }
