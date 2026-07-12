@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1uuivge",
+            "url": "/r/OpenAI/comments/1uuivge/just_leaving_this_here_for_someone_to_see_it_and/",
+            "external_url": "https://i.redd.it/43tsda90ktch1.jpeg",
+            "title": "Just leaving this here for someone to see it and fix things",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/43tsda90ktch1.jpeg\" />",
+            "date_published": "2026-07-12T15:41:25+00:00",
+            "authors": [
+                {
+                    "name": "py-net",
+                    "url": "https://www.reddit.com/user/py-net"
+                }
+            ]
+        },
+        {
             "id": "1urh6uz",
             "url": "/r/OpenAI/comments/1urh6uz/gpt_is_getting_close_to_singularity/",
             "external_url": "https://i.redd.it/m2gk0xal55ch1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "AloneCoffee4538",
                     "url": "https://www.reddit.com/user/AloneCoffee4538"
-                }
-            ]
-        },
-        {
-            "id": "1mbu0l7",
-            "url": "/r/OpenAI/comments/1mbu0l7/chatgpt_agent_operates_a_live_security_camera_and/",
-            "external_url": "https://v.redd.it/2pq49jp7voff1",
-            "title": "ChatGPT agent operates a live security camera and searches for a turquoise boat",
-            "content_html": "",
-            "date_published": "2025-07-28T22:10:17+00:00",
-            "authors": [
-                {
-                    "name": "Joel_Roints",
-                    "url": "https://www.reddit.com/user/Joel_Roints"
                 }
             ]
         }
