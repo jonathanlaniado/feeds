@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1uvnr70",
+            "url": "/r/MacOSBeta/comments/1uvnr70/macos_27_golden_gate_public_beta_now_available/",
+            "external_url": "https://www.macrumors.com/2026/07/13/macos-golden-gate-public-beta/",
+            "title": "MacOS 27 Golden Gate Public Beta Now Available",
+            "content_html": "",
+            "date_published": "2026-07-13T20:47:13+00:00",
+            "authors": [
+                {
+                    "name": "Vast-Wasabi8974",
+                    "url": "https://www.reddit.com/user/Vast-Wasabi8974"
+                }
+            ]
+        },
+        {
             "id": "1urwnt4",
             "url": "/r/MacOSBeta/comments/1urwnt4/psa_beta_3_has_a_data_corruption_bug_your_files/",
             "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1urwnt4/psa_beta_3_has_a_data_corruption_bug_your_files/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Afraid_Couple_3935",
                     "url": "https://www.reddit.com/user/Afraid_Couple_3935"
-                }
-            ]
-        },
-        {
-            "id": "1n6pvq3",
-            "url": "/r/MacOSBeta/comments/1n6pvq3/apple_seeds_ninth_beta_of_macos_tahoe_to/",
-            "external_url": "https://www.macrumors.com/2025/09/02/apple-seeds-macos-tahoe-beta-9/",
-            "title": "Apple Seeds Ninth Beta of macOS Tahoe to Developers",
-            "content_html": "",
-            "date_published": "2025-09-02T17:30:45+00:00",
-            "authors": [
-                {
-                    "name": "No_Confusion7932",
-                    "url": "https://www.reddit.com/user/No_Confusion7932"
                 }
             ]
         }
