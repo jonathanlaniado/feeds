@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1uvi7vx",
+            "url": "/r/iOSBeta/comments/1uvi7vx/ios_266_beta_5_discussion/",
+            "external_url": "https://www.reddit.com/r/iOSBeta/comments/1uvi7vx/ios_266_beta_5_discussion/",
+            "title": "iOS 26.6 Beta 5 - Discussion",
+            "content_html": "<p>Use this thread to share any changes &amp; bugs you discover while using the latest iOS/iPadOS 26 beta.</p>\n<p>This thread should be used for discussion of the betas that may not meet our submission guidelines, as well as troubleshooting small issues through the beta test cycle.</p>\n<p>Further discussion can be found on the\u00a0iOS Beta Discord</p>\n<p>Spamming this discussion with comments about battery life, safari being snappier, size of beta updates etc will result in a ban from the sub moving forward.</p>",
+            "date_published": "2026-07-13T17:31:21+00:00",
+            "authors": [
+                {
+                    "name": "epmuscle",
+                    "url": "https://www.reddit.com/user/epmuscle"
+                }
+            ]
+        },
+        {
             "id": "1up4wg7",
             "url": "/r/iOSBeta/comments/1up4wg7/ios_27_db3_new_animation_when_opening_the/",
             "external_url": "https://v.redd.it/3b06dbcpenbh1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "mvbalan",
                     "url": "https://www.reddit.com/user/mvbalan"
-                }
-            ]
-        },
-        {
-            "id": "1linbjl",
-            "url": "/r/iOSBeta/comments/1linbjl/ios_26_db2_new_tab_button_has_been_moved_back_to/",
-            "external_url": "https://i.imgur.com/J2dKeAx.png",
-            "title": "[iOS 26 DB2] New tab button has been moved back to the bottom of the Safari window",
-            "content_html": "<div><br></div><img src=\"https://i.imgur.com/J2dKeAx.png\" />",
-            "date_published": "2025-06-23T17:49:17+00:00",
-            "authors": [
-                {
-                    "name": "Nikolai197",
-                    "url": "https://www.reddit.com/user/Nikolai197"
                 }
             ]
         }
