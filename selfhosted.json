@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1ux7n0k",
+            "url": "/r/selfhosted/comments/1ux7n0k/psa_root_access_vulnerability_in_tailscale_ssh/",
+            "external_url": "https://tailscale.com/security-bulletins#ts-2026-009",
+            "title": "PSA - root access vulnerability in tailscale ssh",
+            "content_html": "<p>If you use tailscale ssh, you rely on ACLs, and anyone else in your tailnet you should update as soon as possible. Even if you're alone in your tailscale don't write off the possibility of chained vulnerabilities.  </p>\n<p>Generally, when it comes to something as important as ssh, consider using openssh instead.</p>",
+            "date_published": "2026-07-15T14:34:33+00:00",
+            "authors": [
+                {
+                    "name": "williambobbins",
+                    "url": "https://www.reddit.com/user/williambobbins"
+                }
+            ]
+        },
+        {
             "id": "1uwhvce",
             "url": "/r/selfhosted/comments/1uwhvce/this_subreddit_used_to_be_fun/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1uwhvce/this_subreddit_used_to_be_fun/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "riottto",
                     "url": "https://www.reddit.com/user/riottto"
-                }
-            ]
-        },
-        {
-            "id": "1ltcvuu",
-            "url": "/r/selfhosted/comments/1ltcvuu/weve_issued_our_first_ip_address_certificate_now/",
-            "external_url": "https://letsencrypt.org/2025/07/01/issuing-our-first-ip-address-certificate/",
-            "title": "\"We've Issued Our First IP Address Certificate\" - Now you can get SSL certificate for IP, no domain needed!",
-            "content_html": "",
-            "date_published": "2025-07-06T21:40:46+00:00",
-            "authors": [
-                {
-                    "name": "FuriousRageSE",
-                    "url": "https://www.reddit.com/user/FuriousRageSE"
                 }
             ]
         }
