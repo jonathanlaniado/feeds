@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1uycwq1",
+            "url": "/r/OpenAI/comments/1uycwq1/i_used_56_sol_ultra_to_close_a_30year_open_gap_in/",
+            "external_url": "https://www.reddit.com/r/OpenAI/comments/1uycwq1/i_used_56_sol_ultra_to_close_a_30year_open_gap_in/",
+            "title": "I used 5.6 Sol Ultra to Close a 30-Year Open Gap in Mathematical Optimization Theory, following OpenAI's CDC Proof Prompt Methodology",
+            "content_html": "<p>TL;DR: In a single 148 min session, with a prompt modeled after the one OpenAI used to prove CDC, GPT 5.6 Sol Ultra supplied a proof that closed a complexity gap in convex optimization that has existed since 1996. The result was formally verified in Lean. Links to everything are at the bottom of this post.</p>\n<p>Note: I am the author of the preprint and Lean repository linked below. I have a PhD in applied mathematics and am a teaching prof in IEOR at UC Berkeley. The result has not yet been peer reviewed. I am happy to answer any questions or provide thoughts below. I've also given a slightly more <a href=\"https://www.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/\">technical summary</a> and thoughts over in r/math, for those interested.</p>\n<p>Following the recent announcement that GPT-5.6 Sol Ultra had produced a proof of the Cycle Double Cover Conjecture, I adapted the prompting methodology used in that project to a problem in convex optimization. After 148 minutes of uninterrupted work, GPT-5.6 Sol Pro produced the main argument for a lower bound that I had been unable to prove myself (and a lot of my past work has been proving complexity lower bounds in different settings). My prompt is about ten pages long and attached at the end of the preprint (see collection of links below), and was also designed together with 5.6 Sol. There is a lot baked into this prompt, on approaches to try and also on how exactly the model should proceed, but it's built exactly in the style of OpenAI's CDC prompt. With it, 5.6 Sol Pro <strong>solved the problem it in one shot</strong>. After checking things myself, I formally verified the proof in Lean, and it passed the formal verification checks (for those unfamiliar, Lean is a programming language in which one can formalize and computationally verify mathematical statements). Regarding the problem, this is not some obscure problem that no one has attempted to solve or that has been forgotten over the years. I've thought about this problem on and off for about a year, lots and lots of related work exists from top researchers, the equivalent problems in related settings have been solved for a long time (some as far back as 1979), and I've heard an expert in the area say \"we have no idea\" about how to prove this result at an optimization conference just last year.</p>\n<p>For mathematical and theoretical CS research, 5.6 Sol seems to be a huge improvement in its capabilities. We've seen OpenAI's proof on the CDC conjecture, and either I have been extremely lucky or the approach they used has serious potential to be successful on a lot of other open problems. I had tried using 5.4 and 5.5 on this problem after seeing folks like Ernest Ryu having success with them, but that went nowhere. I'll share <a href=\"https://chatgpt.com/share/6a592503-2d60-83ea-8f00-9ed96b331b16\">here</a> a chat for example, where I tried the approach that Sol 5.6 ended up using that worked in the end (excuse my shortness in my follow-ups there, I was trying to run deep dives on a couple different approaches in parallel, and was a bit frustrated against 5.5 at the time!).</p>\n<p>Links:</p>\n<p>An accessible account I wrote on Medium:</p>\n<p><a href=\"https://medium.com/@kerger.p/an-ai-assisted-breakthrough-in-convex-optimization-an-optimization-problem-dating-back-30-years-a-db5c631119de\">https://medium.com/@kerger.p/an-ai-assisted-breakthrough-in-convex-optimization-an-optimization-problem-dating-back-30-years-a-db5c631119de</a></p>\n<p>The preprint, Lean code, complete prompts, proof map, and build instructions are available here:</p>\n<p><a href=\"https://github.com/PhillipKerger/zero-order-bounds-lean-verification\">https://github.com/PhillipKerger/zero-order-bounds-lean-verification</a></p>\n<p>ArXiv preprint:\u00a0<a href=\"https://arxiv.org/pdf/2607.13335\">Closing the Oracle-Complexity Gap in Derivative-Free Convex Optimization: A Near-Quadratic Lower Bound from Exact Function Values</a></p>\n<p>The original uninterrupted 148-minute chat that produced the initial proof:</p>\n<p><a href=\"https://chatgpt.com/share/6a55aa50-b484-83ea-85c0-c7e7b4bda41c\">https://chatgpt.com/share/6a55aa50-b484-83ea-85c0-c7e7b4bda41c</a></p>\n<p>The later chat that led to the d\u207b\u00b9\u141f\u00b2 refinement on accuracy requirements:</p>\n<p><a href=\"https://chatgpt.com/share/6a55ad10-7644-83ea-859e-5483d2e0dff0\">https://chatgpt.com/share/6a55ad10-7644-83ea-859e-5483d2e0dff0</a></p>\n<p>OpenAI\u2019s CDC prompt, that I structured things after:</p>\n<p><a href=\"https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_prompt.pdf\">https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_prompt.pdf</a></p>",
+            "date_published": "2026-07-16T19:34:54+00:00",
+            "authors": [
+                {
+                    "name": "pkerger",
+                    "url": "https://www.reddit.com/user/pkerger"
+                }
+            ]
+        },
+        {
             "id": "1uwigmi",
             "url": "/r/OpenAI/comments/1uwigmi/is_this_true/",
             "external_url": "https://i.redd.it/f8b9cqerw8dh1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "DigSignificant1419",
                     "url": "https://www.reddit.com/user/DigSignificant1419"
-                }
-            ]
-        },
-        {
-            "id": "1mi65qt",
-            "url": "/r/OpenAI/comments/1mi65qt/sam_altman_mark_zuckerberg_and_peter_thiel_are/",
-            "external_url": "https://i.redd.it/n73bd58kn6hf1.png",
-            "title": "Sam Altman, Mark Zuckerberg, and Peter Thiel are all building bunkers",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/n73bd58kn6hf1.png\" />",
-            "date_published": "2025-08-05T11:05:05+00:00",
-            "authors": [
-                {
-                    "name": "MetaKnowing",
-                    "url": "https://www.reddit.com/user/MetaKnowing"
                 }
             ]
         }
