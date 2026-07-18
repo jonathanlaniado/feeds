@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1uzedoq",
+            "url": "/r/MacOSBeta/comments/1uzedoq/who_added_jiggle_physics_to_the_quicktime_player/",
+            "external_url": "https://v.redd.it/0xltd2gy9vdh1",
+            "title": "Who added jiggle physics to the QuickTime Player lol",
+            "content_html": "<p>This must be the liquid ass they're talking about</p>",
+            "date_published": "2026-07-17T22:34:27+00:00",
+            "authors": [
+                {
+                    "name": "CreeperDoolie",
+                    "url": "https://www.reddit.com/user/CreeperDoolie"
+                }
+            ]
+        },
+        {
             "id": "1uwrrk0",
             "url": "/r/MacOSBeta/comments/1uwrrk0/what_changed_between_the_two_macos_27_beta_3/",
             "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1uwrrk0/what_changed_between_the_two_macos_27_beta_3/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Ok_Hornet_6689",
                     "url": "https://www.reddit.com/user/Ok_Hornet_6689"
-                }
-            ]
-        },
-        {
-            "id": "1n9udd4",
-            "url": "/r/MacOSBeta/comments/1n9udd4/db9_icon_lottery/",
-            "external_url": "https://i.redd.it/7kpfl29o6inf1.jpeg",
-            "title": "DB9 icon lottery",
-            "content_html": "<p>Help me understand what I'm even seeing here.</p>\n<p>Yes \"it's a beta\" but this mess isn't going to magically resolve itself with the release version...</p>\n<p>Studio: Default = squircle jail, Dark = large icon (same size as Safari icon circle) with actual black background, i.e. what a dark icon updated for Tahoe probably should look like.</p>\n<p>MBP: Neither gets squircle jailed, but both get the muddy grey background associated with squircle jail.</p>\n<p>mini M1: Both are textbook squircle jailed, and both show the original icon's white background reflecting the reality that Google hasn't provided a dark version yet.</p>\n<p>mini M1 remotely via MBP: Call me stupid but when I see a Dock icon via Remote Desktop, I've always taken for granted I was seeing icons the way they look on the remote machine. How do they get the appearance of the Chrome icon on the client? I mean, the client often doesn't even have the same apps as the host...</p>\n<p>tl;dr: Huh?</p><div><br></div><img src=\"https://i.redd.it/7kpfl29o6inf1.jpeg\" />",
-            "date_published": "2025-09-06T08:31:21+00:00",
-            "authors": [
-                {
-                    "name": "Semantiques",
-                    "url": "https://www.reddit.com/user/Semantiques"
                 }
             ]
         }
