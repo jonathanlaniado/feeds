@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1uzuziq",
+            "url": "/r/shortcuts/comments/1uzuziq/turned_ios_shortcuts_into_a_diy_caller_id_using/",
+            "external_url": "https://i.redd.it/5fnap66aizdh1.jpeg",
+            "title": "Turned iOS Shortcuts into a DIY caller ID using OCR and Truecaller",
+            "content_html": "<p>When I switched to iOS from Android, the biggest issue I faced was tracking unknown numbers calling me.</p>\n<p>On Android it\u2019s as easy as installing Truecaller and forgetting about it.</p>\n<p>On iPhone\u2026 not so much. Unless you\u2019re willing to pay \ud83e\udd72</p>\n<p>So I got curious and started digging into how Truecaller works. I reverse engineered some of the Android app\u2019s network requests (for educational purposes btw) and found a few interesting endpoints.</p>\n<p>A few days ago I was also exploring iOS Shortcuts. It\u2019s literally programming without code.</p>\n<p>Then a random idea came to my mind:</p>\n<p>Why don\u2019t I make my own version of Truecaller for iPhone? (obviously using their endpoint lol \ud83d\ude0f)</p>\n<p>I designed an iOS Shortcut that:</p>\n<p>-&gt; Takes a screenshot</p>\n<p>-&gt; Extracts text using OCR</p>\n<p>-&gt; Parses the phone number using regex</p>\n<p>-&gt; Sends the number to a Truecaller endpoint (routed via my own proxy)</p>\n<p>-&gt; Gets the caller\u2019s name and shows it in a popup</p>\n<p>Simple enough, right?</p>\n<p>Wrong.</p>\n<p>I then ran into another issue.</p>\n<p>iOS won\u2019t let you automatically trigger a Shortcut when a call comes in.</p>\n<p>Classic Apple moment.</p>\n<p>So after a bit of research (ChatGPT, obv \ud83d\ude0c), I found out I could trigger the shortcut just by double tapping the back of my phone using Accessibility settings.</p>\n<p>And booyah, it works.</p>\n<p>Now whenever an unknown number calls me, I just double tap the back of my phone and it goes:</p>\n<p>Screenshot -&gt; OCR -&gt; Regex -&gt; Truecaller API -&gt; Caller Name</p>\n<p>Everything happens in under 2 seconds \ud83e\udd2f</p>\n<p>Did I spend hours building something that already exists?</p>\n<p>Yes.</p>\n<p>Did I do all this because I didn\u2019t want to pay for a caller ID app?</p>\n<p>Also yes.</p>\n<p>But hey, that\u2019s how I solved my own problem.</p>\n<p>NGL, the most surprising part was realizing how powerful iOS Shortcuts actually are.</p><div><br></div><img src=\"https://i.redd.it/5fnap66aizdh1.jpeg\" />",
+            "date_published": "2026-07-18T12:46:36+00:00",
+            "authors": [
+                {
+                    "name": "n404r",
+                    "url": "https://www.reddit.com/user/n404r"
+                }
+            ]
+        },
+        {
             "id": "1ucs9dx",
             "url": "/r/shortcuts/comments/1ucs9dx/os_27_beta_2_now_allows_for_easier_toggling_offon/",
             "external_url": "https://i.imgur.com/R0TUZuw.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "luckylion_21",
                     "url": "https://www.reddit.com/user/luckylion_21"
-                }
-            ]
-        },
-        {
-            "id": "1cbhu0m",
-            "url": "/r/shortcuts/comments/1cbhu0m/billboard_charts_20/",
-            "external_url": "https://i.redd.it/jtlwpvez0bwc1.jpeg",
-            "title": "Billboard Charts 2.0",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1cbhu0m/billboard_charts_20/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1cbhu0m/billboard_charts_20/'>Reddit</a></caption><div><br></div><p>People said they wanted to be able to get the Spotify/Apple Music link for the song when you press on the songs. So on top of doing that (thanks to help from reddit user smith_sc), I also decided to refine the shortcut a bit! You can now choose between Billboard HOT 100 (Songs) and Billboard 200 (Albums). It also now includes album art and displays the song/album and artist!</p>\n<p>https://www.icloud.com/shortcuts/31045207debe46a682bc2003888efb9d</p><div><br></div><img src=\"https://i.redd.it/jtlwpvez0bwc1.jpeg\" />",
-            "date_published": "2024-04-23T22:21:15+00:00",
-            "authors": [
-                {
-                    "name": "intersteIIaur",
-                    "url": "https://www.reddit.com/user/intersteIIaur"
                 }
             ]
         }
