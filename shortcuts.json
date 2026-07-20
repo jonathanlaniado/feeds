@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1v1lxo9",
+            "url": "/r/shortcuts/comments/1v1lxo9/thinking_of_building_a_capture_anything_shortcut/",
+            "external_url": "https://i.redd.it/5ya7uvf32eeh1.jpeg",
+            "title": "Thinking of building a \u201ccapture anything\u201d Shortcut for iPhone",
+            "content_html": "<p>I had a random idea and wanted to know if I\u2019m reinventing the wheel.</p>\n<p>Capturing things on my iPhone always feels a little repetitive. If it\u2019s an idea, I open Notes. If it\u2019s a task, I open Reminders. If it\u2019s a movie recommendation, I save it somewhere else. It all works, but I feel like there should be a faster and more enjoyable way to capture everything. </p>\n<p>I\u2019m thinking of building an iPhone Shortcut that acts as a single \u201ccapture anything\u201d entry point.</p>\n<p>It would let me save:<br />\n\u2022 Notes<br />\n\u2022 Ideas<br />\n\u2022 Tasks<br />\n\u2022 Read/Watch Later</p>\n<p>The goal is to make the whole process as effortless as possible. If I share a link, image, PDF, YouTube video, or screenshot, it should understand what I\u2019m saving, optionally extract text, let me set a reminder if I want, and save it with as few prompts as possible\ud83d\ude05</p>\n<p>Before I spend a weekend building this\u2026<br />\n\u2022 Is there already an app or Shortcut that does this really well?<br />\n\u2022 Are there apps with better widgets that I should be looking at instead?<br />\n\u2022 Is there a feature you\u2019d love to see in something like this?</p>\n<p>Would love to hear your thoughts\ud83d\ude04</p><div><br></div><img src=\"https://i.redd.it/5ya7uvf32eeh1.jpeg\" />",
+            "date_published": "2026-07-20T13:42:35+00:00",
+            "authors": [
+                {
+                    "name": "phil-s-osophyy",
+                    "url": "https://www.reddit.com/user/phil-s-osophyy"
+                }
+            ]
+        },
+        {
             "id": "1v13a4x",
             "url": "/r/shortcuts/comments/1v13a4x/update_how_i_found_the_truecaller_api_to_build/",
             "external_url": "https://www.reddit.com/r/shortcuts/comments/1v13a4x/update_how_i_found_the_truecaller_api_to_build/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Sinner630",
                     "url": "https://www.reddit.com/user/Sinner630"
-                }
-            ]
-        },
-        {
-            "id": "1cfuk5i",
-            "url": "/r/shortcuts/comments/1cfuk5i/using_contacts_as_persistent_values/",
-            "external_url": "https://www.reddit.com/gallery/1cfuk5i",
-            "title": "Using contacts as persistent values.",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1cfuk5i/using_contacts_as_persistent_values/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1cfuk5i/using_contacts_as_persistent_values/'>Reddit</a></caption><div><br></div><p>So yeah I am lazy and didn\u2019t want to use third parties or files or even dictionaries that I didn\u2019t understand at all to be honest. I guess I am dumb too. </p>\n<p>Anyway, the easiest solution I have found in order to use a persistent value was to use contacts. You can filter them, read them, update them. Just potent enough for my uses. I just make sure the contacts used by Shortcuts have the same prefix so that they don\u2019t get listed between real contacts.</p>",
-            "date_published": "2024-04-29T09:10:07+00:00",
-            "authors": [
-                {
-                    "name": "franckJPLF",
-                    "url": "https://www.reddit.com/user/franckJPLF"
                 }
             ]
         }
