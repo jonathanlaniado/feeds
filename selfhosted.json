@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1v2vju2",
+            "url": "/r/selfhosted/comments/1v2vju2/jellyfin_project_leadership_changes/",
+            "external_url": "https://forum.jellyfin.org/t-project-leadership-changes",
+            "title": "Jellyfin Project Leadership Changes",
+            "content_html": "<p>See link above to the forum for the full post. Here is the TLDR:</p>\n<p>Effective yesterday, Anthony and Joshua decided to depart from the project, Joshua as Project Leader, and Anthony as a core team member. This is in addition to the resignation of Andrew on Friday. <strong>We leave the project in the very capable hands of the remaining team who have been driving the project for many years now.</strong></p>\n<p>edit: More background info can also be found here: <a href=\"https://www.reddit.com/r/jellyfin/comments/1v1murx/more_jellyfin_project_departures/\">https://www.reddit.com/r/jellyfin/comments/1v1murx/more_jellyfin_project_departures/</a></p>",
+            "date_published": "2026-07-21T21:15:49+00:00",
+            "authors": [
+                {
+                    "name": "FnnKnn",
+                    "url": "https://www.reddit.com/user/FnnKnn"
+                }
+            ]
+        },
+        {
             "id": "1ux7n0k",
             "url": "/r/selfhosted/comments/1ux7n0k/psa_root_access_vulnerability_in_tailscale_ssh/",
             "external_url": "https://tailscale.com/security-bulletins#ts-2026-009",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "LegitimateRip3134",
                     "url": "https://www.reddit.com/user/LegitimateRip3134"
-                }
-            ]
-        },
-        {
-            "id": "1lvimm5",
-            "url": "/r/selfhosted/comments/1lvimm5/i_can_no_longer_claim_999_uptime_on_my_server/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1lvimm5/i_can_no_longer_claim_999_uptime_on_my_server/",
-            "title": "I can no longer claim 99.9% uptime on my server",
-            "content_html": "<p>Apparently the cat I'm catsitting in my house has taken to sleeping on my old desktop which serves as my Truenas server and accidentally turning it off, thus interrupting my movie night. She has been forgiven though on account of her cuteness. I did not prepare for this in building my homeserver in the last few weeks.  </p>",
-            "date_published": "2025-07-09T13:20:29+00:00",
-            "authors": [
-                {
-                    "name": "riottto",
-                    "url": "https://www.reddit.com/user/riottto"
                 }
             ]
         }
