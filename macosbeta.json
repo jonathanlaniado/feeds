@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1v27l30",
+            "url": "/r/MacOSBeta/comments/1v27l30/mails_new_hidden_formatting_bar_now_shows_smart/",
+            "external_url": "https://v.redd.it/iee9sdigbieh1",
+            "title": "Mail's new hidden Formatting Bar now shows Smart Reply suggestions with full-response previews on hover",
+            "content_html": "<p>In macOS 27, Apple is working on a new <a href=\"https://www.reddit.com/r/MacOSBeta/comments/1v0zf7v/\">Formatting Bar design</a> for the message composer in Apple Mail. It includes Write with Siri, Edit with Siri, Proofread, and Rewrite, while collapsing the classic formatting controls to the right.</p>\n<p>In Beta 4, the redesigned bar can now display contextual Smart Reply suggestions. Smart Reply itself isn\u2019t new, as it was introduced with Apple Intelligence. But now, Apple has added support for previewing the Smart Reply before inserting it by hovering over the suggestion chip. With the previous in-line design, there was no way to preview the Smart Reply suggestion.</p>\n<p>Note that in Beta 4, there's a bug where Mail will present the old Formatting Bar design when writing a new email. The new Formatting Bar design only appears when replying to a message.</p>\n<blockquote>\n<p>To enable the new Formatting Bar design, add a FeatureFlags override:  </p>\n<p><code>sudo mkdir -p /Library/Preferences/FeatureFlags/Domain &amp;&amp; \\\nsudo defaults write /Library/Preferences/FeatureFlags/Domain/WritingTools FormattingBar_macOS -dict Enabled -bool true</code></p>\n<p>and restart your Mac. This is a private feature flag, and the UI is a work in progress.</p>\n<p>Disable with:</p>\n<p><code>sudo defaults delete /Library/Preferences/FeatureFlags/Domain/WritingTools FormattingBar_macOS</code></p>\n<p>and restart your Mac.</p>\n</blockquote>",
+            "date_published": "2026-07-21T04:03:29+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1v1trf6",
             "url": "/r/MacOSBeta/comments/1v1trf6/macos_27_golden_gate_beta_4_change_summary/",
             "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1v1trf6/macos_27_golden_gate_beta_4_change_summary/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "digidude23",
                     "url": "https://www.reddit.com/user/digidude23"
-                }
-            ]
-        },
-        {
-            "id": "1ncx1mi",
-            "url": "/r/MacOSBeta/comments/1ncx1mi/apple_announces_macos_tahoe_to_be_released_on/",
-            "external_url": "https://www.apple.com/os/macos/",
-            "title": "Apple announces macOS Tahoe to be released on Monday, September 15th",
-            "content_html": "",
-            "date_published": "2025-09-09T22:23:06+00:00",
-            "authors": [
-                {
-                    "name": "dcpanthersfan",
-                    "url": "https://www.reddit.com/user/dcpanthersfan"
                 }
             ]
         }
