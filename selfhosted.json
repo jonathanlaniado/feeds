@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1v3hobk",
+            "url": "/r/selfhosted/comments/1v3hobk/codeberg_bans_vibe_coded_projects/",
+            "external_url": "https://news.ycombinator.com/item?id=49003386",
+            "title": "Codeberg bans vibe coded projects",
+            "content_html": "<p>Codeberg seems to ban vibecoded Projects; reason might be german copyright law</p>\n<blockquote>\n<p>It looks like Codeberg want only copyrighted material in their service, so it is reliable in the future that e.g. licenses must be followed (e.g. GPL), and copyright doesn't suddenly get declared as being of the model owner, and it isn't a copy of something else. <br />\nThat is a cautious reasonable position - in early days of LLM coding (3 years ago!) indemnity from model companies was a major issue globally because of the lack of clarity of the law around this. The US specifically has settled on it being (effectively?) public domain. But I don't think that is fully settled, and it certainly isn't settled in international copyright law.<br />\nThe goal of the vague \"mostly\" in the Codeberg change is to ensure there is enough human input to the code they host, to be reasonably sure under German copyright law it is copyright of the person sharing it.</p>\n</blockquote>",
+            "date_published": "2026-07-22T14:24:50+00:00",
+            "authors": [
+                {
+                    "name": "pheexio",
+                    "url": "https://www.reddit.com/user/pheexio"
+                }
+            ]
+        },
+        {
             "id": "1v2vju2",
             "url": "/r/selfhosted/comments/1v2vju2/jellyfin_project_leadership_changes/",
             "external_url": "https://forum.jellyfin.org/t-project-leadership-changes",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "stabldev",
                     "url": "https://www.reddit.com/user/stabldev"
-                }
-            ]
-        },
-        {
-            "id": "1lx47vv",
-            "url": "/r/selfhosted/comments/1lx47vv/omnitools_just_dropped_a_massive_update_imagepdf/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1lx47vv/omnitools_just_dropped_a_massive_update_imagepdf/",
-            "title": "OmniTools just dropped a massive update - Image/PDF editor, GIF maker, audio tools, and more - all self-hosted",
-            "content_html": "<p>Hi everyone!</p>\n<p>I'm excited to share that OmniTools v0.5.0 is out! It's a self-hosted web app that now bundles 100 useful tools into a clean, privacy-focused interface - all running locally in your browser.</p>\n<p>Project link: https://github.com/iib0011/omni-tools</p>\n<h2>What's New in v0.5.0:</h2>\n<p>There is a new logo and 15 new tools, including:</p>\n<h3>\ud83d\uddbc\ufe0f Image Tools</h3>\n<ul>\n<li>Image Editor (crop, rotate, add filters, watermark, annotate and more)</li>\n<li>Rotate Image</li>\n<li>Convert Images to JPG</li>\n</ul>\n<h3>\ud83d\udcc4 PDF Tools</h3>\n<ul>\n<li>PDF Editor (add text, images, signature, checkboxes)</li>\n<li>PDF to PNG</li>\n</ul>\n<h3>\ud83c\udfa5 Video Tools</h3>\n<ul>\n<li>Video to GIF</li>\n</ul>\n<h3>\ud83d\udd0a Audio Tools</h3>\n<ul>\n<li>Extract Audio</li>\n<li>Change Speed</li>\n<li>Trim Audio</li>\n<li>Merge Audio</li>\n</ul>\n<h3>\u23f1\ufe0f Time Tools</h3>\n<ul>\n<li>Crontab Explainer</li>\n<li>Check Leap Years</li>\n</ul>\n<h3>\ud83d\udd20 String &amp; Text Tools</h3>\n<ul>\n<li>Text Censor</li>\n</ul>\n<h3>\ud83e\uddfe XML Tools</h3>\n<ul>\n<li>XML Beautifier</li>\n<li>XML Validator</li>\n</ul>\n<p>Feedback, bug reports, or feature ideas welcome, and PRs even more so! I read all comments.</p>\n<p>Thanks r/selfhosted for the support.</p>",
-            "date_published": "2025-07-11T11:17:21+00:00",
-            "authors": [
-                {
-                    "name": "LegitimateRip3134",
-                    "url": "https://www.reddit.com/user/LegitimateRip3134"
                 }
             ]
         }
