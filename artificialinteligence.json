@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1v3ewvq",
+            "url": "/r/ArtificialInteligence/comments/1v3ewvq/reddit_might_cut_off_googles_ai_access_and_yes_it/",
+            "external_url": "https://i.redd.it/h036hog30seh1.jpeg",
+            "title": "Reddit might cut off Google's AI access and yes, it makes sense",
+            "content_html": "<p>Reddit is reportedly considering pulling Google's access to its content for AI training, even though Google pays Reddit roughly $60 million a year for it under a 2024 deal</p>\n<p>(source: Gizmodo) </p>\n<p>Makes sense why they'd rethink it though: Reddit is the single most-cited source for LLMs right now, at over 40%, ahead of Wikipedia, YouTube, and Google itself.</p>\n<p>Feels like Reddit finally realized what its data is actually worth.</p><div><br></div><img src=\"https://i.redd.it/h036hog30seh1.jpeg\" />",
+            "date_published": "2026-07-22T12:36:24+00:00",
+            "authors": [
+                {
+                    "name": "Rangesh06",
+                    "url": "https://www.reddit.com/user/Rangesh06"
+                }
+            ]
+        },
+        {
             "id": "1v1qfrv",
             "url": "/r/ArtificialInteligence/comments/1v1qfrv/kevin_oleary_claimed_opposition_to_his_utah_data/",
             "external_url": "https://fortune.com/2026/07/17/kevin-oleary-defamation-lawsuit-chinese-communist-party-utah-data-center/?utm_source=reddit/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "phonyToughCrayBrave",
                     "url": "https://www.reddit.com/user/phonyToughCrayBrave"
-                }
-            ]
-        },
-        {
-            "id": "1l5ri90",
-            "url": "/r/ArtificialInteligence/comments/1l5ri90/ai_does_95_of_ipo_paperwork_in_minutes_wtf/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1l5ri90/ai_does_95_of_ipo_paperwork_in_minutes_wtf/",
-            "title": "AI does 95% of IPO paperwork in minutes. Wtf.",
-            "content_html": "<p>Saw this quote from Goldman Sachs CEO David Solomon and it kind of shook me:</p>\n<p>\u201cAI can now draft 95% of an S1 IPO prospectus in minutes (a job that used to require a 6-person team multiple weeks)\u2026 The last 5% now matters because the rest is now a commodity.\u201d</p>\n<p>Like\u2026 damn. That\u2019s generative AI eating investment banking lunches now? IPO docs were the holy grail of \u201cdon\u2019t screw this up\u201d legal/finance work  and now it\u2019s essentially copy paste + polish?</p>\n<p>It really hit me how fast things are shifting. Not just blue collar, not just creatives  now even the $200/hr suits are facing the \u201cautomation squeeze.\u201d And it\u2019s not even a gradual fade. It\u2019s 95% overnight.</p>\n<p>What happens when the \u201clast 5%\u201d is all that matters anymore? Are we all just curating and supervising AI outputs soon? Is everything just prompt engineering and editing now?</p>\n<p>Whats your thought ? </p>\n<p>Edit  :Aravind  Srinivas ( CEO of Perplexity tweeted quoting  what David Solomon said </p>\n<p>\u201c After Perplexity Labs, I would say probably 98-99%\u201d</p>",
-            "date_published": "2025-06-07T18:21:07+00:00",
-            "authors": [
-                {
-                    "name": "underbillion",
-                    "url": "https://www.reddit.com/user/underbillion"
                 }
             ]
         }
