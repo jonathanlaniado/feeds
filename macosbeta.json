@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1v30dv9",
+            "url": "/r/MacOSBeta/comments/1v30dv9/apples_hidden_siri_voice_pad_blends_13_voices/",
+            "external_url": "https://v.redd.it/g3qgy0cxxneh1",
+            "title": "Apple's hidden Siri \u201cVoice Pad\u201d blends 13 voices, colorful gradients, and an interactive soundscape to help you \u201ctune Siri\u2019s voice\u201d",
+            "content_html": "<p>Apple is building an immersive onboarding experience to pick Siri's voice in OS 27.</p>\n<p>Instead of selecting from a row of voice options, the hidden interface starts as a nearly black canvas, where the selected voice is marked with a colored dot. As you press and hold and move around the Voice Pad, the interface comes alive with colors cycling across the view. A white point tracks the cursor's position. The colorful interface reveals a 3-column grid with 4, 5, and 4 voice options respectively.</p>\n<p>The visuals are complemented by a proximity-based audio experience. As the cursor approaches a voice, the voice selection moves and the new voice sounds clearer and more present. When the cursor moves away, voices become distant and ambient. In the background, the spatial mixer blends two ambient sound layers as the cursor moves around the screen. The spatial mixer is substantial: it tracks the pointer's distance, angle, and movement velocity, then adjusts volume, presence, reverb, occlusion, and filtering across voice and background tracks.</p>\n<p>After selecting a voice, Siri Settings will still present the voice picker with the Pace and Expressivity controls for later voice changes and tuning. Based on the current implementation, this view is solely an onboarding experience for choosing the underlying Siri voice.</p>\n<p>This new view reveals that Apple may be preparing to support up to 13 custom voices for Siri AI. Note that in this example, macOS 27 Beta 4 does not ship with the required 13 voice models, so macOS falls back to the two custom voices available.</p>\n<p>Here are the voice descriptions the Voice Pad supports for American English based on the supporting Voice Grid Distribution file:</p>\n<p>| Gender | Age | Characteristics | Delivery |\n| :--- | :--- | :--- | :--- |\n| Female | Young | Soft-spoken | \u2014 |\n| Female | Young | Breathy, bright, smooth | \u2014 |\n| Female | Adult 20s | \u2014 | \u2014 |\n| Female | Adult 30s | \u2014 | Friendly |\n| Female | Adult 30s | \u2014 | Enthusiastic, relaxed, warm |\n| Female | Adult 40s | \u2014 | \u2014 |\n| Female | Elder | \u2014 | \u2014 |\n| Male | Young | \u2014 | \u2014 |\n| Male | Adult 30s | Deep | \u2014 |\n| Male | Adult 30s | Smooth | \u2014 |\n| Male | Adult 30s | Rich | Friendly |\n| Male | Elder | \u2014 | \u2014 |\n| Male | Unknown | \u2014 | \u2014 |</p>\n<p>This is obviously an unfinished UI, but there is complete localization for 44 languages. Because the underlying SiriSetup framework is shared between macOS and other operating systems, this experience may be coming to some or all OS 27 releases.</p>\n<hr />\n<p>There's no easy way to enable this one. You need to enable the <code>SiriSetup/linwood_voices</code> feature flag, but also need to attach LLDB to <code>SiriPreferenceExtension</code> and override <code>fetchRequiresVoiceSelection</code> to return true, <code>siriVariantInternal</code> to return 2, and force <code>VoiceSelectionView.shouldRun to</code> return true. This last part requires SIP off. Then you can disable and re-enable Siri to get the new view.</p>",
+            "date_published": "2026-07-22T00:29:48+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1v2r808",
             "url": "/r/MacOSBeta/comments/1v2r808/new_game_center_icon_in_beta_4/",
             "external_url": "https://www.reddit.com/gallery/1v2r808",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Fragrant_Okra6671",
                     "url": "https://www.reddit.com/user/Fragrant_Okra6671"
-                }
-            ]
-        },
-        {
-            "id": "1necir1",
-            "url": "/r/MacOSBeta/comments/1necir1/tahoe_rc_inconsistency/",
-            "external_url": "https://i.redd.it/p0qp6q5g5kof1.jpeg",
-            "title": "Tahoe RC inconsistency",
-            "content_html": "<p>Gosh how does a trillion dollar company can\u2019t even be consistent with their own design language. Look at the \u201cQuit\u201d icon for each of their apps \nWhat a shame Apple, if you can\u2019t release a neat OS then don\u2019t release it until it\u2019s the finished product </p><div><br></div><img src=\"https://i.redd.it/p0qp6q5g5kof1.jpeg\" />",
-            "date_published": "2025-09-11T15:55:44+00:00",
-            "authors": [
-                {
-                    "name": "ContractHour3238",
-                    "url": "https://www.reddit.com/user/ContractHour3238"
                 }
             ]
         }
