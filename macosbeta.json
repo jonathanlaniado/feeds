@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1v3o786",
+            "url": "/r/MacOSBeta/comments/1v3o786/macos27_public_beta2_released/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1v3o786/macos27_public_beta2_released/",
+            "title": "macOS27 Public Beta-2 Released",
+            "content_html": "<p>seems like there were no major issues in DB-4</p>",
+            "date_published": "2026-07-22T18:12:34+00:00",
+            "authors": [
+                {
+                    "name": "No-Description2743",
+                    "url": "https://www.reddit.com/user/No-Description2743"
+                }
+            ]
+        },
+        {
             "id": "1v30dv9",
             "url": "/r/MacOSBeta/comments/1v30dv9/apples_hidden_siri_voice_pad_blends_13_voices/",
             "external_url": "https://v.redd.it/g3qgy0cxxneh1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "samuelaweeks",
                     "url": "https://www.reddit.com/user/samuelaweeks"
-                }
-            ]
-        },
-        {
-            "id": "1neh8qa",
-            "url": "/r/MacOSBeta/comments/1neh8qa/am_i_the_only_one_who_feels_this_way_when_i_see/",
-            "external_url": "https://i.redd.it/7k60khre1lof1.jpeg",
-            "title": "Am I the only one who feels this way when I see my icons in the dock?",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/7k60khre1lof1.jpeg\" />",
-            "date_published": "2025-09-11T18:55:05+00:00",
-            "authors": [
-                {
-                    "name": "Fragrant_Okra6671",
-                    "url": "https://www.reddit.com/user/Fragrant_Okra6671"
                 }
             ]
         }
