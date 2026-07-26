@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1v7d6sr",
+            "url": "/r/MacOSBeta/comments/1v7d6sr/macos_27_adds_slackstyle_inline_emoji_search/",
+            "external_url": "https://v.redd.it/gx11itwugmfh1",
+            "title": "macOS 27 adds Slack-style inline Emoji search functionality, here's how to enable it",
+            "content_html": "<p>A hidden feature flag in macOS 27 Golden Gate enables a new way to search for Emoji while typing. Similar to Emoji search on Slack, a new interface with Emoji suggestions appears when typing colon (<code>:</code>) and continuing to type out the search keyword.</p>\n<p>The new feature works in AppKit-backed apps such as TextEdit, Notes, Siri, Shortcuts, Contacts, and Calendar. In Mail and Reminders, the main views are backed by WebKit, so this new command will not work when drafting messages or new reminders, but Emoji suggestions will appear in search fields.</p>\n<hr />\n<p>To enable, add a FeatureFlags override:</p>\n<p><code>sudo mkdir -p /Library/Preferences/FeatureFlags/Domain &amp;&amp; \\\nsudo defaults write /Library/Preferences/FeatureFlags/Domain/Stickers InlineEmojiSearch -dict Enabled -bool true</code></p>\n<p>and restart your Mac. This is a private feature flag, and the UI may be unstable.</p>\n<hr />\n<p>Remove the override and restore to defaults with:</p>\n<p><code>sudo defaults delete /Library/Preferences/FeatureFlags/Domain/Stickers InlineEmojiSearch</code></p>\n<p>and restart your Mac.</p>",
+            "date_published": "2026-07-26T19:15:43+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1v3zn6u",
             "url": "/r/MacOSBeta/comments/1v3zn6u/macos_27d4_describing_safari_extensions_is/",
             "external_url": "https://i.redd.it/zz3jz9ufuveh1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "GhostalMedia",
                     "url": "https://www.reddit.com/user/GhostalMedia"
-                }
-            ]
-        },
-        {
-            "id": "1nhszk0",
-            "url": "/r/MacOSBeta/comments/1nhszk0/psa_turn_off_beta_updates_to_get_the_release_build/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1nhszk0/psa_turn_off_beta_updates_to_get_the_release_build/",
-            "title": "PSA: turn off beta updates to get the release build.",
-            "content_html": "<p>It seems one must turn off beta updates to get the Tahoe release build.</p>",
-            "date_published": "2025-09-15T17:55:36+00:00",
-            "authors": [
-                {
-                    "name": "solzzr",
-                    "url": "https://www.reddit.com/user/solzzr"
                 }
             ]
         }
