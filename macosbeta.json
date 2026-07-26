@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1v7gpjc",
+            "url": "/r/MacOSBeta/comments/1v7gpjc/macos_27_will_finally_allow_you_to_manage_your/",
+            "external_url": "https://i.redd.it/w7s8mja66nfh1.png",
+            "title": "macOS 27 will finally allow you to manage your Apple Account passkey in the Passwords app",
+            "content_html": "<p>Apple is working on a feature that will allow you to manage your Apple Account passkey in the Passwords app. Currently hidden behind a feature flag, the change enables important editing features, such as sharing the passkey with Groups. Previously, you could share only your Apple Account email and password by adding them manually.</p>\n<p>The change also addresses a long-standing annoyance: if you ever updated your Apple Account email, the passkey used for <em>Sign in with Passkey</em> on Apple websites still showed the old address. Once the passkey appears in the Passwords app, you can click Edit and change its associated User Name. If you already have a record for your Apple Account password with your current email, the two items will be merged. Even if your other devices don't have the feature flag enabled and hide the passkey, the username change will sync across all of them. The next time you sign in with your Apple Account passkey, you'll see the correct email address.</p>\n<hr />\n<p>To enable, add a FeatureFlags override:</p>\n<p><code>sudo mkdir -p /Library/Preferences/FeatureFlags/Domain &amp;&amp; \\\nsudo defaults write /Library/Preferences/FeatureFlags/Domain/AuthKit StandardPasskeys -dict Enabled -bool true</code></p>\n<p>and restart your Mac. If you don't immediately see the Apple Account passkey in the Passkeys list in the Passwords app, open Safari and log in to account.apple.com. It should populate shortly after.</p>\n<hr />\n<p>Disable with:</p>\n<p><code>sudo defaults delete /Library/Preferences/FeatureFlags/Domain/AuthKit StandardPasskeys</code></p>\n<p>and restart your Mac. Disabling will hide your Apple Account passkey from the Passwords app.</p><div><br></div><img src=\"https://i.redd.it/w7s8mja66nfh1.png\" />",
+            "date_published": "2026-07-26T21:28:17+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1v7d6sr",
             "url": "/r/MacOSBeta/comments/1v7d6sr/macos_27_adds_slackstyle_inline_emoji_search/",
             "external_url": "https://v.redd.it/gx11itwugmfh1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "syncraft",
                     "url": "https://www.reddit.com/user/syncraft"
-                }
-            ]
-        },
-        {
-            "id": "1nir6cq",
-            "url": "/r/MacOSBeta/comments/1nir6cq/how_it_feels_seeing_all_the_tahoe_sucks_posts/",
-            "external_url": "https://i.redd.it/eo8nx60bvkpf1.gif",
-            "title": "How it feels seeing all the \"Tahoe sucks\" posts after Apple ignored our beta feedback",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/eo8nx60bvkpf1.gif\" />",
-            "date_published": "2025-09-16T19:27:21+00:00",
-            "authors": [
-                {
-                    "name": "GhostalMedia",
-                    "url": "https://www.reddit.com/user/GhostalMedia"
                 }
             ]
         }
