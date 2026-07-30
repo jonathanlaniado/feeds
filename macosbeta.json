@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1vaw19m",
+            "url": "/r/MacOSBeta/comments/1vaw19m/tip_turn_off_shake_mouse_pointer_to_locate_to/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1vaw19m/tip_turn_off_shake_mouse_pointer_to_locate_to/",
+            "title": "Tip: Turn off \u201cShake mouse pointer to locate\u201d to improve battery life [27 DB 4]",
+            "content_html": "<p>I was getting extreme battery drain on a 14-inch MacBook Pro (M5 Pro, macOS 27.0 Developer Beta 4). At its worst, the battery dropped from around 80% to 25\u201326% in under an hour while doing web browsing, with actual power draw reaching roughly 43W.  </p>\n<p>Activity Monitor initially made it look like several unrelated apps were broken. Different apps would jump to 70\u2013100% CPU at different times: BetterDisplay, Tailscale, Plash, ChatGPT, OCR, Supercharge, etc. Restarting temporarily improved things, but the high CPU would eventually reappear in different apps.  </p>\n<p>I sampled the busy threads and found the same macOS pointer-rendering path in multiple unrelated apps:  </p>\n<p>AppKit tracking area -&gt; NSCursor set -&gt; AccessibilityFoundation -&gt; mouse cursor image generation  </p>\n<p>That made it look less like an app-specific problem and more like macOS repeatedly redrawing the pointer.  </p>\n<p>I had not intentionally customized my pointer colours. The only relevant setting I had enabled was \u201cShake mouse pointer to locate.\u201d However, macOS was reporting the pointer as customized.  </p>\n<p>The fix that worked for me: <br />\n1. Go to System Settings \u2192 Accessibility \u2192 Display \u2192 Pointer.<br />\n2. Turn off \u201cShake mouse pointer to locate.\u201d<br />\n3. Reset the pointer colours/settings to their defaults.   </p>\n<p>The result was immediate: <br />\nApps that had been using roughly 70\u201390% CPU dropped to around 4\u20135%.<br />\nOverall CPU idle returned to 90%+.<br />\nPower draw fell from about 40W to around 10\u201313W.</p>",
+            "date_published": "2026-07-30T14:58:53+00:00",
+            "authors": [
+                {
+                    "name": "jamie950315",
+                    "url": "https://www.reddit.com/user/jamie950315"
+                }
+            ]
+        },
+        {
             "id": "1v7gpjc",
             "url": "/r/MacOSBeta/comments/1v7gpjc/macos_27_will_finally_allow_you_to_manage_your/",
             "external_url": "https://i.redd.it/w7s8mja66nfh1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Financial_Cover6789",
                     "url": "https://www.reddit.com/user/Financial_Cover6789"
-                }
-            ]
-        },
-        {
-            "id": "1nnt9lf",
-            "url": "/r/MacOSBeta/comments/1nnt9lf/macos_tahoe_261/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1nnt9lf/macos_tahoe_261/",
-            "title": "macOS Tahoe 26.1",
-            "content_html": "<p>A beta version of macOS 26.1 has been released. The release notes don't mention any UI bug fixes. Waiting for 26.2?</p>\n<p><a href=\"https://developer.apple.com/documentation/macos-release-notes/macos-26_1-release-notes\">https://developer.apple.com/documentation/macos-release-notes/macos-26_1-release-notes</a></p>",
-            "date_published": "2025-09-22T17:44:44+00:00",
-            "authors": [
-                {
-                    "name": "syncraft",
-                    "url": "https://www.reddit.com/user/syncraft"
                 }
             ]
         }
