@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1vb2efy",
+            "url": "/r/ArcBrowser/comments/1vb2efy/i_build_a_spiritual_successor_to_arc/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1vb2efy/i_build_a_spiritual_successor_to_arc/",
+            "title": "I build a spiritual successor to Arc (cross-platform...Mac, Win, Linux, Android). Full desktop experience on mobile. Would love feedback!",
+            "content_html": "<p>Today I'm releasing Viola on macOS, Windows, Linux, and Android, with true/real-time sync available across all of them.  </p>\n<p><a href=\"https://preview.redd.it/i-finally-built-the-browser-i-wanted-isolated-workspaces-v0-gavpv36pregh1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=9e1680beddbb04810a6e3da7b5026680cf45c0d4\"></a></p>\n<p>https://preview.redd.it/5g3268w0xegh1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=f4310fd2624822e5247ec5454eaf7aa55e8ba6bd</p>\n<p>Create a tab, workspace or group on your computer, pick up your Android phone and it\u2019s already there. Supported browser organization and history are end-to-end encrypted before leaving your device. Cookies/logins obviously don't sync.</p>\n<p>Viola includes:</p>\n<p>- Workspaces for separating projects</p>\n<p>- Isolated profiles with separate cookies, logins, storage, and extensions</p>\n<p>- Tab Groups (persistent or not!) and side-by-side Splits</p>\n<p>- One shared workspace model across every Viola window</p>\n<p>- Chrome Web Store extensions on desktop, installed per profile (Viola is Chromium-based)</p>\n<p>- A Mini Player that follows you between workspaces (YouTube, Twitch, etc)</p>\n<p>- Synced tabs, pins, groups, splits, bookmarks, history, and compatible extension catalogs</p>\n<p>- Full session recovery</p>\n<p>- In-app persistent notifications</p>\n<p>The Android version is probably what I'm most excited about right now. EVERY SINGLE mobile browser I've ever used as felt like a hindered/watered-down experience. Viola on Android uses the same visual system and mental model as desktop: a vertical sidebar, real workspaces, grouped tabs, pins, and an All Workspaces view. On foldables and tablets it feels like a desktop-class browser.</p>\n<p>https://preview.redd.it/ok9xrzl4xegh1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=4df39ad69daa8bbc1f83728266172443b42a7e61</p>\n<p><a href=\"https://preview.redd.it/i-finally-built-the-browser-i-wanted-isolated-workspaces-v0-2r2kt75qregh1.png?width=1906&amp;format=png&amp;auto=webp&amp;s=4be27485277923e709254170bfeb45a1195c4a02\"></a></p>\n<p>Viola is deliberately just a browser. There is no AI integration, notes app, calendar or inbox.</p>\n<p>Download:\u00a0<a href=\"https://violabrowser.com/\">https://violabrowser.com/</a></p>\n<p>This is the first public release, and I'd genuinely appreciate any feedback! There are social links at the bottom of the page if you'd like to report issues. What would stop you from making Viola your default browser?</p>",
+            "date_published": "2026-07-30T18:45:11+00:00",
+            "authors": [
+                {
+                    "name": "GoodMacAuth",
+                    "url": "https://www.reddit.com/user/GoodMacAuth"
+                }
+            ]
+        },
+        {
             "id": "1us3el5",
             "url": "/r/ArcBrowser/comments/1us3el5/open_ai_retires_atlas/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1us3el5/open_ai_retires_atlas/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Paulhulf",
                     "url": "https://www.reddit.com/user/Paulhulf"
-                }
-            ]
-        },
-        {
-            "id": "1gltns4",
-            "url": "/r/ArcBrowser/comments/1gltns4/not_everyone_loved_our_android_designs_in_the/",
-            "external_url": "https://v.redd.it/k8wmnqvf4izd1",
-            "title": "\"Not everyone loved our Android designs in the beginning...\" \u2013 \nThe Browser Company via YouTube",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1gltns4/not_everyone_loved_our_android_designs_in_the/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1gltns4/not_everyone_loved_our_android_designs_in_the/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-11-07T15:54:33+00:00",
-            "authors": [
-                {
-                    "name": "JaceThings",
-                    "url": "https://www.reddit.com/user/JaceThings"
                 }
             ]
         }
