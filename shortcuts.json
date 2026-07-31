@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1vbv19r",
+            "url": "/r/shortcuts/comments/1vbv19r/i_kept_forgetting_my_notes_so_i_made_a_shortcut/",
+            "external_url": "https://www.reddit.com/gallery/1vbv19r",
+            "title": "I kept forgetting my notes, so I made a Shortcut that lets me write them straight from my Lock Screen",
+            "content_html": "<p>Hey everyone,</p>\n<p>A while ago I shared the Lock Screen calendar app I made. It shows my calendar, reminders, and countdowns together, and I\u2019ve been using it every day since.</p>\n<p>But I still kept forgetting smaller things.</p>\n<p>I\u2019d put something in the Notes app, then completely forget the note existed. And some things are too small for a calendar event or a proper reminder \u2014 like something I need to bring tomorrow, a grocery item, or just a random thought I don\u2019t want to lose.</p>\n<p>So I added a simple Shortcut.</p>\n<p>I run it, type a note, and it shows up on my Lock Screen with everything else. That\u2019s pretty much it.</p>\n<p>It\u2019s been surprisingly useful. I don\u2019t have to remember to check another app because the note is already there whenever I pick up my phone.</p>\n<p>Now my Lock Screen has my schedule, things I need to do, upcoming dates, and whatever I just typed in.</p>\n<p>Shortcut:\u00a0<a href=\"https://www.icloud.com/shortcuts/4d8ee89ac4054c6a852593ccbfb8feb4\">https://www.icloud.com/shortcuts/4d8ee89ac4054c6a852593ccbfb8feb4</a><br />\nApp:\u00a0<a href=\"http://app.relecompany.com/isgd9c\">app.relecompany.com/isgd9c</a></p>\n<p><strong>If you want to try it, setup only takes a minute:</strong></p>\n<ol>\n<li>Press and hold your Lock Screen, then tap\u00a0<strong>Customize</strong>.</li>\n<li>Remove either the left or right Lock Screen control, then tap the\u00a0<strong>+</strong>\u00a0button.</li>\n<li>Select\u00a0<strong>Run Shortcut</strong>.</li>\n<li>Search for\u00a0<strong>AnySchedule</strong>, then choose the\u00a0<strong>Add + Text</strong>\u00a0Shortcut you just added.</li>\n</ol>\n<p>That\u2019s it. Now you can tap the Lock Screen button, type something, and it\u2019ll show up alongside your calendar, reminders, and countdowns.</p>\n<p>You don\u2019t have to use the Lock Screen button, either. You can assign the same Shortcut to the\u00a0<strong>Action Button</strong>, or set it to run when you\u00a0<strong>double-tap the back of your iPhone</strong>. Use whichever one feels quickest.</p>\n<p>Let me know if you find it useful or have any ideas for it.</p>",
+            "date_published": "2026-07-31T16:00:33+00:00",
+            "authors": [
+                {
+                    "name": "Icy_Stomach4909",
+                    "url": "https://www.reddit.com/user/Icy_Stomach4909"
+                }
+            ]
+        },
+        {
             "id": "1v1lxo9",
             "url": "/r/shortcuts/comments/1v1lxo9/thinking_of_building_a_capture_anything_shortcut/",
             "external_url": "https://i.redd.it/5ya7uvf32eeh1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "rcrter9194",
                     "url": "https://www.reddit.com/user/rcrter9194"
-                }
-            ]
-        },
-        {
-            "id": "1chmp8q",
-            "url": "/r/shortcuts/comments/1chmp8q/leave_home_automation/",
-            "external_url": "https://www.reddit.com/gallery/1chmp8q",
-            "title": "Leave home automation",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1chmp8q/leave_home_automation/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1chmp8q/leave_home_automation/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-05-01T13:51:22+00:00",
-            "authors": [
-                {
-                    "name": "Sinner630",
-                    "url": "https://www.reddit.com/user/Sinner630"
                 }
             ]
         }
