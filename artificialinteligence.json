@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1vdo58w",
+            "url": "/r/ArtificialInteligence/comments/1vdo58w/anthropic_lately/",
+            "external_url": "https://i.redd.it/gvfhcig4zzgh1.jpeg",
+            "title": "Anthropic lately",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/gvfhcig4zzgh1.jpeg\" />",
+            "date_published": "2026-08-02T17:33:44+00:00",
+            "authors": [
+                {
+                    "name": "jindmahi",
+                    "url": "https://www.reddit.com/user/jindmahi"
+                }
+            ]
+        },
+        {
             "id": "1vcor4y",
             "url": "/r/ArtificialInteligence/comments/1vcor4y/what_really_happened_behind_the_scenes_of_claudes/",
             "external_url": "https://i.redd.it/npwn335dwrgh1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "petr_bena",
                     "url": "https://www.reddit.com/user/petr_bena"
-                }
-            ]
-        },
-        {
-            "id": "1ld7a9t",
-            "url": "/r/ArtificialInteligence/comments/1ld7a9t/openai_wins_200_million_us_defense_contract/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1ld7a9t/openai_wins_200_million_us_defense_contract/",
-            "title": "OpenAI wins $200 million U.S. defense contract",
-            "content_html": "<p><a href=\"https://www.cnbc.com/2025/06/16/openai-wins-200-million-us-defense-contract.html\">https://www.cnbc.com/2025/06/16/openai-wins-200-million-us-defense-contract.html</a></p>\n<p>OpenAI has secured a $200 million, one-year contract with the U.S. Defense Department to develop advanced AI tools for national security, marking its first such deal listed by the Pentagon. The work will be done mainly in the National Capital Region. This follows OpenAI\u2019s collaboration with defense firm Anduril and comes amid broader defense AI efforts, including rival Anthropic\u2019s work with Palantir and Amazon. OpenAI CEO Sam Altman has expressed support for national security projects. The deal is small relative to OpenAI\u2019s $10B+ in annual sales and follows major initiatives like the $500B Stargate project.</p>\n<p>It is about to go down! what can go wrong?</p>",
-            "date_published": "2025-06-16T22:51:29+00:00",
-            "authors": [
-                {
-                    "name": "azavio",
-                    "url": "https://www.reddit.com/user/azavio"
                 }
             ]
         }
