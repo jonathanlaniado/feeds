@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1vee8z9",
+            "url": "/r/ArtificialInteligence/comments/1vee8z9/german_court_rules_that_ai_music_company_suno/",
+            "external_url": "https://i.redd.it/e479ewmw16hh1.jpeg",
+            "title": "German court rules that AI music company Suno breached copyright",
+            "content_html": "<p>Hey Tom here from u/ResidentAdvisor<br />\nA German court has ruled that AI music company Suno infringed copyright by using works represented by collecting society GEMA without permission, marking a significant legal setback for generative AI music firms.  </p>\n<p>The decision, made July 31st, is the latest development in the music industry's legal battle over the use of copyrighted works to train generative AI systems. Suno said it disagrees with the ruling, arguing its technology is designed to create new songs rather than reproduce existing ones, and is considering an appeal.</p>\n<p>You can read the full story here: <a href=\"https://ra.co/news/85705\">https://ra.co/news/85705</a></p><div><br></div><img src=\"https://i.redd.it/e479ewmw16hh1.jpeg\" />",
+            "date_published": "2026-08-03T13:59:44+00:00",
+            "authors": [
+                {
+                    "name": "ResidentAdvisor",
+                    "url": "https://www.reddit.com/user/ResidentAdvisor"
+                }
+            ]
+        },
+        {
             "id": "1vdo58w",
             "url": "/r/ArtificialInteligence/comments/1vdo58w/anthropic_lately/",
             "external_url": "https://i.redd.it/gvfhcig4zzgh1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "redpandafire",
                     "url": "https://www.reddit.com/user/redpandafire"
-                }
-            ]
-        },
-        {
-            "id": "1lf5soy",
-            "url": "/r/ArtificialInteligence/comments/1lf5soy/can_someone_help_me_understand_why_should_we_pump/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1lf5soy/can_someone_help_me_understand_why_should_we_pump/",
-            "title": "Can someone help me understand why should we pump 7 trillions into development of AI?",
-            "content_html": "<p>Sam Altman is asking for 7 trillion to speed up development of AI / AGI. I would like to hear from AI community why should we even want it, what are the arguments why we should progress the AI development even further?</p>\n<p>So far the \"pros\" I heard:</p>\n<p>* AI will cure cancer - since its inception there is very little evidence AI helped in any measurable way in this area, or is there?</p>\n<p>* AI will solve climate crisis - same, there is very little improvement from AI, on contrary AI consumes so much electricity (producing CO2) and requires huge datacenters (construction of produces CO2) and lots of chips (manufacturing of produces CO2) that on average it's probably making the situation worse.</p>\n<p>Now the cons we can already see unfolding:</p>\n<p>* AI is probably going to lead to massive unemployment crisis as it has potential to displace anyone, especially it's most likely to kill the \"entertaining and lucrative\" middle-class jobs first: programmers, lawyers, artists, doctors etc.</p>\n<p>* Displacement of middle class jobs will lead to further accumulation of wealth and power into hands of tiny elite while making more poor people. Rich will get richer, poor will be poorer - and there is going to be more poor people than ever</p>\n<p>* AI is already ruining art, internet, social networks, fueling propaganda and disinformation</p>\n<p>etc. etc. basically AI so far is bringing mostly bad things and fails to materialize anything really useful so why in the world should we pump 7 trillions into developing it further?</p>",
-            "date_published": "2025-06-19T08:40:56+00:00",
-            "authors": [
-                {
-                    "name": "petr_bena",
-                    "url": "https://www.reddit.com/user/petr_bena"
                 }
             ]
         }
