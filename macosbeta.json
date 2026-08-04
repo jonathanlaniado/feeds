@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1vf9sop",
+            "url": "/r/MacOSBeta/comments/1vf9sop/fresh_breath_for_older_machines_m1_air_16gb/",
+            "external_url": "https://i.redd.it/efoduwfwwchh1.png",
+            "title": "Fresh breath for older machines (M1 Air 16GB)",
+            "content_html": "<p>I installed the macOS 27 public beta, and man I can't believe this version is faster than the mature, older Sequoia. In Speedometer, I saw a 10\u201315% performance increase. Before the update, it scored 32\u201333. Battery life seems about the same; I'm glad I didn't update to Tahoe in the past. Indexing is also quite fast. The most annoying bug to me is sometime Clock isn't opening at all, but a fresh restart often fix that. How is your experience with the latest Public Beta?</p><div><br></div><img src=\"https://i.redd.it/efoduwfwwchh1.png\" />",
+            "date_published": "2026-08-04T13:04:33+00:00",
+            "authors": [
+                {
+                    "name": "Cheese5217",
+                    "url": "https://www.reddit.com/user/Cheese5217"
+                }
+            ]
+        },
+        {
             "id": "1vdo254",
             "url": "/r/MacOSBeta/comments/1vdo254/macos_27_has_a_hidden_solar_wallpaper_engine/",
             "external_url": "https://www.reddit.com/gallery/1vdo254",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "aitookmyj0b",
                     "url": "https://www.reddit.com/user/aitookmyj0b"
-                }
-            ]
-        },
-        {
-            "id": "1nvmylc",
-            "url": "/r/MacOSBeta/comments/1nvmylc/the_new_network_icon_on_tahoe_261_beta_1_is/",
-            "external_url": "https://i.redd.it/by4df0v2wksf1.png",
-            "title": "The new Network icon on Tahoe 26.1 Beta 1 is beautiful! It looks straight out of the OS X days...",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/by4df0v2wksf1.png\" />",
-            "date_published": "2025-10-01T22:41:55+00:00",
-            "authors": [
-                {
-                    "name": "nitzukai",
-                    "url": "https://www.reddit.com/user/nitzukai"
                 }
             ]
         }
