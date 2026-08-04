@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1vfh9fh",
+            "url": "/r/MacOSBeta/comments/1vfh9fh/no_developer_beta_this_week/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1vfh9fh/no_developer_beta_this_week/",
+            "title": "No developer beta this week?",
+            "content_html": "",
+            "date_published": "2026-08-04T17:37:55+00:00",
+            "authors": [
+                {
+                    "name": "br_web",
+                    "url": "https://www.reddit.com/user/br_web"
+                }
+            ]
+        },
+        {
             "id": "1vf9sop",
             "url": "/r/MacOSBeta/comments/1vf9sop/fresh_breath_for_older_machines_m1_air_16gb/",
             "external_url": "https://i.redd.it/efoduwfwwchh1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "jagajazzist",
                     "url": "https://www.reddit.com/user/jagajazzist"
-                }
-            ]
-        },
-        {
-            "id": "1nxfywc",
-            "url": "/r/MacOSBeta/comments/1nxfywc/track_which_electron_apps_slow_down_your_macos/",
-            "external_url": "https://avarayr.github.io/shamelectron/",
-            "title": "Track which Electron apps slow down your MacOS Tahoe 26",
-            "content_html": "",
-            "date_published": "2025-10-04T00:34:18+00:00",
-            "authors": [
-                {
-                    "name": "aitookmyj0b",
-                    "url": "https://www.reddit.com/user/aitookmyj0b"
                 }
             ]
         }
