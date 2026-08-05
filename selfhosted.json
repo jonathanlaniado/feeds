@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1vgi06c",
+            "url": "/r/selfhosted/comments/1vgi06c/tracearr_v200_media_library_one_identity_per/",
+            "external_url": "https://www.reddit.com/gallery/1vgi06c",
+            "title": "Tracearr v2.0.0 - Media Library, One Identity Per Title, Public API v2",
+            "content_html": "<p>This has been a long time coming, and in progress for quite some time. Excited to see what everyone things, and what these new features allow you to learn about your server!</p>\n<p>BACK UP BEFORE UPGRADING. This release migrates the database heavily. If you need the escape hatch, a 1.5 backup restores cleanly on 2.0.</p>\n<h1>New Media section</h1>\n<p>Browse your whole library as a poster wall with an A-Z rail and filters for library, resolution, HDR, size on disk, and watched - two-tone checkmark for \"you watched\" vs \"someone watched\". Detail pages list every copy of a title with per-file quality, library, and size. Genre breakdown, storage, and watch pages round it out.</p>\n<h1>One identity per title</h1>\n<p>The same movie on two servers is one row everywhere now - stats, leaderboards, history. Seasons and music get real identities too, and wrongly split titles heal themselves.</p>\n<h1>Every file counted</h1>\n<p>Tracearr used to read a title's first file and drop the rest. Now every version is tracked: 4K + 1080p copies, duplicate libraries, mirrored files counted once. Storage totals are honest, duplicates catches same-server copies, sessions record which version actually played, and 1440p/8K no longer count as SD.</p>\n<h1>Public API v2</h1>\n<p>Bearer tokens, rate limits, OpenAPI docs served in-app. Built so apps that use Tautulli can use Tracearr instead.</p>\n<h1>Mobile: every tab, every server</h1>\n<p>Rolling out shortly after the 2.0 app update. Server selection is global now - pick All, one server, or any subset from any tab, and it sticks across restarts. It used to be a dashboard-only trick that quietly collapsed to one server everywhere else. Navigation got rebuilt on native tabs: the tab bar survives detail pushes, and the drawer is gone in favor of a server sheet and header buttons. Also in this round: iOS 26 header buttons stop flashing white on tab switches, the stream map matches the dark theme on both platforms, and servers behind Tailscale are reachable on iOS again (App Transport Security was silently blocking them).</p>\n<h1>Under the hood</h1>\n<ul>\n<li>Plex library changes sync in seconds via server events (Jellyfin/Emby get this with the new SSE plugin release)</li>\n<li>Upgrades show migration progress instead of looking dead, and a bad migration can't boot-loop the server</li>\n<li>First sync is much faster</li>\n<li>Fixed a silent gap in sharing detection on polled servers</li>\n<li>Stale content and ROI stop double counting merged titles; duplicates stop counting mirrored files twice</li>\n<li>OpenAPI specs publish as release assets, so the docs site always renders the spec for your version</li>\n</ul>\n<h1>Notes</h1>\n<ul>\n<li>Counts may shift after upgrade as versions and identities settle - that's the double counting going away</li>\n<li>Overall trust scores move too: you now see a person's worst account, and violation totals actually count - both sat frozen before</li>\n</ul>\n<p><a href=\"https://discord.gg/a7n3sFd2Yw\">Discord</a> | <a href=\"https://docs.tracearr.com\">Documentation</a> | <a href=\"https://tracearr.com\">Website</a></p>",
+            "date_published": "2026-08-05T19:52:07+00:00",
+            "authors": [
+                {
+                    "name": "GallapagosIsland",
+                    "url": "https://www.reddit.com/user/GallapagosIsland"
+                }
+            ]
+        },
+        {
             "id": "1veq8ya",
             "url": "/r/selfhosted/comments/1veq8ya/petition_to_ban_i_built_in_post_titles/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1veq8ya/petition_to_ban_i_built_in_post_titles/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "OmgSlayKween",
                     "url": "https://www.reddit.com/user/OmgSlayKween"
-                }
-            ]
-        },
-        {
-            "id": "1lz280x",
-            "url": "/r/selfhosted/comments/1lz280x/selfhosted_emergency_sites/",
-            "external_url": "https://i.redd.it/gi0sldox5pcf1.png",
-            "title": "Self-hosted emergency sites?",
-            "content_html": "<p>I saw this ad today and wondered if there are any open-source options for easily self-hosting something like this. Obviously I could set it all up manually but that's a lot of work for little benefit. Seems like a cool thing to have (although likely will never need to be used).</p><div><br></div><img src=\"https://i.redd.it/gi0sldox5pcf1.png\" />",
-            "date_published": "2025-07-13T19:58:29+00:00",
-            "authors": [
-                {
-                    "name": "chill389cc",
-                    "url": "https://www.reddit.com/user/chill389cc"
                 }
             ]
         }
