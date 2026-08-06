@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1vhhw4w",
+            "url": "/r/MacOSBeta/comments/1vhhw4w/macos_27_finally_lets_you_airplay_to_your_mac_in/",
+            "external_url": "https://i.redd.it/82g0ap1tsthh1.png",
+            "title": "macOS 27 finally lets you AirPlay to your Mac in a window instead of taking over the entire screen",
+            "content_html": "<p>In macOS 27, AirPlay can finally start off in windowed mode instead of taking over your Mac's full screen.</p>\n<hr />\n<p>To enable, add a FeatureFlags override:</p>\n<p><code>sudo mkdir -p /Library/Preferences/FeatureFlags/Domain &amp;&amp; \\\nsudo defaults write /Library/Preferences/FeatureFlags/Domain/ControlCenter APReceiverInWindow -dict Enabled -bool true</code></p>\n<p>and restart your Mac. This is a private feature flag, and the UI may be unstable.</p>\n<hr />\n<p>Disable with:</p>\n<p><code>sudo defaults delete /Library/Preferences/FeatureFlags/Domain/ControlCenter APReceiverInWindow</code></p>\n<p>and restart your Mac.</p><div><br></div><img src=\"https://i.redd.it/82g0ap1tsthh1.png\" />",
+            "date_published": "2026-08-06T21:51:42+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1vfh9fh",
             "url": "/r/MacOSBeta/comments/1vfh9fh/no_developer_beta_this_week/",
             "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1vfh9fh/no_developer_beta_this_week/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "abbbbbcccccddddd",
                     "url": "https://www.reddit.com/user/abbbbbcccccddddd"
-                }
-            ]
-        },
-        {
-            "id": "1nzpmq5",
-            "url": "/r/MacOSBeta/comments/1nzpmq5/macos_261_beta_2_25b5057f_released/",
-            "external_url": "https://www.macrumors.com/2025/10/06/apple-seeds-ios-26-1-beta-2/",
-            "title": "macOS 26.1 beta 2 (25B5057f) released",
-            "content_html": "",
-            "date_published": "2025-10-06T17:33:21+00:00",
-            "authors": [
-                {
-                    "name": "jagajazzist",
-                    "url": "https://www.reddit.com/user/jagajazzist"
                 }
             ]
         }
