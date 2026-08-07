@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1viclhk",
+            "url": "/r/ArtificialInteligence/comments/1viclhk/google_quietly_discontinues_its_earth_ai_feature/",
+            "external_url": "https://fortune.com/2026/08/07/google-quietly-discontinues-its-earth-ai-feature-a-day-after-its-rollout-after-users-made-no-no-images/?utm_source=reddit/",
+            "title": "Google quietly discontinues its Earth AI feature a day after its rollout after users made no-no images",
+            "content_html": "<p>Google spent years trying to weave generative AI into its product line up, from Gemini in our Google Docs to AI overview in our search engines, and now Nano Banana 2 in Google Earth. But it turns out combining real places with generative AI was a disaster after users generated some taboo imagery, forcing Google to pull the rollout less than a day after it launched.\u00a0  </p>\n<p>\u201cWe know that people uniquely trust Google Earth for a reliable view of the world,\u201d a Google spokesperson told <em>Fortune</em>. \u201cIt\u2019s important to note that generated images didn\u2019t appear in the main Google Earth experience for others\u2026 and were watermarked as AI generated.\u201d</p>\n<p>The spokesperson\u2019s comments come after it quickly became apparent users began abusing the system to create false images meant for disinformation. Some generated images of a nuclear plant in Iran, or refugees near the Mexico-US border.  </p>\n<p>The feature allowed users to overlay AI-generated scenes onto real satellite, aerial and 3D imagery. Google envisioned legitimate uses such as visualizing planning concepts or historical reconstructions, but users almost immediately began generating fabricated disasters, false military installations and conflict scenes tied to real-world locations.  </p>\n<p>Read more [paywall removed for Redditors]:\u00a0 <a href=\"https://fortune.com/2026/08/07/google-quietly-discontinues-its-earth-ai-feature-a-day-after-its-rollout-after-users-made-no-no-images/?utm_source=reddit/\">https://fortune.com/2026/08/07/google-quietly-discontinues-its-earth-ai-feature-a-day-after-its-rollout-after-users-made-no-no-images/?utm_source=reddit/</a></p>",
+            "date_published": "2026-08-07T20:58:01+00:00",
+            "authors": [
+                {
+                    "name": "fortune",
+                    "url": "https://www.reddit.com/user/fortune"
+                }
+            ]
+        },
+        {
             "id": "1vee8z9",
             "url": "/r/ArtificialInteligence/comments/1vee8z9/german_court_rules_that_ai_music_company_suno/",
             "external_url": "https://i.redd.it/e479ewmw16hh1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "underbillion",
                     "url": "https://www.reddit.com/user/underbillion"
-                }
-            ]
-        },
-        {
-            "id": "1lo7acj",
-            "url": "/r/ArtificialInteligence/comments/1lo7acj/mit_study_suggests_80_of_ai_medical_advice_is/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1lo7acj/mit_study_suggests_80_of_ai_medical_advice_is/",
-            "title": "MIT study suggests 80% of AI medical advice is false",
-            "content_html": "<p>Trying to balance all the break-neck progress news with some more grounded cautionary evidence. Medical use of AI has always been a big question for me, whether we trust patient care to AI, whether we can reduce medical expertise and hand it off to machine learning. Seems progress needs to be made on safety, transparency, and accountability.</p>\n<p>https://news.mit.edu/2025/llms-factor-unrelated-information-when-recommending-medical-treatments-0623</p>",
-            "date_published": "2025-06-30T13:17:30+00:00",
-            "authors": [
-                {
-                    "name": "redpandafire",
-                    "url": "https://www.reddit.com/user/redpandafire"
                 }
             ]
         }
