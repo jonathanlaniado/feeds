@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1vkpdan",
+            "url": "/r/MacOSBeta/comments/1vkpdan/safari_27_adds_support_for_global_privacy_control/",
+            "external_url": "https://i.redd.it/7kscf03xmkih1.png",
+            "title": "Safari 27 adds support for Global Privacy Control",
+            "content_html": "<p>In Safari 27, a new WebKit feature flag enables Global Privacy Control, a new 'stop selling or sharing my data switch.' Under the California Consumer Privacy Act, it must be honored by covered businesses as a valid consumer request to stop the sale or sharing of personal information. Even if you're not in California, most websites will accept the signal and honor your preference. Read more about GPC on the <a href=\"https://oag.ca.gov/privacy/ccpa/gpc\">State of California Department of Justice's website</a>. </p>\n<p>If you don't have Safari feature flags enabled, go to Safari Settings &gt; Advanced &gt; Show features for web developers. Then go to the Feature Flags tab and enable the two Global Privacy Control flags.</p>\n<p>You can test your selection is working by visiting GPC's main website, <a href=\"https://globalprivacycontrol.org\">globalprivacycontrol.org</a>. You'll see a \"GPC signal detected\" banner at the top of the page.</p>\n<p>If you're on macOS 26, you can download Safari 27 for macOS Tahoe at <a href=\"https://developer.apple.com/safari/resources/\">developer.apple.com/safari/resources/</a>. </p>\n<p>You can also download Safari Technology Preview from the same site, which also includes the GPC feature. There's a single Global Privacy Control flag in Safari Technology Preview. </p><div><br></div><img src=\"https://i.redd.it/7kscf03xmkih1.png\" />",
+            "date_published": "2026-08-10T16:16:42+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1vkre1v",
             "url": "/r/MacOSBeta/comments/1vkre1v/mac_os_27_dev_beta_5_is_out/",
             "external_url": "https://9to5mac.com/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "AJ20ist",
                     "url": "https://www.reddit.com/user/AJ20ist"
-                }
-            ]
-        },
-        {
-            "id": "1o337ts",
-            "url": "/r/MacOSBeta/comments/1o337ts/macos_26_most_useful_electron_apps_are_now_fixed/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1o337ts/macos_26_most_useful_electron_apps_are_now_fixed/",
-            "title": "MacOS 26: Most Useful Electron Apps Are Now Fixed",
-            "content_html": "<p>Just a little update for people on Sequoia holding off because of the <a href=\"https://github.com/electron/electron/issues/48311\">Electron issue</a>, and those on Tahoe who might be unaware.</p>\n<p>Most popular Electron apps have updated their Electron versions and no longer cause performance/lag/overheating</p>\n<p>popular fixed apps:</p>\n<ul>\n<li>\u2705 Discord</li>\n<li>\u2705 VSCode</li>\n<li>\u2705 Figma</li>\n<li>\u2705 Docker</li>\n<li>\u2705 Slack</li>\n<li>\u2705 Notion</li>\n</ul>\n<p>the entire list here: <a href=\"https://avarayr.github.io/shamelectron/\">https://avarayr.github.io/shamelectron/</a></p>\n<p>personally I'm waiting for Cursor to be fixed, but besides that my mac is lag free!</p>",
-            "date_published": "2025-10-10T14:58:11+00:00",
-            "authors": [
-                {
-                    "name": "aitookmyj0b",
-                    "url": "https://www.reddit.com/user/aitookmyj0b"
                 }
             ]
         }
