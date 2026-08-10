@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1vk8efr",
+            "url": "/r/MacOSBeta/comments/1vk8efr/apple_published_expressive_voice_configs_for/",
+            "external_url": "https://v.redd.it/mgcj2d31kgih1",
+            "title": "Apple published Expressive Voice configs for every American and British Siri voice last night. Here's what might be coming in Beta 5.",
+            "content_html": "<p>New macOS betas are hopefully incoming.</p>\n<p>Last night, Apple released a new version of its Voice Presets list, which provides Expressive Voice configs for supported Siri voices. The new version includes configuration details for all 7 existing Siri American voices <em>and</em> all 4 British voices.</p>\n<p>This configuration file should enable the Expressivity and Pace controls for all 11 American and British voices in System Settings when it properly ships. There is still no Expressivity and Pace support for Australian, Indian, Irish, and South African voices.</p>\n<p>Apple also published a model catalog snapshot with a new <code>v16</code> <code>com.apple.fm.language.instruct_3b.base</code> model yesterday, up from <code>v15</code>. The new Expressive Voice configs require the new base model. </p>\n<p>The server isn't serving the new base model to current builds, so it seems that they're staging assets for a new macOS Beta version.</p>\n<p>Hopefully we get the new expressive voices and the full 275 configuration options soon. We're also waiting on the full range of 13 American Siri voices that showed up in the Siri <a href=\"https://www.reddit.com/r/MacOSBeta/comments/1v30dv9\">Voice Pad onboarding</a>.</p>",
+            "date_published": "2026-08-10T02:23:48+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1vhhw4w",
             "url": "/r/MacOSBeta/comments/1vhhw4w/macos_27_finally_lets_you_airplay_to_your_mac_in/",
             "external_url": "https://i.redd.it/82g0ap1tsthh1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "aegasyir",
                     "url": "https://www.reddit.com/user/aegasyir"
-                }
-            ]
-        },
-        {
-            "id": "1nztt0r",
-            "url": "/r/MacOSBeta/comments/1nztt0r/defaultdark_widgets_in_261_beta_2_are_now/",
-            "external_url": "https://i.redd.it/jifh0iv7sjtf1.png",
-            "title": "Default/dark widgets in 26.1 beta 2 are now following global light/dark mode",
-            "content_html": "<p>A tiny change but I like it, previously the default icon/widget style came with light widgets and you could only get dark ones by using dark or clear/tinted icons (which I'm not a fan of).</p><div><br></div><img src=\"https://i.redd.it/jifh0iv7sjtf1.png\" />",
-            "date_published": "2025-10-06T20:07:13+00:00",
-            "authors": [
-                {
-                    "name": "abbbbbcccccddddd",
-                    "url": "https://www.reddit.com/user/abbbbbcccccddddd"
                 }
             ]
         }
