@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1vkre1v",
+            "url": "/r/MacOSBeta/comments/1vkre1v/mac_os_27_dev_beta_5_is_out/",
+            "external_url": "https://9to5mac.com/",
+            "title": "Mac OS 27 Dev Beta 5 is out",
+            "content_html": "",
+            "date_published": "2026-08-10T17:28:21+00:00",
+            "authors": [
+                {
+                    "name": "SALMANKHANPM",
+                    "url": "https://www.reddit.com/user/SALMANKHANPM"
+                }
+            ]
+        },
+        {
             "id": "1vk8efr",
             "url": "/r/MacOSBeta/comments/1vk8efr/apple_published_expressive_voice_configs_for/",
             "external_url": "https://v.redd.it/mgcj2d31kgih1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "aitookmyj0b",
                     "url": "https://www.reddit.com/user/aitookmyj0b"
-                }
-            ]
-        },
-        {
-            "id": "1o2f1b3",
-            "url": "/r/MacOSBeta/comments/1o2f1b3/tahoe_261_beta_2_fuzzy_animations_for_minimizing/",
-            "external_url": "https://v.redd.it/jf6ty0cjy4uf1",
-            "title": "Tahoe 26.1 Beta 2 Fuzzy Animations for minimizing and maximizing windows",
-            "content_html": "<p>Hey all, after updating to 26.1 Beta 2 I notice the animation for minimizing and maximizing windows to the dock is fuzzy and looks very strange.<br />\nI have reported the bug, but wondering if anyone else is noticing this?</p>\n<p>I tried checking on a different monitor but it is the same everywhere.  </p>\n<p>Macbook Pro M4 Pro 14 Inch.</p>",
-            "date_published": "2025-10-09T19:15:55+00:00",
-            "authors": [
-                {
-                    "name": "aegasyir",
-                    "url": "https://www.reddit.com/user/aegasyir"
                 }
             ]
         }
