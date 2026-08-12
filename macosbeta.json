@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1vm4g4g",
+            "url": "/r/MacOSBeta/comments/1vm4g4g/macos_27_dark_mode_broken_liquid_glass_tint/",
+            "external_url": "https://www.reddit.com/gallery/1vm4g4g",
+            "title": "macOS 27 Dark Mode Broken - Liquid Glass Tint Removed",
+            "content_html": "<p>Can more people please help report the Dark Mode downgrade in macOS 27, specifically affecting the menu bar menus, contextual menus, and pop\u2011up windows?  </p>\n<p>In macOS 26, Liquid Glass included a dark tinted layer that gave menus and notifications proper contrast. In macOS 27, this tint is gone, the material now looks almost transparent, as if it were stuck in Light Mode.</p>\n<p>A practical fix would be to add a toggle in Settings \u2192 Appearance that lets users enable a tinted version of Liquid Glass independently of the opacity slider. Right now, the slider only increases blur but does not restore the darker background effect that macOS 26 provided.</p>\n<p>More reports from users could help Apple recognize this issue and consider restoring the tinted option for Dark Mode.</p>",
+            "date_published": "2026-08-12T04:51:37+00:00",
+            "authors": [
+                {
+                    "name": "Heezy999",
+                    "url": "https://www.reddit.com/user/Heezy999"
+                }
+            ]
+        },
+        {
             "id": "1vm19vy",
             "url": "/r/MacOSBeta/comments/1vm19vy/macos_27_beta_5_adds_keyboard_navigation_between/",
             "external_url": "https://v.redd.it/b6ijdwe1puih1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "devilinacan",
                     "url": "https://www.reddit.com/user/devilinacan"
-                }
-            ]
-        },
-        {
-            "id": "1odr8ey",
-            "url": "/r/MacOSBeta/comments/1odr8ey/macos_261_makes_it_so_obvious_260_was_completely/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1odr8ey/macos_261_makes_it_so_obvious_260_was_completely/",
-            "title": "macOS 26.1 makes it so obvious 26.0 was completely rushed.",
-            "content_html": "<p>There's SO many fixes. Battery life, performance, RAM usage, and overall UI. It's hard to overstate how much better it is.</p>\n<p>Apple should've really delayed it until November like they did Big Sur.</p>",
-            "date_published": "2025-10-23T02:04:50+00:00",
-            "authors": [
-                {
-                    "name": "Financial_Cover6789",
-                    "url": "https://www.reddit.com/user/Financial_Cover6789"
                 }
             ]
         }
