@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1vmlq6r",
+            "url": "/r/MacOSBeta/comments/1vmlq6r/you_can_finally_view_your_macs_manufacture_date/",
+            "external_url": "https://i.redd.it/u13l99pvdzih1.png",
+            "title": "You can finally view your Mac's manufacture date in macOS 27",
+            "content_html": "<p>macOS 27 shows when your Mac was manufactured. Open Settings &gt; General &gt; About &gt; Regulatory Certification. At the bottom of the new window, macOS 27 displays a new \"Date of Manufacture\" label.</p>\n<p>For an even more precise timestamp, with <a href=\"https://georgegarside.com/blog/macos/sierra-console-private/\">private logs enabled</a>, quit System Settings and run the following:</p>\n<p><code>log stream --style compact --level debug \\\n  --predicate 'subsystem == \"com.apple.SystemProfiler\" AND category == \"RegulatoryCert\" AND eventMessage CONTAINS \"dateOfManufacture: got date:\"'</code></p>\n<p>Then open the Regulatory Certification window again. Come back to the Terminal to view the exact timestamp.</p>\n<p>This feature is already available in iOS in a similar location (Settings &gt; General &gt; Legal &amp; Regulatory, and scroll to the bottom).</p><div><br></div><img src=\"https://i.redd.it/u13l99pvdzih1.png\" />",
+            "date_published": "2026-08-12T18:03:57+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1vm4g4g",
             "url": "/r/MacOSBeta/comments/1vm4g4g/macos_27_dark_mode_broken_liquid_glass_tint/",
             "external_url": "https://www.reddit.com/gallery/1vm4g4g",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "iamdpanda",
                     "url": "https://www.reddit.com/user/iamdpanda"
-                }
-            ]
-        },
-        {
-            "id": "1of2qm4",
-            "url": "/r/MacOSBeta/comments/1of2qm4/please_continue_to_abuse_them_until_they_bring/",
-            "external_url": "https://i.redd.it/7myfbp2c83xf1.png",
-            "title": "Please continue to abuse them until they bring compact tabs back",
-            "content_html": "<p>I realized I forgot to do this with newer beta updates. I've now set a reminder to send a feedback with every update they make. I'll do it till they block me of bring them back.</p><div><br></div><img src=\"https://i.redd.it/7myfbp2c83xf1.png\" />",
-            "date_published": "2025-10-24T16:42:59+00:00",
-            "authors": [
-                {
-                    "name": "devilinacan",
-                    "url": "https://www.reddit.com/user/devilinacan"
                 }
             ]
         }
