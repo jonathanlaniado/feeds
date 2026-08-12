@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1vm19vy",
+            "url": "/r/MacOSBeta/comments/1vm19vy/macos_27_beta_5_adds_keyboard_navigation_between/",
+            "external_url": "https://v.redd.it/b6ijdwe1puih1",
+            "title": "macOS 27 Beta 5 adds keyboard navigation between app menus and Menu Bar controls",
+            "content_html": "<p>macOS 27 Beta 5 adds a new feature that lets keyboard focus to move from the active app's menus to controls on the right side of the Menu Bar using the Left/Right arrow or Tab keys. It's currently disabled by default.</p>\n<p>To enable:</p>\n<p><code>defaults write -g NSMenuEnableMenuBarAgent -bool true\ndefaults write -g NSMenuBarUseAgentNavigation -bool true</code></p>\n<p>and restart the apps you'd like to test this in. It's best to just reboot your Mac for simplicity.</p>\n<p>To disable:</p>\n<p><code>defaults delete -g NSMenuEnableMenuBarAgent\ndefaults delete -g NSMenuBarUseAgentNavigation</code></p>",
+            "date_published": "2026-08-12T02:13:28+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1vlwh4d",
             "url": "/r/MacOSBeta/comments/1vlwh4d/heres_how_to_bring_back_more_transparency_in/",
             "external_url": "https://i.redd.it/qyyg494aqtih1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Financial_Cover6789",
                     "url": "https://www.reddit.com/user/Financial_Cover6789"
-                }
-            ]
-        },
-        {
-            "id": "1oc7ahq",
-            "url": "/r/MacOSBeta/comments/1oc7ahq/new_extended_apple_intelligence_in_261_beta_4/",
-            "external_url": "https://i.redd.it/tsibuitdcfwf1.png",
-            "title": "New Extended Apple Intelligence in 26.1 beta 4",
-            "content_html": "<p>Some strange things I noticed with Apple Intelligence and ChatGPT in the latest beta. I can't change any settings and it looks like they are prepping for a bigger ChatGPT integration and AI improvements.</p><div><br></div><img src=\"https://i.redd.it/tsibuitdcfwf1.png\" />",
-            "date_published": "2025-10-21T08:19:34+00:00",
-            "authors": [
-                {
-                    "name": "moebis",
-                    "url": "https://www.reddit.com/user/moebis"
                 }
             ]
         }
