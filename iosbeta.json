@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1vmfewj",
+            "url": "/r/iOSBeta/comments/1vmfewj/ios_27_db5_screen_recordings_now_automatically/",
+            "external_url": "https://www.reddit.com/r/iOSBeta/comments/1vmfewj/ios_27_db5_screen_recordings_now_automatically/",
+            "title": "[iOS 27 DB5] Screen Recordings now automatically trim the Control Center Overlay you pull down to stop the recording from the end of the video",
+            "content_html": "<p>Previously, stopping a screen recording by pulling down the Control Center would capture the Control Center overlay at the end of the video.</p>\n<p>Now, when you finish a screen recording by pulling down the Control Center and tapping stop, iOS 27 automatically trims that final moment from the saved video.</p>\n<p>The Control Center overlay and/or Stop Recording dialog does not appear at the end of the recorded clips.</p>",
+            "date_published": "2026-08-12T14:17:02+00:00",
+            "authors": [
+                {
+                    "name": "This-Case5940",
+                    "url": "https://www.reddit.com/user/This-Case5940"
+                }
+            ]
+        },
+        {
             "id": "1vlbepj",
             "url": "/r/iOSBeta/comments/1vlbepj/ios_27_db5_the_wifi_bars_are_backwards_in_control/",
             "external_url": "https://www.reddit.com/gallery/1vlbepj",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Eddygraphic",
                     "url": "https://www.reddit.com/user/Eddygraphic"
-                }
-            ]
-        },
-        {
-            "id": "1lu2g3g",
-            "url": "/r/iOSBeta/comments/1lu2g3g/ios_26_db3_maps_now_uses_liquid_glass_for_its_top/",
-            "external_url": "https://www.reddit.com/gallery/1lu2g3g",
-            "title": "[iOS 26 DB3] Maps now uses Liquid Glass for its top bar in navigation mode.",
-            "content_html": "<p>Now the top bar is not a flat dark grey box anymore. It lets background details shine through. </p>",
-            "date_published": "2025-07-07T18:47:56+00:00",
-            "authors": [
-                {
-                    "name": "Lambor14",
-                    "url": "https://www.reddit.com/user/Lambor14"
                 }
             ]
         }
