@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1vnf40p",
+            "url": "/r/MacOSBeta/comments/1vnf40p/beta_5_gives_siri_ai_a_faster_local_tool_for_math/",
+            "external_url": "https://i.redd.it/6xiqebla26jh1.png",
+            "title": "Beta 5 gives Siri AI a faster, local tool for math queries, even when offline",
+            "content_html": "<p>In macOS 27 Beta 5, Siri AI gains a hidden local math tool. The new <code>MathComputeTool</code>, part of Siri's lightweight Skimmer planner can evaluate a range of operations locally without reaching for the server. Not only does the new tool let Siri do math offline, but it can process natural language math queries much quicker even with an internet connection.</p>\n<p>Skimmer is Siri AI's lightweight planner for relatively simple requests. For example, it can handle getting the time or opening an app. When Skimmer recognizes a supported math request, it captures the request's operands and operators and maps them into one of <code>MathComputeTool</code>'s expression templates. This tool is different from Spotlight's Calculator provider, which has been around for a few macOS versions.</p>\n<p>Here are some things Siri should be able to support with <code>MathComputeTool</code>:\n* Basic arithmetic, including aggregate expressions (5 + 5 + 5)\n* Fraction-to-decimal and decimal-to-fraction conversion\n* Rounding, with ceiling and floor functions\n* Absolute values\n* Factorials\n* Greatest common divisor and least common multiple\n* Factors and prime factorization\n* Modulo and divisibility tests\n* Powers, roots, and logarithms\n* Generating random numbers within a range\n* <code>pi</code> and <code>e</code></p>\n<p><code>MathComputeTool</code> is currently hidden behind a feature flag. To enable:</p>\n<p><code>sudo mkdir -p /Library/Preferences/FeatureFlags/Domain &amp;&amp; \\\nsudo defaults write /Library/Preferences/FeatureFlags/Domain/IntelligenceFlow SkimmerOfflineMath -dict Enabled -bool true</code></p>\n<p>and reboot your Mac. As always, this feature may be unfinished and have unexpected behavior.</p>\n<p>To disable:</p>\n<p><code>sudo defaults delete /Library/Preferences/FeatureFlags/Domain/IntelligenceFlow SkimmerOfflineMath</code></p>\n<p>Enjoy!</p>\n<p><em>reposted to correct the Offline Siri without SkimmerOfflineMath caption</em></p><div><br></div><img src=\"https://i.redd.it/6xiqebla26jh1.png\" />",
+            "date_published": "2026-08-13T16:10:08+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1vmlq6r",
             "url": "/r/MacOSBeta/comments/1vmlq6r/you_can_finally_view_your_macs_manufacture_date/",
             "external_url": "https://i.redd.it/u13l99pvdzih1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "jagajazzist",
                     "url": "https://www.reddit.com/user/jagajazzist"
-                }
-            ]
-        },
-        {
-            "id": "1ohyy1x",
-            "url": "/r/MacOSBeta/comments/1ohyy1x/the_feels_when_theres_no_update_today/",
-            "external_url": "https://i.redd.it/mr2odqpusrxf1.jpeg",
-            "title": "The feels when there's no update today.",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/mr2odqpusrxf1.jpeg\" />",
-            "date_published": "2025-10-28T03:16:36+00:00",
-            "authors": [
-                {
-                    "name": "iamdpanda",
-                    "url": "https://www.reddit.com/user/iamdpanda"
                 }
             ]
         }
