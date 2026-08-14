@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1vnnj4g",
+            "url": "/r/MacOSBeta/comments/1vnnj4g/safari_27_will_let_you_search_video_captions_and/",
+            "external_url": "https://v.redd.it/wzsgfetih7jh1",
+            "title": "Safari 27 will let you search video captions and seek to matching moments",
+            "content_html": "<p>A new Safari feature called Find in Video will let you search for text that appears in video captions. Safari will then seek the video to the moment the matching caption appears.</p>\n<hr />\n<p>If you don't have Safari feature flags enabled, go to Safari Settings &gt; Advanced &gt; Show features for web developers. Then go to the Feature Flags tab and enable the Find in Video flag.</p>\n<p>If you're on macOS 26, you can download Safari 27 for macOS Tahoe at <a href=\"https://developer.apple.com/safari/resources/\">developer.apple.com/safari/resources/</a>. You can also download Safari Technology Preview from the same site, which also includes the Find in Video feature.</p>\n<hr />\n<p>One current limitation is that streams of long videos may only expose caption segments around the playhead, so Safari is unable to search the full caption track.</p>\n<p>Another is that players like YouTube bypass the browser's native caption-track system, making the subtitles invisible to Safari's caption lookup. This may change as the feature becomes official.</p>",
+            "date_published": "2026-08-13T21:13:15+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1vnf40p",
             "url": "/r/MacOSBeta/comments/1vnf40p/beta_5_gives_siri_ai_a_faster_local_tool_for_math/",
             "external_url": "https://i.redd.it/6xiqebla26jh1.png",
@@ -1386,20 +1400,6 @@
             "title": "First macOS Tahoe 26.2 Beta Now Available to Developers",
             "content_html": "",
             "date_published": "2025-11-06T18:37:18+00:00",
-            "authors": [
-                {
-                    "name": "jagajazzist",
-                    "url": "https://www.reddit.com/user/jagajazzist"
-                }
-            ]
-        },
-        {
-            "id": "1oikj83",
-            "url": "/r/MacOSBeta/comments/1oikj83/apple_seeds_macos_tahoe_261_release_candidate/",
-            "external_url": "https://forums.macrumors.com/threads/apple-seeds-ios-26-1-ipados-26-1-and-macos-tahoe-26-1-release-candidates.2470009/",
-            "title": "Apple Seeds macOS Tahoe 26.1 Release Candidate",
-            "content_html": "",
-            "date_published": "2025-10-28T20:30:20+00:00",
             "authors": [
                 {
                     "name": "jagajazzist",
