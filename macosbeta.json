@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1vpd0hw",
+            "url": "/r/MacOSBeta/comments/1vpd0hw/system_settings_is_infinitely_resizable_in_macos/",
+            "external_url": "https://i.redd.it/gqcsqw1gkljh1.png",
+            "title": "System Settings is infinitely resizable in macOS 27",
+            "content_html": "<p>Hidden behind a feature flag, the System Settings app can now be resized in any direction. <em>edit: You can make the app window narrower than the default too, or adjust the sidebar to get even more space. Some more dynamically built pages like Wallpapers already take advantage of the extra space.</em></p>\n<p>To enable the FeatureFlags override, run the following command in the Terminal:</p>\n<p><code>sudo mkdir -p /Library/Preferences/FeatureFlags/Domain &amp;&amp; \\\nsudo defaults write /Library/Preferences/FeatureFlags/Domain/Settings AllowsHorizontalResizing -dict Enabled -bool true</code></p>\n<p>and restart your Mac. As always, this is a disabled feature, so the UI may be unfinished.</p>\n<p>To disable:</p>\n<p><code>sudo defaults delete /Library/Preferences/FeatureFlags/Domain/Settings AllowsHorizontalResizing</code></p><div><br></div><img src=\"https://i.redd.it/gqcsqw1gkljh1.png\" />",
+            "date_published": "2026-08-15T20:18:48+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1vnnj4g",
             "url": "/r/MacOSBeta/comments/1vnnj4g/safari_27_will_let_you_search_video_captions_and/",
             "external_url": "https://v.redd.it/wzsgfetih7jh1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "dandee_08",
                     "url": "https://www.reddit.com/user/dandee_08"
-                }
-            ]
-        },
-        {
-            "id": "1oq70vd",
-            "url": "/r/MacOSBeta/comments/1oq70vd/first_macos_tahoe_262_beta_now_available_to/",
-            "external_url": "https://www.macrumors.com/2025/11/06/apple-seeds-macos-tahoe-26-2-beta-1/",
-            "title": "First macOS Tahoe 26.2 Beta Now Available to Developers",
-            "content_html": "",
-            "date_published": "2025-11-06T18:37:18+00:00",
-            "authors": [
-                {
-                    "name": "jagajazzist",
-                    "url": "https://www.reddit.com/user/jagajazzist"
                 }
             ]
         }
