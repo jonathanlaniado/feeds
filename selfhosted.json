@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1vr3ukj",
+            "url": "/r/selfhosted/comments/1vr3ukj/selfhosting_everything/",
+            "external_url": "https://i.redd.it/xhhjiuujvzjh1.jpeg",
+            "title": "self-hosting everything",
+            "content_html": "<p>just kidding I love self-hosting ...</p><div><br></div><img src=\"https://i.redd.it/xhhjiuujvzjh1.jpeg\" />",
+            "date_published": "2026-08-17T20:27:47+00:00",
+            "authors": [
+                {
+                    "name": "close_Meal6005",
+                    "url": "https://www.reddit.com/user/close_Meal6005"
+                }
+            ]
+        },
+        {
             "id": "1vmo4do",
             "url": "/r/selfhosted/comments/1vmo4do/tautulli_phones_home_by_default/",
             "external_url": "https://www.reddit.com/r/selfhosted/comments/1vmo4do/tautulli_phones_home_by_default/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ottovonbizmarkie",
                     "url": "https://www.reddit.com/user/ottovonbizmarkie"
-                }
-            ]
-        },
-        {
-            "id": "1m31wo2",
-            "url": "/r/selfhosted/comments/1m31wo2/just_installed_my_new_doorbell_selfhosted/",
-            "external_url": "https://www.reddit.com/gallery/1m31wo2",
-            "title": "Just installed my new doorbell, selfhosted MotionEye via Proxmox VE",
-            "content_html": "",
-            "date_published": "2025-07-18T13:09:14+00:00",
-            "authors": [
-                {
-                    "name": "GwnLars_",
-                    "url": "https://www.reddit.com/user/GwnLars_"
                 }
             ]
         }
