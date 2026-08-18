@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1vrrh2o",
+            "url": "/r/MacOSBeta/comments/1vrrh2o/you_can_swap_siris_model_in_macos_27_heres_siri/",
+            "external_url": "https://v.redd.it/fw2v0y76d5kh1",
+            "title": "You can swap Siri's model in macOS 27. Here's Siri AI running on GPT-5.6.",
+            "content_html": "<p><a href=\"https://www.reddit.com/r/MacOSBeta/comments/1vbe2ki\">In a previous post</a>, I wrote about how macOS 27 allows agents from third-party apps to integrate with Siri AI, similar to the ChatGPT extension.</p>\n<p><strong>Turns out, macOS 27 also allows third-party apps to replace Siri's model.</strong> In the video, Siri runs through OpenAI's GPT-5.6 Terra model.</p>\n<p>With the new Inference Providing protocol, an app can replace Siri's agentic planner with a third-party model. The external model receives Apple's native Siri planner prompt and 20 tool definitions. It can make tool calls that perform system actions, and receive tool call results with personal data. Finally, it can return a response through Siri AI's UI and voice, including interactive elements.</p>\n<p>macOS 27 ships with remnants of an internal <code>generative-models-prototype-inference-provider</code>. The actual provider extension is absent from the release, which suggests that Apple teams are using it to experiment with models that don't currently ship in the OS. </p>\n<p>There's been an <code>OpenAI-Compatible-Custom-Routing</code> path for a few beta cycles, which my extension uses, but Beta 5 added a parallel <code>Native-Gemini-Custom-Routing</code> route. The Gemini path recognizes Google-shaped <code>AIza...</code> credentials and converts them into a standardized <code>x-goog-api-key</code> header.</p>\n<hr />\n<p>The extension relies on an internal InferenceProviding framework, and registers with a non-public ExtensionKit extension point: <code>com.apple.modelmanager.inferenceprovider</code>. Because of the latter, you'll need SIP off and AMFI disabled (<code>amfi_get_out_of_my_way=0x1</code>) to develop these tools.</p>\n<p>Will this ship in macOS 27? Only time will tell, but the building blocks are already there.</p>",
+            "date_published": "2026-08-18T14:54:23+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1vrkdr4",
             "url": "/r/MacOSBeta/comments/1vrkdr4/db6_traffic_lights_improvement/",
             "external_url": "https://www.reddit.com/gallery/1vrkdr4",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "aitookmyj0b",
                     "url": "https://www.reddit.com/user/aitookmyj0b"
-                }
-            ]
-        },
-        {
-            "id": "1ozntis",
-            "url": "/r/MacOSBeta/comments/1ozntis/macos_tahoe_262_beta_3_is_released/",
-            "external_url": "https://i.redd.it/jk88ebmyzu1g1.png",
-            "title": "macOS Tahoe 26.2 Beta 3 is released!",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/jk88ebmyzu1g1.png\" />",
-            "date_published": "2025-11-17T18:18:29+00:00",
-            "authors": [
-                {
-                    "name": "techkernels",
-                    "url": "https://www.reddit.com/user/techkernels"
                 }
             ]
         }
