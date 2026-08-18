@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1vrkdr4",
+            "url": "/r/MacOSBeta/comments/1vrkdr4/db6_traffic_lights_improvement/",
+            "external_url": "https://www.reddit.com/gallery/1vrkdr4",
+            "title": "[DB6] Traffic Lights Improvement ?",
+            "content_html": "<p>Hi everyone, I'm very happy that Apple is updating its traffic lights for macOS (as my post history can attest \ud83d\ude09). They look a little squashed to me however and I thought of a little modification that might help making them look more round. Added highlights on top of the buttons. Let me know what you think. Will send feedback to Apple about this.</p>",
+            "date_published": "2026-08-18T09:36:03+00:00",
+            "authors": [
+                {
+                    "name": "cendre0318",
+                    "url": "https://www.reddit.com/user/cendre0318"
+                }
+            ]
+        },
+        {
             "id": "1vrh1pz",
             "url": "/r/MacOSBeta/comments/1vrh1pz/some_love_for_graphite_as_well_cant_emphasis/",
             "external_url": "https://i.redd.it/0y924wm6t2kh1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "techkernels",
                     "url": "https://www.reddit.com/user/techkernels"
-                }
-            ]
-        },
-        {
-            "id": "1owi1ha",
-            "url": "/r/MacOSBeta/comments/1owi1ha/apple_releases_second_macos_tahoe_262_public_beta/",
-            "external_url": "https://www.macrumors.com/2025/11/13/apple-macos-tahoe-26-2-public-beta-2/",
-            "title": "Apple Releases Second macOS Tahoe 26.2 Public Beta With Edge Light",
-            "content_html": "",
-            "date_published": "2025-11-14T00:33:48+00:00",
-            "authors": [
-                {
-                    "name": "lasagna165",
-                    "url": "https://www.reddit.com/user/lasagna165"
                 }
             ]
         }
