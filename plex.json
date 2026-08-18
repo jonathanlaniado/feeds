@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2ql7e/styles/communityIcon_mdwl2x2rtzb11.png",
     "items": [
         {
+            "id": "1vrmws1",
+            "url": "/r/PleX/comments/1vrmws1/plex_reportedly_reverting_to_on_ui/",
+            "external_url": "https://www.neowin.net/amp/plex-reverts-tv-app-layout-after-intense-user-backlash/",
+            "title": "Plex reportedly reverting to on UI",
+            "content_html": "<p>Should make some people happy, my wife included if true.</p>",
+            "date_published": "2026-08-18T11:49:48+00:00",
+            "authors": [
+                {
+                    "name": "lowandslowinRR",
+                    "url": "https://www.reddit.com/user/lowandslowinRR"
+                }
+            ]
+        },
+        {
             "id": "1v7m2b0",
             "url": "/r/PleX/comments/1v7m2b0/i_started_my_plex_server_4_years_ago_2_pics/",
             "external_url": "https://www.reddit.com/gallery/1v7m2b0",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Rocketkicker",
                     "url": "https://www.reddit.com/user/Rocketkicker"
-                }
-            ]
-        },
-        {
-            "id": "1gxjcjs",
-            "url": "/r/PleX/comments/1gxjcjs/plexs_upcoming_app_redesign_is_a_big_swing_at/",
-            "external_url": "https://www.theverge.com/2024/11/22/24303282/plex-app-redesign-sonos-debacle",
-            "title": "Plex\u2019s upcoming app redesign is a big swing at going legit",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/PleX/comments/1gxjcjs/plexs_upcoming_app_redesign_is_a_big_swing_at/'>Winston</a> | <a href='https://reddit.com/r/PleX/comments/1gxjcjs/plexs_upcoming_app_redesign_is_a_big_swing_at/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-11-22T21:49:14+00:00",
-            "authors": [
-                {
-                    "name": "Super_Bob",
-                    "url": "https://www.reddit.com/user/Super_Bob"
                 }
             ]
         }
