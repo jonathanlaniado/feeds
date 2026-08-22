@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1vv7jua",
+            "url": "/r/macapps/comments/1vv7jua/i_got_tired_of/",
+            "external_url": "https://i.redd.it/o17azhgj8wkh1.jpeg",
+            "title": "I got tired of \u2026",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/o17azhgj8wkh1.jpeg\" />",
+            "date_published": "2026-08-22T09:15:34+00:00",
+            "authors": [
+                {
+                    "name": "simion_baws",
+                    "url": "https://www.reddit.com/user/simion_baws"
+                }
+            ]
+        },
+        {
             "id": "1vrorey",
             "url": "/r/macapps/comments/1vrorey/droppy_15_is_out_one_native_app_that_supercharges/",
             "external_url": "https://v.redd.it/kxo36wbtt4kh1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "WaltzGold4201",
                     "url": "https://www.reddit.com/user/WaltzGold4201"
-                }
-            ]
-        },
-        {
-            "id": "1kcs73f",
-            "url": "/r/macapps/comments/1kcs73f/rip_macupdater_01012026/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1kcs73f/rip_macupdater_01012026/",
-            "title": "RIP MacUpdater 01.01.2026 \ud83d\ude2d",
-            "content_html": "<p>It's now confirmed. One of the top 10 apps on MacOS is shutting down in 2026. Devastating news!  I wish they had charged $1 a month or $10 a year sub. I would've subscribed easily for the amount of time this app saves me.</p>\n<p>https://www.corecode.io/macupdater/</p>\n<blockquote>\n<p>As promised, all MacUpdater 3 licenses will be supported until 2026-01-01.\nAfter that date we will no longer continue to develop or support MacUpdater\nbut we hope to find some other company to continue the product or its technology:</p>\n</blockquote>\n<p>Similar thing happened with Windows (SUMo) and there's been no replacement other than using softpedia to get RSS updates for updated software. Unfortunately they don't support Mac apps, so we're screwed.</p>\n<p>Latest is the only alternative I know of, but it misses so many.</p>",
-            "date_published": "2025-05-02T04:12:48+00:00",
-            "authors": [
-                {
-                    "name": "IwuvNikoNiko",
-                    "url": "https://www.reddit.com/user/IwuvNikoNiko"
                 }
             ]
         }
