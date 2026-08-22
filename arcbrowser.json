@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1vvhu5l",
+            "url": "/r/ArcBrowser/comments/1vvhu5l/viola_is_now_available_on_ios_testflight_and_mac/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1vvhu5l/viola_is_now_available_on_ios_testflight_and_mac/",
+            "title": "Viola is now available on iOS Testflight (and Mac, Windows, Linux and Android!)",
+            "content_html": "<p>The Arc-inspired browser we've been working on is now available on Testflight!</p>\n<p><a href=\"https://testflight.apple.com/join/1V1CnPd2\">https://testflight.apple.com/join/1V1CnPd2</a></p>\n<p>Viola is a workspace/profile-focused browser with features such as persistent groups, mini player,  in-app notifications, cross-platform sync (groups, tabs, workspaces, etc) and more! </p>\n<p>Other versions are available to download <a href=\"https://violabrowser.com\">on the website</a>.</p>\n<p>Please report any bugs here or <a href=\"https://discord.gg/rGvUDRHq38\">on the Discord</a>!</p>\n<p>Thanks for all the love!  </p>\n<p>https://preview.redd.it/4vli5nyljykh1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=6975780fe2caf38ad23e945c48c882a133830422</p>\n<p>https://preview.redd.it/vci6armmjykh1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=b95a071141f96f6800a8384270ced7bf9c8cfeed</p>",
+            "date_published": "2026-08-22T17:06:35+00:00",
+            "authors": [
+                {
+                    "name": "GoodMacAuth",
+                    "url": "https://www.reddit.com/user/GoodMacAuth"
+                }
+            ]
+        },
+        {
             "id": "1voegd2",
             "url": "/r/ArcBrowser/comments/1voegd2/arc_is_still_the_goat/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1voegd2/arc_is_still_the_goat/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Scoobs525",
                     "url": "https://www.reddit.com/user/Scoobs525"
-                }
-            ]
-        },
-        {
-            "id": "1gogycl",
-            "url": "/r/ArcBrowser/comments/1gogycl/what_would_you_be_willing_to_pay_monthly_to/",
-            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1gogycl/what_would_you_be_willing_to_pay_monthly_to/",
-            "title": "what would you be willing to pay monthly to ensure Arc + Arc Search continues to receive the same level of development, improvements, fixes, and innovation as before?",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1gogycl/what_would_you_be_willing_to_pay_monthly_to/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1gogycl/what_would_you_be_willing_to_pay_monthly_to/'>Reddit</a></caption><div><br></div><p>imagine if arc had no external or VC funding, would it survive? are.na is doing that for more than a decade now, pretty much backed by the community </p>",
-            "date_published": "2024-11-11T01:47:39+00:00",
-            "authors": [
-                {
-                    "name": "Dry-Noise-5233",
-                    "url": "https://www.reddit.com/user/Dry-Noise-5233"
                 }
             ]
         }
