@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3crzr/styles/communityIcon_can2wy2ck3ca1.png",
     "items": [
         {
+            "id": "1vuzllr",
+            "url": "/r/ArtificialInteligence/comments/1vuzllr/opensource_local_models_have_zero_chill_compared/",
+            "external_url": "https://i.redd.it/v8thvdkz3ukh1.jpeg",
+            "title": "Open-source local models have zero chill compared to ChatGPT",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/v8thvdkz3ukh1.jpeg\" />",
+            "date_published": "2026-08-22T02:06:30+00:00",
+            "authors": [
+                {
+                    "name": "kerinapo",
+                    "url": "https://www.reddit.com/user/kerinapo"
+                }
+            ]
+        },
+        {
             "id": "1vsk1en",
             "url": "/r/ArtificialInteligence/comments/1vsk1en/pov_youre_born_as_an_ai/",
             "external_url": "https://i.redd.it/j409rus5kbkh1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "MetaKnowing",
                     "url": "https://www.reddit.com/user/MetaKnowing"
-                }
-            ]
-        },
-        {
-            "id": "1nzcovn",
-            "url": "/r/ArtificialInteligence/comments/1nzcovn/google_just_cut_off_90_of_the_internet_from_ai_no/",
-            "external_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1nzcovn/google_just_cut_off_90_of_the_internet_from_ai_no/",
-            "title": "Google just cut off 90% of the internet from AI - no one\u2019s talking about it",
-            "content_html": "<p>Last month Google quietly removed the <code>num=100</code> search parameter, the trick that let you see 100 results on one page instead of the default 10. It sounds small, but it is not. You can no longer view 100 results at once. The new hard limit is 10.</p>\n<p>Here is why this matters. Most large language models like OpenAI, Anthropic, and Perplexity rely directly or indirectly on Google's indexed results to feed their retrieval systems and crawlers. By cutting off the long tail of results, Google just reduced what these systems can see by roughly 90 percent. The web just got shallower not only for humans but for AI as well.</p>\n<p>The impact was immediate. According to Search Engine Land, about 88 percent of websites saw a drop in impressions. Sites that ranked in positions 11 to 100 basically disappeared. Reddit, which often ranks deep in search results, saw its LLM citations drop sharply.</p>\n<p>This is not just an SEO story. It is an AI supply chain issue. Google quietly made it harder for external models to access the depth of the web. The training data pipeline that fuels modern AI just got thinner.</p>\n<p>For startups this change is brutal. Visibility is harder. Organic discovery is weaker. Even if you build a great product, no one will find it unless you first crack distribution. If people cannot find you they will never get to evaluate you.</p>\n<p>Google did not just tweak a search setting. It reshaped how information flows online and how AI learns from it. Welcome to the new era of algorithmic visibility. \ud83c\udf10</p>",
-            "date_published": "2025-10-06T07:35:06+00:00",
-            "authors": [
-                {
-                    "name": "reddit20305",
-                    "url": "https://www.reddit.com/user/reddit20305"
                 }
             ]
         }
