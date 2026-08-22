@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1vvetua",
+            "url": "/r/homeassistant/comments/1vvetua/a_whole_5_stars_hotel_controlled_by_ha/",
+            "external_url": "https://www.reddit.com/gallery/1vvetua",
+            "title": "A whole 5 stars hotel controlled by HA \ud83d\ude2e",
+            "content_html": "<p>I think it's a good idea if not that they accidentally grant every room complete access to the whole structure \ud83d\ude05</p>",
+            "date_published": "2026-08-22T15:06:39+00:00",
+            "authors": [
+                {
+                    "name": "FezVrasta",
+                    "url": "https://www.reddit.com/user/FezVrasta"
+                }
+            ]
+        },
+        {
             "id": "1vj3es8",
             "url": "/r/homeassistant/comments/1vj3es8/first_wife_approved_automation/",
             "external_url": "https://i.redd.it/wpsu3rxy27ih1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "DomMan79",
                     "url": "https://www.reddit.com/user/DomMan79"
-                }
-            ]
-        },
-        {
-            "id": "1j5gr3o",
-            "url": "/r/homeassistant/comments/1j5gr3o/finally_made_a_dashboard_i_actually_like_using/",
-            "external_url": "https://www.reddit.com/gallery/1j5gr3o",
-            "title": "Finally made a dashboard I actually like using and looking at",
-            "content_html": "",
-            "date_published": "2025-03-07T05:59:47+00:00",
-            "authors": [
-                {
-                    "name": "diamondaires",
-                    "url": "https://www.reddit.com/user/diamondaires"
                 }
             ]
         }
