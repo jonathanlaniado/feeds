@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1vwbso1",
+            "url": "/r/macapps/comments/1vwbso1/os_vorssaint_1_ring_to_rule_them_all/",
+            "external_url": "https://i.redd.it/ez2z45b2j5lh1.png",
+            "title": "[OS] Vorssaint - 1 Ring to rule them all?",
+            "content_html": "<p><a href=\"https://github.com/vorssaint/vorssaint-utils\">https://github.com/vorssaint/vorssaint-utils</a></p>\n<p>I recently watched a video about this app called Vorssaint, which looks like it could potentially replace so many other apps I use that have a specific purpose. I'm gonna try it out over the next few weeks to see how good it really is.</p>\n<p>Video:\u00a0<a href=\"https://www.youtube.com/watch?v=s8dzlv4WuNk\">https://www.youtube.com/watch?v=s8dzlv4WuNk</a></p><div><br></div><img src=\"https://i.redd.it/ez2z45b2j5lh1.png\" />",
+            "date_published": "2026-08-23T16:30:59+00:00",
+            "authors": [
+                {
+                    "name": "YajDaOne",
+                    "url": "https://www.reddit.com/user/YajDaOne"
+                }
+            ]
+        },
+        {
             "id": "1vv7jua",
             "url": "/r/macapps/comments/1vv7jua/i_got_tired_of/",
             "external_url": "https://i.redd.it/o17azhgj8wkh1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "NotRenton",
                     "url": "https://www.reddit.com/user/NotRenton"
-                }
-            ]
-        },
-        {
-            "id": "1kf2101",
-            "url": "/r/macapps/comments/1kf2101/title_my_top_mac_apps_that_actually_made_a/",
-            "external_url": "https://www.reddit.com/r/macapps/comments/1kf2101/title_my_top_mac_apps_that_actually_made_a/",
-            "title": "Title: My Top Mac Apps That Actually Made a Difference in 2025",
-            "content_html": "<p>This isn\u2019t one of those posts with 50 apps you\u2019ll never download. These are the 9 Mac tools that actually stuck around and became essential to how I work every day.</p>\n<ul>\n<li>\n<p>SoundSource: Separates volume control by app. I can crank up Zoom while keeping Spotify in the background.</p>\n</li>\n<li>\n<p>WillowVoice: I use this for everything from replying to emails to outlining ideas for projects. It\u2019s way faster than typing and surprisingly accurate even with background noise.</p>\n</li>\n<li>\n<p>Raycast: Replaces Spotlight with smarter commands and clipboard history. I didn\u2019t know how much I needed it until I started using it.</p>\n</li>\n<li>\n<p>FocusFrame: Great for reducing distractions. It literally dims all other windows except the one you\u2019re working in.</p>\n</li>\n<li>\n<p>DropOver: Drag-and-drop file holder. If you\u2019re working with screenshots, PDFs, or folders, this will save your life.</p>\n</li>\n<li>\n<p>PearCleaner: Cleans up junk and removes apps thoroughly.</p>\n</li>\n<li>\n<p>Stats: Menu bar system monitor that doesn\u2019t feel bloated.</p>\n</li>\n<li>\n<p>BatFi: Limits battery charging to 80%, which helped extend battery health significantly.</p>\n</li>\n<li>\n<p>MindNode: Best visual mind mapping tool I\u2019ve found so far.</p>\n</li>\n</ul>\n<p>If I had to keep only three, it would be WillowVoice, Raycast, and FocusFrame. What are your daily drivers?</p>",
-            "date_published": "2025-05-05T03:25:37+00:00",
-            "authors": [
-                {
-                    "name": "WaltzGold4201",
-                    "url": "https://www.reddit.com/user/WaltzGold4201"
                 }
             ]
         }
