@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1vx486e",
+            "url": "/r/macapps/comments/1vx486e/antinote_20_icloud_js_extensions_slotted_notes/",
+            "external_url": "https://v.redd.it/62iz0ppu0clh1",
+            "title": "Antinote 2.0 - iCloud, JS Extensions, Slotted Notes, Vim, and an iOS Beta",
+            "content_html": "<p>Hi friends of <a href=\"https://www.reddit.com/r/macapps/\">r/macapps</a>,</p>\n<p>I\u2019ve been sitting on this update for almost a year. Originally, I was scared of some edge case iCloud sync bugs. But, because every big feature got built on top of the new sync architecture, the stakes just felt higher and higher, and I fell into an avoidant cycle.</p>\n<p>Then, <a href=\"https://www.youtube.com/watch?v=npxlJdxSv4A&amp;t=927s\">Snazzy Labs featured Antinote</a>, and Kacper called me and gave me this great prep talk about how we were both gonna quit our jobs and work on Antinote (and other new apps) full time. I\u2019ll tell you more about that in another post next week.</p>\n<p>All to say, that I am back! And I\u2019m here to fix and add whatever your heart desires into Antinote. Thanks for all your patience.</p>\n<p>We also made some big updates to the iOS Beta (<a href=\"https://antinote.io/\">which you can register for on the website</a> - you\u2019ll get an invite next week). And I\u2019m confident a v0 will be in the App Store by the first week of Oct (also $5, one time).</p>\n<p>For now, here\u2019s 2.0:</p>\n<h1>iCloud Sync with end-to-end encryption</h1>\n<p>Antinote can now sync your notes (and preferences) between your Macs (and the iOS beta) through your own iCloud account. There is no Antinote account and no Antinote server \u2014 and your notes are encrypted <strong>on your device before they upload</strong> - I can never read your notes (gross) and neither can Apple (if you have <a href=\"https://support.apple.com/en-ca/guide/iphone/iph584ea27f5/ios\">Advanced Data Protection</a> on). Sync is off by default for updating users; turn it on in Settings &gt; General.</p>\n<h1>Slotted Notes + Split Screen</h1>\n<p>Antinote now has two note spaces: your usual ephemeral stack, and <strong>nine permanent slots</strong> that never expire and can't be deleted (<a href=\"https://tot.rocks/\">inspired by Tot!</a>). Press \u2318T to swap between them, or \u2318\u21e7T to see both side by side. The slot bar at the bottom shows nine planets \u2014 click one to jump to that slot.</p>\n<h1>JavaScript Extensions</h1>\n<p>Type <code>::</code> in any note to run a command \u2014 transform text, hit an API or LLM, roll dice, format JSON, calculate a mortgage. There are 100+ official commands, a community extension browser built into Settings, and you can write your own in JavaScript (or have an AI write one with the <a href=\"https://antinote.io/extensions/builder\">Extension Builder</a>). Full documentation is at <a href=\"https://antinote.io/extensions\">antinote.io/extensions</a>.</p>\n<h1>Vim Mode</h1>\n<p>If you know, you know. Thank you, Kacper.</p>\n<h1>Locked and Read-only notes</h1>\n<ul>\n<li>Locked notes (\u2318\u21e7L) will hide its content until you FaceID/TouchID/password.</li>\n<li>Read-only notes (\u2318\u21e7R) will prevent your butterfingers from accidentally deleting or editing your vows. No, that\u2019s not from personal experience, stop asking.</li>\n</ul>\n<h1>Little things</h1>\n<ul>\n<li>Liquid Glass Redesign</li>\n<li>Choose your own app icon</li>\n<li>Checkboxes, bullets, and numbered lists in any note via <code>[]</code>, <code>- [ ]</code>, <code>-</code> , or <code>1.</code> .</li>\n<li>Rebuilt research pane with card view. Drag notes to reorder them.</li>\n<li><code>\u2318B</code> bold, <code>\u2318I</code> italic, <code>\u2318U</code> underline, <code>\u2318\u21e7X</code> strikethrough, and <code>\u2318\u21e7H</code> cycles heading levels. <code>\u2325\u2191</code>/<code>\u2325\u2193</code> move the current line (or selection) up and down, and <code>\u2325\u21e7\u2191 / \u2325\u21e7\u2193</code> for duplicating the current line up and down.</li>\n<li>Deleted notes can now be recovered from The Void</li>\n<li>Swipe-sensitivity settings for those with the Magic Mouse</li>\n<li>Math parses properly in all locales now</li>\n<li>You can control the timer from URL Schemes</li>\n</ul>\n<p>And we fixed about 150 tiny bugs.</p>\n<p>We\u2019re always on <a href=\"https://discord.gg/Yaa6FZy4zP\">Discord</a> if you have bug reports, feature requests, or just want to hang.</p>\n<p>As always - thank you so much for all the support and love. You\u2019ll be hearing from me soon about future stuff!</p>\n<p>Johnson</p>\n<p>P.S. Shout out to the mods for keeping this place safe and sane in the age of AI.</p>\n<p>P.P.S. When I see <a href=\"https://www.reddit.com/user/amerpie/\">u/amerpie</a> and <a href=\"https://www.reddit.com/user/MaxGaav/\">u/MaxGaav</a>, I just feel like I\u2019m home.</p>\n<p>---</p>\n<p>For those who\u2019ve never heard of Antinote:</p>\n<p><a href=\"https://antinote.io\">Antinote.io</a></p>\n<p><strong>Problem:</strong> You need to quickly write something down and don\u2019t need/want to organize it. But you also hate ugly stuff. And sometimes you want to do math. But you also need it to be minimalist. But you also want to customize the shit out of it.</p>\n<p><strong>Highlights:</strong></p>\n<ul>\n<li>Plain-text</li>\n<li>Swipe an infinite stack of notes.</li>\n<li>Do inline math</li>\n<li>Drag images in for OCR</li>\n<li>Set a timer</li>\n<li>Basic markdown</li>\n<li>Hotkey. Shortcuts. Menu mode</li>\n</ul>\n<p><strong>Comparisons:</strong> There are so many now! Instead of telling you how Antinote is better, let me tell you how each one of these are better. <a href=\"https://sindresorhus.com/scratchpad\">Scratchpad</a> is way more minimalist and opinionated. <a href=\"https://tot.rocks/\">Tot </a>has custom categories and bullets. <a href=\"https://heynote.com/\">HeyNote</a> has dev-friendly text buffers in each block. <a href=\"https://numi.app/\">Numi</a> has deeper math features. <a href=\"http://raycast.com\">Raycast</a> is Raycast. <a href=\"https://apps.apple.com/us/app/stickies-sticky-notes-app/id1572061218?mt=12\">Stickies</a> is free. <a href=\"https://www.apptorium.com/sidenotes\">Sidenotes</a> supports folders and images. All the indie ones are developed by passionate people, so make sure you check them out.</p>\n<p><strong>Pricing:</strong> $5. One-time. Forever updates.</p>",
+            "date_published": "2026-08-24T14:21:51+00:00",
+            "authors": [
+                {
+                    "name": "johnsonjohnson",
+                    "url": "https://www.reddit.com/user/johnsonjohnson"
+                }
+            ]
+        },
+        {
             "id": "1vwbso1",
             "url": "/r/macapps/comments/1vwbso1/os_vorssaint_1_ring_to_rule_them_all/",
             "external_url": "https://i.redd.it/ez2z45b2j5lh1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Lospi",
                     "url": "https://www.reddit.com/user/Lospi"
-                }
-            ]
-        },
-        {
-            "id": "1kj7vtq",
-            "url": "/r/macapps/comments/1kj7vtq/pixelmator_version_history_beforeafter_apples/",
-            "external_url": "https://i.redd.it/g2xngi2kuxze1.jpeg",
-            "title": "Pixelmator Version History before/after Apple's acquisition",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/g2xngi2kuxze1.jpeg\" />",
-            "date_published": "2025-05-10T11:16:50+00:00",
-            "authors": [
-                {
-                    "name": "NotRenton",
-                    "url": "https://www.reddit.com/user/NotRenton"
                 }
             ]
         }
