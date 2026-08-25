@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1vy4n0v",
+            "url": "/r/homeassistant/comments/1vy4n0v/thank_you_developers/",
+            "external_url": "https://www.reddit.com/r/homeassistant/comments/1vy4n0v/thank_you_developers/",
+            "title": "Thank you, developers!",
+            "content_html": "<p>Hi everyone, </p>\n<p>I just wanted to take this opportunity to say a general thank you to all the professional and hobbyist developers who build all these great integrations and extensions for Home Assistant and make them available to us. </p>\n<p>Without you, the world would be a much less wonderful place. Big thanks to all of you. Wish you all the best. Have a nice day or evening. </p>",
+            "date_published": "2026-08-25T16:26:08+00:00",
+            "authors": [
+                {
+                    "name": "PositivePandaMind",
+                    "url": "https://www.reddit.com/user/PositivePandaMind"
+                }
+            ]
+        },
+        {
             "id": "1vvetua",
             "url": "/r/homeassistant/comments/1vvetua/a_whole_5_stars_hotel_controlled_by_ha/",
             "external_url": "https://www.reddit.com/gallery/1vvetua",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "HTTP_404_NotFound",
                     "url": "https://www.reddit.com/user/HTTP_404_NotFound"
-                }
-            ]
-        },
-        {
-            "id": "1j6md1i",
-            "url": "/r/homeassistant/comments/1j6md1i/undocumented_backdoor_found_in_esp32_bluetooth/",
-            "external_url": "https://i.redd.it/k7k8j9qg5ine1.jpeg",
-            "title": "Undocumented backdoor found in ESP32 bluetooth chip used in a billion devices",
-            "content_html": "<p>https://www.bleepingcomputer.com/news/security/undocumented-backdoor-found-in-bluetooth-chip-used-by-a-billion-devices/</p><div><br></div><img src=\"https://i.redd.it/k7k8j9qg5ine1.jpeg\" />",
-            "date_published": "2025-03-08T17:39:17+00:00",
-            "authors": [
-                {
-                    "name": "DomMan79",
-                    "url": "https://www.reddit.com/user/DomMan79"
                 }
             ]
         }
