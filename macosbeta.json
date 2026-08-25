@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1vxm1gs",
+            "url": "/r/MacOSBeta/comments/1vxm1gs/macos_27_is_full_of_hints_about_thirdparty_siri/",
+            "external_url": "https://i.redd.it/93qzcbt98flh1.png",
+            "title": "macOS 27 is full of hints about third-party Siri Extensions besides ChatGPT",
+            "content_html": "<p><a href=\"https://www.reddit.com/r/MacOSBeta/comments/1vbe2ki\">In a previous post</a>, I wrote about how macOS 27 allows agents from third-party apps to integrate with Siri AI, as an alternative to the ChatGPT extension. The post shows Claude acting as a Siri Extension.</p>\n<p>Turns out there are more hints across the OS about this feature. </p>\n<p>Under Siri Restrictions in Screen Time settings, the helper text reads:</p>\n<blockquote>\n<p>Allows extensions to provide additional text and image capabilities, including ChatGPT. <strong>Extensions with their own app can also be limited in Time Allowances.</strong></p>\n</blockquote>\n<hr />\n<p>macOS 27 also ships with two lists of Extension providers: VIP and blocked. </p>\n<p>Blocked is self-explanatory. It contains a list of apps which Apple will not allow to \"donate\" a Siri Extension. It will also remove an already-enabled Extension from a blocked app, and prevent its invocation. There are no entries at the moment.</p>\n<p>Entries from VIP are added as Apple-curated provider candidates. Currently, only ChatGPT is part of the VIP list.</p>\n<p>The VIP and blocked files can be updated without a full OS upgrade. Apple can therefore react in real time if some app ships a Siri Extension that goes rogue.</p>\n<p>You should be able to find both files in Beta 7 under:</p>\n<p><code>/System/Library/AssetsV2/com_apple_MobileAsset_UAF_FM_Overrides/purpose_auto/6b4ba2562604ccd58e0f97ee9b6e5aaeb9bd4864.asset/AssetData/vipAndBlockedProvider</code></p><div><br></div><img src=\"https://i.redd.it/93qzcbt98flh1.png\" />",
+            "date_published": "2026-08-25T01:34:18+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1vxazdt",
             "url": "/r/MacOSBeta/comments/1vxazdt/macos_27_b7_looks_absolutely_stunning_its/",
             "external_url": "https://i.redd.it/jss3dbm98dlh1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "SirDemonLord",
                     "url": "https://www.reddit.com/user/SirDemonLord"
-                }
-            ]
-        },
-        {
-            "id": "1qb2slq",
-            "url": "/r/MacOSBeta/comments/1qb2slq/second_macos_tahoe_263_beta_now_available_for/",
-            "external_url": "https://www.macrumors.com/2026/01/12/macos-tahoe-26-3-beta-2/",
-            "title": "Second macOS Tahoe 26.3 Beta Now Available for Developers",
-            "content_html": "",
-            "date_published": "2026-01-12T18:26:22+00:00",
-            "authors": [
-                {
-                    "name": "jagajazzist",
-                    "url": "https://www.reddit.com/user/jagajazzist"
                 }
             ]
         }
