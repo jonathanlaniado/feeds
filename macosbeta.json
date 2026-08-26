@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1vzafhe",
+            "url": "/r/MacOSBeta/comments/1vzafhe/tired_of_seeing_ask_siri_on_every_menu_heres_how/",
+            "external_url": "https://i.redd.it/ww0f7zkxdslh1.png",
+            "title": "Tired of seeing \u201cAsk Siri\u201d on every menu? Here's how to disable it.",
+            "content_html": "<p>In macOS 27, after enabling Siri AI, all context menus include a persistent \u201cAsk Siri\u201d context menu item. Turns out you can actually disable it without turning off Siri AI.</p>\n<p>To disable, run the following commands in the Terminal app:</p>\n<p>```\ncodes=(soft apwn exit loca lock logo rlgo rcnt rrst rest rsdn shut slep spro syss)\nargs=(-int 0)</p>\n<p>for code in $codes; do\n  hex=$(printf %s \"$code\" | xxd -p -u)\n  args+=(-int \"$((16#$hex))\")\ndone</p>\n<p>defaults write -g NSAppleMenuAllowedItems -array \"${args[@]}\"\n```</p>\n<p>and give your Mac a restart.</p>\n<p><code>NSAppleMenuAllowedItems</code> controls which items are visible in the \uf8ff menu. For some reason, Apple decided that macOS shouldn't insert \u201cAsk Siri\u201d whenever the filter is active, even if nothing is actually disabled.</p>\n<p>The command allowlists all \uf8ff menu items. I didn't include \"abtm\" (About This Mac) in the list because it is unconditionally visible in the current code.</p>\n<p>Disable with: </p>\n<p><code>defaults delete -g NSAppleMenuAllowedItems</code></p>\n<p>and restart your Mac.</p><div><br></div><img src=\"https://i.redd.it/ww0f7zkxdslh1.png\" />",
+            "date_published": "2026-08-26T21:29:31+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1vyugz8",
             "url": "/r/MacOSBeta/comments/1vyugz8/macos_27_is_almost_out_how_it_feels_moving_from/",
             "external_url": "https://v.redd.it/j2z8ivoegplh1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Sad_Designer452",
                     "url": "https://www.reddit.com/user/Sad_Designer452"
-                }
-            ]
-        },
-        {
-            "id": "1qvyg82",
-            "url": "/r/MacOSBeta/comments/1qvyg82/macos_tahoe_263_release_candidate_now_available/",
-            "external_url": "https://www.macrumors.com/2026/02/04/apple-seeds-macos-tahoe-26-3-rc/",
-            "title": "macOS Tahoe 26.3 Release Candidate Now Available",
-            "content_html": "",
-            "date_published": "2026-02-04T19:35:36+00:00",
-            "authors": [
-                {
-                    "name": "jagajazzist",
-                    "url": "https://www.reddit.com/user/jagajazzist"
                 }
             ]
         }
