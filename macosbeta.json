@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1vyugz8",
+            "url": "/r/MacOSBeta/comments/1vyugz8/macos_27_is_almost_out_how_it_feels_moving_from/",
+            "external_url": "https://v.redd.it/j2z8ivoegplh1",
+            "title": "macOS 27 is almost out... how it feels moving from Sequoia",
+            "content_html": "",
+            "date_published": "2026-08-26T11:31:54+00:00",
+            "authors": [
+                {
+                    "name": "Dependent_Grand1573",
+                    "url": "https://www.reddit.com/user/Dependent_Grand1573"
+                }
+            ]
+        },
+        {
             "id": "1vxm1gs",
             "url": "/r/MacOSBeta/comments/1vxm1gs/macos_27_is_full_of_hints_about_thirdparty_siri/",
             "external_url": "https://i.redd.it/93qzcbt98flh1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "jagajazzist",
                     "url": "https://www.reddit.com/user/jagajazzist"
-                }
-            ]
-        },
-        {
-            "id": "1qpsaxw",
-            "url": "/r/MacOSBeta/comments/1qpsaxw/psa_do_not_upgrade_to_263_beta_3/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1qpsaxw/psa_do_not_upgrade_to_263_beta_3/",
-            "title": "[PSA] Do not upgrade to 26.3 Beta 3",
-            "content_html": "<p>This particular beta version is plagued with issues regarding managing the P-states of the Apple Silicon GPU unit. In short you are very likely to experience 3x lower performance in graphics-heavy workloads (such as gaming). The hardware simply refuses to use its full power.</p>\n<p>Usual symptoms for this release:</p>\n<p>- GPU sits about 330 MHz, occasionally going to 800 MHz with a power draw of 3-5W</p>\n<p>- Fans not spinning up to cool the unit</p>\n<p>I\u2019ve already sent a very detailed report to Apple about this, and so did the others that reported similar issues in this sub.</p>\n<p>The only solution is either waiting for a new beta release, or doing an erase to the stable Tahoe or Sequoia.</p>",
-            "date_published": "2026-01-28T23:52:27+00:00",
-            "authors": [
-                {
-                    "name": "SirDemonLord",
-                    "url": "https://www.reddit.com/user/SirDemonLord"
                 }
             ]
         }
