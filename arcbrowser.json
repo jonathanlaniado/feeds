@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1vz6njh",
+            "url": "/r/ArcBrowser/comments/1vz6njh/claude_adds_dias_morning_briefs/",
+            "external_url": "https://i.redd.it/fkpoulcnqrlh1.png",
+            "title": "Claude adds Dia's Morning Briefs",
+            "content_html": "<p>RIP Dia's $100/mo plan</p><div><br></div><img src=\"https://i.redd.it/fkpoulcnqrlh1.png\" />",
+            "date_published": "2026-08-26T19:12:46+00:00",
+            "authors": [
+                {
+                    "name": "finnytom",
+                    "url": "https://www.reddit.com/user/finnytom"
+                }
+            ]
+        },
+        {
             "id": "1vvhu5l",
             "url": "/r/ArcBrowser/comments/1vvhu5l/viola_is_now_available_on_ios_testflight_and_mac/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1vvhu5l/viola_is_now_available_on_ios_testflight_and_mac/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "HeerShingala",
                     "url": "https://www.reddit.com/user/HeerShingala"
-                }
-            ]
-        },
-        {
-            "id": "1gu13wa",
-            "url": "/r/ArcBrowser/comments/1gu13wa/connection_refuse_when_trying_to_open_sponsored/",
-            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1gu13wa/connection_refuse_when_trying_to_open_sponsored/",
-            "title": "'Connection Refuse' when trying to open Sponsored Google links, but no way to hide them either",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1gu13wa/connection_refuse_when_trying_to_open_sponsored/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1gu13wa/connection_refuse_when_trying_to_open_sponsored/'>Reddit</a></caption><div><br></div><p>When I Google something, the top result is often the page I want - but if it's marked as a Sponsored link, Arc is instead displaying a 'Connection Refused</p>\n<p>There is currently no way to install extensions to hide these links</p>\n<p>Is there any other way around the other than manually scrolling down to the first non-sponsorerd links?</p>",
-            "date_published": "2024-11-18T09:37:27+00:00",
-            "authors": [
-                {
-                    "name": "Scoobs525",
-                    "url": "https://www.reddit.com/user/Scoobs525"
                 }
             ]
         }
