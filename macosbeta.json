@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1w03srv",
+            "url": "/r/MacOSBeta/comments/1w03srv/safari_27_is_fantastic/",
+            "external_url": "https://i.redd.it/qpv6xad5vylh1.jpeg",
+            "title": "Safari 27 is fantastic.",
+            "content_html": "<p>What I did:</p>\n<ul>\n<li>Treat bookmark folders as tab groups.</li>\n<li>Treat bookmarks as pinned tabs.</li>\n<li>Use profiles if needed (though I don't use them much).</li>\n<li>Make the most of \"Describe extensions\" (for example, I created an extension that changes all font-family:sans-serif; on any site to the macOS system font, making it feel like even web pages are part of the OS).</li>\n<li>Use the Shortcuts app to copy the URL of an open tab to the clipboard with CMD+SHIFT+X (C is already in use).</li>\n<li>Tap the trackpad with three fingers to quickly view linked sites.</li>\n</ul>\n<p>To be honest, I was captivated by the Arc Browser. However, Arc has already ceased active development and entered maintenance mode. While I could continue using Arc until it becomes unusable or a better browser comes along, I simply can't get used to the display and rendering of Chromium/Blink.</p>\n<p>So I decided to switch back to Safari and tried various modifications.</p>\n<p>As a result, I'm very satisfied with my web experience. It's lightweight, syncs seamlessly with my iPhone and iPad, and with the free Safari extension \"Auto PiP,\" I can even play very lightweight videos using hardware acceleration. (What I particularly like is the ability to temporarily hide the PiP window at the edge of the screen when it gets a little annoying.)</p>\n<p>I have no complaints about security, and since I have purchased AdGuard for Mac, I am completely free from ads. (That said, AdGuard Mini as a Safari extension would also be perfectly adequate. In that case, I recommend installing \"tinyShield\" and \"AdGuard Extra\" using extensions such as \"UserScript\".)</p>\n<p>Anyway, I wanted you all to consider the option of switching back to Safari.</p>\n<p>It used to be a somewhat boring browser, but it's especially recommended for those who don't need AI features and are tired of resource-hungry Chromium and Firefox-based browsers.</p>\n<p>Now, the Webkit-specific bugs on some sites have almost completely disappeared.</p>\n<p>I have great respect for Apple's Webkit development team. (But please, please add an automatic sidebar display feature. I've sent it multiple times through the Feedback Assistant, but it still hasn't been implemented...)</p><div><br></div><img src=\"https://i.redd.it/qpv6xad5vylh1.jpeg\" />",
+            "date_published": "2026-08-27T19:28:00+00:00",
+            "authors": [
+                {
+                    "name": "Muted-Reflection9536",
+                    "url": "https://www.reddit.com/user/Muted-Reflection9536"
+                }
+            ]
+        },
+        {
             "id": "1vzvb9q",
             "url": "/r/MacOSBeta/comments/1vzvb9q/heres_how_to_disable_siris_new_floating_button/",
             "external_url": "https://i.redd.it/m55337d9exlh1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "jagajazzist",
                     "url": "https://www.reddit.com/user/jagajazzist"
-                }
-            ]
-        },
-        {
-            "id": "1r6jdcz",
-            "url": "/r/MacOSBeta/comments/1r6jdcz/compact_tabs_in_safari_seem_to_be_back_in_the/",
-            "external_url": "https://www.reddit.com/gallery/1r6jdcz",
-            "title": "Compact tabs in Safari seem to be back in the Tahoe Beta 4",
-            "content_html": "",
-            "date_published": "2026-02-16T19:31:16+00:00",
-            "authors": [
-                {
-                    "name": "gh0stofoctober",
-                    "url": "https://www.reddit.com/user/gh0stofoctober"
                 }
             ]
         }
