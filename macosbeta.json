@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1vzvb9q",
+            "url": "/r/MacOSBeta/comments/1vzvb9q/heres_how_to_disable_siris_new_floating_button/",
+            "external_url": "https://i.redd.it/m55337d9exlh1.png",
+            "title": "Here's how to disable Siri's new floating button",
+            "content_html": "<p>When Siri AI is enabled, macOS 27 adds a contextual \"lightweight UI\" when you type or select text. The floating button can expand into Ask Siri, Edit with Siri and Writing tools, or <a href=\"https://www.reddit.com/r/MacOSBeta/comments/1v0hvjd\">other contextual actions</a>.</p>\n<p>To disable it, run the following command in the Terminal:</p>\n<p><code>sudo mkdir -p /Library/Preferences/FeatureFlags/Domain &amp;&amp; \\\nsudo defaults write /Library/Preferences/FeatureFlags/Domain/WritingTools LightweightUI_macOS -dict Enabled -bool false</code></p>\n<p>and restart your Mac. To restore:</p>\n<p><code>sudo defaults delete /Library/Preferences/FeatureFlags/Domain/WritingTools LightweightUI_macOS</code></p><div><br></div><img src=\"https://i.redd.it/m55337d9exlh1.png\" />",
+            "date_published": "2026-08-27T14:19:40+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1vzafhe",
             "url": "/r/MacOSBeta/comments/1vzafhe/tired_of_seeing_ask_siri_on_every_menu_heres_how/",
             "external_url": "https://i.redd.it/ww0f7zkxdslh1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "gh0stofoctober",
                     "url": "https://www.reddit.com/user/gh0stofoctober"
-                }
-            ]
-        },
-        {
-            "id": "1qw0ezj",
-            "url": "/r/MacOSBeta/comments/1qw0ezj/macos_263_rc_released_today_addressed_my/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1qw0ezj/macos_263_rc_released_today_addressed_my/",
-            "title": "macos 26.3 RC released today addressed my graphical performance issues",
-            "content_html": "<p>PoE2 at idle has risen from 21 to 83 FPS, and fans are now functioning as expected.</p>\n<p>Please chime in with your experiences.</p>",
-            "date_published": "2026-02-04T20:46:20+00:00",
-            "authors": [
-                {
-                    "name": "Sad_Designer452",
-                    "url": "https://www.reddit.com/user/Sad_Designer452"
                 }
             ]
         }
