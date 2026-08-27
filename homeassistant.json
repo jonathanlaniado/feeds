@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1vzd2z2",
+            "url": "/r/homeassistant/comments/1vzd2z2/my_temperature_sensor_just_paid_for_itself/",
+            "external_url": "https://i.redd.it/gs0fwnw5yslh1.jpeg",
+            "title": "My temperature sensor just paid for itself",
+            "content_html": "<p>Had just left home when I got the notification; turns out one of my kids had left the freezer door open. Was able to call my wife real quick to close it before everything thawed and had to be thrown away.</p><div><br></div><img src=\"https://i.redd.it/gs0fwnw5yslh1.jpeg\" />",
+            "date_published": "2026-08-26T23:16:11+00:00",
+            "authors": [
+                {
+                    "name": "IchWillRingen",
+                    "url": "https://www.reddit.com/user/IchWillRingen"
+                }
+            ]
+        },
+        {
             "id": "1vy4n0v",
             "url": "/r/homeassistant/comments/1vy4n0v/thank_you_developers/",
             "external_url": "https://www.reddit.com/r/homeassistant/comments/1vy4n0v/thank_you_developers/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "n1976jmk",
                     "url": "https://www.reddit.com/user/n1976jmk"
-                }
-            ]
-        },
-        {
-            "id": "1j86z2r",
-            "url": "/r/homeassistant/comments/1j86z2r/matter_server_gets_certified/",
-            "external_url": "https://www.home-assistant.io/blog/2025/03/10/matter-certification/",
-            "title": "Matter server gets certified",
-            "content_html": "",
-            "date_published": "2025-03-10T19:22:51+00:00",
-            "authors": [
-                {
-                    "name": "HTTP_404_NotFound",
-                    "url": "https://www.reddit.com/user/HTTP_404_NotFound"
                 }
             ]
         }
