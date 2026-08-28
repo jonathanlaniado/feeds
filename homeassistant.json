@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1w12924",
+            "url": "/r/homeassistant/comments/1w12924/chromecast_audio_successor_esphome_based_esp32s3/",
+            "external_url": "https://www.reddit.com/gallery/1w12924",
+            "title": "Chromecast Audio successor? ESPHome based, ESP32-S3, PCM5122 DAC, Home Assistant + Music Assistant + Sendspin multi-room sync, fully local!",
+            "content_html": "<p>Massive thanks to the <a href=\"https://www.openhomefoundation.org/\">Open Home Foundation</a>, the <a href=\"https://www.music-assistant.io/\">Music Assistant</a> team, and everyone working on <a href=\"https://www.sendspin-audio.com/\">Sendspin</a>. None of this exists without their work, and the sync quality is incredible. Please go use Music Assistant and Sendspin if you have not already!  </p>\n<p>The Chromecast Audio has been discontinued since 2019, and a lot of us have been looking for the same thing ever since! A small puck with a 3.5mm out that syncs across rooms and keeps everything on your own network.</p>\n<p>Our <a href=\"https://apolloautomation.com/products/cast-1-audio-casting-device\">CAST-1</a> plugs into powered speakers, an amp, a receiver, or desktop monitors. USB-C for power, 3.5mm for audio, and that is the whole install.</p>\n<p><strong>Specs:</strong></p>\n<ul>\n<li><strong>DAC is a TI PCM5122.</strong> 32-bit stereo, 112 dB SNR and dynamic range, -93 dB THD+N, 2.1 VRMS line out. This is the part we most wanted to get right, since the converter decides what your speakers actually receive.</li>\n<li><strong>ESP32-S3</strong>, 16 MB flash, 8 MB PSRAM, running open source <strong>ESPHome</strong>.</li>\n<li><strong>Sendspin</strong> for sample-accurate sync, native in Music Assistant. Also shows up as a standard ESPHome media player in Home Assistant for TTS, doorbell chimes, and alerts.</li>\n<li><strong>Solder pads for 5 V, GND, and IO1.</strong> Audio and GPIO on the same board under the same ESPHome config, so an LED strip can react to playback without a second controller.</li>\n<li>Bluetooth proxy capable. Wi-Fi 2.4 GHz, or wired with the optional W5500 Ethernet HAT.</li>\n<li>45 x 45 x 15 mm. mDNS discovery. 100% local, no account, no subscription.</li>\n</ul>\n<p>We run several units around the Apollo workshop on completely different speakers and they stay locked together.  </p>\n<p>This finally let me get rid of all of my Google Home speakers! Please let us know if there are any questions!  </p>\n<p>GitHub: <a href=\"https://github.com/ApolloAutomation/CAST-1\">https://github.com/ApolloAutomation/CAST-1</a>  </p>\n<p>Wiki: <a href=\"https://wiki.apolloautomation.com/products/cast1/introduction/\">https://wiki.apolloautomation.com/products/cast1/introduction/</a></p>",
+            "date_published": "2026-08-28T20:42:38+00:00",
+            "authors": [
+                {
+                    "name": "ApolloAutomation",
+                    "url": "https://www.reddit.com/user/ApolloAutomation"
+                }
+            ]
+        },
+        {
             "id": "1vzd2z2",
             "url": "/r/homeassistant/comments/1vzd2z2/my_temperature_sensor_just_paid_for_itself/",
             "external_url": "https://i.redd.it/gs0fwnw5yslh1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Individual_Cod_4726",
                     "url": "https://www.reddit.com/user/Individual_Cod_4726"
-                }
-            ]
-        },
-        {
-            "id": "1j8arqy",
-            "url": "/r/homeassistant/comments/1j8arqy/ha_is_now_officially_matter_certified/",
-            "external_url": "https://www.home-assistant.io/blog/2025/03/10/matter-certification/",
-            "title": "HA is now officially Matter certified!!!! \ud83c\udf8a\ud83c\udf8a\ud83c\udf8a\ud83c\udf8a\ud83c\udf8a",
-            "content_html": "<p>Text from Home Assistant\u2019s LinkedIn post </p>\n<p>\u201cWe're Matter certified!! \ud83c\udf89</p>\n<p>We've been ahead of the game with Matter implementation, and we're excited to announce both Home Assistant and the Open Home Foundation Matter Server are officially certified by the CSA. \ud83d\ude0c</p>\n<p>What does this mean for you? Find out on our blog \ud83d\udc47\ud83c\udffc</p>\n<p>Huge thanks to Resillion for helping us with the testing for certification! \ud83d\udc4f\ud83c\udffb\u201d</p>\n<p>We've been ahead of the game with Matter implementation, and we're excited to announce both Home Assistant and the Open Home Foundation Matter Server are officially certified by the CSA. \ud83d\ude0c</p>\n<p>What does this mean for you? Find out on our blog \ud83d\udc47\ud83c\udffc</p>\n<p>Huge thanks to Resillion for helping us with the testing for certification! </p>",
-            "date_published": "2025-03-10T22:02:13+00:00",
-            "authors": [
-                {
-                    "name": "n1976jmk",
-                    "url": "https://www.reddit.com/user/n1976jmk"
                 }
             ]
         }
