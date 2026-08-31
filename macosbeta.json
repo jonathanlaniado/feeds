@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1w3kjvb",
+            "url": "/r/MacOSBeta/comments/1w3kjvb/apple_releases_macos_golden_gate_beta_8/",
+            "external_url": "https://forums.macrumors.com/threads/apple-releases-macos-golden-gate-beta-8.2488236/",
+            "title": "Apple Releases macOS Golden Gate Beta 8",
+            "content_html": "",
+            "date_published": "2026-08-31T17:27:04+00:00",
+            "authors": [
+                {
+                    "name": "jagajazzist",
+                    "url": "https://www.reddit.com/user/jagajazzist"
+                }
+            ]
+        },
+        {
             "id": "1w03srv",
             "url": "/r/MacOSBeta/comments/1w03srv/safari_27_is_fantastic/",
             "external_url": "https://i.redd.it/qpv6xad5vylh1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Heezy999",
                     "url": "https://www.reddit.com/user/Heezy999"
-                }
-            ]
-        },
-        {
-            "id": "1r6hlwj",
-            "url": "/r/MacOSBeta/comments/1r6hlwj/first_macos_tahoe_264_beta_now_available_for/",
-            "external_url": "https://www.macrumors.com/2026/02/16/first-macos-tahoe-26-4-beta/",
-            "title": "First macOS Tahoe 26.4 Beta Now Available for Developers",
-            "content_html": "",
-            "date_published": "2026-02-16T18:28:39+00:00",
-            "authors": [
-                {
-                    "name": "jagajazzist",
-                    "url": "https://www.reddit.com/user/jagajazzist"
                 }
             ]
         }
