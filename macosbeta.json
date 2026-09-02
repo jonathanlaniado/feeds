@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1w57t0s",
+            "url": "/r/MacOSBeta/comments/1w57t0s/apple_maps_and_feedback_suggestion/",
+            "external_url": "https://i.redd.it/0g0p3mtgf3nh1.png",
+            "title": "Apple maps and feedback suggestion",
+            "content_html": "<p>For those so inclined feel free to use your feedback assistance and refer to bug/feedback FB24619950 filed today regarding the renaming of Lake Ontario to 'lake america'. You can also use Apple Maps to provide feedback on incorrect information. Same can be done for Gulf of Mexico. Google also allows feedback via its page but since this is Apple beta testing I wanted to bring attention to this obvious bug and failure of Apple as they give in to a madman's decree without congressional approval or oversight here. This makes more sense for US based users but international users can also voice their disapproval over this stupid renaming political grandstanding.</p><div><br></div><img src=\"https://i.redd.it/0g0p3mtgf3nh1.png\" />",
+            "date_published": "2026-09-02T11:35:44+00:00",
+            "authors": [
+                {
+                    "name": "mallydobb",
+                    "url": "https://www.reddit.com/user/mallydobb"
+                }
+            ]
+        },
+        {
             "id": "1w3kjvb",
             "url": "/r/MacOSBeta/comments/1w3kjvb/apple_releases_macos_golden_gate_beta_8/",
             "external_url": "https://forums.macrumors.com/threads/apple-releases-macos-golden-gate-beta-8.2488236/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Dangerous-Coat-9174",
                     "url": "https://www.reddit.com/user/Dangerous-Coat-9174"
-                }
-            ]
-        },
-        {
-            "id": "1r6tdjc",
-            "url": "/r/MacOSBeta/comments/1r6tdjc/apple_finally_kills_the_hideous_macos_263_cc/",
-            "external_url": "https://i.redd.it/6gipux5qpyjg1.png",
-            "title": "Apple finally kills the hideous macOS 26.3 CC shadow in 26.4 DB 1",
-            "content_html": "<p>In macOS 26.3, Apple introduced a horrible shadow overlay from the Control Center that covered much of the screen and featured noticeable banding artifacts.</p>\n<p>This shadow has been removed in macOS 26.4 beta 1 \ud83d\ude42</p>\n<p>Related posts:  </p>\n<p><a href=\"https://www.reddit.com/r/MacOS/comments/1plf8pn/tell_me_this_doesnt_look_ugly/\">Post 1</a><br />\n<a href=\"https://www.reddit.com/r/MacOS/comments/1qofgdh/macos_control_center_concept/\">Post 2</a></p><div><br></div><img src=\"https://i.redd.it/6gipux5qpyjg1.png\" />",
-            "date_published": "2026-02-17T02:10:19+00:00",
-            "authors": [
-                {
-                    "name": "Heezy999",
-                    "url": "https://www.reddit.com/user/Heezy999"
                 }
             ]
         }
