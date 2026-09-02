@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2qh1f/styles/communityIcon_omsxpmvxkyx11.jpg",
     "items": [
         {
+            "id": "1w5kuyq",
+            "url": "/r/apple/comments/1w5kuyq/ios_27_introduces_new_iphone_handoff_feature/",
+            "external_url": "https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/",
+            "title": "iOS 27 Introduces New 'iPhone Handoff' Feature",
+            "content_html": "<p>Apple has added a new \"iPhone Handoff\" feature to iOS 27 that will allow you to switch between two iPhones while using the same phone number on each device.</p>\n<p>\"iPhone Handoff\" can be set up from the Settings app, under the Cellular menu. During the setup process, you can choose which iPhone you want to be the main device that you use most often and which one you want to be the companion device.</p>\n<p>Apple says a user's main eSIM will remain on the main iPhone, while the companion iPhone will receive a companion eSIM, and this will enable you to switch between the devices back and forth depending on which one is unlocked.</p>\n<p>All cellular settings are managed on the main iPhone, and location sharing is based on whichever iPhone is actively using the phone number.</p>\n<p>Carrier bundles for T-Mobile US and Telekom.de in iOS 27 show the feature enabled, according to https://redesmoveisfixas.com/carrier. However, T-Mobile's enrollment server currently returns a 'feature disabled' response, so enrollment is not possible. There are <a href=\"https://www.reddit.com/r/cellmapper/comments/1vs48z3\">some reports</a> that enrollment was available last month.</p>",
+            "date_published": "2026-09-02T19:43:22+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1vvvbc8",
             "url": "/r/apple/comments/1vvvbc8/walmart_apple_pay_rollout_when_it_launches_in/",
             "external_url": "https://9to5mac.com/2026/08/21/when-is-apple-pay-coming-to-your-walmart-heres-the-full-schedule/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "waterskier2007",
                     "url": "https://www.reddit.com/user/waterskier2007"
-                }
-            ]
-        },
-        {
-            "id": "1ih1gl2",
-            "url": "/r/apple/comments/1ih1gl2/apple_says_it_doesnt_approve_of_eu_porn_app/",
-            "external_url": "https://www.macrumors.com/2025/02/03/apple-doesnt-approve-eu-porn-app/",
-            "title": "Apple Says It Doesn't Approve of EU Porn App",
-            "content_html": "",
-            "date_published": "2025-02-03T22:04:51+00:00",
-            "authors": [
-                {
-                    "name": "iMacmatician",
-                    "url": "https://www.reddit.com/user/iMacmatician"
                 }
             ]
         }
