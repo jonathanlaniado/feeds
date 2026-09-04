@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1w7bce5",
+            "url": "/r/MacOSBeta/comments/1w7bce5/apple_is_working_on_two_unreleased_game/",
+            "external_url": "https://forums.macrumors.com/threads/apple-is-working-on-two-unreleased-game-controllers.2488482/",
+            "title": "Apple is working on two unreleased game controllers, according to macOS 26.7 code",
+            "content_html": "<p>Apple has tested at least two Apple and Beats-branded game controllers, according to code briefly included in macOS 26.7 betas.</p>\n<p>The first release candidate contained substantial support for two devices identified as T6502 and T1057. macOS added software for recognizing the hardware, reading input from controls and sensors, and sending commands to the controllers\u2019 vibration system. The entire stack was then removed in the second release candidate.</p>\n<p>Both controllers have novel internal haptic feedback software functionality.</p>",
+            "date_published": "2026-09-04T17:44:09+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1w78erk",
             "url": "/r/MacOSBeta/comments/1w78erk/built_a_free_menu_bar_manager_for_the_macos_27/",
             "external_url": "https://i.redd.it/01lqejwfzinh1.gif",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Kina_Kai",
                     "url": "https://www.reddit.com/user/Kina_Kai"
-                }
-            ]
-        },
-        {
-            "id": "1r8wgbe",
-            "url": "/r/MacOSBeta/comments/1r8wgbe/264_pb1_im_enjoying_the_return_of_compact_tabs/",
-            "external_url": "https://i.redd.it/75jr7lwkofkg1.png",
-            "title": "[26.4 PB1] I'm enjoying the return of compact tabs, which save a good amount of space",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/75jr7lwkofkg1.png\" />",
-            "date_published": "2026-02-19T11:08:24+00:00",
-            "authors": [
-                {
-                    "name": "Dreaming_Blackbirds",
-                    "url": "https://www.reddit.com/user/Dreaming_Blackbirds"
                 }
             ]
         }
