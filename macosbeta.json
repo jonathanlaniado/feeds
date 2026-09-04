@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1w78erk",
+            "url": "/r/MacOSBeta/comments/1w78erk/built_a_free_menu_bar_manager_for_the_macos_27/",
+            "external_url": "https://i.redd.it/01lqejwfzinh1.gif",
+            "title": "Built a free menu bar manager for the macOS 27 menu bar (Bartender and Ice don't cover it yet)",
+            "content_html": "<p>Hey all,</p>\n<p>If you're on the 27 beta you've probably noticed Bartender and Ice stopped hiding icons. Apple rebuilt the menu bar in 27 and those apps were written for the old one. I got tired of waiting so I built a replacement.</p>\n<p>Pelmet drives the new native hiding mechanism directly (the same one behind the exam lockdown mode). No overlay window, no fake bar, icons don't jump when the bar reflows.</p>\n<p>1- Hides the icons you don't need. Hover, click, double-click or a shortcut brings them back</p>\n<p>2- Three sections: Visible, Hidden, Always Hidden. Reorder in a layout editor with real icon previews, or \u2318-drag icons across the chevron right in the bar</p>\n<p>3- Per-display behavior, separators, adjustable reveal animation and auto-rehide</p>\n<p>4- System icons hide too (Sound, Battery, Wi-Fi). Clock, Control Center and Siri are protected by macOS, the editor shows them locked instead of pretending</p>\n<p>Honest caveat, the hiding API lives in a private Apple framework. Pelmet resolves it at runtime and fails soft if a beta build moves it. The rest is public Accessibility APIs. Bug reports from beta builds are gold right now so if something breaks on your machine, tell me.</p>\n<p>No account, no analytics, no server. Free, GPLv3, notarized. Needs macOS 27.</p>\n<p>GitHub: <a href=\"https://github.com/fif7y/pelmet\">https://github.com/fif7y/pelmet</a></p>\n<p>Homebrew: <code>brew install fif7y/tap/pelmet</code></p>\n<p>Site: <a href=\"https://pelmet.fif7y.com\">https://pelmet.fif7y.com</a></p>\n<p>First app in about a decade so go easy \ud83d\ude05</p><div><br></div><img src=\"https://i.redd.it/01lqejwfzinh1.gif\" />",
+            "date_published": "2026-09-04T15:59:43+00:00",
+            "authors": [
+                {
+                    "name": "fif7y",
+                    "url": "https://www.reddit.com/user/fif7y"
+                }
+            ]
+        },
+        {
             "id": "1w57t0s",
             "url": "/r/MacOSBeta/comments/1w57t0s/apple_maps_and_feedback_suggestion/",
             "external_url": "https://i.redd.it/0g0p3mtgf3nh1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Dreaming_Blackbirds",
                     "url": "https://www.reddit.com/user/Dreaming_Blackbirds"
-                }
-            ]
-        },
-        {
-            "id": "1r82ner",
-            "url": "/r/MacOSBeta/comments/1r82ner/264b_is_amazing/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1r82ner/264b_is_amazing/",
-            "title": "26.4B IS AMAZING",
-            "content_html": "<p>They fixed so many things, my appreciation for the developers has been restored. I am so happy that compact tabs, many bugs that I was experiencing have been fixed, the battery limit is nice and I uninstalled aldente but i am wondering if i will need something for temperature limits because I use it in the Summer mostly. Did you notice any other fix or added feature that has not been posted yet? Also the shadow in the mission control thing has been removed thank god..</p>",
-            "date_published": "2026-02-18T13:13:30+00:00",
-            "authors": [
-                {
-                    "name": "Dangerous-Coat-9174",
-                    "url": "https://www.reddit.com/user/Dangerous-Coat-9174"
                 }
             ]
         }
