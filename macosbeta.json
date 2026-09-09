@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1wbuc6y",
+            "url": "/r/MacOSBeta/comments/1wbuc6y/golden_gate_rc_available_now/",
+            "external_url": "https://i.redd.it/3p01fnlcijoh1.png",
+            "title": "Golden Gate RC available now!",
+            "content_html": "<p>There's no beta version number or \"Release Candidate\" label attached to it, just \"macOS 27\" - this is my first beta tho, so maybe that's normal.</p><div><br></div><img src=\"https://i.redd.it/3p01fnlcijoh1.png\" />",
+            "date_published": "2026-09-09T18:45:01+00:00",
+            "authors": [
+                {
+                    "name": "kermitch",
+                    "url": "https://www.reddit.com/user/kermitch"
+                }
+            ]
+        },
+        {
             "id": "1waj36z",
             "url": "/r/MacOSBeta/comments/1waj36z/til_you_can_actually_pull_and_stretch_the_traffic/",
             "external_url": "https://v.redd.it/mkayt9znh9oh1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "jagajazzist",
                     "url": "https://www.reddit.com/user/jagajazzist"
-                }
-            ]
-        },
-        {
-            "id": "1rjxwf2",
-            "url": "/r/MacOSBeta/comments/1rjxwf2/macos_264_developer_beta_3_released/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1rjxwf2/macos_264_developer_beta_3_released/",
-            "title": "macOS 26.4 Developer Beta 3 Released",
-            "content_html": "",
-            "date_published": "2026-03-03T18:53:16+00:00",
-            "authors": [
-                {
-                    "name": "Kina_Kai",
-                    "url": "https://www.reddit.com/user/Kina_Kai"
                 }
             ]
         }
