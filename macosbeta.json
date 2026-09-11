@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1wdsznt",
+            "url": "/r/MacOSBeta/comments/1wdsznt/macos_27_rc_is_still_full_of_obvious_graphical/",
+            "external_url": "https://v.redd.it/ure0z7njiyoh1",
+            "title": "macOS 27 RC is still full of obvious graphical and functional bugs...",
+            "content_html": "<p>-Finder artifacts (easy to see when you maximize its window)<br />\n-It selects the last file when you click parts below it<br />\n-Focus issue after pressing search (impossible to dismiss it)<br />\n-Starting Bluestacks Air when the MacBook is in clamshell mode will crash the WindowServer and the OS will reboot</p>",
+            "date_published": "2026-09-11T21:13:40+00:00",
+            "authors": [
+                {
+                    "name": "PatrikCR",
+                    "url": "https://www.reddit.com/user/PatrikCR"
+                }
+            ]
+        },
+        {
             "id": "1wdb9zy",
             "url": "/r/MacOSBeta/comments/1wdb9zy/menu_bar_will_now_dim_when_a_window_is_maximized/",
             "external_url": "https://v.redd.it/wlqnh56b0voh1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Excellent-Class-7070",
                     "url": "https://www.reddit.com/user/Excellent-Class-7070"
-                }
-            ]
-        },
-        {
-            "id": "1ry7vs5",
-            "url": "/r/MacOSBeta/comments/1ry7vs5/264/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1ry7vs5/264/",
-            "title": "26.4",
-            "content_html": "<p>macOS 26.4 appears to address most of the major issues people have had. What issues did you have in the past that you think are much better? Personally, I\u2019m glad compact tabs are back. I didn\u2019t have any third party software error this time either. It seems like most of the changes have been improvements. What do you think?</p>",
-            "date_published": "2026-03-19T18:07:59+00:00",
-            "authors": [
-                {
-                    "name": "Jebus-Xmas",
-                    "url": "https://www.reddit.com/user/Jebus-Xmas"
                 }
             ]
         }
