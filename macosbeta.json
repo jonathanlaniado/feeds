@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1wdb9zy",
+            "url": "/r/MacOSBeta/comments/1wdb9zy/menu_bar_will_now_dim_when_a_window_is_maximized/",
+            "external_url": "https://v.redd.it/wlqnh56b0voh1",
+            "title": "Menu bar will now dim when a window is maximized (also works for two windows in split view!)",
+            "content_html": "<p>For me, one of the greatest design additions, and I didn't see anybody mention this! Helps a lot with keeping focus on the content and not on the menu bar!</p>\n<p>I discovered this in RC, but maybe this has been around for longer?</p>\n<p>EDIT: This seems to only work when the Dock is hidden!</p>",
+            "date_published": "2026-09-11T09:27:00+00:00",
+            "authors": [
+                {
+                    "name": "EducationalYoung7152",
+                    "url": "https://www.reddit.com/user/EducationalYoung7152"
+                }
+            ]
+        },
+        {
             "id": "1wbuc6y",
             "url": "/r/MacOSBeta/comments/1wbuc6y/golden_gate_rc_available_now/",
             "external_url": "https://i.redd.it/3p01fnlcijoh1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Jebus-Xmas",
                     "url": "https://www.reddit.com/user/Jebus-Xmas"
-                }
-            ]
-        },
-        {
-            "id": "1rp79ug",
-            "url": "/r/MacOSBeta/comments/1rp79ug/fourth_macos_tahoe_264_beta_now_available_for/",
-            "external_url": "https://www.macrumors.com/2026/03/09/apple-seeds-macos-tahoe-26-4-beta-4/",
-            "title": "Fourth macOS Tahoe 26.4 Beta Now Available for Developers",
-            "content_html": "",
-            "date_published": "2026-03-09T17:50:55+00:00",
-            "authors": [
-                {
-                    "name": "jagajazzist",
-                    "url": "https://www.reddit.com/user/jagajazzist"
                 }
             ]
         }
