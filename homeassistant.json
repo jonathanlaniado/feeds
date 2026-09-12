@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1wel4xc",
+            "url": "/r/homeassistant/comments/1wel4xc/i_built_a_physical_console_for_my_smart_lights/",
+            "external_url": "https://v.redd.it/gla4tniaz4ph1",
+            "title": "I built a physical console for my smart lights (motorized faders)",
+            "content_html": "<p>I can control lights by banks of four, which allows me to control all connected house lights.  Faders are motorized, so if I change the light for elsewhere they fly to position. Technical details in the comments. </p>",
+            "date_published": "2026-09-12T19:04:18+00:00",
+            "authors": [
+                {
+                    "name": "Standard_Record_2300",
+                    "url": "https://www.reddit.com/user/Standard_Record_2300"
+                }
+            ]
+        },
+        {
             "id": "1w9z2s1",
             "url": "/r/homeassistant/comments/1w9z2s1/lg_smart_tvs_caught_logging_audio_with_screen_off/",
             "external_url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Technical_Raisin_246",
                     "url": "https://www.reddit.com/user/Technical_Raisin_246"
-                }
-            ]
-        },
-        {
-            "id": "1jf2j7v",
-            "url": "/r/homeassistant/comments/1jf2j7v/is_shelly_trying_to_push_everyone_out_of_the/",
-            "external_url": "https://i.redd.it/bdurqg0plope1.jpeg",
-            "title": "Is Shelly trying to push everyone out of the market? Damn! Gen4 devices",
-            "content_html": "<p>A picture is worth 1000 words. Why bother with anything elsw</p><div><br></div><img src=\"https://i.redd.it/bdurqg0plope1.jpeg\" />",
-            "date_published": "2025-03-19T17:29:13+00:00",
-            "authors": [
-                {
-                    "name": "Lazy-Philosopher-234",
-                    "url": "https://www.reddit.com/user/Lazy-Philosopher-234"
                 }
             ]
         }
