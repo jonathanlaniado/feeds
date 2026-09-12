@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1we9raa",
+            "url": "/r/MacOSBeta/comments/1we9raa/its_just_a_beta_what_do_you_expect_they_said/",
+            "external_url": "https://i.redd.it/lw161xlqn2ph1.png",
+            "title": "\"It's just a beta, what do you expect?\" They said. Intelligence is still 30+ GB in the RC and with no option to disable it.",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/lw161xlqn2ph1.png\" />",
+            "date_published": "2026-09-12T11:08:33+00:00",
+            "authors": [
+                {
+                    "name": "rvnx",
+                    "url": "https://www.reddit.com/user/rvnx"
+                }
+            ]
+        },
+        {
             "id": "1wdsznt",
             "url": "/r/MacOSBeta/comments/1wdsznt/macos_27_rc_is_still_full_of_obvious_graphical/",
             "external_url": "https://v.redd.it/ure0z7njiyoh1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "deferare",
                     "url": "https://www.reddit.com/user/deferare"
-                }
-            ]
-        },
-        {
-            "id": "1rywb2x",
-            "url": "/r/MacOSBeta/comments/1rywb2x/woah_woah_the_rc_version_of_macos_tahoe_264/",
-            "external_url": "https://i.redd.it/u3jj5iabc7qg1.png",
-            "title": "WOAH, WOAH. THE RC VERSION OF MACOS TAHOE 26.4 PROTECTS YOU FROM PASTING UKNOWN COMMANDS!",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/u3jj5iabc7qg1.png\" />",
-            "date_published": "2026-03-20T13:30:53+00:00",
-            "authors": [
-                {
-                    "name": "Excellent-Class-7070",
-                    "url": "https://www.reddit.com/user/Excellent-Class-7070"
                 }
             ]
         }
