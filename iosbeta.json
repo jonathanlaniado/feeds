@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1weld7h",
+            "url": "/r/iOSBeta/comments/1weld7h/ios_27_rc_new_attachment_animation_for_herm\u00e8s/",
+            "external_url": "https://v.redd.it/ab786wfdv4ph1",
+            "title": "[iOS 27 RC] New attachment animation for Herm\u00e8s MagSafe wallets",
+            "content_html": "<p>iOS 27 RC adds a dedicated Herm\u00e8s MagSafe wallet attachment animation. There are also new wallet styles with Find My support.</p>\n<p><a href=\"https://github.com/blacktop/ipsw-diffs/blob/4c1e7fcbf5d0865984f00560cd2086c9aba4e261/27_0_24A5430a_vs_27_0_24A435/FILES/filesystem.NEW.md?plain=1#L469-L470\">Added in RC.</a></p>\n<p>https://preview.redd.it/jq1m2mxlq4ph1.png?width=2400&amp;format=png&amp;auto=webp&amp;s=ff9a27edf34c81a286ffa4a4700a737b5d946cf6</p>",
+            "date_published": "2026-09-12T19:12:50+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1wccsso",
             "url": "/r/iOSBeta/comments/1wccsso/ios_27_rc_easter_egg_in_liquid_glass_settings/",
             "external_url": "https://v.redd.it/tbysx9wthnoh1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "hotlava436",
                     "url": "https://www.reddit.com/user/hotlava436"
-                }
-            ]
-        },
-        {
-            "id": "1m6l8r1",
-            "url": "/r/iOSBeta/comments/1m6l8r1/ios_26_beta_4_discussion/",
-            "external_url": "https://www.reddit.com/r/iOSBeta/comments/1m6l8r1/ios_26_beta_4_discussion/",
-            "title": "iOS 26 Beta 4 - Discussion",
-            "content_html": "<p>Summer beta season is upon us!</p>\n<p>Please use this thread to share any and all updates you discover while using the latest iOS/iPadOS 26 beta.</p>\n<p>This thread should be used for discussion of the betas that may not meet our submission guidelines, as well as troubleshooting small issues through the beta test cycle.</p>\n<p>Further discussion can be found on the\u00a0<a href=\"https://discord.gg/a9b9ftH7kT\">iOS Beta Discord</a></p>\n<p><strong>New MOD action to counter spam.</strong></p>\n<p>Spamming this discussion with comments about batter life, safari being snappier, etc will result in a ban from the sub moving forward.</p>",
-            "date_published": "2025-07-22T18:01:19+00:00",
-            "authors": [
-                {
-                    "name": "epmuscle",
-                    "url": "https://www.reddit.com/user/epmuscle"
                 }
             ]
         }
