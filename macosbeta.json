@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1wgbls4",
+            "url": "/r/MacOSBeta/comments/1wgbls4/for_those_wondering_build_26a428_is_the_official/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1wgbls4/for_those_wondering_build_26a428_is_the_official/",
+            "title": "For those wondering, Build 26A428 is the official release version.",
+            "content_html": "<p>Just incase your were  on the RC, and wondering why when you turned off Beta, that there was not another Update.. the RC IS the official release build, and you are already on it.  Nothing to update.  Nothing changed from RC to Release.</p>",
+            "date_published": "2026-09-14T18:24:36+00:00",
+            "authors": [
+                {
+                    "name": "laurie_lamonica",
+                    "url": "https://www.reddit.com/user/laurie_lamonica"
+                }
+            ]
+        },
+        {
             "id": "1we9raa",
             "url": "/r/MacOSBeta/comments/1we9raa/its_just_a_beta_what_do_you_expect_they_said/",
             "external_url": "https://i.redd.it/lw161xlqn2ph1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "quintsreddit",
                     "url": "https://www.reddit.com/user/quintsreddit"
-                }
-            ]
-        },
-        {
-            "id": "1t3oyk0",
-            "url": "/r/MacOSBeta/comments/1t3oyk0/macos_265_rc_has_been_released/",
-            "external_url": "https://i.redd.it/zltshrjyq5zg1.png",
-            "title": "macOS 26.5 RC has been released.",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/zltshrjyq5zg1.png\" />",
-            "date_published": "2026-05-04T17:44:20+00:00",
-            "authors": [
-                {
-                    "name": "deferare",
-                    "url": "https://www.reddit.com/user/deferare"
                 }
             ]
         }
