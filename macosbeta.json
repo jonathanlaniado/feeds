@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1wgq1ik",
+            "url": "/r/MacOSBeta/comments/1wgq1ik/macos27_safari_describe_an_extension_is_amazing/",
+            "external_url": "https://i.redd.it/kkfbqk7z0mph1.png",
+            "title": "MacOS27 Safari Describe an extension is amazing !!",
+            "content_html": "<p>On MacOS 27 Safari gives you an option to describe an extension and it's amazing. It basically lets you create your own start/new tab page and looks great.</p>\n<p>Prompt to create: </p>\n<p>Create a start page for me which is similar to Microsoft Edge Start Page and have a dark background, a search bar at the center (use <a href=\"http://google.com\">google.com</a> for search), add a 96x96 apple logo on the top and add a favorites bar which contains max 10 links (max 5 in a row), a remove option for links when hovering and an add favorites option.</p><div><br></div><img src=\"https://i.redd.it/kkfbqk7z0mph1.png\" />",
+            "date_published": "2026-09-15T04:21:23+00:00",
+            "authors": [
+                {
+                    "name": "arnhazra",
+                    "url": "https://www.reddit.com/user/arnhazra"
+                }
+            ]
+        },
+        {
             "id": "1wgbls4",
             "url": "/r/MacOSBeta/comments/1wgbls4/for_those_wondering_build_26a428_is_the_official/",
             "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1wgbls4/for_those_wondering_build_26a428_is_the_official/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "animorphreligion",
                     "url": "https://www.reddit.com/user/animorphreligion"
-                }
-            ]
-        },
-        {
-            "id": "1tp3vgf",
-            "url": "/r/MacOSBeta/comments/1tp3vgf/mods_can_we_get_a_rule_that_clarifies_this_sub_is/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1tp3vgf/mods_can_we_get_a_rule_that_clarifies_this_sub_is/",
-            "title": "Mods can we get a rule that clarifies this sub is only for OS based posts, not for promoting beta apps on macOS?",
-            "content_html": "<p>I\u2019ve noticed an uptick in vibe coded apps and AI slop promotions. When I went to report them I saw there was no rule I could cite as the reason for the report.</p>\n<p>If mods want help screening I\u2019m happy to help, even if it\u2019s just for this specific issue.</p>",
-            "date_published": "2026-05-27T12:19:10+00:00",
-            "authors": [
-                {
-                    "name": "quintsreddit",
-                    "url": "https://www.reddit.com/user/quintsreddit"
                 }
             ]
         }
