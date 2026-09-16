@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1wi54y2",
+            "url": "/r/MacOSBeta/comments/1wi54y2/macos_272_beta_1_released/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1wi54y2/macos_272_beta_1_released/",
+            "title": "macOS 27.2 beta 1 released",
+            "content_html": "<p>I figured we'd see 27.1 soon, but not 27.2...</p>\n<p>https://preview.redd.it/f0vxvfwnbxph1.png?width=1002&amp;format=png&amp;auto=webp&amp;s=bbe23edebc0ca86f6347e10516c3c6a27f15da50</p>",
+            "date_published": "2026-09-16T18:15:38+00:00",
+            "authors": [
+                {
+                    "name": "scottrych",
+                    "url": "https://www.reddit.com/user/scottrych"
+                }
+            ]
+        },
+        {
             "id": "1wgq1ik",
             "url": "/r/MacOSBeta/comments/1wgq1ik/macos27_safari_describe_an_extension_is_amazing/",
             "external_url": "https://i.redd.it/kkfbqk7z0mph1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "pilkadt890",
                     "url": "https://www.reddit.com/user/pilkadt890"
-                }
-            ]
-        },
-        {
-            "id": "1u0grop",
-            "url": "/r/MacOSBeta/comments/1u0grop/here_we_go/",
-            "external_url": "https://i.redd.it/2lydyomat36h1.png",
-            "title": "Here we go!",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/2lydyomat36h1.png\" />",
-            "date_published": "2026-06-08T18:42:39+00:00",
-            "authors": [
-                {
-                    "name": "animorphreligion",
-                    "url": "https://www.reddit.com/user/animorphreligion"
                 }
             ]
         }
