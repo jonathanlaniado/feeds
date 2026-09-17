@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1wiuyhm",
+            "url": "/r/homeassistant/comments/1wiuyhm/mods_can_we_please_implement_a_mandatory_rule_or/",
+            "external_url": "https://www.reddit.com/r/homeassistant/comments/1wiuyhm/mods_can_we_please_implement_a_mandatory_rule_or/",
+            "title": "MODS. Can we please implement a mandatory rule or flair that means users posting an integration, card, app whatever must disclose AI coding.",
+            "content_html": "<p>First let me start by saying I am NOT against building things for home assistant using AI coding assistants.</p>\n<p>AI coding assistants are NO different to any other tool that mankind has invented they are a tool. But like a LOT of tools when used incorrectly they can become dangerous to a large number of people if the user has no idea what they're doing.</p>\n<p>I've been mostly supportive of people who have developed things for HA with the use of AI because I myself have done the same. It's awesome to be proud of something that you managed to achieve using AI to handle the coding. Again just like being proud of pulling off making your first woodworking project using a CNC router or laser cutter. But let's at least call a spade a spade here. At <strong><em>best</em></strong> you came up with the idea. The CNC or laser cutter <em>MADE the</em> thing<em>.</em> Your ai coded project is no different. </p>\n<p>The main difference is your CNC routed woodworking project is unlikely to cripple multiple people's networks or expose them to machine altering code backdoors. Or worse.</p>\n<p>I hate seeing people just write posts on people's code projects that say shit like \"ugggh AI slop\". Cause honestly those of us who've been around long enough know that there are more than enough human slop projects out there on github to. </p>\n<p>But I think that it's only fair that as a community we help one another to build BETTER things with the aid of AI not just rapid fire a bunch of shit out into the world and not warn each other about what your weekend project is potentially exposing them to.</p>\n<p>This community has been better than most at being a patient and supportive place to further a great hobby and I see no reason why we shouldn't be the benchmark in how to do it right.</p>\n<p>Tagging your cool AI made thing shouldn't illicit comments of UGGGHHHH SLOP. It should encourage those who can see the value in what has been made but who knows the pitfalls of incorrect code to offer help and guidance in order to continue to make a cool personal weekend project a cool COMMUNITY project.</p>\n<p>I realise this was a long post but I hope you'll consider my suggestions.</p>",
+            "date_published": "2026-09-17T14:05:22+00:00",
+            "authors": [
+                {
+                    "name": "gtwizzy8",
+                    "url": "https://www.reddit.com/user/gtwizzy8"
+                }
+            ]
+        },
+        {
             "id": "1wh0p83",
             "url": "/r/homeassistant/comments/1wh0p83/just_heard_about_echomuse_pretty_excited/",
             "external_url": "https://i.redd.it/cgdkxu8xsoph1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Short_Ad5978",
                     "url": "https://www.reddit.com/user/Short_Ad5978"
-                }
-            ]
-        },
-        {
-            "id": "1jgv06o",
-            "url": "/r/homeassistant/comments/1jgv06o/literally_happened_today/",
-            "external_url": "https://i.redd.it/vtqt7n0xp4qe1.jpeg",
-            "title": "Literally happened today",
-            "content_html": "<p>And now i started replacing some buttons with badges, changed theme 4 times and are looking for ideas for fresh room cards.</p><div><br></div><img src=\"https://i.redd.it/vtqt7n0xp4qe1.jpeg\" />",
-            "date_published": "2025-03-21T23:41:24+00:00",
-            "authors": [
-                {
-                    "name": "MilkyGoat22",
-                    "url": "https://www.reddit.com/user/MilkyGoat22"
                 }
             ]
         }
