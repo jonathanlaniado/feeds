@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg",
     "items": [
         {
+            "id": "1wk1y9n",
+            "url": "/r/macapps/comments/1wk1y9n/setapp_has_been_completely_enshittified/",
+            "external_url": "https://i.redd.it/4uw7beyjbcqh1.png",
+            "title": "Setapp has been Completely Enshittified",
+            "content_html": "<p>For anyone not familiar with the term, link to wikipedia - <a href=\"https://en.wikipedia.org/wiki/Enshittification\">enshittification</a>.</p>\n<p>I used to happily pay my $15 a month. Even if the value was dubious, it was fun to have access to thousands of apps, some genuinely useful, on a subscription-only basis.</p>\n<p>Now the product is also <strong>filled</strong> with paid apps. That would be fine, if only they gave a way for users to filter them out. But of course they resorted to dark design patterns to purposely mix the two everywhere and make then look as similar as possible.</p>\n<p>Now anytime a user wants to do what they pay $15 a month for, they have to sift through a combination of apps included with the subscription and separate paid apps.</p>\n<p><strong>EDIT:</strong> a few people have mentioned there is a filter option. Thats true, but only if you want a page of thousands of apps. So that's a purposely laughable option.</p><div><br></div><img src=\"https://i.redd.it/4uw7beyjbcqh1.png\" />",
+            "date_published": "2026-09-18T20:46:44+00:00",
+            "authors": [
+                {
+                    "name": "Responsible-Slide-26",
+                    "url": "https://www.reddit.com/user/Responsible-Slide-26"
+                }
+            ]
+        },
+        {
             "id": "1w4fivw",
             "url": "/r/macapps/comments/1w4fivw/cleanshot_just_got_a_big_update_new_video_editor/",
             "external_url": "https://v.redd.it/qmsslwuqhxmh1",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Foreign_Eye4052",
                     "url": "https://www.reddit.com/user/Foreign_Eye4052"
-                }
-            ]
-        },
-        {
-            "id": "1kmihf5",
-            "url": "/r/macapps/comments/1kmihf5/i_built_an_app_that_transforms_any_content_with/",
-            "external_url": "https://v.redd.it/114ndil8mr0f1",
-            "title": "I built an app that transforms any content with GPU shaders in real-time",
-            "content_html": "<p>I'm excited to share <strong>Yume</strong>, a macOS app I've been working on that lets you apply GPU shaders to virtually anything on your screen:</p>\n<h1>What it does:</h1>\n<ul>\n<li>Transform videos, camera feeds, and even other apps in real-time</li>\n<li>Apply 2000+ RetroArch shader presets (CRT simulation, upscaling, VHS effects, etc.)</li>\n<li>Use \"glass mode\" as a floating overlay on your desktop</li>\n<li>Clone input from app windows, media files, or external cameras</li>\n</ul>\n<h1>Some cool use cases:</h1>\n<ul>\n<li>Make your Zoom calls look like they're coming from a 90s VHS tape</li>\n<li>Play modern games with authentic retro CRT scanlines</li>\n<li>Add professional-grade visual effects to your streams</li>\n<li>Create unique visual aesthetics for creative projects</li>\n</ul>\n<p>Everything happens in real-time with minimal performance impact. It's designed to be both powerful for technical users but accessible enough for anyone to create <a href=\"https://customer-79ujtta5lvd442do.cloudflarestream.com/285cbbc90a3b257779841520ad739214/watch\">amazing visuals</a> quickly.</p>\n<h1>Roadmap &amp; Feedback</h1>\n<p>I have some <a href=\"https://yume.sh/roadmap/\">big features planned</a>, but I'd love to hear what YOU would want to see. Early adopters from this community will help shape where Yume goes next!</p>\n<p><strong>Looking to try it?</strong> Download it here: <a href=\"https://yume.sh\">yume.sh</a></p>\n<p><strong>Want a chance at a free lifetime key?</strong> Just upvote and share your thoughts in the comments!</p>\n<p>Let me know what you think or if you have any questions!</p>",
-            "date_published": "2025-05-14T15:45:10+00:00",
-            "authors": [
-                {
-                    "name": "AndrewMD5",
-                    "url": "https://www.reddit.com/user/AndrewMD5"
                 }
             ]
         }
