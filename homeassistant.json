@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1wjssyd",
+            "url": "/r/homeassistant/comments/1wjssyd/i_built_a_hardwired_smart_lock_because_i_hate/",
+            "external_url": "https://www.reddit.com/gallery/1wjssyd",
+            "title": "I built a hardwired smart lock because i hate batteries",
+            "content_html": "<p>I really hate changing batteries. Be it once a month or once a year, on principle i avoid them at great lengths. Needless to say, the state of residential smart lock technology leaves me gravely disappointed.</p>\n<p>So i built my own hardwired smart lock. At its core is a commercial 24V solenoid mortise lock, used in office buildings and such. I connect this to an ESP32 dev board running ESPHome.</p>\n<p>This model of lock didn't have an open/closed sensor built in, so i modified it with a limit switch to detect the latch state. This isn't _quite_ enough to determine open/closed, but it can detect \"handle turned\" which suits my needs. </p>\n<p>The dev board is an Olimex ESP32-PoE2. It's supplied with Power-over-Ethernet, and then steps down the voltage to 24V, 5v, and 3v3. I like it for higher power projects like these because it can supply up to 25W all in one package. I made a small extension board to interface with the door. The software is ESPHome, which exposes the door switch and latch sensor as native Home Assistant components.</p>\n<p>The mortise lock requires more space than a conventional cylinder latch, so there was much drilling and chiseling into the door. For ... reasons... I ended up doing this 4 times on as many doors, although i only need 2 on my house. Fortunately my zeal against batteries gives me strength in difficult times.</p>\n<p>On the hinge side of the door is a \"Power Transfer Device\" (industry term) which basically wraps the cable in a spring and stretches slightly when opening the door. I looked at power transfer hinges, which are really slick, but i like this solution because it's more flexible (pun intended), i can choose my hinges and cable.</p>\n<p>I don't know if others are brave or foolish enough to do this. But if you have any questions I'm happy to share my experiences.</p>",
+            "date_published": "2026-09-18T15:08:48+00:00",
+            "authors": [
+                {
+                    "name": "narsqrd",
+                    "url": "https://www.reddit.com/user/narsqrd"
+                }
+            ]
+        },
+        {
             "id": "1wiuyhm",
             "url": "/r/homeassistant/comments/1wiuyhm/mods_can_we_please_implement_a_mandatory_rule_or/",
             "external_url": "https://www.reddit.com/r/homeassistant/comments/1wiuyhm/mods_can_we_please_implement_a_mandatory_rule_or/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "GMScreech",
                     "url": "https://www.reddit.com/user/GMScreech"
-                }
-            ]
-        },
-        {
-            "id": "1ji8qnk",
-            "url": "/r/homeassistant/comments/1ji8qnk/calendar_card_pro_for_home_assistant_v200_released/",
-            "external_url": "https://www.reddit.com/gallery/1ji8qnk",
-            "title": "Calendar Card Pro for Home Assistant - v2.0.0 Released",
-            "content_html": "",
-            "date_published": "2025-03-23T20:22:31+00:00",
-            "authors": [
-                {
-                    "name": "Short_Ad5978",
-                    "url": "https://www.reddit.com/user/Short_Ad5978"
                 }
             ]
         }
