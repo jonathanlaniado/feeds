@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1wlpaza",
+            "url": "/r/MacOSBeta/comments/1wlpaza/created_a_6k_macos_mono_dynamic_wallpaper/",
+            "external_url": "https://www.reddit.com/gallery/1wlpaza",
+            "title": "Created a 6K macOS Mono Dynamic Wallpaper",
+            "content_html": "<p>I made a custom 6K macOS Mono wallpaper that dynamically shifts between light and dark modes based on the time of day! Reddit doesn't support .heic uploads, so I've dropped a Google Drive link below for anyone who wants to try it out.</p>\n<p>macOS Mono is inspired on the Lake Mono in California btw\ud83d\ude04</p>\n<p><a href=\"https://drive.google.com/drive/folders/1Sbvvvc0sLlwmht1MSwbqvjOBBTkFUuXJ?usp=sharing\">https://drive.google.com/drive/folders/1Sbvvvc0sLlwmht1MSwbqvjOBBTkFUuXJ?usp=sharing</a></p>",
+            "date_published": "2026-09-20T18:49:38+00:00",
+            "authors": [
+                {
+                    "name": "Ok_Hornet_6689",
+                    "url": "https://www.reddit.com/user/Ok_Hornet_6689"
+                }
+            ]
+        },
+        {
             "id": "1wkrf84",
             "url": "/r/MacOSBeta/comments/1wkrf84/apple_music_to_get_album_release_countdowns_in/",
             "external_url": "https://i.redd.it/327vfe2tciqh1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Leviathan_Dev",
                     "url": "https://www.reddit.com/user/Leviathan_Dev"
-                }
-            ]
-        },
-        {
-            "id": "1u0jd4t",
-            "url": "/r/MacOSBeta/comments/1u0jd4t/the_gloves_return_for_macos_27_golden_gate/",
-            "external_url": "https://i.redd.it/rsoxe42d946h1.jpeg",
-            "title": "The gloves return for MacOS 27 Golden Gate",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/rsoxe42d946h1.jpeg\" />",
-            "date_published": "2026-06-08T20:12:45+00:00",
-            "authors": [
-                {
-                    "name": "rhyslikescake",
-                    "url": "https://www.reddit.com/user/rhyslikescake"
                 }
             ]
         }
