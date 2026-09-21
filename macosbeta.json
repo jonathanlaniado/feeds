@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1wmmvle",
+            "url": "/r/MacOSBeta/comments/1wmmvle/272_beta_2_new_volume_and_brightness_popups/",
+            "external_url": "https://www.reddit.com/gallery/1wmmvle",
+            "title": "27.2 Beta 2: new Volume and Brightness pop-ups",
+            "content_html": "<p>What do you think? I guess the old ones were better...</p>",
+            "date_published": "2026-09-21T19:32:32+00:00",
+            "authors": [
+                {
+                    "name": "JustDev10",
+                    "url": "https://www.reddit.com/user/JustDev10"
+                }
+            ]
+        },
+        {
             "id": "1wlpaza",
             "url": "/r/MacOSBeta/comments/1wlpaza/created_a_6k_macos_mono_dynamic_wallpaper/",
             "external_url": "https://www.reddit.com/gallery/1wlpaza",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "EffectiveDaikon1457",
                     "url": "https://www.reddit.com/user/EffectiveDaikon1457"
-                }
-            ]
-        },
-        {
-            "id": "1u0u4z3",
-            "url": "/r/MacOSBeta/comments/1u0u4z3/macos_27_db1_new_feature_the_wifi_connectivity/",
-            "external_url": "https://v.redd.it/4g7z1vhgj66h1",
-            "title": "[macOS 27 DB1] New Feature: the WiFi connectivity icon in menu bar now adapts to show Ethernet!",
-            "content_html": "",
-            "date_published": "2026-06-09T03:52:54+00:00",
-            "authors": [
-                {
-                    "name": "Leviathan_Dev",
-                    "url": "https://www.reddit.com/user/Leviathan_Dev"
                 }
             ]
         }
