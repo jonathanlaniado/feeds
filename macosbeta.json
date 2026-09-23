@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1woj5a9",
+            "url": "/r/MacOSBeta/comments/1woj5a9/volumebrightness_hud/",
+            "external_url": "https://www.reddit.com/gallery/1woj5a9",
+            "title": "Volume/brightness HUD",
+            "content_html": "<p>Does anyone else feel like the new small rectangular steps don't look quite right within such an otherwise aggressively rounded pill shaped pop-up. I think something like this might look better.</p>\n<p>(I personally very much prefer the old square Seqouia pop-ups, but if it has to be like this I think circles would be nicer)</p>",
+            "date_published": "2026-09-23T21:41:19+00:00",
+            "authors": [
+                {
+                    "name": "Foreign-Amoeba7745",
+                    "url": "https://www.reddit.com/user/Foreign-Amoeba7745"
+                }
+            ]
+        },
+        {
             "id": "1wmmvle",
             "url": "/r/MacOSBeta/comments/1wmmvle/272_beta_2_new_volume_and_brightness_popups/",
             "external_url": "https://www.reddit.com/gallery/1wmmvle",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "divensi",
                     "url": "https://www.reddit.com/user/divensi"
-                }
-            ]
-        },
-        {
-            "id": "1u0zk65",
-            "url": "/r/MacOSBeta/comments/1u0zk65/done_installing_macos_golden_gate_beta/",
-            "external_url": "https://i.redd.it/o6rzp0ul186h1.png",
-            "title": "Done installing MacOS Golden Gate Beta",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/o6rzp0ul186h1.png\" />",
-            "date_published": "2026-06-09T08:56:54+00:00",
-            "authors": [
-                {
-                    "name": "EffectiveDaikon1457",
-                    "url": "https://www.reddit.com/user/EffectiveDaikon1457"
                 }
             ]
         }
