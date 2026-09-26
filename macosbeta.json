@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1wqqyc3",
+            "url": "/r/MacOSBeta/comments/1wqqyc3/well_where_is_the_intelligence/",
+            "external_url": "https://i.redd.it/vgztrxvkcvrh1.png",
+            "title": "Well, where is the intelligence?",
+            "content_html": "<p>This is from the screenshot ask siri feature</p><div><br></div><img src=\"https://i.redd.it/vgztrxvkcvrh1.png\" />",
+            "date_published": "2026-09-26T13:45:50+00:00",
+            "authors": [
+                {
+                    "name": "Initial-Citron7573",
+                    "url": "https://www.reddit.com/user/Initial-Citron7573"
+                }
+            ]
+        },
+        {
             "id": "1woj5a9",
             "url": "/r/MacOSBeta/comments/1woj5a9/volumebrightness_hud/",
             "external_url": "https://www.reddit.com/gallery/1woj5a9",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "0xCUBE",
                     "url": "https://www.reddit.com/user/0xCUBE"
-                }
-            ]
-        },
-        {
-            "id": "1u15hku",
-            "url": "/r/MacOSBeta/comments/1u15hku/macos_27_db1_macos_has_full_touchscreen_support/",
-            "external_url": "https://v.redd.it/4a1qww4jh96h1",
-            "title": "[macOS 27 DB1] macOS has full touchscreen support on Sidecar now",
-            "content_html": "<p>I guess that touchscreen MacBook really is coming huh?</p>",
-            "date_published": "2026-06-09T13:47:23+00:00",
-            "authors": [
-                {
-                    "name": "divensi",
-                    "url": "https://www.reddit.com/user/divensi"
                 }
             ]
         }
