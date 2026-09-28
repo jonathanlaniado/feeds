@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1wssbt3",
+            "url": "/r/homeassistant/comments/1wssbt3/does_anyone_know_the_hex_codes_for_the_batman_dvd/",
+            "external_url": "https://i.redd.it/lzwzz9av2csh1.jpeg",
+            "title": "Does anyone know the hex codes for the Batman DVD Player? I don't have the remote",
+            "content_html": "<p>So I have the Batman DVD player, manufactured by \"Kids Station Toys\". It's using some generic Chinese board I assume, but I've been brute forcing IR signals for DAYS with the open source IR Blaster Remote with no luck whatsoever.</p>\n<p>If anyone has the signal codes, or long shot, if anyone has this remote and can clone it, let me know!</p><div><br></div><img src=\"https://i.redd.it/lzwzz9av2csh1.jpeg\" />",
+            "date_published": "2026-09-28T22:01:14+00:00",
+            "authors": [
+                {
+                    "name": "Foreskin_Paladin",
+                    "url": "https://www.reddit.com/user/Foreskin_Paladin"
+                }
+            ]
+        },
+        {
             "id": "1wn3r79",
             "url": "/r/homeassistant/comments/1wn3r79/homeassistant_30_years_ago/",
             "external_url": "https://www.reddit.com/gallery/1wn3r79",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "Short_Ad5978",
                     "url": "https://www.reddit.com/user/Short_Ad5978"
-                }
-            ]
-        },
-        {
-            "id": "1jkyak0",
-            "url": "/r/homeassistant/comments/1jkyak0/i_dont_know_what_to_say/",
-            "external_url": "https://i.redd.it/kfks6lann6re1.jpeg",
-            "title": "I don't know what to say",
-            "content_html": "<p>PS: I get the result I wanted at the end. I just found that very funny and wanted to share a laugh with everyone</p><div><br></div><img src=\"https://i.redd.it/kfks6lann6re1.jpeg\" />",
-            "date_published": "2025-03-27T07:16:22+00:00",
-            "authors": [
-                {
-                    "name": "ElementZoom",
-                    "url": "https://www.reddit.com/user/ElementZoom"
                 }
             ]
         }
