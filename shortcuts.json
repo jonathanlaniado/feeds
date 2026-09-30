@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1wuh0s3",
+            "url": "/r/shortcuts/comments/1wuh0s3/my_uncle_who_has_never_used_a_smartphone_or/",
+            "external_url": "https://www.reddit.com/gallery/1wuh0s3",
+            "title": "My uncle, who has never used a smartphone or computer, is newly disabled. I loaded up an iPad mini with music and movies for him and tried to make it as simple as possible. Any suggestions to improve the experience?",
+            "content_html": "<p>My 73 year old uncle just suffered a bad fall after getting his hip replaced not too long ago. He\u2019ll likely need a walker or cane for the rest of his life. </p>\n<p>For years, his only source of music/news has been his radio/CD player, which is giving him issues playing CDs. </p>\n<p>He also got his first cell phone a few years ago. In my view, if he can navigate a dumb/flip phone, he can handle this. Also, getting him to use technology will only get harder as he gets older, so this feels like a \u201cnow or never\u201d opportunity to make his life a little easier moving forward. </p>\n<p>Given his lack of experience with technology, I\u2019m unsure that he\u2019ll even accept this, but I wanted to do what I can to make his life a little easier. He has a girlfriend who <em>is</em> better versed in technology who is gonna help him out with it. She thinks he may be receptive to it and she\u2019ll try to help out with it. </p>\n<p>Anyway\u2026 I tried to make the experience as simple as possible:</p>\n<p>- Designed to be completely offline. All music and movies are DRM-free and won\u2019t rely on a connection to the internet or an Apple ID </p>\n<p>- Beats Pill bluetooth speaker (Kim Kardashian edition). Pairs automatically on startup. I printed out labels so he can better read the controls</p>\n<p>- Automations every 4 hours to turn bluetooth on, because old people tend to find a way to do what we try to make impossible for them</p>\n<p>- I don\u2019t want to try to bother teaching him Control Center, so I put media controls on the Home Screen as Shortcut widgets. </p>\n<p>- Music and Apple TV set up as separate Shortcut icons and widgets \u2014 one of each in the dock and on the first page of icons. The actual apps are hidden in a folder so it\u2019s never accidentally deleted. </p>\n<p>\u2014 While offline, the Apple TV app goes straight to local media, which is perfect and take him straight to movies. I couldn\u2019t find a way to play a specific item via Shortcuts unfortunately. </p>\n<p>- \u201cChoose from list\u2026\u201d shortcuts, which allows him to shuffle all songs by an artist, or shuffle pre-made \u201cBest of\u2026\u201d playlists</p>\n<p>- Calendar widget with Jewish holidays and birthdays for added contacts</p>\n<p>- Shut Down Shortcut widget so he doesn\u2019t need to deal with the power button except to turn it on </p>\n<p>- Battery widget so he can easily see the status of his battery and speaker </p>\n<p>- Larger text size systemwide, though this can get kind of cramped on the Mini</p>\n<p>I\u2019m wondering if anybody has other suggestions, or if I\u2019m missing anything obvious. </p>",
+            "date_published": "2026-09-30T21:13:59+00:00",
+            "authors": [
+                {
+                    "name": "EqualTelephone606",
+                    "url": "https://www.reddit.com/user/EqualTelephone606"
+                }
+            ]
+        },
+        {
             "id": "1wbvygl",
             "url": "/r/shortcuts/comments/1wbvygl/no_action_button_on_the_iphone_duo/",
             "external_url": "https://i.redd.it/iaiceewcsjoh1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "SomeOnlineFellow",
                     "url": "https://www.reddit.com/user/SomeOnlineFellow"
-                }
-            ]
-        },
-        {
-            "id": "1cslpz0",
-            "url": "/r/shortcuts/comments/1cslpz0/later_this_year_as_an_accessibility_feature_we/",
-            "external_url": "https://i.redd.it/4gu27pr7ll0d1.jpeg",
-            "title": "Later this year as an Accessibility feature, we should be able to launch shortcuts by voice without the need of Siri -MacStories",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1cslpz0/later_this_year_as_an_accessibility_feature_we/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1cslpz0/later_this_year_as_an_accessibility_feature_we/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/4gu27pr7ll0d1.jpeg\" />",
-            "date_published": "2024-05-15T14:09:00+00:00",
-            "authors": [
-                {
-                    "name": "iBanks3",
-                    "url": "https://www.reddit.com/user/iBanks3"
                 }
             ]
         }
