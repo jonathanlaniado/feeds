@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1wxlvdj",
+            "url": "/r/homeassistant/comments/1wxlvdj/hacs_is_becoming_a_builtin_marketplace_in_home/",
+            "external_url": "https://www.reddit.com/r/homeassistant/comments/1wxlvdj/hacs_is_becoming_a_builtin_marketplace_in_home/",
+            "title": "HACS is becoming a built-in Marketplace in Home Assistant Core (targeting 2026.11)",
+            "content_html": "<p>Per MatterAlpha, the HACS code has been merged into the dev branches and docs point to Core 2026.11 as the intended release, where it'll live as a built-in component called Marketplace.</p>\n<p>Worth knowing: everything listed there stays community-maintained \u2014 HA doesn't test or audit any of it, and installing one takes a warning first.</p>\n<p>Article: https://www.matteralpha.com/news/home-assistant-embraces-hacs-into-core-as-the-marketplace</p>",
+            "date_published": "2026-10-04T17:51:24+00:00",
+            "authors": [
+                {
+                    "name": "MadCybertist",
+                    "url": "https://www.reddit.com/user/MadCybertist"
+                }
+            ]
+        },
+        {
             "id": "1wv5dg5",
             "url": "/r/homeassistant/comments/1wv5dg5/this_sub_needs_a_look_at_my_dashboard_weekly/",
             "external_url": "https://www.reddit.com/r/homeassistant/comments/1wv5dg5/this_sub_needs_a_look_at_my_dashboard_weekly/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "iamtherufus",
                     "url": "https://www.reddit.com/user/iamtherufus"
-                }
-            ]
-        },
-        {
-            "id": "1jmhj7p",
-            "url": "/r/homeassistant/comments/1jmhj7p/well_that_escalated_quickly/",
-            "external_url": "https://i.redd.it/xslagsrb6lre1.jpeg",
-            "title": "Well that escalated quickly\u2026",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/xslagsrb6lre1.jpeg\" />",
-            "date_published": "2025-03-29T08:06:02+00:00",
-            "authors": [
-                {
-                    "name": "abird3132",
-                    "url": "https://www.reddit.com/user/abird3132"
                 }
             ]
         }
