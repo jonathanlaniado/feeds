@@ -8,6 +8,20 @@
     "favicon": "https://b.thumbs.redditmedia.com/k7fHE51fuhbYJRT2e9s1rXIp2ZtA7ks-cNFvQuNbfcE.png",
     "items": [
         {
+            "id": "1wx5hlp",
+            "url": "/r/InternetIsBeautiful/comments/1wx5hlp/a_live_zoo_of_the_bots_and_crawlers_visiting_one/",
+            "external_url": "https://crawlerzoo.com",
+            "title": "A live zoo of the bots and crawlers visiting one website, with a trap for the ones that ignore robots.txt",
+            "content_html": "",
+            "date_published": "2026-10-04T03:23:56+00:00",
+            "authors": [
+                {
+                    "name": "Time_Instruction_955",
+                    "url": "https://www.reddit.com/user/Time_Instruction_955"
+                }
+            ]
+        },
+        {
             "id": "1ucgp5v",
             "url": "/r/InternetIsBeautiful/comments/1ucgp5v/i_built_a_website_that_turns_elon_musks_wealth/",
             "external_url": "https://whatselonworth.com/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "coinagepills",
                     "url": "https://www.reddit.com/user/coinagepills"
-                }
-            ]
-        },
-        {
-            "id": "y0fcjh",
-            "url": "/r/InternetIsBeautiful/comments/y0fcjh/inside_elon_musks_messages_a_website_lets_you/",
-            "external_url": "https://muskmessages.com/",
-            "title": "Inside Elon Musk's Messages - a website lets you read the messages submitted in his latest court filing",
-            "content_html": "<caption>Open in: <a href='https://muskmessages.com/'>muskmessages.com</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/y0fcjh/inside_elon_musks_messages_a_website_lets_you/'>Reddit</a> | <a href='apollo://reddit.com/r/InternetIsBeautiful/comments/y0fcjh/inside_elon_musks_messages_a_website_lets_you/'>Apollo</a></caption>",
-            "date_published": "2022-10-10T13:51:52+00:00",
-            "authors": [
-                {
-                    "name": "selloutco",
-                    "url": "https://www.reddit.com/user/selloutco"
                 }
             ]
         }
