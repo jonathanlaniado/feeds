@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1wyhauv",
+            "url": "/r/MacOSBeta/comments/1wyhauv/macos_272_golden_gate_beta_3_now_available/",
+            "external_url": "https://9to5mac.com/2026/10/05/macos-27-2-golden-gate-beta-3-now-available-heres-what-to-expect/",
+            "title": "macOS 27.2 Golden Gate beta 3 now available",
+            "content_html": "",
+            "date_published": "2026-10-05T19:09:07+00:00",
+            "authors": [
+                {
+                    "name": "Significant-Earry",
+                    "url": "https://www.reddit.com/user/Significant-Earry"
+                }
+            ]
+        },
+        {
             "id": "1wv8zzm",
             "url": "/r/MacOSBeta/comments/1wv8zzm/updated_icons_in_macos_272/",
             "external_url": "https://github.com/zagnut531/macOS-27-Icons/blob/main/27.2/Automator.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "beyondloveee",
                     "url": "https://www.reddit.com/user/beyondloveee"
-                }
-            ]
-        },
-        {
-            "id": "1u17zb6",
-            "url": "/r/MacOSBeta/comments/1u17zb6/macos_27_db1_many_default_apps_have_reduced_in/",
-            "external_url": "https://www.reddit.com/gallery/1u17zb6",
-            "title": "[macOS 27 DB1] Many default apps have reduced in size due to the removal of their Intel binaries",
-            "content_html": "",
-            "date_published": "2026-06-09T15:17:46+00:00",
-            "authors": [
-                {
-                    "name": "RealHomieJohn",
-                    "url": "https://www.reddit.com/user/RealHomieJohn"
                 }
             ]
         }
