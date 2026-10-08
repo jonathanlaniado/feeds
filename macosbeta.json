@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1x1034z",
+            "url": "/r/MacOSBeta/comments/1x1034z/drag_selection_now_has_rounded_corners/",
+            "external_url": "https://v.redd.it/5qjucfbgnauh1",
+            "title": "Drag selection now has rounded corners",
+            "content_html": "<p>New in 27.2 beta 3. Oh, and a new Keychain Access icon.</p>",
+            "date_published": "2026-10-08T19:21:36+00:00",
+            "authors": [
+                {
+                    "name": "Weird_Decision7090",
+                    "url": "https://www.reddit.com/user/Weird_Decision7090"
+                }
+            ]
+        },
+        {
             "id": "1wyhauv",
             "url": "/r/MacOSBeta/comments/1wyhauv/macos_272_golden_gate_beta_3_now_available/",
             "external_url": "https://9to5mac.com/2026/10/05/macos-27-2-golden-gate-beta-3-now-available-heres-what-to-expect/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "ax1xxm",
                     "url": "https://www.reddit.com/user/ax1xxm"
-                }
-            ]
-        },
-        {
-            "id": "1u1aqs8",
-            "url": "/r/MacOSBeta/comments/1u1aqs8/macos_27_now_automatically_scales_properly_for/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1u1aqs8/macos_27_now_automatically_scales_properly_for/",
-            "title": "MacOS 27 now automatically scales properly for HiDPI resolutions on external monitors without the need for BetterDisplay",
-            "content_html": "<p><a href=\"https://preview.redd.it/x7ypyl1qea6h1.png?width=2198&amp;format=png&amp;auto=webp&amp;s=2d19d9f21d9d7d32e33df53c6ae1c71a8e98507f\">The monitor I'm using is a 4k panel</a></p>",
-            "date_published": "2026-06-09T16:53:47+00:00",
-            "authors": [
-                {
-                    "name": "beyondloveee",
-                    "url": "https://www.reddit.com/user/beyondloveee"
                 }
             ]
         }
