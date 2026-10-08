@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_32hch/styles/communityIcon_b2t5inv46z331.png",
     "items": [
         {
+            "id": "1x0hapb",
+            "url": "/r/selfhosted/comments/1x0hapb/plex_is_actively_making_its_own_product_worse/",
+            "external_url": "https://www.reddit.com/r/selfhosted/comments/1x0hapb/plex_is_actively_making_its_own_product_worse/",
+            "title": "Plex is actively making its own product worse. Removing Watch Together is just another example of enshittification.",
+            "content_html": "<p>I've been using Plex for years, and I'm getting increasingly frustrated with the direction this company is heading.</p>\n<p>Tonight, I went to use Watch Together, a feature my girlfriend and I use almost daily to watch shows when we're apart. It was working just minutes earlier, and suddenly it was gone from my Google TV.</p>\n<p>Apparently, Plex decided not to carry Watch Together over to its redesigned app. A perfectly functional feature that people actually use was simply discarded.</p>\n<p>This is textbook enshittification and arguably a form of shrinkflation. Plex continues raising prices while removing functionality. We're paying more and getting less.</p>\n<p>I run my own Plex server. I pay for the hardware, storage, electricity, bandwidth, and maintenance. Plex provides the software, yet somehow they keep finding ways to make that software less useful.</p>\n<p>And before anyone suggests downgrading the app, using a browser, or finding some third-party workaround, why should I have to? The feature already existed and worked perfectly fine.</p>\n<p>I'm tired of companies like Plex treating software updates as opportunities to redesign interfaces and remove functionality nobody asked them to remove.</p>\n<p>Watch Together genuinely matters to me because it's how my girlfriend and I spend time together when we're apart. Plex just eliminated a feature we relied on almost every day.</p>\n<p>At what point does Plex realize that continually removing features while increasing prices is driving away the very people who supported it in the first place?</p>\n<p>Jellyfin is now up and running. </p>\n<p>P.S. apparently posting anything remotely critical of Plex in a Plex subreddit gets downvoted until you are silenced. Some real shills in those subreddits. </p>",
+            "date_published": "2026-10-08T04:08:33+00:00",
+            "authors": [
+                {
+                    "name": "lenicalicious",
+                    "url": "https://www.reddit.com/user/lenicalicious"
+                }
+            ]
+        },
+        {
             "id": "1ww1ez7",
             "url": "/r/selfhosted/comments/1ww1ez7/funny_email_from_my_nextcloud/",
             "external_url": "https://i.redd.it/hyjpbhzrk3th1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "aytoz21",
                     "url": "https://www.reddit.com/user/aytoz21"
-                }
-            ]
-        },
-        {
-            "id": "1mgq2e4",
-            "url": "/r/selfhosted/comments/1mgq2e4/how_to_host_a_minecraft_server_thats_secure/",
-            "external_url": "https://www.reddit.com/r/selfhosted/comments/1mgq2e4/how_to_host_a_minecraft_server_thats_secure/",
-            "title": "How to host a Minecraft server that's secure enough not to worry my dad?",
-            "content_html": "<p>I've managed to convince my Dad to give me an old laptop to run a server on. I know how I'm going to do this (pterodactyl) but I need to make sure I cover my ass. The problem is my dad's always been the tech guy and when I told him I'd be running a Minecraft server for friends it started an entire lecture on security and port forwarding. My dad is weird with tech in the sense he knows what he's talking about but also not really? He's a bit like an old man who thinks the computers are mythical beings and I need something to reassure him that hackers aren't going to get into our home cameras from my minecraft server. Which is nuts coming from a man who has only one password.</p>\n<p>I was just going to stick a whitelist on it and call it a day. That's what most people I know have done. I don't really want to spend any money, that's the whole reason I'm hosting it myself. I have looked into VLANs and ehhhhhh I don't want to fuck with those but also I can't on my router from my ISP anyway. I'm a little unsure where to go next. I don't really see much risk personally. My dad is worried my friends will get hacked and they'll have our IP \ud83e\udd37.</p>",
-            "date_published": "2025-08-03T18:07:22+00:00",
-            "authors": [
-                {
-                    "name": "TheDevilishSaint",
-                    "url": "https://www.reddit.com/user/TheDevilishSaint"
                 }
             ]
         }
