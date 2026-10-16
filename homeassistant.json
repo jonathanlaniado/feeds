@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1x7quee",
+            "url": "/r/homeassistant/comments/1x7quee/hacs_is_becoming_part_of_home_assistant/",
+            "external_url": "https://github.com/hacs/integration/issues/5590#issue-5882129105",
+            "title": "HACS is becoming part of Home Assistant",
+            "content_html": "",
+            "date_published": "2026-10-16T20:18:27+00:00",
+            "authors": [
+                {
+                    "name": "Xath0n",
+                    "url": "https://www.reddit.com/user/Xath0n"
+                }
+            ]
+        },
+        {
             "id": "1wxlvdj",
             "url": "/r/homeassistant/comments/1wxlvdj/hacs_is_becoming_a_builtin_marketplace_in_home/",
             "external_url": "https://www.reddit.com/r/homeassistant/comments/1wxlvdj/hacs_is_becoming_a_builtin_marketplace_in_home/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "DiaDeLosMuebles",
                     "url": "https://www.reddit.com/user/DiaDeLosMuebles"
-                }
-            ]
-        },
-        {
-            "id": "1jqkr21",
-            "url": "/r/homeassistant/comments/1jqkr21/the_wife_approved_the_dashboard/",
-            "external_url": "https://www.reddit.com/gallery/1jqkr21",
-            "title": "The wife approved the dashboard",
-            "content_html": "<p>Been playing around with making a dashboard for the home and the wife approved it! Was quite fun to build and to be honest i was just playing around seeing how far i could push the UI and came up with this. </p>\n<p>It certainly wont be for everyone which is fine, we all have our own tastes hey! I like a clean 'ish' look so thats what i went with. In the end I only used 3 cards in total. The custom-layout card, custom-button card and a light slider card. Used quite a few variables to make building things a little quicker</p>\n<p>This was version 2 and condensed down to just one screen rather than sliding through menus like before.</p>\n<p>A quick screen grab for those interested<br />\n<a href=\"https://imgur.com/a/nfvbEQU\">https://imgur.com/a/nfvbEQU</a></p>",
-            "date_published": "2025-04-03T15:01:57+00:00",
-            "authors": [
-                {
-                    "name": "iamtherufus",
-                    "url": "https://www.reddit.com/user/iamtherufus"
                 }
             ]
         }
