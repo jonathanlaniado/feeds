@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1xcou62",
+            "url": "https://www.reddit.com/r/ArcBrowser/comments/1xcou62/makes_sense/",
+            "external_url": "https://i.redd.it/q5cqatq2z1xh1.png",
+            "title": "makes sense",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/q5cqatq2z1xh1.png\" />",
+            "date_published": "2026-10-22T17:23:02+00:00",
+            "authors": [
+                {
+                    "name": "tomemyxwomen",
+                    "url": "https://www.reddit.com/user/tomemyxwomen"
+                }
+            ]
+        },
+        {
             "id": "1xcnpae",
             "url": "https://www.reddit.com/r/ArcBrowser/comments/1xcnpae/were_cooked/",
             "external_url": "https://i.redd.it/tmow6dbnr1xh1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "chrismessina",
                     "url": "https://www.reddit.com/user/chrismessina"
-                }
-            ]
-        },
-        {
-            "id": "1gwjwpc",
-            "url": "/r/ArcBrowser/comments/1gwjwpc/now_that_google_has_to_sell_chrome_tbc_be_like/",
-            "external_url": "https://i.redd.it/3ilzrvi7ba2e1.jpeg",
-            "title": "Now that Google has to sell Chrome. TBC be like...",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1gwjwpc/now_that_google_has_to_sell_chrome_tbc_be_like/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1gwjwpc/now_that_google_has_to_sell_chrome_tbc_be_like/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/3ilzrvi7ba2e1.jpeg\" />",
-            "date_published": "2024-11-21T16:51:42+00:00",
-            "authors": [
-                {
-                    "name": "mooritzvc",
-                    "url": "https://www.reddit.com/user/mooritzvc"
                 }
             ]
         }
