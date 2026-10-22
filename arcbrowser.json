@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1xcs8jk",
+            "url": "https://www.reddit.com/r/ArcBrowser/comments/1xcs8jk/half_of_this_subreddit_today/",
+            "external_url": "https://i.redd.it/w7lmj09dl2xh1.png",
+            "title": "Half of this subreddit today",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/w7lmj09dl2xh1.png\" />",
+            "date_published": "2026-10-22T19:28:06+00:00",
+            "authors": [
+                {
+                    "name": "StockOption",
+                    "url": "https://www.reddit.com/user/StockOption"
+                }
+            ]
+        },
+        {
             "id": "1xcrnrm",
             "url": "https://www.reddit.com/r/ArcBrowser/comments/1xcrnrm/dear_arc/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1xcrnrm/dear_arc/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "3resonance",
                     "url": "https://www.reddit.com/user/3resonance"
-                }
-            ]
-        },
-        {
-            "id": "1h21b0o",
-            "url": "/r/ArcBrowser/comments/1h21b0o/i_created_a_boost_that_automatically_adjusts/",
-            "external_url": "https://v.redd.it/ys2jot4kho3e1",
-            "title": "I created a boost that automatically adjusts Spotify’s interface to match Arc’s theme colors!",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1h21b0o/i_created_a_boost_that_automatically_adjusts/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1h21b0o/i_created_a_boost_that_automatically_adjusts/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-11-28T17:38:42+00:00",
-            "authors": [
-                {
-                    "name": "TheVampireQueen7",
-                    "url": "https://www.reddit.com/user/TheVampireQueen7"
                 }
             ]
         }
