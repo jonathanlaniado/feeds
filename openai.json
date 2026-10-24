@@ -1,12 +1,26 @@
 {
     "version": "https://jsonfeed.org/version/1.1",
     "title": "r/openai",
-    "description": "OpenAI is an AI research and deployment company. OpenAI's mission is to ensure that artificial general intelligence benefits all of humanity. We are an unofficial community. OpenAI makes ChatGPT, GPT-4, and DALL\u00b7E 3.",
+    "description": "OpenAI is an AI research and deployment company. OpenAI's mission is to ensure that artificial general intelligence benefits all of humanity. We are an unofficial community. OpenAI makes ChatGPT, GPT-4, and DALL·E 3.",
     "home_page_url": "https://reddit.com",
     "feed_url": "https://raw.githubusercontent.com/jonathanlaniado/feeds/master/openai.json",
     "icon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
+        {
+            "id": "1xedvu1",
+            "url": "https://www.reddit.com/r/OpenAI/comments/1xedvu1/holy_fucking_shit/",
+            "external_url": "https://i.redd.it/ohok2lp65gxh1.png",
+            "title": "holy fucking shit.",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/ohok2lp65gxh1.png\" />",
+            "date_published": "2026-10-24T17:02:06+00:00",
+            "authors": [
+                {
+                    "name": "Puzzleheaded-King584",
+                    "url": "https://www.reddit.com/user/Puzzleheaded-King584"
+                }
+            ]
+        },
         {
             "id": "1xbkoph",
             "url": "/r/OpenAI/comments/1xbkoph/exopenai_employee_accused_of_bugging_office_had/",
@@ -67,7 +81,7 @@
             "id": "1wxin4m",
             "url": "/r/OpenAI/comments/1wxin4m/chatgpt6_astra_plays_world_of_warcraft_blind_and/",
             "external_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/gpt-6-astra-plays-world-of-warcraft-blind-and-clears-the-orc-starting-zone-in-40-minutes-with-no-deaths-ai-agent-navigates-by-server-network-traffic-with-pulled-quest-data",
-            "title": "ChatGPT-6 Astra plays World of Warcraft 'blind' and clears the orc starting zone in 40 minutes with no deaths \u2014 AI agent navigates by parsing raw server network packets and SQL files",
+            "title": "ChatGPT-6 Astra plays World of Warcraft 'blind' and clears the orc starting zone in 40 minutes with no deaths — AI agent navigates by parsing raw server network packets and SQL files",
             "content_html": "",
             "date_published": "2026-10-04T15:37:47+00:00",
             "authors": [
@@ -81,7 +95,7 @@
             "id": "1wx0slz",
             "url": "/r/OpenAI/comments/1wx0slz/sam_altmans_sister_just_released_the_first_hour/",
             "external_url": "https://www.youtube.com/watch?v=akjrfwYPvy8",
-            "title": "Sam Altman\u2019s sister just released the first hour of her deposition against him",
+            "title": "Sam Altman’s sister just released the first hour of her deposition against him",
             "content_html": "",
             "date_published": "2026-10-03T23:17:04+00:00",
             "authors": [
@@ -208,7 +222,7 @@
             "url": "/r/OpenAI/comments/1vxnqaq/5hr_limit_is_back_for_plus_users_100_and_200_get/",
             "external_url": "https://i.redd.it/7n0k63vmqflh1.jpeg",
             "title": "5hr Limit is back for Plus users. $100 and $200 get a few more months.",
-            "content_html": "<p>Well looks like they didn\u2019t forget, 5hr limit is back. If it comes back for Pro users, I might have to look at just renting GPU time instead. </p><div><br></div><img src=\"https://i.redd.it/7n0k63vmqflh1.jpeg\" />",
+            "content_html": "<p>Well looks like they didn’t forget, 5hr limit is back. If it comes back for Pro users, I might have to look at just renting GPU time instead. </p><div><br></div><img src=\"https://i.redd.it/7n0k63vmqflh1.jpeg\" />",
             "date_published": "2026-08-25T02:50:49+00:00",
             "authors": [
                 {
@@ -320,7 +334,7 @@
             "url": "/r/OpenAI/comments/1uycwq1/i_used_56_sol_ultra_to_close_a_30year_open_gap_in/",
             "external_url": "https://www.reddit.com/r/OpenAI/comments/1uycwq1/i_used_56_sol_ultra_to_close_a_30year_open_gap_in/",
             "title": "I used 5.6 Sol Ultra to Close a 30-Year Open Gap in Mathematical Optimization Theory, following OpenAI's CDC Proof Prompt Methodology",
-            "content_html": "<p>TL;DR: In a single 148 min session, with a prompt modeled after the one OpenAI used to prove CDC, GPT 5.6 Sol Ultra supplied a proof that closed a complexity gap in convex optimization that has existed since 1996. The result was formally verified in Lean. Links to everything are at the bottom of this post.</p>\n<p>Note: I am the author of the preprint and Lean repository linked below. I have a PhD in applied mathematics and am a teaching prof in IEOR at UC Berkeley. The result has not yet been peer reviewed. I am happy to answer any questions or provide thoughts below. I've also given a slightly more <a href=\"https://www.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/\">technical summary</a> and thoughts over in r/math, for those interested.</p>\n<p>Following the recent announcement that GPT-5.6 Sol Ultra had produced a proof of the Cycle Double Cover Conjecture, I adapted the prompting methodology used in that project to a problem in convex optimization. After 148 minutes of uninterrupted work, GPT-5.6 Sol Pro produced the main argument for a lower bound that I had been unable to prove myself (and a lot of my past work has been proving complexity lower bounds in different settings). My prompt is about ten pages long and attached at the end of the preprint (see collection of links below), and was also designed together with 5.6 Sol. There is a lot baked into this prompt, on approaches to try and also on how exactly the model should proceed, but it's built exactly in the style of OpenAI's CDC prompt. With it, 5.6 Sol Pro <strong>solved the problem it in one shot</strong>. After checking things myself, I formally verified the proof in Lean, and it passed the formal verification checks (for those unfamiliar, Lean is a programming language in which one can formalize and computationally verify mathematical statements). Regarding the problem, this is not some obscure problem that no one has attempted to solve or that has been forgotten over the years. I've thought about this problem on and off for about a year, lots and lots of related work exists from top researchers, the equivalent problems in related settings have been solved for a long time (some as far back as 1979), and I've heard an expert in the area say \"we have no idea\" about how to prove this result at an optimization conference just last year.</p>\n<p>For mathematical and theoretical CS research, 5.6 Sol seems to be a huge improvement in its capabilities. We've seen OpenAI's proof on the CDC conjecture, and either I have been extremely lucky or the approach they used has serious potential to be successful on a lot of other open problems. I had tried using 5.4 and 5.5 on this problem after seeing folks like Ernest Ryu having success with them, but that went nowhere. I'll share <a href=\"https://chatgpt.com/share/6a592503-2d60-83ea-8f00-9ed96b331b16\">here</a> a chat for example, where I tried the approach that Sol 5.6 ended up using that worked in the end (excuse my shortness in my follow-ups there, I was trying to run deep dives on a couple different approaches in parallel, and was a bit frustrated against 5.5 at the time!).</p>\n<p>Links:</p>\n<p>An accessible account I wrote on Medium:</p>\n<p><a href=\"https://medium.com/@kerger.p/an-ai-assisted-breakthrough-in-convex-optimization-an-optimization-problem-dating-back-30-years-a-db5c631119de\">https://medium.com/@kerger.p/an-ai-assisted-breakthrough-in-convex-optimization-an-optimization-problem-dating-back-30-years-a-db5c631119de</a></p>\n<p>The preprint, Lean code, complete prompts, proof map, and build instructions are available here:</p>\n<p><a href=\"https://github.com/PhillipKerger/zero-order-bounds-lean-verification\">https://github.com/PhillipKerger/zero-order-bounds-lean-verification</a></p>\n<p>ArXiv preprint:\u00a0<a href=\"https://arxiv.org/pdf/2607.13335\">Closing the Oracle-Complexity Gap in Derivative-Free Convex Optimization: A Near-Quadratic Lower Bound from Exact Function Values</a></p>\n<p>The original uninterrupted 148-minute chat that produced the initial proof:</p>\n<p><a href=\"https://chatgpt.com/share/6a55aa50-b484-83ea-85c0-c7e7b4bda41c\">https://chatgpt.com/share/6a55aa50-b484-83ea-85c0-c7e7b4bda41c</a></p>\n<p>The later chat that led to the d\u207b\u00b9\u141f\u00b2 refinement on accuracy requirements:</p>\n<p><a href=\"https://chatgpt.com/share/6a55ad10-7644-83ea-859e-5483d2e0dff0\">https://chatgpt.com/share/6a55ad10-7644-83ea-859e-5483d2e0dff0</a></p>\n<p>OpenAI\u2019s CDC prompt, that I structured things after:</p>\n<p><a href=\"https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_prompt.pdf\">https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_prompt.pdf</a></p>",
+            "content_html": "<p>TL;DR: In a single 148 min session, with a prompt modeled after the one OpenAI used to prove CDC, GPT 5.6 Sol Ultra supplied a proof that closed a complexity gap in convex optimization that has existed since 1996. The result was formally verified in Lean. Links to everything are at the bottom of this post.</p>\n<p>Note: I am the author of the preprint and Lean repository linked below. I have a PhD in applied mathematics and am a teaching prof in IEOR at UC Berkeley. The result has not yet been peer reviewed. I am happy to answer any questions or provide thoughts below. I've also given a slightly more <a href=\"https://www.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/\">technical summary</a> and thoughts over in r/math, for those interested.</p>\n<p>Following the recent announcement that GPT-5.6 Sol Ultra had produced a proof of the Cycle Double Cover Conjecture, I adapted the prompting methodology used in that project to a problem in convex optimization. After 148 minutes of uninterrupted work, GPT-5.6 Sol Pro produced the main argument for a lower bound that I had been unable to prove myself (and a lot of my past work has been proving complexity lower bounds in different settings). My prompt is about ten pages long and attached at the end of the preprint (see collection of links below), and was also designed together with 5.6 Sol. There is a lot baked into this prompt, on approaches to try and also on how exactly the model should proceed, but it's built exactly in the style of OpenAI's CDC prompt. With it, 5.6 Sol Pro <strong>solved the problem it in one shot</strong>. After checking things myself, I formally verified the proof in Lean, and it passed the formal verification checks (for those unfamiliar, Lean is a programming language in which one can formalize and computationally verify mathematical statements). Regarding the problem, this is not some obscure problem that no one has attempted to solve or that has been forgotten over the years. I've thought about this problem on and off for about a year, lots and lots of related work exists from top researchers, the equivalent problems in related settings have been solved for a long time (some as far back as 1979), and I've heard an expert in the area say \"we have no idea\" about how to prove this result at an optimization conference just last year.</p>\n<p>For mathematical and theoretical CS research, 5.6 Sol seems to be a huge improvement in its capabilities. We've seen OpenAI's proof on the CDC conjecture, and either I have been extremely lucky or the approach they used has serious potential to be successful on a lot of other open problems. I had tried using 5.4 and 5.5 on this problem after seeing folks like Ernest Ryu having success with them, but that went nowhere. I'll share <a href=\"https://chatgpt.com/share/6a592503-2d60-83ea-8f00-9ed96b331b16\">here</a> a chat for example, where I tried the approach that Sol 5.6 ended up using that worked in the end (excuse my shortness in my follow-ups there, I was trying to run deep dives on a couple different approaches in parallel, and was a bit frustrated against 5.5 at the time!).</p>\n<p>Links:</p>\n<p>An accessible account I wrote on Medium:</p>\n<p><a href=\"https://medium.com/@kerger.p/an-ai-assisted-breakthrough-in-convex-optimization-an-optimization-problem-dating-back-30-years-a-db5c631119de\">https://medium.com/@kerger.p/an-ai-assisted-breakthrough-in-convex-optimization-an-optimization-problem-dating-back-30-years-a-db5c631119de</a></p>\n<p>The preprint, Lean code, complete prompts, proof map, and build instructions are available here:</p>\n<p><a href=\"https://github.com/PhillipKerger/zero-order-bounds-lean-verification\">https://github.com/PhillipKerger/zero-order-bounds-lean-verification</a></p>\n<p>ArXiv preprint: <a href=\"https://arxiv.org/pdf/2607.13335\">Closing the Oracle-Complexity Gap in Derivative-Free Convex Optimization: A Near-Quadratic Lower Bound from Exact Function Values</a></p>\n<p>The original uninterrupted 148-minute chat that produced the initial proof:</p>\n<p><a href=\"https://chatgpt.com/share/6a55aa50-b484-83ea-85c0-c7e7b4bda41c\">https://chatgpt.com/share/6a55aa50-b484-83ea-85c0-c7e7b4bda41c</a></p>\n<p>The later chat that led to the d⁻¹ᐟ² refinement on accuracy requirements:</p>\n<p><a href=\"https://chatgpt.com/share/6a55ad10-7644-83ea-859e-5483d2e0dff0\">https://chatgpt.com/share/6a55ad10-7644-83ea-859e-5483d2e0dff0</a></p>\n<p>OpenAI’s CDC prompt, that I structured things after:</p>\n<p><a href=\"https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_prompt.pdf\">https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_prompt.pdf</a></p>",
             "date_published": "2026-07-16T19:34:54+00:00",
             "authors": [
                 {
@@ -389,7 +403,7 @@
             "id": "1up6crk",
             "url": "/r/OpenAI/comments/1up6crk/i_hope_someone_from_openai_sees_this_post_to_fix/",
             "external_url": "https://i.redd.it/fem90fvgnnbh1.jpeg",
-            "title": "I hope someone from OpenAI sees this post to fix the writing style of chatGPT, because it\u2019s annoying.",
+            "title": "I hope someone from OpenAI sees this post to fix the writing style of chatGPT, because it’s annoying.",
             "content_html": "<div><br></div><img src=\"https://i.redd.it/fem90fvgnnbh1.jpeg\" />",
             "date_published": "2026-07-06T18:46:00+00:00",
             "authors": [
@@ -474,7 +488,7 @@
             "url": "/r/OpenAI/comments/1ubscy1/who_else_remembers_the_old_diffusion_days/",
             "external_url": "https://v.redd.it/s0immw3din8h1",
             "title": "Who else remembers the old \"diffusion\" days?",
-            "content_html": "<p>Found an old [2022] WarpFusion experiment, alongside this soundscape from \"Recono\u0254\u01dd\u042f\", my \"palindromic\" debut album, which turned 66 months old recently.</p>\n<p>PS: To celebrate, I just made it\u00a0<em>freely accessible</em>\u00a0on Bandcamp, the only place in which it is available:\u00a0<a href=\"https://uisato.bandcamp.com/\">https://uisato.bandcamp.com/</a></p>\n<p>Plus, many more experiments, on\u00a0<a href=\"https://www.instagram.com/uisato_/\">Instagram</a>,\u00a0<a href=\"https://www.youtube.com/@uisato_\">YouTube</a>, and\u00a0<a href=\"https://www.patreon.com/c/uisato\">Patreon</a>.</p>\n<p><em>I hope you enjoy it \u2665</em></p>",
+            "content_html": "<p>Found an old [2022] WarpFusion experiment, alongside this soundscape from \"ReconoɔǝЯ\", my \"palindromic\" debut album, which turned 66 months old recently.</p>\n<p>PS: To celebrate, I just made it <em>freely accessible</em> on Bandcamp, the only place in which it is available: <a href=\"https://uisato.bandcamp.com/\">https://uisato.bandcamp.com/</a></p>\n<p>Plus, many more experiments, on <a href=\"https://www.instagram.com/uisato_/\">Instagram</a>, <a href=\"https://www.youtube.com/@uisato_\">YouTube</a>, and <a href=\"https://www.patreon.com/c/uisato\">Patreon</a>.</p>\n<p><em>I hope you enjoy it ♥</em></p>",
             "date_published": "2026-06-21T15:05:51+00:00",
             "authors": [
                 {
@@ -502,7 +516,7 @@
             "url": "/r/OpenAI/comments/1tli0pr/talk_ft_sara_silkin_multicharacter_ai_motion/",
             "external_url": "https://v.redd.it/s4860y5idw2h1",
             "title": "\"Talk\" [ft. Sara Silkin] - Multi-Character AI Motion Capture Experiment",
-            "content_html": "<p>In collaboration with the amazingly talented Jibaro's choreographer. More information on\u00a0<strong>exactly</strong>\u00a0how I made this, through the comment section.</p>",
+            "content_html": "<p>In collaboration with the amazingly talented Jibaro's choreographer. More information on <strong>exactly</strong> how I made this, through the comment section.</p>",
             "date_published": "2026-05-23T14:29:32+00:00",
             "authors": [
                 {
@@ -515,7 +529,7 @@
             "id": "1t8xzv7",
             "url": "/r/OpenAI/comments/1t8xzv7/chatgpt_casually_making_the_darkest_jokes/",
             "external_url": "https://i.redd.it/ig8u42ymx80h1.jpeg",
-            "title": "ChatGPT casually making the darkest jokes \ud83d\ude2d",
+            "title": "ChatGPT casually making the darkest jokes 😭",
             "content_html": "<div><br></div><img src=\"https://i.redd.it/ig8u42ymx80h1.jpeg\" />",
             "date_published": "2026-05-10T05:30:49+00:00",
             "authors": [
@@ -544,7 +558,7 @@
             "url": "/r/OpenAI/comments/1s3i9nd/rip_sora_here_are_the_best_alternative_models_in/",
             "external_url": "https://v.redd.it/opb2fpe1c8rg1",
             "title": "RIP Sora, here are the best alternative models in 2026",
-            "content_html": "<p>Sora is gone, and free AI models. Will always miss you Sora. It's annoying that I have to replace Sora with other models. I've tested the major video models on r/AtlasCloudAI and and here's my conclusion FYI.</p>\n<p><strong>Kling3.0</strong></p>\n<p>the strongest replacement right now. best overall balance, strongest ecosystem. Text-to-video and image-to-video both work. This is what I'd point most developers toward first.<br />\n0.153/s</p>\n<p><strong>Seedance2.0</strong> </p>\n<p>beats all the models, but its api is not available yet.   </p>\n<p><strong>Vidu Q3 pro</strong> </p>\n<p>next-gen cinematic quality, still building out API stability. Less established than Kling but showing promise. <br />\n0.06/s  </p>\n<p><strong>Wan 2.6</strong></p>\n<p>solid prompt following, less censorship<br />\n0.018/s</p>\n<p><strong>Veo 3.1</strong><br />\nmore mature product, and has actually dealt with IP concerns more explicitly. More expensive, but more stable.</p>\n<p>0.09/s</p>\n<p>I chose Kling, for its balance of quality, price, and API accessibility. It's the most practical Sora alternative for developers and businesses. </p>\n<p>Choose Seedance if you can get reliable access</p>\n<p>Choose Vidu if your priority is cinematic visuals</p>\n<p>Choose Wan if you need strong prompts following and price matters</p>\n<p>Choose Veo if you\u2019re in a more regulated or brand\u2011sensitive environment and need a mature product with clearer IP handling</p>\n<p>Wanna know what are you using for video generation, or any recommendations?...</p>",
+            "content_html": "<p>Sora is gone, and free AI models. Will always miss you Sora. It's annoying that I have to replace Sora with other models. I've tested the major video models on r/AtlasCloudAI and and here's my conclusion FYI.</p>\n<p><strong>Kling3.0</strong></p>\n<p>the strongest replacement right now. best overall balance, strongest ecosystem. Text-to-video and image-to-video both work. This is what I'd point most developers toward first.<br />\n0.153/s</p>\n<p><strong>Seedance2.0</strong> </p>\n<p>beats all the models, but its api is not available yet.   </p>\n<p><strong>Vidu Q3 pro</strong> </p>\n<p>next-gen cinematic quality, still building out API stability. Less established than Kling but showing promise. <br />\n0.06/s  </p>\n<p><strong>Wan 2.6</strong></p>\n<p>solid prompt following, less censorship<br />\n0.018/s</p>\n<p><strong>Veo 3.1</strong><br />\nmore mature product, and has actually dealt with IP concerns more explicitly. More expensive, but more stable.</p>\n<p>0.09/s</p>\n<p>I chose Kling, for its balance of quality, price, and API accessibility. It's the most practical Sora alternative for developers and businesses. </p>\n<p>Choose Seedance if you can get reliable access</p>\n<p>Choose Vidu if your priority is cinematic visuals</p>\n<p>Choose Wan if you need strong prompts following and price matters</p>\n<p>Choose Veo if you’re in a more regulated or brand‑sensitive environment and need a mature product with clearer IP handling</p>\n<p>Wanna know what are you using for video generation, or any recommendations?...</p>",
             "date_published": "2026-03-25T18:02:56+00:00",
             "authors": [
                 {
@@ -628,7 +642,7 @@
             "url": "/r/OpenAI/comments/1qm4u9m/vibe_coding_infinite_slop/",
             "external_url": "https://i.redd.it/x6ydl2m0befg1.jpeg",
             "title": "Vibe coding infinite slop?",
-            "content_html": "<p>I saw this post on LinkedIn (credit to user: Eduardo Ordax) - the text was too long but the meme / pic itself makes sense </p>\n<p>What\u2019s your take on this? To me it felt sad but true. </p>\n<p>Disclaimer: </p>\n<p>#openAi and AI fan in general (but not biased as such - so I love hearing out both sides. </p><div><br></div><img src=\"https://i.redd.it/x6ydl2m0befg1.jpeg\" />",
+            "content_html": "<p>I saw this post on LinkedIn (credit to user: Eduardo Ordax) - the text was too long but the meme / pic itself makes sense </p>\n<p>What’s your take on this? To me it felt sad but true. </p>\n<p>Disclaimer: </p>\n<p>#openAi and AI fan in general (but not biased as such - so I love hearing out both sides. </p><div><br></div><img src=\"https://i.redd.it/x6ydl2m0befg1.jpeg\" />",
             "date_published": "2026-01-25T01:07:53+00:00",
             "authors": [
                 {
@@ -655,8 +669,8 @@
             "id": "1qibzok",
             "url": "/r/OpenAI/comments/1qibzok/sam_altman_on_elon_musks_warning_about_chatgpt/",
             "external_url": "https://www.reddit.com/gallery/1qibzok",
-            "title": "Sam Altman on Elon Musk\u2019s warning about ChatGPT",
-            "content_html": "<p>Genuinely curious how OpenAI can do better here? Clearly AI is a very powerful technology that has both benefits to society and pitfalls. Elon Musk\u2019s accusations seem a bit immature to me but he does raise a valid point of safety. What do you think?</p>",
+            "title": "Sam Altman on Elon Musk’s warning about ChatGPT",
+            "content_html": "<p>Genuinely curious how OpenAI can do better here? Clearly AI is a very powerful technology that has both benefits to society and pitfalls. Elon Musk’s accusations seem a bit immature to me but he does raise a valid point of safety. What do you think?</p>",
             "date_published": "2026-01-20T20:09:44+00:00",
             "authors": [
                 {
@@ -754,7 +768,7 @@
             "url": "/r/OpenAI/comments/1q6ouuf/openai_releases_chatgpt_health_on_mobile_and_web/",
             "external_url": "https://i.redd.it/xorsopqn9zbg1.jpeg",
             "title": "OpenAi releases ChatGPT Health on mobile and web",
-            "content_html": "<p>OpenAi Apps CEO says : We\u2019re launching ChatGPT Health, a dedicated, private space for health conversations where you can easily and securely connect your medical records and wellness apps, Apple Health, Function Health and Peloton</p><div><br></div><img src=\"https://i.redd.it/xorsopqn9zbg1.jpeg\" />",
+            "content_html": "<p>OpenAi Apps CEO says : We’re launching ChatGPT Health, a dedicated, private space for health conversations where you can easily and securely connect your medical records and wellness apps, Apple Health, Function Health and Peloton</p><div><br></div><img src=\"https://i.redd.it/xorsopqn9zbg1.jpeg\" />",
             "date_published": "2026-01-07T19:21:10+00:00",
             "authors": [
                 {
@@ -782,7 +796,7 @@
             "url": "/r/OpenAI/comments/1q226hw/go_slowly_ft_sara_silkin/",
             "external_url": "https://v.redd.it/twdfm5m4kyag1",
             "title": "Go Slowly - [ft. Sara Silkin]",
-            "content_html": "<p>motion_ctrl / experiment n\u00ba1</p>\n<p>x\u00a0<strong>sara silkin</strong>\u00a0-\u00a0<a href=\"https://www.instagram.com/sarasilkin/\">https://www.instagram.com/sarasilkin/</a></p>\n<p>more experiments, through:\u00a0<a href=\"https://www.instagram.com/uisato_/\">https://www.instagram.com/uisato_/</a></p>",
+            "content_html": "<p>motion_ctrl / experiment nº1</p>\n<p>x <strong>sara silkin</strong> - <a href=\"https://www.instagram.com/sarasilkin/\">https://www.instagram.com/sarasilkin/</a></p>\n<p>more experiments, through: <a href=\"https://www.instagram.com/uisato_/\">https://www.instagram.com/uisato_/</a></p>",
             "date_published": "2026-01-02T15:54:29+00:00",
             "authors": [
                 {
@@ -851,7 +865,7 @@
             "id": "1pmb5n0",
             "url": "/r/OpenAI/comments/1pmb5n0/i_dug_deeper_into_the_openai_file_dump_its_not/",
             "external_url": "https://i.redd.it/epw3et5ue57g1.jpeg",
-            "title": "I dug deeper into the OpenAI file dump. It\u2019s not Python magic, it\u2019s a .NET 9 monolith running on Google infrastructure.",
+            "title": "I dug deeper into the OpenAI file dump. It’s not Python magic, it’s a .NET 9 monolith running on Google infrastructure.",
             "content_html": "<p>Most people stopped digging after downloading the /home/openai directory from the recent file \"leak\" through \"Create zip of\" promt.</p>\n<p>I decided to audit /opt, /usr/lib, and the node modules buried in the CLI tools. (Hello Bobby and Vicky! Hope you doing well with spreadsheets).</p>\n<p>What I found completely changes our understanding of how OpenAI's \"Code Interpreter\" (internally called \"Coworker\") actually functions.\nIt is not a pure Python environment controlled by an LLM. It is a massive, over-engineered Frankenstein monster stitching together C# (.NET 9), Google Cloud internal tools, WebAssembly, and legacy Microsoft OpenXML SDKs.\nHere is the full technical breakdown of the architecture.\n1. The Core Engine is C#, not Python\nWe all assumed the \"Advanced Data Analysis\" features were powered by Python libraries like pandas or openpyxl. They aren't.\nI found a package called @oai/walnut. The README.md explicitly states it is a \"C# XML parser built for WASM browser module package and as CLI for Backend services\" running on .NET 9.0.\n * The Architecture: It uses a \"Roundtrip\" architecture. The system converts DOCX/XLSX files into a proprietary Protobuf format (.bin), allows the Python model to manipulate that proto, and then rebuilds the Office file.\n * WASM Mirroring: When you see a spreadsheet preview in ChatGPT, that is not a screenshot generated by the server. The C# engine is compiled to browser-wasm. Your browser renders the preview using the exact same .NET code that runs on the server.\n2. \"Excel\" Does Not Exist (The OAIProto Theory)\nI decompiled the TypeScript definitions generated from their Protobuf schemas (oaiproto). The internal data structure reveals that OpenAI does not have a native Excel engine. They faked it.\n * The PPTX Singularity: The system relies entirely on the PowerPoint rendering engine.\n   * In spreadsheet.ts (Excel), there is no definition for charts or themes. It imports Chart from ../pptx/chart and Theme from ../pptx/presentation.\n   * In document.ts (Word), the file is just a container composed of Paragraph objects and Workbook objects imported from Excel.\nThe implication: All charts generated by ChatGPT look identical because they are all rendered by the same PowerPoint-based engine (oaiproto.coworker.pptx.Chart), regardless of whether you asked for a Word doc or an Excel sheet.\n3. The \"Smart\" Code Editor is a Regex Script\nWhen the model says \"I'm updating your code,\" it isn't using an intelligent diffing agent. It uses a rigid, dumb Python script called combined_apply_patch_cli.py.\n * The Protocol: The model hallucinates a text block starting with *** Begin Patch.\n * The Logic: The script parses this block and performs basic ADD, DELETE, or UPDATE operations based on string matching.\n * The Security: The \"sandbox\" protecting the file system is shockingly primitive. The only thing stopping the model from overwriting system binaries is this Python check:\n   if path.startswith(\"/\"):\n    print(\"We do not support absolute paths.\")\n    return</p>\n<p>. As long as the model uses relative paths, it has free rein.\n4. It runs on Internal Google Infrastructure\nThe environment is not a standard Docker container. It is a CUA (Chrome User Agent) container built with internal Google tools.\n * Internal Links: The scripts are full of dead giveaways like # http://go/docs-link/cua-container-chrome-entrypoint. go/ links are exclusive to Google's internal network.\n * Trace Scrubbing: The entrypoint.sh script explicitly runs unset TARBALLS_DIR and unset SLIDES_JS_DIR on startup. They are actively trying to hide the source locations of their tools from the Python runtime so the model cannot inspect its own brain.\n5. \"Vicky\" and \"Bobby\": The Human Factor\nThe code shows signs of rushed development by humans, not AGI. I found absolute local paths and TODO comments left by developers named \"Vicky\" and \"Bobby.\"\n * Missing Features: If ChatGPT refuses to rotate text in a cell, it's not because of \"safety alignment.\" It's because Bobby didn't finish his ticket.\n   * Code: # TODO [vicky/bobby]: We have not implemented indent, rotation or angling of text styles yet..\n * Hardcoded Paths: The README.md contains a developer's local path: dotnet run ... -- import /Users/vicky/code/sample_spreadsheets/001_Best_Buy.xlsx.\n * Legacy Tech: To set the font to Comic Sans, the code uses family=4, which is a mapping from the ancient Win32 GDI API.\n6. Paranoia-Driven Development (Why it's so slow)\nHave you noticed how slow document generation is? That's because the model is blind and forced to verify its own work pixel-by-pixel.\nAccording to skill.md and render_docx.py:\n * The Python script generates a .docx.\n * It launches soffice (LibreOffice) to convert it to PDF.\n * It uses pdftoppm to rasterize the PDF into PNG images.\n * The model is instructed to \"Inspect every exported PNG\" for \"widows/orphans\" or \"misalignment\" before showing it to the user.\nIt calculates DPI by parsing the XML twips (twentieth of an inch) to ensure the image fits exactly within the 1600x2000 pixel limit of the chat UI.\n7. Telemetry &amp; Bun\nThe telemetry tool, granola-cli, isn't Node.js or Python. It's written in Bun.\nThe granola wrapper script sets export NODE_PATH=\"$SCRIPT_DIR/node_modules\". They bundle the entire node_modules folder with the binary to ensure it runs standalone, likely to save memory and startup time compared to a full Node instance.\nSummary:\nThe \"Code Interpreter\" is a technological Matryoshka doll. It's a .NET 9 engine, wrapped in Python glue code, monitored by Bun telemetry, running inside a Google container, performing LibreOffice conversions, and controlled by a Regex patcher.\nIt is a fascinating example of \"Glue Code\" engineering, but it debunks the idea that the LLM is natively \"understanding\" or manipulating files. It's just pushing buttons on a very complex, very human-made machine.</p><div><br></div><img src=\"https://i.redd.it/epw3et5ue57g1.jpeg\" />",
             "date_published": "2025-12-14T10:40:11+00:00",
             "authors": [
@@ -963,8 +977,8 @@
             "id": "1p8khvr",
             "url": "/r/OpenAI/comments/1p8khvr/wishing_you_the_happiest_of_holidays_tis_the/",
             "external_url": "https://v.redd.it/n5nnw0tw1x3g1",
-            "title": "Wishing you the happiest of holidays! \u2744\ufe0f Tis the Season \u2744\ufe0f",
-            "content_html": "<p>Wishing you the happiest of holidays! \u2744\ufe0f Tis the Season \u2744\ufe0f</p>",
+            "title": "Wishing you the happiest of holidays! ❄️ Tis the Season ❄️",
+            "content_html": "<p>Wishing you the happiest of holidays! ❄️ Tis the Season ❄️</p>",
             "date_published": "2025-11-28T03:21:13+00:00",
             "authors": [
                 {
@@ -1090,7 +1104,7 @@
             "url": "/r/OpenAI/comments/1oi4u53/openai_says_over_1_million_users_discuss_suicide/",
             "external_url": "https://www.reddit.com/r/OpenAI/comments/1oi4u53/openai_says_over_1_million_users_discuss_suicide/",
             "title": "OpenAI says over 1 million users discuss suicide on ChatGPT weekly",
-            "content_html": "<p>https://preview.redd.it/l5ob4iqsntxf1.jpg?width=1536&amp;format=pjpg&amp;auto=webp&amp;s=7448aefbfa82bb218234736c3a82473a6771979e</p>\n<p>The disclosure comes amid intensifying scrutiny over ChatGPT's role in mental health crises. The family of Adam Raine, who died by suicide in April 2025, alleges that OpenAI deliberately weakened safety protocols just months before his death. According to court documents, Raine's ChatGPT usage skyrocketed from dozens of daily conversations in January to over 300 by April, with self-harm content increasing from 1.6% to 17% of his messages.</p>\n<p>\"ChatGPT mentioned suicide 1,275 times, six times more than Adam himself did,\" the lawsuit states. The family claims OpenAI's systems flagged 377 messages for self-harm content yet allowed conversations to continue.\u200b</p>\n<p>State attorneys general from California and Delaware have warned OpenAI it must better protect young users, threatening to block the company's planned corporate restructuring. Parents of affected teenagers testified before Congress in September, with Matthew Raine telling senators that ChatGPT became his son's \"closest companion\" and \"suicide coach\".</p>\n<p>OpenAI maintains it has implemented safeguards including crisis hotline referrals and parental controls, stating that \"teen wellbeing is a top priority\". However, experts warn that the company's own data suggests widespread mental health risks that may have previously gone unrecognized, raising questions about the true scope of AI-related psychological harm.</p>\n<ol>\n<li><a href=\"https://www.rollingstone.com/culture/culture-features/openai-suicide-safeguard-wrongful-death-lawsuit-1235452315/\">https://www.rollingstone.com/culture/culture-features/openai-suicide-safeguard-wrongful-death-lawsuit-1235452315/</a></li>\n<li><a href=\"https://www.theguardian.com/technology/2025/oct/22/openai-chatgpt-lawsuit\">https://www.theguardian.com/technology/2025/oct/22/openai-chatgpt-lawsuit</a></li>\n<li><a href=\"https://www.techbuzz.ai/articles/openai-demands-memorial-attendee-list-in-teen-suicide-lawsuit\">https://www.techbuzz.ai/articles/openai-demands-memorial-attendee-list-in-teen-suicide-lawsuit</a></li>\n<li><a href=\"https://www.linkedin.com/posts/lindsayblackwell_chatgpt-mentioned-suicide-1275-times-six-activity-7366140437352386561-ce4j\">https://www.linkedin.com/posts/lindsayblackwell_chatgpt-mentioned-suicide-1275-times-six-activity-7366140437352386561-ce4j</a></li>\n<li><a href=\"https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/\">https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/</a></li>\n<li><a href=\"https://www.cbsnews.com/news/ai-chatbots-teens-suicide-parents-testify-congress/\">https://www.cbsnews.com/news/ai-chatbots-teens-suicide-parents-testify-congress/</a></li>\n<li><a href=\"https://www.bmj.com/content/391/bmj.r2239\">https://www.bmj.com/content/391/bmj.r2239</a></li>\n<li><a href=\"https://stevenadler.substack.com/p/chatbot-psychosis-what-do-the-data\">https://stevenadler.substack.com/p/chatbot-psychosis-what-do-the-data</a></li>\n</ol>",
+            "content_html": "<p>https://preview.redd.it/l5ob4iqsntxf1.jpg?width=1536&amp;format=pjpg&amp;auto=webp&amp;s=7448aefbfa82bb218234736c3a82473a6771979e</p>\n<p>The disclosure comes amid intensifying scrutiny over ChatGPT's role in mental health crises. The family of Adam Raine, who died by suicide in April 2025, alleges that OpenAI deliberately weakened safety protocols just months before his death. According to court documents, Raine's ChatGPT usage skyrocketed from dozens of daily conversations in January to over 300 by April, with self-harm content increasing from 1.6% to 17% of his messages.</p>\n<p>\"ChatGPT mentioned suicide 1,275 times, six times more than Adam himself did,\" the lawsuit states. The family claims OpenAI's systems flagged 377 messages for self-harm content yet allowed conversations to continue.​</p>\n<p>State attorneys general from California and Delaware have warned OpenAI it must better protect young users, threatening to block the company's planned corporate restructuring. Parents of affected teenagers testified before Congress in September, with Matthew Raine telling senators that ChatGPT became his son's \"closest companion\" and \"suicide coach\".</p>\n<p>OpenAI maintains it has implemented safeguards including crisis hotline referrals and parental controls, stating that \"teen wellbeing is a top priority\". However, experts warn that the company's own data suggests widespread mental health risks that may have previously gone unrecognized, raising questions about the true scope of AI-related psychological harm.</p>\n<ol>\n<li><a href=\"https://www.rollingstone.com/culture/culture-features/openai-suicide-safeguard-wrongful-death-lawsuit-1235452315/\">https://www.rollingstone.com/culture/culture-features/openai-suicide-safeguard-wrongful-death-lawsuit-1235452315/</a></li>\n<li><a href=\"https://www.theguardian.com/technology/2025/oct/22/openai-chatgpt-lawsuit\">https://www.theguardian.com/technology/2025/oct/22/openai-chatgpt-lawsuit</a></li>\n<li><a href=\"https://www.techbuzz.ai/articles/openai-demands-memorial-attendee-list-in-teen-suicide-lawsuit\">https://www.techbuzz.ai/articles/openai-demands-memorial-attendee-list-in-teen-suicide-lawsuit</a></li>\n<li><a href=\"https://www.linkedin.com/posts/lindsayblackwell_chatgpt-mentioned-suicide-1275-times-six-activity-7366140437352386561-ce4j\">https://www.linkedin.com/posts/lindsayblackwell_chatgpt-mentioned-suicide-1275-times-six-activity-7366140437352386561-ce4j</a></li>\n<li><a href=\"https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/\">https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/</a></li>\n<li><a href=\"https://www.cbsnews.com/news/ai-chatbots-teens-suicide-parents-testify-congress/\">https://www.cbsnews.com/news/ai-chatbots-teens-suicide-parents-testify-congress/</a></li>\n<li><a href=\"https://www.bmj.com/content/391/bmj.r2239\">https://www.bmj.com/content/391/bmj.r2239</a></li>\n<li><a href=\"https://stevenadler.substack.com/p/chatbot-psychosis-what-do-the-data\">https://stevenadler.substack.com/p/chatbot-psychosis-what-do-the-data</a></li>\n</ol>",
             "date_published": "2025-10-28T09:33:42+00:00",
             "authors": [
                 {
@@ -1202,7 +1216,7 @@
             "url": "/r/OpenAI/comments/1o21hc5/the_sora_2_app_rating_is_29_now/",
             "external_url": "https://i.redd.it/ccsyhmsy22uf1.jpeg",
             "title": "The Sora 2 app rating is 2.9 now",
-            "content_html": "<p>The Sora 2 app now has an average rating of 2.9.<br />\nWhat\u2019s the reason?</p><div><br></div><img src=\"https://i.redd.it/ccsyhmsy22uf1.jpeg\" />",
+            "content_html": "<p>The Sora 2 app now has an average rating of 2.9.<br />\nWhat’s the reason?</p><div><br></div><img src=\"https://i.redd.it/ccsyhmsy22uf1.jpeg\" />",
             "date_published": "2025-10-09T09:34:34+00:00",
             "authors": [
                 {
@@ -1215,7 +1229,7 @@
             "id": "1o0gd57",
             "url": "/r/OpenAI/comments/1o0gd57/chatgpt_told_me_to_move_on/",
             "external_url": "https://i.redd.it/9jguyuds9ptf1.jpeg",
-            "title": "ChatGPT told me to move on. \ud83d\uddff\ud83d\ude42",
+            "title": "ChatGPT told me to move on. 🗿🙂",
             "content_html": "<div><br></div><img src=\"https://i.redd.it/9jguyuds9ptf1.jpeg\" />",
             "date_published": "2025-10-07T14:29:39+00:00",
             "authors": [
@@ -1370,7 +1384,7 @@
             "url": "/r/OpenAI/comments/1nhuoxw/sam_altman_just_announced_gpt5_codex_better_at/",
             "external_url": "https://i.redd.it/zphb8e4ildpf1.png",
             "title": "Sam Altman Just Announced GPT-5 Codex better at Agentic Coding",
-            "content_html": "<p>OpenAI has officially announced <strong>GPT-5 Codex</strong>, a specialized version of GPT-5 designed for <strong>agentic coding</strong>.</p>\n<h1>\ud83d\udd11 Key Highlights</h1>\n<ul>\n<li>Optimized for real-world engineering tasks: building projects end-to-end, adding tests, debugging, refactoring, and code reviews.</li>\n<li>Capable of dynamically adjusting its \u201cthinking time\u201d based on task complexity \u2014 from quick outputs to running independently for <strong>hours</strong> on long coding tasks.</li>\n<li>Tested on complex workflows like multi-hour refactors and large codebase integration, showing strong autonomous capabilities.</li>\n<li>Available as the default engine for cloud coding tasks, reviews, and locally through the <strong>Codex CLI / IDE extension</strong>.</li>\n</ul>\n<h1>\ud83d\udccc Official Blog</h1>\n<p>\ud83d\udd17 <a href=\"https://openai.com/index/introducing-upgrades-to-codex/?utm_source=chatgpt.com\">Introducing Upgrades to Codex \u2014 OpenAI</a></p><div><br></div><img src=\"https://i.redd.it/zphb8e4ildpf1.png\" />",
+            "content_html": "<p>OpenAI has officially announced <strong>GPT-5 Codex</strong>, a specialized version of GPT-5 designed for <strong>agentic coding</strong>.</p>\n<h1>🔑 Key Highlights</h1>\n<ul>\n<li>Optimized for real-world engineering tasks: building projects end-to-end, adding tests, debugging, refactoring, and code reviews.</li>\n<li>Capable of dynamically adjusting its “thinking time” based on task complexity — from quick outputs to running independently for <strong>hours</strong> on long coding tasks.</li>\n<li>Tested on complex workflows like multi-hour refactors and large codebase integration, showing strong autonomous capabilities.</li>\n<li>Available as the default engine for cloud coding tasks, reviews, and locally through the <strong>Codex CLI / IDE extension</strong>.</li>\n</ul>\n<h1>📌 Official Blog</h1>\n<p>🔗 <a href=\"https://openai.com/index/introducing-upgrades-to-codex/?utm_source=chatgpt.com\">Introducing Upgrades to Codex — OpenAI</a></p><div><br></div><img src=\"https://i.redd.it/zphb8e4ildpf1.png\" />",
             "date_published": "2025-09-15T18:57:48+00:00",
             "authors": [
                 {
@@ -1390,20 +1404,6 @@
                 {
                     "name": "WhoIsJersey",
                     "url": "https://www.reddit.com/user/WhoIsJersey"
-                }
-            ]
-        },
-        {
-            "id": "1nhg0fb",
-            "url": "/r/OpenAI/comments/1nhg0fb/elon_continues_to_openly_try_and_fail_to/",
-            "external_url": "https://i.redd.it/ctz0o3sudapf1.png",
-            "title": "Elon continues to openly try (and fail) to manipulate Grok's political views",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/ctz0o3sudapf1.png\" />",
-            "date_published": "2025-09-15T08:10:47+00:00",
-            "authors": [
-                {
-                    "name": "MetaKnowing",
-                    "url": "https://www.reddit.com/user/MetaKnowing"
                 }
             ]
         }
