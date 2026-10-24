@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1xeebie",
+            "url": "https://www.reddit.com/r/ArcBrowser/comments/1xeebie/50_years_fanatic_user/",
+            "external_url": "https://i.redd.it/nq5mymwa8gxh1.jpeg",
+            "title": "50 years fanatic user",
+            "content_html": "<p>I’ve been an avid Arc user since 1976. You will be missed my dear fiend</p><div><br></div><img src=\"https://i.redd.it/nq5mymwa8gxh1.jpeg\" />",
+            "date_published": "2026-10-24T17:19:29+00:00",
+            "authors": [
+                {
+                    "name": "_baaron_",
+                    "url": "https://www.reddit.com/user/_baaron_"
+                }
+            ]
+        },
+        {
             "id": "1xdchto",
             "url": "https://www.reddit.com/r/ArcBrowser/comments/1xdchto/fuck_the_browser_company_i_hope_you_go_bankrupt/",
             "external_url": "https://i.redd.it/hno016f5m7xh1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "reedd_",
                     "url": "https://www.reddit.com/user/reedd_"
-                }
-            ]
-        },
-        {
-            "id": "1h79d3p",
-            "url": "/r/ArcBrowser/comments/1h79d3p/we_are_never_getting_that_linux_support/",
-            "external_url": "https://i.redd.it/cue0uznq915e1.jpeg",
-            "title": "We are never getting that Linux support ",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1h79d3p/we_are_never_getting_that_linux_support/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1h79d3p/we_are_never_getting_that_linux_support/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/cue0uznq915e1.jpeg\" />",
-            "date_published": "2024-12-05T13:38:34+00:00",
-            "authors": [
-                {
-                    "name": "PuzzleheadedOwl6160",
-                    "url": "https://www.reddit.com/user/PuzzleheadedOwl6160"
                 }
             ]
         }
