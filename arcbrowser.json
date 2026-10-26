@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1xg5dh9",
+            "url": "https://www.reddit.com/r/ArcBrowser/comments/1xg5dh9/a_thousand_arc_clones_none_thinking_forward/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1xg5dh9/a_thousand_arc_clones_none_thinking_forward/",
+            "title": "A thousand Arc clones, none thinking forward",
+            "content_html": "<p><a href=\"https://reddit.com/link/1xg5dh9/video/dkyefycjwuxh1/player\">https://reddit.com/link/1xg5dh9/video/dkyefycjwuxh1/player</a></p>\n\n<p>Why is everyone trying to clone Arc instead of imagining what it could have become if it hadn’t been abandoned? None of these clones will be as good as Arc was, because none of them are thinking beyond what it is right now in its abandoned state. I’ve been a dedicated Arc user since the first alpha, so I started asking what that team would build if they were starting Arc in 2026. Trying to answer that question by building a browser that eliminates the need for tabs all up by implementing a canvas based UX. It’s meant to be the evolution, not the clone 🤷🏻‍♂️ <a href=\"https://parkweb.co/\">https://parkweb.co</a></p>",
+            "date_published": "2026-10-26T18:42:19+00:00",
+            "authors": [
+                {
+                    "name": "jasonschuller",
+                    "url": "https://www.reddit.com/user/jasonschuller"
+                }
+            ]
+        },
+        {
             "id": "1xf854j",
             "url": "https://www.reddit.com/r/ArcBrowser/comments/1xf854j/the_browser_company_is_so_naïve/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1xf854j/the_browser_company_is_so_naïve/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "FantasticMrCat42",
                     "url": "https://www.reddit.com/user/FantasticMrCat42"
-                }
-            ]
-        },
-        {
-            "id": "1hh9q18",
-            "url": "/r/ArcBrowser/comments/1hh9q18/ok_but_call_arc_did_it_first/",
-            "external_url": "https://www.reddit.com/gallery/1hh9q18",
-            "title": "Ok, but Call Arc did it first...",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1hh9q18/ok_but_call_arc_did_it_first/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1hh9q18/ok_but_call_arc_did_it_first/'>Reddit</a></caption><div><br></div>",
-            "date_published": "2024-12-18T19:37:21+00:00",
-            "authors": [
-                {
-                    "name": "chrismessina",
-                    "url": "https://www.reddit.com/user/chrismessina"
                 }
             ]
         }
