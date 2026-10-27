@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1xgx496",
+            "url": "https://www.reddit.com/r/homeassistant/comments/1xgx496/whos_excited/",
+            "external_url": "https://i.redd.it/i4083rk4d1yh1.jpeg",
+            "title": "Who’s excited?",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/i4083rk4d1yh1.jpeg\" />",
+            "date_published": "2026-10-27T16:23:55+00:00",
+            "authors": [
+                {
+                    "name": "SeekingRex",
+                    "url": "https://www.reddit.com/user/SeekingRex"
+                }
+            ]
+        },
+        {
             "id": "1xg2e92",
             "url": "https://www.reddit.com/r/homeassistant/comments/1xg2e92/hacs_is_now_the_home_assistant_marketplace/",
             "external_url": "https://frenck.dev/hacs-is-now-the-home-assistant-marketplace/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "daern2",
                     "url": "https://www.reddit.com/user/daern2"
-                }
-            ]
-        },
-        {
-            "id": "1k56401",
-            "url": "/r/homeassistant/comments/1k56401/my_buddy_didnt_believe_me_when_i_told_him_this_is/",
-            "external_url": "https://i.redd.it/1q8zmkr30ewe1.jpeg",
-            "title": "My buddy didn’t believe me when I told him this is Home Assistant",
-            "content_html": "<p>Just a little appreciation post, as I’m becoming increasingly content with everything HA has to offer. To all the devs working hard out there feel free to drop your info so I can buy you a coffee. Your work does not go unnoticed :)</p><div><br></div><img src=\"https://i.redd.it/1q8zmkr30ewe1.jpeg\" />",
-            "date_published": "2025-04-22T13:19:20+00:00",
-            "authors": [
-                {
-                    "name": "-ManWhat",
-                    "url": "https://www.reddit.com/user/-ManWhat"
                 }
             ]
         }
