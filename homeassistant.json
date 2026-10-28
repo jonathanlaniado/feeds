@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1xhlrz3",
+            "url": "https://www.reddit.com/r/homeassistant/comments/1xhlrz3/yet_another_dashboard/",
+            "external_url": "https://www.reddit.com/gallery/1xhlrz3",
+            "title": "Yet another dashboard",
+            "content_html": "<p>in times when everyone is crazy about ai, im just a retro fan. i like real physical stuff, collecting vintage, and i just like to make somethin smart every now and then. everything here actually works and runs on home assistant, got all the modern gadgets like voice assistant inside, but id rather focus your attention on the physical side and all these details.</p>\n\n<p>ps. everything i could actually buy is original from the 60s and 70s, some parts are iconic for people who remember the communist era in poland, and whatever i couldnt find or buy i built myself.</p>\n\n<p>ps2. if u find this interesting ill post a video with more details later, this panel is just part of a bigger retro project and there are a few more cool features to show.</p>",
+            "date_published": "2026-10-28T11:43:20+00:00",
+            "authors": [
+                {
+                    "name": "Turbulent-Biscotti98",
+                    "url": "https://www.reddit.com/user/Turbulent-Biscotti98"
+                }
+            ]
+        },
+        {
             "id": "1xgx496",
             "url": "https://www.reddit.com/r/homeassistant/comments/1xgx496/whos_excited/",
             "external_url": "https://i.redd.it/i4083rk4d1yh1.jpeg",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "wunschpunsch3D",
                     "url": "https://www.reddit.com/user/wunschpunsch3D"
-                }
-            ]
-        },
-        {
-            "id": "1k71tcq",
-            "url": "/r/homeassistant/comments/1k71tcq/bin_counting_with_gemini/",
-            "external_url": "https://i.redd.it/4bddd2459uwe1.png",
-            "title": "Bin Counting With Gemini",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/4bddd2459uwe1.png\" />",
-            "date_published": "2025-04-24T19:59:10+00:00",
-            "authors": [
-                {
-                    "name": "daern2",
-                    "url": "https://www.reddit.com/user/daern2"
                 }
             ]
         }
