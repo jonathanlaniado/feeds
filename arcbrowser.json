@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1xio2wj",
+            "url": "https://www.reddit.com/r/ArcBrowser/comments/1xio2wj/a_difficult_update_on_dia_and_a_glimpse_of_what/",
+            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1xio2wj/a_difficult_update_on_dia_and_a_glimpse_of_what/",
+            "title": "A difficult update on Dia. And a glimpse of what comes next.",
+            "content_html": "<p>Hey everyone, Josh here.</p>\n\n<p>&nbsp;</p>\n\n<p>Today we’re announcing that we’re sunsetting Dia.</p>\n\n<p>&nbsp;</p>\n\n<p>I’ve rewritten that sentence a dozen times. Then I asked Dia to rewrite it. Honestly? Neither of us could make it feel right.</p>\n\n<p>&nbsp;</p>\n\n<p>When we built Arc, we reimagined what a browser could be. When we built Dia, we asked what a browser could become with AI. And over the past few months, we’ve found ourselves asking an even bigger question:</p>\n\n<p>&nbsp;</p>\n\n<p>Why are we still letting you browse?</p>\n\n<p>&nbsp;</p>\n\n<p>We’ve spent hundreds of hours talking to people who don’t use Dia. And something kept coming up: they weren’t using Dia.</p>\n\n<p>&nbsp;</p>\n\n<p>That was a profound signal.</p>\n\n<p>&nbsp;</p>\n\n<p>For those of you who loved Dia, this may be hard to hear. You built workflows. You told your friends. Some of you had only just finished importing your tabs from Arc.</p>\n\n<p>&nbsp;</p>\n\n<p>We see you. We hear you. And we’re so excited to introduce you to <strong>Dot</strong>.</p>\n\n<p>&nbsp;</p>\n\n<p>Dot is an entirely new kind of browser with no tabs, no bookmarks, no address bar, and no websites. Just a warm, thoughtfully crafted AI chat window that asks what you’d like to do, then explains how you could do it in another browser.</p>\n\n<p>&nbsp;</p>\n\n<p>Arc wasn’t for everyone. Dia was for everyone Arc wasn’t for. With Dot, we’re finally building for people who have never used one of our products. People who still trust us.</p>\n\n<p>&nbsp;</p>\n\n<p>To this community: thank you for caring so deeply. Your passion is what gives us the courage to keep moving beyond the products you’re passionate about.</p>\n\n<p>&nbsp;</p>\n\n<p>I’ve never been more excited about what we’re building.</p>\n\n<p>&nbsp;</p>\n\n<p>Josh</p>\n\n<p>&nbsp;</p>\n\n<p><em>P.S. Dot already feels like the kind of product we’ll someday write a very heartfelt letter about.</em></p>",
+            "date_published": "2026-10-29T16:04:17+00:00",
+            "authors": [
+                {
+                    "name": "ChipotleM",
+                    "url": "https://www.reddit.com/user/ChipotleM"
+                }
+            ]
+        },
+        {
             "id": "1xg5dh9",
             "url": "https://www.reddit.com/r/ArcBrowser/comments/1xg5dh9/a_thousand_arc_clones_none_thinking_forward/",
             "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1xg5dh9/a_thousand_arc_clones_none_thinking_forward/",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "icurious1205",
                     "url": "https://www.reddit.com/user/icurious1205"
-                }
-            ]
-        },
-        {
-            "id": "1hm6sg5",
-            "url": "/r/ArcBrowser/comments/1hm6sg5/something_for_the_people_who_still_use_arc/",
-            "external_url": "https://i.redd.it/lsy64cs8l19e1.png",
-            "title": "Something for the people who still use Arc. (Gradients on Windows + Mac)",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/ArcBrowser/comments/1hm6sg5/something_for_the_people_who_still_use_arc/'>Winston</a> | <a href='https://reddit.com/r/ArcBrowser/comments/1hm6sg5/something_for_the_people_who_still_use_arc/'>Reddit</a></caption><div><br></div><div><br></div><img src=\"https://i.redd.it/lsy64cs8l19e1.png\" />",
-            "date_published": "2024-12-25T19:07:08+00:00",
-            "authors": [
-                {
-                    "name": "FantasticMrCat42",
-                    "url": "https://www.reddit.com/user/FantasticMrCat42"
                 }
             ]
         }
