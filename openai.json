@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1xlen1c",
+            "url": "https://www.reddit.com/r/OpenAI/comments/1xlen1c/sam_altman_is_right/",
+            "external_url": "https://i.redd.it/2trf735gh2zh1.jpeg",
+            "title": "Sam Altman is right",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/2trf735gh2zh1.jpeg\" />",
+            "date_published": "2026-11-01T21:14:04+00:00",
+            "authors": [
+                {
+                    "name": "EndriuDuh",
+                    "url": "https://www.reddit.com/user/EndriuDuh"
+                }
+            ]
+        },
+        {
             "id": "1xedvu1",
             "url": "https://www.reddit.com/r/OpenAI/comments/1xedvu1/holy_fucking_shit/",
             "external_url": "https://i.redd.it/ohok2lp65gxh1.png",
@@ -1390,20 +1404,6 @@
                 {
                     "name": "AskGpts",
                     "url": "https://www.reddit.com/user/AskGpts"
-                }
-            ]
-        },
-        {
-            "id": "1nhu7c2",
-            "url": "/r/OpenAI/comments/1nhu7c2/lets_goooo/",
-            "external_url": "https://i.redd.it/d18o77qcidpf1.jpeg",
-            "title": "LETS GOOOO",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/d18o77qcidpf1.jpeg\" />",
-            "date_published": "2025-09-15T18:39:43+00:00",
-            "authors": [
-                {
-                    "name": "WhoIsJersey",
-                    "url": "https://www.reddit.com/user/WhoIsJersey"
                 }
             ]
         }
