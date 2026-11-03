@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1xn0wzy",
+            "url": "https://www.reddit.com/r/iOSBeta/comments/1xn0wzy/ios_273_db1_discussion/",
+            "external_url": "https://www.reddit.com/r/iOSBeta/comments/1xn0wzy/ios_273_db1_discussion/",
+            "title": "iOS 27.3 DB1 - Discussion",
+            "content_html": "<p>Use this thread to share any changes &amp; bugs you discover while using the latest iOS/iPadOS 27 beta.</p>\n\n<p>This thread should be used for discussion of the betas that may not meet our submission guidelines, as well as troubleshooting small issues through the beta test cycle.</p>\n\n<p><strong>Spamming this discussion with comments about battery life, update size, safari being snappier, etc will result in a ban from the sub moving forward.</strong></p>",
+            "date_published": "2026-11-03T18:28:43+00:00",
+            "authors": [
+                {
+                    "name": "epmuscle",
+                    "url": "https://www.reddit.com/user/epmuscle"
+                }
+            ]
+        },
+        {
             "id": "1x55tgz",
             "url": "/r/iOSBeta/comments/1x55tgz/ios_272_db4_apple_health_longevity_features/",
             "external_url": "https://i.redd.it/nhvad8fgaavh1.jpeg",
@@ -37,10 +51,10 @@
         },
         {
             "id": "1weld7h",
-            "url": "/r/iOSBeta/comments/1weld7h/ios_27_rc_new_attachment_animation_for_herm\u00e8s/",
+            "url": "/r/iOSBeta/comments/1weld7h/ios_27_rc_new_attachment_animation_for_hermès/",
             "external_url": "https://v.redd.it/ab786wfdv4ph1",
-            "title": "[iOS 27 RC] New attachment animation for Herm\u00e8s MagSafe wallets",
-            "content_html": "<p>iOS 27 RC adds a dedicated Herm\u00e8s MagSafe wallet attachment animation. There are also new wallet styles with Find My support.</p>\n<p><a href=\"https://github.com/blacktop/ipsw-diffs/blob/4c1e7fcbf5d0865984f00560cd2086c9aba4e261/27_0_24A5430a_vs_27_0_24A435/FILES/filesystem.NEW.md?plain=1#L469-L470\">Added in RC.</a></p>\n<p>https://preview.redd.it/jq1m2mxlq4ph1.png?width=2400&amp;format=png&amp;auto=webp&amp;s=ff9a27edf34c81a286ffa4a4700a737b5d946cf6</p>",
+            "title": "[iOS 27 RC] New attachment animation for Hermès MagSafe wallets",
+            "content_html": "<p>iOS 27 RC adds a dedicated Hermès MagSafe wallet attachment animation. There are also new wallet styles with Find My support.</p>\n<p><a href=\"https://github.com/blacktop/ipsw-diffs/blob/4c1e7fcbf5d0865984f00560cd2086c9aba4e261/27_0_24A5430a_vs_27_0_24A435/FILES/filesystem.NEW.md?plain=1#L469-L470\">Added in RC.</a></p>\n<p>https://preview.redd.it/jq1m2mxlq4ph1.png?width=2400&amp;format=png&amp;auto=webp&amp;s=ff9a27edf34c81a286ffa4a4700a737b5d946cf6</p>",
             "date_published": "2026-09-12T19:12:50+00:00",
             "authors": [
                 {
@@ -82,7 +96,7 @@
             "url": "/r/iOSBeta/comments/1wc0ntw/ios_27_rc_app_launcher_and_top_shelfcontinue/",
             "external_url": "https://v.redd.it/k52vj332nkoh1",
             "title": "[iOS 27 RC] App launcher and Top Shelf/Continue Watching in Apple TV Remote (hidden by feature flag)",
-            "content_html": "<p>In iOS 27 RC, Apple updated the design of the Apple TV Remote app and added two new features:</p>\n<ol>\n<li>An app launcher to open apps on your Apple TV.</li>\n<li>Top Shelf content from the selected app on your Apple TV, with Continue Watching as a fallback.</li>\n</ol>\n<p>They\u2019ve disabled both of these features behind the <code>TVRemoteUI/UseNewDevicePicker</code> and <code>TVRemoteUI/ContextBar</code> feature flags, so hopefully we\u2019ll see them soon.</p>",
+            "content_html": "<p>In iOS 27 RC, Apple updated the design of the Apple TV Remote app and added two new features:</p>\n<ol>\n<li>An app launcher to open apps on your Apple TV.</li>\n<li>Top Shelf content from the selected app on your Apple TV, with Continue Watching as a fallback.</li>\n</ol>\n<p>They’ve disabled both of these features behind the <code>TVRemoteUI/UseNewDevicePicker</code> and <code>TVRemoteUI/ContextBar</code> feature flags, so hopefully we’ll see them soon.</p>",
             "date_published": "2026-09-09T22:33:40+00:00",
             "authors": [
                 {
@@ -109,8 +123,8 @@
             "id": "1w9ufa7",
             "url": "/r/iOSBeta/comments/1w9ufa7/ios_27_db8_five_new_camera_features_apple_hasnt/",
             "external_url": "https://i.redd.it/4hedg11034oh1.png",
-            "title": "[iOS 27 DB8] Five new Camera features Apple hasn\u2019t shown yet",
-            "content_html": "<p>Apple is working on a broader set of Camera improvements in iOS 27 than what the company announced at WWDC26 this past June, and what iOS betas currently allow users to access. Here are five features in the Camera app currently hidden in iOS 27.</p>\n<h1>Exposure scopes: waveforms and histograms\u200b</h1>\n<p>The Camera app in iOS 27 contains a complete implementation of waveform and histogram displays. These can help users judge exposure in different formats. You can use a histogram to get a read on how many pixels fall into the shadows, mid-tones, and highlights. Alternatively, a waveform can show the same information while preserving the horizontal pixel position, which makes it easier to identify a bright or dark area to a specific part of the image.</p>\n<p>https://preview.redd.it/tp6y28o124oh1.png?width=2400&amp;format=png&amp;auto=webp&amp;s=05f56f290ff7f00e09c4717f500a6326d3117ab6</p>\n<p>iOS 27 ships with 3 presets for both scopes: Luminance, RGB Composite, and RGB Parade. The histogram also has a separate choice between a continuous curve or individual bars. The rendering implementation for all graphs was added in iOS 27 beta 2 and is present in the latest beta.</p>\n<p>You can see a demo of all graphs against stock photos below. There is no consumer within the Camera app to enable waveforms and histograms, but the graphs use the real\u00a0<code>LiveVideoAnalytics</code>\u00a0pipeline, so these graphs match what you\u2019d see inside the camera app.</p>\n<p>https://reddit.com/link/1w9ufa7/video/kojmhv6m24oh1/player</p>\n<h1>Focus peaking and highlight-clipping overlays\u200b</h1>\n<p>The Camera app in iOS 27 also adds code to overlay important information about the current composition over the preview window. In fact, the system can produce them separately or together under a new preview-processing stage.</p>\n<p><strong>Focus peaking\u200b</strong></p>\n<p>Focus peaking emphasizes edges with strong local contrast to help users know which parts of the image are clearly defined. The feature can add colored emphasis over the edges. iOS can select a color, adjust how sensitive the effect is, and the transition duration.</p>\n<p>There is no consumer in Beta 8 to enable the feature in the Camera app. In the demo, below you can see the effect within the preview window.</p>\n<p>https://preview.redd.it/9i3g1hro24oh1.png?width=1600&amp;format=png&amp;auto=webp&amp;s=26460fedb903d13124a7ec02645e55d8debe4256</p>\n<p><strong>Highlight-clipping\u200b</strong></p>\n<p>Relatedly, the Camera app can also warn users about highlights that are becoming too bright. The preview window can present an overlay over the affected areas instead of relying on another graph.</p>\n<p>The current implementation supports four styles: solid color, pulsing color, diagonal stripes (\u201czebra style\u201d), and checkerboard. Once again, iOS can control the clipping threshold and overlay color.</p>\n<p>There is no consumer in Beta 8 to enable the feature in the Camera app. In the demo, below you can see the effect within the preview window.</p>\n<p>https://preview.redd.it/2lov02eu24oh1.png?width=1600&amp;format=png&amp;auto=webp&amp;s=e9f9f3fc08d2c3ce8f356a10b12472f9e73482e4</p>\n<h1>Repeated self-timer captures\u200b</h1>\n<p>The Camera app also includes a new feature named \u201cCaptures.\u201d With this, once you have selected one of the pre-determined timer options, you can select a number of repeated captures to take with a countdown of the selected duration before each capture.</p>\n<p>The code restarts the timer after requesting a capture, so the app doesn\u2019t have to wait until the photo is fully processed to begin the next countdown.</p>\n<p>The interface for this feature is unfinished in Beta 8. Forcing the feature enabled in a test environment causes \u201cA menu cannot be produced for Captures.\u201d error. The underlying capture loop logic is implemented behind an internal development capability in Beta 8.</p>\n<p>https://preview.redd.it/mh7a9bpv24oh1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=db626c3737de9bb3687f4179afea423c422ba42d</p>\n<h1>Manual focus\u200b</h1>\n<p>Apple has also tested manual focus in the Camera app, with a control for changing the lens position. This would let you choose where the camera focuses and hold that position instead of relying on autofocus. Similar systems ship in Apple\u2019s Final Cut Camera and third-party apps already.</p>\n<p>The control showed up in iOS 26 versions as\u00a0<code>ChromeLensPositionControls</code>, along with the implementation to respond when the user moves the focus slider. Exposing this control in iOS 26 reveals a Focus slider, with acceptable values between 0 and 1. Moving the slider locks the focus and sends the selected lens position to the capture controller.</p>\n<p>The story gets more interesting in iOS 27. The lower-level command for locking focus at a selected lens position remains. While the Focus slider and the code to respond to user input was removed in beta 1, Apple added an explicit capability check that checks the device\u2019s first supported iOS version. The current capability check requires a compatible iPhone with a first release of iOS 27 or later, meaning that the feature is not compatible with any existing iPhone.</p>\n<p>https://preview.redd.it/kx8vexsw24oh1.png?width=1600&amp;format=png&amp;auto=webp&amp;s=0a2b5f1f9ea9dc2f8f839e20bfe0acf661f9ed86</p>\n<h1>Aperture-dependent optical processing\u200b</h1>\n<p>The final change affects image processing and may be relevant to a device with a variable physical aperture. iOS 27 can choose and blend lens correction data based on the aperture value. These corrections are meant to compensate for differences in light distribution across the image.</p>\n<p>Apple\u2019s implementation can use calibration references for neighboring aperture values and combine them with varying contribution levels. I tested the original calculation code with sample inputs shown in the graph below. The calibrator accepts 1-4 correction data references. With multiple references, it finds the neighboring values and blends their corrections.</p>\n<p>https://preview.redd.it/o9icgady24oh1.png?width=2400&amp;format=png&amp;auto=webp&amp;s=99b2576d1ca7fc17b59c59ef7205a0b60d90e89e</p>\n<p>While the code accepts up to four calibration references, it does not mean that the new iPhone has four physical aperture stops. iOS may be using just enough references and extrapolating lens data for intermediate aperture values.</p>\n<h1>Sources</h1>\n<p>The following links are pinned to the revision used for this post:</p>\n<p><strong>Exposure scopes: waveforms and histograms\u200b</strong></p>\n<ul>\n<li><a href=\"https://github.com/blacktop/ipsw-diffs/blob/5e8af2394649d6575131d7d4936b60b964e8e866/27_0_24A5355q_vs_27_0_24A5370h/DYLIBS/System/Library/PrivateFrameworks/CameraUI.framework/CameraUI.md?plain=1#L149-L160\">Luminance, RGB Composite and RGB Parade presets added for both scopes in iOS 27 beta 2</a></li>\n<li><a href=\"https://github.com/blacktop/ipsw-diffs/blob/5e8af2394649d6575131d7d4936b60b964e8e866/27_0_24A5355q_vs_27_0_24A5370h/DYLIBS/System/Library/PrivateFrameworks/CameraUI.framework/CameraUI.md?plain=1#L237-L271\">Histogram rendering, bar-count and smoothing controls added in beta 2</a></li>\n</ul>\n<p><strong>Focus peaking and highlight-clipping overlays\u200b</strong></p>\n<ul>\n<li><a href=\"https://github.com/blacktop/ipsw-diffs/blob/5e8af2394649d6575131d7d4936b60b964e8e866/26_5_23F77_vs_27_0_24A5355q/DYLIBS/System/Library/PrivateFrameworks/AVFCapture.framework/AVFCapture.md?plain=1#L365-L372\">Focus-peaking and highlight-clipping preview APIs added in iOS 27 beta 1</a></li>\n<li><a href=\"https://github.com/blacktop/ipsw-diffs/blob/5e8af2394649d6575131d7d4936b60b964e8e866/26_5_23F77_vs_27_0_24A5355q/DYLIBS/System/Library/PrivateFrameworks/CMCapture.framework/CMCapture.md?plain=1#L355-L393\">Assistive-overlay processing, clipping styles, colors and thresholds added in beta 1</a></li>\n</ul>\n<p><strong>Repeated self-timer captures\u200b</strong></p>\n<ul>\n<li><a href=\"https://github.com/blacktop/ipsw-diffs/blob/5e8af2394649d6575131d7d4936b60b964e8e866/26_5_23F77_vs_27_0_24A5355q/DYLIBS/System/Library/PrivateFrameworks/CameraUI.framework/CameraUI.md?plain=1#L733-L734\">Repeated-capture count and remaining-count setters added to Camera in beta 1</a></li>\n<li><a href=\"https://github.com/blacktop/ipsw-diffs/blob/5e8af2394649d6575131d7d4936b60b964e8e866/26_5_23F77_vs_27_0_24A5355q/DYLIBS/System/Library/PrivateFrameworks/CameraUI.framework/CameraUI.md?plain=1#L811\">User-selected interval capture count handler added in beta 1</a></li>\n</ul>\n<p><strong>Manual focus\u200b</strong></p>\n<ul>\n<li><a href=\"https://github.com/blacktop/ipsw-diffs/blob/5e8af2394649d6575131d7d4936b60b964e8e866/26_5_23F77_vs_27_0_24A5355q/DYLIBS/System/Library/PrivateFrameworks/CameraUI.framework/CameraUI.md?plain=1#L6127-L6128\">Older manual-focus position and lock handlers removed in beta 1</a></li>\n<li><a href=\"https://github.com/blacktop/ipsw-diffs/blob/5e8af2394649d6575131d7d4936b60b964e8e866/26_5_23F77_vs_27_0_24A5355q/DYLIBS/System/Library/PrivateFrameworks/CameraUI.framework/CameraUI.md?plain=1#L9559\">Older ChromeLensPositionControls UI type removed in beta 1</a></li>\n</ul>\n<p><strong>Aperture-dependent optical processing\u200b</strong></p>\n<ul>\n<li><a href=\"https://github.com/blacktop/ipsw-diffs/blob/5e8af2394649d6575131d7d4936b60b964e8e866/26_5_23F77_vs_27_0_24A5355q/DYLIBS/System/Library/PrivateFrameworks/CMImaging.framework/CMImaging.md?plain=1#L557-L561\">Aperture-dependent lens-shading calibration conversion added in beta 1</a></li>\n<li><a href=\"https://github.com/blacktop/ipsw-diffs/blob/5e8af2394649d6575131d7d4936b60b964e8e866/27_0_24A5355q_vs_27_0_24A5370h/DYLIBS/System/Library/PrivateFrameworks/CMImaging.framework/CMImaging.md?plain=1#L280-L283\">Lens-shading aperture calibration restricted to one through four references in beta 2</a></li>\n</ul><div><br></div><img src=\"https://i.redd.it/4hedg11034oh1.png\" />",
+            "title": "[iOS 27 DB8] Five new Camera features Apple hasn’t shown yet",
+            "content_html": "<p>Apple is working on a broader set of Camera improvements in iOS 27 than what the company announced at WWDC26 this past June, and what iOS betas currently allow users to access. Here are five features in the Camera app currently hidden in iOS 27.</p>\n<h1>Exposure scopes: waveforms and histograms​</h1>\n<p>The Camera app in iOS 27 contains a complete implementation of waveform and histogram displays. These can help users judge exposure in different formats. You can use a histogram to get a read on how many pixels fall into the shadows, mid-tones, and highlights. Alternatively, a waveform can show the same information while preserving the horizontal pixel position, which makes it easier to identify a bright or dark area to a specific part of the image.</p>\n<p>https://preview.redd.it/tp6y28o124oh1.png?width=2400&amp;format=png&amp;auto=webp&amp;s=05f56f290ff7f00e09c4717f500a6326d3117ab6</p>\n<p>iOS 27 ships with 3 presets for both scopes: Luminance, RGB Composite, and RGB Parade. The histogram also has a separate choice between a continuous curve or individual bars. The rendering implementation for all graphs was added in iOS 27 beta 2 and is present in the latest beta.</p>\n<p>You can see a demo of all graphs against stock photos below. There is no consumer within the Camera app to enable waveforms and histograms, but the graphs use the real <code>LiveVideoAnalytics</code> pipeline, so these graphs match what you’d see inside the camera app.</p>\n<p>https://reddit.com/link/1w9ufa7/video/kojmhv6m24oh1/player</p>\n<h1>Focus peaking and highlight-clipping overlays​</h1>\n<p>The Camera app in iOS 27 also adds code to overlay important information about the current composition over the preview window. In fact, the system can produce them separately or together under a new preview-processing stage.</p>\n<p><strong>Focus peaking​</strong></p>\n<p>Focus peaking emphasizes edges with strong local contrast to help users know which parts of the image are clearly defined. The feature can add colored emphasis over the edges. iOS can select a color, adjust how sensitive the effect is, and the transition duration.</p>\n<p>There is no consumer in Beta 8 to enable the feature in the Camera app. In the demo, below you can see the effect within the preview window.</p>\n<p>https://preview.redd.it/9i3g1hro24oh1.png?width=1600&amp;format=png&amp;auto=webp&amp;s=26460fedb903d13124a7ec02645e55d8debe4256</p>\n<p><strong>Highlight-clipping​</strong></p>\n<p>Relatedly, the Camera app can also warn users about highlights that are becoming too bright. The preview window can present an overlay over the affected areas instead of relying on another graph.</p>\n<p>The current implementation supports four styles: solid color, pulsing color, diagonal stripes (“zebra style”), and checkerboard. Once again, iOS can control the clipping threshold and overlay color.</p>\n<p>There is no consumer in Beta 8 to enable the feature in the Camera app. In the demo, below you can see the effect within the preview window.</p>\n<p>https://preview.redd.it/2lov02eu24oh1.png?width=1600&amp;format=png&amp;auto=webp&amp;s=e9f9f3fc08d2c3ce8f356a10b12472f9e73482e4</p>\n<h1>Repeated self-timer captures​</h1>\n<p>The Camera app also includes a new feature named “Captures.” With this, once you have selected one of the pre-determined timer options, you can select a number of repeated captures to take with a countdown of the selected duration before each capture.</p>\n<p>The code restarts the timer after requesting a capture, so the app doesn’t have to wait until the photo is fully processed to begin the next countdown.</p>\n<p>The interface for this feature is unfinished in Beta 8. Forcing the feature enabled in a test environment causes “A menu cannot be produced for Captures.” error. The underlying capture loop logic is implemented behind an internal development capability in Beta 8.</p>\n<p>https://preview.redd.it/mh7a9bpv24oh1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=db626c3737de9bb3687f4179afea423c422ba42d</p>\n<h1>Manual focus​</h1>\n<p>Apple has also tested manual focus in the Camera app, with a control for changing the lens position. This would let you choose where the camera focuses and hold that position instead of relying on autofocus. Similar systems ship in Apple’s Final Cut Camera and third-party apps already.</p>\n<p>The control showed up in iOS 26 versions as <code>ChromeLensPositionControls</code>, along with the implementation to respond when the user moves the focus slider. Exposing this control in iOS 26 reveals a Focus slider, with acceptable values between 0 and 1. Moving the slider locks the focus and sends the selected lens position to the capture controller.</p>\n<p>The story gets more interesting in iOS 27. The lower-level command for locking focus at a selected lens position remains. While the Focus slider and the code to respond to user input was removed in beta 1, Apple added an explicit capability check that checks the device’s first supported iOS version. The current capability check requires a compatible iPhone with a first release of iOS 27 or later, meaning that the feature is not compatible with any existing iPhone.</p>\n<p>https://preview.redd.it/kx8vexsw24oh1.png?width=1600&amp;format=png&amp;auto=webp&amp;s=0a2b5f1f9ea9dc2f8f839e20bfe0acf661f9ed86</p>\n<h1>Aperture-dependent optical processing​</h1>\n<p>The final change affects image processing and may be relevant to a device with a variable physical aperture. iOS 27 can choose and blend lens correction data based on the aperture value. These corrections are meant to compensate for differences in light distribution across the image.</p>\n<p>Apple’s implementation can use calibration references for neighboring aperture values and combine them with varying contribution levels. I tested the original calculation code with sample inputs shown in the graph below. The calibrator accepts 1-4 correction data references. With multiple references, it finds the neighboring values and blends their corrections.</p>\n<p>https://preview.redd.it/o9icgady24oh1.png?width=2400&amp;format=png&amp;auto=webp&amp;s=99b2576d1ca7fc17b59c59ef7205a0b60d90e89e</p>\n<p>While the code accepts up to four calibration references, it does not mean that the new iPhone has four physical aperture stops. iOS may be using just enough references and extrapolating lens data for intermediate aperture values.</p>\n<h1>Sources</h1>\n<p>The following links are pinned to the revision used for this post:</p>\n<p><strong>Exposure scopes: waveforms and histograms​</strong></p>\n<ul>\n<li><a href=\"https://github.com/blacktop/ipsw-diffs/blob/5e8af2394649d6575131d7d4936b60b964e8e866/27_0_24A5355q_vs_27_0_24A5370h/DYLIBS/System/Library/PrivateFrameworks/CameraUI.framework/CameraUI.md?plain=1#L149-L160\">Luminance, RGB Composite and RGB Parade presets added for both scopes in iOS 27 beta 2</a></li>\n<li><a href=\"https://github.com/blacktop/ipsw-diffs/blob/5e8af2394649d6575131d7d4936b60b964e8e866/27_0_24A5355q_vs_27_0_24A5370h/DYLIBS/System/Library/PrivateFrameworks/CameraUI.framework/CameraUI.md?plain=1#L237-L271\">Histogram rendering, bar-count and smoothing controls added in beta 2</a></li>\n</ul>\n<p><strong>Focus peaking and highlight-clipping overlays​</strong></p>\n<ul>\n<li><a href=\"https://github.com/blacktop/ipsw-diffs/blob/5e8af2394649d6575131d7d4936b60b964e8e866/26_5_23F77_vs_27_0_24A5355q/DYLIBS/System/Library/PrivateFrameworks/AVFCapture.framework/AVFCapture.md?plain=1#L365-L372\">Focus-peaking and highlight-clipping preview APIs added in iOS 27 beta 1</a></li>\n<li><a href=\"https://github.com/blacktop/ipsw-diffs/blob/5e8af2394649d6575131d7d4936b60b964e8e866/26_5_23F77_vs_27_0_24A5355q/DYLIBS/System/Library/PrivateFrameworks/CMCapture.framework/CMCapture.md?plain=1#L355-L393\">Assistive-overlay processing, clipping styles, colors and thresholds added in beta 1</a></li>\n</ul>\n<p><strong>Repeated self-timer captures​</strong></p>\n<ul>\n<li><a href=\"https://github.com/blacktop/ipsw-diffs/blob/5e8af2394649d6575131d7d4936b60b964e8e866/26_5_23F77_vs_27_0_24A5355q/DYLIBS/System/Library/PrivateFrameworks/CameraUI.framework/CameraUI.md?plain=1#L733-L734\">Repeated-capture count and remaining-count setters added to Camera in beta 1</a></li>\n<li><a href=\"https://github.com/blacktop/ipsw-diffs/blob/5e8af2394649d6575131d7d4936b60b964e8e866/26_5_23F77_vs_27_0_24A5355q/DYLIBS/System/Library/PrivateFrameworks/CameraUI.framework/CameraUI.md?plain=1#L811\">User-selected interval capture count handler added in beta 1</a></li>\n</ul>\n<p><strong>Manual focus​</strong></p>\n<ul>\n<li><a href=\"https://github.com/blacktop/ipsw-diffs/blob/5e8af2394649d6575131d7d4936b60b964e8e866/26_5_23F77_vs_27_0_24A5355q/DYLIBS/System/Library/PrivateFrameworks/CameraUI.framework/CameraUI.md?plain=1#L6127-L6128\">Older manual-focus position and lock handlers removed in beta 1</a></li>\n<li><a href=\"https://github.com/blacktop/ipsw-diffs/blob/5e8af2394649d6575131d7d4936b60b964e8e866/26_5_23F77_vs_27_0_24A5355q/DYLIBS/System/Library/PrivateFrameworks/CameraUI.framework/CameraUI.md?plain=1#L9559\">Older ChromeLensPositionControls UI type removed in beta 1</a></li>\n</ul>\n<p><strong>Aperture-dependent optical processing​</strong></p>\n<ul>\n<li><a href=\"https://github.com/blacktop/ipsw-diffs/blob/5e8af2394649d6575131d7d4936b60b964e8e866/26_5_23F77_vs_27_0_24A5355q/DYLIBS/System/Library/PrivateFrameworks/CMImaging.framework/CMImaging.md?plain=1#L557-L561\">Aperture-dependent lens-shading calibration conversion added in beta 1</a></li>\n<li><a href=\"https://github.com/blacktop/ipsw-diffs/blob/5e8af2394649d6575131d7d4936b60b964e8e866/27_0_24A5355q_vs_27_0_24A5370h/DYLIBS/System/Library/PrivateFrameworks/CMImaging.framework/CMImaging.md?plain=1#L280-L283\">Lens-shading aperture calibration restricted to one through four references in beta 2</a></li>\n</ul><div><br></div><img src=\"https://i.redd.it/4hedg11034oh1.png\" />",
             "date_published": "2026-09-07T14:56:37+00:00",
             "authors": [
                 {
@@ -250,7 +264,7 @@
             "url": "/r/iOSBeta/comments/1v1u13n/ios_27_db4_the_volume_slider_now_adheres_to_your/",
             "external_url": "https://v.redd.it/gqbpbkexifeh1",
             "title": "[iOS 27 DB4] The volume slider now adheres to your Liquid Glass setting",
-            "content_html": "<p>It\u2019s now glassier than ever! I wish they would implement the same on the Control Center</p>",
+            "content_html": "<p>It’s now glassier than ever! I wish they would implement the same on the Control Center</p>",
             "date_published": "2026-07-20T18:38:44+00:00",
             "authors": [
                 {
@@ -264,7 +278,7 @@
             "url": "/r/iOSBeta/comments/1uvi7vx/ios_266_beta_5_discussion/",
             "external_url": "https://www.reddit.com/r/iOSBeta/comments/1uvi7vx/ios_266_beta_5_discussion/",
             "title": "iOS 26.6 Beta 5 - Discussion",
-            "content_html": "<p>Use this thread to share any changes &amp; bugs you discover while using the latest iOS/iPadOS 26 beta.</p>\n<p>This thread should be used for discussion of the betas that may not meet our submission guidelines, as well as troubleshooting small issues through the beta test cycle.</p>\n<p>Further discussion can be found on the\u00a0iOS Beta Discord</p>\n<p>Spamming this discussion with comments about battery life, safari being snappier, size of beta updates etc will result in a ban from the sub moving forward.</p>",
+            "content_html": "<p>Use this thread to share any changes &amp; bugs you discover while using the latest iOS/iPadOS 26 beta.</p>\n<p>This thread should be used for discussion of the betas that may not meet our submission guidelines, as well as troubleshooting small issues through the beta test cycle.</p>\n<p>Further discussion can be found on the iOS Beta Discord</p>\n<p>Spamming this discussion with comments about battery life, safari being snappier, size of beta updates etc will result in a ban from the sub moving forward.</p>",
             "date_published": "2026-07-13T17:31:21+00:00",
             "authors": [
                 {
@@ -334,7 +348,7 @@
             "url": "/r/iOSBeta/comments/1uiyy8i/ios_266_beta_3_discussion/",
             "external_url": "https://www.reddit.com/r/iOSBeta/comments/1uiyy8i/ios_266_beta_3_discussion/",
             "title": "iOS 26.6 Beta 3 - Discussion",
-            "content_html": "<p>Use this thread to share any changes &amp; bugs you discover while using the latest iOS/iPadOS 26 beta.</p>\n<p>This thread should be used for discussion of the betas that may not meet our submission guidelines, as well as troubleshooting small issues through the beta test cycle.</p>\n<p>Further discussion can be found on the\u00a0iOS Beta Discord</p>\n<p>Spamming this discussion with comments about battery life, safari being snappier, etc will result in a ban from the sub moving forward.</p>",
+            "content_html": "<p>Use this thread to share any changes &amp; bugs you discover while using the latest iOS/iPadOS 26 beta.</p>\n<p>This thread should be used for discussion of the betas that may not meet our submission guidelines, as well as troubleshooting small issues through the beta test cycle.</p>\n<p>Further discussion can be found on the iOS Beta Discord</p>\n<p>Spamming this discussion with comments about battery life, safari being snappier, etc will result in a ban from the sub moving forward.</p>",
             "date_published": "2026-06-29T17:25:43+00:00",
             "authors": [
                 {
@@ -389,7 +403,7 @@
             "id": "1ucrhso",
             "url": "/r/iOSBeta/comments/1ucrhso/ios_27_db2_the_more_options_button_in_the_camera/",
             "external_url": "https://i.redd.it/ob5a9vdqfv8h1.jpeg",
-            "title": "[iOS 27 DB2] The \u201cmore options\u201d button in the camera app is now highlighted in yellow when a feature (such as night mode) is in use",
+            "title": "[iOS 27 DB2] The “more options” button in the camera app is now highlighted in yellow when a feature (such as night mode) is in use",
             "content_html": "<div><br></div><img src=\"https://i.redd.it/ob5a9vdqfv8h1.jpeg\" />",
             "date_published": "2026-06-22T17:44:29+00:00",
             "authors": [
@@ -418,7 +432,7 @@
             "url": "/r/iOSBeta/comments/1u6w3tg/ios_27_db1_crash_detection_shows_no_screen_nor/",
             "external_url": "https://i.redd.it/ph1ynmp60j7h1.jpeg",
             "title": "[iOS 27 DB1] Crash Detection shows no screen nor option to turn buzzing off",
-            "content_html": "<p>I have no screenshot or screen recording for proof so you might just have to take my word for it.  </p>\n<p>Earlier today I got in a car accident, and I had a bunch of friends text me because they got a notification that I wasn\u2019t responding and had been in a crash. I took the photo attached just after the crash happened, I felt buzzing but no option nor display to turn it off. (Un)luckily, I\u2019m probably one of the only people that can report this bug right now.</p><div><br></div><img src=\"https://i.redd.it/ph1ynmp60j7h1.jpeg\" />",
+            "content_html": "<p>I have no screenshot or screen recording for proof so you might just have to take my word for it.  </p>\n<p>Earlier today I got in a car accident, and I had a bunch of friends text me because they got a notification that I wasn’t responding and had been in a crash. I took the photo attached just after the crash happened, I felt buzzing but no option nor display to turn it off. (Un)luckily, I’m probably one of the only people that can report this bug right now.</p><div><br></div><img src=\"https://i.redd.it/ph1ynmp60j7h1.jpeg\" />",
             "date_published": "2026-06-15T22:51:50+00:00",
             "authors": [
                 {
@@ -432,7 +446,7 @@
             "url": "/r/iOSBeta/comments/1u6mpdt/ios_266_beta_2_discussion/",
             "external_url": "https://www.reddit.com/r/iOSBeta/comments/1u6mpdt/ios_266_beta_2_discussion/",
             "title": "iOS 26.6 Beta 2 - Discussion",
-            "content_html": "<p>Use this thread to share any changes &amp; bugs you discover while using the latest iOS/iPadOS 26 beta.</p>\n<p>This thread should be used for discussion of the betas that may not meet our submission guidelines, as well as troubleshooting small issues through the beta test cycle.</p>\n<p>Further discussion can be found on the\u00a0iOS Beta Discord</p>\n<p>Spamming this discussion with comments about battery life, safari being snappier, etc will result in a ban from the sub moving forward.</p>",
+            "content_html": "<p>Use this thread to share any changes &amp; bugs you discover while using the latest iOS/iPadOS 26 beta.</p>\n<p>This thread should be used for discussion of the betas that may not meet our submission guidelines, as well as troubleshooting small issues through the beta test cycle.</p>\n<p>Further discussion can be found on the iOS Beta Discord</p>\n<p>Spamming this discussion with comments about battery life, safari being snappier, etc will result in a ban from the sub moving forward.</p>",
             "date_published": "2026-06-15T17:09:47+00:00",
             "authors": [
                 {
@@ -502,7 +516,7 @@
             "url": "/r/iOSBeta/comments/1u334e5/ios_27_db1_hold_assist_now_predicts_wait_times/",
             "external_url": "https://i.redd.it/5lz6nid1fo6h1.jpeg",
             "title": "[iOS 27 DB1] Hold Assist Now Predicts Wait Times",
-            "content_html": "<p>I don\u2019t know how it could possibly be doing this, but the Hold Assist feature introduced last year seems to be predicting call hold times until someone picks up. The call had only been going for 10 minutes at this point and that duration is accurately reflected on the call screen, and the number in the dynamic was steadily counting down. Very neat if it\u2019s accurate.</p><div><br></div><img src=\"https://i.redd.it/5lz6nid1fo6h1.jpeg\" />",
+            "content_html": "<p>I don’t know how it could possibly be doing this, but the Hold Assist feature introduced last year seems to be predicting call hold times until someone picks up. The call had only been going for 10 minutes at this point and that duration is accurately reflected on the call screen, and the number in the dynamic was steadily counting down. Very neat if it’s accurate.</p><div><br></div><img src=\"https://i.redd.it/5lz6nid1fo6h1.jpeg\" />",
             "date_published": "2026-06-11T15:59:51+00:00",
             "authors": [
                 {
@@ -516,7 +530,7 @@
             "url": "/r/iOSBeta/comments/1u2zqkx/ios_27_db1_multilingual_keyboards_now/",
             "external_url": "https://v.redd.it/n6numnfisn6h1",
             "title": "[iOS 27 DB1] Multilingual keyboards now automatically chooses the right quotation marks.",
-            "content_html": "<p>I noticed this really cool change to the keyboard. I use a German + English keyboard and on previous iOS it would always put \u201eThese German quotation marks\u201d no matter what I\u2019m typing. Now it automatically uses the correct ones.</p>",
+            "content_html": "<p>I noticed this really cool change to the keyboard. I use a German + English keyboard and on previous iOS it would always put „These German quotation marks” no matter what I’m typing. Now it automatically uses the correct ones.</p>",
             "date_published": "2026-06-11T13:54:00+00:00",
             "authors": [
                 {
@@ -543,8 +557,8 @@
             "id": "1u2fn07",
             "url": "/r/iOSBeta/comments/1u2fn07/ios_27_db1_ios_storage_allocation_now_shows/",
             "external_url": "https://i.redd.it/7y594v5kxi6h1.jpeg",
-            "title": "[iOS 27 DB1] \u201ciOS\u201d Storage allocation now shows Reseved Auto-Update Space.",
-            "content_html": "<p>Scroll to the buttom of iPhone storage, then tap iOS\u2026</p>\n<p>Edit: If you don\u2019t have Automatic Updates on, you wont see this and to get rid of this, just turn off Automatic Updates in Software Updates settings.</p><div><br></div><img src=\"https://i.redd.it/7y594v5kxi6h1.jpeg\" />",
+            "title": "[iOS 27 DB1] “iOS” Storage allocation now shows Reseved Auto-Update Space.",
+            "content_html": "<p>Scroll to the buttom of iPhone storage, then tap iOS…</p>\n<p>Edit: If you don’t have Automatic Updates on, you wont see this and to get rid of this, just turn off Automatic Updates in Software Updates settings.</p><div><br></div><img src=\"https://i.redd.it/7y594v5kxi6h1.jpeg\" />",
             "date_published": "2026-06-10T21:33:00+00:00",
             "authors": [
                 {
@@ -558,7 +572,7 @@
             "url": "/r/iOSBeta/comments/1u1lxio/ios_27_db1_new_aipowered_phone_app_feature_that/",
             "external_url": "https://v.redd.it/hu5j33fxgc6h1",
             "title": "[iOS 27 DB1] New AI-powered phone app feature that surfaces relevant information from other apps about the person you are calling.",
-            "content_html": "<p>WWDC used airline details when showing this feature, but it makes sense that birthdays would naturally be surfaced as well.</p>\n<p>If you pay attention, you can also see a new subtle zoom-in animation when the call is picked up. In addition, the \u2018leave a voicemail\u2019 voice is now the voice of the new Siri. </p>",
+            "content_html": "<p>WWDC used airline details when showing this feature, but it makes sense that birthdays would naturally be surfaced as well.</p>\n<p>If you pay attention, you can also see a new subtle zoom-in animation when the call is picked up. In addition, the ‘leave a voicemail’ voice is now the voice of the new Siri. </p>",
             "date_published": "2026-06-09T23:49:05+00:00",
             "authors": [
                 {
@@ -585,7 +599,7 @@
             "id": "1u1cgu8",
             "url": "/r/iOSBeta/comments/1u1cgu8/ios_27_db1_dynamic_island_on_carplay/",
             "external_url": "https://i.redd.it/4bybm75gpa6h1.jpeg",
-            "title": "[iOS 27 DB1] \u201cDynamic Island\u201d on CarPlay",
+            "title": "[iOS 27 DB1] “Dynamic Island” on CarPlay",
             "content_html": "<p>One of the more comical bugs</p><div><br></div><img src=\"https://i.redd.it/4bybm75gpa6h1.jpeg\" />",
             "date_published": "2026-06-09T17:53:23+00:00",
             "authors": [
@@ -627,7 +641,7 @@
             "id": "1u15q88",
             "url": "/r/iOSBeta/comments/1u15q88/ios_27_db1_passwords_new_ai_autofix_compromised/",
             "external_url": "https://www.reddit.com/gallery/1u15q88",
-            "title": "[iOS 27 DB1] Password\u2019s new AI auto-fix compromised passwords feature shows up as a live activity",
+            "title": "[iOS 27 DB1] Password’s new AI auto-fix compromised passwords feature shows up as a live activity",
             "content_html": "<p>It is also shockingly fast. It moves at a rate of about 1 account every 20-30 seconds or so.</p>",
             "date_published": "2026-06-09T13:56:46+00:00",
             "authors": [
@@ -642,7 +656,7 @@
             "url": "/r/iOSBeta/comments/1u0s4sc/ios_27_db1_liquid_glass_appears_pixelated_and/",
             "external_url": "https://www.reddit.com/gallery/1u0s4sc",
             "title": "[iOS 27 DB1] Liquid Glass appears pixelated and over-sharpened in some areas",
-            "content_html": "<p>I\u2019m seeing what looks like rendering artifacts in Liquid Glass on iOS 27 DB1. In some areas, the distortion effect appears pixelated or low-resolution, and certain app icons seem to have unusually harsh edge contrast, almost as if they\u2019ve been over-sharpened.</p>\n<p>I don\u2019t remember Liquid Glass looking like this when it was first introduced in iOS 26, but I could be misremembering. Can anyone else reproduce this on their device, or compare with screenshots from iOS 26?</p>",
+            "content_html": "<p>I’m seeing what looks like rendering artifacts in Liquid Glass on iOS 27 DB1. In some areas, the distortion effect appears pixelated or low-resolution, and certain app icons seem to have unusually harsh edge contrast, almost as if they’ve been over-sharpened.</p>\n<p>I don’t remember Liquid Glass looking like this when it was first introduced in iOS 26, but I could be misremembering. Can anyone else reproduce this on their device, or compare with screenshots from iOS 26?</p>",
             "date_published": "2026-06-09T02:16:48+00:00",
             "authors": [
                 {
@@ -655,8 +669,8 @@
             "id": "1u0kn3h",
             "url": "/r/iOSBeta/comments/1u0kn3h/ios_27_db_1_siris_feedback_error_reporting_gives/",
             "external_url": "https://i.redd.it/8yq9zfesh46h1.jpeg",
-            "title": "[iOS 27 DB 1] Siri\u2019s Feedback Error reporting gives out full LLM instructions",
-            "content_html": "<p>The new Siri seems really good from my very limited testing, but when I asked to make a reminder urgent for tomorrow, it didn\u2019t work. When I went to report it, I noticed in the error reporting feedback a file named <em>Siri Diagnostics</em>. I was curious as to what it entailed and looked at it. Turns out, there\u2019s the FULL instruction given to the LLM model in it. I feel like it might not be allowed to share the whole thing, so I\u2019ll simply share a screenshot of the first line. Test it yourselves if you want the whole thing, or be braver than me and share it in the comments. It\u2019s very VERY long though, scrolling through made my iPhone lag.</p><div><br></div><img src=\"https://i.redd.it/8yq9zfesh46h1.jpeg\" />",
+            "title": "[iOS 27 DB 1] Siri’s Feedback Error reporting gives out full LLM instructions",
+            "content_html": "<p>The new Siri seems really good from my very limited testing, but when I asked to make a reminder urgent for tomorrow, it didn’t work. When I went to report it, I noticed in the error reporting feedback a file named <em>Siri Diagnostics</em>. I was curious as to what it entailed and looked at it. Turns out, there’s the FULL instruction given to the LLM model in it. I feel like it might not be allowed to share the whole thing, so I’ll simply share a screenshot of the first line. Test it yourselves if you want the whole thing, or be braver than me and share it in the comments. It’s very VERY long though, scrolling through made my iPhone lag.</p><div><br></div><img src=\"https://i.redd.it/8yq9zfesh46h1.jpeg\" />",
             "date_published": "2026-06-08T20:59:38+00:00",
             "authors": [
                 {
@@ -880,7 +894,7 @@
             "url": "/r/iOSBeta/comments/1pdg2y0/ios_262_rc_promotion_fixed_home_screen_finally_at/",
             "external_url": "https://www.reddit.com/r/iOSBeta/comments/1pdg2y0/ios_262_rc_promotion_fixed_home_screen_finally_at/",
             "title": "[iOS 26.2 RC] ProMotion FIXED + Home Screen Finally at 120Hz",
-            "content_html": "<p>Just installed the 26.2 Release Candidate and\u2026 wow. After months of waiting, the ProMotion bug is actually fixed. The home screen finally runs at a smooth, consistent 120Hz, and the difference is instantly noticeable. Swiping between pages, opening folders, even subtle animations all feel dramatically more responsive.</p>\n<p>It\u2019s not just smoother, it feels like the whole UI has woken up. No dips, no weird hiccups, no falling back to lower refresh rates in random moments. This is the experience many of us expected from day one\u2026</p>\n<p>If this RC goes out unchanged, 26.2 is going to be a huge quality-of-life update. Anyone else feeling the upgrade? Let\u2019s hear your impressions..</p>",
+            "content_html": "<p>Just installed the 26.2 Release Candidate and… wow. After months of waiting, the ProMotion bug is actually fixed. The home screen finally runs at a smooth, consistent 120Hz, and the difference is instantly noticeable. Swiping between pages, opening folders, even subtle animations all feel dramatically more responsive.</p>\n<p>It’s not just smoother, it feels like the whole UI has woken up. No dips, no weird hiccups, no falling back to lower refresh rates in random moments. This is the experience many of us expected from day one…</p>\n<p>If this RC goes out unchanged, 26.2 is going to be a huge quality-of-life update. Anyone else feeling the upgrade? Let’s hear your impressions..</p>",
             "date_published": "2025-12-03T20:50:19+00:00",
             "authors": [
                 {
@@ -907,8 +921,8 @@
             "id": "1ovjqpp",
             "url": "/r/iOSBeta/comments/1ovjqpp/ios_262_db2_show_less_x_and_clear_all_buttons_in/",
             "external_url": "https://v.redd.it/9hp5zqhfkw0g1",
-            "title": "[iOS 26.2 DB2]  \u2018Show Less\u2019, \u2018X\u2019, and \u2018Clear All\u2019 buttons in Notification Center now feature the Liquid Glass design",
-            "content_html": "<p>\u2018Show Less\u2019, \u2018X\u2019 button, and \u2018Clear All\u2019 in Notification Center now have been updated to sport the Liquid Glass look</p>",
+            "title": "[iOS 26.2 DB2]  ‘Show Less’, ‘X’, and ‘Clear All’ buttons in Notification Center now feature the Liquid Glass design",
+            "content_html": "<p>‘Show Less’, ‘X’ button, and ‘Clear All’ in Notification Center now have been updated to sport the Liquid Glass look</p>",
             "date_published": "2025-11-12T22:30:44+00:00",
             "authors": [
                 {
@@ -1173,8 +1187,8 @@
             "id": "1mpp51q",
             "url": "/r/iOSBeta/comments/1mpp51q/ios_26_db6_scrolling_after_turning_onoff_toggle/",
             "external_url": "https://v.redd.it/563g6feijwif1",
-            "title": "[iOS 26 DB6] Scrolling after turning on/off toggle triggers a \u201cbouncing effect\u201d",
-            "content_html": "<p>after turning on/off the toggle, if you scroll immediately, you can see the toggle itself bouncing in the gray area. very \u201cjello\u201d like. </p>",
+            "title": "[iOS 26 DB6] Scrolling after turning on/off toggle triggers a “bouncing effect”",
+            "content_html": "<p>after turning on/off the toggle, if you scroll immediately, you can see the toggle itself bouncing in the gray area. very “jello” like. </p>",
             "date_published": "2025-08-14T03:11:08+00:00",
             "authors": [
                 {
@@ -1257,7 +1271,7 @@
             "id": "1mnjlxd",
             "url": "/r/iOSBeta/comments/1mnjlxd/ipados_26_db6_app_icons_are_now_at_the_bottom_of/",
             "external_url": "https://i.redd.it/scd29546ffif1.png",
-            "title": "[iPadOS 26 DB6] App Icons Are Now At The Bottom Of Windows In Expos\u00e9",
+            "title": "[iPadOS 26 DB6] App Icons Are Now At The Bottom Of Windows In Exposé",
             "content_html": "<div><br></div><img src=\"https://i.redd.it/scd29546ffif1.png\" />",
             "date_published": "2025-08-11T17:36:39+00:00",
             "authors": [
@@ -1285,8 +1299,8 @@
             "id": "1mja1b4",
             "url": "/r/iOSBeta/comments/1mja1b4/ios_26_db5_delete_and_stop_option_when_in_messages/",
             "external_url": "https://i.redd.it/kgsexvn0jfhf1.jpeg",
-            "title": "[iOS 26 DB5] \u201cDelete and Stop\u201d option when in Messages",
-            "content_html": "<p>In iOS 26 dev beta 5, when deleting a text message, there's a \"Delete and Stop\" option when a \u201cstop\u201d option is offered in the message. \"Stop\", \"Stop2End\", and possibly other variations seem to trigger it. Perhaps I just missed it, but I had not seen this prior to dev beta 5.</p>\n<p>This makes me want to recover spam messages from Recently Deleted so I can click \"Delete and Stop\" for all of them.</p><div><br></div><img src=\"https://i.redd.it/kgsexvn0jfhf1.jpeg\" />",
+            "title": "[iOS 26 DB5] “Delete and Stop” option when in Messages",
+            "content_html": "<p>In iOS 26 dev beta 5, when deleting a text message, there's a \"Delete and Stop\" option when a “stop” option is offered in the message. \"Stop\", \"Stop2End\", and possibly other variations seem to trigger it. Perhaps I just missed it, but I had not seen this prior to dev beta 5.</p>\n<p>This makes me want to recover spam messages from Recently Deleted so I can click \"Delete and Stop\" for all of them.</p><div><br></div><img src=\"https://i.redd.it/kgsexvn0jfhf1.jpeg\" />",
             "date_published": "2025-08-06T16:53:56+00:00",
             "authors": [
                 {
@@ -1299,7 +1313,7 @@
             "id": "1mika0s",
             "url": "/r/iOSBeta/comments/1mika0s/ios_26_db5_pulling_down_control_center_creates_a/",
             "external_url": "https://v.redd.it/xmwqv8gif9hf1",
-            "title": "[iOS 26 DB5] pulling down control center creates a \u201cstretching\u201d effect",
+            "title": "[iOS 26 DB5] pulling down control center creates a “stretching” effect",
             "content_html": "",
             "date_published": "2025-08-05T20:23:36+00:00",
             "authors": [
@@ -1339,9 +1353,9 @@
         },
         {
             "id": "1mihvwf",
-            "url": "/r/iOSBeta/comments/1mihvwf/ios_26_db5_new_low_batt\u0117ry_dynamic_island_popup/",
+            "url": "/r/iOSBeta/comments/1mihvwf/ios_26_db5_new_low_battėry_dynamic_island_popup/",
             "external_url": "https://www.reddit.com/gallery/1mihvwf",
-            "title": "[iOS 26 DB5] New low batt\u0117ry dynamic island pop-up",
+            "title": "[iOS 26 DB5] New low battėry dynamic island pop-up",
             "content_html": "",
             "date_published": "2025-08-05T18:54:25+00:00",
             "authors": [
@@ -1356,7 +1370,7 @@
             "url": "/r/iOSBeta/comments/1migp9j/ios_26_db5_dock_is_now_thicker_and_glassier/",
             "external_url": "https://www.reddit.com/gallery/1migp9j",
             "title": "[iOS 26 DB5] Dock is now thicker and glassier.",
-            "content_html": "<p>Left is DB4, Right is DB5. Don\u2019t know how to feel about it.</p>",
+            "content_html": "<p>Left is DB4, Right is DB5. Don’t know how to feel about it.</p>",
             "date_published": "2025-08-05T18:11:22+00:00",
             "authors": [
                 {
@@ -1370,7 +1384,7 @@
             "url": "/r/iOSBeta/comments/1mb2lz6/ios_26_pb1_i_made_an_app_that_enhances_apple/",
             "external_url": "https://www.reddit.com/r/iOSBeta/comments/1mb2lz6/ios_26_pb1_i_made_an_app_that_enhances_apple/",
             "title": "[IOS 26 PB1] I made an app that enhances Apple Intelligence with extra features!",
-            "content_html": "<p><a href=\"https://reddit.com/link/1mb2lz6/video/5aet3wz6jiff1/player\">App Demo</a></p>\n<p>Hi\u00a0<a href=\"https://www.reddit.com/r/iOSBeta/\">r/iOSBeta</a>!</p>\n<p>I made an app called Aeru: an app that expands on Apple Intelligence by giving features like multiple chats, document upload, and real-time web search! It's works offline and it's open source for the community!</p>\n<p>I built this app because Apple didn't give these features officially through their developer framework, so I went and built these features from the ground up using all native Swift libraries. It works just like an offline ChatGPT.</p>\n<p>To download it on TestFlight, your iOS device must be Apple Intelligence compatible (iPhone 15 Pro or higher end model), and you MUST be on iOS 26 Public Beta.</p>\n<p>Please give me feedback to improve the experience! Thank you!</p>\n<p>TestFlight link:\u00a0<a href=\"https://testflight.apple.com/join/6gaB7S1R\">https://testflight.apple.com/join/6gaB7S1R</a></p>\n<p>Github link:\u00a0<a href=\"https://github.com/sskarz/Aeru-AI\">https://github.com/sskarz/Aeru-AI</a></p>",
+            "content_html": "<p><a href=\"https://reddit.com/link/1mb2lz6/video/5aet3wz6jiff1/player\">App Demo</a></p>\n<p>Hi <a href=\"https://www.reddit.com/r/iOSBeta/\">r/iOSBeta</a>!</p>\n<p>I made an app called Aeru: an app that expands on Apple Intelligence by giving features like multiple chats, document upload, and real-time web search! It's works offline and it's open source for the community!</p>\n<p>I built this app because Apple didn't give these features officially through their developer framework, so I went and built these features from the ground up using all native Swift libraries. It works just like an offline ChatGPT.</p>\n<p>To download it on TestFlight, your iOS device must be Apple Intelligence compatible (iPhone 15 Pro or higher end model), and you MUST be on iOS 26 Public Beta.</p>\n<p>Please give me feedback to improve the experience! Thank you!</p>\n<p>TestFlight link: <a href=\"https://testflight.apple.com/join/6gaB7S1R\">https://testflight.apple.com/join/6gaB7S1R</a></p>\n<p>Github link: <a href=\"https://github.com/sskarz/Aeru-AI\">https://github.com/sskarz/Aeru-AI</a></p>",
             "date_published": "2025-07-28T00:52:32+00:00",
             "authors": [
                 {
@@ -1384,26 +1398,12 @@
             "url": "/r/iOSBeta/comments/1m7tscb/ios_26_db4_multiple_app_icons_have_been_tweaked/",
             "external_url": "https://v.redd.it/op90hthxrqef1",
             "title": "[iOS 26 DB4] Multiple app icons have been tweaked / updated - FaceTime, Calendar, Photos, Camera, Mail, Maps, Reminders, Books, Home, Wallet, Settings (DB1 vs DB4)",
-            "content_html": "<p>App icon changes in beta 4:</p>\n<p>FaceTime - more depth and whiter where the square and triangle meet to form the webcam shape.</p>\n<p>Calendar - red weekday text is less faded and more vibrant.</p>\n<p>Photos - darker petal colours but I think this was changed in a previous beta.</p>\n<p>Camera - new design with a bigger lens, looks more like the actual iPhone camera but I liked the previous iOS 6\u2019ish design.</p>\n<p>Mail - envelope is less blue and more white.</p>\n<p>Maps - highways are now white (previously grey), the Apple Park ring is more transparent, the direction circle is bigger and more glassy.</p>\n<p>Reminders - coloured circles are more pastel.</p>\n<p>Books - book is brighter and whiter.</p>\n<p>Home - soft glow around the house is gone.</p>\n<p>Wallet - card holder has more transparency letting the red card glow through more.</p>\n<p>Settings - updated cog design.</p>\n<p>Notifications badges are also slightly bigger and have a more pinkish red colour.</p>",
+            "content_html": "<p>App icon changes in beta 4:</p>\n<p>FaceTime - more depth and whiter where the square and triangle meet to form the webcam shape.</p>\n<p>Calendar - red weekday text is less faded and more vibrant.</p>\n<p>Photos - darker petal colours but I think this was changed in a previous beta.</p>\n<p>Camera - new design with a bigger lens, looks more like the actual iPhone camera but I liked the previous iOS 6’ish design.</p>\n<p>Mail - envelope is less blue and more white.</p>\n<p>Maps - highways are now white (previously grey), the Apple Park ring is more transparent, the direction circle is bigger and more glassy.</p>\n<p>Reminders - coloured circles are more pastel.</p>\n<p>Books - book is brighter and whiter.</p>\n<p>Home - soft glow around the house is gone.</p>\n<p>Wallet - card holder has more transparency letting the red card glow through more.</p>\n<p>Settings - updated cog design.</p>\n<p>Notifications badges are also slightly bigger and have a more pinkish red colour.</p>",
             "date_published": "2025-07-24T03:31:06+00:00",
             "authors": [
                 {
                     "name": "SpaceKonk",
                     "url": "https://www.reddit.com/user/SpaceKonk"
-                }
-            ]
-        },
-        {
-            "id": "1m6lftb",
-            "url": "/r/iOSBeta/comments/1m6lftb/ios_26_db4_wallpaper_dims_when_opening/",
-            "external_url": "https://i.redd.it/a156yjxlugef1.jpeg",
-            "title": "[iOS 26 DB4] Wallpaper dims when opening Notification Centre",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/a156yjxlugef1.jpeg\" />",
-            "date_published": "2025-07-22T18:08:20+00:00",
-            "authors": [
-                {
-                    "name": "YawnMcie",
-                    "url": "https://www.reddit.com/user/YawnMcie"
                 }
             ]
         }
