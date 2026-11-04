@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1xnz1gq",
+            "url": "https://www.reddit.com/r/MacOSBeta/comments/1xnz1gq/safari_273_includes_adaptive_dark_mode/",
+            "external_url": "https://i.redd.it/inf82soxnnzh1.png",
+            "title": "Safari 27.3 includes Adaptive Dark Mode.",
+            "content_html": "<p>I realized this just a moment ago while browsing, when I was suddenly asked whether I wanted to enable &quot;Adaptive Dark Mode.&quot;</p>\n\n<p><a href=\"https://webkit.org/blog/18541/introducing-adaptive-dark-mode/\">https://webkit.org/blog/18541/introducing-adaptive-dark-mode/</a></p>\n\n<p>So far, it feels faster, smarter, and overall much better than the browser extensions that offer similar functionality.</p>\n\n<p><strong>But tell me, Apple—why do the pop-ups within Safari itself—like the ones asking for permission to download a file—still appear in light mode?</strong></p>\n\n<p>Since they don’t brighten the entire screen, they don’t cause eye strain; still, it’s baffling that—even with the OS, Safari, and the websites themselves all set to dark mode—this one element remains unchanged. I really have to wonder why...</p><div><br></div><img src=\"https://i.redd.it/inf82soxnnzh1.png\" />",
+            "image": "https://preview.redd.it/inf82soxnnzh1.png?width=640&crop=smart&auto=webp&s=40fb718271f7f5a286445615837808939ae72874",
+            "date_published": "2026-11-04T20:31:45+00:00",
+            "authors": [
+                {
+                    "name": "Muted-Reflection9536",
+                    "url": "https://www.reddit.com/user/Muted-Reflection9536"
+                }
+            ]
+        },
+        {
             "id": "1xnj9y5",
             "url": "https://www.reddit.com/r/MacOSBeta/comments/1xnj9y5/macos_273_beta_has_dynamic_island_just_like_ios/",
             "external_url": "https://www.reddit.com/gallery/1xnj9y5",
@@ -1393,20 +1408,6 @@
                 {
                     "name": "scertic",
                     "url": "https://www.reddit.com/user/scertic"
-                }
-            ]
-        },
-        {
-            "id": "1u4iw89",
-            "url": "/r/MacOSBeta/comments/1u4iw89/apple_music_on_macos_should_autohide_the_liquid/",
-            "external_url": "https://i.redd.it/sn0ghkmlpz6h1.jpeg",
-            "title": "Apple Music on macOS should auto-hide the Liquid Glass controls in full-screen lyrics mode",
-            "content_html": "<p>Does anyone else feel that the three Liquid Glass controls in Apple Music’s full-screen lyrics view on macOS are way too distracting?</p>\n<p>In full-screen mode, they just sit there permanently, which feels very awkward and visually inconsistent. They stand out too much and break the immersion, especially compared to the iPhone experience where the controls automatically disappear after a few seconds of inactivity and only reappear when you interact with the screen.</p>\n<p>I really think these controls should auto-hide after about 5 seconds of inactivity and come back when the mouse is moved.</p>\n<p>I’ve always had the feeling that Apple Music on macOS and iPhone isn’t being designed by the same team. There are a lot of small inconsistencies between the two platforms. Maybe we should all submit feedback to Apple and push for a more unified experience.</p>\n<p>Yes or No🤨🧐🤔</p><div><br></div><img src=\"https://i.redd.it/sn0ghkmlpz6h1.jpeg\" />",
-            "date_published": "2026-06-13T05:58:41+00:00",
-            "authors": [
-                {
-                    "name": "Jacktai76",
-                    "url": "https://www.reddit.com/user/Jacktai76"
                 }
             ]
         }
