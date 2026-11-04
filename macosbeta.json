@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1xne7v6",
+            "url": "https://www.reddit.com/r/MacOSBeta/comments/1xne7v6/you_can_create_a_dynamic_island_around_macbooks/",
+            "external_url": "https://v.redd.it/mcki02hwoizh1",
+            "title": "You can create a Dynamic Island around MacBook’s notch on macOS 27.3",
+            "content_html": "<p>You don’t need the new MacBook Pro to get the Dynamic Island on macOS 27.3.</p>\n\n<p>With a bit of tinkering, MenuBarAgent can render Live Activities around the notch. Spotlight can also be docked on the island and feels extremely fluid.</p>\n\n<p>As always, I’m getting everything together and will post a repo or gist with more details and reproduction steps. Still trying to map out support for external displays, etc. <strong>Since you’re manipulating a system resource, it requires SIP off, so it’s not for the faint of heart.</strong> More soon!</p>",
+            "image": "https://external-preview.redd.it/aW9wNDlsaHdvaXpoMa4vneiaxkLshWehHxEs8h7Fc6kyvt1BlPQzdxB9j_od.png?width=640&crop=smart&format=pjpg&auto=webp&s=b4c93105cc0debcd2cb1c72be244fe5e833722e0",
+            "date_published": "2026-11-04T03:52:37+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1xn7kpi",
             "url": "https://www.reddit.com/r/MacOSBeta/comments/1xn7kpi/safari_27_brings_back_support_for_global_privacy/",
             "external_url": "https://i.redd.it/uwi8w70e6hzh1.png",
@@ -1391,20 +1406,6 @@
                 {
                     "name": "OverDifference8749",
                     "url": "https://www.reddit.com/user/OverDifference8749"
-                }
-            ]
-        },
-        {
-            "id": "1u3shtq",
-            "url": "/r/MacOSBeta/comments/1u3shtq/it_appears_the_new_siri_ai_will_automatically/",
-            "external_url": "https://www.reddit.com/gallery/1u3shtq",
-            "title": "It appears the new Siri AI will automatically read files and suggest names for them",
-            "content_html": "",
-            "date_published": "2026-06-12T11:22:12+00:00",
-            "authors": [
-                {
-                    "name": "Maple382",
-                    "url": "https://www.reddit.com/user/Maple382"
                 }
             ]
         }
