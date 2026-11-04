@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1xnj9y5",
+            "url": "https://www.reddit.com/r/MacOSBeta/comments/1xnj9y5/macos_273_beta_has_dynamic_island_just_like_ios/",
+            "external_url": "https://www.reddit.com/gallery/1xnj9y5",
+            "title": "macOS 27.3 Beta has dynamic island just like iOS does",
+            "content_html": "<p>and it works on every app/web</p>",
+            "image": "https://preview.redd.it/t3vrrsrq6kzh1.png?width=254&format=png&auto=webp&s=a495344409a71c4e1f71cefd8ff7ff564b97dee6",
+            "date_published": "2026-11-04T08:46:29+00:00",
+            "authors": [
+                {
+                    "name": "duudun",
+                    "url": "https://www.reddit.com/user/duudun"
+                }
+            ]
+        },
+        {
             "id": "1xne7v6",
             "url": "https://www.reddit.com/r/MacOSBeta/comments/1xne7v6/you_can_create_a_dynamic_island_around_macbooks/",
             "external_url": "https://v.redd.it/mcki02hwoizh1",
@@ -1392,20 +1407,6 @@
                 {
                     "name": "Jacktai76",
                     "url": "https://www.reddit.com/user/Jacktai76"
-                }
-            ]
-        },
-        {
-            "id": "1u3ygvl",
-            "url": "/r/MacOSBeta/comments/1u3ygvl/widget_update_macos_27_beta/",
-            "external_url": "https://i.redd.it/fqnij8uzdv6h1.png",
-            "title": "widget update macos 27 beta",
-            "content_html": "<p>just found out that the new macos 27 let you see the charge of non apple devices in the widget now, this mouse is logitech mx 3s.</p><div><br></div><img src=\"https://i.redd.it/fqnij8uzdv6h1.png\" />",
-            "date_published": "2026-06-12T15:27:16+00:00",
-            "authors": [
-                {
-                    "name": "OverDifference8749",
-                    "url": "https://www.reddit.com/user/OverDifference8749"
                 }
             ]
         }
