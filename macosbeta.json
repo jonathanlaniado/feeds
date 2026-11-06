@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1xpivqm",
+            "url": "https://www.reddit.com/r/MacOSBeta/comments/1xpivqm/macos_273_lays_the_groundwork_for_a_big_leap_in/",
+            "external_url": "https://i.redd.it/mmxqeo1nz00i1.jpeg",
+            "title": "macOS 27.3 lays the groundwork for a big leap in Siri AI’s personal context",
+            "content_html": "<p>While a lot of attention has gone to the announced <a href=\"https://developer.apple.com/news/?id=gdk2umrf\">expansion of compatible App Intents</a> with Siri AI, the bigger changes are under the hood. Two new systems for storing and retrieving personal context are bound to make Siri AI more personal soon.</p>\n\n<h1>Explicit-memory store</h1>\n\n<p>Apple is building an explicit-memory store for Siri AI. Memory records are queried via full-text (BM25) and vector search, then merged via RRF.</p>\n\n<p>Siri’s chat recall in 27.2 uses the same search pipeline to find past chats.</p>\n\n<p>There is no producer of explicit-memory records in this beta, as the feature is hard-disabled.</p>\n\n<h1>Memory graph</h1>\n\n<p>macOS 27.3 also introduces a memory graph.</p>\n\n<p>It’s centered around you: contact info, health, IDs, relationships, frequent places, routines, activities, workouts, Q&amp;As about you, and what motivates you or holds you back. There’s also a Siri profile: response style, interests, current focus, important people, lifestyle.</p>\n\n<p>The graph includes “memory atoms”: facts, opinions, intentions and events, with time, place, people and topic.</p>\n\n<p>Tidbits:</p>\n\n<ul>\n<li>The memory graph is filled by two kinds of recipes:\n\n<ol>\n<li>Fastpass: Turns already-structured data into insights. For example, Person-v1 reads your Me card’s name fields.</li>\n<li>Agent: An on-device or PCC model extracts insights by querying Siri chats, messages, photos, health data, and other sources.</li>\n<li>There’s only one agent recipe today, MotivatorBarrierResource. Its prompt asks 60 built-in questions, including “Do extended solo media activities during evening downtime routines highlight time availability barriers for adequate sleep?”</li>\n</ol></li>\n<li>These features are rolling out across OS 27.3. Some recipes may not run on all platforms, depending on available data. HealthSummary-v1 and MotivatorBarrierResource don’t run on macOS, but are enabled on iOS.</li>\n<li>The memory graph infrastructure is still being built. For example, there’s no process that creates memory atoms yet.</li>\n<li>Memory atoms can generalize into broader memories. Each is tagged with one of 21 topics, such as food, travel, finance, or services, which can store your dentist or lawyer.​</li>\n</ul>\n\n<hr/>\n\n<p>Here’s where to find the DBs on Mac:</p>\n\n<ul>\n<li>Memory graph: <code>~/Library/CorePersonalization/insight/MemoryGraph/memorygraph.db​</code></li>\n<li>HybridSearch (incl. explicit-memory records, none yet): <code>~/Library/Daemon Containers/&lt;UUID&gt;/Data/Library/HybridSearch/index/C/index.db</code></li>\n</ul>\n\n<p>Both are built on the Kuzu embedded graph database Apple acquired. They use HybridDatabase, Apple’s fork of Kuzu (storage v57), so the archived public <a href=\"https://github.com/kuzudb/kuzu\">kuzu package</a> can’t open them. You can use HybridDatabase.framework.</p><div><br></div><img src=\"https://i.redd.it/mmxqeo1nz00i1.jpeg\" />",
+            "image": "https://preview.redd.it/mmxqeo1nz00i1.jpeg?width=640&crop=smart&auto=webp&s=51960219052ffddf83db2dbda7a14a4304d88215",
+            "date_published": "2026-11-06T17:35:32+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1xpc4ww",
             "url": "https://www.reddit.com/r/MacOSBeta/comments/1xpc4ww/macos_273_public_beta_is_out/",
             "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1xpc4ww/macos_273_public_beta_is_out/",
@@ -1394,20 +1409,6 @@
                 {
                     "name": "SuccinctJackalope",
                     "url": "https://www.reddit.com/user/SuccinctJackalope"
-                }
-            ]
-        },
-        {
-            "id": "1u5unm8",
-            "url": "/r/MacOSBeta/comments/1u5unm8/safari_describe_an_extension/",
-            "external_url": "https://i.redd.it/9hqqiqwqwa7h1.png",
-            "title": "Safari \"Describe an Extension\"",
-            "content_html": "<p>One thing I feel like isn't getting as much attention as it deserves is the \"Describe an Extension\" feature in Safari 27.0.  In case you're not familiar, you can use the foundation model to essentially vibe code a custom Safari extension to do whatever you want (within reason).  At first, I was a little lost on what I would actually use that I don't already have - and then it hit me.  I am all the time trying to scramble for a place to take notes, write down phone numbers, etc. especially when I'm on the phone with one hand and using the Mac to navigate with the other.  So here it is: a fully functioning Safari extension that give me place to type quick notes with a few formatting options and a share button to export to message, notes, and a few other apps with a click.  Not bad.</p>\n<p>What I wasn't able to get it to do yet was replace the formatting buttons and share buttons with SF symbols, even when providing the official name of each symbol.  If anyone is able to get it to drop SF symbols in their labels, please let me know how they phrased their prompt.</p>\n<p>What other ideas have you all come up with?</p>\n<p>Edit: I realize a note taking extension likely exists in the form of other extensions on either Safari or other browsers, but I'm pretty excited about the customization it offers me to build and extension (almost) the way I want it.</p><div><br></div><img src=\"https://i.redd.it/9hqqiqwqwa7h1.png\" />",
-            "date_published": "2026-06-14T19:42:30+00:00",
-            "authors": [
-                {
-                    "name": "AlarmedRange7258",
-                    "url": "https://www.reddit.com/user/AlarmedRange7258"
                 }
             ]
         }
