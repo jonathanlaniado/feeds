@@ -8,6 +8,20 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1xpc4ww",
+            "url": "https://www.reddit.com/r/MacOSBeta/comments/1xpc4ww/macos_273_public_beta_is_out/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1xpc4ww/macos_273_public_beta_is_out/",
+            "title": "MacOS 27.3 public beta is out!",
+            "content_html": "<p>Ladies and gentlemen, please start your updates!</p>",
+            "date_published": "2026-11-06T12:56:50+00:00",
+            "authors": [
+                {
+                    "name": "Jebus-Xmas",
+                    "url": "https://www.reddit.com/user/Jebus-Xmas"
+                }
+            ]
+        },
+        {
             "id": "1xnz1gq",
             "url": "https://www.reddit.com/r/MacOSBeta/comments/1xnz1gq/safari_273_includes_adaptive_dark_mode/",
             "external_url": "https://i.redd.it/inf82soxnnzh1.png",
@@ -1394,20 +1408,6 @@
                 {
                     "name": "AlarmedRange7258",
                     "url": "https://www.reddit.com/user/AlarmedRange7258"
-                }
-            ]
-        },
-        {
-            "id": "1u5p277",
-            "url": "/r/MacOSBeta/comments/1u5p277/i_got_fast_on_the_trigger_went_better_than_i/",
-            "external_url": "https://www.reddit.com/gallery/1u5p277",
-            "title": "I got fast on the trigger - went better than I could dream of",
-            "content_html": "<p>So, I was thinking last few days and decided to pull the trigger.</p>\n<p>Updates all to 27. And as someone coming from public beta 26 - this what should look more like an \"alpha\" actually resolves tons of issues.</p>\n<p>My SAN time machine backups are running again, Little Snitch dropped a nightly build and works perfectly.</p>\n<p>Upgrading Apple TV which is a Hub for automation and Ipad Pro, from there - i'll ensure everyone in household devices are updates.</p>\n<p>What a job! This \"developers\" edition is far more stable and bug free than Public Beta. Glad I plugged the trigger on my main M3 Ultra.</p>\n<p>(Not affiliated with apple just pleasantly surprised).</p>",
-            "date_published": "2026-06-14T16:05:09+00:00",
-            "authors": [
-                {
-                    "name": "scertic",
-                    "url": "https://www.reddit.com/user/scertic"
                 }
             ]
         }
