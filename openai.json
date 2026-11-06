@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1xpkrrv",
+            "url": "https://www.reddit.com/r/OpenAI/comments/1xpkrrv/68_of_americans_support_an_ai_pause_and_a_ban_on/",
+            "external_url": "https://i.redd.it/ilyu41j0g10i1.jpeg",
+            "title": "68% of Americans support an AI pause and a ban on superintelligence",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/ilyu41j0g10i1.jpeg\" />",
+            "image": "https://preview.redd.it/ilyu41j0g10i1.jpeg?width=640&crop=smart&auto=webp&s=5f8025866c308cb7661e9bf3a051d9a2d33f8a01",
+            "date_published": "2026-11-06T18:48:30+00:00",
+            "authors": [
+                {
+                    "name": "notkilleveryoneist",
+                    "url": "https://www.reddit.com/user/notkilleveryoneist"
+                }
+            ]
+        },
+        {
             "id": "1xohajy",
             "url": "https://www.reddit.com/r/OpenAI/comments/1xohajy/linux_kernel_maintainers/",
             "external_url": "https://i.redd.it/3kw5iabxdszh1.jpeg",
@@ -1391,20 +1406,6 @@
                 {
                     "name": "FinnFarrow",
                     "url": "https://www.reddit.com/user/FinnFarrow"
-                }
-            ]
-        },
-        {
-            "id": "1niccx4",
-            "url": "/r/OpenAI/comments/1niccx4/uae_deposited_2_billion_in_trumps_crypto_firm/",
-            "external_url": "https://i.redd.it/1bhsa5utrhpf1.png",
-            "title": "UAE deposited $2 billion in Trump's crypto firm, then two weeks later Trump gave them AI chips",
-            "content_html": "<p><a href=\"https://www.nytimes.com/2025/09/15/us/politics/trump-uae-chips-witkoff-world-liberty.html?unlocked_article_code=1.mE8.mU8m.zjKmCNpVu2Je&amp;smid=url-share\">https://www.nytimes.com/2025/09/15/us/politics/trump-uae-chips-witkoff-world-liberty.html?unlocked_article_code=1.mE8.mU8m.zjKmCNpVu2Je&amp;smid=url-share</a></p><div><br></div><img src=\"https://i.redd.it/1bhsa5utrhpf1.png\" />",
-            "date_published": "2025-09-16T09:03:09+00:00",
-            "authors": [
-                {
-                    "name": "MetaKnowing",
-                    "url": "https://www.reddit.com/user/MetaKnowing"
                 }
             ]
         }
