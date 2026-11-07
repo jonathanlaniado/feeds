@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1xqifx4",
+            "url": "https://www.reddit.com/r/MacOSBeta/comments/1xqifx4/macos_273_starts_implementing_changes_to_full/",
+            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1xqifx4/macos_273_starts_implementing_changes_to_full/",
+            "title": "macOS 27.3 starts implementing changes to Full Disk Access",
+            "content_html": "<p>Back in October, Apple <a href=\"https://developer.apple.com/news/?id=p6zjojqw\">announced</a> that macOS will soon require ‘very explicit user action’ to enable Full Disk Access for apps. Here’s what that may mean based on macOS 27.3 changes.</p>\n\n<p>Today, when an app tries to read a protected file without Full Disk Access (FDA), macOS doesn’t prompt the user to grant permission. Instead, it automatically denies access and records that denial in the TCC database.</p>\n\n<p>Once in the db, apps show up under Settings &gt; Privacy &amp; Security &gt; Full Disk Access with their toggle off. Apps will often add themselves to the list, then instruct the user to open Settings and flip the toggle.</p>\n\n<p>Not anymore: starting with macOS 27.3 and feature flag TCC/FDA_WARNING, automatic denials are no longer saved. Users will have to explicitly add an app to the list with the + button or by dragging it in from Applications.</p>\n\n<p>So far, the flag doesn’t add any additional warnings or dialogs, but its name suggests these may arrive in future betas. The flag is disabled in 27.3 beta 1.</p>\n\n<hr/>\n\n<p>Relatedly, macOS 27.3 introduces “Private Folders,” a new folder-by-folder permission configured like Full Disk Access. Not fully wired up yet, but it could offer a narrower alternative to Full Disk Access.</p>\n\n<p>It’s also impacted by TCC/FDA_WARNING: when the flag is on, automatic Private Folders denials aren’t saved either.</p>",
+            "image": "https://external-preview.redd.it/2xdDCeHMexq4Wc0APwLaiOm4qfSdHIhuNR1tnUr_iNA.png?width=640&crop=smart&auto=webp&s=48ee3e772ec5a6183eb6755e542155159bda65e2",
+            "date_published": "2026-11-07T22:14:44+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1xpivqm",
             "url": "https://www.reddit.com/r/MacOSBeta/comments/1xpivqm/macos_273_lays_the_groundwork_for_a_big_leap_in/",
             "external_url": "https://i.redd.it/mmxqeo1nz00i1.jpeg",
@@ -1395,20 +1410,6 @@
                 {
                     "name": "ngagner15",
                     "url": "https://www.reddit.com/user/ngagner15"
-                }
-            ]
-        },
-        {
-            "id": "1u6t56p",
-            "url": "/r/MacOSBeta/comments/1u6t56p/the_liquid_glass_distortion_on_the_dock_is/",
-            "external_url": "https://i.redd.it/qas7h49ffi7h1.png",
-            "title": "The liquid glass distortion on the dock is honestly so beautiful, I don't care what anyone says",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/qas7h49ffi7h1.png\" />",
-            "date_published": "2026-06-15T20:57:25+00:00",
-            "authors": [
-                {
-                    "name": "SuccinctJackalope",
-                    "url": "https://www.reddit.com/user/SuccinctJackalope"
                 }
             ]
         }
