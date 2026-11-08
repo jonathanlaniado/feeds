@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1xr7sv7",
+            "url": "https://www.reddit.com/r/MacOSBeta/comments/1xr7sv7/macos_273_lets_core_ai_in_mac_vms_use_the_hosts/",
+            "external_url": "https://i.redd.it/w4jxuk8v0g0i1.png",
+            "title": "macOS 27.3 lets Core AI in Mac VMs use the host’s GPU and Neural Engine.",
+            "content_html": "<p>Big news for virtualization: Core AI can now rely on the host for model preparation and inference.</p>\n\n<p>In some tests, the new paravirtualized paths can run Core AI tasks up to 7× faster¹ than the guest CPU, achieving 50 to nearly 100% of the host’s native speed.</p>\n\n<p>The new Core AI accelerator currently requires private APIs and a restricted entitlement.</p>\n\n<p>Here&#39;s how to set it up:\n*  Install macOS 27.3 on the host and guest.\n*  Build a VM host app with com.apple.security.virtualization and com.apple.private.virtualization entitlements. You’ll need to relax AMFI for the second entitlement.\n*  On VZVirtualMachineConfiguration, add the accelerators using _setAcceleratorDevices with:\n   *  _VZMacCoreAIDeviceConfiguration (GPU, adds PVAIDevice)\n   *  _VZMacNeuralEngineDeviceConfiguration (existing ANE accelerator, adds Neural Engine for Core AI)</p>\n\n<p>On the guest, enable the feature flag:</p>\n\n<p><code>\nsudo mkdir -p /Library/Preferences/FeatureFlags/Domain &amp;&amp; \\\nsudo defaults write /Library/Preferences/FeatureFlags/Domain/ParavirtualizedCoreAI enable_pv_delegate -dict Enabled -bool true\n</code></p>\n\n<p>and restart the guest. You can now call Core AI on the guest. If set up properly, ComputeUnitKind.availableKinds should list gpu and neuralEngine.</p>\n\n<hr/>\n\n<p>There&#39;s a second, currently disabled host-side feature flag (ParavirtualizedCoreAIHost/enable_save_restore). When enabled, the Core AI accelerator advertises support for saving and restoring VM state.</p>\n\n<hr/>\n\n<p>1. Tested on a Mac with an M4 Max chip using public models (YOLO, CLIP, Depth Anything) and matmul/convolution benchmarks. Crossing the VM boundary adds ~1 ms per inference call.</p>\n\n<p>Qwen3-0.6B in Apple’s llm-benchmark ran at about 10% of host speed. Core AI’s paravirtualized path repeatedly sets up host access to large shared KV-cache buffers for each generated token.</p><div><br></div><img src=\"https://i.redd.it/w4jxuk8v0g0i1.png\" />",
+            "image": "https://preview.redd.it/w4jxuk8v0g0i1.png?width=640&crop=smart&auto=webp&s=ed67acb9adfdac9f009509e2f2697552429cd182",
+            "date_published": "2026-11-08T20:09:05+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1xqifx4",
             "url": "https://www.reddit.com/r/MacOSBeta/comments/1xqifx4/macos_273_starts_implementing_changes_to_full/",
             "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1xqifx4/macos_273_starts_implementing_changes_to_full/",
@@ -1396,20 +1411,6 @@
                 {
                     "name": "jagajazzist",
                     "url": "https://www.reddit.com/user/jagajazzist"
-                }
-            ]
-        },
-        {
-            "id": "1ubu8ol",
-            "url": "/r/MacOSBeta/comments/1ubu8ol/macos_27_db1_has_been_an_incredible_experience_on/",
-            "external_url": "https://i.redd.it/42dkgklcvn8h1.png",
-            "title": "macOS 27 DB1 has been an incredible experience on my M1 Pro, the system overall feels much snappier and responsive compared to Tahoe",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/42dkgklcvn8h1.png\" />",
-            "date_published": "2026-06-21T16:23:11+00:00",
-            "authors": [
-                {
-                    "name": "ngagner15",
-                    "url": "https://www.reddit.com/user/ngagner15"
                 }
             ]
         }
