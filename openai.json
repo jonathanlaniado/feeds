@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1xrr0a0",
+            "url": "https://www.reddit.com/r/OpenAI/comments/1xrr0a0/were_only_human_for_now/",
+            "external_url": "https://i.redd.it/r3oh5v8d4l0i1.png",
+            "title": "We're only Human... for now.",
+            "content_html": "<p>I wonder how many engineers have given up secrets for a favor?</p><div><br></div><img src=\"https://i.redd.it/r3oh5v8d4l0i1.png\" />",
+            "image": "https://preview.redd.it/r3oh5v8d4l0i1.png?width=640&crop=smart&auto=webp&s=fbb33cae697a20ecede3f144ed6ded846926f75e",
+            "date_published": "2026-11-09T12:58:45+00:00",
+            "authors": [
+                {
+                    "name": "Cyborgized",
+                    "url": "https://www.reddit.com/user/Cyborgized"
+                }
+            ]
+        },
+        {
             "id": "1xrofkd",
             "url": "https://www.reddit.com/r/OpenAI/comments/1xrofkd/its_not_your_fault_jenson/",
             "external_url": "https://v.redd.it/xot1u9y6fk0i1",
@@ -1393,20 +1408,6 @@
                 {
                     "name": "vaginamomsresearcher",
                     "url": "https://www.reddit.com/user/vaginamomsresearcher"
-                }
-            ]
-        },
-        {
-            "id": "1nn0q84",
-            "url": "/r/OpenAI/comments/1nn0q84/chatgpt5_will_be_our_most_unified_model_ever/",
-            "external_url": "https://i.redd.it/ohesdd1dhkqf1.png",
-            "title": "\"ChatGPT-5 Will Be Our Most Unified Model Ever\" ChatGPT-5:",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/ohesdd1dhkqf1.png\" />",
-            "date_published": "2025-09-21T19:11:21+00:00",
-            "authors": [
-                {
-                    "name": "ethotopia",
-                    "url": "https://www.reddit.com/user/ethotopia"
                 }
             ]
         }
