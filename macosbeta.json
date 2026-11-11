@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1xtdnyb",
+            "url": "https://www.reddit.com/r/MacOSBeta/comments/1xtdnyb/new_directory_utility_icon_in_273/",
+            "external_url": "https://www.reddit.com/gallery/1xtdnyb",
+            "title": "New Directory Utility icon in 27.3",
+            "content_html": "<p>To think there is someone updating the icons for apps this obscure goes to show how far they will go for design to be consistent. (Previous icon for comparison) It satisfies the perfectionist part of my brain. They did this in 27.2 with: Automator, Automator Application Stub, Digital Color Meter, Stickies, Keychain Access, Ticket Viewer, Medical Imaging Calibrator, and Pro Display Calibrator, apps less than 5% of people will use </p>\n\n<p>And they seem to have added two mysterious apps in CoreServices (icons included): AirPlay Receiver and MacInCallService; first one can only be opened one time and second one not at all</p>\n\n<p><a href=\"https://logos.fandom.com/wiki/Category:macOS\">https://logos.fandom.com/wiki/Category:macOS</a></p>",
+            "image": "https://preview.redd.it/w3twutvaey0i1.png?width=640&crop=smart&auto=webp&s=96b1e4e590c96270a44cfa0feff7477a2169638e",
+            "date_published": "2026-11-11T09:42:14+00:00",
+            "authors": [
+                {
+                    "name": "Weird_Decision7090",
+                    "url": "https://www.reddit.com/user/Weird_Decision7090"
+                }
+            ]
+        },
+        {
             "id": "1xr7sv7",
             "url": "https://www.reddit.com/r/MacOSBeta/comments/1xr7sv7/macos_273_lets_core_ai_in_mac_vms_use_the_hosts/",
             "external_url": "https://i.redd.it/w4jxuk8v0g0i1.png",
@@ -1397,20 +1412,6 @@
                 {
                     "name": "yadvr",
                     "url": "https://www.reddit.com/user/yadvr"
-                }
-            ]
-        },
-        {
-            "id": "1ucqmsu",
-            "url": "/r/MacOSBeta/comments/1ucqmsu/golden_gate_beta_2_released/",
-            "external_url": "https://www.macrumors.com/2026/06/22/apple-seeds-macos-golden-gate-beta-2/",
-            "title": "Golden Gate Beta 2 released",
-            "content_html": "",
-            "date_published": "2026-06-22T17:12:59+00:00",
-            "authors": [
-                {
-                    "name": "jagajazzist",
-                    "url": "https://www.reddit.com/user/jagajazzist"
                 }
             ]
         }
