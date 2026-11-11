@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1xtec05",
+            "url": "https://www.reddit.com/r/homeassistant/comments/1xtec05/ive_made_my_own_ha_remote_controller/",
+            "external_url": "https://www.reddit.com/gallery/1xtec05",
+            "title": "I’ve made my own HA remote controller",
+            "content_html": "<p>Being inspired by <a href=\"https://www.thestockpot.net/videos/theeverythingremote\">this post</a> I decided to make my own custom remote controller. (Also inspired by the Google TV remote :-))</p>\n\n<p>We have a wall mounted tablet to control most of the house, but sometimes it’s just faster or more convenient to use a controller. </p>\n\n<p>I’ve used a 1200mA battery and a ESP32-H2 board that supports zigbee with deepsleep functions. That way the battery will last for many months before needing to recharge. </p>\n\n<p>One press of a button controls many automations like starting the vacuum cleaner, different light scenes, adjusting the HVAC temperature or airspeed, play music and control volume. </p>\n\n<p>The case is 3D printed, and the PCB is custom made in china. </p>\n\n<p>Total cost of the materials was about €40.</p>\n\n<p>It’s a great beginner project and I’ve learned alot by making it! </p>",
+            "image": "https://preview.redd.it/0f6cefenmy0i1.jpeg?width=640&crop=smart&auto=webp&s=b698953cb987a629c2a48eb35bec9811b52cd909",
+            "date_published": "2026-11-11T10:24:21+00:00",
+            "authors": [
+                {
+                    "name": "Zweetkonijn",
+                    "url": "https://www.reddit.com/user/Zweetkonijn"
+                }
+            ]
+        },
+        {
             "id": "1xr35l3",
             "url": "https://www.reddit.com/r/homeassistant/comments/1xr35l3/i_tested_10_smart_soil_moisture_sensors_in_home/",
             "external_url": "https://i.redd.it/t7ezeo7q4f0i1.jpeg",
@@ -1391,20 +1406,6 @@
                 {
                     "name": "chimph",
                     "url": "https://www.reddit.com/user/chimph"
-                }
-            ]
-        },
-        {
-            "id": "1kdip17",
-            "url": "/r/homeassistant/comments/1kdip17/are_you_kidding_me/",
-            "external_url": "https://www.reddit.com/r/homeassistant/comments/1kdip17/are_you_kidding_me/",
-            "title": "Are you kidding me?!",
-            "content_html": "<p>I just can't right now.</p>\n<p>I am extremely disappointed with the new backup and restore that the DEVs at HA have forced on us.</p>\n<p>I had to replace my cheapo mini PC due to stability issues. I purchased a nice fan less unit and was really looking forward to digging into this migration after work today.</p>\n<p>I thought that I would get a jump on the weekends worth of work and installed the HASSOS image during lunch. I put my nabu casa credentials in the welcome screen and then told it to restore my back up.</p>\n<p>Needless to say, the restore was done and my HA was back up and running before my lunch break was over. No issues at all!</p>\n<p>Now what am I supposed to do all weekend? Yardwork? Thanks DEVs!</p>",
-            "date_published": "2025-05-03T02:40:43+00:00",
-            "authors": [
-                {
-                    "name": "imonlinux",
-                    "url": "https://www.reddit.com/user/imonlinux"
                 }
             ]
         }
