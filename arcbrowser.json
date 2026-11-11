@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1xt6dn9",
+            "url": "https://www.reddit.com/r/ArcBrowser/comments/1xt6dn9/i_forced_myself_to_try_dia_for_a_week/",
+            "external_url": "https://i.redd.it/sw292yglbw0i1.png",
+            "title": "I forced myself to try Dia for a week.",
+            "content_html": "<p>I&#39;ve been using Arc for 4 years. After TBC announced Arc was being sunset, I tried Dia for a full week.</p>\n\n<p>It felt painfully slow and clunky. I figured I may set something up wrong, so I reinstalled it, but nothing changed. I really wanted to like it, so I stuck it out for the whole week. It just never clicked for me.</p>\n\n<p>I ended up switching to Brave, since it supports vertical tabs. It’s not the same as Arc, but it’s close enough. Two weeks in, I’m really happy with the switch.</p>\n\n<p>To be clear, I’m not posting this to bash TBC. Good products tend to get enshittified over time, and this one happens to be an example.</p>\n\n<p>Thanks Arc for the delightful UX. It was great while it lasted. On to the next one!</p><div><br></div><img src=\"https://i.redd.it/sw292yglbw0i1.png\" />",
+            "image": "https://preview.redd.it/sw292yglbw0i1.png?width=640&crop=smart&auto=webp&s=01d82f83f2656d82db9d8fa4500d222d9a1381b8",
+            "date_published": "2026-11-11T02:44:22+00:00",
+            "authors": [
+                {
+                    "name": "Mischuz",
+                    "url": "https://www.reddit.com/user/Mischuz"
+                }
+            ]
+        },
+        {
             "id": "1xrgz44",
             "url": "https://www.reddit.com/r/ArcBrowser/comments/1xrgz44/there_are_now_56_browsers_trying_to_replace_arc/",
             "external_url": "https://i.redd.it/k2zxv0m98i0i1.png",
@@ -1392,20 +1407,6 @@
                 {
                     "name": "humid_mist",
                     "url": "https://www.reddit.com/user/humid_mist"
-                }
-            ]
-        },
-        {
-            "id": "1i9yt2o",
-            "url": "/r/ArcBrowser/comments/1i9yt2o/dia_is_dead_openai_has_checkmated_tbc/",
-            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1i9yt2o/dia_is_dead_openai_has_checkmated_tbc/",
-            "title": "Dia is Dead. OpenAI has checkmated TBC.",
-            "content_html": "<p>OpenAI just released their own browser called <a href=\"https://openai.com/index/introducing-operator/\">Operator</a>. It is an agent that will autonomously browse for you. We already know <a href=\"https://www.linkedin.com/in/darin-fisher-7059ab/\">Darin Fisher</a> (inventor of Chrome) left TBC for OpenAI a few months ago. All the use cases for Dia are eliminated since Operator will be able to do it and more. </p>\n<p>Does anyone see a future for TBC with Arc and Dia both dead ? IMO they have been checkmated out of the ecosystem. </p>",
-            "date_published": "2025-01-25T22:25:39+00:00",
-            "authors": [
-                {
-                    "name": "getflowinsurance",
-                    "url": "https://www.reddit.com/user/getflowinsurance"
                 }
             ]
         }
