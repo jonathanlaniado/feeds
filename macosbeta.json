@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1xuk7ut",
+            "url": "https://www.reddit.com/r/MacOSBeta/comments/1xuk7ut/macos_27_is_getting_a_new_airplay_receiver_app/",
+            "external_url": "https://v.redd.it/v7ufjljs281i1",
+            "title": "macOS 27 is getting a new AirPlay Receiver app",
+            "content_html": "<p>As you may remember, macOS 27.0 shipped with a hidden feature flag that <a href=\"https://www.reddit.com/r/MacOSBeta/comments/1vhhw4w\">let you AirPlay to your Mac in a window</a> instead of taking over the entire screen. Apple then force-disabled it in macOS 27.2.</p>\n\n<p>But I have good news: a brand new AirPlay Receiver app is coming! It’s a new implementation over the <code>AirPlayWindow</code> within <code>ControlCenter</code> that’s currently used.</p>\n\n<p>It effortlessly switches between Windowed and Takeover mode, and remembers your last setting the next time you use AirPlay.</p>\n\n<p>The app was added in macOS 27.3 beta 1, but is not complete, and doesn’t start the AirPlay receiver server out of the box. <code>ControlCenter</code> still handles incoming connections.</p>",
+            "image": "https://external-preview.redd.it/cW1hMWk3a3MyODFpMTF3bYnO_5pA64dvznbGJjwNPjY2vWX8dN04rez4rVJs.png?width=640&crop=smart&format=pjpg&auto=webp&s=b70caa36207cecc1a674556ed25b48aa2cdb3c68",
+            "date_published": "2026-11-12T18:16:14+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1xtdnyb",
             "url": "https://www.reddit.com/r/MacOSBeta/comments/1xtdnyb/new_directory_utility_icon_in_273/",
             "external_url": "https://www.reddit.com/gallery/1xtdnyb",
@@ -1398,20 +1413,6 @@
                 {
                     "name": "ResponseAvailable641",
                     "url": "https://www.reddit.com/user/ResponseAvailable641"
-                }
-            ]
-        },
-        {
-            "id": "1ude2rx",
-            "url": "/r/MacOSBeta/comments/1ude2rx/macos_27_golden_gate_beta_2_is_here_now_release/",
-            "external_url": "https://developer.apple.com/documentation/macos-release-notes/macos-27-release-notes",
-            "title": "macOS 27 Golden Gate Beta 2 is here now - Release Notes link for anybody who'd like review changes",
-            "content_html": "<p>Well none of my reported issues are fixed, but good to see Beta 2.</p>\n<p>Handy links:</p>\n<p><a href=\"https://developer.apple.com/documentation/macos-release-notes/macos-27-release-notes\">https://developer.apple.com/documentation/macos-release-notes/macos-27-release-notes</a></p>\n<p><a href=\"https://beta.apple.com/en-GB/guide#macos\">https://beta.apple.com/en-GB/guide#macos</a></p>\n<p><a href=\"https://developer.apple.com/download/os/\">https://developer.apple.com/download/os/</a></p>\n<p>macOS27 Beta2 ipsw: <a href=\"https://updates.cdn-apple.com/2026SummerSeed/fullrestores/140-20108/5D0C3865-B25E-4700-A8B0-A15D60451BF4/UniversalMac_27.0_26A5368g_Restore.ipsw\">https://updates.cdn-apple.com/2026SummerSeed/fullrestores/140-20108/5D0C3865-B25E-4700-A8B0-A15D60451BF4/UniversalMac_27.0_26A5368g_Restore.ipsw</a></p>",
-            "date_published": "2026-06-23T11:05:46+00:00",
-            "authors": [
-                {
-                    "name": "yadvr",
-                    "url": "https://www.reddit.com/user/yadvr"
                 }
             ]
         }
