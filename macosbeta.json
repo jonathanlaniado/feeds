@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1xum5r8",
+            "url": "https://www.reddit.com/r/MacOSBeta/comments/1xum5r8/safari_has_more_liquid_glass/",
+            "external_url": "https://v.redd.it/r03x4k0bg81i1",
+            "title": "Safari has more Liquid Glass",
+            "content_html": "<p>Grabbing a tab and tab previews are now Liquid Glass in 27.3</p>",
+            "image": "https://external-preview.redd.it/NzJmYTlwMGJnODFpMS7eDEr5Usa_c6ttcFTRrFNQVUt3LFGJvGeIxbPhA1o2.png?width=640&crop=smart&format=pjpg&auto=webp&s=63ae9beaedb5fe7774596b7aa3667ca6629f79bb",
+            "date_published": "2026-11-12T19:27:37+00:00",
+            "authors": [
+                {
+                    "name": "Weird_Decision7090",
+                    "url": "https://www.reddit.com/user/Weird_Decision7090"
+                }
+            ]
+        },
+        {
             "id": "1xuk7ut",
             "url": "https://www.reddit.com/r/MacOSBeta/comments/1xuk7ut/macos_27_is_getting_a_new_airplay_receiver_app/",
             "external_url": "https://v.redd.it/v7ufjljs281i1",
@@ -1399,20 +1414,6 @@
                 {
                     "name": "adh1003",
                     "url": "https://www.reddit.com/user/adh1003"
-                }
-            ]
-        },
-        {
-            "id": "1udmdfo",
-            "url": "/r/MacOSBeta/comments/1udmdfo/macos_27_has_its_own_logo_in_settings_on_both/",
-            "external_url": "https://www.reddit.com/gallery/1udmdfo",
-            "title": "macOS 27 has its own logo in Settings on both Light and Dark modes",
-            "content_html": "<p>seen on Dev. beta 2</p>",
-            "date_published": "2026-06-23T16:43:14+00:00",
-            "authors": [
-                {
-                    "name": "ResponseAvailable641",
-                    "url": "https://www.reddit.com/user/ResponseAvailable641"
                 }
             ]
         }
