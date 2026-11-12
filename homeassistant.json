@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1xudotg",
+            "url": "https://www.reddit.com/r/homeassistant/comments/1xudotg/how_this_sub_feels_lately/",
+            "external_url": "https://i.redd.it/c2zu8vphv61i1.jpeg",
+            "title": "How this sub feels lately",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/c2zu8vphv61i1.jpeg\" />",
+            "image": "https://preview.redd.it/c2zu8vphv61i1.jpeg?auto=webp&s=d17e3eb28f26b09db813b288fe29c6cde07806cf",
+            "date_published": "2026-11-12T14:08:22+00:00",
+            "authors": [
+                {
+                    "name": "sharpsicle",
+                    "url": "https://www.reddit.com/user/sharpsicle"
+                }
+            ]
+        },
+        {
             "id": "1xtec05",
             "url": "https://www.reddit.com/r/homeassistant/comments/1xtec05/ive_made_my_own_ha_remote_controller/",
             "external_url": "https://www.reddit.com/gallery/1xtec05",
@@ -1392,20 +1407,6 @@
                 {
                     "name": "luchoelzurdo",
                     "url": "https://www.reddit.com/user/luchoelzurdo"
-                }
-            ]
-        },
-        {
-            "id": "1ki0o6m",
-            "url": "/r/homeassistant/comments/1ki0o6m/nice_way_to_clean_up_the_dashboard_using_expander/",
-            "external_url": "https://i.redd.it/7olr04k3dmze1.png",
-            "title": "Nice way to clean up the dashboard using Expander Card",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/7olr04k3dmze1.png\" />",
-            "date_published": "2025-05-08T20:41:36+00:00",
-            "authors": [
-                {
-                    "name": "chimph",
-                    "url": "https://www.reddit.com/user/chimph"
                 }
             ]
         }
