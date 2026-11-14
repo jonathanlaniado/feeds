@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1xwbcos",
+            "url": "https://www.reddit.com/r/ArcBrowser/comments/1xwbcos/what_arc_could_have_been/",
+            "external_url": "https://v.redd.it/ic6nnnftom1i1",
+            "title": "What Arc could have been...",
+            "content_html": "<p>Hey everyone,</p>\n\n<p>I remember in <a href=\"https://youtu.be/WIeJF3kL5ng?t=320\">early 2024</a>, TBC talked about a kind of &quot;Browse for me&quot; feature for Arc desktop, and knowing that most devs leave beta features in their apps, I wanted to see if Arc had left some remnants of it in their desktop app, and I actually found some stuff I could reassemble into a working prototype dating back to July 2024 (V1.52.0).</p>\n\n<p>My process was basically unpacking the Arc .app bundle and using Ghidra (and Codex with Ghidra MCP) to find any pseudocode that could be connected to the feature. Eventually, I found some Browse for Me feature flags and related functions which I could connect to the Cmd+T bar, and use to show the loading animation, report page, etc. I&#39;m not well versed in low level programming, so I asked Codex to trace the feature flags and make patches to Arc which enabled the features, which you can see in the video!</p>\n\n<p>In Arc&#39;s original implementation, TBC used a fine-tuned version of GPT-3.5 and GPT-4o, which streamed json with titles, sections, bullet points, etc., which would be displayed via Arc&#39;s report renderer. The only things I manually changed were changing the model to use GPT-6 Luna and displaying images via Wikimedia Commons instead of Bing&#39;s images (which TBC decided to use for some reason??).</p>\n\n<p>The patches are quite unstable, so if you would like to experiment with them, DM me</p>",
+            "image": "https://external-preview.redd.it/dnB6MXV0ZnRvbTFpMaKdEPhFCS5mmjzuiRK6wfZims_vqfNFzUMq1Bcs-8SD.png?width=640&crop=smart&format=pjpg&auto=webp&s=34cac075f71195ac80a0434215abaf59fc02b3a4",
+            "date_published": "2026-11-14T19:42:12+00:00",
+            "authors": [
+                {
+                    "name": "No-Singer-2906",
+                    "url": "https://www.reddit.com/user/No-Singer-2906"
+                }
+            ]
+        },
+        {
             "id": "1xts13r",
             "url": "https://www.reddit.com/r/ArcBrowser/comments/1xts13r/mkbhd_using_ardia/",
             "external_url": "https://i.redd.it/tut985hoh11i1.jpeg",
@@ -1394,20 +1409,6 @@
                 {
                     "name": "DragonDev24",
                     "url": "https://www.reddit.com/user/DragonDev24"
-                }
-            ]
-        },
-        {
-            "id": "1id9uwz",
-            "url": "/r/ArcBrowser/comments/1id9uwz/now_theyre_just_removing_features/",
-            "external_url": "https://i.redd.it/h49qcw1h41ge1.jpeg",
-            "title": "Now they’re just removing features",
-            "content_html": "<p>Instead of adding new features the browser company is removing them. What’s the point of doing that? It’s not like either of these two features is bloat or making the app harder to ship updates for </p><div><br></div><img src=\"https://i.redd.it/h49qcw1h41ge1.jpeg\" />",
-            "date_published": "2025-01-30T00:54:31+00:00",
-            "authors": [
-                {
-                    "name": "dapperlemon",
-                    "url": "https://www.reddit.com/user/dapperlemon"
                 }
             ]
         }
