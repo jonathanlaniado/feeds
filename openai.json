@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1xxhubd",
+            "url": "https://www.reddit.com/r/OpenAI/comments/1xxhubd/what_you_all_guys_think/",
+            "external_url": "https://i.redd.it/xfhy462s0x1i1.jpeg",
+            "title": "What you all guys think?",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/xfhy462s0x1i1.jpeg\" />",
+            "image": "https://preview.redd.it/xfhy462s0x1i1.jpeg?width=640&crop=smart&auto=webp&s=34206d62c13de6687ecf7b3fd038f6be20c48e68",
+            "date_published": "2026-11-16T06:04:08+00:00",
+            "authors": [
+                {
+                    "name": "Open_Philosophy_1016",
+                    "url": "https://www.reddit.com/user/Open_Philosophy_1016"
+                }
+            ]
+        },
+        {
             "id": "1xwbtcb",
             "url": "https://www.reddit.com/r/OpenAI/comments/1xwbtcb/apparently_after_argon_carbon_and_hydrogen_google/",
             "external_url": "https://i.redd.it/0sbte7gdwm1i1.jpeg",
@@ -1395,20 +1410,6 @@
                 {
                     "name": "scragz",
                     "url": "https://www.reddit.com/user/scragz"
-                }
-            ]
-        },
-        {
-            "id": "1nodq6z",
-            "url": "/r/OpenAI/comments/1nodq6z/its_over/",
-            "external_url": "https://v.redd.it/p6lvyocs5wqf1",
-            "title": "It's over",
-            "content_html": "",
-            "date_published": "2025-09-23T10:28:03+00:00",
-            "authors": [
-                {
-                    "name": "MetaKnowing",
-                    "url": "https://www.reddit.com/user/MetaKnowing"
                 }
             ]
         }
