@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_2sjys/styles/communityIcon_esz3hieuzp471.png",
     "items": [
         {
+            "id": "1xy1n6x",
+            "url": "https://www.reddit.com/r/iOSBeta/comments/1xy1n6x/ios_273_db2_apple_is_testing_softer_scrolledge/",
+            "external_url": "https://i.redd.it/si3nlfgvh12i1.png",
+            "title": "[iOS 27.3 DB2] Apple is testing softer scroll-edge effects for navigation bars (feature-gated)",
+            "content_html": "<p>They heard the feedback: Apple is testing the return of softer scroll-edge effects in navigation bars when glass tint is set to 25% or lower.</p>\n\n<p>Currently disabled behind <code>UIKit/clear_glass_soft_pocket</code>. Applies to the default/auto style.</p>\n\n<p><a href=\"https://github.com/ipsw-diffs/ios-27/blob/8b8628247947261509a20035b71a9f3dcacef75c/diffs/27_3_24C5037i_vs_27_3_24C5049d/DYLIBS/System/Library/PrivateFrameworks/UIKitCore.framework/UIKitCore.md?plain=1#L793\">Added in Beta 2</a>. Backed by <a href=\"https://github.com/ipsw-diffs/ios-27/blob/8b8628247947261509a20035b71a9f3dcacef75c/diffs/27_3_24C5037i_vs_27_3_24C5049d/DYLIBS/System/Library/PrivateFrameworks/UIKitCore.framework/UIKitCore.md?plain=1#L440\"><code>UIPocketAllowSoftPocketOverThinFilm</code></a>.</p><div><br></div><img src=\"https://i.redd.it/si3nlfgvh12i1.png\" />",
+            "image": "https://preview.redd.it/si3nlfgvh12i1.png?width=640&crop=smart&auto=webp&s=42a869265c94eb6d4b70469939c6d596e9b75522",
+            "date_published": "2026-11-16T21:20:37+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1xxwjf3",
             "url": "https://www.reddit.com/r/iOSBeta/comments/1xxwjf3/ios_273_db2_discussion/",
             "external_url": "https://www.reddit.com/r/iOSBeta/comments/1xxwjf3/ios_273_db2_discussion/",
@@ -1391,20 +1406,6 @@
                 {
                     "name": "Long-Professional493",
                     "url": "https://www.reddit.com/user/Long-Professional493"
-                }
-            ]
-        },
-        {
-            "id": "1migp9j",
-            "url": "/r/iOSBeta/comments/1migp9j/ios_26_db5_dock_is_now_thicker_and_glassier/",
-            "external_url": "https://www.reddit.com/gallery/1migp9j",
-            "title": "[iOS 26 DB5] Dock is now thicker and glassier.",
-            "content_html": "<p>Left is DB4, Right is DB5. Don’t know how to feel about it.</p>",
-            "date_published": "2025-08-05T18:11:22+00:00",
-            "authors": [
-                {
-                    "name": "Androbots",
-                    "url": "https://www.reddit.com/user/Androbots"
                 }
             ]
         }
