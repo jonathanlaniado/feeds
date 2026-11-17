@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1xyq0af",
+            "url": "https://www.reddit.com/r/ArcBrowser/comments/1xyq0af/saddest_thing_ive_seen_today/",
+            "external_url": "https://i.redd.it/ffoz2lr5g72i1.jpeg",
+            "title": "Saddest thing ive seen today",
+            "content_html": "<p>I might be living under a rock but this is something very sad cuz arc has been my go to browser on my phone</p><div><br></div><img src=\"https://i.redd.it/ffoz2lr5g72i1.jpeg\" />",
+            "image": "https://preview.redd.it/ffoz2lr5g72i1.jpeg?width=640&crop=smart&auto=webp&s=e2e059a7cae871c5a2e00b9e2aec2d6eaff7db79",
+            "date_published": "2026-11-17T17:08:10+00:00",
+            "authors": [
+                {
+                    "name": "Beneficial-Use-7114",
+                    "url": "https://www.reddit.com/user/Beneficial-Use-7114"
+                }
+            ]
+        },
+        {
             "id": "1xwbcos",
             "url": "https://www.reddit.com/r/ArcBrowser/comments/1xwbcos/what_arc_could_have_been/",
             "external_url": "https://v.redd.it/ic6nnnftom1i1",
@@ -1395,20 +1410,6 @@
                 {
                     "name": "sardoa11",
                     "url": "https://www.reddit.com/user/sardoa11"
-                }
-            ]
-        },
-        {
-            "id": "1ieh8y4",
-            "url": "/r/ArcBrowser/comments/1ieh8y4/arc_is_dead_yall_gotta_deal_with_it/",
-            "external_url": "https://www.reddit.com/r/ArcBrowser/comments/1ieh8y4/arc_is_dead_yall_gotta_deal_with_it/",
-            "title": "Arc is dead yall gotta deal with it",
-            "content_html": "<p>I've been using arc for a couple of weeks and these are my findings: </p>\n<p>-&gt; Arc drains battery more than chrome intellij ghostty combined for me and I use chrome a lot for dev</p>\n<p>-&gt; Even resource usage is pretty high</p>\n<p>-&gt; There hasnt been much interaction with devs related to issues being resolved</p>\n<p>-&gt; Company now focusing on new product for more VC money as usual vc funded companies do</p>\n<p>-&gt; They'll slowly start putting features behind paywall from now on</p>",
-            "date_published": "2025-01-31T15:26:29+00:00",
-            "authors": [
-                {
-                    "name": "DragonDev24",
-                    "url": "https://www.reddit.com/user/DragonDev24"
                 }
             ]
         }
