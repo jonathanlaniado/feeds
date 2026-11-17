@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1xyrjha",
+            "url": "https://www.reddit.com/r/MacOSBeta/comments/1xyrjha/more_privacy_security_changes_beyond_fda_that/",
+            "external_url": "https://v.redd.it/hqhdqhi4q72i1",
+            "title": "More Privacy & Security changes beyond FDA that have gone under the radar",
+            "content_html": "<ol>\n<li>New in beta 2, <strong>no panel</strong> in Privacy &amp; Security allows dragging in an app. Overlays from apps like ChatGPT won’t work anymore. Users have to use the + button to add apps.</li>\n<li><a href=\"https://www.reddit.com/r/MacOSBeta/comments/1xqifx4\">As expected</a>, TCC stops recording automatic FDA denials, so apps can no longer add themselves toggled off on the list as an easy way for users to enable them.</li>\n</ol>\n\n<p>The TCC auto-denial policy affects:\n*  Full Disk Access\n*  Files &amp; Folders (Private Folders)\n*  System &amp; App Protection Override (old Accessibility)</p>\n\n<p>The no-app-dragging change affects all Privacy &amp; Security categories:\n*  Accessibility\n*  App Management\n*  Bluetooth\n*  Developer Tools\n*  Files &amp; Folders (Private Folders)\n*  Full Disk Access\n*  Input Monitoring\n*  Local Network\n*  Media &amp; Apple Music\n*  Screen &amp; System Audio Recording\n*  System &amp; App Protection Override (old Accessibility)</p>",
+            "image": "https://external-preview.redd.it/eXZqcXdraTRxNzJpMUVetAcjRApsjveIF-Kr7kKIzLQ3PLVPwoPy932hMnA_.png?width=640&crop=smart&format=pjpg&auto=webp&s=3fd1df932a4860cba81e49db40d2144f20f5f6f4",
+            "date_published": "2026-11-17T18:05:23+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1xyoxgt",
             "url": "https://www.reddit.com/r/MacOSBeta/comments/1xyoxgt/apple_is_bringing_jmap_push_support_to_apple_mail/",
             "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1xyoxgt/apple_is_bringing_jmap_push_support_to_apple_mail/",
@@ -1401,20 +1416,6 @@
                 {
                     "name": "Financial_Bread7684",
                     "url": "https://www.reddit.com/user/Financial_Bread7684"
-                }
-            ]
-        },
-        {
-            "id": "1un5uzs",
-            "url": "/r/MacOSBeta/comments/1un5uzs/pointer_hasnt_updated_for_me_on_the_golden_gate/",
-            "external_url": "https://i.redd.it/009tz6rez6bh1.jpeg",
-            "title": "Pointer hasn’t updated for me on the Golden Gate beta",
-            "content_html": "<p>MacBook Neo, macOS 27.0 Beta. The only reason I opted to update to the macOS 27 Beta was to get the change to the pointer, the Tahoe version I think we can all agree is pretty bad. But upon updating, nothing. Not sure if I’m doing something wrong. I tried a restart to see if that would have any effect but to no avail.</p><div><br></div><img src=\"https://i.redd.it/009tz6rez6bh1.jpeg\" />",
-            "date_published": "2026-07-04T10:42:38+00:00",
-            "authors": [
-                {
-                    "name": "harish_wormley",
-                    "url": "https://www.reddit.com/user/harish_wormley"
                 }
             ]
         }
