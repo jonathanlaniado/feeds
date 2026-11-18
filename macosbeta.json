@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1xzhlyg",
+            "url": "https://www.reddit.com/r/MacOSBeta/comments/1xzhlyg/apple_continues_work_on_golden_gates_new_airplay/",
+            "external_url": "https://v.redd.it/5wbkxun60e2i1",
+            "title": "Apple continues work on Golden Gate’s new AirPlay Receiver app",
+            "content_html": "<p>Apple continues work on Golden Gate’s <a href=\"https://www.reddit.com/r/MacOSBeta/comments/1xuk7ut\">new AirPlay Receiver</a>, which can show streams in a window.</p>\n\n<p>In macOS 27.3 beta 2, the app gets two Live Activities for pairing.</p>\n\n<p>For now, Control Center’s built-in receiver still handles incoming AirPlay connections.</p>",
+            "image": "https://external-preview.redd.it/cmtud2sybzYwZTJpMTAKJ_titGYFKMDs4ny840ANuMIFo9fNwOKAsKdFsHih.png?width=640&crop=smart&format=pjpg&auto=webp&s=10218f10c7b07fa7410c98193320c3ca783231a0",
+            "date_published": "2026-11-18T15:11:40+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1xyrjha",
             "url": "https://www.reddit.com/r/MacOSBeta/comments/1xyrjha/more_privacy_security_changes_beyond_fda_that/",
             "external_url": "https://v.redd.it/hqhdqhi4q72i1",
@@ -1402,20 +1417,6 @@
                 {
                     "name": "sina-o",
                     "url": "https://www.reddit.com/user/sina-o"
-                }
-            ]
-        },
-        {
-            "id": "1up45ze",
-            "url": "/r/MacOSBeta/comments/1up45ze/beta_3_is_out_now/",
-            "external_url": "https://www.reddit.com/r/MacOSBeta/comments/1up45ze/beta_3_is_out_now/",
-            "title": "Beta 3 is OUT NOW",
-            "content_html": "",
-            "date_published": "2026-07-06T17:31:31+00:00",
-            "authors": [
-                {
-                    "name": "Financial_Bread7684",
-                    "url": "https://www.reddit.com/user/Financial_Bread7684"
                 }
             ]
         }
