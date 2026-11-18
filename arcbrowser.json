@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_3kbwy/styles/communityIcon_59hsv4xufjgb1.png",
     "items": [
         {
+            "id": "1xzgn6p",
+            "url": "https://www.reddit.com/r/ArcBrowser/comments/1xzgn6p/i_built_a_free_open_source_chrome_extension_that/",
+            "external_url": "https://www.reddit.com/gallery/1xzgn6p",
+            "title": "I built a free, open source Chrome extension that brings Arc's sidebar to Chrome",
+            "content_html": "<p>Hi everyone,</p>\n\n<p>Like a lot of you, I&#39;ve been dreading the move off Arc. I tried a bunch of the new Arc-like browsers, and none of them really satisfied me. So I went back to Chrome and explored a few of the extensions that try to re-create Arc&#39;s vertical tabs. Some of them are really good, like Arcify, but the UX wasn&#39;t quite there for me yet.</p>\n\n<p>So I created my own Chrome extension called &quot;Volet&quot; (French word for shutter).</p>\n\n<p><a href=\"https://chromewebstore.google.com/detail/volet/jmdpahbekiokaiailpchobodmfkcjipg\">https://chromewebstore.google.com/detail/volet/jmdpahbekiokaiailpchobodmfkcjipg</a></p>\n\n<p>It lives in Chrome&#39;s side panel. The things I cared most about:</p>\n\n<ul>\n<li>It imports your Arc sidebar: Spaces, colors, pinned tabs, folders and favorites. It reads Arc&#39;s file locally, nothing gets uploaded.</li>\n<li>Pins work like in Arc: they keep their page, show you when you&#39;ve wandered off, and stay put when you close the tab.</li>\n<li>Two-finger swipe between Spaces, and the whole sidebar takes the Space&#39;s color.</li>\n<li>Temporary tabs archive themselves after 12 hours (you can change that), and search still finds them.</li>\n<li>Ctrl+M opens a command palette over the page, and holding Ctrl and tapping Q gives you a Cmd+Tab style switcher with previews.</li>\n</ul>\n\n<p>Everything is saved as normal Chrome bookmarks, so it syncs between your computers with Chrome Sync. No account, no server, no analytics.</p>\n\n<p>Heads up: Chrome shows a scary &quot;read and change all your data on all websites&quot; warning at install. That&#39;s for the tab switcher (it needs to notice when you let go of Ctrl, and it draws the previews over the page) and for showing the palette on the page. Previews stay in memory on your machine. The code is on GitHub if you want to check.</p>\n\n<p>What it can&#39;t do, because it&#39;s an extension: hide Chrome&#39;s tab strip (it collapses the other Spaces&#39; groups so it stays tidy), change the panel&#39;s width, or do Peek or Little Arc.</p>\n\n<p>It&#39;s free and open source. I&#39;m working on it alone, so I&#39;d really like to hear what&#39;s missing for you.</p>\n\n<p>Thank you!</p>\n\n<p>Chrome Web Store: <a href=\"https://chromewebstore.google.com/detail/volet/jmdpahbekiokaiailpchobodmfkcjipg\">https://chromewebstore.google.com/detail/volet/jmdpahbekiokaiailpchobodmfkcjipg</a></p>\n\n<p>GitHub: <a href=\"https://github.com/pierregoutheraud/volet\">https://github.com/pierregoutheraud/volet</a></p>",
+            "image": "https://preview.redd.it/yu2yhhkcqd2i1.png?width=640&crop=smart&auto=webp&s=c11c8ae0b4965acfbe321aec5dc071cfbd284be0",
+            "date_published": "2026-11-18T14:31:31+00:00",
+            "authors": [
+                {
+                    "name": "httpete",
+                    "url": "https://www.reddit.com/user/httpete"
+                }
+            ]
+        },
+        {
             "id": "1xyq0af",
             "url": "https://www.reddit.com/r/ArcBrowser/comments/1xyq0af/saddest_thing_ive_seen_today/",
             "external_url": "https://i.redd.it/ffoz2lr5g72i1.jpeg",
@@ -1396,20 +1411,6 @@
                 {
                     "name": "frizla",
                     "url": "https://www.reddit.com/user/frizla"
-                }
-            ]
-        },
-        {
-            "id": "1ihl0x0",
-            "url": "/r/ArcBrowser/comments/1ihl0x0/opera_just_launched_air_a_new_mindfulness_browser/",
-            "external_url": "https://i.redd.it/g7vmnc02b5he1.jpeg",
-            "title": "Opera just launched “Air”, a new mindfulness browser, and it’s pretty damn beautiful",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/g7vmnc02b5he1.jpeg\" />",
-            "date_published": "2025-02-04T16:02:41+00:00",
-            "authors": [
-                {
-                    "name": "sardoa11",
-                    "url": "https://www.reddit.com/user/sardoa11"
                 }
             ]
         }
