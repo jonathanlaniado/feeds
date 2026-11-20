@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_2s4si/styles/communityIcon_7zzxnoasohr61.jpg",
     "items": [
         {
+            "id": "1y19hxf",
+            "url": "https://www.reddit.com/r/shortcuts/comments/1y19hxf/open_source_apple_shortcuts_launcher_using_a/",
+            "external_url": "https://www.reddit.com/gallery/1y19hxf",
+            "title": "Open source apple shortcuts launcher using a cheap touch screen",
+            "content_html": "<p>I&#39;ve been working this open source streamdeck for apple shortcuts (and quite a bit more), it uses a £17/$25 S3 screen and the <a href=\"https://espdesktop.com\">EspDesktop</a> Mac client, giving you easy access to all your apple shortcuts. If that sparks any suggestions, feel free to reach out, I&#39;m happy to develop based on feedback. Thanks!</p>",
+            "image": "https://preview.redd.it/lkk55hc4zs2i1.jpeg?width=640&crop=smart&auto=webp&s=2cfb0f23e6de23598a1a0b1ba3654ccc56f86e66",
+            "date_published": "2026-11-20T17:32:22+00:00",
+            "authors": [
+                {
+                    "name": "hometechgeek",
+                    "url": "https://www.reddit.com/user/hometechgeek"
+                }
+            ]
+        },
+        {
             "id": "1xkugid",
             "url": "https://www.reddit.com/r/shortcuts/comments/1xkugid/i_hate_hate_hate_this_ai_summary_thing/",
             "external_url": "https://i.redd.it/gtxfwawhmxyh1.jpeg",
@@ -1390,20 +1405,6 @@
                 {
                     "name": "twilsonco",
                     "url": "https://www.reddit.com/user/twilsonco"
-                }
-            ]
-        },
-        {
-            "id": "1d5199o",
-            "url": "/r/shortcuts/comments/1d5199o/4_band_resistor_color_code_identifier/",
-            "external_url": "https://i.redd.it/cdszxon1ss3d1.jpeg",
-            "title": "4 Band Resistor Color Code Identifier",
-            "content_html": "<caption>Open: <a href='winstonapp:///r/shortcuts/comments/1d5199o/4_band_resistor_color_code_identifier/'>Winston</a> | <a href='https://reddit.com/r/shortcuts/comments/1d5199o/4_band_resistor_color_code_identifier/'>Reddit</a></caption><div><br></div><p>Just a shortcut I wanted to make for myself for the convenience of identifying a resistor faster! I know there’s an app for it / online calculators, but I figured I’d toy around with creating an identifier myself to help me learn what’s what. Feel free to tweak anything, this is just a simple 4 band version since it’s most common for me. I’ll probably try making different versions in the future. Thanks for looking!</p>\n<p>https://www.icloud.com/shortcuts/4b72c913d13a4055aa343d3c3f72a63c</p><div><br></div><img src=\"https://i.redd.it/cdszxon1ss3d1.jpeg\" />",
-            "date_published": "2024-05-31T17:32:10+00:00",
-            "authors": [
-                {
-                    "name": "gloomygumby",
-                    "url": "https://www.reddit.com/user/gloomygumby"
                 }
             ]
         }
