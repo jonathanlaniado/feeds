@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1y2veuk",
+            "url": "https://www.reddit.com/r/homeassistant/comments/1y2veuk/because_my_drawers_didnt_have_enough_zigbee/",
+            "external_url": "https://v.redd.it/d318l904c73i1",
+            "title": "Because my drawers didn't have enough Zigbee",
+            "content_html": "<p>A week or so ago I finished building a dressing area in the bedroom. I was very pleased with it, but there was one problem: there simply wasn&#39;t enough Zigbee, electronics, complication or lighting involved. It had been a very carpentry-style project, so that had to change.</p>\n\n<p>The result is the Drawer Illumination Subsystem, because turning on the main light is just too simple. Full write-up with the build, wiring and a playable demo of the effects: <a href=\"https://marcuslab.uk/projects/drawer-lights/\">https://marcuslab.uk/projects/drawer-lights/</a></p>\n\n<p>How it works:</p>\n\n<ul>\n<li>12 drawers, each with a wired door contact on the inside of the carcase</li>\n<li>An addressable RGBW COB strip routed into the underside of the top</li>\n<li>An ESP32-C6 running ESPHome as a Zigbee end device, on a custom PCB I designed</li>\n<li>A Zigbee2MQTT external converter so HA sees the state of all 12 drawers</li>\n</ul>\n\n<p>Open a drawer and only its column lights, sweeping out from the middle. It goes off a second after the last drawer in that column shuts.</p>\n\n<p>What else it unlocked once it was in Home Assistant:</p>\n\n<ul>\n<li>Dim red at night instead of white</li>\n<li>An amber nudge if a drawer is left open</li>\n<li>A 15-minute sunrise before my alarm, then birdsong from the bedroom Echo. Opening a drawer ends it</li>\n<li>A drawer alarm, for reasons</li>\n</ul>\n\n<p>The one thing that fought back: the C6 shares one radio between Wi-Fi and Zigbee, and Wi-Fi was hogging it so it would never join. Wi-Fi now stays off until it has joined.</p>",
+            "image": "https://external-preview.redd.it/NjI5dzZoMDRjNzNpMVil42UCdf2pKkXIT6Te1-8V0pQRQR_yw9p7QKepjOx6.png?width=640&crop=smart&format=pjpg&auto=webp&s=e125ffd5028d95267a2d3f890c25eff40bd60c2b",
+            "date_published": "2026-11-22T17:55:38+00:00",
+            "authors": [
+                {
+                    "name": "Ill-Watercress2519",
+                    "url": "https://www.reddit.com/user/Ill-Watercress2519"
+                }
+            ]
+        },
+        {
             "id": "1y2rnkx",
             "url": "https://www.reddit.com/r/homeassistant/comments/1y2rnkx/is_it_just_me/",
             "external_url": "https://i.redd.it/u41teg1tk63i1.jpeg",
@@ -1395,20 +1410,6 @@
                 {
                     "name": "Samywamy10",
                     "url": "https://www.reddit.com/user/Samywamy10"
-                }
-            ]
-        },
-        {
-            "id": "1kvtoqx",
-            "url": "/r/homeassistant/comments/1kvtoqx/home_assistant_community_day_in_darmstadt_germany/",
-            "external_url": "https://www.reddit.com/gallery/1kvtoqx",
-            "title": "Home Assistant Community Day in Darmstadt Germany",
-            "content_html": "<p>Hello everyone,<br />\nSeeing the other posts pop up I thought we from Darmstadt don't want to miss the party. <br />\nI have attached my pictures for you to enjoy.</p>\n<p>Big thanks to the Chaos Computer Club in Darmstadt for offering their area to host the Home Assistant Community Day 2025 their.</p>\n<p>Also the Pizza was really tasty 😉</p>",
-            "date_published": "2025-05-26T12:57:12+00:00",
-            "authors": [
-                {
-                    "name": "Smartzeug",
-                    "url": "https://www.reddit.com/user/Smartzeug"
                 }
             ]
         }
