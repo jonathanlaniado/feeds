@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_3bekp/styles/communityIcon_a1sc94rahuob1.png",
     "items": [
         {
+            "id": "1y4kf71",
+            "url": "https://www.reddit.com/r/homeassistant/comments/1y4kf71/tintin/",
+            "external_url": "https://i.redd.it/arjl8915ql3i1.jpeg",
+            "title": "Tintin",
+            "content_html": "<p>As a 42 year old I have never been happier!</p><div><br></div><img src=\"https://i.redd.it/arjl8915ql3i1.jpeg\" />",
+            "image": "https://preview.redd.it/arjl8915ql3i1.jpeg?width=640&crop=smart&auto=webp&s=1126247f41bf5e1cf3541d19004577ad8a68ed30",
+            "date_published": "2026-11-24T18:13:10+00:00",
+            "authors": [
+                {
+                    "name": "Unlikely_Citron_2839",
+                    "url": "https://www.reddit.com/user/Unlikely_Citron_2839"
+                }
+            ]
+        },
+        {
             "id": "1y2veuk",
             "url": "https://www.reddit.com/r/homeassistant/comments/1y2veuk/because_my_drawers_didnt_have_enough_zigbee/",
             "external_url": "https://v.redd.it/d318l904c73i1",
@@ -1396,20 +1411,6 @@
                 {
                     "name": "yozzzzzz",
                     "url": "https://www.reddit.com/user/yozzzzzz"
-                }
-            ]
-        },
-        {
-            "id": "1l1d5ko",
-            "url": "/r/homeassistant/comments/1l1d5ko/designed_a_couchfriendly_touch_screen_for_quick/",
-            "external_url": "https://i.redd.it/45vxbfsvah4f1.jpeg",
-            "title": "Designed a couch-friendly touch screen for quick control of nearby devices",
-            "content_html": "<p>Wanted easy access to air con, door lock and volume controls from either side of the couch. I found these cheap round touch screens from Ali Express and programmed them using ESPHome and LVGL to control Home Assistant.</p>\n<p>Super convenient to be able to control:\n    •   Air con\n    •   Both front door and apartment intercom unlock (if someone rings the doorbell I can let them in without moving 😅)\n    •   Volume (faster than 1 notch at a time Apple TV remote)\n    •   Lights (100%, 15%, 0%)</p>\n<p>Means you don’t need to figure out where your phone is and can quickly control this stuff. I’ve got a screen on either side of the couch.</p><div><br></div><img src=\"https://i.redd.it/45vxbfsvah4f1.jpeg\" />",
-            "date_published": "2025-06-02T08:58:10+00:00",
-            "authors": [
-                {
-                    "name": "Samywamy10",
-                    "url": "https://www.reddit.com/user/Samywamy10"
                 }
             ]
         }
