@@ -8,6 +8,21 @@
     "favicon": "https://b.thumbs.redditmedia.com/k7fHE51fuhbYJRT2e9s1rXIp2ZtA7ks-cNFvQuNbfcE.png",
     "items": [
         {
+            "id": "1y4xm0x",
+            "url": "https://www.reddit.com/r/InternetIsBeautiful/comments/1y4xm0x/made_a_site_where_u_can_listen_to_every_gta_radio/",
+            "external_url": "https://gtamusic.fun",
+            "title": "Made a site where u can listen to every GTA radio station from every GTA game",
+            "content_html": "",
+            "image": "https://external-preview.redd.it/ZdDtP3xubXhg_ugwweuAgXgQFoLK9SXnAbeZ5wItsos.png?width=640&crop=smart&auto=webp&s=90762e60aa403b537e633d89db2ab28106620364",
+            "date_published": "2026-11-25T03:56:36+00:00",
+            "authors": [
+                {
+                    "name": "Helpful_Ad_1540",
+                    "url": "https://www.reddit.com/user/Helpful_Ad_1540"
+                }
+            ]
+        },
+        {
             "id": "1wx5hlp",
             "url": "/r/InternetIsBeautiful/comments/1wx5hlp/a_live_zoo_of_the_bots_and_crawlers_visiting_one/",
             "external_url": "https://crawlerzoo.com",
@@ -25,8 +40,8 @@
             "id": "1ucgp5v",
             "url": "/r/InternetIsBeautiful/comments/1ucgp5v/i_built_a_website_that_turns_elon_musks_wealth/",
             "external_url": "https://whatselonworth.com/",
-            "title": "I built a website that turns Elon Musk\u2019s wealth into ridiculous real-world comparisons",
-            "content_html": "<p>I kept seeing headlines about Elon being worth over a trillion $ and realised I had absolutely no gauge for numbers that large.</p>\n<p>So I built a website that converts his wealth into things humans can actually understand.</p>\n<p>Examples:</p>\n<ul>\n<li>A $5 coffee for you \u2248 a $590 million coffee for Elon</li>\n<li>Earning $1 million every day since Jesus was born still wouldn\u2019t catch him</li>\n<li>Live net worth tracking</li>\n</ul>\n<p>Curious what people think.</p>",
+            "title": "I built a website that turns Elon Musk’s wealth into ridiculous real-world comparisons",
+            "content_html": "<p>I kept seeing headlines about Elon being worth over a trillion $ and realised I had absolutely no gauge for numbers that large.</p>\n<p>So I built a website that converts his wealth into things humans can actually understand.</p>\n<p>Examples:</p>\n<ul>\n<li>A $5 coffee for you ≈ a $590 million coffee for Elon</li>\n<li>Earning $1 million every day since Jesus was born still wouldn’t catch him</li>\n<li>Live net worth tracking</li>\n</ul>\n<p>Curious what people think.</p>",
             "date_published": "2026-06-22T10:19:03+00:00",
             "authors": [
                 {
@@ -39,8 +54,8 @@
             "id": "1rdauv9",
             "url": "/r/InternetIsBeautiful/comments/1rdauv9/search_all_14_million_epstein_files_instantly_as/",
             "external_url": "https://epstein.lasearch.app",
-            "title": "Search all 1.4 million Epstein files instantly as you type \u2014 results in real time, no account needed",
-            "content_html": "<p>You can now search the full Epstein document dump \u2014 1.4 million files \u2014 with instant as-you-type results. No sign up, no tracking, completely free.</p>\n<p>It uses semantic + fuzzy matching so it finds relevant results even if you don't use exact words. Try searching names, places, dates, organizations.</p>\n<p>https://epstein.lasearch.app</p>",
+            "title": "Search all 1.4 million Epstein files instantly as you type — results in real time, no account needed",
+            "content_html": "<p>You can now search the full Epstein document dump — 1.4 million files — with instant as-you-type results. No sign up, no tracking, completely free.</p>\n<p>It uses semantic + fuzzy matching so it finds relevant results even if you don't use exact words. Try searching names, places, dates, organizations.</p>\n<p>https://epstein.lasearch.app</p>",
             "date_published": "2026-02-24T08:34:32+00:00",
             "authors": [
                 {
@@ -110,7 +125,7 @@
             "url": "/r/InternetIsBeautiful/comments/1p0tcj7/i_built_a_downdetector_for_downdetector_after/",
             "external_url": "https://downdetectorsdowndetector.com",
             "title": "I built a DownDetector for DownDetector after DownDetector went down",
-            "content_html": "<p>After DownDetector went down with the CloudFlare outage today I decided to build a robust, independent tool which can act as a\u00a0<a href=\"https://downdetectorsdowndetector.com\">DownDetector for DownDetector</a></p>",
+            "content_html": "<p>After DownDetector went down with the CloudFlare outage today I decided to build a robust, independent tool which can act as a <a href=\"https://downdetectorsdowndetector.com\">DownDetector for DownDetector</a></p>",
             "date_published": "2025-11-19T00:46:32+00:00",
             "authors": [
                 {
@@ -151,7 +166,7 @@
             "id": "1iowz39",
             "url": "/r/InternetIsBeautiful/comments/1iowz39/this_website_lets_you_spend_elon_musks_fortune_on/",
             "external_url": "https://www.spend-elon-fortune.com/",
-            "title": "This website lets you spend Elon Musk\u2019s fortune on anything from airpods to the Mona Lisa and NFL teams. Can you spend 354 billion?",
+            "title": "This website lets you spend Elon Musk’s fortune on anything from airpods to the Mona Lisa and NFL teams. Can you spend 354 billion?",
             "content_html": "",
             "date_published": "2025-02-13T23:37:44+00:00",
             "authors": [
@@ -543,7 +558,7 @@
             "id": "10yrjwg",
             "url": "/r/InternetIsBeautiful/comments/10yrjwg/i_made_a_site_that_tracks_the_price_of_a_big_mac/",
             "external_url": "https://mccheapest.com",
-            "title": "I made a site that tracks the price of a Big Mac in every US McDonald\u2019s. Prices vary by up to 77%",
+            "title": "I made a site that tracks the price of a Big Mac in every US McDonald’s. Prices vary by up to 77%",
             "content_html": "<caption>Open: <a href='https://mccheapest.com'>mccheapest.com</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/10yrjwg/i_made_a_site_that_tracks_the_price_of_a_big_mac/'>Reddit</a></caption>",
             "date_published": "2023-02-10T13:07:36+00:00",
             "authors": [
@@ -767,7 +782,7 @@
             "id": "zwchyn",
             "url": "/r/InternetIsBeautiful/comments/zwchyn/ai_builds_sql_queries_for_you_in_seconds/",
             "external_url": "https://aihelperbot.com/",
-            "title": "AI builds SQL queries for you in seconds\u26a1",
+            "title": "AI builds SQL queries for you in seconds⚡",
             "content_html": "<caption>Open: <a href='https://aihelperbot.com/'>aihelperbot.com</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/zwchyn/ai_builds_sql_queries_for_you_in_seconds/'>Reddit</a></caption>",
             "date_published": "2022-12-27T10:21:11+00:00",
             "authors": [
@@ -1089,7 +1104,7 @@
             "id": "yynk7o",
             "url": "/r/InternetIsBeautiful/comments/yynk7o/i_built_a_spotify_addon_that_creates_a_discover/",
             "external_url": "http://madsounds.io",
-            "title": "I built a Spotify add-on that creates a \u2018Discover Daily\u2019 playlist",
+            "title": "I built a Spotify add-on that creates a ‘Discover Daily’ playlist",
             "content_html": "<caption>Open: <a href='http://madsounds.io'>madsounds.io</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/yynk7o/i_built_a_spotify_addon_that_creates_a_discover/'>Reddit</a></caption>",
             "date_published": "2022-11-18T16:02:34+00:00",
             "authors": [
@@ -1201,7 +1216,7 @@
             "id": "yn3y04",
             "url": "/r/InternetIsBeautiful/comments/yn3y04/if_youre_old_enough_to_remember_prince_of_persia/",
             "external_url": "http://Princejs.com",
-            "title": "If you\u2019re old enough to remember: Prince of Persia from 1989",
+            "title": "If you’re old enough to remember: Prince of Persia from 1989",
             "content_html": "<caption>Open: <a href='http://Princejs.com'>Princejs.com</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/yn3y04/if_youre_old_enough_to_remember_prince_of_persia/'>Reddit</a></caption>",
             "date_published": "2022-11-05T19:38:35+00:00",
             "authors": [
@@ -1257,7 +1272,7 @@
             "id": "yignt6",
             "url": "/r/InternetIsBeautiful/comments/yignt6/southwest_airlines_is_the_2nd_largest_us_airline/",
             "external_url": "https://www.travelarrow.io",
-            "title": "Southwest Airlines is the 2nd largest US airline but doesn\u2019t display fares on Google Flights. I made TravelArrow to automatically convert your Google Flight searches onto Southwest to compare deals.",
+            "title": "Southwest Airlines is the 2nd largest US airline but doesn’t display fares on Google Flights. I made TravelArrow to automatically convert your Google Flight searches onto Southwest to compare deals.",
             "content_html": "<caption>Open: <a href='https://www.travelarrow.io'>www.travelarrow.io</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/yignt6/southwest_airlines_is_the_2nd_largest_us_airline/'>Reddit</a></caption>",
             "date_published": "2022-10-31T16:22:02+00:00",
             "authors": [
@@ -1299,7 +1314,7 @@
             "id": "ygl2ll",
             "url": "/r/InternetIsBeautiful/comments/ygl2ll/nostalgic_website_in_90s_geocities_style_for/",
             "external_url": "https://rgthree.com/halloween/movies/",
-            "title": "Nostalgic website in 90s \u201cGeocities\u201d style for tracking Halloween movies \ud83d\udcfc\ud83c\udf83",
+            "title": "Nostalgic website in 90s “Geocities” style for tracking Halloween movies 📼🎃",
             "content_html": "<caption>Open: <a href='https://rgthree.com/halloween/movies/'>rgthree.com</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/ygl2ll/nostalgic_website_in_90s_geocities_style_for/'>Reddit</a></caption>",
             "date_published": "2022-10-29T14:28:10+00:00",
             "authors": [
@@ -1390,20 +1405,6 @@
                 {
                     "name": "Chekhovs-gum",
                     "url": "https://www.reddit.com/user/Chekhovs-gum"
-                }
-            ]
-        },
-        {
-            "id": "y2olxq",
-            "url": "/r/InternetIsBeautiful/comments/y2olxq/lets_you_listen_to_cat_purrs_whenever_youre/",
-            "external_url": "https://purrli.com/play.php",
-            "title": "Lets you listen to cat purrs Whenever You\u2019re Stressed\u2013and can calm your cat too",
-            "content_html": "<caption>Open in: <a href='https://purrli.com/play.php'>purrli.com</a> | <a href='https://reddit.com/r/InternetIsBeautiful/comments/y2olxq/lets_you_listen_to_cat_purrs_whenever_youre/'>Reddit</a> | <a href='apollo://reddit.com/r/InternetIsBeautiful/comments/y2olxq/lets_you_listen_to_cat_purrs_whenever_youre/'>Apollo</a></caption>",
-            "date_published": "2022-10-13T03:52:31+00:00",
-            "authors": [
-                {
-                    "name": "coinagepills",
-                    "url": "https://www.reddit.com/user/coinagepills"
                 }
             ]
         }
