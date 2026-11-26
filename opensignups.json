@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_34ntk/styles/communityIcon_kcuhvl4zdufc1.png",
     "items": [
         {
+            "id": "1y6cqm4",
+            "url": "https://www.reddit.com/r/OpenSignups/comments/1y6cqm4/seedcorenet_is_opening_registrations_until/",
+            "external_url": "https://www.reddit.com/r/OpenSignups/comments/1y6cqm4/seedcorenet_is_opening_registrations_until/",
+            "title": "SeedCore.net is opening registrations until November 30, 2026 (UTC)",
+            "content_html": "<p>Hey everyone,</p>\n\n<p>We&#39;re opening registrations for a limited time on <a href=\"http://SeedCore.net\">SeedCore.net</a> (SC), a private tracker. Spots are available until <strong>November 30, 2026, 23:59 UTC</strong>.</p>\n\n<p>If you already have or have had an account, do not create a new one regardless of the reason. Duplicate accounts will result in a ban on all associated accounts.</p>\n\n<p><strong>What we have:</strong></p>\n\n<p><strong>45,422 torrents (319.47 TiB) spanning Movies, TV, Music, Games, and more</strong></p>\n\n<p><strong>Over 154,000 active seeders and a 1.88 PiB seed pool</strong></p>\n\n<p><strong>15,928 active members out of 17,342 registered</strong></p>\n\n<p><strong>Cross-seeding</strong> is fully supported and encouraged. It benefits everyone: you grow your ratio and stats across all the indexers you use, while simultaneously contributing to the community by seeding content you already have on disk in more places. We have wikis covering cross-seed setup, qBittorrent configuration, and more</p>\n\n<p><strong>Seeding rules (please read before joining):</strong></p>\n\n<p><strong>Hit and Run is strictly forbidden</strong>. Seeding is mandatory and counted from the moment your download finishes:</p>\n\n<p><strong>30 minutes</strong> of seeding immediately after download completes. Do not close your client before that. Violation disables your download ability.</p>\n\n<p><strong>12 hours of seeding</strong> within the first 3 days. Violation disables your download ability.</p>\n\n<p><strong>72 hours of total seed time within 21 days</strong>. Violation disables your download ability and may result in a ban (applied manually by staff). If your real ratio is 0.9 or higher, you receive a warning first with 3 days to fix it.</p>\n\n<p><strong>A few important notes on seeding:</strong></p>\n\n<p>Once all your torrents meet the requirements, download access is restored automatically within the hour, no ticket needed.</p>\n\n<p>A torrent where you reached a 1:1 ratio (real upload or buffer) is exempt from seed time, regardless of size.</p>\n\n<p>Torrents where you downloaded less than 90% of the size are not counted toward Hit and Run checks.</p>\n\n<p><strong>Freeleech does not remove seed time requirements.</strong></p>\n\n<p>An open/connectable port is recommended for better stats but does not affect seed time tracking.</p>\n\n<p><strong>Automatic Freeleech:</strong></p>\n\n<p>Large files get freeleech automatically, no action needed on your end. The bigger the file, the more freeleech you get. Movies over 10 GB and TV packs over 10 GB are fully freeleech. Music over 10 GB is fully freeleech. Games use a progressive system from 10% (10 GB+) up to 100% at 100 GB+. All featured torrents carry 100% freeleech and double upload. All internal uploads tagged -SC (since November 7, 2026) have double upload.</p>\n\n<p><strong>Happy Hour:</strong></p>\n\n<p>Once a day at a randomly selected time, Happy Hour activates with a banner on the main page. One option is randomly selected: 100% FL, 75% FL, 50% FL, Double Upload, or 100% FL + Double Upload. Perks have a 72-hour window to use. Only one option is active per session, not all simultaneously.</p>\n\n<p><strong>Freeleech on registration:</strong></p>\n\n<p>Every new member gets 24 hours of personal freeleech to build a good ratio from the start.</p>\n\n<p>This benefit does not encourage multiple account creation. Rules are strict and violations result in a permanent ban.</p>",
+            "image": "https://external-preview.redd.it/QsnT-z0YvBxZE7Q7Y7ghBVlsC5OWrSLadJTnb340tl8.png?width=640&crop=smart&auto=webp&s=a06b157015cb93254dca22d057e3179f4f01cdfd",
+            "date_published": "2026-11-26T21:51:56+00:00",
+            "authors": [
+                {
+                    "name": "Raulmh",
+                    "url": "https://www.reddit.com/user/Raulmh"
+                }
+            ]
+        },
+        {
             "id": "1xw7zmb",
             "url": "https://www.reddit.com/r/OpenSignups/comments/1xw7zmb/polishtorrenttop_ptt_open_registration/",
             "external_url": "https://www.reddit.com/r/OpenSignups/comments/1xw7zmb/polishtorrenttop_ptt_open_registration/",
@@ -1393,20 +1408,6 @@
                 {
                     "name": "byzon",
                     "url": "https://www.reddit.com/user/byzon"
-                }
-            ]
-        },
-        {
-            "id": "1pukkq4",
-            "url": "/r/OpenSignups/comments/1pukkq4/itatorrents_open_for_signups/",
-            "external_url": "https://www.reddit.com/r/OpenSignups/comments/1pukkq4/itatorrents_open_for_signups/",
-            "title": "ItaTorrents Open For Signups",
-            "content_html": "<p>https://itatorrents.xyz/register</p>\n<p>ITALIAN tracker</p>\n<p><strong>Torrents</strong></p>\n<p><strong>Category</strong></p>\n<pre><code>Film        20723\nSerie TV        9967\nMusica        223\nGiochi        34\nApplicazioni        39\nEdicola        434\nE-Book        293\nAudio Libri        24\nCorsi        13\nFumetti        4\nConcerti        8\nDiscografie        0\n</code></pre>\n<p><strong>Resolution</strong></p>\n<pre><code>4320p        1\n2160p        4977\n1080p        21720\n1080i        65\n720p        2871\n576p        275\n576i        9\n480p        207\n480i        1\nAltro        587\nOther        0\n</code></pre>\n<p>Total Torrents    31762\nTotal Torrents Size    293.48 TiB</p>\n<p><strong>Users</strong></p>\n<p>All    13474\nDisabled    8318\nPruned    3\nBanned    334\nActive</p>\n<pre><code>Today        568\nThis week        1354\nThis month        2434\nAll        3697\n</code></pre>",
-            "date_published": "2025-12-24T10:43:45+00:00",
-            "authors": [
-                {
-                    "name": "iuse2bgood",
-                    "url": "https://www.reddit.com/user/iuse2bgood"
                 }
             ]
         }
