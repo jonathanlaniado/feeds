@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_3b9u5/styles/communityIcon_d49a7viby3db1.png",
     "items": [
         {
+            "id": "1y7r43k",
+            "url": "https://www.reddit.com/r/OpenAI/comments/1y7r43k/utterly_preposterous/",
+            "external_url": "https://i.redd.it/90a8r12yyd4i1.png",
+            "title": "Utterly preposterous",
+            "content_html": "<div><br></div><img src=\"https://i.redd.it/90a8r12yyd4i1.png\" />",
+            "image": "https://preview.redd.it/90a8r12yyd4i1.png?width=640&crop=smart&auto=webp&s=365ed20374920c885f96d15a79fd43718da52425",
+            "date_published": "2026-11-28T17:12:32+00:00",
+            "authors": [
+                {
+                    "name": "Puzzleheaded-King584",
+                    "url": "https://www.reddit.com/user/Puzzleheaded-King584"
+                }
+            ]
+        },
+        {
             "id": "1y6nx7m",
             "url": "https://www.reddit.com/r/OpenAI/comments/1y6nx7m/computer_do_hack/",
             "external_url": "https://i.redd.it/5xlx1owi544i1.png",
@@ -1398,20 +1413,6 @@
                 {
                     "name": "MetaKnowing",
                     "url": "https://www.reddit.com/user/MetaKnowing"
-                }
-            ]
-        },
-        {
-            "id": "1nsln5t",
-            "url": "/r/OpenAI/comments/1nsln5t/rchatgpt_needs_to_grow_up/",
-            "external_url": "https://i.redd.it/iea5meh32wrf1.jpeg",
-            "title": "r/chatgpt needs to grow up",
-            "content_html": "<div><br></div><img src=\"https://i.redd.it/iea5meh32wrf1.jpeg\" />",
-            "date_published": "2025-09-28T11:10:44+00:00",
-            "authors": [
-                {
-                    "name": "Anonymous_Phrog",
-                    "url": "https://www.reddit.com/user/Anonymous_Phrog"
                 }
             ]
         }
