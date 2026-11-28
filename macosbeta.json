@@ -8,6 +8,21 @@
     "favicon": "https://styles.redditmedia.com/t5_3954r/styles/communityIcon_32i3fcalolc61.png",
     "items": [
         {
+            "id": "1y7qayi",
+            "url": "https://www.reddit.com/r/MacOSBeta/comments/1y7qayi/siri_ai_and_apple_intelligence_limits_in_macos/",
+            "external_url": "https://www.reddit.com/gallery/1y7qayi",
+            "title": "Siri AI and Apple Intelligence limits in macOS 27.3 beta 2",
+            "content_html": "<p>On the free or 50GB iCloud plans, Siri AI’s limit drops 94% in 27.3, from 320 to 20 requests a day. If you have 3 Apple devices and an iCloud+ 2TB plan, you got 960 daily Siri AI requests across devices on 27.2. Now you get 140.</p>\n\n<p>Obviously the limits are so complex that require a bunch of qualifications and explainers.</p>",
+            "image": "https://preview.redd.it/0dv2j2zdrd4i1.png?width=640&crop=smart&auto=webp&s=04899d7541a6e269cd3e53bd70ebd5c5fdc5cbac",
+            "date_published": "2026-11-28T16:38:30+00:00",
+            "authors": [
+                {
+                    "name": "pdfu",
+                    "url": "https://www.reddit.com/user/pdfu"
+                }
+            ]
+        },
+        {
             "id": "1y119mf",
             "url": "https://www.reddit.com/r/MacOSBeta/comments/1y119mf/273_pb2_new_irritation_a_permanent_alert_that/",
             "external_url": "https://i.redd.it/25m0gb9t7r2i1.png",
@@ -1404,20 +1419,6 @@
                 {
                     "name": "Final_Initial",
                     "url": "https://www.reddit.com/user/Final_Initial"
-                }
-            ]
-        },
-        {
-            "id": "1up6gro",
-            "url": "/r/MacOSBeta/comments/1up6gro/traffic_light_controls_show_black_border_when/",
-            "external_url": "https://www.reddit.com/gallery/1up6gro",
-            "title": "Traffic light controls show black border when window is inactive in Dark Mode",
-            "content_html": "<p>When a window becomes inactive after switching focus away, the red/yellow/green buttons seem to get a dark outline around them. It makes them look a bit smaller than usual and slightly weird in the inactive state.</p>\n<p>Not sure if this is intentional, but it looks a little off to me.</p>",
-            "date_published": "2026-07-06T18:49:52+00:00",
-            "authors": [
-                {
-                    "name": "Icy_Can611",
-                    "url": "https://www.reddit.com/user/Icy_Can611"
                 }
             ]
         }
